@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der 11. März 1977</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band35_1977-03-11</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1977-03-11">Freitag, 11. März 1977</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-04-15">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="35-0302" facs="35_1977-03-11_0302.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Freitag, 11. März 1977<lb/>
+</p>
+            <p xml:space="preserve">Die Internationalen Ölgesellschaften sind mit der ÖMV im Streit,<lb/>
+weil diese für die 18 Tage Verarbeitung der Rohölmengen in ihrer<lb/>
+Raffinerie auch die Gebühren für Vorratshaltung – 500.- S pro t –<lb/>
+verlangt. Die Internationalen hatten gehofft, ein Kompromissgespräch<lb/>
+bei mir führen zu können. Gen.Dir <name type="person" ref="per:97337">Bauer</name> hat aber ganz entschieden<lb/>
+abgelehnt und meint, dies sei eine reine Vertragsfrage zwischen<lb/>
+den Firmen. Begründet hat er dies noch damit, dass er darauf hin<lb break="no"/>wies, die Internationalen hätten ja immer gesagt, die ÖMV sei vom<lb/>
+Handelsministerium, resp. Bundeskanzler abhängig und jetzt wenden sie<lb/>
+sich auch in dieser Frage an das Handelsministerium anstelle mit<lb/>
+der ÖMV direkt die Verhandlungen zu führen. Da ich keinerlei<lb/>
+Chance einer Kompromisslösung sah, hatte ich einen solchen Versuch<lb/>
+erst gar nicht unternommen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name>: Bitte lass Dir dann berichten, was herauskommt.<lb/>
+</p>
+            <p xml:space="preserve">Der Dienststellenausschuss – <name type="person" ref="per:112989">Herold</name> und <name type="person" ref="per:112948">Degischer</name> – wollten von mir<lb/>
+den genauen Vorgang wegen der Ausschreibung der Gruppe V A<add>[hs. korrigiert, Anm.]</add> und<lb/>
+insbesondere den Akt selbst sehen. Zuerst versuchte <name type="person" ref="per:97819">Plesch</name> sie in<lb/>
+die Enge zu treiben, indem er meinte, Akte von Einzelpersonen<lb/>
+könnte nur auf Antrag desselben von der Personalvertretung behandelt<lb/>
+und eingesehen werden. Hier irrt er aber sicherlich, denn dieser<lb/>
+Fall war keine Angelegenheit einer Einzelperson sondern zweifelsohne<lb/>
+ein Fehler in der Abwicklung der letzten Endes einige Beamte und das<lb/>
+Büro betraf. Ich erklärte dem Dienststellenausschuss ganz genau<lb/>
+die Abwicklung, wie ich sie mit <name type="person" ref="per:97915">Schipper</name>, <name type="person" ref="per:114994">Böhm</name>, <name type="person" ref="per:97819">Plesch</name> gesprochen<lb/>
+habe. Die Verantwortung liegt beim Minister, habe ich damals erklärt<lb/>
+und sage das auch gegenüber dem Dienststellenausschuss, Schuldige<lb/>
+habe ich nicht gesucht, denn der am meisten davon Betroffene,<lb/>
+Sekt.Chef <name type="person" ref="per:97915">Schipper</name>, hat grosszügig auf jedwede Untersuchung verzichtet.<lb/>
+Der Hinweis von <name type="person" ref="per:112989">Herold</name> und <name type="person" ref="per:112948">Degischer</name>, sie müssten aber die Beamten<lb/>
+schützen, die jetzt womöglich dann zur Verantwortung gezogen werden,<lb/>
+habe ich festgehalten, dass dies meinerseits sicherlich nicht der<lb/>
+Fall sein wird. Sollte irgendwo auch z.B. im Parlament diese Frage<lb/>
+zur Diskussion gestellt werden, so werde ich mich, so wie auch bei<lb/>
+dem Angriff von <name type="person" ref="per:97472">Glaser</name> in der Dringlichen Anfrage, vor die Beamten<lb/>
+stellen. dies würde ich diesmal auch ganz besonders deshalb machen,<lb/>
+weil MR <name type="person" ref="per:114994">Böhm</name>, der für die Personalfrage und daher Ausschreibung zu<lb break="no"/>ständig sei, obwohl er bis Freitag, wo die Ausschreibung erfolgen<lb/>
+<pb n="35-0303" facs="35_1977-03-11_0303.jpg"/>musste, mit der Angelegenheit unerklärlicherweise überhaupt nicht<lb/>
+befasst war, von sich aus auf den Terminablauf aufmerksam machte.<lb/>
+Hätte er nicht als verantwortungsbewusster Beamter diese Fallfrist<lb/>
+erwähnt, dann wäre die Ausschreibung nicht zeitgerecht zustande geko<lb break="no"/>mmen. Dafür gebührt ihm Dank und Anerkennung und nicht vielleicht eine<lb/>
+Disziplinaruntersuchung. Die Personalvertretung wollte von mir<lb/>
+nichts anders als dass es nicht wieder passiert und eine ordnungs<lb break="no"/>gemässe Geschäftsführung gewährleistet ist. Die sachliche Ausarbeitung<lb/>
+nicht zuständiger Abteilung, in dem Fall glaube ich meinten sie<lb/>
+<name type="person" ref="per:111699">Puffler</name> und <name type="person" ref="per:97819">Plesch</name>, sollte in Hinkunft unterbleiben. Ich teilte ihnen<lb/>
+mit, dass ich bereits mit <name type="person" ref="per:97915">Schipper</name>, <name type="person" ref="per:114994">Böhm</name> und <name type="person" ref="per:97819">Plesch</name> besprochen habe,<lb/>
+dass in Hinkunft die Personalfragen nicht erst im letzten Moment<lb/>
+erledigt werden dürfen. Mitursache, dass bei dieser Ausschreibung es<lb/>
+so spät zu einer endgültigen Textierung kam, war, dass der Vorschlag<lb/>
+von <name type="person" ref="per:97819">Plesch</name><add>[hs. korrigiert, Anm.]</add> mit der Personalvertretung einige Male besprochen<lb/>
+wurde. Ich hoffe, dass damit die ganze Angelegenheit beigelegt ist.<lb/>
+Sicher bin ich mir allerdings nicht, denn ich kann mir sehr gut vor<lb break="no"/>stellen, dass man einmal wegen der büromässigen Unzulänglichkeit<lb/>
+wenn das Ausschreibungsergebnis nicht einer gewissen Gruppe passt,<lb/>
+wegen dieses Formalfehlers die ganze Angelegenheit gegebenenfalls<lb/>
+sogar ins Parlament bringt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97819">PLESCH</name>: Bitte mach über die Aussprache mit <name type="person" ref="per:112989">Herold</name><lb/>
+und <name type="person" ref="per:112948">Degischer</name> ein Protokoll.<lb/>
+</p>
+            <p xml:space="preserve">Dr. <name type="person" ref="per:130517">Schachter</name> sprach neuerdings wegen des Konzessionsansuchens<lb/>
+von <name type="person" ref="per:145960">Schimanko</name> – Eden-Bar - und Moulin Rouge, vor. Die Gemeinde<lb/>
+Mag.Dir. <name type="person" ref="per:123307">Bandion</name> und in dessen Büro der zuständige Referent <name type="person" ref="per:146264">Ponzer</name><lb/>
+sind nicht bereit, das abgelehnte Konzessionsansuchen, das bis jetzt<lb/>
+zur Berufung bei uns liegt, auf eine zeitliche Konzession abzuändern.<lb/>
+Das einzige, was jetzt der Magistrat macht, ist ihn nicht neuerlich<lb/>
+ständig wegen unbefugter Gewerbeausübung zu bestrafen. Die Anzeigen<lb/>
+werden allerdings erstattet. <name type="person" ref="per:97584">Jagoda</name> hat nach reiflicher Überlegung<lb/>
+nicht zugesagt, der Berufung stattzugeben. Dazu müsse noch die<lb/>
+verschiedensten Berichte vom Magistrat kommen. Wenn überhaupt, würde<lb/>
+<name type="person" ref="per:97584">Jagoda</name> nur eine zeitlich befristete Konzession von 1 Jahr geben.<lb/>
+<name type="person" ref="per:97584">Jagoda</name> hat vollkommen recht, wenn er zwar auf der einen Seite aner<lb break="no"/>kennt, dass Moulin Rouge und Eden-Bar für den österreichischen<lb/>
+Fremdenverkehr von Bedeutung sind, auf der anderen Seite aber deswegen<lb/>
+nicht mit zweierlei Maßstäben gerechnet werden kann. Immer wieder<lb/>
+beeindruckt mich auf der einen Seite seine gerade Denkungsart<lb/>
+und korrekte Geschäfts- und Sektionsleitung, auf der anderen Seite<lb/>
+<pb n="35-0304" facs="35_1977-03-11_0304.jpg"/>aber unter Wahrung dieses Prinzips doch mögliche Lösungen zu<lb/>
+finden.<lb/>
+</p>
+            <p xml:space="preserve">Der Zentralbetriebsratsobmann <name type="person" ref="per:146265">Wertheim</name> von Austro-Fiat hat eine<lb/>
+Aussprache gewollt, ohne dass ich zuerst wusste, worum es sich<lb/>
+handelt. Seine Einleitung war sehr interessant, er meint, Minister<lb/>
+kommen oft zu Aussprachen und Besuchen und haben keine Ahnung,<lb/>
+worum es geht. Deshalb hat er sich vorgenommen, mich zu in<lb break="no"/>formieren. Mit seinem Sprecher des Vorstandes Dr. <name type="person" ref="per:113108">Daimer</name> habe<lb/>
+ich nämlich am Montag eine Sitzung. <name type="person" ref="per:146265">Wertheim</name> kenne ich von der<lb/>
+Arbeiterkammer, allerdings nicht sehr genau, und dachte mir anfangs,<lb/>
+dies sei vielleicht nur Gschaftelhuberei. <name type="person" ref="per:114739">Goldmann</name> von der<lb/>
+Industriesektion und ich wurden aber bald eines besseren belehrt.<lb/>
+<name type="person" ref="per:146265">Wertheim</name> hat sich wirklich bestens vorbereitet und insbesondere<lb/>
+<name type="person" ref="per:114739">Goldmann</name> wertvolle Informationen gegeben. Das grösste Anliegen<lb/>
+der Belegschaftsvertretung ist, den Bundesheerauftrag von 350 Stück<lb/>
+schwerste LKW, 10 t Nutzlast, 10 t Eigengewicht, erstrecken zu<lb/>
+können. Dieser Auftrag müsste bis 1978/79 ausgeliefert sein. Bei<lb/>
+den LKW sind ca. 50 % Importe von MAN. Für diese 50 % Import<lb break="no"/>anteil hat die österr. Direktion mit MAN vereinbart, bekommen sie<lb/>
+von ihr Aufträge sogenannte Werkstättenstunden herein. Momentan<lb/>
+sind die österreichischen Firmen so ausgelastet, dass sie diese<lb/>
+Werkstättenstunden gar nicht übernehmen können. Wenn nun der Auftrag<lb/>
+für das Bundesheer verlängert werden könnte, würden sie für schlech<lb break="no"/>tere Zeiten entsprechende Auftragsreserven insbesondere auch bezüg<lb break="no"/>lich der Werkstättenstunden aus Deutschland haben. Die österr. Militär<lb break="no"/>aufträge wären also dann, was ich für sehr sinnvoll halte, für<lb/>
+Rückschläge oder leichte Rezessionen äusserst geeignet.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97819">PLESCH</name> UND <name type="person" ref="per:98053">WANKE</name>: Vielleicht könnte man eine solche<lb/>
+Lieferpolitik mit dem Bundesheer vereinbaren.<lb/>
+</p>
+            <p xml:space="preserve">Beim Jour fixe erfuhr ich vom <name type="person" ref="per:114075">Schmidt</name>, ÖGB, zum ersten Mal wie<lb/>
+die ökonomische Konferenz in Linz ablaufen soll. Nach dem Referat<lb/>
+von <name type="person" ref="per:97311">Androsch</name> sollen 6 Debattenredner kleinere Co-Referate halten.<lb/>
+Über Energie und Rohstoff – <name type="person" ref="per:110922">Vranitzky</name>, über Management - <name type="person" ref="per:98028">Vak</name>, Struktur<lb break="no"/>probleme <name type="person" ref="per:115595">Reiter</name>, Industriepolitik – <name type="person" ref="per:97315">Apfalter</name>, Stabilität und Voll<lb break="no"/>beschäftigung – <name type="person" ref="per:114075">Schmidt</name>. Ich ersuchte nur <name type="person" ref="per:114075">Schmidt</name>, er sollte<lb/>
+bei dieser Gelegenheit darauf hinweisen, dass es nicht notwendig ist,<lb/>
+für Preise, Energie und Fremdenverkehr neue Arbeitsgruppen einzu<lb break="no"/>setzen, weil diese auf Grund der letzten Ökonomischen Konferenz<lb/>
+<pb n="35-0305" facs="35_1977-03-11_0305.jpg"/>bereits installiert sind und auch arbeiten. Da ich an dieser<lb/>
+Konferenz erst sehr spät von München zurückkommend teilnehmen<lb/>
+werde, weiss ich nicht, ob nicht vorher schon diesbezügliche<lb/>
+Beschlüsse gefasst werden. Die Koordination hat zwar das Zentral<lb break="no"/>sekretariat, leider aber dürfte diese nur bis zu einem gewissen<lb/>
+Grad funktionieren. Vor allem will man dort dem Wunsch <name type="person" ref="per:97668">Kreiskys</name><lb/>
+Rechnung tragend immer wieder Aktivitäten entfalten, setzt immer<lb/>
+wieder neue Konferenzen und neue Arbeitsgruppen ein. beruft diese<lb/>
+dann meistens höchstens einmal, manchmal auch gar nicht ein, ver<lb break="no"/>ärgert die Leute, die sich zu diesen Arbeitsgruppen melden und<lb/>
+macht wieder nicht anderes als neuerdings eine Konferenz mit neuen<lb/>
+Arbeitsgruppen einzusetzen. Das ganze Problem wird auf solche<lb/>
+Weise nicht gelöst.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name> UND <name type="person" ref="per:97819">PLESCH</name>: Bitte versucht, bei der Tagung die<lb/>
+notwendigen Vereinbarungen entsprechend zu treffen.<lb/>
+</p>
+            <p xml:space="preserve">Zur Entlastung der Zahlungsbilanz wird nicht nur der Massnahmen<lb break="no"/>katalog von <name type="person" ref="per:98053">Wanke</name> sondern auch auf dem Fremdenverkehrssektor das<lb/>
+Incoming-Geschäft stärker in unsere Betrachtungen einbezogen. Die<lb/>
+von Dr. <name type="person" ref="per:111736">Zolles</name> auszuarbeitenden Vorschläge werden dann im nächsten<lb/>
+Jour fixe behandelt.<lb/>
+</p>
+            <p xml:space="preserve">Bezüglich der Präsentation des Konsumentenschutzgesetzes entsteht<lb/>
+eine kleine Misstimmung. <name type="person" ref="per:97372">Broda</name> hat für seine Pressekonferenz am<lb/>
+18. auf meine Intervention seinen Konsumentenschutzgesetz-Entwurf<lb/>
+an den ÖGB und mich geschickt. Dort hat man aber nicht die Verein<lb break="no"/>barungen zwischen AK, ÖGB auf der einen Seite und Handelskammer<lb/>
+auf der anderen Seite, sie weitergehend waren, als jetzt im Entwurf<lb/>
+vorgenommen aufgenommen, sondern seine eigenen Ideen. Die Handelskammer<lb/>
+kennt nun fürchtet man auch diesen Entwurf und ist nicht mehr<lb/>
+bereit, auf die für die Konsumenten günstigeren Lösungen, die mit<lb/>
+ihr vereinbart wurden, weiterhin zuzugestehen. Bezüglich der Gewähr<lb break="no"/>leistung und Besicherung mit Wechsel würden jetzt schlechtere Formu<lb break="no"/>lierungen im Parlament zur Debatte stehen. ÖGB und AK ärgern sich<lb/>
+deshalb über die Vorgangsweise von <name type="person" ref="per:140510">Keller</name> und über die Arbeitsmethoden<lb/>
+<name type="person" ref="per:97372">Brodas</name>. Wahrscheinlich sind doch meine Arbeitsmethoden mühsamer, weil<lb/>
+ich in jedem Fall vorher mit unseren Genossen eine Koordination<lb/>
+und einen Konsens herbeiführen und nicht im Verhandlungsverlauf<lb/>
+dann im Parlament erst versuchen, einen entsprechenden Gesetzesbeschluss<lb/>
+einstimmig zu erreichen, wie dies <name type="person" ref="per:97372">Broda</name> immer macht. Die Ursache für<lb/>
+diese differente Vorgangsweise liegt glaube ich in der verschiedenen<lb/>
+<pb n="35-0306" facs="35_1977-03-11_0306.jpg"/>Philosophie. <name type="person" ref="per:97372">Broda</name> ist ein absoluter Anhänger des Parlamentarismus<lb/>
+und sagt deshalb, dort sollte man verhandeln, dort sollte man ent<lb break="no"/>scheiden, ich bin ein absoluter Anhänger der Sozial- und Wirt<lb break="no"/>schaftspartnerschaft und meine, dass es zweckmässiger ist, hier<lb/>
+den Konsens schon zu erreichen und im Parlament wenn man so will,<lb/>
+womöglich nur mehr eine Formaldiskussion zu führen.<lb/>
+</p>
+            <p xml:space="preserve">Das Vitamin-Präparat der Fa. Humanis soll lt. Umweltschutzmini<lb break="no"/>sterium verboten bleiben, während für das Vitamin-Präparat von<lb/>
+Bayer Priovit die Genehmigung zur Abgabe im Lebensmittelhandel<lb/>
+erteilt wurde. Eine wirkliche Regelung kann erst durch das<lb/>
+Arzneimittelgesetz kommen, wo wir vereinbaren, dass der Grundsatz<lb/>
+sein müsste, wirkliche Arzneimittel nur in den Apotheken abgeben<lb/>
+zu dürfen, allerdings dann auch keine wie immer geartete Werbung<lb/>
+dafür zuzulassen.<lb/>
+</p>
+            <p xml:space="preserve">Für die Margarinepreise-Erhöhungsanträge sehe ich derzeit keine<lb/>
+Kompromissmöglichkeit. Wenn mir allerdings ein solches Kompromiss<lb/>
+nicht gelingt, dann werde ich tatsächlich Margarine amtlich<lb/>
+preisregeln müssen. Ein diesbezügliches Schreiben hat bereits<lb/>
+die Arbeiterkammer an das Handelsministerium geschickt. Bevor<lb/>
+ich eine solche amtliche Preisregelung verordne, werde ich auf<lb/>
+alle Fälle – und dies wünscht auch der ÖGB – Dr. <name type="person" ref="per:114075">Schmidt</name> –<lb/>
+mit Gen.Dir. <name type="person" ref="per:97936">Seefranz</name> ein Gespräch führen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name>: Bitte einen Termin vereinbaren.<lb/>
+</p>
+            <p xml:space="preserve">Bezüglich einer Düngemittelpreissenkung – Wunsch der Landwirt<lb break="no"/>schaftskammer – wird es auch notwendig sein, mit Donau-Chemie<lb/>
+aber ganz besonders mit Chemie-Linz, Gen.Dir. <name type="person" ref="per:112054">Buchner</name>, doch noch<lb/>
+einen Lösungsvorschlag zu besprechen. Dafür wird es notwendig<lb/>
+sein, vorerst die Ausgangslage genau zu kennen. AK und ÖGB werden<lb/>
+uns die entsprechenden ziffernmässigen Unterlagen geben.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97819">Plesch</name><add>[hs. korrigiert, Anm.]</add>: Bitte nach entsprechender Vorbereitung mit<lb/>
+<name type="person" ref="per:112054">Buchner</name> einen Termin vereinbaren.<lb/>
+</p>
+            <p xml:space="preserve">Die Milch-Enquete von <name type="person" ref="per:97511">Haiden</name>, teile ich allen mit soll bis Ende<lb/>
+1977 dauern aber dann unbedingt beendet werden. Dieser Termin ist<lb/>
+deshalb so langgestreckt, weil <name type="person" ref="per:97511">Haiden</name> annimmt, dass es sich um<lb/>
+schwerwiegendste Verhandlungen handelt. Ende 1977 muss aber Schluss<lb/>
+sein, denn dann beginnen die Verhandlungen über das neue Marktord<lb break="no"/><pb n="35-0307" facs="35_1977-03-11_0307.jpg"/>nungsgesetz. <name type="person" ref="per:97511">Haiden</name> wird allerdings fürchte<add>[ich]</add>, sehr bald draufkommen,<lb/>
+dass er solange mit den Bauern wird nicht verhandeln können, ohne<lb/>
+dass die Milchproduktion dann noch mehr überschwappt. Diese haben<lb/>
+nämlich Zeit. Meiner Meinung nach wird er eine viel schnellere Lösung<lb/>
+der Milchüberschussproduktion finden müssen. Ob das mit den<lb/>
+Kontingenten und Regionalisierung möglich ist, weiss ich nicht.<lb/>
+</p>
+            <p xml:space="preserve">Bezüglich des Vorschlages von LR <name type="person" ref="per:114520">Trauner</name> wegen der Mühlviertler<lb/>
+Webereien, 560 Beschäftigten und einem Zinsenzuschuss vom Handels<lb break="no"/>ministerium, Sozialministerium und Land komme wir überein, dass wie<lb/>
+<name type="person" ref="per:113026">Tumpel</name> mit Recht bemerkt, vorerst die Voraussetzungen für eine Ver<lb break="no"/>marktung und Rationalisierung wahrscheinlich auch Betriebszusammen<lb break="no"/>legung geklärt werden muss. Das Sozialministerium, <name type="person" ref="per:141706">Bednar</name> hat<lb/>
+bis jetzt nicht endgültig entschieden, ob und inwieweit Mittel<lb/>
+aus der Arbeitsmarktförderung zur Verfügung gestellt werden<lb/>
+können. Ich hoffe, dass es gelingt, für den Übergang der nächsten<lb/>
+zwei Jahre eine diesbezügliche Lösung zu finden. Für die 560 Be<lb break="no"/>schäftigten da oben wäre dies von grösster Bedeutung.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97819">PLESCH</name> UND <name type="person" ref="per:98053">WANKE</name>: Bitte die Verhandlungen mit Sozial<lb break="no"/>ministerium so schnell wie möglich positiv abschliessen.<lb/>
+</p>
+            <p xml:space="preserve">Im Abfallbeseitigungsgesetzentwurf des Gesundheitsministerium, werden<lb/>
+alle Abfälle mit Ausnahme von Hausmüll behandelt. Dieses allumfassende<lb/>
+Gesetz wird meiner Meinung nach irrsinnige Schwierigkeiten allein<lb/>
+schon bei der Gesetzwerdung mit sich bringen. Wir im Handelsministe<lb break="no"/>rium bleiben nach wie vor auf dem Prinzip der kleinen Schritte, d.h.<lb/>
+Teilbereich um Teilbereich durch eine eigene gesetzliche Regelung.<lb/>
+Schon allein bei dem Rohölgesetz zeigt sich, welche gigantischen<lb/>
+Schwierigkeiten entstehen. Die Gesetzwerdung unseres Rohölabfall-<lb/>
+Gesetzes hat daher mir schon gezeigt, welche Schwierigkeiten wir<lb/>
+hier erwarten können und müssen.<lb/>
+</p>
+            <p xml:space="preserve">Dir. <name type="person" ref="per:116926">Entzmann</name>, SGP, berichtet <name type="person" ref="per:97333">Bandhauer</name>, <name type="person" ref="per:107937">Frank</name>, <name type="person" ref="per:98040">Wais</name> und mir über die<lb/>
+Verhandlungen SGP wegen Lieferungen von Dampfkraftwerken insbesondere<lb/>
+Kesseln nach Ungarn. Die Ungarn wollten zuerst zwei Gasturbinen<lb/>
+à 100 MW und haben sich dann überzeugen lassen, dass es zweckmässiger<lb/>
+ist, 214 MW Dampfkraftwerk auf Kohlenbasis in Tatabanya zu errichten.<lb/>
+Eine weitere Studie der SGP soll zweimal 500 MW auf Kohlenbasis umfassen.<lb/>
+Voraussetzung für die Lieferung der österr. Industrie wäre, dass<lb/>
+die Ungarn in elektrischem Strom bezahlen könnten. Eine ähnliche<lb/>
+<pb n="35-0308" facs="35_1977-03-11_0308.jpg"/>Konstruktion wie wir in Polen haben. <name type="person" ref="per:107937">Frank</name> hat zuerst gleich<lb/>
+Bedenken, weil er meint, man müsste klarstellen, ob und inwieweit<lb/>
+die Kernkraftwerke gebaut werden. Ich selbst stehe auf dem Stand<lb break="no"/>punkt, dass wenn wir Stromlieferungen vom Osten gegen Lieferung von<lb/>
+Industrieanlagen übernehmen müssen, dann stelle ich sehr gerne<lb/>
+jedes Kernkraftwerk zurück.<lb/>
+</p>
+            <p xml:space="preserve">Ein anschliessendes Gespräch mit <name type="person" ref="per:97333">Bandhauer</name> und <name type="person" ref="per:107937">Frank</name> zeigte mir,<lb/>
+dass über den weiteren Ausbau der Kernenergie zwischen unseren Genossen<lb/>
+im Verbund und <name type="person" ref="per:107937">Frank</name> grosse Differenzen bestehen. <name type="person" ref="per:107937">Frank</name> hat in der<lb/>
+letzten Aufsichtsratssitzung gestern gefragt, welche Vorbereitungen<lb/>
+für Verbund für den weiteren Kernkraftwerksausbau macht. <name type="person" ref="per:97333">Bandhauer</name><lb/>
+und auch <name type="person" ref="per:112014">Erbacher</name> sahen darin nicht nur eine Kritik sondern auch eine<lb/>
+Änderung unserer Energiepolitik. Ich stellte sofort klar und richtig,<lb/>
+dass an meiner Energiepolitik sich gar nichts geändert hat. Solange<lb/>
+wir inländische Energiereserven haben, und mobilisieren können,<lb/>
+und solange wir aus dem Ausland langfristige Verträge über Strom<lb break="no"/>lieferungen insbesondere aus dem Osten zwecks weiterer Exportmöglich<lb break="no"/>keit, siehe Ungarn, erreichen können, solange bin ich nicht bereit,<lb/>
+zum zweiten Kernkraftwerk meine Zustimmung zu geben. Wir können ganz<lb/>
+ruhig noch zuwarten, bis die Erfahrungen anderer Staaten mit den<lb/>
+1000- bis 1300-MW-Blöcken und die ganzen Kinderkrankheiten vorliegen.<lb/>
+Je später das zweite Kernkraftwerk beschlossen wird, um so besser.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name>: Bitte diesen Standpunkt überall klarmachen.<lb/>
+</p>
+            <p xml:space="preserve">Bezüglich der weiteren Reorganisation der Verbundgesellschaft ins<lb break="no"/>besondere die Frage des vierten Vorstandsmitgliedes hat <name type="person" ref="per:97333">Bandhauer</name><lb/>
+einen sehr gute Vorschlag. Da bis April, wo sie die Generalversamm<lb break="no"/>lung auf alle Fälle machen müssen, eine endgültige Entscheidung nicht<lb/>
+vorliegen wird, soll die Satzung so geändert werden, dass nicht wie<lb/>
+jetzt 4 Vorstandsmitglieder sondern 2 – 4 Vorstandsmitglieder statuiert<lb/>
+wird.<lb/>
+</p>
+            <p xml:space="preserve">Die Mitgliederversammlung in Traun war eine übliche zur Ehrung von<lb/>
+50-, 40- und 25-jähriger Mitgliedschaft. Diskussion hat es bei<lb/>
+meinem Referat überhaupt nicht gegeben, der grosse Vorteil war, dass<lb/>
+ich weil ich unmöglich von Graz zeitgerecht hätte nach Traun kommen<lb/>
+können, die Grundsteinlegung in Graz, wo ich wirklich nur das 5. Rad<lb/>
+am Wagen gewesen wäre, absagen konnte und dadurch den Freitag als<lb/>
+Arbeitstag gewonnen habe.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="35_0301_01" facs="35_1977-03-11_0301-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 11.3.1977</head>
+         </div>
+         <pb n="35_0301_02" facs="35_1977-03-11_0301-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

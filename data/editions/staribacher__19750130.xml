@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Donnerstag, der 30. Jänner 1975</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band24_1975-01-30</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1975-01-30">Donnerstag, 30. Januar 1975</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-11-14">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="24-0103" facs="24_1975-01-30_0103.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Donnerstag, 30. Jänner 1975<lb/>
+</p>
+            <p xml:space="preserve">Prof. <name type="person" ref="per:140326">Petrilli</name> von der IRI, dem großen italienischen staatlichen<lb/>
+Konzern machte mir einen Besuch um Kooperationen zwischen<lb/>
+italienischen und österreichischen Firmen zu besprechen. <name type="person" ref="per:140326">Petrilli</name><lb/>
+möchte das auf Drittmärkten insbes. evtl. Kooperationen seiner<lb/>
+Konzernfirma und österreichischen Firmen versucht werden sollte.<lb/>
+Ich erklärte ein prinzipielles Interesse, machte allerdings auf<lb break="no"/>merksam, daß in Österreich dafür ausschließlich die Betriebe ver<lb break="no"/>antwortlich seien. Dies gelte auch für verstaatlichte Unter<lb break="no"/>nehmungen. Auf das besondere österreichische Interesse auf Aus<lb break="no"/>bau der italienischen-österreichischen Beziehungen konnte ich<lb/>
+durch das Beispiel des Accordino hinweisen, dort wird nach dem<lb/>
+Zollabbau im Rahmen der EG nurmehr ein spezifisch wirtschafts<lb break="no"/>politischer Handelsspielraum überbleiben, wenn das Accordino nicht<lb/>
+vollkommen erlöschen soll. Wenn also über den örtlichen Bereich,<lb/>
+der das Accordino betrifft, es möglich wäre noch im gesamten<lb/>
+italienisch-österreichischen Bereich eine Kooperation von Firmen<lb/>
+zu erreichen, könnte dies nur für die Beziehungen gut sein. Ich<lb/>
+selbst habe darauf hingewiesen, daß ich jedwedige Kontaktnahme<lb/>
+sei es wie z.B. die Tavola Rotonda auf Kammerebene immer unter<lb break="no"/>stützt habe und daß ich auch in Hinkunft jedwedige Kooperation<lb/>
+zwischen italienischen und österreichischen Firmen unterstützen<lb/>
+werde. Ein besonders gutes Beispiel der Zusammenarbeit auf dem<lb/>
+Energiesektor, für den ich zuständig sei, ist die Zusammenarbeit<lb/>
+zwischen ÖMV und SNAM.<lb/>
+</p>
+            <p xml:space="preserve">Anmerkung für <name type="person" ref="per:97377">BUKOWSKI</name>: Bitte <name type="person" ref="per:97498">Grünwald</name> – ÖIAG verständigen.<lb/>
+</p>
+            <p xml:space="preserve">Hr. <name type="person" ref="per:140327">Mück</name> vom ORF machte ein Interview für das Fernsehen über die<lb/>
+Preisgestaltung der Energieferien. Er erinnerte daran, daß das<lb/>
+Handelsministerium die Handelskammer ersucht hatte, bei den Vor<lb break="no"/>saisonpreisen zu bleiben, wo dies bis jetzt der Fall war.<lb/>
+</p>
+            <p xml:space="preserve">Anmerkung für <name type="person" ref="per:98040">WAIS</name>: Bitte <name type="person" ref="per:111367">Würzl</name> über das Ergebnis dieser Anfrage<lb/>
+berichten lassen.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Preiskommission über die Mehlpreise erklärte ich den Vor<lb break="no"/>schlag der Handelskammer bezüglich Erhöhung des vorverpackten<lb/>
+Grießes W 480 mit 1 Schilling als unakzeptabel. Der Vertreter des<lb/>
+<pb n="24-0104" facs="24_1975-01-30_0104.jpg"/>Landwirtschaftsministeriums und des Finanzministeriums wollte<lb/>
+vorerst von ihren Forderungen nicht Abstand nehmen, da sie<lb/>
+keinerlei Ministerweisung hatten. Letzten Endes gelang es aber<lb/>
+die Handelskammer davon zu überzeugen, daß 1 Schilling bei mir<lb/>
+nicht akzeptiert werden wird. Man einigte sich dann auf 95 Groschen<lb/>
+als höchsten Mehlpreiserhöhungsantrag. Ich erklärte <name type="person" ref="per:112051">Singer</name>, so<lb break="no"/>lange ich keine Detailkalkulationen sehe, keine Zustimmung zu<lb/>
+diesem Vorschlag geben zu können. Wesentlich schwieriger ge<lb break="no"/>stalten sich die Verhandlungen mit der Brotindustrie und dem<lb/>
+Bäckergewerbe. Dort gibt es die alte Forderung von 1.20 Schilling<lb/>
+Unterdeckung plus 1.30 Groschen neue Kosten für die Brotpreis<lb break="no"/>kalkulation. Selbst wenn auf die Unterdeckung verzichtet wird,<lb/>
+kann 1.30 Groschen Brotpreiserhöhung von mir nicht akzeptiert<lb/>
+werden. Die Arbeiterkammer hat 90 Groschen vorgeschlagen und<lb/>
+10 Groschen für die Semmel, dort verlangen die Bäcker aber mind.<lb/>
+20 Groschen Preiserhöhung. <name type="person" ref="per:112051">Singer</name> erklärt, daß er unter einem<lb/>
+Zeitdruck steht weil die Wiener Zeitung verlangt, daß bis Freitag<lb/>
+mittags der endgültige Entwurf in der Druckerei sein muß. Ich<lb/>
+fürchte, daß es nicht möglich sein wird zu diesem Zeitpunkt schon<lb/>
+den Brot- u. Semmelpreis fixieren zu können. In diesem Fall würden<lb/>
+wir für Montag den Mehlpreis in Kraft setzen und für Brot und<lb/>
+Semmel weiter verhandeln.<lb/>
+</p>
+            <p xml:space="preserve">Die Sitzung mit den Landeshauptleuten war wesentlich besser<lb/>
+besucht als ich erwartete. Allerdings waren nur von schwarzen<lb/>
+Bundesländern die Landeshauptleute selbst erschienen, sowohl<lb/>
+<name type="person" ref="per:118211">Keßler</name> als <name type="person" ref="per:98068">Wenzl</name> und <name type="person" ref="per:112031">Maurer</name>, die sich auch das letzte Mal<lb/>
+für dieses Problem sehr interessiert haben, waren anwesend. Von<lb/>
+Wien war <name type="person" ref="per:123210">Heller</name> und von Kärnten <name type="person" ref="per:140328">Ausserwinkler</name> als Funktionäre<lb/>
+erschienen. <name type="person" ref="per:97994">Steinocher</name> von Salzburg hatte sich entschuldigt und<lb/>
+<name type="person" ref="per:98048">Wallnöfer</name> war ebenfalls nicht gekommen, wobei mir sein Hofrat<lb/>
+<name type="person" ref="per:133760">Pick</name>, mit dem ich schon einige Male Diskussionen in Innsbruck<lb/>
+gehabt hatte, <name type="person" ref="per:98048">Wallnöfers</name> Entschuldigung persönlich mitteilte.<lb/>
+Die Steiermark war durch den zuständigen Landesrat <name type="person" ref="per:140329">Bammer</name> ver<lb break="no"/>treten. OÖ war außer durch <name type="person" ref="per:98068">Wenzl</name> noch mit dem zuständigen Landes<lb break="no"/>rat Ing. <name type="person" ref="per:118218">Reichl</name> von uns sozusagen doppelt besetzt. Überhaupt<lb/>
+nicht vertreten war das Burgenland. Mein Vorschlag an die Teil<lb break="no"/>nehmer, daß wir uns mind. 2 mal im Jahr treffen sollten, wurde<lb/>
+sofort akzeptiert, auch die Idee, daß vorher die Beamtenvertreter<lb/>
+<pb n="24-0105" facs="24_1975-01-30_0105.jpg"/>der Preisbehörden zusammenkommen sollten, wie dies übrigens<lb/>
+auch schon die ganzen Jahre hindurch geschieht, wurde zur<lb/>
+Kenntnis genommen. Diese Beamten sollen zuerst unsere Probleme<lb/>
+durchdiskutieren und vielleicht sogar schon einvernehmliche<lb/>
+Vorschläge an die Funktionäre erstatten. <name type="person" ref="per:98068">Wenzl</name> verlangte nur,<lb/>
+daß wir das nächste Mal eine Tagesordnung ausschicken sollten,<lb/>
+was ich sofort zusagte. Wir hatten auch diesmal eine Tagesordnung<lb/>
+vorbereitet, worin allerdings nur der Bericht über den Erlaß des<lb/>
+Handelsministeriums betreffend neues Preisgesetz draufstand. Dies<lb/>
+erschien mir aber als zu wenig, deshalb hatte ich nach diesem<lb/>
+formellen Beschluß, wie wir in Hinkunft vorgehen wollten, den<lb/>
+Landeshauptleuten einen umfassenden Bericht über die Preissituation<lb/>
+gegeben. Einleitend verwies ich auf die freiwillige Preissenkungs<lb break="no"/>aktion und bedankte mich vor den anderen Landeshauptleuten ganz<lb/>
+demonstrativ bei Tirol und Burgenland, die sich ja offiziell<lb/>
+auch dieser Preissenkungsaktion angeschlossen hatten. Ich wies<lb/>
+auch darauf hin, daß jetzt die Bundeshandelskammer einzelne Fach<lb break="no"/>gruppen z.B. Elektroindustrie oder Gremien z.B. Möbelhandel<lb/>
+diese Aktion offiziell unterstützen. Ich gab meiner Hoffnung<lb/>
+Ausdruck, daß in Hinkunft wesentlich mehr Unterstützung von den<lb/>
+Ländern und den Interessenvertretungen der neuen Aktion, die<lb/>
+starten will, <choice><choice><sic>teilwerden</sic><corr>zuteil werden?</corr></choice></choice> wird. Bei der Besprechung des Erlasses<lb/>
+und der Delegierungsmöglichkeiten des neuen § 3b Preisgesetzes an<lb/>
+die Landeshauptleute entspann sich sofort von Niederösterreich<lb/>
+angeregt die Diskussion, wer die Kosten der Delegierung über<lb break="no"/>nehmen würde. Aus dieser Diskussion konnte ich entnehmen, daß<lb/>
+insbes. die ÖVP-Landeshauptleute scheinbar befürchteten, ich<lb/>
+würde jetzt unverzüglich alle Delegierungsmöglichkeit sofort<lb/>
+ausnützen und entsprechendes veranlassen. In Wirklichkeit habe<lb/>
+ich aber gar keine Möglichkeit eine Preisregelung vorzunehmen<lb/>
+und damit auch eine Delegierung erst auszusprechen wenn eine<lb/>
+Preiserhöhung vorgenommen wird. Nach wie vor hoffe ich, daß es<lb/>
+uns in den nächsten Wochen gelingt, da ein oder zwei charakteristi<lb break="no"/>sche Preiserhöhungen zu erfahren, wo wir dann positiv einen § 3b<lb/>
+anwenden können. Leider hat mir <name type="person" ref="per:98040">Wais</name> mitgeteilt, ist das Beispiel<lb/>
+der Brillenfassungen, die angeblich 98.–– Schilling ab Fabrik<lb/>
+kosten, und dann für den Verbraucher auf das zehnfache steigen<lb/>
+durch keinerlei Ziffern belegt. Salzburgs Vertreter hat angeregt,<lb/>
+<pb n="24-0106" facs="24_1975-01-30_0106.jpg"/>wir sollten die Auszeichnungsverordnung für Dienstleistungen,<lb/>
+die das Gesetz dem Handelsministerium gibt, unverzüglich ent<lb break="no"/>werfen. <name type="person" ref="per:97584">Jagoda</name> versprach, einen diesbezüglichen Entwurf den<lb/>
+Interessenvertretungen und den Ländern zur Stellungnahme<lb/>
+zu schicken. Ebenso gelang es dem steirischen Vertreter alle<lb/>
+Landeshauptleute davon zu überzeugen, daß gegen die Erhöhung<lb/>
+von Realitätenvermittler-Gebühren eingeschritten werden soll.<lb/>
+Hier wäre, wenn ein entsprechendes Ziffernmaterial vorliegt,<lb/>
+ein § 3b anwendbar. Die Realitätenvermittler haben unmittelbar<lb/>
+nach Ablauf der Entlastungsverordnung sofort in der Steiermark<lb/>
+angeblich die Sätze entsprechend erhöht.<lb/>
+</p>
+            <p xml:space="preserve">Anmerkung für <name type="person" ref="per:98040">WAIS</name> u. <name type="person" ref="per:97584">JAGODA</name>: Bitte offiziell die Unterlagen<lb/>
+von der Steiermark verlangen.<lb/>
+</p>
+            <p xml:space="preserve">Präs. <name type="person" ref="per:112215">Weiß</name> von der Verbundgesellschaft ersuchte, daß das<lb/>
+nächste Mal in den Aufsichtsräten für Dir. <name type="person" ref="per:115694">Kandolf</name>, Tauernkraft<lb break="no"/>werke, <name type="person" ref="per:114988">Hermann</name>, DoKW, und <name type="person" ref="per:112014">Erbacher</name>, Verbundgesellschaft, der Fünf<lb break="no"/>jahresvertrag auf die Tagesordnung gesetzt werden kann. Bezüglich<lb/>
+<name type="person" ref="per:97674">Kugler</name> ist er bereit, nach dem 2. März den Nachfolger zu nominieren<lb/>
+damit auch dieser Vertrag verlängert werden kann. Der Betriebs<lb break="no"/>ratsobmann <name type="person" ref="per:114714">Inthal</name>, Betriebsratsobmann der Draukraftwerke hätte<lb/>
+nun <name type="person" ref="per:97674">Kugler</name> mitgeteilt, daß eine Verlängerung nur in Frage komme,<lb/>
+wenn gleichzeitig eine Geschäftsordnungsänderung Platz greift.<lb/>
+<name type="person" ref="per:112215">Weiß</name> sagte mit Recht, daß bis jetzt über dieses Problem noch<lb/>
+niemals gesprochen wurde und auch bezüglich der Verlängerung von<lb/>
+<name type="person" ref="per:97674">Kugler</name> noch niemals ein solches Junktim der ÖVP mitgeteilt wurde.<lb/>
+Seinerzeit, als <name type="person" ref="per:112014">Erbacher</name> in der Verbund bestellt wurde und eine<lb/>
+Änderung der Geschäftsordnung gewünscht wurde, hat man dies durch<lb/>
+monatelange Verhandlungen im Aufsichtsrat letzten Endes genehmigt.<lb/>
+Ich betrachtete dies als einen Hinweis von <name type="person" ref="per:112215">Weiß</name>, daß wir auch<lb/>
+bei den Draukraftwerken so vorgehen sollten. <name type="person" ref="per:112215">Weiß</name> ersuchte zwar,<lb/>
+ich sollte in einem Brief, den <name type="person" ref="per:107937">Frank</name> jetzt entwerfen wird, auf<lb/>
+diesen Hinweis nicht besonders Bezug nehmen. <name type="person" ref="per:107937">Frank</name> wird sich in<lb/>
+dieser Frage mit dem Präsidenten des Aufsichtsrates <name type="person" ref="per:98069">Werner</name> ins<lb/>
+Einvernehmen setzen, der angeblich auch nichts über die Vorgangs<lb break="no"/>weise der Betriebsräte wußte und diese Methode ablehnt. <name type="person" ref="per:112215">Weiß</name><lb/>
+erklärt, daß bezüglich der Bestellung <name type="person" ref="per:97339">Baumgartners</name> in die Donau<lb break="no"/>kraftwerke die ÖVP noch immer nicht weiß ob es sich nur um eine<lb/>
+politische Maßnahme handelt oder ob auch wirklich eine sachliche<lb/>
+<pb n="24-0107" facs="24_1975-01-30_0107.jpg"/>Begründung dahintersteckt. Ich habe sofort <name type="person" ref="per:112215">Weiß</name> den Vorwurf<lb/>
+gemacht, daß er als Aufsichtsratspräsident nicht dafür sorgt,<lb/>
+daß eben die Verbund einen diesbezüglichen sachlichen Vorschlag<lb/>
+bereits ausgearbeitet hat. Ich habe von der Verbund dies bereits<lb/>
+vor einem Jahr verlangt und fragte <name type="person" ref="per:112215">Weiß</name>, wie lang er als Minister,<lb/>
+wenn er solche Wünsche geäußert hat, zugewartet hat. <name type="person" ref="per:112215">Weiß</name> gab zu,<lb/>
+daß hier der Vorstand der Verbund säumig ist und wird darauf<lb/>
+drängen, daß so schnell als möglich eine sachliche Begründung<lb/>
+und ein entsprechender Plan ausgearbeitet wird. Bezüglich der<lb/>
+Tauernkraftwerke Nachfolge von <name type="person" ref="per:133973">Nyvelt</name> stellt <name type="person" ref="per:112215">Weiß</name> ausdrücklich<lb/>
+fest, daß dies eine reine Angelegenheit der Sozialistischen Seite<lb/>
+sei und die ÖVP jeden Vorschlag und Vorgangsweise akzeptieren<lb/>
+wird. Da wir uns über diese Punkte im Detail nicht einigen konnten,<lb/>
+andererseits aber das Junktim, das ich nie expressis verbis auf<lb break="no"/>gestellt habe, ich aber sachlich kaum mehr halten kann, erklärte<lb/>
+ich, daß es sich jetzt hier von mir um eine Vorleistung handelt,<lb/>
+ich erwarte in Hinkunft, daß die ÖVP-Seite bei sachlichen Not<lb break="no"/>wendigkeiten ihre Zustimmung gibt oder zumind. wie dies bei der<lb/>
+Bestellung <name type="person" ref="per:97339">Baumgartners</name> dann der Fall sein wird, nicht in der<lb/>
+Öffentlichkeit dagegen demonstriert. <name type="person" ref="per:112215">Weiß</name> erklärte, eine solche<lb/>
+Verpflichtung jetzt noch nicht übernehmen zu können, verweist<lb/>
+aber darauf, daß auch die Statutenänderung der Donaukraftwerke<lb/>
+wonach jetzt ein vierter Vorstand <name type="person" ref="per:97339">Baumgartner</name> bestellt werden<lb/>
+kann, nicht in der Öffentlichkeit von der ÖVP kritisiert wurde.<lb/>
+Dies ist sicherlich auf den Einfluß von <name type="person" ref="per:112215">Weiß</name> zurückzuführen und<lb/>
+er versichert mir, er wird in Hinkunft genau dieselbe Politik<lb/>
+machen, wenn man ihm jetzt nicht durch Junktimierung große<lb/>
+Schwierigkeiten bei der Bestellung von <name type="person" ref="per:115694">Kandolf</name>, <name type="person" ref="per:114988">Hermann</name> und<lb/>
+unsererseits <name type="person" ref="per:112014">Erbacher</name> machen würde. <name type="person" ref="per:107937">Frank</name> verweist darauf, daß<lb/>
+auch er einzelne Wünsche in der Verbundgesellschaft bis jetzt<lb/>
+nicht durchgebracht hat und deshalb als Aufsichtsratsmitglied<lb/>
+inquisitorische Fragen an den Vorstand bei den nächsten Sitzungen<lb/>
+richten wird. In einer Beziehung hat <name type="person" ref="per:107937">Frank</name> recht, daß der Vorstand<lb/>
+der Verbund ob schwarz oder rot glaubt, die Zeiten sind noch<lb/>
+immer so wie dies bis jetzt der Fall war, d.h. das Ministerium<lb/>
+nur der Erfüllungsgehilfe der Verbundgesellschaft ist.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:107937">Frank</name> berichtet mir anschließend, daß die KELAG einen Brief<lb/>
+an die Verbund gerichtet hat wonach die Aufstockung ihres Anteils<lb/>
+an der Drau recht vollkommen einwandfrei und finanziell ohne<lb/>
+<pb n="24-0108" facs="24_1975-01-30_0108.jpg"/>weiters möglich sei. <name type="person" ref="per:107937">Frank</name> hat <name type="person" ref="per:139680">Pacheiner</name>, der bei ihm war, so wie<lb/>
+ich auch dem Landesrat <name type="person" ref="per:97461">Frühbauer</name>, ohne das wir uns vorher abge<lb break="no"/>sprochen haben, dieselbe Auskunft gegeben, Kärnten muß jetzt mit<lb/>
+der Verbundgesellschaft einig werden und mir die Verbundgesell<lb break="no"/>schaft entsprechende Vorschläge unterbreiten.<lb/>
+</p>
+            <p xml:space="preserve">Dkfm. <name type="person" ref="per:97678">Lacina</name> und seine Kollegin von der Arbeiterkammer, die auch<lb/>
+im Gewerbestrukturverbesserungsgesetz-Beirat sitzt, möchten<lb/>
+wissen, ob das Handelsministerium jetzt die Richtlinien zum Ge<lb break="no"/>werbestrukturverbesserungsgesetz ändern möchte. Ich erkläre ihnen<lb/>
+und auch <name type="person" ref="per:97469">Gehart</name>, daß ich an einer Richtlinienänderung nicht<lb/>
+interessiert bin wohl aber wahrscheinlich der Freie Wirtschafts<lb break="no"/>verband vor den Kammerwahlen einen Erfolg dringend braucht und<lb/>
+wahrscheinlich auch wünscht. Eine Richtlinienverbesserung wonach<lb/>
+eben Gewerbetreibende die für die Versorgung dringend notwendig<lb/>
+sind in Hinkunft als Schwerpunktfälle betrachtet werden, erscheint<lb/>
+mir zweckmäßig, soweit eben die finanziellen Möglichkeiten dies<lb/>
+zulassen. <name type="person" ref="per:97678">Lacina</name> gibt zu, daß wenn man dies richtig formuliert,<lb/>
+in der derzeitigen budgetären Situation seine Deckung finden<lb/>
+könnte.<lb/>
+</p>
+            <p xml:space="preserve">Anmerkung für <name type="person" ref="per:97469">GEHART</name>: Bitte die Formulierung so schnell als möglich<lb/>
+zu versuchen.<lb/>
+</p>
+            <p xml:space="preserve">Botschafter <name type="person" ref="per:140332">Gohar</name> von Ägypten möchte infolge meines Ägypten<lb break="no"/>besuches jetzt ebenfalls eine Kontaktstelle schaffen, wie wir<lb/>
+sie in Kairo vereinbart haben. Zu meiner größten Verwunderung<lb/>
+erklärte er sich als den Kontaktmann, da er seinem Handelsattaché<lb/>
+scheinbar nicht diese Arbeit übertragen will. Von unserer Seite<lb/>
+ist <name type="person" ref="per:97426">Fälbl</name> dafür zuständig. <name type="person" ref="per:140332">Gohar</name> erklärt auch rundweg, er glaubt,<lb/>
+daß wir sehr wohl die iranische finanzielle Hilfe in Anspruch<lb/>
+nehmen müssen, um wirkliche ägyptisch-österreichische Geschäfte,<lb/>
+Lieferungen oder vielleicht gar Kooperationen zustande zu bringen,<lb/>
+dies war auch meine Meinung solange nicht in Kairo Minister <name type="person" ref="per:140291">Amin</name>,<lb/>
+mit dem ich den Vertrag unterzeichnete, einleitend sofort erklärte,<lb/>
+ihm stünden 3 Milliarden Dollar für Investitionen zur Verfügung.<lb/>
+<name type="person" ref="per:140332">Gohar</name> war auch sehr erfreut, von mir die Listen der Kooperationen<lb/>
+und Lieferwünsche zu bekommen, die wir in Ägypten all den<lb/>
+Ministern überreicht hatten.<lb/>
+</p>
+            <p xml:space="preserve">Anmerkung für <name type="person" ref="per:97377">BUKOWSKI</name> und <name type="person" ref="per:108322">MEISL</name>: In Hinkunft werden wir bei allen<lb/>
+Besuchen den Botschaftern in Österreich ebenfalls die Listen, die<lb/>
+ich übergebe, anschließend überreichen.<lb/>
+</p>
+            <pb n="24-0109" facs="24_1975-01-30_0109.jpg"/>
+            <p xml:space="preserve">Bei <name type="person" ref="per:97668">Kreisky</name> war sein jahrzehntelanger Bekannter, <name type="person" ref="per:136114">Strakosch</name><lb/>
+von den Zuckerfabriken, um ihn auf die kritische Situation<lb/>
+in den Anbauverträgen, Verzögerungen aufmerksam zu machen. Die<lb/>
+niederösterreichischen Rübenbauern haben sich scheinbar zu<lb break="no"/>sammengeschlossen und drohen, unter gar keinen Umständen Zucker<lb break="no"/>rüben anzubauen sondern auf Mais oder andere Produkte auszu<lb break="no"/>weichen. Die Zuckerfabriken wollen nun endgültig das Problem<lb/>
+lösen und <name type="person" ref="per:97668">Kreisky</name> ist bereit, sich hier einzuschalten. Ich in<lb break="no"/>formierte <name type="person" ref="per:97668">Kreisky</name> über die Getreide- und Mehl sowie Brot- u. Semmel<lb break="no"/>situation und erklärte, daß ich nächste Woche hoffe, mit der<lb/>
+Zuckerfrage weiterzukommen. Das Problem ist nicht die 16 %-ige<lb/>
+Erhöhung des Rübenpreises sondern die damit verbundene und ver<lb break="no"/>langte 16 %-ige Erhöhung des Zuckerverbraucherpreises. Hier wird<lb/>
+die Arbeiterkammer und der Gewerkschaftsbund wahrscheinlich nicht<lb/>
+ihre Zustimmung geben. <name type="person" ref="per:97668">Kreisky</name> meint, vielleicht wäre es möglich,<lb/>
+den Zuckerverbraucherpreis für die Konsumenten nicht so stark zu<lb/>
+erhöhen und dafür einen höheren Preis von der Süßwarenindustrie,<lb/>
+d.h. der zuckerverarbeitenden Industrie zu verlangen. Ich werde<lb/>
+<name type="person" ref="per:97668">Kreisky</name> über den weiteren Fortgang der Zuckerverhandlungen auf<lb/>
+dem laufenden halten.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="24_0102_01" facs="24_1975-01-30_0102-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 30.1.1975</head>
+         </div>
+      </back>
+   </text>
+</TEI>

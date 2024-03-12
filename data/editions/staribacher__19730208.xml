@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Donnerstag, der  8. Februar 1973</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band14_1973-02-08</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1973-02-08">Donnerstag, 8. Februar 1973</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-10-25">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band14/">
+      <body>
+         <pb n="14-0149" facs="14_1973-02-08_0149.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Donnerstag, 8. Feber 1973</p><p xml:space="preserve">Der Obmann der Fleischwarenindustrie <name type="person" ref="per:113101">Freudensprung</name> und<lb/>
+Sekretär <name type="person" ref="per:148969">Wiberal</name> wollten von mir eine Zusage wegen der<lb/>
+notwendigen Preissenkung durch die Mehrwertsteuer, Ent<lb break="no"/>lastungssätze. Ich lehnte jede Initiative ab, da wir nur<lb/>
+berührt sind von dieser Materie und Landwirtschaftsminister<lb/>
+und Innenminister die entsprechenden Vorschläge und eTn<lb break="no"/>scheidungen treffen müssen. Lohnerhöhung, auf die immer<lb/>
+wieder angespielt wird, hätte im Vorjahr eine max. 2,3 %ige<lb/>
+Preiserhöhung gerechtfertigt.</p><p xml:space="preserve">MR. <name type="person" ref="per:97467">Gasser</name> hatte eine Aussprache wegen der Organisation<lb/>
+der OB verlangt. <name type="person" ref="per:97915">Schipper</name> und MR. <name type="person" ref="per:114994">Böhm</name> haben sich ange<lb break="no"/>meldet, daß sie an dieser Sitzung teilenehmen wollen. Neben<lb/>
+<name type="person" ref="per:97467">Gasser</name> ist noch MR. <name type="person" ref="per:110981">Petzl</name> u. MR. <name type="person" ref="per:108609">Sterk</name> erschienen.und<lb/>
+<name type="person" ref="per:98053">Wanke</name> waren ebenfalls anwesend- Ich erklärte, daß auf Grund<lb/>
+des großen Kompetenzgesetzes das 1. Mal alle Energiekom<lb break="no"/>petenzen in einem Ministerium vereint sein werden, <name type="person" ref="per:97467">Gasser</name><lb/>
+wollte und insbesondere MR. <name type="person" ref="per:110981">Petzl</name> erklärten, daß unbedingt<lb/>
+die Agenden der OB erhalten werden müssen. Ausgelöst wurde<lb/>
+die Diskussion, weil <name type="person" ref="per:108609">Sterk</name> heute in der Industriesektion<lb/>
+die Abteilung Grundstoffe führt. Ich habe die Herren nicht im<lb/>
+umklaren gelassen, daß die Industriepoltik auch die Bergbau<lb break="no"/>politik umfaßt. Das neue Berggesetz wird der obersten Berg<lb break="no"/>behörde Möglichkeit geben, ihre bergrechtlichen, bergpolizei<lb break="no"/>lichen und sonstigen bergmännischen Agenden zu erfüllen. <name type="person" ref="per:110981">Petzl</name><lb/>
+wollte unbedingt haben, daß auch die Bergbaupolitik ausschließ<lb break="no"/>lich von der OB betrieben wird. Er meinte es sei ganz unver<lb break="no"/>ständlich und könnte nicht akzeptiert werden, daß <choice><choice><sic>hyrachisch</sic><corr>hierarchisch</corr></choice></choice><lb/>
+gesehen die Sektion unter einer Abteilung, eben der von <name type="person" ref="per:108609">Sterk</name><lb/>
+untergeordnet ist. <name type="person" ref="per:108609">Sterk</name> mußte aber erkennen, und ic habe ihm<lb/>
+dies deutlich genug seit eh und je gesagt, daß, wenn er Berg<lb break="no"/>baupolitik betreiben will, dies ausschließlich in der Industrie<lb break="no"/>sektion machen kann. Wenn wir nun in Hinkunft auch die Bergbau<lb break="no"/>förderung letzten Endes in die Industriesektion rübergeben, wird<lb/>
+es einen riesigen Krach auslösen.</p><pb n="14-0150" facs="14_1973-02-08_0150.jpg"/><p xml:space="preserve">Anmerkung für <name type="person" ref="per:97543">HEINDL</name>:<lb/>
+Ich glaube, daß wir hier äußerst vorgehen müssen und vorallem<lb/>
+abwarten, bis <name type="person" ref="per:107937">Frank</name> instaliert ist.</p><p xml:space="preserve"><name type="person" ref="per:113032">Reiger</name> von der Bundeskammer, Dr. <name type="person" ref="per:128856">Oder</name> von der Wiener Kammer<lb/>
+und <name type="person" ref="per:97801">Ottahal</name> besprachen mit mir das Problem der KommRat-Be<lb break="no"/>stellung. Bäckermeister <name type="person" ref="per:149309">Schrammel</name> hat bereits am 8.11. den<lb/>
+KommRat-Titel verliehen bekommen und aus Versehen der Wiener<lb/>
+Kammer wurde er bis hetzt noch nicht überreicht. Nach einem<lb/>
+Monat Nichtübergabe hätte das Handelsministerium verständigt<lb/>
+werden müssen, damit die Wiener Zeitung dann nicht die Er<lb break="no"/>nennung des KommRat bekanntgibt. <name type="person" ref="per:128856">Oder</name> meinte, daß auf Weisung<lb/>
+des Handelsministers <name type="person" ref="per:97749">Mitterer</name> die Überreichung vorigen Monatag<lb/>
+zurückgestellt hat. Ich erklärte sofort, daß ich keinerlei<lb/>
+Weisung gegeben habe und auch jetzt nicht beabsichtige, eine<lb/>
+solche zu geben. Wir haben keinen Einfluß mehr auf die Be<lb break="no"/>stellung von <name type="person" ref="per:149309">Schrammel</name> genommen und können daher auch nicht<lb/>
+entscheiden wie es weitergehen soll. <name type="person" ref="per:97801">Ottahal</name> machte dann den<lb/>
+Vorschlag, da eine Verleihung nach dem <name type="person" ref="per:149309">Schrammel</name> jetzt vom<lb/>
+Obersten Gericht wegen Entlastung der Betriebsräte verurteilt<lb/>
+wurde, am Besten die Verleihungsurkunde zurückziehen sollen.<lb/>
+Wenn nämlich der Antrag überhaupt gelöscht werden sollte, dan<lb/>
+müßte eine entsprechende Beschlußfassung des Ministerrates<lb/>
+erfolgen. <name type="person" ref="per:113032">Reiger</name> meinte, daß doch <name type="person" ref="per:149309">Schrammel</name> jetzt bereit sei,<lb/>
+die Forderung nach einer Betriebsratswahl zuzustimmen und<lb/>
+deshalb die Gewerkschaft und <name type="person" ref="per:149309">Schrammel</name> Vrhandlungen aufnehmen<lb/>
+sollten Ich erklärte sofort, daß dies überhaupt nicht mit<lb/>
+der Gewerkschaft zu tun hat, Die Arbeiterkammer wird mir eine<lb/>
+entspreches Schreiben schicken, wo sie gegen eine Bestellung<lb/>
+eines Mannes, der gegen die Gesetzes verstoßt, zum Kommerzial<lb break="no"/>rat für unmöglich erklärt. Ich wies daraufhin, daß ich um 11.00<lb/>
+eine Besprechung beim Herrn Bundespräsidenten wegen der Komm-<lb/>
+Rat-Titel habe, die der Herr Bundespräsident selbst angeregt<lb/>
+hat. <name type="person" ref="per:113032">Reiger</name> schlug dann vor wir sollten zuwarten, was die Aus<lb break="no"/>sprache beim Bundespräsidenten ergibt und beim nächsten Jour<lb/>
+fix neuerdings besprechen.</p><pb n="14-0151" facs="14_1973-02-08_0151.jpg"/><p xml:space="preserve">Der Bundespräsident wollte wissen, ob er <name type="person" ref="per:146470">Richard Häusler</name> den<lb/>
+KommRat – Titel verleiehen soll. <name type="person" ref="per:97801">Ottahal</name> hat mir auf einem<lb/>
+Aktenvermerk mitgeteilt, daß keinerlei besonderer Grund für<lb/>
+diese Auszeichnung gegeben ist. Ich erzählte <name type="person" ref="per:97607">Jonas</name>, daß <name type="person" ref="per:97893">Sallinger</name><lb/>
+mir versprochen hat, er wird mit den Präsidenten der Landes<lb break="no"/>kammer über eine zweckmäßigere Verleihung des KommRat-Titel<lb/>
+und über Verschärfung der Richtlinien verhandeln. Mit solchen<lb/>
+Anträgen will z. B. <name type="person" ref="per:149309">Schrammel</name>, aber auch von <name type="person" ref="per:142422">Winkler</name>, seiner<lb break="no"/>zeitiger Gastwirt in Salzburg, der auch dann große Schwierig<lb break="no"/>keiten ausgelöst hat, nicht wider vorkommt. <name type="person" ref="per:97607">Jonas</name> meinte,daß<lb/>
+die Kommerzialräte den Wert erhalten sollen und nicht durch<lb/>
+Verleihung an Unwürdige abgewertet werden. Senator <name type="person" ref="per:111738">Burda</name> hat<lb/>
+angefragt, ob er ebenfalls den KommRat-Titel erhalten könnte.<lb/>
+Da bis jetzt an Ausländer noch niemals ein Kommerzialrats-Titel<lb/>
+verliehen wurde und der Bundespräsident dies ablehnt, wurde<lb/>
+sein Ansuchen ebenfalls negativ beschieden. <name type="person" ref="per:97607">Jonas</name> war nun sehr<lb/>
+erstaunt, daß man <name type="person" ref="per:111738">Burda</name> die Auskunft gab, daß sein Ansuchen<lb/>
+abgelehnt wird, obwohl in den Richtlinien eigentlich keine<lb/>
+ausdrückliche Ablehnung vorgesehen ist. <name type="person" ref="per:97607">Jonas</name> erwartete, daß<lb/>
+diese internenen Informationenen nicht an die anfragende Parte<lb/>
+weitergegeben wird. Im Jahre 1972 wurden von ihm 70 KommRat-<lb/>
+Titeln vergeben, aber nur, weil die entsprechenden 50 Jahr-<lb/>
+Feiern eine Erhöhung des Kontingentes nötig machten.</p><p xml:space="preserve">Die Salinen-Arbeiter haben in der Lebensmittelgewerkschaft<lb/>
+verlangt, daß sie Kampfmaßnahmen setzen können. Seinerzeit<lb/>
+wurden ihre Prämien gestrichen und in die Lohnbewegung resp.<lb/>
+in die sonstigen Leistungen eingebaut. Dadurch haben sie zwar<lb/>
+eine Erhöhung der 6,6 %igen Lohnbewegung die alle Staatsbe<lb break="no"/>diensteten bekommen haben auf 8 % ausdehnen können. Jetzt sollen<lb/>
+die Beamten außerdem noch ihre Prämien in Form von Verwaltungs<lb break="no"/>dienstzulagen erhalten. Dadurch würde einen Schlechterstellung<lb/>
+der Salinenarbeiter gegenüber den Beamten erfolgen. Ich habe<lb/>
+seinerzeit, als sie sich im Jahre 1967 entschlossen, von dem<lb/>
+Lohnschema das wir immer verhandelt haben, abzugehen und sich<lb/>
+den öffetnlch Bediensteten anzuschließen, sie vor diesem Schritt<lb/>
+gewarnt. Jetzt spielt natürlich der Lohnaufwand für die 650<lb/>
+<pb n="14-0152" facs="14_1973-02-08_0152.jpg"/>Arbeiter keine große Rolle, doch ist dies ein gefährliches<lb/>
+präjudiz für die 300.000 öffentl. Bediensteten. Die Salinen<lb break="no"/>arbeiter müsssen sich jetzt überlegen bo sie nicht doch wieder<lb/>
+ein eigenes Lohnschema haben wollen.</p><p xml:space="preserve">In der soz. Fraktion der Lebensmittelarbeitervorstandes wurde<lb/>
+über die Tendenz gesprochen, daß die Arbeiter nicht den 8 Stunden-<lb/>
+Tag wollen, sondern womöglich jetzt die 40 Stunden-Woche in 4<lb/>
+Tagen oder gar 3 1/2 Tagen ableisten möchten. Dieser Tendenz wird<lb/>
+es nur sehr schwer gelingen entgegenzutreten. Mit Recht aber<lb/>
+hat der Sozialminister abgelehnt, eine Verlängerung der täglichen<lb/>
+Arbeitszeit. Tatsache ist aber, daß in den Betrieben länger ge<lb break="no"/>arbeitet wird, als das Arbeitszeitgesetz vorsieht.</p><p xml:space="preserve">In der Vorstandssitzung hat Zentralsekretär <name type="person" ref="per:97357">Blümel</name> die Mitglieder<lb break="no"/>statistik genau erörtert. Danach haben die Lebensmittelarbeiter<lb/>
+die 50.000 der Mitgliedergrenze unterschritten. Wir haben im Jahre<lb/>
+1972 2.000 Mitglieder verloren. Die Großbetriebe werden surch<lb/>
+ständige Rationalisierung oder wie z. B. bei Anker oder Hammer<lb/>
+durch die Zusammenlegung wesentlich reduziert. So hat vor der<lb/>
+Zusammenlegung mehr Beschäftigte gehabt als wie jetzt Anker und<lb/>
+Hammer nach der Fusionierung zusammen. Trotzdem nimmt die Gesamt<lb break="no"/>beschäftigung in der Nahrungs- und Genußmittelindustrie und Ge<lb break="no"/>werbe nicht ab. Die mittleren und kleineren Gewerbebetriebe<lb/>
+nehmen immer mehr Arbeitskräfte auf. Die Organisation dieser<lb/>
+Betriebe ist aber äußerst schwierig, um nicht zu sagen unmöglich.</p><p xml:space="preserve">Im Unterausschuß des Handelsausschusses – Gewerbeordnung – hat sich<lb/>
+die Entwicklung so abgespielt, wie ich es erwartet habe. <name type="person" ref="per:97758">Müller</name><lb/>
+der Sprecher der soz. Seite hat noch bei der Fraktion erklärt,<lb/>
+er meinte, wir sollen paragrapheweise wie es die ÖVP wollte,vor<lb break="no"/>gehen und er würde schon dafür sorgen, daß wir schnell vorwärts<lb/>
+kommen. In Wirklichkeit hat sich dann herausgestellt, daß natür<lb break="no"/>lich eine ungeheure Lange und teilweise auch fruchtlose Diskussion<lb/>
+über djeden Paragraph entbrennt. Insbesondere die FPÖ hat Experten<lb/>
+mitgetracht und keine konkreten Anträge gestellt. Bei jedem<lb/>
+Paragraph werden jetzt rechtsphilo. und teilweise rechtspolitische<lb/>
+Überlegungen und Diskussionen angestellt und ich kann mir nicht<lb/>
+<pb n="14-0153" facs="14_1973-02-08_0153.jpg"/>vorstellen, wenn es mit diesem Tempo weitergeht, die wir die<lb/>
+Gewerbeordnung heuer noch im Nationalrat beschließen. Ich<lb/>
+habe deshalb auf ausgesprochen stur und beleidigt geschaltete<lb/>
+indem ich erklärte, jetzt liegt die Gewerbeordnung über ein 3/4<lb/>
+Jahr im Parlament und die Verhandlungen, die jetzt endlich be<lb break="no"/>ginnen, kommen nur zögernd weiter. Insbesondere hat dann <name type="person" ref="per:112996">Staudinger</name>,<lb/>
+der Obmann des Ausschusses, erklärt, daß wir die nächste Sitzung<lb/>
+erst am 28. Feber abhalten können. Meiner Meinung nach ist das<lb/>
+Haus mit vielen anderen Ausschußsitzungen blockiert, daß kein<lb/>
+früherer Termin möglich ist. Ich werde morgen sehr darauf drängen,<lb/>
+wir ddaß doch zu einem früheren Termin und öfters Sitzsngen haben,<lb/>
+damit wir mit der Materie weiterkommen. <name type="person" ref="per:97584">Jagoda</name> meinte mir gegen<lb break="no"/>über nach Ende der Sitzung, daß auch im Haus, als er mit den Experte<lb/>
+und Interessensvertretungen die Gewerbeordnung durchgegangen ist,<lb/>
+bei den ersten Paragraphen es am schwierigsten gewesen ist. Im<lb/>
+Laufe der weiteren Paragraphe aber ist es dann wesentlich schneller<lb/>
+gegangen. <name type="person" ref="per:97769">Mussil</name> selbst versicherte mir, daß er maximal zu 30<lb/>
+Paragraphen Probleme hätte und dann die anderen 220 schnell abge<lb break="no"/>wickelt werden könnten.</p><p xml:space="preserve">Am Abend traf ich in der Stadthalle Minister <name type="person" ref="per:97879">Rösch</name> und er er<lb break="no"/>zählte mir, daß er tätglich jetzt Meldungen über Preiserhöhungen<lb/>
+undPreisanzeigen erhölt. Soweit er diese über MR. <name type="person" ref="per:112051">Singer</name> prüfen<lb/>
+läßt kann er feststellen, daß diese zwar alle richtig entlastet<lb/>
+wurden und damit die Preiserhöhungen berechtigt sind. Ein Aus<lb break="no"/>spruch war, er wird froh sein, wenn er endlich für die ganze<lb/>
+Preismisere und die Preisbestimmunge und Preisregelung los ist.</p><p xml:space="preserve"/></div>
+      </body>
+      <back>
+         <pb n="14_0148_01" facs="14_1973-02-08_0148-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 8.2.1973</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="14_0153_01" facs="14_1973-02-08_0153-01.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Reflexion auf TB betr. Rechnungshof, 8.2.1973</head>
+            <gap reason="sampling"/>
+            <pb n="14_0153_02" facs="14_1973-02-08_0153-02.jpg"/>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+   </text>
+</TEI>

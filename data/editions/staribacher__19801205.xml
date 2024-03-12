@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der  5. Dezember 1980</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band57_1980-12-05</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1980-12-05">Freitag, 5. Dezember 1980</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-03-07">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="57-1510" facs="57_1980-12-05_1510.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Freitag, 5. Dezember 1980<lb/>
+</p>
+            <p xml:space="preserve">Beim Jour fixe in der HK hatte ich zuerst Gen.Sekr. <name type="person" ref="per:112978">Kehrer</name> und dann,<lb/>
+als <name type="person" ref="per:97893">Sallinger</name> später kam, sofort mit dem Mittagsjournal des Bundespar<lb break="no"/>teiobmanns <name type="person" ref="per:111325">Mock</name> konfrontiert. Dieser hat nach einer Sitzung des Bun<lb break="no"/>desparteivorstandes der ÖVP erklärt, <name type="person" ref="per:97311">Androsch</name> müsse jetzt endlich<lb/>
+aus der Regierung entfernt werden, er zerbreche sich nicht den Kopf<lb/>
+von Bundeskanzler <name type="person" ref="per:97668">Kreisky</name>, doch sei ja bekannt, daß auch die Energie<lb break="no"/>politik <name type="person" ref="per:97985">Staribachers</name> sehr kritisiert wird. In diesem Zusammenhang ist<lb/>
+klar und deutlich zu verstehen, auch <name type="person" ref="per:97985">Staribacher</name> sollte entfernt wer<lb break="no"/>den. Dies wurde natürlich von den beiden ganz entschieden abgestritten.<lb/>
+Ich sollte nicht so angerührt sein, ich wisse ganz genau, welches Ver<lb break="no"/>trauen ich in der Wirtschaft habe, wie sehr sie sich um eine Zusammen<lb break="no"/>arbeit mit mir bemühen. Auch Staatssekretär <name type="person" ref="per:109808">Albrecht</name> redete beschwich<lb break="no"/>tigend auf mich ein, ich sollte doch nicht daraus erklären, ich hätte<lb/>
+nicht mehr das Vertrauen, meine Arbeit sei erledigt, ich könnte ruhig<lb/>
+gehen. Anfangs war <name type="person" ref="per:97893">Sallinger</name> sichtlich berührt und geängstigt, er<lb/>
+fürchtet noch immer, daß natürlich ein Nachfolger z.B. an der Konstruk<lb break="no"/>tion des Außenhandelsbeitrages rühren würde. Mit Schrecken denkt er<lb/>
+daran, daß z.B. zwischen dem Landwirtschaftsminister und den Bauernver<lb break="no"/>tretern, ja selbst mit der offiziellen Landwirtschaftskammer ein unge<lb break="no"/>heuer schlechtes Gesprächsklima besteht. Erst jetzt hat er diesbezüg<lb break="no"/>lich mit Präs. <name type="person" ref="per:97346">Benya</name> darüber gesprochen. Dieser hätte ihm versichert,<lb/>
+daß meine Position gefestigter den je ist. Er werde sofort mit <name type="person" ref="per:111325">Mock</name><lb/>
+über dieses Interview sprechen. Zum Schluß mußte sogar ich einlenken,<lb/>
+denn das Ganze berührt mich wirklich überhaupt nicht. Mein Einstellung<lb/>
+ist nach wie vor, will <name type="person" ref="per:97668">Kreisky</name> eine generelle Lösung, die der Partei<lb/>
+am wenigsten schadet, und dem Ansehen der Minister, die ausscheiden<lb/>
+müssen, nicht auch optisch Abbruch tun, dann muß ein objektives Krite<lb break="no"/>rium suchen, warum er die Minister ablöst. Das beste ist noch immer,<lb/>
+die seit 70 im Amt waren, haben die 70-er Jahre bestens gelöst und<lb/>
+für die 80-er Jahre müssen eben jetzt neue bestimmt werden. Unglück<lb break="no"/>lich darüber, das steht für mich fest, wäre die Handelskammer.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:112978">Kehrer</name> teilte ich mit, daß jetzt der Brief bezüglich der rückwirkenden<lb/>
+Antidumpingabgabe, die ich ja wirklich nur als Rute im Fenster hand<lb break="no"/>haben will, unterwegs ist.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Beide Briefe für Handelsausschuß vorbereiten.<lb/>
+</p>
+            <pb n="57-1511" facs="57_1980-12-05_1511.jpg"/>
+            <p xml:space="preserve">Bezüglich der Schließung Skifabrik Kneissl meint <name type="person" ref="per:112978">Kehrer</name> zurecht, die<lb/>
+Bürgermeister sind immer mit aller Entschiedenheit dagegen, wenn ein<lb/>
+Betrieb wo geschlossen wird, auch dann, wenn genug Arbeitsplätze in den<lb/>
+anderen Gemeinden vorhanden sind. Da die Bürgermeister natürlich aus<lb/>
+der Lohnsteuer und sonstigen Abgaben solche Betriebe brauchen und auch<lb/>
+behalten wollen, protestieren sie auch dann gegen Schließungen, wenn<lb/>
+in angrenzenden Gemeinden Arbeitskräfte gebraucht werden. Für<add>[die]</add> Kufstei<lb break="no"/>ner Beschäftigung ist keine Gefahr. Die Jenbacher-Werke brauchen allein<lb/>
+über 100.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Bitte die Arbeitsmarktanalyse vom Sozialministe<lb break="no"/>rium verlangen.<lb/>
+</p>
+            <p xml:space="preserve">Die E-Preise in Niederösterreich sind mit 7,6 Groschen auf den Arbeits<lb break="no"/>preis abgegolten. Auch die Wiener sollten die 119,6 kriegen, der Rest,<lb/>
+der auf die Belastung durch die Gas- und Ölpreissteigerung fällt, soll<lb/>
+durch Anpassung der Leistungspreise, insbes. natürlich der Tarifräume,<lb/>
+an den niederösterreichischen Tarif erfolgen. <name type="person" ref="per:112978">Kehrer</name> nimmt dies zur<lb/>
+Kenntnis.<lb/>
+</p>
+            <p xml:space="preserve">Die Grundig-Philips-Diskussion über zollfreie Bildröhreneinfuhr aus<lb/>
+Japan bis 26 Zoll kann die Handelskammer auch nicht lösen. Ich infor<lb break="no"/>miere ihn, daß in Brüssel gegen jedwede Konzession gegenüber den<lb/>
+Japanern großes Bedenken herrscht. Ich werde diesbezüglich Grundig<lb/>
+in einem Brief informieren.<lb/>
+</p>
+            <p xml:space="preserve">Die Inlandsgaspreise werden solange von mir nicht erhöht, als entweder<lb/>
+RAG und ÖMV jetzt endlich einen tragbaren Vertrag über 15 % Förderzins<lb/>
+abschließen oder die Vorstellung der AK, eine gesetzliche Regelung<lb/>
+durchzuführen, beschlossen ist. <name type="person" ref="per:112978">Kehrer</name> wird dieses Problem mit seinen<lb/>
+Leuten besprechen.<lb/>
+</p>
+            <p xml:space="preserve">Bezüglich der Düngepreiserhöhung von Chemie Linz um 19,7 %, das heißt<lb/>
+also den beantragten Erhöhungssatz, erklärt <name type="person" ref="per:112978">Kehrer</name> dezidiert, daß die<lb/>
+Handelskammer keinen mit den anderen drei Kammern gemeinsamen Preisre<lb break="no"/>gelungsantrag an mich stellen wird. GD <name type="person" ref="per:112054">Buchner</name> hat sich vollkommen<lb/>
+abkommenskonform verhalten. Es ist eine Nichteinigung festgestellt<lb/>
+worden, er kann daher ohne weiteres einen beantragten Preis verlangen.<lb/>
+Wenn die Landwirtschaftskammer dagegen etwas unternehmen will, so hat<lb/>
+<name type="person" ref="per:112978">Kehrer</name> Präs. <name type="person" ref="per:97691">Lehner</name> von der Präsidentenkonferenz der Landwirtschafts<lb break="no"/><pb n="57-1512" facs="57_1980-12-05_1512.jpg"/>kammern klar und deutlich gesagt, dann muß sie einen alleinigen Antrag<lb/>
+nach § 4 des Preisgesetzes, Prüfung der betriebswirtschaftlichen Not<lb break="no"/>wendigkeit stellen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Ist ein solcher Antrag schon gekommen?<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:112978">Kehrer</name> teilt mit, daß die Importschrottpreisregelung unbedingt dazu<lb/>
+führen muß, daß dann auch die privaten Schrotthändler und die kleine<lb break="no"/>ren ihre Tätigkeit aufrechterhalten können.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:112978">Kehrer</name> spricht sich ganz entschieden gegen einen Beirat der Interessen<lb break="no"/>vertretungen im Handelsministerium aus, welcher die Unterlagen für<lb/>
+die OECD betreffend multinationale Tätigkeit in Österreich zusammentra<lb break="no"/>gen oder prüfen sollen. Die Multis und die Handelskammer sind der<lb/>
+Meinung, daß sie nur Ziffern den Stellen liefern, wohin sie gesetzlich<lb/>
+verpflichtet sind. Eine freiwillige weitere Zusammenarbeit wird sogar<lb/>
+dahingehend abgelehnt, daß unter meinem Vorsitz oder einem Vorsitz<lb/>
+eines Handelsministeriumsbeamten einmal darüber geredet wird, um welche<lb/>
+Ziffern es sich handeln sollte. <name type="person" ref="per:112978">Kehrer</name> schlägt vor, MR Dr. <name type="person" ref="per:98109">Zembsch</name><lb/>
+soll mit den einzelnen Firmen reden, ob er und welche Unterlagen er<lb/>
+bekommen kann.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte dies mit AK besprechen und <name type="person" ref="per:98109">Zembsch</name> dann<lb/>
+beauftragen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:112978">Kehrer</name> hat größte Bedenken, daß im Parlament der EG-Österreich-Vertrag<lb/>
+über Griechenland-Beitritt ohne Diskussion genehmigt werden wird.<lb/>
+Das glaube auch ich nicht, die Landwirtschaft wird sicherlich entspre<lb break="no"/>chende Forderungen an <name type="person" ref="per:97668">Kreisky</name> herantragen. Die Zeit ist allerdings<lb/>
+für die Landwirtschaft schon sehr kurz. Ich nehme nicht an, daß die<lb/>
+ÖVP diesen Vertrag im Parlament ablehnt, da er aber mit 2/3-Mehrheit<lb/>
+beschlossen werden muß, ist spätestens nächste Woche eine Gelegenheit,<lb/>
+die eventuelle Aussprache der Landwirtschaft mit <name type="person" ref="per:97668">Kreisky</name> herbeizuführen.<lb/>
+In der Vergangenheit war es nämlich immer so, daß die Landwirte im<lb/>
+letzten Moment entsprechende Forderungen an den Regierungschef herange<lb break="no"/>bracht haben.<lb/>
+</p>
+            <p xml:space="preserve">Prof. <name type="person" ref="per:117925">Winkler</name> hat auch mit der Handelskammer die Einladung einer neuen<lb/>
+Wirtschaftsdelegation aus Nationalchina, Formosa, besprochen. Die<lb/>
+Handelskammer legt größten Wert darauf, daß dies genauso abgewickelt<lb/>
+wird wie das letzte Mal. Ich hatte damals den Minister am Flughafen<lb/>
+<pb n="57-1513" facs="57_1980-12-05_1513.jpg"/>abgeholt und ihn auch entsprechend empfangen, so als ob wir noch<lb/>
+immer offizielle Beziehungen mit Taiwan hätten. Dies ist eine alte<lb/>
+Taktik von mir. Ich richte mich bei Besuchen und Verhandlungen aus<lb break="no"/>schließlich nach den wirtschaftlichen Notwendigkeiten und keinesfalls<lb/>
+nach den politischen, oft sehr komplizierten Verhältnissen.<lb/>
+</p>
+            <p xml:space="preserve">Die Handelskammer spricht sich ganz entschieden dagegen aus, daß der<lb/>
+Reisebüroverband Österreichs, KR <name type="person" ref="per:112934">Raml</name>, der gleichzeitig auch aber<lb/>
+hoher Kammerfunktionär ist, mit den Jugoslawen einen Vertrag abschließt,<lb/>
+wonach beide Organisationen als Unterausschuß eines Fremdenverkehrsab<lb break="no"/>kommens zwischen Österreich und Jugoslawien fungieren. Diese Funktion<lb/>
+könnte höchstens der Fachverband für Reisebüros, sprich KR <name type="person" ref="per:109291">Scheiner</name><lb/>
+resp. Dr. <name type="person" ref="per:118737">Schimka</name> einnehmen. Ich selbst hab große Mühe <name type="person" ref="per:112978">Kehrer</name> davon<lb/>
+zu überzeugen, daß man seine eigenen Funktionäre, wenn sie auch in<lb/>
+anderer Funktion tätig wurden, nicht so blamieren kann. Ich erkläre<lb/>
+mich bereit, mit KR <name type="person" ref="per:109291">Scheiner</name> und dem freiwilligen Reisebüroverband<lb/>
+Gespräche zu führen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte<add>[mit]</add> <name type="person" ref="per:109291">Scheiner</name> verbinden.<lb/>
+</p>
+            <p xml:space="preserve">Die Wirtschaftstreuhänderforderung von 15 % hat die Handelskammer mit<lb/>
+10,7 % als berechtigt anerkannt. Sie richtet sich danach nach der<lb/>
+Verbraucherpreisindexsteigerung vom Oktober 78 bis September 80. Die<lb/>
+Betriebsberater haben derzeit einen Tagessatz von 3.200 S, die Wirt<lb break="no"/>schaftstreuhänder nur von 2.068.–– Da man aber die Wertgebühren im<lb/>
+Verhältnis 4 zu 1 ÖIAG und Banken berücksichtigen muß, ergibt sich<lb/>
+ein Satz von 2.585.––, das wären 370.–– in der Stunde gegenüber 400,––<lb/>
+der Betriebsberater. Nach dieser Berechnung sollte wir versuchen, ein<lb/>
+Kompromiß zu erzielen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR SC <name type="person" ref="per:97584">JAGODA</name>: Vielleicht kann man sich jetzt vor Weihnach<lb break="no"/>ten noch darauf einigen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:112978">Kehrer</name> teilt mir mit, daß in der letzten Vorstandssitzung des Wirt<lb break="no"/>schaftsforschungsinstitutes Dr. <name type="person" ref="per:97937">Seidel</name> mitgeteilt hat, daß <name type="person" ref="per:127887">Handler</name> in<lb/>
+den Bankenverband geht und <name type="person" ref="per:97764">Musil</name> ins Handelsministerium in die Ener<lb break="no"/>giesektion. Diesbezügliche Gespräche finden statt, ich bin darüber<lb/>
+sehr erstaunt, denn ich habe keine Ahnung.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Wer hat hier Gespräche geführt?<lb/>
+</p>
+            <pb n="57-1514" facs="57_1980-12-05_1514.jpg"/>
+            <p xml:space="preserve">Ich ersuche <name type="person" ref="per:112978">Kehrer</name> neuerdings, daß Dr. <name type="person" ref="per:126405">Klose</name> mit AK-Vertretern im<lb/>
+Rahmen des Wirtschafts- und Sozialbeirates doch Gespräche über Atom<lb break="no"/>sicherheit und Müllagerung auch offiziell aufnehmen kann. <name type="person" ref="per:112978">Kehrer</name><lb/>
+stimmt mit mir überein, daß die wichtigste Frage ist, ob wir eine<lb/>
+Atommüllagerungslösung vorschlagen können.<lb/>
+</p>
+            <p xml:space="preserve">Staatssekretär <name type="person" ref="per:109808">Albrecht</name> verweist darauf, daß jetzt ein neuer Antrag<lb/>
+wegen des Ladenschlußproblems im Handelsausschuß von der FPÖ vorliegt,<lb/>
+wir einigen uns darauf, daß ein Unterausschuß gebildet wird.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:109808">Albrecht</name> bedankt sich, daß jetzt endlich für ihre Arbeitsgruppe Möbel<lb/>
+und Wohnen auch die HK delegiert hat. Sie urgiert auch, daß es Pro<lb break="no"/>duktivgenossenschaften wie Jauntal, Mürztal gibt, wo entsprechend zweck<lb break="no"/>mäßige Möbel erzeugt werden, die sie selbst besichtigt hat. <name type="person" ref="per:112978">Kehrer</name><lb/>
+verweist darauf, daß auch die Wiener Tischlerinnung in der Vergangen<lb break="no"/>heit solche Produktivgenossenschaften hatte, die alle, nachdem sie<lb/>
+eine kurze Phase nur mehr Handelsgeschäfte getätigt haben, zugrunde<lb/>
+gegangen sind. Die Aussprache mit IKEA über eventuellen Kauf von<lb/>
+österreichischen Möbeln war infolge der großen Preisdifferenz zu<lb/>
+billigeren Ostimporten, die IKEA bis jetzt getätigt hat, nicht erfolg<lb break="no"/>reich.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:112978">Kehrer</name> teilt mir mit, daß jetzt der Handelsdelegierte <name type="person" ref="per:127889">Koch</name> aus der<lb/>
+Schweiz berichtet hat, die Anfrage des Schweizer Handelsdelegierten<lb/>
+<name type="person" ref="per:127888">Karatsch</name> bei einer Aussprache mit mir, wie es mit dem Außenhandelsför<lb break="no"/>derungsbeiträgen steht, ob diese nicht versteckte Subvention wären,<lb/>
+von <name type="person" ref="per:125287">Sommaruga</name>, sprich dem dafür zuständigen Beamten, als vollkommen<lb/>
+unerklärlich abqualifiziert wurde. <name type="person" ref="per:127888">Karatsch</name> hat keinen wie immer ge<lb break="no"/>arteten Auftrag gehabt.<lb/>
+</p>
+            <p xml:space="preserve">Ich appelliere zum Schluß an die Bundeskammer, daß bei offiziellen<lb/>
+Anlässen der Handelsdelegierten und allen sonstigen Veranstaltungen nur<lb/>
+österreichische Weine ausgeschenkt werden sollten. <name type="person" ref="per:112978">Kehrer</name> nimmt genau<lb/>
+wie ich an, daß dies sowieso schon geschehen ist, wird aber neuerdings<lb/>
+alle Handelsdelegierten darauf aufmerksam machen. Ich erkläre mich<lb/>
+bereit, dem Außenminister <name type="person" ref="per:108328">Pahr</name> zu schreiben, daß auch die österreichi<lb break="no"/>schen offiziellen Botschaften, Konsulate usw. so vorgehen sollten.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte entsprechenden Brief veranlassen,<lb/>
+</p>
+            <p xml:space="preserve">Prof. <name type="person" ref="per:117925">Winkler</name> kommt, um offiziell die Genehmigung einzuholen, daß eine<lb/>
+<pb n="57-1515" facs="57_1980-12-05_1515.jpg"/>Delegation wieder nach Österreich nach Taiwan einladen kann. Er be<lb break="no"/>gibt sich jetzt mit dem neuen Handelsdelegierten <name type="person" ref="per:127890">Ziller</name> nach Formosa.<lb/>
+<name type="person" ref="per:127890">Ziller</name> wird formal Tokio unterstehen, aber vollkommen selbständig<lb/>
+agieren. Dadurch kann man die eventuellen außenpolitischen Schwierig<lb break="no"/>keiten mit Rot-China vermeiden. Im Jahre 79 hat eine Delegation 70<lb/>
+Mio., im heurigen Jahr 170 Mio. S, Waagner-Biro einen Großauftrag und Pa<lb break="no"/>pier um 12 Mio. aus diesen Tätigkeiten heimbringen können. Die Messe<lb/>
+in Taipeh im Mai nächsten Jahres wird von österreichischen Firmen<lb/>
+gut besucht. Die Chinesen sind daran brennendst interessiert und er<lb break="no"/>klären alle Aktivitäten ab Hafen spesenfrei, das heißt, alles zahlt<lb/>
+die chinesische Regierung. Zur Eröffnung wäre es günstig, wenn ein<lb/>
+Handelskammerdelegierter, ein Vizepräsident oder sonstiger hoher Funk<lb break="no"/>tionär fahren würde.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Nächstes Jour fixe HK setzen.<lb/>
+</p>
+            <p xml:space="preserve">Eine lange Diskussion ergibt sich wegen des Voitsberg-III-Verwaltungs<lb break="no"/>gerichtshofentscheids. Prof. <name type="person" ref="per:127892">Winkler</name> wurde von der ÖDK als Konsulent bei<lb/>
+gezogen. <name type="person" ref="per:127892">Winkler</name> bestätigt meine Forderung, man soll so schnell als<lb/>
+möglich das Ediktalverfahren weiterführen und durch Individualladung<lb/>
+der 68, die sich beim Verwaltungsgerichtshof beschwert haben, abwickeln.<lb/>
+Auf der Amtstafel soll man anschlagen, daß auch weitere, die die es<lb/>
+verlangen, sofort den Widmungsbescheid bekommen können. Der Verwaltungs<lb break="no"/>gerichtshof unter Vorsitz von <name type="person" ref="per:127891">Leni</name>, der als Grüner sicherlich sehr<lb/>
+umweltfreundlich ist, hat nämlich nicht aus materiellen Gründen, son<lb break="no"/>dern rein aus formellen Gründen entschieden. Zwischen <name type="person" ref="per:127891">Leni</name> und dem<lb/>
+deutschen Wissenschafter und Univ.Prof. <name type="person" ref="per:127893">Kopp</name>, der eine Zeitlang in<lb/>
+Graz gelehrt hat, gibt es große theoretische Differenzen wegen des<lb/>
+Begriffes übergangene Partei. Da <name type="person" ref="per:127893">Kopp</name> vom Bürgermeister in Voitsberg<lb/>
+als Gutachter herangezogen wurde, kommt jetzt, so habe ich das Gefühl<lb/>
+und das habe ich auch <name type="person" ref="per:127892">Winkler</name> gesagt, ein theoretischer Streit in<lb/>
+einem praktischen Verfahren zur Austragung. <name type="person" ref="per:127892">Winkler</name> meint, man soll<lb/>
+auch mit dem Referenten <name type="person" ref="per:127894">Hauer</name>, der aus der Gemeinde Wien kommt und bei<lb/>
+diesem Senat als Referent entscheidend mitgewirkt hat, sprechen.<lb/>
+Der Bürgermeister soll jetzt einen Auflagenbescheid bezüglich der<lb/>
+Entschwefelung zur Baugenehmigung gegebenenfalls noch erlassen. Die<lb/>
+Baugenehmigung existiert zurecht, <name type="person" ref="per:127892">Winkler</name> meint, es ist gar kein Grund<lb/>
+vorhanden, die Bauarbeiten einzustellen. Das selbe Problem bespreche<lb/>
+ich dann anschließend gleich mit GD <name type="person" ref="per:97453">Fremuth</name> und <name type="person" ref="per:127892">Winkler</name>.<lb/>
+</p>
+            <p xml:space="preserve">Präs. <name type="person" ref="per:97769">Mussil</name>, Verbund, und <name type="person" ref="per:97453">Fremuth</name> diskutieren dann ein Personalproblem<lb/>
+<pb n="57-1516" facs="57_1980-12-05_1516.jpg"/>von <name type="person" ref="per:97453">Fremuth</name>. Dieser hat, als er von der Girozentrale ausgeschieden<lb/>
+ist, keinen Ausscheidungsvertrag unterschrieben. Zugesichert wurde<lb/>
+ihm von seiten der Verbund, daß er nicht schlechter gestellt wird, als<lb/>
+in seiner jetzigen sozialen Stellung bei der Girozentrale. Einen Ge<lb break="no"/>haltsverlust resp. Vorrückungsverlust hat er sowieso akzeptiert. Jetzt<lb/>
+hat die GZ zwar noch nicht eindeutig geklärt, aber um seine Pensions<lb break="no"/>ansprüche zu dokumentieren, 2 1/2 Mio. S der Verbundgesellschaft ange<lb break="no"/>boten. <name type="person" ref="per:97453">Fremuth</name> sagt, das ist das erstemal, daß ein Generaldirektor bei<lb/>
+der Verbund erstens einen Sozialversicherungs- zweitens einen Beamten<lb break="no"/>pensionsanspruch und jetzt noch 2 1/2 Mio. S einbringt. Er möchte des<lb break="no"/>halb eine einwandfreie und ihm jetzt schon zustehende soziale Regelung<lb/>
+seiner Pensionsfrage. <name type="person" ref="per:97769">Mussil</name> ist damit einverstanden, bis auf einen<lb/>
+einzigen Punkt. Wenn sein jetziger Status auch in Hinkunft gelten soll,<lb/>
+dann hätte <name type="person" ref="per:97453">Fremuth</name> auch ein Anrecht, eine Pension zu bekommen, selbst<lb/>
+wenn er entlassen würde. Bei Berufsunfähigkeit, 65 Jahren oder einver<lb break="no"/>nehmlicher Regelung gilt dies sowieso. Ein Entlassungsgrund könnte aber<lb/>
+z.B. sein, daß er eine strafbare Handlung begeht. Auch in diesem Fall<lb/>
+würde ihm dann die Pension automatisch gebühren, einen solchen Vertrag<lb/>
+will <name type="person" ref="per:97769">Mussil</name> nicht unterschreiben, <name type="person" ref="per:97769">Mussil</name> wird jetzt noch mit dem Stell<lb break="no"/>vertreter des Aufsichtsrates LRat <name type="person" ref="per:98037">Vogl</name> reden und dann wahrscheinlich<lb/>
+neuerdings mit <name type="person" ref="per:97453">Fremuth</name> verhandeln. Ich stehe hinter der Zusage, daß<lb/>
+man <name type="person" ref="per:97453">Fremuth</name>, als er in die Verbund gekommen ist, nicht schlechter be<lb break="no"/>handeln wird, als es sein jetziger Status in der GZ ist, bin aber auch<lb/>
+der Meinung, daß dieser Entlassungstatbestand, den er allerdings jetzt<lb/>
+hat, optisch wirklich für <name type="person" ref="per:97769">Mussil</name> unerträglich ist.<lb/>
+</p>
+            <p xml:space="preserve">Die Fa. Haltmeyer, eine Fotokopieranstalt, ist bestens ausgerüstet und<lb/>
+hat Großaufträge von UNO-City, Allgem. Krankenhaus und etlichen Groß<lb break="no"/>firmen. Ing. <name type="person" ref="per:127895">Haltmeyer</name>, ein Bautechniker, hat in seiner vorherigen Be<lb break="no"/>rufstätigkeit viel mit fotokopieren zu tun gehabt und sich jetzt selb<lb break="no"/>ständig gemacht. Wer sein Geldgeber ist, konnte ich nicht herausbrin<lb break="no"/>gen. Insgesamt hat er mindestens 40 Mio. S investiert, bei einem Umsatz<lb/>
+von 40 Mio., daraus sieht man schon, wie groß und modern ausgestattet<lb/>
+dieser Betrieb ist.<lb/>
+</p>
+            <p xml:space="preserve">GD <name type="person" ref="per:97880">Rosenstrauch</name>, Polkarbon, ersucht mich um Intervention bei Außenhan<lb break="no"/>delsminister <name type="person" ref="per:97616">Karski</name>, wenn dieser nach Wien kommt. Dazu bin ich gerne<lb/>
+bereit. Polkarbon rechnet, daß sie von der 1 Mio. t vertragsmäßig ver<lb break="no"/>einbarten Kohle im 1. Quartal mindestens 120.000 für die Vöest-Alpine<lb/>
+und 90.000 für den Haushalt bekommen. Dies wäre weniger, als ursprüng<lb break="no"/>lich vereinbart, aber genügend, um die Versorgung aufrechtzuerhalten.<lb/>
+</p>
+            <pb n="57-1517" facs="57_1980-12-05_1517.jpg"/>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Bitte <name type="person" ref="per:97616">Karski</name>-Gespräch reservieren.<lb/>
+</p>
+            <p xml:space="preserve">Jour fixe mit AK und ÖGB gibt eine heftige Diskussion über die Elektri<lb break="no"/>zitätspreisregelung. Der Präs. der AK hat im Prinzip zugesichert, daß<lb/>
+der Wiener Tarif schön langsam dem<add>[der?]</add> Niederösterreicher zugeführt wird.<lb/>
+Dr. <name type="person" ref="per:98112">Zöllner</name>, aber auch <name type="person" ref="per:114598">Hruby</name> wollen unbedingt jetzt wieder entsprechen<lb break="no"/>de kleinere Korrekturen dieser Stellungnahme. Insbesondere möchten sie<lb/>
+die Industrie ebenfalls und nicht nur die Tarifräume zur Leistungs<lb break="no"/>preiserhöhung heranziehen. Ich bin damit einverstanden, wenn es MR<lb/>
+<name type="person" ref="per:109811">Burian</name> gelingt, einen einstimmigen Beschluß zustandezubringen. Am 1.<lb/>
+Jänner muß auf alle Fälle der neue Elektrizitätspreis gelten.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Laß <name type="person" ref="per:109811">Burian</name> die Situation wissen und Dir genau<lb/>
+berichten.<lb/>
+</p>
+            <p xml:space="preserve">Die AK nimmt mit Bedauern zur Kenntnis, daß die HK nicht bereit ist,<lb/>
+einem § 4 bezüglich der Düngepreise zu stellen.<lb/>
+</p>
+            <p xml:space="preserve">Bezüglich der Verleihung des Dekretes zur Führung des Staatwappens<lb/>
+an die Immobilienmakler wird die AK genaue Untersuchungen anstellen,<lb/>
+ob sie volkswirtschaftlich überhaupt von Bedeutung sind. Dies bezieht<lb/>
+sich nicht auf die Fa. Hrabak, sondern auf die ganze Branche. Ich<lb/>
+selbst habe seinerzeit erklärt, eine Verleihung käme nur dann zustande,<lb/>
+wenn die offizielle Bezeichnung nicht mehr Immobilienmakler, sondern<lb/>
+eben dann schon Treuhänder heißt.<lb/>
+</p>
+            <p xml:space="preserve">Bezüglich der EG-Abkommen wünscht die AK detailliertere Besprechungen.<lb/>
+Es wird eine diesbezügliche interministerielle Sitzung vorgesehen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: <name type="person" ref="per:108322">Meisl</name> soll entsprechende Kontakte mit AK auf<lb break="no"/>nehmen.<lb/>
+</p>
+            <p xml:space="preserve">Bezüglich des Milchpreises berichte ich über die Aussprache mit dem<lb/>
+Allgemeinen Bauernverband. Die AK ist einverstanden, daß im Jänner die<lb/>
+Verhandlungen beginnen. Voraussetzung, um zu einem Abschluß zu kommen,<lb/>
+erklärt Dkfm. <name type="person" ref="per:112010">Blaha</name> von der AK, ist, daß unbedingt vorher ein Kollektiv<lb break="no"/>vertragsabschluß über die Löhne und Gehälter vorliegt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: MR <name type="person" ref="per:112011">Kurzel</name> bitte informieren.<lb/>
+</p>
+            <pb n="57-1518" facs="57_1980-12-05_1518.jpg"/>
+            <p xml:space="preserve">Im Parlament im Plenum stehen die Kapitel Unterricht und Wissenschaft<lb/>
+zur Diskussion. Da Freitag ein Heimreisetag ist, ist tatsächlich um<lb/>
+5 Uhr das Plenum zu Ende. Mit <name type="person" ref="per:97444">Fischer</name> bespreche ich dann noch die not<lb break="no"/>wendigen Gesetzentwürfe wie Antidumping, Zollgesetze usw., die heuer<lb/>
+noch erledigt werden müssen. Für den einzigen Parlamentstag für son<lb break="no"/>stige Vorlagen ergibt sich, so habe ich das Gefühl, eine Tagesordnung<lb/>
+von etlichen dutzenden von Gesetzen. Ich kann verstehen, daß die ÖVP<lb/>
+als Oppositionspartei sich gegen eine solche Überlastung der Tages<lb break="no"/>ordnung wehrt. Letzten Endes aber hat sie zugestimmt und es werden da<lb break="no"/>her der Handelsausschuß, der Integrationsausschuß und der Zollausschuß<lb/>
+noch alle wichtigen Gesetze behandeln. In der SPÖ-Oppositionszeit hätten<lb/>
+wir wahrscheinlich ein solches Entgegengekommen nicht gezeigt.<lb/>
+</p>
+            <p xml:space="preserve">Mit der Radfahrergruppe ARBÖ aus ganz Österreich bespreche ich dann<lb/>
+im Zentralsekretariat die Wünsche der Radler. Zum Glück kann ich ein<lb break="no"/>leitend darauf verweisen, daß jetzt Vöslauer Mineralwasser 120.000 S<lb/>
+für dieses Jahr zur Verfügung stellt. Dort ist die stärkste Radler<lb break="no"/>gruppe. Die anderen beschweren sich darüber, daß sie von den soziali<lb break="no"/>stischen Unternehmungen oder Banken, Sparkassen, ja selbst nicht einmal<lb/>
+vom Konsum entsprechend unterstützt werden. LAbg. <name type="person" ref="per:127897">Glaser</name>, der lange<lb/>
+Zeit auf der Landstraße Funktionär war, bemerkt mit Recht, daß wenn<lb/>
+größere Spenden gegeben werden, dann entweder der Bundeskanzler oder<lb/>
+der Zentralsekretär <name type="person" ref="per:97727">Marsch</name> bemerken, damit hätten sie nichts zu tun,<lb/>
+irgendwelche Verquickung zwischen Spenden und Leistungen von Partei<lb break="no"/>stellen dürfte es nicht geben. Ich selbst erkläre mich bereit, schon<lb/>
+allein wegen des Radlbaren Österreichs, wenn entsprechende konkrete<lb/>
+Vorschläge vorliegen, dort zu intervenieren. Übernommen habe ich, mit<lb/>
+GD <name type="person" ref="per:114051">Beurle</name> wegen Elektrizitätswerk Radlgruppe Kely<add>[?]</add> gesponsert 30.000<add>(50.000.–)</add><lb/>
+S zu sprechen. Mit Ing. <name type="person" ref="per:127896">Stanzl</name>, Bicko-Hendln, der 100.000 S bis jetzt ge<lb break="no"/>spendet hat, nur 50.000 S mehr gibt. Mit GD <name type="person" ref="per:127779">Haumer</name>, Erste Österreichi<lb break="no"/>sche Sparkasse, wegen eines ARBÖ-Jugendradklubs. Mit GD <name type="person" ref="per:121800">Übleis</name> wegen<lb/>
+Post 17 und mit GD <name type="person" ref="per:111400">Malzacher</name>, Steyr-Daimler-Puch, wegen Gänserndorfer<lb/>
+Radklub.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:125291">MARTIN</name>: Bitte mich mit den Genannten verbinden.<lb/>
+</p>
+            <p xml:space="preserve">Mit <name type="person" ref="per:97411">Effenberger</name>, ein guter Manager, der alle Angebote bis jetzt aus<lb/>
+dem Sekretariat des ARBÖs woandershin zu übersiedeln abgelehnt hat,<lb/>
+bespreche ich dann natürlich auch die politische Situation. <name type="person" ref="per:97411">Effenberger</name><lb/>
+schildert mir einige Vorfälle, die wahrlich nicht geeignet sind, daß<lb/>
+wir jetzt von einer geschlossenen Partei, geschweige denn von einer<lb/>
+<pb n="57-1519" facs="57_1980-12-05_1519.jpg"/>Solidarität oder gar Kameradschaft reden können. Für viele ist eben<lb/>
+Politik scheinbar ein Betätigungsfeld für Machtkämpfe, ja vielleicht<lb/>
+Intrigen, sicherlich oft verstanden im scheinbaren Interesse für die<lb/>
+Idee, manche vielleicht sogar in der Meinung für den Sozialismus. Ich<lb/>
+teile dieser Art der Politik nicht, kann ihr überhaupt nichts abge<lb break="no"/>winnen, im Gegenteil, lehne sie ganz entschieden ab. Was <name type="person" ref="per:97411">Effenberger</name><lb/>
+dann allerdings mit der Feststellung beendet, na Du, Gottigkeit, von<lb/>
+dir erwartet doch wirklich niemand etwas anderes.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="57_1509_01" facs="57_1980-12-05_1509-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 5.12.1980</head>
+         </div>
+         <pb n="57_1509_02" facs="57_1980-12-05_1509-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

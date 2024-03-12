@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der  5. Februar 1977</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band34_1977-02-05</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1977-02-05">Samstag, 5. Februar 1977</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-02-25">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="34-0136" facs="34_1977-02-05_0136.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Samstag, 5. Feber 1977<lb/>
+</p>
+            <p xml:space="preserve">Mit <name type="person" ref="per:113080">Simakow</name> und ganz besonders dem sowjetischen Handelsdelegierten<lb/>
+<name type="person" ref="per:113078">Nikolaenko</name> diskutiere ich wegen der Lieferung Kolaphosphate??.<lb/>
+<name type="person" ref="per:97426">Fälbl</name> hat als Gegenbesuch von Freitag abends bei der sowjetischen<lb/>
+Handelsdelegation, wo er, wie er mir dann mitteilte, bis 3 Uhr früh<lb/>
+gezecht wurde, zu einem Heurigen am Bisamberg, Stuttner, eingeladen.<lb/>
+Dort gibt es zwar nicht diese Nobelheurigen wie in Grinzing, dafür<lb/>
+aber sind wirklich die hausgemachten Blutwürste, Leberwürste, Schmalz,<lb/>
+Liptauer usw. ganz hervorragend. Die Ausstattung ist primitivst, dafür<lb/>
+aber wirklich noch <choice><choice><sic>echte Heurige</sic><corr>ein echter Heuriger</corr></choice></choice>. Bevor wir dort also mit dem Zechgelage<lb/>
+beginnen, erkläre ich, muss ich die Intervention der Chemie Linz,<lb/>
+wegen dieser Nichtlieferung besprechen. <name type="person" ref="per:112049">Rimsky</name> hat mir mitgeteilt,<lb/>
+dass sie jährlich 100–150.000 Tonnen <choice><choice><sic>Kolaphosphate</sic><corr>?</corr></choice></choice> bekommen. Die<lb/>
+Tonne um 1.300 Schilling. Dieser Vertrag wurde auf Drängen des sowje<lb break="no"/>tischen Botschafters in Wien, <name type="person" ref="per:145890">Awilow</name>, mit Unterstützung von <name type="person" ref="per:137069">Schopf</name><add>[evtl. Falschidentifikation, Anm.]</add>,<lb/>
+1963 geschlossen. Vorher haben die Stickstoffwerke aus Marokko, <choice><choice><sic>Decel</sic><corr>?</corr></choice></choice>-<lb/>
+Phosphat bezogen. Sollte das sowjetische Phosphat ausbleiben, müsste<lb/>
+die Phosphorsäureanlage und damit im Gefolge auch die Schwefelsäure<lb break="no"/>anlage stillgelegt werden, wenn nicht entsprechende Ersatzlieferungen<lb/>
+kommen. An den Anlagen sind 400 Leute beschäftigt. Wenn auf amerika<lb break="no"/>nisches Phosphat umgestiegen wird, müssten Investitionen von<lb/>
+bis zu 50 Mio. Schilling in Linz gemacht werden. Der Lieferpartner ist<lb/>
+Sojusprom, die mit einem Fernschreiben auf dieses Geschäft neuerdings<lb/>
+angesprochen wurde und jetzt mit 2. Feber 1977 endgültig absagt. <name type="person" ref="per:113080">Simakow</name><lb/>
+hat sofort auf den Handelsrat <name type="person" ref="per:113078">Nikolaenko</name> verwiesen, der ehemaliger<lb/>
+Generaldirektor bei Sojusprom war. <name type="person" ref="per:113078">Nikolaenko</name> erklärte, er hätte im<lb/>
+Vorjahr Chemie Linz ausdrücklich darauf aufmerksam gemacht, wenn sie<lb/>
+nicht die Mengen an Rohstoffen von Sojusprom beziehen, dann die Ver<lb break="no"/>träge automatisch erlöschen werden. In der UdSSR herrscht das System,<lb/>
+dass wenn nicht ausländische Verträge zu erfüllen sind, sofort die in<lb break="no"/>ländischen Werke diese Rohstoffmengen übernehmen. Dies sei im Vorjahr<lb/>
+geschehen, weil Chemie Linz nur 50.000 Tonnen importierte. Genau dieselbe<lb/>
+Situation sei auch bei Naphta. Die Schuld liegt daher ausschliesslich<lb/>
+bei Chemie Linz. Ich erwiderte, dass selbst wenn diese Behauptung<lb/>
+stimmt, dann die Sowjets zumindestens 50.000 Tonnen liefern müssten,<lb/>
+denn diese Menge wurde ja nach Angaben von <name type="person" ref="per:113078">Nikolaenko</name> im vergangenen<lb/>
+Jahr abgenommen. <name type="person" ref="per:113078">Nikolaenko</name> erwiderte auch, dass sie von Chemie Linz<lb/>
+jetzt Kunststoffsäcke 1 Mio. Stück 1976 bezogen haben und jetzt 1977<lb/>
+2–3 Mio. Stück kaufen würden. Ich erkundigte mich sofort um den Preis<lb/>
+<pb n="34-0137" facs="34_1977-02-05_0137.jpg"/>und erfuhr, dass sie im vergangenen Jahr noch 30 Cent bezahlten,<lb/>
+die Chemie-Linz Werke jetzt um 28 Cent verkaufen würden, die Sowjets<lb/>
+aber ein japanische Angebot von 18 Cent pro Stück haben und diesen<lb/>
+Preis Chemie Linz nur bezahlen wollen. Selbstverständlich kann es auf<lb/>
+dieser Basis kaum einen Abschluss geben. Ähnlich ist es mit einer<lb/>
+chemischen Lieferung von <choice><choice><sic>Teplezit</sic><corr>?</corr></choice></choice>. Ich ersuchte <name type="person" ref="per:113080">Simakow</name> trotzdem er<lb/>
+möge unverzüglich nach Rückkehr nach Moskau mit Sojusprom verhandeln.<lb/>
+Ich selbst werde auch mit der Chemie Linz sprechen um die differenten<lb/>
+Auffassungen aufzuklären.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name>: Bitte mit <name type="person" ref="per:112049">Rimsky</name> reden und mich mit <name type="person" ref="per:112054"><sic>....ner ??</sic></name> <add>[evtl. Falschidentifikation, Anm.]</add><lb/>
+verbinden.<lb/>
+</p>
+         </div>
+      </body>
+      
+   </text>
+</TEI>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Donnerstag, der 13. Jänner 1983</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band68_1983-01-13</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1983-01-13">Donnerstag, 13. Januar 1983</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-12-09">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="68-0035" facs="68_1983-01-13_0035.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Donnerstag, 13. Jänner 1983<lb/>
+</p>
+            <p xml:space="preserve">In der LUGA haben die Zuckerarbeiter ein Problem, das sie unbedingt<lb/>
+mit mir besprechen wollten, die Unternehmer haben ohne lange mit ihnen<lb/>
+zu verhandeln, einzelne Vorstände erklärten kategorisch, das ist so<lb break="no"/>wieso ein Geschenk, das sie freiwillig vergeben, die Kampagnenprämie<lb/>
+um 20 % gekürzt, tatsächlich ist diese nicht vertraglich fixiert,<lb/>
+ich versuchte den Kollegen klarzumachen, daß durch die überlange<lb/>
+Kampagnendauer erstmals bis in den Februar hinein die Unternehmer<lb/>
+sicher auf dem Standpunkt stehen, daß die Zuckerarbeiter noch nie<lb break="no"/>mals eine so lange Verdienstmöglichkeit hatten. Während der Kampagne<lb/>
+sind die Nacht- und Überstundenzuschläge die ausbezahlten Löhne beson<lb break="no"/>ders hoch. Die Unternehmer begründen daher die Kürzung der Prämie<lb/>
+sicherlich damit, daß die Jahreseinkommen bei dieser Kampagne durch die<lb/>
+lange Dauer außergewöhnlich gut sind. Die Zuckerindustrie hat die<lb/>
+größten Schwierigkeiten, die mindestens über 100.000 to betragenden<lb/>
+Überschüsse, die <choice><choice><sic>wetern</sic><corr>weder</corr></choice></choice> exportiert werden können noch im Inland ver<lb break="no"/>kauft werden kann, einzulagern und eben irgendwie für das nächste<lb/>
+Jahr dann abzusetzen. Alles Kosten, die die Zuckerindustrie bei wesent<lb break="no"/>lich geringerer Absatzchance und wie<add>[sie]</add> sagt nicht kostendeckenden Preisen<lb/>
+tragen muß. Sicher war die Vorgangsweise, wenn sie wie einige Kollegen<lb/>
+schilderten so war, nicht sozialpartnerschaftlich, diese Mitteilung ohne<lb/>
+vorher darüber zu verhandeln ist für die Zuckerindustrie unüblich.<lb/>
+Wir beschlossen daher, daß wir entsprechende Verhandlungen wünschen.<lb/>
+</p>
+            <p xml:space="preserve">VW Deutschland hat eine Wärmepumpe um ca. 50 Mio. DM bisherige Investition<lb/>
+entwickelt. Da die Umsatzziffern zumindest zu Beginn der Produktion<lb/>
+zu gering <choice><choice><sic>ist</sic><corr>sind</corr></choice></choice>, entschloß sich der VW Vorstand in Wolfsburg dieses jetzt<lb/>
+fertige Projekt ins Ausland zu vergeben. VW ist immer nur an Serien von<lb/>
+100.000 Stück pro Jahr interessiert. Eine solche große Serie kann aber<lb/>
+selbst in einigen Jahren nicht erreicht werden. Dringend notwendig ist<lb/>
+nämlich, daß gleichzeitig auch das Service in den Ländern entwickelt<lb/>
+wird, wo diese Pumpe abgesetzt werden soll. Porsche Österreich wird<lb/>
+daher sein Servicenetz zur Verfügung stellen. Bei der <choice><choice><sic>Repräsentation</sic><corr>Präsentation</corr></choice></choice><lb/>
+dieser Wärmepumpe, die auf einen Dieselmotor aufgebaut ist, waren die<lb/>
+Entwickler und Forscher aus der VW-Stadt Wolfsburg gekommen. Staatsse<lb break="no"/>kretär <name type="person" ref="per:97678">Lacina</name>, aber weil er sich auch persönlich dafür interessiert,<lb/>
+Landwirtschaftsminister <name type="person" ref="per:97511">Haiden</name> und ich sowie eine große Anzahl von Beamten<lb/>
+hörten und diskutierten diesen sehr interessanten Vortrag. Die Bundes<lb break="no"/>handelskammer war, wie dies scheinbar jetzt überhaupt üblich ist, nur<lb/>
+durch Vizepräsident <name type="person" ref="per:111717">Schönbichler</name> und einigen Beamten vertreten. VW<lb/>
+Wolfsburg ist heute der größte Dieselmotorenerzeuger. Die Dieselmotoren<lb/>
+<pb n="68-0036" facs="68_1983-01-13_0036.jpg"/>bilden auch neben den Kompressoren, die eigentlich wieder Autokühl<lb break="no"/>systeme sind, die Grundlage dieser Wärmepumpen, der VW-Vertreter, der<lb/>
+für den Vst.Dir. <name type="person" ref="per:111752">Münzner</name> den Einkauf in Österreich organisiert, <name type="person" ref="per:123317">Matou<lb break="no"/>sek</name>, nimmt sich für dieses Lieblingsprojekt wie er es selbst bezeichnet<lb/>
+besonders an. Porsche Salzburg wird jetzt ihr Zentrallager, das in<lb/>
+Wr. Neustadt vorhanden ist, nach Salzburg zurücknehmen, dadurch wird<lb/>
+dieses Gelände in Wr. Neustadt frei, die Wr. Neustädter rechnen aber<lb/>
+fest, daß auf ihrem Gebiet jetzt die Montage dieser Wärmepumpe unver<lb break="no"/>züglich beginnt. Wie ich nachher festgestellt habe interessiert sich<lb/>
+aber auch GD <name type="person" ref="per:116449">Streicher</name>, VMW, der anwesend war, diese Produktion nach<lb/>
+Berndorf zu bekommen. Er hat von VMW in Alternativenergie insbesondere<lb/>
+natürlich eben die Wärmekollektoren bereits 200 Mio. S investiert. Die<lb break="no"/>ses Geld kann er allerdings, wie mir <name type="person" ref="per:97678">Lacina</name> nachher selbst bestätigte,<lb/>
+abschreiben. Die Sonnenkollektoren und alle anderen Alternativenergie<lb break="no"/>investitionen haben sich als Fehlinvestitionen erwiesen, ich selbst<lb/>
+hatte ja immer größte Bedenken gegen diese Sonnenkollektorenproduktion,<lb/>
+weil es erstens zu wenig Sonneneinstrahlung in Österreich gibt und<lb/>
+zweitens selbst Stiebel Eltron bei günstigsten Sonneneinstrahlungen<lb/>
+und wesentlich besserer technischer Organisation mit den Sonnenkollek<lb break="no"/>toren Schiffbruch erlitten hat. Zwischen Wr. Neustadt und Berndorf<lb/>
+wird es daher zu einem harten Konkurrenzkampf kommen durch die schle<lb break="no"/>chte Situation, aber im Raum Wr. Neustadt wird so glaube ich auch<lb/>
+letzten Endes das BKA für die Produktionsstätte Wr. Neustadt drücken.<lb/>
+Ich selbst habe den Vertretern von VW klar und deutlich gesagt, daß<lb/>
+Österreich an dieser Produktion brennendst interessiert ist, daß wir<lb/>
+sie in jeder Beziehung unterstützen werden. Das Handelsministerium hat<lb/>
+nur keine finanziellen Mittel dafür, gemeinsam mit dem BKA werden wir<lb/>
+eine optimale Förderung versuchen, ohne ihnen Details mitzuteilen bin<lb/>
+ich fest davon überzeugt, können sie die 100.000 S pro Arbeitsplatz<lb/>
+plus entsprechende ERP- resp. Top-Kredite <add>[?, hs. Korr. unklar; Anm.]</add> bekommen. Die in Deutschland<lb/>
+entwickelten Unterlagen, insbesondere Energieeinsparung und Rentabili<lb break="no"/>tätsberechnungen werden jetzt für österreichische Verhältnisse adap<lb break="no"/>tiert. Ich habe dort offiziell zugesagt, daß dies eine Voraussetzung<lb/>
+ist, bevor man in Österreich die notwendigen Beschlüsse fassen kann.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:111737">MARSCH</name> UND <name type="person" ref="per:108746">HAFFNER</name>: Bitte in Zusammenarbeit mit <name type="person" ref="per:123317">Matousek</name><lb/>
+sofort diese Vorarbeiten in Angriff nehmen.<lb/>
+</p>
+            <p xml:space="preserve">Dir. <name type="person" ref="per:113107">Walter</name> von der Porr AG scheidet dort nach über 30-jähriger Tätig<lb break="no"/>keit aus, weil er sich mit dem anderen Vorstandsdirektor <name type="person" ref="per:114058">Huber</name> nicht<lb/>
+versteht. <name type="person" ref="per:113107">Walter</name> hat nun in Amerika festgestellt, daß in den USA sei<lb break="no"/>ner Meinung nach österreichische Baufirmen sicherlich Bauaufträge be<lb break="no"/><pb n="68-0037" facs="68_1983-01-13_0037.jpg"/>kommen könnten. Als ich verwundert fragte wie und was dort eigentlich<lb/>
+gebaut werden könnte, das die Amerikaner selbst nicht wesentlich<lb/>
+besser zusammenbringen, meinte <name type="person" ref="per:113107">Walter</name>, die österreichische Tunnelbauweise<lb/>
+ist heute weltweit als führend bekannt. Einer Schweizer Firma ist es<lb/>
+z.B. geglückt, die Verankerungen so zu spezialisieren, daß sie gegen<lb/>
+die härteste amerikanische Konkurrenz in den USA als die Verankerungs<lb break="no"/>firma bekannt ist und daher auch stets herangezogen wird. <name type="person" ref="per:113107">Walter</name> glaubt,<lb/>
+daß auch eine solche österreichische Tunnelproduktionsgemeinschaft dort<lb/>
+sehr wohl Bauaufträge bekommen könnte.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:111737">MARSCH</name> UND <name type="person" ref="per:108746">HAFFNER</name>: Bitte diese Überlegungen prüfen.<lb/>
+</p>
+            <p xml:space="preserve">MR <name type="person" ref="per:112011">Kurzel</name> berichtet mir, daß über die Zuckerpreisverhandlungen die erste<lb/>
+Sitzung stattgefunden hat. Das Klima meint er war ausgezeichnet, die<lb/>
+Sachdifferenzen zwischen AK, die eine 20 Groschen Beteiligung der<lb/>
+Landwirtschaft an dieser Überschußproduktion verlangen, die von der<lb/>
+Landwirtschaftskammer ganz entschieden abgelehnt wird, noch sehr dif<lb break="no"/>ferenzierte Auffassungen existieren. <name type="person" ref="per:112011">Kurzel</name> ist fest davon überzeugt,<lb/>
+daß er trotzdem bevor er auf Kur geht, die notwendigen einvernehmli<lb break="no"/>chen Beschlüsse zustande bringt. Ich habe schon etliche Mal festgestellt,<lb/>
+daß es äußerst günstig ist wenn Beamte Kurtermine haben, sie setzten<lb/>
+dann nämlich alles daran, daß dies vor dem Kurbeginn sie ihre Arbeit<lb/>
+erledigt haben. Manche allerdings scheren sich da weniger um die Arbeit,<lb/>
+denen ist die Kur das allerwichtigste. Die Arbeit soll dann halt<lb/>
+irgend ein anderer machen oder sei bleibt eben liegen, bis sie zurück<lb break="no"/>kommen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:112011">Kurzel</name> teilte mir mit, daß die Landwirtschaft jetzt verlangt hat, daß die<lb/>
+Universität für Bodenkultur eine neue Düngemittelberechnung anstellen<lb/>
+sollte. Der letzte Düngemittelverbrauch für die Getreidekalkulation<lb/>
+liegt etliche Jahre zurück. AK hat zwar Bedenken dagegen, ich glaube<lb/>
+aber, daß wir tatsächlich diese von der Landwirtschaft verlangten Unter<lb break="no"/>lagen von der Bodenkultur bekommen sollten, ich habe daher zugestimmt,<lb/>
+daß der Auftrag für diese Studie an die Bodenkultur gegeben wird, die<lb/>
+Kosten bezifferte <name type="person" ref="per:112011">Kurzel</name> mit 5.000 S für diese Studie.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:123301">VECSEI</name> UND <name type="person" ref="per:131107">GROSSENDORFER</name>: Die Budgetmittel und gleich<lb break="no"/>zeitig aber die 5.000 S als Maximum flüssig machen.<lb/>
+</p>
+            <p xml:space="preserve">MR <name type="person" ref="per:112011">Kurzel</name> bedankte sich bei mir, daß jetzt seine Tochter ebenfalls ins<lb/>
+Handelsministerium aufgenommen wurde. Mit Stolz erzählte er, daß damit<lb/>
+die 4. Generation der Kurzel-Runtscheiner dem Staate jetzt dient.<lb/>
+</p>
+            <pb n="68-0038" facs="68_1983-01-13_0038.jpg"/>
+            <p xml:space="preserve">In der Fraktion der LUGA gab es über die Maßnahmen von <name type="person" ref="per:97668">Kreisky</name> und<lb/>
+<name type="person" ref="per:97891">Salcher</name> eine sehr lange und harte Diskussion. Diese hatte sich dann<lb/>
+sogar in der Vorstandssitzung ebenfalls wiederholt. Ich bin wirklich<lb/>
+sehr froh, daß der ÖGB, insbesondere Präs. <name type="person" ref="per:97346">Benya</name> BK <name type="person" ref="per:97668">Kreisky</name>, der sich<lb/>
+sehr lange dagegen wehrte, und letztens Endes Finanzminister <name type="person" ref="per:97891">Salcher</name> da<lb break="no"/>von überzeugen konnte, daß man für die kleineren Leute den Sparertrags<lb break="no"/>freibetrag von 7.000 S wird in irgendeiner Weise aufrechterhalten.<lb/>
+Hätte es dort keine Sozialkomponente gegeben, wie dies beim 13. und<lb/>
+14., erst ab 20.000 S, oder beim Wegfall der 30 S Wohnungsbeihilfe, ent<lb break="no"/>sprechende Richtlinienänderung für die Kleinstrentenbezieher, so wäre<lb/>
+es sicherlich in der Öffentlichkeit sehr schwer gewesen dieses Steuer<lb break="no"/>paket als einigermaßen erträglich hinzustellen.<lb/>
+</p>
+            <p xml:space="preserve">Der Obmann-Stellvertreter und gleichzeitig auch Obmann von der Unile<lb break="no"/>ver-Fettproduktion in Atzgersdorf als Verhandlungsführer über den<lb/>
+Rahmenkollektivvertrag berichtete über die weiteren Verhandlungen mit<lb/>
+der Unternehmerseite. Dort ziehen sich die Verhandlungen sehr zäh,<lb/>
+zugegebenermaßen wurden auch jetzt zusätzliche Kollektivvertragswünsche<lb/>
+für die Unternehmerseite als sehr schwer verkraftbar bezeichnet. Die<lb/>
+Verhandlungen wurden aber in einer wesentlich besseren Konjunkturlage<lb/>
+begonnen, ziehen sich sicherlich so lange hin, bis wieder eine bessere<lb/>
+Konjunkturlage eintritt, daher hoffen die LUGA, daß es doch möglich sein<lb/>
+wird, zu einem positiven Abschluß zu kommen. Ähnlich verhält es sich<lb/>
+auch mit den Kollektivvertragslohnbewegungen. Die jetzigen Abschlüsse<lb/>
+bewegen sich zwischen 5 und 6 % pro Jahr. Da wir ja bei der LUGA keine<lb/>
+einheitlichen Kollektivvertrag für die gesamte LUGA, wie dies z.B. die<lb/>
+Bauarbeiter oder Metallarbeiter haben, gibt es ständige Kollektivver<lb break="no"/>tragslohnverhandlungen und Abschlüsse. Die jetzt anfallenden werden<lb/>
+eben zu äußerst geringen perzentuellen Erhöhungen führen, die Kollegen<lb/>
+sind allerdings auch mit diesem Ergebnis bis jetzt zufrieden. Das wirk<lb break="no"/>lich primär wichtigste Problem und daher mit größter Priorität bei<lb/>
+Arbeitergewerkschaften ausgestaltet, ist und bleibt die Beschäftigungs<lb break="no"/>situation.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="68_0034_01" facs="68_1983-01-13_0034-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 13.1.1983</head>
+         </div>
+         <pb n="68_0034_02" facs="68_1983-01-13_0034-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der  6. Februar 1971</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band04_1971-02-06</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1971-02-06">Samstag, 6. Februar 1971</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-07-25">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="04-0154" facs="04_1971-02-06_0154.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Samstag, 6. Feber 1971<lb/>
+</p>
+            <p xml:space="preserve">In der Fraktion zum Arbeiterkammertag kam auch von mir das Problem<lb/>
+des Ladenschlussgesetzes zur Sprache. Ich berichtete von der Vor<lb break="no"/>sprache des Verbandes österreichischer Kaufleute und meinte, ich<lb/>
+müsste doch einmal mit den Spitzenfunktionären von der Handelssektion,<lb/>
+das ist einmal insbesondere Nationalratsabgeordneter <name type="person" ref="per:115155">Skritek</name>, der<lb break="no"/>zeitiger Vizepräsident in der Arbeiterkammer Wien, eine eingehende<lb/>
+Besprechung haben. <name type="person" ref="per:115155">Skritek</name> selbst berichtete über die Verhandlungen<lb/>
+die sie mit der Bundeskammer geführt hatten. Interessant war, dass<lb/>
+dort der wirkliche Vertreter der Kleinhändler, Komm.Rat <name type="person" ref="per:112013">Zach</name>, sich<lb/>
+überhaupt nicht zu Wort gemeldet hat. Ich weiss nämlich aus meinen<lb/>
+bisherigen Besprechungen, daß die Kleinhändler an einer Änderung<lb/>
+der Ladenschlusszeiten überhaupt nicht interessiert sind. Nach<lb/>
+Auffassung <name type="person" ref="per:115155">Skriteks</name> handelt es sich bei dem Vorschlag der Handelskammer<lb/>
+nur um ein politisches Manöver, um insbesondere die Forderung von<lb/>
+<name type="person" ref="per:97769">Mussil</name>, der hier als ÖVP-Schattenminister vorgeprellt ist, abzudecken.<lb/>
+Der Vertreter des ÖAAB bei der Vorstandssitzung erzählten mir noch<lb/>
+bevor die Sitzung begann, dass dieses Problem innerhalb der ÖVP<lb/>
+einen grossen Wirbel ausgelöst hat, da der ÖAAB sich ganz entschieden<lb/>
+gegen eine Änderung der Ladenschlusszeiten ausspricht. Nur in Tirol<lb/>
+oder Vorarlberg sei dieses Problem vielleicht aktuell, aber auch<lb/>
+hier sei noch keinerlei Entscheidung getroffen werden. Der ÖAAB-<lb/>
+Vertreter, Dr. <name type="person" ref="per:97398">Drennig</name>, startete ganz harte Attacken gegen <name type="person" ref="per:97769">Mussil</name>.<lb/>
+</p>
+         </div>
+      </body>
+      
+   </text>
+</TEI>

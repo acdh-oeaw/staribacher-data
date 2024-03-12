@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Montag, der 25. Jänner 1982</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band63_1982-01-25</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1982-01-25">Montag, 25. Januar 1982</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-09-12">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="63-0077" facs="63_1982-01-25_0077.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Montag, 25. Jänner 1982<lb/>
+</p>
+            <p xml:space="preserve">Von der OÖ Ferngas hat Präs. <name type="person" ref="per:97938">Seidl</name> und seine Direktoren <name type="person" ref="per:116012">Amon</name> und<lb/>
+<name type="person" ref="per:128855">Sommer</name><add>[hs. korrigiert, Anm.]</add> mitgeteilt, daß die RAG nach Aufhebung der Preisbescheide<lb/>
+durch den Verwaltungsgerichtshof sofort Verhandlungen wegen Preisnach<lb break="no"/>forderung in der Höhe von 60 Mio. S pro Monat verlangt. <name type="person" ref="per:97938">Seidl</name> drängt<lb/>
+unbedingt auf einen Kompromiß, weil nur so der Konkurs von der OÖ Fern<lb break="no"/>gas abgewendet werden kann. <name type="person" ref="per:97938">Seidl</name> ist sehr erstaunt zu hören, daß die<lb/>
+Oberösterreicher, sowohl LH <name type="person" ref="per:112001">Ratzenböck</name> als auch <name type="person" ref="per:114936">Hartl</name>, als auch die<lb/>
+Handelskammer, <name type="person" ref="per:114520">Trauner</name> und die AK, <name type="person" ref="per:116950">Schmidl</name> keinerlei weitere Erhöhungen<lb/>
+des Verbraucherpreises für dieses Jahr akzeptieren wollen.<lb/>
+</p>
+            <p xml:space="preserve">Die RAG teilt dann aber SC <name type="person" ref="per:97584">Jagoda</name> mit, daß sie bereit ist, auf Kompromiß<lb break="no"/>vorschläge einzugehen. Vorerst aber muß sie ihre internationale Mutter<lb/>
+Shell und Mobil fragen, ob sie eine diesbezügliche Verhandlungsermäch<lb break="no"/>tigung erteilt bekommt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Bitte die Einladungsbriefe an die Interessens<lb break="no"/>vertretung in Oberösterreich schreiben lassen.<lb/>
+</p>
+            <p xml:space="preserve">Beim Journalistenfrühstück berichtet die ÖFVW-Pressereferent <name type="person" ref="per:97559">Hofbauer</name><lb/>
+und die Organisatorin der ATB, Dr. <name type="person" ref="per:130184">Zaunbauer</name> über die 7. ATB. Im Ver<lb break="no"/>gleich zur Berliner und anderen Tourismusbörsen ist die österreichische<lb/>
+wesentlich billiger, sie kostet ca. 6 1/2 Mio. S der ÖFVW und effizienter.<lb/>
+Aus der Diskussion ergibt sich, daß Dr. <name type="person" ref="per:115175">Norden</name> von Tourist Austria<lb/>
+gerne eine Cost-benefit-Rechnung hätte. Ich muß gestehen, daß dies auch<lb/>
+mich sehr interessiert, obwohl ich die ÖFVW dahingehend verteidigen muß,<lb/>
+daß eine solche sehr schwer zu erstellen ist, weil wir in Wirklichkeit<lb/>
+noch keine angestellt haben.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Nächste Aussprache mit <name type="person" ref="per:111736">Zolles</name> setzen.<lb/>
+</p>
+            <p xml:space="preserve">Dr. <name type="person" ref="per:116031">Liebl</name> berichtet über die Fremdenverkehrsergebnisse, Übernachtungs<lb break="no"/>statistik 1981, die Ziffern hat MR <name type="person" ref="per:111367">Würzl</name> am Freitag bei der Hotelierver<lb break="no"/>einigung in Zürs bereits genannt, als ich ihn und Dr. <name type="person" ref="per:117023">Pein</name> deshalb<lb/>
+vorher zur Rede stelle meint er, niemand hätte diese Ziffern gebracht.<lb/>
+In den Wiener Zeitungen sind sie tatsächlich nicht erschienen, wohl aber<lb/>
+in der amtlichen Wiener Zeitung bis in die letzten Details.<lb/>
+</p>
+            <p xml:space="preserve">Zuletzt berichtet von WIFI die zuständige Referentin über die Broschüre<lb/>
+<pb n="63-0078" facs="63_1982-01-25_0078.jpg"/>kinderfreundlicher Urlaub in Österreich, diese eigentlich sehr primi<lb break="no"/>tive und kurze Informationsschrift ist mit der ersten Auflage 6.000<lb/>
+Stück bereits vergriffen und wurde eine zweite Auflage bereits wieder<lb/>
+6.000 Stück gedruckt. Sie ist im Prinzip sehr primitiv doch sicherlich<lb/>
+für Hotels und Pensionen geeignet entsprechende Informationen über Aus<lb break="no"/>rüstung für Kinder zu geben.<lb/>
+</p>
+            <p xml:space="preserve">Natürlich wird dann über die weitere Vorgangsweise bei der Benzinpreis<lb break="no"/>festsetzung gefragt. Ich kann nur eines erklären, daß die Verhandlun<lb break="no"/>gen weitergehen, die 30 und 20 Groschen für die Interessensvertretun<lb break="no"/>gen außer der Handelskammer und vor allem auch für die Landeshauptleute<lb/>
+nicht befriedigend waren und daß die Entscheidung ob eine amtliche Preis<lb break="no"/>regelung kommt, im Laufe dieser Woche fallen muß.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>:<lb/>
+Wenn ich in Davos bin, muß mein Vertreter zeitgerecht die amtliche<lb/>
+Preisregelungseinführung unterschreiben.<lb/>
+</p>
+            <p xml:space="preserve">Dir. <name type="person" ref="per:130185">Willbrandt</name> von der Fa. Hofer, den wir wegen einer Substitution<lb/>
+von Importwaren durch österreichische Produkte neuerdings ersuchen,<lb/>
+teilt mit, daß er im vergangenen Jahr viele bereits auf unseren Wunsch<lb/>
+durchgeführt hat. Sowohl Dr. <name type="person" ref="per:114085">Grumbeck</name> als auch Mag. <name type="person" ref="per:133371">Mandl</name> als auch ich<lb/>
+nehmen mit Befriedigung zur Kenntnis, daß eine Reihe von Waren wieder<lb/>
+durch inländische Produkte ersetzt hat. 7 Mio. l Limonade, 36 Mio. S,<lb/>
+900 to Schmelzkäse von Wörle, 300 to von Graz, 200 to von der NÖM<lb/>
+Margarinkäse, 800.000 Dosen Maiskolben, 4,6 Mio. von Felix, 650 to<lb/>
+Sonnenblumenöl, 250 to <choice><choice><sic>Walde</sic><corr>?</corr></choice></choice> Gebäck für 6 Mio. S, 425 to anstelle bel<lb break="no"/>gischer Importe von <choice><choice><sic>Beukerle</sic><corr>DeBeukelaer</corr></choice></choice> Amstetten 8 Mio. S, 210 to Geleebananen<lb/>
+aus Ungarn durch die Fa. <choice><choice><sic>Cap</sic><corr>Czapp?</corr></choice></choice>. Darüber hinaus hat er für 130 Mio. S<lb/>
+Neapolitaner und Haselnußlikör Spitz seinem Mutterhaus Albrecht ex<lb break="no"/>portiert sowie rund für 140 Mio. S Verpackungspapiere.<lb/>
+</p>
+            <p xml:space="preserve">Der Versuch auch die 3.250 to Teigwaren, die er jetzt aus Italien be<lb break="no"/>zieht für die österreichische Teigwarenindustrie zu gewinnen, ist nach<lb/>
+Meinung <name type="person" ref="per:130185">Willbrandts</name> nicht möglich. Er hat Verhandlungen mit dem Obmann<lb/>
+<name type="person" ref="per:131943">Wolf</name> als auch den anderen drei Teigwarenfabriken Fritsch, Recheis und<lb/>
+Inzersdorfer geführt. Diese verlangen aber für das kg 16,52 und waren<lb/>
+dann bereit auf 16.22 S zurückzugehen, mit Italien hat er jetzt bis<lb/>
+30. Juni 82 um 14.64 S abgeschlossen. Derzeit könnte er aus Deutschland<lb/>
+sogar um 14,31 S beziehen, da die Deutschen die EG-Erstattung flexibel<lb/>
+für jeden Tag errechnen. Insgesamt ergibt es eine Differenz von 4 Mio. S<lb/>
+die durch teure Kalkulationsansätze er bei österreichischen Produkten<lb/>
+<pb n="63-0079" facs="63_1982-01-25_0079.jpg"/>mehr bezahlen müßte. Er ist einverstanden, daß Dr. <name type="person" ref="per:133371">Mandl</name> mit der<lb/>
+österreichischen Teigwarenindustrie noch einmal spricht, glaub aber<lb/>
+kaum, daß diese bereit sind die kritisierten Kalkulationsansätze zu<lb/>
+ändern.<lb/>
+</p>
+            <p xml:space="preserve">Ebenso glaubt er nicht, daß es möglich ist 2.000 to Toast resp. Vollkorn<lb break="no"/>brot in Österreich erzeugen zu können. Er verkauft jetzt die 500-Gramm-<lb/>
+Packung bei Toastbrot um 6,50 S. Ich erkläre sofort, ich werde mit<lb/>
+dem neuen Besitzer der Ankerbrot, <name type="person" ref="per:117012">Schuster</name> darüber sprechen. Dasselbe<lb/>
+gilt für 1.000 to Brösel. Hier wurde bei österreichischen Produkten<lb/>
+die Fa. Hofer beanstandet, daß bei den Brösel auch Brotbrösel wenn auch<lb/>
+nur in geringerer Menge in die Bröselpackung eingearbeitet wurde und<lb/>
+daher von der Lebensmitteluntersuchungsanstalt beanstandet.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:125291">MARTIN</name>: Bitte mit Dr. <name type="person" ref="per:117012">Schuster</name>, Ankerbrotfabrik verbinden.<lb/>
+</p>
+            <p xml:space="preserve">Auch 12 1/5 Mio. l Limonadedosen sowie 6 Mio. Bierdosen können durch den<lb/>
+hohen Dosenpreis nicht von Österreich bezogen werden. <name type="person" ref="per:130185">Willbrandt</name> glaubt<lb/>
+kaum, daß nach Errichtung der Dosenfabrik durch die Vereinigten Metall<lb break="no"/>werke Ranshofen in Berndorf eine Verbesserung der Dosenpreissituation<lb/>
+eintreten wird. Auch 250 to durch Zwieback früher geliefert von der Fa.<lb/>
+Zach, 500 to Haferflocken, geliefert durch die Fa. Knorr, kann infolge<lb/>
+der günstigen EG-Erstattung nicht durch Inlandsproduktion ersetzt wer<lb break="no"/>den. Auf alle Fälle erklärt <name type="person" ref="per:130185">Willbrandt</name>, daß er bereit ist über jedes<lb/>
+Produkt Gespräche zu führen, weil ihm bei einigermaßen erträglichen<lb/>
+Preisangeboten österreichische Produkte auch aus Versorgungssicherungs<lb break="no"/>gründen lieber sind als Importware.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: <name type="person" ref="per:133371">Mandl</name> soll ständig mit Hofer Kontakt halten.<lb/>
+</p>
+            <p xml:space="preserve">Im Wiener Vorstand wird die personelle Umschichtung vom Verein Wiener<lb/>
+Arbeiterheime beschlossen. Da der Wiener Vorstand gleichzeitig auch<lb/>
+der Vorstand der Wiener Arbeiterheime ist, tritt jetzt anstelle des<lb/>
+Obmannes <name type="person" ref="per:97561">Hofmann</name> der Landtagspräsident <name type="person" ref="per:113043">Pfoch</name>, Geschäftsführer wird<lb/>
+<name type="person" ref="per:146042">Ludl</name> und alle Funktionäre als auch ich als Kassier-Stellvertreter des<lb/>
+Wiener Vorstandes werden automatisch Wiener Arbeiterheimfunktionäre.<lb/>
+</p>
+            <p xml:space="preserve">Bezüglich des finanziellen Weiterbestandes der AZ wird für 1981 30 Mio.<lb/>
+S Defizit und 82 35 Mio. S Defizit zur Kenntnis genommen. Das ursprünglich<lb/>
+vereinbarte Limit von 25 Mio. kann daher nicht gehalten werden. Die<lb/>
+perzentuelle Aufteilung ist 31 % die Wiener Organisation, 32 % die<lb/>
+Zentrale, 26 % die Gewerkschaftsfraktion und 11 % die niederösterreichi<lb break="no"/><pb n="63-0080" facs="63_1982-01-25_0080.jpg"/>sche SPÖ. Alle machen sich Sorgen wie es 83 weitergehen soll, denn<lb/>
+da wird das Defizit bereits auf 48 Mio. S geschätzt. Der Betriebsrat<lb/>
+und die graphische Gewerkschaft haben erklärt, die Kalkulationen können<lb/>
+nicht stimmen, weshalb sie bis März 82 entsprechende Vorschläge er<lb break="no"/>statten werden.<lb/>
+</p>
+            <p xml:space="preserve">Die Austro-Dokumentation, Obmann Staatssekretär <name type="person" ref="per:98034">Veselsky</name>, Geschäftsführer<lb/>
+<name type="person" ref="per:1137530">Fischmann</name>, hat für 82 ein Budget Defizit von 5,536.749 S um 700.000<lb/>
+S mehr als im Vorjahr angemeldet. Mich hat besonders beeindruckt, daß<lb/>
+es nicht 750,-- sondern 749.-- S im Endwert gewesen sind. Hätte noch<lb/>
+gefehlt, daß noch ein Groschenbetrag ausgewiesen wird. Von diesem<lb/>
+Defizit übernimmt 25 % die Wiener Organisation und teilt sich zwischen<lb/>
+dem Wiener Gemeinderatsklub und der Wiener SPÖ auf. Dies ist in meinen<lb/>
+Augen auch ein Problem, daß eigentlich für Dokumentationsarbeit die<lb/>
+Partei aufkommen muß. Ist das Dokumentenarchiv objektiv und das muß<lb/>
+es sein kann es ohne weiteres auch von einer öffentlichen Stelle be<lb break="no"/>zahlt werden und die Auswertung kann jedem zur Verfügung gestellt<lb/>
+werden, ist sie nicht objektiv, dann ist sie sowieso nicht zu gebrauchen.<lb/>
+</p>
+            <p xml:space="preserve">In Personalfragen wird der jetzt wieder in der Wiener Organisation mit<lb/>
+Organisationsfragen befaßte <name type="person" ref="per:133069">Nußbaum</name>, der kurzzeitig auch Wiener Sekre<lb break="no"/>tär war, in der Wiener Holding in den Wohnbaugenossenschaften, Sozial<lb break="no"/>bau und Neuland in Austro-Dok in der Progess-Werbung durch den jetzigen<lb/>
+Wiener Sekretär <name type="person" ref="per:97892">Sallaberger</name> abgelöst.<lb/>
+</p>
+            <p xml:space="preserve">Bei Betriebsbesuchen von Regierungsmitgliedern mit dem Bgm. <name type="person" ref="per:97488">Gratz</name> soll<lb/>
+in Hinkunft mehr Zeit und mehrere Betriebe im Wiener Bereich ausgesucht<lb/>
+werden. Landessekretär <name type="person" ref="per:97892">Sallaberger</name> wird mit dem Gewerkschaftssekretär<lb/>
+<name type="person" ref="per:113117">Kinigadner</name> die Details besprechen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte bei meinen Besuchen Lebensmittelbranche<lb/>
+bevorzugen.<lb/>
+</p>
+            <p xml:space="preserve">Zur Diskussion über das sogenannte <name type="person" ref="per:88047">Hugo-Breitner</name>-Papier, die Vorschläge<lb/>
+der Jugendorganisationen für eine effektivere Gemeindeverwaltung wird<lb/>
+eine eigene Jugendkonferenz einberufen. Dort soll bei ca. 300 Teilneh<lb break="no"/>mern in 6 Arbeitsgruppen Kommunalpolitik, Friede, Abrüstung, Jugend<lb break="no"/>politik, Wirtschaft, Arbeitspolitik, Demokratisierung, Emanzipation,<lb/>
+ältere Genossen sich mit den jungen auseinandersetzen. Natürlich dauert<lb/>
+es wieder ungeheuer lang, bis der richtige Termin gefunden wird, da<lb/>
+diese Aktion noch vor dem ÖVP Parteitag in Linz gestartet werden muß.<lb/>
+Die Genossen befürchten wahrscheinlich sogar zurecht, daß die ÖVP ähn<lb break="no"/><pb n="63-0081" facs="63_1982-01-25_0081.jpg"/>lich der CDU in Deutschland eine solche Jugenddiskussion sonst auf ihrem<lb/>
+Parteitag beschließen wenn nicht sogar durchführen wird. Die die SPÖ<lb/>
+wirklich in dieser Frage schon die Initiative ergriffen hat, aber kon<lb break="no"/>krete Veranstaltungen noch nicht im größeren Rahmen durchführte, er<lb break="no"/>scheint eine solche Jugendkonferenz an einem Sonntag dringendst not<lb break="no"/>wendig.<lb/>
+</p>
+            <p xml:space="preserve">NR <name type="person" ref="per:114542">Schemer</name> fragt an, wer eigentlich die rot-grüne Plattform des Ge<lb break="no"/>nossen <name type="person" ref="per:97354">Blau</name> und <name type="person" ref="per:111409">Cap</name> beschlossen hat, resp. wo diese diskutiert wurde.<lb/>
+Niemand auch Bgm. <name type="person" ref="per:97488">Gratz</name>, der im Präsidium der SPÖ verankert ist, kann<lb/>
+ihm diesbezüglich eine Auskunft geben. Ich halte solche offiziellen<lb/>
+Gruppenbildungen auch dann wenn sie den guten Zweck verfolgen aufgrund<lb/>
+der Äußerungen <name type="person" ref="per:97668">Kreiskys</name>, vor den nächsten Wahlen muß die Atomfrage<lb/>
+innerhalb der Partei zumindestens geklärt sein, für sehr problematisch.<lb/>
+</p>
+            <p xml:space="preserve">Im Wiener Ausschuß ist es das erste Mal, daß von einem zuständigen<lb/>
+Stadtrat <name type="person" ref="per:114540">Hatzl</name>, über die Mietrecht und Umbausonderprogramm und Althaus<lb break="no"/>sanierung ein Papier vorgelegt wird. Daß dies dringendst notwendig<lb/>
+ist, ergibt ja die praktische Erfahrung, daß viele Spitzenfunktionäre<lb/>
+über das Mietrecht gar nichts wußten, resp. auch heute noch nicht wis<lb break="no"/>sen, wie sich die Mietzinserhöhung insbesondere Erhaltungsaufwand auf<lb/>
+die einzelnen Kategorien auswirken wird.<lb/>
+</p>
+            <p xml:space="preserve">Zuerst gibt <name type="person" ref="per:97488">Gratz</name> allerdings einen sehr kurzen politischen Bericht. Die<lb/>
+Wiener ÖVP hat am Freitag den 23. noch im Gemeinderat erklärt, sie<lb/>
+wünscht, daß der Vertrag über das Konferenzzentrum abgeändert wird und<lb/>
+daß anstelle des UNO-Konferenzzentrums in der Hofburg resp. Messepalast<lb/>
+ein Konferenzzentrum errichtet werden sollte. Der Parteivorstand der<lb/>
+ÖVP hat am 24. am Samstag allerdings dann beschlossen, daß die 7 1/2<lb/>
+Mrd. S für das Konferenzzentrum, wovon 5 Mrd. Bau, die 2 1/2 Mrd. Finan<lb break="no"/>zierungskosten wären für 12.000 Neubauwohnungen in Österreich verwen<lb break="no"/>det werden soll. Dies bedeutet, daß nicht nur die Bauaufträge von Wien<lb/>
+wegkommen würden, Wien müßte auch 2,6 Mrd. S für diese 12.000 Wohnungen<lb/>
+aufbringen und aus der Wohnbauförderung nur 28 % also 2 Mrd. beziehen<lb/>
+können. Die Wiener ÖVP hat also nach Meinung <name type="person" ref="per:97488">Gratz</name> gröblichst Wiener<lb/>
+Interessen vernachlässigt. Parteiobmann <name type="person" ref="per:111325">Mock</name> wendet sich auch gegen alle<lb/>
+Großprojekte, Großkrankenhaus, Großmotorenwerk, GM, Großkonferenzzentrum,<lb/>
+UNO usw. <name type="person" ref="per:97488">Gratz</name> faßt zusammen, nach 1897, wo die Christlichsozialen<lb/>
+in Wien das Ruder übernommen haben, nur mehr der Zentralfriedhof und<lb/>
+die Lueger-Kirche errichtet wurde. Alle Großprojekte, die man heute in<lb/>
+Wien so bewundert wurden vor der christlich-sozialen Zeit oder nach<lb/>
+dieser Zeit gebaut.<lb/>
+</p>
+            <pb n="63-0082" facs="63_1982-01-25_0082.jpg"/>
+            <p xml:space="preserve"><name type="person" ref="per:114540">Hatzl</name> berichtet dann, daß das Sonderwohnbauprogramm des Bundes auf das<lb/>
+Staatssekretär <name type="person" ref="per:111408">Eypeltauer</name> so stolz ist, für Wien nicht besonders interes<lb break="no"/>sant ist. Die wiener Wohnbauförderungsaktion von Oktober 81 ist günsti<lb break="no"/>ger. Dort kriegt man für Gemeindewohnungen 70 % öffentliche Darlehen,<lb/>
+für Genossenschaftswohnungen 65 %. Diese öffentlichen Darlehen sind<lb/>
+50 Jahre rückzahlbar und kommen zu einem höchsten m²-Zins von 45.-- S<lb/>
+zusätzlich allerdings eines Baukostenbeitrages. Das Sonderwohnbaupro<lb break="no"/>gramm hat zwar für die ersten 2 Jahre 25 S Mietzins pro m², steigert<lb/>
+sich dann allerdings um 5 % pro Jahr und erreicht nach 25 Jahren immer<lb break="no"/>hin schon 90.-- pro m², ist also doppelt so teuer als die Wiener Wohn<lb break="no"/>bauaktion. Der einzige Vorteil ist nur, daß diese Wohnungen auch für<lb/>
+Leute ohne Vormerkschein gegeben werden sollen. Die beiden anderen<lb/>
+sozialistischen Länder Kärnten und Burgenland haben bereits, weil sie<lb/>
+auch bessere Aktionen haben, auf dieses Sonderwohnbauprogramm verzich<lb break="no"/>tet. Besser ist es die Generalsanierung von Altbauten durch das Sonder<lb break="no"/>programm des Bundes zur Stadterneuerung. Hier wird Wien anstelle des<lb/>
+28 % Anteils aufgrund der Wohnbauförderungsaktion 37 % bekommen.<lb/>
+</p>
+            <p xml:space="preserve">Bezüglich der Mieterhöhungen aufgrund des Mietgesetzes mit 1. Jänner<lb/>
+d.J. wird von <name type="person" ref="per:114540">Hatzl</name> vorgeschlagen, daß man nicht im März sondern erst<lb/>
+mit 1. Mai die Erhaltungsmietzinse bei den Gemeindebauten einführt.<lb/>
+<name type="person" ref="per:114540">Hatzl</name> hat im Budget nur 150 Mio. S für Gebrechenbehebung in Gemeindebau<lb break="no"/>ten und kann damit höchstens 1/2 Jahr den Aufwand decken. Alle städti<lb break="no"/>schen Wohnhäuser haben Mietzinsabgänge. Der Erhaltungsaufwand mußte<lb/>
+deshalb von den wiener Mietern verlangt werden. <name type="person" ref="per:97488">Gratz</name> verweist darauf,<lb/>
+daß keine kleine Häuseranzahl, da ansonsten viel Fremdfinanzierung<lb/>
+nötig ist, mit Erhaltungsaufwand belegt werden muß, sondern eben alle<lb/>
+Gemeindebauten um einen hohen Gesamtsummenbetrag zu erhalten, nur so<lb/>
+kann man die Finanzierung der Wohnhäuser sichern. Die Gemeinde Wien<lb/>
+wird die im Gesetz vorgesehene Möglichkeit 20 % Erhaltungskosten als<lb/>
+Rendite die jeder Privathausbesitzer sicherlich einstreift, nicht be<lb break="no"/>anspruchen. Der Erhaltungskostenbeitrag wird daher ganz für die Erhal<lb break="no"/>tung der Miethäuser zur Verfügung stehen. Ich befürchte und ein Zahlen<lb break="no"/>beispiel zeigt es deutlich, daß trotz der zu erwartenden größeren Miet<lb break="no"/>zinsbeihilfe für eine größere Anzahl von insbesondere ASVG-Mindestpen<lb break="no"/>sionisten für diese Bevölkerungsschicht eine große Mietzinsbelastung<lb/>
+sich ergeben wird. Praktische Beispiele zeigen, daß der Hauptmietzins<lb/>
+sich bis zu 10-fach in der Kategorie C und B erhöhen kann, die Miet<lb break="no"/>zinsbeihilfe aber nur dann nicht einmal ganz die Hälfte der Mehrzins<lb break="no"/>belastung abdeckt. Dies wird im Mai eine ungeheure Beunruhigung auslös<lb break="no"/>sen, das Mietenproblem wird uns noch sehr zu schaffen machen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="63_0076_01" facs="63_1982-01-25_0076-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 25.1.1982</head>
+         </div>
+         <pb n="63_0082_01" facs="63_1982-01-25_0082-01.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Wr. Vorstand, 25.1.1982</head>
+         </div>
+         <pb n="63_0082_02" facs="63_1982-01-25_0082-02.jpg"/>
+         <pb n="63_0082_03" facs="63_1982-01-25_0082-03.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+            <gap reason="sampling"/>
+            <pb n="63_0082_04" facs="63_1982-01-25_0082-04.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="63_0082_05" facs="63_1982-01-25_0082-05.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="63_0082_06" facs="63_1982-01-25_0082-06.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="63_0082_07" facs="63_1982-01-25_0082-07.jpg"/>
+         </div>
+      </back>
+   </text>
+</TEI>

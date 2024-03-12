@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Montag, der 30. Mai 1977</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band36_1977-05-30</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1977-05-30">Montag, 30. Mai 1977</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-06-06">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="36-0625" facs="36_1977-05-30_0625.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Montag, 30. Mai 1977<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97627">Heinz Kienzl</name> und <name type="person" ref="per:97444">Heinz Fischer</name> sind wie ich der Meinung, dass<lb/>
+wir uns die Angelegenheit <name type="person" ref="per:108224">Lütgendorf</name> hätten ersparen können.<lb/>
+Während einer Tour auf der Hohen Wand hatten wir lange Zeit,<lb/>
+darüber zu plaudern. <name type="person" ref="per:108224">Lütgendorf</name> hätte, so meint <name type="person" ref="per:97627">Kienzl</name> von allem<lb/>
+Anfang nicht viel herumreden sollen, sondern glatt erklären,<lb/>
+dass er im Interesse der österr. Wirtschaft und nach seiner<lb/>
+Auffassung der Neutralität die Exporte angeregt hat. So einfach<lb/>
+ist dies allerdings nicht, wie ihm <name type="person" ref="per:97444">Fischer</name> und ich versuchten,<lb/>
+<name type="person" ref="per:97627">Kienzl</name> klarzumachen. Ich persönlich sehe auch alles unter dem<lb/>
+Gesichtspunkt, was hilft der österr. Wirtschaft, doch glaube auch<lb/>
+ich, dass man bei der Neutralität sehr vorsichtig sein muss und soll.<lb/>
+Die längste Diskussion nahm aber unser Zahlungsbilanzproblem ein.<lb/>
+Die ÖNB hat mit <name type="person" ref="per:97311">Androsch</name> einige Punkte wie Restriktion, Refinanzierung<lb/>
+eine stärkere aktivseitige Kreditkontrolle und vor allem Beschränkung<lb/>
+u.s.w. abgesprochen. <name type="person" ref="per:97627">Kienzl</name> aber auch <name type="person" ref="per:97444">Fischer</name> meinen, ich müsste<lb/>
+auch auf diesem Gebiet wesentlich aktiver sein und mehr in Er<lb break="no"/>scheinung treten. Da ich überzeugt bin, dass <name type="person" ref="per:97668">Kreisky</name> und <name type="person" ref="per:97311">Androsch</name><lb/>
+dies bei der nächsten Regierungsklausur in Hernstein sowieso<lb/>
+machen werden, habe ich dazu gar keine Veranlassung. Ausserdem<lb/>
+laufen gewisse Massnahmen wie z.B. grössere Export für Autoindustrien<lb/>
+die ihre Produkte nach Österreich verkaufen, Recycling insbesondere<lb/>
+Altstoffmassnahmen in Wien usw. Bei den Festwochenveranstaltungen<lb/>
+habe ich Stadtrat <name type="person" ref="per:97913">Schieder</name> getroffen und mit ihm neuerdings über<lb/>
+das Problem der Aufstellung von Containern für Altwaren gesprochen<lb/>
+<name type="person" ref="per:97913">Schieder</name> hat bereits positiv entschieden, durchführen muss dies aber<lb/>
+Stadtrat <name type="person" ref="per:97786">Nittel</name>.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name>: Bitte dies endlich mit der Gemeinde Wien und<lb/>
+Produktionsgesellschaft abschliessen.<lb/>
+</p>
+            <p xml:space="preserve">Eine wirklich lange Diskussion führen wir über die Einschaltung<lb/>
+des Atomwerkes Zwentendorf. Meine Meinung ist nach wie vor unver<lb break="no"/>ändert, dass es ein Sachzwang wird, wenn das Atomkraftwerk endlich<lb/>
+einmal fertig wäre, es dann selbstverständlich auch in Betrieb zu<lb/>
+nehmen. <name type="person" ref="per:97627">Kienzl</name> ist der extremste Verfechter und meint, man hätte<lb/>
+mit den Atomgegnern gar nicht so lange verhandeln sollen, resp.<lb/>
+keine Aufklärungskampagne starten sollen, die letzten Endes dann<lb/>
+nur den Atomgegnern als Plattform diente. Die Propaganda hat seiner<lb/>
+Meinung nach vollkommen versagt, weshalb seine Umfrageergebnisse<lb/>
+eben ein ständiges Ansteigen der Angst der Bevölkerung feststellt.<lb/>
+</p>
+            <pb n="36-0626" facs="36_1977-05-30_0626.jpg"/>
+            <p xml:space="preserve">Daran sei aber nur die schlechte Propaganda der Atombefürworter<lb/>
+schuld. Die wirkliche Ursache liegt aber, wie auch <name type="person" ref="per:97444">Heinz Fischer</name><lb/>
+bestätigte, darin, dass eben keine einheitliche Meinung existiert.<lb/>
+<name type="person" ref="per:97444">Heinz Fischer</name> meint, ich hätte mich zeitgerecht um Verbündete umsehen<lb/>
+müssen. Er denkt hier ganz besonders an Präs. <name type="person" ref="per:97346">Benya</name> und an andere<lb/>
+Spitzenfunktionäre der Partei, die sich einheitlich jetzt immer<lb/>
+stärker für die Atomkraftwerke aussprechen. <name type="person" ref="per:97444">Heinz Fischer</name> ist<lb/>
+nach wie vor der Meinung, dass es für mich eine grosse Gefahr be<lb break="no"/>deutet hätte, und noch immer bedeutet, wenn ich mich zu stark<lb/>
+exponiere, dann wie er sagt, übrigbleibe. Diese Gefahr sehe ich<lb/>
+weder in der Vergangenheit noch derzeit. Ich kann und möchte nicht<lb/>
+ausschliesslich nach politischen Gesichtspunkten insbesondere im<lb/>
+Hinblick auf nächste Wahlen so wichtige Entscheidungen treffen.<lb/>
+Wenn ich mir aber eine Meinung gebildet habe, so sehe ich nicht<lb/>
+ein, dass ich sie im Hinbick auf kommende Wahlen zumindestens in<lb/>
+kleinstem Kreis nicht einmal vortrage. Bis jetzt hat mich noch<lb/>
+kein Interview resp. Interviewer so fangen können, dass ich nicht,<lb/>
+wie ich glaube jederzeit die gleiche Linie vertreten habe und<lb/>
+eigentlich mich aus dem Streit pro und contra Atomkraftwerk heraus<lb break="no"/>gehalten habe. Dies nicht, weil ich feige bin, aber auch nicht weil ich<lb/>
+unbedingt nur Verbündete brauche resp. suchen möchte. Auch möchte<lb/>
+ich nicht den Spruch: Der Starke ist allein nur mächtig, gelten lassen,<lb/>
+doch glaube ich als Energieressortverantwortlicher hier meine Politik<lb/>
+wirklich allein vertreten zu müssen und auch zu vertreten. <name type="person" ref="per:97444">Heinz<lb/>
+Fischer</name> hat persönlich scheinbar auch grosse Bedenken über den weiteren<lb/>
+Ausbau von Kernkraftwerken, er ist sehr beruhigt von mir zu erfahren,<lb/>
+dass wenn erst das erste in Betrieb ist, wir uns auf Grund der Bedarfs<lb break="no"/>situation und der Vorrang des Ausbaues aller inländischen Wasser-<lb/>
+und Kohlevorkommen zu Elektrizitätswerken ein eventuelles zweites<lb/>
+dann erst bauen werden. Ich konnte ihn insoferne beruhigen, als ich<lb/>
+im klarmachte, dass das zweite Kernkraftwerk von den Gesellschaften<lb/>
+bei der Übernahme der Elektrizitätskompetenz von mir zurückgestellt<lb/>
+wurde, obwohl es damals bei den Elektrizitätsversorgungsunternehmungen<lb/>
+wenig Verständnis für diese Massnahame von mir gegeben hat. Damals agierte<lb/>
+ich hauptsächlich mit dem Hinweis, dass wir erst abwarten wollen, wie<lb/>
+die 1.300-Megawatt-Typen funktionieren, Kinderkrankheiten sollen bei<lb/>
+den anderen festgestellt werden und wir durch stärkeren Ausbau der<lb/>
+Primärenergie und gegebenenfalls durch Importe aus dem Osten unseren<lb/>
+Energiebedarf decken können. Damals war die Energie-Antiatomdiskussion<lb/>
+in Österreich noch kaum vorhanden. <name type="person" ref="per:97627">Heinz Kienzl</name> ist der Meinung, dass<lb/>
+wir diese überhaupt nur aus Deutschland importiert haben, so wie wir<lb/>
+halt leider alles nachmachen, was in Deutschland geschieht. In der<lb/>
+<pb n="36-0627" facs="36_1977-05-30_0627.jpg"/>Partei haben wir die Junge Generation geschaffen und damit die<lb/>
+Jusos kopiert, alle gesellschaftspolitischen Wandlungen machen wir<lb/>
+durch, allerdings wie ich immer wieder bemerke, nicht mir preussi<lb break="no"/>scher Gründlichkeit sondern gemildert durch die österr. Schlamperei.<lb/>
+</p>
+            <p xml:space="preserve">Die Ananas-Ernte im Burgenland hat eingesetzt und ich konnte zu meiner<lb/>
+Überraschung feststellen, dass so wie jedes Jahr wahrscheinlich heuer<lb/>
+noch mehr Wiener hinfahren, um sich im direkten Bezug mit Ananas<lb/>
+einzudecken. Wenn man bedenkt, dass der Bauer dafür 25 – 30 S pro kg<lb/>
+jetzt erlöst, so kann man ermessen, was dieser Direkt-Selbstvermarkter-<lb/>
+Verkehr für die burgenländischen Obstbauern bedeutet. Ähnlich wird<lb/>
+es auch bei den Marillen in der Wachau zugehen. Meiner Meinung nach<lb/>
+müssten die Agrarier und insbesondere die Agrar-Vertretung weniger<lb/>
+danach gehen, wie sehr sie in Produktionsgebieten ihre Agrarprodukte<lb/>
+nach produktionstechnischen Gesichtspunkten erzeugen können, sondern<lb/>
+vielmehr danach, wie die Vermarktung nach einem Konsumzentrum<lb/>
+hin ausgerichtet sein kann und soll. Früher oder später werden immer<lb/>
+grössere Kreise von Konsumzentren motorisiert und bereit sein,<lb/>
+gewisse Agrarprodukte, die eine besondere Qualität oder Erzeugungs<lb break="no"/>art haben, direkt zu kaufen. Dies gilt nicht nur für Obst und Gemüse<lb/>
+sondern sicherlich auch für alle anderen Produkte soweit sie nicht<lb/>
+durch Schädlingsbekämpfungsmittel oder gar durch Kunstdünger erzeugt<lb/>
+wurden. Die Angst der Bevölkerung gegen diese Gifte und der Hinweis,<lb/>
+dass gewisse Produkte mit einer garantierten Reinheit, natürlicher<lb/>
+Düngung usw. erzeugt wurden, wird für den Bauern und da ganz<lb/>
+besonders im Direktverkehr ungeheure bessere Preise erzielen lassen<lb/>
+als durch Massenproduktion über die herkömmliche Produktionsweise<lb/>
+und noch viel mehr über die natürlich sehr verteuernden normalen<lb/>
+Absatzweg.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97819">PLESCH</name>: Warum gibt es hier nicht mehr Aktivitäten<lb/>
+vom Landwirtschaftsministerium?<lb/>
+</p>
+         </div>
+      </body>
+      
+   </text>
+</TEI>

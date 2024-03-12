@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Montag, der 27. November 1978</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band45_1978-11-27</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1978-11-27">Montag, 27. November 1978</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2017-07-27">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="45-1375" facs="45_1978-11-27_1375.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Montag, 27. Novembeé 1978<lb/>
+</p>
+            <p xml:space="preserve">Vor dem Jour fixe bei <name type="person" ref="per:97893">Sallinger</name> waren <name type="person" ref="per:97731">Mautner Markhof</name> und<lb/>
+<name type="person" ref="per:115005">Hintschig</name> von der Wiener Messe bei <name type="person" ref="per:97893">Sallinger</name> und warteten<lb/>
+auch, bis ich zu dieser Besprechung hinzukam. Wieder einmal<lb/>
+gab es wegen dem Messe-Termin unüberwindliche Schwierigkeiten.<lb/>
+Die Wiener Messe hat zur 100-jährigen Welser Messe in diesem<lb/>
+Jahr um eine Woche ihren Messe-Termin rückverlegt. Die Rieder<lb/>
+erwarteten nun, dass auch im nächsten Jahr wieder die Wiener<lb/>
+Messe nicht in der zweiten September-Woche, sondern in der<lb/>
+dritten erst beginnen sollte. Dies ist nach Auffassung von<lb/>
+<name type="person" ref="per:115005">Hintschig</name> und <name type="person" ref="per:97731">Mautner-Markhof</name> unmöglich. Sie haben bereits<lb/>
+auch international ihren Messe-Termin festgelegt und bekannt<lb break="no"/>gegeben. Dadurch ergibt sich insbesondere für die Landmaschinen<lb/>
+eine Überschneidung. Der Schwerpunkt bei Landmaschinen, bemerkte<lb/>
+<name type="person" ref="per:97893">Sallinger</name> zu Recht, liegt aber in Oberösterreich. Die Landmaschi<lb break="no"/>nenimporteure drängen angeblich nach Wien, die Erzeuger und<lb/>
+Händler nach Ried, wo heuer alternativ die Messe in Oberösterreich<lb/>
+stattfindet. Ich erklärte nur, man solle dieses Problem bei<lb/>
+der Arbeitsgemeinschaft der Messen besprechen, mehr kann ich selbst<lb/>
+nicht tun. <name type="person" ref="per:97893">Sallinger</name> ist der richtigen Auffassung, dass die<lb/>
+Wiener Messe viel mehr durch besondere Attraktionen in Erscheinung<lb/>
+treten muss. <name type="person" ref="per:115005">Hintschig</name> ist sehr zufrieden, dass ich immer<lb/>
+versuche, ausländische Minister zur Wiener Messe zu bringen,<lb/>
+dass dies allein nicht genügt, ist mir und auch allen anderen<lb/>
+Anwesenden selbstverständlich vollkommen klar.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Bitte Terminfrage in der Arbeitsgemeinschaft<lb/>
+besprechen und mir dann berichten.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97893">Sallinger</name> urgiert den Textileinfuhrschein. Ich bin mir, ich glaube,<lb/>
+er selbst auch nicht, klar, was diese Forderung bedeuten soll.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte prüfe, was die Textilhändler<lb/>
+hier wollen.<lb/>
+</p>
+            <p xml:space="preserve">Die Staatswappen § 68 GewO-Führung wird für <choice><choice><sic>Wolfhose</sic><corr>Wolf-Hosen?</corr></choice></choice> trotz der<lb/>
+Urgenz von dem ehemaligen internationalen Fussballer <name type="person" ref="per:114088">Decker</name>,<lb/>
+der in diese Firma hineingeheiratet hat, abgelehnt. Der Fachver<lb break="no"/>band für Bekleidungsindustrie, aber auch die Handelskammer Wien<lb/>
+machen darauf aufmerksam, dass ein Verfahren nach Finanzstrafgesetz<lb/>
+§ 35 zwar eingestellt wurde, aber für die Untersuchungshaft keine<lb/>
+<pb n="45-1376" facs="45_1978-11-27_1376.jpg"/>Entschädigung bezahlt wurde. Auch die Arbeiterkammer Wien<lb/>
+hat 1970 im Oktober ein solches Ansuchen der damaligen Firma<lb/>
+Wolf abgelehnt. Da überall ein negatives Gutachten kommt,<lb/>
+obwohl man dem Herrn <name type="person" ref="per:114088">Decker</name> immer etwas anderes sagt, wird<lb/>
+es äusserst schwer sein, ihm das Staatswappen zu verleihen.<lb/>
+</p>
+            <p xml:space="preserve">Die Firma Hager-Werbung hat im September 1977 bereits um das<lb/>
+Staatswappen angesucht und man hat scheinbar abgewartet, bis<lb/>
+die internationale Werbegesellschaft jetzt die Auszeichnung<lb/>
+bekommen hat. <name type="person" ref="per:97893">Sallinger</name> plädiert auch für Hager-Werbung.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Wenn keine anderen gegenteiligen Stimmen<add>[kommen,]</add><lb/>
+bitte positiv erledigen.<lb/>
+</p>
+            <p xml:space="preserve">Die Firma Hrabak soll unter keinen Umständen jetzt schon das<lb/>
+Staatswappen bekommen, da sich die Handelskammer, aber auch<lb/>
+ich mich eigentlich nicht für diese Branche endgültig entschliessen<lb/>
+kann. Die Beispielfolgen wären doch zu gross. Ich schlage des<lb break="no"/>halb vor, wir werden jetzt eine umfangreiche Studie über die<lb/>
+Abgrenzung dieser Dienstleistungsbetriebe vornehmen, um Zeit<lb/>
+zu gewinnen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Bitte lass die ursprünglich mir diesbezüg<lb break="no"/>lich vorgelegte Aktennotiz wesentlich erweitern und vertiefen.<lb/>
+</p>
+            <p xml:space="preserve">Ing. <name type="person" ref="per:115651">Cifer</name> von der Fa. Bauer und seine Frau haben die Verlängerung<lb/>
+des Dienstpasses bekommen, ohne dass die Handelskammer verständigt<lb/>
+wurde. <name type="person" ref="per:115651">Cifer</name> hat angeblich <name type="person" ref="per:97893">Sallinger</name> gegenüber bemerkt, er kann<lb/>
+sich alles im Handelsministerium richten und er braucht gar nicht<lb/>
+die Handelskammer. Um die Vorgangsweise zu klären, schlage ich<lb/>
+vor, dass eine Arbeitsgruppe, Min.Rat <name type="person" ref="per:97801">Ottahal</name> und Dr. <name type="person" ref="per:108746">Haffner</name><lb/>
+von der Handelskammer, der Präsidialist <name type="person" ref="per:113032">Reiger</name> und Sekretär <name type="person" ref="per:114537">Oder</name><lb/>
+von <name type="person" ref="per:97893">Sallinger</name>, die Vorgangsweise bei den zukünftigen Dienstpass-<lb/>
+Ausstellungen besprechen sollen. Die Verstaatlichte Industrie<lb/>
+bekommt über das Bundeskanzleramt jedermann ohne weiteres einen<lb/>
+Dienstpass, während die Handelskammer rigorosere Masstäbe<lb/>
+anlegt. Die Ansuchen von Herrn <name type="person" ref="per:118659">Vogt</name> – <choice><choice><sic>Centrohandelsbank</sic><corr>Centro Internationale Handelsbank</corr></choice></choice> in Wien –<lb/>
+und Herrn <name type="person" ref="per:118660">Pertsch</name> in Vorarlberg, Molkerei-Einrichtung, sollen<lb/>
+genehmigt werden.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte vereinbare mit <name type="person" ref="per:114537">Oder</name> die weitere Vor<lb break="no"/>gangsweise.</p>
+            <pb n="45-1377" facs="45_1978-11-27_1377.jpg"/>
+            <p xml:space="preserve">Für Stahlgitter wünscht die Handelskammer jetzt unverzüglich<lb/>
+ein Antidumpingverfahren. Angeblich sind jetzt alle Voraus<lb break="no"/>setzungen geschaffen, auch die Verordnung sei bereits erlassen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Wie steht es hier wirklich?<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97893">Sallinger</name> urgiert neuerdings die Bestellung von ihrer Kandidatin<lb/>
+für die Nachfolge <name type="person" ref="per:110035">Thun-Hohenstein</name>. Auf meine Frage, ob <name type="person" ref="per:97769">Mussil</name><lb/>
+jetzt den Brief mit der Intervention schicken wird, meint <name type="person" ref="per:97893">Sallinger</name>,<lb/>
+er selbst würde einen solchen Brief nie unterschreiben. Er erwartet<lb/>
+als Freundschaftsdienst, dass ich ihm in diesen acht Jahren, wo<lb/>
+ich ausschliesslich Sozialisten in die entsprechenden Stellungen<lb/>
+gebracht habe, jetzt seinen Personalwunsch einmal erfülle.<lb/>
+Ich erkläre einmal mehr, dass ich keinerlei Weisungen geben kann<lb/>
+und will und auch dies niemals in der Vergangenheit getan habe.<lb/>
+Ich verspreche nur neuerdings den Wunsch <name type="person" ref="per:97893">Sallingers</name> Sekt.Chef <name type="person" ref="per:97584">Jagoda</name><lb/>
+mitzuteilen, was ich auch tatsächlich getan habe. <name type="person" ref="per:97584">Jagoda</name> ist der<lb/>
+Meinung, dass sie übrigens die beste Kandidatin die besten Sachvoraus<lb break="no"/>setzungen mitbringt.<lb/>
+</p>
+            <p xml:space="preserve">Da die Fremdenverkehrswerbung in der Hohenstaufengasse bereit wäre,<lb/>
+wenn sie dort entsprechende Räume bekommt, entsprechende Inve<lb break="no"/>stitionen vorzunehmen, ersuche ich neuerdings Sekt.Chef <name type="person" ref="per:112949">Kazda</name><lb/>
+und auch den dafür im Bautenministerium zuständigen Sektionschef<lb/>
+<name type="person" ref="per:113076">Schmelz</name> bei einer Besprechung mit Dir. <name type="person" ref="per:111736">Zolles</name>, ÖFVW, davon<lb/>
+zu überzeugen, dass jetzt endgültig eine Entscheidung gefällt werden<lb/>
+müsste. Immer wird uns zugesichert, es muss etwas geschehen, dabei<lb/>
+geschieht nichts. <name type="person" ref="per:111736">Zolles</name> plädiert, in der Hirschengasse ein sofort<lb/>
+verfügbares Bürohaus zu kaufen. Voraussetzung dafür wäre, dass<lb/>
+tatsächlich die Länder jetzt ohne Ablehnung gegenüber jedweden<lb/>
+Hauskauf einstellen würden. Ich bin sehr gespannt, wie dieses<lb/>
+Problem bei der nächsten Generalversammlung von den Ländern<lb/>
+behandelt wird.<lb/>
+</p>
+            <p xml:space="preserve">Die nordkoreanische Regierung hat den Vizeaussenhandelsminister,<lb/>
+der jetzt zu einem Besuch in Österreich weilt, doch ermächtigt,<lb/>
+mit mir den Vertrag zu unterfertigen. Der Vertragstext ist aus<lb/>
+dem Jahre 1976 und ich muss daher diese Jahreszahl korrigieren.<lb/>
+So lange schon sollte ich nach Pjöngjang fahren. Ich bin<lb/>
+sehr froh, dass es möglich war, jetzt in Wien den Vertrag zu<lb/>
+unterfertigen und verspreche, weil ich diesbezüglich sofort<lb/>
+<pb n="45-1378" facs="45_1978-11-27_1378.jpg"/>gefragt werde, den nächsten Vertrag in Pjöngjang zu fertigen.<lb/>
+Ich bin überzeugt davon, der wird sicherlich, wenn überhaupt,<lb/>
+erst in ein paar Jahren fällig. Gen.Dir. <name type="person" ref="per:97315">Apfalter</name> hat mich<lb/>
+vorher noch verständigt, dass die Delegation, die ihn nach<lb/>
+der Vertragsunterzeichnung in Linz besucht, wahrscheinlich von<lb/>
+ihm Lieferungen will, die er wegen seiner guten Geschäfte mit<lb/>
+Südkorea gar nicht beabsichtigt zu machen. Unter anderem<lb/>
+interessieren sich die Nordkoreaner für Bergbaumaschinen.<lb/>
+<name type="person" ref="per:97315">Apfalter</name> befürchtet, dass sie sie dann als Streckenvortriebsmaschinen<lb/>
+nicht nur im Bergbau, sondern auch zur Untergrabung der nord-<lb/>
+südkoreanischen Grenzlinie benützen würden. Er hat scheinbar<lb/>
+diesbezüglich streng vertraulich Hinweise. Da die Nordkoreaner<lb/>
+sowieso nicht zahlen könne, aber wahrscheinlich auch gar nicht<lb/>
+zahlen wollen, ist es für jeder Firma Österreichs leicht möglich,<lb/>
+Lieferwünsche aus diesem Grund abzulehnen.<lb/>
+</p>
+            <p xml:space="preserve">Im Pressefrühstück berichtet <name type="person" ref="per:108322">Meisl</name> über die Vertragsunterzeichnung.<lb/>
+Ich werde von den Journalisten gefragt, wie sich in Nord- und<lb/>
+in Südkorea die Exportentwicklung darstellt. In Südkorea ist<lb/>
+tatsächlich in den ersten neun Monaten von 200 Mill. unser<lb/>
+Export auf 100 Mio zurückgegangen, in Nordkorea hat er sich<lb/>
+von 25 Mio auf 27 Mio erhöht. In beiden Staaten ist aber diese<lb/>
+Entwicklung nicht typisch, denn die Ziffern ändern sich sofort<lb/>
+wesentlich, wenn grössere Geschäfte abgeschlossen werden.<lb/>
+In Nordkorea war dies einmal bis 450 Mio S, dann wurden aber<lb/>
+die Zahlungen eingestellt, weil Nordkorea kein Geld hat.<lb/>
+In Südkorea dagegen kommt es auch zu wesentlich stärkerer<lb/>
+Ausweitung unserer Exporte, wenn grosse Anlagen von der Vöest<lb/>
+oder einer sonstigen österr. Firma geliefert werden. In diesem<lb/>
+Fall wird aber für diese Export dann bezahlt.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:115656">Steiger</name> berichtet über die EFTA-Tagung und obwohl so interessante<lb/>
+Probleme wie Stahlbriefwechsel, Papierkontingente usw. auch<lb/>
+von ihm referiert werden, ergibt sich überhaupt keine Diskussion.<lb/>
+Ich werde nur gefragt, wie ich mich zum europäischen<lb/>
+Währungssystem stelle.<lb/>
+</p>
+            <pb n="45-1379" facs="45_1978-11-27_1379.jpg"/>
+            <p xml:space="preserve">Min.Rat <name type="person" ref="per:111737">Marsch</name> berichtet über die Leistungsbilanzreduzierung<lb/>
+von 30 auf 10 Mia, auch die statistische Differenz ist von<lb/>
+15 Mia in den ersten 9 Monaten auf 13 Mia in diesem Jahr zurück<lb break="no"/>gegangen. Wie weit die statistische Differenz auf Kapitalbilanz<lb/>
+zurückzuführen ist, kann nicht im Detail beantwortet werden, liegt<lb/>
+aber nach Auskunft der OeNB nicht höher als ca 1 Mia.<lb/>
+</p>
+            <p xml:space="preserve">Von grösserem Interesse ist die Mitteilung <name type="person" ref="per:111367">Würzls</name> über den Fremden<lb break="no"/>verkehr in Österreich, die Sommersaison hat mit plus 0,3 % abge<lb break="no"/>schnitten, die Privatbetten sind daran mit 5 % und die gewerblichen<lb/>
+Betriebe mit plus 1,5 % beteiligt. Die Inländer waren um minus 0,4,<lb/>
+aber die Ausländer um 0,5 mehr Übernachtungen im Sommer in Österreich.<lb/>
+Dr. <name type="person" ref="per:114653">Schulmeister</name> vom Wirtschaftsforschungsinstitut legt seine<lb/>
+neue Prognose für das nächste Jahr vor. <choice><choice><sic>Danach</sic><corr>Demnach?</corr></choice></choice> würde der österr.<lb/>
+Tourismus um 7 % billiger. Die österr. Preise werden um plus 3 %<lb/>
+steigen, die anderen europäischen Länder wie Spanien, Italien<lb/>
+usw. um 10 %. Dadurch ergibt sich die relative Verbilligung<lb/>
+in Österreich. In Deutschland muss sich die 13 Mia DM-Investition<lb/>
+mit einer grösseren Nachfrage und damit Konjunkturverbesserung<lb/>
+niederschlagen. Dadurch wird auch der deutsche Tourismus in<lb/>
+Österreich gestärkt. Die Einnahmen werden um 13 % steigen,<lb/>
+die Ausgaben, die schwerer zu prognostizieren sind, um nicht zu<lb/>
+sagen, überhaupt nicht, um 11 %. Die Prognose ist deshalb<lb/>
+so schwierig, weil in Wirklichkeit bei den Fremdenverkehrsausgaben<lb/>
+die Warendirektimporte eine grosse Rolle spielen. Da früher Öster<lb break="no"/>reicher in Deutschland und teils in der Schweiz gekauft haben und<lb/>
+jetzt gerade die Schweizer in Österreich, kann man diesen Waren<lb break="no"/>direktimport resp. Export kaum klassifizieren.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97584">Jagoda</name> und <name type="person" ref="per:111367">Würzl</name> besprechen mit mir die Restaufteilung der Fremden<lb break="no"/>verkehrsbudgetansätze. Im Prinzip wird wie im Vorjahr die Auf<lb break="no"/>teilung vorgenommen und ergibt keinerlei Schwierigkeiten.<lb/>
+</p>
+            <p xml:space="preserve">Der jug. Botschafter <name type="person" ref="per:118661">Pribicevic</name> berichtet mir über den Besuch<lb/>
+des Aussenhandelsministers <name type="person" ref="per:117981">Rotar</name>. Leider war ich zu diesem Zeit<lb break="no"/>punkt in Rumänien mit dem Bundespräsidenten auf Staatsbesuch<lb/>
+und konnte deshalb diese erste Kontaktaufnahme, auf die ich mich<lb/>
+sehr freute, nicht absolvieren. Natürlich kam der Botschafter<lb/>
+<pb n="45-1380" facs="45_1978-11-27_1380.jpg"/>auf die schlechte Handelsbilanz für Jugoslawien, die beabsichtigte<lb/>
+offene Grenze, die stärkeren Wirtschaftsbeziehungen und letzten<lb/>
+Endes die Spezialuntersuchungen, wie man die grenznahen Wirt<lb break="no"/>schaftsbeziehungen verbessern kann, zu sprechen. Diese ganzen<lb/>
+Probleme hat <name type="person" ref="per:117981">Rotar</name> auch mit Bundeskanzler <name type="person" ref="per:97668">Kreisky</name> und Vize<lb break="no"/>kanzler <name type="person" ref="per:97311">Androsch</name> bei seinem Besuch in Wien besprochen. Ich selbst<lb/>
+werde für April nach Jugoslawien eingeladen. Da ich in diesem<lb/>
+Fall beabsichtigte, unmittelbar auch Albanien zu besuchen, melde<lb/>
+ich gleich an, dass ich mit dem Auto kommen werde.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte die Osterfeiertage in dieses Besuchs<lb break="no"/>programm einbauen.<lb/>
+</p>
+            <p xml:space="preserve">Die Firma Knoblich-Leuchten hat ein Entwicklungs- und Forschungs<lb break="no"/>zentrum dazugebaut und mich ersucht, es zu eröffnen. Vor mir<lb/>
+hat Präsident <name type="person" ref="per:97581">Igler</name> gemeint, es gibt 3 wissenschaftliche Richtungen,<lb/>
+die jetzt die Nationalökonomie bestimmen, die Monetaristen, die<lb/>
+Keynesianer, zu denen er sich bekennt, und die Staatsdirigisten aller<lb/>
+Sozialisten östlicher Prägung. Ich erwiderte, dass, soweit <name type="person" ref="per:97668">Kreisky</name><lb/>
+mit Wissenschaftlern zweimal im Jahr Gespräche führt, bei denen<lb/>
+ich anwesend bin, es nicht um 3 Meinungen, sondern oft um Dutzende<lb/>
+Meinungen geht. Wirklich ausgeprägte österreichische Theorien<lb/>
+gibt es allerdings gar keine. Wo sind die Zeiten, wo es in Wien<lb/>
+noch ganze Schulen wie z.B. die <choice><choice><sic>Grenzen</sic><corr>Großen?</corr></choice></choice> unserer Schule <name type="person" ref="per:118663">Böhm-<lb/>
+Bawerk</name>, <name type="person" ref="per:118664">Wieser</name> usw. gegeben hat. Ich glaube auch kaum, dass sie<lb/>
+jemals wieder kommen würden. Ich fragte dann unter vier Augen den<lb/>
+Geschäftsführer <name type="person" ref="per:118665">Sefcsik</name>, wieso die Firma imstande ist, diese finan<lb break="no"/>ziellen Aufwendungen für den Ausbau aufzubringen. Er meinte, durch<lb/>
+die Akonto-Zahlung im AKH hat er einen ungeheuren Zinsenvorteil<lb/>
+und ist liquid, um solche Investitionen durchführen zu können.<lb/>
+Ich bin sehr angenehm überrascht, wie sich diese Firma entwickelt<lb/>
+hat, der man eigentlich schon den Zusammenbruch vorausgesagt hat.<lb/>
+</p>
+            <p xml:space="preserve">Im Klub kam ich gerade zu recht, als <name type="person" ref="per:97668">Kreisky</name> über die Energiesituation<lb/>
+berichtete und meinte, die Regierung ist nicht bereit, den finan<lb break="no"/>ziellen Folgen der Nichtinbetriebnahme von Zwentendorf auch nur<lb/>
+näherzutreten. Er meinte, es ist gut, dass <name type="person" ref="per:97985">Staribacher</name> jetzt<lb/>
+kommt, denn auch wenn mir das Herz blutet, wir dürften jetzt nicht<lb/>
+nachgeben. Da ich fest überzeugt bin, dass es früher oder später<lb/>
+<pb n="45-1381" facs="45_1978-11-27_1381.jpg"/>doch zu einer Lösung kommen muss und wird, passt es mir sehr,<lb/>
+dass <name type="person" ref="per:97668">Kreisky</name> jetzt in der Partei immer wieder unterstreicht, dass<lb/>
+ich hart bleiben muss. Ich bin wahrscheinlich der letzte, der<lb/>
+umfällt, weiss aber jetzt schon genau, dass früher oder später<lb/>
+natürlich wir für die finanzielle Belastung eine Lösung finden<lb/>
+müssen. In der anschliessenden Diskussion wurde auch ausschliess<lb break="no"/>lich das Energieproblem angeschnitten. <name type="person" ref="per:111408">Eypeltauer</name> meinte, man<lb/>
+müsste mehr sparen und die Jugend für ein neues Energiekonzept<lb/>
+gewinnen. <name type="person" ref="per:97543">Heindl</name> erwiderte mit Recht, dass dies immer wieder er<lb break="no"/>folgt, aber mit geringem Erfolg. <name type="person" ref="per:112931">Köck</name> meinte, man hätte doch jetzt<lb/>
+den Strompreis sofort nachziehen müssen, damit die Leute etwas<lb/>
+bemerken, dass das Kernkraftwerk Zwentendorf nicht in Betrieb<lb/>
+geht. <name type="person" ref="per:112988">Wille</name> wieder meinte, der sozialistische Einfluss müsste auch<lb/>
+bei den Landesgesellschaften in Wien, Burgenland und Kärnten sich<lb/>
+niederschlagen und dort unsere soz. Energiepolitik vertreten werden.<lb/>
+<name type="person" ref="per:98010">Teschl</name> plädierte wieder für eine Zentralisierung der Energiepolitik.<lb/>
+<name type="person" ref="per:97346">Benya</name> sagte dann, der Energieplan hat gestimmt und es wird jetzt<lb/>
+ein neuer erstellt, er meint, der Fehler besteht nur darin, dass<lb/>
+wir uns jetzt in stärkerem Masse von der Opposition treiben lassen.<lb/>
+Wir haben zu bestimmen, was geschieht und sollten nicht immer daran<lb/>
+zweifeln, ob und wie das richtige geschehen sollte. <name type="person" ref="per:97346">Benya</name> machte auch<lb/>
+als einziger die Bemerkung <name type="person" ref="per:97511">Haiden</name> gegenüber, er hat ganz recht ge<lb break="no"/>handelt, als er in der gestrigen Fernsehdiskussion so hart mit<lb/>
+<name type="person" ref="per:97743">Minkowitsch</name> zusammengekracht ist. Überall sonst höre ich<lb/>
+nämlich sonst das Gegenteil.<lb/>
+</p>
+            <p xml:space="preserve">Der Finanzminister und Unterrichtsminister besprachen mit ihren<lb/>
+Beamten und <name type="person" ref="per:109811">Burian</name> und mir das neue Filmförderungsgesetz. Einleitend<lb/>
+habe ich sofort und diesmal sogar mit Erfolg festgestellt, dass<lb/>
+der Fonds nur bei <name type="person" ref="per:113083">Sinowatz</name> ressortieren kann. Im Unterrichtsbudget<lb/>
+sind neben den bisherigen 29 Mill. für das nächste Jahr 30 Mill.<lb/>
+vorgesehen. Ausserdem möchte das Finanzministerium Sachleistungen durch<lb/>
+die Wienfilm erbringen. Wir einigten uns, dass ein Fonds aus den<lb/>
+drei Ministern gegründet wird, Vorsitz Unterrichtsminister, Stellvertr.<lb/>
+Finanzen und Handel, zinsverbilligte, ev. zinsenlose Darlehen, 50 %,<lb/>
+wenn bei der Wien-Film gearbeitet wird, die vom Bund ersetzt werden,<lb/>
+ein Beirat als Kontrollorganisation und gleichzeitig dann noch<lb/>
+eine Auswahlkommission, welche Firmen gefördert werden sollen.<lb/>
+</p>
+            <pb n="45-1382" facs="45_1978-11-27_1382.jpg"/>
+            <p xml:space="preserve">Projektförderung vom Drehbuch bis zum Verleih. Bin ich froh,<lb/>
+dass dieses Problem, fast würde ich sagen dieser Kelch, an mir<lb/>
+vorübergegangen ist. Dass wir noch in dieser Saison ein Film<lb break="no"/>gesetz machen müssen, ist klar, denn im nachfolgenden Interview<lb/>
+wurde festgestellt, seit 1970 hat <name type="person" ref="per:97668">Kreisky</name> ein solches bereits<lb/>
+versprochen.<lb/>
+</p>
+            <p xml:space="preserve">In der Ministerratsvorbesprechung hat <name type="person" ref="per:97311">Androsch</name> über die Verurteilung<lb/>
+von <name type="person" ref="per:118667">Pretterebner</name> über Anklage Jänner 1976 berichtet. Die Strafver<lb break="no"/>fahren, die er angestrengt hat, werden fortgesetzt, auch die <name type="person" ref="per:113118">Tozzer</name>-<lb/>
+Verurteilung durch den ORF-Beschwerdekommission ist erfolgt,<lb/>
+doch in der Öffentlichkeit untergegangen. Überhaupt beschwerte<lb/>
+sich <name type="person" ref="per:97311">Androsch</name>, dass der Eindruck in der Öffentlichkeit nach wie vor<lb/>
+besteht, dass er seine Wirtschaftsprüfertätigkeit ausübt, was er<lb/>
+auf Grund der Berufsordnung gar nicht durchführen könnte. Dies<lb/>
+ist nämlich viel strenger als die Unvereinbarkeitsbestimmungen.<lb/>
+Die jetzt in der Öffentlichkeit propagierte Schweizer Regelung<lb/>
+hat er schon längst erfüllt. Er wird deshalb einen Brief an den<lb/>
+Vorsitzenden der von <name type="person" ref="per:97668">Kreisky</name> eingesetzten Kommission richten und<lb/>
+bitten, dass man jetzt seinen Fall entsprechend behandelt. Ihm<lb/>
+erscheint es auch im Interesse seiner Familie notwendig, jetzt<lb/>
+endlich klarzustellen, dass er seit 1970 keinerlei Tätigkeit<lb/>
+ausübt, er kann aber auf seine Klientel nicht verzichten, die<lb/>
+in 37-jähriger Tätigkeit bereits von seinem Vater aufgebaut wurde.<lb/>
+Er würde vorschlagen, dass eine Kommission bestehend aus Höchst<lb break="no"/>richtern, Wirtschaftstreuhändern, Rechtsanwälte usw. seinen Fall<lb/>
+beurteilen soll, wie er dazu sagt, unabhängig der politischen<lb/>
+Konsequenzen. <name type="person" ref="per:97668">Kreisky</name> meinte, auf Grund seiner jetzigen Erfahrungen<lb/>
+und der Berichte, die er von <name type="person" ref="per:108328">Pahr</name> bekommen hat, der ja die anderen<lb/>
+Länderregelungen zusammenstellte, kann er sagen, es gibt welche<lb/>
+in Europa, die strenger sind, und manche, die weniger streng dieses<lb/>
+Problem auslegen. Die österr. Unvereinbarkeitsregelung von 1919<lb/>
+sei unbefriedigend. In Deutschland wachen darüber Bundesgerichte,<lb/>
+in anderen Ländern gibt es Kommissionen. Er stellt neuerdings<lb/>
+fest, dass <name type="person" ref="per:97311">Androsch</name> keinerlei Unkorrektheiten sich zuschulden<lb/>
+kommen hat lassen und auch niemand dies öffentlich behauptet.<lb/>
+</p>
+            <pb n="45-1383" facs="45_1978-11-27_1383.jpg"/>
+            <p xml:space="preserve"><name type="person" ref="per:108328">Pahr</name> ergänzte, dass die Kommission nur das internationale Material<lb/>
+zusammengestellt hat. Sie wird eine Art Weissbuch herausgeben.<lb/>
+Diese Kommission könne nicht über Politiker wie z.B. <name type="person" ref="per:97311">Androsch</name><lb/>
+jetzt entscheiden. <name type="person" ref="per:97668">Kreisky</name> meinte auch, eine solche Vorgangsweise<lb/>
+sei unmöglich, dies müsse noch eine zu bestellende Kommission<lb/>
+eventuell machen, die er bestimmen wird. <name type="person" ref="per:97311">Androsch</name> beharrte darauf<lb/>
+und meinte, dies geht alles für die Vergangenheit, für die Zukunft<lb/>
+hat er seine eigenen Vorstellungen, doch möchte er sich dazu<lb/>
+nicht äussern und auch keinerlei Einfluss auf die zukünftige Regelung<lb/>
+nehmen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97444">Fischer</name> berichtete, das in der Präsidialbesprechung es Schwierigkeiten<lb/>
+wegen der Termine und der Gesetzesbeschlüsse in diesem Jahr gegeben<lb/>
+hat. Die ÖVP wird unter allen Umständen verhindern, dass das Mini<lb break="no"/>steriengesetz jetzt noch geändert wird. Erst im Jänner wird<lb/>
+dies erfolgen, weshalb auch die Ausschreibung des Generalpostdirek<lb break="no"/>tors erst zu diesem Zeitpunkt erfolgen kann. Die ÖVP wehrt sich nicht<lb/>
+gegen die zeitweilige Bestellung des Generalpostdirektors, sie<lb/>
+fürchtet nur, dass dadurch der Beamte auf Zeit eingeführt wird.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> meint zu Recht, in der Öffentlichkeit kann man gut vertreten,<lb/>
+dass eben nicht ein Generaldirektor auf alle Ewigkeit ernannt wird,<lb/>
+auch dann, wenn sich herausstellt, dass eine ausgesprochene Niete<lb/>
+ist. <name type="person" ref="per:108223">Lausecker</name> erörterte, dass es einen karenzierten Beamten<lb/>
+gibt, wie z.B. den Gouverneur der Postsparkasse, dass man den ÖBB-<lb/>
+Vorstand aber nicht vergleichen kann, obwohl dieser seit der ÖVP-<lb/>
+Zeit nur zeitweilig bestellt sind. <name type="person" ref="per:97668">Kreisky</name> meint zu Recht, man soll<lb/>
+nicht jetzt komplizierte beamtenrechtliche Probleme hervorbringen,<lb/>
+sondern der Bevölkerung klar und deutlich sagen, so grosse<lb/>
+Unternehmen wie die Post können nicht auf Lebenszeit von einem<lb/>
+Generalpostdirektor geführt werden. Hier muss es die Möglichkeit<lb/>
+geben, ihn zeitgerecht auslaufen zu lassen, wenn er sich als Ver<lb break="no"/>sager herausgestellt hat.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97311">Androsch</name> berichtet, dass jetzt für das Moorheilbad in Weitra das<lb/>
+ERP-Büro keine Kreditzusage für das Jahr 1979 geben kann oder will,<lb/>
+weshalb der Bau gegebenenfalls eingestellt werden muss. <name type="person" ref="per:97668">Kreisky</name> ent<lb break="no"/>scheidet sofort, dass selbstverständlich, dass eine solche Zusage,<lb/>
+die man ja auch bei der Grenzlandbesprechung mit NÖ in Aussicht<lb/>
+gestellt hat, von <name type="person" ref="per:97468">Gatscha</name> erfolgen muss.<lb/>
+</p>
+            <pb n="45-1384" facs="45_1978-11-27_1384.jpg"/>
+            <p xml:space="preserve"><name type="person" ref="per:97311">Androsch</name> hat mit den reisenden Kaufleuten, d.h. mit der<lb/>
+Handelskammer<add>[und?]</add> der Gewerkschaft entsprechende Gespräche geführt,<lb/>
+sodass bei der Tunnel-Eröffnung am Arlberg keinerlei Schwierig<lb break="no"/>keiten zu erwarten sind.<lb/>
+</p>
+            <p xml:space="preserve">Im Ministerrat hat dann beim Zivildienstgesetz von <name type="person" ref="per:110923">Lanc</name> <name type="person" ref="per:97668">Kreisky</name><lb/>
+wie angekündigt den Vorbehalt gemacht, dass verfassungsmässig noch<lb/>
+einige Fragen zu klären sind. Der Verfassungsdienst steht auf dem<lb/>
+Standpunkt, es müsste dem Zivildiener auch bei laufender Einberufung<lb/>
+und Mobilmachung sogar die Möglichkeit gegeben werden, nach<lb/>
+Beendigung des Grundwehrdienstes auch bei allen Übungen usw.<lb/>
+sich zu jeder Zeit zu einem Zivildienst entscheiden zu können.<lb/>
+Dies würde, wie <name type="person" ref="per:97879">Rösch</name> mit Recht bemerkte, dazu führen, dass in<lb/>
+Hinkunft keine Mobilmachung mehr möglich sei, weil man nicht<lb/>
+wüsste, wer dann im letzten Moment sich noch als Zivildienstler<lb/>
+bezeichnet. Da jetzt auch während der Grundwehrdienstzeit sich<lb/>
+zum Zivildienst entscheiden kann, soll dies aber auch dann<lb/>
+wirklich der letzte Zeitpunkt für ihn sein.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97879">Rösch</name> hat selbstverständlich den Wunsch <name type="person" ref="per:107956">Satzinger</name> jetzt von der<lb/>
+zusätzlichen Wehrdienstleistung zu befreien, zur Kenntnis ge<lb break="no"/>nommen, er hat sich nur mit Recht bei mir beschwert, dass wir<lb/>
+so spät an ihn herantreten. <name type="person" ref="per:107956">Satzinger</name> müsste schon seit Monaten<lb/>
+wissen, dass er jetzt einberufen wird und man soll nicht zuwarten,<lb/>
+bis der Einberufungsbefehl zugestellt wird.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Bitte in Hinkunft zeitgerechter ansuchen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="45_1374_01" facs="45_1978-11-27_1374-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 27.11.1978</head>
+         </div>
+         <pb n="45_1374_02" facs="45_1978-11-27_1374-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+         <pb n="45_1384_01" facs="45_1978-11-27_1384-01.jpg"/>
+         <pb n="45_1384_02" facs="45_1978-11-27_1384-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesordnung 141. Ministerratssitzung, 27.11.1978</head>
+            <gap reason="sampling"/>
+            <pb n="45_1384_03" facs="45_1978-11-27_1384-03.jpg"/>
+         </div>
+         <pb n="45_1384_04" facs="45_1978-11-27_1384-04.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>hs. Notizen (TO Ministerratssitzung Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

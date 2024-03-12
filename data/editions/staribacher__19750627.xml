@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der 27. Juni 1975</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band26_1975-06-27</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1975-06-27">Freitag, 27. Juni 1975</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-11-27">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="26-0794" facs="26_1975-06-27_0794.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Freitag, 27. Juni 1975<lb/>
+</p>
+            <p xml:space="preserve">Bei der Eröffnung von Draukraftwerk Ferlach benützte ich die<lb/>
+Gelegenheit, über aktuelle Elektrizitätsprobleme zu sprechen.<lb/>
+Leider war ich der 7. Redner, es war eine schreckliche Hitze<lb/>
+und ausser den speziell geladenen Gästen, die auf entsprechenden<lb/>
+Bänken im Freien sassen, hatte sich die Bevölkerung, die in grösserer<lb/>
+Masse erschienen war, bereits zu den Bierzelten abgesetzt. In<lb/>
+den Kärntner Zeitungen las ich von einem Krieg zwischen Kärnten<lb/>
+und der Verbundgesellschaft. Ich verwies darauf, dass weder mein<lb/>
+Amtsvorgänger <name type="person" ref="per:97461">Frühbauer</name>, der als Kärntner die Elektrizitätswirtschaft<lb/>
+entsprechend schon allein aus diesem Grunde kärntnerisch ausrichtete,<lb/>
+einen diesbezüglichen Streit zwischen Kärnten und der Verbund zuliess,<lb/>
+noch ich werde eine andere Politik in diesem Punkt machen. Für mich<lb/>
+ist es ganz klar, dass zwischen den offenen Problemen eine friedliche<lb/>
+Lösung gefunden werden muss. Betreffend die Errichtung von Voitsberg III<lb/>
+liess ich keine Zweifel, dass wenn die Kohle nur einigermassen ren<lb break="no"/>tabel gefördert werden kann, das Kraftwerk gebaut wird.<lb/>
+</p>
+            <p xml:space="preserve">Mit <name type="person" ref="per:97526">Hautzenberg</name> besprach ich die weitere Vorgangsweise und war sehr<lb/>
+erfreut zu hören, dass jetzt nächste Woche bereits mit den entsprechen<lb break="no"/>den Vorbereitungsarbeiten mit Voitsberg begonnen wird. Ich bin an und<lb/>
+für sich kein besonderer Freund von grossen optischen Massnahmen, hier<lb/>
+erscheint es aber wirklich zweckmässig und zielführend, bei Beginn<lb/>
+der Arbeiten durch eine grössere Ankündigung mit einer Tafel darauf<lb/>
+hinzuweisen. Im Aufsichtsrat hätten sie bereits 70 Mill. S für<lb/>
+weitere Massnahmen genehmigt bekommen.<lb/>
+</p>
+            <p xml:space="preserve">Der neue Vorstandsdirektor <name type="person" ref="per:114717">Dichtl</name> beschwerte sich bei mir, dass er<lb/>
+so schlecht seine Arbeit beginnen müsse, weil – wie er sich ausdrückt –<lb/>
+der <choice><choice><sic>Politruck</sic><corr>Politruk?</corr></choice></choice> gegen seine Stellung resp. die gewünschte Geschäfts<lb break="no"/>einteilung bestimmt habe und deshalb die Geschäftsordnung geändert<lb/>
+werden musste. Ich habe sofort Präs. <name type="person" ref="per:112215">Weiss</name> zugezogen und erklärt,<lb/>
+dass wir beide uns sehr bemüht haben, zu einer friedlichen Lösung<lb/>
+zu kommen. Mir wurde auch mitgeteilt, dass man über alle Punkte<lb/>
+einig war, ja sogar noch gemeinsam essen gegangen ist, bevor die<lb/>
+offizielle Sitzung dann begann. <name type="person" ref="per:112215">Weiss</name> bestätigte, dass tatsächlich<lb/>
+alles gut gelaufen ist und nur im letzten Moment dann, ohne<lb/>
+dass der Name des Zentralbetriebsratsobmannes <name type="person" ref="per:114714">Inthal</name> gefallen ist,<lb/>
+<pb n="26-0795" facs="26_1975-06-27_0795.jpg"/>dieser dann alles umgeworfen hat.<lb/>
+</p>
+            <p xml:space="preserve">Wenn <name type="person" ref="per:97632">Kirchschläger</name> jetzt irgendwelche Werkseröffnungen vornimmt,<lb/>
+so ist es für ihn als praktizierenden Katholiken selbstverständ<lb break="no"/>lich, dass er an allen Gottesdiensten teilnimmt. Ursprünglich wollte<lb/>
+LH <name type="person" ref="per:98038">Wagner</name> sich diesen Festakt ersparen, hat sich aber dann doch dazu<lb/>
+entschlossen, nachdem auch wahrscheinlich zu seiner Überraschung<lb/>
+auch ich bereit war, daran teilzunehmen. Ich bin und will nicht der<lb/>
+Katholik vom Dienst sein, wie dies derzeit <name type="person" ref="per:98034">Veselsky</name> bei allen Um<lb break="no"/>gängen usw. immer wieder macht, doch sehe ich keinen Grund, mich<lb/>
+von solchen im Rahmen einer Festveranstaltung durchgeführten<lb/>
+Gottesdiensten ausdrücklich auszuschliessen. <name type="person" ref="per:98038">Wagner</name> flüsterte mir<lb/>
+allerdings, dass er nicht überzeugt ist, ob ihm nicht der Besuch<lb/>
+der Kirche bei nächsten Wahlen schaden könnte. Örtliche Verhält<lb break="no"/>nisse sind eben sehr verschieden.<lb/>
+</p>
+            <p xml:space="preserve">Da mich <name type="person" ref="per:97461">Frühbauer</name> wegen der Abtretung von Aktien der ÖDK an<lb/>
+die Kelag neuerdings ansprach, erklärte ich den Direktoren der<lb/>
+Kelag, <name type="person" ref="per:139680">Pacheiner</name> und <name type="person" ref="per:115646">Hofstätter</name>, sowie <name type="person" ref="per:97461">Frühbauer</name>, dass ich mich<lb/>
+sehr bemühen würde, zu einem Kompromiss zu kommen, dass aber jetzt<lb/>
+wieder technische finanzielle Schwierigkeiten aufgetreten sind.<lb/>
+<name type="person" ref="per:107937">Frank</name> wird jetzt mit <name type="person" ref="per:139680">Pacheiner</name> und <name type="person" ref="per:115646">Hofstätter</name> gemeinsam eine ent<lb break="no"/>sprechende Lösung versuchen.<lb/>
+</p>
+         </div>
+      </body>
+      
+   </text>
+</TEI>

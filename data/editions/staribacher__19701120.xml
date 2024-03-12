@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der 20. November 1970</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band03_1970-11-20</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1970-11-20">Freitag, 20. November 1970</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-04-11">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-02-27" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+  <text xml:base="http://192.168.0.9/staribacher/src/scans/Band03/">
+      <body>
+         <pb n="03-0820" facs="03_1970-11-20_0820.jpg"/>
+         <div type="entry">
+            <dateline>
+               <date when="1970-11-20">Freitag, 20. November 1970</date>
+            </dateline>
+            <p xml:space="preserve">Die am Abend des Vortages eingesagte Ministerratssitzung fand nicht<lb/>
+um 9 Uhr sondern schon um 1/2 9 Uhr und nicht im BKA sondern im Parlament<lb/>
+Ministerratssitzungsaal statt. Daher kamen <name type="person" ref="per:97311">Androsch</name>, <name type="person" ref="per:98055">Weihs</name> und ich<lb/>
+natürlich zu spät. Auf der Stiege erzählte mir <name type="person" ref="per:97311">Androsch</name> schon, dass<lb/>
+es geglückt sei, einen Abschluss zu tätigen. Es hat sich zwar herausge<lb break="no"/>stellt, dass es zwar nicht gelungen ist, die FPÖ so billig zur Zustimmung<lb/>
+zu kriegen wie man ursprünglich angenommen hat. U.A. muss jetzt die<lb/>
+ganze KFZ-Sonderabgabe von 10 % aufgehoben werden. Ursprünglich wollte<lb/>
+ja <name type="person" ref="per:97668">Kreisky</name> mit der Hälfte durchkommen. Bei den Ruhensbestimmungen wird<lb/>
+den Wünschen der FPÖ nur formell nachgegeben, denn ein Rentner der 65<lb/>
+Jahre alt ist, 540 Monate Pflicht- und Freiwilligenversicherungszeiten<lb/>
+hat, wird es kaum viele geben. Wesentlicher ist, dass der Freibetrag<lb/>
+von 2.162.- auf 2.500.- und der Gesamtbetrag, das ist das Einkommen und<lb/>
+die Pension von 3.844.- auf 4.300.- S erhöht wird. Da für den Weinsteuer<lb break="no"/>ausfall die Länder und Gemeinden mit der Alkoholabgabe Ertragsanteilserhö<lb/>
+hungen kriegen sollen, wird die Alkoholabgabe verankert und es wird des<lb break="no"/>halb wahrscheinlich in Zukunft möglich sein, diese auch weiter zu behalten<lb/>
+<name type="person" ref="per:97668">Kreisky</name> schwebt ja seit langem vor, dafür die Gesundheitsaufgaben des Staa<lb break="no"/>tes zu finanzieren. <name type="person" ref="per:97668">Kreisky</name> machte auch zum Schluss noch eine Milchmäd<lb break="no"/>chenrechnung, indem er sagte, die 840 Mill. S betragen von budgetkürzungs<lb break="no"/>fähigen Betrag von 10 Mia nicht ganz 8 %, das entspricht ungefähr der<lb/>
+Stärke ihrer Fraktion im Parlament. Diese Milchmädchenrechnung lasse ich<lb/>
+natürlich nicht gelten, denn in Zukunft, wo die FPÖ kein Wahlrecht in<lb/>
+Aussicht hat, wird sie kaum sich so billig bereit erklären, einem Budget<lb/>
+zuzustimmen. Da die ÖVP, insbesondere die Bauern, bis jetzt sich gewehr<lb/>
+haben, dem Budget zuzustimmen und nicht bereit sind, uns zu unterstützen,<lb/>
+werden jetzt die Ausgaben des Grünen Planes, die 810 Mill. , neu über<lb break="no"/>dacht. Es soll von der FPÖ ein gewisser Bauer <name type="person">Bachinger</name>, vom allgemeinen<lb/>
+Bauernverband <name type="person" ref="per:139874">Loitfellner</name> und von der SPÖ der Bauernabgeordnete NR <name type="person" ref="per:97809">Pfeifer</name><lb/>
+mit <name type="person" ref="per:98055">Weihs</name> gemeinsam noch einmal die Ausgaben des Grünen Planes durchgehen<lb/>
+und gegebenenfalls Abänderungsanträge im Parlament stellen. Die FPÖ –<lb/>
+so nach <name type="person" ref="per:97668">Kreisky</name> – hat sich bereit erklärt, keinerlei Beschlüsse mehr<lb/>
+zu beantragen, die eine Haushaltsbelastung bedeuten würden. Dies gilt<lb/>
+bis in das Frühjahr 1971. Damit wäre die Regierung auf alle Fälle bis<lb/>
+zu den Präsidentenwahlen gesichert. Ich selbst hatte ja immer die grosse<lb/>
+Angst, dass wir vor den Präsidentenwahlen scheitern könnten und dann<lb/>
+der Bundespräsident zu einer Entscheidung, nämlich zur Auflösung des<lb/>
+<pb n="03-0821" facs="03_1970-11-20_0821.jpg"/>Parlamentes aufgerufen würde. In der Öffentlichkeit würde dann die ÖVP<lb/>
+und die FPÖ den Bundespräsidenten als einen Mann hinstellen, der sich<lb/>
+ausschliesslich nach den sozialistischen Wünschen richtet. Diese Gefahr<lb/>
+scheint nun endgültig gebannt. <name type="person" ref="per:97668">Kreisky</name> meinte noch, dass bezüglich der<lb/>
+6 Monate Heeresdienstzeit alle drei Parteien im Parlament einer Lösung<lb/>
+zustimmen würden. Bezüglich des Wohnbaues sagte er zu <name type="person" ref="per:97755">Moser</name>, da würde<lb/>
+es Schwierigkeiten geben und da müsste er halt schauen, wie er durchkommt.<lb/>
+Verhandlungen aber werden in Zukunft nur mehr die beiden Parteiobmänner<lb/>
+<name type="person" ref="per:97668">Kreisky</name> und <name type="person" ref="per:97807">Peter</name> führen, wenn es Schwierigkeiten gibt. Diese Vorgangs<lb break="no"/>weise trifft mich gar nicht, weil ich sowieso nicht die Absicht hatte<lb/>
+in keinem einzigen Fall mit der FPÖ Verhandlungen über ein Gesetz zu führen.<lb/>
+In der Politik lässt sich natürlich sehr schwer sagen, ob diese Entscheidung<lb/>
+die einzig mögliche gewesen ist, ob es nicht wesentlich billiger gegangen<lb/>
+wäre, ob man nicht hätte sollen andere Konstellationen noch versuchen. Sicher<lb/>
+ist eines, dass <name type="person" ref="per:97668">Kreisky</name> mit einem ungeheuren Instinkt diese Situation ge<lb break="no"/>nützt hat, ja ich glaube sogar seit jeher auf eine solche Situation hinge<lb break="no"/>arbeitet hat. Die FPÖ, die im Wahlkampf, um nicht vollkommen von der ÖVP<lb/>
+an die Wand gedrückt zu werde, erklärt hat, niemals einen sozialistischen<lb/>
+Bundeskanzler zu unterstützen, hat jetzt ohne ihre Gesicht ganz zu verlieren<lb/>
+doch diese Unterstützung <name type="person" ref="per:97668">Kreisky</name> gewährt. Mit dieser Lösung kann nun wahr<lb break="no"/>scheinlich ein ganzes Jahr die SPÖ-Minderheitsregierung weiterregieren.</p>
+            <p xml:space="preserve">Bei der Festveranstaltung Pro AUSTRIA – eine Veranstaltung, die die 17<lb/>
+freie mit dem Fremdenverkehr befassten Verbände der Bundeskammer subventio<lb break="no"/>niert und veranstalteten, traf ich <name type="person" ref="per:97893">Sallinger</name>. Ich informierte ihn über den<lb/>
+Abschluss und meinte, dass er doch als Anhänger der grossen Koalition<lb/>
+die auch ich jederzeit immer gewünscht hatte, nun erkennen müsse, dass es<lb/>
+eben auch andere Wege gibt als die ÖVP für eine Lösung zu gewinnen. Ins<lb break="no"/>besondere wies ich darauf hin, dass die ÖVP in der jetztigen Phase kaum<lb/>
+verhandlungsfähig ist und <name type="person" ref="per:97893">Sallinger</name> widersprach dem eigentlich nicht.<lb/>
+Ein Hinweis, dass <name type="person" ref="per:98091">Withalm</name> ja nach der Bundespräsidentenwahl zurücklegen<lb/>
+würde, und <name type="person" ref="per:97917">Schleinzer</name> Obmann werden sollte, wurde von ihm nicht wider<lb break="no"/>sprochen, er hat nur aufgeschrieen, als ich ihm sagte, dass auch <name type="person" ref="per:111325">Mock</name> Ge<lb break="no"/>neralsekretär werden würde. Er meinte, dass <name type="person" ref="per:111325">Mock</name> viel zu jung ist, um diesen<lb/>
+Posten ausfüllen zu können.Interessanterweise war bei dieser Veranstaltung<lb/>
+weder direkt noch indirekt beteiligt. Als ich <name type="person" ref="per:97893">Sallinger</name> darauf ansprach,<lb/>
+<pb n="03-0822" facs="03_1970-11-20_0822.jpg"/>erklärte er mir, dass Dr. <name type="person" ref="per:146295">Fink</name>, der seinerzeitige Leiter der Sektion<lb/>
+Fremdenverkehr der Bundeskammer ein alter und scheinbar in der Bundes<lb break="no"/>kammer nicht sehr beliebter Funktionär, der übrigens jetzt aus den<lb/>
+Funktionen schön langsam hinausgedrängt wird, abgelehnt hatte, daran<lb/>
+mitzuwirken. <name type="person" ref="per:97893">Sallinger</name> musste deshalb in seiner Begrüssungsansprache<lb/>
+darauf hinweisen, dass selbstverständlich auch die Bundeskammer grösste<lb/>
+Interesse daran hatte, und dieser Aktion PRO AUSTRIA sein ganzes Augenmerk<lb/>
+und Unterstützung zuwenden wird. Nach meiner Festansprache, die ich in<lb/>
+der üblichen Form hielt, musste ich mit <name type="person" ref="per:97893">Sallinger</name> gleich die Veran<lb break="no"/>staltung verlassen, da ich eine interne Sitzung über Integration ein<lb break="no"/>berufen hatte.</p>
+            <p xml:space="preserve">Bei dieser Sitzung mit <name type="person" ref="per:135642">Leitner</name> – von Brüssel zurückberufen – <name type="person" ref="per:97867">Reiterer</name>,<lb/>
+<name type="person" ref="per:137933">Marquet</name>, <name type="person" ref="per:115656">Steiger</name>, <name type="person" ref="per:108322">Meisl</name>, <name type="person" ref="per:98053">Wanke</name>, <name type="person">Pfusterschmied</name> und mir auch <name type="person" ref="per:97646">Koppe</name><lb/>
+war anwesend, weil er die Pressekonferenz für Montag vorbereiten soll,<lb/>
+konnte ich feststellen, dass ich eigentlich sehr wenig über die Vor<lb break="no"/>bereitungsarbeiten informiert war. Vielleicht habe ich gegenüber<lb/>
+anderen Ministern mich sehr informiert gegenüber der Delegation<lb/>
+gezeigt. In Wirklihckeit aber muss ich gestehen, dass ich erst in<lb/>
+viel späteren Phasen mir einen Überblick über die Arbeit, die bis<lb/>
+jetzt geleistet wurde, machen konnte. Befriedigt hat mich dieser<lb/>
+Zustand nicht. Ich konnte in weiterer Folge feststellen, dass ich viel<lb/>
+Material eigentlich im Ministerratsvortrag als Anhang gehabt hätte,<lb/>
+das ich mir im Detail nicht angeschaut habe und über das ich letzten<lb/>
+Endes die Sitzungsteilnehmer gefragt habe. Wenn sie intelligente Men<lb break="no"/>schen sind – und daran zweifle ich nicht – müssten sie bemerkt haben,<lb/>
+dass ich das Sitzungsmaterial für die Ministerratssitzung nicht genau<lb/>
+studiert habe.</p>
+            <p xml:space="preserve">Beim Mittagessen im Institut wollte ich gerne eine endgültige Fassung<lb/>
+über die Verhandlungen der preisdämpfenden Massnahmen, d.h. der Zoll<lb break="no"/>senkungen und der Ausgleichsteuerbefreiungen und konnte sie weder von<lb/>
+<name type="person" ref="per:98112">Zöllner</name> noch von <name type="person" ref="per:97676">Tommy Lachs</name> oder <name type="person" ref="per:114075">Schmidt</name> bekommen. Ich lud deshalb<lb/>
+alle drei für Samstag vormittag ins Ministerium, nachdem sie ausser<lb break="no"/>stande waren, diese Arbeit noch Freitags zu liefern. <name type="person" ref="per:98112">Zöllner</name> hatte<lb/>
+zwar wie er erklärte keine Zeit, hat aber dann im Laufe des Tages<lb/>
+sich wahrscheinlich doch anders überlegt. Vielleicht sollte ich auch<lb/>
+hier weniger hart vorgehen und die Freizeit der Genossen nicht so sehr<lb/>
+in Anspruch nehmen.</p>
+            <pb n="03-0823" facs="03_1970-11-20_0823.jpg"/>
+            <p xml:space="preserve">Die Industriebranchen-Referenten waren zu einer Sitzung zusammen<lb break="no"/>gerufen und wurden von ihrem Sektionsleiter Dr. <name type="person" ref="per:107939">Römer</name> über die neue<lb/>
+Geschäftsordnung von <name type="person" ref="per:97661">Kottulinsky</name> über die Industriestudie und von<lb/>
+einem guten Referenten des ÖPZ über die Führungsmodelle informiert.<lb/>
+Als erste einer solchen Reihe von Sitzungen war daher die Diskussion<lb/>
+über die Probleme noch sehr zurückhaltend. Immerhin wird aber bei den<lb/>
+Mitgliedern diese Industriebranchen-Versammlung der Eindruck ent<lb break="no"/>standen sein, dass man sich hier fortbilden kann, dass man hier<lb/>
+auf diesem Sektor etwas erreichen kann und dass vor allem man nicht<lb/>
+auf Weisungen von oben sondern von Initiative und Mitinitiative im<lb/>
+Hause weiter fortkommen wird. Ich glaube, es wird zweckmässig sein ,<lb/>
+nach einigen Wochen diesen selben Kreis wieder zusammenzurufen um<lb/>
+hier weiter die Diskussion und Aussprache und eine Art Leistungsbericht<lb/>
+der einzelnen geben zu lassen und dann bei der Gelegenheit gleich<lb break="no"/>zeitig Richtlinien und Arbeitsmöglichkeiten festzulegen.</p>
+            <p xml:space="preserve">Leider konnte ich die Industriebranchen-Sitzung nicht bis zum Ende<lb/>
+anhören, denn um 15.30 Uhr begann die interministerielle Sitzung<lb/>
+über Integration. Es waren mindestens 3 Dutzend Vertreter der Mini<lb break="no"/>sterien, aber auch der Kammern anwesend. Ich erörterte für die Kam<lb break="no"/>mern, die noch nicht wissen konnten, oder die es vielleicht schon<lb/>
+gewusst aber offiziell vielleicht noch nicht bekannt war , die auf<lb/>
+Grund der Kompetenzlage sich ergebende Organisationsform in meinem<lb/>
+Ministerium. Das Vorbereitungskomitee, welches von <name type="person" ref="per:115656">Steiger</name> in<lb/>
+meinem Haus und <name type="person">Pfusterschmied</name> von Aussenamt betreut wird, steht<lb/>
+unter Leitung von Dr. <name type="person" ref="per:114800">Michitsch</name>. Ich erklärte, dass die beiden Sek<lb break="no"/>tionschefs, sowohl <name type="person" ref="per:97867">Reiterer</name> als auch <name type="person" ref="per:137933">Marquet</name> weniger im Inland<lb/>
+seien und deshalb eine solche Lösung gefunden werden musste. <name type="person" ref="per:137933">Marquet</name><lb/>
+meinte allerdings, dass er ja doch sehr viel auch im Inland sein<lb/>
+würde und ich erwiderte dann sofort, dass ja keinerlei Qualifi<lb break="no"/>kation mit diesem Ausspruch verbunden sein sollte. Tatsache ist, dass<lb/>
+<name type="person" ref="per:137933">Marquet</name> ja sehr ungern fliegt und deshalb konnte ich mit einem Gag<lb/>
+über diese Schwierigkeit hinwegkommen, ohne dass – wie ich hoffe –<lb/>
+<name type="person" ref="per:137933">Marquet</name> beleidigt war. Da er zum Schluss mir noch unter vier Augen<lb/>
+versicherte, dass ich diese schwierige Verhandlung ganz hervorragend<lb/>
+geführt hätte, kann ich annehmen, dass er nicht beleidigt gewesen ist.<lb/>
+Tatsächlich aber hat die Vorarbeiten bei uns im Haus scheinbar<lb/>
+<name type="person" ref="per:115656">Steiger</name> geführt und ich erfuhr nachher noch, dass <name type="person" ref="per:114800">Michitsch</name> ein<lb/>
+<pb n="03-0824" facs="03_1970-11-20_0824.jpg"/>sehr hartes Leben in der Sektion hat. Er gilt aber als äusserst<lb/>
+tüchtig und fleissig und ich werde ihn deshalb bei der Pressekon<lb break="no"/>ferenz entsprechend herausstreichen. Zuerst glaubte <name type="person" ref="per:98053">Wanke</name>, dass die<lb/>
+interministerielle Sitzung, da sie Freitag nachmittags einberufen<lb/>
+war, nicht allzu lange dauern würde und ich zur Diskussion zu Pro<lb break="no"/>Austria, wo das Fernsehen <name type="person" ref="per:116209">Zilk</name> insbesondere eine ganze Show abziehen<lb/>
+wollte, und zum anschliessenden Empfang im Rathaus noch gehen könnte.<lb/>
+Ich hätte die interministerielle Sitzung nach eineinhalb Stunden<lb/>
+verlassen können, ich glaube, es war nie ein Minister, der sich so lan<lb break="no"/>ge mit diesem Ressort und dieser Frage aufgehalten hat, doch ich zog<lb/>
+die Information, die ich aus dieser Sitzung mitbekam einem Empfang<lb/>
+und vor allem einer Fernsehshow vor. Auch bei dieserSitzung musste<lb/>
+ich feststellen, dass ich über die Details nicht im einzelnen in<lb break="no"/>formiert war, und in Zukunft mich wahrscheinlich viel mehr dieser<lb/>
+Aufgabe werde widmen müssen.</p>
+         </div>
+      </body>
+      <back>
+         <pb n="03_0819_01" facs="03_1970-11-20_0819-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 20.11.1970</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="03_0819_02" facs="03_1970-11-20_0819-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+  </text>
+</TEI>

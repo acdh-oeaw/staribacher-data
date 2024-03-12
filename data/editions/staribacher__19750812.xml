@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstag, der 12. August 1975</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band27_1975-08-12</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1975-08-12">Dienstag, 12. August 1975</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-12-17">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="27-0903" facs="27_1975-08-12_0903.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Dienstag. 12. August 1975<lb/>
+</p>
+            <p xml:space="preserve">Dir. <name type="person" ref="per:97333">Bandhauer</name>, Dr. <name type="person" ref="per:118693">Lohmann</name> der Finanzmann der Verbundgesellschaft,<lb/>
+allerdings dem Vorstand <name type="person" ref="per:112012">Arthold</name> unterstehend, S.Chef <name type="person" ref="per:107937">Frank</name>, <name type="person" ref="per:109811">Burian</name><lb/>
+und <name type="person" ref="per:97469">Gehart</name> besprachen das Kelag-ÖDK-Problem. <name type="person" ref="per:97333">Bandhauer</name> hat jetzt<lb/>
+genaue Berechnungen angestellt und meint, dass die Aktienübertragung<lb/>
+an die Kelag bedeutet, dass eine wesentliche Erhöhung der Gewinn<lb break="no"/>zuteilung der Kelag folgen würde. Keinesfalls <choice><choice><sic>werden</sic><corr>wären?</corr></choice></choice> die 3 Millionen<lb/>
+die die Kelag erwartet richtig. Berechnung von <name type="person" ref="per:139680">Pacheiner</name> war, die<lb/>
+Altanlagen von 700 Millionen verzinst mit 4 %, sind ca. 28 Millionen,<lb/>
+wenn nun von rund 30 auf 40 % der Kelag-Anteil steigt, so würden für<lb/>
+diese 10 % die Gewinnanteile der Altanlage sich um ca. 3 Millionen<lb/>
+erhöhen. Demgegenüber berechnet die Verbund dass es ca. 15 Millionen<lb/>
+Schilling ausmachen würde. Tatsache ist, dass der Vertrag den <name type="person" ref="per:97555">Hinter<lb break="no"/>mayer</name> und <name type="person" ref="per:112012">Arthold</name> seinerzeit mit den Kelag-Aktionären besprochen haben<lb/>
+nichts von einem Agio der zu übertragenden Aktien vorsieht. Die<lb/>
+Kelag verlangte damals die Aktienerhöhung zum Nominale und der Be<lb break="no"/>schluss lautete nur dass dem Rechnung getragen wird, ohne dass<lb/>
+allerdings gesagt wird, dass sie zum nominalen Wert übertragen werden<lb/>
+sollen. Allerdings wurde auch nichts gesagt, dass mit einem Agio<lb/>
+übertragen wird. <name type="person" ref="per:97333">Bandhauer</name> muss zugeben, dass bei einer Klage<lb/>
+wahrscheinlich man aus dem Vertrag herauslesen würde, dass es selbst<lb break="no"/>verständlich zum Nominale zu übertragen ist. Ausserdem wurde bisher<lb/>
+dies ebenfalls so gehandhabt. Ich persönlich fürchte, dass wenn es<lb/>
+zu einer gerichtlichen Auseinandersetzung kommt, vorher der politi<lb break="no"/>sche Druck des Landes Kärnten so stark wird, dass wir auf alle<lb/>
+Fälle nachgehen und dann noch dazu ausser dem finanziellen Verlust<lb/>
+das politische Gesicht gegenüber Kärnten verlieren. Auch bei der<lb/>
+Ablösung von Lavamünd und Schwabegg wurde der Klageweg beschritten<lb/>
+und man hat sich dann nach jahrelangem prozessieren doch dazu ent<lb break="no"/>schlossen ein Kompromiss zu machen, das natürlich zugunsten Kärnten<lb/>
+ausgegangen ist. Ich ersuche <name type="person" ref="per:97333">Bandhauer</name> er möge eine Lösung, auf<lb/>
+welchem Wege immer erreichen, denn ich fürchte dass dieser politische<lb/>
+Druck gerade vor den Wahlen ungeheuer stark werden wird.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:97469">GEHART</name>: Versuche <name type="person" ref="per:107937">Frank</name> und <name type="person" ref="per:97333">Bandhauer</name> davon zu überzeugen,<lb/>
+dass ich bis spätestens Mitte September eine<lb/>
+endgültige Lösung haben muss. Wir müssen syn<lb break="no"/>chron mit Vorarlberg vorgehen.<lb/>
+</p>
+            <pb n="27-0904" facs="27_1975-08-12_0904.jpg"/>
+            <p xml:space="preserve">Botschafter <name type="person" ref="per:114156">Hinteregger</name> aus Madrid frägt mich, wie weit Spanien im<lb/>
+Rahmen der EFTA ein Abkommen erreichen könnte. Ich verweise auf die<lb/>
+Aussprache mit <name type="person" ref="per:97350">Bielka</name>, wo wir eindeutig festgelegt haben, dass eine<lb/>
+Sonderbehandlung Spaniens durch Österreich nicht in Frage kommt. Wir<lb/>
+werden weder initiativ, noch werden wir uns in bilaterale Gespräche<lb/>
+mit Spanien einlassen. <name type="person" ref="per:114156">Hinteregger</name> teilt mir mit, dass er mit dem<lb/>
+spanischen Handelsminister darüber gesprochen hat und dort überhaupt<lb/>
+keine Absicht feststellen konnte, eine bilaterale Lösung mit Öster<lb break="no"/>reich zu versuchen. Hier dürfte nur der spanische Botschafter in<lb/>
+Wien und vor allem mal die Bundeshandelskammer irgendwelche Überle<lb break="no"/>gungen angestellt haben um Spanien in die Verhandlungen einzuschalten,<lb/>
+resp. Verhandlungen auf bilateraler Basis zu beginnen. Spanien hofft,<lb/>
+dass es im Rahmen der Verhandlungen mit der EG im Herbst zu einem<lb/>
+Abschluss kommt. Dann würden sie im Rahmen der EFTA, also multilateral,<lb/>
+entsprechende Verhandlungen versuchen. Dagegen ist nichts einzuwenden,<lb/>
+da Österreich sich selbstverständlich im Rahmen der EFTA für eine Re<lb break="no"/>gelung mit Spanien multilateral aussprechen würde. Widerstand wird es<lb/>
+nur bei den Gewerkschaften geben, doch ich glaube, dass es möglich sein<lb/>
+müsse diesen zu überwinden. Selbst Schweden hat jetzt den Spaniern<lb/>
+zugesichert, <choice><choice><sic>dass</sic><corr>?</corr></choice></choice> sie im Rahmen der multilateralen Verhandlungen in<lb/>
+der EFTA kein Veto einlegen werden. Schweden hat grosse wirtschaftliche<lb/>
+Interessen in Spanien. <name type="person" ref="per:97676">Tommy Lachs</name> vom Gewerkschaftsbund behauptet<lb/>
+zwar ständig, dass im Rahmen des Konsultativkomitees gerade die<lb/>
+schwedischen Gewerkschafter ganz entschieden gegen eine Lösung mit<lb/>
+Spanien auftreten. Dies mag stimmen, doch dürfte die schwedische Re<lb break="no"/>gierung hier eine andere Politik machen, auch dann wenn sie dies<lb/>
+gegenüber den schwedischen Gewerkschaften nicht klar sagt.<lb/>
+</p>
+            <p xml:space="preserve">In der Wiener Handelskammer hatte ich eine Aussprache mit Kammeramts<lb break="no"/>direktor <name type="person" ref="per:112978">Kehrer</name>, Dr. <name type="person" ref="per:139778">Meches</name> der neue Vorsitzende des Berufsausbildungs<lb break="no"/>beirates, Dr. <name type="person" ref="per:140696">Müller</name> den Bildungsverantwortlichen und Dr. <name type="person" ref="per:113032">Reiger</name> den<lb/>
+Präsidialisten der Bundeshandelskammer, vom Ministerium war MR <name type="person" ref="per:111722">Kinscher</name>,<lb/>
+und <name type="person" ref="per:98040">Wais</name>, über die Lehrlingsfrage. Die Bundeshandelskammer ist über die<lb/>
+Plakataktion der ÖVP sehr unglücklich. <name type="person" ref="per:112978">Kehrer</name> selbst hat in einem Fern<lb break="no"/>sehinterview erklärt, dass es ihn nicht sehr freut, dass diese<lb/>
+Frage in einer Wahlauseinandersetzung auftauchte. Hier kommt es nun<lb/>
+darauf an, auf sachlicher Ebene eine entsprechende Lösung der Mehr<lb break="no"/>lehrlinge die unterkommen wollen, zu erreichen. <name type="person" ref="per:139778">Meches</name> hat mir zuge<lb break="no"/>sichert, dass er bestrebt sein wird, so schnell als möglich im Rahmen<lb/>
+des Berufsausbildungsbeirates die offenen Fragen, insbesondere die<lb/>
+<pb n="27-0905" facs="27_1975-08-12_0905.jpg"/>Änderung der Verhältniszahlen zur Sprache zu bringen. Am 29. beginnen<lb/>
+die Verhandlungen mit den Privatangestellten, am 3.9. mit der Textil<lb break="no"/>gewerkschaft und mit der Chemiegewerkschaft und am 4. mit der <choice><choice><sic>Gast<lb break="no"/>wirtschankgewerkschaft</sic><corr>Gastgewerbegewerkschaft?</corr></choice></choice> wegen Koch und Kellner. Der Berufsausbildungs<lb break="no"/>beirat wird am 9.9. zusammentreten. Die Handelskammer möchte eine ganze<lb/>
+Reihe von Lehrberufen die Verhältniszahlen ändern. <name type="person" ref="per:112978">Kehrer</name> möchte am<lb/>
+liebsten, daß diese Verhältniszahlen unbefristet geändert werden und<lb/>
+darüber hinaus noch befristet eine generelle Änderung der Verhältnis<lb break="no"/>zahlen für alle Berufe. Ich erkläre, daß ich mit der Gewerkschaft und<lb/>
+der Arbeiterkammer Besprechungen aufnehmen werde um die Probleme der<lb/>
+Lehrlingsausbildung so schnell als möglich zu einem positiven Ergebnis<lb/>
+zu führen.<lb/>
+</p>
+            <p xml:space="preserve">Am Nachmittag erfahre ich, daß die Verantwortlichen in Brunn am Gebirge<lb/>
+zu einer Besprechung im Bauarbeiterheim sind. Ich nehme den ehemaligen<lb/>
+Jugendsekretär <name type="person" ref="per:137217">Mrkwicka</name> mit und fahre nach Brunn am Gebirge. Ich<lb/>
+bin überrascht, daß dort niemand anderer sitzt als Dr. <name type="person" ref="per:123819">Neuwirth</name> von der<lb/>
+Arbeiterkammer der Referent, sein Mitarbeiter <name type="person" ref="per:122956">Patzold</name> und der neue<lb/>
+Jugendsekretär <name type="person" ref="per:112979">Verzetnitsch</name>. Die drei basteln an einem neuen Berufs<lb break="no"/>ausbildungsgesetz. Mehr kann also die Jugend wirklich nicht verlangen,<lb/>
+als daß ein Minister mit Begleitung – 3 Personen – zu ebenfalls 3 Per<lb break="no"/>sonen der Arbeiterkammer fährt. Andererseits war ich wirklich über<lb break="no"/>rascht, daß sie überhaupt nach Brunn am Gebirge fahren um ein Gesetz<lb/>
+zu erarbeiten. Hier hätten sie ohneweiters in die Air-Condition-Räume<lb/>
+der Arbeiterkammer oder des Ministeriums kommen können oder wenn sie<lb/>
+schon in Brunn sind, dann zumind. im Bauarbeiter-Bad auch baden sollen.<lb/>
+Wichtig war aber für mich, daß ich erfuhr, daß <name type="person" ref="per:140697"><del>Gehart</del><corr>Erich</corr></name> zur morgigen Be<lb break="no"/>sprechung, die ich mit der Handelskammer bereits vereinbart hatte,<lb/>
+nicht kommen wollte, weil er <name type="person" ref="per:112978">Kehrer</name> nicht entsprechend aufwerten will.<lb/>
+<name type="person" ref="per:127771">Scheer</name> machte sein Kommen aber wieder abhängig, ob <name type="person" ref="per:97563">Hofstetter</name> vom Gewerk<lb break="no"/>schaftsbund kommt, dieser wollte zuerst nicht, doch auf meine Inter<lb break="no"/>vention hat er sich dann doch dazu entschlossen. <name type="person" ref="per:112979">Verzetnitsch</name> hat<lb/>
+große Angst, daß wir die Verhältniszahlen jetzt ändern, denn er meint<lb/>
+damit würde die ÖVP nur einen politischen Wahlerfolg erringen. Die<lb/>
+Unternehmer würden sagen, man muß nur entsprechende Propaganda ma<lb break="no"/>chen, auch dann wenn sie falsch und gar kein Skandal, sondern im<lb/>
+Gegenteil eine ausgesprochene Gemeinheit ist und dann kann man etwas<lb/>
+auf der anderen Seite erreichen. Diese Argumentation hat sicherlich<lb/>
+etwas für sich. Andererseits aber wieder versuchte ich den Genossen<lb/>
+zu erklären, daß die Entscheidung am 5. Oktober dann in diesem Punkt<lb/>
+<pb n="27-0906" facs="27_1975-08-12_0906.jpg"/>gefällt wird ob und inwieweit tatsächlich alle Schulentlassungen<lb/>
+die eine Lehrstelle anstreben auch tatsächlich eine erhalten haben.<lb/>
+Selbst wenn nur 100 Lehrlinge keine finden, wird man sagen, die ÖVP<lb/>
+hat recht. <name type="person" ref="per:112979">Verzetnitsch</name> wird eine Erhebung der Lehrstellen ver<lb break="no"/>langen die bereits in der zentralen Arbeitsgruppe vor Monaten von<lb/>
+ihm gestellt wurde. Ich stimme dieser Erhebung zu, möchte aber, daß<lb/>
+sie morgen womöglich auch von der Handelskammer gemeinsam mitbe<lb break="no"/>schlossen wird. Die Gewerkschaftsjugend hat ein sehr gutes Plakat<lb/>
+herausgebracht, wo sie den Text des Skandal <choice><choice><sic>l</sic><corr>?</corr></choice></choice>, ohne diesen Titel<lb/>
+bringt, dann die Erklärung der Bundeskammer, daß es genug Lehr<lb break="no"/>stellen gibt, dann dagegen protestiert wird, daß Parteipolitik auf<lb/>
+dem Rücken der Lehrlinge gemacht wird und zum Schluß ein Zitat von<lb/>
+mir "kein Lehrling bleibt ohne Arbeit, bei Lehrplatzmangel staat<lb break="no"/>liche Lehrwerkstätten". Dieses Plakat wird die Bundeshandelskammer<lb/>
+sehr ärgern, doch finde ich es für sehr gut und vor allem mal treffend<lb/>
+auf die ÖVP-Propaganda. Von <name type="person" ref="per:140698">Frühwirth</name> erfahre ich, daß am 8.9. eine<lb/>
+Besprechung mit den Zentralsekretären und den Jugendverantwortlichen<lb/>
+der einzelnen Gewerkschaften stattfindet. Ich werde auf alle Fälle<lb/>
+dort unvermutet erscheinen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:98040">WAIS</name>: Bitte den Termin und Ort genau feststellen, ohne<lb/>
+daß bekannt wird, daß ich dort erscheinen werde.<lb/>
+</p>
+            <p xml:space="preserve">In der Ministerratsvorbesprechung und im Ministerrat wurde von mir<lb/>
+an Finanzminister <name type="person" ref="per:97311">Androsch</name> und Vizekanzler <name type="person" ref="per:97525">Häuser</name> die Frage gestellt,<lb/>
+wie weit sie bereit sind die notwendigen Mittel für eventuelle Lehr<lb break="no"/>ausbildungen zur Verfügung zu stellen. Beide versicherten, daß am<lb/>
+Geld nicht scheitern wird, daß wir heuer alle Lehrlinge unterbrin<lb break="no"/>gen. Diese Erklärung habe ich dann auch im Fernsehen im Pressefoyer<lb/>
+abgegeben. Vorher hat <name type="person" ref="per:97311">Androsch</name> ebenfalls Bemerkungen dazu gemacht,<lb/>
+nur waren sie bezüglich der Verhältniszahlen nicht ganz richtig. Der<lb/>
+ORF überträgt vom Pressefoyer manchmal für das Mittagsjournal sofort<lb/>
+live und hier besteht die große Gefahr, daß eben Abschnitte kommen<lb/>
+die gerade nicht die stärksten von den Aussagen der Minister sind.<lb/>
+Ich bin deshalb sehr froh, daß ich mit dem Pressefrühstück nicht<lb/>
+immer auf das Pressefoyer des Bundeskanzleramtes angewiesen bin.<lb/>
+<name type="person" ref="per:97525">Häuser</name> gab auch eine Situationserklärung der Arbeitsmarktlage, die<lb/>
+im Juli äußerst günstig war. War haben um 700 Beschäftigte mehr als<lb/>
+im Hochkonjunkturjahr 74, obwohl wir noch immer 36.600 Arbeitslose<lb/>
+haben, um 12.000 mehr als im Vorjahr. Trotzdem sind um 35.000 Inländer<lb/>
+mehr beschäftigt weil eben um 34.000 Fremdarbeiter weniger<lb/>
+<pb n="27-0907" facs="27_1975-08-12_0907.jpg"/>beschäftigt sind. Die Arbeitslosenrate mit 0.9 liegt in Europa<lb/>
+sicherlich am tiefsten. Insbesondere sind auch die Kurzarbeiter um<lb/>
+1.000 weniger geworden und betragen 3.300. Abends hatte ich Gelegen<lb break="no"/>heit mit dem Generaldirektor von Küppersbusch über die deutschen<lb/>
+Verhältnisse zu sprechen. Dieser erklärte mir, daß wir nicht nur<lb/>
+die 1,100.000 Arbeitslosen sehen müssen, sondern darüber hinaus noch<lb/>
+die 900.000 Kurzarbeiter die ebenfalls auf Vollarbeitslose umge<lb break="no"/>rechnet fast 200.000 sind, dazu kommen noch 250.000 die Umschulungen<lb/>
+haben und als Arbeitslose zu gelten haben, so daß nach seiner Be<lb break="no"/>rechnung die Arbeitslosenrate 1,6 Millionen beträgt. Die deutsche<lb/>
+Wirtschaft erwartet nicht mehr, daß heuer etwas entscheidendes<lb/>
+geschieht. Eine wirkliche Änderung könnte erst 1976 eintreten,<lb/>
+wenn die Bundesregierung die 5 Milliarden DM zusätzlich flüssig macht<lb/>
+um die Wirtschaft anzukurbeln. Andererseits wieder meint man, daß<lb/>
+dieser Betrag viel zu klein sein wird, in Italien sieht man 17 Mil<lb break="no"/>liarden dafür vor. Alles in DM gerechnet.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97311">Androsch</name> hat sich in dem Pressefoyer auch mit dem Problem des<lb/>
+<name type="person" ref="per:98003">Taus</name>'schen Fangnetzes beschäftigt, weil er darauf angesprochen wurde.<lb/>
+Er meinte sehr geschickt, daß <name type="person" ref="per:98003">Taus</name> als Bankdirektor schon immer<lb/>
+für eine solche Auffanggesellschaft war. Die Banken wollen eben keinen<lb/>
+Verlust hinnehmen und die öffentliche Hand für Leistungen heranzie<lb break="no"/>hen. Auf den Wahlkampf mit dem neuen <name type="person" ref="per:98003">Taus</name>-<name type="person" ref="per:109293">Busek</name>-Team bin ich wirk<lb break="no"/>lich schon sehr gespannt. Als seinerzeit <name type="person" ref="per:97641">Kohlmaier</name> bestellt wurde,<lb/>
+hat er mir vertraulich gesagt, es müßte eben in der ÖVP ein Mann<lb/>
+jetzt Generalsekretär werden, der sich für die große Koalition<lb/>
+einsetzt. Damit hat er kläglich Schiffbruch erlitten. Ich bin<lb/>
+neugierig, ob <name type="person" ref="per:98003">Taus</name> daher die Vermächtnispolitik <name type="person" ref="per:97917">Schleinzers</name> auf<lb/>
+Konzentrationsregierung fortsetzen wird. Ich bin nämlich über<lb break="no"/>zeugt, daß er auch damit Schiffbruch erleiden wird. Eine solche<lb/>
+Politik kann man nur propagieren, wenn man tatsächlich die ent<lb break="no"/>sprechenden Verhältnisse vorfindet, daß eine Konzentrations- oder<lb/>
+Koalitionsregierung wirklich notwendig ist und die Bevölkerung sich<lb/>
+dafür bereits entschieden hat. Hier bewahrheitet sich glaube ich<lb/>
+wieder der alte Grundsatz von mir, was man wirklich machen muß,<lb/>
+das macht man, spricht aber nicht allzu viel vorher darüber. Die<lb/>
+Anhänger zerreden eine solche Idee und die Gegner zerreißen sie<lb/>
+in der Luft. Hier haben <name type="person" ref="per:97852">Raab</name> und <name type="person" ref="per:97363">Böhm</name> immer die Taktik verfolgt<lb/>
+Politik zu machen und sie nachher der Öffentlichkeit zu erklären.<lb/>
+wenn sie entsprechend angegriffen wurden. Niemals habe ich erlebt,<lb/>
+<pb n="27-0908" facs="27_1975-08-12_0908.jpg"/>daß die beiden vorher irgendwelche Ideen großzügigst in der<lb/>
+Öffentlichkeit diskutiert hätten. Das Prinzip war in einzelnen<lb/>
+Gesprächen mit den wichtigeren Leuten eine gewisse Rückendeckung<lb/>
+zu bekommen und dann aber die Politik ganz einfach durchzuziehen.<lb/>
+Im Nachhinein konnte darüber kritisiert werden, die Tat war gesetzt<lb/>
+und in Wirklichkeit hat sich niemand mehr getraut sie dann wieder<lb/>
+rückgängig zu machen. Diese Konzeption mag undemokratisch scheinen –<lb/>
+vielleicht ist sie es ja auch – diese Konzeption mag viele Fehler<lb/>
+ermöglichen, wahrscheinlich sind auch einige gemacht worden, die<lb/>
+Konzeption ist aber meiner Meinung nach sehr zielführend. Im Grunde<lb/>
+genommen macht <name type="person" ref="per:140654">Kreisky</name> auch nichts anderes. Nur tarnt er dies durch<lb/>
+entsprechendes ununterbrochenes Palavern über ein Problem mit den<lb/>
+verschiedensten Gremien. Im Grunde genommen versucht er seine Ideen<lb/>
+mit <name type="person" ref="per:97346">Benya</name> zu koordinieren, d.h. er überzeugt <name type="person" ref="per:97346">Benya</name>, daß seine Meinung<lb/>
+die richtige ist, wobei er wahrscheinlich in Details eventuell nach<lb break="no"/>gibt, dann aber geht er in die Gremien, berichtet darüber, es gibt<lb/>
+kaum Diskussionen und dann macht er seine Politik und erklärt, die<lb/>
+dafür Verantwortlichen haben ja zugestimmt. Solange es gut geht<lb/>
+wird auch kaum jemand dagegen remonstrieren. Wenn daher <name type="person" ref="per:98003">Taus</name> mit<lb/>
+seiner Idee innerhalb der ÖVP sich jetzt durchgesetzt hat und<lb/>
+wahrscheinlich auch bis zu den Wahlen sich durchsetzen wird, da<lb/>
+dafür ja nur kurze Zeit mehr zur Verfügung steht, so wird er<lb/>
+einheitlich die ÖVP hinter sich haben. Anders sieht es garantiert aus<lb/>
+wenn dann nach den Wahltag kein positives Ergebnis erzielt werden<lb/>
+kann. Dann bin ich gespannt wie er die Belastung, die dann auf ihn<lb/>
+zukommen wird, überstehen wird. In der Politik entscheidet nämlich in<lb/>
+Wirklichkeit nur der Erfolg.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="27_0902_01" facs="27_1975-08-12_0902-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 12.8.1975</head>
+         </div>
+         <pb n="27_0908_01" facs="27_1975-08-12_0908-01.jpg"/>
+         <pb n="27_0908_02" facs="27_1975-08-12_0908-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesordnung 174. Ministerratssitzung, 12.8.1975</head>
+            <gap reason="sampling"/>
+            <pb n="27_0908_03" facs="27_1975-08-12_0908-03.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="27_0908_04" facs="27_1975-08-12_0908-04.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="27_0908_05" facs="27_1975-08-12_0908-05.jpg"/>
+         </div>
+         <pb n="27_0908_06" facs="27_1975-08-12_0908-06.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>hs. Notizen (TO Ministerratssitzung Rückseite)</head>
+         </div>
+         <pb n="27_0908_07" facs="27_1975-08-12_0908-07.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Nachtrag TO 174. Ministerratssitzung, 12.8.1975</head>
+         </div>
+      </back>
+   </text>
+</TEI>

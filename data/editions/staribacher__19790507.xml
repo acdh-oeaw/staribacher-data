@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Montag, der  7. Mai 1979</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band48_1979-05-07</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1979-05-07">Montag, 7. Mai 1979</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-08-01">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="48-0520" facs="48_1979-05-07_0520.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Montag, 7. Mai 1979<lb/>
+</p>
+            <p xml:space="preserve">Das Jour fixe mit Gen.Sekr. <name type="person" ref="per:97769">Mussil</name> allein stand ganz im Zeichen der<lb/>
+Wahlen. Die ÖVP erschüttert am meisten, dass es jetzt zwischen der<lb/>
+sozialistischen Fraktion und der führenden Kraft ihrer Partei 20<lb/>
+Mandate Abstand gibt. Dies ist mehr als ein Schock. Natürlich wird<lb/>
+es jetzt eine Personaldiskussion geben, die aber nicht allein auf<lb/>
+den Parteiobmann beschränkt bleibt. Die Rückwirkungen werden auch<lb/>
+im Wirtschaftsbund und damit auch in der Handelskammer sichtbar werden.<lb/>
+</p>
+            <p xml:space="preserve">Ich selbst habe meinerseits nur auf die Notwendigkeit verwiesen,<lb/>
+dass die Handelskammer eine energiepolitische Kraftanstrengung<lb/>
+macht um auf diesem Gebiet zu neuen erträglichen Lösungen zu kommen.<lb/>
+Der derzeitige Zustand, dass in der Parlamentsfraktion und noch viel<lb break="no"/>mehr in der <choice><choice><sic>ÖVO</sic><corr>ÖVP?</corr></choice></choice> herumdilettiert wird, müsste ein Ende haben. Wichtig<lb/>
+wäre es, wenn es in der Handelskammer eine kraftvolle Person gibt,<lb/>
+mit der man Energieprobleme besprechen und dann womöglich Lösungen<lb/>
+bindend vereinbaren könnte. Momentan sieht <name type="person" ref="per:97769">Mussil</name> keinen solchen<lb/>
+Funktionär. Weder die Vizepräsidenten noch der neue Sektionsobmann<lb/>
+für Handel, <name type="person" ref="per:121792">Steidl</name>, kommen dafür in Frage. <name type="person" ref="per:97769">Mussil</name> meinte, er wird<lb/>
+sich persönlich dafür engagieren und einen Ausschuss gründen. Mit der<lb/>
+Elektrizitätsorganisation, da dies ja nicht in der Handelskammer ver<lb break="no"/>ankert ist, müsste man dann eine Arbeitsgemeinschaft gründen. Ich<lb/>
+habe aber in aller Deutlichkeit darauf aufmerksam gemacht, dass er<lb/>
+ja nur mehr kurze Zeit die Geschicke der Handelskammer beeinflussen<lb/>
+kann. Von Lenken wird in den nächsten paar Monaten sowieso keine<lb/>
+Rede mehr sein, nachdem er, glaube ich jetzt, endgültig auch in<lb/>
+Pension geben wird.<lb/>
+</p>
+            <p xml:space="preserve">Bezüglich der Möglichkeiten auch Grossgewerbebetriebe in die Indu<lb break="no"/>strie-Textilförderung einzubeziehen kaum eine Möglichkeit sehe.<lb/>
+Eine einfache Begründung dafür war, dass die Grossgewerbebetriebe<lb/>
+in Wirklichkeit Industriebetriebe sind sich aber Konkurrenzvorteile<lb/>
+dadurch erzielen, dass sie als Gewerbebetrieb geringere kollektivver<lb break="no"/>tragliche Leistungen erbringen müssen. Ihnen jetzt einen weiteren<lb/>
+Konkurrenzvorteil zuzuschanzen halte ich nicht für zweckmässig. Wenn<lb/>
+sie an der Textilindustrieförderung teilnehmen wollen, dann sollen<lb/>
+sie eben Textilindustriebetriebe werden.<lb/>
+</p>
+            <pb n="48-0521" facs="48_1979-05-07_0521.jpg"/>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name><add>[hs. korrigiert, Anm.]</add>: Wie ist Deine Recherche ausgegangen.<lb/>
+</p>
+            <p xml:space="preserve">Im Journalistenfrühstück hat von der SAKOG der Vorstand, <name type="person" ref="per:150589">Pirkl<lb break="no"/>bauer</name> und <name type="person" ref="per:123366">Heller</name> über die Kohlenpolitik berichtet. Durch Neu<lb break="no"/>aufschliessung eines Kohlenfeldes könnte die Produktion wesent<lb break="no"/>lich verlängert werden. Für Prospektionskosten bräuchten sie<lb/>
+einen weiteren Zuschuss. <name type="person" ref="per:107937">Frank</name> und vor allem <name type="person" ref="per:108609">Sterk</name> haben ihnen<lb/>
+dies mit meiner Zustimmung auch zugesagt.<lb/>
+</p>
+            <p xml:space="preserve">Die GKB hat über ihre Prospektionskosten, die 11 Mio. Schilling<lb/>
+bis jetzt ausgemacht haben und 33 Mio Tonnen erbrachten, referiert.<lb/>
+Der Vorstanddirektor <name type="person" ref="per:123365">Kuckenberger</name> teilte mir dann allerdings auch<lb/>
+mit, dass die burgenländisch-ungarische Kohle kaum eine Chance hat<lb/>
+rentabel abgebaut zu werden. Auf österreichischer Seite liegen<lb/>
+3 m Flöze mit zu grossen Überdeckungen. Nachdem man in unserem<lb/>
+Raum höchstens 1 : 6 rechnen darf, könnte die Überdeckung höchstens<lb/>
+bis zu 20 Meter betragen. Im Burgenland wird sie aber wesentlich<lb/>
+höher sein. Trotzdem könnte aber das Kraftwerk von Interesse, denn<lb/>
+um 85 Schilling 10^6, die ungarische Kohle angeboten, wäre traum<lb break="no"/>haft billig, Für die GKB stellt sich der jetzige Preis auf öster<lb break="no"/>reichischer Seite 140 Schilling 10^6.<lb/>
+</p>
+            <p xml:space="preserve">Bezüglich der angeblich so schwefelhaltigen Kohle im Köflacher<lb/>
+Revier, wird mir mitgeteilt, dass sie tatsächlich nur 2 % beträgt,<lb/>
+während die aus Pöfling-Bergla seinerzeit für Voitsberg I und II<lb/>
+125 MW, 3 – 4 % betragen hat. Der geplante 180 m hohe Schorn<lb break="no"/>stein müsste deshalb genügen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: <name type="person" ref="per:116141">Lass</name> Dich darüber von der GKB am laufenden<lb/>
+halten.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:114579">Ladstätter</name> berichtete über die Kennzeichnungsverordnung für <choice><choice><sic>Haushalt<lb break="no"/>vereinigungsmittel</sic><corr>Haushaltsreinigungsmittel?</corr></choice></choice> und Kosmetik. Ich fürchte, dass jetzt eine solche<lb/>
+Wust von Verordnungen kommen wird, die auch niemand beachten wird.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97426">Fälbl</name> berichtete über die albanischen Verhandlungen. Wir haben der<lb break="no"/>zeit dort einen Export von 39 Mio. und einen Import von 101 Mio.<lb/>
+Schilling. Die Albaner möchten jetzt eine Traktorenfabrik mit<lb/>
+Steyr-Daimler-Puch und mit der Textilindustrie ein Kunstfaserwerk.<lb/>
+</p>
+            <pb n="48-0522" facs="48_1979-05-07_0522.jpg"/>
+            <p xml:space="preserve">Darüber hinaus auch ihr Stahlwerk Elbasan ausbauen, nachdem die<lb/>
+Chinesen jetzt abgezogen sind. Die Berichterstattung von <name type="person" ref="per:97426">Fälbl</name><lb/>
+war ganz auf Sensation ausgerichtet, mit seinen üblichen abfälligen<lb/>
+Bemerkungen gegenüber den Albanern. Auch bei den anderen Staats<lb break="no"/>handelsländern kann er sich nicht verkneifen, blöde Bemerkungen zu<lb/>
+machen. Wenn die Presse dies einmal wirklich weitergibt, oder<lb/>
+sein Counterpart sonst wie erfährt, wird er sich wundern, welche<lb/>
+unangenehme Reaktion dann von dort kommen wird.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Ich glaube Du solltest ihn bei einer günstigen<lb/>
+Gelegenheit darauf aufmerksam machen.<lb/>
+</p>
+            <p xml:space="preserve">Natürlich wollte man dann unbedingt wissen, wie es mit dem Benzin<lb break="no"/>preis weitergeht und welche Absichten ich verfolge. Meine gute Aus<lb break="no"/>rede war, bis jetzt habe ich noch immer keinen Preisantrag.<lb/>
+</p>
+            <p xml:space="preserve">Vor dem Bundesparteivorstand hat mich <name type="person" ref="per:97461">Frühbauer</name> darauf aufmerksam<lb/>
+gemacht, dass Stadtrat <name type="person" ref="per:140419">König</name>, von der ÖDK beurlaubt, seinen 6-jäh<lb break="no"/>rigen Vertrag, der jetzt abläuft, verlängert haben möchte. Er strebt<lb/>
+an, so wie Bürgermeister <name type="person" ref="per:97732">Mayer</name> von den Illwerken, einen Sonderver<lb break="no"/>trag mit Vorrückung und was es sonst noch alles gibt, obwohl er<lb/>
+eigentlich ja keinen Dienst macht. <name type="person" ref="per:97461">Frühbauer</name> hat mit Recht darauf<lb/>
+verwiesen, dass der Vizebürgermeister <name type="person" ref="per:140424">Medweschek</name>, vom ÖGB beurlaubt,<lb/>
+keinerlei solche Benefizen hat. Der Verbundvorstand <name type="person" ref="per:114747">Zach</name> möchte gerne,<lb/>
+dass wir für die Verbund und insbesondere Sondergesellschaften für<lb/>
+diese Fragen eine Konzernregelung machen. Dagegen hat sich sowohl<lb/>
+<name type="person" ref="per:97461">Frühbauer</name> als auch ich sofort ausgesprochen. Ich sehe dafür gar<lb/>
+keine Notwendigkeit. Als <name type="person" ref="per:114717">Dichtl</name>-Nachfolger wird <name type="person" ref="per:140419">König</name> von der<lb/>
+Kärntner ÖVP, <name type="person" ref="per:111399">Knafl</name> favorisiert. <name type="person" ref="per:114747">Zach</name>, aber auch der Handelskammer<lb break="no"/>präsident von Klagenfurt <name type="person" ref="per:123384">Baurecht</name>, sind aber eher für <name type="person" ref="per:126297">Klinger</name>, der<lb/>
+auch von unseren Genossen gewünscht wird. <name type="person" ref="per:97461">Frühbauer</name> wird einen<lb/>
+Vertragsentwurf für die Verlängerung von <name type="person" ref="per:140419">König</name> mir schicken.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Bitte <name type="person" ref="per:97333">Bandhauer</name> und <name type="person" ref="per:97526">Hautzenberg</name> verständigen.<lb/>
+</p>
+            <p xml:space="preserve">Bautenminister <name type="person" ref="per:97755">Moser</name> und Verkehrsminister <name type="person" ref="per:108223">Lausecker</name> haben sich mit<lb/>
+aller Entschiedenheit gegen die Behauptung gewendet, dass sie jetzt<lb/>
+die Aspang-Gründe durch ihr Verschulden nicht zur Rennweg-Kaserne-<lb/>
+Komplexlösung herangezogen werden können. Die Bahn ist im Prinzip<lb/>
+<pb n="48-0523" facs="48_1979-05-07_0523.jpg"/>bereit auf ihre Gründe zum Teil zu verzichten, wenn sie end<lb break="no"/>lich weiss, was die Gemeinde wirklich braucht. Der Bautenminister<lb/>
+hat S.Chef <name type="person" ref="per:113076">Schmelz</name> schon lange ermächtigt, Abschlussgespräche mit<lb/>
+der Gemeinde zu führen. Diese müsste jetzt endlich einmal die Höhe<lb/>
+der Verbauung, die beabsichtigt ist, bekanntgeben resp. wie hoch<lb/>
+sie verbauen lässt. Nach beider Mitteilung liegt es ausschliesslich<lb/>
+bei den Gemeindedienststellen. <name type="person" ref="per:97755">Moser</name> meint, er hat den Eindruck,<lb/>
+dass wenn eine Abteilung etwas zustimmt, auch aus Prinzip die<lb/>
+andere Abteilung, die dann auch damit zu beschäftigen ist, dagegen<lb/>
+ist.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Bitte unsere Leute müssen in der Gemeinde<lb/>
+jetzt neuerdings urgieren.<lb/>
+</p>
+            <p xml:space="preserve">Im Parteivorstand berichtete <name type="person" ref="per:97356">Blecha</name> über die Wahlergebnisse. Die<lb/>
+Analyse ergab, dass die Jugendlichen und die Frauen die Wahl ent<lb break="no"/>schieden haben. Bei den Sozialisten haben die 20–25-jährigen<lb/>
+besser gewählt, als der Durchschnitt ihrer Wohngemeinden. In Kärn<lb break="no"/>ten haben die 25–30-jährigen dasselbe Verhalten gezeigt, in an<lb break="no"/>deren Bundesländern aber dann, sonst wie eben die Gemeinde. Sehr<lb/>
+gut abgeschnitten haben wir in Abwanderungsgemeinden, ganz gut in<lb/>
+Agrargemeinden. Derselbe Trend wie beim allgemeinen Durchschnitt war in<lb/>
+den Industriegemeinden. Die <choice><choice><sic>nachträglich</sic><corr>?</corr></choice></choice> Wahl zeigte, dass die IFES mit ihren<lb/>
+Meinungsumfragen richtig gelegen ist. Nach der Volksabstimmung hatten wir<lb/>
+immerhin noch 44, 39, 4, im Jänner kam dann das schlechteste Ergebnis<lb/>
+mit 43, 40, 6, SPÖ-Benotung 1.75. Im Feber verbesserte sich auf<lb/>
+44, 39, 4, SPÖ-Benotung 1.77. Im Feber waren nur noch 1/4, die<lb/>
+die absolute Mehrheit den Sozialisten gaben. Im März eine weitere<lb/>
+Verbesserung auf 45, 37, 4, bei der Benotung von 1.81. Erhebungen<lb/>
+ergaben, dass auf die Frage, wie ihr Nachbar wählen würde, 45 %<lb/>
+für Sozialisten und 39 % für die Volkspartei aussagten. Das heisst<lb/>
+als Kontrollmeldung für ihr eigenes Wahlverhalten die Richtig<lb break="no"/>keit der Aussage bestätigte. Im April betrug dann die SPÖ 46, das ist<lb/>
+1 Punkt mehr als vor der Wahl 1975. Die ÖVP 36 und 4 die FPÖ.<lb/>
+Der grosse Umschwung kam nach den Landtagswahlen in Niederösterreich<lb/>
+und Salzburg vom 25. März. Die Nachbarwähler-Kontrollfrage stieg<lb/>
+auf 50 % Sozialisten und 30 % Volkspartei. Nach den jetzigen Ergeb<lb break="no"/>nissen muss auch in Wien die Volkspartei einen Teil ihrer Stamm<lb break="no"/>wähler an die Sozialisten verloren haben. An die Freiheitlichen<lb/>
+<pb n="48-0524" facs="48_1979-05-07_0524.jpg"/>insbesondere in den Städten und in den Mittelstädten, sowie<lb/>
+bei den Pensionisten.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97727">Marsch</name> teilte mit, dass das Präsidium beschlossen hat, im zweiten<lb/>
+Ermittlungsverfahren haben die Vorrang, die bereits darauf waren,<lb/>
+z.B. in Wien <name type="person" ref="per:117200"><choice><choice><sic>Steurer</sic><corr>Steyrer</corr></choice></choice></name>. Da wie im Wiener Ausschuss <name type="person" ref="per:97488">Gratz</name> mitteilte,<lb/>
+weder <name type="person" ref="per:97668">Kreisky</name> noch er das Mandat annimmt, ist bis <name type="person" ref="per:97386">Czettel</name> alles<lb/>
+gewählt.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Ministerratsvorbesprechung hat mich <name type="person" ref="per:97356">Blecha</name> dann gefragt,<lb/>
+ob ich noch immer – so wie <name type="person" ref="per:97879">Rösch</name> – auf dem Standpunkt stehe, dass<lb/>
+die Minister ihr Mandat zurücklegen sollten, was ich sofort be<lb break="no"/>jahte. <name type="person" ref="per:97372">Broda</name> aber auch <name type="person" ref="per:97311">Androsch</name> sind der Meinung, die Regierungs<lb break="no"/>mitglieder dürften dies nicht tun, denn schon jetzt gibt es einen<lb/>
+Unterschied zwischen Regierungsmitgliedern mit Mandat und solchen ohne.<lb/>
+Die ohne, wie Landwirtschaftsminister <name type="person" ref="per:97796">Öllinger</name>, Verteidigungs<lb break="no"/>minister <name type="person" ref="per:108224">Lütgendorf</name>, Gesundheitsminister <name type="person" ref="per:107938">Leodolter</name>, seien nach<lb/>
+deren Meinung immer zweite Kategorie gewesen. Im Präsidium konnte<lb/>
+man sich daher über den seinerzeitigen Vorschlag, alle Minister<lb/>
+legen zurück, nicht einigen und hat die Frage zurückgestellt.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> berichtet, dass <name type="person" ref="per:136437">Vorhofer</name> bereits jetzt für die ÖVP<lb/>
+die Formulierung, grosse Mittelpartei, gefunden hat und man dabei<lb/>
+bleiben sollte. Die ÖVP sprach immer von einer hauchdünnen Mehr<lb break="no"/>heit, die die Sozialisten haben und jetzt gibt es 20 Mandate Abstand<lb/>
+Die Volksparteimethoden im Wahlkampf waren ohne Rücksicht und ohne<lb/>
+zu bedenken, welchen Schaden sie anrichten konnten. Als Beispiel<lb/>
+erwähnte er EUMIG, Edelstahlwerke, UNO-City, persönliche Diffamie<lb break="no"/>rung. Es besteht keine Absicht ihnen überflüssige Geschenke jetzt<lb/>
+zu machen. Sie werden zwar immer wieder die Parität bei allen<lb/>
+Wirtschaftsfragen und Gerichtsbesetzungen verlangen, doch ist kein<lb/>
+Grund ihnen zu helfen. Die Freiheitlichen werden zu entscheiden<lb/>
+haben, ob <name type="person" ref="per:112569">Götz</name> in Wien bleibt, oder nach Graz geht. Erst wenn <name type="person" ref="per:112569">Götz</name><lb/>
+ausscheidet, kann es zu einer Entwicklung wie in Deutschland bei<lb/>
+der FDP kommen, wo erst nach Ausscheiden von <name type="person" ref="per:140840">Mende</name>, dem Ritter<lb break="no"/>kreuzträger die FDP eine liberale Partei wurde. Auch der FPÖ wird<lb/>
+man keine Konzession machen, aber die Episode, sprich <name type="person" ref="per:149173">Götz</name>–<lb/>
+Attacken gegen <name type="person" ref="per:97668">Kreisky</name>, ist vorüber. Die schwarz-blaue Koalition war<lb/>
+<pb n="48-0525" facs="48_1979-05-07_0525.jpg"/>sehr konkret vereinbart. Das ÖVP-Angebot an die Freiheitlichen<lb/>
+lautete, 3 Minister und 2 Staatssekretäre. Am 7. Mai hat ein bedeuten<lb break="no"/>der ÖVP-Funktionär gesagt, muss die Volkspartei-Freiheitliche<lb/>
+Regierung stehen, damit <name type="person" ref="per:97632">Kirchschläger</name> eine Alternative hat.<lb/>
+Dagegen stellte <name type="person" ref="per:97668">Kreisky</name> mit Freude fest, hat die Bevölkerung<lb/>
+sich jetzt immer mehr mit ihrer Regierung identifiziert, wie<lb/>
+bei Schweden in ihrer Hochblüte. Trotzdem ist die sozialistische<lb/>
+Partei die Partei der armen Leute geblieben und nicht <choice><choice><sic>der</sic><corr>die</corr></choice></choice> der Arri<lb break="no"/>vierten geworden. Gegen die Massenmedien, insbesondere die Zeitungen<lb/>
+mit ihren überheblichen Redakteuren musste aufgetreten werden. Nur<lb/>
+die Kronen-Zeitung hat sich keine Kampagne erlaubt, ausser <name type="person" ref="per:109961">Staberl</name>.<lb/>
+Deshalb muss die eigene AZ erhalten bleiben, koste es was es wolle,<lb/>
+derzeit 45 Mio. Schilling, wie ich von dritter Stelle erfuhr, der<lb/>
+Pressefonds muss gestärkt werden. Gut hat sich im Wahlkampf er<lb break="no"/>wiesen, unsere Zeitungen auszutragen und dies sollte man einmal<lb/>
+im Monat fortsetzen. Die Regierungsbildung wird wie 75, nach<lb/>
+ruhigen Zweckmässigkeitsüberlegungen im Herbst erfolgen. Die wirt<lb break="no"/>schaftliche Lage ist nach wie vor kritisch, Arbeitslosigkeit,<lb/>
+Ölkrise, Energiefragen, Zahlungsbilanz, Währungsproblem. 4 Jahre<lb/>
+Regierungszeit ist eine kurze Zeit. <name type="person" ref="per:97668">Kreisky</name> dankte allen und <name type="person" ref="per:97346">Benya</name><lb/>
+dann <name type="person" ref="per:97668">Kreisky</name>, alles sehr förmlich und eigentlich gar nicht über<lb break="no"/>schwenglich&gt;.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:111409">Cap</name> meint, die Gefahr sei jetzt, dass die ÖVP einen Machtmißbrauch<lb/>
+Österreichs durch die sozialistische Stärke propagieren wird und<lb/>
+wir uns deshalb die Kritik und Selbstkritik erhalten sollten. Er<lb/>
+meinte der neue Stil, Bundeshymne bei Abschlussveranstaltungen usw.<lb/>
+sei nicht günstig. <name type="person" ref="per:97356">Blecha</name> verwies darauf, dass es jetzt einen neuen<lb/>
+Patriotismus gibt, der insbesondere durch den österreichischen Weg<lb/>
+die breite Masse begeistert. Interessant war dann noch seine Äusse<lb break="no"/>rung über die <name type="person" ref="per:97668">Kreisky</name>-Geschichten, die wir weder beeinflussten noch<lb/>
+bezahlten und die 4,5 Mio. Schilling den Schreibern kostete.<lb/>
+</p>
+            <p xml:space="preserve">Im Wiener Ausschuss berichtete <name type="person" ref="per:109818">Edlinger</name> die Wiener Bezirke die<lb/>
+verloren, 13., 14., 17., 18., 19., 23., haben teils geringe Bau<lb break="no"/>tätigkeit. Wenn die Wahlkartenwähler zugezählt sind, wird Wien<lb/>
+noch immer 1/2 % gewonnen haben. Während der Sitzung berichtete er<lb/>
+dann, daß das Zentralsekretariat mitteilt, dass das 96. Mandat<lb/>
+verloren ist, was <name type="person" ref="per:110923">Lanc</name> dann recherchierte, nicht stimmt. Auch bei<lb/>
+<pb n="48-0526" facs="48_1979-05-07_0526.jpg"/>der Regierungsbesprechung kam es über dieses Problem zu einer<lb/>
+Diskussion. <name type="person" ref="per:97727">Marsch</name> behauptet, er hat diese Information vom<lb/>
+Innenministerium, <name type="person" ref="per:110923">Lanc</name> bestreitet dies entschieden.<lb/>
+</p>
+            <p xml:space="preserve">Prof. <name type="person" ref="per:150590">Kurt Dieman</name> wurde im Wiener Ausschuss ohne Diskussion aus<lb/>
+der SPÖ ausgeschlossen. Allgemein herrschte über sein Verhalten wirk<lb break="no"/>liche Empörung. Im Wiener Ausschuss gab es dann eine lange Dis<lb break="no"/>kussion ob die Nationalratswahlen jetzt die Gemeinderatswahlen,<lb/>
+Debakel überdecken. Viele wie <name type="person" ref="per:97558">Hobl</name>, <name type="person" ref="per:114547">Gawlik</name>, <name type="person" ref="per:150591">Stockinger</name>, <name type="person" ref="per:127096">Wiesinger</name>,<lb/>
+befürchteten, dass man jetzt erklärt, in Wien ist sowieso alles<lb/>
+in Ordnung. <name type="person" ref="per:114840">Stacher</name> gab eine interessante medizinische Erklärung,<lb/>
+in dieser Ausschussitzung, der Stress ist vorüber, die depressive<lb/>
+Stimmung kommt, die Gott sei Dank auch nach einiger Zeit wieder<lb/>
+vorüber ist.<lb/>
+</p>
+            <p xml:space="preserve">In der Ministerratsvorbesprechung hat <name type="person" ref="per:110923">Lanc</name> dann festgestellt, dass V(<lb/>
+von den 130.000 Wahlkarten, 31.600 ausgezählt sind, 51.13 für die<lb/>
+Sozialisten, 41,82 für die Volkspartei, 6,03 für die Freiheitlichen.<lb/>
+Wenn es so weiter bleibt, ändert sich am Mandatsstand nichts. Richtig<lb/>
+ist, dass die jetzt weiter ausgezählten aus Kärnten, Vorarlberg<lb/>
+Burgenland, Tirol und der Steiermark, die Monteure und sonstige<lb/>
+Beschäftigte sind und daher die SPÖ-Tendenz stärker ist.<lb/>
+</p>
+            <p xml:space="preserve">Bezüglich der Kandidatur der ANR bei den Hochschulwahlen wird <name type="person" ref="per:97442">Firn<lb break="no"/>berg</name> den Beschluss der Universität bestätigen, da <name type="person" ref="per:97372">Broda</name> ihr mittei<lb break="no"/>len wird, dass die ANR-Mitglieder gerichtlich verfolgt werden für<lb/>
+Verstösse, die sie bis jetzt begangen haben und <name type="person" ref="per:110923">Lanc</name> mitteilt,<lb/>
+dass ein Verfahren zur Auflösung läuft. Trotzdem ist zu erwarten,<lb/>
+dass, wenn sie zum Verwaltungsgerichtshof gehen, dieser den Bescheid<lb/>
+aufheben wird. <name type="person" ref="per:97668">Kreisky</name> wird jetzt eine Jugendkonfrontation machen,<lb/>
+wo er sich mit den Rechtsentwicklungen beschäftigen möchte.<lb/>
+</p>
+            <p xml:space="preserve">Die beabsichtigte Schliessung der Glanzstoff wird jetzt auf 1980<lb/>
+verschoben.<lb/>
+</p>
+            <pb n="48-0527" facs="48_1979-05-07_0527.jpg"/>
+            <p xml:space="preserve">General Motors möchte jetzt doch eine Motorenfabrik mit<lb/>
+1.500 Beschäftigten in Aspang errichten. Am 10.5. wird im<lb/>
+Bristol eine Regierungsdelegation mit ihnen verhandeln.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98072">WIESINGER</name>: Bitte Termin eintragen.<lb/>
+</p>
+            <p xml:space="preserve">Bei der nächsten Landeshauptleute-Besprechung am 31. wird die<lb/>
+Vergaberichtlinien und die Energieeinsparungsmassnahmen neben<lb/>
+Versicherungen Freiwilliger Feuerwehr, Generalmajor-Titel-Ein<lb break="no"/>führung usw. zur Debatte stehen.<lb/>
+</p>
+            <p xml:space="preserve">Bezüglich des Wunsches von Sugana auf weiteren Kredit erklärt<lb/>
+<name type="person" ref="per:110169">Nussbaumer</name>, sie hätten eine zweimalige Förderung verlangt, was<lb/>
+nicht geht. Da ich eine andere Information von den Betriebsräten<lb/>
+und der Direktion habe, soll dies zwischen <name type="person" ref="per:110169">Nussbaumer</name> und mir<lb/>
+geklärt werden.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte letzten Stand sofort zusammenstellen<lb/>
+lassen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:108223">Lausecker</name> berichtet, dass jetzt für die Post der Generaldirektor<lb/>
+mit 4 Jahre bestellt wird und schlägt <name type="person" ref="per:121800">Übleis</name> dafür vor. Auch be<lb break="no"/>züglich des ÖBB-Vorstandes erwartet er jetzt vom Verwaltungsrat<lb/>
+einen entsprechenden Vorschlag. Da die Regierung durch Bundeskanzler<lb/>
+den Demissionsantrag dem Bundespräsidenten mitteilt, mit der Führung<lb/>
+der Geschäfte beauftragt werden muss, würde dies eine zwar normale<lb/>
+aber kompliziertere Situation ergeben. Wir einigten uns daher,<lb/>
+dass die Demission am 5.6. Vormittag erfolgt, dann gleich die<lb/>
+neue Bestellung und dann im Parlament sich am selben Tag vorstellt.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> wollte nämlich am nächsten Tag schon die Demission über<lb break="no"/>reichen und die neue Regierung bestellen lassen. Dies geht aber<lb/>
+deshalb nicht, weil diese muss sich laut Verfassung innerhalb<lb/>
+einer Woche dem Parlament vorstellen. Zeitlich nicht geregelt<lb/>
+ist dagegen, wann die Regierung demissionieren muss. Theoretisch<lb/>
+kann sie auch nach dem Wahlergebnis solange sie glaubt, im Amt<lb/>
+bleiben und nicht demissionieren und sofort mit der Führung der Ge<lb break="no"/>schäfte betraut zu werden.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="48_0519_01" facs="48_1979-05-07_0519-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 7.5.1979</head>
+         </div>
+         <pb n="48_0519_02" facs="48_1979-05-07_0519-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+         <pb n="48_0527_01" facs="48_1979-05-07_0527-01.jpg"/>
+         <pb n="48_0527_02" facs="48_1979-05-07_0527-02.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>TB Burian betr. neue Regierungsperiode</head>
+            <gap reason="sampling"/>
+            <pb n="48_0527_03" facs="48_1979-05-07_0527-03.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="48_0527_04" facs="48_1979-05-07_0527-04.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="48_0527_05" facs="48_1979-05-07_0527-05.jpg"/>
+         </div>
+      </back>
+   </text>
+</TEI>

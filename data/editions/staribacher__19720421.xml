@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der 21. April 1972</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band10_1972-04-21</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1972-04-21">Freitag, 21. April 1972</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-09-25">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="10-0495" facs="10_1972-04-21_0495.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Freitag, 21. April 1972<lb/>
+</p>
+            <p xml:space="preserve">In der Ministerratsvorbesprechung berichtet <name type="person" ref="per:97668">Kreisky</name>, dass bei ihm<lb/>
+jetzt der ÖAAB sich gegen die Personalpolitik zu stellen beginnt.<lb/>
+Nach seiner Auffassung wird dies von der Laudongasse ganz systema<lb break="no"/>tisch jetzt bei allen Ministerien begonnen. Die Personalvertretung<lb/>
+verlangt eine entsprechende Mitbestimmung und interpretiert das<lb/>
+Personalvertretungsgesetz sehr extensiv. Der Zentralausschuss hat ihm<lb/>
+z.B. gedroht, er würde alle gewerkschaftlichen Mittel anwenden. Im<lb/>
+konkreten Fall handelt es sich darum, dass der Personalmann im<lb/>
+BKA <name type="person" ref="per:139751">Kasmuck</name> pensioniert wird und <name type="person" ref="per:116956">Zeleny</name> hat ihm vorgeschlagen einen<lb/>
+Vertreter von der Post <name type="person" ref="per:139752">Gilman</name> ins BKA zu rufen. Durch einen Auto<lb break="no"/>unfall wird nun ein zweiter Posten frei und <name type="person" ref="per:97601">Jiresch</name> selbst hat ge<lb break="no"/>glaubt, er hätte nun ein Kompromiss gefunden, um das Klima zu ver<lb break="no"/>bessern, indem er eben den ÖAAB-Wunsch, einen Vertreter vom Haus aus auf<lb/>
+seine Position zu bringen, erfüllt. <name type="person" ref="per:97668">Kreisky</name> hätte ihn deshalb, wie<lb/>
+er sich selbst ausdrückte, angepfaucht, weil er keine faulen Kompro<lb break="no"/>misse wünscht sondern eben erklärt, er hätte als verantwortlicher<lb/>
+Minister die Personalpolitik so zu gestalten, wie er es für richtig<lb/>
+empfindet. Er hätte von <name type="person" ref="per:135724">Markovics</name> jetzt mit weiteren zwei Beamten<lb/>
+daher noch strengst vertraulich einen Entwurf ausarbeiten lassen,<lb/>
+der nummeriert jetzt an die Minister abgegeben wird. Hier handelt es<lb/>
+sich um das Problem des § 67, wonach jetzt nur ganz schwierig und<lb/>
+fast unmöglich in Einzelfällen Versetzungen vorgenommen werden können.<lb/>
+<name type="person" ref="per:113083">Sinowatz</name> regt an, dass man bei dieser Gelegenheit gleich das Dienst<lb break="no"/>prüfungsproblem lösen sollte. Er hätte viele Lehrer und Assistenten,<lb/>
+die man in neuer Verwendung im Ministerium gut brauchen würde, die<lb/>
+aber vor der Dienstprüfung zurückschrecken. <name type="person" ref="per:97668">Kreisky</name> meint überhaupt,<lb/>
+dass ein Staatssekretär für Personalpolitik für ihn von grösster<lb/>
+Wichtigkeit wäre. Dieser hätte auch die Verwaltungsreform weiterzu<lb break="no"/>treiben. Bisher hätte er immer die Gewerkschaftsfraktion gefragt, aber<lb/>
+hier sei er daraufgekommen, hätte man oft ihm zuerst entsprechende Vor<lb break="no"/>schläge gemacht, die man nachher nicht durchgezogen hat oder durch<lb break="no"/>ziehen wollte. z.B. war dies bei der Kommission, die beim Ausschrei<lb break="no"/>bungsgesetz von ihnen verlangt wurde und von dem jetzt die Gewerk<lb break="no"/>schaft selbst sagt, <name type="person" ref="per:97668">Kreisky</name> hätte sie ja nicht unbedingt machen müssen.<lb/>
+Er habe jetzt bei allen Personalproblemen schon grosses Misstrauen und<lb/>
+eine gewisse Unsicherheit, er schlägt deshalb eine Arbeitsgemeinschaft<lb/>
+von Ministervertrauenspersonen, ungefähr 5–6 Leute vor, die im engen<lb/>
+<pb n="10-0496" facs="10_1972-04-21_0496.jpg"/>Kontakt mit der Gewerkschaftsfraktion eine Gegenverwaltung gegebenen<lb break="no"/>falls aufbauen sollen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Bitte, wenn Du daran Interesse hast, setzte<lb/>
+Dich mit <name type="person" ref="per:116956">Zeleny</name> ins Einvernehmen.<lb/>
+</p>
+            <p xml:space="preserve">Die drei Bauernverbände, allgemeiner Bauernverband, FPÖ-Bauern und<lb/>
+Arbeitsbauernbund, haben eine Vorsprache bei <name type="person" ref="per:97668">Kreisky</name> gehabt. Die Haupt<lb break="no"/>beschwerde war, dass die Kontrollkommission noch immer nicht aufgestellt<lb/>
+ist. <name type="person" ref="per:97668">Kreisky</name> war sehr unmutig, denn zwei Jahre sind bis jetzt ver<lb break="no"/>strichen und die seinerzeitige Verpflichtung gegenüber der FPÖ bei<lb/>
+der Budgeterstellung 1971 damit noch immer nicht erfüllt. <name type="person" ref="per:97700">Loebenstein</name><lb/>
+hat seinerzeit <name type="person" ref="per:97668">Kreisky</name> vorgeschlagen, es sollte nach dem Proporz der<lb/>
+politischen Parteien im NR errichtet werden, doch ist <name type="person" ref="per:97668">Kreisky</name> mit jedem<lb/>
+anderen Vorschlag von <name type="person" ref="per:98055">Weihs</name> auch einverstanden. Über die Landeswirt<lb break="no"/>schaftskammern geht es nicht, denn in Tirol z.B. sitzt nur ein Land<lb break="no"/>arbeiter in der Landeslandwirtschaftskammer und vom<lb/>
+Allgemeinen Bauernverband oder von dem Arbeitsbauernbund überhaupt nie<lb break="no"/>mand. <name type="person" ref="per:98055">Weihs</name> hätte, als er seinerzeit das Amt übernommen hat,<lb/>
+von sich aus einen Praktiker-Beirat vorgeschlagen und nun hätten die<lb/>
+kleineren Bauerngruppen immer wieder vergeblich darauf gedrängt, dass<lb/>
+ein solcher errichtet wird, oder sie Gelegenheit haben, mit dem Mini<lb break="no"/>ster in Kontakt zu kommen. <name type="person" ref="per:98055">Weihs</name> bestreitet dies und erklärt, dass<lb/>
+er alle zwei Monaten mit jeder Gruppe einzeln Besprechungen führt.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> meint, es wäre aber zielführender, eben einen Praktiker-Beirat<lb/>
+wo alle zusammen mit ihm verhandeln oder Besprechungen führen, zu errich<lb break="no"/>ten. Der Bauernhund würde jetzt immer stärker und greift immer mehr<lb/>
+die Regierung an. Über die Landwirtschaftskammern erhält er dabei die<lb/>
+grösste Unterstützung durch Budgetmitteln. In NÖ seien z.B. die 66<lb/>
+Bezirksbauernkammern mit einem Riesenbudget, die am meisten die Re<lb break="no"/>gierung attackieren. Die nö. Landwirtschaftskammer hätte allerdings<lb/>
+300 Mill. S Schulden. Auch die Subventionen werden ausschliesslich<lb/>
+über die Raiffeisenkassen abgewickelt, was <name type="person" ref="per:98055">Weihs</name> wieder bestreitet,<lb/>
+da er einen Erlass herausgegeben hat, dass die Sparkassen seit 1971<lb/>
+ebenfalls eingeschaltet werden sollen. Kärnten, auf das <name type="person" ref="per:97668">Kreisky</name> ver<lb break="no"/>weist, sei eine einzige Ausnahme. <name type="person" ref="per:97668">Kreisky</name> bedauert überhaupt, dass auch<lb/>
+bei den Sparkassen unsere Genossen so wenig Einfluss haben, obwohl<lb/>
+in den Städten sie die Mehrheit haben und in Wirklichkeit über dieses<lb/>
+Forum entsprechende Sparkassenvertreter wählen könnten. <name type="person" ref="per:97311">Androsch</name><lb/>
+ist allerdings bei dieser Kritik noch nicht anwesend. <name type="person" ref="per:97668">Kreisky</name> stört<lb/>
+<pb n="10-0497" facs="10_1972-04-21_0497.jpg"/>ganz besonders, dass die Giro-Zentrale, die von den Sparkassen<lb/>
+getragen werden, auf die wir keinen Einfluss nehmen, dann als<lb/>
+Zentralstelle und Geldsammelstelle sich immer mehr in die Verstaat<lb break="no"/>lichung, d.h. gegen die Verstaatlichung einschaltet.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> beabsichtigt, für die Anti-ÖVP-Propaganda gegen den Bauern<lb break="no"/>bund den 3 kleinen Verbänden viermal pro Jahr eine Postwurfsendung<lb/>
+zu geben. In diesem Fall würden an die 360.000 Bauern eine agrarpoli<lb break="no"/>tische Information von Seiten des Landwirtschaftsministeriums zu<lb/>
+finanzieren sein, das allerdings natürlich gegen die Regierungs<lb break="no"/>politik Stellung nehmen wird. Hauptsächlich aber wird sich diese<lb/>
+Polemik gegen den Bauernbund richten. Da eine Postwurfsendung 250.000 S<lb/>
+kostet, wird insgesamt 4 Mill. für agrarpolitische Informationen<lb/>
+aufgewendet werden. Ein weiterer grosser Angriffspunkt ist der Berg<lb break="no"/>bauernkataster. Dieser hat derzeit eine ganz willkürliche Zusammensetzung<lb/>
+d.h. es wurden einzelne Bauern scheinbar nach politischen Gesichtspunk<lb break="no"/>ten teilweise besser eingestuft als andere. <name type="person" ref="per:98055">Weihs</name> erklärt, dass dieser<lb/>
+jetzt neu überarbeitet wird, um die 1,5 Mia. S, die jetzt 300 Mill.<lb/>
+pro Jahr durch 5 Jahre vergeben werden, besser und zielführender ein<lb break="no"/>setzen zu können.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Besprechung der Tagesordnung erklärte der inzwischen angekommene<lb/>
+<name type="person" ref="per:97311">Androsch</name>, dass an das erste BÜG keine Einzelwünsche herangetragen werden<lb/>
+sollen. Viele Beamte und die Minister werden dann entsprechend aufge<lb break="no"/>fordert, bei ihm zu intervenieren, möchten, dass die nicht möglichen<lb/>
+Wünsche an das Budget jetzt im BUG sofort erfüllt werden. Dies würde<lb/>
+bedeuten, dass der Vorwurf des Nationalrates, der Opposition, dass<lb/>
+es sich hier nur um Hausnummern gehandelt hat, bekräftigt wird. Darüber<lb/>
+hinaus wäre ja die Möglichkeit gegeben, jetzt zuerst die Budgetansätze<lb/>
+auszuschöpfen. <name type="person" ref="per:97461">Frühbauer</name> verweist auf ein Beispiel, dass er jetzt für<lb/>
+den Elektrobau 100 Mill. dringendst benötigt. Er könnte also nicht<lb/>
+auf das 2. BÜG, welches <name type="person" ref="per:97311">Androsch</name> in der ersten Oktoberwoche als<lb/>
+Eingabetermin in Aussicht nimmt, warten. <name type="person" ref="per:97461">Frühbauer</name> benötigt dringend<lb/>
+Geld, um einen Anschlussauftrag, wie <name type="person" ref="per:97311">Androsch</name> sich ausgedrückt hat,<lb/>
+vergeben zu könne. 1972 seien bereits 135 Mill. S verbaut, doch hätte<lb/>
+er auch 128 Mill. S Schulden. Bei der Postdirektion in Wien hätte er<lb/>
+145 Mill. für das Fernsprechinvestitionsgesetz, das Finanzministerium<lb/>
+umgebucht von einer Verwaltungs- in eine Finanzschuld, will. Das<lb/>
+Finanzministerium wird deshalb seine Weisung wieder zurücknehmen,<lb/>
+<pb n="10-0498" facs="10_1972-04-21_0498.jpg"/>dass die Verträge mit den Firmen umgestellt werden müssen. Dadurch<lb/>
+kann zumindestens die Post weiter in der Fernsprechbetriebsinvestition<lb/>
+arbeiten. <name type="person" ref="per:97755">Moser</name> erklärt, dass im Oktober es für Bauten zu spät ist und<lb/>
+er daher im 1. BÜG jetzt mehr Geld bräuchte. <name type="person" ref="per:97311">Androsch</name> repliziert,<lb/>
+dass er in Erwägung gestellt hat, die baulichen Massnahmen überhaupt<lb/>
+zu kürzen. Da aber die Hochbauten für die Hochschulen und auch sonstige<lb/>
+Schulen herausnehmen müsste, wäre nur ein Betrag von 200 Mill. S über<lb break="no"/>geblieben, womit sich keine grosse Kürzung mehr konjunkturell ausge<lb break="no"/>wirkt hätte. <name type="person" ref="per:113083">Sinowatz</name> stellt fest, dass heuer wieder mit Herbstbeginn<lb/>
+ein starker Run an die Allgemeinbildenden Höheren Schulen und vor allem<lb/>
+einmal an die Berufsbildenden Schulen einsetzen wird. Er hat nun etliche<lb/>
+Klassen baulich fertig, hat aber keinerlei Einrichtungen, die doch jetzt<lb/>
+unbedingt erfolgen sollte. <name type="person" ref="per:97442">Firnberg</name> wieder stellt fest, dass auf Hoch<lb break="no"/>schulen z.B. in der Anatomie durch einen Schichtbetrieb die Lokalitäten<lb/>
+besser ausgenützt werden können, dann aber 10 Mill. S Verwaltungs<lb break="no"/>aufwand mehr entstehen würden, die er finanzieren sollte. <name type="person" ref="per:97668">Kreisky</name> hat<lb/>
+von <name type="person" ref="per:97644">Koller</name>, VÖEST, erfahren, dass sie diese Schulen in Stahlbau gegebenen<lb break="no"/>falls vorfinanziert erzeugen könnten und setzt ein Komitee ein aus<lb/>
+Finanzminister, Bauten, Unterricht und Wissenschaft, welches sich mit<lb/>
+diesem Problem beschäftigen soll. Die grossen Ideen, mit Hilfe von Lizenz<lb/>
+eine entsprechende Entlastung des Budgets zu erreichen, sind scheinbar<lb/>
+vollkommen in Vergessenheit geraten oder besser gesagt, gescheitert.<lb/>
+<name type="person" ref="per:97311">Androsch</name> weist darauf hin, dass im ersten Vierteljahr das Präliminare der<lb/>
+Lohnsteuer nicht erreicht wurde. <name type="person" ref="per:97525">Häuser</name> repliziert sofort, dass<lb/>
+eben jetzt erst die grossen Bewegungen kommen und damit dann automatisch<lb/>
+die Lohnsteuereingänge stärker steigen werden. Andererseits weist er<lb/>
+darauf hin, dass er jetzt mit der Handelskammer Besprechungen aufnimmt,<lb/>
+weil von 260.000 Versicherten bei den Selbständigen, 160.000 nur 1.300 S<lb/>
+pro Monat Verdienst angeben, die sie auf Grund der Einkommensteuer auch<lb/>
+nachweisen. Eine Ziffer, die mit den tatsächlichen Verhältnissen ja<lb/>
+kaum übereinstimmen kann.<lb/>
+</p>
+            <p xml:space="preserve">In dieses allgemeine Gejammer will ich nicht mit einstimmen und gehe<lb/>
+am Schluss der Sitzung zu <name type="person" ref="per:97311">Androsch</name> und mache ihn darauf aufmerksam,<lb/>
+dass wir für die gemeinsame Kreditaktion vorgesehen haben, entsprechend<lb/>
+höhere Beträge zur Verfügung zu stellen und dass ich dies dann eben<lb/>
+beim 2. BÜG konkret anmelden werde. Nachdem er mir seinerzeit, bevor<lb/>
+ich beim Freien Wirtschaftsverband eine Vortrag gehalten habe, wo<lb/>
+ich ihnen bereits diesen Wunsch vom Finanzminister und mir bereits positiv<lb/>
+<pb n="10-0499" facs="10_1972-04-21_0499.jpg"/>mitgeteilt habe, <choice><choice><sic>errinnere</sic><corr>zugesagt hatte?</corr></choice></choice>, meint <name type="person" ref="per:97311">Androsch</name>, er könne sich auf die<lb/>
+Details nicht erinnern und bestreitet auch eine diesbezügliche Zusage<lb/>
+gemacht zu haben. Ich habe vollstes Verständnis dafür, dass wahr<lb break="no"/>scheinlich aus dem Trubel der Ereignisse solche für ihn unbedeutende<lb/>
+Probleme leicht vergisst. Um dem in Hinkunft aber vorzubeugen, werde<lb/>
+ich nur mehr mit entsprechender schriftlicher Bestätigung arbeiten.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: In Hinkunft bitte alles auf schriftlichem Wege<lb/>
+mit dem Finanzminister vereinbaren.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:133397">Brantl</name> schlägt vor, dass die Regierung, nachdem sie jetzt 2 Jahre im<lb/>
+Amt ist, entsprechende Mitteilungen über ihre Leistung und zwar die<lb/>
+einzelnen Ministerien den Zeitungen zur Verfügung stellen sollen. <name type="person" ref="per:97372">Broda</name><lb/>
+wirft ein, dass dies doch schon geschehen ist und im Klubbericht am<lb/>
+Parteitag seinen Niederschlag gefunden hat. <name type="person" ref="per:97668">Kreisky</name> lehnt den Vorschlag<lb/>
+<name type="person" ref="per:133397">Brantl</name> ganz entschieden ab und man erinnert daran, dass die ÖVP seiner<lb break="no"/>zeit eine solche Kampagne nach zwei Jahren gestartet, aber damit<lb/>
+kärglich Schiffbruch erlitten hat. Ich habe allerdings mehr das Gefühl,<lb/>
+dass <name type="person" ref="per:97668">Kreisky</name> sich dagegen ausspricht, weil diese Idee vielleicht<lb/>
+nicht von ihm kommt oder er den jetzigen Zeitpunkt nicht für geeignet<lb/>
+hält. Ich bin überzeugt davon, nach wirklich zweijähriger Regierungs<lb break="no"/>zeit wird die Hälfte der jetzigen Legislaturperiode die Grund<lb break="no"/>lage für eine grosse Kampagne bilden.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97646">KOPPE</name>: Bitte erinnere mich im Oktober 1973 daran.<lb/>
+</p>
+            <p xml:space="preserve">Im Ministerrat berichtet <name type="person" ref="per:97668">Kreisky</name>, dass <name type="person" ref="per:127591">Nixon</name> ein Essen von ihm offe<lb break="no"/>riert bekommt, an dem dann auch der Vizekanzler, Finanzminister,<lb/>
+Wissenschaftsminister und Aussenminister teilnehmen, ebenso<lb/>
+der Landeshauptmann <name type="person" ref="per:137200">Lechner</name> und der Bürgermeister von Salzburg <name type="person" ref="per:125829">Salfen<lb break="no"/>auer</name>. Die ÖVP und die FPÖ sollen gefragt werden, ob sie ebenfalls an<lb/>
+diesem Essen teilnehmen möchten. Die Anzahl ist allerdings mit 15 Per<lb break="no"/>sonen beschränkt. Da die Amerikaner 70 PKW für die Zeit brauchen, wird<lb/>
+beschlossen, dass jedes Ressorts mindestens einen PKW in der Zeit<lb/>
+von 20.–22. Mai abgeben. Ich bin neugierig, wieviel unser Haus<lb/>
+vorschlagen wird.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Fahrer sollen angeblich eine Sonderentlohnung<lb/>
+bekommen.<lb/>
+</p>
+            <pb n="10-0500" facs="10_1972-04-21_0500.jpg"/>
+            <p xml:space="preserve">Am 27. April wird um 9.00 Uhr eine ausserordentlicher Ministerrat<lb/>
+mit anschliessender Kranzniederlegung stattfinden.<lb/>
+</p>
+            <p xml:space="preserve">Vor der Ministerratssitzung ist <name type="person" ref="per:135724">Markovics</name> zu mir gekommen, um über<lb/>
+die Einstellung von <name type="person" ref="per:98053">Wanke</name> im Auftrag des Bundeskanzlers seine Stellung<lb break="no"/>nahme mir auseinanderzusetzen. Ich habe ausserordentlich scharf gleich<lb/>
+von Anfang an mit ihm verhandelt. Ich erklärte, dass ich mir diese<lb/>
+Behandlung nicht gefallen lasse, da sie eine Diskriminierung der Ar<lb break="no"/>beiterkammer und vor allem der Tätigkeit des Kollegen <name type="person" ref="per:98053">Wanke</name> dar<lb break="no"/>stellt. <name type="person" ref="per:135724">Markovics</name> wollte mir auseinandersetzen, dass dies laut<lb/>
+Gesetz nicht anders möglich sei und er als Kompromiss ja sowieso<lb/>
+vorgeschlagen hätte, 5 Jahre ihm anzurechnen. Dies sei sein grösster<lb/>
+Fehler gewesen, replizierte ich, da er ja damit zu erkennen gegeben<lb/>
+hat, dass er doch der Meinung ist, dass die Arbeiterkammertätigkeit<lb/>
+von <name type="person" ref="per:98053">Wanke</name> anrechenbar ist. In diesem Fall aber irrt er, denn <name type="person" ref="per:98053">Wanke</name><lb/>
+arbeitet seit 23 Jahren auf einem Gebiet, das genau der Tätigkeit im<lb/>
+Ministerium entspricht und er ist deshalb auch seit dieser Zeit<lb/>
+den Herren des Handelsministeriums genau bekannt. Ich hätte auch<lb/>
+bevor ich einen solchen Antrag gestellt hätte, mit Sekt.Chef <name type="person" ref="per:97915">Schipper</name><lb/>
+über den Fall gesprochen und es sei deshalb keinesfalls ein Protektions<lb break="no"/>fall, sondern eine sachliche einwandfreie Regelung möglich. <name type="person" ref="per:135724">Markovics</name><lb/>
+hat in seinem Rückzugsgefecht sogar mir auseinandergesetzt, dass er<lb/>
+es gewesen ist, der diese Bestimmung im das Gesetz aufgenommen hat,<lb/>
+wonach man als Ausnahmefälle entsprechende andere Anrechnungszeiten<lb/>
+als die jetzt im Gesetz vorgesehenen halben Zeiten als Grund<lb break="no"/>lage nehmen könnte. Hier nun zeigte ich mich sehr versöhnlich und erklär<lb break="no"/>te, dass er damit eigentlich für den Fall <name type="person" ref="per:98053">Wanke</name> die gesetzlichen Voraus<lb break="no"/>setzungen geschaffen hat, denn wie in keinem anderen Fall müsste hier und<lb/>
+könnte hier das Gesetz angewendet werden.<lb/>
+</p>
+            <p xml:space="preserve">Als Punkt 43a habe ich den Antrag des Verkehrsministeriums, <name type="person" ref="per:97915">Schipper</name><lb/>
+von der Verbundgesellschaft abzuberufen und <name type="person" ref="per:97453">Fremuth</name> dorthin zu entsenden,<lb/>
+bekommen. Ich fragte <name type="person" ref="per:97461">Frühbauer</name>, ob mit <name type="person" ref="per:97915">Schipper</name> jemand gesprochen<lb/>
+hat. Er selbst teilte mir mit, dass von ihm aus keine solche Bespre<lb break="no"/>chung stattgefunden hat, sondern dass er angenommen hat, die ÖVP hät<lb break="no"/>te dies getan. Bei meiner Rückkunft habe ich deshalb sofort mit<lb/>
+<name type="person" ref="per:97915">Schipper</name> Kontakt aufgenommen, der ebenfalls mit dem Ministerratsvor<lb break="no"/>trag in seinem Zimmer gesessen ist. Er teilte mit mit, dass niemand<lb/>
+<pb n="10-0501" facs="10_1972-04-21_0501.jpg"/>mit ihm geredet hat, sondern dass <name type="person" ref="per:112215">Weiss</name>, der seinerzeitige Verkehrs<lb break="no"/>minister und jetziger Vorsitzende des Aufsichtsrates der Verbund<lb break="no"/>gesellschaft, bei einer Vorbesprechung nur darauf hingewiesen hat, dass<lb/>
+die SPÖ jetzt eine Mehrheit verlangt und dass man dies nicht hindern<lb/>
+könne, dass die ÖVP aber keinen Posten hergibt. Das steht im krassen<lb/>
+Gegensatz zur Aussage vom <name type="person" ref="per:97461">Frühbauer</name>, der mir auf eine telefonische<lb/>
+Rückfrage am Samstag neuerdings bestätigte, dass eine diesbezügliche<lb/>
+Besprechung zwischen <name type="person" ref="per:97555">Hintermayer</name> und <name type="person" ref="per:112215">Weiss</name> stattgefunden hat, wo man<lb/>
+ihm zu verstehen gegeben hat, dass <name type="person" ref="per:97915">Schipper</name> zurückberufen werden soll.<lb/>
+Um dem Verlangen der SPÖ, der Mehrheit im Nationalrat entsprechend, sich in<lb/>
+der Verbundgesellschaft zu verankern, Rechnung zu tragen. Von<lb/>
+den Beamten ist dann nur mehr im Finanzministerium <name type="person" ref="per:126990">Neudörfer</name>, der als<lb/>
+Neutraler sich bezeichnet, der ÖVP-Sektionschef <name type="person" ref="per:136608">Cech</name> vom Energiemini<lb break="no"/>sterium und vom Landwirtschaftsministerium Min.Rat <name type="person" ref="per:126406">Grabmayr</name> als Wasser<lb break="no"/>rechtler, der ebenfalls auf das ÖVP-Konto geht. <name type="person" ref="per:97915">Schipper</name> hat allerdings<lb/>
+dann im weiteren Verlauf mir mitgeteilt, dass das Vorstandsmitglied der<lb/>
+Verbund <name type="person" ref="per:112012">Arthold</name> ihm vor drei Tagen zur Kenntnis brachte, dass nun ein<lb/>
+Brief von der Verbund an ihn gerichtet wird, wo er abberufen <del>wird</del> und<lb/>
+der Dank ausgesprochen<add>wird</add>. Hier hätte <name type="person" ref="per:97915">Schipper</name> ihm aber mitgeteilt, dass<lb/>
+er seinerzeit durch Ministerratsbeschluss bestellt wurde und deshalb auch<lb/>
+ein Ministerratsbeschluss jetzt für seine Abberufung notwendig sei. Dies<lb/>
+habe ich <name type="person" ref="per:97461">Frühbauer</name> in einem Telefongespräch mitgeteilt, wogegen dieser meint,<lb/>
+<del>es</del><add>ein Ministerratsbeschluss</add> sei nicht notwendig <del>ein Ministerratsbeschluss</del>, doch hätte er auf<lb/>
+Wunsch der ÖVP einen solchen jetzt vorgebracht, obwohl er nach Auffassung<lb/>
+der Verbund und auch nach seiner und der seines Ministeriums nicht not<lb break="no"/>wendig gewesen wäre. Auf alle Fälle habe ich mit dieser Aktivität <name type="person" ref="per:97915">Schipper</name><lb/>
+zu erkennen gegeben, dass ich mich um seine Belange insofern bemühe,<lb/>
+als ich klarstelle, dass man mit ihm hätte erstens reden sollen und zweitens<lb/>
+die ÖVP aber doch die entsprechenden Abberufungsvorschläge indirekt erstat<lb break="no"/>tet hat.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:138758">Lemberger</name> berichtet mir, dass er mit <name type="person" ref="per:139772">Ortoli</name> eine Aussprache hatte und<lb/>
+dass dieser für die österreichischen Wünsche neuerdings sein Verständnis<lb/>
+dokumentiert hat. Er wird deshalb den Aussenminister <name type="person" ref="per:139771">Schumann</name>, den er<lb/>
+in Lille bei einer Parteiversammlung treffen wird, auch in diesem Sinne<lb/>
+informieren. <name type="person" ref="per:138758">Lemberger</name> teilt mit, dass kein ganzes Mandat am 25.4. an<lb/>
+die EWG-Kommission zu erwarten ist, doch dass die Ständigen Vertreter eine<lb/>
+Instruktion bekommen sollen, dass diese dann die Detailverhandlungen mit<lb/>
+der Kommission führen können. Diese Aussage deckt sich auch mit der Mit<lb break="no"/>teilung, die mir Botschafter <name type="person" ref="per:135642">Leitner</name> telefonisch am Samstag früh zukommen<lb/>
+liess.<lb/>
+</p>
+            <pb n="10-0502" facs="10_1972-04-21_0502.jpg"/>
+            <p xml:space="preserve"><name type="person" ref="per:112011">Kurzel-Runtscheiner</name>, dem Betriebsberater der Internationalen Betriebs<lb break="no"/>beratung, IBB, habe ich in Frankreich versprochen, dass – wenn er nach<lb/>
+Österreich kommt – ich zu seiner Verfügung stehe. Er erscheint nun<lb/>
+mit Herrn <name type="person" ref="per:139773">Schima</name>, der die Fremdenverkehrsstudie für uns gemacht hat<lb/>
+und <name type="person" ref="per:139774">Quantsching</name>, der auf Umweltschutz arbeitet und derzeit den Markt<lb/>
+mit 20 grossen Industriebetrieben versucht zu bearbeiten. Diese Industrie<lb break="no"/>betriebe müssen umweltkonforme Produkte erzeugen. Zu diesem Zweck möchte<lb/>
+er eine Studie, die ca. 2 Mill. S kosten würde, ausarbeiten. Min.Rat<lb/>
+<name type="person" ref="per:125823">Hanisch</name> ist leider nicht mehr anwesend, deshalb ersuche ich <name type="person" ref="per:98053">Wanke</name>, der Be<lb break="no"/>sprechung beizuwohnen. Die vom Partell-Institut<add>[?]</add> in der BRD ausgearbeitete<lb/>
+Studie, die auch der österreichischen <choice><choice><sic>Geiberung</sic><corr>???</corr></choice></choice> als Grundlage dient,<lb/>
+sollte nun komplementär ergänzt werden. Die grossen Firmen wie VÖEST,<lb/>
+Alpine, Schüller, Stickstoffwerke, Vogl &amp; Noot, Steyr, Dynamit Nobel<lb/>
+Hutter &amp; Schrantz hätten Interesse gezeigt, doch seien sie nicht bereit,<lb/>
+die hunderttausende Schilling, die jede einzelne Firma aufbringen muss,<lb/>
+zur Studie beizutragen. Ich erkläre mich nur bereit, als Kataly<lb break="no"/>sator für einen solchen Auftrag mich zur Verfügung zu stellen. Unsererseits<lb/>
+könnte ein unbedeutender finanzieller Beitrag höchstens geleistet<lb/>
+werden, was ich allerdings den Herren <name type="person" ref="per:112011">Kurzel</name> und Begleitung nicht ver<lb break="no"/>spreche.<lb/>
+</p>
+            <p xml:space="preserve">Da <name type="person" ref="per:97668">Kreisky</name> ersuchte, man sollte das UNO-Bataillon nicht von ihm und<lb/>
+<name type="person" ref="per:108224">Lütgendorf</name> allein verabschieden lassen, erkläre ich mich dazu bereit.<lb/>
+Ich nehme an, um 17.00 Uhr ist die Verabschiedung, d.h. der Zug fährt<lb/>
+dann weg, und bin deshalb um 3/4 5 Uhr bereits am Bahnhof. In Wirklich<lb break="no"/>keit fährt er dann nach 3/4 6 Uhr erst ab. Um 5 Uhr begannen die Feier<lb break="no"/>lichkeiten. 3/4 seines Lebens wartet der Soldat vergebens. Auch für<lb/>
+mich eine sinnlose Stunde. Da <name type="person" ref="per:97879">Rösch</name> aber keine Zeit hatte, habe ich mich<lb/>
+aber bereiterklärt, ihn zu vertreten.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="10_0494_01" facs="10_1972-04-21_0494-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 21.4.1972</head>
+         </div>
+         <pb n="10_0502_01" facs="10_1972-04-21_0502-01.jpg"/>
+         <pb n="10_0502_02" facs="10_1972-04-21_0502-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesordnung 22. Ministerratssitzung, 21.4.1972</head>
+            <gap reason="sampling"/>
+            <pb n="10_0502_03" facs="10_1972-04-21_0502-03.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="10_0502_04" facs="10_1972-04-21_0502-04.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="10_0502_05" facs="10_1972-04-21_0502-05.jpg"/>
+         </div>
+         <pb n="10_0502_06" facs="10_1972-04-21_0502-06.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>hs. Notizen (TO Ministerratssitzung Rückseite)</head>
+         </div>
+         <pb n="10_0502_07" facs="10_1972-04-21_0502-07.jpg"/>
+         <pb n="10_0502_08" facs="10_1972-04-21_0502-08.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Inf. Jagoda f. d. Herrn BM betr. TOP 19, 1. BÜG 1972, FV-Förderung; 20.4.1972</head>
+            <gap reason="sampling"/>
+            <pb n="10_0502_09" facs="10_1972-04-21_0502-09.jpg"/>
+         </div>
+         <pb n="10_0502_10" facs="10_1972-04-21_0502-10.jpg"/>
+         <pb n="10_0502_11" facs="10_1972-04-21_0502-11.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Inf. Jagoda f. d. Herrn BM betr. TOP 19, 1. BÜG 1972, Bericht FM; 19.4.1972</head>
+            <gap reason="sampling"/>
+            <pb n="10_0502_12" facs="10_1972-04-21_0502-12.jpg"/>
+         </div>
+         <pb n="10_0502_13" facs="10_1972-04-21_0502-13.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Bericht/Antrag VM an MR betr. AR-Posten Verbund, 18.4.1972</head>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstag, der 14. Oktober 1975</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band27_1975-10-14</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1975-10-14">Dienstag, 14. Oktober 1975</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-12-05">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="27-1146" facs="27_1975-10-14_1146.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Dienstag, 14. Oktober 1975<lb/>
+</p>
+            <p xml:space="preserve">Da wir eine Stunde zu früh nach Salzburg gekommen waren,<lb/>
+fuhren wir in die Handelskammer wo eine außerordentliche<lb/>
+Vollversammlung stattfand. Dies wußte ich nicht, der Portier<lb/>
+ist ganz schüchtern reingegangen, der Kammer-Amtsdirektor<lb/>
+dann erschienen und mußte mich mehr oder minder einladen daran<lb/>
+teilzunehmen. Der Präsident <name type="person" ref="per:141341">Haidenthaller</name> ist schwer erkrankt,<lb/>
+weshalb sein Vizekonsul <name type="person" ref="per:141343">Trost</name> den Vorsitz führte. <name type="person" ref="per:97893">Sallinger</name><lb/>
+hielt das Hauptreferat und las eine mit ganz wenigen und<lb/>
+leichten Angriffen gegen die Regierung gehaltene Rede herunter.<lb/>
+Er meinte dann, hätte er gewußt, daß ich komme, wäre die Rede<lb/>
+viel schärfer ausgefallen. Ich bin allerdings überzeugt, daß das<lb/>
+Gegenteil der Fall gewesen wäre.<lb/>
+</p>
+            <p xml:space="preserve">Der Festakt fand im Kongreßhaus statt. Ich hatte Gott sei Dank<lb/>
+auf der Fahrt hinaus einen Artikel über die Geschichte der Handels<lb break="no"/>kammer Salzburgs gelesen, daraus erfuhr ich, daß der erste Handels<lb break="no"/>minister Freiherr <name type="person" ref="per:141349">von Doblhoff</name> sofort eine Handelskammer schon<lb/>
+1848 gründen wollte, durch den Rückschlag der Reaktion aber dann<lb/>
+erst 1850 tatsächlich gegründet wurde. Ich zitierte entsprechende<lb/>
+Stellen, die insbes. die Unterwürfigkeit vom damaligen Kreisamt<lb/>
+Salzburg über das Landespräsidium Linz und ganz besonders gegen<lb break="no"/>über das k.u.k. Ministerium betraf.<lb/>
+</p>
+            <p xml:space="preserve">Der Festredner war LH-Stv. <name type="person" ref="per:113822"><sic>Haslacher</sic></name>, ehemaliger Kammeramtsdirektor<lb/>
+von Salzburg. Ich kannte ihn seit längerer Zeit aus dem Wirtschafts-<lb/>
+und Sozialbeirat. Er war sehr kooperationsfreudig und blitzge<lb break="no"/>scheit. Was ich nicht wußte und was mich sehr überraschte, war,<lb/>
+daß er ein blendender Redner ist. Die ganze Festrede hielt er<lb/>
+ohne eine schriftliche Aufzeichnung, nicht einmal Stichwörter<lb/>
+hatte er. Ein blendender Rhetoriker. Wenn der wirklich, was fast<lb/>
+nicht mehr zu verhindern ist, Nachfolger von LH <name type="person" ref="per:137200">Lechner</name> wird, hat<lb/>
+sein sozialistischer Gegenpart es äußerst schwer. Wenn es aufs<lb/>
+gescheit Reden ankommt, hat er überhaupt keine Chance. Im kleineren<lb/>
+Kreis meinte <name type="person" ref="per:97994">Steinocher</name> dann beim Mittagessen, wo <name type="person" ref="per:113822"><sic>Haslacher</sic></name> auch<lb/>
+anwesend war, ein <name type="person" ref="per:134282"><sic>Goebblischer</sic></name><add>[evtl. Falschidentifikation, Anm.]</add> <name type="person" ref="per:141368">Abraham a Sancta Clara</name>. <name type="person" ref="per:113822"><sic>Haslacher</sic></name><lb/>
+lachte dazu, ich meinte nur, diese Bezeichnung sei sehr ungerecht.<lb/>
+</p>
+            <pb n="27-1147" facs="27_1975-10-14_1147.jpg"/>
+            <p xml:space="preserve">Ein gewisser <name type="person" ref="per:141376">Fallenegger</name>, Spediteur, wollte gar nichts anderes<lb/>
+als umständlich mich erklären, daß er einen Kommerzialrat-Titel<lb/>
+braucht weil er jetzt mit den Leuten verhandelt, die alle schon<lb/>
+Prokuristen geworden sind und er nicht nur <name type="person" ref="per:141376">Fallenegger</name> heißen<lb/>
+kann. Ich verwies ihn selbstverständlich an die Handelskammer,<lb/>
+da ich kein Kontingent mehr habe.<lb/>
+</p>
+            <p xml:space="preserve">Beim Essen gestand mir auch <name type="person" ref="per:97893">Sallinger</name>, daß er seinerzeit die<lb/>
+Absicht gehabt hatte, <name type="person" ref="per:113822"><sic>Haslacher</sic></name> als Kammeramtsdirektor in die<lb/>
+Bundeskammer zu bringen. Wenn es für die Salzburger SPÖ eine<lb/>
+Chance geben soll, müßte es wirklich gelingen, ihn nach Wien zu<lb/>
+ziehen. <name type="person" ref="per:113822"><sic>Haslacher</sic></name>, mit dem auch darüber gesprochen habe, lehnte<lb/>
+aber ab, er begründete dies damit, daß zwar <name type="person" ref="per:126971">Wakolbinger</name> von Kärnten<lb/>
+nach Wien geholt wurde, einen Vertrag hatte, daß er Kammeramts<lb break="no"/>direktor wird, und dann letzten Endes dem <name type="person" ref="per:97769">Mussil</name> vorgesetzt wurde.<lb/>
+<name type="person" ref="per:113822"><sic>Haslacher</sic></name> mußte allerdings zugeben, daß sich <name type="person" ref="per:126971">Wakolbinger</name> eben nicht<lb/>
+durchsetzen konnte. Bei <name type="person" ref="per:113822"><sic>Haslacher</sic></name> bin ich überzeugt, der würde<lb/>
+sich durchsetzen.<lb/>
+</p>
+            <p xml:space="preserve">Da ich schon in Kleßheim war, besichtigte ich die Fremdenver<lb break="no"/>kehrsschule, was den Direktor <name type="person" ref="per:141380">Eder</name> und die dortigen Lehrer, aber<lb/>
+auch die Schüler, insbes. die aus fast der ganzen Welt, Unterent<lb break="no"/>wicklungsländer bevorzugt kommend, sehr begeistert. Hofrat <name type="person" ref="per:141380">Eder</name><lb/>
+teilte mit, daß sie immer nach Wien auf Besuch kommen, dort aber<lb/>
+niemals von einem Ministerium aber jemals empfangen wurden. Ich<lb/>
+versprach sofort, für sie einen kleinen Empfang im Handelsministerium<lb/>
+zu organisieren. <name type="person" ref="per:108322">Meisl</name> hat übernommen, die Details und den Zeit<lb break="no"/>punkt auszuarbeiten.<lb/>
+</p>
+            <p xml:space="preserve">Anmerkung für <name type="person" ref="per:97469">GEHART</name>: Bitte mit <name type="person" ref="per:108322">Meisl</name> und <name type="person" ref="per:111367">Würzl</name> Besuch vorbereiten.<lb/>
+</p>
+            <p xml:space="preserve">Konsul <name type="person" ref="per:140406">Vogel</name> von Borregaard, der Betriebsrat und die Direktoren<lb/>
+erwarteten mich, führten mich durch den Betrieb und diskutierten<lb/>
+dann die offenen Probleme mit mir. Für den 500 Mio Zinsenzuschuß<lb/>
+ist alles o.k. Die Firma, eine österreichische Aktiengesellschaft<lb/>
+nun, die Promessen vorhanden, so daß wir den Zuschuß jetzt ohne<lb break="no"/>weiters auf Grund der Richtlinien geben können. Viel interessanter<lb/>
+ist, daß <name type="person" ref="per:114599">Turnauer</name> sich wegen der Sulfat-Zellstoffproduktion noch<lb/>
+nicht an die Borregaard konkret gewendet hat. Auch die Giro-Zentrale<lb/>
+und die Genossenschaftliche Zentralbank, die dieses Projekt<lb/>
+finanzieren sollen, haben noch keine Verhandlungen mit Borregaard<lb/>
+aufgenommen. Der Vorstand und ganz besonders der Aufsichtsrat ist<lb/>
+<pb n="27-1148" facs="27_1975-10-14_1148.jpg"/>verhandlungsbereit, wartet aber ab, bis die andere Seite<lb/>
+an sie herantritt. Ob <name type="person" ref="per:114599">Turnauer</name> dies wirklich tut oder sich<lb/>
+vielleicht doch anders überlegt, ist deshalb noch nicht end<lb break="no"/>gültig klar. Der Betriebsrat <name type="person" ref="per:141382">Recheis</name> berichtete, daß in der<lb/>
+Gewerkschaft der Neusiedler Betriebsrat gesagt hat, daß<lb/>
+<name type="person" ref="per:114599">Turnauer</name> noch nicht endgültig dazu entschlossen ist. <name type="person" ref="per:114599">Turnauer</name>,<lb/>
+der zur Neusiedler Papierfabrik wie die Jungfrau zum Kind ge<lb break="no"/>kommen ist, ersuchte eine Kapitalanlage für seine Supergewinne<lb/>
+bei Stollack, gilt in Papierkreisen eben nicht als gestandener<lb/>
+Papierindustrieller. Außerdem hat er bis jetzt wirklich nur<lb/>
+viel Kapital in die Papierfabriken reingesteckt und Stuppach ge<lb break="no"/>schlossen, Schlöglmühl an Ueberreuter verkauft, <choice><choice><sic>der</sic><corr>[keine Person, sondern Unternehmen; Anm.]</corr></choice></choice> jetzt dort<lb/>
+Gewinn herauswirtschaftet. Beim Betriebsbesuch hat der General<lb break="no"/>direktor und der Betriebsrat in einer Abteilung wo das Papier<lb/>
+geschnitten und sortiert wird die Arbeiterinnen und Arbeiter zu<lb break="no"/>sammengerufen damit ich ein paar Worte an sie richten kann. Ich<lb/>
+war davon sehr überrascht, hatte aber einen guten Aufhänger. Ich<lb/>
+erklärte, daß ich ausdrücklich nach der Wahl komme, damit ja<lb/>
+niemand sagt, ich möchte hier Wahlpropaganda machen, daß aber<lb/>
+der Landeshauptmann jetzt bei der 125-Jahrfeier im Kongreßhaus<lb/>
+erwähnt hat, daß jetzt die Salzach jetzt vom Schmutz Borregaards<lb/>
+befreit werden muß, was man schon lange wollte und versprach, wir<lb/>
+machen es, hat deutliche Zustimmung der Arbeiterinnen und Arbeiter<lb/>
+gefunden.<lb/>
+</p>
+            <p xml:space="preserve">Anmerkung für <name type="person" ref="per:113038">REIM</name>: Da jetzt alle Punkte unserer Richtlinien er<lb break="no"/>füllt sind, bitte Projekt so schnell als möglich endgültig zur<lb/>
+Unterschrift vorlegen.<lb/>
+</p>
+            <p xml:space="preserve">Auf der Fahrt erklärte ich <name type="person" ref="per:97584">Jagoda</name>, der bei der Preisreferenten<lb break="no"/>tagung in Hallein bleibt, wir müßten dieses allumfassende Preis<lb break="no"/>gesetz zu einem Wettbewerbsgesetz, zumind. der Überschrift nach,<lb/>
+ablösen. Wir hatten auch in unserem Entwurf für den Verkauf unter<lb/>
+den Einstandspreis also für <choice><choice><sic>faieren</sic><corr>fairen? faireren?</corr></choice></choice> Wettbewerb entsprechende Be<lb break="no"/>stimmungen. In-das neue Gesetz sollten wir diese Wettbewerbsbe<lb break="no"/>stimmungen mehr herausstreichen, damit die Handelskammer ihm<lb/>
+vielleicht doch zustimmen kann. Vor allem brauchen wir einen<lb/>
+entsprechenden zugkräftigen und nicht mit negativ Image behafteten<lb/>
+Titel. Gesetz für den fairen Wettbewerb ist vielleicht auch schon<lb/>
+abgegriffen und würde dann wahrscheinlich die Rute im Fenster be<lb break="no"/>züglich der Preisregelung zu wenig charakterisieren. Hier wäre es<lb/>
+<pb n="27-1149" facs="27_1975-10-14_1149.jpg"/>notwendig, außer der Konzeption, die in Grundzügen ja schon<lb/>
+feststeht, einen wirklich guten Arbeitstitel zu finden.<lb/>
+</p>
+            <p xml:space="preserve">Anmerkung an ALLE, insbes. <name type="person" ref="per:97646">KOPPE</name>: Wie können wir dieses schwierige<lb/>
+Problem bis anfangs nächsten Jahres lösen?<lb/>
+</p>
+            <p xml:space="preserve">Mit <name type="person" ref="per:108322">Meisl</name> besprach ich die Beschwerden der Textilindustrie, insbes.<lb/>
+Kindermodenerzeuger und schlug vor, daß wir doch noch außer der<lb/>
+Entliberalisierung auf die letzten Endes die ganzen Schwierigkeiten<lb/>
+der Firmen hinauslaufen werden, ein Mittelding zwischen Vidierung<lb/>
+und Entliberalisierung brauchen. Bezüglich der Niedrigstpreisein<lb break="no"/>fuhren soll die Schweiz, Belgien, Frankreich ja sogar Norwegen<lb/>
+jetzt ein besseres System des Schutzes haben als wir in Österreich.<lb/>
+Hier müßte man unverzüglich die entsprechenden Informationen ein<lb break="no"/>holen.<lb/>
+</p>
+            <p xml:space="preserve">Anmerkung für <name type="person" ref="per:98053">WANKE</name> und <name type="person" ref="per:113038">REIM</name>: Bitte entsprechende Vorarbeiten<lb/>
+schnell weitertreiben.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="27_1145_01" facs="27_1975-10-14_1145-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 14.10.1975</head>
+         </div>
+         <pb n="27_1149_01" facs="27_1975-10-14_1149-01.jpg"/>
+         <pb n="27_1149_02" facs="27_1975-10-14_1149-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesordnung 182. Ministerratssitzung, 14.10.1975</head>
+         </div>
+      </back>
+   </text>
+</TEI>

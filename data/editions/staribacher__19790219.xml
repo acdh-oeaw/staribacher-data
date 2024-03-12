@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Montag, der 19. Februar 1979</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band47_1979-02-19</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1979-02-19">Montag, 19. Februar 1979</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-07-21">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="47-0220" facs="47_1979-02-19_0220.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Montag, 19. Feber 1979<lb/>
+</p>
+            <p xml:space="preserve">Ing. <name type="person" ref="per:150037">Elbe</name>, der kaufmännische Direktor von der Firma Fehrer,<lb/>
+hat mir streng vertraulich sein Leid geklagt. Dr. <name type="person" ref="per:120383">Fehrer</name>,<lb/>
+der in Linz eine verhältnismässig kleine Maschinenbaufirma<lb/>
+betreibt, hat ein revolutionäres System des Spinnens ent<lb break="no"/>wickelt. Mit sehr wenig, stets abgelehnt trotz 400 Patenten<lb/>
+den Forschungsförderungsfonds in Anspruch zu nehmen. Normale<lb/>
+Richtlinienbestimmungen, dass er z.B. vor der Lizenzvergabe<lb/>
+ins Ausland mit dem Forschungsförderungsfonds verhandeln muss,<lb/>
+betrachtet er als schikanös. Sein Arbeitssystem besteht darin,<lb/>
+seine Fabrik nur zu assemblieren, die Zulieferung für den letzten<lb/>
+Typ Dref 2, wo er feinere Garne von 0,25 bis 10 <choice><choice><sic>numerische</sic><corr>?</corr></choice></choice><lb/>
+Meter spinnen kann, hat der österreichischen Industrie für<lb/>
+120 Mill. S Aufträge im Jahr gebracht. Einsatz ist 260 Mio. S<lb/>
+gewesen und wird 1979 300 Mill. erreichen. An Dref 3 wird derzeit<lb/>
+gearbeitet, die bis 35 <choice><choice><sic>numetrische</sic><corr>?</corr></choice></choice> Meter und 450 Meter pro<lb/>
+Minute Spinngeschwindigkeit entwickelt. Damit kommt er in den<lb/>
+textilen Bekleidungssektor hinein. Blue Jeans hat Nr. 12. Bei der<lb/>
+Entwicklung hat er natürlich jetzt die Kinderkrankheiten, da<lb/>
+er nicht so viel Kapital hat, um die Maschine zuerst im Inland<lb/>
+ausprobieren zu können, muss er oft Prototyps verkaufen. Die<lb/>
+Reparaturen kosten dann für die Monteure ungeheuer viel Geld,<lb/>
+die die Firma als Garantieleistung aufwenden muss. Dadurch<lb/>
+ist die wirtschaftliche Entwicklung von 72/73 mit 12 Mill. S<lb/>
+plus ungeheuer gefallen, das Privatkonto von <name type="person" ref="per:120383">Fehrer</name> ist<lb/>
+von 5 Mill. plus auf 12 Mill. S minus zurückgegangen. <name type="person" ref="per:120383">Fehrer</name><lb/>
+konzentriert sich nur mehr auf seine Spinnmaschinen, weshalb<lb/>
+er den Stahlbau liquidiert hat, der immerhin einen jährlichen<lb/>
+Deckungsbeitrag von 10 Mill. S gebracht hat. Der kaufmännische<lb/>
+Direktor und das kann ich verstehen ist in dieser Beziehung ver<lb break="no"/>zweifelt. Min.Rat <name type="person" ref="per:97493">Gröger</name> hat mit ihm alle Möglichkeiten durchge<lb break="no"/>sprochen, wie wir <name type="person" ref="per:120383">Fehrer</name>, ohne dass er es weiss von der<lb/>
+Aktion seines kaufmännischen Direktors, Unterstützung anbieten<lb/>
+können. Ich werde sie ihm persönlich in Form eines Briefs beim<lb/>
+Aufenthalt anlässlich des Parteitages in Linz überreichen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Den Briefentwurf möchte ich sehen.<lb/>
+</p>
+            <pb n="47-0221" facs="47_1979-02-19_0221.jpg"/>
+            <p xml:space="preserve">Im Wiener Vorstand wurde, so wie dann auch im Wiener Aus<lb break="no"/>schuss, die Nationalratswahl insbesondere die Kandidaten<lb break="no"/>liste besprochen. <name type="person" ref="per:97488">Gratz</name> hat ganz deutlich im Vorstand<lb/>
+erklärt, wenn es zu Stimmenverlusten kommt, wird falls<lb/>
+die Sozialisten nicht mehr in der Regierung sind, um<lb/>
+die jetzigen Nationalräte auch in Zukunft im Parlament zu<lb/>
+haben, die Nationalräte zurücklegen, welche 1983 nicht<lb/>
+mehr in den Wahlkampf gehen würden. Vorerst muss aller<lb break="no"/>dings beschlossen werden, dass für <name type="person" ref="per:97668">Kreisky</name>, <name type="person" ref="per:97346">Benya</name> und<lb/>
+<name type="person" ref="per:97442">Firnberg</name> die Altersklausel nicht gilt. Zum Unterschied<lb/>
+von unserer Besprechung mit dem Präsidium des dritten Be<lb break="no"/>zirkes hat er dann nur mehr 3 vorgeschlagen, die wenn wir<lb/>
+keine Minister mehr entsenden, durch nach dem neuen System<lb/>
+Rücklegung des Nationalratsmandates der Minister natürlich<lb/>
+alle jetzigen gesichert sind, dann trotzdem ihr Mandat<lb/>
+zurücklegen müssen. Es sind dies <name type="person" ref="per:97372">Broda</name>, <name type="person" ref="per:131467">Metzker</name>, <name type="person" ref="per:97923">Schnell</name>.<lb/>
+<name type="person" ref="per:97488">Gratz</name> wollte zuerst diese Information als vertraulich nur<lb/>
+im Vorstand gesagt haben. In der Diskussion wurde aber dann<lb/>
+vorgetragen und ich war als erster dieser Meinung, so etwas<lb/>
+bleibt nicht vertraulich und dann erfahren es die Genossen<lb/>
+wieder aus der Zeitung. Um nicht den verheerenden Eindruck<lb/>
+zu erwecken, wir rechnen schon fest damit, die nächste<lb/>
+Wahl zu verlieren, wäre es zweckmässig, im Ausschuss dies<lb/>
+nur anzudeuten. Die Vorstandssitzung musste ich dann wegen<lb/>
+des Journalistenfrühstücks vorzeitig verlassen. Beim Journa<lb break="no"/>listenfrühstück hatten wir eine vollgepackte Tagesordnung.<lb/>
+Fast zu viel. Sekt.Chef <name type="person" ref="per:108322">Meisl</name> berichtet über die Aussenhandels<lb break="no"/>ergebnisse. Sekt.Rat <name type="person" ref="per:114402">Fellner</name> über Innovationsberatung des<lb/>
+Handelsministeriums, Dr. <name type="person" ref="per:131307">Mayer</name> von der Arbeitsgemeinschaft<lb/>
+Patentförderung teilte mit, dass seit der Gründung 2.000<lb/>
+Fälle bearbeitet wurden. Dr. <name type="person" ref="per:149187">Ratz</name> vom Forschungsförderungs<lb break="no"/>fonds erklärte, dass ihnen 220 Mio. S Bundeszuschuss zur<lb/>
+Verfügung stehen und hofft im BÜG noch mehr zu bekommen.<lb/>
+Forschung und Entwicklung hat sich im vergangenen Jahr um<lb/>
+8 % insgesamt gesteigert. Präs. <name type="person" ref="per:97688">Leberl</name> sprach über das<lb/>
+Patentamt und verwies darauf, dass 1970 0,9 Anteil auf<lb/>
+1,3 des BNP im vergangenen Jahr gestiegen ist. Für<lb/>
+<pb n="47-0222" facs="47_1979-02-19_0222.jpg"/>die Forschung wird also jetzt wesentlich mehr ausgegeben<lb/>
+als früher, ungefähr soviel wie Belgien, Dänemark und mehr<lb/>
+als Kanada und Italien, von 300.000 gemeldeten Patenten<lb/>
+werden ca. 180.000 Patente erteilt. Wirtschaftlich verwertet<lb/>
+werden allerdings nur 10 % davon. Im Patentamt liegen<lb/>
+22 Mio. Einzeldokumente, die bei dieser Gelegenheit 80 Jahre<lb/>
+Österr. Patentamt gerne der Öffentlichkeit zugänglich gemacht<lb/>
+werden würden. Dir. <name type="person" ref="per:114091">Gmeinhart</name> referierte über die Speicherkraft<lb break="no"/>werke insbesondere die Aktivitäten der Tauernkraftwerke.<lb/>
+Die Speicher ersparen jetzt ca. 1 Mia. S Devisen für Ölein<lb break="no"/>fuhren. Ohne die Speicherwerke würde ein internationales<lb/>
+Verbundsystem für Westeuropa mit einem wirtschaftlichen<lb/>
+Netzbetrieb gar nicht mehr denkbar sein. Die Investitions<lb break="no"/>kosten steigen aber gigantisch, für die Zemm-Werke waren<lb/>
+noch 4 Mio. S notwendig, für Malta schon 10 Mia. und Ziller<lb break="no"/>gründl wird, obwohl nur einen Bruchteil der Leistung von<lb/>
+Zemm und schon gar von Malta 5 Mia. S Investitionen erfordern.<lb/>
+Ich konnte bei dieser Gelegenheit auf die Angriffe <name type="person" ref="per:97479">Grabers</name><lb/>
+in der Presse: monatelanges Nichtstun und warten bis eine<lb/>
+Entscheidung fällt, reagieren. Der Vorwurf, dass wir jetzt<lb/>
+erst für Zwentendorf Ersatzkraftwerk anstelle von Gas-Öl<lb/>
+Kohle vorschlagen, war leicht zu entkräften. Seit Frühjahr<lb/>
+vorigen Jahres verhandelt das Handelsministerium und ich<lb/>
+hatte mich sogar persönlich auch eingeschaltet, mit den EVUs<lb/>
+d.h. Landesgesellschaften und Verbund, damit sie von ihrer<lb/>
+Absicht koordiniertes Ausbauprogramm 1000 MW und 400 Megawatt<lb/>
+Gas abgeben und doch mehr die Kohle berücksichtigen.<lb/>
+Bisher allerdings ergebnislos. Interessanterweise komme ich<lb/>
+stets mit der Energiefrage in Kollision mit den Massen<lb break="no"/>medien. Wahrscheinlich liegt da doch auch ein Teil der Schuld<lb/>
+bei mir und nicht nur bei den objektiv die wir halt doch<lb/>
+viel zu wenig den Massenmedien watscheneinfach erklären können.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:114091">Gmeinhart</name>, der sich in Salzburg jetzt voll integriert hat,<lb/>
+informiert mich, dass er für 25. März ein verhältnismässig<lb/>
+gutes Ergebnis für die Volkspartei erwartet. <name type="person" ref="per:113822">Haslauer</name> dürfte<lb/>
+3 % dazugewinnen und das erste Mal die absolute Mehrheit<lb/>
+auf Kosten der Freiheitlichen erreiche. Die Sozialisten werden<lb/>
+<pb n="47-0223" facs="47_1979-02-19_0223.jpg"/>ganz wenige Stimmen gewinnen, dadurch ein drittes Regierungs<lb break="no"/>mitglied vielleicht sogar bekommen, aber es wird ein grosser<lb/>
+Erfolg von LH <name type="person" ref="per:113822">Haslauer</name> sein. Die Frage ist nur noch, wie die<lb/>
+Bürgerlisten abschneiden werden. Wenn das Ergebnis wirklich<lb/>
+so ausgehen sollte, dann ist meiner Meinung nach für Salzburg gar<lb/>
+nicht so schlecht. Für die gesamtösterreichische Entwicklung<lb/>
+vielleicht sogar gut, denn es zeigt, dass die Freiheitlichen<lb/>
+auch unter der Führung von <name type="person" ref="per:112569">Götz</name> nichts gewinnen werden, sondern<lb/>
+vielleicht sogar überall verlieren.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Ministerratsvorbesprechung, zu der ich wegen des<lb/>
+<name type="person" ref="per:97910">Scheel</name>-Besuches zu spät kam, hat <name type="person" ref="per:97356">Blecha</name> dann ebenfalls über die<lb/>
+letzten Meinungsumfragen noch einmal diskutiert. Eindeutig wünscht<lb/>
+die Bevölkerung heute, dass die Sozialisten – sprich <name type="person" ref="per:97668">Kreisky</name> –<lb/>
+bleiben soll, die Alleinregierung wird heute mehr befürwortet<lb/>
+als eine grosse Koalition. <name type="person" ref="per:97356">Blecha</name> fürchtet aber, man will<lb/>
+die Regierung in ihrem Machtanspruch und Überheblichkeit<lb/>
+usw. dämpfen, weshalb das Wahlergebnis dann ganz anders aus<lb break="no"/>schauen kann. Ich bin davor überzeugt, sogar nicht nur kann<lb/>
+sondern wird. <name type="person" ref="per:97668">Kreisky</name> meint, die einzige Möglichkeit besteht<lb/>
+in der Polarisierung des Wahlkampfes: <name type="person" ref="per:97668">Kreisky</name> oder <name type="person" ref="per:98003">Taus</name>/<name type="person" ref="per:112569">Götz</name>.<lb/>
+Letztere haben nachweislich 6 Zusammenkünfte gehabt.<lb/>
+</p>
+            <p xml:space="preserve">Beim Mittagessen beim Bundeskanzler für Frau <name type="person" ref="per:120624">Marcos</name> wurden vorher<lb/>
+vom VÖEST-Vertreter und mir mit Industrie-Minister <name type="person" ref="per:146006">Paterno</name><lb/>
+die Projekte der VÖEST neuerdings besprochen. Ich frage mich<lb/>
+nur, wie diese finanziert werden können. Bekommen nämlich die<lb/>
+Philippinen Kredite von der Weltbank, dann ist eine internatio<lb break="no"/>nale Ausschreibung daran geknüpft und Österreich hat kaum Chancen<lb/>
+den Zuschlag zu bekommen. Wahrscheinlich müssen wir daher über die<lb/>
+österr. Kontrollbank die Projekte finanzieren.<lb/>
+</p>
+            <p xml:space="preserve">Im Wiener Ausschuss konnte ich nur während des Berichtes über<lb/>
+die aktuellen Fragen anwesend sein, wo <name type="person" ref="per:97488">Gratz</name> darüber berichtete,<lb/>
+die einhellige Meinung aller Diskussionsredner war dagegen.<lb/>
+Ein weiterer Punkt war der Angriff von Stadtrat <name type="person" ref="per:109290">Mayr</name> an <name type="person" ref="per:97913">Schieder</name>,<lb/>
+warum dieser freiwillige Feuerwehren in Wien oder ähnliche Ein<lb break="no"/>richtungen schaffen möchte. <name type="person" ref="per:97913">Schieder</name> erklärte, er hätte sich<lb/>
+<pb n="47-0224" facs="47_1979-02-19_0224.jpg"/>nur im Rahmen des Katastrophengesetzes bewegt, als er<lb/>
+andeutete, man könnte Hilfstruppen aufstellen, um bei einer<lb/>
+wirklichen Katastrophe wie beim Gerngross-Brand besser ge<lb break="no"/>rüstet zu sein. Da auch andere gegen die Idee der Freiwilligen<lb/>
+Feuerwehr polemisierten, sah ich mich doch veranlasst,<lb/>
+aufmerksam zu machen, dass die Sozialisten immer zu spät er<lb break="no"/>kannt haben, wenn es notwendig ist, irgendwelche Formationen<lb/>
+aufzustellen, wie z.B. Bundesheer, Katastropheneinsatz usw.<lb/>
+und dann mühsam und jahrelang später die notwendigen Konse<lb break="no"/>quenzen aus diesem Verhalten zu ziehen genötigt waren.<lb/>
+Die Organisationen wurden doch errichtet und wir waren dann<lb/>
+meistens draussen, worüber wir uns dann immer bitter beklagten.<lb/>
+Wie immer man die neue Organisation nennen und schaffen wird,<lb/>
+notwendig ist sie, kommen wird sie, weil niemand, wenn es<lb/>
+tatsächlich zu Katastrophen grösseren Ausmasses als beim<lb/>
+Gerngross-Brand kommt, verantworten kann, dass es dann<lb/>
+heisst, man hat nicht vorgesorgt. Was dann aber aus<lb/>
+der ganzen Diskussion resp. aus der Mitteilung von <name type="person" ref="per:97488">Gratz</name> über<lb/>
+die Kandidatenliste wurde, weiss ich nicht, weil ich schon<lb/>
+wieder zum Wirtschaftsgespräch mit Bundespräsidenten <name type="person" ref="per:97910">Scheel</name><lb/>
+in die Hofburg eilen musste.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97910">Scheel</name> und <name type="person" ref="per:97632">Kirchschläger</name> hielten eine aussenpolitische Tour<lb/>
+d'Horizon, Wirtschaftsfragen wurden nicht einmal am Rande<lb/>
+erwähnt. Interessant dabei war nur, dass <name type="person" ref="per:97910">Scheel</name> die Wandlung<lb/>
+in der Bundesrepublik gegenüber Österreich zeichnete.<lb/>
+Vorerst hatte man grosse Bedenken über die Neutralität<lb/>
+Österreichs, die aktive Tätigkeit Österreichs aber in allen<lb/>
+internationalen Foren hat man jetzt erkannt, dass dies auch<lb/>
+für die Bundesrepublik von grösstem Vorteil ist.<lb/>
+</p>
+            <p xml:space="preserve">In die Ministerratsvorbesprechung kam ich wieder zu spät,<lb/>
+weil das <name type="person" ref="per:97910">Scheel</name>-Gespräch so lange dauerte und <name type="person" ref="per:97668">Kreisky</name> war<lb/>
+mit seiner, wie ich immer sage, Postsitzung schon zu Ende.<lb/>
+<name type="person" ref="per:97311">Androsch</name> hat dann noch die <choice><choice><sic>Antisteuer-Welle</sic><corr>?</corr></choice></choice> als Grund be<lb break="no"/>zeichnet, dass er die Steuerreform-Kommission jetzt einberufen<lb/>
+musste. Dort sei ein Papier ausgeteilt worden, das alle Steuer<lb break="no"/>ermässigungen aufführt, um zu beweisen, dass die direkten Steuern<lb/>
+<pb n="47-0225" facs="47_1979-02-19_0225.jpg"/>durch die Sonderregelung hohe Steuersätze haben, aber im Durch<lb break="no"/>schnitt nicht mehr erbringen als in anderen Staaten. Ein<lb/>
+Drittel geringer ist die Lohnsteuer bei uns als in Deutschland.<lb/>
+Dafür allerdings sind die indirekten Steuern, Umsatzsteuer<lb/>
+18 % in Deutschland 12 %, wesentlich höher. <name type="person" ref="per:98003">Taus</name> greift nun<lb/>
+aus diesem Papier die Quellenbesteuerung bei Zinsen, Erbschaft,<lb/>
+bei Begünstigung des 13. und 14. Monatsbezuges, die Einheitswerte<lb/>
+für die Einfamilienhäuser usw. heraus und erklärt, dies sei<lb/>
+die Steuerkonzeption von <name type="person" ref="per:97311">Androsch</name>. <name type="person" ref="per:97356">Blecha</name> hat diesbezüglich<lb/>
+<name type="person" ref="per:97311">Androsch</name> scheinbar entsprechende Vorwürfe gemacht. <name type="person" ref="per:110923">Lanc</name><lb/>
+erklärte, dass auch im Wiener Ausschuss, ich war leider nicht<lb/>
+mehr dabei, wegen der Ankündigung des 13. u. 14. Monatsbezugs<lb break="no"/>regelungen eine heftige Diskussion entbrannt ist. Glücklich<lb/>
+dürfte heute über dieses Papier, welches nur eine theoretische<lb/>
+Diskussionsgrundlage war, niemand sein.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97444">Fischer</name> erörterte die Donnerstag und Freitag-Parlamentssitzung.<lb/>
+Da am Donnerstag der Auflösungsantrag, die Wahlrechtsreform<lb/>
+und die Finanzgesetze zur Diskussion stehen, ist nicht damit<lb/>
+zu rechnen, dass bei Beginn des Opernballes das Parlament zu<lb/>
+Ende ist. Ich bin allerdings fest davon überzeugt, dass – nachdem<lb/>
+es eine lange Diskussion gegeben hat, wer gehen kann und wer<lb/>
+nicht – es sehr wohl zu einem verhältnismässig zeitgerechten<lb/>
+Ende für die Mitglieder der Bundesregierung und Abgeordneten<lb/>
+kommen wird, die letzten Endes dann doch auf den Opernball gehen<lb/>
+wollen. Alle haben dort gesagt, dass es für sie eine lästige<lb/>
+Verpflichtung ist, zu gehen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:98063">Weissenberg</name> berichtete über die Beschäftigungssituation Mitte<lb/>
+Feber, es sind nur einige hunderte als Mehrarbeitslose Ende<lb/>
+Jänner zu verzeichnen und wir liegen noch immer unter der<lb/>
+100.000-Grenze. Die Volkspartei hatte einmal schon 134.000<lb/>
+zu diesem Zeitpunkt. Mit den Sozialpartnern hat es eine Aussprache<lb/>
+über die Arbeiterabfertigung gegeben, es konnte keine Einigung<lb/>
+erzielt werden. Der ÖGB wird aber im Unterausschuss anstelle<lb/>
+der Halbjahresetappen ein Jahresetappenplan präsentieren,<lb/>
+der 5 Jahre dauern wird anstelle der 3 1/2 Jahre, die <name type="person" ref="per:98063">Weissen<lb break="no"/>berg</name> vorgesehen hat. Ausserdem soll die erste Etappe nicht<lb/>
+1.7.1979 sondern erst mit 1.1.1980 fällig werden. Dafür ist<lb/>
+<pb n="47-0226" facs="47_1979-02-19_0226.jpg"/>beabsichtigt, nicht 15 % sondern 20 % der Abfertigung in<lb/>
+den Etappen festzulegen. Für die Kleinbetriebe soll ein<lb/>
+5-jähriges zinsfreies Darlehen aus dem Insolvenzenfonds<lb/>
+zur Verfügung gestellt werden.<lb/>
+</p>
+            <p xml:space="preserve">Staatssekretär <name type="person" ref="per:97614">Karl</name> ersuchte die Ressortchefs, die verlangten<lb/>
+Familienleistungen der einzelnen Ministerien so schnell als<lb/>
+möglich ihr zur Verfügung zu stellen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Bitte kümmere Dich um diese Frage.<lb/>
+</p>
+            <p xml:space="preserve">Das Essen für den Bundespräsidenten in der Hofburg dauerte die<lb/>
+übliche Zeit, für mich viel zu lange. Überraschend für mich<lb/>
+war, dass von der Regierung nur <name type="person" ref="per:97668">Kreisky</name>, <name type="person" ref="per:97442">Firnberg</name>, <name type="person" ref="per:97511">Haiden</name> und<lb/>
+ich anwesend waren. Hier hat das Protokoll meiner Meinung<lb/>
+nach ganz schön versagt. Wenn ich bedenke, wie oft bei anderen<lb/>
+ostdeutschen Staatshäuptern wesentlich mehr Regierungsmitglieder<lb/>
+anwesend sind, so ist das wirklich nur die gute Beziehung<lb/>
+zur Bundesrepublik, dass <name type="person" ref="per:97910">Scheel</name> darüber nicht ein wenig enttäuscht<lb/>
+ist. Vielleicht ist er es auch und man hat es bis jetzt noch<lb/>
+nicht erfahren. Das Protokoll muss aber in dieser Beziehung<lb/>
+überhaupt versagt haben, denn der deutsche Botschafter <name type="person" ref="per:116687">Grabert</name><lb/>
+hat mir vertraulichst mitgeteilt, dass das österr. Protokoll<lb/>
+mich vergessen hatte, mich für das Essen vorzuschlagen.<lb/>
+Darüber war ich sehr glücklich und habe daher <name type="person" ref="per:116687">Grabert</name> erklärt,<lb/>
+dass ich Dienstag wirklich nicht daran teilnehmen könnte.<lb/>
+Mit dem Protokoll gibt es also scheinbar auch in anderen<lb/>
+Ministerien immer grosse Probleme.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="47_0219_07" facs="47_1979-02-19_0219-07.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 19.2.1979</head>
+         </div>
+      </back>
+   </text>
+</TEI>

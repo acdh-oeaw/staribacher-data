@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Donnerstag, der  3. Oktober 1974</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band22_1974-10-03</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1974-10-03">Donnerstag, 3. Oktober 1974</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2017-01-18">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band22/">
+      <body>
+         <pb n="22-1180" facs="22_1974-10-03_1180.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Donnerstag, 3. Oktober 1974</p><p xml:space="preserve">Die ersten 3 Telegramme wegen Zuckerknappheit sind eingelangt.<lb/>
+Die Zuckerindustrie, einzelne Fabriken haben ihren Abnehmern mit<lb break="no"/>geteilt, daß sie die letzten Auslieferungen durchführen. Darauf<lb/>
+kamen aus verschiedenen Ländern die ersten Telegramme mit Hilferufen.<lb/>
+Ich hatte keine andere Möglichkeit, als sie an den Fachverband der<lb/>
+Zuckerindustrie zu verweisen, Gleichzeitig schrieb ich einen Brief<lb/>
+an den Fachverband, wo ich verlangte, ähnlich wie bei der Zentral<lb break="no"/>stelle für Heizöl, daß man versucht, einen internen Ausgleich zu<lb/>
+erreichen. Die Zuckerindustrie besitzt auf Grund ihrer computer<lb break="no"/>mäßigen Abrechnung und Verteilung die beste Übersicht, wo eventuell<lb/>
+größere Zuckermengen lagern. Leider hat sie verabsäumt, vor etlichen<lb/>
+Wochen bereits entsprechende Kürzungen der starken Anforderung von<lb/>
+einzelnen Firmen durchzuführen. Eine Firma wollte Einfuhrgenehmigung<lb/>
+von holländischem Zucker. Ich habe sofort mitgeteilt, daß diese ohne<lb/>
+weiteres von mir gegeben wird. In der nächsten Zeit wird ein größerer<lb/>
+Run entstehen und es wird wegen des Zuckers zu einem – ich fürchte –<lb/>
+grossen Pallawatsch kommen. Ich verstehe nicht, warum die Zuckerindustrie<lb/>
+nicht schon längst die Rübenkampagne eingeleitet hat. Bis jetzt hat<lb/>
+sie behauptet, daß infolge der Trockenheit der Felder eine Ausnahme<lb/>
+der Rübe nicht möglich ist. Durch den Regen der letzten Tage wäre<lb/>
+aber ein Beginn der Kampagne doch jetzt schon möglich. Natürlich<lb/>
+würde dadurch eine gewisse Quantität von Zucker, die ja jetzt gerade<lb/>
+durch die schönen Tage von der Rübe noch aufgebaut wird, verloren<lb/>
+gehen. Trotzdem steht es in gar keinem Verhältnis zu dem Wirbel, der<lb/>
+jetzt entstehen wird. Ich fürchte das Ärgste, insbesondere im Hin<lb break="no"/>blick auf den Landtagswahlkampf in Vorarlberg und der Steiermark.<lb/>
+<name type="person" ref="per:97346">Benya</name> hat mich in der Fraktion ausdrücklich ersucht, ich sollte in der<lb/>
+Öffentlichkeit nicht über die Zuckerversorgung reden und wenn ich<lb/>
+gefragt würde, meinte er sogar, sollte ich lügen, damit ja nicht die<lb break="no"/>selbe Situation entsteht wie seinerzeit bei der Ölreduktion und Benzin<lb break="no"/>knappheit am Samstag, Sonntag. <name type="person" ref="per:97668">Kreisky</name> war bei dieser Aussprache eben<lb break="no"/>falls anwesend, sodaß ich theoretisch abgedeckt bin. Trotzdem hilft<lb/>
+mir dies sehr wenig, denn die Überraschung wird kommen und letzten<lb/>
+Endes werde ich dann dafür als Verantwortlicher, obwohl die Bewirt<lb break="no"/>schaftung und Verteilung sowie die Erzeugung bei <name type="person" ref="per:98055">Weihs</name> liegt, verant<lb break="no"/>wortlich gemacht werden. Ich habe die Adressen, wo in letzter Zeit<lb/>
+größere Lager von Zucker festgestellt wurden, sofort dem Insp. <name type="person" ref="per:111706">Müller</name> <add>[evtl. Falschidentifikation, Anm.]</add><lb/>
+<pb n="22-1181" facs="22_1974-10-03_1181.jpg"/>bei uns im Haus, Abt. <name type="person" ref="per:111737">Marsch</name> weitergegeben, damit dort entsprechende<lb/>
+Kontrollen durchgeführt werden.</p><p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:98040">WAIS</name>: Bitte versuche, einen entsprechenden Bericht so<lb/>
+schnell als möglich zu erreichen.</p><p xml:space="preserve">Wegen der Energiesparmaßnahmen hat mir <name type="person" ref="per:107937">Frank</name> vorgeschlagen, sollten<lb/>
+wir ein Komitee einsetzen. Er selbst hat Prof. <name type="person" ref="per:97762">Musil</name>, der bereits<lb/>
+in Pension ist, aber ein anerkannter Energiefachmann, vorgeschlagen.<lb/>
+Ich habe mich sofort telefonisch mit ihm ins Einvernehmen gesetzt<lb/>
+und <name type="person" ref="per:97762">Musil</name> erklärte sich bereit nach Rückkehr von seiner Kur in<lb/>
+Meran, spätestens also am 22. Oktober, einen solchen Komitee vorzu<lb break="no"/>sitzen. In der Zwischenzeit wird <name type="person" ref="per:107937">Frank</name>, den ich davon verständigte,<lb/>
+die Institutionen einladen. <name type="person" ref="per:97668">Kreisky</name> selbst hatte seine Ankündigung<lb/>
+wahr gemacht und die Werbefirma Lintas mit einer Inseratenkampagne<lb/>
+von 4.6 Millionen Schilling beauftragt. Die Inserate werden kaum<lb/>
+irgend welche energiesparende Maßnahmen aufzählen, die nicht sowie<lb break="no"/>so jeder kennt und wahrscheinlich aber sich eben kaum daran hält.<lb/>
+Angeblich wollte das Bundeskanzleramt dann noch um 1.4 Millionen<lb/>
+Schilling eine Plakataktion starten. Dafür hat der Vertreter des<lb/>
+Finanzministeriums aber noch nicht seine Zustimmung gegeben.</p><p xml:space="preserve">Direkter <name type="person" ref="per:97518">Haschek</name> und <name type="person" ref="per:111755">Castellez</name> von der Österreichischen Kontrollbank<lb/>
+kommen, um mir zu erklären, sie könnten unmöglich eine Finanzierung<lb/>
+des Algerienprojekts in Angriff nehmen. Insbesondere <name type="person" ref="per:111755">Castellez</name><lb/>
+meint, man sollte ganz brutal das ganze Projekt fallen lassen. Ich<lb/>
+teile diese Meinung aus verschiedenen Gründen nicht. Erstens glaube<lb/>
+ich, daß wir die 2 Milliarden Kubikmeter dringend brauchen. Zweitens<lb/>
+bin ich überzeugt, daß wir, wenn wir schon nicht die Finanzierung<lb/>
+für die gesamten 2 Milliarden aufbringen, so wenigsten einen Teil<lb/>
+dieser Menge versuchen müssen zu retten. Drittens gibt es doch<lb/>
+innerhalb des algerisch-sowjetischen Gasabtausches einen gewissen<lb/>
+betriebswirtschaftlichen Vorteil. Die Franzosen werden unter allen<lb/>
+Umständen die Mengen von Algeriengas beziehen und ich kann mir nicht<lb/>
+vorstellen, daß es dann keine Konstruktion geben sollte, wonach wir<lb/>
+das französische-sowjetische Gas, welches über die TAG von der<lb/>
+Sowjetunion durch Österreich geleitet werden sollte, nicht doch in<lb/>
+Österreich behalten können und gleichzeitig eben mit den Franzosen<lb/>
+ein Arrangement finden, wonach sie unsere zusätzlichen Algeriengas<lb break="no"/>mengen verwerten. Natürlich würde auch dies einen finanziellen Beitrag<lb/>
+<pb n="22-1182" facs="22_1974-10-03_1182.jpg"/>Österreichs bedeuten, aber ich glaube daß wir hier eine Lösung<lb/>
+eher finden können, als wenn wir jetzt erklären, die Finanzierung<lb/>
+der MOKA der Verflüssigung in Monfalcone ist unmöglich, weshalb wir<lb/>
+auf alles verzichten, wissen daß wir dieses Gas tatsächlich dringend<lb/>
+brauchen. Zu meiner grössten Verwunderung hat übrigens jetzt bereits<lb/>
+die Intervention der ausländischen Partner im Konsortium eingesetzt.<lb/>
+Der österreichische Botschafter in Paris wurde bereits zu einer<lb/>
+Demarche ins Außenministerium vorgeladen, wo man ihm die größte<lb/>
+Besorgnis wegen der Zeitungsnachricht mitteilte. Darüber hinaus<lb/>
+haben sich die Partner bereits an die <choice><choice><sic>Austro-Ferngas</sic><corr>Austria Ferngas</corr></choice></choice> gewendet und<lb/>
+unverzügliche Aufklärung verlangt. Gleichzeitig wurde angedroht, daß<lb/>
+entsprechende finanzielle Maßnahmen zu erwarten seien. Ich weiß<lb/>
+nicht, wie weit Austro-Ferngas sich eben jetzt schon durch entsprechende<lb/>
+Verträge oder Vorverträge oder Absichtserklärungen so gebunden hat,<lb/>
+daß tatsächlich dann eine gewisse Haftung entstehen kann. Die Ar<lb break="no"/>gumentation, daß die anderen Partner froh wären, wenn die Austro-<lb/>
+Ferngas ihre Gasmengen abtritt, dürfte also nicht ganz stimmen. Hier<lb/>
+hat Austro-Ferngas entweder nicht die ganze Wahrheit gesagt, oder<lb/>
+selbst die Situation überschätzt. <name type="person" ref="per:97518">Haschek</name> teilte mit, daß die Österr.<lb/>
+Nationalbank ihnen für dieses Projekt nur 1 Milliarde Kassascheine<lb/>
+für 1 Jahr, d.h. bis Ende 1975 zur Verfügung gestellt hat. Sollte eine<lb/>
+andere Finanzierung in der Zwischenzeit möglich sein, müssten sie<lb/>
+diese Kassascheine sofort zurückgeben. Der Zinssatz, angeblich 5.5%<lb/>
+plus die Mindestreserven, wäre also in Summa 6.5% gewesen. Sie selbst<lb/>
+benötigen aber 6 Milliarden für 15 Jahre, woraus sich ergibt, daß sie<lb/>
+die Finanztransaktion unter diesen Bedingungen unter gar keinen Um<lb break="no"/>ständen in Angriff nehmen können.</p><p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:97469">GEHART</name>: Unsere Aufgabe ist vom energiewirtschaftlichen<lb/>
+Standpunkt das Projekt weiter zu vertreten. Vielleicht findet jemand<lb/>
+anderer den finanziellen Ausweg.</p><p xml:space="preserve"><name type="person" ref="per:97584">Jagoda</name> und <name type="person" ref="per:110035">Thun-Hohenstein</name> machten mir den Vorschlag für die neuen<lb/>
+Wirtschaftstreuhänder-Tarife. Die Arbeiterkammer, aber auch die<lb/>
+Handelskammer hatten den ursprünglichen Wunsch der Wirtschaftstreu<lb break="no"/>händer abgelehnt. Ich empfahl deshalb <name type="person" ref="per:110035">Hohenstein</name> sich sofort mit<lb/>
+der Arbeiterkammer, Dr. <name type="person" ref="per:98112">Zöllner</name>, und auch mit der Handelskammer neuer<lb break="no"/>dings in Verbindung zu setzen. Ich möchte unbedingt erreichen, daß<lb/>
+man auch bei dieser Tariferstellung die Zustimmung der Arbeiterkammer<lb/>
+und der Handelskammer erhält. Da ich montags die betriebswirtschaftliche<lb/>
+<pb n="22-1183" facs="22_1974-10-03_1183.jpg"/>Woche eröffnen soll, habe ich gehofft daß bis dahin der Tarif<lb/>
+bereits fertig ist. Ich habe <name type="person" ref="per:98112">Zöllner</name> bereits erklärt, wie schwierig<lb/>
+die Situation ist, da ich ja den Tarif nicht zu gestalten habe,<lb/>
+sondern eigentlich nur einen Tarifantrag entweder genehmigen oder<lb/>
+ablehnen kann. Ich muss deshalb zu einer Lösung kommen, wonach die<lb/>
+Wirtschaftstreuhänder mir einen auch für die Arbeiterkammer akzeptablen<lb/>
+Vorschlag machen.</p><p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:98053">WANKE</name>: Bitte <name type="person" ref="per:98112">Zöllner</name> unverzüglich informieren.</p><p xml:space="preserve"><name type="person" ref="per:97584">Jagoda</name> erklärte ich dann unter Anwesenheit von <name type="person" ref="per:98040">Wais</name>, daß ich die<lb/>
+weitere Vorgangsweise über Erstellung eines neuen Preisgesetzes<lb/>
+nicht beeinflussen möchte, aber andererseits auch nicht damit den<lb/>
+Entwurf als einen Ministerentwurf bereits jetzt belastet werden<lb/>
+möchte. Da ich unbedingt abwarten muß, wie die Verhandlungen über<lb/>
+die Marktordnungsgesetze laufen, sehe ich keine Möglichkeit, jetzt<lb/>
+bereits in der Öffentlichkeit den neuen Entwurf über das Preisrecht<lb/>
+zu veröffentlichen und zu vertreten. <name type="person" ref="per:97584">Jagoda</name> war sofort einverstanden,<lb/>
+daß er jetzt noch versucht, mit den Mitarbeitern MR <name type="person" ref="per:112051">Singer</name> und <name type="person" ref="per:140835">Degen</name><lb/>
+etc., auf alle Fälle von seiner Abteilung für Gewerberecht, eine<lb/>
+endgültige Fassung zu erarbeiten und dann diesen Entwurf in die<lb/>
+Schublade zu legen. Ich bin nach wie vor überzeugt, daß aus irgendwelchen<lb/>
+Kanälen auch dieser Entwurf dann in der Handelskammer resp. ÖVP be<lb break="no"/>kannt wird. Da die rechtliche Koordination bereits in ihren Bericht<lb/>
+mitgeteilt hat, daß an einem solchen Entwurf gearbeitet wird, bin ich<lb/>
+überzeugt, wird die ÖVP auch Mittel und Wege finden, zu einem solchen<lb/>
+Entwurf zu kommen. <name type="person" ref="per:98053">Wanke</name> selbst wird die Arbeiterkammer und den<lb/>
+Gewerkschaftsbund ebenfalls unter der Hand verständigen. Damit ist<lb/>
+allgemein bekannt, daß ein solcher Entwurf bei mir existiert, aller<lb break="no"/>dings noch nicht ausgesendet wird, wahrscheinlich auch gar nicht zur<lb/>
+Aussendung kommt. Meine Absicht ist nur, wenn die Preisfrage einmal<lb/>
+in der politischen Debatte zur Sprache kommt, daß ich jederzeit<lb/>
+einen solchen Entwurf präsentieren kann. Ich will zum jetzigen Zeit<lb break="no"/>punkt unter gar keinen Umständen initiativ sein.</p><p xml:space="preserve"><name type="person" ref="per:97337">Bauer</name> erklärte mir, daß er unter allen Umständen an der Versorgung<lb/>
+Österreichs mit Irangas nicht nur interessiert sei, sondern festhalte,<lb/>
+weil er entgegen Zeitungsmeldungen, wonach die ÖMV keine Chancen sieht,<lb/>
+die angeblich sogar selbst von der ÖMV stammen, dagegen auftreten wird.<lb/>
+Scheinbar hat die ÖMV doch bessere Möglichkeiten, ihre Gasbezüge zu<lb/>
+finanzieren. Auch das verhältnismäßig teure Projekt von iranischen Gas<lb/>
+<pb n="22-1184" facs="22_1974-10-03_1184.jpg"/>nach Österreich kann entweder über eine Pipeline, die auf alle<lb/>
+Fälle der Schah bauen wird, oder über eine Verflüssigungsanlage<lb/>
+nach Europa gebracht werden. Der Schah dürfte auch mehr Geld haben,<lb/>
+um die Finanzierung einigermassen zu sichern. Ebenso ist es der<lb/>
+Kontrollbank mehr oder minder gelungen, für die zusätzlichen Gas<lb break="no"/>mengen von 500 Millionen Kubikmeter aus der Sowjetunion ein<lb/>
+Finanzierungskonzept zu entwickeln. Da als Gegenlieferung 200.000<lb/>
+Tonnen Rohre, für 1.180 Schilling die Tonne, geliefert werden müssen,<lb/>
+dafür ein 5-Jahres-Kredit mit 2-jähriger Laufzeit, Beginn nach Aus<lb break="no"/>lieferung, also insgesamt 7 Jahre notwendig sind, ergibt sich nach<lb/>
+Mitteilung von <name type="person" ref="per:97518">Haschek</name> eine durchschnittliche Laufzeit von 3 1/2<lb/>
+Jahren, mit einem Höchstfinanzierungsausmaß von 800 Millionen Schil<lb break="no"/>ling um 6.5%. Die Russen wollten ursprünglich nur 6% bezahlen und<lb/>
+sogar noch eine Zukaufsmöglichkeit in Italien von den zur Verfügung<lb/>
+zu stellenden 130 Millionen Dollar-Kredit. Dieser 130 Millionen<lb/>
+Dollar-Kredit würde zwar ca 2 Milliarden Schilling ausmachen, doch<lb/>
+werden bereits die ersten 10 Millionen Dollar nach ganz kurzer Lauf<lb break="no"/>zeit wieder zurückgezahlt, sodaß eben tatsächlich nur im Höchst<lb break="no"/>ausmass 800 Millionen Schilling Kreditbelastung entstehen. Auf alle<lb/>
+Fälle werden wir aber mit den 500 Millionen Kubikmeter sowjetisches<lb/>
+Erdgas auch nicht unser Auslangen finden können. Auch hier werde<lb/>
+ich mich weiter bemühen, eine grössere Menge sowjetisches Erdgas<lb/>
+zusätzlich zu bekommen. Die Finanzierung dürfte hier ungleich leichter<lb/>
+sein als beim algerischen, ja vielleicht als beim iranischen Gas.</p><p xml:space="preserve">Die Passagendiskussion im AEZ war diesmal ausgesprochen harmlos.<lb/>
+Gerade im Hinblick auf die Wahlen im nächsten Jahr muss ich diese<lb/>
+Passagendiskussionen jetzt regelmässiger veranstalten.</p><p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:98072">WIESINGER</name>: Bitte entsprechende Termine mit <name type="person" ref="per:112986">Weisbier</name><lb/>
+Junge Generation vereinbaren.</p><p xml:space="preserve">Bei der Wahlmitarbeiterveranstaltung in Hübners Kursalon von der<lb/>
+Wiener Partei hat mich <name type="person" ref="per:97488">Gratz</name> ersucht, ich sollte ihn wegen der<lb/>
+Wiener Anliegen mehr unterstützen. Er selbst hat das Gefühl, daß<lb/>
+noch immer für die anderen Bundesländer mehr getan wird als für<lb/>
+Wien. Da in meinem Ressort ja kaum irgendwelche Differenzen zwischen<lb/>
+Wien und den Handelsministerium bestehen, alle Aktionen, die laufen,<lb/>
+können natürlich genauso gut von Wiener Betrieben in Anspruch genommen<lb/>
+werden, habe ich diese Aussprache mehr dahingehend verstanden, daß<lb/>
+<name type="person" ref="per:97488">Gratz</name> mich darauf aufmerksam machen will, daß er in der nächsten Zeit<lb/>
+<pb n="22-1185" facs="22_1974-10-03_1185.jpg"/>von der Bundesregierung jetzt mehr Unterstützung erwartet. Sein<lb/>
+Hinweis vor längerer Zeit, daß die Wiener Betriebe mit der ERP-Zu<lb break="no"/>teilung benachteiligt werden, konnte ich ihm damals schon ent<lb break="no"/>kräften, weil eben die Wiener Betriebe sich nicht um entsprechende<lb/>
+Kredite bemüht haben. Jetzt gibt <name type="person" ref="per:97488">Gratz</name> zu, dass dies tatsächlich<lb/>
+verabsäumt wurde. Grössere Sorge macht ihm, daß über das Wiener<lb/>
+Memorandum keinerlei Fortschritt zu erzielen ist. Mein Tip war,<lb/>
+er muss halt immer wieder bei <name type="person" ref="per:97668">Kreisky</name> Aussprachen verlangen, und<lb/>
+den Ministern so lange zusetzen, oder wie ich sagte, auf den Wecker<lb/>
+gehen, bis diese eben bereit sind, entsprechende Maßnahmen zu setzen.<lb/>
+<name type="person" ref="per:113043">Pfoch</name> erklärte mit Recht, daß <name type="person" ref="per:97755">Moser</name> z.B. für den Verkauf eines Grund<lb break="no"/>stückes in der Ottakringer Straße eine Weisung gegeben hat und die<lb/>
+Beamten von <name type="person" ref="per:97755">Moser</name> jetzt diese Weisung so durchführen wollen, daß sie<lb/>
+gleichzeitig einen anderen Grund für das <choice><choice><sic>Bundeskommissariat</sic><corr>Bundespolizeikommissariat?</corr></choice></choice> Ottakring<lb/>
+verlangen. <name type="person" ref="per:113043">Pfoch</name> sagt nun, die Polizei ist mit ihren Kommissariat dzt.<lb/>
+in einer Schule, d.h. also auch eigentlich in einem Wiener Gebäude und<lb/>
+wird auf alle Fälle, wenn das Kommissariat neu gebaut wird, einen<lb/>
+entsprechenden Grund von der Gemeinde zur Verfügung gestellt bekommen.<lb/>
+<name type="person" ref="per:113043">Pfoch</name> gab zu, daß jetzt die Beamten ärgere Grundmakler, Täuschler und<lb/>
+Verhandler sind, wie die besten oder schlechtesten Makler, die wir<lb/>
+in Österreich haben. Auf dieser Basis fürchte er, wird es niemals zu<lb/>
+einer vernünftigen Regelung für die Gemeinde Wien kommen. Ich persönlich<lb/>
+bin sehr froh, daß in meinem Ressort kaum irgend welche Agenden sind,<lb/>
+wo ich mit der Gemeinde Wien in Kollision kommen könnte. <name type="person" ref="per:97488">Gratz</name> macht<lb/>
+sich wirklich wegen der wirtschaftlichen Entwicklung von Wien größere<lb/>
+Sorgen und überlegt wie er dies ändern kann.</p><p xml:space="preserve">Mit <name type="person" ref="per:97488">Gratz</name>, aber dann ganz besonders mit <name type="person" ref="per:97772">Nekula</name> besprach ich die nächsten<lb/>
+zu erwartenden Tariferhöhungen. Bezüglich Strom ließ ich keinen<lb/>
+Zweifel, daß ich mir nicht vorstellen kann, daß wir vor der nächsten<lb/>
+Nationalratswahl eine Stromtariferhöhung durchführen. Wohl aber<lb/>
+muß ich zugeben, dass bei den Gastarifen in der nächsten Zeit sicherlich<lb/>
+etwas kommen wird. Die Sowjets haben über die ÖMV bereits angekündigt,<lb/>
+daß sie einen entsprechend höheren Gaspreis verlangen. Dies wird be<lb break="no"/>deuten, daß auch die ÖMV ihre 5%-Klausel für die inländische Produktion<lb/>
+aber ganz besonders natürlich für die Zukaufsmenge aus der Sowjetunion,<lb/>
+sehr bald den Wiener Stadtwerken verrechnen wird. In diesen Moment<lb/>
+stehe ich auf den Standpunkt, muß sofort der Antrag von seiten des<lb/>
+Gaswerkes kommen. Die Öffentlichkeit muß deutlich sichtbar darauf<lb/>
+aufmerksam gemacht werden, daß sich eben aus der Gasverteuerung<lb/>
+<pb n="22-1186" facs="22_1974-10-03_1186.jpg"/>durch die Sowjetunion eine entsprechende Erhöhung des Gaspreises<lb/>
+ergibt. Da <name type="person" ref="per:97772">Nekula</name> mir jetzt schon versichert, daß er alle Kosten<lb/>
+in die Erhöhung einrechnen und einbauen wird, habe ich dann einen<lb/>
+gewissen Spielraum, eine entsprechende Kürzung vorzunehmen. Die<lb/>
+Preisentwicklung wird in der nächsten Zeit sehr unangenehm werden.</p></div>
+      </body>
+      <back>
+         <pb n="22_1179_01" facs="22_1974-10-03_1179-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 3.10.1974</head>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+   </text>
+</TEI>

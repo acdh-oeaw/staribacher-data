@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittwoch, der 16. Dezember 1970</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band03_1970-12-16</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1970-12-16">Mittwoch, 16. Dezember 1970</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-04-28">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-02-27" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+  <text xml:base="http://192.168.0.9/staribacher/src/scans/Band03/">
+      <body>
+         <pb n="03-0921" facs="03_1970-12-16_0921.jpg"/>
+         <div type="entry">
+            <dateline>
+               <date when="1970-12-16">Mittwoch, 16. Dezember 1970</date>
+            </dateline>
+            <p xml:space="preserve">Die Oberste Bergbehörde hatte die Berghauptleute zu einer Be<lb break="no"/>sprechung über das neue Berggesetz nach Wien geladen. Ich war<lb/>
+brennend daran interessiert, die Berghauptleute kennenzulernen.<lb/>
+Deshalb ist Min.Rat <name type="person" ref="per:97467">Gasser</name> mit ihnen um 9 Uhr mit ihnen bei mir<lb/>
+im Parlament aufgekreuzt. Ich hatte allerdings die Absicht, nicht<lb/>
+nur den Berghauptleuten vorgestellt zu werden, sondern natürlich<lb/>
+auch die Diskussion, die sich auf Grund des neuen Berggesetzentwurfes<lb/>
+ergeben würde, mitanzuhören. Zu meiner grössten Verwunderung hatte<lb/>
+<name type="person" ref="per:97467">Gasser</name> aber nur vorgesehen, dass die Berghauptleute mir vorge<lb break="no"/>stellt werden. Ich versuchte daher unverzüglich die anderen Kolle<lb break="no"/>ginnen und Kollegen von der OB, die an der Besprechung teilnehmen<lb/>
+sollten, ins Parlament zu kommen. Die Zwischenzeit benutzte ich, um<lb/>
+mir von den Berghauptleuten ihre einzelnen Revieren Bericht erstat<lb break="no"/>ten zu lassen. Dabei stellte sich heraus, dass ich richtig ge<lb break="no"/>tippt hatte, der Wiener Berghauptmann <name type="person">Bornshold</name> war scheinbar der<lb/>
+aktivste. Bei der Barbara-Feier hatte er sich bereits dadurch bei<lb/>
+mir gut eingeführt, dass er z.B. mir erklärte, er sei gegen ein<lb/>
+Ausgiessen einer Sonde, die ÖMV hat in Laxenburg eine Sonde geteuft,<lb/>
+und war nicht auf Öl, dafür aber auch auf schwedelhaltiges warmes<lb/>
+Wasser gestossen. Dieses Wasser hätte oder kann eine Konkurrenz<lb/>
+gegen Baden sein und letzten Endes auch gegen die Wiener Schwefel<lb break="no"/>quelle in Oberlaa, sodass sich das Land Niederösterreich mit der<lb/>
+Badner Gemeinde aber auch die Gemeinde Wien gegen die Ausbeutung<lb/>
+dieser Quelle ausspricht. Niemand will sie sozusagen haben, die ÖMV<lb/>
+aber muss, um die Aufwendungen für diese Bohrungen in denen sie<lb/>
+nicht ölfündig wurde, abschreiben zu können, eine Bestätigung von der<lb/>
+Bergbehörde haben, dass sie zugeschüttet werden darf und wird. Der<lb/>
+Berghauptmann meinte nun, dies sei ein Wahnsinn und hat deshalb<lb/>
+eine solche Bestätigung auch noch nicht gegeben. Die Bohrung<lb/>
+nämlich ist total verrohrt, d.h. sie könnte jetzt einmal, auf<lb/>
+Jahrzehnte hindurch, ohne ausgebeutet zu werden, stilliegen. In<lb/>
+Güssing, das auch zu seinem Revier gehört hat er nun seine Spione<lb/>
+ausgeschickt, um zu erfahren, warum und in welchem Ausmass die<lb/>
+Ungarn 150 m von der österr. Grenze entfernt Öl gebohrt haben und<lb/>
+ob sie fündig wurden. Er teilte mir nun mit, dass tatsächlich die<lb/>
+<pb n="03-0922" facs="03_1970-12-16_0922.jpg"/>Ungarn auf einen bedeutenden Vorrat gestossen sind. Derzeit werden<lb/>
+angeblich 150 t Tagesmenge gewonnen. Dies ist eine sehr fündige<lb/>
+Bohrung, da nur ganz wenige Bohrlöcher bei uns eine solche Tages<lb break="no"/>menge tatsächlich erbringen. Die Firma Brisok und Co KG in Wien,<lb/>
+dessen Vertreter ich bei der Barbarafeier kennenlernte, bohrt nun<lb/>
+tatsächlich in vielen österreichischen Gegenden und forscht nach<lb/>
+Uran. So sollen in der Horner-Gegend, im Mürztal, in der Mandling<lb/>
+und in Birkfeld Rettenegg tatsächlich Vorkommen festgestellt worden<lb/>
+sein. Ob sie abbauwürdig sind, ist natürlich eine zweite Frage.<lb/>
+Auch in Salzburg hoffen die Mitterberger, dass die Pechblende, die<lb/>
+sie auf den Halden festgestellt haben, zu einem positiven Ergebnis<lb/>
+kommen würde, d.h. mit anderen Worten, dass man in Mitterberg an<lb/>
+Stelle von Kupfer in Zukunft Uran gewinnen könnte. In Tirol<lb/>
+hat in Fieberbrunn ein Gastwirt 15 Freischürfe, insgesamt sollen<lb/>
+470 Freischürfe auf Uran in Tirol ausgestellt sein, 15 Freischürfe<lb/>
+nun hat ein gewisser <name type="person" ref="per:146984">Lechner</name> an der Prof. <name type="person" ref="per:149297">Schulz</name> von der Innsbrucker<lb/>
+Universität , ein Geologe und Mineraloge, angeboten. Nun soll eine<lb/>
+BRD-Firma namens Lingen eine Schacht und Tiefbohrgesellschaft , sich<lb/>
+für diese Freischürfe interessieren. Mit Zustimmung des Landes<lb break="no"/>hauptmanns von Tirol wird derzeit im Pitztal nach Kupfer ebenfalls<lb/>
+von einer deutschen Firma gesucht. Der Kärntner Berghauptmann erzählte<lb/>
+dass in Hüttenberg der eine Stollen, wo Erz gewonnen wird, ziemlich<lb/>
+bald ausgebeutet sein wird.Er hätte aber die freudige Nachricht ge<lb break="no"/>hört, dass <name type="person" ref="per:98034">Veselsky</name> als er bei der Barbarafeier in Kärnten war,<lb/>
+den Kärntnern mitteilte, es wird ein neuer Stollen aufgefahren. Die<lb/>
+Qualität des neuen Erzes wird so schlecht sein wie das alte, näm<lb break="no"/>lich nur 36 % Erzgehalt, wobei noch 3 % Mangananteil dazukommt, für<lb/>
+das LD-Verfahren ist das Mangan ausgesprochen ungünstig. Es kann nur<lb/>
+im Siemens-Martin-Verfahren verwendet werden. Die Alpine wird den<lb/>
+Stollen auffahren , obwohl sie damit eine neue Defizitquelle sich<lb/>
+erschliesst. Nach Mitteilung von <name type="person" ref="per:98034">Veselsky</name>, den ich fragte, ob dies<lb/>
+tatsächlich beabsichtigt ist, wird der Verlust ca. 3 Mill. S pro<lb/>
+Jahr präliminiert. <name type="person" ref="per:97311">Androsch</name> war von dieser Mitteilung sehr erschüt<lb break="no"/>tert. <name type="person" ref="per:98034">Veselsky</name> hat dann allerdings zugegeben, dass die Kärntner<lb/>
+den Bundeskanzler und auch den Präsidenten des Gewerkschaftsbundes<lb/>
+<name type="person" ref="per:97346">Benya</name> für diese Aufschliessung gewonnen hat. Ich habe mit <name type="person" ref="per:97346">Benya</name> ge<lb break="no"/>sprochen und <name type="person" ref="per:97346">Benya</name> meint, es sei den Kärntnern nicht zuzumuten, dass<lb/>
+dort, nachdem jetzt die LAKOG geschlossen wurde, auch noch Hütten<lb break="no"/>berg stillgelegt wird. Man müsste eben für die 360 Beschäftigten ent<lb break="no"/><pb n="03-0923" facs="03_1970-12-16_0923.jpg"/>sprechende Arbeitstherapie vorschlagen. <name type="person" ref="per:137232">Suchanek</name>, der Landeshaupt<lb break="no"/>mannstellvertreter, erklärte zwar bei jeder Gelegenheit, dass sie<lb/>
+keine Arbeitskräfte mehr in Kärnten haben, dann wird trotzdem ein<lb/>
+solcher kostenungünstiger Betrieb weiter fortgeführt und<lb/>
+durch eine neue Stollenanlage für Jahrzehnte mit Defizit belastet.<lb/>
+Bekanntlich will die grösste slowenische Elektrogerätefabrik Goriza<lb/>
+in Kärnten eine Kooperationsfirma mit Ing. <name type="person" ref="per:115647">Heiss</name> schaffen. Die<lb/>
+Kärntner sind angeblich dagegen und verzögern das Zustandekommen<lb/>
+dieses joint <choice><choice><sic>advanger.</sic><corr>venture</corr></choice></choice> Nicht nur vom wirtschaftspolitischen sondern<lb/>
+auch von aussenpolitischen Standpunkte wäre aber ein solches Werk<lb/>
+in Kärnten von ungeheurer Bedeutung. Die Möglichkeit, darauf hin<lb break="no"/>zuweisen, dass Österreich nicht nur dem westlichen Kapital sondern<lb/>
+auch den östlichen Gesellschaften die Möglichkeit gibt, in Öster<lb break="no"/>reich Betriebe zu errichten, dürfte nicht versäumt werden. Angeblich<lb/>
+hat <name type="person" ref="per:97668">Kreisky</name> mit den Kärntner Genossen diesbezüglich sehr ernst gesprochen<lb/>
+und er steht auf dem Standpunkt, unter allen Umständen diesen Betrieb<lb/>
+in Kärnten zu erreichten. Ich werde jede Gelegenheit benützen, um<lb/>
+ebenfalls auf diese Frage hinzuweisen und darauf drängen, dass es<lb/>
+zu einem diesbezüglichen Kooperationsabkommen kommt.</p>
+            <p xml:space="preserve">Mit <name type="person" ref="per:97311">Androsch</name> besprach ich auch noch, ob wir die restlichen 1,5 Mill. S<lb/>
+die uns noch aus der Bergbauförderung Buntmetall und die 1,2 Mill. S<lb/>
+die uns aus der Bergbauförderung Kohle für das Jahr 1970 übrigbleiben<lb/>
+würden, nicht doch der WTK für Kohle und der BBU für Buntmetall ge<lb break="no"/>ben sollten. <name type="person" ref="per:97311">Androsch</name> hat zwar die richtige Einstellung, dass er sagt,<lb/>
+ein Budgetansatz muss ja nicht unbedingt dazu führen, dass das Geld<lb/>
+auch tatsächlich ausgegeben wird. Ich glaube allerdings, dass sowohl<lb/>
+die WTK als auch die Bleiberger in derartig schlechte finanzielle<lb/>
+Situation im nächsten Jahr kommen werden, dass es unzweckmässig wäre,<lb/>
+die vom Parlament genehmigten Budgetansätze nicht voll auszunützen.<lb/>
+Wir kamen deshalb dann auf meinen Vorschlag überein, dass wir der WTK<lb/>
+und der BBU die Ansätze, die uns noch zur Verfügung stehen, aconto<lb/>
+für das nächste Jahr heuer geben sollen. Die aconto-Leitung, die<lb/>
+sie uns schriftlich bestätigen müssen, soll aber nicht so gegeben<lb/>
+werden, dass sie nächstes Jahr dann um diesen Betrag überhaupt weniger<lb/>
+bekommen, sondern es werden nächstes Jahr die Budgetansätze, wie sie<lb/>
+jetzt beschlossen werden, voll ausgeschüttet, die Defizite der beiden<lb/>
+Unternehmungen werden ja wesentlich höher liegen – sollte es dann zu<lb/>
+einem Budgetüberschreitungsgesetz kommen, erst dann würden – da auch<lb/>
+dann die Defizite nicht ganz abgedeckt werden, die aconto-Zahlungen<lb/>
+<pb n="03-0924" facs="03_1970-12-16_0924.jpg"/>aufgerechnet werden. Ich bin sehr froh, dass ich mit <name type="person" ref="per:97311">Androsch</name><lb/>
+diese Lösung gemeinsam erarbeiten konnte. Natürlich seht mir<lb/>
+eigentlich das Anweisungsrecht für die Ansätze glaube ich allein<lb/>
+zu. Trotzdem bin ich bestrebt, mit ihm, auch dann wenn es sich<lb/>
+um unbedeutende Beträge in seinem Gesamtbudgetrahmen handelt,<lb/>
+das Einvernehmen herzustellen, denn es bewährt sich glaube ich<lb/>
+immer wieder, wenn man nicht versucht, den anderen Kollegen nicht<lb/>
+hineinzulegen, davon kann ja keine Rede sein, aber nicht versucht<lb/>
+mit ihm über Fragen, von denen er sich vielleicht bereits irgendwie<lb/>
+festgelegt hat, zu überfahren.</p>
+            <p xml:space="preserve">Das Budgetkapitel Bauten war gegen die Mittagszeit zu Ende und<lb/>
+<name type="person" ref="per:98056">Weikhart</name> sagte mir, ich könnte jetzt einige Stunden in mein Büro<lb/>
+fahren. Zu meiner grössten Verwunderung wurde ich nach ganz kurzer<lb/>
+Zeit von Institut sofort wieder ins Parlament berufen, da die Ab<lb break="no"/>stimmung bevorstand. In Wirklichkeit hatten die grossen Abstimmungs<lb break="no"/>strategen folgenden Plan gehabt. Die ÖVP hatte bereits drei Kontra<lb break="no"/>redner gemeldet und von unserer Seite war überhaupt noch niemand<lb/>
+meldet worden. <name type="person" ref="per:112589"><sic>Zeilinger</sic></name> hat nun die Schnapsidee, er würde ganz<lb/>
+kurz nur sprechen, wenn sich dann kein neuer Redner von der ÖVP<lb/>
+meldet, würde <name type="person" ref="per:97668">Kreisky</name> auf seine Wortmeldung verzichten und man<lb/>
+könnte Schluss der Debatte und Abstimmung damit erreichen. Ich<lb/>
+hielt diese Taktik für vollkommen falsch, denn es würde auf eine<lb/>
+Art Überrumpelung der ÖVP hinauslaufen und ich glaube, dass wir<lb/>
+dann einmal in ähnlicher Situation auch von ihnen entsprechend<lb/>
+überrumpelt werden könnten. Ich glaube, dass alle diese takti<lb break="no"/>sche Mätzchen in einem Parlament nichts zu suchen haben, sondern<lb/>
+dass man natürlich den Gegnern alle Chancen geben muss, seine<lb/>
+Angriffe auf die Regierungspolitik zu starten.</p>
+            <p xml:space="preserve">Der Justizminister teilte mir mit, dass die Verbände der Genossen<lb break="no"/>schaften, sowohl der Konsum wie der landwirtschaftlichen Genossen<lb/>
+schaften und auch der Baugenossenschaften, bei ihm vorgesprochen<lb/>
+haben und eine Änderung des Genossenschaftsgesetzes wünschen.<lb/>
+Insbesondere wollen sie, dass das Nichtmitgliedergeschäft neu<lb/>
+geregelt wird und dass sich Genossenschaften an Kapitalgesell<lb break="no"/>schaften beteiligen dürfen. Nachdem ich <name type="person" ref="per:97372">Broda</name> mitgeteilt hatte,<lb/>
+dass ich dies der Handelskammer sofort mitteilen müsste und er<lb/>
+zustimmte, suchte ich <name type="person" ref="per:97769">Mussil</name> und <name type="person" ref="per:97893">Sallinger</name> zu einem Gespräch in<lb/>
+der ÖVP auf. <name type="person" ref="per:97769">Mussil</name> war sehr erschüttert, dass der Raiffeisen<lb break="no"/><pb n="03-0925" facs="03_1970-12-16_0925.jpg"/>verband Besprechungen über diesen Punkt mit dem Justizministerium<lb/>
+aufgenommen hat. Er war sich allerdings nicht sicher, ob nicht<lb/>
+auch der Schultze-Delitsch, also hier so heisst der Handelskammer<lb break="no"/>verband, bei dieser Besprechung anwesend war. Wie ich nachträglich<lb/>
+feststellen konnte, war dies nicht der Fall. <name type="person" ref="per:97769">Mussil</name> meinte, hier<lb/>
+müsste man innerhalb der ÖVP doch ein ganz ernstes Wort mit <name type="person" ref="per:97743">Minko<lb break="no"/>witsch</name>, er verwendete seinen Vornamen, und mit anderen Herren<lb/>
+reden. Ich erklärte <name type="person" ref="per:97769">Mussil</name>, dass ich einer modernen Genossenschafts<lb break="no"/>novelle nicht entgegentreten würde, sondern ganz im Gegenteil im<lb/>
+Zuge der Gewerbeordnung auch die Genossenschaftsfrage bereinigt<lb/>
+wissen möchte. <name type="person" ref="per:97769">Mussil</name> selbst war mit diesem Vorschlag einverstanden,<lb/>
+wies aber dann darauf hin, daß es sich nicht nur allein um die<lb/>
+Änderung der Gesetzeslage handelt, sondern, daß auch die Frage der<lb/>
+Subvention und der steuerlichen Differenz bereinigt werden müßte.<lb/>
+Betreffend der Subvention wies ich ihm nach, daß ich bereits vor<lb/>
+Wochen den Wirtschaftsminister <name type="person" ref="per:98055">Weihs</name> ersucht hatte, daß wir gemein<lb break="no"/>sam dieses Problem angehen. Bekanntlich habe ich ja mit <name type="person" ref="per:98055">Weihs</name> verein<lb break="no"/>bart, daß sein Sektionschef <name type="person" ref="per:140306">Schratt</name> und mein Sektionschef <name type="person">Habel</name><lb/>
+über dieses Problem Besprechungen aufnehmen sollten. Ich weiß nicht<lb/>
+– fast bin ich überzeugt - daß im Trubel der Ereignisse, und <name type="person">Habel</name><lb/>
+ist ja schon ganz auf Pension eingestellt, es wahrscheinlich noch<lb/>
+nicht zu sehr konkreten Verhandlungen in diesem Punkt gekommen ist.<lb/>
+Ich hoffe daher, daß <name type="person" ref="per:97584">Jagoda</name> dies besser in Angriff nehmen wird. Die<lb/>
+Absicht, die ich bei der Weisung gehabt habe, ist, daß wir genau<lb/>
+untersuchen wollen, wie weit heute die Genossenschaften auf dem<lb/>
+Subventionssektor bevorzugt werden. <name type="person" ref="per:97769">Mussil</name> behauptet, daß sie den<lb/>
+AIK – das heißt den Agrar Investitions Kredit – zu 3 1/2 % bekommen.<lb/>
+<name type="person" ref="per:98055">Weihs</name> sagt, dies gilt nur für Forstbetriebe. <name type="person" ref="per:97769">Mussil</name> sagt weiter,<lb/>
+daß seine Unternehmungen keinerlei Subvention oder Kredite kriegen<lb/>
+und deshalb z.B. nur die landwirtschaftlichen Genossenschaften sich<lb/>
+Silo bauen können und die Kellerei jetzt ausgebaut wird. <name type="person" ref="per:98055">Weihs</name><lb/>
+bestreitet, daß jetzt überhaupt noch für den Silobau größere Mittel<lb/>
+bereitgestellt werden, nur bezüglich der Kellereiausbau legt er<lb/>
+größten Wert darauf, da die Lagerräume als zu klein bei diesen<lb/>
+großen Weinernten empfunden werden und ausgebaut werden müssen. Er<lb/>
+hat mir aber zugesichert, daß auch die privaten Händler entsprechen<lb break="no"/>de Kredite bekommen würden. Ich habe deshalb <name type="person" ref="per:97769">Mussil</name> vorgeschlagen,<lb/>
+er soll mir unverzüglich mitteilen, wo und wann solche Ansuchen<lb/>
+von privaten Firmen abgelehnt wurden. <name type="person" ref="per:97769">Mussil</name> weist noch weiter<lb/>
+darauf hin, daß die Genossenschaften unter dem Titel "Vermarktungs<lb break="no"/><pb n="03-0926" facs="03_1970-12-16_0926.jpg"/>hilfe" Subventionen bekommen, die sie dann in den Ausbau ihrer<lb/>
+Lager hineinstecken. Betreffend die finanziellen Differenzen -<lb/>
+das heißt die steuerliche Begünstigung der Genossenschaften –<lb/>
+wird <name type="person" ref="per:97769">Mussil</name> sein Steuerbüro beauftragen mir unverzüglich eine<lb/>
+diesbezügliche Darstellung zu geben.</p>
+            <p xml:space="preserve">Bei dieser Besprechung kamen wir auch auf die gestrige Budget<lb break="no"/>debatte zu sprechen. <name type="person" ref="per:97769">Mussil</name> entschuldigte sich, daß er so aggres<lb break="no"/>siv vorgegangen ist – ich bin allerdings der Meinung, es war<lb/>
+garnicht so aggressiv und das habe ich ihm auch gesagt – und<lb/>
+er erklärte dies deshalb, weil angeblich <name type="person" ref="per:97893">Sallinger</name> durch seine<lb/>
+loyalen Erklärungen dem Handelsminister und insbesondere der SPÖ<lb/>
+damit gegenüber auf heftigen Widerspruch innerhalb seiner eigenen<lb/>
+Partei gestoßen ist. Einige Bauernbund-Abgeordnete, und dies<lb/>
+wurde mir von unseren Genossen die vis a vis sitzen bestätigt,<lb/>
+hatten in der Diskussion einige Male die Bemerkung gemacht "na<lb/>
+die haben sich das ganz schön mitsammen abgesprochen". <name type="person" ref="per:97668">Kreisky</name><lb/>
+selbst machte auch mir gegenüber die Bemerkung – als ich so<lb/>
+herausstrich, daß alles für die Handelskammer auch meinerseits<lb/>
+geschieht, daß dies wahrscheinlich mir nicht gelohnt wird, er<lb/>
+meinte, in dem Fall von der ÖVP. Ich mache diese Politik allerdings<lb/>
+nicht um einen Lohn oder Anerkennung von der ÖVP zu bekommen,<lb/>
+sondern weil ich davon überzeugt bin, in diesem Sinne auch für die<lb/>
+Sozialistische Partei und für die Bundesregierung das bestmöglich<lb break="no"/>ste herauszuholen. Am Abend konnte ich dann endlich auch das<lb/>
+Parlament – zeitweise zumindestens – verlassen, ich hatte im<lb/>
+3. Bezirk eine Kindergärtnerinnen-Feier, eine Frauenfeier und<lb/>
+außerdem drei Sektionsweihnachtsfeiern zu besuchen. Da mich<lb/>
+<name type="person" ref="per:98056">Weikhart</name> nur auf ca. eine Stunde entließ, mußte ich alle diese<lb/>
+Feiern im Schnellzugstempo absolvieren - man kann hier wirklich<lb/>
+nur sagen "Stille Nacht"-Feiern und fröhliche Weihnachtsfeiern<lb/>
+waren dies für mich wahrlich nicht.</p>
+         </div>
+      </body>
+      <back>
+         <pb n="03_0920_05" facs="03_1970-12-16_0920-05.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 16.12.1970</head>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+  </text>
+</TEI>

@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Montag, der  4. Dezember 1978</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band45_1978-12-04</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1978-12-04">Montag, 4. Dezember 1978</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2017-07-24">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="45-1418" facs="45_1978-12-04_1418.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Montag, 4. Dezember 1978<lb/>
+</p>
+            <p xml:space="preserve">Die Aussprache mit dem sudanesischen Wirtschaftsminister <name type="person" ref="per:116996">Mustafa</name><lb/>
+war einmalig. Die Sudanesen haben bei der Kontrollbank für 2,4 Mia<lb/>
+Schilling Kredit und können nicht bezahlen. 240 Mio Schilling sind<lb/>
+bereits fällig, wie mir <name type="person" ref="per:111755">Castellez</name> mitteilte. Die Österreichische Kon<lb break="no"/>trollbank ist deshalb äusserst zurückhaltend. <name type="person" ref="per:111755">Castellez</name> war trotzdem<lb/>
+bereit, mit ihm Gespräche zu führen. Dies hatte ich ihm einleitend<lb/>
+sofort mitgeteilt, was ihm sehr freute. Die Sudanesen wünschen eine<lb/>
+Gemischte Kommission aufgrund unseres Wirtschafts-, Handels- und Koopera<lb break="no"/>tionsvertrages, die womöglich jährlich zusammentreten sollte. Auf diese<lb/>
+Forderung ging ich gar nicht ein. Für ihre Elektrifizierung benöti<lb break="no"/>gen sie dringendst kleinere Einheiten, 40 Megawatt Kraftwerke und vor<lb/>
+allem 6 Dieselaggregate à 10 Megawatt, ausserdem Pumpen und vor allem<lb/>
+Getreidelager. Ein Grossteil ihrer Ernten geht verloren, da sie keine<lb/>
+Lagermöglichkeiten haben. Ihre Infrastruktur muss wesentlich ver<lb break="no"/>bessert werden. Die grösste Überraschung für mich, MR <name type="person" ref="per:97426">Fälbl</name> bezeich<lb break="no"/>nete es als ausgesprochene Chuzpe, dass obwohl sie nichts bezahlten,<lb/>
+darauf bestanden, dass die Verträge mit Steyr-Daimler-Puch – diesen<lb/>
+allein schulden sie 160 Mio Schilling – und auch mit anderen Firmen<lb/>
+eingehalten werden müssen. Von der Internationalen Weltbank haben<lb/>
+sie 60 Mio Dollar bekommen, von den Saudis sollen sie 300 Mio be<lb break="no"/>kommen. Sie stehen daher auf dem Standpunkt, alle anderen Staaten müssten<lb/>
+ihnen auch entsprechende Kredite geben und vor allem abgeschlossene<lb/>
+Lieferverträge einhalten, auch dann, wenn sie nicht bezahlen. Dies ist<lb/>
+wirklich eine einmalige Situation. Was ich ihnen versprochen habe war,<lb/>
+dass jetzt die Österreichische Entwicklungshilfe – vom Bundeskanzleramt<lb/>
+war ein Vertreter anwesend – die 2 Techniker runterschicken wird, damit<lb/>
+die technische Seite einer feasibility study ergänzt werden kann.<lb/>
+<name type="person" ref="per:116997">Dautzenberg</name> von der Firma Haid hat ihn dann weiter betreut. Nachmittags<lb/>
+hatte er dann noch eine Aussprache mit der Österreichischen Kontrollbank,<lb/>
+<name type="person" ref="per:111755">Castellez</name>, und nach einem Gespräch mit seinen OPEC-Vertretern, mit<lb/>
+denen er am Telefon arabisch gesprochen hat, noch mit den Firmen<lb/>
+Andritz, Steyr-Daimler-Puch, VOEST und Cincinnati.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte versuche zu erfahren, was dabei heraus<lb/>
+gekommen ist.<lb/>
+</p>
+            <pb n="45-1419" facs="45_1978-12-04_1419.jpg"/>
+            <p xml:space="preserve">GD <name type="person" ref="per:115651">Cifer</name> von der Firma Bauer legt mir die Absichtserklärung der<lb/>
+Algerier vor, für 15 Mia Schilling grosse Projekte ausarbeiten zu<lb/>
+lassen. Die Österreichische Kontrollbank hat ihm für 10 Mia Schilling<lb/>
+eine Zusage gegeben, wovon 85% in Österreich gekauft werden müssten,<lb/>
+10–15 Jahre Laufzeit, 3 Jahr rückzahlungsfrei. Über die Zinsen<lb/>
+konnten sie sich nicht einigen. Der in Österreich zur Anwendung<lb/>
+gelangende Zinssatz von 8% ist viel zu hoch, wie <name type="person" ref="per:115651">Cifer</name> erklärt, denn<lb/>
+die Franzosen geben für 20 Jahre 5.5%. <name type="person" ref="per:115651">Cifer</name> behauptet zu den grössten<lb/>
+und höchsten Stellen Zutritt zu haben und wollte sich auch wegen des<lb/>
+Algeriengases einschalten. Er meinte, ich bräuchte ihm nur 2 Zeilen<lb/>
+mitzugeben. Dies habe ich kategorisch abgelehnt, weil dafür die <choice><choice><sic>Austro</sic><corr>Austria</corr></choice></choice>-<lb/>
+Ferngas-Verhandlungen führt und er sich mit dieser ins Einvernehmen<lb/>
+setzen müsste, wenn er dort für dieses Gas aktiv wird. Angeblich hat<lb/>
+er mit GD <name type="person" ref="per:97337">Bauer</name>, der wieder bei der Austro-Ferngas nichts zu mel<lb break="no"/>den hat, Kontakt gehabt und mit diesen eng liiert bei den Algeriern das<lb/>
+Gespräch führen wird. Ich habe das Gefühl, dass <name type="person" ref="per:115651">Cifer</name> eben hier ein<lb/>
+Geschäft wittert und wegen seiner Lieferungen einschalten möchte.<lb/>
+<name type="person" ref="per:115651">Cifer</name> hat ausserdem mit <choice><choice><sic>dem Elfenbein-Staat</sic><corr>der Elfenbeinküste</corr></choice></choice> 3.5 Mia Schilling eine<lb/>
+ähnliche Zusage. Hier würde er Kaffee und Bananen zur Rückzahlung<lb/>
+kaufen und diese über Österreich nach Ungarn liefern. Er fragte, ob<lb/>
+dagegen irgend etwas einzuwenden sei. Ganz im Gegenteil, wären wir<lb/>
+daran brennendst interessiert, solche Drittgeschäfte zu machen. Ich<lb/>
+kann mir nur nicht vorstellen, dass diese finanziell abgewickelt<lb/>
+werden können. Die Ungarn werden sicherlich nicht bereit sein für<lb/>
+Kaffee und Bananen einen überwältigend guten Preis zu bezahlen.<lb/>
+Ein drittes grosses Projekt, welches <name type="person" ref="per:115651">Cifer</name> angedeutet hat, war Mexiko<lb/>
+mit 7 Mia Schilling. Eines steht fest, dass <name type="person" ref="per:115651">Cifer</name> immer irrsinnig<lb/>
+grosse Projekte hat und dann doch irgendwelche kleinere zustande<lb/>
+bringt. Er erklärte neuerdings in Anwesenheit von Dr. <name type="person" ref="per:108746">Haffner</name>, dass,<lb/>
+wenn er <name type="person" ref="per:117000">Bengiva</name> in Algerien einladet, dann auf alle Fälle für die<lb/>
+Kosten, er hofft im Einvernehmen mit anderen Firmen, aufkommt.<lb/>
+</p>
+            <p xml:space="preserve">Dr. <name type="person" ref="per:98032">Veith</name> vom ÖAMTC hat mich um Vermittlung ersucht, damit er mit dem<lb/>
+ARBÖ wegen des Streites Freytag &amp; Berndt Karten, die rechtlich<lb/>
+bei der Firma Maier in Stuttgart liegen, mit dem ARBÖ ins Gespräch<lb/>
+kommen kann. Ich habe sofort den Generalsekretär vom ARBÖ angerufen<lb/>
+und dieser war sehr überrascht, dass der ÖAMTC diesmal mich für die<lb/>
+Vermittlung beim ARBÖ benützt. Sonst ist es nämlich meistens umge<lb break="no"/>kehrt. Selbstverständlich hat <name type="person" ref="per:97411">Effenberger</name> sich sofort mit <name type="person" ref="per:98032">Veith</name> in<lb/>
+<pb n="45-1420" facs="45_1978-12-04_1420.jpg"/>Verbindung gesetzt. Ein gemeinsames Vorgehen gegen die deutsche<lb/>
+Firma Maier machte der ÖAMTC davon abhängig, dass der ARBÖ verzichtet,<lb/>
+bei den Verkehrsdurchsagen genannt zu werden. Man sieht daraus deut<lb break="no"/>lich, wie es den ÖAMTC hart trifft, dass er heute in dieser Frage<lb/>
+nicht mehr das Monopol hat.<lb/>
+</p>
+            <p xml:space="preserve">Beim Journalistenfrühstück hat Dr. <name type="person" ref="per:117001">Glaser</name> vom Deutschen Reisebüro mit<lb/>
+1.5 Mia Schilling Umsatz über die 6. Reiseakademie referiert. Die 800<lb/>
+Reisebüros, die zu diesen Seminar eingeladen wurden, haben 450 Teil<lb break="no"/>nehmer von insgesamt 10.000 Mitarbeitern geschickt. Diese Reisebüros<lb/>
+haben einen Umsatz von 5.3 Mia, davon 2 Mia allein für Touristik. Die<lb/>
+Ausbildung und die Akademien sind deshalb notwendig, weil die Waren<lb break="no"/>häuser keine Ausbildung machen, dann zum Leidwesen der Reisebüros<lb/>
+ihre Mitarbeiter abwerben. An Schulung muss<add>[mit]</add> 1 Mio DM für 1.000 Mit<lb break="no"/>arbeiter gerechnet werden. 5–10 Prospekte sind notwendig, die pro<lb/>
+Buchung kostenmässig den Reisebüros anfallen. 28 Mia DM wird der Deut<lb break="no"/>sche heuer im Ausland ausgeben. Fast peinlich für mich war, dass<lb/>
+<name type="person" ref="per:117001">Glaser</name>, so wie auch gestern, wieder erwähnte, dass die Österreicher<lb/>
+mit ihrer Fremdenverkehrspolitik sehr geschickt liegen, sehr gut lie<lb break="no"/>gen, und dass insbesondere der Minister dafür nicht nur grosses Ver<lb break="no"/>ständnis hat, sondern sich auch einmalig einsetzt. Fast hätte man den<lb/>
+Eindruck haben könne, das hätte ich mir bestellt.<lb/>
+</p>
+            <p xml:space="preserve">MR <name type="person" ref="per:112973">Hillebrandt</name> berichtete über die Verhandlungen mit der DDR. So farb<lb break="no"/>los, so ohne Schwung, fast kränklich, beleidigt oder ich weiss nicht<lb/>
+sonst was. Mich wunderte, dass die Leute nicht eingeschlafen sind und<lb/>
+überhaupt eine Frage stellten.<lb/>
+</p>
+            <p xml:space="preserve">MR <name type="person" ref="per:97493">Gröger</name> berichtete über Recycling. 7.500 Glascontainer sind jetzt<lb/>
+aufgestellt, 32 bis 35.000 Tonnen wird die Flaschensammlung erbringen.<lb/>
+Wenn man bedenkt, dass sie erst 2 Jahre läuft, ein grosser Erfolg.<lb/>
+Auch bei Papier sind wir jetzt bei 30.000 Tonnen. 1975 waren wir<lb/>
+erst bei 7.000. Der Preis für die Papierfabriken konnte von 80 Groschen<lb/>
+auf 60 Groschen gesenkt werden. Auch die Importe sind von 160.000 auf<lb/>
+100.000 zurückgegangen. Die meisten allerdings müssen als Gegenge<lb break="no"/>schäfte gegen Kartonlieferungen in die Oststaaten akzeptiert werden.<lb/>
+Die Frage, die sich dann von der APA, <name type="person" ref="per:117002">Kirsten</name>, an mich richtete, war,<lb/>
+was ich mit dem Einweggebindegesetz jetzt machen würde. In Deutschland<lb/>
+ist vom zuständigen Minister eine gesetzliche Regelung angekündigt<lb/>
+<pb n="45-1421" facs="45_1978-12-04_1421.jpg"/>worden.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97819">PLESCH</name>: Die Industriesektion soll dieser Frage nach<lb break="no"/>gehen.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Fraktion für den Unterausschuss Europäische Patentüberein<lb break="no"/>kommen wurden unsere Experten gehört, die wahrscheinlich nicht ein<lb break="no"/>mal unserer Partei angehören. Diese Taktik von mir hat sich bestens<lb/>
+bewährt. Unter anderem haben wir als Experten den Vertreter der Indu<lb break="no"/>striellenvereinigung, Graf <name type="person" ref="per:113033">Hartig</name>, nominiert, der aber mit seinem Chef<lb/>
+Präsident <name type="person" ref="per:97581">Igler</name> darüber eine schwere Auseinandersetzung hatte. <name type="person" ref="per:113033">Hartig</name><lb/>
+wollte zwar zu der Sitzung trotzdem kommen, doch hat ihm <name type="person" ref="per:97543">Heindl</name> em<lb break="no"/>pfohlen, sich unter irgend einen Vorwand zu entschuldigen. Um wieviel<lb/>
+anders handeln da wir. Die ÖVP hat den Personalvertreter des Patent<lb break="no"/>amtes Hofrat <name type="person" ref="per:117003">Stöger</name> als ihren Experten nominiert. Ein Beamter, der<lb/>
+in Wirklichkeit in einem Treueverhältnis zum Staat steht und von<lb/>
+seinem Minister bzw. Behördenleiter entsprechende Weisungen bekommen<lb/>
+könnte, wurde von uns selbstverständlich als Experte der Gegenseite<lb/>
+toleriert.<lb/>
+</p>
+            <p xml:space="preserve">Im Unterausschuss hat <name type="person" ref="per:112996">Staudinger</name> den Vorsitz geführt, vorher aber<lb/>
+<name type="person" ref="per:117004">Mühlbacher</name> wissen lassen, dass die ÖVP nur bereit ist, die Experten zu<lb/>
+hören und, obwohl wir das letzte Mal beschlossen haben mit Open end,<lb/>
+dass es unbedingt zu einem Abschluss kommen muss, sie nicht bereit<lb/>
+sind, diese Vorgangsweise einzuhalten. Nach stundenlangen Diskussionen<lb/>
+hat dann <name type="person" ref="per:111410">König</name> <name type="person" ref="per:117004">Mühlbacher</name> mitgeteilt, dass wenn wir darauf bestehen,<lb/>
+dass der Handelsausschuss am 12.12. sich mit dem Problem beschäftigt<lb/>
+und es auf die Tagesordnung der letzten Nationalratssitzung kommt, sie<lb/>
+gegen die Ratifizierung stimmen werden. Da es sich hier um ein Verfas<lb break="no"/>sungsgesetz handelt, wäre damit der ganze Vertrag gefallen. Dieses Risi<lb break="no"/>ko wollten weder unsere Fraktion noch Klubobmann <name type="person" ref="per:97444">Fischer</name>, den wir<lb/>
+dann informierten, auf sich nehmen. Wir beschlossen daher entgegen<lb/>
+unseren ursprünglichen Beschlüssen auf alle Fälle durchzuziehen, ein<lb break="no"/>zuschwenken. Für mich interessant war, die verschiedensten Gründe von<lb/>
+<name type="person" ref="per:111410">König</name>, <name type="person" ref="per:112625">Keimel</name> und ich weiss nicht noch wem allen zu hören, warum<lb/>
+jetzt bei Klein- und Mittelbetrieben die grosse Gefahr besteht, bei<lb/>
+dem EPÜ-Beitritt, obwohl es in Wirklichkeit ausschliesslich um das Ge<lb break="no"/>schäft der Patentanwälte geht. <name type="person" ref="per:112625">Keimel</name> behauptete, die imitative Inno<lb break="no"/>vation sei so ungeheuer wichtig. Die Österreichischen Patentanwälte<lb/>
+hätten seiner, aber auch anderen Firmen stets Mitteilung gemacht,<lb/>
+<pb n="45-1422" facs="45_1978-12-04_1422.jpg"/>wenn wo anders neue Technologien entwickelt wurden, sodass sie diese<lb/>
+dann imitieren konnten. Dies sei der Grund, warum er vorher, vor<lb/>
+2 Jahren, noch der Meinung war, man könnte sofort dem Europapatent<lb/>
+beitreten, jetzt aber seine Meinung eben geändert hat. Er verglich<lb/>
+auch auf die ähnliche Entwicklung im Kernkraftwerk-Zwentendorf-Verfah<lb break="no"/>ren. Den wirklichen Grund aber hat Klubobmann <name type="person" ref="per:111325">Mock</name> – dann allerdings<lb/>
+sehr spät – unserem Klubobmann <name type="person" ref="per:97444">Fischer</name> mitgeteilt, wie mir dieser bei<lb/>
+der Regierungsvorbesprechung sagte. Die ÖVP will dieses 2/3-Gesetz<lb/>
+mit den Marktordnungen binden und gegen <name type="person" ref="per:116108">Haiden</name> verwenden.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Bitte diese neue Entwicklung entsprechend<lb/>
+recherchieren lassen.<lb/>
+</p>
+            <p xml:space="preserve">Im Wiener Vorstand und im Wiener Ausschuss berichtete <name type="person" ref="per:97488">Gratz</name> über die<lb/>
+schweren Differenzen zwischen <name type="person" ref="per:97668">Kreisky</name> und <name type="person" ref="per:97311">Androsch</name>. <name type="person" ref="per:97488">Gratz</name> selbst hatte<lb/>
+seit der Früh stundenlange Gespräche mit <name type="person" ref="per:97311">Androsch</name>, <name type="person" ref="per:97668">Kreisky</name> und <name type="person" ref="per:97346">Benya</name><lb/>
+geführt. <name type="person" ref="per:97488">Gratz</name> fürchtet, dass die Konsequenzen verheerend sind, wenn<lb/>
+jetzt die Regierungsmannschaft – insbesondere durch Ausscheiden <name type="person" ref="per:97311">An<lb break="no"/>drosch's</name> – umgebildet wird und mit einer neuen Regierung man auch dann<lb/>
+in den Wahlkampf gegen müsste. <name type="person" ref="per:97488">Gratz</name> hat auch grösste Bedenken, wenn<lb/>
+jetzt sogenannte Anhänglichkeitsresolutionen bei den Parteitagen –<lb/>
+wie z.B. im Burgenland zum <name type="person" ref="per:97311">Androsch</name>, den er als seinen Freund bezeich<lb break="no"/>nete – beschlossen werden. Dies kann alles nur zur weiteren Schwä<lb break="no"/>chung unserer Partei und Regierung führen und die Volkspartei fühlt<lb/>
+sicht jetzt schon entsprechend stark, obwohl sie von der Sachpolitik<lb/>
+dazu gar keinen Grund hätte. <name type="person" ref="per:97786">Nittel</name> meinte in der Diskussion, man sollte<lb/>
+nicht umstellen, die Partei muss jetzt durchziehen. Der Privilegien<lb break="no"/>abbau wird gar nichts bringen. <name type="person" ref="per:97904">Schärf</name> hat schon immer sich dagegen aus<lb break="no"/>gesprochen. In diesem Punkt vertrat auch ich in der Diskussion dieselbe<lb/>
+Meinung. Bezüglich der Wünsche von <name type="person" ref="per:97488">Gratz</name> und <name type="person" ref="per:97786">Nittel</name>, dass man mit der<lb/>
+jetzigen Mannschaft durchziehen müsste, hatte ich grösste Skepsis,<lb/>
+<lb/>
+dass <name type="person" ref="per:97668">Kreisky</name> dies akzeptiert. <name type="person" ref="per:109290">Mayr</name> meinte auch, man müsste <name type="person" ref="per:97668">Kreisky</name><lb/>
+und <name type="person" ref="per:97311">Androsch</name> zusammenzwingen. <name type="person" ref="per:97561">Hofmann</name> dagegen, der als Parteiobmann<lb/>
+von Floridsdorf, also mit <name type="person" ref="per:97311">Androsch</name>, nicht nur Kontakt hat, sondern auch<lb/>
+die Situation am besten kennt, teilte meine Meinung. Auch bezüglich<lb/>
+des Privilegienabbaues meinte er, dass bei dem Initiativantrag von der <lb/>
+SPÖ im Nationalrat überhaupt niemand kontaktiert wurde. Er hat bezüg<lb break="no"/>lich der Beamtenlösung grösste Bedenken. Bezüglich des Privilegien<lb break="no"/>abbau waren sowohl <name type="person" ref="per:97772">Nekula</name>, <name type="person" ref="per:114118">Woller</name>, <name type="person" ref="per:97926">Schranz</name>, als <name type="person" ref="per:117008">Nentwich</name> und <name type="person" ref="per:97899">Sandner</name><lb/>
+<pb n="45-1423" facs="45_1978-12-04_1423.jpg"/>der Meinung, dass wir hier über diese Politik in der Öffentlich<lb break="no"/>keit nichts erreichen werden und durch den Streit <name type="person" ref="per:97668">Kreisky</name> – <name type="person" ref="per:97311">Androsch</name>,<lb/>
+wie <name type="person" ref="per:97926">Schranz</name> es drastisch ausdrückte, wir die Wahl das nächste Mal<lb/>
+schon verloren haben. Der Redakteur der Arbeiterzeitung, <name type="person" ref="per:114544">Kölbl</name>,<lb/>
+berichtete, dass <name type="person" ref="per:111712">Bergmann</name> ständig mit den ÖVP-Journalisten der so<lb break="no"/>genannten unabhängigen Zeitungen Kontakt hat und Besprechungen ab<lb break="no"/>führt und <name type="person" ref="per:109293">Busek</name> die Wiener sogar vergattert. Die Massenmedien – hat<lb/>
+<name type="person" ref="per:97488">Gratz</name> richtig bemerkt – zwingen uns jetzt oft zu Verhaltensweisen.<lb/>
+Es ist nicht entscheidend, ob ein Argument richtig ist, sondern ob es <lb/>
+in der Öffentlichkeit ankommt oder nicht. Er wird versuchen, ob der<lb/>
+Streit <name type="person" ref="per:97668">Kreisky</name> – <name type="person" ref="per:97311">Androsch</name> zumindestens bis zu den Wahlen verschoben<lb/>
+werden kann. Darüber soll ein Präsidium am Mittwoch letzten Endes<lb/>
+entscheiden. Die Wiener Organisation wird ihre Sachdiskussion bis<lb/>
+Jänner 1979 abschliessen und dann entsprechende Beschlüsse fassen.<lb/>
+</p>
+            <p xml:space="preserve">In der Ministerratsvorbesprechung hat <name type="person" ref="per:97668">Kreisky</name> wegen Unterbringung der<lb/>
+vietnamesischen Flüchtlinge interveniert. Insgesamt haben wir, wie<lb/>
+<name type="person" ref="per:110923">Lanc</name> dann mitteilte, 264 vor 1 1/2 Jahren Vietnamesen und Kambodschaner,<lb/>
+sogenannte boat-people, also Flüchtlinge aufgenommen. Nach längerer<lb/>
+Diskussion einigten wir uns auf 100 Familien. Die Vorarlberger wollen<lb/>
+nämlich allein 50 übernehmen, um ihren Gastarbeiterbedarf befriedigen<lb/>
+zu können. Der Präsident der Vorarlberger Handelskammer <name type="person" ref="per:117009">Hämmerle</name> war<lb/>
+bei <name type="person" ref="per:98063">Weissenberg</name> und hat einen Bedarf von 800 bis 1000 neuen zusätzlichen<lb/>
+Gastarbeitern angemeldet.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> verwies darauf, dass beim Arlberg-Tunnelbau 14 Arbeiter töd<lb break="no"/>lich verletzt wurden und dass dort nur die Caritas mit einem soge<lb break="no"/>nannten Christophorus-Verein hilft. Er meinte, auch der Staat müsste<lb/>
+hier einspringen. Der Sozialminister hatte – sowie der Bautenminister –<lb/>
+grösste Bedenken, weil daraus, wie bei vielen anderen Baustellen,<lb/>
+enstprechende Verpflichtungen erwachsen würden. Ich verwies darauf, dass<lb/>
+in der Elektrizitätswirtschaft es üblich ist, dass ich für Familien,<lb/>
+dass ich für Familien, deren Ernährer umgekommen ist, 6.000 Schil<lb break="no"/>ling zu Weihnachten spende. Da die anderen Minister erklärten, dafür<lb/>
+keine Budgetpost zu haben, wird sich <name type="person" ref="per:97668">Kreisky</name> an die Volkshilfe wenden.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97311">Androsch</name> berichtet, dass <name type="person" ref="per:97616">Karski</name> bei ihm jetzt vorsprechen wird, um<lb/>
+für 2 Mia Schilling einen frei finanzierbaren Kredit, d.i. 4% der Netto<lb break="no"/>anleihenvolumen Österreichs, zu verlangen. <name type="person" ref="per:97311">Androsch</name> wäre bereit, bis<lb/>
+<pb n="45-1424" facs="45_1978-12-04_1424.jpg"/>zu 800 Mio Schilling einen Finanzierungskredit für sogenannte<lb/>
+local-coast zu geben. In Wirklichkeit handelt es sich hier um eine<lb/>
+Kredithilfe, die die Polen zu irgendwelchen Käufen im westlichem<lb/>
+Ausland brauchen. <name type="person" ref="per:97668">Kreisky</name> hatte Bedenken und auch ich verwies da<lb break="no"/>rauf, dass 24 Mia Kreditvolumen von den Polen kaum zurückgezahlt<lb/>
+wird werden. Auch <name type="person" ref="per:108328">Pahr</name> flüsterte mir diesen Tatbestand bestätigend<lb/>
+zu, ohne allerdings das Wort zu ergreifen. Ich äusserte auch neuer<lb break="no"/>dings meine Bedenken, dass die Polen erklären, Elektrizität in<lb/>
+grossen Mengen zu liefern, ausser dem 400 MW-Vertrag noch 800 ohne<lb/>
+weiters abschliessen zu können, obwohl sie kaum den notwendigen Aus<lb break="no"/>bau der Elektrizitätswirtschaft vornehmen. <name type="person" ref="per:97668">Kreisky</name> meint, das hört<lb/>
+er zum ersten Mal, die Elektrizitätswirtschaft Österreichs war immer<lb/>
+gegen den Vertrag und er ist fest davon überzeugt, dass sie alles<lb/>
+liefern werden. Hoffentlich hat er recht.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Lass bitte noch einmal recherchieren, wie es<lb/>
+in dieser Frage mit Polen wirklich steht.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:108328">Pahr</name> hat mir ein Fernschreiben gezeigt, wonach die Amerikaner die<lb/>
+Emmentalerimportregelung durch einen speziellen waiver für uns im GATT<lb/>
+anders regeln werden. Es ist nach seiner Meinung nach mit Kontingent,<lb/>
+d.h. Länderquoten zu rechnen. Dies bedeutet, dass unser Käseexport<lb/>
+dorthin äusserst schwierig und vor allem in der Menge unzulänglich<lb/>
+sein wird. <name type="person" ref="per:97668">Kreisky</name> war darüber sehr erschüttert und meinte, es müsste<lb/>
+jetzt sofort eine Demarche von <name type="person" ref="per:108328">Pahr</name> bei den Amerikanern gemacht werden.<lb/>
+Uns verhindern sie das Ölsaatenprojekt, schädigen dadurch die öster<lb break="no"/>reichische Landwirtschaft und wollen jetzt auch den Export von Emmen<lb break="no"/>taler-Käse mehr oder weniger unterbinden. <name type="person" ref="per:97311">Androsch</name> meinte, er sei jetzt<lb/>
+bereit, eventuell über die Möglichkeit der Mehrwertsteuererhöhung für<lb/>
+die Ölprodukte, um den Vorwürfen der Japaner auszuweichen, GATT-konform<lb/>
+und unseren Verträgen entsprechend, doch die Mittel dadurch bereitzuste<lb break="no"/>len, um das Ölsaatenprojekt voranzutreiben. Ich selbst erklärte, dass<lb/>
+die Arbeiterkammer im Prinzip bereit ist, darüber zu verhandeln, wie<lb/>
+mir übrigens auch <name type="person" ref="per:116108">Haiden</name> mitgeteilt hat. Am meisten verärgert war<lb/>
+aber <name type="person" ref="per:97668">Kreisky</name>, als er erfuhr, dass für die Amerikaner jetzt auch die<lb/>
+Autozölle auf 4% gesenkt werden. Die Erklärung ist für mich sehr ein<lb break="no"/>fach. Die Russen haben, gegen die Diskriminierung der EG protestierend,<lb/>
+eine Zollsenkung von 20 auf 4% bekommen und die Amerikaner haben jetzt<lb/>
+nach etlichen Jahren auf Grund der Meistbegünstigungsklausel nachge<lb break="no"/>zogen.</p>
+            <pb n="45-1425" facs="45_1978-12-04_1425.jpg"/>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Wieso wurde ich darüber nicht vom Haus infor<lb break="no"/>miert?</p>
+            <p xml:space="preserve"><name type="person" ref="per:112992">Löschnak</name> berichtet, dass der Rechnungshof die Abhol- und Heimfahrt<lb/>
+der Sektionschefs hart kritisiert hatte. <name type="person" ref="per:97668">Kreisky</name> hatte die blendenste<lb/>
+Idee, nämlich es sollten jetzt die Sektionschef aller Ministerien<lb/>
+zu diesen Vorwürfen des Rechnungshofes Stellung nehmen. Er erwartet,<lb/>
+dass sich diese entsprechend wehren. <name type="person" ref="per:112992">Löschnak</name> wird ihnen einen dies<lb break="no"/>bezüglichen Brief schreiben.<lb/>
+</p>
+            <p xml:space="preserve">Der Rechnungshof hat auch die Arbeitsleihverträge hart kritisiert.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> verwies darauf, dass es ihm vollkommen unerklärlich ist, wie<lb/>
+z.B. <name type="person" ref="per:97468">Gatscha</name> eine Schreibkraft beschäftigen kann, die fast 400.000<lb/>
+Schilling kostet, obwohl im Bundeskanzleramt gute Kräfte um 120.000<lb/>
+Schilling Kosten beschäftigt sind. <name type="person" ref="per:97668">Kreisky</name> verlangte, dass alle diese<lb/>
+Arbeitsleihverträge genau überprüft werden müssen. Fast könnte man<lb/>
+glauben, dass ich mit einem sechsten Sinn ein richtiges timing habe,<lb/>
+denn mit <name type="person" ref="per:97511">Haiden</name> habe ich gesprochen und vereinbart, dass zu seiner<lb/>
+Unterstützung, aber auch zu besseren Kontakten mit dem Handelsmi<lb break="no"/>sterium <name type="person" ref="per:97819">Plesch</name> wieder in seinen Stand ab 1.1. übernommen wird.<lb/>
+<name type="person" ref="per:97819">Plesch</name> bleibt aber bei uns herüben sitzen, wird auch die Schreibkraft<lb/>
+Kollegin <name type="person" ref="per:117011">Spangl</name> weiter, zumindestens teilweise zur Verfügung haben.<lb/>
+Da im Landwirtschaftsministerium derzeit kein Arbeitsleihvertrag be<lb break="no"/>steht, wird es keine Schwierigkeiten bringen, wenn der ursprünglich<lb/>
+vom Landwirtschaftsministerium aufgenommene <name type="person" ref="per:97819">Plesch</name> jetzt wieder dorthin<lb/>
+mit seinem Arbeitsleihvertrag zurückgeht. Dadurch bleiben bei uns<lb/>
+nur 2, nämlich Kollegin <name type="person" ref="per:98072">Wiesinger</name> und Kollege <name type="person" ref="per:116918">Reiss</name> zu verkraften.<lb/>
+Auch hier wird es sicherlich eine genaue Prüfung geben. Das Unangenehme,<lb/>
+wie <name type="person" ref="per:97668">Kreisky</name> sagte, ist, dass die vergleichbaren Bezahlungen in den<lb/>
+Ministerien wesentlich tiefer liegen als die Arbeitsleihverträge.<lb/>
+Dies wird grosse Unruhe auslösen, weshalb eben eine genaue Überprüfung<lb/>
+erfolgen muss.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="45_1417_01" facs="45_1978-12-04_1417-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 4.12.1978</head>
+         </div>
+         <pb n="45_1417_02" facs="45_1978-12-04_1417-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+         <pb n="45_1425_01" facs="45_1978-12-04_1425-01.jpg"/>
+         <pb n="45_1425_02" facs="45_1978-12-04_1425-02.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Typoskript "Sitzung der Arbeitsgemeinschaft österreichischer Messen", 4.12.1978</head>
+         </div>
+      </back>
+   </text>
+</TEI>

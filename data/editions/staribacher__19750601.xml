@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sonntag, der  1. Juni 1975</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band26_1975-06-01</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1975-06-01">Sonntag, 1. Juni 1975</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-12-11">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="26-0654" facs="26_1975-06-01_0654.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Sonntag, 1. Juni 1975<lb/>
+</p>
+            <p xml:space="preserve">Beim Mittagessen mit einigen Regierungsmitgliedern und <name type="person" ref="per:97668">Kreisky</name><lb/>
+kam natürlich die Diskussion auch auf die wirtschaftliche Lage<lb/>
+zu sprechen. <name type="person" ref="per:97442">Firnberg</name> und ich versuchten <name type="person" ref="per:97668">Kreisky</name> über den Lebenshaltungs<lb break="no"/>kostenindex aufzuklären. <name type="person" ref="per:97442">Firnberg</name> behauptete, dass jeder neue Index<lb/>
+auch wenn er noch so viele Positionen umfasst, kaum ein anderes<lb/>
+Bild geben wird als die alten mit geringeren Positionen. <name type="person" ref="per:97668">Kreisky</name><lb/>
+nahm mit Befriedigung zur Kenntnis, dass der neue Index trotzdem<lb/>
+er mehr Positionen beinhalten wird, weniger steigt als der derzeit<lb/>
+gültige. Dies ergibt sich aus der anderen Gewichtung. Das wirkliche<lb/>
+Problem und hier war ich im Gegensatz zu <name type="person" ref="per:97668">Kreisky</name> liegt aber darin,<lb/>
+dass solange die Preise wie jetzt am Rohstoffsektor, am Halbfabrikate-<lb/>
+Sektor und ganz besonders aber bei Fertigprodukten für den Produzenten<lb/>
+fallen, dies scheinbar für die Regierung gut ist, in Wirklichkeit aber<lb/>
+damit die erwartete Konjunktur weiter hinausgeschoben wird. Das<lb/>
+Fallen der Preise bedingt, dass die Unternehmer geringere Gewinn<lb break="no"/>erwartungen haben, dass sie dadurch selbstverständlich weniger inve<lb break="no"/>stieren und damit der Konjunkturaufschwung nur verzögert wird. Mein<lb/>
+altes Motto: regelmässig und mässige Preissteigerungen, ist wahr<lb break="no"/>scheinlich wirklich die Voraussetzung für einen kontinuierlichen<lb/>
+Konjunkturanstieg.<lb/>
+</p>
+            <p xml:space="preserve">Mit Gen.Dir. <name type="person" ref="per:116104">Himmer</name> von der Porsche AG, den ich kurz in seinem Land<lb break="no"/>haus am Obertrumer See besuchte, erkundigte ich mich über die Si<lb break="no"/>tuation am Automarkt. <name type="person" ref="per:116104">Himmer</name> bestätigte mit, dass die ersten drei<lb/>
+Monate sehr gut waren, dann aber im April/Mai es wesentlich schwächer<lb/>
+wurde. Der aus dem ersten Quartal sich ergebende Aufschwung ist auch<lb/>
+nicht eingetroffen. Allerdings hat er derzeit selbst bei dem Käfer<lb/>
+Lieferzeiten von 4 Monaten. Ich bekam hiermit wieder einmal bestä<lb break="no"/>tigt, dass die Deutschen durch ihre Gründlichkeit, <name type="person" ref="per:140559">Schmücker</name> hatte<lb/>
+ja<add>[erklärt,]</add> 25.000 Arbeiter <del>erklärt</del> müssten abgebaut werden und die Produk<lb break="no"/>tion eingeschränkt, sodass jetzt gar nicht mehr ausgeliefert werden<lb/>
+kann resp., was ich vielmehr glaube, durch die politische Absicht<lb/>
+dieser Massnahmen gegen die SPD-Regierung mit dazu beigetragen,<lb/>
+dass die Konjunktursituation in der BRD sich noch nicht so verbessert<lb/>
+hat, wie es wahrscheinlich möglich wäre. Ich erwarte auch, dass einige<lb/>
+Unternehmen im September eine ähnliche Politik in Österreich machen<lb/>
+werden. Wenn wir nicht bis dorthin durchgestartet haben, werden sie,<lb/>
+<pb n="26-0655" facs="26_1975-06-01_0655.jpg"/>wie ich hoffe nur vereinzelt, Massnahmen setzen aus politischen Gründen,<lb/>
+die man der Regierung anlastet. Das typischeste Beispiel war 1966<lb/>
+als die ÖVP gewann, dass die Firma Heiru in einem Rundschreiben er<lb break="no"/>klärte wegen des Wahlerfolges ist er bereit den Arbeitern eine 10 %-ige<lb/>
+Lohnerhöhung zuzugestehen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:116104">Himmer</name> beschwerte sich bei mir, dass die Tufting-Produktion, wo Porsche<lb/>
+ebenfalls eingestiegen ist, durch das Verhalten von <name type="person" ref="per:140321">Wilhelm</name> – Eybl<lb break="no"/>teppiche keine Vereinbarung, wenn notwenig sogar ein offizielles<lb/>
+Kartell zustande kommt. Die Produktion ist jetzt sehr gedrückt und<lb/>
+die Preise katastrophal. Deshalb hat auch er sich entschlossen, eine<lb/>
+Absatzorganisation zu schaffen. Dies hat den Obmann der Sektion Handel<lb/>
+Komm.Rat <name type="person" ref="per:111717">Schönbichler</name> veranlasst, ein Rundschreiben herauszugeben,<lb/>
+wo er darauf hinweist, dass die grösste Importorganisation die Händler<lb break="no"/>organisation nämlich Porsche jetzt den Handel ausschaltet und er stellt<lb/>
+den Mitglieder anheim, auch bei der Handelsorganisation Porsche eben<lb/>
+keine Autos mehr zu kaufen. <name type="person" ref="per:116104">Himmer</name> war darüber sehr erzürnt, auch ich<lb/>
+finde die Vorgangsweise einmalig. Ich habe <name type="person" ref="per:116104">Himmer</name> vorgeschlagen, wenn<lb/>
+er mir einen diesbezüglichen Brief schreibt, bin ich gerne bereit, die<lb/>
+ganze Frage offiziell bei der Handelskammer zur Sprache zu bringen.<lb/>
+Er wird dieses Problem mit Frau <name type="person" ref="per:116103">Piëch</name> besprechen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97311">Androsch</name> berichtete mir andeutungsweise von der Pariser IEA-Besprechung.<lb/>
+Herausgekommen ist natürlich nichts, ausser dass man sich jetzt in<lb/>
+einem besseren Klima befindet, da die Franzosen und die Amerikaner schein<lb break="no"/>bar nicht mehr auf Kollisionskurs stehen.<lb/>
+</p>
+            <p xml:space="preserve">Präs. <name type="person" ref="per:134052">Ford</name> und <name type="person" ref="per:112568">Sadat</name> wurden uns vorgestellt und interessanterweise hat<lb/>
+sich gar niemand so gerissen, mit denen unbedingt ins Gespräch zu<lb/>
+kommen. <name type="person" ref="per:134052">Ford</name> blieb bei <name type="person" ref="per:97442">Firnberg</name> und <name type="person" ref="per:107938">Leodolter</name> stehen, wahrscheinlich<lb/>
+weil sie unsere zwei Frauen in der Regierung sind und ich stand zufäl<lb break="no"/>lig daneben. Was sollte ich mit ihm daher andres sprechen als dass<lb/>
+ich einlud, er möge in Österreich einmal einen Skiurlaub verbringen.<lb/>
+Er erklärte sofort, <name type="person" ref="per:97668">Kreisky</name> hätte ihn zur Olympiade eingeladen, lehnte<lb/>
+auch gar nicht hundertprozentig ab sondern erkundigte sich über die Ent<lb break="no"/>fernungen von Salzburg nach Innsbruck und von den Skigelegenheiten usw.<lb/>
+Natürlich bin ich überzeugt ist das nur ein unverbindliches Gespräch,<lb/>
+propagandistisch kann man es aber vielleicht einmal verwenden.<lb/>
+</p>
+            <pb n="26-0656" facs="26_1975-06-01_0656.jpg"/>
+            <p xml:space="preserve">Am Tisch sass ich mit dem Kabinettchef von Präs. <name type="person" ref="per:112568">Sadat</name> und dem neuen<lb/>
+ägyptischen Botschafter. Ich erinnerte diesen, dass sein Vorgänger<lb/>
+erklärt hat, wir sollten die Follow-up-Gespräche und insbesondere<lb/>
+Geschäfte im einzelnen durcharbeiten und ich nichts mehr von ihm ge<lb break="no"/>hört habe. Den offiziellen Antrittsbesuch, sagte ich sofort, könne er<lb/>
+sich ersparen, wir kennen uns jetzt ja und er soll gleich mit konkreten<lb/>
+Wünschen kommen. Unser Botschafter in Kairo, <name type="person" ref="per:140293">Maschke</name>, war ebenfalls an<lb break="no"/>wesend und erklärte mir nachher, dass der Planungsminister die Absicht<lb/>
+hätte, nach Österreich zu kommen. Er drängt sehr darauf.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97377">BUKOWSKI</name>: Bitte kläre, wie wir mit Ägypten jetzt weiter<lb/>
+verfahren sollen.<lb/>
+</p>
+         </div>
+      </body>
+      
+   </text>
+</TEI>

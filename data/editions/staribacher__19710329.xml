@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Montag, der 29. März 1971</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band05_1971-03-29</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1971-03-29">Montag, 29. März 1971</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-08-06">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="05-0392" facs="05_1971-03-29_0392.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Montag, 29. März 1971<lb/>
+</p>
+            <p xml:space="preserve">In Bludenz ersuchte mich der Bezirkshauptmann Hofrat <name type="person" ref="per:137057">Längle</name>,<lb/>
+ob ich mich mit <name type="person" ref="per:97879">Rösch</name> besprechen könnte, damit er einem Protu<lb break="no"/>giesen einen österreichischen Paß ausstellen kann. Der Prä<lb break="no"/>sident der Handelskammer <name type="person" ref="per:137062">Gasser</name> will seine Textilanlagen in<lb/>
+Westafrika verkaufen und dieser Mann kann sich dort mit seinem<lb/>
+portugiesischen Paß dort kaum bewegen. <name type="person" ref="per:97879">Rösch</name>, bei dem ich sofort<lb/>
+intervenierte, erklärte, daß es unmöglich sei, da man ihm vor<lb/>
+einiger Zeit angeschossen hat, als er auf eine Mitteilung des<lb/>
+Mödlinger Bezirkshauptmannes das alles in Ordnung sei, wenn er<lb/>
+einem Ausländer einen österreichischen Paß geben würde. Als<lb/>
+die Sache dann aufflog hieß es, <name type="person" ref="per:97879">Rösch</name> sei schuld. Aus prin<lb break="no"/>zipiellen Gründen würde er deshalb einer solchen Lösung nicht<lb/>
+mehr zustimmen. Ich teile dies sofort dem Hofrat telefonisch<lb/>
+mit. Da die Bezirkshauptmannschaft Paßbehörde in erster Instanz<lb/>
+ist, konnte ich ihm nur mitteilen, daß <name type="person" ref="per:97879">Rösch</name> dem Ministerial<lb break="no"/>rat <name type="person" ref="per:137059">Hermann</name>, dem Leiter der Paßabteilung, nur Mitteilung machte,<lb/>
+daß er davon nichts zu wissen braucht. <choice><choice><sic>Her</sic><corr>Der Herr</corr></choice></choice> Hofrat war er<lb break="no"/>staunt, daß ich ihm in der Früh sofort in dieser Angelegenheit<lb/>
+verständigte. Noch mehr erstaunt war er, als er erfuhr,<lb/>
+daß wir erst um l/2 2 Uhr morgens nach Hause gekommen sind,<lb/>
+weil man uns in Vorarlberg in Götzis bei einer Versammlung<lb/>
+die Antenne abgebrochen hat und sogar versuchte, den Reifen<lb/>
+aufzuschlitzen. Typisch für das österreichische Fremdenver<lb break="no"/>kehrsland war, daß wir bis Landeck fahren mußten, bevor wir<lb/>
+einen Ersatzreifen kaufen konnte, da Sonntag war.<lb/>
+</p>
+            <p xml:space="preserve">MR <name type="person" ref="per:112946">Schleifer</name> war ganz verzweifelt, daß es bis jetzt noch<lb/>
+immer nicht geglückt war, den Kokspreis und die Kohlenpreis<lb break="no"/>regelung soweit fertig zu machen, daß sie am Dienstag in der<lb/>
+Preiskommission verabschiedet werden kann. Er meinte, daß es<lb/>
+unmöglich sei, die Preise unter S 2,–– zu fixieren. KommRat<lb/>
+<name type="person" ref="per:121792">Steidl</name>, der Obmann des Gremiums, und Dr. <name type="person" ref="per:134959">Widhalm</name>, der Sekretär,<lb/>
+hatten sich aber bereits bei mir angemeldet. Ich war deshalb<lb/>
+überzeugt, daß wir den Nervenkrieg gewonnen hatten. Tatsächlich<lb/>
+konnte ich dann sowohl mit <name type="person" ref="per:121792">Steidl</name>, als auch mit der VÖEST,<lb/>
+<pb n="05-0393" facs="05_1971-03-29_0393.jpg"/>Direktor <name type="person" ref="per:97729">Matthes</name> und <name type="person" ref="per:127100">Platzer</name> vereinbaren, daß der Preis nicht<lb/>
+S 2,07 sondern S 1,95 betragen wird. <name type="person" ref="per:112946">Schleifer</name> wurde beauftragt,<lb/>
+die einzelnen Durchrechnungen bis am Nachmittag vorzunehmen,<lb/>
+damit er mit den Importeuren ebenfalls deren Abgabepreise ver<lb break="no"/>handeln konnte. Die Importeure machten nun ganz große Schwierig<lb break="no"/>keiten. Sie hatten sich ja schon errechnet, daß sie als die<lb/>
+mächtigen Vertreter der Reviere sowohl von <choice><choice><sic>Donetzer</sic><corr>Donezker?</corr></choice></choice>, die BRIKO,<lb/>
+als von Pohl, Pohlkarbon, als auch die tschechischen Reviere<lb/>
+in Zukunft den Preis mehr oder minder diktieren konnten. Da<lb/>
+die Kleingewerbetreibenden sowohl der Kleinhandel, als auch<lb/>
+der Rutschen und Streckenhandel von diesen Angst haben, waren<lb/>
+sie bereit, auf einen Teil ihrer Spannen zu verzichten- Ebenso<lb/>
+verzichtete die VÖEST auf 15 % ihres Gewinnes. Nur Komm.Rat<lb/>
+<name type="person" ref="per:136809">Sulke</name> wollte bei der Nachmittagssitzung unbedingt noch beweisen,<lb/>
+daß er ein richtiger Kämpfer ist und erklärte, sie würden dieser<lb/>
+Regelung nie ihre Zustimmung geben. Ich fuhr ihm dabei gleich<lb/>
+ganz energisch an und erklärte, daß damit der Versuch als ge<lb break="no"/>scheitert zu betrachten sei. Ich beabsichtige nämlich nicht,<lb/>
+gegen die Interesse von Handel, Gewerbe und Industrie eine<lb/>
+Entscheidung zu treffen. Entweder sie akzeptieren dieses<lb/>
+Kompromiß, das letzten Endes von ihnen selbst vorgeschlagen<lb/>
+wurde, oder es gibt keine einvernehmliche Regelung und damit<lb/>
+auch überhaupt keine Regelung.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Arbeitsgemeinschaft für Gemeinwirtschaft hielt ich<lb/>
+einen Vortrag über die österreichische zukünftige Wirtschafts<lb break="no"/>politik. Da ich mich nach wie vor mit meinem Magen in einem<lb/>
+saumäßigen Zustand befinde, konnte ich weder mein Feuerwerk<lb/>
+noch mein Maschinengewehr, d.h. meine schnelle Redensart ein<lb break="no"/>setzen. Interessanterweise aber kam diese neue Methode des<lb/>
+langsamen Sprechens und des überlegten Ausdrückens gut an.<lb/>
+Da ich die Materie aus dem <choice><choice><sic>ff</sic><corr>Effeff</corr></choice></choice> beherrsche, gelang es mir<lb/>
+glaube ich wirklich, obwohl ich vollkommen frei sprach, ein<lb/>
+gutes Referat hinzulegen.<lb/>
+</p>
+            <pb n="05-0394" facs="05_1971-03-29_0394.jpg"/>
+            <p xml:space="preserve">Anschließend an dieses Referat beglückwünschte mich<lb/>
+<name type="person" ref="per:97789">Ockermüller</name> und ich nützte gleich die Gelegenheit ihm<lb/>
+mitzuteilen, daß GenDir <name type="person" ref="per:122965">Treichl</name> von der CA in Zürich, er<lb/>
+war gekommen dort meinen Vortrag zu hören, mir folgende<lb/>
+Mitteilung machte: Er, Dr. <name type="person" ref="per:122965">Treichl</name>, könnte nicht gut mit<lb/>
+<name type="person" ref="per:97789">Ockermüller</name> das Problem Lenzing, Stickstoffwerke besprechen.<lb/>
+Er, <name type="person" ref="per:97789">Ockermüller</name>, müßte aber wissen, daß <name type="person" ref="per:122965">Treichl</name> bereit<lb/>
+wäre, die Stickstoffwerke an Lenzing zu beteiligen. <name type="person" ref="per:122965">Treichl</name><lb/>
+ist der Meinung, daß die Acryl-Faser-Produktion mit 8,500<lb/>
+zwar eine gute Anfangslösung für Lenzing darstellt, daß sie<lb/>
+aber auf lange Sicht gesehen nur mit einer größeren Einheit<lb/>
+konkurrenzfähig sein wird. <name type="person" ref="per:97789">Ockermüller</name> will derzeit noch<lb/>
+keine Entscheidung in dieser Frage treffen. Er glaubt, daß erst<lb/>
+Mitte 1975 dieses Problem aktuell werden wird.<lb/>
+</p>
+            <p xml:space="preserve">GenDir.-Stv. <name type="person" ref="per:97429">Feichtinger</name> und Dkfm. <name type="person" ref="per:97671">Kreutler</name> von der ÖMV er<lb break="no"/>zählten mir, daß nun die westlichen Gesellschaften und auch<lb/>
+die ÖMV die Berechnungen über die Erhöhungen der Ölpreise<lb/>
+abgeschlossen hat. Sie werden in der nächsten Zeit bei mir<lb/>
+aufkreuzen und zwar werden alle Gesellschaften vertreten sein,<lb/>
+d.h. es werden über 20 Personen kommen, um mir das Elaborat<lb/>
+zu übergeben. Ich ließ den beiden keinen Zweifel, daß sie<lb/>
+sich ruhig Zeit lassen könnten, weil in den nächsten<lb/>
+garantiert keine Entscheidung fallen würde. Bei dieser Aus<lb break="no"/>sprache wies <name type="person" ref="per:97429">Feichtinger</name> darauf hin, daß die Verhandlungen<lb/>
+mit TAL noch immer nicht abgeschlossen sind. Ich erzählte<lb/>
+Ihnen, daß der Geschäftsführer der Transalpinen Ölleitung,<lb/>
+Dr. <name type="person" ref="per:137066">Büchlmann</name>, in Innsbruck mit mir reden wollte und ich<lb/>
+auch tatsächlich mit ihm auch eine kurze Aussprache hatte.<lb/>
+Bei dieser Gelegenheit ließ mich Dr. <name type="person" ref="per:137066">Büchlmann</name> wissen, daß<lb/>
+er glaube, daß es möglich sein müßte, die Differenzen die<lb/>
+zwischen dem Anbot der TAL und dem Anbot der ÖMV noch ex<lb break="no"/>istieren, zu halbieren und dadurch dieses leidige Problem<lb/>
+aus der Welt zu schaffen. Da <name type="person" ref="per:137066">Büchlmann</name> aber nicht wünscht,<lb/>
+daß ich bereits in der jetzigen Phase eingreife, er andererseits<lb/>
+dieses Offert mitteilte, habe ich der ÖMV strengst vertraulich<lb/>
+diese Mitteilung weitergegeben. Ich glaube, daß wenn man will,<lb/>
+müßte es möglich sein, dieses Problem aus der Welt zu schaffen.<lb/>
+</p>
+            <pb n="05-0395" facs="05_1971-03-29_0395.jpg"/>
+            <p xml:space="preserve">Dr. <name type="person" ref="per:97646">Koppe</name> erklärte mir, daß die APA aus Vorarlberg lauter<lb/>
+tendenziöse Meldungen, die größtenteils vollkommen falsch<lb/>
+waren, über meinen Aufenthalt in Vorarlberg rausgegeben hat.<lb/>
+Unter anderem erklärte diese Agentur, daß ich erklärt<lb/>
+haben soll, wenn ich die Stromkompetenzen in meinem Ressort<lb/>
+haben werden, daß ich dann sofort die Strompreise erhöhen<lb/>
+werde. Ich kann mir nun erklären, wieso alle Politiker, die<lb/>
+bis jetzt in Vorarlberg irgendwelche zu tun hatten,<lb/>
+gerade von dort immer mit Falschmeldungen eingedeckt wurden,<lb/>
+tendenziös wurde sowohl die Äußerung des seinerzeitigen Vize<lb break="no"/>kanzlers <name type="person" ref="per:98091">Withalm</name> gebracht, der erklärte, wenn er Steuer zahlen<lb/>
+müsse, würde er aus der Politik ausscheiden, genauso wie Präs.<lb/>
+<name type="person" ref="per:97346">Benya</name> des Gewerkschaftsbundes, ebenfalls durch eine Falsch<lb break="no"/>meldung aus Vorarlberg größte Schwierigkeiten hatte. Ich er<lb break="no"/>suchte <name type="person" ref="per:97646">Koppe</name> bei der APA dieses Verhalten zu klären und<lb/>
+schärfstens dagegen zu protestieren.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Ministerratsvorbesprechung kam wieder das Problem<lb/>
+der Gutachten der einzelnen Ressorts zu Gesetzentwürfen von<lb/>
+anderen Ressort zur Debatte. <name type="person" ref="per:97668">Kreisky</name> meinte, der Ressortchef<lb/>
+müßte jeden Entwurf sehen. Dies ist eine neue Stellungnahme<lb/>
+von ihm, denn bis jetzt war er der Meinung, daß selbstver<lb break="no"/>ständlich die anderen Ressorts jeder die Möglichkeit hat,<lb/>
+seine Beamtenstellungnahme dem Minister offiziell zu über<lb break="no"/>mitteln. <name type="person" ref="per:97525">Häuser</name> erklärte sich außerstande, jedes Gesetz<lb/>
+zu begutachten ob seine Beamten nicht grundsätzlich eine<lb/>
+Meinung vertreten, die entgegen der sozialistischen Regierungs<lb break="no"/>politik wäre. <name type="person" ref="per:97488">Gratz</name> meinte, er sehe jedes Gesetz und<lb/>
+behielt sich jede Stellungnahme vor. <name type="person" ref="per:97525">Häuser</name> konterte darauf,<lb/>
+wieso er dann in dem Arbeitszeitgesetzentwurf den <name type="person" ref="per:97525">Häuser</name><lb/>
+ausgeschickt hatte, so entschieden gegen die gewerkschaftliche<lb/>
+und sozialistische Regelung polemisiert hat. Er hat unter<lb/>
+anderem seinen Beamten durchlassen, daß sie geschrieben haben,<lb/>
+wenn dies Gesetz wird, könnte die Butterfly nicht mehr ge<lb break="no"/>spielt werden. Ich habe wirklich den Eindruck, daß wir am<lb/>
+meisten noch dieses Problem in der Hand haben. Sosehr auch<lb/>
+manchmal <name type="person" ref="per:97543">Heindl</name> und <name type="person" ref="per:97646">Koppe</name> sicher denken, daß <name type="person" ref="per:98053">Wanke</name> mit<lb/>
+seinen überbürokratischen Lösungen über das Ziel hinausschießt,<lb/>
+<pb n="05-0396" facs="05_1971-03-29_0396.jpg"/>so sehr muß ich bei konkreten Fällen feststellen, daß es<lb/>
+nur die Organisationsform war, die wir bis jetzt geschaffen<lb/>
+hatten, daß uns diese Lapsus nicht passieren können. Dabei habe<lb/>
+gerade unser Ressort die schwierigste Situation, weil wir<lb/>
+doch rein die Unternehmerinteressen vertreten sollen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> wies dann auch noch darauf hin, daß es eine Ver<lb break="no"/>fassungsgerichtshofentscheidung gibt, wenn ein Minister von<lb/>
+einem Beamten ein Gutachten verlangt, daß dieser Beamte<lb/>
+keine Weisung bekommen darf. Das Weisungsrecht bei Begutachter<lb break="no"/>tätigkeit erlischt.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> teilte auch mit, daß <name type="person" ref="per:97470">Geist</name> in der ÖIAG seine Tätig<lb break="no"/>keit aufgenommen hat. Außer von Schoeller-Bleckmann müßte<lb/>
+er das Styria-Problem lösen. Ja <name type="person" ref="per:97668">Kreisky</name> ist der Meinung, daß<lb/>
+in diesen beiden Betrieben es sehr bald zu einem wirtschaft<lb break="no"/>lichen Debakel kommen wird. Die Alpine ist nach Meinung von<lb/>
+<name type="person" ref="per:97668">Kreisky</name> ein aufgeblasener und management-schlecht geführter<lb/>
+Betrieb. Er spricht zwar nur immer von GenDir <name type="person" ref="per:135894">Fitzinger</name>, der<lb/>
+auch Alkoholiker sein soll, meint aber, davon bin ich überzeugt,<lb/>
+den gesamten Vorstand. Da er scheinbar in der Steiermark<lb/>
+auf Wahlreisen war, hat man ihm dort zugesetzt, daß das<lb/>
+Fohnsdorf gelöst werden müßte. Er fand nun den Ausdruck,<lb/>
+daß Fohnsdorf das österreichische Tennessee-Projekt werden<lb/>
+soll. Durch punktuelle Maßnahmen müsste diese Frage wie<lb/>
+eben in Amerika – Tennessee gelöst werden. Ich stehe aller<lb break="no"/>dings auf dem Standpunkt, daß bei 1.300 Beschäftigten, die<lb/>
+in Wirklichkeit nur aus politischen Gründen immer eine solche<lb/>
+Macht gehabt haben, es nicht notwendig sein wird, eine solche<lb/>
+Anstrengung zu machen, wie die Amerikaner in Tennessee wo<lb/>
+sie ja ganze Landstriche, größer fast als Österreich, sanieren<lb/>
+mußten. <name type="person" ref="per:97668">Kreisky</name> will mit <name type="person" ref="per:97664">Krainer</name>, <name type="person" ref="per:97935">Sebastian</name>, die beiden Landes<lb break="no"/>hauptleute der Steiermark, und den Bürgermeistern und den<lb/>
+Betriebsräten eine Aussprache herbeiführen, um das Kohlen<lb break="no"/>problem in Angriff zu nehmen. <name type="person" ref="per:98034">Veselsky</name> meinte, daß seinerzeit<lb/>
+Philips sich interessiert hätte, nach Fohnsdorf zu gehen,<lb/>
+daß aber <name type="person" ref="per:97664">Krainer</name> dies verhinderte. Hier stellte ihn <name type="person" ref="per:97668">Kreisky</name><lb/>
+<pb n="05-0397" facs="05_1971-03-29_0397.jpg"/>sofort richtig, daß sowohl <name type="person" ref="per:97664">Krainer</name> als auch <name type="person" ref="per:97935">Sebastian</name><lb/>
+sich sehr bemüht haben, diese Philips-Produktionsstätte<lb/>
+nicht nach <choice><choice><sic>Grad</sic><corr>Graz?</corr></choice></choice>, sondern nach Fohnsdorf zu bringen. Ich<lb/>
+erklärte, daß das Komitee für die Bergbauförderungsver<lb break="no"/>gabe bereits Arbeiten leistet und mit Ende des Monats<lb/>
+April die endgültigen Ziffern vorliegen werden. Zu diesem<lb/>
+Zeitpunkt kann dann eine solche Aussprache erfolgen.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> meint, daß auch das Land Steiermark bereit sein<lb/>
+wird, für Fohnsdorf Mittel zur Verfügung zu stellen und<lb/>
+auch aus dem ERP-Fonds diesbezügliche Mittel kommen sollten.<lb/>
+<name type="person" ref="per:97525">Häuser</name> meinte auch, man könnte aus der Arbeitsmarktför<lb break="no"/>derung einige bedeutende Mittel zur Verfügung stellen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97632">Kirchschläger</name> möchte für die Anfragebeantwortung der einzelnen<lb/>
+Ressorts jeweils 80 Exemplare haben, damit er diese der<lb/>
+Vertretungsbehörde schicken kann.<lb/>
+</p>
+            <p xml:space="preserve">Anmerkung für <name type="person" ref="per:98053">Wanke</name>:<lb/>
+</p>
+            <p xml:space="preserve">Bitte veranlassen.<lb/>
+</p>
+            <p xml:space="preserve">Der Handelsminister der USA, <name type="person" ref="per:136692">Stans</name>, kommt am 1. Mai um<lb/>
+15.00 Uhr nach Wien und fliegt am Dienstag, den 4.5.,<lb/>
+um 8.00 Uhr früh ab. Er meint, wenn ich und er ihn empfangen,<lb/>
+sollten wir ihn auch gemeinsam betreuen.<lb/>
+</p>
+            <p xml:space="preserve">Anmerkung für <name type="person" ref="per:97543">Heindl</name>!<lb/>
+</p>
+            <p xml:space="preserve">Bitte alles veranlassen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97632">Kirchschläger</name> möchte auch, daß wir uns um eine internationale<lb/>
+Universiät für das große UNIDO-Gebäude am Donaupark interes<lb break="no"/>siert. Es könnte ein Campus mit 75 Professoren und 500 Stu<lb break="no"/>denten errichtet werden, denn die UNO und die UNESCO wünschen<lb/>
+<pb n="05-0398" facs="05_1971-03-29_0398.jpg"/>daß über Friedensforschung und Umweltschutz ein euro<lb break="no"/>päischer Staat auftritt. Wir wären der 1. der sich da<lb break="no"/>rum bemüht, die Kosten betragen 1 Mio. Dollar pro Jahr.<lb/>
+<name type="person" ref="per:97442">Firnberg</name>, aber auch <name type="person" ref="per:97488">Gratz</name> hatten Bedenken, weil sie annehmen,<lb/>
+daß dann der Finanzminister kaum mehr Gelder für ihre Uni<lb break="no"/>versitäten zur Verfügung stellt. <name type="person" ref="per:97668">Kreisky</name> meinte aber, man<lb/>
+müßte international stärker in Erscheinung treten.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97632">Kirchschläger</name> berichtete auch über das Ost-West methodologische<lb/>
+Institut, an dem von der Sowjetunion <name type="person" ref="per:97500">Gwischiani</name> sehr interessiert<lb/>
+sei. Da die Franzosen aber für dieses Institut in der zweiten<lb/>
+Generation zur Verfügung stehen haben, hat Österreich kaum<lb/>
+eine Chance hier in Erscheinung zu treten.<lb/>
+</p>
+            <p xml:space="preserve">Ich besprach mit <name type="person" ref="per:97632">Kirchschläger</name> auch die Idee, daß Österreich<lb/>
+in einzelne Kommissionen der COMECON eintreten sollen.<lb/>
+<name type="person" ref="per:97632">Kirchschläger</name> lehnte dies ganz entschieden ab, da er dann<lb/>
+auf dem Standpunkt steht, wir würden dann in unserer po<lb break="no"/>litischen Unabhängigkeit vom Westen als ein reiner Satellit<lb/>
+Sowjetunions betrachtet werden. Er meinte sogar, wir<lb/>
+würden dann hinter Finnland rangieren. Meine Bedenken sind<lb/>
+anderer Natur, wenn wir nämlich z. B. in die Maschinen<lb break="no"/>kommission der COMECON eintreten, kann es uns passieren,<lb/>
+daß die COMECON dann uns immer weitere Ausschüsse an<lb break="no"/>bietet und wir dann auf diese Art und Weise wirklich<lb/>
+integriert werden. Auf alle Fälle ist dieses Projekt nicht<lb/>
+mehr weiter zu verfolgen, da <name type="person" ref="per:97632">Kirchschläger</name> große außen<lb break="no"/>politische Bedenken hat.<lb/>
+</p>
+            <p xml:space="preserve">Spät abends rief mich noch MR. <name type="person" ref="per:112946">Schleifer</name> zu Hause an und<lb/>
+erklärte mir, daß er jetzt doch mit den Importeuren scheitern<lb/>
+würde. Er hat zwar gegen den Willen der Importeure, auch<lb/>
+ich konnte sie bis zu diesem Zeitpunkt nicht überzeugen, daß<lb/>
+es zielführend ist, dieser Regelung zuzustimmen, er hatte<lb/>
+also gegen den Willen der Importeure eine Berechnung über<lb/>
+die Einbruchstationen gemacht. Nun muß er aber noch den<lb/>
+Donauweg berechnen und hier stellte sich heraus, daß eine<lb/>
+<pb n="05-0399" facs="05_1971-03-29_0399.jpg"/>wesentliche Verbilligung des Kokses möglich wäre. Deshalb<lb/>
+lehnen nicht nur die Importeure, sondern auch der Handel,<lb/>
+ganz entschiede diese Variation ab. Ich empfahl ihm diese<lb/>
+Relation halt nicht jetzt zu bestimmen, sondern in der<lb/>
+Preiskommission nur allgemein darüber zu diskutieren.<lb/>
+In weiterer Folge könnte dann die Importeure, wenn sie<lb/>
+die notwendigen Schiffe haben, die Kohle über den Donauweg<lb/>
+nach Österreich bringen, damit kommen wir auch aus dem<lb/>
+Dilemma heraus, daß wir nicht den Weltmarktpreis diktieren,<lb/>
+sondern sie einen wesentlich höheren Weltmarktpreis durch<lb/>
+die Frachtverbilligung erreichen könnten. Die Importeure<lb/>
+wehren sich nämlich bei den Besprechungen die ich bisher mit<lb/>
+ihnen geführt habe dagegen, daß Österreich ihren Weltmarkt<lb break="no"/>preis von 43,88 Dollar nicht akzeptiert, sondern nach Durch<lb break="no"/>rechnung von oben herunter bei einem Verbraucherpreis von<lb/>
+S 1,95<add>[überschrieben, 1,95 oder 1,--, Anm.]</add> nur ein Weltmarktpreis von 42 Dollar und etliche<lb/>
+Cents herauskommt. Wenn man nun die günstige Donaufracht<lb break="no"/>relation als Grundlage nimmt dann kann man sagen, daß der<lb/>
+Weltmarktpreis den Sie sich vorgestellt haben, auch tat<lb break="no"/>sächlich erreicht werden wird.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="05_0391_01" facs="05_1971-03-29_0391-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 29.3.1971</head>
+         </div>
+      </back>
+   </text>
+</TEI>

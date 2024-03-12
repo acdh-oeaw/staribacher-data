@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittwoch, der  3. Februar 1982</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band63_1982-02-03</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1982-02-03">Mittwoch, 3. Februar 1982</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-09-10">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="63-0120" facs="63_1982-02-03_0120.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Mittwoch, 3. Februar 1982<lb/>
+</p>
+            <p xml:space="preserve">GD <name type="person" ref="per:97315">Apfalter</name>, VÖEST-Alpine, verständigt mich, daß er jetzt in Moskau<lb/>
+mit Außenhandelsminister <name type="person" ref="per:112951">Patolitschew</name> und den zuständigen Organisa<lb break="no"/>tionen das Ministahlwerk weitestgehend vereinbart hat. Es wird ein ei<lb break="no"/>gener Kreditrahmen für 6 Mrd. S geschaffen und ein Bankenkonsortium<lb/>
+in Österreich verhandelt jetzt die Details. Bezüglich der Kompensa<lb break="no"/>tionslieferungen für den neuen sowjetischen Gasvertrag wird die VÖEST-<lb/>
+Alpine 1983 mit Röhrenlieferungen allerdings nicht für die Pipeline<lb/>
+sondern für Ölfelder im Rahmen von ca. 15 Mrd. S beginnen. Die Behaup<lb break="no"/>tung des sowj. Handelsrates <name type="person" ref="per:113078">Nikolaenko</name>, daß nichts für dieses Gas<lb break="no"/>geschäft geschieht, ist also eindeutig falsch. Auch die BRD hat eine<lb/>
+Aufspaltung, dort wahrscheinlich aus außenpolitischen Gründen, Mannes<lb break="no"/>mann wird 1 1/2 Mio. to Röhren in einem Spezialvertrag liefern, ohne<lb/>
+daß auf die Gaskompensation Bezug genommen wird.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97315">Apfalter</name> teilt mir auch mit, daß er keine gesetzliche Änderung der<lb/>
+Schrottregelung wünscht. Er wird versuchen mit der Handelskammer ein<lb/>
+neues Kompromiß auszuarbeiten, ohne daß dafür eine gesetzliche Schrott<lb break="no"/>regelungsänderung erfolgt. Damit bin ich sehr einverstanden, da eine<lb/>
+Kompromißlösung auch für mich die bessere Garantie wäre, daß die<lb/>
+VÖEST-Alpine tatsächlich mehr Schrott von der inländischen Aufbringung<lb/>
+bekommen kann.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Die Industriesektion soll die Verhandlung genau<lb/>
+verfolgen, damit wir, wenn sie scheitern sollten, doch eine Schrottre<lb break="no"/>gelungsänderung vorsehen.<lb/>
+</p>
+            <p xml:space="preserve">GD <name type="person" ref="per:97337">Bauer</name> von der ÖMV teilt mir auf meine Mitteilung, daß die sowjetische<lb/>
+Seite glaubt, wir verzögern das Gasgeschäft mit, daß der Leiter der<lb/>
+sowj. Sojusgasexport-Organisation GD <name type="person" ref="per:115018">Baranowski</name> erkrankt war und<lb/>
+jetzt neuerdings erkrankt ist, sodaß die sowjetische Seite immer<lb/>
+wieder verlangt hat, man sollte die Verhandlungen zu einem späteren<lb/>
+Zeitpunkt erst beginnen. Die europäischen Abnehmer haben jetzt festge<lb break="no"/>stellt, daß sie kaum 40 Mrd. m³ Erdgas aus der SU, sondern höchstens<lb/>
+30 Mrd. brauchen werden. Auch Österreich wird seine Abnahme wesentlich<lb/>
+reduzieren, die endgültige Menge kann aber erst genannt und vereinbart<lb/>
+werden, bis man die Preise oder zumindestens die Preisformel genau<lb/>
+kennt und die zu erwartenden Preise daraus annähernd berechnen kann.<lb/>
+Derzeit bietet die SU ungeheure Übermengen von Gas an, die die ÖMV<lb/>
+gar nicht mehr übernehmen kann. Der größte Teil wird nach Italien resp.<lb/>
+</p>
+            <pb n="63-0121" facs="63_1982-02-03_0121.jpg"/>
+            <p xml:space="preserve">Frankreich über unsere Pipelines weitergeleitet. <name type="person" ref="per:97337">Bauer</name> behauptet,<lb/>
+<name type="person" ref="per:113078">Nikolaenko</name> ist total falsch informiert oder erzählt mir bewußt falsche<lb/>
+Tatsachen. Er wird mit <name type="person" ref="per:113078">Nikolaenko</name> beim heutigen sowjetischen Abschieds<lb break="no"/>empfang darüber sehr deutlich reden. Tatsächlich teilt mir dann <name type="person" ref="per:113078">Niko<lb break="no"/>laenko</name> beim Empfang abends mit, daß <name type="person" ref="per:97337">Bauer</name> diesbezüglich mit ihm ge<lb break="no"/>sprochen hat. Auch der sowj. Botschafter <name type="person" ref="per:114403">Jefremow</name>, der das Gasgeschäft<lb/>
+auch unbedingt weitertreiben möchte, wird von mir und <name type="person" ref="per:113078">Nikolaenko</name> über<lb/>
+die verschiedenen Aussagen informiert. Er selbst möchte unter allen<lb/>
+Umständen, daß ich mich auf österreichischer Seite und er wird es<lb/>
+in Moskau neuerdings tun, sich stark einsetzt, damit endlich die Ver<lb break="no"/>tragsverhandlungen weitergehen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Bitte die notwendigen Sektionen davon ver<lb break="no"/>ständigen, damit auch sie entsprechende Informationen weiterverfolgen.<lb/>
+</p>
+            <p xml:space="preserve">Die Fa. MEWA-Habsburg möchte gerne einen Investitionszuschuß aus der<lb/>
+Bekleidungsindustrieförderung. Hier gibt es zwei Gründe, warum SC <name type="person" ref="per:111737">Marsch</name><lb/>
+dies bis jetzt abgelehnt hat. Auf der einen Seite ist ein Leasingver<lb break="no"/>trag mit MEWA-Habsburg, von einer allerdings der Mutter gehörenden<lb/>
+Leasingfirma. Leasingverträge wurden bis jetzt noch niemals subven<lb break="no"/>tioniert. Darüber hinaus erklärt <name type="person" ref="per:111737">Marsch</name>, daß eigentlich die Wäschereien<lb/>
+gar nicht mehr in Hinkunft eine Förderung bekommen werden. Am 12. Febru<lb break="no"/>ar wird der Beirat darüber befinden. Dir. <name type="person" ref="per:1137622">Kjölbye</name> erklärt allerdings,<lb/>
+daß die MEWA jetzt bei der Firma Habsburg 60 Mio. schon investiert hat<lb/>
+und mit dem Zuschuß fest rechnet. Beim Rausgehen erklärt er mir, daß<lb/>
+jetzt die Verhältnisse zwischen der Leitung und dem Betriebsrat sich<lb/>
+grundsätzlich gebessert haben. Die Betriebsräte hätten jetzt keinerlei<lb/>
+Bedenken jetzt mehr gegen die Verleihung des Staatswappens oder noch<lb/>
+viel weniger gegen die Investitionsförderung.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Jour fixe AK setzen.<lb/>
+</p>
+            <p xml:space="preserve">Ö3 macht jetzt eine neue Sendereihe, "Damals war ich 16". Zu meiner<lb/>
+größten Verwunderung sind sie auf mich verfallen, ich soll aus dieser<lb/>
+Zeit meine Erfahrungen und Eindrücke schildern. Selbstverständlich<lb/>
+war ich dazu bereit, eine einzige Frage bereitete nur Schwierigkeiten.<lb/>
+Damals war ich nämlich arbeitslos und gerade nach 14-tägiger Polizei<lb break="no"/>haft und von der Schule relegiert im Anklagestand, § 4 und 5 des Staats<lb break="no"/>schutzgesetzes. Die Frage, die ich schwer beantworten konnte, ob ich<lb/>
+diese Zeit noch einmal erleben wollte, trotzdem ich dann statt 61 16<lb/>
+<pb n="63-0122" facs="63_1982-02-03_0122.jpg"/>wäre, erklärte ich dezidiert, nein, denn diese auch für Österreich sehr<lb/>
+schlechte Zeit wollte ich weder selbst, noch daß das österreichische<lb/>
+Volk so etwas miterlebt. Fraglich war auch für mich, ob ich heute,<lb/>
+wenn ich 16 wäre, ein Atomgegner wäre. Dies konnte ich schwer be<lb break="no"/>antworten. Erklärte nur, daß ich in diesem Fall versuchen würde, ein<lb/>
+objektives Urteil selbst zu bilden.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: <name type="person" ref="per:123301">Vecsei</name> hat erklärt, es macht keine Schwierigkeit<lb/>
+dann ein Tonband mit dieser Sendung und die Liste der anderen Interview<lb break="no"/>ten zu bekommen.<lb/>
+</p>
+            <p xml:space="preserve">Das Bundesgremium Weingroßhandel hat Schwierigkeiten mit der EG-Wein<lb break="no"/>preisverordnung. Österreich hat sich vertraglich verpflichtet eine<lb/>
+Preisunterschreitung und eine Verlagerung zu verhindern. Dazu werden<lb/>
+Referenzpreise festgelegt. Derzeit betragen sie 19,20 S, 1981 sogar<lb/>
+20.–– S. Der österreichische Weinhandel hat jetzt nach Frankreich<lb/>
+9.000 hl Riesling exportiert und den Referenzpreis tatsächlich um<lb/>
+1,50 S unterschritten. Die französischen Importeure haben dann diesen<lb/>
+Betrag als Werbezuschuß oder als irgendwie getarnte <choice><choice><sic>Refarzie</sic><corr>?</corr></choice></choice> von den<lb/>
+österreichischen Exportfirmen zurückbekommen. Dies widerspricht ein<lb break="no"/>deutig der Vertragsvereinbarung. Um in Hinkunft dies zu vermeiden<lb/>
+wird vom Gremium der Referenzpreis für Frankreich nicht aus den allge<lb break="no"/>meinen Richtlinien errechnet, sondern neben allen Ländern, wo 19,20 S<lb/>
+bleibt, wird bei Frankreich aufgrund des Tageskurses der jeweilige<lb/>
+Referenzpreis errechnet. KR <name type="person" ref="per:132520">Petermichl</name> war über diesen Lösungsvorschlag,<lb/>
+der wieder einmal von MR <name type="person" ref="per:113091">Bachmayer</name> gekommen ist, sehr einverstanden.<lb/>
+MR <name type="person" ref="per:113091">Bachmayer</name> versteht es wirklich hervorragend immer wieder vernünftig<lb/>
+Kompromisse zu finden, wie ich ihm auch stets bei Sitzungen lobend<lb/>
+bescheinige.<lb/>
+</p>
+            <p xml:space="preserve">Die Berghauptleute haben jetzt 2 Tage ihre Probleme mit der OB bespro<lb break="no"/>chen. Zum Abschluß haben sie mich eingeladen, um doch die Einzelheiten<lb/>
+mit mir auch im Detail zu besprechen. Die Hauptproblematik liegt darin,<lb/>
+daß die Berghauptmannschaft für Wien, NÖ und Burgenland immer mehr<lb/>
+Agenden bekommt, hier werden auch tatsächlich immer mehr neue Betriebe<lb/>
+eröffnet. Neue Bohrungen vorgenommen und dadurch die Tätigkeit der<lb/>
+Wiener Berghauptmannschaft wesentlich vergrößert. In den anderen Bundes<lb break="no"/>ländern dagegen stagniert die Bergbautätigkeit. Der Rechnungshof hat<lb/>
+daher bei seiner Überprüfung festgestellt, daß die Berghauptmannschaf<lb break="no"/>ten überbesetzt sind. Eine regionale Verschiebung des Belegstandes<lb/>
+ist aber sehr schwer möglich. Der Berghauptmann von Wien, Dipl.Ing.<lb/>
+</p>
+            <pb n="63-0123" facs="63_1982-02-03_0123.jpg"/>
+            <p xml:space="preserve"><name type="person" ref="per:113369">Wüstrich</name>, hat daher an einem Brief an mich sich bitter beschwert, daß<lb/>
+er immer weniger Mitarbeiter hat. Die Bergbehörde nimmt von der nach<lb break="no"/>geordneten Dienststelle immer die besseren Leute weg, er war sehr<lb/>
+überrascht von mir zu hören, daß jetzt auch Dipl.Ing. <name type="person" ref="per:1137540">Klein</name> zu MR<lb/>
+<name type="person" ref="per:112190">Mock</name> kommen soll. Er ersuchte mich und dem mußte ich sofort zustimmen,<lb/>
+daß man eine solche Abkommandierung erst dann vornimmt, bis er einen<lb/>
+Ersatz eingeschult hat. Zwischen der Obersten Bergbehörde, sprich<lb/>
+der Sektion V und der Personalsektion I, hat es wegen der Besetzung<lb/>
+der Berghauptmannschaften einen Kompetenzstreit gegeben. Dadurch sind<lb/>
+berechtigte Ansuchen der Berghauptmannschaften unerledigt geblieben.<lb/>
+Diese Frage konnte jetzt endgültig bereinigt werden, worüber Dipl.Ing<lb/>
+<name type="person" ref="per:113369">Wüstrich</name> sehr befriedigt ist.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: In Hinkunft sind solche Auseinandersetzungen<lb/>
+womöglich zu vermeiden.<lb/>
+</p>
+            <p xml:space="preserve">Knapp bevor ich zum russischen Empfang gefahren bin, hat der ORF ge<lb break="no"/>meldet, daß die NATO-Staaten in Brüssel beschlossen haben, das sowje<lb break="no"/>tische Embargo zu verstärken. Zu meiner noch größeren Überraschung<lb/>
+hat der sowj. Botschafter mich dann ersucht, er möchte den genauen<lb/>
+Wortlaut der Mitteilung von mir erhalten. Ich habe ihm zugesagt, daß<lb/>
+wir die Mitteilung über die österreichischen Medien und Fernschreiben<lb/>
+ihm zustellen werden. Ich glaube, zweckmäßiger ist es, wenn unsere<lb/>
+Pressestelle alle die Informationen sammelt und dann dem sowj. Presse<lb break="no"/>sekretär zur Verfügung stellt. Dieser hat mich nämlich beim Empfang<lb/>
+angesprochen und gemeint, er wäre schon bei meinem Pressefrühstück<lb/>
+einige Male gewesen. Ich halte es für sehr zweckmäßig wenn Mag. <name type="person" ref="per:117023">Pein</name><lb/>
+mit ihm diesbezüglich den Kontakt aufnimmt. Ich selbst möchte nicht<lb/>
+direkt mit dieser an und für sich sicherlich sehr harmlosen Informa<lb break="no"/>tionstätigkeit zu tun haben. Andererseits ist es selbstverständlich<lb/>
+für mich, daß wenn der sowj. Botschafter einen solchen Wunsch äußert,<lb/>
+ich ihn auch erfüllen möchte.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte Entsprechendes veranlassen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="63_0119_05" facs="63_1982-02-03_0119-05.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 3.2.1982</head>
+         </div>
+         <pb n="63_0119_06" facs="63_1982-02-03_0119-06.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

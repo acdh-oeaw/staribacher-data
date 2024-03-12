@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der  4. Februar 1972</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band09_1972-02-04</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1972-02-04">Freitag, 4. Februar 1972</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-09-19">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="09-0138" facs="09_1972-02-04_0138.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Freitag, 4. Feber 1972<lb/>
+</p>
+            <p xml:space="preserve">Bei den Plenarsitzungen mit den Rumänen stellte ich fest, dass bei<lb/>
+den Rumänen zwei Leute stenographische Protokolle führen. Bei uns,<lb/>
+obwohl mindestens 30 Leute daran teilnehmen, machen ich mir glaube ich<lb/>
+als Einziger Aufzeichnungen. Ich frage <name type="person" ref="per:97426">Fälbl</name>. wieso bei uns überhaupt kein<lb/>
+Protokoll über die Verhandlungen geführt wird. <name type="person" ref="per:97426">Fälbl</name> meint allerdings,<lb/>
+dass das Wichtigste dann in dem schriftlich gemeinsam festgelegten Proto<lb break="no"/>koll von dem Vorsitzenden gezeichnet wird und deshalb eigentlich Aufzeich<lb break="no"/>nungen über die Debatte und über die Entwicklung der einzelnen Punkte<lb/>
+gar nicht notwendig sei. Dieses Argument stimmt sicherlich gegenüber den<lb/>
+ausländischen Teilnehmern. Ich glaube nämlich kaum, dass ein Rumäne<lb/>
+jemals aus der Diskussion irgendwelche Schlüsse oder gar Beweise gegen<lb/>
+eine Meinungsauffassung vorbringen wird, die nicht dann auch im offi<lb break="no"/>ziellen Protokoll verankert ist. Für die internen Behauptungen glaube<lb/>
+ich gilt dies allerdings nicht. Ich könnte mir sehr gut vorstellen, dass<lb/>
+nach einiger Zeit vielleicht die Bundeskammer erklären wird, ihr Ver<lb break="no"/>treter hätte diese oder jene Aussage, die ich mache, falsch verstan<lb break="no"/>den und dieser nicht zugestimmt. Es wird allerdings dann ein Problem für<lb/>
+den Betreffenden sei, zu behaupte, dass ich es anders gesagt hätte, als<lb/>
+er auffasste, da keinerlei schriftliche Unterlagen vorliegen werden,<lb/>
+kann man theoretisch behaupten, was man will. Ich kann mit diesem Zu<lb break="no"/>stand glaube ich einverstanden sein. Ich habe mir allerdings nicht vor<lb break="no"/>gestellt, dass in einem Ministerium, in einer so wichtigen Angelegenheit,<lb/>
+Vertragsverhandlungen mit ausländischen Staaten keinerlei Aufzeich<lb break="no"/>nungen gemacht werden.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97426">Fälbl</name> war über die Rumänen sehr verärgert, weil sie 10 Minuten vor Beginn<lb/>
+der Sitzung erst neue Vorschläge zum offiziellen Protokoll vorgebracht ha<lb break="no"/>ben. Über alle Punkte konnte leicht eine Einigung gefunden werden.<lb/>
+unmöglich war es nur, ihnen ein Zugeständnis zu machen, sodass aus Koope<lb break="no"/>rationen, Produkte die nach Österreich eingeführt werden, zollbegünstigt<lb/>
+auf Grund der Kooperation behandelt werden. In dem seinerzeitigen Koope<lb break="no"/>rationsabkommen wurde in einem Briefwechsel bereits festgehalten, dass,<lb/>
+soweit die österr. Zollgesetzgebung es ermöglicht, natürlich auch diese<lb/>
+Produkte zollbegünstigt eingeführt werden können. Obwohl ich persön<lb break="no"/>lich auf dem Standpunkt steh, man sollte tatsächlich eine gesetzliche<lb/>
+Regelung finden, um auf Produkte aus der Kooperation<add>[eine]</add> Zollbegünstigung<lb/>
+einzuführen, hat das Finanzministerium, insbesondere die Finanzbüro<lb break="no"/>kratie dies aus formellen Gründen immer wieder abgelehnt. <name type="person" ref="per:98075">Willenpart</name><lb/>
+<pb n="09-0139" facs="09_1972-02-04_0139.jpg"/>vertritt dann auch noch den Standpunkt, dass eine solche Zollbegün<lb break="no"/>stigung auf Grund der Meistbegünstigungsklausel GATT-weit gegeben<lb/>
+werden müsste. Hier frage ich mich allerdings, ob es nicht in diesem<lb/>
+Fall möglich wäre, eben als Kriterium eine Kooperation, d.h. eine<lb/>
+Vertrag zwischen zwei Firmen als Grundlage und wenn es nicht anders<lb/>
+geht, einen Vertrag zwischen zwei Staaten als Grundlage für ein<lb/>
+spezifisches Produkt und somit klar eingegrenzt gegeben werden kann.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: Bitte neben den schon in Angriff genommenen aussen<lb break="no"/>politischen Gesichtspunkt auch diesen untersuchen zu lassen.<lb/>
+</p>
+            <p xml:space="preserve">Da die.Rumänen bei unserem weitergehenden Vorschlag, nämlich volle<lb/>
+Liberalisierung mit Schutzklausel a la Polen-Vertrag nicht unter<lb break="no"/>zeichnen konnten, einigten wir uns, dass wir diese Problem weiter<lb/>
+verfolgen wollten und gegebenenfalls über den Botschafter einen<lb/>
+endgültigen Abschluss tätigen könnten. Ich habe mit dem Vizemini<lb break="no"/>ster <name type="person" ref="per:139670">Popa</name> unter vier Augen neuerdings über dieses Problem gespro<lb break="no"/>chen. Er erklärte mir, dass die Rumänen keine Bedenken hätten, dies<lb/>
+sofort in Österreichern zuzugestehen. Da es auch überzeugt ist, dass<lb/>
+dieser Weg für eine Ausweitung des rum.-österr. Handels zielführend<lb/>
+wäre. Bedenken, die auf rum. Seite bestehen und die noch überprüft<lb/>
+werden müssten, ist, ob dadurch nicht eine GATT-Verletzung vorliegt.<lb/>
+Mein Einwand, dass wir die GATT-Konformität geprüft hätten und<lb/>
+Polen als GATT-Mitglied so etwas schon einmal akzeptiert hat,<lb/>
+war für ihn glaube ich nicht überzeugend. Ich nehme an- dass das<lb/>
+wirkliche Problem für sie ist, dass sie befürchten, wenn sie uns diese:<lb/>
+Zugeständnis machen, müssen sie es auch für alle anderen GATT-Staaten,<lb/>
+die an sie mit einer solchen Idee herantreten, gewähren.<lb/>
+</p>
+            <p xml:space="preserve">Dr. <name type="person" ref="per:139671">Fröhlich</name> von der OeNB berichtete über die Besprechung der Bankenver<lb break="no"/>treter. Die OeNB aber auch die Kommerzialbanken in Österreich sind bereit<lb/>
+der rum. Nationalbank beim Übergang vom Clearing auf den Freien<lb/>
+Warenverkehr, günstigere Konditionen über die Liquidität resp. die<lb/>
+Abwicklung der Clearingkonten zu gewähren, Dadurch hofft die OeNB, dass<lb/>
+die Rumänen bereit sein werden, im Jahre 1972 umzusteigen.<lb/>
+</p>
+            <pb n="09-0140" facs="09_1972-02-04_0140.jpg"/>
+            <p xml:space="preserve">Bei der VÖEST-Kooperation ergab sich eine finanzielle Schwierig<lb break="no"/>keit. <name type="person" ref="per:97315">Apfalter</name>, der Finanzdirektor, rief deshalb bei mir an und<lb/>
+sagte, die Österr. Kontrollbank, Dr. <name type="person" ref="per:97518">Haschek</name>, wäre bereit, aus<lb/>
+den 3 Mill. Zuschuss, die wir ihm voriges Jahr gegeben hatten,<lb/>
+1 Mill. für die VÖEST abzuzweigen. Er verlangte von mir die Zu<lb break="no"/>stimmung. Da <name type="person" ref="per:97518">Haschek</name> neben ihm stand, konnte ich gleich diesem<lb/>
+meine Stellungnahme auseinandersetzen. Ich weigerte mich ganz<lb/>
+strikte, eine Entscheidung zu treffen, wenn die Österr.<lb/>
+Kontrollbank Unterstützung gewährt. Ich erklärte, dass ich ausser<lb break="no"/>stande wäre, einer Firma eine solche Unterstützung zuzugestehen<lb/>
+und dann einer zweiten oder dritten, wenn z.B. die Mittel nicht mehr<lb/>
+ausreichen, oder wenn das vielleicht wirklich ein schlechteres<lb/>
+Geschäfte wäre oder ein besseres Geschäft ist, dann ich die Ent<lb break="no"/>scheidung treffen sollte. Dies sei Angelegenheit der Kon<lb break="no"/>trollbank und müsste unter dieser alleinigen Verantwortung geschehen.<lb/>
+<name type="person" ref="per:97518">Haschek</name> konnte mir sofort dagegen erwidern, dass in einem Vertrag,<lb/>
+den das Ministerium mit ihm geschlossen hat, eine solche Genehmi<lb break="no"/>gung ausdrücklich vorgesehen sei. Eine Rücksprache bei Min.Rat<lb/>
+<name type="person" ref="per:136490">Zienert</name>, der für Exportförderung zuständig ist, ergab, dass wir<lb/>
+tatsächlich eine solchen Vertrag abgeschlossen haben. Er behauptet<lb/>
+sogar, er hätte ihn mir zur Genehmigung vorgelegt. Auf eine Frage,<lb/>
+nah welche Kriterien er eine solche Entscheidung trifft, so sagte<lb/>
+er unbekümmert, nach volkswirtschaftlichen Gesichtspunkten. Angeblich<lb/>
+sei eine solche Genehmigung unbedingt erforderlich, weil es sich<lb/>
+hier um Staatsgelder handelt. <name type="person" ref="per:98053">Wanke</name> meinte, dass der Vertrag von<lb/>
+<name type="person" ref="per:97518">Haschek</name> ausgearbeitet wurde und uns nur als Rückendeckung für<lb/>
+<name type="person" ref="per:97518">Haschek</name> <name type="person" ref="per:136490">Zienert</name> unterschoben worden sei. Damit sei <name type="person" ref="per:97518">Haschek</name> gedenkt,<lb/>
+<name type="person" ref="per:136490">Zienert</name> in seinem Bewusstsein bestärkt, dass er etwas zu entscheiden<lb/>
+habe und ich in Wirklichkeit hineingelegt. Ich bin neugierig, was<lb/>
+<name type="person" ref="per:136490">Zienert</name> jetzt sagen wird, wenn er erfährt, dass dass den Vertrag,<lb/>
+ohne dass wir diese eine Million zuschiessen musste zustandegekommen<lb/>
+ist. Scheinbar hat <name type="person" ref="per:97518">Haschek</name> dann, wie mir <name type="person" ref="per:97315">Apfalter</name> mitteilte, doch<lb/>
+Bedenken gehabt, auf Grund meiner Stellungnahme diese Entscheidung<lb/>
+zu treffen. Es ist unwahrscheinlich, wie sich Beamte anmassen,<lb/>
+Entscheidungen zu fällen, ohne die entsprechenden Unterlagen tat<lb break="no"/>sächlich zu haben oder auch nur annähernd selbständige Unterlagen<lb/>
+zu besitzen. Sie haben auf Grund der Mitteilungen der Bank dann eine<lb/>
+Entscheidung zu bestätigen, übernehmen damit eine Verantwortung,<lb/>
+<pb n="09-0141" facs="09_1972-02-04_0141.jpg"/>ohne dass sie auch nur im entferntesten begründen können, warum<lb/>
+dies so geschieht und nicht anders. Ich kann mir nämlich sehr gut<lb/>
+vorstellen, dass im Zuge der weiteren Kooperationen Firmen dann abge<lb break="no"/>lehnt werden, die gerannt kommen und mit Recht uns dann vorwerfen<lb/>
+würden, dass wir der reichen VÖEST eine Subvention gewährt haben und einen<lb/>
+anderen Betrieb, der gar nicht finanziell so gut dasteht, dann ablehnen<lb/>
+Diese Überlegungen berühren scheinbar die Ministerialbürokratie kaum.<lb/>
+Ich bin gespannt, welche Information ich bekommen werde. <name type="person" ref="per:98053">Wanke</name> nimmt mit<lb/>
+Recht an, er wird sofort <name type="person" ref="per:97518">Haschek</name> angerufen haben, damit ihm der eine<lb/>
+entsprechende Begründung für den Vertrag und vor allem für sein<lb/>
+Verhalten liefert.<lb/>
+</p>
+            <p xml:space="preserve">Bei der 70-jährigen Jubiläumsausstellung der Köche überraschte es<lb/>
+mich, dass ich schon das zweite Mal eingeladen wurde und man von<lb/>
+mir keinerlei finanzielle Unterstützung verlangt. Obwohl diese<lb/>
+Veranstaltung den Verband der Köche an die 30.000 S kostet, sind sie<lb/>
+noch niemals um eine Subvention an mich herangetreten. Falls sie<lb/>
+dies aber einmal machen sollten, würde ich ihnen entweder einen<lb/>
+Preis nur widmen, oder wie ich erfahren konnte, teilen sie auch<lb/>
+Medaillen aus für die Teilnahme und da könnte ich einen solchen<lb/>
+Medaillensegen von Auszeichnungen über sie ergehen lassen. Medaillen<lb/>
+mit Dekret sind noch immer die billigste Art, sich bei jemanden in<lb/>
+Erinnerung zu rufen und ich glaube, dass die österr. Mentalität damit<lb/>
+mehr befriedigt wird als mit grösseren Subventionen an die Aussteller.<lb/>
+</p>
+            <p xml:space="preserve">Beim Mittagessen im Institut besprach ich mit <name type="person" ref="per:97570">Hrdlitschka</name>, <name type="person" ref="per:98010">Teschl</name>, ZS<add>[der Gewerkschaft der Chemiearbeiter]</add>,<lb/>
+<name type="person" ref="per:126880">Maderthaner</name>, ZBO der Neusiedler, <choice><choice><sic>BR</sic><corr>?</corr></choice></choice> <name type="person" ref="per:127041">Holzerbauer</name>, dem Fachsekretär für Pa<lb break="no"/>pier, <name type="person" ref="per:139673">Thiel</name>, dem Rechtsschutzsekretär der Gewerkschaft Chemie, sowie<lb/>
+<name type="person" ref="per:121991">Krenn</name>, dem Landessekretär für NÖ der Gew. d. Privatangestellten, sowie <name type="person" ref="per:133082">Au<lb break="no"/>racher</name> von der Arbeiterkammer die Wirtschaftskommissionssitzung am Montag,<lb/>
+Ich hatte eigentlich mit <name type="person" ref="per:98010">Teschl</name> vor längerer Zeit schon vereinbart,<lb/>
+dass ich in der Vorbesprechung versuchen werde, ihre Wünsche von<lb/>
+<name type="person" ref="per:114599">Turnauer</name>, dem Besitzer der Neusiedler, zugestanden zu erhalten, damit<lb/>
+wir uns die Wirtschaftskommission überhaupt ersparen. Wenn nämlich<lb/>
+einmal die Wirtschaftskommission entschieden hat, dass und selbst,<lb/>
+wenn das Urteil noch so günstig für die Belegschaft lautet, der Betrieb<lb/>
+eben das und jene unterlassen hat, dann ist diese Waffe ausgespielt.<lb/>
+<name type="person" ref="per:114599">Turnauer</name> wird dann vielleicht in der Öffentlichkeit als unfähig er<lb/>
+Chef dargestellt, hat aber meiner Meinung nach dann allen Grund zu<lb/>
+<pb n="09-0142" facs="09_1972-02-04_0142.jpg"/>sagen, und jetzt mache ich eine Politik, wie ich sie will.<lb/>
+Die Befürchtung, insbesondere des Zentralbetriebsrates, dass er<lb/>
+dann noch weitere Betriebe, Schlöglmühl und Weissenbach, schliessen<lb/>
+kann, könnte er dann umso hemmungsloser betrieben. Der Wunsch<lb/>
+von <name type="person" ref="per:97570">Hrdlitschka</name>, dass wir jetzt an dieses Verfahren ein umfang<lb break="no"/>reiches und für die Gewerkschaft sehr interessantes Programm,<lb/>
+wie es in der Papierindustrie weitergehen sollte, erstellen und<lb/>
+erzwingen sollten, ist meiner Meinung nach aus Termingründen nicht<lb/>
+möglich. Lt. Gesetz müssen wir, wenn ein Betrieb stillgelegt<lb/>
+wird, innerhalb 4 Wochen und ansonsten innerhalb 8 Wochen unsere<lb/>
+Entscheidung treffen. Eine so umfangreiche Untersuchung durch einen<lb/>
+Sachverständigen wie <name type="person" ref="per:97570">Hrdlitschka</name> wollte, ist innerhalb 8 Wochen<lb/>
+selbst, wenn die andere Seite nicht formelle Gründe findet, dies<lb/>
+abzulehnen, unmöglich. Erstens einmal bin ich überzeugt, dass<lb/>
+niemand einen Unternehmer zwingen kann, dass er seinem Sach<lb break="no"/>verständigen Unterlagen zeitgerecht geben muss. Selbst wenn sich<lb/>
+ein Sachverständiger findet, der in<add>[einem]</add> so kurzem Zeitraum den Neu<lb break="no"/>siedler Konzern und darüber hinaus die gesamte Papierindustrie unter<lb/>
+sucht, damit ein solches umfassendes Elaborat erstellt werden könn<lb break="no"/>te, so ist noch lange nicht gesagt, dass ihm die Unternehmer auch<lb/>
+zeitgerecht die notwendigen Unterlagen bis ins Detail hinein lie<lb break="no"/>fern. Die Gefahr, die ich sehe, ist, dass dann überhaupt nur ein<lb/>
+Elaborat vorliegt und für die Belegschaft gar nichts herausge<lb break="no"/>fetzt werden konnte. Die Stillegung von den vereinzelten veralteten<lb/>
+und kleinen Einheiten der Papierindustrie kann niemand<lb/>
+aufhalten. Was mir deshalb vorschwebt, ist, ohne dass man die Waffe<lb/>
+der Wirtschaftskommission ausspielt und vor allem dass man nicht,<lb/>
+dass wenn es selbst aus Termingründen zu einer solchen Sitzung<lb/>
+kommen muss, sie muss nämlich innerhalb von 7 Tagen einberufen wer<lb break="no"/>den, es sei denn, der Betriebsrat zieht seinen Antrag wieder zurück,<lb/>
+ist, dass sie nicht hochgespielt wird und dann der Fall nur eskaliert<lb/>
+und in der Öffentlichkeit eine grosse Auseinandersetzung darüber<lb/>
+entbrennt. In so einem Fall glaube ich kann man die Unternehmer<lb/>
+dazu bringen, dass sie, um ihr Image und ihren Namen nicht in<lb/>
+der Öffentlichkeit angegriffen zu sehen, bereit sind, Zugeständ<lb break="no"/>nisse zu machen. Für <name type="person" ref="per:97570">Hrdlitschka</name> ist das wieder eine prinzipielle<lb/>
+Frage, wo er gleichzeitig erzwingen will, dass ein soz. Handeis<lb break="no"/>minister eben nicht nur aus pragmatischen Überlegungen eine<lb/>
+Teillösung anstrebt, sondern dass eben das ganz grosse Konzept in<lb/>
+Angriff genommen wird. Die ÖPA selbst arbeitet an einem solchen<lb/>
+<pb n="09-0143" facs="09_1972-02-04_0143.jpg"/>Konzept, ich bin überzeugt davon, sie wird es auch früher oder<lb/>
+später dem Handelsministerium und auch der Gewerkschaft übermitteln.<lb/>
+Dann haben wir Zeit genug, über dieses Problem im einzelnen zu dis<lb break="no"/>kutieren und wenn die Gewerkschaft mit ihrer ganzen Kraft dahinter<lb break="no"/>steht, zweifellos auch dann Wünsche wie z.B. den Sozialfonds, durch<lb break="no"/>setzen können. Jetzt aber über die Wirtschaftskommission so etwas<lb/>
+zu erreichen, halte ich – da wir ja nur 8 Wochen maximal Termin ha<lb break="no"/>ben – für unmöglich. <name type="person" ref="per:97570">Hrdlitschka</name> hat nämlich ganz vergessen und<lb/>
+war sehr erstaunt, als ich ihm auseinandersetzte, dass wenn einmal<lb/>
+ein Kommissionsentscheid vorliegt, dann keinerlei Möglichkeiten mehr<lb/>
+bestehen, das Verfahren weiterzuführen. Ihm ist scheinbar vorgeschwebt,<lb/>
+dass unabhängig von dem Begehren, der Neusiedler Betriebsräte die Wirt<lb break="no"/>schaftskommission der Aufhänger wäre, um das allumfassende Papier<lb break="no"/>konzept zu verwirklichen. <name type="person" ref="per:133082">Auracher</name> teilte meine Meinung und ich<lb/>
+zweifle nicht, dass auch unsere Juristen, vor allem die der BHK<lb/>
+dieselbe Auffassung haben. <name type="person" ref="per:97570">Hrdlitschka</name> meinte allerdings, wenn eine<lb/>
+solche Entscheidung fallen würde, wäre das auch nur gut, denn dann<lb/>
+könnte man eben verlangen, dass die Gesetze entsprechende geändert<lb/>
+werden müssen. In diesem Fall ist das Betriebsrätegesetz zuständig<lb/>
+und <name type="person" ref="per:97525">Häuser</name> wird sich dann mit ihm herumstreiten müssen. Das Haupt<lb break="no"/>problem dieser Gesetzesbestimmung liegt überhaupt darin, dass keiner<lb break="no"/>lei Exekutionsmöglichkeiten für den Handelsminister oder eine<lb/>
+sonstige Stelle vorgesehen ist, wenn Daher die Kommission, selbst<lb/>
+wie dies einige Male schon der Fall war, zu dem Beschluss gekommen<lb/>
+ist, dass hier eine gröbliche Verletzung der Betriebsführungspflicht<lb/>
+vorliegt und ein Versagen der Direktion und des Besitzers, so kann<lb/>
+trotzdem nichts anderes geschehen als dieser Tatbestand festge<lb break="no"/>halten werden. <name type="person" ref="per:98010">Teschl</name> meint, ihm wäre damit schon sehr gedient,<lb/>
+ich denke, er denkt daran, dass er in den Verhandlungen dann dieses<lb/>
+Argument für seine Interessen benützen kann. Ich glaube nur, hier irrt<lb/>
+er, denn dies bleibt sicherlich nicht vertraulich sondern wird in<lb/>
+kürzester Zeit in der Öffentlichkeit bekannt werden und damit hat<lb/>
+die Firma den stärksten Angriff überstanden. <name type="person" ref="per:97570">Hrdlitschka</name> wieder<lb/>
+meint, mit einem solchen Beschluss könnte er dann in der Öffent<lb break="no"/>lichkeit, so glaube ich, dann die Firma zu einigen Zugeständnissen<lb/>
+zwingen und insbesondere aber, das grosse Konzept und das grosse<lb/>
+Problem aufhängen. Andererseits aber wieder erklären beide, dass<lb/>
+sie keinesfalls bei der Presse, <name type="person" ref="per:97646">Koppe</name> hat eine solche Idee gehabt,<lb/>
+irgendwelche Auskünfte geben würden. Ich fürchte, dass sich alle<lb/>
+<pb n="09-0144" facs="09_1972-02-04_0144.jpg"/>ein Konzept zurechtgelegt haben, das äusserst kompliziert<lb/>
+im Gesetz keine Deckung findet und vor allem wahrscheinlich in der<lb/>
+Praxis überhaupt nicht abgewickelt werden kann. Ich werde mich am<lb/>
+Montag in der Vorbesprechung bemühen, weitestgehende Zugeständnisse<lb/>
+zu bekommen, ich bin überzeugt davon dass dann er Betriebsrat ganz<lb/>
+besonders darauf drängen wird, dass man ein solches Zugeständnis<lb/>
+akzeptiert und damit in Wirklichkeit ihm mehr hilft. Sollte <name type="person" ref="per:114599">Turnauer</name><lb/>
+und die Unternehmerseite aber stur schalten, dann bleibt sowieso nichts<lb/>
+anders übrig, als das Verfahren abzuwickeln. Dann trage ich dem<lb/>
+Wunsch der Gewerkschaft Rechnung und bin gespannt, welches positive<lb/>
+Ergebnis wird dann erzielen können.<lb/>
+</p>
+            <p xml:space="preserve">Beim Abendempfang in der um. Botschaft urgierte ich neuerdings die<lb/>
+Stellung des Evidenzbüros in Bukarest. Minister <name type="person" ref="per:118213">Avram</name> berief sofort<lb/>
+den Vizeminister <name type="person" ref="per:139670">Popa</name> und erklärte mir und den Aussenhandelsdelegierte<lb/>
+– ich führe solche Gespräche nie allein – dass die Rumänen falsch<lb/>
+informiert wurden. Die Rumänen hatten angenommen aus Grund der Aus<lb break="no"/>sage des Evidenzbüros, dass sie als Vertreter von so und so vielen<lb/>
+Firmen fungieren. Die Rumänen lassen nun Vertretungen nur dann zu,<lb/>
+wenn es sich um direkte Produzenten oder Handelsunternehmungen han<lb break="no"/>delt, mit denen sie direkten Kontakt haben wollen. Sie wollen alle<lb/>
+Zwischenhändler, die sich in Form von Vertretungen in Bukarest<lb/>
+niederlassen wollen, ausschalten. Ihr Standpunkt ist, dass sie mit<lb/>
+der Firma äusserstenfalls mit einer Handelsvertretung unmittelbaren<lb/>
+Kontakt haben möchten. Zwischenhändler lehnen sie auf das entschieden<lb break="no"/>ste ab und sind nicht bereit, denen eine Aufenthaltsgenehmigung resp.<lb/>
+Niederlassungsrecht zu gewähren. Auf unsere Erklärung, dass es sich<lb/>
+bei dem Evidenzbüros auf eine nicht auf Gewinn abzielende Organisa<lb break="no"/>tionsform handelt, war für sie ein Gesichtspunkt und sie werden<lb/>
+überprüfen, ob eine Niederlassungsmöglichkeit, die dann endgültig<lb/>
+sein würde, von der Handelskammer der Regierung vorgeschlagen werden<lb/>
+kann. <name type="person" ref="per:118213">Avram</name> erklärte, er würde <name type="person" ref="per:139670">Popa</name> hier in diesem Fall nicht als<lb/>
+Vizeminister, sondern als Vizepräsident der Handelskammer schon zwin<lb break="no"/>gen, dass eine positive Regelung zustandekommt. Auf alle Fälle be<lb break="no"/>steht derzeit keine Gefahr für das Evidenzbüro, dass es geschlossen<lb/>
+werden müsste. Ich glaube sogar, im Gegenteil, dass es gelingen wird,<lb/>
+die Rumänen zu einer endgültigen Anerkennung zu bringen. Wir verein<lb break="no"/>barten, dass <name type="person" ref="per:97474">Gleissner</name> von der Handelskammer mit dem rumänischen<lb/>
+<pb n="09-0145" facs="09_1972-02-04_0145.jpg"/>Handelsrat Verhandlungen und Verbindung aufrechterhalten wird, damit<lb/>
+eventuelle Auskünfte noch in Bukarest vorgelegt werden können. Ich<lb/>
+hoffe und bin überzeugt, dass ein positiver Abschluss zustandekommen<lb/>
+wird.<lb/>
+</p>
+            <p xml:space="preserve">Im Zuge der Besprechung über die Besetzung des Wirtschaftskommission<lb/>
+hat MR <name type="person" ref="per:113621">Anreiter</name> mir mitgeteilt, dass ein Telefongespräch zwischen<lb/>
+<name type="person" ref="per:98072">Wiesinger</name> und ihm von Min.Rat <name type="person" ref="per:112946">Schleifer</name>, sie haben das gemeinsame Vor<lb break="no"/>zimmer, mitgehört wurde. Die Gewerkschaft ist an mich herangetreten,<lb/>
+ob man nicht den Vertreter der Textilarbeitergewerkschaft gegen<lb/>
+<name type="person" ref="per:97676">Tommy Lachs</name> austauschen könnte. Ich erklärte, dass sich dies erst in<lb/>
+meinem Haus prüfen lassen müsse. <name type="person" ref="per:98072">Wiesinger</name> hat davon <name type="person" ref="per:113621">Anreiter</name> ver<lb break="no"/>ständigt. <name type="person" ref="per:112946">Schleifer</name>, der dieses Gespräch eben mitgehört hat, hat<lb/>
+sofort den ÖAAB angerufen, da er nämlich, wie er wusste, dieser<lb/>
+Textilarbeitervertreter ein ÖAAB-Mann ist. Auf Grund dieses Telefon<lb break="no"/>gespräches hat dann, so wurde mir von Präs. <name type="person" ref="per:97570">Hrdlitschka</name> der AK mit<lb break="no"/>geteilt, der Landessekretär des ÖAAB und Vizepräsident <name type="person" ref="per:139675">Eberhardt</name><lb/>
+von der AK sofort schärfstens bei <name type="person" ref="per:97570">Hrdlitschka</name> protestiert und erklärt<lb/>
+dass dies eine politisch weittragende Entscheidung wäre. Da ich eine<lb/>
+solche politische Entscheidung aber gar nicht herbeiführen wollte,<lb/>
+ganz im Gegenteil ist mein Bestreben seit eh und je ohne Rücksicht<lb/>
+auf die politische Einstellung, die beste Lösung für alle Fraktionen<lb/>
+zu finden, habe ich <name type="person" ref="per:97543">Heindl</name> ersucht, den Fall genau zu überprüfen.<lb/>
+</p>
+            <p xml:space="preserve">Min.Rat <name type="person" ref="per:97524">Hauffe</name> und Dr. <name type="person" ref="per:114517">Benda</name> berichten, dass es ihnen geglückt ist,<lb/>
+zwischen den Interessensvertretungen einen Entwurf über die landwirt<lb break="no"/>schaftlichen Nachfolgeprodukte im Prinzip zustandezubringen, wo nur<lb/>
+mehr kleinste Änderungen, die unbedeutend sind, notwendig wären. Über<lb/>
+die prinzipielle Frage der Erstattung allerdings konnte kein Einver<lb break="no"/>nehmen erzielt werden. Das Finanzministerium äusserte sich überhaupt<lb/>
+nicht und die Arbeiterkammer lehnte nach einem Vorstandsbeschluss<lb/>
+ganz entschieden eine Erstattungsregelung ab. Die Handelskammer wieder<lb/>
+und ganz besonders die Landwirtschaftskammer erklärt, dass sie ohne<lb/>
+Erstattung nicht einem Gesetzentwurf, der eine Abschöpfung vorsieht,<lb/>
+zustimmen könnten. <name type="person" ref="per:115656">Steiger</name> berichtet in der weiteren Folge, dass<lb/>
+die EWG aber gar nicht die ganze Liste de Nachfolgeprodukte, die<lb/>
+sie in die Erstattungs- und Abschöpfungsregelung einbezogen hat, bereit<lb/>
+ist, Österreich zuzugestehen. Dadurch fällt mir die Entscheidung leicht<lb/>
+dass wir hie verhältnismässig in Brüssel ein leichtes Verhandeln von<lb/>
+<pb n="09-0146" facs="09_1972-02-04_0146.jpg"/>politischer Seite her haben werden. Wenn die EWG sowieso nur ganz<lb/>
+unbedeutende Zugeständnisse machen will, wenn andererseits die Han<lb break="no"/>delskammer und die Landwirtschaftskammer ganz entschieden eine Rege<lb break="no"/>lung ohne Erstattung ganz entschieden ablehnen, dann wird wahrschein<lb break="no"/>lich das Ergebnis sein, dass wir eben auf diesem Sektor werden ver<lb break="no"/>zichten müssen. Mit Recht meint <name type="person" ref="per:98053">Wanke</name> anschliessend, dass dadurch<lb/>
+anschliessend eine Verbilligungsmöglichkeit für die Konsumenten ausge<lb break="no"/>schaltet wird. <name type="person" ref="per:98053">Wanke</name> fürchtet, dass sich in der AK und im ÖGB niemand<lb/>
+mit diesen Spezialproblemen im einzelnen beschäftigen kann und dadurch<lb/>
+vielleicht ein sehr wichtiges Gebiet aus der Integrationslösung aus<lb break="no"/>geschaltet wird. <name type="person" ref="per:98053">Wanke</name> hat recht, dass wir diesen Gesichtspunkt von<lb/>
+unserer Seite viel stärker werden in den Vordergrund schieben müssen.<lb/>
+Andererseits aber müssen wir die Verhandlungen in Brüssel jetzt<lb/>
+einmal abwarten. Derzeit weiss niemand, wie sich die Kommission die<lb/>
+Regelung auf diesem komplizierten Sektor überhaupt vorstellt. Die<lb/>
+jetzt vorgelegten Listen sind vollkommen uneinheitlich, sie behan<lb break="no"/>deln die einzelnen Staaten, die nicht beitreten können, ganz ver<lb break="no"/>schieden. Z.B. soll der Kaugummi gegenüber der Schweiz ausgenommen wer<lb break="no"/>den. Ich weiss nicht, ob die Schweizer wirklich eine so starke Kau<lb break="no"/>gummiproduktion hat, dass sie damit Kaugummiproduzenten in der Europ.<lb/>
+Wirtschaftsgemeinschaft hart treffen könnte. <name type="person" ref="per:97867">Reiterer</name> selbst möchte<lb/>
+seine Hauptaufmerksamkeit auf die Ursprungsregelung und die sensiblen<lb/>
+Produkte in den Verhandlungen richten. <name type="person" ref="per:98053">Wanke</name> meint mit Recht, dass<lb/>
+die sensiblen Produkte nach einer Übergangszeit auf alle Fälle aber<lb/>
+in die Freihandelszonenregelung einbezogen werden. Anders ist dies<lb/>
+bei den landwirtschaftlichen Nachfolgeprodukten. Hier nämlich gibt es<lb/>
+zwar dann auch die Möglichkeit im weiteren Verlauf Produkte einzube<lb break="no"/>ziehen, eine solche Entwicklungsklausel ist ja im Vertrag vorge<lb break="no"/>sehen, doch in der Praxis wird dies wahrscheinlich äusserst schwierig<lb/>
+sein. Ich glaube, dass hier tatsächlich von allem Anfang an unsererseits<lb/>
+ein viel stärkeres Interesse dokumentiert werden müsste. In diesem Fall<lb/>
+allerdings wird der Finanzminister zu entscheiden haben, ob er nicht<lb/>
+doch z.B., wie <name type="person" ref="per:97524">Hauffe</name> vorgeschlagen hat, im Rahmen der Einnahmen aus<lb/>
+der Abschöpfung bereit ist, dann in dieser Grössenordnung auch Zu<lb break="no"/>schüsse zu gewähren. Die Erstattungsregelung könnte nämlich dann<lb/>
+ein Limit nur soweit die Einnahmen dafür reichen, vorgesehen sein.<lb/>
+Derzeit werden Grössenordnungen von 60–80 Mill. S als Erstattungs<lb break="no"/>bedarf von Seiten der Handelskammer genannt. Als Abschöpfung kämen<lb/>
+nach Auffassung ebenfalls dieser Kreise ca. 100 Mill. S in Frage.<lb/>
+Bei dieser Abschöpfung allerdings sind sowohl die beweglichen als auch<lb/>
+<pb n="09-0147" facs="09_1972-02-04_0147.jpg"/>die fixen Teile beinhaltet. Da nun die fixen Teile aber abgebaut<lb/>
+werden, ist auf lange Sicht gesehen, grössenordnungsmässig nicht<lb/>
+mit Einnahmen von 100 Mill. zu rechnen. Grössere Einnahmen könnten<lb/>
+nur dann entstehen, wenn der Weltmarktpreis entsprechend fällt und<lb/>
+dadurch die beweglichen Teile eine grössere Abschöpfung ermöglichen und<lb/>
+auch erbringen. Der Vertreter des Finanzministeriums, Dr. <name type="person" ref="per:139676">Kretschmer</name>,<lb/>
+hat von seinem Minister noch keine Entscheidung und Weisung bekommen<lb/>
+und hat sich daher zu diesem Problem überhaupt nicht geäussert. Ich<lb/>
+kann mir sehr gut vorstellen, dass <name type="person" ref="per:97311">Androsch</name> jetzt mit der Frage des<lb/>
+Finanzausgleiches, der Steuersenkungen, der Ordnung des Kreditsektors<lb/>
+beschäftigt ist, sodass er beim besten Willen aus Zeitgründen noch<lb/>
+nicht dazugekommen ist, dieses Problem durchzudenken und Entscheidungen<lb/>
+zu treffen. Sein Geschäft möchte ich wahrlich nicht haben.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="09_0137_01" facs="09_1972-02-04_0137-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 4.2.1972</head>
+         </div>
+         <pb n="09_0137_02" facs="09_1972-02-04_0137-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

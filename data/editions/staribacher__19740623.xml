@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sonntag, der 23. Juni 1974</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band21_1974-06-23</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1974-06-23">Sonntag, 23. Juni 1974</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-12-14">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band21/">
+      <body>
+         <pb n="21-0783" facs="21_1974-06-23_0783.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Sonntag, 23. Juni 1974</p><p xml:space="preserve">Noch nie war ich so pessimistisch bei einer Wahl wie diesmal.<lb/>
+Obwohl ich normalerweise nur Wetten abschliesse, über Probleme<lb/>
+die ich beeinflussen kann, d.h. wo ich eigentlich von vornherein<lb/>
+schon weiss, dass ich sicher gewinne, habe ich mich diesmal auch<lb/>
+auf eine Wettprognose über den Ausgang der Bundespräsidentenwahl<lb/>
+eingelassen. <name type="person" ref="per:97627">Kienzl</name> – um eine Flasche Milch, dass wir nicht<lb/>
+die 52 % erreichen, in einer Sektion, dass wir knapp über 50 %<lb/>
+kommen. Leider jene verloren, aber diese gewonnen. 51,3, ein<lb/>
+phantastischer Erfolg! Im ORF-Rechenzentrum hatte <name type="person" ref="per:112994">Bruckmann</name><lb/>
+als die Vorarlberger Ergebnisse, die immer als erste vorliegen,<lb/>
+in die 6 Methoden eingespeichert hatte und mit ganz wenigen<lb/>
+anderen Gemeinderesultaten die erste Hochrechnung durchführte,<lb/>
+einen <name type="person" ref="per:114375">Lugger</name>-Vorsprung von 51,5 erbracht. <name type="person" ref="per:112994">Bruckmann</name> war aller<lb break="no"/>dings sofort der Meinung, das könnten wir vergessen, die Streu<lb break="no"/>ung ist zu untypisch. Im Innenministerium, wo man eine Hoch<lb break="no"/>rechnung nicht vornahm sondern eigentlich nur aufaddierte und<lb/>
+konnte man auch kein genaues Bild am Anfang ausser einem leich<lb break="no"/>ten Trend zu <name type="person" ref="per:97632">Kirchschläger</name> erkennen. <name type="person" ref="per:97879">Rösch</name> hat eine sehr pri<lb break="no"/>mitive Beruhigungsmethode entwickelt. Er nahm von der Jonas I-<lb/>
+Wahl die 63.000 Stimmen Überschuss, die wir damals gehabt haben<lb/>
+und addierte von allen Meldungen, die Plus oder Minus dazu.<lb/>
+Solange ich dies verfolgte war stets eine steigenden Tendenz<lb/>
+und bevor Wien erste Sprengelergebnisse lieferte, war der Vor<lb break="no"/>sprung bereits auf 78.000 angewachsen. Wien hätte von dem dama<lb break="no"/>ligen Vorsprung 200.000 gegebenenfalls 50.000 verlieren können<lb/>
+wäre <name type="person" ref="per:97632">Kirchschläger</name> noch immer gewählt gewesen. Die ersten Er<lb break="no"/>gebnisse aber bei uns im Bezirk zeigten schon, dass auch hier vor<lb/>
+keinem Verlust sondern ganz im Gegenteil von einer weiteren<lb/>
+Zuwachsrate gerechnet werden konnte. Insbesondere in den bür<lb break="no"/>gerlichen Bezirken und die Landstrasse zählt dazu, war durch<lb break="no"/>schnittlich ein Zuwachs zu erwarten und selbst in Favoriten<lb/>
+wurden die Traumgrenze 75 % für den soz. Kandidaten überschritten<lb/>
+Noch niemals war ein solches Ergebnis jemals in der zweiten Re<lb break="no"/>publik zu verzeichnen. Damit war nicht nur die Wahl geschlagen<lb/>
+sondern wirklich ein grosser Sieg erzielt. Die Befürchtung von<lb/>
+<name type="person" ref="per:97488">Gratz</name>, der meinte, die Hauptschwierigkeit für Wien wird darin<lb/>
+liegen, dass man uns nicht mit Jonas I sondern Jonas II Wahlen<lb/>
+<pb n="21-0784" facs="21_1974-06-23_0784.jpg"/>vergleichen wird und dann natürlich mit einem perzentuell<lb/>
+schlechteren Ergebnis gerechnet werden muss, ist nicht eingetrof<lb break="no"/>fen. Die wichtigste Erkenntnis aber, die aus diesen Wahlen für<lb/>
+<name type="person" ref="per:97356">Blecha</name> aber auch für mich frappierend war, dass die letzten Wahl<lb break="no"/>ergebnisse in Meinungsumfrage und Resultat folgendes zeitigt:<lb/>
+Meinungsumfragen, die natürlich niemals knapp vor dem Wahltag<lb/>
+bestellt werden, weil sie ja die Ergebnisse nach der Wahl<lb/>
+bringen könnten, werden und wurden ja nie durchgeführt. Die des<lb break="no"/>halb länger zurückliegenden Ergebnisse, die meistens 3 Wochen vor<lb/>
+dem Wahltag vorliegen, haben weitestgehend bei <name type="person" ref="per:97356">Blecha</name> gestimmt.<lb/>
+Dies gilt für gewonnene Wahlen wie in Wien und jetzt Bundes<lb break="no"/>präsidentenwahl als auch die Landeswahlen, die wir verloren haben<lb/>
+in Oberösterreich oder Salzburg und NÖ. Aus diesen Erkenntnissen<lb/>
+ist mit grösster Wahscheinlichkeit anzunehmen, dass sich der Wäh<lb break="no"/>ler in den letzten Wochen nicht mehr von seiner Wahlentscheidung<lb/>
+die er scheinbar viel früher schon getroffen hat, abbringen lässt.<lb/>
+weder durch einen entsprechend starken Einsatz der Wahlpropaganda<lb/>
+der einzelnen Parteien – Plakate, Verteilungsaktionen am Markt bei<lb/>
+Bädern usw. - von Wahlgeschenken, noch aus von Fernseh-Diskussionen,<lb/>
+denen man immer ein ganz besonderes Gewicht beilegt. Wenn diese<lb/>
+Theorie stimmt, dann könnte man sich viel Aufwand in den letzten<lb/>
+Wochen ersparen. Wahrscheinlich aber wird man dies auch in Hinkunft<lb/>
+nicht unterlassen, um die eigenen Funktionäre zu beruhigen, weil<lb/>
+niemand verstehen würde, dass jetzt knapp vor der Wahl womöglich<lb/>
+auf Grund eines guten Meinungsumfrageergebnisses niemand mehr<lb/>
+etwas unternimmt, um wirklich zu gewinnen. Unsere Funktionäre,<lb/>
+ja selbst unsere Wähler würden wahrscheinlich nicht nur nervös<lb/>
+sein, sondern heftigst kritisieren, wenn nicht bis zum Letzten der<lb/>
+ganze Einsatz erfolgt. Ich selbst z.B. selbstverständlich wirklich<lb/>
+obwohl ich sehr pessimistisch prognostiziert hatte und nur an einen<lb/>
+knappen Sieg glaubte, doch fest davon überzeugt, dass sich die<lb/>
+wie mir die JG jetzt sagte 2.400 Karten, die ich am Samstag beim<lb/>
+Kiosk der JG beim AEZ signierte, wirklich überzeugt, dass dies<lb/>
+kaum mehr einen Einfluss auf die Wahlentscheidung haben würde.<lb/>
+Trotzdem hat diese Aktion, die mit vielen jungen Genossen der JG<lb/>
+auch am letzten Samstag noch gestartet wurde, zumindestens bei<lb/>
+unseren Funktionären noch den Eindruck erweckt, alle kämpfen bei<lb/>
+uns bis zum letzten. Der Erfolg gibt den Funktionäre recht und<lb/>
+stärkt sie, das Wichtigste was ich aber neidlos anerkennen muss,<lb/>
+<name type="person" ref="per:97668">Kreiskys</name> Konzept ist aufgegangen.</p></div>
+      </body>
+      
+   </text>
+</TEI>

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der 21. Jänner 1972</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band09_1972-01-21</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1972-01-21">Freitag, 21. Januar 1972</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-09-20">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="09-0062" facs="09_1972-01-21_0062.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Freitag, 21. Jänner 1972<lb/>
+</p>
+            <p xml:space="preserve">Der bulg. Botschafter <name type="person" ref="per:97833">Popow</name> und der Handelsrat <name type="person" ref="per:139540">Teofilow</name> brachten<lb/>
+die Einladung zur 4. Tagung der Gemischten Kommission nach Sofia.<lb/>
+Der bulgarische Aussenhandelsminister <name type="person" ref="per:97770">Nedew</name>, der im Vorjahr in<lb/>
+Wien war, wünscht, dass ich nach Sofia komme. Bei seinem Wien-Be<lb break="no"/>such versuchte er, eine zusätzliche Kredithilfe in Höhe von 20 Mio. S<lb/>
+zu bekommen. Der bulg. Handel ist derzeit für uns schwer aktiv.<lb/>
+Die Bulgaren können fast nichts liefern. Damals wollten wir bereits<lb/>
+ein Kooperationsabkommen und ein Schiffahrts- und Fremdenverkehrsab<lb break="no"/>kommen unterzeichnen. Das Kooperationsabkommen ist jetzt endlich fer<lb break="no"/>tig geworden und könnte von mir in Sofia unterzeichnet werden. Gleich<lb break="no"/>zeitig hat <name type="person" ref="per:97833">Popow</name> mitgeteilt, dass zwischen 19. und 22. Feber der Frem<lb break="no"/>denverkehrspräsident <name type="person" ref="per:139539">Todorow</name> von seinem Rückflug bei den Schweden<lb/>
+in Wien Station machen wird. Die Bulgaren möchten bei dieser Gelegen<lb break="no"/>heit das Fremdenverkehrsabkommen fertig haben. Vorher schon hat<lb/>
+es Schwierigkeiten gegeben, weil wir mit diesem Fremdenverkehrs<lb break="no"/>abkommen sichern wollten, dass Österreicher, die heute als Bulgaren<lb/>
+heute festgehalten werden, nach Österreich auswandern könnten. Sekt.<lb/>
+Rat <name type="person" ref="per:113619">Pschorn</name><add>[ev. Falschidentifikation]</add> meinte, dass <name type="person" ref="per:111367">Würzl</name> sich ausserstande erklärt hat, so<lb/>
+schnell ein Fremdenverkehrsabkommen zu finalisieren. Die Bulgaren<lb/>
+warten aber auf unseren Gegenvorschlag.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Bitte veranlassen, dass <name type="person" ref="per:111367">Würzl</name> unverzüglich den<lb/>
+Gegenvorschlag ausarbeitet. Ausserdem mit <name type="person" ref="per:97801">Ottahal</name> unsere Verpflichtung<lb/>
+gegenüber <name type="person" ref="per:139539">Todorow</name> wegen Repräsentationen klären.<lb/>
+</p>
+            <p xml:space="preserve">Vizedirektor <name type="person" ref="per:137669">Bogsch</name> von der BIRPI in Genf war angeblich sehr erfreut,<lb/>
+mit mir zusammenzutreffen. In Wirklichkeit habe ich das Gefühl,<lb/>
+dass <name type="person" ref="per:98012">Thaler</name> und <name type="person" ref="per:123314">Lorenz</name> erfreut waren, dass <name type="person" ref="per:137669">Bogsch</name> mir seine Bedenken<lb/>
+bezüglich der Weltdokumentation vortrug. <name type="person" ref="per:137669">Bogsch</name> verlangte nämlich,<lb/>
+dass Österreich sich wesentlich stärker in die Vorarbeiten einschal<lb break="no"/>tet, als dies bis jetzt geschehen ist. Bis Mitte März müsste seiner<lb/>
+Meinung nach das Material fertig sein, damit dann die Mitglieds<lb break="no"/>staaten es zugesendet erhalten, die am 5. u. 6. April einen endgül<lb break="no"/>tigen Beschluss fassen würden. Zu diesem Zweck müsste ein Mann frei<lb break="no"/>gestellt werden, um ein Budget zu erstellen. Ein weiterer sollte<lb/>
+<pb n="09-0063" facs="09_1972-01-21_0063.jpg"/>die juristische Vereinbarung zwischen Österreich und den Mitglieds<lb break="no"/>staaten ausarbeiten. Ein Dritter hätte die administrativen Arbeiten ein<lb break="no"/>zuleiten und ein Sekretariat aufzubauen. Und viertens und letztens<lb/>
+müsste sogar noch ein Computerfachmann die Vorarbeiten ganztägig<lb/>
+leisten. Während derzeit unter Führung <name type="person" ref="per:123314">Lorenz</name> ein Komitee aus dem<lb/>
+Aussenministerium und dem Finanzministerium die Arbeit neben ihrer sonstigen<lb/>
+Tätigkeit erfüllen, hofft <name type="person" ref="per:137669">Bogsch</name>, dass wir jetzt eine Arbeitsgruppe<lb/>
+ausschliesslich mit der Vorbereitung der Weltdokumentation betrauen.<lb/>
+Ich habe ihnen sofort auseinandergesetzt, dass juristische Vereinba<lb break="no"/>rungen mit dem Ausland vom Aussenministerium, Gesandter <name type="person" ref="per:137409">Bauer</name> ist des<lb break="no"/>halb Mitglied unserer Arbeitsgruppe, ausgearbeitet werden. Die Budgets<lb/>
+werden vom Finanzministerium erstellt und deshalb ist dieses Mini<lb break="no"/>sterium bei unserer Arbeitsgruppe schon fest verankert. Auch über<lb/>
+Computer arbeitet der Mann des BKA, Dr. <name type="person" ref="per:139659">Simmler</name>, in Hinkunft damit.<lb/>
+Ich habe diesbezügliche Zusagen von Sekt.Chef <name type="person" ref="per:97601">Jiresch</name>, dem Präsidiali<lb break="no"/>sten des BKA. BIRPI ist zu Vorbereitungsarbeiten und um uns das<lb/>
+mitzuteilen, ist eine Delegation mit 6 Mitgliedern erschienen. Sie<lb/>
+haben sich sogar eine eigene Sekretärin mitgebracht. Überbesetzung<lb/>
+der internationalen Ämter und vor allem dass sie gerne reisen, doku<lb break="no"/>mentiert sich für mich durch diese Arbeitsweise. Natürlich sind<lb/>
+wir ausserstande, ebenfalls einen solchen Aufwand zu treiben. <name type="person" ref="per:137669">Bogsch</name> hat<lb/>
+sogar die Absicht, in die einzelnen Länder nach Moskau und Washing<lb break="no"/>ton, Tokio und die europäischen Staaten eine eigene Delegation zu<lb/>
+schicken und hat gehofft, dass wir ihm dann diese Reisekosten ver<lb break="no"/>güten. Ich habe ihn nicht im Unklaren gelassen, dass dies unmöglich<lb/>
+ist, wir können maximal für unseren Aufwand und für Reisen, die unsere<lb/>
+Herren unbedingt tätigen müssen, einen Vorgriff auf die im Prinzip<lb/>
+vom Ministerrat genehmigten Budgetansätze für die Weltdokumentation<lb/>
+machen. Wahrscheinlich kann dies das Patentamt sicherlich nicht von<lb/>
+seinem Budget jetzt im Vorgriff tragen. Ich glaube, man sollte das<lb/>
+Patentamt mit den wettbewerbspolitischen Aufgaben entlasten.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Finanzielle und personelle Massnahmen bitte<lb/>
+veranlassen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> möchte das sozialistische Internationale-Treffen in Innsbruck<lb/>
+zu einer grossen Arbeitstagung benützen. Von der BRD kommt <name type="person" ref="per:114110">Brandt</name>,<lb/>
+von Italien <name type="person" ref="per:137935">Saragat</name> und Luxemburg wird ebenfalls durch einen Vize<lb break="no"/>präsidenten vertreten. Nur die Schweiz kann nicht Spitzenfunktionäre<lb/>
+schicken, da die Bundesräte in der Schweiz nicht einmal an den<lb/>
+<pb n="09-0064" facs="09_1972-01-21_0064.jpg"/>innerschweizerischen Wahlkämpfen und politischen Auseinander<lb break="no"/>setzungen teilnehmen, geschweige denn ins Ausland fahren und dort<lb/>
+in politischer Hinsicht betätigen. Schweizer steigen, wenn sie Bundes<lb break="no"/>räte werden, aus der Arena der politischen Auseinandersetzung.<lb/>
+An dieser Tagung haben die Jugoslawen, aber auch die Ungarn grosses<lb/>
+Interesse gezeigt. <name type="person" ref="per:97668">Kreisky</name> meint nun, dass 3 Mill. Gastarbeiter<lb/>
+von diesen Ländern gegenseitig getauscht werden, dass 30 Mill.<lb/>
+Menschen Grenzübertritt jährlich durchführen und dass insbesondere<lb/>
+der Sprachunterricht zwischen diesen Ländern, Deutsch, Französisch,<lb/>
+Italienisch gefördert werden müsste. Die Anerkennung der akademi<lb break="no"/>schen Grade sollte fortgesetzt und ausgebaut werden. Mit einem<lb/>
+Wort, <name type="person" ref="per:97668">Kreisky</name> hofft auf eine übernationale Zusammenarbeit dieser<lb/>
+Staaten. Zu diesem Zweck möchte er eine Arbeitsgemeinschaft grün<lb break="no"/>den, deren Mitglieder aber je nach dem Problem, welches zur Behand<lb break="no"/>lung steht, ausgewechselt werden sollte. Ich deponierte, dass wir<lb/>
+in der Integrationsforderung<add>[?]</add>, sensible Produkte usw. die Genossen<lb/>
+informieren sollte. <name type="person" ref="per:97668">Kreisky</name> wünscht aber ausserdem das Aussenhandels<lb break="no"/>volumen dieser 5 Länder untereinander zu bekommen, damit er auf<lb/>
+die Bedeutung des Aussenhandels hinweisen kann.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: Bitte kurzfristig feststellen, ob nicht noch be<lb break="no"/>sondere Wünsche von unserem Haus bei dieser Gelegenheit deponiert wer<lb break="no"/>den könnten.<lb/>
+</p>
+            <p xml:space="preserve">Betriebsräte von der Hitiag aus Neufeld haben bei <name type="person" ref="per:97668">Kreisky</name> vorgesprochen,<lb/>
+um ihm die Bedrohung ihrer Arbeitsplätze mitzuteilen. Ich habe ihm<lb/>
+zwar berichtet, dass Gen.Dir.Stv. <name type="person" ref="per:137307">Holzer</name> von der CA erklärt hat,<lb/>
+er würde alles daran setzen, um einen Ersatzbetrieb hinzubringen.<lb/>
+Sollte dies nicht gelingen wird, er, wenn ich bei <name type="person" ref="per:122965">Treichl</name> intervenie<lb break="no"/>re, die Forderungen der Betriebsräte wegen der Arbeiterwohnungen<lb/>
+und sonstige sozialer Leistungen grösstmöglich erfüllen. Aus diesen<lb/>
+Äusserungen habe ich entnommen, dass die CA in Wirklichkeit heute<lb/>
+an ein ersatzloses Schliessen der Hitiag denkt. <name type="person" ref="per:97668">Kreisky</name> möchte<lb/>
+nun, dass wir in der Zürcher Zeitung ankündigen, dass in Neufeld<lb/>
+eine Textilproduktion günstig aufgezogen werden könnte. Vor Mo<lb break="no"/>naten bereits hat <name type="person" ref="per:97668">Kreisky</name> mir die Idee einreden wollen, wir sollten<lb/>
+in der Zürcher Zeitung eine Annonce aufgeben, um Schweizer Unterneh<lb break="no"/>mungen nach Österreich zu bringen. Ich versuchte <name type="person" ref="per:97668">Kreisky</name> auseinander<lb break="no"/>zusetzen, dass in dieser Inseraten-Plantage der Zürcher Zeitung<lb/>
+selbst ein ganzseitiges Inserat kaum entsprechende Beachtung<lb/>
+finden würde. Da er davon überzeugt ist, dass die Schweizer nach<lb/>
+<pb n="09-0065" facs="09_1972-01-21_0065.jpg"/>Neufeld kommen würden, wenn sie es nur wüssten, habe ich<lb/>
+es ihm wenigsten eingeredet, dass wir in eine Schweizerische<lb/>
+Textilfachzeitung gehen sollten. Ich verspreche mir zwar gar<lb/>
+nichts davon, doch glaube ich, muss ich endlich einmal diesen<lb/>
+Herzenswunsch von <name type="person" ref="per:97668">Kreisky</name> erfüllen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: Bitte mit <name type="person" ref="per:97493">Gröger</name> besprechen und eine Fach<lb break="no"/>zeitung ausfindig machen und dort gegebenenfalls eine Annonce<lb/>
+starten.<lb/>
+</p>
+            <p xml:space="preserve">Im Burgenland ergibt sich, wie mir der AK-Präsident <name type="person" ref="per:97322">Babanitz</name> mit<lb break="no"/>teilt, eine weitere Schwierigkeit. In Schleining soll der Antimon-<lb/>
+Abbau eingestellt werden. Dadurch würden 150 Arbeiter und 16 Ange<lb break="no"/>stellte arbeitslos werden. Die BBU, der der Betrieb gehört, hätte<lb/>
+diesbezügliche Beschlüsse schon gefasst. Ein Vorstandsmitglied,<lb/>
+Dr. <name type="person" ref="per:139531">Maier</name> aus Klagenfurt, soll dies entschieden haben. Von unserem<lb/>
+Haus habe ich wieder nichts erfahren, obwohl ich bereits in der<lb/>
+Sektionsleitersitzung vor langem aufmerksam gemacht habe, dass<lb/>
+solche Stillegungen sofort mir mitgeteilt werden sollen. Die OB<lb/>
+oder das Fachreferat müsste doch ebenfalls davon etwas wissen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: Bitte den Fall unverzüglichst prüfen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98072">Wiesinger</name>: <name type="person" ref="per:97929">Schützelhofer</name> von der BBU anrufen.<lb/>
+Die Burgenländer haben nächstes Jahr Landtagswahlen und wenn es zur<lb/>
+Schliessung mehrerer Betriebe kommt, muss ich dies auf die Landtags<lb break="no"/>wahlen äusserst ungünstig auswirken.<lb/>
+</p>
+            <p xml:space="preserve">In gebe mich keiner Illusion hin, dass die strukturellen Anpassungen<lb/>
+durch Wahlen verschoben werden können. Ich bin aber der Meinung,<lb/>
+dass unbedingt ich zumindestens frühzeitig davon erfahren müsste,<lb/>
+um gegebenenfalls Massnahmen einleiten zu können. Jetzt erfahre ich<lb/>
+von solchen Massnahmen meistens erst durch die Zeitungen und dann<lb/>
+ist es natürlich schon zu spät, dass wir noch irgendetwas zeitge<lb break="no"/>recht machen können. Selbst wenn nur eine entsprechende Aussprache<lb/>
+mit Betriebsräten und Gemeindefunktionären und vor allem aber, wenn<lb/>
+dann doch in dem einen oder anderen Fall versucht wird, einen<lb/>
+anderen Betrieb dorthin zu bringen, wird sicherlich das Klima anders,<lb/>
+<pb n="09-0066" facs="09_1972-01-21_0066.jpg"/>als wenn wir überhaupt nichts machen weil wird davon nichts wissen.<lb/>
+</p>
+            <p xml:space="preserve">Min.Rat <name type="person" ref="per:108322">Meisl</name>, der an der franz.-österr. Gemischten Kommission in<lb/>
+Paris teilgenommen hat, berichtet, dass <name type="person" ref="per:98097">Wodak</name> sowohl diese Kommission<lb/>
+als auch die zu gründende österr.-italienische und jug.-österr. Kommis<lb break="no"/>sion ganz gross aufziehen möchte. <name type="person" ref="per:98097">Wodak</name> will hier sich auf wirtschafts<lb break="no"/>politischem Gebiet sich eine gewisse Stellung in seinem eigenen Hause<lb/>
+ausbauen. Scheinbar hat er bei den multilateralen Besprechungen, die<lb/>
+<name type="person" ref="per:137933">Marquet</name> vollkommen beherrschen dürfte, kaum eine Chance, in Erschei<lb break="no"/>nung zu treten. Zu diesem Zweck beginnt er jetzt von dieser grossen<lb/>
+Gemischten Kommission einzelne Arbeitsgruppen einzusetzen und damit<lb/>
+genau dasselbe Leid im Westen zu beginnen, was wir derzeit im Osten<lb/>
+mit den Verträgen und den ununterbrochenen Verhandlungen, aus denen<lb/>
+nichts herauskommt, haben. Bei dieser Kommission wurde auch mitgeteilt,<lb/>
+dass der Bundespräsident zwischen 21 und 24. März nach Paris reisen<lb/>
+wird und vom Aussenminister und vom Handelsminister begleitet sein<lb/>
+wird. <name type="person" ref="per:108322">Meisl</name> ersucht nun, ob ich ihn - so wie nach Rom – wieder mit<lb break="no"/>nehmen würde. Ich habe ihm sofort erklärt, dass ich keinen Augenblick<lb/>
+daran gezweifelt habe, dies zu tun. Bezüglich des Widerstandes, resp.<lb/>
+Verärgerung von <name type="person" ref="per:97867">Reiterer</name>, bin ich der Meinung, dass ich <name type="person" ref="per:108322">Meisl</name> mitneh<lb break="no"/>men soll und werde, da ich ja auf dem Standpunkt stehe, dass <name type="person" ref="per:97867">Reiterer</name><lb/>
+mein persönlicher Vertreter ist und wo ich hinfahre, brauche ich<lb/>
+nicht den Sektionschef mitzunehmen. Ich werde unsere Begleitung<lb/>
+mit dem Aussenminister noch besprechen müssen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Bitte klären, wen der Aussenminister beabsichtigt<lb/>
+mitzunehmen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="09_0061_01" facs="09_1972-01-21_0061-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 21.1.1972</head>
+         </div>
+         <pb n="09_0061_02" facs="09_1972-01-21_0061-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notiz (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

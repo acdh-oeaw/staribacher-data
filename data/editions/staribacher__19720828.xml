@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Montag, der 28. August 1972</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band12_1972-08-28</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1972-08-28">Montag, 28. August 1972</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-10-23">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="12-1014" facs="12_1972-08-28_1014.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Montag, 28. August 1972<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:140131">Bauknecht</name> wird im Raume von Aichfeld-Murboden in Spielfeld eine<lb/>
+Motorenfabrik aufziehen. Zu diesem Zweck hat sie um 120 Mio. S ERP-<lb/>
+Kredit angesucht. Darüber hinaus will er aber für sein Werk in<lb/>
+Rottenmann 60 Mio. S für eine Holzfabrikationsausweitung ERP-Kredit<lb/>
+bekommen. Bauknecht erzeugt nämlich nicht nur Maschinen, sondern<lb/>
+hat sich jetzt für eine komplette Küche mit Haushaltsmaschinen und<lb/>
+gleichzeitigen Verbau der Küchen eingerichtet. Direktor <name type="person" ref="per:140132">Hesele</name> hat<lb/>
+mich ersucht ich möge doch auch im ERP-Kredit-Büro eine rasche Ab<lb break="no"/>wicklung seines Ansuchens eintreten. MR <name type="person" ref="per:140134">Müller</name> vom ERP-Büro teilt<lb/>
+mir nun mit, daß die Firma bis jetzt unterlassen hat, die notwendigen<lb/>
+Sicherstellungen zu bringen. Auch das Land außer den ERP-Krediten<lb/>
+50 Mio. S Kredite geben soll und Landesrat <name type="person" ref="per:117875">Peltzmann</name> auf alle Fälle auf<lb/>
+die Erweiterung der Sicherung durch Mitgarantie des Stammhauses in<lb/>
+Deutschland besteht, gibt auch für diesen Kredit die Sicherung große<lb/>
+Schwierigkeiten. Dir. <name type="person" ref="per:140132">Hesele</name> den ich von dieser Tatsache verständige<lb/>
+meinte, er ist gerade mit Herrn <name type="person" ref="per:140131">Bauknecht</name> in Verhandlungen, damit ev.<lb/>
+die Schweizer Bauknechtfirma als Bürge und Zahler eintritt. Ebenso ver<lb break="no"/>langt er die Bilanz 1971 von <name type="person" ref="per:140131">Bauknecht</name>, wird in den nächsten Tagen<lb/>
+geliefert. MR <name type="person" ref="per:140134">Müller</name> hat mir versprochen, daß <choice><choice><sic>sein</sic><corr>ein?</corr></choice></choice> separater Prüfungs<lb break="no"/>ausschuß sofort eingesetzt wird und daß dann das Kohlenkomitee, welches<lb/>
+für die Genehmigung des Kredites in Spielfeld zuständig wäre, unverzüg<lb break="no"/>lich beschließen wird.<lb/>
+</p>
+            <p xml:space="preserve">Beim Pressefrühstück war beabsichtigt, über die Ostverträge und den<lb/>
+Ausdehnungen des gewünschten Ostaußenhandels zu referieren. <name type="person" ref="per:108322">Meisl</name> hat<lb/>
+sich vorgestellt, daß eine allgemeine Tour d'Horizon gemacht wird<lb/>
+und es nicht zielführend wäre, den Redakteuren einen Waschzettel zur<lb/>
+Verfügung zu stellen. Zum Glück haben wir dann doch im letzten Moment<lb/>
+zumindestens einige Ziffern abgezogen, <choice><choice><sic>um</sic><corr>und</corr></choice></choice> den Redakteuren zur Verfügung<lb/>
+gestellt. <choice><choice><sic>Den</sic><corr>Nach den</corr></choice></choice> Ausführungen von <name type="person" ref="per:108322">Meisl</name>, <name type="person" ref="per:97426">Fälbl</name> und mir hat es nämlich<lb/>
+nur eine zähflüssige und ganz kurze Diskussion gegeben. Wir müssen<lb/>
+alle Pressegespräche unbedingt mit einem Waschzettel ausstatten, da<lb break="no"/>mit die Redakteure vielleicht doch dann größtenteils auf diese Unter<lb break="no"/>lagen zurückgreifen können.<lb/>
+</p>
+            <pb n="12-1015" facs="12_1972-08-28_1015.jpg"/>
+            <p xml:space="preserve">Anmerkung für <name type="person" ref="per:97646">KOPPE</name>:<lb/>
+Bitte für nächste Woche Montag Fremdenverkehrsprobleme, Ziffern<lb break="no"/>material, welches bereits von mir bestellt wurde, zeitgerecht abver<lb break="no"/>langen Unbedingt Waschzettel vorbereiten.<lb/>
+</p>
+            <p xml:space="preserve">Botschafter <name type="person" ref="per:135642">Leitner</name> ist derzeit auf Urlaub in Österreich und hat<lb/>
+sich gemeldet, ob er mit mir Besprechungen führen kann. In Brüssel<lb/>
+laufen die Übersetzungsarbeiten so zügig, daß wir das Material zeitge<lb break="no"/>recht bekommen haben und jetzt sogar von der Staatsdruckerei die ge<lb break="no"/>druckten Regierungsvorlagen zeitgerecht für das Interimsabkommen be<lb break="no"/>kommen werden. Über den zeitlichen Parlamentsablauf, der Integrations<lb break="no"/>verhandlungen und Genehmigungsverträge nicht informiert und war daher<lb/>
+ganz erstaunt als ich ihm mitteilte, daß er selbstverständlich für<lb/>
+die parlamentarischen Interimsverhandlungen in Wien sein müsse.<lb/>
+Genau für diesen Zeitpunkt hat er seinen Urlaub als beendet festge<lb break="no"/>legt, und wäre nach Brüssel zurückgefahren. <name type="person" ref="per:98053">Wanke</name> und ich diskutierten<lb/>
+mit ihm die Notwendigkeit, ein Kommentar zu den EG-Verträgen zu verfassen.<lb/>
+Er stimmte vollkommen mit uns überein, daß dies eine der dringendsten<lb/>
+Aufgaben sei, die in nächster Zeit erfüllt werden müssen, damit nicht<lb/>
+irgendein Verlag nicht ein EG-Kommentar von einem Universitätsassistent<lb/>
+oder sonstigen Aussenstehenden verfassen läßt. Meine Frage, ob er bereit<lb/>
+wäre, ein solches Kommentar zu verfassen, stimmte er sofort begeistert<lb/>
+zu und ich mußte dann ersuchen, er möge doch erst in 8 Tagen eine<lb/>
+endgültige Stellungnahme und Zustimmung abgeben. Bis zu diesem Zeit<lb break="no"/>punkt soll er sich die Arbeit nochmals genau überlegen. Ich selbst<lb/>
+könne und wolle ihm dazu keinen Dienstauftrag geben. Nur wenn er<lb/>
+freiwillig bereit ist, diese Arbeit zu übernehmen, würde ich versuchen<lb/>
+ihm die entsprechenden Voraussetzungen für diese Arbeit zu verschaffen.<lb/>
+Insbesondere meldete er sofort an, daß er dies nicht allein machen könne,<lb/>
+sondern daß über die Details eigentlich nur die einzelnen Herren, sei<lb/>
+es vom Ministerium oder sogar teilweise vom Aussenamt und Landwirt<lb break="no"/>schaftsministerium, Finanzministerium dafür zuständig sein könnten.<lb/>
+In Mitarbeit dieser Herren wird er sich dann entsprechend sichern<lb/>
+müssen. Wenn <name type="person" ref="per:135642">Leitner</name> endgültig zustimmt, wäre dies eine bedeutende Auf<lb break="no"/>gabe, die er übernimmt und seine Tätigkeit für die nächsten Monate<lb/>
+reichlich ausgelastet wäre. Damit könnte er auch die Besetzung Mission<lb/>
+in Brüssel vielleicht leichter ihm auch akzeptiert werden, da er<lb/>
+<pb n="12-1016" facs="12_1972-08-28_1016.jpg"/>wahrscheinlich für die Abfassung des Kommentars viel mehr in Wien<lb/>
+sein müßte, um mit den Mitarbeitern ständigen Kontakt zu haben und<lb/>
+darüber hinaus vor allem die notwendigen Unterlagen doch am ehesten<lb/>
+gleich mit den Referenten der einzelnen Ministerien hier ihm zur<lb/>
+Verfügung stehen müßten.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:135642">Leitner</name> fragte mit Recht, ob er bereits eine Entscheidung getroffen<lb/>
+wurde wie und in welchem Umfang die Leistungen der Missionsangehörigen<lb/>
+in Brüssel honoriert werden. Ich selbst habe zwar nichts versprochen,<lb/>
+aber angedeutet, daß ich mich dafür einsetzen werde. Ich habe in unserem<lb/>
+Haus für die Abzieharbeiten, die Verträge verursachten, entsprechende<lb/>
+Prämien bezahlt haben, erscheint es mir nur recht und billig, daß man<lb/>
+auch den Leuten, die in Brüssel wirklich ganz hart in den letzten<lb/>
+Monaten arbeiten mußten, eine entsprechende Prämie geben.<lb/>
+</p>
+            <p xml:space="preserve">Anmerkung für <name type="person" ref="per:97543">HEINDL</name>:<lb/>
+Bitte die endgültige Festlegung der Höhe unverzüglich mit dem Prä<lb break="no"/>sidium abstimmen.<lb/>
+</p>
+            <p xml:space="preserve">Beim Mittagessen im Institut nahmen zwei Genossen vom Klub SPÖ,<lb/>
+die sicn bereits vor längerer Zeit bei mir erkundet haben, ob sie<lb/>
+diesen Kontakt haben könnten. Wir haben dadurch endlich wieder eine<lb/>
+Auffrischung unserer Runde erhalten. Derzeit ist ja Urlaub und des<lb break="no"/>halb war vielleicht in der letzten Woche wirklich nur eine äußerst<lb/>
+schwache Besetzung des Institutes festzustellen. Die ursprüngliche<lb/>
+Überlegung, uns über Wunsch, daß wir im Institut mit den entsprechenden<lb/>
+Büros der einzelnen Minister, die für Wirtschaftsfragen irgendwie<lb/>
+zuständig sind oder etwas damit zu tun haben und Kontakt halten,<lb/>
+hat sich leider nicht erfüllt. Der einzig wirklich zweckmäßige und<lb/>
+auch sehr wichtige Kontakt steht zwischen Arbeiterkammer, Gewerkschafts<lb break="no"/>bund und uns. <choice><choice><sic>Die</sic><corr>Durch die</corr></choice></choice> beiden neuen Genossen haben wir wenigstens jetzt<lb/>
+noch zum Klub einen besseren Kontakt. Der eine wohnt sogar im Domes-<lb/>
+Heim von der Arbeiterkammer und schon allein dadurch ergibt sich<lb/>
+ein gutes Verhältnis zum SPÖ-Klub. Mit dem Institutsessen und Treffen<lb/>
+hat sich eine ganz andere Entwicklung gezeigt, als wir eigentlich be<lb break="no"/>absichtigt haben. Hier muß ich auch eine große Illusion begraben.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="12_1013_01" facs="12_1972-08-28_1013-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 28.8.1972</head>
+         </div>
+      </back>
+   </text>
+</TEI>

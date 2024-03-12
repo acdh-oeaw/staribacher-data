@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der  6. März 1976</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band30_1976-03-06</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1976-03-06">Samstag, 6. März 1976</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-01-21">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="30-0303" facs="30_1976-03-06_0303.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Samstag, 6. März 1976<lb/>
+</p>
+            <p xml:space="preserve">Artikel in der Presse, ohne dass ich natürlich diese Zeitung<lb/>
+nannte, dass das Handelsministerium zu wenig für die Möbelindustrie<lb/>
+tut. <name type="person" ref="per:113630">Effenberg</name> hatte vorher darauf hingewiesen, dass die Jury für den<lb/>
+Staatspreis Möbel arbeitet. Dieses Mal seien sogar mehr Firmen und<lb/>
+Projekte daran beteiligt als das letzte Mal. In dem Artikel stand<lb/>
+genau das Gegenteil. Beim Durchgang hat mir <name type="person" ref="per:113630">Effenberg</name> dann mitgeteilt,<lb/>
+dass immer mehr Firmen in Wien zugrunde gehen, resp. aus alle Fälle<lb/>
+nach dem Westen sich die Möbelproduktion verlagert hat. <name type="person" ref="per:113630">Effenberg</name><lb/>
+meint, dass es sich hier um eine Entwicklung handelt, die durch das<lb/>
+schlechte Klima in Wien bedingt ist. Höhere Stückkosten, weniger Aus<lb break="no"/>breitungsmöglichkeit, weniger Unterstützung durch die Gemeinde Wien.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: Hier müsste gegebenenfalls die Grundsatzgruppe<lb/>
+oder -abteilung etwas dagegen unternehmen.<lb/>
+</p>
+            <p xml:space="preserve">Mit den Messe-Verantwortlichen Hofrat <name type="person" ref="per:97998">Strauss</name>, <name type="person" ref="per:115005">Hintschig</name> und <name type="person" ref="per:131198">Draxler</name><lb/>
+hatte ich eine ernste Aussprache wegen Anerkennung der Welser Messe<lb/>
+bei der internationalen Union der Messen. <name type="person" ref="per:131198">Draxler</name> befürchtet ein Prä<lb break="no"/>judiz für alle anderen Messen, wenn erst einmal die Landwirtschafts<lb break="no"/>messe die internationale Anerkennung gefunden hat. Die Wiener Messe<lb/>
+müsste nämlich in Paris diesem Antrag zustimmen. <name type="person" ref="per:115005">Hintschig</name> und <name type="person" ref="per:97998">Strauss</name><lb/>
+haben aber bereits Zusagen den Welsern gegeben. Ich erklärte mich mit<lb/>
+jeder Lösung einverstanden, wenn der Streit zwischen Wien und Wels<lb/>
+beendet ist. Seinerzeit hat <name type="person" ref="per:115005">Hintschig</name> mir ausdrücklich gesagt, dass<lb/>
+er eine Lösung finden wird, ja sogar schon eine Lösung vereinbart<lb/>
+hat.<lb/>
+</p>
+            <p xml:space="preserve">Die Wiener Messe möchte überhaupt in der Arbeitsgemeinschaft ver<lb break="no"/>suchen eine Abgrenzung und Einschränkung der weiteren Einbeziehung<lb/>
+von Messe-Städten. Salzburg ist sich die Wiener Messe vollkommen klar,<lb/>
+ist nicht mehr zu verhindern und es wird sogar Aufgabe sein, das<lb/>
+Ausstellungszentrum zu integrieren. Auch in Linz beginnt man jetzt<lb/>
+in der Bruckner-Halle mit Ausstellungen und zwar hat das Contact<lb/>
+von Salzburg übernommen. In Wien wieder hat das Bauzentrum, Dipl.Ing.<lb/>
+<name type="person" ref="per:143548">Jirasko</name> über seine Firma Offerta Ges.m.b.H. die Absicht, durch immer<lb/>
+mehr Ausstellungen und Veranstaltungen den Messen Konkurrenz zu<lb/>
+machen. Die einzige Lösung, schlagen die Wiener Messevertreter vor,<lb/>
+<pb n="30-0304" facs="30_1976-03-06_0304.jpg"/>wäre, dass die Messen privaten Veranstaltern nicht ihre Objekte<lb/>
+zur Verfügung stellen. Die Vermietung resp. Vereinbarung wäre nur<lb/>
+mit Verbänden zu schliessen. Ich habe zugesagt, diese Anregung bei<lb/>
+der Statutenerstellung jetzt zu machen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98072">WIESINGER</name>: Bitte mit Messedirektor <name type="person" ref="per:140231">Kleindienst</name>, Klagen<lb break="no"/>furt verbinden.<lb/>
+</p>
+            <p xml:space="preserve">Gleichzeitig mit der Möbelmesse wurde auch die Fachmesse Zweirad er<lb break="no"/>öffnet. Der Besuch war dort am Samstag Nachmittag sehr gut, weil natür<lb break="no"/>lich die jungen Leute sich für Motorräder sehr interessieren. Der<lb/>
+Besitzer von KTM hat mich ersucht, ich möge bei <name type="person" ref="per:97879">Rösch</name> intervenieren,<lb/>
+damit auch er zu öffentlichen Aufträgen herangezogen wird. Derzeit hat<lb/>
+scheinbar nur die Steyr-Daimler-Puch und Importfirmen einen direkten<lb/>
+Draht zu <name type="person" ref="per:97879">Rösch</name>, wie er behauptet.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name>: Bitte feststellen und wie die Auftragsgeber sich<lb/>
+versorgen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98072">WIESINGER</name>: Bitte mit <name type="person" ref="per:97879">Rösch</name> verbinden.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Jahresversammlung der Pensionisten auf der Landstrasse war<lb/>
+der Festsaal fast voll. Ich war darüber sehr erstaunt. Der Vorteil<lb/>
+dieser Pensionistenorganisation liegt darin, dass sie doch von der<lb/>
+Partei verhältnismässig viele aktive Funktionäre bekommen, die dann<lb/>
+in ihrer Pensionistenzeit mehr für die Pensionistenorganisation tun<lb/>
+als für andere Vereine.<lb/>
+</p>
+            <p xml:space="preserve">Beim Abendessen Prof. <name type="person" ref="per:143579">Mayer</name> traf ich <name type="person" ref="per:109293">Busek</name> und seine Frau. <name type="person" ref="per:109293">Busek</name> ist<lb/>
+nach wie vor ein lustiger Gesellschafter, dem Rückschläge kaum etwas<lb/>
+ausmachen und der nach aussen hin einen ungeheuer starken Eindruck<lb/>
+macht. Durch Zufall kam ich neben seine Frau zu sitzen und musste fest<lb break="no"/>stellen, dass diese wesentlich weniger konziliant ist als er. Offen<lb break="no"/>bar möchte sie am liebsten ähnlich meiner Frau, zumindestens war dies<lb/>
+mein Eindruck, alle Gegner wenn nicht vernichten so zumindestens kalt<lb break="no"/>stellen. Nur ein einziges Mal ist sie wirklich aus sich herausgegangen<lb/>
+als wir über die beiden <name type="person" ref="per:109293">Busek</name> und <name type="person" ref="per:98003">Taus</name> sprachen. Da ich <name type="person" ref="per:98003">Taus</name> länger kenne<lb/>
+als <name type="person" ref="per:109293">Busek</name>, ich hatte ihn ja schon vor 20 Jahre im Kummer-Institut<lb/>
+kennengelernt und mit ihm dort diskutiert, <name type="person" ref="per:109293">Busek</name> dagegen erst seit 1970<lb/>
+kenne, konnte ich mir erlauben zu sagen, dass <name type="person" ref="per:98003">Taus</name> für das Geschäft<lb/>
+des Parteiobmannes ja überhaupt für einen Spitzenpolitiker viel zu<lb/>
+sensibel ist. Hier stimmte sie mir zu und meinte, <name type="person" ref="per:98003">Taus</name> sei ein Psycherl.<lb/>
+</p>
+            <pb n="30-0305" facs="30_1976-03-06_0305.jpg"/>
+            <p xml:space="preserve">Dies war sicherlich nicht abwertend gemeint, sondern eben nur charak<lb break="no"/>terisierend. Da <name type="person" ref="per:126284">Leherb</name> bei dieser Party unmittelbar nach dem Essen<lb/>
+sofort mit seinen Steuerproblemen zu sprechen begann, wo er zugab,<lb/>
+dass ich ihm nicht mehr helfen kann, habe ich mich dann sofort verab<lb break="no"/>schiedet, mit der Begründung, dass ich zu einer nächsten Veranstaltung<lb/>
+gehen muss. Meine Frau hatte sich vorher schon entschuldigt, dass sie<lb/>
+nicht kommen kann, weil sie eben bei dieser anderen Veranstaltung war.<lb/>
+<name type="person" ref="per:109293">Busek</name> meinte und das ist wieder ein sehr gutes Bonmot von ihm: Da<lb/>
+sieht man, wie die Sozialisten es machen allgegenwärtig zu sein.<lb/>
+Arbeiten in rollendem und überschlagendem Einsatz. Den ganzen Abend<lb/>
+kam kein einziges politisch interessantes Problem zur Diskussion oder<lb/>
+zur Sprache, <name type="person" ref="per:126284">Leherb</name> beherrschte die Szene, was mich überhaupt nicht<lb/>
+störte, ganz im Gegenteil, und <name type="person" ref="per:109293">Busek</name> hat kein politisches Problem<lb/>
+angeschnitten. Mit Absicht oder nicht, weiss ich nicht. Vielleicht<lb/>
+wurde dann mehr diskutiert als ich weg war, <name type="person" ref="per:114508">Tieber</name> blieb ja Gott<lb/>
+sei Dank sicherlich noch längere Zeit dort, so dass <name type="person" ref="per:143579">Mayer</name> nicht belei<lb break="no"/>digt sein kann.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="30_0302_01" facs="30_1976-03-06_0302-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 6.3.1976</head>
+         </div>
+      </back>
+   </text>
+</TEI>

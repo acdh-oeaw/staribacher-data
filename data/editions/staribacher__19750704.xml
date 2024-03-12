@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der  4. Juli 1975</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band26_1975-07-04</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1975-07-04">Freitag, 4. Juli 1975</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-11-26">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="26-0823" facs="26_1975-07-04_0823.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Freitag, 4. Juli 1975<lb/>
+</p>
+            <p xml:space="preserve">Im Klub hat <name type="person" ref="per:97668">Kreisky</name> die ausscheidenden Nationalräte verabschiedet.<lb/>
+Scheinbar ist es ihm erst im letzten Moment eingefallen, denn sein<lb/>
+Sekretariat hat ihm nicht einmal alle Namen auf einen Zettel auf<lb break="no"/>geschrieben. Trotzdem hat er in der Improvisation keinen vergessen,<lb/>
+nur halt wenig systematisch jeden einzelnen ein paar Worte gewidmet,<lb/>
+obwohl nur sehr knapp Zeit war, da um 9 Uhr schon die Haussitzung<lb/>
+begann und er nur 15 Minuten zur Verfügung hatte. <name type="person" ref="per:97543">Heindl</name> bemerkte mir<lb/>
+gegenüber dass auch hier wieder einmal ein typischer <name type="person" ref="per:97668">Kreisky</name> sprach.<lb/>
+Insbesondere verwies er darauf, dass beängstigende Chancen für die<lb/>
+SPÖ bei den nächsten Wahlen bestehen, beängstigend deshalb, weil<lb/>
+dadurch unsere Genossen womöglich zu nicht höchster Anstrengung ange<lb break="no"/>spornt werden, wodurch sich die wirtschaftliche Situation so ver<lb break="no"/>schlechtern kann, dass es dann eben nicht zu den erwarteten oder<lb/>
+besser gesagt den <sic>meinungsumfragenden</sic> Ergebnissen kommen kann.<lb/>
+<name type="person" ref="per:97444">Fischer</name> sagte mir dann die Ergebnisse von der Erhebung von 2.–15.6.,<lb/>
+<choice><choice><sic>danach</sic><corr>demnach?</corr></choice></choice> hat die sozialistische Partei wieder 1% gewonnen, von 46 auf<lb/>
+47, die ÖVP 2 verloren, von 38 auf 36, die Freiheitlichen mit 4.5<lb/>
+und die KPÖ mit einen 1/2 % stagnierend. Wenn man die Unentschlossenen<lb/>
+vorsichtig auf Grund der bisherigen Ergebnisse aufteilt, hat die<lb/>
+sozialistische Partei derzeit 52 %. Im Juni hätte sich schon müssen<lb/>
+das Riesengerede und die Angst um den Arbeitsplatz irgendwie negativ<lb/>
+auf die Regierungspartei auswirken müssen, wenn eben ein negativer Ein<lb break="no"/>fluss überhaupt aus dieser Entwicklung für uns zu erwarten ist. Für mich<lb/>
+steht fest, dass wenn die SPÖ einen so grossen Sieg erreichen würde,<lb/>
+<name type="person" ref="per:97668">Kreisky</name> sicherlich nicht nur diese Legislaturperiode, sondern ähnlich<lb/>
+wie <name type="person" ref="per:114141">Adenauer</name> dann auf lange Sicht eine vollkommen unbestrittene<lb/>
+Stellung haben wird. Einige sehen darin eine grosse Gefahr, weil sie<lb/>
+eben <name type="person" ref="per:114141">Adenauer</name> vor Augen haben. <name type="person" ref="per:97668">Kreisky</name> ist aber meiner Meinung nach<lb/>
+viel zu schlau und zu intelligent um selbst dann alle Leute von seiner<lb/>
+Führungseigenschaft zu überzeugen, die nicht ausgesprochene <name type="person" ref="per:97668">Kreisky</name>-<lb/>
+Fan sind. Sicherlich spielt der Altersstarrsinn aber dann schon eine<lb/>
+gewisse Rolle. Jetzt glaube ich wenn er mit viele andere, mit mir<lb/>
+hat er ja die geringsten Konflikte gehabt, seine Idee ohne den<lb/>
+anderen zu überzeugen, sondern ganz einfach aufzwingt, primär eine<lb/>
+Frage der Überlastung. Seinem Intellekt nach würde er sicherlich am<lb/>
+liebsten in der Diskussion mit den anderen überzeugen und nicht so<lb/>
+nervös reagieren wie dies manchmal der Fall ist.<lb/>
+</p>
+            <pb n="26-0824" facs="26_1975-07-04_0824.jpg"/>
+            <p xml:space="preserve">Die Betriebsräte der Ennskraftwerke, der Betriebsratsobmann der<lb/>
+Verbundgesellschaft, <name type="person" ref="per:114380">Nischkauer</name>, sowie <name type="person" ref="per:107937">Frank</name> besprachen mit mir die<lb/>
+Reorganisation der Enns. Der jetzt ausscheidende Direktor der<lb/>
+Enns von der ÖVP-Seite, <name type="person" ref="per:140603">Petelnik</name>, hat um sich bei den Leuten beliebt<lb/>
+zu machen, insbesondere seinen Parteifreunden irrsinnige Zugeständ<lb break="no"/>nisse gemacht. In der Elektrizitätswirtschaft spielte in der Ver<lb break="no"/>gangenheit die Lohntangente nicht die grosse Rolle, weshalb unter<lb/>
+parteipolitischem Druck gerade in den einzelnen Kraftwerken Leute<lb/>
+angestellt werden, die man oft gar nicht unbedingt braucht. Hier<lb/>
+hat <name type="person" ref="per:97668">Kreisky</name> schon recht, wenn er besonders jetzt anprangert dass<lb/>
+bei guter Konjunktursituation die Manager oft nicht ihre Verpflichtung<lb/>
+erfüllen, nämlich in der Aufnahme äusserst vorsichtig vorgehen, sondern<lb/>
+eben sagen, jetzt können wir es uns leisten, warum soll ich hier ent<lb break="no"/>sprechenden Widerstand leisten. Dazu kommt bei der Enns, dass die<lb/>
+Aktionärsvertreter, die von der Verbund gekommen sind, mindestens<lb/>
+was den sozialistischen Vertreter betrifft, er durch die Arbeit im<lb/>
+Kraftwerk Korneuburg, das er zu leiten hat und sonstige Leitungsarbei<lb break="no"/>ten die er für den Verbundkonzern als Hauptabteilungsleiter ver<lb break="no"/>antworten muss, überlastet ist. Der ÖVP-Vertreter, Hauptabteilungs<lb break="no"/>leiter <name type="person" ref="per:140604">Loidolt</name> der inneren Revision, hat mit den zwei von der OKA<lb/>
+entsendeten ÖVP Aktionärsvertreter, wodurch es 3:1 steht, rein<lb/>
+fachlich eigentlich damit nichts zu tun. Hier würde die Konzern<lb break="no"/>revision, nämlich dieser Hauptabteilungsleiter von der Verbund<lb/>
+hingehören. <name type="person" ref="per:107937">Frank</name> wird wie er den Betriebsräten der Enns <name type="person" ref="per:140601">Ludwig</name><lb/>
+und <name type="person" ref="per:140600">Gollner</name> versicherte, mit <name type="person" ref="per:112014">Erbacher</name> über diese Entwicklung bei<lb/>
+der Reorganisation sprechen. Unter anderem wurde mir ein Bericht<lb/>
+seinerzeit vorgelegt, wonach die Automatisierung der einzelnen<lb/>
+<choice><choice><sic>Ennskraftstufen</sic><corr>Ennskraftwerksstufen</corr></choice></choice> noch bis in die 90er Jahre dauern würde. In<lb/>
+Wirklichkeit könnte man in maximal 2 Jahren alles abschliessen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:114380">Nischkauer</name>, der Verbundbetriebsratsobmann, intervenierte dann bei<lb/>
+mir wegen <name type="person" ref="per:140241">Perl</name> als Direktor bei den Tauern. Zum Glück hatte ich<lb/>
+auch <name type="person" ref="per:107937">Frank</name> zu dieser Besprechung zugezogen, sodass ich hier, als<lb/>
+ich meine Stellung ihm gegenüber abgab, einen Zeugen habe. Nicht dass<lb/>
+er dies einmal abstreiten würde, aber auch <name type="person" ref="per:114380">Nischkauer</name> musste zugeben,<lb/>
+dass <name type="person" ref="per:140241">Perl</name> vielleicht politisch der richtige Mann wäre, dass aber<lb/>
+die optimale Lösung <name type="person" ref="per:114091">Gmeinhart</name> von der ÖDK ist. Alle die noch bei mir<lb/>
+wegen <name type="person" ref="per:140241">Perl</name> intervenierten, machten dies scheinbar aus politischen<lb/>
+Überlegungen und geben dann freimütig zu, dass die fachlichen Vor<lb break="no"/><pb n="26-0825" facs="26_1975-07-04_0825.jpg"/>aussetzungen nicht mit <name type="person" ref="per:114091">Gmeinhart</name> zu vergleichen sind.<lb/>
+</p>
+            <p xml:space="preserve">Ein Prokurist der Negrelli und die Betriebsräte intervenierten mit<lb/>
+NR <name type="person" ref="per:97805">Pay</name>, da sie für Feber 1976 derzeit keinen Vertrag mehr mit der<lb/>
+GKB haben, bezüglich Abbau von übergelagerter Erde beim Tagbau Kohle<lb/>
+in Köflach. Der Prokurist war sehr verwundert von mir zu erfahren,<lb/>
+dass ich eigentlich erwarte, dass die GKB jetzt endlich eine<lb/>
+finanzielle Studie über den Kohlenabbau vorlegt, weil wenn es nach<lb/>
+der Bundesregierung geht, dass Projekt sofort in Angriff genommen<lb/>
+werden müsste. Nach Auffassung von Negrelli, ohne genau kalkuliert zu<lb/>
+haben, müsste für 1 Million Tonnen Kohle jährlicher Abbau, ca.<lb/>
+400.000 m³ Lagerung abgeräumt werden. Bei 10–12 Schilling würde dies<lb/>
+45 Millionen Schilling ca. pro Jahr Aufwand sein, der zusätzlich auf<lb/>
+den Kohlenpreis dazugeschlagen werden muss. Die Negrelli-Bauarbeiter<lb/>
+befürchten nun, dass wenn sie keinen Anschlussauftrag bekommen,<lb/>
+ihre dort eingesetzten Arbeitsplätze verlorengehen, die Firma be<lb break="no"/>fürchtet dass sie die Investitionen, die sie getätigt hat unausgenützt<lb/>
+liegen und dann später erst bei den Neuaufschluss eingesetzt werden<lb/>
+können. Sie schätzen dass dort 150 Millionen Schilling Investitionen<lb/>
+notwendig sind, die die Firma Negrelli finanzieren würde wenn sie mit<lb/>
+den Abbauen entsprechend beauftragt wird. Im Unterton hörte ich he<lb break="no"/>raus, dass sie Angst haben jetzt infolge der schlechten Baukonjunktur,<lb/>
+dass sich vielleicht eine Konkurrenzfirma dann findet, die ganz unab<lb break="no"/>hängig wie die Kostensituation ist, nur um den Auftrag zu bekommen,<lb/>
+jedwede Kalkulationsrichtlinien ausser acht lässt und einen ent<lb break="no"/>sprechend verheerend tiefen Preis anbietet. Als Anschlussauftrag<lb/>
+gäbe es eine Möglichkeit bei<add>[-m?]</add> Mutter-Kogel noch ein Feld anzuschneiden.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:113038">REIM</name><add>? Gehart</add>: Bitte mit <name type="person" ref="per:108609">Sterk</name> feststellen was hier möglich ist.<lb/>
+</p>
+            <p xml:space="preserve">Die Klubobleute haben um die Abgeordneten zeitgerecht nach Hause<lb/>
+zu bringen beschlossen gehabt, dass zu den internationalen Energie<lb break="no"/>agenturvertrag niemand spricht. Deshalb wurde von allen Seiten auf<lb/>
+<name type="person" ref="per:97543">Heindl</name> und auch auf mich ein entsprechender Druck ausgeübt. Von<lb/>
+<name type="person" ref="per:97647">Koren</name> und ganz besonders von <name type="person" ref="per:97807">Peter</name> wurden sogar unsere abgeordneten<lb/>
+Frauen organisiert, um mich davon abzuhalten, dass wir durch ent<lb break="no"/>sprechende Diskussion die Sitzung verlängern. Ich hatte bereits am<lb/>
+Vortag ventiliert wie wir aus dieser schwierigen Frage am besten<lb/>
+herauskommen. Auf der einen Seite war es für mich klar, dass <name type="person" ref="per:97543">Heindl</name><lb/>
+sicherlich nicht reden wird, um nicht zuletzt sich es auch mit den<lb/>
+<pb n="26-0826" facs="26_1975-07-04_0826.jpg"/>anderen Kollegen zu verscherzen. Immer noch haben <name type="person" ref="per:97543">Heindl</name>, aber auch<lb/>
+besonders ich in meiner langjährigen Praxis im Nationalrat das Prinzip<lb/>
+aufrechterhalten, die beste Rede ist die, die man nicht hält. Darüber<lb/>
+hinaus ist es ja eindeutig so, dass gerade bei einem Kehraus im Parla<lb break="no"/>ment niemand mehr die Reden sich auch nur anhört, geschweige denn<lb/>
+vielleicht sich daran begeistert. Andererseits wäre dies eine Mög<lb break="no"/>lichkeit gewesen gerade zum Abschluss der ÖVP noch einmal ihre<lb/>
+Unfähigkeit zu Entscheidungen zu kommen, vorzuwerfen. Darüber<lb/>
+hinaus war je Chance gegeben, gegen die ÖVP richtiggehend zu pole<lb break="no"/>misieren. <name type="person" ref="per:97543">Heindl</name> hat ganz besonders auch über die Personalangriffe<lb/>
+der ÖVP auf das Handelsministerium einige Bemerkungen machen wollen.<lb/>
+Sie behaupten nämlich, dass <name type="person" ref="per:97867">Reiterer</name> deportiert wurde, der sich jetzt<lb/>
+um eine Verlängerung reisst, oder dass sein Vorgänger in Brüssel,<lb/>
+<name type="person" ref="per:135642">Leitner</name>, unglücklich war nach China zu kommen, obwohl seine Frau in<lb/>
+einer Zeitung bei der Ernennung schrieb, dass ist sein glücklichster<lb/>
+Tag, weil er immer schon nach China wollte, gibt wirklich eine gute<lb/>
+Grundlage zur Polemik. Eine Begründung warum wir nicht sprechen hatte<lb/>
+ich sofort zur Hand. Da es für Österreich ja blamabel ist einen<lb/>
+internationalen Vertrag abzuschliessen, im Parlament zu ratifizieren<lb/>
+und dann zugestehen zu müssen, dass man ihn gar nicht in Österreich<lb/>
+exekutieren kann, ist für das österreichische Ansehen, ganz unabhängig<lb/>
+wer daran Schuld ist, verheerend. Aus internationalen und auch aus<lb/>
+nationalen Gründen war es deshalb für uns gar kein Opfer, sondern wenn<lb/>
+man so sagen will, eine Verpflichtung darüber zu schweigen, um Öster<lb break="no"/>reich nicht zu blamieren. Mein Versuch aber dann noch die ÖVP dazu<lb/>
+zubringen, dass wir eine Vereinbarung abschliessen, die <name type="person" ref="per:97543">Heindl</name><lb/>
+sehr geschickt formulierte und wonach sich die Klubs verpflichten im<lb/>
+nächsten Jahr sofort mit der Arbeit zu beginnen, scheiterte an <name type="person" ref="per:97647">Koren</name>.<lb/>
+Dieser sagte <name type="person" ref="per:97543">Heindl</name> und mir, wozu soll dies dienen, der Nationalrat<lb/>
+löst sich auf, niemand weiss, wie es im Oktober aussehen wird, er<lb/>
+auf alle Fälle ist nicht bereit eine Verpflichtung in irgendeiner<lb/>
+Weise einzugehen. In diesem Fall nun wäre es dringendst notwendig<lb/>
+gewesen, dass unabhängig von den Wünschen der Klubs die Diskussion<lb/>
+hätte stattfinden müssen. <name type="person" ref="per:97647">Koren</name> bemerkte auch zu einigen Abgeordneten<lb/>
+von unseren Klub, die sich um eine Streichung sehr bemühten, dass<lb/>
+der sture <name type="person" ref="per:97985">Staribacher</name> dies auf alle Fälle tun wird. Hier unterschätzt<lb/>
+er allerdings unsere Klubdisziplin. Nachdem Obmann <name type="person" ref="per:98066">Weisz</name> eine Verein<lb break="no"/>barung eingegangen ist, war es für mich klar, dass ich diesen Freund<lb/>
+nicht hängen liess. <name type="person" ref="per:98066">Weisz</name> war es letzten Endes, der mich sehr unter<lb break="no"/>stützt hat, als wir <name type="person" ref="per:97543">Heindl</name> in den Nationalrat brachten. Dass ich nur<lb/>
+<pb n="26-0827" facs="26_1975-07-04_0827.jpg"/>um recht zu behalten, ihn desavouierte, kann überhaupt nicht in<lb/>
+Frage kommen. Die ÖVP wird dieses Verhalten kaum verstehen. Sicher<lb/>
+gibt es aber auch bei uns einige Leute, die nicht eine solche Diszi<lb break="no"/>plin aufbringen als wir. <name type="person" ref="per:97543">Heindl</name> ist eigentlich verhältnismässig kurz<lb/>
+im Nationalrat und hat sehr oft schon verzichtet. Andere Minister<lb/>
+denken nicht daran, ihre Redner zu ihren Problemen zu streichen.<lb/>
+Ob dies bei Wissenschaft oder bei Justiz ist, hat <name type="person" ref="per:97444">Heinz Fischer</name>,<lb/>
+der traurig war, dass er uns mehr oder minder in dieser Frage nicht<lb/>
+unterstützen konnte, freimütigst zugegeben. Er sagte allerdings<lb/>
+dass manche Minister halt alle Beziehungen bis zum Präsidenten<lb/>
+<name type="person" ref="per:97346">Benya</name> spielen lassen, um bei der Tagesordnung schon entsprechend<lb/>
+gereiht zu sein, um dadurch ihre Bedeutung und insbesondere der<lb/>
+Materie, die behandelt wird, herauszustreichen. Diese Politik<lb/>
+werde ich wahrscheinlich nie machen, weil ich glaube, ich das<lb/>
+Parlament hier nicht überschätzen möchte. Wenn es um wirklich be<lb break="no"/>deutende Fragen geht, dann haben wir ja und sollen wir immer neue<lb/>
+Ideen entwickeln. Die grösste war zweifelsohne, wie <name type="person" ref="per:97543">Heindl</name> die<lb/>
+dringliche Anfrage wegen der Zuckersituation an mich richtete.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Wir sollten aber die Parlamentsarbeit neu<lb/>
+überdenken.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97893">Sallinger</name> war sehr besorgt, dass wir von der Regierung den Getreide<lb break="no"/>preis beschliessen, ohne dass klargestellt ist, wie es weitergeht.<lb/>
+Er hat deshalb mit <name type="person" ref="per:97346">Benya</name>, <name type="person" ref="per:97563">Hofstetter</name>, <name type="person" ref="per:97769">Mussil</name>, <name type="person" ref="per:97368">Brandstätter</name> und <name type="person" ref="per:97872">Rief</name><lb/>
+eine Besprechung vereinbart. Bei dieser Gelegenheit habe ich klar<lb/>
+und deutlich zum Ausdruck gebracht, dass als einziges Kompromiss<lb/>
+ich mir vorstellen könne, dass wir formulieren, da Anfang des<lb/>
+Jahres 1975 die Brot- und Mehlpreise erhöht wurden, erst Anfang<lb/>
+des Jahres 1976 eine neuerliche Verbraucherpreiserhöhung in Aussicht<lb/>
+genommen werden kann. Anfang des Jahres bedeutet, dass dies wie man<lb/>
+sich dann auch einigte, ohne es schriftlich festzuhalten, Mitte Jänner<lb/>
+sein wird. Meine Überlegung, dass bis 6. Jänner, wo Feiertage sind<lb/>
+überhaupt nichts geschehen kann, hat alle überzeugt. Die Handels<lb break="no"/>kammer hat – und das war sehr interessant – ganz besonders darauf<lb/>
+gedrängt dass natürlich auch die Löhne und Gehälter zu diesem Zeit<lb break="no"/>punkt bereits vereinbart werden müssten. Ihre ursprüngliche Befürch<lb break="no"/>tung, dass <name type="person" ref="per:97346">Benya</name> hier nicht zustimmen wird, war begründet, doch<lb/>
+konnten sie ihn dann überzeugen, dass man die Löhne dann mit<lb/>
+Mitte Jänner in Kraft setzt, was ungefähr auch wieder 12 Monate<lb/>
+bedeuten.<lb/>
+</p>
+            <pb n="26-0828" facs="26_1975-07-04_0828.jpg"/>
+            <p xml:space="preserve">Das letzte Mal hat die Handelskammer ja von mir erwartet, dass<lb/>
+ich entsprechend zeitgerecht, womöglich nach 12 Monaten schon<lb/>
+die Forderung auf Lohnerhöhungen bei der Paritätischen Kommission<lb/>
+anmelde. Bisher war aber unsere Taktik, dass wir so lange nicht<lb/>
+Lohnforderungen stellen, solange nicht die Handelskammer entspre<lb break="no"/>chende Preisanträge auf Grund von Getreidepreiserhöhungen gestellt<lb/>
+hat. Dieses neckische Spiel können wir im nächsten Jahr nicht<lb/>
+mehr wiederholen, brauchen es aber auch nicht, weil eben die<lb/>
+Handelskammer schon jetzt verlangt hat, dass die Löhne im Lohn<lb break="no"/>unterausschuss und nicht mehr in der Paritätischen Kommission<lb/>
+zur Fühlungnahme Anfang Jänner freigegeben werden. <name type="person" ref="per:97368">Brandstätter</name><lb/>
+wollte ja sogar erreichen, dass man sogar bereits im Dezember<lb/>
+über die Löhne verhandeln soll. Die Handelskammer verlangte auch ein<lb/>
+Erhöhung der Handelsspannen, d.h. der Aufkäufer- und Grosshandels<lb break="no"/>spannen von 1.– S pro mg jetzt gleich bei der Festsetzung des<lb/>
+Getreidepreises. Sachlich ist richtig, dass jetzt gleich die<lb/>
+Aufkäuferspanne und Grosshandelsspanne für Getreide festgesetzt<lb/>
+werden muss, weil ja auch das neue Getreide zum neuen Preis über<lb break="no"/>nommen wird. Andererseits war ich nicht bereit, 1.– S zuzuge<lb break="no"/>stehen und habe deshalb gegen eine Formulierung entsprechende<lb/>
+Anhebung der Handelsspanne erklärt, dies nehme ich nicht zur<lb/>
+Kenntnis. Wesentlich schwieriger aber wird es sein und ich<lb/>
+habe <name type="person" ref="per:97346">Benya</name> vor den anderen darauf aufmerksam gemacht, dass die<lb/>
+Arbeiterkammer bis jetzt einer solchen Regelung nicht zugestimmt<lb/>
+hat. In der Preiskommission werden wir deshalb ganz grosse<lb/>
+Schwierigkeiten haben. Ich fürchte, es wird diesmal die Arbei<lb break="no"/>terkammer dieselbe Stellungnahme einnehmen wie die Landwirtschaft<lb/>
+sie wird maximal mehr oder minder dieses Ergebnis zur Kenntnis<lb/>
+nehmen, keinesfalls aber zustimmen.<lb/>
+</p>
+            <p xml:space="preserve">Einmal mehr war ich wieder glücklich, dass ich mit den Kommerzialrat<lb/>
+titeln nichts zu tun habe. Aus dem Sonderkontingent für 125 Jahre<lb/>
+glaube ich Handelskammer Oberösterreich, wo zusätzlich 11 Kommer<lb break="no"/>zialratstiteln von mir beim Bundespräsidenten durchgesetzt wurden,<lb/>
+haben die Freien Wirtschaftsverbändler mit 5 einen sehr guten<lb/>
+Abschluss getätigt. Jetzt aber kommen sie zu mir und ersuchen<lb/>
+mich um zweierlei: Erstens sind 2 darunter, die noch nicht<lb/>
+50 Jahre alt sind und 2. haben sie noch eine Parteinotwendigkeit,<lb/>
+nämlich einen blinden Trafikanten. Für diesen hat sich nicht nur<lb/>
+der Kriegsopfervertreter <name type="person" ref="per:114140">Libal</name> eingesetzt sondern auch ZS <name type="person" ref="per:97727">Marsch</name><lb/>
+<pb n="26-0829" facs="26_1975-07-04_0829.jpg"/>meinte, dieser müsse eben aus Parteinotwendigkeit unbedingt den<lb/>
+Kommerzialratstitel bekommen. Ich erklärte, mir ist es ganz wurscht,<lb/>
+sie können nur 5 nominieren und ich bin bereit mit dem Bundes<lb break="no"/>präsidenten wegen der Altersgrenze zu reden. <name type="person" ref="per:97757">Mühlbacher</name> hat ihnen<lb/>
+dann noch einen zusätzlich, der auch unbedingt untergebracht<lb/>
+werden muss, auf seine Bundesliste übernommen. Wenn ich nur an<lb/>
+diesem einen Beispiel mir überlege, wer hier aller interveniert,<lb/>
+wer hier aller letzten Endes unbefriedigt abgewiesen werden muss,<lb/>
+wer hier aller dann beleidigt ist, so bin ich über meine Idee<lb/>
+1970 die Kommerzialräte sofort der Bundeskammer zu übertragen,<lb/>
+sehr glücklich. Andererseits ist es mir aber vollkommen klar,<lb/>
+dass das Verleihen der 10 Titel, die das Handelsministerium<lb/>
+hatte, eine gewisse Machtstellung bedeutet. Ich kann mir ausserdem<lb/>
+sehr gut vorstellen, wie die Bürokratie bei der Vergebung dieser<lb/>
+Titel sich entsprechend in den Vordergrund schob, indem sie bei<lb/>
+Hunderten, die sich dafür interessierten, diesen zu verstehen<lb/>
+gaben, dass sie sich einsetzen werden, dass er den Kommerzialrats<lb break="no"/>titel bekommt. Hat ihn dann einer bekommen, hat er siehe geglaubt<lb/>
+der Bürokrat war wesentlich dran beteiligt, ist er abgelehnt, dann<lb/>
+hat ihm sicher dieser erzählt, er wäre eh dafür gewesen, aber<lb/>
+der Minister hat halt nicht so entschieden. Vielleicht ist meine<lb/>
+Politik falsch, Entscheidungen an sich heranziehen, die tat<lb break="no"/>sächlich niemand anderer treffen will und kann. sonst aber<lb/>
+delegieren, delegieren, delegieren. <name type="person" ref="per:113038">Reim</name> wundert sich, dass<lb/>
+viele andere Sekretäre unser Büro beneiden, die Erklärung dafür<lb/>
+ist in diesem System zu finden und nicht ausschliesslich in der<lb/>
+Toleranz von mir, wie manche glauben.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="26_0829_01" facs="26_1975-07-04_0829-01.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Inf. betr. Parteienvereinbarung Übereinkommen int. Energieprogramm</head>
+         </div>
+      </back>
+   </text>
+</TEI>

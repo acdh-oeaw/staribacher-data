@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittwoch, der 11. Juli 1973</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band17_1973-07-11</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1973-07-11">Mittwoch, 11. Juli 1973</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-09-13">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band17/">
+      <body>
+         <pb n="17-0831" facs="17_1973-07-11_0831.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Mittwoch, 11. Juli 1973</p><p xml:space="preserve"><name type="person" ref="per:114511">Fritz Muliar</name>, der mit mir immer Wahlwerbung in den vergangenen Jahren<lb/>
+betrieben hat und der sich gegenüber <name type="person" ref="per:97668">Kreisky</name> ganz strikte geweigert<lb/>
+hat, für <name type="person" ref="per:97963">Slavik</name>, wenn er wieder Bürgermeisterkandidat wäre, mitzumachen<lb/>
+ist natürlich bereit,jetzt unter <name type="person" ref="per:97488">Gratz</name> im Herbst mit mir Wahlpropa<lb break="no"/>ganda zu machen. Wie er mir versichert, werden wir gemeinsam wieder<lb/>
+auftreten, obwohl ich diesmal nicht kandidiere aber als Bezirksob<lb break="no"/>mann und Abgeordneter der Landstrasse sicherlich mich in Wien und<lb/>
+ganz besonders auf der Landstrasse in den Wahlkampf einschalten<lb/>
+werde. Das VErhalten von <name type="person" ref="per:114511">Muliar</name> – obwohl man immer sagt, Künstler<lb/>
+kann man für alles haben – hat mich sehr beeindruckt.</p><p xml:space="preserve">Img. <name type="person" ref="per:131307">Mayer</name> vom Wifi, der derzeit auch noch Geschäftsführer vom Nor<lb break="no"/>mungsinstitut ist, wurde von <name type="person" ref="per:97893">Sallinger</name> mir als der neue Geschäfts<lb break="no"/>führer für die Patentförderungsgesellschaft vorgeschlagen, ist wie <name type="person" ref="per:97469">Gehart</name><lb/>
+mir auch bestätigt, der einzinge und beste Mann, der uns zur VErfügung<lb/>
+steht. <name type="person" ref="per:131307">Mayer</name> erklärt mir gegenüber, dass er ausser seiner Wifi-Tätigkeit<lb/>
+für die er ja auch als Abteilungsleiter für Rationalisierung bezahlt<lb/>
+wird, alle anderen Posten aufgeben wird und sich ausschliesslich der<lb/>
+Patentförderung zu widmen. <name type="person" ref="per:97893">Sallinger</name>, den ich von meiner Zustimmung<lb/>
+für <name type="person" ref="per:131307">Mayer</name> verständige ist darüber sehr erfrut, er und ganz besonders<lb/>
+<name type="person" ref="per:97769">Mussil</name> hatten den Verdacht, dass ich auch hier wieder einen Sozialisten<lb/>
+installieren möchte. Ich hatte die beiden aber informiert, dass ich<lb/>
+beabsichgite, Min.Rat <name type="person" ref="per:97524">Hauffe</name>, den man beim besten Willen nicht<lb/>
+eine sozialistische Gesinnung nachsagen kann, deshalb als <name type="person" ref="per:97749">Mitterer</name>-<lb/>
+Schützling diesen Posten angeboten habe, weil er sich nicht ausgelastet<lb/>
+fühlt und zu höherem berufen glaubt. <name type="person" ref="per:131307">Mayer</name> gilt in der Patentförderung<lb/>
+als lebende Subvention vom Wifi, da wir diesen Posten nicth dotieren.</p><p xml:space="preserve"><name type="person" ref="per:97526">Hautzenberg</name> hat mir für Jugoslawien zusammengestellt, welche Kohle<lb break="no"/>lieferungen sie für Andrä übernehmen könnten. Von den seinerzeitigen<lb/>
+für die Option vorgesehen <choice><choice><sic>250.00</sic><corr>250.000?</corr></choice></choice> t kann jetzt keine Rede mehr sein.<lb/>
+<name type="person" ref="per:98069">Werner</name> hat mir nachher, jetzt als Präsident der ÖDK, gefragt, ob<lb/>
+ich überhaupt beabsichtgie, auf Kohlebasis die Kraftwerke Voitsberg,<lb/>
+Andrä und Zeltweg aufrechtzuerhalten. <name type="person" ref="per:98069">Werner</name> möchte unbedingt ein<lb/>
+neues Kohlekraftwerk Voitsberg III errichten. Die Verbund lehtn<lb/>
+aber ein solches Projekt , zumindestens bis jetzt, ganz entschieden<lb/>
+ab. Für die anfallenden Köflacher Kohle, muss allerdings Voitsberg I<lb/>
+und II weiterbetrieben werden. Die Fraktion hat sich im Kohleberg<lb break="no"/>bau in Graz mit den Elektrizitäts-Genossen geetroffen und die<lb/>
+<pb n="17-0832" facs="17_1973-07-11_0832.jpg"/>Steirer wollen auch Pölfing-Bergla über das Jahr 1976 hinaus betrei<lb break="no"/>ben. Diese schlechte Schwefelige Kohle müsste dann weiter in Voitsberg I<lb/>
+verheizt werden. Der schlechte Wirkungsgrad von Voitsberg I bedeutet<lb/>
+allerdings, dass der Verbund teurer Strom entsteht. Da Pölfing-Bergla<lb/>
+ein Defizitbetriebe wird und das Defizit dann allein durch die Lohn<lb break="no"/>bewegungen im Herbst wesentlich höher werden wird , müsste man neben<lb/>
+Fohnsdorf auf für Pölfing-Bergla bald eine Lösung suchen, d.h. in<lb/>
+Wirklichkeit den Betrieb stillegen. Die Partei sagt nun, die 360 dort<lb/>
+Beschäftigten seien für die Ortsorganisation für allergrösster BEdeutung.</p><p xml:space="preserve">Min.Rat <name type="person" ref="per:107937">Frank</name> und <name type="person" ref="per:97469">Gehart</name> haben für das Energiekonzept ein Grundschema<lb/>
+mit mir besprochen, <name type="person" ref="per:107937">Frank</name> schwebt vor, dass wir einige Nationalökonomen<lb/>
+z.B. Prof. <name type="person" ref="per:115683">Matzner</name>, den Ökonometriker <name type="person" ref="per:140539">Dinter</name> usw. einsetzen. Ich erkläre<lb/>
+<name type="person" ref="per:107937">Frank</name>, dass dies nur dann einen Sinn hat, wenndie Verbund oder die E-Wirt<lb break="no"/>schaft selbst keinen Fachmann auf diesem GEbiet hat. ERstens müsste<lb/>
+sich <name type="person" ref="per:115683">Matzner</name> erst in die Materie einarbeiten und zweitens kostet das<lb/>
+viel Geld, das uns nicht zur Verfgügung steht. Der Vorschlag <name type="person" ref="per:107937">Frank</name> und<lb/>
+<name type="person" ref="per:97469">Gehart</name>, die Betriebsräte der Energiewirtschaft in die Ökonomische Ar<lb break="no"/>beitsgruppe einzugliedern, halte ich für sehr gut. Ich stele allerdings<lb/>
+neuerdigs fest, dass die Hauptaufgbae in dem Beirat, der mit Jänner 1974<lb/>
+eingesetzt wird, geleistet werden müsste. In dem Beirat, wo die Inter<lb break="no"/>essensvertretungen und die eventuell beteiligten Ministerien vertreten<lb/>
+sein werden, muss auf Sozialpartnerbasis eine Konzeption versucht werden<lb/>
+die alle mehr oder minder befriedigt. Die Arbeitsgruppe der Ökonomischen<lb/>
+Versammlung kann für mich nur die parteipolitische Deckung für unser<lb/>
+Vorgehen auf dem Energiesektor sein. Gerade, wenn die Betriebsräte dabei<lb/>
+sind, wird man versuchen, auch gleichzeitig Personalpolitische und Sach<lb break="no"/>entscheidungen zu erzwingen, bevor ich sie mit den anderen Interessens<lb break="no"/>vertretungen abgestimmt habe. Ein typisches Beispiel ist die Vorgangs<lb break="no"/>weise für die Besetzung der leitenden Posten des zweiten Kernkraftwerkes.<lb/>
+Angeblich soll von Arbeitnehmerseite mit UNterstützung von <name type="person" ref="per:97333">Panthauer</name>,<lb/>
+der Zentralbetriebsratsobmann von der Verbund <name type="person" ref="per:140241">Perl</name> vorgeschlagen werden.<lb/>
+<name type="person" ref="per:97461">Frühbauer</name> aber auch andere sagen mir, dass dies vollkommen unmöglich ist.<lb/>
+Ebenso soll der Filialleiter von St. Veit, <name type="person" ref="per:97905">Schatzmeier</name> der Kelag, favo<lb break="no"/>risiert werden. <name type="person" ref="per:98069">Werner</name> wieder möchte Dr. <name type="person" ref="per:116707">Janicek</name>, der die kalorischen<lb/>
+Anlagen bei der ÖDK führt. Hier vermuten die Genossen, dass er sich<lb/>
+überhaupt nicht durchsetzen wird, er ist zwar BSA- und SPÖ-Mitglied ,<lb/>
+aber introvertiert und vor allem sichelrich nicht auf politischem Ge<lb break="no"/>biet durchschlagskräftig. Hier hat man mit dem Geschäftsführer des<lb/>
+ersten Kernkraftwerkes auf diesem GEbiet schon die schlechtesten Er<lb break="no"/>fahrungen gemacht. Der beste Mann ist Dipl.Ing. <name type="person" ref="per:114091">Gmeinhart</name> von der ÖDK<lb/>
+<pb n="17-0833" facs="17_1973-07-11_0833.jpg"/>doch den will man scheinbar von dort nicht weglassen. Ich habe mich<lb/>
+zu den ganzen Personalwünschen noch nicht geäussert, da sie auch<lb/>
+noch nicht an mich persönlich herangetragen wurden. Ich fürchte, dass<lb/>
+dies auf dem Elektriziätssektor die wichtigste und schwiergiste Ar<lb break="no"/>beit sien wird. Auch hier gilt sicher, das die personelle Besetzung<lb/>
+das Entscheidenste ist. Mein Motto muss nur sein: den besten Mann<lb/>
+auf den richtigen Platz zu bringen. Unabhängig, ob es Einzelnen passt<lb/>
+oder nicht passt. <name type="person" ref="per:97461">Frühbauer</name> verspricht mir, dass er keinerlei personel<lb break="no"/>le Besetzungen auf dem Energiesektor mehr vornimmt oder auch nru vorbe<lb break="no"/>reitet. Bezüglich der Überführung der Sektion Energiewirtschaft in<lb/>
+mein Ministerium wird <name type="person" ref="per:97543">Heindl</name> mit seinem Sekretär <name type="person" ref="per:128482">Korherr</name> Gespräche<lb/>
+führen. Mit <name type="person" ref="per:97461">Frühbauer</name> habe ich mich sehr gut verstanden und keinerlei<lb/>
+Differenzen gehabt. Ich bin neugieirig, ob das mit seinem Nachfolger<lb/>
+wie sich jetzt herumspricht, <name type="person" ref="per:110923">Lanc</name> ebenfalls so gut zusammenarbeiten<lb/>
+lässt. Allerdings ist dies nur bis Jahresende mehr notwendig, denn<lb/>
+dann sich die Kompetenzen ziemlich klar und deutlich geteilt.</p><p xml:space="preserve">Dipl.Kfm. <name type="person" ref="per:147011">Linsbichler</name>, der an einer japanischen Universität als Assistent<lb/>
+arbeitet und für die ÖFVW angestellt werden soll, macht einen sehr<lb/>
+guten Eindrukc, allerdings hat man ihn nicht üer den letzten Stand<lb/>
+der Besprechungen über Errichtung einer Zweigstelle informiert. Nach<lb/>
+seinen Überlegungen bräuchte er einen Mann für sale-promotion mit<lb/>
+10.000 S, zwei Sekretärinnen mit 6.000 S immer 14 mal wie in Japan<lb/>
+üblich. Entweder in späterer Folge einen Amtsdiener oder am Anfang<lb/>
+mit Studenten arbeitend, die die Versandarbeit erledigt. Mindester<lb break="no"/>fordernis, nachdem die Miete ca. 35.000 S beträgt, sein Gehalt unge<lb break="no"/>fährt 800.000 S im Jahr und 3 Mill. S alles zusammen. Davon sind die<lb/>
+Initialkosten noch nicht berücksichtigt. Ich ersuche ihn, er soll<lb/>
+sich, solange er noch in Österreich auf Urlaub ist, überlegen, ob<lb/>
+er auf mehr oder minder längere Zeit allein für die ÖFVW tätig werden<lb/>
+möchte. Ein Lokal würden wir erst erstehen, wenn wir mit der AUA<lb/>
+zu einer entsprechnedem Arrangement kommen. <name type="person" ref="per:147011">Linsbichler</name> gibt selber<lb/>
+zu, dass in zentraler Lage sehr grosse Ablösen bezahlt werden müssen.<lb/>
+Er schätzt, dass für Wien, Salzburg und Innsbruck eine 20 %-ige STei<lb break="no"/>gerung der Japaner automaitsch zu erwarten ist. Durch ein Büro der<lb/>
+Fremdenverkehrswerbung könnte dies auf 40 % gesteigert werden. Grie<lb break="no"/>chenland hat ebenfalls, da es wahrschenlich nicht so viel Geld auf<lb break="no"/>wenden kann oder will, vorerst einen Vertreter, der vom Hotelzimmer<lb/>
+agiert und imstande war, den Reisebüros einzureden, auch Athen in ihrer<lb/>
+Europa-Trip aufzunehmen. Die Methode, wie <name type="person" ref="per:147011">Linsbichler</name> sagt, war, ihnen<lb/>
+<pb n="17-0834" facs="17_1973-07-11_0834.jpg"/>so lange auf die NEren zu gehen, bis sie sich dazu entschlossen haben.<lb/>
+Nun aber stockt die ganze weitere Entwicklung. Ich kann mir dies zwar<lb/>
+nicht vorstellen, denn ein agiler Mann kann von überall agieren und z.B.<lb/>
+Österreich verkaufen ohne dass er eine entsprechende repräsentative<lb/>
+Niederlassung haben muss. <name type="person" ref="per:147011">Linsbichler</name> wird sich die neue Konzeption,<lb/>
+ob er gegebenenfalls ohne Büro bei der ÖFVW mitarbeitet, noch überlegen.<lb/>
+Ich glaube, man hat ihm hier ganz gr-sse HOffnungen von Seiten der ÖFVW<lb/>
+gemacht.</p><p xml:space="preserve"><name type="person" ref="per:97925">Philipp Schoeller</name> als Obmann des Exportausschusses der Bundeskammer<lb/>
+kam mit Gen.Dir. <name type="person" ref="per:97854">Rabus</name>, Steyr, und den Vertretern der Juniorwerke, um<lb/>
+die Fahrradproduktions-Situation zu schildern. Im Vorjahr haen die<lb/>
+beiden Werke mit KTM zusammen 971.000 Stück mit 780 Mill. S Produktions<lb break="no"/>wert erzeugt. Mit den kleineren Firmen insgesamt über 1 Mill. Stück.<lb/>
+In den Export gingen 850.000 Fahrräder mit 596 Mill., davon allein<lb/>
+in die USA 480 Mill. Juniorwerke z.B. hat 80 % Exportanteil,<lb/>
+Steyr ca. 30 . Durch die ständige Aufwertung ahben sie derzeit und in<lb/>
+Hinkunft rote Ziffern. Juniorwerke mit einem Monatsumsatz von ca.<lb/>
+50 Mill. S haben 39 Mill. S Material, 5 Mill. S Lohnanteil bei 840 Be<lb break="no"/>schäftigten und müssen wahrscheinlich, wenn sie den amerikanischen Markt<lb/>
+verlieren oder dieser beeinträchtigt wird, auf Kurzarbeit übergehen.<lb/>
+Da ich ihnen keinerlei Zusagen machen kann, empfehle ich, damit nicht<lb/>
+eine weitere Schillingaufwertung sie trifft, sich mit den Sozialpartnern<lb/>
+stärker in Verbindung zu setzen. <name type="person" ref="per:97925">Schoeller</name> wird mit <name type="person" ref="per:97346">Benya</name> den Kontakt auf<lb/>
+nehmen, um eventuellen Entlassungen vorzubeugen, empfehle ich Ing. <name type="person" ref="per:141660">Weiss</name><lb/>
+von den Juniorwerken sich mit <name type="person" ref="per:146202">Ebner</name> in VErbindung zu setzen und gegebenen<lb/>
+fllas ide produktive Arbeitslosenfürsorge aus der <choice><choice><sic>ARbeitsmarktförering</sic><corr>Arbeitsmarktförderung?</corr></choice></choice><lb/>
+in Anspruch zu nehmen. Diesbezüglich Vorbesprechungen hat <name type="person" ref="per:141660">Weiss</name> mit <name type="person" ref="per:146202">Ebner</name><lb/>
+bereits geführt. <name type="person" ref="per:97854">Rabus</name> meint mir Recht, das könnte aber doch nur das<lb/>
+Trostpflaster sein.</p><p xml:space="preserve">Da im Parlament das Gerücht hrumschwirrte, gegebenenfalls wegen des<lb/>
+Flugplatzbaues in Saudi-Arabien eine dringliche Anfrage zu machen,<lb/>
+greife ich <name type="person" ref="per:97925">Schoeller</name> wegen der inkonsequenten Haltung an. <name type="person" ref="per:97925">Schoeller</name><lb/>
+war seinerzeit, als er im Nahen Osten eine vierzigköpfige Delegation<lb/>
+wegen Exportmöglichkeit geführt hat, zurückgekommen, um glückstrahlend<lb/>
+diesen Flugplatzbau d.h. allgemein Bauleistungen als grossen Erfolg hinzu<lb/>
+stellen. Jetzt Attackiert die ÖVP im Wiener Gemeinderat und die <name type="person" ref="per:97509">Hahn</name><lb/>
+Anfrage gestern zeigte auch deutlich im Parlament eine Firma aus politi<lb break="no"/>schen Gründen. <name type="person" ref="per:97925">Schoeller</name> war sehr empört und meinte, er hätte sich bis<lb/>
+<pb n="17-0835" facs="17_1973-07-11_0835.jpg"/>jetzt nicht durchsetzen können. Die Bauring-Leute, mit denen ich nachher<lb/>
+sprach und die sich wegen unserer Unterstützung, wir haben ihren Leuten<lb/>
+z.B! Dienstpässe seinerzeit verschafft, bedankten, erklärten, dass es<lb/>
+für sie sehr schwer sein wird, den guten Abschluss der in Ausführung begrif<lb break="no"/>fen ist auch mit positivem Ergebnis zu beenden und vor allem sicherlich<lb/>
+nicht den Anschlussauftrag bekommen werden. <name type="person" ref="per:97749">Mitterer</name>, bei dem sie inter<lb break="no"/>veniert haben, war über die Vorgangsweise der ÖVP auch sehr unglücklich<lb/>
+und hat sie abgelehnt. Bei <name type="person" ref="per:97893">Sallinger</name> wollen sie noch intervenieren.<lb/>
+Kritisch wird, dass die offiziell ausgewiesenen Provisionssätze stimmen<lb/>
+aber natürlich normal nicht in aller Öffentlichkeit genannt werden. Hier<lb/>
+zeigt sich, dass ein Staatsbetrieb oder ein Betrieb, der öffentlich Rech<lb break="no"/>nung legen muss, gegenüber der Privatwirtschaft sehr benachteiligt ist.</p><p xml:space="preserve">In der Paritätischen Kommission, wo keinerlei wichtige Entscheidung mehr<lb/>
+fällt, die Tagesordnung wird ja bereits in der Präsidentenbesprechung<lb/>
+präpariert und jeder einzelne Punkt schon vorentschieden, ging es diesmal<lb/>
+besonders schnell, weil <name type="person" ref="per:97668">Kreisky</name> und alle anderen Abgeordneten im Haus<lb/>
+zwecks Abstimmung ständig gebruacht wurden. <name type="person" ref="per:97769">Mussil</name>, abr auch <name type="person" ref="per:97563">Hofstetter</name><lb/>
+erklärten mir nachher, dass ein Beitritt des Handelsministeriums als<lb/>
+Vereinsmitglied zum Verein für Konsumenteninformation nicht möglich ist.<lb/>
+<name type="person" ref="per:97769">Mussil</name> kommt, wie er sich ausdrückt, bei seinen Leuten nicht durch.<lb/>
+Ich setzte ihm auseinander, dass ich gar nicht die Absicht habe, in diesem<lb/>
+Verein aktiv mitzuarbeiten, gar vielleicht der Obmann zu werden, sondern<lb/>
+ausschliesslich nur eine Finanzierungsmöglichkeit in einer Vereinsmitglied<lb/>
+schaft sehe. <name type="person" ref="per:97563">Hofstetter</name> sagte mir dann gegenüber, es müsste versucht werde<lb/>
+wenn <name type="person" ref="per:97769">Mussil</name> tatsächlich ausserstande ist, seine LEute zu überzeugen und<lb/>
+dafür zu gewinnen, ein anderer WEg gesucht werden.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97646">KOPPE</name>: Ich weiss zwar keinen, der die Einnahmen des Ver<lb break="no"/>eines auch von Staatsseite her auf lange Sicht<lb/>
+sichern würde, doch müssen wir andere Überlegungen<lb/>
+anstellen.</p><p xml:space="preserve">Beim Empfang des stv. Ministerpräsidenten von Iran <name type="person" ref="per:146283">Farzaneh</name>, der gleich<lb break="no"/>zeitig Direktor des iranischen Fremdenverkehrs ist, war auch Komm.Rat<lb/>
+<name type="person" ref="per:97459">Fröhlich</name> anwesend. Er meinte, ob er mir in der letzten Zeit grosse<lb/>
+Schwierigkeiten bereitet habe, was ich glattwegs verneinte. Der irani<lb break="no"/>sche Handelsrat hat neuerdings an mich die Aufforderung gerichtet, doch<lb/>
+endlich zur Gemischten Kommission nach Teheran zu kommen. Ich habe mich<lb/>
+entschuldigt und vorgeschlagen, er soll konkrete Projekte, auf die die<lb/>
+iranische Seite wertlegt uns mitteilne, damit die VÖEST und andere grosse<lb/>
+Betriebe gegebenenfalls sich an Ausschreibungen oder an Projektstudien<lb/>
+beteiligen können. Iran wird derzeit von den deutschen Firmen überrannt,<lb/>
+<pb n="17-0836" facs="17_1973-07-11_0836.jpg"/>und Österreich wird alle Exportmöglichkeit auf die DAuer verlieren.<lb/>
+Ich habe allerdings den Handelsrat darauf aufmerksam gemacht, dass<lb/>
+auch seinerzeit vereinbart wurde, iranisches Öl nach Österreich zu<lb/>
+liefern und die ÖMV mir erklrt, dass man iranischerseits an einer Zu<lb break="no"/>sammenarbeit nicht mehr denkt. Jeder Kontakt ist abgebrochen worden. Der<lb/>
+Handelsrat erklärt dies dadurch, dass angeblich die iranischen zwei Dollar<lb/>
+preise für die ÖMV zu teuer waren, obwohl jetzt bereits 3 Dollar bezahlt<lb/>
+werden muss. Ich fürchte, dass ich im nächsten Jahr einen Besuch im Iran<lb/>
+nicht mehr werde aufschieben können.</p></div>
+      </body>
+      <back>
+         <pb n="17_0830_03" facs="17_1973-07-11_0830-03.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 11.7.1973</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="17_0830_04" facs="17_1973-07-11_0830-04.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+   </text>
+</TEI>

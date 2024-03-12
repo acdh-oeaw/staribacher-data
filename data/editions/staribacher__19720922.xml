@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der 22. September 1972</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band12_1972-09-22</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1972-09-22">Freitag, 22. September 1972</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-10-18">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="12-1138" facs="12_1972-09-22_1138.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Freitag, 22. September 1972<lb/>
+</p>
+            <p xml:space="preserve">Die Zeiteinteilung bei der Regierungsklausur ist verheerend.<lb/>
+Ebenso eigentlich auch die Ortswahl. Von der Burgenländischen Lan<lb break="no"/>desregierung ist – wie mir besonders aufgefallen ist – niemand er<lb break="no"/>schienen. Viele Teilnehmer haben auch ein sehr ungutes Gefühl,<lb/>
+dass wir in diesem Schloss tagen und ein Bericht von Landwirtschaftsmi<lb break="no"/>nister <name type="person" ref="per:98055">Weihs</name> über die notwendigen Preiskorrektur entspinnt sich eine<lb/>
+lebhafte Debatte. Die Kalkulation ergäbe, dass 56 Groschen der<lb/>
+Brotpreis erhöht werden müsste und er schlägt vor, dass er 50 Gro<lb break="no"/>schen maximal in der Preiskommission genehmigt werden soll. Die<lb/>
+Semmeln sollen unverändert bleiben. Bei Milch ergäbe sich eine Er<lb break="no"/>höhung um 30 Groschen, bei Butter um 4.– und bei Käse bis zu 6.– S.<lb/>
+ÖGB-Präsident <name type="person" ref="per:97346">Benya</name> hätte diese Preiserhöhungen mit <name type="person" ref="per:98055">Weihs</name> bereits<lb/>
+diskutiert und sei im Prinzip mit dieser Regelung einverstanden.<lb/>
+<name type="person" ref="per:97668">Kreisky</name>, aber auch <name type="person" ref="per:97311">Androsch</name> wehren sich ganz entschieden gegen eine<lb/>
+solche Lösung, da dadurch die Sozialrentner am meisten belastet wer<lb break="no"/>den. Ohne dass Detaildiskussionen stattfinden, wird ganz einfach<lb/>
+von <name type="person" ref="per:97668">Kreisky</name> vorgeschlagen, dieses Problem müsste man noch eingehend<lb/>
+studieren und besprechen.<lb/>
+</p>
+            <p xml:space="preserve">Da ich um 17 Uhr unbedingt nach Innsbruck fahren muss, komme ich –<lb/>
+da für die Presse neuerdings die Sitzung unterbrochen wird – noch<lb/>
+schnell zu einem kurzen Referat. Ich mache den grossen Fehler, da<lb/>
+ich unter Zeitdruck stehe, nicht sehr eingehend und detailliert über<lb/>
+Probleme z.B. der Ostverträge zu sprechen. Durch einige ungeschickte<lb/>
+Formulierungen erreiche ich einen Heiterkeitserfolg, da ich dies<lb/>
+aber nicht beabsichtigt habe, habe ich mich nachher sehr darüber<lb/>
+geärgert. Ich hätte einfach ohne Rücksicht auf die Pressebespre<lb break="no"/>chung und ohne Rücksicht darauf, wie lange eben die Information von<lb/>
+mir gedauert hätte, so wie die zuerst drangekommen sind, wie <name type="person" ref="per:97442">Firnberg</name>,<lb/>
+<name type="person" ref="per:97311">Androsch</name> usw. ausführlicher referieren sollen. Aus dieser Situation<lb/>
+habe ich sehr viel gelernt.<lb/>
+</p>
+            <p xml:space="preserve">Bei dem Pressegespräch hat dann <name type="person" ref="per:97668">Kreisky</name> ganz überraschend für mich<lb/>
+erklärt, dass man den Rentnern diese Erhöhung der Preise nicht<lb/>
+zumuten könne und er deshalb daran denkt, für sie einen Sonderbonus<lb/>
+oder einen Sonderpreis oder eine Vergütung, die aber keinesfalls<lb/>
+durch eine Erhöhung der Renten durchgeführt werden sollte, zu ge<lb break="no"/>währen. <name type="person" ref="per:97311">Androsch</name> soll angeblich erklärt haben, ich selbst es<lb/>
+<pb n="12-1139" facs="12_1972-09-22_1139.jpg"/>persönlich habe es nicht gehört, dass die Rentner einen entsprechenden<lb/>
+Bonus ohne weiteres bekommen können, weil die Adressen computermässig<lb/>
+bekannt sind und deshalb eine Vergütung, die die Verarbeitungsbetriebe<lb/>
+resp. die Landwirtschaft für diese Leute bezahlen müssten, ohne weiteres<lb/>
+überwiesen werden können. <name type="person" ref="per:115595">Reiter</name> hat mir bereits bei der Pressebesprechung<lb/>
+von <name type="person" ref="per:97668">Kreisky</name> geflüstert, dass eigentlich dies sehr unzulänglich und un<lb break="no"/>vorbereitet für eine Regierung jetzt in die Diskussion geworfen wird,<lb/>
+<name type="person" ref="per:97668">Kreisky</name> wollte scheinbar nur die Anträge von <name type="person" ref="per:98055">Weihs</name>, die mit <name type="person" ref="per:97346">Benya</name> angeb<lb break="no"/>lich schon abgesprochen sind, in aller Öffentlichkeit durch ein anderes<lb/>
+System ersetzten. Da es nur eine Preiserhöhung oder eine Subventions<lb break="no"/>erhöhung, die der Staat zahlen müsste, oder einen gespalteten Preis<lb/>
+eben für Normalbezieher und für Rentner gibt, so hat er sich für<lb/>
+jede andere Lösung mit <name type="person" ref="per:97311">Androsch</name> abgesprochen oder vielleicht nur an<lb break="no"/>gedeutet, als wie für eine Preiserhöhung. Wie dieses Problem wieder ge<lb break="no"/>löst werden wird, ist mir ein Rätsel. Ich bin froh, dass ich nicht so wie<lb/>
+seinerzeit vor der Regierungsklausur in Vöslau beauftragt wurde, für die<lb/>
+Preisproblematik eine Lösung zu suchen. Damals hat ja <name type="person" ref="per:97668">Kreisky</name> meine<lb/>
+Vorschläge, die ich mit AK und ÖGB abgestimmt hatte, verworfen. Der<lb break="no"/>zeit wäre es sicherlich genauso gewesen, wenn ich aus den Lohnerhöhungen<lb/>
+aber vor allem auch der Getreide- und Milcherzeugerpreiserhöhung irgend<lb break="no"/>welche Vorschläge gemacht hätte. Derzeit noch muss sich <name type="person" ref="per:98055">Weihs</name> mit der<lb/>
+Lösung dieses Problems herumschlagen. Mit Schaudern denke ich daran,<lb/>
+wenn tatsächlich dann die grosse Kompetenzlösung mit diese Arbeit über<lb break="no"/>tragen wird.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97632">Kirchschläger</name> hat mir mitgeteilt, dass der chin. Botschafter bei ihm<lb/>
+war, um die Quartierfrage zu besprechen. Die Chinesen haben sich jetzt<lb/>
+auf unser ZAS-Gebäude in der Metternichgasse gestürzt, da sie kein<lb/>
+anderes passendes Haus gefunden haben. Ich erkläre mich selbstverständlich<lb/>
+bereit, mit den Chinesen über eine Möglichkeit eines Einziehens in die<lb/>
+Metternichgasse zu sprechen. Voraussetzung mache ich <name type="person" ref="per:97632">Kirchschläger</name><lb/>
+drauf aufmerksam, ist, dass ein entsprechendes Ersatzgebäude für unsere<lb/>
+ZAS gefunden werden kann, da die ZAS aus den Aussenhandelsbeiträgen<lb/>
+der BHK finanziert wird, ergibt sich vielleicht die Möglichkeit<lb/>
+eine bessere räumliche Lösung zu finden, wo gleich andere Dienststellen<lb/>
+des HM oder vielleicht sogar auch die ÖFVW günstig untergebracht<lb/>
+werden kann.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Bitte unverzüglich solche Besprechungen und Lösungs<lb break="no"/>möglichkeiten einleiten.<lb/>
+</p>
+         </div>
+      </body>
+      
+   </text>
+</TEI>

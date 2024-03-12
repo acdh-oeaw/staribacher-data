@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der 23. Jänner 1971</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band04_1971-01-23</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1971-01-23">Samstag, 23. Januar 1971</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-07-26">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="04-0082" facs="04_1971-01-23_0082.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Samstag, 23. Jänner 1971<lb/>
+</p>
+            <p xml:space="preserve">Bei der Fraktionsvorbesprechung in der Arbeiterkammer hatte<lb/>
+ich Gelegenheit, mit <name type="person" ref="per:97346">Benya</name> und <name type="person" ref="per:97357">Blümel</name> das Problem der Tabak<lb break="no"/>regie zu erörtern. <name type="person" ref="per:97357">Blümel</name> bemüht sich mit meiner Unterstützung<lb/>
+jetzt den Landtagsabgeordneten und Zentralbetriebsrat der<lb/>
+Tabakregie, <name type="person" ref="per:116994">Walter Seeböck</name>, auf einen Vorstandsposten zu<lb/>
+hieven. Als seinerzeit ein viertes Vorstandsmitglied, das<lb/>
+der SPÖ zusteht auf Grund der Wahlergebnisse 1970, diskutiert<lb/>
+wurde, hatte sich <name type="person" ref="per:116994">Seeböck</name> ebenfalls um diesen Posten bemüht.<lb/>
+Da es sich aber um einen kommerziellen Direktor gehandelt hatte,<lb/>
+hatte ich mich ganz entschieden dagegen ausgesprochen. <name type="person" ref="per:116994">Seeböck</name><lb/>
+hätte diese Aufgabe niemals erfüllen können. Nach Ableben des<lb/>
+technischen Direktors <name type="person" ref="per:135175">Schramm</name> aber, glaube ich, dass <name type="person" ref="per:116994">Seeböck<lb/>
+Walter</name> jetzt wirklich die Voraussetzungen mitbringt, diese<lb/>
+Funktion auch tatsächlich erfüllen zu können. Da nun der Vor<lb break="no"/>sitzende des Aufsichtsrates <name type="person" ref="per:135185">Stark</name> aber auch andere Mitglieder<lb/>
+wie z.B. <name type="person" ref="per:97890">Sagmeister</name> sich gegen <name type="person" ref="per:116994">Seeböck</name> aussprechen, habe wir<lb/>
+<name type="person" ref="per:97346">Benya</name> auf den Wunsch unserer Gewerkschaft ganz besonders<lb/>
+aufmerksam gemacht.<lb/>
+</p>
+         </div>
+      </body>
+      
+   </text>
+</TEI>

@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Montag, der 25. September 1972</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band12_1972-09-25</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1972-09-25">Montag, 25. September 1972</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-10-18">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="12-1147" facs="12_1972-09-25_1147.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Montag, 25. September 1972<lb/>
+</p>
+            <p xml:space="preserve">Beim jour fixe mit <name type="person" ref="per:97893">Sallinger</name> und <name type="person" ref="per:97769">Mussil</name> ist letzterer sehr erschüttert<lb/>
+oder spielt zumindestens so. Er hat seit 35 Jahren die verschieden<lb break="no"/>sten Verhandlungen schon geführt aber noch niemals wurde er so<lb/>
+enttäuscht wie jetzt von der SPÖ-Regierung. Er hätte auf Treu und<lb/>
+Glauben mit <name type="person" ref="per:97311">Androsch</name> über die Frage der möglichen steuerlichen Be<lb break="no"/>günstigung der Unternehmer im EWG-Begleitprogramm verhandelt,<lb/>
+wurde von ihm überzeugt, dass keine Möglichkeit besteht, die<lb/>
+Wünsche der Handelskammer zu erfüllen und dann nach Abschluss der<lb/>
+Verhandlungen wurde von <name type="person" ref="per:97311">Androsch</name> ein weitergehendes Programm vor<lb break="no"/>gelegt. Er sieht jetzt kaum mehr Möglichkeiten, mit <name type="person" ref="per:97311">Androsch</name> und<lb/>
+der Regierung unter solchen Umständen überhaupt Vereinbarungen<lb/>
+schliessen zu können. Ein zweiter Fall ist das Problem der Mit<lb break="no"/>bestimmung. Hier wäre <name type="person" ref="per:97668">Kreisky</name>, da er die Stahllösung nicht anders<lb/>
+zustandegebracht hätte, als durch Ausweitung der Mitglieder des<lb/>
+Aufsichtsrates mit 1/3 Arbeitnehmer an <name type="person" ref="per:97525">Häuser</name> herangetreten und<lb/>
+dieser hätte dann für die gesamte Industrie die Drittelbestimmung<lb/>
+in den Entwurf aufgenommen, obwohl in der Kodifikationskommission<lb/>
+diese betriebliche Mitbestimmung noch gar nicht durchbesprochen<lb/>
+sei. In diesem Fall erklärte ich <name type="person" ref="per:97769">Mussil</name>, dass der ÖGB bereits seit<lb/>
+Jahren einstimmige Beschlüsse gehabt hat, dass eine solche Ausdehnung<lb/>
+der Mitbestimmung auf betrieblicher Ebene verlangt wird. die über<lb break="no"/>betriebliche Mitbestimmung, die durch die starke Einschaltung des<lb/>
+ÖGB schon weitgehend erreicht ist, kann keinesfalls die betriebliche<lb/>
+Mitbestimmung ersetzen. Dies hat <name type="person" ref="per:97769">Mussil</name> genau gewusst und deshalb<lb/>
+ist der Vorschlag von <name type="person" ref="per:97525">Häuser</name> keinesfalls als Überraschungsmanöver<lb/>
+zu bezeichnen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97893">Sallinger</name> gibt zu, dass für die Entwicklungshilfe grössere AHF-(Aussen<lb break="no"/>handelsförderungs-)Beträge zur Verfügung gestellt werden sollen,<lb/>
+wie ich vor einigen Tagen bei <name type="person" ref="per:97474">Gleissner</name>, <name type="person" ref="per:126971">Wakolbinger</name>, <name type="person" ref="per:113043">Pfoch</name><add>[?]</add> angeregt<lb/>
+habe. Diesbezügliche Vorschläge werden im Präsidium der Handels<lb break="no"/>kammer besprochen werden.<lb/>
+</p>
+            <p xml:space="preserve">Der Handelskammervertreter in Ostberlin kann nicht Visa ausstellen<lb/>
+und deshalb müsste, wenn es zu einer diesbezüglichen Regelung kommt<lb/>
+wie in der Schweiz eine staatliche Stelle diese Funktion übernehmen.<lb/>
+</p>
+            <pb n="12-1148" facs="12_1972-09-25_1148.jpg"/>
+            <p xml:space="preserve">Ich erkläre sofort, dass ich mit <name type="person" ref="per:97632">Kirchschläger</name> über dieses Problem<lb/>
+sprechen werden und <name type="person" ref="per:97632">Kirchschläger</name> bestätigt mir bei der Minister<lb break="no"/>ratsvorbesprechung, dass eine solche Absicht gar nicht bestanden hat.<lb/>
+Wenn es nach seiner Rückkehr von der UNO zur Aufnahme der Bespre<lb break="no"/>chungen mit der DDR zu Besprechungen kommen wird, dann wird eine<lb/>
+Lösung auf staatlicher Basis gesucht.<lb/>
+</p>
+            <p xml:space="preserve">Ich bringe neuerdings das Problem der Kommerzialratstitelverleihung<lb/>
+und Überreichung zur Sprache, da Dr. <name type="person" ref="per:140109">Hasbacher</name> von Kärnten noch immer<lb/>
+nicht erledigt ist. <name type="person" ref="per:97893">Sallinger</name> gibt vor, über die ganze Kommerzialrats<lb break="no"/>lösung sehr unglücklich zu sein, weil auch er ständig unter Druck<lb/>
+kommt. Er würde mir ohne weiteres die 10 Kommerzialräte wieder<lb/>
+zurückgeben. Hier deute ich an, dass es sich bei einer gesetzlich ein<lb break="no"/>wandfreien Regelung nicht darum handeln könnte, dass ich die 10 Komm.-<lb/>
+Ratstitel, sondern alle Kommerzialratstitel auf Vorschlag der Handels<lb break="no"/>kammer selbst zu entscheiden hätte, wer sie bekommt und dann alle<lb/>
+selbst zu übergeben hätte.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: <name type="person" ref="per:97893">Sallingers</name> Sekretär Dr. <name type="person" ref="per:114537">Oder</name> wurde beauftragt,<lb/>
+dieses Problem neuerdings zu prüfen. Vielleicht könnte man durch be<lb break="no"/>wegliche Verhandlungsführung über diese Frage mit der Handelskammer<lb/>
+in ständigem Kontakt bleiben und dadurch einzelne Fälle durchbringen,<lb/>
+ohne dass sie auf das Kontingent des Freien Wirtschaftsverbandes an<lb break="no"/>gerechnet werden müssen.<lb/>
+</p>
+            <p xml:space="preserve">Min.Rat <name type="person" ref="per:97801">Ottahal</name>, den ich in dieser Frage schon einigemale ersucht habe<lb/>
+er sollte ständig die Problematik mit der Handelskammer besprechen,<lb/>
+ist für eine solche bewegliche Kriegsführung nicht geeignet. In diesem<lb/>
+Fall musst Du über das Sekretariat des <name type="person" ref="per:97893">Sallinger</name> diesen Kontakt und<lb/>
+Lösungsmöglichkeiten aufrechterhalten.<lb/>
+</p>
+            <p xml:space="preserve">Der Vorschlag <name type="person" ref="per:111728">Westreichers</name>, einen Umweltpass für die Gemeinden<lb/>
+einzuführen wird von mir gegenüber <name type="person" ref="per:97893">Sallinger</name> und <name type="person" ref="per:97769">Mussil</name> als für den<lb/>
+Fremdenverkehr tödlich bezeichnet. <name type="person" ref="per:97893">Sallinger</name> erklärt sofort, dass<lb/>
+er dies bei dieser Wirtschaftsbundbesprechung, wo NR <name type="person" ref="per:111728">Westreicher</name><lb/>
+den Vorschlag gemacht hat, auch entsprechend vom Tisch gewischt hat.<lb/>
+Zu seiner grössten Verwunderung wurde dies dann doch in der Presse<lb/>
+breitgetreten. Beim Empfang für den Malaysischen Ministerpräsidenten<lb/>
+komme ich mit <name type="person" ref="per:97893">Sallinger</name> und <name type="person" ref="per:107938">Leodolter</name> auf dieses Problem neuerdings<lb/>
+zu sprechen und erkläre, dass die Bundesregierung – wo <name type="person" ref="per:107938">Leodolter</name> zu<lb break="no"/>stimmt – einen solchen Verschlag auf alle Fälle ablehnen wird.<lb/>
+</p>
+            <pb n="12-1149" facs="12_1972-09-25_1149.jpg"/>
+            <p xml:space="preserve">Die verheerenden Folgen für den Fremdenverkehr ausgenommen die Gemeinde<lb/>
+Serfaus und vielleicht einige andere westliche Gebiete, wo noch reine<lb/>
+Luft, sauberes Wasser und wenig Lärm besteht, welche im Pass festgehalten<lb/>
+werden sollen, wäre kein Grund zur Einfrierung eines solchen Umwelt<lb break="no"/>schutzpasses. <name type="person" ref="per:97893">Sallinger</name> bemerkt, dass dies eine Aktion ist, die sich<lb/>
+insbesondere gegen den Osten richtet. <name type="person" ref="per:97769">Mussil</name> muss zugeben, dass der Ver<lb break="no"/>schlag <name type="person" ref="per:111728">Westreichers</name> für den Fremdenverkehr tödlich wäre.<lb/>
+</p>
+            <p xml:space="preserve">Der neuseeländische Generalsekretär <name type="person" ref="per:140111">Moriarty</name> will bei seiner Vorsprache<lb/>
+Zusagen, dass wir Schafe aus Neuseeland in stärkerem Masse importieren<lb/>
+und beschwert sich ganz besonders über die Umsatzausgleichssteuer. Ebenso<lb/>
+möchte er, dass wir mehr Wolle aus Neuseeland beziehen. Wir haben jetzt<lb/>
+einen unbedeutenden Handelsverkehr von 45 Mill. Importen, wovon<lb/>
+23 Mill. S Wollimporte sind. Ich nütze die Gelegenheit, um den General<lb break="no"/>sekretär zu ersuchen, wenn er jetzt noch Brüssel und in weiterer Folge<lb/>
+nach London kommt, den österreichischen Wunsch über Regelung der Milch<lb break="no"/>pulver- und Butterexporte nach England zu unterstützen. Abends erklärt<lb/>
+mir der britische Botschafter bei dem Empfang für den malay. Minister<lb break="no"/>präsidenten, dass er von Generalsekretär diesbezüglich bereits in<lb break="no"/>formiert wurde, eine grössere Unterstützung von Neuseeland wäre aber aus<lb/>
+Konkurrenzgründen kaum zu erwarten. Ich versuche und versuchte vor allem<lb/>
+den Neuseeländer davon zu überzeugen, dass es sich um eine unbedeutende<lb/>
+Quantität gegenüber dem neuseeländischen Export nach Grossbritannien<lb/>
+handelt. <name type="person" ref="per:108322">Meisl</name>, der anwesend war, wird diese Unterredung festhalten,<lb/>
+dass wir in weiterer Folge feststellen können, dass wir bei jedem Ge<lb break="no"/>legenheit die Interessen der Landwirtschaft vertreten haben. <name type="person" ref="per:140111">Moriarty</name><lb/>
+wird noch eine Aussprache mit dem Landwirtschaftsminister in dieser<lb/>
+Frage haben.<lb/>
+</p>
+            <p xml:space="preserve">Beim Pressefrühstück waren um 10 Uhr nur einige Journalisten anwesend<lb/>
+und <name type="person" ref="per:97646">Koppe</name> meinte schon, dies seien jetzt nur die Spezialjournalisten,<lb/>
+weil die anderen sich über dieses Problem nicht zu interessiert ge<lb break="no"/>zeigt hätten. In weiterer Folge aber war die Runde ganz komplett und<lb/>
+es kam sogar ein ÖAMTC-, <name type="person" ref="per:131314">Soche</name>, und ein ARBÖ-Vertreter. Die Aktion<lb/>
+"Überprüfung der KFZ" wie sie nun in der VO geregelt wird, kann ein<lb/>
+grosser Erfolg sein, wenn es uns gelingt, die Presse und die Massen<lb break="no"/>medien davon zu überzeugen, dass es sich hier nicht um eine bürokratische<lb/>
+Schikane handelt sondern um ein Sicherheitsproblem der Strasse für alle<lb/>
+Benützer. Wenn die Landesregierungen bereit sind, entsprechend viele<lb/>
+KFZ-Mechaniker und vor allem die Prüfstellen des ÖAMTC und ARBÖ in<lb/>
+<pb n="12-1150" facs="12_1972-09-25_1150.jpg"/>genügendem Masse heranzuziehen, dass gibt es auch sicherlich keine<lb/>
+Stauungen bei der Überprüfung, resp. Beschwerden der Kraftfahrer,<lb/>
+dass sie nicht die Möglichkeit haben, das Pickerl zu erwerben.<lb/>
+Wenn dann die Kraftfahrverbände – was ich sehr gerne hätte – sich<lb/>
+bereit erklären, die Überprüfung kostenlos für ihre Mitglieder<lb/>
+durchzuführen, was sie nebenbei bemerkt auch heute schon tun,<lb/>
+dann wird der Kraftfahrer nur für das Pickerl 9.– S zu bezahlen<lb/>
+haben. In diesem Fall müssen aber auch die staatlichen Stellen ent<lb break="no"/>weder ihre 100.– S Sätze entsprechend ermässigen oder sie werden mit<lb/>
+der Zeit nur mehr geringe Überprüfungen vornehmen können. In diesem<lb/>
+Fall würde die Frage der Besetzung mit zusätzlichem Personal voll<lb break="no"/>kommen hinfällig. Hier wäre eine Reorganisation der staatlichen Prüf<lb break="no"/>stellen möglich.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Bitte solche Reorganisationsplan mit <name type="person" ref="per:134300">Metzner</name><lb/>
+besprechen und mir vorlegen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97676">Lachs</name> hat mir bereits vor Tagen erklärt, er möchte es sehr begrüssen,<lb/>
+wenn <name type="person" ref="per:97346">Benya</name> mich zu der Besprechung mit den Präsidenten über<lb/>
+die Entlastungssätze zuziehen würde. <name type="person" ref="per:97893">Sallinger</name> hat ebenfalls<lb/>
+<name type="person" ref="per:111717">Schönbichler</name>, der sich über die Handelsspannenregelung beschwerte,<lb/>
+versprochen, er wird versuchen mich bei dieser Präsidentenbesprechung<lb/>
+zuzuziehen. Ich war deshalb nicht überrascht, als ich unmittelbar<lb/>
+nach Beginn der Sitzung angerufen wurde, ich sollte zu dieser Aus<lb break="no"/>sprache kommen. Die Präsidenten, begleitet von ihren Experten, haben<lb/>
+dann für die offenen Punkte ein Kompromiss gesucht und ich glaube<lb/>
+auch gefunden. Im Grunde wurde, ausgehend von den Wirtschaftsforschungs<lb break="no"/>sätzen, die wesentlich höher liegen als die vom Fachverband zugestande<lb break="no"/>nen, eine mittlere Lösung vereinbart. Interessant ist, dass in<lb/>
+vielen Produkten von den Firmen bereits feste Preise für das nächste<lb/>
+Jahr festgesetzt werden mussten, die deshalb ohne die Entlastungs<lb break="no"/>sätze zu kennen, für die Firma teilweise ungünstiger sind. Z.B. erklär<lb break="no"/>te VP <name type="person" ref="per:97938">Seidl</name>, die Entlastung für Zellwolle würde einen höheren Preis<lb/>
+rechtfertigen, als er bereits den ausländischen und inländischen<lb/>
+Abnehmern mitgeteilt hat. Viele Firmen, auch die gesamte Bekleidungs<lb break="no"/>industrie, die ihre Kollektion zu Fixpreisen bereits anbieten musste,<lb/>
+konnte auf die Entlastungssätze nicht mehr warten. Über die pharma<lb break="no"/>zeutische Industrie gab es eine Spezialdiskussion, weil das Gesundheits<lb break="no"/>ministerium angeblich der Industrie 7,5 % Entlastung bereits verspro<lb break="no"/>chen hat. Nun haben die Experten errechnet, dass mindestens 9 %<lb/>
+<pb n="12-1151" facs="12_1972-09-25_1151.jpg"/>wie das Wirtschaftsforschungsinstitut vorgeschlagen hat, gerechtfer<lb break="no"/>tigt wären. Die Handelskammer erklärt nun, dass diese unzuständige<lb/>
+Stelle im Gesundheitsministerium es schwer macht, die 7,5 % zu<lb/>
+verlassen. <name type="person" ref="per:97346">Benya</name> erklärte rundheraus, dass unzuständige Stellen<lb/>
+die Verhandlungen der Interessensvertretungen nicht mit Zusage tor<lb break="no"/>pedieren können. Ein Satz von 7,5 % wäre vielleicht noch gerecht<lb break="no"/>fertigt, wenn man die Firmen, die grosse Forschungen betreiben<lb/>
+nur berücksichtigen müsste. Da es aber viele Produktionsfirmen gibt,<lb/>
+die nur nach Lizenz pharmazeutische Produkte erzeugen, einigt man<lb/>
+sich dann auf den Satz von 8,5 %. Ich selbst mische mich in die<lb/>
+Diskussion kaum ein, weil ich nicht die Sozialpartnerentscheidung<lb/>
+insofern beeinflussen will, dass man dann sagt, der Handelsmini<lb break="no"/>ster hätte die letzte Entscheidung schon getroffen. Die gefundenen<lb/>
+Kompromisslösungen für die offenen Punkte erscheinen mir als tragbar.<lb/>
+Nur betreffend der Düngemittelentlastung, wo das Agrarwissenschaft<lb break="no"/>liche Institut 8–9 % errechnet hat, kommt es zu einer grösseren<lb/>
+Auseinandersetzung. Präs. <name type="person" ref="per:97691">Lehner</name> unterstützt von Ing. <name type="person" ref="per:113077">Altmann</name> möchte<lb/>
+dass die tatsächlichen Entlastungssätze von Stickstoffdünger 2,5<lb/>
+und Mehrstoffdünger 2 % eine neuerliche Erhöhung des Brotpreises<lb/>
+begründen. <name type="person" ref="per:97691">Lehner</name> meint, dass es jetzt eine amtliche Kalkulation<lb/>
+und ein amtliche Kalkulationsschema durch die landwirtschaftliche<lb/>
+Preisbehörde gibt. Aufgrund dieses Schemas würde der Getreidepreis<lb/>
+um 5–6 Groschen neuerdings zu erhöhen sein. Da 1 Groschen Getreide<lb break="no"/>preiserhöhung 1 Groschen Preiserhöhung pro kg Brot bedeuten würde,<lb/>
+müsste der Brotpreis neuerdings um 5–6 Groschen angehoben werden.<lb/>
+Ich erkläre sofort, dass diese eine vollkommen unerfüllbare Forde<lb break="no"/>rung darstellt und von mir auf das entschiedenste zurückgewiesen<lb/>
+wird. Die schon jetzt getroffene Getreidepreiserhöhung ist be<lb break="no"/>züglich der Füllweizenpreiserhöhung um 10 Groschen als überhöht<lb/>
+zu betrachten. Auch dann, wenn die amtliche Preiskalkulation, d.h.<lb/>
+dieses unglückselige Kalkulationsschema etwas anderes ergeben<lb/>
+sollte. <name type="person" ref="per:97691">Lehner</name> muss durch Lächeln, obwohl er dazu natürlich keine<lb/>
+mündliche Erklärung abgibt, zugeben, dass ich recht habe, als ich<lb/>
+ihm die Vorgangsweise bei der Erstellung solcher Kalkulationen<lb/>
+erläuterte.<lb/>
+</p>
+            <p xml:space="preserve">Hohe Entlastungssätze werden auch bei einzelnen Lebensmittelpro<lb break="no"/>dukten dann sein, wenn die Sozialpartner im Zuge des Preisverfahrens<lb/>
+in der PK beschlossen haben, dass ein z.B. 1972 vereinbarter Limo<lb break="no"/>naden- oder Bierpreis im Jahre 1973 unverändert bleiben soll. In<lb/>
+<pb n="12-1152" facs="12_1972-09-25_1152.jpg"/>diesem Fall wird der Entlastungssatz 9,7 und für Bier von 13,8<lb/>
+aufscheinen. Mit Schaudern denke ich daran, wie wir im Ministerium<lb/>
+ohne diese Vorarbeit von seiten der Sozialpartner das Problem gelöst<lb/>
+hätten.<lb/>
+</p>
+            <p xml:space="preserve">Beim erweiterten Präsidium des Freien Wirtschaftsverbandes in Eisen<lb break="no"/>stadt ersucht man mich ich sollte zur Reorganisation der Bürges eben<lb break="no"/>falls Stellung nehmen. Über die personale Änderung sind wir uns voll<lb break="no"/>kommen einig. Die Wünsche aber auf Anhebung der Kreditgrenze von<lb/>
+200.000 auf 300.000 kann ich solange nicht akzeptieren und in Aussicht<lb/>
+stellen, als nicht der Finanzminister bereit ist, mir wesentlich<lb/>
+mehr Mittel zur Verfügung stellen, die er momentan nicht kann.<lb/>
+<name type="person" ref="per:140112">Hartl</name>, der Funktionär von den Lebensmittelhändlern, erklärt, die<lb/>
+Wirtschaftsverbändler könnten 150 gewählte Handelsfunktionäre in Wien<lb/>
+für die Preisaktion zur Verfügung stellen. Ich ersuche sofort, die<lb/>
+dafür in Frage kommenden Funktionäre, dem Handelsminister Dr. <name type="person" ref="per:97543">Heindl</name><lb/>
+mitzuteilen. Ebenso meint <name type="person" ref="per:97602">Jodlbauer</name>, dass das Handelsministerium<lb/>
+mehr Informationsmaterial dem Freien Wirtschaftsverband zur Verfügung<lb/>
+stellen könnte. Auch in diesem Fall verspreche ich, dass Dr. <name type="person" ref="per:97543">Heindl</name><lb/>
+als Kontaktmann zum Freien Wirtschaftsverband jedwede Wünsche er<lb break="no"/>füllen wird. <name type="person" ref="per:97892">Sallaberger</name> weist darauf hin, dass bei der Möbel<lb break="no"/>enquete bereits die Wirtschaftsverbändler ihre Mitarbeit angeboten<lb/>
+und auch dann durchgeführt haben. Auch in diesem Fall ersuche ich, in<lb/>
+Hinkunft allen Funktionären mitzuteilen, dass sie über ihr Verbands<lb break="no"/>sekretariat – <name type="person" ref="per:97892">Sallaberger</name> oder <name type="person" ref="per:98000">Swoboda</name> – sich mit Dr. <name type="person" ref="per:97543">Heindl</name> ins<lb/>
+Einvernehmen setzen sollen, wenn sie Wünsche Anregungen oder als<lb/>
+Mitarbeiter fungieren wollen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Bitte diesbezüglichen Kontakt verbessern. Ich<lb/>
+selbst habe versprochen bei jeder passenden Verfügung in Wien dem<lb/>
+erweiterten Präsidium zur Verfügung zu stehen.<lb/>
+</p>
+            <p xml:space="preserve">Vor der Ministerratsvorbesprechung erklärt schon <name type="person" ref="per:97668">Kreisky</name>, dass ein<lb/>
+Scheinsystem für die Rentner bei Milch- und Brotpreiserhöhung nicht in<lb/>
+Frage kommt. Die <name type="person" ref="per:97311">Androsch</name>-Idee ist damit glaube ich wieder fallen ge<lb break="no"/>lassen. <name type="person" ref="per:97668">Kreisky</name> schwebt vor, dass der Milchwirtschaftsfonds dem<lb/>
+Bund aus seinen staatlichen Zuschüssen die Aufwendung für die Pen<lb break="no"/>sionisten refundiert. Da ich den Landwirtschaftsminister jetzt ver<lb break="no"/>trete, ersuche ich abends <name type="person" ref="per:111737">Marsch</name> telefonisch, er möge mit Min.Rat<lb/>
+<pb n="12-1153" facs="12_1972-09-25_1153.jpg"/>Kurzl, Landwirtschaftsministerium, die entsprechenden Preisberechnungen<lb/>
+anstellen. <name type="person" ref="per:98055">Weihs</name> hat bei der Regierungsklausur berichtet, dass<lb/>
+<name type="person" ref="per:97346">Benya</name> einverstanden ist, wenn der Brotpreis um 50 Groschen, der Milch<lb break="no"/>preis um 30 Groschen, der Butterpreis um 4.– und der Käsepreis um<lb/>
+5.50 bis 6.– S je kg. erhöht wird. <name type="person" ref="per:97668">Kreisky</name> möchte wissen, wieviel<lb/>
+der Milchwirtschaftsfonds dann dem Bundes refundieren muss.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: Bitte im Institut mit entsprechenden Kollegen<lb/>
+<name type="person" ref="per:133326">Krämer</name>, <name type="person" ref="per:112010">Blaha</name>, <name type="person" ref="per:98112">Zöllner</name>, <name type="person" ref="per:111737">Marsch</name> entsprechendes Elaborat vorbereiten,<lb/>
+da man Entscheidung so schnell wie möglich treffen sollte.<lb/>
+</p>
+            <p xml:space="preserve">Der Landesverteidigungsrat ist, ohne eine neue Sitzung und Tages<lb break="no"/>ordnung zu vereinbaren, auseinandergegangen. <name type="person" ref="per:127586">Tödling</name>, den ich am Gang<lb/>
+getroffen habe, hat mir zugegeben, dass eine Verhandlung über die<lb/>
+wirtschaftliche Landesverteidigung zum jetzigen Zeitpunkt nicht möglich<lb/>
+ist. Darüber bin ich gar nicht böse, ganz im Gegenteil, ich habe damit<lb/>
+eine gute Ausrede, weiterhin auf diesem Sektor nichts zu tun. Hätte<lb/>
+nämlich die wirtschaftliche Landesverteidigung weiter im Verteidigungs<lb break="no"/>rat zur Debatte gestanden, so hätte ich mit <name type="person" ref="per:127586">Tödling</name> zünd <name type="person" ref="per:112589">Zeillinger</name><lb/>
+Besprechungen über dieses Problem aufnehmen müssen. <name type="person" ref="per:112589">Zeillinger</name> hat<lb/>
+mir seinerzeit versichert, dass noch niemals ein Minister einen<lb/>
+direkten Kontakt so unbürokratisch in einer Frage wie z.B. die<lb/>
+wirtschaftliche Landesverteidigung aufgenommen hat. Damit habe ich<lb/>
+den formellen Auftrag zeitgerecht erfüllt und kann nun wieder zu<lb break="no"/>warten.</p>
+            <p xml:space="preserve">Da vereinbart wurde, im EWG-Begleitprogramm die Wirtschaftsgesetze<lb/>
+auf zwei Jahre zu verlängern, werden alle noch nicht eingebrachten<lb/>
+Regierungsvorlagen auf zwei Jahren Dauer vorgelegt. Dies gilt wie<lb/>
+<name type="person" ref="per:97372">Broda</name> ausdrücklich ersuchte auch für das Preistreibereigesetz.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: Bitte auch das Rohstofflenkungsgesetz, wenn es<lb/>
+dann in den Ministerrat kommt, unter diesem Gesichtspunkt behandeln.<lb/>
+</p>
+            <p xml:space="preserve">Der österr. Botschafter in London teilt mit, dass das Aussenamt<lb/>
+erklärt hätte, es stünden eine Anzahl Uganda-Flüchtlinge mit<lb/>
+hochqualifizierter Ausbildung wie Architekten, Ingenieure, Ärzte,<lb/>
+Dentisten, Lehrer aber auch Handwerker, Flugzeugmechaniker, Mechaniker<lb/>
+<pb n="12-1154" facs="12_1972-09-25_1154.jpg"/>usw. zur Verfügung. Ich plädiere sofort, dass man bestrebt<lb/>
+sein soll, Facharbeiter nach Österreich zu bringen.<lb/>
+die am ehesten nicht nur gebraucht werden, sondern auch von den<lb/>
+Firmen übernommen werden. Ich werde beauftragt, mit der Handels<lb break="no"/>kammer die entsprechenden Besprechungen zu führen, damit Firmen<lb break="no"/>vertreter sich bereiterklären, konkrete Wünsche, die auch von dieser<lb/>
+Firma dann untergebracht werden müssen, zu erfahren. Die notwendigen<lb/>
+Einreisegenehmigungen wird Innenminister <name type="person" ref="per:97879">Rösch</name> zur Verfügung stellen.<lb/>
+Der Kontaktmann im Aussenministerium ist Gesandter <name type="person" ref="per:114156">Hinteregger</name>.<lb/>
+Beim Abendempfang kann ich mit <name type="person" ref="per:97893">Sallinger</name> und <name type="person" ref="per:97581">Igler</name> von der Indu<lb break="no"/>striellenvereinigung sowie <name type="person" ref="per:97632">Kirchschläger</name> und <name type="person" ref="per:114156">Hinteregger</name> vereinbaren,<lb/>
+dass unverzüglich die Firmen ihre Wünsche der Handelskammer bekannt<lb/>
+geben und die Handelskammer einen speziellen Mann für diese Aktion<lb/>
+bestimmen wird. Wenn die Firmenwünsche vorliegen, wird sich<lb/>
+der betreffende Handelskammervertreter nach Kampala begeben und<lb/>
+die Leute – 100 bis 200 Personen – auszuwählen.<lb/>
+</p>
+            <p xml:space="preserve">Die Vorschläge der Sektion II zum Schulorganisationsgesetz sind<lb/>
+im letzten Moment eingetroffen. Dieses Organisationsgesetz war<lb/>
+bereits einmal im Ministerrat vor etlichen Wochen und wurde auf Wunsch<lb/>
+einzelner Minister zurückgestellt. In der Zwischenzeit hat <name type="person" ref="per:113083">Sinowatz</name><lb/>
+mit diesen Ministern die offenen Probleme bereinigt. Jetzt hat die<lb/>
+Abteilung 11 entsprechende Vorschläge vorgelegt, die Begrenzung<lb/>
+der allgemeinen Unterrichtsfächer im Berufsschulwesen wird von<lb/>
+<name type="person" ref="per:113083">Sinowatz</name> abgelehnt. Er meint, dass wir uns nicht binden sollten<lb/>
+durch eine 10 %-ige Begrenzung der allgemeinbildenden Unterrichts<lb break="no"/>stunden die notwendige Schulung de Lehrlinge zu erschweren, er<lb/>
+glaubt, dass es dringendst notwendig ist, den Lehrlingen auch in der<lb/>
+Berufsschule mehr Allgemeinwissen zu geben. Dies sei auch eine<lb/>
+Forderung der Gewerkschaftsjugend. Ich muss zugeben, dass es wahr<lb break="no"/>scheinlich wirklich nicht sinnvoll ist, einen sozialistischen Un<lb break="no"/>terrichtsminister hier Grenzen seiner Lehrplangestaltung aufzu<lb break="no"/>erlegen. Ein telefonische Rücksprache mit Sekt.Chef. <name type="person" ref="per:97584">Jagoda</name>, der<lb/>
+in der Zwischenzeit nach Steyr gefahren ist, ergibt, dass er dies<lb/>
+als eine Causa minor betrachtet und deshalb ohne weiteres der<lb/>
+<name type="person" ref="per:113083">Sinowatz</name>-Vorschlag angenommen werden kann. Die zweite Frage, dass<lb/>
+Lehrlinge, welche die Berufsschule nicht absolviert haben, in Hin<lb break="no"/>kunft nicht mehr weiterbildende Lehrgänge besuchen können, wird<lb/>
+<name type="person" ref="per:113083">Sinowatz</name> bis morgen früh neuerdings überprüfen. Er gibt zu, dass<lb/>
+<pb n="12-1155" facs="12_1972-09-25_1155.jpg"/>sinnvoll wäre, den Lehrlingen den Aufstieg auch dann wenn sie die<lb/>
+Berufsschule nicht abgeschlossen haben, wohl aber die Lehrabschluss<lb break="no"/>prüfung bestanden haben, eine Weiterbildungsmöglichkeit zu eröffnen.<lb/>
+Hier kritisiert er nur mit Recht, dass ihm dieser Vorschlag so spät<lb/>
+zur Verfügung gestellt wird. Er kann und will das Schulorganisations<lb break="no"/>gesetz nicht neuerdings zurückstellen.<lb/>
+</p>
+            <p xml:space="preserve">Da ich derzeit den Landwirtschaftsminister vertrete, bekomme ich auch<lb/>
+eine Minute vor der Vorbesprechung das Material von Seiten des Land<lb break="no"/>wirtschaftsministeriums. Es funktioniert also auch scheinbar in diesem<lb/>
+Ministerium und vielleicht auch in anderen Ministerien nicht so wie ich<lb/>
+es und alle Minister sicherlich gerne hätten. An und für sich ist es<lb/>
+eine ungeheure Zumutung, dass der Minister vor der Sitzung erst ein<lb/>
+Material erhält und dann zu den einzelnen Punkten Stellung nehmen muss.<lb/>
+Als ich mir während des Vertrages von <name type="person" ref="per:97668">Kreisky</name> das Material anschaute,<lb/>
+konnte ich allerdings feststellen, dass in den einzelnen Bemerkungen<lb/>
+der Abteilungen ebenfalls überhaupt nichts drinnen steht als Wiederholungen<lb/>
+und nichtssagenden Bemerkungen. Da ist mir unser jetzigen Zustand<lb/>
+schon lieber, wo im Handelsministerium überhaupt keine Bemerkungen<lb/>
+mehr zu den einzelnen Gesetzen von den Abteilungen geschrieben werden.<lb/>
+Das Prinzip sollte sein, nur bei Entscheidungen, die bedeutend sind, mir<lb/>
+eine diesbezügliche Information zeitgerecht zukommen zu lassen- Ich<lb/>
+habe dies aber nicht ausdrücklich in meinem Hause verlangt und ich glaube,<lb/>
+dass dies gut war. Wenn nämlich in Hinkunft ich in der Parlamentsdebatte we<lb break="no"/>gen irgendeines Gesetzes, das ich letzten Endes nicht beeinsprucht habe,<lb/>
+angegriffen werde, kann ich jederzeit darauf verweisen, dass die dies<lb break="no"/>bezüglichen Vorschläge von meinem Hause nicht bekommen sind. Kommen<lb/>
+solche Vorschläge, bin ich überzeugt, werde ich auch keinen Einspruch<lb/>
+gegen ein Gesetz eines Ministerkollegen machen. Deshalb ist mir der<lb/>
+jetzige Zustand gerade recht. <name type="person" ref="per:97524">Hauffe</name> z.B. hat mir nach längerer Zeit<lb/>
+jetzt eine Information geschickt wegen einer Entsendung einer österr.<lb/>
+Delegation zur 9. Tagung der Codex-Kommission nach Rom. Da er bei dieser<lb/>
+Delegation mitfährt, hat er natürlich gegen den Ministerratsvortrag keine<lb/>
+Bedenken. Diese Informationen hebe ich mir sehr genau auf, um später<lb/>
+einmal den Beweis zu führen, dass die Ministerialbürokratie sich<lb/>
+in keinem einzigen Fall oder nur vereinzelt gegen ein Sachgebiet aus<lb break="no"/>gesprochen hat oder mir eine ergänzende Information geschickt hat,<lb/>
+wohl aber, wenn es um ihre Auslandsdelegierung ging.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="12_1146_01" facs="12_1972-09-25_1146-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 25.9.1972</head>
+         </div>
+      </back>
+   </text>
+</TEI>

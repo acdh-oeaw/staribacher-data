@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der  2. Oktober 1982</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band66_1982-10-02</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1982-10-02">Samstag, 2. Oktober 1982</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-10-24">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="66-1141" facs="66_1982-10-02_1141.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Samstag, 2. Oktober 1982<lb/>
+</p>
+            <p xml:space="preserve">Die Eröffnung der Grazer Messe hat heuer wieder Bundespräsident <name type="person" ref="per:97632">Kirch<lb break="no"/>schläger</name> vorgenommen. Die Messeleiter versucht ihn, da er nicht alle<lb/>
+Messen eröffnen will, immer mit neuen außerordentlichen Messen dafür<lb/>
+zu gewinnen. Voriges Jahr war 70 Jahre Grazer Messe, die älteste Messe<lb/>
+Österreichs, heuer ist es 200 Jahre Geburtstag Erzherzog <name type="person" ref="per:1137977">Johann</name> also<lb/>
+eine Joanneummesse.<lb/>
+</p>
+            <p xml:space="preserve">Beim Frühstück in der Burg, wozu LH <name type="person" ref="per:126988">Krainer</name> immer einlädt, der Bundes<lb break="no"/>präsident hatte ein anderes Morgenprogramm, wurde wunschgemäß von mir<lb/>
+bei der Platzeinteilung Botschafter <name type="person" ref="per:122250">Schramm</name> neben mich gesetzt. Ich<lb/>
+konnte daher sehr ausführlich mit ihm über die Wünsche der DDR, einen<lb/>
+ungebundenen Finanzkredit zu bekommen, besprechen. Nach Auffassung <add>[von]</add><lb/>
+<name type="person" ref="per:122250">Schramm</name> war die vorgetragenen Paketlösung, Kauf von Konsumgütern, weitere<lb/>
+große Bestellung von Investitionen, mit einem Kredit für 82 bis 85 ver<lb break="no"/>bunden. Die Unterhändler waren immer von der Annahme ausgegangen, daß es<lb/>
+sich um einen ungebundenen Finanzkredit handelt. Ich selbst aber, als ich<lb/>
+das erste mal davon hörte, war fest davon überzeugt, daß wir nur mehr<lb/>
+einen gebundenen Finanzkredit eben zur Abwicklung des Paketes geben<lb/>
+könnten. Die DDR hatte dann <name type="person" ref="per:125951">Reh</name>, den Österreichreferenten im Außenhandels<lb break="no"/>ministerium, geschickt, damit er dieses Mißverständnis aufklärt. Nachdem<lb/>
+ich mit Finanzminister <name type="person" ref="per:97891">Salcher</name> dieses Problem eingehend erörtert habe<lb/>
+und auch er auf dem Standpunkt steht, daß in Hinkunft Österreich nur<lb/>
+mehr, welchem Land auch immer, gebundenen Finanzkredit geben wird, diese<lb/>
+Meinung sich auch von <name type="person" ref="per:97668">Kreisky</name> bestätigen ließ, konnte ich Botschafter<lb/>
+<name type="person" ref="per:122250">Schramm</name> keine andere Auskunft geben. Er wird darüber seiner Regierung<lb/>
+berichten, mir war es ja in der Vergangenheit ja unerklärlich, wieso der<lb/>
+damalige Finanzminister <name type="person" ref="per:97311">Androsch</name> so verhältnismäßig freizügig ungebunde<lb break="no"/>ne Finanzkredite an Staatshandelsländer gegeben hat. Ich bin <del>zwar</del><lb/>
+fest davon überzeugt, daß <name type="person" ref="per:97668">Kreisky</name> dies von ihm verlangt hat, um die<lb/>
+politischen Beleihungen zwischen den Oststaaten und Österreichs noch<lb/>
+weiter zu verbessern.<lb/>
+</p>
+            <p xml:space="preserve">Da ich die Messe nicht eröffnete und daher der Bundespräsident als<lb/>
+letzter Redner zu Wort kam, habe ich LH <name type="person" ref="per:126988">Krainer</name> über meine zu erwartende<lb/>
+Kritik vorher informiert. Meine Absicht bestand die ersten zwei Beschäf<lb break="no"/>tigungsprogramme der Regierung und darin insbesondere die Fernwärmeaus<lb break="no"/>bauprojekte zu erörtern. Die Steiermark ist nämlich in dieser Hinsicht<lb/>
+sehr weit und hat jetzt und hat jetzt für 2 Mrd. S Projekte entweder<lb/>
+schon abgeschlossen oder in Arbeit. Gleichzeitig aber kündigte ich LH<lb/>
+<pb n="66-1142" facs="66_1982-10-02_1142.jpg"/><name type="person" ref="per:126988">Krainer</name> an, daß ich die Steiermark kritisieren werde, weil sie nicht<lb/>
+bereit ist mehr Braunkohle, die die GKB in der Steiermark produziert,<lb/>
+auch abzunehmen und zu verheizen. <name type="person" ref="per:126988">Krainer</name> hat sofort veranlaßt, daß man<lb/>
+ihm, ohne daß ich es bemerken sollte, notwendige Ziffern zur Verfügung<lb/>
+stellt, denn er kündigte mir an, er wird in seiner Ansprache auch darauf<lb/>
+zurückkommen. Ebenso hätte er beabsichtigt über den derzeitigen Hühner<lb break="no"/>absatz zu reden. Beides hat er dann aber interessanterweise nicht<lb/>
+getan, seine Ansprache, die sonst immer die Grundlage für meine kriti<lb break="no"/>schen Bemerkungen und Konterattacken ist, unterblieb diesmal. Vielleicht<lb/>
+war es die Anwesenheit des Bundespräsidenten, vielleicht hat er doch<lb/>
+eingesehen, daß die Steiermark doch Etliches ändern muß. Auf alle<lb/>
+Fälle habe natürlich auch ich nur sehr moderat meine Kritik vorge<lb break="no"/>bracht.<lb/>
+</p>
+            <p xml:space="preserve">Trotzdem konnte ich einen Erfolg bezüglich der Kohleversorgung erreichen.<lb/>
+<name type="person" ref="per:126988">Krainer</name> hat mir sofort seinen Energiebeauftragten <name type="person" ref="per:114463">Altziebler</name> geschickt,<lb/>
+dieser und sein Landesrat <name type="person" ref="per:128705">Fuchs</name> wollten mir erklären, daß alles in<lb/>
+bester Ordnung ist und daß die GKB gar keine Kohle liefern kann. Da ich<lb/>
+wußte, daß 100.000 to auf der Halde sind, habe ich den beiden Herrn den<lb/>
+Standpunkte eindeutig klargemacht. Die STEWEAG bezieht 200.000 to und<lb/>
+um kein kg mehr, die ÖDK zu verheizen in ihren Kraftwerken sogar außer<lb break="no"/>halb der Steiermark im vergangenen Jahr 1 Mio. to, heuer 1,1 Mio. to<lb/>
+und im nächsten Jahr 1,2 Mio. to. Ich verlangte daher, auch die Steiermark<lb/>
+müsse sich jetzt endgültig überlegen, ob sie ausschließlich Umwelt<lb break="no"/>schutzideen nachgeht oder sich doch vielleicht mehr auf die heimische<lb/>
+Kohle stützen wird. Natürlich verwies ich darauf, und dies tat ich be<lb break="no"/>reits in meiner Rede, daß man die berechtigten Forderungen des Umwelt<lb break="no"/>schutzes auf alle Fälle berücksichtigen muß, was auch die ÖDK und andere<lb/>
+E-Werke tun. Bezüglich des Hühnerabsatzes wurde beim Rundgagen im Land<lb break="no"/>wirtschaftspavillon ein großes Hendlessen veranstaltet, wo es wirklich<lb/>
+ausgezeichnete Brathühner gab. Selbst der Bundespräsident wurde einge<lb break="no"/>spannt, er war nur nicht, so wie ich bereit die Hühner mit der Hand zu<lb/>
+essen, im Prinzip macht er mit der Öffentlichkeit auch das selbe nur,<lb/>
+was er eben zu Hause macht. Er trinkt weder ein Maß Bier, noch ißt<lb/>
+er Hendl mit den Händen, aber, und das ist das Erfreuliche, macht er doch<lb/>
+fast überall mit.<lb/>
+</p>
+            <p xml:space="preserve">Die Pressekonferenz mit den örtlichen Journalisten verlief wie gehabt.<lb/>
+Nach wie vor immer wieder das große Interesse, was geschieht mit dem<lb/>
+Benzinpreis, und eigentlich keinerlei kritische Fragen.<lb/>
+</p>
+            <p xml:space="preserve">Beim Mittagessen im Steirerhof, an dem auch Bundespräsident <name type="person" ref="per:97632">Kirchschläger</name><lb/>
+<pb n="66-1143" facs="66_1982-10-02_1143.jpg"/>teilnahm, nutzt ich die Gelegenheit, um dem Präsidenten der Handels<lb break="no"/>kammer <name type="person" ref="per:151828">Kaufmann</name> das vom Bundespräsidenten verliehene Große Silberne<lb/>
+Ehrenzeichen zu überreichen. <name type="person" ref="per:151828">Kaufmann</name> hatte davon keine Ahnung, er war<lb/>
+wirklich ungemein angenehm überrascht und gerührt.<lb/>
+</p>
+            <p xml:space="preserve">Bei dem Essen kam ich neben Landesrat <name type="person" ref="per:128705">Fuchs</name> zu sitzen und besprach mit<lb/>
+ihm einige Probleme. LH <name type="person" ref="per:126988">Krainer</name>, der an meiner anderen Seite saß, und<lb/>
+er nahmen zur Kenntnis, daß jetzt die Gespräche zwischen Bund und Ländern<lb/>
+beginnen müssen, um die gemeinsame Finanzierung der Fernwärmeanlagen zu<lb/>
+besprechen. Ich hatte bei der Messeeröffnung schon darüber geredet und<lb/>
+gemeint, halbe-halbe wäre selbstverständlich. Da ich in meinen Budget ja<lb/>
+bis 3 % dieser ersten Mrd., die wir im nächsten Jahr finanzieren wollen,<lb/>
+vorgesehen habe, konnte ich großzügigst den beiden mitteilen, daß ich<lb/>
+bis 3 % gehen kann. Ich glaube aber, daß die Länder nicht mehr als höch<lb break="no"/>stens 2 % Zuschuß in Aussicht nehmen werden, dies ist für <name type="person" ref="per:97891">Salcher</name> bei<lb/>
+der Finanzreferententagung eine gute Ausgangsbasis.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:131107">GROSSENDORFER</name>: Bitte Finanzministerbüro verständigen.<lb/>
+</p>
+            <p xml:space="preserve">LH <name type="person" ref="per:128705">Fuchs</name> meinte, diesmal hätte ich doch nichts mehr in der Steiermark<lb/>
+zu tun und war sehr überrascht, als er von mir erfuhr, daß ich jetzt<lb/>
+abschließend sofort zur Fa. Koch, Rohrbachschlag, fahren werde. Er<lb/>
+kannte die Firma, meinte, es ist ein sehr tüchtiger Unternehmer, weder<lb/>
+er noch der Präsident der Handelskammer <name type="person" ref="per:151828">Kaufmann</name> hatten aber von dieser<lb/>
+Auszeichnung auch nur etwas gehört. Ich schlug ihnen vor, in Hinkunft<lb/>
+werde ich, wenn ich wo eine Auszeichnung vornehme, die zuständige Landes<lb break="no"/>kammer der gewerblichen Wirtschaft auch verständigen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:125291">MARTIN</name>: Bitte neben de örtlichen AK auch die örtliche<lb/>
+HK verständigen. <add>? [hs. Anm. besteht nur aus Fragezeichen, Anm.]</add><lb/>
+</p>
+            <p xml:space="preserve">Messedirektor <name type="person" ref="per:123821">Höller</name> berichtete mir auch, daß jetzt die Exporte von<lb/>
+Werkzeugen nach Ungarn sehr gut laufen. Dr. <name type="person" ref="per:1137978">Langer</name> war jetzt in Ungarn<lb/>
+auf der Budapester Messe und kauft jetzt Menge Kompensationsware für<lb/>
+diese Werkzeugexporte aus Österreich zu. Die Ungarn haben u.a. eine ganz<lb/>
+moderne Fliesenfabrik und diese können in Österreich günstig abgesetzt<lb/>
+werden. <name type="person" ref="per:123821">Höller</name> warnte mich, da in Österreich jetzt eine Fliesenfabrik<lb/>
+errichtet werden soll.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte mit <name type="person" ref="per:1137978">Langer</name> klären, worum es sich dabei<lb/>
+handelt. <add>Bereits geschehen[,] Sektion informiert</add><lb/>
+</p>
+            <pb n="66-1144" facs="66_1982-10-02_1144.jpg"/>
+            <p xml:space="preserve">Zur Staatswappenüberreichung war ich für 1/2 4 nach Rohrbach eingeteilt.<lb/>
+Einmal mehr war ich überrascht und verärgert, weil dort, wie ich dann<lb/>
+auf den Einladungen feststellen konnte, angekündigt war, um 3 Uhr trifft<lb/>
+der Minister ein, nachdem die Gäste sich von 1/2 3 bis 3 einfinden sollen.<lb/>
+Da die Firma in mehreren Gemeinden Betriebe hält und aus vielen Ge<lb break="no"/>meinden Arbeiter beschäftigt, waren kamen ein halbes Dutzend Bürgermeister<lb/>
+mit Gemeinderäten usw. Organisiert hat das ganze LRat <name type="person" ref="per:1137979">Heidinger</name>, der sich<lb/>
+dann bei mir auch unter 4 Augen herzlichst bedankte, daß ich ihm diese<lb/>
+große Möglichkeit von ungeheuer vielen Festansprachen und dann noch einer<lb/>
+ausreichenden Betriebsbesichtigung gab.<lb/>
+</p>
+            <p xml:space="preserve">Eine vor 2 Jahren erst errichtete neue Musikkapelle hat mich am meisten<lb/>
+beeindruckt, weil dort von 9 Jahren aufwärts ein Dutzend Kinder<lb/>
+mitwirkten. Die Kapelle war sehr schön eingekleidet und spielte auch<lb/>
+verhältnismäßig sehr gut, obwohl es weder eine Jugendmusikkapelle war,<lb/>
+noch eigentlich die alten überwogen. Eine solche Mischung hatte ich<lb/>
+wirklich noch nie gehört. Anschließend nach den vielen Reden, der Segnung<lb/>
+durch den Prälat des Stiftes Vorau und der Betriebsbesichtigung gab es,<lb/>
+wie gar nicht anders zu erwarten, ein riesiges Fest, von dem sich aber<lb/>
+Staatssekretär <name type="person" ref="per:109808">Albrecht</name> und ich drückten. Dieser Tag mit <name type="person" ref="per:109808">Albrecht</name> war<lb/>
+für mich wieder einmal die Gelegenheit auch in Graz zu demonstrieren, wie<lb/>
+sehr wir beide gut zusammenarbeiten, in Wien ist das glaube ich sowieso<lb/>
+schon bekannt.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="66_1140_01" facs="66_1982-10-02_1140-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 2.10.1982</head>
+         </div>
+      </back>
+   </text>
+</TEI>

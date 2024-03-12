@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der  5. November 1971</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band08_1971-11-05</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1971-11-05">Freitag, 5. November 1971</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-09-11">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="08-1301" facs="08_1971-11-05_1301.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Freitag, 5. November 1971<lb/>
+</p>
+            <p xml:space="preserve">Bei der Klubsitzung versuchte <name type="person" ref="per:97488">Gratz</name> die Abgeordneten insbesondere<lb/>
+die neuen, aber das gilt für die Alten genauso, auf eine neue Linie<lb/>
+zu bringen. Vor allem wies er darauf hin, dass bei der Regierungs<lb break="no"/>erklärung es nicht sehr sinnvoll ist, dass wenn es zu Zwischenrufen<lb/>
+von der ÖVP kommt, dass dann unsere Leute wieder zurückbrüllen. Auch<lb/>
+<name type="person" ref="per:97668">Kreisky</name>, der die Regierungserklärung kurz erläuterte, ersuchte, dass<lb/>
+man ihn womöglich nicht unsererseits stark durch Zwischenrufe behindert.<lb/>
+Die Erfahrung bei der letzten Regierungserklärung war hier massgebend.<lb/>
+<name type="person" ref="per:97356">Karl Blecha</name>, der neben mir sitzt und die Regierungserklärung ja sehr<lb/>
+genau kennt, meinte, dass spätestens nach einigen Minuten die Hölle auf<lb/>
+der anderen Seite los sein müsste. Auch ich habe angenommen, dass<lb/>
+die ÖVP auf das Vorhalten von <name type="person" ref="per:97668">Kreisky</name>, das zwar sachlich richtig war,<lb/>
+aber doch für sie sehr verletzend sein müsste, nämlich was sie als<lb/>
+wahlwerbende Partei angestrebt hat, jetzt ganz hart beantwortet zurück<lb/>
+bekommen wird, nämlich dass sie eben jetzt in der Opposition ist und<lb/>
+sich daher nicht aufregen soll, ein harter Schlag für die ÖVP sein<lb/>
+müsste. Hier galt aber wirklich das Sprichwort: Und erstens kommt es anders,<lb/>
+und zweitens als man denkt. Die ÖVP aber auch die FPÖ hat kein einziges<lb/>
+Mal <choice><choice><sic>aufn</sic><corr>auch</corr></choice></choice> nur einen Muckerzer gemacht. Selbst über ironische Passagen,<lb/>
+die man zumindestens so auslegen konnte, war nicht einmal eine Unruhe<lb/>
+zu bemerken. Ich fürchtete schon, dass die SPÖ nicht einmal durch<lb/>
+Zwischenbeifall die Rede auflockern würde. Nach einiger Zeit setzte<lb/>
+endlich der erste ein und dann wieder kam es vor, dass einzelne Ab<lb break="no"/>geordnete insbesondere die Kollegin <name type="person" ref="per:98080">Herta Winkler</name> bei Stellen applau<lb break="no"/>dierte, wo man gar nicht entsprechenden Applaus geben konnte und<lb/>
+sollte sodass dann nur 2 oder 3 Abgeordnete sich ihr anschlossen.<lb/>
+Bei der Passage, dass Österreich nach wie vor für Südtirol eintreten<lb/>
+wird, begann <name type="person" ref="per:113835">Scrinzi</name> mit zu applaudieren und ein paar FPÖ-ler schlossen<lb/>
+sich ihm an. Beim Dank <name type="person" ref="per:97668">Kreiskys</name> an die Beamtenschaft haben einige<lb/>
+Backbencher, und <name type="person" ref="per:97769">Mussil</name> sitzt so wie ich noch immer auf seinem alten<lb/>
+Platz, ebenfalls applaudiert, nur die vorderen ÖVP-Reihen haben dies<lb/>
+nicht bemerkt und natürlich nicht darin eingestimmt. Obwohl <name type="person" ref="per:97668">Kreisky</name><lb/>
+verhältnismässig sehr schnell vortrug und dies sehr gut machte,<lb/>
+dauerte es doch fast genau zwei Stunden. <name type="person" ref="per:97488">Gratz</name> kam anschliessend zu<lb break="no"/><name type="person" ref="per:97668">Kreisky</name>, ich stand zufällig neben ihm, und sagte, er danke ihm vielmals,<lb/>
+dass er sich dieser Arbeit unterzogen hätte und diese umfangreiche<lb/>
+Regierungserklärung abgegeben hat, denn dies wäre für die Arbeit<lb/>
+<pb n="08-1302" facs="08_1971-11-05_1302.jpg"/>des Parlamentes, aber auch der Regierung ungeheuer wichtig gewesen.<lb/>
+Richtig ist, dass <name type="person" ref="per:97668">Kreisky</name> – wie er mir dann erzählte – 20 Stunden<lb/>
+für die Regierungserklärung aufgewendet hat; in seinen Formulierungen<lb/>
+sehr gute Passagen gefunden hat. Andererseits ergibt sich für mich<lb/>
+immer noch die Frage, ob es zweckmässig war, eine solche lange Re<lb break="no"/>gierungserklärung abzugeben. <name type="person" ref="per:97525">Häuser</name> meinte, hier – unter vier Augen –<lb/>
+sei es doch unmöglich gewesen, dass z.B. <name type="person" ref="per:97372">Broda</name> die ganzen Gesetze<lb/>
+nur aufgezählt hat, die er jetzt novelliert resp. neu einbringen wird.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> beschwerte sich auch bei mir, dass insbesondere die Passage<lb/>
+von Minister <name type="person" ref="per:97442">Firnberg</name>, aber noch viel mehr von mir unbrauchbar gewesen<lb/>
+wären. Er hätte sie zwar übernommen, aber es seien überhaupt keine<lb/>
+Aussagen darinnen. Ich wehrte mich natürlich sofort ganz entschieden<lb/>
+dagegen und erklärte, dass dies ganz hervorragende Aussagen gewesen<lb/>
+sind. Da ich die Regierungserklärung immer so verstehe, dass man<lb/>
+halt irgendetwas sagen muss und sich nicht allzusehr binden soll,<lb/>
+so bin ich genau mit den Formulierungen wie sie bei uns <name type="person" ref="per:97646">Koppe</name> ganz<lb/>
+richtig gemacht nicht nur einverstanden sondern sehe darin den<lb/>
+einzig richtigen Weg. <name type="person" ref="per:97668">Kreisky</name> meinte natürlich müsste ich jetzt unsere<lb/>
+Leute und ganz besonders unseren Stil verteidigen, aber er hat<lb/>
+genau dasselbe Recht es zu kritisieren. Da sich dies alles in eine<lb/>
+sehr freundschaftlichen und fast würde ich sagen humorvollen Atmo<lb break="no"/>sphäre abspielte, mussten die Aussenstehenden den Eindruck haben<lb/>
+und es war Minister <name type="person" ref="per:107938">Leodolter</name> anwesend, dass wir hier ein sehr gutes<lb/>
+Einvernehmen allerdings auf einer sehr humorvollen Basis letzten<lb/>
+Endes haben. Freimütig wird gegenseitig kritisiert und doch dadurch<lb/>
+ein sachliches Problem diskutiert ohne dass der andere beleidigt<lb/>
+sein kann. Ich glaube wirklich, dass dies die richtige Methode<lb/>
+ist, denn ich habe gesehen, dass er sich doch unter der Regierungs<lb break="no"/>erklärung ein anderes Bild macht als ich, er andererseits hat<lb/>
+unsere Motive vielleicht das erste Mal jetzt erfahren. Besonders<lb/>
+hob <name type="person" ref="per:97668">Kreisky</name> hervor, dass <name type="person" ref="per:97525">Häuser</name> ihm sehr gute aber knappe Formu<lb break="no"/>lierungen gegeben hat. Wie mir <name type="person" ref="per:97525">Häuser</name> allerdings nachher versicherte,<lb/>
+hat er ihm fast überhaupt nichts mehr geliefert, weil er auf dem<lb/>
+Standpunkt gestanden ist, er hätte ihm zum Parteitag bereits alle<lb/>
+Unterlagen – wie er den Rechenschaftsbericht und die zukünftige<lb/>
+<pb n="08-1303" facs="08_1971-11-05_1303.jpg"/>Arbeit damals in einem sehr interessanten Referat ausführte,<lb/>
+geliefert. Da <name type="person" ref="per:97668">Kreisky</name> mit <name type="person" ref="per:97525">Häuser</name> ein gutes Einvernehmen will,<lb/>
+hat er sogar dem Sozialminister den Teil seiner Rede, die sich<lb/>
+mit den Forderungen der Sozialpolitik beschäftigt und die insbesondere<lb/>
+auf den Wunsch des Rentnerverbandes zurückgingen, vorher genau<lb/>
+lesen lassen. <name type="person" ref="per:97525">Häuser</name> hat dann sogar noch einige Passagen, die zu<lb/>
+konkret wurden, herausgestrichen. <name type="person" ref="per:97525">Häuser</name> hat nämlich die genau<lb/>
+dieselbe Taktik, er hat mir nachher erklärt, er denke nicht daran,<lb/>
+sich in der Regierungserklärung zu binden, sondern wird dann im<lb/>
+Laufe der Jahre sehen, was er durchsetzen kann und wo sich sein<lb/>
+Hauptaugenmerk in der Sozialpolitik hinrichten wird.<lb/>
+</p>
+            <p xml:space="preserve">Beim Empfang des Bürgermeisters <name type="person" ref="per:97963">Slavik</name> für die soz. Abgeordneten,<lb/>
+kam ich neben der Frau Minister <name type="person" ref="per:107938">Leodolter</name> zu sitzen. <name type="person" ref="per:138097">Nowotny</name><lb/>
+hat mir ihr wegen der Kompetenz Umweltfragen Handelsministerium<lb/>
+gesprochen. Sie wollte nun von mir detaillierter wissen, wie sie<lb/>
+dieses Problem am besten angeht. Ich setzte sie in Kenntnis, dass<lb/>
+bei uns eine Abteilung eine koordinierende Funktion für das Haus<lb/>
+aber letzten Endes auch für die internationalen Stellen durchführt.<lb/>
+Hier ist Min.Rat <name type="person" ref="per:125823">Hanisch</name> als der von mir bestimmte Beamte, ein<lb/>
+zwar loyaler aber eigenwilliger und eigensinniger Vertreter, der<lb/>
+keinesfalls als Sozialist gelten kann. Wenn sie nun ihr Kompetenz<lb break="no"/>gesetz ein bisschen verbessern will, damit nicht ausschliesslich<lb/>
+nur das Sozialministerium und das BKA einige Kompetenzen ihr ab<lb/>
+treten, sondern auch ein drittes Ministerien, z.B. das Handels<lb break="no"/>ministerium aufscheinen sollte, dann könnte sie diese allgemeine<lb/>
+Kompetenz Handelsministerium Umweltschutz ebenfalls von mir<lb/>
+jederzeit bekommen. Ich versuchte ihr auch zu erklären, dass die<lb/>
+konkreten Umweltschutzmassnahmen bei uns durch die Betriebsgeneh<lb break="no"/>migungen erfolgen und dass es sinnlos wäre, wenn sie jetzt vielleicht<lb/>
+versuchen würde, eine eigene Bürokratie über die <choice><choice><sic>Umweltskonkreten</sic><corr>konkreten Umwelt-?</corr></choice></choice><lb/>
+Massnahmen aufzuziehen. Es wäre auch nicht im Interesse des<lb/>
+Staatsbürgers, wenn er womöglich zuerst bei ihr über eine Umwelt<lb break="no"/>behörde oder -bürokratie feststellen lassen müsste, ob das konkrete<lb/>
+Projekt, die Fabrik oder das Erzeugnis genehmigt wird und dann erst<lb/>
+beim zuständigen Handelsminister die entsprechenden Betriebsgeneh<lb break="no"/>migungen oder gar vielleicht erst Produktionsgenehmigungen sich<lb/>
+holen müsste. Sie stimmte mir sofort zu, dass die einzige Möglichkeit<lb/>
+darin besteht, dass sie eben allgemeine Richtlinien durch Gesetze<lb/>
+z.B. über die Phonstärken über die Rauchgasentwicklung und -zusammen<lb break="no"/><pb n="08-1304" facs="08_1971-11-05_1304.jpg"/>setzung usw. erlassen wird. Die konkrete Einhaltung dieser Ge<lb break="no"/>setze wird eben dann den Behörden ganz allgemein aufgetragen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: Bitte sich wegen der Abtretung der allgemeinen<lb/>
+Kompetenz über Umweltschutz und insbesondere der internationalen Bin<lb break="no"/>dung mit dem Sekretär von <name type="person" ref="per:107938">Leodolter</name> ins Einvernehmen setzen.<lb/>
+</p>
+            <p xml:space="preserve">Min.Rat <name type="person" ref="per:108322">Meisl</name> kam direkt vom Flugfeld zur Berichterstattung über<lb/>
+die EFTA-Tagung ins Büro. Auch nach seiner Auffassung wäre es ein<lb/>
+Wahnsinn gewesen, wenn ich für die zwei Stunden, die sich in Wirk<lb break="no"/>lichkeit nur mit einer allgemeinen Erklärung über die dänische<lb/>
+Importabgabe und dann mit dem Schlusskommuniqué beschäftigt hat,<lb/>
+nach Genf geflogen wäre. Bei der dänischen Importabgabe hat ins<lb break="no"/>besondere der schwedische Handelsminister <name type="person" ref="per:97433">Feldt</name> die Einführung zur<lb/>
+Kenntnis genommen und sehr bagatellisiert. Innerhalb der Delegation<lb/>
+meinte <name type="person" ref="per:108322">Meisl</name> konnte man dann feststellen, wie sie getuschelt haben<lb/>
+und <name type="person" ref="per:97433">Feldt</name> dann zu neuen Erklärungen bringen wollten, doch war<lb/>
+dieser scheinbar nicht bereit, seine "batzwache" Aussage durch<lb/>
+eine zweite Erklärung zu ergänzen. Das Kommuniqué war – wie nicht<lb/>
+anders zu erwarten – eine nicht viel aussagende Zusammenfassung<lb/>
+von einer Organisation, die sich vollkommen im klaren ist, dass<lb/>
+sie doch früher oder später ihre Daseinsberechtigung sein einge<lb break="no"/>schränkt bekommen wird.<lb/>
+</p>
+            <p xml:space="preserve">Am Abend beim Empfang der Wirtschaftstreuhänder habe ich Gelegenheit,<lb/>
+in einem Hinterraum ca. 12 Leute vom Finanzministerium zusammen<lb/>
+an einigen Tischen zu sprechen. Min.Rat <name type="person" ref="per:137270">Waltersdorfer</name> war auch<lb/>
+dabei. Der Wortführer war aber der Bekannte von unserem Sekt.Rat<lb/>
+<name type="person" ref="per:97722">Marhold</name>, den ich per Namen nicht kenne, der aber <name type="person" ref="per:110130">Walter</name><add>[ev. Falschidentifikation, Staribacher kennt und nennt nur den Vornamen]</add> mit dem Vor<lb break="no"/>namen heisst. <name type="person" ref="per:97722">Marhold</name> behauptet, er ist ein sehr tüchtiger Beamter<lb/>
+und ich habe angenommen, er wird automatisch die Nachfolge von <name type="person" ref="per:137270">Walters<lb break="no"/>dorfer</name> bekommen. Dies ist nicht ganz sicher. Er erklärte mir aber<lb/>
+freimütig, dass wir einen sehr grossen Fehler mit unserer Patent<lb break="no"/>verwertungsgesellschaft gemacht haben. Unser Vorschlag lautet,<lb/>
+dass wir eine Ges.m.b.H. errichten möchten. Wenn dies der Fall ist,<lb/>
+dann wird – wenn das Finanzministerium dem zustimmt, eine solche<lb/>
+von einer anderen Abteilung wie die, der <name type="person" ref="per:110130">Walter</name><add>[ev. Falschidentifikation, Staribacher kennt und nennt nur den Vornamen]</add> angehört, die Durchfüh<lb break="no"/>rung dieses Projektes zu überwachen und vor allem dann zu betreuen<lb/>
+haben. Bei einer Ges.m.b.H. hat nämlich das Handelsministerium dann<lb/>
+nichts mehr mitzureden. Wenn wir dagegen einen Verein errichten,<lb/>
+<pb n="08-1305" facs="08_1971-11-05_1305.jpg"/>dann hat es den grossen Vorteil, dass wir – so wie z.B. bei<lb/>
+der ÖFVW – die alleinige Kompetenz behalten. Ich war sehr<lb/>
+erstaunt, dass wir eine Ges.m.b.H. verlangt haben und dass man mir<lb/>
+nicht vorzeitig die Variante mit dem Verein erläuterte, wo wir doch<lb/>
+in diesem Fall nur eine Zustimmung des Finanzministeriums brauchen,<lb/>
+die wir sofort bekommen könnten. In diesem Fall könnten wir viel<lb/>
+kurzfristiger und ohne dass der komplizierte bürokratische<lb/>
+Apparat des Finanzministeriums und des Handelsministerium sich<lb/>
+erst gegenseitig abstimmen müsste, eine Vereinsgründung vornehmen<lb/>
+und die 20 Mill. S resp. die ca. noch 19 verbliebenen, dem Verein<lb/>
+überweisen. Er selbst dürfte allerdings auch ein grosses Inter<lb break="no"/>esse daran haben, dass ein Verein gegründet wird, denn dann bleibt<lb/>
+es auch in seiner Kompetenz.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: Bitte, sich sofort mit <name type="person" ref="per:97722">Marhold</name> in Verbindung<lb/>
+zu setzen, damit mit <name type="person" ref="per:110130">Walter</name> geklärt wird, wie man jetzt schnell<lb/>
+und zielstrebig vorgeht.<lb/>
+</p>
+            <p xml:space="preserve">Die Wirtschaftstreuhänder wollen die elektronische Datenver<lb break="no"/>arbeitung, die derzeit von der Handelskammer für ihre Mitglieder<lb/>
+zur Beratung und zur Buchführung verwendet wird, gerne an sich<lb/>
+reissen. Besonders in Salzburg hat es einen Streit gegeben,<lb/>
+weil dort die Handelskammer sehr konkrete Organisationsformen<lb/>
+dafür gefunden hat. Ich habe seinerzeit den Präsidenten <name type="person" ref="per:114377">Fritsch</name><lb/>
+und seine Mitglieder, d.h. den Vorstand aufgefordert, sie mögen<lb/>
+durch direkte Verhandlungen mit der Handelskammer irgendwelche<lb/>
+Lösungen mir vorschlagen. Jetzt hat <name type="person" ref="per:97311">Androsch</name>, der als Wirtschafts<lb break="no"/>treuhänder die Verhältnisse natürlich gut kennt, sich auf die Sei<lb break="no"/>te der Wirtschaftstreuhänder geschlagen. Die Wirtschaftstreuhänder<lb/>
+sagt er, sind eine viel zu schwache Organisation, als dass sie<lb/>
+sich gegen die mächtige Handelskammer durchsetzen können. Trotzdem<lb/>
+beharrte ich auf dem Standpunkt, sie müsste einmal in Besprechungen<lb/>
+mit der Handelskammer versuchen, zu einer Lösung zu kommen. Richtig<lb/>
+ist, dass von den x-hunderten von Wirtschaftstreuhändern, ich glaube<lb/>
+insgesamt 400, nicht einmal die Hälfte etwas zu tun hat. Bei den<lb/>
+Buchprüfern, wo x-tausende sind, ist es noch ärger. Die Tüchtigen<lb/>
+allerdings, hat mir <name type="person" ref="per:97311">Androsch</name> vor den anderen bestätigen müssen,<lb/>
+hätten zwar eine riesige Wut, wenn ein anderer etwas dazu bekommt,<lb/>
+<pb n="08-1306" facs="08_1971-11-05_1306.jpg"/>müssten aber gleichzeitig immer wieder zugeben, dass sie gar nicht<lb/>
+imstande wären, arbeitsmässig noch eine oder andere Firma dazuzunehmen.<lb/>
+Da der Präsident <name type="person" ref="per:114377">Fritsch</name> der Wirtschaftstreuhänder auch noch Wirtschafts<lb break="no"/>bundmitglied ist, müsste es doch gelingen, dass sie sich zumindestens<lb/>
+in einem sachlichen Gespräch den Rahmen abstecken, unter welchen Bedin<lb break="no"/>gungen die einen, d.h. die Handelskammer, oder die anderen, d.h. die<lb/>
+Steuerprüfer und Buchprüfer in Hinkunft tätig werden.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: Bitte in der Abteilung <name type="person" ref="per:98100">Wohlgemuth</name>, ich glaube, er<lb/>
+betreut die Wirtschaftstreuhänder, feststellen, was man über die Verhand<lb break="no"/>lungen resp. über dieses Problem konkret weiss.<lb/>
+</p>
+            <p xml:space="preserve">Prof. <name type="person" ref="per:97937">Seidel</name> von Wirtschaftsforschungsinstitut teilte mir mit, dass<lb/>
+<name type="person" ref="per:97775">Nemschak</name> jetzt die Idee hätte, dass er mit Ende des nächsten Jahres<lb/>
+doch noch nicht in Pension gehen möchte. Er hofft, dass <name type="person" ref="per:97731">Mautner-Mark<lb break="no"/>hof</name> vielleicht im nächsten Frühjahr nicht aus der Wirtschaftsforschung<lb/>
+ausscheidet und damit auch er mit Jahresende noch immer eine weitere<lb/>
+Verlängerung seines Vertrages erhalten könnte. Ich sprach darüber mit<lb/>
+<name type="person" ref="per:97676">Tommy Lachs</name> und auch mit Finanzminister <name type="person" ref="per:97311">Androsch</name> und beide bestätigten<lb/>
+mir, dass unter gar keinen Umständen eine Verlängerung in Frage kommen<lb/>
+dürfte. Die Absicht einiger anderer Mitglieder des Instituts, nämlich<lb/>
+dass Dr. <name type="person" ref="per:117678">Tichy</name> die Nachfolge oder Dr. <name type="person" ref="per:97379">Butschek</name>, ein Genosse von uns,<lb/>
+die Nachfolge von <name type="person" ref="per:97775">Nemschak</name> antreten könnte, wurde allgemein als voll<lb break="no"/>kommen unmöglich bezeichnet, weil sie nicht das Format mitbringen.<lb/>
+Der Einzige, der für diese Position wirklich in Frage käme, ist Prof.<lb/>
+<name type="person" ref="per:97937">Seidel</name> und wir werden alles daran setzen, dass <name type="person" ref="per:97775">Nemschak</name> unter gar keinen<lb/>
+Umständen eine Verlängerung bekommt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: Bitte mich daran erinnern, dass ich dieses Problem<lb/>
+mit <name type="person" ref="per:97570">Hrdlitschka</name> als Kuratoriums- und Vorstandsmitglied des Wirtschafts<lb break="no"/>forschungsinstituts bespreche.<lb/>
+</p>
+         </div>
+      </body>
+      
+   </text>
+</TEI>

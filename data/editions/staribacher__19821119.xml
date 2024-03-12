@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der 19. November 1982</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band67_1982-11-19</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1982-11-19">Freitag, 19. November 1982</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-11-25">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="67-1354" facs="67_1982-11-19_1354.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Freitag, 19. November 1982<lb/>
+</p>
+            <p xml:space="preserve">Nach Linz unterhielten sich die Minister, während <name type="person" ref="per:97632">Kirchschläger</name> mit <name type="person" ref="per:127063">Husak</name><lb/>
+sozusagen private Gespräche führte. Überrascht war ich, daß <name type="person" ref="per:108328">Pahr</name> dem<lb/>
+tschechischen Außenminister <name type="person" ref="per:134235">Chnoupek</name> weitere Maislieferungen angeboten<lb/>
+hat, die wir nicht effektuieren könnten, <name type="person" ref="per:134235">Chnoupek</name> andererseits <name type="person" ref="per:108328">Pahr</name> wieder<lb/>
+erzählte, wir könnten sicherlich Wein in die CSSR exportierten; da es<lb/>
+bis jetzt unmöglich war Wein in CSSR zu liefern, habe ich sofort den<lb/>
+Außenhandelsminister <name type="person" ref="per:133292">Urban</name> gefragt, dieser hielt sich sehr ablehnend da<lb break="no"/>gegen, weil er dafür natürlich Westdevisen braucht, ihre Weinimporte<lb/>
+werden aus Rumänien, Bulgarien und anderen Staatenm wo sie .... im<lb/>
+Rahmen des Comecon verhandeln können und abrechnen können, geliefert.<lb/>
+Im Laufe des Tages sagte er mir dann allerdings, bevor ich mich von ihm<lb/>
+verabschiedete, daß wenn es ein ausgesprochener Wunsch von mir wäre,<lb/>
+er sich eine kleinere Menge vorstellen könnte. Ich hatte nämlich besonders<lb/>
+darauf verwiesen, daß wir Überschußproduktion auf dem Landwirtschafts<lb break="no"/>sektor insbesondere vor den nächsten Wahlen April 83 versuchen müssen<lb/>
+irgendwie vom Markt wegzubringen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:125291">MARTIN</name>: Bitte mit <name type="person" ref="per:97511">Haiden</name> verbinden.<lb/>
+</p>
+            <p xml:space="preserve">In Mauthausen wurde nicht nur die Kränze am Mahnmal und dann insbesondere<lb/>
+beim Tschechendenkmal niedergelegt, sondern auch von <name type="person" ref="per:127063">Husak</name> einzelne Baracken<lb/>
+besucht. Der Museumsleiter, ein ehemaliger Hofrat der Wr. Polizei, machte<lb/>
+mich zum Schluß darauf aufmerksam, daß jetzt auch die Ausstellung für<lb/>
+Buchenwald fertig ist, er meinte, die müßte ich unbedingt sehen, denn<lb/>
+als ehemalige KZ-Häftling, er war in Auschwitz, legt er größten Wert<lb/>
+darauf, daß die paar noch Lebenden, angeblich sei ich einer der wenigen<lb/>
+letzten aus Buchenwald, wir sollten uns dafür mehr interessieren, ich<lb/>
+versprach ihm, wenn ich einmal in der Nähe bin, tatsächlich die Aus<lb break="no"/>stellung, die bald eröffnet wird, zu besichtigen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:125291">MARTIN</name>: Bitte entsprechend vormerken.<lb/>
+</p>
+            <p xml:space="preserve">Bei der VÖEST-Alpine lief der übliche Besichtigungsrummel ab. <name type="person" ref="per:97315">Apfalter</name><lb/>
+macht dies sehr geschickt, er läßt die ganzen Lehrbuben, die dann natür<lb break="no"/>lich fast wie in den Oststaaten befehlsgemäß zu applaudieren haben.<lb/>
+</p>
+            <p xml:space="preserve">Mit <name type="person" ref="per:127143">Cempirek</name> und dann insbesondere <choice><choice><sic>die neuen Leute</sic><corr>den neuen Leuten?</corr></choice></choice>, die teils in Prag<lb/>
+verhandelt haben, aber auch <choice><choice><sic>die neue</sic><corr>in der neuen?</corr></choice></choice> Niederlassung in Prag, wurde besprochen<lb/>
+und der Niederlassungsleiter mir auch vorgestellt, besprach ich dann die<lb/>
+<pb n="67-1355" facs="67_1982-11-19_1355.jpg"/>einzelnen Projekte und informierte die VÖESTler über alle Details, die<lb/>
+in ich in der Zwischenzeit erfahren konnte. Übereinstimmung herrschte,<lb/>
+daß der <name type="person" ref="per:127063">Husak</name>-Besuch deshalb so notwendig war, weil damit endgültig die<lb/>
+rumänische Konkurrenz, die ausschließlich nach politischen Gesichtspunkten<lb/>
+behandelt wurde, ausschied. Technisch und auch abwicklungsmäßig waren die<lb/>
+Rumänen nach Auffassung der VÖESTler überhaupt nie eine wirkliche Konkur<lb break="no"/>renz.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Betriebsbesichtigung sprachen mich viele Leute, die ich hin und<lb/>
+wieder treffe, an und meinten, insbesondere im Komponentenbau, der ja aus<lb break="no"/>schließlich für Atomkraftwerkzulieferung gebaut wurde, gibt es jetzt so<lb/>
+wenig Aufträge. Überrascht war ich zu hören und zu sehen, daß für den<lb/>
+deutschen schnellen Brüter Karkar sehr wohl jetzt das letzte Verschluß<lb break="no"/>stück gefertigt wird. Die Deutschen drängen sehr darauf, weil sie doch<lb/>
+damit rechnen mit dieser Produktion und Typen die Franzosen, die ihnen<lb/>
+ja weit vorausgeeilt sind, wieder einigermaßen einholen zu können.<lb/>
+</p>
+            <p xml:space="preserve">Beim Durchfahren durch das Gelände konnte ich feststellen, daß auch<lb/>
+zwei Schiffe, allerdings sehr abseits gelegen, fast kaum zu erkennen,<lb/>
+gebaut werden, Ich fragte sofort, wieso die VÖEST-Alpine und nicht die<lb/>
+Schiffswerft ihre Schiffe baut. Dies tat ich allein schon im Hinblick auf<lb/>
+die Behauptung der Schiffswerftleitung, daß BM <name type="person" ref="per:97879">Rösch</name> verabsäumt hat sie <add>[für die; zur]</add><lb/>
+Offerterstellung heranzuziehen. Tatsächlich hat jetzt die Schiffswerft<lb/>
+Linz mit den russischen Auftrag soviel zu tun, daß sie sogar der VÖEST-<lb/>
+Alpine Teillieferungen abtreten kann.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:125291">MARTIN</name> <add>Dr. <name type="person" ref="per:108746">Haffner</name></add>: Bitte nächsten MR mitgeben.<lb/>
+</p>
+            <p xml:space="preserve">Aufregung herrschte von GD <name type="person" ref="per:97315">Apfalter</name> bis Stellvertreter <name type="person" ref="per:132713">Fegerl</name> und allen<lb/>
+anderen in der VÖEST, die damit beschäftigt sind, über die <name type="person" ref="per:97668">Kreisky</name>-Idee<lb/>
+in Diemlach wieder eine Stahlproduktion aufzunehmen. Felten &amp; Guilleaume<lb/>
+hat einen Schließungsvertrag mit der VÖEST-Alpine, in diesem Vertrag ist<lb/>
+eindeutig festgelegt, daß keinerlei Walzaktivitäten dort mehr entfaltet<lb/>
+werden dürfen, die VÖEST-Alpine also müßte zustimmen<add>[, daß]</add> tatsächlich diese<lb/>
+neue deutsche Gruppe dort ein Elektrostahlwerk aufnehmen würde, um Walz<lb break="no"/>draht für Baugitter zu erzeugen. Die VÖEST-Alpine wird sich mit allen<lb/>
+zur Verfügung stehenden Mitteln dagegen wehren. Für Donauwitz braucht sie<lb/>
+die 120.000 to Walzgut, gegenüber der EGKS wurde bereits die Reduzierung<lb/>
+in Timelkam durch Stillegung von Felten &amp; Guilleaume gemeldet, die EGKS<lb/>
+muß noch weitere Schließungen in ihrem Bereich vornehmen, da die Über<lb break="no"/>kapazität erdrückend ist. <name type="person" ref="per:97315">Apfalter</name> hätte, da <name type="person" ref="per:97668">Kreisky</name> scheinbar schon weit<lb break="no"/><pb n="67-1356" facs="67_1982-11-19_1356.jpg"/>gehend Zusagen gemacht hat, mit ihm besprochen, man sollte das ganze noch<lb/>
+rausschieben. Ich habe <name type="person" ref="per:97315">Apfalter</name> den Vorwurf gemacht, <add>[daß]</add> er respek. seine<lb/>
+Leute das Handelsministerium, Sektion Industrie, überhaupt nicht infor<lb break="no"/>miert haben. <name type="person" ref="per:97315">Apfalter</name> hat dies entschieden bestritten.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR SC <name type="person" ref="per:111737">MARSCH</name> UND <name type="person" ref="per:108746">HAFFNER</name>: Bitte klärt diesen Fall, damit so<lb/>
+etwas nicht wieder passiert.<lb/>
+</p>
+            <p xml:space="preserve">Der sowjet. Botschafter hat Bundespräs. <name type="person" ref="per:97632">Kirchschläger</name> mit Gattin und<lb/>
+mich sowie die anderen Staatsbesuchsteilnehmer zur Vorführung eines<lb/>
+Filmes in seine Botschaft geladen. Der Film ist ganz nett, das anschl.<lb/>
+Dinner war wie üblich sehr üppig.<lb/>
+</p>
+            <p xml:space="preserve">Interessant für mich war nur, daß die Sowjets auf dem Standpunkt stehen,<lb/>
+die 100.000 to Weizen mit 130 Dollar waren von ihnen überzahlt. Der Hin<lb break="no"/>weis, daß wir bei anderen Staaten 135 Dollar bezahlen ließen, sie nicht<lb/>
+gelten, denn sie beziehen aus Frankreich, Spanien und sonstigen europ.<lb/>
+Ländern um 127 Dollar die to. Die Russen haben auch großes Interesse,<lb/>
+daß sie sowie die Polen im vergangenen Jahr Mehl bei uns beziehen. Ur<lb break="no"/>sprünglich wollten sie ja nur Makkaroni, sprich also Mehl für die Teig<lb break="no"/>warenerzeugung, jetzt sind sie mit normalem Mehl auch zufrieden.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte sofort die Mühlenindustrie und Innung<lb/>
+verständigen, um Lieferfähigkeit festzustellen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="67_1353_01" facs="67_1982-11-19_1353-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 19.11.1982</head>
+         </div>
+      </back>
+   </text>
+</TEI>

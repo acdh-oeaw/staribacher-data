@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der 16. Dezember 1972</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band13_1972-12-16</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1972-12-16">Samstag, 16. Dezember 1972</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-10-31">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="13-1512" facs="13_1972-12-16_1512.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Samstag, 16. Dezember 1972<lb/>
+</p>
+            <p xml:space="preserve">Bei der Abstimmung über die Sozialpakete, welche durch die verschieden<lb break="no"/>sten Abänderungsanträge sowohl von unserer Seite als auch von<lb/>
+Seite der Opposition sich über eine Stunde dahinzieht, passiert es<lb/>
+dem Berichterstatter Dr. <name type="person" ref="per:97863">Reinhart</name>, dass er einmal aufsteht, als der<lb/>
+Antrag der ÖVP <name type="person" ref="per:123327">Schlager</name> auch den gewerblichen Frühpensionisten 1.500<lb/>
+und etliche Schilling dazuverdienen zu lassen. <name type="person" ref="per:97525">Häuser</name> hatte beabsichtigt<lb/>
+durch die jetzigen Novellen nur den Unselbständigen diese Erleichterung<lb/>
+zu geben. Warum ist mir eigentlich nicht ganz klar, da als dieser<lb/>
+Abstimmungsfehler dann passiert war, er meint, allzu gross sei das<lb/>
+Unglück nicht. <name type="person" ref="per:97311">Androsch</name> hat nämlich sofort gefragt, was dieser Fehler<lb/>
+kostet. In späterer Folge kommt man aber dann darauf, dass eine andere<lb/>
+Bestimmung, die wir auch beschlossen haben, dieser Regelung wieder<lb/>
+entgegensteht. Die Präsidialsitzung am Montag wird sich mit dieser<lb/>
+schwierigen Materie befassen.<lb/>
+</p>
+            <p xml:space="preserve">Da die Abgeordneten doch noch nach Hause fahren wollen und Samstag<lb/>
+ja nicht als Sitzungstag geplant war, geht die Debatte wie am<lb/>
+Schnürl. Es werden alle beabsichtigten Wortmeldungen auch wirklich<lb/>
+dann durchgeführt, nur halten sich die Diskussionsredner sehr kurz und<lb/>
+konzentriert. Beim Gewerbestrukturverbesserungsgesetz appelliert<lb/>
+Dr. <name type="person" ref="per:111721">Stix</name>, dass ich die Ungerechtigkeit, wonach der Staat sich bei<lb/>
+einem Ermessenskredit nur mit 15 % bindet, während es hier bei<lb/>
+einer 20 %-igen Bindung die Unternehmer hart treffen würde. <name type="person" ref="per:97769">Mussil</name> geht<lb/>
+sogar noch weiter und verlangt mehr Mittelstandspolitik. Ursprünglich<lb/>
+wollte ich überhaupt nicht antworten, doch habe ich es mir dann überlegt<lb/>
+und in einer Minutenantwort nur festgehalten, dass diese Appelle und<lb/>
+Forderungen gar nicht notwendig sind, weil wird bereits alle Vorkehrungen<lb/>
+getroffen haben, dass dieses Problem befriedigend gelöst wird. Ich<lb/>
+habe nicht ausdrücklich davon gesprochen, dass der Finanzminister keine<lb/>
+Bindung in diesem Punkt vornehmen wird, da dies noch nicht endgültig in<lb/>
+meinen Augen durchgestanden ist. Hätte ich aber nichts dazu gesagt,<lb/>
+wäre nach ein paar Monaten die Oppositionspartei gekommen und erklärt,<lb/>
+nur ihrer Intervention ist es zuzuschreiben, dass jetzt für die gewerbliche<lb/>
+Wirtschaft mehr geschehen kann.<lb/>
+</p>
+            <p xml:space="preserve">Beim Bergbauförderungsgesetz hat Dr. <name type="person" ref="per:112625">Keimel</name> für Tirol eine Ausdehnung auf<lb/>
+Magnesit, d.h. in dem Fall Scheelit verlangt. Da wir die anderen Produkte<lb/>
+bei der Begutachtung von Seiten der Handelskammer wurden fast alle<lb/>
+gefordert, abgelehnt haben, bestand auch in meinen Augen keine Möglich<lb break="no"/>keit diesem Antrag zuzustimmen. Die Tuxer Frage kann nur so gelöst werden,<lb/>
+<pb n="13-1513" facs="13_1972-12-16_1513.jpg"/>dass Austro-Mineral Geld bekommt, um gegebenenfalls Untersuchungen<lb/>
+über weitere Scheelit-Vorkommen zu führen. Abg. <name type="person" ref="per:112988">Wille</name> hat mir mitgeteilt,<lb/>
+dass der Finanzminister bereit sei, 2,5 Mill. S dafür auszugeben.<lb/>
+In diesem Fall müsste er eine eigene Gesellschaft gründen, die zuerst<lb/>
+das Bergwerk von der Magnesit AG erwirbt und dann mit Landesbeteiligung<lb/>
+und Bundesbeteiligungen weitere Untersuchungen über Vorkommnisse<lb/>
+führt. Ich kann mir nicht vorstellen, dass dieser Weg auch tatsächlich<lb/>
+beschritten wird.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: <name type="person" ref="per:97891">Salcher</name> soll sich hier bereits sehr weit exponiert<lb/>
+haben und aus politischen Überlegungen soll angeblich jetzt eine diesbe<lb break="no"/>zügliche Lösung in Angriff genommen werden.<lb/>
+</p>
+            <p xml:space="preserve">Zum Zuckerförderungsgesetz hatte ich mit <name type="person" ref="per:97769">Mussil</name> vereinbart, dass über<lb break="no"/>haupt niemand spricht. Dies war nicht nur wegen der zeitlichen Beschränkt<lb break="no"/>heit günstig, sondern vor allem auch, weil wir dadurch nicht Gefahr<lb/>
+laufen, durch Äusserungen im Parlament, die vielleicht auch im Ausland<lb/>
+dann bekannt werden, im Rahmen der EFTA Schwierigkeiten zu haben. Die<lb/>
+EFTA-Staaten haben sich noch immer nicht endgültig zu einer Lösung<lb/>
+der landwirtschaftlichen Verarbeitungsprodukte durchgerungen und es<lb/>
+ist nicht zielführend, wenn man dann in diesen Staaten lesen kann,<lb/>
+was das österr. Parlament auf diesem Sektor nicht nur macht, sondern<lb/>
+vielleicht auch sogar noch beabsichtigt.<lb/>
+</p>
+            <p xml:space="preserve">Die vorweihnachtliche Veranstaltung des Vereins für Kinder der Mitglieder<lb/>
+benützt der Reg.Rat <name type="person" ref="per:140260">Kneissler</name> immer, um bei der Begrüssung für sogar<lb/>
+in penetranter Weise meine Verbundenheit mit der Organisation herauszu<lb break="no"/>streichen. Er geht glatt so weit zu erklären, dass noch niemals ein<lb/>
+Minister sich so für die Interessen des Sportvereines eingesetzt<lb/>
+hat und ihn unterstützt. Da er dies in einer humorvollen Weise macht,<lb/>
+fragt er vorher immer an, ob ich etwas gegen diese Art einzuwenden<lb/>
+hätte. Gegen die Art habe ich gar nichts zu sagen, wie ich ihm immer<lb/>
+erkläre, doch nachher ist mir immer peinlich, in welcher dicken Art<lb/>
+er meine Verdienste herausstreicht.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="13_1511_01" facs="13_1972-12-16_1511-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 16.12.1972</head>
+         </div>
+      </back>
+   </text>
+</TEI>

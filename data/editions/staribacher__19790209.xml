@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der  9. Februar 1979</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band46_1979-02-09</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1979-02-09">Freitag, 9. Februar 1979</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-07-15">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="46-0170" facs="46_1979-02-09_0170.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Freitag, den 9. Februar 1979<lb/>
+</p>
+            <p xml:space="preserve">Der Handelsminister von Haiti, <name type="person" ref="per:149796">Uduy</name>, sieht größere Exportmöglichkeiten<lb/>
+wenn entsprechende Importe von Haiti durchgeführt werden. Seiner<lb/>
+Meinung nach haben sie jetzt einige landwirtschaftliche Produkte<lb/>
+wie Mango insbesondere ein neues Juice aus Mango, Jam und vor allem<lb/>
+Seafood Fische in den letzten Jahren nach Westeuropa in steigendem<lb/>
+Maße exportiert. Die österreichische Firma Austroplan hat ihnen<lb/>
+gute Angebote für Aufschließung ihrer Produktionsmöglichkeiten ge<lb break="no"/>macht. Beabsichtigt ist eine zweite große Zementfabrik, die VÖEST-<lb/>
+Alpine ist daran interessiert für 120 Mio Dollar, aufbauen wollen<lb/>
+sie eine pharmazeutische Produktion, weil bei ihnen die Medikamente<lb/>
+ungeheuer teuer sind. Ich fürchte nur wenn sie die eigene Produktion<lb/>
+haben, werden infolge des verhältnismäßig harter Konkurrent von<lb/>
+Amerika wird es nicht wesentlich billiger kommen, was sie aber<lb/>
+brauchen sind neue Arbeitsplätze, sie haben 5 Mio. Einwohner und 1,7%<lb/>
+Bevölkerungszuwachs. Auch Düngemittelproduktion soll aufgebaut<lb/>
+werden, derzeit kaufen sie alles von der Dominikanischen Republik,<lb/>
+Nahrungsmittelindustrie, Metallerzeugung, Leder und Schuhproduktion.<lb/>
+Helfen konnten wir ihm, als er fragte, ob wir nicht doch in stärkerem<lb/>
+Ausmaß handicraft, handwerkliche Erzeugnisse, importieren könnten.<lb/>
+Zu meiner größten Überraschung hatten wir mit Haiti noch kein Zoll<lb break="no"/>freiabkommen für handwerklich hergestellte Waren, ich veranlaßte<lb/>
+sofort, daß <name type="person" ref="per:98075">Willenpart</name> ihm entsprechende Muster von solchen Ver<lb break="no"/>trägen gibt damit er bei dem nächsten Besuch in Europa Oktober wird<lb/>
+Haiti an einer Handwerkmesse in Florenz teilnehmen, gegebenenfalls<lb/>
+dieses Übereinkommen mit uns abschließen soll und könnte. <name type="person" ref="per:149796">Uduy</name><lb/>
+war sehr verwundert, daß da er ja nur zu einem Höflichkeitsbesuch<lb/>
+gekommen ist, er selbst hat mit der UNIDO verhandelt, doch ein so<lb/>
+gutes Ergebnis aus der Besprechung herausgekommen ist.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Wir sollten mehr Kontakt mit den UNIDO-Be<lb break="no"/>suchern, die wahrscheinlich in größerer Anzahl kommen ständig haben.<lb/>
+</p>
+            <pb n="46-0171" facs="46_1979-02-09_0171.jpg"/>
+            <p xml:space="preserve">Die Fraktion der Direktoren und vor allem eine dreifache so große<lb/>
+Anzahl von Betriebsräten aus den EVU-Betrieben wollten sich zuerst<lb/>
+bei mir beschweren, daß wir jetzt über ein Jahr keine Besprechung<lb/>
+gehabt haben. Ich konnte verhältnismäßig leicht replizieren, denn<lb/>
+es wäre an ihnen gelegen, sich um einen Termin bei <name type="person" ref="per:98072">Wiesinger</name> zu<lb/>
+bemühen und sie hätten bestimmt sofort einen erhalten können. Der<lb/>
+einzige Grund ihrer Aussprache war, wie es jetzt mit den Beschäftigten<lb/>
+bei der GKT und KKWP weitergeht. Die GKT ist durch die Aufnahme<lb/>
+des kalorischen Kraftwerkes<add>[mit]</add> 430 MW formell gesichert, obwohl natür<lb break="no"/>lich nur ein Teil der Beschäftigten wirklich rationell eingesetzt<lb/>
+werden kann, trotzdem ist es aber besser als wie bei der KKWP, wo<lb/>
+überhaupt keine Arbeit mehr für die dort Beschäftigten besteht.<lb/>
+<name type="person" ref="per:97333">Bandhauer</name> bemüht sich sehr, aber auch <name type="person" ref="per:97865">Reisinger</name>, Wiener Stadtwerke,<lb/>
+und <name type="person" ref="per:115646">Hofstätter</name>, Kelag, bestätigten mir dies, alle Unternehmungen die<lb/>
+KKWP-Leute zu beschäftigen. Bis jetzt sind auch von den 40 eine<lb/>
+beim Verbund und zwei bei der NEWAG fix untergebracht. Für den Ver<lb break="no"/>band der Elektrizitätswerke Österreichs sind 10 in Aussicht und<lb/>
+können sofort übernommen werden, 6 wird jetzt Siemens übernehmen<lb/>
+mit einem Abstellungsvertrag, der bis 1979 zwar nur läuft, aber<lb/>
+wenn er nicht verlängert werden sollte, dann eben von E-Wirtschaft<lb/>
+übernommen wird. Ungelöst sind in Wirklichkeit nur mehr 13, wovon<lb/>
+6 Lohnrechner und Chauffeure sind, deren Unterbringung kein Problem<lb/>
+bedeuten würde. Wirklich problematisch wird es nur bei den höchst<lb break="no"/>angestellten Prokuristen, Handlungsbevollmächtigten usw. Unter anderem<lb/>
+hat <name type="person" ref="per:114380">Nischkauer</name> ohne den Namen zu nennen, den Fall <name type="person" ref="per:117619">Waldbrunner</name> ge<lb break="no"/>schildert, er hätte als Betriebsratsobmann gerade noch zustimmen<lb/>
+können, was <name type="person" ref="per:97333">Bandhauer</name> vorgeschlagen hat. Mit größter Verwunderung<lb/>
+wurde der Vorschlag aber von <name type="person" ref="per:117619">Waldbrunner</name> abgelehnt, <name type="person" ref="per:114380">Nischkauer</name><lb/>
+meinte, der kommt ihm nicht ins Haus. Ich habe sofort auch mit dem<lb/>
+KKWP-Betriebsratsobmann <name type="person" ref="per:141027">Landstätter</name> und <name type="person" ref="per:114380">Nischkauer</name> dann noch unter<lb/>
+sechs Augen gesprochen und gemeint er soll sich nicht festlegen,<lb/>
+auch für <name type="person" ref="per:117619">Waldbrunner</name> wird man eine Lösung finden müssen. Die KKWP-<lb/>
+Leute glauben und dies nicht zu Unrecht, wenn sie zusammenhalten<lb/>
+als Gruppe geschlossen auftreten, können sie mehr erreichen. Dies<lb/>
+gilt insbesondere für den zu erstellenden Sozialplan, der jetzt<lb/>
+auf meinen Vorschlag einmal von den Direktoren im Prinzip akzep<lb break="no"/>tiert werden sollte. Dort müßte man dann auch statuieren, daß<lb/>
+<pb n="46-0172" facs="46_1979-02-09_0172.jpg"/>wenn jemand früher die KKWP verläßt, sei es daß er sich selbst etwas<lb/>
+sucht oder eventuell vermittelt wird, nicht die Benefizien des<lb/>
+Sozialplanes der letzten Endes für alle gelten wird, verlieren soll.<lb/>
+Die GKT-Betriebsräte wollten dann noch wissen, wie es mit ihnen<lb/>
+weitergeht, <name type="person" ref="per:97333">Bandhauer</name> erklärte dezidiert, daß die GKT Eigentümer<lb/>
+dieses 430-MW-Blocks wird, daß sie aber damit schon gar nichts mehr<lb/>
+zusätzlich zu tun hat. Dieser Betrieb und das Errichten wird durch<lb/>
+die DKG, d.h. Korneuburger Gesellschaft durchgeführt. Sie wird alle<lb/>
+Rechnungen prüfen und bezahlen, die einzig offene Frage ist noch<lb/>
+welche Personalhoheit über die derzeitigen GKT-Mitarbeiter fest<lb break="no"/>gelegt wird.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Laß Dir von den Betriebsräten mit Ab<lb break="no"/>ständen berichten, wie es von ihrem Standpunkt aus weitergeht?<lb/>
+</p>
+            <p xml:space="preserve">Der Fachverband Mineralölwirtschaft <name type="person" ref="per:137297">Messinger</name> ist mit ihrem Sprecher<lb/>
+Gen.Dir. <name type="person" ref="per:97337">Bauer</name>, ÖMV, und allen Vertretern der internationalen Ge<lb break="no"/>sellschaften erschienen um ihr Memorandum zu übergeben. In diesem<lb/>
+Memorandum steht klipp und klar drinnen, daß, wenn es zu keiner<lb/>
+Preiserhöhung ihrer Produkte kommt, d.h. Neufestsetzung von Benzin<lb break="no"/>preisen durch die amtliche Preiskommission resp. freie Preise in<lb/>
+der Paritätischen Kommission, sie nicht die Versorgung aufrecht<lb/>
+erhalten können. Die Taktik, die sie sich beigelegt haben ist, ich<lb/>
+soll ihnen höhere Preise genehmigen, damit sie teureres Öl und<lb/>
+teurere Produkte kaufen können, dann ist es für sie möglich die<lb/>
+ausfallenden 10 %, die die freien Tankstellen jetzt nicht kriegen<lb/>
+werden, dann zu übernehmen. Sie sind fest davon überzeugt, daß die<lb/>
+freien Tankstellen in Kürze für die Versorgung ausfallen werden.<lb/>
+Jetzt schon verlangen diese von den Multis entsprechende Liefer<lb break="no"/>verträge. Als typisches Beispiel wurde die Firma AVANTI, Besitzer<lb/>
+<name type="person" ref="per:135654">Pruscha</name> angeführt, der hat vor einigen Tagen mir genau das Gegen<lb break="no"/>teil mitgeteilt, was sie jetzt von ihm behaupten. Er hätte in Genua<lb/>
+Öl raffinieren lassen, die dort erzeugten Mengen aber nicht nach<lb/>
+Österreich gebracht, sondern preis- und gewinngünstiger in die<lb/>
+Schweiz und in Italien selbst verkauft.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Laß bei <name type="person" ref="per:135654">Pruscha</name> über den wahren Sach<lb break="no"/>verhalt noch einmal nachfragen!<lb/>
+</p>
+            <pb n="46-0173" facs="46_1979-02-09_0173.jpg"/>
+            <p xml:space="preserve">Ich verwies darauf, daß <name type="person" ref="per:111707">Lambsdorff</name> in Deutschland jetzt gerade eine<lb/>
+beruhigende Erklärung herausgegeben hat, der ich mich zwar nicht<lb/>
+anschließe, aber die doch auch in der Öffentlichkeit sehr beachtet<lb/>
+wurde. Der Vertreter von Mobil, <name type="person" ref="per:114404">Ebeling</name>, meinte, <name type="person" ref="per:111707">Lambsdorff</name> könne<lb/>
+dies deshalb leicht tun, weil es dort eine freie Preisbildung gibt<lb/>
+und die Deutschen die Produktpreise schon etliche Male jetzt in der<lb/>
+letzten Zeit erhöht haben. Der Generaldirektor von British Petrol<lb/>
+BP, <name type="person" ref="per:97556">Hirnigel</name>, meinte, es wäre notwendig, daß die Energiesektion jetzt<lb/>
+ein Planspiel über die Versorgung der nächsten Monate, insbesondere<lb/>
+des 2. und 3. Quartals machen müßte. Nach seiner Meinung müßte<lb/>
+Mitte März die Kontingentierung der Multis eingeführt werden, um<lb/>
+die Versorgung einigermaßen sicherzustellen. Ich bin fest davon<lb/>
+überzeugt, wenn die Versorgungskontingentierung verlautbart wird<lb/>
+oder durchgeführt wird, entsteht genau derselbe Run auf die Tank<lb break="no"/>stellen, wie wir dies schon einmal erlebt haben, als die ÖMV erklärt<lb/>
+hat, sie kann nicht mehr 100 % ihrer Kapazität fahren. Ich denke<lb/>
+nicht daran, daß ich daher eine solche Mitteilung herausgeben werde.<lb/>
+Um den Vorwurf aber zu entgehen, daß ich nichts gemacht habe, er<lb break="no"/>klärte ich, daß ich innerhalb von 10 Tagen ihren Brief eingehend<lb/>
+beantworten werde, ich habe das Schreiben dann auch mit <name type="person" ref="per:107937">Frank</name> be<lb break="no"/>sprochen, der meinte, ein solches Planspiel wäre sehr zweckmäßig.<lb/>
+Nach reiflicher Überlegung muß ich sagen, ist die beste Lösung,<lb/>
+wenn ich den Vorsitzenden der Wirtschaftlichen Landesverteidigung,<lb/>
+<name type="person" ref="per:123328">Fenz</name>, sowie <name type="person" ref="per:98053">Wanke</name>, <name type="person" ref="per:107937">Frank</name> zu einer Sitzung einberufe. Termin<lb/>
+fixieren.<lb/>
+</p>
+            <p xml:space="preserve">Beim Jour fixe mit AK, ÖGB einigten wir uns, daß bezüglich Kunst<lb break="no"/>stoffröhren so schnell als möglich die Produktdeklaration mit<lb/>
+Hilfe des UWG erlassen wird. Die Handelskammer wurde zwar informell<lb/>
+einstweilen gefragt, doch hat <name type="person" ref="per:97584">Jagoda</name> zugesagt, er wird jetzt so<lb/>
+schnell als möglich das offizielle Begutachtungsverfahren ein<lb break="no"/>leiten.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Bitte dränge, daß der Fachverband so schnell<lb/>
+als möglich inoffiziell antwortet. <add>Mitte der Woche</add><lb/>
+</p>
+            <p xml:space="preserve">Ich teile der Arbeiterkammer mit, daß jetzt die Repräsentationskosten<lb/>
+der Bundeskammer überprüft werden, dadurch wird automatisch auch die<lb/>
+<pb n="46-0174" facs="46_1979-02-09_0174.jpg"/>Leistung der Bundeskammer für die Arbeiterkammer und zwar Delegations<lb break="no"/>teilnahme bei Außenhandelsvertragsverhandlungen, die die Bundes<lb break="no"/>kammer zahlt zur Sprache kommen. <name type="person" ref="per:98112">Zöllner</name> meint, dies sei ein Ver<lb break="no"/>hältnis wie 1 zu 10.000 daher würde das in der Öffentlichkeit<lb/>
+überhaupt keine Rolle spielen, diese Meinung teile ich nicht, denn<lb/>
+ich bin überzeugt, wenn das groß diskutiert wird, dann die überpartei<lb break="no"/>liche Presse darauf hinweisen wird, daß sowohl der Handelsminister<lb/>
+zur Bezahlung der ausländischen Minister, die ich eingeladen habe<lb/>
+als auch die Arbeiterkammer ihre Delegationsteilnahme von den AHF-<lb/>
+Beiträgen refundiert bekommt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Bereite Dich einstweilen auf diese Angriffe<lb/>
+vor.<lb/>
+</p>
+            <p xml:space="preserve">Übereinstimmend wird festgestellt, daß eine Regelung Strom nach<lb/>
+Ungarn zur Aluminiumproduktion und Bezahlung dann durch Aluminium<lb/>
+nach Österreich unreal<add>[-istisch]</add> ist. Wir haben Aluminium genug, Ranshofen<lb/>
+müßte gegebenenfalls ihren abgeschlossenen Vertrag mit Reynolds<lb/>
+Hamburg Aluminiumlieferung dann erfüllen. Dr. <name type="person" ref="per:97498">Grünwald</name>, ÖIAG, ist<lb/>
+leider auf Energieferien und kann daher zu diesem Problem keine<lb/>
+Stellung nehmen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Nächste Jour fixe AK/ÖGB wieder setzen,<lb/>
+wenn <name type="person" ref="per:97498">Grünwald</name> da ist.<lb/>
+</p>
+            <p xml:space="preserve">Bezüglich der Verordnungsausnahme von Preisauszeichnungspflicht<lb/>
+einigten wir uns, daß als Kompromiß statt 10.000 S Obergrenze<lb/>
+20.000 S festgesetzt und nicht wie beabsichtigt 25.000, plus<lb/>
+Marken pharmazeutische Spezialitäten in Apotheken werden nicht<lb/>
+in die Preisauszeichnungspflicht aufgenommen, obwohl dieser Vor<lb break="no"/>schlag von der Arbeiterkammer stammt. <name type="person" ref="per:98112">Zöllner</name> sieht ein, daß dies<lb/>
+nicht zweckmäßig ist. Die Heurigen-Buffet-Auszeichnung bleibt.<lb/>
+</p>
+            <p xml:space="preserve">Ein fast unlösbares Problem ist die Einbeziehung der Leasing-<lb/>
+Gesellschaften zur Kreditförderung. Einstimmung herrscht, es dürfte<lb/>
+nur das Subjekt gefördert werden, also die Maschine, nicht die<lb/>
+Gesellschaft, die Kontrolle ist nur, wie weit diese durch Zinsen<lb break="no"/>zuschuß doch verbilligte Maschine dann auch im Leasing an den<lb/>
+<pb n="46-0175" facs="46_1979-02-09_0175.jpg"/>Mieter weitergegeben wird. <name type="person" ref="per:97584">Jagoda</name> wird sich dies noch einmal genau<lb/>
+überlegen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Den endgültigen Entwurf noch einmal aufs<lb/>
+Jour fixe setzen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97627">Kienzl</name> teilt mit, daß er bereit ist, jetzt im Fremdenverkehr als<lb/>
+Vorsitzender eine neue Konzeption zu entwickeln. Hauptsächlich hat<lb/>
+er mit <name type="person" ref="per:111736">Zolles</name>, Österreichische Fremdenverkehrswerbung, abgesprochen,<lb/>
+daß notwendig ist, die Saison zu erstrecken.<lb/>
+</p>
+            <p xml:space="preserve">Die Firma Ford hat jetzt auch mit der Nationalbank Kontakt aufge<lb break="no"/>nommen, wahrscheinlich wollen sie doch entsprechende zusätzliche<lb/>
+Vergünstigungen noch erreichen. Ich persönlich bin sehr skeptisch,<lb/>
+daß es gelingen wird, Ford gegen die harte französische Konkurrenz<lb/>
+zu bekommen. Trotz des sehr freundschaftlichen Briefes, den <name type="person" ref="per:97668">Kreisky</name><lb/>
+von Ford bekommen hat, bin ich fast mehr den je überzeugt, daß sie<lb/>
+sich letzten Endes nach Lothringen setzen werden, da sie dort um<lb/>
+die Stahlarbeiter-Entlassungen ein wenig zu kompensieren, mit<lb/>
+gigantischen Unterstützung der französischen Regierung rechnen können.<lb/>
+</p>
+            <p xml:space="preserve">Eine lange Debatte entwickelt sich über die Möglichkeiten des Energie<lb break="no"/>sparens. <name type="person" ref="per:97627">Kienzl</name> ist fest davon überzeugt, daß es gar keine andere<lb/>
+Möglichkeit gibt, als unmittelbar nach der Nationalratswahl sofort<lb/>
+wieder die Inbetriebnahme von Zwentendorf zu betreiben. Hier gibt<lb/>
+er sich einer Illusion hin, wenn er glaubt auf Grund von Meinungs<lb break="no"/>umfragen einen entsprechenden Umschwung schon feststellen zu können.<lb/>
+Richtig ist und da wurde ich bestätigt, daß die Bevölkerung auf den<lb/>
+Hinweis vom <name type="person" ref="per:98003">Taus</name>-Plakat, man kann es umrüsten, sich hauptsächlich<lb/>
+aus diesem Grund gegen die Inbetriebnahme von Zwentendorf gestellt<lb/>
+haben. <name type="person" ref="per:97627">Kienzl</name> möchte deshalb so schnell als möglich, die offizielle<lb/>
+Bestätigung durch die Gutachter, daß ein Umrüsten nicht möglich ist.<lb/>
+Wir einigten uns aber dann doch darauf, daß in der Kernkraftfrage<lb/>
+bis zur Nationalratswahl keine Aktivitäten zu setzen ist, jedwede<lb/>
+Tätigkeit in welcher Richtung immer, kann nur den Ausgang der<lb/>
+Nationalratswahl gefährden. Ich bin fest davon überzeugt, daß selbst<lb/>
+wenn dies nicht in dem Ausmaß der Fall ist als manche befürchten,<lb/>
+es dann als gute Ausrede dient, die Wahlen sind verloren gegangen,<lb/>
+weil <name type="person" ref="per:97985">Staribacher</name> wieder mit der Kernkraftwerk-Problematik begonnen hat.<lb/>
+</p>
+            <pb n="46-0176" facs="46_1979-02-09_0176.jpg"/>
+            <p xml:space="preserve"><name type="person" ref="per:97627">Kienzl</name> teil offiziell mit, daß jetzt die bereinigte Zahlungsbilanz<lb/>
+ein Defizit von 6 Mrd. S 78 ergeben hat, das eigentlich niemand<lb/>
+erwartete. 18 Mrd. waren prognostiziert, 29 1/2 Mrd. waren ein Jahr<lb/>
+bevor, für heuer werden wieder 18 Mrd. erwartet, jetzt kann man aller<lb break="no"/>dings noch nichts sagen, weil die konjunkturelle Situation abge<lb break="no"/>wartet werden muß. Auf alle Fälle waren die 6 Mrd. ein schöner Erfolg<lb/>
+und <name type="person" ref="per:97311">Androsch</name> hat dies sehr geschickt benützt, indem er erklärt hat,<lb/>
+dies ist ausschließlich auf das Maßnahmenpaket der Bundesregierung<lb/>
+zurückzuführen. Richtig ist, daß entweder durch die 30 % Mehrwert<lb break="no"/>steuersatz, die sogenannte Luxussteuer und andere Maßnahmen<lb/>
+entweder die Leute weniger diese Produkte kaufen, dann muß das<lb/>
+Zahlungsbilanzdefizit zahlen oder wenn sie gekauft haben, dann ent<lb break="no"/>sprechende Budgeteinnahmen zu verzeichnen sein, daß theoretisch<lb/>
+eben wieder ermöglicht hätte, mehr Geld auszugeben. Tatsächlich<lb/>
+haben aber die Leute weniger im 78-er Jahr gekauft und er hat<lb/>
+aber trotzdem mehr Geld für die Wirtschaft, wie er immer sagt zur<lb/>
+Verfügung gestellt. Ein Grund warum die Defizit-Situation des Bundes<lb/>
+sich nicht verbessert hat und sicherlich auch nicht verbessern wird.<lb/>
+Wenn man bedenkt, welche Zusagen jetzt bereits wieder für Ford,<lb/>
+General Motors usw. gemacht wurden, dann muß sich die Staatsausgabe<lb/>
+wesentlich vergrößern und das Defizit muß wieder so groß werden<lb/>
+wie vergangenes Jahr, nämlich 50 Mrd. S.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="46_0169_01" facs="46_1979-02-09_0169-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 9.2.1979</head>
+         </div>
+         <pb n="46_0169_02" facs="46_1979-02-09_0169-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

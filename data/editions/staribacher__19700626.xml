@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der 26. Juni 1970</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band02_1970-06-26</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1970-06-26">Freitag, 26. Juni 1970</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-03-29">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-19" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-19" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+  <text xml:base="http://192.168.0.9/staribacher/src/scans/Band02/">
+      <body>
+         <pb n="02-0307" facs="02_1970-06-26_0307.jpg"/>
+         <div type="entry">
+            <dateline>
+               <date when="1970-06-26">Freitag, 26. Juni 1970</date>
+            </dateline>
+            <p xml:space="preserve">Der von mir einberufene Kraftfahrbeirat ist eine unbeweglich grosse<lb/>
+Versammlung. Sekt. Chef <name type="person">Habel</name> und Min.Rat <name type="person">Steinhardt</name> hatten die<lb/>
+Angst, dass diese Sitzung den ganzen Tag über dauern würde. Ich<lb/>
+konnte aber doch innerhalb von 3 Stunden die ganze Tagesordnung<lb/>
+durchboxen. Hauptsächlich kam es mir darauf an, den Beweis zu er<lb break="no"/>bringen, dass der Initiativantrag von <name type="person" ref="per:97769">Mussil</name> und Genossen, der aller<lb break="no"/>dings vom Ministerium ausgearbeitet wurde, deshalb zu Fall zu bringen<lb/>
+in dieser Organisation, damit wenn im Parlament debattiert wird, die<lb/>
+ÖVP erkennen muss, dass sie die Organisationen nicht mehr hinter sich<lb/>
+hat. Die Wünsche des ÖAMTC und des ARBÖ, die Überprüfung der Kraftfahr<lb break="no"/>zeuge in ihren Überprüfungszentren stiess auf den Widerstand der<lb/>
+Ländervertreter. Nur Vorarlberg und Tirol sprachen sich sehr positiv für<lb/>
+diese Idee aus, die anderen Bundesländer waren entweder zurückhaltend<lb/>
+oder wie Oberösterreich und Kärnten effektiv ablehend. Auch das Ver<lb break="no"/>langen der Ärzte, insbesondere der Landärzte, als bevorrechtete<lb/>
+Fahrzeuge zu gelten, wenn sie im Einsatz sind zu Kranken, und insbeson<lb break="no"/>dere Unfallverletzten, hatte nicht die ungeteilte Zustimmung des Kraft<lb break="no"/>fahrbeirates. Es gelang mit aber, in all diesenFragen, entsprechende<lb/>
+Kommissionen einzusetzen, die unverzüglich die Arbeit aufnehmen sollten<lb/>
+und entsprechende, administrativ mögliche Vorschläge zu erstatten.</p>
+            <p xml:space="preserve">Da am demselben Tag der Verfassungsgerichtshof eine Verordnung des<lb/>
+Handelsministeriums aufgehoben hatte, weil aus rein formellen Gründen<lb/>
+die entsprechende Gesetzesstelle nicht nach Art. 18 Bundesverfassung<lb/>
+genau die Verordnungsermächtigung determinierte und damit in Zukunft<lb/>
+die 100.- S, die für eine Überprüfung des Kraftfahrzeuges zu leisten<lb/>
+sind, nicht mehr eingehoben werden können, muss eine Novelle des Kraft<lb break="no"/>fahrgesetzes auf alle Fälle durchgeführt werden. Ebenso ist es dringendst<lb/>
+notwendig, dass eine Übergangsbestimmung im Gesetz festlegt, dass Ver<lb break="no"/>ordnungen, die das Handelsministerium erlässt, auch Übergangsbestimmun<lb break="no"/>gen aufnehmen kann. U.A. würde, wenn diese gesetzliche Ermächtigung<lb/>
+nicht vorliegt, und wir z.B. die Traktoren mit Überschlagsgeräten aus<lb break="no"/>rüsten wollen, um in Zukunft bei Überstürzen der Traktoren die Todes<lb break="no"/>fälle zu verringern, eine solche Verordnung unverzüglich verlangen<lb/>
+müssten, das 240.000 Traktoren sofort über Nach umgebaut sein müssten.</p>
+            <pb n="02-0308" facs="02_1970-06-26_0308.jpg"/>
+            <p xml:space="preserve">Eine solche Bestimmung ist undurchführbar, aber es gibt derzeit<lb/>
+keine gesetzliche Ermächtigung in der Verordnung eine Übergangszeit<lb/>
+festzulegen.<lb/>
+Min.Rat <name type="person">Steinhardt</name> kam nach der Sitzung zu mir, um mir auseinanderzu<lb break="no"/>setzen, welche technischen und zeitlich vor allem unmögliche Schwierig<lb break="no"/>keiten es bereiten würde, diese Forderungen des Kraftfahrverbände und<lb/>
+der sonstigen Stellen in das Gesetz aufzunehmen. Ich erklärte ihm,<lb/>
+dass wir dies aber unbedingt machen müssten, da im Hebrst ein solcher<lb/>
+Gesetzesvorschlag über uns dem Parlament zugeleitet werden sollte.<lb/>
+Auf seine Anfrage, was mit dem Initiativ antrag geschehen üwrde,<lb/>
+sagte ich, das könnte ich nicht klären und auch nicht entscheiden,<lb/>
+auf aller Fälle aber müsstenwir von Seiten der Regierung und vor allem<lb/>
+von Seiten des Handelsministeriums entsprechende gesetzliche notwendige<lb/>
+Vorschläge an das Parlament erstatten.</p>
+            <p xml:space="preserve">Bei der Vorsitzübergabe vom Wirtschafts- und Sozialbeirat hatte ich<lb/>
+Gelegenheit mit <name type="person" ref="per:97937">Seidel</name> über das Programm des Instituts für Wirtschafts<lb break="no"/>forschung betreffend unseren Auftrag, zu sprechen. <name type="person" ref="per:97749">Mitterer</name> hatte<lb/>
+bekanntlicherweise dem Wirtschaftsforschungsinstitut einen Millionen<lb break="no"/>auftrag über eine Industriestudie zugesichert. <name type="person" ref="per:97937">Seidel</name> stimmte mir voll<lb break="no"/>kommen zu, dass es ihm viel lieber ist, wenn er Detailuntersuchungen<lb/>
+kriegen würde, die er allerdings nicht mehr in diesem Jahr abschliessen<lb/>
+könnte. Um nun die finanzielle Auszahlung zu ermöglichen, hatte er<lb/>
+mit <name type="person" ref="per:97749">Mitterer</name> scheinbar vereinbart – oder mit <name type="person" ref="per:97493">Gröger</name> nehme ich eher an –<lb/>
+dass er gegebenenfalls einen Teil Arbeit leistet und dafür den Betrag<lb/>
+ausbezahlt erhält. Ich erklärte ihm sofort, dass 1 Mio S sowieso<lb/>
+keinesfalls im Budget vorgesehen seien, sondern ein wesentlich geringerer<lb/>
+Betrag, und er wird einen diesbezüglichen Vorschlag jetzt über das<lb/>
+Programm, welches er in Arbeit nehmen will, erstattet. Ich hatte<lb/>
+dem Wirtschafts- und Sozialbeirat noch zugesichert, dass ich dies<lb/>
+im engesten Einvernehmen mit ihnen machen würde.</p>
+            <p xml:space="preserve">Bei der Sitzung, wo <name type="person" ref="per:126405">Klose</name> noch den Vorsitz führte, war von Seiten der<lb/>
+Bundeskammer sowieso vorgechlagen worden, dass die Arbeit im Sozial<lb break="no"/>beirat auch in diesem Sektor Industriepolitik fortgesetzt werden sollte.<lb/>
+Ich stimmte dem sofort zu. Ebenso wurde der Vorschlag, eine Studie über<lb/>
+die Mehrwertsteuer und eine Regionalstudie auszuarbeiten, akzeptiert.</p>
+            <pb n="02-0309" facs="02_1970-06-26_0309.jpg"/>
+            <p xml:space="preserve">Betreffend die Wettbewerbsfragen, wo eine Arbeitsgruppe, die<lb/>
+allerdings sehr inaktiv ist, unter Geschäftsführung <name type="person" ref="per:133082">Auracher</name> ar<lb break="no"/>beitet, wurde beschlossen, dass diese Wettbewerbsfragen neuerdings<lb/>
+in Angriff genommen werden sollte. <name type="person" ref="per:126405">Klose</name> allerdings machte die sehr<lb/>
+interessante Bemerkung, dass wenn diese Arbeitsgruppe überhaupt ein<lb/>
+Ergebnis liefert, so wahrscheinlich zu spät kommt, da der Handels<lb break="no"/>minister, der die Gewerbeordnung jetzt in Angriff nimmt und wahr<lb break="no"/>scheinlich zu einem Ergebnis früher kommt, als die Arbeitsgruppe<lb/>
+die Studie über,Wettbewerbsfragen tatsächlich vorlegen kann.</p>
+            <p xml:space="preserve">Der französische Botschafter <name type="person" ref="per:97690">Leduc</name> kam mit dem Handelsrat, um mir<lb/>
+mitzuteilen, dass es zweckmässig wäre, die Österreichisch<lb break="no"/>-französische Gemischte Kommission für Herbst wieder einzuberufen. Da diese<lb/>
+aber erst im Frühjahr in Paris getagt hat, schlug Min.Rat <name type="person" ref="per:108322">Meisl</name><lb/>
+vor, diese erst vor Ostern des Jahres 1971 nach Wien einzuberufen.<lb/>
+In der Zwischenzeit könnte die Zusage der Franzosen geklärt werden,<lb/>
+ob und inwieweit sie gegebenenfalls in Ergänzung oder in Kompen.<lb/>
+sation für unsere Rüstungskäufe in Frankreich ebenfalls bei uns –<lb/>
+seien es Patronen in Hirtenberg oder gegebenenfalls Puch-Haflinger<lb/>
+oder sonstige Frahzeuge – kaufen. Unsere Handelsbilanz gegenüber Frank<lb/>
+reich ist ja derzeit mit l Mia S aktiv und es wäre dringend notwen<lb break="no"/>dig, sie entsprechende abzubauen. Der franzöische Botschafter<lb/>
+konnte keinerlei Vorschläge machen und als ich ihm andeutete, dass<lb/>
+grosse Switch-Geschäfte derzeit im Gange sind, die in die<lb/>
+Hunderte Millionen Dollar gehen, konnte ich feststellen, ohne dass<lb/>
+ich den Namen nannte, dass er weder unseren Vermittler, noch eigent<lb break="no"/>lich das Geschäft überhaupt gekannt hat. Als <name type="person" ref="per:97867">Reiterer</name> versuchte,<lb/>
+die Frage auf die EWG-Problematik zu bringen, hatte der Botschafter<lb/>
+nur sehr zurückhaltend geantwortet und sich dann empfohlen.</p>
+            <p xml:space="preserve">Dr. <name type="person" ref="per:146295">Fink</name> von der <choice><choice><sic>Hotel- und Treuhand</sic><corr>Hotel-Treuhand</corr></choice></choice> AG, gleichzeitig auch im Frem<lb break="no"/>denverkehr Leiter der Sektion, hatte sich bei mir angemeldet, um mir<lb/>
+erstens die Aufwertung zu machen, aber wie sich dann herausstellte,<lb/>
+auch seine Sorgen vorzutragen, da wir nur 150 Mio S ERP-Mittel<lb/>
+für den Fremdenverkehr zur Verfügung haben, er aber Anträge für<lb/>
+300 Mio S jetzt bereits vorliegen hat. Seine Idee ist es nun,<lb/>
+wie im Jahre 1955, eine sogenannte Bankenaktion zu starten, d.h.</p>
+            <pb n="02-0310" facs="02_1970-06-26_0310.jpg"/>
+            <p xml:space="preserve">zu diesem Zeitpunkt 1955 hatte er mit <name type="person" ref="per:97604">Joham</name> von der CA vereinbart,<lb/>
+dass dieser 90 Mio S für Investitionen im Fremndenverkehr der Ostgebiete<lb/>
+zur Verfügung stellt. Ich kann mir nicht vorstellen, wie dies möglich<lb/>
+war, da die Hauptschwierigkeit ja darin liegt, die entsprechende Zins<lb break="no"/>herabsetzung zu finanzieren. Der ERP-Kreditzins beträgt 5 % und ich<lb/>
+bon gespannt, ob er imstande ist, eine Stelle zu finden, die diese<lb/>
+Differenz von derzeit zumindest 8,5 % auf 5 % herabzusubventionieren.</p>
+            <p xml:space="preserve">Beim Empfang für die UNO 25 Jahre – Festveranstaltung wurden wir über<lb break="no"/>rascht, dass eine ausserodentliche Ministerratsvorbesprechung stattfinden<lb/>
+sollte. Die noch in Wien anwesenden Minister kamen bei <name type="person" ref="per:97668">Kreisky</name> zusammen<lb/>
+und dieser erklärte uns, dass sich scheinbar eine Staatskrise heranbildet.<lb/>
+<name type="person" ref="per:98091">Withalm</name> hätte ihm heute mitgeteilt, dass infolge der Entscheidung des<lb/>
+Verfassungsgerichtshofes derzeit das Parlament nicht mehr 165 Abgeordnete<lb/>
+besitzt und deshalb auch nach Beschluss des ÖVP-Präsidiums keinerlei<lb/>
+Sitzungen und Gesetze mehr stattfinden sollten. Nach Auffassung der ÖVP<lb/>
+hätte die Regierung keine Chance mehr, die so notwendigen Gesetze im<lb/>
+Parlament auch beschlossen zu bekommen. Dies besitzt sich vor allem<lb/>
+auf das Kompetenzgesetz, aber was unserer Meinung wirklich kritischer<lb/>
+ist, auch auf die Pensionsbestimmungen für den öffentlichen Dienst. Die<lb/>
+Witwenpensionen werden mit 1.Juli von 50 auf 55 % angehoben und würden<lb/>
+für alle Witwen, nur nicht für die der öffentlich Bediensteten gelten.<lb/>
+Der Vorschlag von <name type="person" ref="per:98091">Withalm</name>, dies gegebenenfalls rückwirkend zu einem<lb/>
+späteren Zeitpunkt zu beschlissen, kann nicht genug angeprangert werden<lb/>
+da die ÖVP bis jetzt immer erklärt hat, im Sinne der Rechtsstaatlichkeit<lb/>
+seien rückwirkende Gesetze womöglich nicht zu beschliessen. Interessant<lb/>
+ist, dass wie wir uns im Fernsehen überzeugen konnten, <name type="person" ref="per:97714">Maleta</name> eine andere<lb/>
+Haltung einnimmt, als die die uns <name type="person" ref="per:97668">Kreisky</name> von <name type="person" ref="per:98091">Withalm</name> erzählte. <name type="person" ref="per:97714">Maleta</name><lb/>
+selbst hat sich ja mit der Geschäftsführung betrauen lassen. <name type="person" ref="per:98043">Waldbrunner</name><lb/>
+hat in einer feierlichen Sitzung die Geschäfte ihm übertragen und <name type="person" ref="per:97714">Maleta</name><lb/>
+erklärte auch deshalb, die Kontinuietät des Parlamentes müsste unbedingt<lb/>
+aufrechterhalten bleiben. Es ist in Österreich bekanntlicherweise schon<lb/>
+1933 als damalas alle drei Präsidenten zurückgetreten sind, zu einer<lb/>
+Parlamentskrise und in weiterer Folge zu einer Staatskrise gekommen. Ich<lb/>
+glaube nicht, dass die derzeitige politische Lage eine solche Gefahr be<lb break="no"/>inhaltet, aber es ist richtig, dass man genug frühzeitig aufpassen kann,<lb/>
+um eine Parlamentarismus aufrechtzuerhalten, der gegebenenfalls aus<lb/>
+<pb n="02-0311" facs="02_1970-06-26_0311.jpg"/>irgendwelchen Entscheidungen ausgeschaltet werden könnte.<lb/>
+<name type="person" ref="per:97488">Gratz</name> vertrat mit Recht die Meinung, dass es besser ist,<lb/>
+ein schlechtes und nicht vollständiges Parlament zu haben, als<lb/>
+gar keines, denn dann besteht unmittelbar die viel grössere<lb/>
+politische Gefahr, dass irgendwelche notwendigen Beschlüsse zu<lb/>
+fassen sein könnten, die dann nicht gefasst werden können, denn<lb/>
+wenn das Parlament nicht mehr – wie das Prof. <name type="person" ref="per:117925">Winkler</name> <add>[evtl. Falschidentifikation, Anm.]</add> jetzt so<lb/>
+gerne erzählt – existiert, das heisst nicht mehr vollzählig<lb/>
+und damit auch nicht beschlussfähig ist, dann könnte – wenn eine<lb/>
+Krisensituation eintritt – man natürlich auch auf dem Stndpunkt<lb/>
+stehen, das Parlament ist eben nicht existent. Dann mit Notver<lb break="no"/>ordnungen zu arbeiten ist auch deshalb sehr schwierig, weil bekannt<lb break="no"/>licherweise diese Notverordnungen innerhalb von 4 Wochen vom National<lb break="no"/>rat bestätigt werden oder verworfen werden müssen. Man sieht, dass<lb/>
+der Verfassungsgerichtshof, der rein formell die Mandate nur aufgehoben<lb/>
+hat und die ungeteilte Zustimmung der öffentlichen Meinung zumin<lb break="no"/>destens soweit sie in den Zeitungen repräsentiert ist, gefunden hat,<lb/>
+dass dieser Entscheidung doch sehr dürftig gewesen ist, weil er über<lb/>
+die weitere Tätigkeit der Abgeordneten und des Parlamentes über<lb break="no"/>haupt nichts ausgesagt hat.</p>
+         </div>
+      </body>
+    
+  </text>
+</TEI>

@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der  7. April 1978</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band42_1978-04-07</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1978-04-07">Freitag, 7. April 1978</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2017-05-08">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="42-0367" facs="42_1978-04-07_0367.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Freitag, 7. April 1978<lb/>
+</p>
+            <p xml:space="preserve">Der neue kubanische Geschäftsträger berichtet, dass der Staats<lb break="no"/>sekretär <name type="person" ref="per:114155">Trojber</name> nach Österreich kommen möchte. Seinerzeit hatte<lb/>
+ich den zuständigen Minister eingeladen, der jetzt aber scheinbar gar<lb/>
+nicht mehr im Amt ist. <name type="person" ref="per:98075">Willenpart</name> versuchte zu klären, ob von den<lb/>
+Firmen VOEST, Vereinigte Edelstahlwerke und Voith man sich mit dem<lb/>
+Staatssekretär begnügt oder doch erwartet, dass der jetzige Minister<lb/>
+<name type="person" ref="per:114154">Llompart</name> kommt. Mir persönlich ist es wirklich ganz egal. Die Ein<lb break="no"/>ladung erfolgte ausschliesslich auf Interesse der Firmen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Berichte bitte, wie dies weitergeht.<lb/>
+</p>
+            <p xml:space="preserve">Der Präsident des Europäischen Patentamtes <name type="person" ref="per:114152">van Benthem</name> war sehr<lb/>
+besorgt, ob Österreich dem Europäischen Patentamt beitreten wird.<lb/>
+Präs. <name type="person" ref="per:97688">Leberl</name> dürfte ihn über die Schwierigkeiten genau informiert<lb/>
+haben, die wir mit der Patentanwaltskammer und indirekt auch<lb/>
+jetzt mit der Handelskammer haben. Ich schilderte ihm freimütig die<lb/>
+österreichische Situation, erklärte aber dezidiert, dass ich nach<lb/>
+einer letzten Aussprache mit allen Interessensvertretungen und der<lb/>
+Patentanwaltskammer den Ratifizierungsantrag über die Regierung dem<lb/>
+Parlament zuleiten werde. Zu meiner grössten Verwunderung war auch<lb/>
+bei dieser Vorsprache Dr. <name type="person" ref="per:114153">Kasch</name> von der Bundeshandelskammer, den ich<lb/>
+persönlich gar nicht kannte. Zum Glück habe ich nicht die Gewohnheit,<lb/>
+über Probleme je nach Anwesenheit der Teilnehmer, oder gar wo ich<lb/>
+diese Aussprache habe anders zu sprechen. Als <name type="person" ref="per:114153">Kasch</name> sich zu er<lb break="no"/>kennen gab, konnte ich deshalb einerseits bluffen und sagen, natür<lb break="no"/>lich kenne ich sie, und andererseits dann gleichzeitig erklären,<lb/>
+sie sehen wie objektiv ich die Sache darstelle. Tatsache ist, dass<lb/>
+die Handelskammer stets für eine Ratifizierung war, jetzt aber durch<lb/>
+die Patentanwaltsvertretung versucht im Interesse der Wirtschaftsbund<lb break="no"/>mitglieder eine zweischneidige Haltung einzunehmen. Die Handelskammer<lb/>
+will auch noch 2.000 Unternehmer fragen, was sie zum europäischen<lb/>
+Patentbeitritt für eine Meinung haben. Genau die erwartete, keines<lb break="no"/>wegs eindeutige Haltung der Handelskammer und des Wirtschafts<lb break="no"/>bundes, wie ich es erwartet habe, <choice><choice><sic>ich</sic><corr>ist</corr></choice></choice> eingetreten.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:111994">HIRSCH</name>: Bitte alle Vorkehrungen treffen, damit ich<lb/>
+nach dem letzten Gipfelgespräch sofort den Ministerratsentwurf habe.<lb/>
+</p>
+            <pb n="42-0368" facs="42_1978-04-07_0368.jpg"/>
+            <p xml:space="preserve">Gen.Dir. <name type="person" ref="per:112054">Buchner</name> und Dr. <name type="person" ref="per:112049">Rimsky</name>, Chemie Linz, bringen entsprechendes<lb/>
+Material, das zeigen soll, die Gaspreise, die sie bezahlen müssen,<lb/>
+überhöht sind. Chemie Linz ist mit einigen Prozent auch Teilhaber<lb/>
+der Österreichischen Ferngas. Dadurch kennen sie die Gewinne der<lb/>
+Landesgasgesellschaften. Da die Industriellenvereinigung, aber auch<lb/>
+die Handelskammer jetzt immer mehr gegen Chemie Linz wegen bevorzug<lb break="no"/>ter Gaspreislieferung Stellung nimmt, will <name type="person" ref="per:112054">Buchner</name> trotz alledem<lb/>
+die amtliche Preisbehörde überzeugen, dass er nicht höhere Preise<lb/>
+bezahlen kann und soll als sich auf Grund der Kalkulationen für<lb/>
+die RAG und die OÖ Ferngas ergibt. Die beste Lösung erschiene ihm,<lb/>
+wenn die ÖMV ihre inländischen Gasmengen dazu benützt, um Ammoniak<lb break="no"/>produkte selbst zu erzeugen, was sie nach den Verträgen mit den<lb/>
+Gasgesellschaften ohne weiteres könnte, und dadurch auf der einen<lb/>
+Seite Gas zweckmässiger verwenden und den Stickstoffwerken dann<lb/>
+billiger Halbfabrikate verrechnen könnte. Diese Idee würde auch<lb/>
+die Zustimmung von Arbeiterkammer und Gewerkschaftsbund finden,<lb/>
+wie ich nachmittags beim Jour-fixe feststellen könnte. Die Be<lb break="no"/>hauptung des Präsidenten der OÖ Ferngas, <name type="person" ref="per:114157">Kalinger-Alzinger</name>, Reform<lb break="no"/>werk Wels, dass es sich bei der OFG um eine non profit-Gesellschaft<lb/>
+handelt, ist, glaube ich, nicht aufrecht zu erhalten.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name>: Bitte eine schriftliche Stellungnahme der Chemie<lb/>
+Linz offiziell für die Preisbehörde verlangen.<lb/>
+</p>
+            <p xml:space="preserve">Die sowj. Handelsdelegation <name type="person" ref="per:114158">Malinow</name> überreicht neuerdings eine Denk<lb break="no"/>schrift, wo sie gegen die Diskriminierung sowj. Waren durch Zollbela<lb break="no"/>stungen im Vergleich zu EFTA und EG-Staaten Lieferungen protestiert.<lb/>
+Teils sind darin Produkte aufgenommen, wie z.B. Fotoapparate, die<lb/>
+jetzt bereits auf Grund des § 6 Zollgesetzes geregelt sind. Teils<lb/>
+handelt es sich um Forderungen, wie PKW-Importe, die wahrscheinlich,<lb/>
+weil der Finanzminister dies beim letzten Mal schon machen wollte,<lb/>
+tatsächlich abgesenkt werden können. Die grosse Schwierigkeit<lb/>
+wird es aber bei den sonstigen Wünschen, insbesondere Maschinen<lb/>
+geben, da das Finanzministerium nicht geneigt ist, hier ent<lb break="no"/>sprechend entgegen zu kommen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name> UND <name type="person" ref="per:97819">PLESCH</name>: Bitte mit Finanzministerium die<lb/>
+Frage prüfen, damit man dem sowj. Wunsch entgegenkommen kann.<lb/>
+</p>
+            <p xml:space="preserve">Der spanische Staatssekretär für Fremdenverkehr <name type="person" ref="per:114159">Aguirre</name>, den ich auf<lb/>
+Wunsch von unseren Botschafter <name type="person" ref="per:114156">Hinteregger</name>, Madrid, eingeladen habe,<lb/>
+<pb n="42-0369" facs="42_1978-04-07_0369.jpg"/>erwartete, dass sein Besuch mit Paraphierung, er sagte sogar,<lb/>
+er könnte unterschreiben, des Abkommens zwischen Spanien und Öster<lb break="no"/>reichs enden würde. Österreich ist an diesem Abkommen deshalb be<lb break="no"/>sonders interessiert, so behauptet <name type="person" ref="per:111367">Würzl</name>, weil erstmalig in einem<lb/>
+solchen Abkommen die Stellung der Österr. Fremdenverkehrswerbung in<lb/>
+Madrid geregelt wird. Die Steuerbefreiung von gewissen Steuern,<lb/>
+die Beschäftigung österr. Arbeitskräfte sollte dadurch ermöglicht<lb/>
+werden. Da dies aber auch für Spanier in Österreich gilt, haben<lb/>
+wir gewisse Schwierigkeiten mit dem Finanzministerium und Sozial<lb break="no"/>ministerium. Derzeit profitiert Spanien vom Tourismus mehr als<lb/>
+umgekehrt. 51.000 Grenzübertritte Spanier nach Österreich, aber<lb/>
+130.000 Österreicher nach Spanien. Da die Spanier nur 118.000 Über<lb break="no"/>nachtungen erbringen, ist es für mich klar, dass es sich haupt<lb break="no"/>sächlich um Geschäftsreisende handelt, die kurzfristig 1–2 Tage<lb/>
+nur in Österreich bleiben. Andererseits kann man mit Garantie an<lb break="no"/>nehmen, dass die Österreicher, wenn sie nach Spanien fahren,<lb/>
+mindestens 14 Tage dort bleiben. Die Übernachtungsziffern, die die<lb/>
+Spanier nicht zählen, müssten ein Verhältnis 1:10 leicht ergeben.<lb/>
+Spanien hat allerdings erst seit 1951 einen Aufschwung, denn<lb/>
+damals zählte man 1 Mio Gäste, im vergangenen Jahr waren es 35 Mio<lb/>
+und heuer sollen es sogar 37 Mio werden, bei 4 Mia Dollar Fremden<lb break="no"/>verkehrseinnahmen. Wenn man bedenkt, dass Österreich fast auch<lb/>
+dieselben Deviseneinnahmen hat, kann man die Bedeutung des Tourismus<lb/>
+und die Spitzenstellung Österreichs daraus klar und deutlich erkennen<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: <name type="person" ref="per:114156">Hinteregger</name> soll uns am Laufenden halten.<lb/>
+</p>
+            <p xml:space="preserve">Beim Jour-fixe mit Arbeiterkammer und ÖGB berichtete Dr. <name type="person" ref="per:114160">Psota</name> vom<lb/>
+Gesundheitsministerium die Schwierigkeiten, die er mit der dortigen<lb/>
+Bürokratie hat. Die Regierung hat beschlossen, dass die Lebens<lb break="no"/>mittelimporte strenger kontrolliert werden sollen, ob sie den österr.<lb/>
+Gesetzen entsprechen. Mit 1.1.79 soll jetzt sogar eine neue Konser<lb break="no"/>vierungsverordnung in Kraft treten. Die GuSCH-Beamten, aber auch<lb/>
+<name type="person" ref="per:97808">Petuely</name> sollen nur eine nachlaufende Kontrolle und nicht eine<lb/>
+präventive. <name type="person" ref="per:114160">Psota</name> möchte dass bereits an der Grenze, wie auch die Re<lb break="no"/>gierung beschlossen hat, stichprobenartig geprüft wird, <name type="person" ref="per:97808">Petuely</name><lb/>
+möchte aber gelegentliche Beschlagnahmen und dann gleich Anzeigen<lb/>
+bei Gericht, vereinzelt bei den österr. Händlern. 1977 hat <name type="person" ref="per:97808">Petuely</name><lb/>
+252 Kontrollen bei Obst und Gemüse gezogen und dort nur auf Pestizide<lb/>
+untersucht. 150 sind beanstandet worden. <name type="person" ref="per:114160">Psota</name> hat auch grosse bud<lb break="no"/><pb n="42-0370" facs="42_1978-04-07_0370.jpg"/>getäre Schwierigkeiten. Die im Budget vorgesehenen Mittel sind<lb/>
+für die Importmeldeverordnung, die seiner Meinung mach kaum<lb/>
+etwas bringt, bereits verbraucht. In St. Marx wird jetzt mit<lb/>
+Mitte des Jahres eine eigene Untersuchungsanstalt eröffnet, die<lb/>
+entsprechende Kontrollen durchführen könnte. Die Frage ist<lb/>
+nur, wie kann man diese finanziell absichern, denn die Gemeinde<lb/>
+Wien, Stadtrat <name type="person" ref="per:109290">Mayr</name>, ist nicht bereit, alles auf die Dauer zu be<lb break="no"/>zahlen. ÖGB und AK werden <name type="person" ref="per:107938">Leodolter</name> auffordern, <name type="person" ref="per:114160">Psota</name> in jeder<lb/>
+Beziehung zu unterstützen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97819">PLESCH</name>: Unsere Branchenreferate sollen bei den GuSCH<lb break="no"/>Beamten auch entsprechende Forderungen stellen.<lb/>
+</p>
+            <p xml:space="preserve">Endlich wird übereinstimmend festgestellt, dass es zielführend ist,<lb/>
+die Nettopreisverordnung für Möbel auslaufen zu lassen. Bis jetzt<lb/>
+hat zwar der Gewerkschaftsbund diese Idee stets vertreten, die Arbei<lb break="no"/>terkammer aber dagegen grösste Bedenken gehabt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Bitte die aktmässige Erledigung vorbereiten.<lb/>
+</p>
+            <p xml:space="preserve">Übereinstimmend wird festgehalten, dass die Preiserhebungen von den<lb/>
+Landespreisbehörden nicht automatisch veröffentlicht werden. Dies<lb/>
+sollte nur fallweise nach eingehender Rücksprache mit mir erfolgen.<lb/>
+Die Erhebungen sollen aber selbstverständlich dem Preisunterausschuss<lb/>
+zur Verfügung gestellt werden. Voraussetzung dafür ist, damit die<lb/>
+Handelskammer mich nicht attackiert und die Landespreisbehörden<lb/>
+vielleicht dann gar ihre Erhebungen einstellen, dass der Preis<lb break="no"/>unterausschuss eine diesbezügliche Anforderung an das Ministerium<lb/>
+richtet. Zur Koordination all dieser Preisfragen wird von der Preis<lb break="no"/>abteilung <name type="person" ref="per:114161">Salomon</name> herangezogen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97584">JAGODA</name> UND <name type="person" ref="per:109811">BURIAN</name>: Bitte entsprechende Veranlassung<lb/>
+treffen<lb/>
+</p>
+            <p xml:space="preserve">Die Koordination für Preisaktionen durch <name type="person" ref="per:114161">Salomon</name> ist deshalb auch<lb/>
+notwendig, weil die Beschwerde der Kleinhändler wegen der Angriffe<lb/>
+der Arbeiterkammer gegen die teuren Osterhasen als berechtigt an<lb break="no"/>erkannt werden. Richtig ist, dass 1 kg Schokolade durch die Dünn<lb break="no"/>wandigkeit der Osterhasen auf 500 Schilling kommt. Genauso richtig<lb/>
+ist aber die Beschwerde der Kleinhändler, dass die Arbeiterkammer<lb/>
+sich nur gegen gewisse wendet, und zwar zu einem Zeitpunkt, wo der<lb/>
+Kleinhandel sich nicht wehren kann und durch die Veröffentlichung<lb/>
+<pb n="42-0371" facs="42_1978-04-07_0371.jpg"/>eine Geschäftsstörung erleidet. Die Osterartikel waren heuer<lb/>
+um 10% teurer, mussten dann aber durch die Aufklärung der Arbeiter<lb break="no"/>kammer mit Rabatten bis über 20% abgegeben werden. Wir einigten<lb/>
+uns, dass jetzt bereits wegen der Krampus- und Weihnachtsware<lb/>
+mit dem Fachverband der Süsswarenindustrie Besprechungen aufge<lb break="no"/>nommen werden sollen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Bitte nimm ebenfalls daran teil.<lb/>
+</p>
+            <p xml:space="preserve">Die Arbeiterkammer stimmt zu, dass Bruchreis in die GATT-Kündigung<lb/>
+aufgenommen wird. Der Aussenschutz von 623 Schilling kann nämlich<lb/>
+nur dann wirksam werden, wenn die 7 Schilling GATT-Zoll Bindung<lb/>
+wegfällt. Es ist noch genau zu prüfen, ob die Handelskammer bereit<lb/>
+ist, der GATT-Kündigung zuzustimmen, da ein 15.000 Tonnen abschöpfungs<lb break="no"/>freies Jahreskontingent für die Brauereien keinesfalls akzeptiert<lb/>
+werden kann.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97819">PLESCH</name>: Bitte interministeriell abhandeln, vorher aber<lb/>
+bei der Handelskammer klären, ob sie tatsächlich zustimmt.<lb/>
+</p>
+            <p xml:space="preserve">Die Gaspreisregelung, insbesondere aber der Vorschlag der Chemie<lb/>
+Linz wird allgemein zugestimmt. Auch die Preisbestimmung für die<lb/>
+kleinen Elektrizitätswerke durch die Landeshauptleute, d.h. der<lb/>
+Delegierung, ein Wunsch der Arbeiterkammer, wird mit Befriedigung<lb/>
+zur Kenntnis genommen.<lb/>
+</p>
+            <p xml:space="preserve">ÖGB und AK beschweren sich bitter bei mir, dass ihr Wunsch, die<lb/>
+Kreditvermittler im Kreditwesensgesetz zu erfassen, vom Finanz<lb break="no"/>ministerium im jetzigen Ministerratsentwurf nicht enthalten ist.<lb/>
+<name type="person" ref="per:98112">Zöllner</name> erscheint dies umso unerklärlicher, als bei einer Vorsprache<lb/>
+der Finanzminister ausdrücklich den Wunsch der Arbeiterkammer akzep<lb break="no"/>tierte. Dr. <name type="person" ref="per:114075">Schmidt</name> wird mit <name type="person" ref="per:97346">Benya</name> nochmals darüber reden, damit<lb/>
+kommende Woche im Ministerrat der Entwurf nicht in der jetzigen<lb/>
+Fassung dem Parlament zugeleitet wird. Wenn nämlich die Kredit<lb break="no"/>vermittler heraussen sind, wird es sehr schwierig sein, im Parlament<lb/>
+dann noch eine Änderung herbeizuführen.<lb/>
+</p>
+            <p xml:space="preserve">Die Ö-Norm-Änderung kann nur im Einvernehmen mit dem Verkehrs-<lb/>
+und ganz besonders Bautenministerium erfolgen, weshalb <name type="person" ref="per:98053">Wanke</name> mit<lb/>
+<pb n="42-0372" facs="42_1978-04-07_0372.jpg"/>seinen Leuten diesbezügliche Verhandlungen weiterführt. AK und<lb/>
+ÖGB möchten am liebsten so schnell als möglich diese Novelle.<lb/>
+</p>
+            <p xml:space="preserve">Bezüglich Herkunftszeichen und Qualitätszeichen gibt es ebenfalls<lb/>
+zwischen dem Handels- und Bautenministerium differente Auffassungen.<lb/>
+Nach Meinung von <name type="person" ref="per:97646">Koppe</name> ist dies eine Angelegenheit des Markenrechts<lb/>
+resp. Produktdeklaration und untersteht eindeutig dem Handelsministeri<lb break="no"/>um, MR <name type="person" ref="per:114162">Jelinek</name> vom Bautenministerium aber kann gestützt auf die Reichs<lb break="no"/>verordnung des seinerzeitigen Landwirtschaftsministers <name type="person" ref="per:112959">Darré</name> be<lb break="no"/>haupten, dass dies eine Kompetenz des Bautenministers ist. Im Bauten<lb break="no"/>ministerium könnte man noch mit Dr. <name type="person" ref="per:114163">Schubert</name>, der sich für die<lb/>
+Austrofizierung des österr. Gütezeichenrechtes verantwortlich fühlt,<lb/>
+reden. Ich fürchte aber, dass es dann dort einen Kompetenzstreit gibt,<lb/>
+der letzten Endes zugunsten <name type="person" ref="per:114162">Jelinek</name> entschieden wird. Da die Handels<lb break="no"/>kammer jetzt auch nicht mehr an einer gesetzlosen Regelung interes<lb break="no"/>siert ist, erscheint es mir viel zweckmässiger, auf Grund der jetzigen<lb/>
+gesetzlichen Basis Regelungen mit dem WIFI zu versuchen.<lb/>
+</p>
+            <p xml:space="preserve">Maresi hat angekündigt, dass es jetzt ein Kindercola in Wegwerf<lb break="no"/>flasche erzeugen wird. Allgemein wird befürchtet, dass auch die<lb/>
+Römer-Quelle auf verlorene Packung umsteigt. Dies würde bedeuten,<lb/>
+dass auch sofort dann die Vöslauer aus Konkurrenzgründen die<lb/>
+Plastikflaschen einführen müsste. <name type="person" ref="per:98053">Wanke</name> wird versuchen ein Selbst<lb break="no"/>beschränkungsabkommen jetzt so schnell als möglich in Angriff zu<lb/>
+nehmen. Die ursprüngliche Idee abzuwarten, bis eine Studie, die wir<lb/>
+sogar mitfinanzieren, fertig wird, muss aufgegeben werden. Wenn<lb/>
+wir jetzt nicht schnell zu einer Lösung kommen, geht die Entwicklung<lb/>
+über uns hinweg.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name> UND <name type="person" ref="per:97819">PLESCH</name>: Bitte die Angelegenheit als dringend<lb/>
+zu betrachten.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="42_0366_01" facs="42_1978-04-07_0366-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 7.4.1978</head>
+         </div>
+      </back>
+   </text>
+</TEI>

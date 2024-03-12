@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der 18. Juli 1981 bis Sonntag, der 19. Juli 1981</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band60_1981-07-18</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date from="1981-07-18" to="1981-07-19">Samstag, 18. Juli 1981 bis Sonntag, 19. Juli 1981</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-06-18">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="60-0918" facs="60_1981-07-18_1981-07-19_0918.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Samstag, 18., und Sonntag, 19. Juli 1981<lb/>
+</p>
+            <p xml:space="preserve">Der ARBÖ hat eine Spar-Rallye durchgeführt, 14 ausländische Pkw wurden<lb/>
+ausgewählt, ich sollte mit einem Toyota fahren. Selbstverständlich habe<lb/>
+ich dies, insbesondere da es sich um eine japanische Marke handelt, ent<lb break="no"/>schieden abgelehnt. Da ich andererseits immer bereit bin den ARBÖ zu<lb/>
+unterstützen, fiel mir ein mit dem benzinsparendsten Fahrzeug, einem<lb/>
+Moped der Steyr-Daimler-Puch, daran teilzunehmen. Vorschriftsmäßig aus<lb break="no"/>gerüstet mit einem riesigen Sturzhelm, auf den ich sofort das ARBÖ-Zei<lb break="no"/>chen draufpickte, war dies natürlich ein Gag, der allgemeine Beachtung<lb/>
+fand. Die Frau des Innenminister <name type="person" ref="per:110923">Lanc</name>, für die Zweiradindustrie als<lb/>
+Pressesprecherin tätig, forderte ich auch auf, sie sollte doch ihre<lb/>
+Branche vertreten. Sie fühlte sich aber als große Autofahrerin berufen.<lb/>
+Pech, wie sie hatte, vergaß sie den Choke reinzustecken und hat als ein<lb break="no"/>zige das Ziel wegen überhöhten Benzinverbrauch nicht erreicht. Der beste<lb/>
+Teilnehmer fuhr mit 4 Liter auf einem französischen Wagen über 100 km.<lb/>
+</p>
+            <p xml:space="preserve">Auf dem Reifenprüfgelände von Semperit in Kottingbrunn fuhr ich mit<lb/>
+dem ORF-Reporter auf meinem Mopedsitz die letzten Runden und er machte<lb/>
+eine Reportage. Ich selbst bin dann in einem Semperittestwagen wie<lb/>
+irrsinnig über das Prüfungsgelände und über Stock und Stein mit dem<lb/>
+zuständigen Leiter des Prüffeldes gerast und machte wie seinerzeit bei<lb/>
+der Skiabfahrt jetzt auf diesem Prüfgelände für den ORF eine Reportage.<lb/>
+Allgemein wurde anerkannt, daß ich nicht nur für den Fremdenverkehr,<lb/>
+sondern auch für die österreichische Industrie bereit bin alles zu tun.<lb/>
+Der Generalsekretär des ARBÖ meinte spaßhalber, auf meine Honorarnoten<lb/>
+ist er schon neugierig, die er und vor allem die anderen alle für meinen<lb/>
+ständigen Einsatz bekommen werden. Am besten aber war <name type="person" ref="per:123301">Vecsei</name>. Dieser<lb/>
+erschien in einem Mechanikerschlossergewand mit einer riesigen Auf<lb break="no"/>schrift am Rücken, "<name type="person" ref="per:97985">Staris</name> Formel", und dann kam das österreichische<lb/>
+Gütezeichen-A-Betreuerteam. Vor dem Start hatte <name type="person" ref="per:109811">Burian</name> noch ein Inter<lb break="no"/>view im Mittagsjournal über die Benzinpreisfrage organisiert. Die Lan<lb break="no"/>deshauptleute resp. die dafür zuständigen Landesräte der vier Länder<lb/>
+Vorarlberg, Tirol, Salzburg und Kärnten waren über die Delegierung nicht<lb/>
+glücklich. Nur LH <name type="person" ref="per:98048">Wallnöfer</name> meinte, bevor er über die Benzinpreiserhöhung<lb/>
+mit den Ölfirmen verhandelt, müßte von diesen endlich das Fertiglager<lb/>
+in Tirol gleichzeitig auch von der ÖMV zugesagt werden. Der Kärntner<lb/>
+LH-Stv. <name type="person" ref="per:97461">Frühbauer</name> wieder meinte, man müsse den gesamten Energiebereich,<lb/>
+also auch die Elektrizitätspreise dann den Ländern übertragen. In Vor<lb break="no"/>arlberg hat sich insbesondere der Präsident der dortigen <choice><choice><sic>Handelskammer</sic><corr>Arbeiterkammer</corr></choice></choice>,<lb/>
+des ÖAAB und Parteiobmann <name type="person" ref="per:111325">Mock's</name> Stellvertreter<add>[als ÖAAB-Bundesobmann,]</add> <name type="person" ref="per:97583">Jäger</name>, ganz entschieden<lb/>
+<pb n="60-0919" facs="60_1981-07-18_1981-07-19_0919.jpg"/>gegen eine Delegierung gewehrt und meinte, der Landeshauptmann soll<lb/>
+auf alle Fälle ablehnen. Die sozialistischen Landesregierungsvertreter,<lb/>
+<name type="person" ref="per:97461">Frühbauer</name> in Kärnten und <name type="person" ref="per:113008">Radlegger</name>, der für die Preise zuständig ist,<lb/>
+in Salzburg, telefonierten mit mir und schlugen vor, wir sollten uns<lb/>
+Montag unbedingt ich mit allen Landesvertretern der vier Länder zusammen<lb break="no"/>setzen, was ich sofort zusagte.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:125291">MARTIN</name>: Zuerst mit <name type="person" ref="per:110922">Vranitzky</name>, Länderbank, verbinden, dann<lb/>
+mit <name type="person" ref="per:98048">Wallnöfer</name>, <name type="person" ref="per:118211">Keßler</name>, <name type="person" ref="per:113822">Haslauer</name>, <name type="person" ref="per:97461">Frühbauer</name>.<lb/>
+</p>
+            <p xml:space="preserve">Am Sonntag hat es auf der Hohen Wand derartig geschüttet, daß wir,<lb/>
+Dr. <name type="person" ref="per:97627">Kienzl</name> und ich, nicht nur patschnaß wurden, sondern auch wirklich<lb/>
+nur Belangloses diskutieren konnten. <name type="person" ref="per:97627">Kienzl</name> wird noch am Montag oder<lb/>
+Dienstag mit der Studie über das Wahlverhalten seit 1969, welches der<lb/>
+Jubiläumsfonds der Nationalbank bei der IFES in Auftrag gegeben hat,<lb/>
+zu mir kommen, um Details durchzubesprechen.<lb/>
+</p>
+            <p xml:space="preserve">Mit Klubobmann Dr. <name type="person" ref="per:97444">Fischer</name> und Dr. <name type="person" ref="per:97627">Kienzl</name> konnte nur flüchtig disku<lb break="no"/>tiert werden, wobei sich die beiden in der Problematik der Arbeitszeit<lb break="no"/>verkürzung, fast würde ich sagen, theoretisch verbissen. <name type="person" ref="per:97444">Fischer</name>, beraten<lb/>
+durch seinen Klubökonomen <name type="person" ref="per:117674">Ostleitner</name>, vertritt allen Ernstes die Meinung,<lb/>
+es könnten die Arbeiter unter Lohnausgleichsverzicht gegebenenfalls akzep<lb break="no"/>tieren die wöchentliche Arbeitszeit von 40 auf 38 Stunden zu senken.<lb/>
+Dadurch würde das vorhandene Arbeitspotential auf mehr ausgedehnt wer<lb break="no"/>den und in Österreich könnte es zu keiner Arbeitslosigkeit kommen. <name type="person" ref="per:97627">Kienzl</name><lb/>
+vertrat dagegen mit Recht die Theorie, daß Brüning in der Zwischenkriegs<lb break="no"/>zeit in Deutschland eine solche Politik versucht hat und <choice><choice><sic>kärglich</sic><corr>kläglich</corr></choice></choice> daran<lb/>
+scheiterte. Der Ökonom <name type="person" ref="per:114461">Keynes</name> hat deshalb auch genau die gegenteilige<lb/>
+Theorie vertreten, nicht Lohnkürzung, Einsparung, wie <name type="person" ref="per:133702">Brüning</name> durchführte,<lb/>
+sondern Expansion des Budgets, Kaufkraftschaffung sei die einzige Mög<lb break="no"/>lichkeit Arbeitslosigkeit zu besiegen. <name type="person" ref="per:114126">Hitler</name>, der dann das keynesianische<lb/>
+System, ohne daß er es natürlich so nannte, einführte, hat bewiesen, daß<lb/>
+damit die Arbeitslosigkeit tatsächlich beseitigt werden kann. Zu welchem<lb/>
+politischen Zweck er dieses Defizit <choice><choice><sic>beendigen</sic><corr>spending</corr></choice></choice>, nämlich Rüstungsaufbau<lb/>
+und damit Eroberungskrieg, wenn man so will, <name type="person" ref="per:114461">Keynes</name> mißbrauchend durch<lb break="no"/>führte, ist eine andere Frage.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97627">Kienzl</name> und <name type="person" ref="per:97444">Fischer</name> einigten sich dann letzten Endes, und dies hatte ich<lb/>
+von allem Anfang an erklärt, daß die Arbeitszeitverkürzung kein ökono<lb break="no"/>misches Problem, sondern ein rein sozialpolitisches ist. In Österreich<lb/>
+<pb n="60-0920" facs="60_1981-07-18_1981-07-19_0920.jpg"/>haben wir derzeit noch Vollbeschäftigung, solange sich die Gewerkschaf<lb break="no"/>ten so vernünftig verhalten, sehe ich auch gar keine unmittelbare Gefahr<lb/>
+für die Zukunft, trotzdem wird das Problem der Arbeitszeitverkürzung<lb/>
+schon allein durch die Ankündigung des Sozialministers <name type="person" ref="per:111740">Dallingers</name>, vor<lb/>
+allem aber durch seine Einführung der 5. Mindesturlaubswoche, so bald<lb/>
+nicht von der Tagesordnung verschwinden. Daß diese Diskussion in der<lb/>
+Öffentlichkeit niemandem gut tut, steht sowieso für uns alle außer je<lb break="no"/>der Diskussion. Dafür wußte niemand ein besseres Konzept als <name type="person" ref="per:97668">Kreisky</name><lb/>
+es selbst das letzte Mal bei seiner Pressekonferenz jetzt entschieden<lb/>
+hat. Die Arbeitszeitfrage war immer eine Angelegenheit der Sozialpartner<lb/>
+und soll es auch bleiben.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="60_0917_01" facs="60_1981-07-18_0917-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 18.7.1981</head>
+         </div>
+      </back>
+   </text>
+</TEI>

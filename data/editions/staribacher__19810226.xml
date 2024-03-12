@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Donnerstag, der 26. Februar 1981</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band58_1981-02-26</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1981-02-26">Donnerstag, 26. Februar 1981</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-04-17">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="58-0278" facs="58_1981-02-26_0278.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Donnerstag, 26. Februar 1981<lb/>
+</p>
+            <p xml:space="preserve">Die Milchpreisverhandlungen konnten dann mit Präs. <name type="person" ref="per:113056">Bierbaum</name> von der<lb/>
+NÖ Landwirtschaftskammer einvernehmlich abgeschlossen werden. <name type="person" ref="per:113056">Bierbaum</name><lb/>
+ist bekannt, daß er als besonders sturer Vertreter der Landwirtschafts<lb break="no"/>interessen gilt. Die AK und ganz besonders der ÖGB waren nur bereit,<lb/>
+wenn sie schon die 25 Groschen für den Erzeuger akzeptieren, den Verbrau<lb break="no"/>chermilchpreis um 40 Groschen zu erhöhen. Die Forderung der Landwirt<lb break="no"/>schaft war 33 Groschen Erzeugermilchpreis und 80 Groschen Trinkmilch<lb break="no"/>verbraucherpreiserhöhung. AK-Präsident <name type="person" ref="per:97386">Czettel</name> hat sehr geschickt argu<lb break="no"/>mentiert. Der wirkliche Durchbruch ist aber gelungen, weil von der<lb/>
+Handelskammer Dr. <name type="person" ref="per:112563">Farnleitner</name>, der die Gebarung des Milchwirtschafts<lb break="no"/>fonds sehr genau kennt, mit Dkfm. <name type="person" ref="per:112010">Blaha</name> von der AK kleinere Zugeständ<lb break="no"/>nisse den Bauernvertretern machen konnte. Die Grenze, ab welcher der<lb/>
+von der Molkerei weit entferntere Bauer Transportkosten vergütet kriegt,<lb/>
+wurde von 3 km auf 2 km zurückgenommen, die an die Trockenwerke gehende<lb/>
+Milch wurde nur um die Erzeugerpreiserhöhung und den Transportfonds,<lb/>
+1 1/2 Groschen, in der Summe also 26 1/2 Groschen erhöht. Alle waren<lb/>
+sichtbar erleichtert, als ich dann doch dieses Kompromiß durchgebracht<lb/>
+habe. Selbst <name type="person" ref="per:97668">Kreisky</name>, den ich im Parlament nachher berichtete, war über<lb/>
+die Ergebnisse und die einvernehmliche Regelung überrascht. Anschließend<lb/>
+bei einem Radiointerview hat Präs. <name type="person" ref="per:113056">Bierbaum</name> gemeint, ich hätte ihn durch<lb/>
+meine harte Haltung, entweder es kommt zu einem Kompromiss oder die Preise<lb/>
+werden<add>[entsprechend?]</add> dem Antrag der AK festgelegt, gezwungen, diesen Kompromiss zu akzep<lb break="no"/>tieren. Diese Taktik ist bei <name type="person" ref="per:113056">Bierbaum</name> tatsächlich aufgegangen, obwohl<lb/>
+ich sie niemals so hart formuliert hatte, als <name type="person" ref="per:113056">Bierbaum</name> dies jetzt dar<lb break="no"/>stellen will. Seine bisherige Politik, die Verantwortung und die Zu<lb break="no"/>stimmung abzulehnen und dann zu klagen, daß die Preise für die Traktoren<lb/>
+Landmaschinen, Düngemittel und Dieselpreise zu hoch liegen, wurde dies<lb break="no"/>mal erfolgreich durchkreuzt. Wenn die Landwirtschaft ständig jedwede<lb/>
+Kooperation vermissen läßt, dann bedeutet dies sicherlich das Ende der<lb/>
+Sozialpartnerschaft. Die Bundeskammer möchte jetzt dieses Ende dem Sozi<lb break="no"/>alminister <name type="person" ref="per:111740">Dallinger</name> in die Schuhe schieben. Weil Sozialminister <name type="person" ref="per:111740">Dallinger</name><lb/>
+in den letzten Monaten seine sozialpolitischen Ziele, 5 Wochen Mindest<lb break="no"/>urlaub, Arbeitszeitverkürzung, Pensionsregelung, insbesondere Witwerpen<lb break="no"/>sion, Finanzierung der Sozialpolitik durch entsprechende Steuererhöhung,<lb/>
+angekündigt hat, ohne daß er im Konkreten versucht hat mit der Handels<lb break="no"/>kammer zu einem Kompromiß zu kommen, meint Präs. <name type="person" ref="per:97893">Sallinger</name>, diese Poli<lb break="no"/>tik müßte zum Ende der Sozialpartnerschaft führen. Ich glaube, daß die<lb/>
+<pb n="58-0279" facs="58_1981-02-26_0279.jpg"/>größere Gefahr aber von der Landwirtschaft her droht, die sich vollkommen<lb/>
+aus der Verantwortung herausstehlen möchte. Diesen Teufelskreis galt<lb/>
+es zu durchbrechen, zu meiner größten Verwunderung ist mir dies bei der<lb/>
+Milch endgültig erstmalig auch wieder gelungen. Der sonstige Verhandlungs<lb break="no"/>partner Präs. <name type="person" ref="per:97691">Lehner</name> von der OÖ Landwirtschaftskammer, aber gleichzeitig<lb/>
+eben Präsident der Präsidentenkonferenz der Landwirtschaftskammern, hatte<lb/>
+scheinbar nicht gehofft, daß es zu einer Einigung kommt, weshalb er sich<lb/>
+bereit erklärt hätte, am nächsten Tag, als konzilianterer Verhandlungs<lb break="no"/>partner, die Milchpreisverhandlungen zu einem Ende zu führen. Eine solche<lb/>
+Möglichkeit hat es zeitmäßig nicht mehr gegeben, weil am 1. März die<lb/>
+notwendigen Einzelpreise durchgerechnet, vom Fonds verlautbart, in den<lb/>
+Molkereien bereits bekannt und in der Wiener Zeitung, soweit sie amtlich<lb/>
+preisgeregelt sind, verlautbart sein müssen.<lb/>
+</p>
+            <p xml:space="preserve">Die Milchpreisregelung, obwohl 40 Groschen Erhöhung für den Verbraucher<lb/>
+auch eine gewisse Belastung bedeuten, wird eigentlich weniger Aufregung<lb/>
+verursachen als die letzte Benzinpreiserhöhung. Jetzt bekomme ich nicht<lb/>
+nur von der oö Arbeiterkammer, sondern auch von Betrieben entsprechende<lb/>
+Protestresolutionen, daß so schnell den Ölfirmen diese ungerechtfertigte<lb/>
+Preiserhöhung gegeben wurde. Ich habe mich diesbezüglich bei Präs. <name type="person" ref="per:97386">Czettel</name><lb/>
+und auch NR <name type="person" ref="per:114075">Schmidt</name> vom ÖGB beschwert, daß die AK und der ÖGB diese Vor<lb break="no"/>gangsweise mir mehr oder minder aufgezwungen haben, und jetzt die eige<lb break="no"/>nen Organisationen sich anschießen. Ich werde dies auch jeden Betrieb<lb/>
+und ganz besonders der Landesexekutive OÖ der AK OÖ, aber auch der SPÖ<lb/>
+mitteilen, die mir entsprechende Vorwürfe machen.<lb/>
+</p>
+            <p xml:space="preserve">Die Gespräche mit dem rumänischen Minister <name type="person" ref="per:118213">Avram</name>, mit jeweils zwei Herren<lb/>
+GD <name type="person" ref="per:120790">Dumitrescu</name> und Handelsrat <name type="person" ref="per:117611">Ceausescu</name>, der Bruder des Präsidenten, und<lb/>
+auf unserer Seite MR <name type="person" ref="per:97426">Fälbl</name> und Handelsrat <name type="person" ref="per:131146">Renner</name> von Bukarest brachten<lb/>
+eine wichtige Klärung. Die rumänische Seite ist bereit, daß Gesetz zur Si<lb break="no"/>cherung der Valuta, welches die Kompensation fast gesetzlich vorschreibt,<lb/>
+nicht, wie dort vorgesehen, durch Parallelverträge zwischen dem österrei<lb break="no"/>chischen Exporteur und dem rumänsichen Importeur, der gleichzeitig<lb/>
+dann auch seine Waren als Kompensation absetzen muß, restriktiv auszu<lb break="no"/>legen. Die rumänische Seite ist bereit, dem österreichischen Exporteur<lb/>
+eine ganze Reihe von Kompensationswaren anzubieten. Im praktischen Bei<lb break="no"/>spiel an Voith, die<add>[für? um?]</add> 50 Mio. jetzt Kupplungen liefern, wurde gefragt, was<lb/>
+Voith alles von Rumänien importieren möchte, besser gesagt, könnte. Die<lb/>
+rumänische Seite wird prüfen, welche Waren sie von den Wunschlisten der<lb/>
+österreichischen Exporteure liefern kann. Vor allem soll in Hinkunft<lb/>
+nicht mehr, wie<add>[die]</add> rumänischen Außenhandelsorganisationen auch versuchten,<lb/>
+<pb n="58-0280" facs="58_1981-02-26_0280.jpg"/>bei Lieferung von österreichischen Waren nur generell ein Vertrag abge<lb break="no"/>schlossen werden, daß sie so und so viel Millionen Schilling die öster<lb break="no"/>reichischen Firmen Kompensationswaren übernehmen müssen, ohne zu wissen,<lb/>
+um welche Waren es sich überhaupt handelt. Bezüglich der stornierten Edel<lb break="no"/>stahlaufträge für 180 Mio. S sollen neuerdings jetzt sofort Verhandlun<lb break="no"/>gen in Bukarest geführt werden. Bezüglich der Zahlungsverzögerung wird<lb/>
+die rumänische Seite prüfen, so schnell als möglich die Rechnungen zu<lb/>
+begleichen.<lb/>
+</p>
+            <p xml:space="preserve">Auch bei der Vorsprache des Minister <name type="person" ref="per:118213">Avram</name> beim Bundespräsident <name type="person" ref="per:97632">Kirch<lb break="no"/>schläger</name>, hatte ich diese Ergebnisse zur Sprache gebracht, damit die<lb/>
+rumänische Seite sozusagen durch die nicht widersprochene Mitteilung,<lb/>
+daß sie hier eine Lösung suchen und finden wird, an den Präsidenten, für<lb/>
+die Rumänen die höchste Stelle, die man sich vorstellen kann, gebunden<lb/>
+ist, eine Lösung finden zu müssen. <name type="person" ref="per:118213">Avram</name> legte nämlich während der<lb/>
+ganzen Verhandlung größten Wert darauf, daß wenn der Staatsbesuch<lb/>
+<name type="person" ref="per:118307">Ceausescus</name> in diesem Jahr erfolgt, womöglich keine offenen Fragen exis<lb break="no"/>tieren, die ich oder vielleicht gar der Bundespräsident zur Sprache<lb/>
+bringen müßten. Die Rumänen haben eine ungeheure Angst vor <name type="person" ref="per:118307">Ceausescu</name>.<lb/>
+<name type="person" ref="per:97632">Kirchschläger</name> erzählte mir vorher, daß er einmal, als er noch Außenmi<lb break="no"/>nister war, mit <name type="person" ref="per:118307">Ceausescu</name> ein Essen hatte, wo der rumänische Außenmi<lb break="no"/>nister nicht ein einziges Wort sich zu sagen getraute. Wir können uns<lb/>
+kaum eine Vorstellung machen, wie diktatorisch dort nicht nur gegenüber<lb/>
+der Bevölkerung, sondern auch gegenüber den engsten Mitarbeitern gehandelt<lb/>
+wird.<lb/>
+</p>
+            <p xml:space="preserve">Dr. <name type="person" ref="per:131149">Wegener</name> erhielt von der ÖFVW die goldene Ehrenmedaille. Insbesondere<lb/>
+das Diplom schaut sehr schön aus und alle sind immer begeistert, wenn<lb/>
+ich dies dann sozusagen in meinem Büro feierlichst überreiche. Ich<lb/>
+glaube, daß wir noch einen größeren Erfolg hätten, wenn eine kleine<lb/>
+Anstecknadel dieses Set ergänzen könnte.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Für nächstes Jour fixe <name type="person" ref="per:111736">Zolles</name> vormerken.<lb/>
+</p>
+            <p xml:space="preserve">In Ellmau hat Frau <name type="person" ref="per:131150">Pöltl</name> ein Hotel errichtet und kämpft seit 2 Jahren<lb/>
+um einen Stromanschluß. Das örtliche EVU, ein Privater namens <name type="person" ref="per:131151">Lechner</name>,<lb/>
+ist nur bereit, wenn fast für 1 Mio. S Anschlußkosten übernommen werden.<lb/>
+Ein Konkurrenzoffert zeigte, daß man es um die Hälfte auch bekommen<lb/>
+könnte. Frau <name type="person" ref="per:131150">Pöltl</name> ist mit einem Vertreter des österreichischen Energie<lb break="no"/>konsumentenverbandes gekommen. Sie war sehr dankbar, daß ich mir sie nicht<lb/>
+<pb n="58-0281" facs="58_1981-02-26_0281.jpg"/>nur angehört habe, sondern auch bereit war an den Landeshauptmann<lb/>
+<name type="person" ref="per:98048">Wallnöfer</name> einen diesbezüglichen Brief zu schreiben. Ich habe als Elektri<lb break="no"/>zitätsminister keine Möglichkeit mangels gesetzlicher Grundlage einzu<lb break="no"/>greifen. Wenn die Tiroler sich aber unfähig zeigen sollten, dieses Pro<lb break="no"/>blem zu lösen, dann werde ich es auf alle Fälle im Zuge der Energiesi<lb break="no"/>cherungsgesetzverhandlung im Parlament zur Sprache bringen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Bitte mit <name type="person" ref="per:110944">Zluwa</name> darüber sprechen.<lb/>
+</p>
+            <p xml:space="preserve">Bei dem Baugipfel unter Vorsitz von <name type="person" ref="per:97668">Kreisky</name> wurde von diesem nur wie ver<lb break="no"/>einbart zugesagt, daß die laufenden Vergabeverhandlungen beschleunigt<lb/>
+werden. <name type="person" ref="per:97668">Kreisky</name> wird auch einen diesbezüglichen Brief an Länder und Ge<lb break="no"/>meinden richten, wo regional besonders starke Arbeitslosigkeit herrscht<lb/>
+wie in Kärnten, Niederösterreich, Oberösterreich und Steiermark sollen<lb/>
+die Monatskreditraten vorgezogen werden. Zusätzliche budgetäre Mittel<lb/>
+durch sozusagen jetzt schon Inkrafttreten des Konjunkturausgleichsbud<lb break="no"/>gets sind derzeit nicht vorgesehen. Wichtig ist auch, daß die Förderungs<lb break="no"/>maßnahmen nicht in gut beschäftigte Branchen der Bauwirtschaft gelenkt<lb/>
+werden.<lb/>
+</p>
+            <p xml:space="preserve">Die Bauwirtschaft, Gewerkschaft, aber auch Unternehmer waren mit dieser<lb/>
+Lösung vollkommen einverstanden und haben sich für das jetzige bereits<lb/>
+Inkrafttreten der Budgetmittel durch raschere Vergabe sehr bedankt.<lb/>
+Insbesondere Dr. <name type="person" ref="per:114715">Herbeck</name>, GD der Porr AG und Sprecher der Bauwirtschaft,<lb/>
+hat auch gemeint, diese Maßnahme genügt vollkommen. Im Jänner, Februar,<lb/>
+März, ja manchmal sogar bis April, hat es in der Vergangenheit zu Auf<lb break="no"/>tragslücken geführt, die sich auch heuer wiederholen würden. Der Ge<lb break="no"/>werkschaftsobmann <name type="person" ref="per:115024">Rauter</name> von den Bauarbeitern hat gemeint, es sei not<lb break="no"/>wendig bessere Organisation und Koordination nicht nur beim Bund, sondern<lb/>
+insbesondere bei manchen, wie er sich ausdrückte, schwarz geführten<lb/>
+Ländern notwendig wäre. Vor allem kritisierte er, daß von der VIBÖ,<lb/>
+eine private Vereinigung der Bauindustrie, deren Vertreter <name type="person" ref="per:131153">Rendulitsch</name><lb/>
+von einer Notwendigkeit zur Bildung eines Krisenstabes spricht. Eine<lb/>
+Krise sei überhaupt in der Bauwirtschaft nicht zu verzeichnen. Dies<lb/>
+wurde dann auch sofort von <name type="person" ref="per:114715">Herbeck</name> zugegeben, der meinte, er könnte nicht<lb/>
+für irgendwelche Äußerungen von VIBÖ-Mitgliedern die Verantwortung über<lb break="no"/>nehmen. In einem Zwischenruf verwies ich darauf, daß ja deshalb von mir<lb/>
+der jahrzehntelange alte Wunsch der Bauindustrie, eine eigene Fachgruppe<lb/>
+Bauindustrie, losgelöst vom Baugewerbe, in der Handelskammer geschaffen<lb/>
+wurde.<lb/>
+</p>
+            <pb n="58-0282" facs="58_1981-02-26_0282.jpg"/>
+            <p xml:space="preserve">Im Parlament wurde, nachdem gestern über den Rechnungshof, heute über<lb/>
+Unterrichtsberichte und ganz besonders dann abends über Sportberichte<lb/>
+diskutiert. Zuerst war vorgesehen, daß wegen des Opernballes zeitgerecht<lb/>
+die Sitzung enden wird. Die ÖVP hat dann aber an <name type="person" ref="per:97372">Broda</name> wegen der Zu<lb break="no"/>stände bei den Gerichten, wie sie es bezeichnen, eine dringliche Anfrage<lb/>
+gerichtet. <name type="person" ref="per:97372">Broda</name> konnte nachweisen, daß wesentlich mehr Richter als in<lb/>
+der ÖVP-Zeit derzeit wirken und daß ganz systematisch neue Gerichtsge<lb break="no"/>bäude errichtet werden. Tatsache ist, und dies wurde zwar in der offenen<lb/>
+Sitzung nicht gesagt, aber hinten herum von jedermann bestätigt und er<lb break="no"/>zählt, die Richter normalerweise mittags bereits das Amtsgebäude verlassen.<lb/>
+Immer mehr greift im öffentlichen Dienst die Nichteinhaltung der gesetz<lb break="no"/>lich vorgesehenen Arbeitszeit um sich. Dies gilt, wie ich objektiver<lb break="no"/>weise aber feststellen muß, nicht nur für die Richter, die dieses Privi<lb break="no"/>leg schon seit Jahrzehnten handhaben, sondern immer mehr für die Beamten<lb/>
+in der Zentralverwaltung. Nur wo es festgesetzte Dienststunden mit Par<lb break="no"/>teienverkehr gibt, ist es besser.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="58_0277_01" facs="58_1981-02-26_0277-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 26.2.1981</head>
+         </div>
+         <pb n="58_0277_02" facs="58_1981-02-26_0277-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

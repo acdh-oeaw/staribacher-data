@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Donnerstag, der  8. November 1973</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band18_1973-11-08</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1973-11-08">Donnerstag, 8. November 1973</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-09-22">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band18/">
+      <body>
+         <pb n="18-1228" facs="18_1973-11-08_1228.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Donnerstag, 8. November 1973</p><p xml:space="preserve">In der Fragestunde hat Eck über die Anmeldung der österreichischen<lb/>
+Patente Auskunft gewünscht. In der Zusatzfrage gings ihm tat<lb break="no"/>sächlich über die wie ich empfohlen habe, nämlich zu fragen,<lb/>
+wieviel die österreichischen Patente im Verhältnis zu anderen<lb/>
+betragen, hatte ich mir vorgestellt den immer größeren perzentuelle<lb/>
+Anteil zu demonstrieren. <name type="person" ref="per:98091">Withalm</name>, der alte schlaue Parlamentarier<lb/>
+hat sofort überringelt, daß diese Zusatzfrage gestelt war und<lb/>
+mich dann auch sehr diskret, aber doch darauf aufmerksam gemacht.<lb/>
+Einmal hatte ich gmeinen Grundsatz verlassen, eben nicht über<lb/>
+die Zusatzfragen mich mit den Anfragenden abzusprechen und<lb/>
+schon bemerkt man, daß dies dann eben gestellt ist. Eine heil<lb break="no"/>same Lehre für mich. Die ÖVP beginnt die Ölsituation zu nützen<lb/>
+und sowohl in Anfrage als auch in der Diskussion zum Rohstoff<lb break="no"/>lenkungsgesetz mich zwar sehr schonend, aber immerhin doch zu at<lb break="no"/>tackieren. <name type="person" ref="per:97646">Koppe</name> meint, wir müßten unsere Taktik ändern. Die öffentl.<lb/>
+Meinung ist derzeit noch nicht stark gegen mich gerichtet, weil<lb/>
+sie annehmen, daß ich ihnen zwar die Wahrheit sage, aber doch<lb/>
+vielleicht zuviel verspreche, daß die Versorgungslage vollkommen<lb/>
+normal ist. Wenn man nämlich selbst kein Ofenheizöl bekommt,<lb/>
+hat von von solchen Beteuerungen wenig. <name type="person" ref="per:97646">Koppe</name> meinte nun, wir<lb/>
+sollten eine Art Strategie entwickeln, wo wir die Bevölkerung<lb/>
+schrittweise aufklären und Maßnahmen die zu setzen sind, bis zur<lb/>
+Bewirtschaftung nicht nur vorbereiten, sondern auch explizieren.<lb/>
+Ich konnte mich mit <name type="person" ref="per:97646">Koppe</name> über diesen Punkt nicht einigen. Ich<lb/>
+fürchte, daßß wenn wir auch nur demonstrativ die notwendigen<lb/>
+Maßnahmen, die bei einer eventuellen Ausbleiben der Rohölmengen zu<lb/>
+erwarten sind, jetzt der Bevölkerung jtzt schon vordemonstrieren,<lb/>
+daß dies nur zu weiteren Hamsterkäufen führen muß. Ich nehme an,<lb/>
+wenn die Benzin- und Rohölpreise in kürzester Zeit praktisch er<lb break="no"/>höht werden, daß dann automatisch eine gewisse Beruhigung ein<lb break="no"/>treten wird. Die jetzt durchgeführten Hamsterkäufe sind ja nicht<lb/>
+zuletzt darauf zurückzuführen, daß jeder eine Preiserhöhung er<lb break="no"/>wartet und deshalb sein Benzin und sein Heizöl kann ja nur mehr<lb/>
+wert werden. Ich habe <name type="person" ref="per:97646">Koppe</name> meinen Plan demonstriert, daß<lb/>
+wir mit der Straßenverkehrsnovelle auch gleichzeitig dann im Haus<lb/>
+<pb n="18-1229" facs="18_1973-11-08_1229.jpg"/>die Möglichkeit haben, wirklich die notwendigen Abänderungsan<lb break="no"/>träge in Form von Fahrverbot zu gewissen Tagen und Höchstge<lb break="no"/>schwindigkeit aus entweder Ersparnisgründen oder Sicherheits<lb break="no"/>gründen dann im Gesetz zu verankern. <name type="person" ref="per:112946">Schleifer</name> wollte mir ein<lb break="no"/>reden, daß wir unbedingt das Rohstofflenkungsgesetz in der 2.<lb/>
+Lesung noch abändern sollen in der Form, daß wir auch Undver<lb break="no"/>brauch in die Lenkung aufnehmen. Kompliziert hätte ich dann auch<lb/>
+den Verbrauch von Benzin an gewissen Tagen verbieten können. Eine<lb/>
+irrsinnige Konstruktion, wenn sie auch rechtlich vielleicht ein<lb break="no"/>wandfrei wäre.</p><p xml:space="preserve">Beim Rohstofflenkungsgesetz wollte die ÖVP und sie hat sich<lb/>
+schon die Unterstützung der SPÖ gesichert gehabt, außer einer<lb/>
+Entschließung, wo die Regierung aufgefordert wird, Bevorratungs<lb break="no"/>gesetz zu schaffen, daß auch von den Sozialisten akzeptiert wurde,<lb/>
+noch eine zweite Entschließung vorbereitet, wonach ich einen<lb/>
+Bericht über die Versorgungslage dem Parlament zu erstatten<lb/>
+hätte. Ich konnte <name type="person" ref="per:97647">Koren</name> davon überzeugen, daß eine solche<lb/>
+Vorhangsweise zum jetzigen Zeitpunkt unzweckmäßig ist. <name type="person" ref="per:97668">Kreisky</name><lb/>
+hat ihnen ja bereits angekündigt, daß wir in der nächsten Woche<lb/>
+Parteiengespräche über ein Bevorratungsgesetz aufnehmen. Dort<lb/>
+sollte auch die Vorgangsweise wie dem Parlament oder dem<lb/>
+Parlamentsklub eine Information zugeht, besprochen werden. So<lb break="no"/>wohl <name type="person" ref="per:97647">Koren</name> als auch <name type="person" ref="per:97807">Peter</name> haben dann bei Klubbesprechungen ver<lb break="no"/>sichert, daß die Kooperation mit dem Handelsministerium und auch<lb/>
+mit mir sehr gut funktioniert. Sie sehen ein, daß daudrch irgend<lb break="no"/>welche Ziffern resp. Berichte die Öffentlichkeit nicht unnötig<lb/>
+beunruhigt werden sollen und waren einverstanden, von ihrer Ent<lb break="no"/>schließung Abstand zu nehmen.</p><p xml:space="preserve">Sir <name type="person" ref="per:149213">Rudy Sternberg</name>, der vom Donaueuropäischen Institut als deren<lb/>
+Vertreter in London eine Auszeichnung erhalten hat, kam ins<lb/>
+Parlament, um mit dem brit. Botschafter über die Rohölsituation<lb/>
+mit mir zu reden. <name type="person" ref="per:149213">Sternberg</name> hat eine große Firma, die in Deutsch<lb break="no"/>land eine Zweigniederlassung hat und größere Chemiegeschäfte<lb/>
+tätigt. Er ist davon überzeugt, daß in Hinkunft die Sowjets<lb/>
+weniger Rohöl, wie er sich ausdrückte, groel liefert, sondern<lb/>
+<pb n="18-1230" facs="18_1973-11-08_1230.jpg"/>mehr Naphta. Mit diesen Naphta könnte dann der Bedarf der<lb/>
+chem. Industrie an Äthylen usw. leicht befriedigt werden.<lb/>
+Sternberg wird mit der ÖMV Besprechungen aufnehmen, um ev.<lb/>
+Verbindungen von Lieferungen anzuknüfpfen.</p><p xml:space="preserve">Ing. <name type="person" ref="per:97787">Nouza</name> von der Fa. Avanti kam mit Ing. <name type="person" ref="per:149148">Rawi</name>, einem Kuwaiter,<lb/>
+der angeblich 7 Mio. <choice><choice><sic>crutoil</sic><corr>crude oil</corr></choice></choice> d.h. Rohöl, in Saudi-Arabien gekauft<lb/>
+hat. Außerdem sollen noch 15 Mio. in Irak von ihm für 3 Jahre<lb/>
+Lieferung zur Verfügungstehen. <name type="person" ref="per:149148">Rawi</name> möchte nun mit <name type="person" ref="per:97787">Nouza</name> und<lb/>
+einem gewissen Baron <name type="person" ref="per:149231">Tavonat</name>, der in Kuwait auch andere<lb/>
+Geschäft macht, diese Ölmengen oder Teile davon über die Avanti<lb/>
+nach Österreich bringen. <name type="person" ref="per:97787">Nouza</name> hat aber keine Raffineriekapazität<lb/>
+auch die ÖMV ist nicht bereit, eine Lohnverarbeitung für ihn<lb/>
+durchzuführen, so daß er mit dieser Rohölmenge nach Triest, Fa.<lb/>
+Total, Leco, einer privaten Raffinerie oder sogar nach Söni-Ungarn<lb/>
+mit Mineralindex gehen muß. Die ÖMV sabotiert ihn nun Saudi-Arabien<lb/>
+und ganz besonders in Irak. Er glaubt, daß die Inoc, die<lb/>
+<choice><choice><sic>Internationalölcompany</sic><corr>Iraq National Oil Company</corr></choice></choice> ihn deshalb das Öl vorenthält. In Wirk<lb break="no"/>lichkeit bin ich überzeugt, hat <name type="person" ref="per:97787">Nouza</name> zwar vielleicht gute Ver<lb break="no"/>bindungen mit Agenten wie <name type="person" ref="per:149148">Rawi</name>, aber sicherlich keine Ausfuhr<lb break="no"/>genehmigung oder festen Kontrakt mit Inoc, Die ÖMV nun möchte<lb/>
+unter allen Umständen für sich das Irak-Geschäft monopolisieren.<lb/>
+Ich habe <name type="person" ref="per:97787">Nouza</name> dezidiert erklärt, insbesondere nachdem er mir<lb/>
+nachher unter vier Augen noch sagte, er hätte auch in Libyen<lb/>
+gute Verbindungen und <name type="person" ref="per:123182">Gaddafi</name> kenne ihn, daß ich mich in die<lb/>
+privatrechtliche Auseinandersetzungen zwischen den Firmen nicht<lb/>
+einschalte. Ich selbst gab aber dezidiert meiner Überzeugung<lb/>
+Ausdruck, daß die INOC als verstaatl. Monopolbetrieb nicht be<lb break="no"/>reit sein wird, mehreren Firmen Öl zu verkaufen, ohne dabei die<lb/>
+Firmen gegeneinander auszuspielen und nur bessere Konditionen<lb/>
+und Preise für sich zu erreich n. <name type="person" ref="per:97787">Nouza</name> bestritt dies zwar und<lb/>
+meinte, es könnte sowohl die ÖMV als auch er die entsprechenden<lb/>
+Rohölmengen leicht bekommen. Dem steht aber die derzeitige Ent<lb break="no"/>wicklung genau konträr.</p></div>
+      </body>
+      <back>
+         <pb n="18_1227_01" facs="18_1973-11-08_1227-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 8.11.1973</head>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+   </text>
+</TEI>

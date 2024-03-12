@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Montag, der  7. März 1983</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band69_1983-03-07</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1983-03-07">Montag, 7. März 1983</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-12-17">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="69-0291" facs="69_1983-03-07_0291.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Montag, 7. März 1983<lb/>
+</p>
+            <p xml:space="preserve">Beim Jour fixe in der Handelskammer erklärt <name type="person" ref="per:97893">Sallinger</name>, daß er für die<lb/>
+Algerier als auch für die Tunesier nur bezüglich der Aufenthaltskosten<lb/>
+nicht deren ganzen Delegationen, sondern höchstens reziprok der Einladung<lb/>
+der Österreicher in Algerien und Tunesien die Kosten übernimmt. Die Ge<lb break="no"/>mischte Kommission mit Algerien liegt allerdings bereits im Jahre 1974,<lb/>
+das vorbereitende Komitee kann nicht als Grundlage dienen, da waren jetzt<lb/>
+nur 3 Personen, Landwirtschaftsministerium, Handelskammer und Landwirt<lb break="no"/>schaftskammer in Algier. Gen.Sekr. <name type="person" ref="per:112978">Kehrer</name> bemüht sich, so wie ich Präs.<lb/>
+<name type="person" ref="per:97893">Sallinger</name> klar zu machen, daß man nicht jetzt ebenfalls nur 3, sozusagen<lb/>
+den Delegationsleiter, seinen Stellvertreter und einen weiteren Beamten<lb/>
+nur bezahlen kann. <name type="person" ref="per:112978">Kehrer</name> schwebt vor, die Kosten von 8 bis 10 Tunesiern<lb/>
+und dann auch Algeriern zu übernehmen. Mich persönlich kotzt das ganze<lb/>
+sehr an und ich würde am liebsten die ganzen Gemischten <choice><choice><sic>Kommissionen</sic><corr>?</corr></choice></choice><lb/>
+auffliegen lassen, resp. stillegen. Bei diesen Gesprächen kommt im Ver<lb break="no"/>hältnis zum Aufwand sowieso nur ein Bruchteil von positiven Ergebnissen<lb/>
+heraus. Vor allem diese jährlich wiederkehrenden Gemischten Kommissionen<lb/>
+hasse ich förmlich.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108322">MEISL</name> UND <name type="person" ref="per:108746">HAFFNER</name>: Könnten wir nicht wirklich dieses ganze<lb/>
+System ändern.<lb/>
+</p>
+            <p xml:space="preserve">Gen.Sekr. <name type="person" ref="per:112978">Kehrer</name> ist mit den Programmen der sowjetischen Lebensmittelmi<lb break="no"/>nister, <choice><choice><sic>das</sic><corr>die?</corr></choice></choice> wir jetzt nach Moskau gegeben haben, einverstanden. Ich erkläre<lb/>
+ihm, daß ich dem sowjetischen Botschafter in Österreich und deren Handels<lb break="no"/>rat klargemacht habe, daß die große Anzahl der österreichischen Betriebe,<lb/>
+die sie besuchen können deshalb von uns vorgeschlagen wurden, damit sie<lb/>
+jetzt ihre Spezialwünsche und Besuche aussuchen können.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte das endgültig bestätigte Programm dann<lb/>
+sofort auch <name type="person" ref="per:112978">Kehrer</name> mitteilen.<lb/>
+</p>
+            <p xml:space="preserve">Ich mache die Handelskammer neuerdings darauf aufmerksam, daß die Rundholz<lb break="no"/>importe, insbesondere auch das Windwurfaufarbeitungsholz aus der DDR<lb/>
+nach Mitteilung der Säger in Österreich <choice><choice><sic>dringendst</sic><corr>?</corr></choice></choice> gebraucht wird, <name type="person" ref="per:112978">Kehrer</name><lb/>
+bestätigt mir, daß die Handelskammer dieselbe Meinung vertritt. Ich<lb/>
+ersuche ihn, daß Präs. <name type="person" ref="per:97893">Sallinger</name> genau informiert wird, weil ich mit<lb/>
+Dir. <name type="person" ref="per:125951">Reh</name> aus Berlin vereinbart habe, daß wir über die Planziffern der DDR<lb/>
+bezüglich der Rohholzexporte, aber auch über die heurigen und insbesondere<lb/>
+<pb n="69-0292" facs="69_1983-03-07_0292.jpg"/>auch nächstjährigen Importe in Leipzig mit Staatssekretär <name type="person" ref="per:97343">Beil</name> konkret<lb/>
+verhandeln werden.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Ich habe von Dr. <name type="person" ref="per:115697">Sedelmaier</name> vom Holzwirtschaftsrat<lb/>
+die notwendigen Ziffern verlangt.<lb/>
+</p>
+            <p xml:space="preserve">Meine Information über die Benzinpreis- und Heizölpreissenkungen nimmt<lb/>
+die Handelskammer zur Kenntnis. Außer Heizöl extra leicht, das jetzt in<lb/>
+der amtlichen Preiskommission auch bezüglich einer amtlichen Preissenkung<lb/>
+verhandelt wird, soll es bei der Preisfreigabe für alle anderen Produkte<lb/>
+bleiben. Ein Problem wird sich nur dann bei dem Beimischungszwang erge<lb break="no"/>ben, wenn Biosprit von den Bauern dann in weiterer Folge angeboten wird.<lb/>
+Bei Biosprit weiß die Handelskammer auch noch nicht, welche Produktions<lb break="no"/>form resp. Produktionsstätte dann letzten Endes von den Bauern errichtet<lb/>
+wird.<lb/>
+</p>
+            <p xml:space="preserve">Bezüglich der Ölsaatenproduktion, ich berichtete der Handelskammer über<lb/>
+den Besuch des Staatssekretärs aus dem amerikanischen Handelsministerium,<lb/>
+schlägt die Handelskammer nach wie vor vor, man sollte die Mehrwertsteuer<lb/>
+auf Fett von 8 % auf 18 % erhöhen. Der Differenzbetrag müßte dann vom<lb/>
+Finanzministerium für die Ölsaatenproduktion zur Verfügung gestellt<lb/>
+werden. Auch bei diesem Projekt verweise ich darauf, daß ich fürchte<lb/>
+die amerikanische Administration wird eine solche indirekte Subvention<lb/>
+nicht akzeptieren.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte für nächstes Jour fixe eine ziffernmäßige<lb/>
+Berechnung der Mehrwertsteuererhöhung und der rechtlichen Begründung<lb/>
+zusammenstellen lassen.<lb/>
+</p>
+            <p xml:space="preserve">Ich informiere die Handelskammer über den Preisantrag der Landwirtschafts<lb break="no"/>kammer, für Weizen 33,7 Groschen, für Milch 35,6 Groschen, und daß das<lb/>
+Preisverfahren sofort eingeleitet wird. <name type="person" ref="per:112978">Kehrer</name> nimmt dies zur Kenntnis<lb/>
+und meint, über die Details wird man sich ja noch längere Zeit in der<lb/>
+Preiskommission unterhalten.<lb/>
+</p>
+            <p xml:space="preserve">Ich mache die Handelskammer prinzipiell darauf aufmerksam, daß aufgrund<lb/>
+des Versorgungssicherungsgesetzes die Interessensvertretungen zur Durch<lb break="no"/>führung herangezogen werden können. Ich beabsichtige letzten Endes, wie<lb/>
+dies auch in der Nachkriegszeit der Fall war, die Handelskammer diesmal<lb/>
+aber im <choice><choice><sic>engsten</sic><corr>?</corr></choice></choice> Einvernehmen mit der AK und Landwirtschaftskammer zur<lb/>
+Durchführung der Versorgungssicherung heranzuziehen. Die Länder, die wahr<lb break="no"/><pb n="69-0293" facs="69_1983-03-07_0293.jpg"/>scheinlich selbst gerne diese Aufgabe übernehmen würden, kämen für mich<lb/>
+erst <choice><choice><sic>subsidiär</sic><corr>?</corr></choice></choice> in Frage, ich fürchte nämlich, daß ein Länderpartikularis<lb break="no"/>mus eine gerechte Verteilung sehr erschweren würde. Jedes Bundesland<lb/>
+würde wahrscheinlich direkt oder indirekt versteckt oder offen die Be<lb break="no"/>triebe des eigenen Landes bevorzugt behandeln.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:111737">MARSCH</name> UND <name type="person" ref="per:108746">HAFFNER</name>: Bitte dies ohne es zu verlautbaren<lb/>
+bei der Erstellung der Schubladlverordnungen bedenken.<lb/>
+</p>
+            <p xml:space="preserve">Ich urgiere neuerdings die Entscheidung der Handelskammer über die Quantex-<lb/>
+Studie. Ich kann infolge der Budgeteinsparungen heuer nicht wieder<lb/>
+480.000 S dafür aufwenden. Die zweite Hälfte zahlen die betroffenen Firmen<lb/>
+resp. ihre privaten Vereinigungen. Die Handelskammer erklärt neuerdings,<lb/>
+sie wird mit Vizepräsident <name type="person" ref="per:97938">Seidl</name> darüber sprechen, der ja erklärt hat,<lb/>
+er kann einen höheren Kostenteil den Firmen nicht mehr auflasten. Sollte<lb/>
+die Handelskammer tatsächlich keine zusätzlichen Subventionen zur Ver<lb break="no"/>fügung stellen können oder wollen, dann erkläre ich rundweg, wird man diese<lb/>
+Quantex-Studie einstellen müssen. Die Handelskammer erklärt nämlich dezi<lb break="no"/>diert, sie könnte aus Außenhandelsförderungsmitteln, AHF-Beiträgen keine<lb/>
+Subvention für die Quantex-Studie, die nur Inlandsverbrauchserhebungen<lb/>
+macht und für den Export nicht erstellt wird, zur Verfügung stellen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:111737">MARSCH</name> UND <name type="person" ref="per:108746">HAFFNER</name>: Bitte diese starre Auslegung genau<lb/>
+prüfen.<lb/>
+</p>
+            <p xml:space="preserve">Für die allgemeine Maschinen- und Geräteschutzverordnung die das Handels<lb break="no"/>ministerium jetzt mit dem Sozialministerium neu erarbeitet wird Sekr.<lb/>
+Dr. <name type="person" ref="per:145332">Kubka</name> zugezogen. Dieser beschwert sich, daß im Sozialministerium jetzt,<lb/>
+um so schnell als möglich eine Verordnung zusammenzubringen, der allge<lb break="no"/>meine Teil jetzt neu gefaßt werden soll. Aus der derzeit gültigen <choice><choice><sic>Maschi<lb break="no"/>nenschutz und Vorrichtungsverordnung</sic><corr>Maschinen-Schutzvorrichtungsverordnung?</corr></choice></choice> der alte Teil oder zweite Teil<lb/>
+besser gesagt aufrecht bleiben soll. Im allgemeinen Teil werden aber jetzt<lb/>
+neue Geräte, ohne daß definiert wird, was darunter zu verstehen ist, ein<lb break="no"/>bezogen. Gleichzeitig aber sollen wieder entsprechende Ausnahmen gemacht<lb/>
+werden. An einem Beispiel, dem Fleischwolf demonstriert <name type="person" ref="per:145332">Kubka</name>, was dies<lb/>
+bedeuten würde. Die Trichterhöhe würde aufgrund der neuen Definition<lb/>
+850 mm sein. Gleichzeitig soll eine Ausnahme aber gemacht werden, daß<lb/>
+man bis 110 mm gehen kann. Derzeit aber hat die Maschinen-Schutz<lb break="no"/>vorrichtungsverordnung 120 mm vorgeschrieben. Die Handelskammer möchte<lb/>
+unbedingt, daß man systematisch wie bis jetzt weiter verhandeln sollte<lb/>
+und sich nicht von dem Termin 100 Jahre Zentralarbeitsinspektorrat im<lb/>
+April 83 beeinflussen lassen sollte. Wenn das Sozialministerium schon<lb/>
+<pb n="69-0294" facs="69_1983-03-07_0294.jpg"/>eine optisch bis dahin notwendige Lösung braucht, dann sollte man wenn<lb/>
+man nicht die ganze Verordnung fertig bringt, eine Kundmachung erlassen,<lb/>
+in der festgehalten wird, daß die Verordnung erst in Kraft tritt, bis sie<lb/>
+endgültig fertig sein wird. Selbst dieser Vermittlungsvorschlag von <name type="person" ref="per:145332">Kubka</name><lb/>
+wird von Gen.Sekr. <name type="person" ref="per:112978">Kehrer</name> sehr skeptisch beurteilt. Auch ich bin der<lb/>
+Meinung, daß wir hier eine bessere Lösung finden sollten. Ich verspreche,<lb/>
+daß ich mit SC <name type="person" ref="per:97584">Jagoda</name>, dessen Beamte MR <name type="person" ref="per:111722">Kinscher</name> und <name type="person" ref="per:114516">Buchmann</name> verhandeln<lb/>
+diese Verordnung, sprechen werde, damit wir im Handelsministerium mit dem<lb/>
+Sozialministerium eine vernünftigere Lösung als die jetzt in Aussicht<lb/>
+genommene letzten Endes vereinbaren werden.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97584">JAGODA</name> UND <name type="person" ref="per:123301">VECSEI</name>: Bitte bereits für die Mittwoch-Verhandlun<lb break="no"/>gen mir einen anderen Kompromißweg vorschlagen.<lb/>
+</p>
+            <p xml:space="preserve">Mit dem Leiter des IFES-Institutes <name type="person" ref="per:117164">Gehmacher</name> diskutiere ich im Zimmer von<lb/>
+<name type="person" ref="per:123301">Vecsei</name> die Ergebnisse der bisherigen Meinungsbefragungen über die Wahlen<lb/>
+in Österreich. In der BRD meint <name type="person" ref="per:117164">Gemacher</name> hätte sich gezeigt, daß die<lb/>
+Grünen durch ihr geschlossenes Auftreten imstande waren trotz der 5<lb/>
+% Klausel in den Bundesrat zu kommen. In Österreich befürchtet <name type="person" ref="per:117164">Gehmacher</name><lb/>
+genauso wie ich, daß wenn die Grünen sich nicht mehr in der Öffentlichkeit<lb/>
+zerstreiten als jetzt die Ansätze vorliegen und dies im Fernsehen und in<lb/>
+den Zeitungen nicht berichtet wird, daß sie sehr wohl auch bei uns ins<lb/>
+Parlament kommen könnten, die Folge davon würde sein, daß die SPÖ die<lb/>
+absolute Mehrheit verliert. <name type="person" ref="per:117164">Gehmacher</name> meint, je mehr das Fernsehen und<lb/>
+die Zeitungen über die Grünen berichten um so schlechter für sie, da ich<lb/>
+überzeugt bin, daß das insbesondere die Grünen im ORF wissen, werden sie<lb/>
+sicherlich über diese nur positiv gefärbt oder gar nicht berichten. Ich<lb/>
+persönlich fürchte, und <name type="person" ref="per:117164">Gehmacher</name> konnte dem nicht widersprechen, daß<lb/>
+die Grünen ein Grundmandat auf alle Fälle in irgend einem Wahlkreis<lb/>
+erhalten. In Wien glaube ich, können sie, trotzdem diese Grünen als<lb/>
+rechts gelten, eine große Anzahl von Protestwählern bekommen und daher<lb/>
+das Grundmandat selbst mit <name type="person" ref="per:112571">Tollmann</name>, eine autoritäre Führerfigur der Wiener<lb/>
+Grünen ins Parament einziehen, es sei denn es werden andere Grüne<lb/>
+wie z.B. die Frau <name type="person" ref="per:113082">Schmitz</name> in aller Öffentlichkeit mit <name type="person" ref="per:112571">Tollmann</name> und ande<lb break="no"/>ren bei der Diskussion gezeigt. In Salzburg aber fürchtet <name type="person" ref="per:117164">Gehmacher</name> aber,<lb/>
+und ich teile diese Meinung, daß der Salzburger Kandidat <name type="person" ref="per:130519">Fux</name>, der ja<lb/>
+bei den Gemeinderatswahlen mit seiner Liste schon 16.000 Stimmen in der<lb/>
+Stadt bekommen hat, die restlichen 11.000 Stimmen in Salzburg Land sehr<lb/>
+wohl bekommen könnte und dadurch auch dort die Möglichkeit eines Grund<lb break="no"/>mandates für die Grünen besteht. In diesem Fall würde dann diese grüne<lb/>
+Liste auf alle Fälle 3 bis 4 Mandate im Reststimmenverfahren bekommen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:123301">VECSEI</name> UND <name type="person" ref="per:109811">BURIAN</name>: Bitte die Meinungsumfragen aller<lb/>
+<pb n="69-0295" facs="69_1983-03-07_0295.jpg"/>Institute genau verfolgen.<lb/>
+</p>
+            <p xml:space="preserve">Als ich nach dieser Aussprache von <name type="person" ref="per:123301">Vecseis</name> Zimmer in mein Zimmer zurückkehr<lb break="no"/>te, wo das Pressegespräch stattfinden sollte, war ich überrascht, daß,<lb/>
+ohne daß ein Journalist bis jetzt anwesend war, schon fast 1 Dutzend Beam<lb break="no"/>ter zur Pressekonferenz gekommen waren. Dr. <name type="person" ref="per:117023">Pein</name>, der die Pressegespräche<lb/>
+organisiert, meinte zu mir er habe darauf keinen Einfluß, die Sektionschefs<lb/>
+delegieren ganz einfach wer aller an dem Pressegespräch teilnehmen soll.<lb/>
+Ich bin fest davon überzeugt, daß die Sektionschefs zwar nicht delegieren,<lb/>
+sondern sich halt nicht darum im Detail kümmern wer aller von den Beamten<lb/>
+an diesem Pressegesprächen teilnehmen. In Hinkunft, hat <name type="person" ref="per:117023">Pein</name> mir erklärt,<lb/>
+wird er dafür sorgen, daß nur die Referenten neben den Sektionschefs<lb/>
+anwesend sind. Das Grundprinzip war und bleibt, daß der, der die Arbeit<lb/>
+macht, auch bei der Presse referieren soll oder wenn der Sektionschef<lb/>
+weiß, er kann es nicht, dann könnte er natürlich anwesend sein und gege<lb break="no"/>benenfalls Auskunft geben. Keinesfalls aber dürfen die Pressefrühstücke<lb/>
+in einem Massenauftrieb von Beamten enden. Andererseits aber muß ich<lb/>
+zugeben, daß sie manchmal als Platzfüller, wenn sehr wenig Journalisten<lb/>
+anwesend sind, auch nicht gerade optisch schlecht sind.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109808">ALBRECHT</name>: Bitte versuche den richtigen Mittelweg in Hinkunft<lb/>
+diesbezüglich einzuschlagen.<lb/>
+</p>
+            <p xml:space="preserve">ORat <name type="person" ref="per:115404">Sedlak</name><add>[ev. Falschidentifikation, Anm.]</add> berichtete über das Gesetz gegen gefährliche Produkte. Er er<lb break="no"/>örterte, daß es sich dabei nicht um ein Produkthaftungsgesetz handelt,<lb/>
+ein gewisser Maßstab für Sicherheitserwartungen liegt dem österreichi<lb break="no"/>schen Gesetz zugrunde, es umfaßt aber nicht nur Spielzeug, Freizeit und<lb/>
+Sportartikel, sondern ebenfalls auch Werkzeuge. Diskussion gab es keine.<lb/>
+</p>
+            <p xml:space="preserve">Über Wirtschaft und Umweltschutz wurde, das dürfte auch der Grund dieses<lb/>
+Massenauftriebes an Beamten gewesen sein, sowohl von Rat <name type="person" ref="per:1137905">Konas</name>, Grundsatz<lb break="no"/>abteilung, Ing. <name type="person" ref="per:117164">Gehmacher</name> von IFES und <name type="person" ref="per:1138301">Osterauer</name> über eine Studie Umwelt<lb break="no"/>schutz im Gewerbe und Industrie berichtet. Dabei konnte festgestellt wer<lb break="no"/>den, daß ein großes Umweltschutzbewußtsein auch bei den Betrieben existiert.<lb/>
+Größere Betriebe, wo es einen Verantwortlichen in einem Betrieb gibt der<lb/>
+für Umweltschutz oder Energie oder Recycling zuständig ist, kann man jetzt<lb/>
+schon positive Ergebnisse erwarten. In den Betrieben wird jetzt schon<lb/>
+5 bis 10 % für die Umweltschutzaufwendungen ausgegeben. SC <name type="person" ref="per:97584">Jagoda</name> und MR<lb/>
+<name type="person" ref="per:114516">Buchmann</name> berichteten dann über Umweltschutz im Gewerberecht. Seit der<lb/>
+neuen GewO 73 <choice><choice><sic>wird</sic><corr>werden</corr></choice></choice> im Betriebsanlagenrecht weitestgehend Umweltschutz<lb break="no"/>maßnahmen vorgeschlagen. Die meisten Leute glauben nur für Großbetriebe,<lb/>
+in Wirklichkeit gilt dies auch für den Schlosser im Hinterhof und für die<lb/>
+<pb n="69-0296" facs="69_1983-03-07_0296.jpg"/>Diskothek. Langwierige Verfahren gibt es, weil Gutachten im Gesundheits<lb break="no"/>ministerium von Technikern und von Ärzten eingeholt werden müssen. SC<lb/>
+vom Gesundheitsministerium <name type="person" ref="per:1137981">Bobek</name>, der anwesend war, mußte dies bestätigen.<lb/>
+Über Umweltschutz und Energie berichtete dann SL <name type="person" ref="per:110944">Zluwa</name>, hier <choice><choice><sic>wird</sic><corr>werden</corr></choice></choice> zwar in<lb/>
+anderen Ministerien, Landwirtschaftsministerium Wasserrecht die hydrauli<lb break="no"/>schen Kraftwerke Baubehörde die kalorischen jetzt bereits entsprechende<lb/>
+Umweltschutzauflagen immer gemacht. Über diese umfangreichen Tagesord<lb break="no"/>nungspunkte gab es dann doch eine entsprechende Diskussion.<lb/>
+</p>
+            <p xml:space="preserve">MR <name type="person" ref="per:111367">Würzl</name> berichtet dann über die Entwicklung des Fremdenverkehrs in der<lb/>
+Wintersaison von November bis Jänner war bis jetzt ein – 7 1/2 %-iger<lb/>
+Nächtigungsrückgang festzustellen. 70 % der Ausfälle sind aus der BRD,<lb/>
+23 % aus den Niederlanden. Die Devisenbilanz ist für diesen Zeitraum<lb/>
+wesentlich schlechter als die vorjährige. Dort hat man mit 94,6 Mrd. S<lb/>
+eine 4 %-ige Steigerung der Einnahmen, mit 45,8 Mrd. eine nur 3 %-ige Stei<lb break="no"/>gerung der Ausgaben und damit ein 5 %-iges + Saldo gehabt. In der Winter<lb break="no"/>saison bis jetzt sind die Einnahmen um – 2,7 % zurückgegangen, die Aus<lb break="no"/>gaben haben sich aber, wahrscheinlich weil man in Österreich nicht Ski<lb break="no"/>fahren kann, dann die Leute um so mehr bereit sind eine Winterauslandsreise<lb/>
+sozusagen in die Sonne zu machen, um 17 % erhöht, dadurch verschlechtert<lb/>
+sich unser Saldo um – 21 %.<lb/>
+</p>
+            <p xml:space="preserve">Zuletzt berichtet dann noch Dipl.Ing. <name type="person" ref="per:134229">Langschwert</name>, eine Architektin, für<lb/>
+Wohninformation, Wohnberatung und Wohnerziehung zuständig, über die Aufgabe,<lb/>
+die sich diese Arbeitsgemeinschaft macht. Neben der Information wird<lb/>
+jetzt eine 6-teilige Fernsehserie vorbereitet. Auch dort sollen Broschüren<lb/>
+für den Konsumenten angeboten werden.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109808">ALBRECHT</name>: Ich hoffe, wir müssen dazu nicht finanzielle Zu<lb break="no"/>schüsse leisten.<lb/>
+</p>
+            <p xml:space="preserve">Außer diesem umfangreichen Pressefrühstücksprogramm gab es dann zum Ab<lb break="no"/>schluß so wie immer eine einzige Frage, was geschieht mit den Benzinprei<lb break="no"/>sen und insbesondere mit dem amtlich geregelten Heizöl-extra-leicht-Preis,<lb/>
+zum Glück konnte ich ruhigen Gewissens sagen, daß jetzt das Preisprüfungs<lb break="no"/>verfahren eingeleitet ist und wahrscheinlich zum selben Zeitpunkt wie<lb/>
+die freiwillige Preissenkung der Ölfirmen auch dieser amtliche Preis ge<lb break="no"/>senkt wird. Über die Höhe habe ich selbstverständlich kein Wort gesagt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:123301">VECSEI</name>: Bitte vorzusorgen, daß doch die Preiskommission zum<lb/>
+selben Zeitpunkt als die freiwillige Preissenkung erfolgt, dann auch die<lb/>
+amtlichen neuen Heizöl-extra-leicht-Preise verlautbart werden.<lb/>
+</p>
+            <pb n="69-0297" facs="69_1983-03-07_0297.jpg"/>
+            <p xml:space="preserve">Dr. <name type="person" ref="per:1138639">Kühtreiber</name> Hubertus Bräu Laa/Thaya, und Dr. <name type="person" ref="per:1138640">Gruber</name> vom Brauverband in<lb break="no"/>tervenierten, daß jetzt die alkoholfreie Normflasche mit Unterstützung<lb/>
+des Handelsministeriums noch schneller eingeführt werden soll. <name type="person" ref="per:1138639">Kühtreiber</name><lb/>
+allerdings erwartet, daß er für seine 400.000 Stück Flaschen, die er<lb/>
+schon umgestellt hat, ebenfalls eine Subvention nachträglich bekommen<lb/>
+könnte. Ich habe größte Bedenken auch ihm gegenüber geäußert, daß wir<lb/>
+rückwirkend für bereits durchgeführte Umstellungen etwas bezahlen, in<lb/>
+diesem Fall würden nämlich, wie SC <name type="person" ref="per:111737">Marsch</name> richtig bemerkte, auch andere<lb/>
+Firmen kommen, insgesamt wurden bis jetzt nämlich 2 Mio. Flaschen vor Be<lb break="no"/>kanntgabe, daß wir mit 12 Mio. S im Budget heuer diese Umstellung subventio<lb break="no"/>nieren wollen, schon umgestellt. Von den 12 Mio. in Aussicht genommenen<lb/>
+würden daher 2 Mio. sofort schon bezahlt werden. Ich habe <name type="person" ref="per:1138639">Kühtreiber</name> ver<lb break="no"/>sprochen, wir werden dies genau prüfen, ob wir mit dem Budgetmittel auskom<lb break="no"/>men und ob wir nicht einen anderen Weg finden könnten, ihm als Grenzland<lb break="no"/>betrieb zu helfen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:111737">MARSCH</name> UND <name type="person" ref="per:108746">HAFFNER</name>: Was hat Deine Aussprache mit <name type="person" ref="per:1138639">Kühtreiber</name><lb/>
+dann noch gebracht.<lb/>
+</p>
+            <p xml:space="preserve">Der Besitzer der Fa. Zach, Bäckerei in Feldbach, und der Betriebsrat kamen<lb/>
+mit den LUGA-Sekretären aus der Steiermark und Wien, um neuerdings wegen<lb/>
+der ERP-Finanzierung zu intervenieren. Die Firma erwartet für diese<lb/>
+Blätterteigerzeugung, die weiteren 18 Beschäftigten einen Arbeitsplatz<lb/>
+geben würde, 16 Mio. S ERP-Mittel. Ich habe sofort gesagt, daß dafür die<lb/>
+ERP-Kommission zuständig ist, an dessen Vorsitzenden Vizekanzler a.D.<lb/>
+<name type="person" ref="per:97525">Häuser</name> und auch den ÖGB-Vertreter Dir. <name type="person" ref="per:97676">Lachs</name> ich ein Unterstützungsschrei<lb break="no"/>ben gerichtet habe. <name type="person" ref="per:1138641">Zach</name> will nämlich jetzt mit dieser Blätterteigerzeugung<lb/>
+von den bisherigen Soletti und sonstigem Knabbergebäck auch jetzt in den<lb/>
+industriellen Süßgebäckbereich einsteigen.<lb/>
+</p>
+            <p xml:space="preserve">Seinerzeit hatte ich eine Exportmöglichkeit für Soletti nach Ungarn er<lb break="no"/>schlossen. 200 to wurden damals abgeschlossen, 50 to sind noch offen. Die<lb/>
+Ungarn verlangen jetzt ausschließlich Kompensation für ev. Erfüllung<lb/>
+dieses Vertrages. Ich habe mit Handelsrat <name type="person" ref="per:123370">Hammer</name> sofort telefonisch<lb/>
+Kontakt aufgenommen ihn ersucht, der alte Kontrakt müßte doch wenigstens<lb/>
+erfüllt werden und die ganze Delegation dann zu ihm gesendet.<lb/>
+</p>
+            <p xml:space="preserve">Da ich weiß, daß auch die DDR-Leute gegebenenfalls ihm Rahmen der Leip<lb break="no"/>ziger Messe erste Überlegungen anstellen könnten, ebenfalls diese Soletti<lb/>
+oder ähnliches Knabbergebäck von <name type="person" ref="per:1138641">Zach</name> zu kaufen, habe ich den Betriebsrat<lb/>
+dann mit seinem Direktor dann sofort zu DDR-Handelsrat <name type="person" ref="per:126945">Stahl</name> geschickt.<lb/>
+Zum Glück hatte der Betriebsrat für mich einen ganzen Papierkoffer op<lb break="no"/><pb n="69-0298" facs="69_1983-03-07_0298.jpg"/>tisch sehr geschickt aufgemacht mit Kostproben mitgebracht, die er jetzt<lb/>
+zweckmäßig wie ich ihm sagte gleich dem DDR-Handelsrat dortlassen sollte.<lb/>
+Über die expeditive Erledigung ihrer Wünsche war die Delegation sicher<lb break="no"/>lich sehr überrascht.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: <name type="person" ref="per:133371">Mandl</name> soll dir über den weiteren Ausgang berichten.<lb/>
+</p>
+            <p xml:space="preserve">Die Fa. Opel &amp; Beyschlag, jetzt 90 Jahre alt, erhielt das Staatswappen,<lb/>
+bei der Betriebsbesichtigung und ganz besonders bei der Ansprache konnte<lb/>
+ich darauf verweisen, daß diese Firma jetzt in der 4. Generation geführt<lb/>
+wird und ganz neue Arbeitsmethoden durch gefochten und eingeführt hat.<lb/>
+Durchgefochten muß ich deshalb sagen, weil die "fabrikmäßige Reparatur"<lb/>
+von Autos im Gewerberecht wirklich durch jahrelangen Instanzenzug bis<lb/>
+zum Verwaltungsgerichtshof hinauf erst erkämpft werden mußte. Trotzdem<lb/>
+hat Opel &amp; Beyschlag niemals die individuelle Betreuung des Kunden ver<lb break="no"/>nachlässigt. Ganz im Gegenteil. In Opel &amp; Beyschlag-Betriebe kann man bis<lb/>
+spät abends seinen Wagen zur Reparatur und Serviceleistung abgeben und<lb/>
+dann auch wieder bis spät abends noch abholen.<lb/>
+</p>
+            <p xml:space="preserve">Die Passagendiskussion am Schottentor, sozusagen für mich eine Premiere,<lb/>
+weil ich bis jetzt durch Jahrzehnte hindurch stets Passagendiskussionen<lb/>
+nur beim AEZ gemacht habe, wurde damit eingeleitet, daß die Greenpeace-<lb/>
+Bewegung in der Passage, gerade wo wir diskutierten, einen großen Stand<lb/>
+gegen <choice><choice><sic>die</sic><corr>den</corr></choice></choice> Robbenmord in Kanada aufgestellt hatte. Ich begann natürlich<lb/>
+gleich mit diesem Problem die Diskussion, die Ausstellungsleiterin, eine<lb/>
+liebe junge Kollegin, ist dann sofort zu mir rüber gekommen, wir erörter<lb break="no"/>ten dieses Problem und da sie schon einmal bei einer Delegation bei mir<lb/>
+im Ministerium war, hatten wir sofort guten Kontakt. Die Greenpeace-Be<lb break="no"/>wegung ist damit einverstanden, wenn Österreich dieselben Maßnahmen setzt,<lb/>
+die die EG beabsichtigt. Nach ihrer Information soll im Oktober der<lb/>
+Robbenimport in die EG verboten werden. Die österreichische Bewegung er<lb break="no"/>wartet gar nichts anderes, als daß wir dann denselben Schritt zum selben<lb/>
+Zeitpunkt auch machen. Eine diesbezügliche Zusage konnte ich deshalb<lb/>
+nicht machen, weil mir im Handelsministerium versichert wurde, daß wir<lb/>
+dies auch tatsächlich beabsichtigen, derzeit aber die EG noch keinesfalls<lb/>
+so konkrete Schritte beschlossen hat.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: MR <name type="person" ref="per:113091">Bachmayer</name> soll mich stets am Laufenden halten.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="69_0290_01" facs="69_1983-03-07_0290-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 7.3.1983</head>
+         </div>
+         <pb n="69_0290_02" facs="69_1983-03-07_0290-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

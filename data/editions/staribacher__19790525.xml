@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der 25. Mai 1979</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band48_1979-05-25</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1979-05-25">Freitag, 25. Mai 1979</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-07-26">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="48-0590" facs="48_1979-05-25_0590.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Freitag, 25. Mai 1979<lb/>
+</p>
+            <p xml:space="preserve">Bei der Ausstellung im Messegelände, Austria Glas, eine Fach<lb break="no"/>messe, hat die Brunner Glasfabrik ihre Isolierglasfenster prä<lb break="no"/>sentiert. Sie haben zu einer Pressekonferenz eingeladen, wo aller<lb break="no"/>dings nur 2 Journalisten von Fachzeitschriften erschienen sind.<lb/>
+Daraus ersieht man, dass das Interesse am Energiesparen äusserst<lb/>
+gering ist. Der für die Innungen zuständig Stadtrat <name type="person" ref="per:126257">Neusser</name> hat<lb/>
+mir vorgeschlagen auch den Ausstellungsstand der Kramsacher Fach<lb break="no"/>schule zu besichtigen. Der Direktor hat mich dann nach Kramsach ein<lb break="no"/>geladen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98072">WIESINGER</name>: Bei der nächsten Tirol-Reise vormerken.<lb/>
+</p>
+            <p xml:space="preserve">Stadtrat <name type="person" ref="per:126257">Neusser</name> wird bei der Herbstmesse einige Stände über<lb/>
+Energiesparen vom Gewerbe betreuen und aufbauen. Unter anderem<lb/>
+sollen die Rauchfangkehrer, die jetzt auch in Wien bereit sind<lb/>
+mitzuwirken. Nach <name type="person" ref="per:126257">Neusser's</name> Meinung wäre es notwendig, dass das<lb/>
+Wissenschaftsministerium jetzt ein geschlossenen Konzept über<lb/>
+Energiesparen mit allen Beteiligten abspricht und dann eine ent<lb break="no"/>sprechende Finanzierung sicherstellt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Mit Energiesektion besprechen.<lb/>
+</p>
+            <p xml:space="preserve">Interessant für mich waren auch die Sicherheitsgläser. Bei der<lb/>
+Hammerprobe habe ich den Hammerstiel abgebrochen, das Glas<lb/>
+konnte ich nicht zersplittern. Als neuestes wurde mir auch ge<lb break="no"/>zeigt ein durchsichtiges Glas, welches bei Hitzeentwicklung,<lb/>
+d.h. Feuer, dann entsprechenden Isolierschaum entwickelt, wo<lb break="no"/>durch 90 Minuten das Feuer abgehalten wird. Dies eignet sich am<lb/>
+besten für die Kaufhäuser. Die entscheidendste energiesparende<lb/>
+Massnahme wurde mir von allen bestätigt, ist aber die Fenster<lb break="no"/>isolierung. Nicht nur allein bei Glas, sondern auch bei den Rahmen<lb/>
+resp. beim Mauerwerk müssten hier mit geringsten Aufwänden die<lb/>
+grösstmöglichen Energiespareffekte erzielt werden.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Bitte die Fensteraktion mit <name type="person" ref="per:97646">Koppe</name> und<lb/>
+Energiesektion jetzt endlich starten.<lb/>
+</p>
+            <pb n="48-0591" facs="48_1979-05-25_0591.jpg"/>
+            <p xml:space="preserve">Direktor <name type="person" ref="per:97333">Bandhauer</name>, Verbundgesellschaft, Dir. <name type="person" ref="per:113016">Peter</name>, Illwerke,<lb/>
+Bgm. <name type="person" ref="per:137052">Stecher</name>, Bludenz, wollten von mir eine endgültige Lösung<lb/>
+des Problems, oder wie <name type="person" ref="per:97333">Bandhauer</name> sich ausdrückte, der Causa<lb/>
+<name type="person" ref="per:113017">Berchtold</name>. Dieser hat angeblich falsche Zeugenaussagen Zusammen<lb break="no"/>arbeit mit <choice><choice><sic>den deutschen Stromabnehmer</sic><corr>dem deutschen Stromabnehmer? den deutschen Stromabnehmern?</corr></choice></choice> zu Ungunsten der Illwerke<lb/>
+begangen und wegen ihm ist eine Reihe von Auszeichnungen von<lb/>
+Illwerke-Mitarbeitern unterblieben. Da ich nun im nächsten Monat<lb/>
+den Illwerken einen Besuch abstatten werde, der Anlass ist die Er<lb break="no"/>öffnung eines Kraftwerkes der Vorarlberger Kraftwerksgesellschaft,<lb/>
+muss jetzt die Ordensverleihung geklärt werden. Die Vorarlberger<lb/>
+Genossen sprechen sich ganz entschieden dagegen aus, <name type="person" ref="per:137052">Stecher</name><add>[teilte?]</add> mir mit<lb/>
+es gibt einen diesbezüglichen Klubbeschluss der Vorarlberger Land<lb break="no"/>tagsfraktion. Dir. <name type="person" ref="per:113016">Peter</name> erklärte, er würde auf die Auszeichnung ver<lb break="no"/>zichten, wenn gleichzeitig auch <name type="person" ref="per:113017">Berchtold</name> die vom Bundespräsident<lb/>
+verliehene Auszeichnung bekommen wird. Damit wird, wie <name type="person" ref="per:97333">Bandhauer</name><lb/>
+sagt, das Eklat noch grösser. Ich habe kein Recht, die bereits vom<lb/>
+Bundespräsident ins Handelsministerium bereits geschickte Aus<lb break="no"/>zeichnung nicht zu übergeben. Wenn, wie seinerzeit gefordert<lb/>
+wurde, der Rechnungshof jetzt bei seiner Prüfung auf irgend<lb break="no"/>welche strafbaren Tatbestände draufkommen sollte, wird die Anzeige<lb/>
+zu erstatten sein und dann eben ein Gerichtsverfahren abzuwickeln.<lb/>
+<name type="person" ref="per:113017">Berchtold</name> ist in Vorarlberg auch bei seinen eigenen Parteigenossen,<lb/>
+von <name type="person" ref="per:118211">Kessler</name> angefangen, bis zu dessen Gegenspieler, Statthalter<lb/>
+<name type="person" ref="per:116913">Mandl</name>, sehr umstritten. <name type="person" ref="per:97333">Bandhauer</name> bemerkte aber zu Recht, dass<lb/>
+erst in der <name type="person" ref="per:113017">Berchtold</name>-Periode seit 1967 die Vorarlberger Elektri<lb break="no"/>zitätswirtschaft nach Österreich hinein geführt wurde. Die Koor<lb break="no"/>dinierungsverträge, die Donauverträge und die 380-KV-Leitung<lb/>
+wurde erst unter seiner Ägide und Mitwirkung überhaupt ermöglicht<lb/>
+Wir einigten uns zum Schluss darauf, dass das Parteipräsidium in<lb/>
+Vorarlberg die Sache noch einmal besprechen wird und ich dann end<lb break="no"/>gültig Bescheid bekomme. Für die anderen Illwerke-Mitglieder<lb/>
+wird auf alle Fälle die Ordensauszeichnung bei meinen nächsten<lb/>
+Vorarlbergbesuch durchgeführt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Bitte alle Vorbereitungen treffen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97333">Bandhauer</name> berichtet <name type="person" ref="per:107937">Frank</name> und mir über seine Verhandlungen mit<lb/>
+dem Schweizer<add>[Energieversorgungsunternehmen]</add> ATEL. Die Verbund wird nicht in diesem Winter,<lb/>
+sondern erst im nächsten, 3 Jahre Vorlieferung aus dem Kern<lb break="no"/>kraftwerk Gösgen, 100 MW beziehen. Nachher wird 1 Jahr Ruhepause<lb/>
+<pb n="48-0592" facs="48_1979-05-25_0592.jpg"/>liegen und dann muss Österreich 3 Jahre dieselbe Strommenge<lb/>
+plus 6% Verzinsung in Natura zurückzahlen. Diese Zeitverschiebung<lb/>
+um 1 Jahr war notwendig, weil die Verbundgesellschaft nicht die<lb/>
+Rücklieferung in Natura früher garantieren konnte. Die Verhand<lb break="no"/>lungen über das Kohlekraftwerk in Tullnerfeld gehen rüstig vo<lb break="no"/>ran. Im Juni soll der Kaufvertrag mit Donau-Chemie abgeschlossen<lb/>
+werden. Mit den Polen ist ein Kohlevertrag auf 108 Schilling/10^6 WE,<lb/>
+ein äusserst günstiger Preis, in Verhandlung. Für diesen Winter<lb/>
+ist noch eine Zusatzlieferung der Wiener möglich geworden. Die<lb/>
+Verbund wird der Gemeinde Wien im Sommer, Mai, Juni, Juli je<lb/>
+100 MW und wenn es die Wasserführung erlaubt und Wien übernehmen<lb/>
+kann, sogar mehr noch liefern. Derzeit sind es 300 MW, weil die<lb/>
+Flüsse günstige Wasserführungen haben. Im Winter wird dann die<lb break="no"/>selbe Energiemenge von Wien an die Verbund zurückgeliefert, mit<lb/>
+einem Aufpreis von 12 Groschen. Wien hat also – und jetzt muss man<lb/>
+sagen Gott sei Dank – seine Kapazität stärker ausgebaut, als<lb/>
+es eigentlich seinen unmittelbaren Bedürfnissen entspricht. Die<lb/>
+Politik hat seinerzeit Vizebürgermeister <name type="person" ref="per:97963">Slavik</name> eingeleitet und<lb/>
+auch entgegen mancher Genossen durchgezogen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Die Verbund soll jetzt die Import-und<lb/>
+Exportregelungen für dieses Jahr und dem nächsten Jahr zusammen<lb break="no"/>stellen.</p>
+            <p xml:space="preserve">Der Wiener Landesinnungsmeister für die Glaserer beschwerte sich<lb/>
+bei mir über die Preispraktiken einer gewissen Firma Aglas. Den<lb/>
+Fall soll MR <name type="person" ref="per:112051">Singer</name> genau kennen, da bereits einige Beschwerden<lb/>
+im Handelsministerium anhängig sind.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Bitte den ganzen Fall prüfen und mit dem<lb/>
+Wiener Innungsmeister sich in Verbindung setzen.<lb/>
+</p>
+            <p xml:space="preserve">Der bulgarische Botschafter hat mich ersucht, ich sollte der<lb/>
+Festveranstaltung 1.300 Jahre Bulgarien im Jahre 1981 beitreten.<lb/>
+<name type="person" ref="per:97632">Kirchschläger</name> und <name type="person" ref="per:108328">Pahr</name> haben schon zugesagt, der Vorsitzende<lb/>
+wird NR <name type="person" ref="per:97356">Blecha</name>, der Obmann der bulgarisch-österreichischen Gesell<lb break="no"/>schaft, sein. Selbstverständlich habe ich sofort zugestimmt.<lb/>
+</p>
+            <pb n="48-0593" facs="48_1979-05-25_0593.jpg"/>
+            <p xml:space="preserve">Der syrische Kulturattache hat mir vom Handelsminister <name type="person" ref="per:150306">IMADI</name><lb/>
+eine Einladung zur syrischen Messe am 4.7. überreicht. Zum<lb/>
+Glück bin ich da wirklich mit dem Schweizer und deutschen<lb/>
+Wirtschaftsminister bei Gesprächen. Ich habe daher sehr höflich<lb/>
+aber bestimmt abgelehnt. Im Antwortschreiben an <name type="person" ref="per:150306">Imadi</name> werde<lb/>
+ich mich für die Einladung herzlichst bedanken, aber gleichzeitig<lb/>
+mitteilen, dass die syrische Seite uns wissen liess, dass er<lb/>
+jetzt in eine neue Funktion, angeblich Bankdirektor berufen wird.<lb/>
+Ich werde mich daher für die Zusammenarbeit bedanken, gleichzeitig<lb/>
+vorschlagen dann, mit dem neuen Handelsminister Kontakt aufzu<lb break="no"/>nehmen. Früher oder später muss ich ja doch einmal Syrien be<lb break="no"/>suchen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte dies im Briefentwurf ohne konkreten<lb/>
+Termin festhalten.<lb/>
+</p>
+            <p xml:space="preserve">Beim Jour-fixe mit AK und ÖGB<add>[und?]</add> Dr. <name type="person" ref="per:114160">Psota</name>, der für die Koordination<lb/>
+im Gesundheitsministerium verantwortlich ist, beschwert sich über<lb/>
+den mangelnden Kontakt mit dem Handelsministerium. Sowohl in<lb/>
+Genf bei den nichttarifarischen Handelshemmnissen, als auch bei<lb/>
+den österreichisch-schweizerischen Wirtschaftsgesprächen in Bern<lb/>
+wurden die Vorschläge resp. Stellungnahmen des Gesundheits<lb break="no"/>ministeriums entweder nur sehr mangelhaft vertreten oder über<lb break="no"/>haupt gar nicht berücksichtigt. Allerdings stellte sich dann<lb/>
+heraus, dass scheinbar vom Gesundheitsministerium an der inter<lb break="no"/>ministeriellen Vorbesprechung niemand teilgenommen hat. <name type="person" ref="per:114160">Psota</name><lb/>
+hat insbesondere grösste Bedenken im Rahmen des Accordino das<lb/>
+Rahmenkontingent von 120 auf 220 Tonnen aufzustocken. Damit seien<lb/>
+die österreichischen Salamierzeuger ruiniert, die Qualität ent<lb break="no"/>spricht übrigens nicht einmal den österreichischen Vorschriften.<lb/>
+Einziger Interessent sei die Firma Groninger, der die Importe<lb/>
+durchführt. Arbeiterkammer und ÖGB schliessen sich sofort dieser<lb/>
+Meinung von <name type="person" ref="per:114160">Psota</name> an. In den Accordino-Verhandlungen soll des<lb break="no"/>halb nur der Qualitätswein ?? von 13 auf 20.000 hl und der Typen<lb break="no"/>wein von 4 auf 8.000 hl in Literflaschen erhöht werden. Dafür kann<lb/>
+das Einstellvieh 3.200 auf 4.200 Stück und die Käse von 810 auf<lb/>
+1.306 Tonnen Erstkompensation erhöht werden. Der Landeshaupt<lb break="no"/>mann von Tirol hat sich bei mir in einem Brief für den weiteren<lb/>
+Ausbau des Accordinovertrages eingesetzt. Der Kontakt mit <name type="person" ref="per:114160">Psota</name><lb/>
+wird in Hinkunft von <name type="person" ref="per:108746">Haffner</name> durchgeführt, denn der bisherige<lb/>
+<pb n="48-0594" facs="48_1979-05-25_0594.jpg"/>Kontakt mit Dr. <name type="person" ref="per:114739">Goldmann</name> von der Industriesektion hat Koordinations<lb break="no"/>fehler im Handelsministerium ergeben.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Dr. <name type="person" ref="per:113619">Pschorn</name> soll eine interministerielle<lb/>
+Accordinositzung mit den obigen Kompromiss unter Beiziehung von<lb/>
+einem Tiroler Vertreter durchführen.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Mineralölpreiserhöhung ist die AK und der ÖGB nicht bereit<lb/>
+von ihrer Stellungnahme, alles muss weiter preisgeregelt sein,<lb/>
+abzugehen. Ich hätte am liebsten, nachdem sich jetzt im Westen bei<lb/>
+der Dieselölversorgung Schwierigkeiten ergeben, den Dieselöl<lb break="no"/>preis freigegeben. Dadurch hätte ich auch die Möglichkeit ge<lb break="no"/>habt, die Handelsspannenforderung und vor allem die Tank<lb break="no"/>stellenspannenerhöhung dort unterzubringen. Ich bin überzeugt, dass<lb/>
+eine wesentliche Erhöhung nicht möglich gewesen wäre und dann die<lb/>
+Argumentation trotzdem weggefallen wäre, dass ich die Handels<lb break="no"/>spannen und insbesondere die Tankstellen zu sehr benachteilige.<lb/>
+Dass einzige Zugeständnis, das Dr. <name type="person" ref="per:114075">Schmidt</name> gemacht hat ist, dass<lb/>
+man wahrscheinlich die ganzen Öl- und Benzinpreise nicht mehr einmal<lb/>
+im Jahr nur erhöhen kann. Die sonst übliche Jahresfrist wird hier<lb/>
+sicherlich nicht mehr eingehalten werden können.<lb/>
+</p>
+            <p xml:space="preserve">Das Energieplanspiel wird jetzt von SChef <name type="person" ref="per:107937">Frank</name> einvernehmlich mit<lb/>
+Oberst <name type="person" ref="per:123328">Fenz</name> von der Wirtschaftlichen Landesverteidigung durchge<lb break="no"/>führt. Die Ölfirmen werden wahrscheinlich nur sehr zögernd mittun,<lb/>
+die AK und der ÖGB zeigten daran überhaupt kein Interesse. Sie stehe<lb/>
+auf dem -Standpunkt, das müsste auf Grund des Ölbevorratungsge<lb break="no"/>setzes das Handelsministerium jederzeit ohne Zustimmung der<lb/>
+Interessensvertretungen durchführen können. Theoretisch mag dies<lb/>
+stimmen, in der Praxis würde sich dann sehr bald herausstellen,<lb/>
+dass es sich dann um eine reine Zahlenspielerei handelt, hinter<lb/>
+der überhaupt kein praktischer Nutzen steht.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: <name type="person" ref="per:97493">Gröger</name> soll auch mittun und gleichzeitig<lb/>
+die Bewirtschaftung, sprich Benzinrationierung, neuerdings über<lb break="no"/>prüfen.</p>
+            <p xml:space="preserve">Im Entwurf des Mieterschutzgesetzes hat Präs. <name type="person" ref="per:97688">Leberl</name> analog dem<lb/>
+Patentgesetz einen Entgeltanspruch für die Arbeitnehmer vorge<lb break="no"/>sehen. Dagegen hat sich Dr. <name type="person" ref="per:150307">Schönherr</name> von Unternehmerseite ausge<lb break="no"/><pb n="48-0595" facs="48_1979-05-25_0595.jpg"/>sprechen. Die AK, Dr. <name type="person" ref="per:114716">Knittler</name>, interveniert dass unbedingt die<lb/>
+<name type="person" ref="per:97688">Leberl</name>-Fassung in die Begutachtung gehen soll.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Bitte Entsprechendes veranlassen.<lb/>
+</p>
+            <p xml:space="preserve">Die Behauptung der Schweizer Nationalrätin <choice><choice><sic><name type="person" ref="per:134063">Hagen</name></sic><corr>Uchtenhagen</corr></choice></choice><add>[evtl. Falschidentifikation, Anm.]</add>?? aus Zürich,<lb/>
+dass in Schweden die Industrie so hoch gestützt wird, als das<lb/>
+schweizerische Budget, 16 Mia. sfr, insgesamt ausmacht, wird von<lb/>
+allen als überhöht und unmöglich bezeichnet. Die Nationalbank<lb/>
+Dr. <name type="person" ref="per:97627">Kienzl</name>, wird es aber übernehmen, eine Studie darüber auszuar<lb break="no"/>beiten.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97627">Kienzl</name> hält fest, dass von März bis Mai die Devisen- und Valuten<lb break="no"/>bestände von 55 Mia. auf fast 40 Mia. zurückgegangen sind. Der<lb/>
+Aufbau des Jahres 78 von 35 Mia. auf 60 Mia. ist damit in den ersten<lb/>
+Monaten wieder verlustig geworden. Er hat angenommen dass die<lb/>
+Exporte entsprechend zurückgegangen sind und die Einfuhren wesent<lb break="no"/>lich gesteigert wurden. Die jetzt zur Verfügung stehenden ersten<lb/>
+4 Monatswerte zeigen aber, dass die Einfuhr um 11%, die Ausfuhr<lb/>
+aber doch noch um 12% gestiegen ist. Für den Monat April waren<lb/>
+die Ziffern 10% und 12%.<lb/>
+</p>
+            <p xml:space="preserve">Dir. <name type="person" ref="per:97498">Grünwald</name>, ÖIAG, stellt fest, dass die verstaatlichten Betriebe<lb/>
+jetzt eine gute Periode vor sich haben. Im Grundstoffbereich sind<lb/>
+nicht nur grössere Mengen, sondern auch wesentlich bessere Preise<lb/>
+erzielt worden. Selbst in den schlechten Branchen, wie Edelstahl<lb/>
+wurde der Verlust des Vorjahres halbiert. Einzig und allein gibt<lb/>
+es jetzt Probleme im Industrieanlagenbau. Hier hat die VÖEST und au<lb/>
+auch andere Betriebe in der letzten Zeit einige Projekte nicht<lb/>
+bekommen, die sie dringendst gebraucht hätten. <name type="person" ref="per:97498">Grünwald</name> hat mir<lb/>
+nachher vertraulich mitgeteilt, dass jetzt die Mitterberger Kupfer<lb break="no"/>bergbau, die ja in Liquidation ist, bilanzmässig von der ÖMV über<lb break="no"/>nommen werden soll. Dadurch würde die ÖMV eine entsprechende Ver<lb break="no"/>lustvortragsquote bekommen, ihre Bilanz also dadurch auf Kosten<lb/>
+des Fiskus verschlechtern können. Die ÖIAG würde durch diese Lösung<lb/>
+die Verlustliquidation der Mitterberger Kupferbergbau ehestmög<lb break="no"/>lich los werden.<lb/>
+</p>
+            <p xml:space="preserve">Ein Gespräch mit den Arbeitsbauern und Bürgermeister <name type="person" ref="per:115605">Schneider</name> als<lb/>
+Obmann und Nationalrat <name type="person" ref="per:97809">Pfeifer</name> sowie den Sekretär <name type="person" ref="per:115606">Fux</name> zeigte<lb/>
+<pb n="48-0596" facs="48_1979-05-25_0596.jpg"/>mir, dass ihr Kontakt zum Landwirtschaftsminister nicht gerade<lb/>
+der beste sein dürfte. Sie haben zwar alle ihre Probleme angeb<lb break="no"/>lich auch mit <name type="person" ref="per:97511">Haiden</name> besprochen, wollten von mir aber wissen,<lb/>
+ob sie ähnlich dem Bauernbund, der über die Landwirtschaftskammer<lb/>
+jetzt Getreide und Milchpreiserhöhungsantrag jetzt eingebracht hat,<lb/>
+ebenfalls ein solches Verlangen stellen sollte. Ich habe ihnen<lb/>
+selbstverständlich sofort erklärt, dass ein solcher Antrag rein<lb/>
+optisch für sie sicherlich notwendig sein wird. Bis jetzt hat<lb/>
+immer der Arbeitsbauernbund, wenn die Landwirtschaftskammer einge<lb break="no"/>reicht hat, ein solches Verlangen gestellt. Da ja bei den Bauern<lb/>
+die Aktivität der Landwirtschaftskammer doch <choice><choice><sic>weitesgehndst</sic><corr>weitestgehend; weitgehendst</corr></choice></choice> als<lb/>
+Bauernbundaktivität empfunden wird, bleibt dem Arbeitsbauernbund<lb/>
+gar nichts anderes über als ebenfalls entsprechende Forderungen zu<lb/>
+stellen. Sie werden aber <choice><choice><sic>vzu</sic><corr>im</corr></choice></choice> Unterschied von den vergangenen Jahren<lb/>
+angeblich heuer keine ziffernmässige Forderung fixieren, sondern<lb/>
+nur eine Verbesserung der Preise verlangen. Innerhalb des Arbeits<lb break="no"/>bauernbundes gibt es derzeit natürlich auch eine heftige Dis<lb break="no"/>kussion, ob die Weinbauern, deren Preis von fast 8 Schilling<lb/>
+im Schnitt auf 4.5 Schilling zurückgegangen ist, oder die Schweine<lb break="no"/>produzenten, deren Preis von 22 Schilling auf 14 Schilling zu<lb break="no"/>rückgegangen ist, die am meisten Benachteiligten sind. <name type="person" ref="per:97809">Pfeifer</name><lb/>
+als Weinproduzent hat dies mit Recht angeschnitten, <name type="person" ref="per:115606">Fux</name> als<lb/>
+Waldviertler Bauer hat wieder auf die schlechte Ertragslage in<lb/>
+dieser Region verwiesen und meinte, schon allein aus den Einheits<lb break="no"/>werten kann man<add>[dies?]</add> feststellen. wie sehr die Bauern eine differenzierte<lb/>
+Ertragslage haben. <name type="person" ref="per:115605">Schneider</name> aus dem Getreidegebiet hat am besten<lb/>
+abgeschnitten. Die einzige Möglichkeit innerhalb der Agrarwirt<lb break="no"/>schaft, die ganz verschiedenen Einkommen einigermassen anzuglei<lb break="no"/>chen, besteht darin, dass man eben in die schlechten Gebiete ent<lb break="no"/>sprechende zusätzliche Verdienste durch Nebenerwerbsbauernein<lb break="no"/>künfte bringt.<lb/>
+</p>
+            <p xml:space="preserve">Landwirtschaftsminister <name type="person" ref="per:97511">Haiden</name> hat in meiner Vertretung bei<lb/>
+der Ministerratsvorbesprechung Probleme gehabt. <name type="person" ref="per:97668">Kreisky</name> erklärte<lb/>
+zuerst, dass mein Vorschlag zur Regierungserklärung viel zu lang<lb/>
+gewesen ist. Da ihm scheinbar Kabinettschef <name type="person" ref="per:97469">Gehart</name> meinen Begleit<lb break="no"/>brief gegeben hat, hat er die Punktation mit über 30 Seiten auch<lb/>
+als einen entsprechenden Entwurf zur Regierungserklärung verstanden.<lb/>
+Beabsichtigt war aber nur die 5 Seiten und wahrscheinlich davon<lb/>
+<pb n="48-0597" facs="48_1979-05-25_0597.jpg"/>einen geringeren Teil in die Regierungserklärung einzubringen.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> hat es aber sicherlich noch viel mehr gestört, dass ich<lb/>
+ihm nicht konkrete Vorschläge, wie z.B. Autofreien Tag, gegebenen<lb break="no"/>falls Benzinrationierung im Zuge der Energiesparmassnahmen vor<lb break="no"/>geschlagen habe. Dies gedenke ich aber deshalb nicht zu tun,<lb/>
+weil ich noch immer glaube, dass wir ohne diese drastischen<lb/>
+Mitteln durchkommen werden. Sollte er solche Vorschläge in die<lb/>
+Regierungserklärung aufnehmen, dann soll dies wirklich auf seine<lb/>
+Initiative geschehen.<lb/>
+</p>
+            <p xml:space="preserve">In der Ministerratssitzung hat <name type="person" ref="per:97511">Haiden</name> dann auch, wo Vizekanzler<lb/>
+<name type="person" ref="per:97311">Androsch</name> den Vorsitz geführt hat, Schwierigkeiten mit dem<lb/>
+Energiebericht gehabt. <name type="person" ref="per:97311">Androsch</name> hat zwar in der alten Legislatur<lb break="no"/>periode den Energiebericht passieren lassen, jetzt dürften seine<lb/>
+Beamten aber darauf gekommen sein, dass darin gewisse Verpflich<lb break="no"/>tungen des Finanzministers festgelegt wurden. Dagegen hat sich<lb/>
+<name type="person" ref="per:97311">Androsch</name> meiner Meinung nach mit Recht ausgesprochen. Ich habe<lb/>
+mich bei <name type="person" ref="per:97511">Haiden</name> für seinen Einsatz herzlichst bedankt. Bei dieser<lb/>
+Gelegenheit hat <name type="person" ref="per:97511">Haiden</name> mir mitgeteilt, dass <name type="person" ref="per:112148">Schober</name> jetzt zum<lb/>
+geschäftsführenden Präsidenten des Arbeitsbauernbundes bestellt<lb/>
+werden soll. Dies wurde mit <name type="person" ref="per:97668">Kreisky</name>, nicht aber mit ihm abgespro<lb break="no"/>chen. <name type="person" ref="per:97511">Haiden</name> befürchtet mit Recht, dass <name type="person" ref="per:112148">Schober</name> dann als Politiker<lb/>
+für den Arbeitsbauernbund entsprechende Forderungen aufstellen<lb/>
+wird, die er dann als Minister womöglich entgegen der Meinung des<lb/>
+Staatssekretärs nicht verwirklichen wird können. Daraus dürfte<lb/>
+sich eine gewisse Spannung zwischen Arbeitsbauernbund und <name type="person" ref="per:97511">Haiden</name><lb/>
+ergeben.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97511">Haiden</name> möchte, dass jetzt als erster Schritt die 2.000 Tonnen<lb/>
+absoluter Alkohol, den wir jetzt erzeugen können, dem Benzin beige<lb break="no"/>mischt wird. Ich versprach ihm, mit der ÖMV über dieses Problem<lb/>
+jetzt dringend noch einmal Gespräche führen zu lassen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Bitte sofort die notwendigen Veranlas<lb break="no"/>sungen dafür treffen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="48_0589_01" facs="48_1979-05-25_0589-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 25.5.1979</head>
+         </div>
+         <pb n="48_0589_02" facs="48_1979-05-25_0589-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

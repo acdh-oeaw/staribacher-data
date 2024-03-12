@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der 13. März 1976</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band30_1976-03-13</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1976-03-13">Samstag, 13. März 1976</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-01-21">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="30-0341" facs="30_1976-03-13_0341.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Samstag. 13. März 1976<lb/>
+</p>
+            <p xml:space="preserve">Der tschechische Aussenhandelsminister <name type="person" ref="per:114726">Barčák</name> ist zum Messebesuch<lb/>
+nach Österreich gekommen. Natürlich ist es notwendig, dass wir auch<lb/>
+eine offizielle Besprechung abhalten. Ich selbst bringe dort<lb/>
+nur 3 Wünsche von Firmen zur Sprache. Die Firma Mut, Stockerau,<lb/>
+möchte Müllabführautos nach Bratislava verkaufen. Die Firma Siemens<lb/>
+interessiert sich für eine Rohrpostanlage im Krankenhaus Kosice, wo<lb/>
+<name type="person" ref="per:114726">Barčák</name> einmal Generaldirektor war und viel zu reden hat. Er ver<lb break="no"/>spricht mir, sich für das 8-Millionen-Schilling-Projekt, das jetzt<lb/>
+unmittelbar vor der Entscheidung steht, einzusetzen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name>: Bitte Siemens verständigen.<lb/>
+</p>
+            <p xml:space="preserve">Die Ottakringer Brauerei möchte in Prag, Bratislava und anderen<lb/>
+Städten Gold-Fassl-Restaurants errichten. Ich kann mir zwar nicht<lb/>
+vorstellen, wie sie tatsächlich in der CSSR bei dieser Reglementierung<lb/>
+einen entsprechenden Betrieb errichten möchten, der für sie noch<lb/>
+einen Profit abwirft. <name type="person" ref="per:114726">Barčák</name> selbst gibt auch sofort zu, die Restaurant-<lb/>
+Ketten in der CSSR sind gegen jedwede Konkurrenz aus dem<lb/>
+Ausland. Er wird aber die ganze Angelegenheit prüfen.<lb/>
+</p>
+            <p xml:space="preserve">Eine Industrieberatungsfirma hat sich bei mir beschwert, dass sie<lb/>
+jetzt nicht mehr die entsprechenden Einreisevisa für Ing. <name type="person" ref="per:143646">Herold</name><lb/>
+bekommen hat. <name type="person" ref="per:114726">Barčák</name> erklärt mir, dass die tschechische Kooperations<lb break="no"/>firma, die mit dieser Industrieberatungsfirma den Kontrakt hat, aus<lb break="no"/>steigen möchte. Andererseits teilt er mir gleichzeitig mit, dass<lb/>
+zwischen der VÖEST und einer tschechischen Firma jetzt eine Kooperation<lb/>
+auch über Ingenieurbüro für Industrie in Prag gebildet wird, die<lb/>
+mustergültig sein sollte. Abends beim Essen in der tschechischen<lb/>
+Residenz treffe ich Gen.Dir. <name type="person" ref="per:97644">Koller</name> der mir dies bestätigt. Die<lb/>
+Tschechen sind also scheinbar bei gewissen Firmen bereit, insbesondere<lb/>
+mit denen sie grosse Geschäfte machen, eine wirklich zukunftsweisende<lb/>
+und zweckmässige Reorganisation der Vertretungen aufzubauen<lb/>
+</p>
+            <p xml:space="preserve">Am Messebesuch mit <name type="person" ref="per:114726">Barčák</name> nehme ich nicht teil, sondern gehe doch<lb/>
+in den Parteitag. Gegenüber <name type="person" ref="per:114726">Barčák</name> habe ich eine gute Ausrede, weil<lb/>
+wir neuerdings den Sitz des nicht gewählten Vertreters der Jungen<lb/>
+Generation, <name type="person" ref="per:114541">Konecny</name>, abstimmen mussten und erst nachher die<lb/>
+Konstituierung des Parteivorstandes erfolgen konnte. <name type="person" ref="per:114726">Barčák</name> sieht<lb/>
+<pb n="30-0342" facs="30_1976-03-13_0342.jpg"/>dies sofort ein, um so mehr als die Begründung wirklich sehr plausibel<lb/>
+ist und tatsächlich seit 20 Jahren es nicht mehr vorgekommen ist,<lb/>
+dass ein Vorgeschlagener nicht die Zustimmung des Parteitages findet<lb/>
+An seine Stelle wird <name type="person" ref="per:114540">Hatzl</name>, der SJ-Jugendobmann wieder gewählt. Bei<lb/>
+der Konstituierung läuft alles programmgemäss. Im Präsidium bleibt<lb/>
+<name type="person" ref="per:97668">Kreisky</name>, <name type="person" ref="per:97311">Androsch</name>, <name type="person" ref="per:97389">Czettel</name>, <name type="person" ref="per:97442">Firnberg</name>, <name type="person" ref="per:97488">Gratz</name>, <name type="person" ref="per:97935">Sebastian</name>, <name type="person" ref="per:97727">Marsch</name> und<lb/>
+<name type="person" ref="per:97356">Blecha</name> werden Zentralsekretäre. Ins erweiterte Präsidium kommt für<lb/>
+die zwei Gewerkschafter <name type="person" ref="per:97346">Benya</name> und neu für <name type="person" ref="per:98066">Robert Weisz</name>, <name type="person" ref="per:97563">Hofstetter</name>.<lb/>
+Für die Frauen <name type="person" ref="per:137885">Demuth</name> und die anderen Länder zu vertreten, wird<lb/>
+<name type="person" ref="per:114604">Hillinger</name> wieder Kassier, <name type="person" ref="per:97994">Steinocher</name> sein Stellvertreter, <name type="person" ref="per:114583">Kery</name><lb/>
+Schriftführer, <name type="person" ref="per:97891">Salcher</name> sein Stellvertreter. Auch die Kooptierung ist<lb/>
+ganz normal. Anstelle vom ausgeschiedenen internationalen Sekretär<lb/>
+<name type="person" ref="per:97384">Czernetz</name> wird von der SK <name type="person" ref="per:97507">Hacker</name> bestimmt und deshalb vorläufig<lb/>
+nur in den Parteivorstand kooptiert. Hier zeigt sich, wie <name type="person" ref="per:97668">Kreisky</name><lb/>
+immer wieder vorsichtig vorgehen will, damit niemand ihm vorwerfen<lb/>
+kann, er überführt ein Beschlussorgan. Er macht neuerdings darauf<lb/>
+aufmerksam, dass er niemanden besseren kennt als <name type="person" ref="per:97507">Hacker</name> als inter<lb break="no"/>nationalen Sekretär möchte aber wenn es der Parteivorstand wünscht,<lb/>
+die Bestellung gerne zurückstellen, damit er sich das auch noch<lb/>
+überlegen kann. Kein Mensch will natürlich die Bestellung zurück<lb break="no"/>stellen, wahrscheinlich gibt es auch momentan gar keinen besseren.<lb/>
+Für den Parteiverlag wird <name type="person" ref="per:110984">Eder</name> kooptiert und für die Arbeiter<lb break="no"/>zeitung <name type="person" ref="per:113613">Scheuch</name>. Für die Rentner <name type="person" ref="per:137401">Uhlir</name>, für die SJ der neue Obmann,<lb/>
+für die Junge Generation <name type="person" ref="per:114541">Konecny</name>, für ASKÖ <name type="person" ref="per:123210">Heller</name> und für den<lb/>
+Arbeiterkammertag <name type="person" ref="per:97386">Czettel Adolf</name>. Gleichzeitig wird festgestellt, dass<lb/>
+die sozialistischen Bundesregierungsmitglieder an der Parteivorstands<lb break="no"/>sitzung teilnehmen. <name type="person" ref="per:97994">Steinocher</name> meint noch, der jeweilige Obmann der<lb/>
+Jungen Generation soll kooptiert werden und nicht <name type="person" ref="per:114541">Konecny</name>. <name type="person" ref="per:114604">Hillinger</name><lb/>
+wieder meint, das sei vielleicht sogar eine Missachtung der Ent<lb break="no"/>scheidung des Parteitages nachdem man ja <name type="person" ref="per:114541">Konecny</name> nicht in den Par<lb break="no"/>teivorstand gewählt hat. <name type="person" ref="per:97786">Nittel</name> und <name type="person" ref="per:97346">Benya</name> halten sofort aber fest,<lb/>
+dass ja die Kooptierung auf Grund von Statuten dem Bundesvor<lb break="no"/>sitzenden der Jungen Generation zuzuziehen ist. Ich glaube auch,<lb/>
+dass wie <name type="person" ref="per:97668">Kreisky</name> dann meint, die nicht nominelle Kooptierung von<lb/>
+<name type="person" ref="per:114541">Konecny</name> schlecht wäre. Auch hier gibt <name type="person" ref="per:97668">Kreisky</name> wieder eine Idee von<lb/>
+sich, die er wahrscheinlich wirklich ehrlich meint. Er diskutiert<lb/>
+mit den Jungen, insbesondere mit <name type="person" ref="per:114541">Konecny</name> wahrscheinlich lieber<lb/>
+im Parteivorstand über Probleme, als dass er über die Presse mit<lb/>
+ihnen einen Streit oder Diskussion führt. Die Frage ist nur, ob<lb/>
+tatsächlich im Parteivorstand immer diskutiert wird. Die Entwicklung<lb/>
+der letzten Jahre haben mir eher das Gegenteil bewiesen.<lb/>
+</p>
+            <pb n="30-0343" facs="30_1976-03-13_0343.jpg"/>
+            <p xml:space="preserve"><name type="person" ref="per:97346">Benya</name> verlangt, dass unbedingt noch für März eine Parteivorstands<lb break="no"/>sitzung stattfindet, die man zuerst wegen Abwesenheit von <name type="person" ref="per:97668">Kreisky</name><lb/>
+am vorgesehenen Termin verschieben wollte, um das Problem der Be<lb break="no"/>fristung der Marktordnungsgesetze, ja überhaupt die ganze Taktik zu<lb/>
+besprechend und zu diskutieren. Hätte <name type="person" ref="per:97346">Benya</name> den Antrag gestellt, der<lb/>
+Parteivorstand soll einen Befristungsantrag zur Kenntnis nehmen,<lb/>
+ich glaube alle hätten dort sofort gesagt, ja, ja macht es nur so.<lb/>
+Immer mehr bestätigt sich für mich, dass eine geschlossen nach<lb/>
+aussen auftretende Partei, die in der Regierung sitzt, aufsteigende<lb/>
+Erfolge zu verzeichnen hat, selbst in kritischen Phasen ganz einfach<lb/>
+entscheiden soll, die anderen wollen kaum mitdiskutieren, geschweige<lb/>
+denn andere Beschlüsse fassen, als die die dafür verantwortlich sind,<lb/>
+vorschlagen.<lb/>
+</p>
+            <p xml:space="preserve">Zu meiner grössten Verwunderung ersucht <name type="person" ref="per:97346">Benya</name> die Genossen des<lb/>
+Gewerkschaftsbundes und der Arbeiterkammer, die am Parteitag<lb/>
+sind, <name type="person" ref="per:112931">Köck</name> und <name type="person" ref="per:111740">Dallinger</name>, <name type="person" ref="per:97563">Hofstetter</name> und <name type="person" ref="per:114075">Schmidt</name>, zu meiner Über<lb break="no"/>raschung nicht mehr <name type="person" ref="per:97676">Tommy Lachs</name>, aber Präsident <name type="person" ref="per:97386">Czettel</name> und den vom<lb/>
+10. Bezirk delegierten <name type="person" ref="per:112965">Maurer</name>, sowie <name type="person" ref="per:97311">Androsch</name> und mich, sofort über<lb/>
+die Benzinpreise eine Ad-hoc-Besprechung abzuführen. Ich erkläre<lb/>
+die Situation und <name type="person" ref="per:97346">Benya</name> meint, was er auch schon vorher zu mir sagte,<lb/>
+man soll jetzt so schnell als möglich Schluss machen und 80 Groschen<lb/>
+sowie 20 Groschen Heizöl-Extra-Leicht-Preis zugestehen. Wenn es die<lb/>
+andere Seite nicht akzeptiert, so müsste man mit der ÖMV allein<lb/>
+dieses Arrangement treffen. <name type="person" ref="per:97386">Czettel</name> urgiert nur, dass noch gewisse<lb/>
+Unterlagen geliefert werden müssen, bevor der Arbeiterkammertag<lb/>
+auch offiziell dem zustimmt. <name type="person" ref="per:97311">Androsch</name> erklärt sich bereit, 40 Groschen<lb/>
+Mineralölsteuer zu akzeptieren. Nicht akzeptieren kann er, dass<lb/>
+er das Energiesicherungsgesetz jetzt im Finanzausschuss mit der<lb/>
+Mehrheit beschlossen wird. Er ist selbstverständlich auch der Meinung,<lb/>
+dass wir eine einfachgesetzliche Regelung machen sollen, ja er<lb/>
+wünscht sie sogar.<lb/>
+</p>
+            <pb n="30-0344" facs="30_1976-03-13_0344.jpg"/>
+            <p xml:space="preserve">Er fürchtet nur, dass <name type="person" ref="per:97647">Koren</name> mit Recht verärgert sein wird und<lb/>
+einen Bruch des loyalen Verhaltens von ihm darin sieht, dass<lb/>
+er zugestimmt hat, das Abgabenänderungsgesetz ohne Unterausschuss<lb/>
+im Finanzausschuss beschlossen werden kann. Da <name type="person" ref="per:97311">Androsch</name> dieses<lb/>
+Gesetz dringend braucht, hat <name type="person" ref="per:97647">Koren</name> scheinbar akzeptiert, dass der<lb/>
+Finanzausschuss, ohne einen Unterausschuss einzusetzen, diese<lb/>
+so wichtige Materie zwar nicht zustimmt aber passieren lässt.<lb/>
+Daher dürfte <name type="person" ref="per:97311">Androsch</name> auch den Wunsch des Gewerkschaftsbundes ab<lb break="no"/>lehnen, im Einkommensteuergesetz die wertgesicherte Darlehensge<lb break="no"/>währung so weit sie die Wertsicherung allein betrifft, steuerneutral<lb/>
+zu behandeln, einen Abänderungsantrag zu beschliessen. Der Ver<lb break="no"/>waltungsgerichtshof hat durch Urteil bestätigt, dass diese Vorgangs<lb break="no"/>weise, die heute jeder, der sich mit Steuern befasst und Geld an<lb break="no"/>legen will, so handhabt, eindeutig zugestimmt. <name type="person" ref="per:97311">Androsch</name> meint deshalb<lb/>
+auch, <name type="person" ref="per:97647">Koren</name> würde, wenn jetzt die Energiesicherung selbst durch den<lb/>
+Artikel 3 Steuerneutralität der Vorratslager eine Verbindung zum<lb/>
+Abgabenänderungsgesetz ohne weiteres herstellt, dass er <name type="person" ref="per:97647">Koren</name> sofort<lb/>
+einen Unterausschuss verlangen würde. Im Parlament will <name type="person" ref="per:97346">Benya</name><lb/>
+aber auch <name type="person" ref="per:97444">Heinz Fischer</name> unbedingt an dem einvernehmlichen Vorgehen<lb/>
+Festsetzung der Tagesordnung, Festsetzung der Materien, Festsetzung<lb/>
+der Ausschüsse und Unterausschüsse usw. unbedingt festhalten. Ich<lb/>
+schlage deshalb <name type="person" ref="per:97444">Heinz Fischer</name> vor, er sollte wenigstens versuchen,<lb/>
+dieses Gesetz durchzubringen, indem er einen Tag vorher <name type="person" ref="per:97647">Koren</name> die<lb/>
+gesetzliche Formulierung gibt. Viel Hoffnung habe ich nicht, ob dies<lb/>
+auch gelingen wird. <name type="person" ref="per:97444">Fischer</name> wird deshalb dann nur gleichzeitig<lb/>
+<name type="person" ref="per:97647">Koren</name> mitteilen, dass die einfachgesetzliche Regelung als Initiativ<lb break="no"/>antrag im April eingebracht wird und im Mai dann beschlossen wird.<lb/>
+<name type="person" ref="per:97311">Androsch</name> möchte als eventuelle Lösung sogar überhaupt ohne gesetzliche<lb/>
+Regelung einen Lageraufbau erreichen, indem er zu erwägen stellt,<lb/>
+dass man wohl ähnliche Abgaben, wie dies auch bei anderen Produkten<lb/>
+geschieht, an der Grenze einhebt und nur denen nachlässt, die sich<lb/>
+eben an einer Lagerbildung beteiligen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:114508">TIEBER</name> UND <name type="person" ref="per:98040">WAIS</name>: Bitte diese Idee sofort prüfen<lb/>
+lassen.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Nachmittagssitzung über die Mineralölpreise kommt nicht<lb/>
+nur ein Vertreter jeder Sparte sondern gleich ein halbes Dutzend.<lb/>
+Endergebnis ist, wir müssen uns in den Sitzungsaal III begeben<lb/>
+und dort die Verhandlungen abführen. <name type="person" ref="per:113077">Altmann</name> von der Landwirtschaft<lb/>
+<pb n="30-0345" facs="30_1976-03-13_0345.jpg"/>protestiert dagegen, dass das Vorprüfungsverfahren noch nicht<lb/>
+eingeleitet wurde, er keine Möglichkeit hatte, scheinbar mit<lb/>
+seinen Funktionären zu sprechen und deshalb einer Lösung nicht<lb/>
+zustimmen könnte. Er ist sehr erfreut von mir zu erfahren, dass<lb/>
+jetzt das Vorprüfungsverfahren eingeleitet wird und gewissen<lb break="no"/>haftest abzuführen ist. Abänderungswünsche, ergänzende Unterlagen<lb/>
+usw. können alle jetzt noch besprochen werden. Ich hatte vorher bereit<lb/>
+<name type="person" ref="per:97872">Rief</name> mitgeteilt, dass mich der Präsident der Handelskammer <name type="person" ref="per:97893">Sallinger</name><lb/>
+gestern telefonisch verständigte, dass er nicht erwartet, dass<lb/>
+heute der Preis tatsächlich festgelegt wird. Darüber ist Gen.Dir.<lb/>
+<name type="person" ref="per:97337">Bauer</name>, wie er mir dann anschliessend mit <name type="person" ref="per:97429">Feichtinger</name> mitteilt, sehr<lb/>
+erschüttert. Die Sitzung geht nämlich natürlich wie das in einem<lb/>
+Vorprüfungsverfahren üblich ist, mit einem Dutzend von zusätzlichen<lb/>
+Fragen auch der Arbeiterkammer an die Mineralölwirtschaft aus. <name type="person" ref="per:97872">Rief</name><lb/>
+will unbedingt noch erreichen, dass die Preisbehörde über den<lb/>
+Zuschlag, den die Tankstellenpächter bekommen sollen, verhandeln<lb/>
+und womöglich entscheidet. Hier wehrt sich sowohl Gen.Dir. <name type="person" ref="per:97337">Bauer</name> als<lb/>
+auch ich gegen diese Vorgangsweise. Bis jetzt war es immer so, dass<lb/>
+zum Schluss auf Grund des einvernehmliche erfolgten Zuschlages für<lb/>
+den Letztverbraucher die Aufteilung auf die einzelnen Sparten<lb/>
+durch die Handelskammer erfolgte und die Preisbehörde nur be<lb break="no"/>stätigte.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:98112">Zöllner</name> war über die Vorgangsweise insbesondere, dass jetzt der ÖGB<lb/>
+und der Präsident der Arbeiterkammer eindeutig den ursprünglichen<lb/>
+</p>
+            <p xml:space="preserve">Vorschlag von 80 Groschen und 20 Groschen Heizöl zugestimmt hatten,<lb/>
+sehr verärgert. Er betrachtet dies als einen Schritt, den ich<lb/>
+hinterrücks gegen ihn geführt habe. Ich versuchte ihm zu erklären,<lb/>
+dass ich zum Zustandekommen.der Sitzung am Parteitag gar nichts bei<lb break="no"/>getragen hatte. Ich fürchte, er glaubt mir dies nicht. Dass wir<lb/>
+offiziell bald jetzt wirklich zu einem Ende kommen müssen, sieht er<lb/>
+zwar auch nicht ein, aber hier glaube ich, kann man ihn noch überzeu<lb break="no"/>gen. Die Ölgesellschaften wollen die 2 % Mehrwertsteuererhöhung,<lb/>
+die sie zugesichert haben, bis 15. März zu übernehmen, nicht mehr<lb/>
+weiter aus ihrer bisherigen Spanne tragen. Wenn die Mineralöl<lb break="no"/>steuer von 50 auf 40 Groschen reduziert wird, so muss man dies<lb/>
+auch jetzt gleichzeitig bei Verbraucherpreisfestsetzung berück<lb break="no"/>sichtigen und propagandistisch für die Regierung aber hier ganz<lb/>
+besonders auch für meine Tätigkeit, dass nicht ein allzu hoher<lb/>
+Verbraucherpreis herauskommt, herausstreichen. Schliesslich habe<lb/>
+<pb n="30-0346" facs="30_1976-03-13_0346.jpg"/>ich ja wirklich die ganze Zeit, ich glaube sogar sehr geschickt,<lb/>
+dass niemand beleidigt sein konnte, für diese Reduzierung ge<lb break="no"/>kämpft. <name type="person" ref="per:98112">Zöllner</name> meint allerdings, man soll ruhig die 50 Groschen<lb/>
+lassen, denn besonders bei 80 Groschen könnten sie dies ohne weiteres<lb/>
+verkraften. Die Festsetzung von solchen kritischen Preisen bringt<lb/>
+immer wieder, wie ich beobachten kann, eine ungeheure Spannung in die<lb/>
+einzelnen Gruppen. Was ich nur verhindern möchte, ist, dass es auf der<lb/>
+Arbeitnehmerseite einen solchen Missmut und manchmal sogar Beleidi<lb break="no"/>gungen gibt, wie auf der Unternehmerseite insbesondere der Handelskam<lb break="no"/>mer. Hier sprechen sich zwar die einzelnen Gruppen mit "<choice><choice><sic>lieber</sic><corr>?</corr></choice></choice> Freund"<lb/>
+an, in Wirklichkeit aber beschimpfen sie sich intern und ganz besonders<lb/>
+auch gegenüber Aussenstehenden auf das gröblichste. Niemals habe ich<lb/>
+noch versucht, kraft meines Amtes oder meiner Funktion weder in der<lb/>
+Arbeiterkammer geschweige denn jetzt als Minister Mitarbeiter und<lb/>
+Freunde gar zu majorisieren oder zu erklären, mir ist wurscht, was<lb/>
+Du sagst, das ist sowieso falsch, Du stehst allein, isoliert mit<lb/>
+dieser Meinung, selbst die eigenen Leute lassen Dich schon im Stich,<lb/>
+gibt endlich Deinen Dickschädel auf usw., eine Entscheidung zu<lb/>
+dekretieren. Ich hoffe, dass es mir auch diesmal wieder gelingt,<lb/>
+letzten Endes dann doch auf unserer Seite ein Einvernehmen tatsäch<lb break="no"/>lich herzustellen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="30_0340_03" facs="30_1976-03-13_0340-03.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 13.3.1976</head>
+         </div>
+         <pb n="30_0340_04" facs="30_1976-03-13_0340-04.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

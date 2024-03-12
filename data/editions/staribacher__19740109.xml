@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittwoch, der  9. Jänner 1974</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band19_1974-01-09</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1974-01-09">Mittwoch, 9. Januar 1974</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-10-28">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band19/">
+      <body>
+         <pb n="19-0023" facs="19_1974-01-09_0023.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Mittwoch, 9. Jänner 1974</p><p xml:space="preserve">Der ägyptische Botschafter <name type="person" ref="per:140332">Salah Gohar</name> kam , um zu fragen,<lb/>
+wie er den befreundeten Staat unterstützen könnte, nachdem<lb/>
+er aus meiner Pressekonferenz entnommen hat, dass wir zusätz<lb break="no"/>lcihe Ölmengen brauchen. Hier allerdings konnte ich feststellen,<lb/>
+dass er von den österreichischen Verhältnissen Importeure, Ver<lb break="no"/>arbeitung usw. sehr wenig wusste. Es war interessant aber, dass<lb/>
+er sich erbötig machte, mit seinen Kollegen aus den arabischen<lb/>
+Staaten zu sprechen, um die Schwierigkeiten, die sich eventuell<lb/>
+bei Importen ergeben, zu beseitigen. <name type="person" ref="per:97377">Bukowski</name> übernahme es,<lb/>
+zu erkundingen, wie die ÖMV eine Unterstützung noch brauchen<lb/>
+würde und sie dann dem ägypt. Botschafter mitzuteilen. Gleich<lb break="no"/>zeitig bekannte er ein, dass Ägypten wenig Geld hat, um sich<lb/>
+an Ausstellungen oder grossen Delegationen zur Anbahnung von<lb/>
+Geschäften nach Österreich zu beteiligen. Er lud mich deshalb<lb/>
+ein resp. die österr. Unternehmer ein, solche Delegationen<lb/>
+und Messebeteiligungen durchzuführen und vor allem durch Aus<lb break="no"/>tausch von Listen die möglichen Waren und Geschäfte über die<lb/>
+Botschaft anzubahnen. Er selbst würde dann in Kairo mit dem<lb/>
+Wirtschaftsminister resp. den zuständigen Stellen Verhandlungen<lb/>
+führen. <name type="person" ref="per:108322">Meisl</name> hat zugesag,t eine solche Liste zu übergeben.</p><p xml:space="preserve">Gen.Dir. <name type="person" ref="per:97854">Rabus</name> war in Polen und hat dort den von mir eingeladenen<lb/>
+Minister <name type="person" ref="per:149276">Schaschzik</name> getroffen, der ihm den VOrscvhlag machte unter<lb/>
+vier Augen, Polen würde gegebenenfalls Waffen von Steyr kaufen,<lb/>
+<name type="person" ref="per:97854">Rabus</name> erklärte, dazu müsse er erst mit dem Handelsminister<lb/>
+sprechen, ich fragte <name type="person" ref="per:97632">Kirchschläger</name> und nachmittags bei der Klausur<lb break="no"/>tagung auch <name type="person" ref="per:97879">Rösch</name>, die beide im Prinzip einverstanden waren.</p><p xml:space="preserve">Präs. <name type="person" ref="per:97691">Lehner</name> und Ing. <name type="person" ref="per:113077">Altmann</name> von der Präsidentenkonferenz der LWK<lb/>
+erklärten sich bereit, wie ich bereit am Vorabend mit <name type="person" ref="per:97691">Lehner</name><lb/>
+feststellen konnte, 8 Groschen pro kWh Strompreiserhöhung<lb/>
+zu akzeptieren. <name type="person" ref="per:97691">Lehner</name> meinte zurest mit Protest zur Kenntnis<lb/>
+zu nehmen, ich verlangte aer in der Preiskommission letzten<lb/>
+Endes eine ZUstimmung. Gleichzeitig überreichten sie eine<lb/>
+Liste von Wünschen, die sie an die Landesgesellschaften haben<lb/>
+z.B. möchten sie, dass nach wie vor der Landwirtschaftstarif<lb/>
+gilt, auch dann, wenn sie z.B. Hühnerhaltung oder Schweine<lb break="no"/>aufzucht in grösserem Umfang betreiben. Sie schlugen vor,<lb/>
+<pb n="19-0024" facs="19_1974-01-09_0024.jpg"/>wenn die Steuer sie anerkennt, dann sollte auch der Tarif<lb/>
+für die Landwirtschaft angewendet werden können. Sekt.Chef<lb/>
+<name type="person" ref="per:107937">Frank</name>, der seit Jahrzehnten im Kuratorium für landw. Elektrifi<lb break="no"/>zierung arbeitet, meinte, dass der grösste Teil dieser Wünsche<lb/>
+berechtigt sei und er wird mit den Landesgesellschaften bei den<lb/>
+Preisverhandlungen über diese Wünsche sprechen und einen Teil<lb/>
+zumindestens durchsetzen. Gleichzeitig wollte sie auch,<lb/>
+dass bis zu 10 Zimmern die Bauern auch für diese Vermietungstätig<lb break="no"/>keit den Landwirtschaftstarif bekommen, was ich ganz entschieden<lb/>
+ablehnte. Interessant war, dass in einezlnen Ländern bis zu<lb/>
+3 Zimmern ein solche Reglung bereits durchgesetzt wurde.</p><p xml:space="preserve">Die Landwirtschaft verbraucht 360.000 t Diesel und <name type="person" ref="per:97691">Lehner</name><lb/>
+schlug vor, dass sein Kammeramtsdirektor Handelsbauer und Sekt.<lb/>
+Rat <name type="person" ref="per:149263">Schröfel</name> vom Landwirtschaftsministerium mit <name type="person" ref="per:97493">Gröger</name> gemeinsam,<lb/>
+den ich sofort rief, eine entsprechenden Verteilungsmodus ausarbe<lb/>
+ten sollen. Der PUntke wert, wo heute die Landwirtschaft ent<lb break="no"/>sprechende Vergütung für die Mineralölsteuer bekommt, kann<lb/>
+für die Verteilung nicht herangezogen werden, weil hier nach<lb/>
+sozialen GEsichtspunkten vorgegangen wird, <name type="person" ref="per:113077">Altmann</name> aber auch<lb/>
+<name type="person" ref="per:97691">Lehner</name> gaben zu, dass hier oft für Maschinen eine Vergütung bezah<lb/>
+wird, Z.B. Traktoren, die gar nicht mehr in Betrieb sind.<lb/>
+Sondern eben nur für die Vergütung gehalten werden. Ich erklärte<lb/>
+zwar, dass wir sichelrich eine Rationierung nicht einführen we<lb break="no"/>den, aber dass natürlich alle Vorbereitungen getroffen werden<lb/>
+müssen.</p><p xml:space="preserve">Importeur <name type="person" ref="per:58381">Fritz Mauthner</name>, der wegen der Erhöhung der Futter<lb break="no"/>getreidepreise kam – der Gersten- und Maispreis müsste auch nach<lb/>
+Auffassung von <name type="person" ref="per:97691">Lehner</name> um 20 Groschen erhöht werden – schildert<lb/>
+die Versorgungssituation deshalb so schlecht, weil durch die<lb/>
+geringen Preise heute im Inland niemand bereit sit, sein<lb/>
+Lager aufzulösen, d.h. zu verkaufen und wahrwscheinclihc<lb/>
+auch der Sommergersten- und Maisanbau stark zurückgehen würde.<lb/>
+<name type="person" ref="per:97691">Lehner</name> wird mit den Bergbauern selbst dieses Problem ein<lb break="no"/>gehend besprechen, glaubt auch dessen Zustimmung zu bekommen,<lb/>
+und <name type="person" ref="per:98055">Weihs</name> hat bereits einer solchen Erhöhung zugestimmt. Für<lb/>
+Hafer soll die Preisregelung aufgehoben werden. Ich versuchte<lb/>
+neuerdings die Idee, man sollte im Frühjahr zeitgerecht die<lb/>
+<pb n="19-0025" facs="19_1974-01-09_0025.jpg"/>gesamte Preisregelung für den Weizensektor aussetzen, fand<lb/>
+aber damit keine Zustimmung. <name type="person" ref="per:97691">Lehner</name> wollte dann auch noch<lb/>
+wissen, wann der Milchpreis und der Zuckerpreis gergelt<lb/>
+wird, und ich erklärte, für Zucker sehe ich überhaut keine<lb/>
+Chance und bei Milch müssten wir ein wirklich einwadnfreies<lb/>
+System schriftlich fixieren, dass bei stärkerer Milchanlieferung<lb/>
+automatisch der Erzeugerpreis gesenkt wird. <name type="person" ref="per:113077">Altmann</name> gab zu, dass<lb/>
+ein solches Versprechen bei den <choice><choice><sic>Parteiverhandlungen</sic><corr>Parteienverhandlungen</corr></choice></choice> gemacht wurde,<lb/>
+wobei <name type="person" ref="per:97691">Lehner</name> bemekrte, dies hätte eben der Bauernbund getan und<lb/>
+daher er zu verantworten. Ich stellte fest, dass ich mit der<lb/>
+Präsidentenkonferenz zu verhandeln habe und von der Präsidenten<lb break="no"/>konferenz entsprechnde schriftliche Vereinbarungen verlangen<lb/>
+würde.</p><p xml:space="preserve">Gen.Dir. <name type="person" ref="per:137269">Hajbek</name>, Dir. <name type="person" ref="per:126896">Pflüger</name> und <name type="person" ref="per:97493">Gröger</name> hatten volles Ver<lb break="no"/>ständnis für meinen Vorschlag, dass wir die jetzt auf Hochtour<lb/>
+laufenden Vorbereitungen zum Aussenden der Bezugsmarken für<lb/>
+Benzin unterbrechen, da sich wie mit die ÖMV versichert, die<lb/>
+Versorgungslage für Feber aber wahrschenlich auch für März eine<lb/>
+Rationierung erübrigt, da auch die Deutschen jetzt ihre Beschrän<lb break="no"/>kungen, Sonntagsfahrverbot, generell aufheben, aknn ich annehmen<lb/>
+dass in Deutschland di-e Produktion auf vollen Touren läuft und<lb/>
+dadurch auch die Internationalen ihre <choice><choice><sic>VErpflichten</sic><corr>Verpflichtungen</corr></choice></choice> leicht er<lb break="no"/>füllen werden. Gänzlich wollte ich aber die Vorbereitungen<lb/>
+nicht abblasen, wesehalb <name type="person" ref="per:137269">Hajek</name> den Vorschlag machte, es soll<lb/>
+den Gesellschaften überlassen bleiben, nicht bis zum 15.1.<lb/>
+sondern bis zu einem späteren Zeipunkt die Bänder an die IBM<lb/>
+zu senden. MIt IBM wird gesprochen, dass sie den Vertrag zwar<lb/>
+nicht gekündigt bekommt, aber doch auch damit rechnen muss,<lb/>
+dass wir auf ihre Tätigkeit verzichten oder zu einem späteren<lb/>
+Zeitpunkt durchführen. Der Drukc der Marken wird auch alle<lb/>
+Fälle fortgesetzt. Die VOrbereitungsarbeiten für die Zusatz<lb break="no"/>mengen, welche die Industrie, das Gewerbe und vor allem die<lb/>
+Fremden, wenn sie nach Österreich einreisen, brauchen würden,<lb/>
+werden gleichfalls weitergeführt. Am kritischesten ist, dass<lb/>
+100 Mill. Gäste nach Österreich oder über Österreich reisen,<lb/>
+35 Mill. nach Angaben <name type="person" ref="per:97879">Rösch</name> im Auto.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name>: Bitte versuche genaue Statistiken ins<lb break="no"/>besondere, wieviele KFZ die Grenze über<lb break="no"/>schritten haben, zu erlangen. <name type="person" ref="per:97493">Gröger</name> hat<lb/>
+nämlich eine wesentlich geringere Zahl ange<lb break="no"/>nommen.</p><pb n="19-0026" facs="19_1974-01-09_0026.jpg"/><p xml:space="preserve">Die Sitzung <name type="person" ref="per:97584">Jagoda</name>-<name type="person" ref="per:107937">Frank</name>-<name type="person" ref="per:112051">Singer</name> und <name type="person" ref="per:97377">Bukowski</name> ergab, dass die<lb/>
+Personalfrage noch immer nicht gelöst ist. <name type="person" ref="per:112977">Neuhold</name> wird von <name type="person" ref="per:107939">Römer</name><lb/>
+nicht freigegeben, obwohl die Preiskompetenz von <name type="person" ref="per:112946">Schleifer</name> ein<lb break="no"/>deutig an die Sektion II abgetreten wurde. <name type="person" ref="per:97584">Jagoda</name> wird mit <name type="person" ref="per:107939">Römer</name><lb/>
+darüber verhandeln, weil <name type="person" ref="per:112051">Singer</name> mit REcht die Mitarbeit dieses<lb/>
+Fachmannes für Öl braucht. <name type="person" ref="per:112946">Schleifer</name> hat <name type="person" ref="per:127126">Hönel</name> an <name type="person" ref="per:112051">Singer</name> abgeben<lb/>
+wollen, der noch niemals mit Preisfragen sich beschäftigt hat<lb/>
+und übrigens krank ist, ebenso ist <name type="person" ref="per:112011">Kurzl</name> drei Wochen in den<lb/>
+Krankenstand gegangen, um sehe Gelbsucht auszukurieren. Zuerst<lb/>
+hat <name type="person" ref="per:112011">Kurzl</name> sich um die Kompetenzausweitung gerissen, er wollte<lb/>
+und hat auch alle erhalten, hat auch der Konstruktion zuge<lb break="no"/>stimmt, dass <name type="person" ref="per:112051">Singer</name> Gruppenleiter wird und dann war er doch be<lb break="no"/>leidigt, wie er bereits in derersten Preiskommission allen mit<lb break="no"/>geteilt hat und geht jetzt in Krankenstand. BEzüglich des Elek<lb break="no"/>trizitätspreisverfahrens, wo <name type="person" ref="per:109811">Burian</name> ebenfalls jetzt auf eine<lb/>
+Studienreise gefahren ist mit den soz. Direktoren und anderen<lb/>
+wird <name type="person" ref="per:112051">Singer</name> die Verhandlungen weiterführen. Wenn <name type="person" ref="per:139680">Pacheiner</name> von<lb/>
+der KELAG oder <name type="person" ref="per:113025"><choice><choice><sic>Horrak</sic><corr>Horwath</corr></choice></choice></name> von der bgl. Gesellschaft, Genossen,<lb/>
+die bei mir interpellierten, ich soll so schnell wie möglich<lb/>
+das VErfahren abschliessen, jeweils wieder bei mir intervenieren,<lb/>
+werde ich ihnen mit aller Deutlichkeit sagen, dass sie in dieser<lb/>
+kritischen Phase auf Studienreise, d.h. Urlaub gefahren sind.<lb/>
+Mir ist ein solches VErhalten unerklärlich.</p><p xml:space="preserve">Bei der Regierungs-Parteipräsidium-Besprechung erfuhr ich,<lb/>
+dass auch engste Mitarbeiter hättenmitkommen können. Angeblich<lb/>
+hat dies <name type="person" ref="per:97668">Kreisky</name> bei einer Vorbesprechung mitgeteilt, Als die<lb/>
+Mitarbeiter aber dann, es waren 4 Sekretäre anwesend, im Sitzungs<lb break="no"/>saal sassen, hat <name type="person" ref="per:97668">Kreisky</name> sie dann doch wieder hinauskomplimen<lb break="no"/>tiert, indem er meinte, dies gelte erst für morgen, womit cih<lb/>
+wieder sehr forh war, dass niemand ovn uns zumindestens heute<lb/>
+dabei war. FÜr den nächsten Tag habe ich mir vorgenommen, in<lb/>
+der Früh, da wir erst um 1/2 10 Uhr begonnen, sofort<lb/>
+<name type="person" ref="per:97377">Bukowski</name> einzuladen. <name type="person" ref="per:97668">Kreisky</name> hat eingeleitet, dass der Ölpreis sich<lb/>
+rückentwickeln wird, dass die Versorgung gesichert ist, dass man<lb/>
+aber trotzdem eine Sparsamkeit an den Tag legen sollte. VOrher hat<lb/>
+er mich bereits angesprochen und gemeint, er wollte mich schon<lb/>
+verständigen, dass die Deutschen jetzt alles abblasen, wahrschein<lb break="no"/>lich wird er jetzt sagen, er hat das sowieso immer gewusst und<lb/>
+die Entwicklung ist genauso verlaufen,wie er erwartete.</p><pb n="19-0027" facs="19_1974-01-09_0027.jpg"/><p xml:space="preserve">Ich – wie er mir unter vier Augen sagte – sollte daher die Vor<lb break="no"/>beeitungen weiterführen, aer Marken nicht zur Verteilung bringen.<lb/>
+Das wichtigste Problem, erklärte er, aber sei die notwendigkeit für<lb/>
+den Massenverkehr mehr zu tun, d.h. in diesem Gremium zu ent<lb break="no"/>scheiden, on ein Teil der Mineralölsteuer, von – wie <name type="person" ref="per:97311">Androsch</name><lb/>
+dann ausführte – 500 – 900 Mill. der Bundesbahn gegeben werden<lb/>
+könnte und sollte. <name type="person" ref="per:97311">Androsch</name> wies darauf hin,dass die Mineralölsteuer<lb/>
+9,3 Mia S 1974 erbringen soll, die <choice><choice><sic>Motorierung</sic><corr>Motorisierung</corr></choice></choice> sehr gestiegen ist<lb/>
+und zwei Erhöhungen erstens als man den Dieselölpreis erhöhte<lb/>
+1971 und die Mineralölsteuer erhöhte und 1974 als man bei der<lb/>
+Preisbestimmung jetzt um 20 Groschen, nachdem man allerdings<lb/>
+vorher um 10 Groschen die Mineralölsteuer gesenkt hat, erhöht.<lb/>
+die 10 Groschen, die jetzt ab 1975 gelten, bringen 500 Mill.<lb/>
+mehr. Für den Individualverkehr wird um Budget ca. 30 Mia<lb/>
+zugewendet, während dem Massenverkehr ÖBB 2,5 Mia und wenn man<lb/>
+die Individualverkehrsaufwendungen für U-Bahn- Elektrische,<lb/>
+Bus usw. auch von den Ländern und Gemeinden dazurechnet, wahr<lb break="no"/>scheinlich 2,5 Mia S. Auf der Strasse und im gesamten Baugeschehen<lb/>
+sei eine Überkonjunktur 480.000 Bauarbeiter, von denen 25 %<lb/>
+noch Gastarbeiter sind sind überbeschäftigt, während bei der SGP<lb/>
+und Elin, d.h. bei den Lieferfirmen für den Massenverkehr eine<lb/>
+gewisse Auftragsflaute herrscht. Ein grosses Problem sie auch, das<lb/>
+man den Bauern zwar versprochen hat, gefärbtes Dieselöl zu geben<lb/>
+dann aber statt die Subvention von 380 Mill. S für dne Punkte<lb break="no"/>wert auf 565 Mill. S ansteigen würde . Hierrächt sich eben,<lb/>
+wie ich mir dabie dachte, dass man eben immer wieder Ver<lb break="no"/>sprechungen, Ankündigungen macht, ohne sich vorher zu überlegen,<lb/>
+welche Auswirkungen dies hat. <name type="person" ref="per:110923">Lanc</name> ergänzte, dass er 2,6 Mia S<lb/>
+im Budget für die normalen Aufwendungen zur VErfügung hat, im Stabi<lb break="no"/>lisierungsquote 1 Mia bereitliegt, die allerdings wie <name type="person" ref="per:97311">Androsch</name><lb/>
+dann sofort sagte, finanziell nicht gedeckt ist und er daher<lb/>
+unbedingt 1 Mia pro Jahr braucht. <name type="person" ref="per:97755">Moser</name> dagegne erwiderte, dass<lb/>
+von den 9,3 Mia 8,7 Mia aus der Mineralölsteuer einfliessen,<lb/>
+wovon er 6,7 Mia für den Weiterbau der schon begonnen Projekte,<lb/>
+der Erhaltung der Strassen und auch 9 % für die Strassenplanung<lb/>
+den Ländern, d.s. fast 8 Mio <choice><choice><sic>A</sic><corr>S</corr></choice></choice> geben muss. Aus diesem Grund kann<lb/>
+er, um überhaupt neue Strassen zu beginnen, einer Abtretung auch<lb/>
+von 5 % nicht zustimmen. Von den 1.800 km Autobahn sind 33 %<lb/>
+erst ausgebaut von den 1.200 km Schnellstrassen nur 6 % und<lb/>
+von den 9.200 km Bundesstrassen sind 33 % erst voll ausgebaut<lb/>
+<pb n="19-0028" facs="19_1974-01-09_0028.jpg"/>während 33 % gerade noch entsprechen. Das letzte Drittel sit<lb/>
+üerhaupt in einem katastrophalen Zustand. Wenn er die Strassen<lb/>
+sanieren sollte, wie im Bundesstrassengesetz vorgesehen, wrd<lb/>
+er 220 – 270 Mia S. brauchen. In der Diskussion war nur <name type="person" ref="per:97963">Slavik</name><lb/>
+und auch <name type="person" ref="per:97488">Gratz</name> ein bisschen für die Abzweigung der Mineral<lb break="no"/>ölsteuer, einige wie z.B. <name type="person" ref="per:97994">Steinocher</name>, ein Eisenbahner, meinte,<lb/>
+er sei im Prinzip dieser Auffassung, aber jetzt vor den<lb/>
+Wahlen und ganz besonders als LH-Stv. müsse er dies aber ablehnen.<lb/>
+<name type="person" ref="per:98038">Wagner</name> meinte, man sollte die Mineralölsteuer um 20<add>10?</add> Groschen<lb/>
+erhöhen, <name type="person" ref="per:97994">Steinocher</name> erinnerte dann daran, dass man seinerzeit<lb/>
+eine Beförderungssteuer gehabt hat und <name type="person" ref="per:114604">Hillinger</name> hat überhaupt<lb/>
+darauf verwiesen, dass wir im Nahverkehr ungefährt 500 – 900 Mio<lb/>
+S für die Gemeinden udn Länder bräuchten, die ebenfalls, wenn<lb/>
+eine Abzweigung der Mineralölsteuer kommt, was er aber ablehnt,<lb/>
+dann gedeckt werden müssten. <name type="person" ref="per:97891">Salcher</name> meinte, es müsste zuerst<lb/>
+überhaupt ein Konzept erarbetiet werden und die beiden Minister<lb/>
+sollten etnsprechenden Plan vorlegne, was <name type="person" ref="per:97668">Kreisky</name> sofort ganz ent<lb/>
+schiedne ablehnte und erklärte, zuerst müsse die politische Ent<lb break="no"/>scheidung getr-ffen werden und dann könne man erst rechnen.<lb/>
+Auch bei der Gesundheitspolitik hätte man einen solchen Weg ein<lb break="no"/>geschlagen, da die Fachleute überhaupt nichts wissen udn ent<lb break="no"/>sprechende politische Entscheidungen eben zuerst prinzipiell<lb/>
+geefällt werdne müssten. Hier erinnerte ich mich auch wieder<lb/>
+an die prinzipielle Entscheidung man wird dne Bauern den Gefärbten<lb/>
+Diesel zur Verfügung stelen, wobei man jetzt aus dem Dilemma<lb/>
+dass dann die Bauern 200 Mill. S meehr bekommen, nicht heraus<lb break="no"/>kommt. Wahrscheinlich hat <name type="person" ref="per:97668">Kreisky</name> bis zu einem gewissen Grad<lb/>
+recht, wenn man nämlich alle Details kennt und vor allem einmal<lb/>
+zuerst erforschenwill, dann würde man zögern und Zaudern und<lb/>
+gar nicht irgendwelchen politischen Entschlüssen kommen. Anderer<lb break="no"/>seits aber wieder, sollte man doch bevor man eine solche politi<lb break="no"/>sche Entscheidung fasst, unbedingt zumindestens die grobenAuswirku<lb/>
+gen und Berchnungen genau kennen. Ich zumindestens werde an diese<lb/>
+Politik weiter festhalten, zuerst mir doch so viel wie möglich<lb/>
+DEtailinformationen verschaffen, bevor ich eine Entscheidung<lb/>
+anstrebe oder gar treffe. Da oftmals kritisiert wurde in der<lb/>
+Diskussion, dass unsere Autobahnen gebührenfrei befahren werden<lb/>
+können, hat <name type="person" ref="per:97845">Probst</name> dann gemeint und <name type="person" ref="per:98043">Waldbrunner</name> auch estätigt,<lb/>
+dass dies eine Forderung der ÖVP in der Koalitionsregierung war,<lb/>
+<pb n="19-0029" facs="19_1974-01-09_0029.jpg"/>wo ja gegen den Autobahnbau sich uerst überhaupt die Soz. Partei<lb/>
+hart ausgesprochen hat. So vile ich mich erinnern kann. <name type="person" ref="per:97311">Androsch</name><lb/>
+verwies dann darauf, dass auf den Gesellschaftsstrecken wie<lb/>
+Tauern-, Gleinalm-, Arlberg Thurn- sowie jetzt bereits bei Brenner<lb/>
+Felbertauern- unsw. eine Gebühr eingehoben wird und sogar<lb/>
+die Gebühren dauernd auf sein Drängen stark erhöht werden.<lb/>
+Den Ausbau für die Strassen sihet er nicht so schlecht wie<lb/>
+<name type="person" ref="per:97755">Moser</name>, da im Jahre 1973 2,5 bis 3 Mia S für die Gesellschafts<lb break="no"/>strecken aufgenommen wurden und auch 1974 3,5 bis 4 Mia geplant<lb/>
+sind. Durch die Gebühren können dann die entsprechenden Annuitäten<lb/>
+und Zinsen zurückgezahlt werden. Ob wir geringere Mineralöl<lb break="no"/>steuererträge haben, aht er nicht gesagt, nur darauf hingewiesen,<lb/>
+dass wir durch die Steigerung der Ölpreise statt 4 Mia S<lb/>
+6 Mia S für das importierte Öl ausgeben müssen. <name type="person" ref="per:97311">Androsch</name> wird<lb/>
+sich wundern, wenn er die Jänner-Ziffern sehen wird, denn da<lb/>
+die Dezember-Mineralölsteuer um 10 Groschen tiefer war, haben<lb/>
+natrülich alle Firmen ausgeliefert. Der Mehrertrag aus der Mehr<lb break="no"/>wertsteuer aus den erhöhten Benzinpreisen hat 1973 nach seiner<lb/>
+Mitteilung ohn <choice><choice><sic>Vorsteuerbazu</sic><corr>Vorsteuerabzug?</corr></choice></choice> nur 200 Mill. gebracht. Nach stun<lb break="no"/>denlanger Diskussion hat <name type="person" ref="per:97668">Kreisky</name> letzten Endes dann zusammenge<lb break="no"/>fasst und entschiedne und wieder einmal seine berühmte Kurve ge<lb break="no"/>nommen, indem er meinte, das Problem könne man nicht fofen lassen<lb/>
+weil ansonsten die Oppositionspolitiker aber auch die Presse<lb/>
+uns ständig attackieren, der GEgensatz müsste also so ausgeräumt<lb/>
+werdne, dass man erklärt, die Mineralölsteuer sollte für den<lb/>
+Ausbau der Massenverkehrsmittel nicht abgezweigt werden, aber<lb/>
+an konkreten BEispielen, d.h. eine Regelung für die Schnellbahn<lb/>
+Ausbau, wobei <name type="person" ref="per:97668">Kreisky</name> nicht nur an Wien denkt sondern z.B. auch das<lb/>
+Mühlviertel nach Linz und in anderen Landeshauptstädten sollte<lb/>
+man sich dann über die Finanzierung unterhalten. Acuh in Vöslau<lb/>
+hätte man vor einigen Jahren das Gesundheitsproblem erst einmal<lb/>
+angeshcnitten, nachher Umfragen getätigt und jetzt hätte sihc<lb/>
+zwar herausgestellt, was man auch schon erwartet hat, dass die<lb/>
+Bevölkerung sagt, man soll sparen, aber doch dann bereit ist,<lb/>
+die Zigarettenpreis-Erhöhung zu akzeptieren, womit für die<lb/>
+Gesundheitspolitik 400 Mill. S zur Verfügung gestellt werden<lb/>
+könnten. Hoffentlich erinnnert sihc iemand daran, dass bei der<lb/>
+letzten Zigarettenpreiserhöhung <name type="person" ref="per:97311">Androsch</name> auch schon angekündigt<lb/>
+hatte, dass auch dies für die Gesundheit geschichet. <name type="person" ref="per:98066">Robert Weisz</name><lb/>
+hat mich Anfangs der Sitzung <choice><choice><sic>gebracht,</sic><corr>gefragt?</corr></choice></choice> was ich zu dem Problem denke<lb/>
+<pb n="19-0030" facs="19_1974-01-09_0030.jpg"/>und ich erklärte ihm gleich, dass ich überzeugt, bin, dass<lb/>
+der Vorschlag abgelehnt wird. <name type="person" ref="per:97525">Häuser</name> hat dann auch noch namens<lb/>
+der Gewerkschaft ganz besonders der Bauarbeiter velrangt,<lb/>
+dass man vorerst entsprechende Überlegungen und Berechnungen<lb/>
+anstellen müsste. Da <name type="person" ref="per:110923">Lanc</name> aber dringend diese Mittel braucht,<lb/>
+hat er gemeint, dann müsste der Finanzminister und das war<lb/>
+acuh dei Meinung aller anderen, schauen, wie er die notwendigen<lb/>
+Beträge auftreibt, was <name type="person" ref="per:97311">Androsch</name> aber verärgert meitne, er hätte<lb/>
+dafür keine Möglichkeit, da das Budget in Ordnung sei, nur für<lb/>
+die Bahn, Post und die Hochbauten der Schulen und insbesndere<lb/>
+acuh der Universitäten die notwendigen und von den Ressorts ange<lb break="no"/>forderten Mitteln nicht zur Verfügung stehen. Dieser TEil des<lb/>
+Budgets sei nicht in Ordnung. <name type="person" ref="per:97668">Kreisky</name> hat ganz genua erfasst, dass<lb/>
+er aber in diesem Gremium nie die Zustimmung kriegne würde,<lb/>
+einige meinten sogar, im Jahre 1974 könne man ja gar nichts mehr<lb/>
+machen, weil das Budget bereits beschlossen sei und für 1975<lb/>
+im Wahljahr zahlt sich eine solche Diskussion glaube ich wirklich<lb/>
+nicht aus, wodurch ein Fortführen der Diskussion nur eine Schwächung<lb/>
+der Einheitlichkeit der Regierungsauffassung bedeutet hätte.<lb/>
+Er trennte sich deshalb von <name type="person" ref="per:97311">Androsch</name>, der ja diesen Vorschlag<lb/>
+wahrscheinlich in Lech mit ihm im Detail besprochen hatte, wobei<lb/>
+er meinte, er hätte dies sowieso erwartet, und schuf damit eine<lb/>
+wenigstens geklärte Situation.</p><p xml:space="preserve">Spät abends wurde dann vom Bundespressedienst ein Österreich-Film<lb/>
+vorgefü-hrt, deer einige gute Passagen hat, aber ansonsten meiner<lb/>
+Meinung nach nicht sehr taugflich sit, für Österreich wirklich<lb/>
+zu werben, <name type="person" ref="per:97668">Kreisky</name> meinte dann noch, die Russen hätten dann auch<lb/>
+noch vom <name type="person" ref="per:97652">Kossygin</name>-Besuch einen Film zur Verfügung gestellt, den<lb/>
+wir uns ansahen und feststellen konnten, dass der für Österreich<lb/>
+eine bessere Werbung macht als der des Bundespressedienstes.<lb/>
+Ich bemekrte deshalb, derzweite Film sei wirklich eine gute<lb/>
+Idee des Bundespressedienstes. Ironische Bemerkungen warenn auch<lb/>
+von vielen anderen zu Hören. Da wir auch in der ÖFVW ja schon<lb/>
+vor meiner Zeit solche miesen Filme gedreht hatten, war ich über<lb/>
+das ERgebnis nicht überrascht, Grundsatz 1: womöglich beim Film<lb/>
+nicht anstreifen !</p></div>
+      </body>
+      <back>
+         <pb n="19_0022_05" facs="19_1974-01-09_0022-05.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 9.1.1974</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="19_0022_06" facs="19_1974-01-09_0022-06.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+   </text>
+</TEI>

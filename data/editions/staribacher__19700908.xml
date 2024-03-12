@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstag, der  8. September 1970</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band02_1970-09-08</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1970-09-08">Dienstag, 8. September 1970</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-04-20">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-19" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+  <text xml:base="http://192.168.0.9/staribacher/src/scans/Band02/">
+      <body>
+         <pb n="02-0492" facs="02_1970-09-08_0492.jpg"/>
+         <div type="entry">
+            <dateline>
+               <date when="1970-09-08">Dienstag, 8. September 1970</date>
+            </dateline>
+            <p xml:space="preserve">Besprechung mit der Handelskammer, Präsident <name type="person" ref="per:97893">Sallinger</name> und<lb/>
+Generalsekretär <name type="person" ref="per:97769">Mussil</name>, unter Beiziehung von Dr. <name type="person" ref="per:113096"><choice><choice><sic>Platzer</sic><corr>Placek</corr></choice></choice></name> und<lb/>
+Dr. <name type="person">Stadler</name> über die Verhandlungen mit Polen. Eine von<lb/>
+<name type="person" ref="per:113096"><choice><choice><sic>Platzer</sic><corr>Placek</corr></choice></choice></name> vorgeschlagene escape clause wurde von mir nicht akzeptiert,<lb/>
+da sie viel zu umfangreiche gewesen ist. Unter anderen sollte der<lb/>
+Vertrag und der Handelsverkehr sofort gestoppt werden, wenn die<lb/>
+Lieferung von österreichischen Waren nach Polen und zwar für jede<lb/>
+einzelne Warenkategorie nachlassen würde. Wir einigten uns dann,<lb/>
+wenn maximal gegenüber Drittländern die österreichische Ausfuhr<lb/>
+sehr stark nachlässt gegebenenfalls restriktive Massnahmen ergriffen<lb/>
+werden könnten. Unter diesen Bedingungen war die Bundeskammer –<lb/>
+Dr. <name type="person" ref="per:113096"><choice><choice><sic>Platzer</sic><corr>Placek</corr></choice></choice></name> machte den Vorschlag – sogar bereit einer entsprechenden<lb/>
+Vorverlegung der Liberalisierung und der Multilateralisierung zuzu<lb break="no"/>stimmen.</p>
+            <p xml:space="preserve">Präsident <name type="person" ref="per:97922">Schmitz</name> von der Nationalbank verlangte von mit auch eine so<lb break="no"/>lche Vorverlegung der Multilateralisierung und wies insbesondere<lb/>
+darauf hin, dass <name type="person" ref="per:97749">Mitterer</name> dem Internationalen Währungsfonds zugesagt<lb/>
+hatte, dass ein bis maximal eineinhalb Jahre nach Abschluss der<lb/>
+Moskauer Multilate-ralisierung auch die anderen Oststaaten diese<lb/>
+bekommen sollten. Diese Mitteilung ist für mich äusserst wichtig<lb/>
+und wir werden im Haus prüfen müssen, ob diese Mitteilung bekannt<lb/>
+war, weil man sich hier bekanntlicherweise sehr gegen die Multilatera<lb break="no"/>lisierung gewehrt hat.</p>
+            <p xml:space="preserve">Bei dieser Gelegenheit konnte ich feststellen, bei einem Gespräch,<lb/>
+das ich dann nur mit <name type="person" ref="per:97769">Mussil</name> allein führte, dass er über die Angriffe<lb/>
+angeblich gegen das Handelsministerium nicht sehr glücklich sei,<lb/>
+er sei – wie er sich ausdrückte - hineingejagt worden. Ich glaube ihm<lb/>
+dies nicht ganz, ausserdem versicherte ich, dass mich das überhaupt nicht<lb/>
+geniert, sondern ich das als eine ganz natürlich Situation betrachte.<lb/>
+Ich erklärte, dass ich überzeugt bin, dass ich ihn auch bezüglich des<lb/>
+Aussenhandelsrates überzeugen könnte und nur Missverständnisse vorlie<lb break="no"/>gen- Schliesslich und endlich hatten wir uns ja auch über den Konsumen<lb break="no"/>tenrat geeinigt. Nach Auffassung von <name type="person" ref="per:97769">Mussil</name> haben wir die letzten<lb/>
+Wahlen wegen unserer Preiskampftaktik gewonnen und die österr.Volks<lb break="no"/>partei will scheinbar auch jetzt auf diesem Sektor den Wahlkampf,<lb/>
+<pb n="02-0493" facs="02_1970-09-08_0493.jpg"/>sei es in Tirol oder in den drei Wahlreisen in Wien, gewinnen.<lb/>
+<name type="person" ref="per:97769">Mussil</name> beschwerte sich dann insbesondere, dass jetzt so viele<lb/>
+Leute über Währungsfragen diskutieren, die seiner Meinung nach<lb/>
+gar nichts davon verstehen. Ich erwiderte, dass ja <name type="person">Machlup</name><lb/>
+in der Presse einen Artikel geschrieben, wo er als Professor<lb/>
+der Nationalökonomie darauf hinweist. dass die Praktiker von<lb/>
+diesen Problemen ja doch letztendlich nichts verstehen. <name type="person" ref="per:97769">Mussil</name><lb/>
+sprach sich insbesondere gegen eine Erhöhung der Bandbreiten<lb/>
+aus und behauptete, wenn die Bandbreiten 3 % betragen würden, so<lb/>
+müsste man das alles mit 3 multiplizieren, eine Erklärung konnte<lb/>
+er mir nicht geben, stellte mir allerdings ein Exposé in Aussicht.<lb/>
+Seiner Meinung nach würde dies dann fast zu einer 10 %-igen Schwan<lb break="no"/>kung der Wechselkurse führen und damit die Industrie und das Gewerbe<lb/>
+hart treffen, da eine Kalkulation kaum mehr möglich ist. Ich hatte<lb/>
+eine diesbezügliche Aussprache mit CA-Direktor <name type="person">Migsch</name>, der eben<lb break="no"/>falls sich für feste Wechselkurse ausgesprochen hat. Mein Hinweis,<lb/>
+dass ja ihr Präsident <name type="person" ref="per:97922">Schmitz</name> dieses Verlangen stellte, wurde nur<lb/>
+mit einer verächtlichen Bemerkung abgetan. Sorge hat die Bundes<lb break="no"/>kammer, dass ich die Gewerbeordnung vielleicht ebenfalls im<lb/>
+Rahmen der Wirtschaftsgesetze vollende und sofort dem Nationalrat<lb/>
+zuleite. Ich beruhigte sie, da ich erklärte, ich hätte mir vorge<lb break="no"/>nommen, im vorparlamentarischen Raum eine Lösung herbeizuführen<lb/>
+und ausserdem die Notwendigkeit besteht, die gesamte Gewerbe<lb break="no"/>ordnung fertigzumachen und nicht aus politischen Gründen den<lb/>
+Allgemeinen Teil, wie ihn die ÖVP-Regierung beabsichtigt hat und<lb/>
+dann ein richtiges Tohuwabohu auf diesem Sektor herbeizuführen.</p>
+            <p xml:space="preserve">Im Ministerrat berichtete ich nach der Tagesordnung, die ohne An<lb break="no"/>merkungen angenommen wurde, nur <name type="person" ref="per:97311">Androsch</name> hat bei der Investi<lb break="no"/>tionstätigen Förderungsmassnahmen darauf hingewiesen, dass auch<lb/>
+die Steuerreformkommission für eine optimale Lösung der<lb/>
+Investitionstätigkeit Vorschläge ausarbeitet, den mündlichen Bericht<lb/>
+über die Wirtschaftsgesetzverhandlungen zu geben. Die Terminge<lb break="no"/>staltung wurde vereinbart, am 18.9. werden die Gesetze ausgesendet<lb/>
+und bis 2.10. die Begutachtungsfrist läuft. Ab 7.10. soll in der<lb/>
+Verbindungsstelle der Entwurf dann von den zuständigen Ministerien<lb/>
+vorgelegt werden, sodass der Ministerrat am 13.10 sie beschliessen<lb/>
+kann und am 16.10. sie dem Nationalrat zugeleitet ist. Die Termi<lb break="no"/>nisierung wird mit einem Jahr festgelegt, um im Lichte der Er<lb break="no"/><pb n="02-0494" facs="02_1970-09-08_0494.jpg"/>fahrung und im Hinblick auf die zukünftige Kompetenzregelung<lb/>
+die entsprechenden Vorarbeiten dann für ein endgültiges<lb/>
+Gesetz zu gewinnen. Aus diesem Grund hatte ich auch das Anbot<lb/>
+<name type="person">von Rösch</name>, der mir bei dieser Gelegenheit gleich die gesamte<lb/>
+Materie für die Preisregelung übertragen wollte, abgelehnt,<lb/>
+bei einer internen Besprechung, weil ich glaube, dass wir nur<lb/>
+auf diese Weise die einjährige Befristung begründen können.</p>
+            <p xml:space="preserve">Im ÖGB fand eine Besprechung mit <name type="person" ref="per:97346">Benya</name>, <name type="person" ref="per:97525">Häuser</name>, <name type="person" ref="per:97563">Hofstetter</name><lb/>
+und <name type="person" ref="per:135660">Skoda</name> statt, ob und inwieweit das Handelsministerium den<lb/>
+Verein für Konsumenteninformation ausschalten will. Ich<lb/>
+beruhigte die Genossen und erwiderte ganz im Gegenteil wir den<lb/>
+Verein ausbauen wollen und auch erhöhte Subventionen dem Verein<lb/>
+zuwenden. Allerdings nicht für allgemeine Verwaltung, sondern<lb/>
+primär für die Projekte. <name type="person" ref="per:135660">Skoda</name> war zuerst über diesen<lb/>
+Vorschlag nicht sehr begeistert, hat sich dann allerdings über<lb break="no"/>zeugen lassen, bei einem Budget von 6,5 Mill. S, wo ein für<lb/>
+die Prüfung 2,6 für die Verwaltung ca. 2 Mill. und für Beratung<lb/>
+ca. 1 Mill. aufgewendet werden, dass doch in dem Prüfungsaufwand<lb/>
+von 2,6 Mill. Arbeiten drinnenstecken müssen, die eben dann das<lb/>
+Handelsministerium finanziert.</p>
+            <p xml:space="preserve">Die Sektionsleiterbesprechung war zwar diesmal sehr straff<lb/>
+geführt, da ich nur eine Stunde Zeit hatte und der ung. Botschafter<lb/>
+und Handelsrat kam, aber doch in Wirklichkeit dasselbe wie bis<lb break="no"/>her. Die Vorschläge die von Seiten der Sektionen kommen, sind<lb/>
+äusserst spärlich und ebenso wird nur sehr vereinzelt Kritik<lb/>
+an meinen Massnahmen geübt.</p>
+            <p xml:space="preserve">In der ÖGB-Fraktion wurde über ein neues Betriebsrätegesetz be<lb break="no"/>richtet, wobei für mich interessant ist insbesondere die staat<lb break="no"/>liche Wirtschaftskommission, die bisher von Betriebsräten bei<lb/>
+über 500 Beschäftigten angerufen werden konnte, jetzt bereits<lb/>
+bei 200 angerufen werden kann und ausserdem jetzigen Umfang<lb/>
+auch noch dann Streitereien, die sich zwischen dem Betriebsrat<lb/>
+und der Unternehmenführung über die Zweckmässigkeit der Betriebs<lb break="no"/>führung ergeben, an diese herangetragen werden können.<lb/>
+Da die staatliche Wirtschaftskommission keine Möglichkeit hat,</p>
+            <p xml:space="preserve">i<lb/>
+<pb n="02-0495" facs="02_1970-09-08_0495.jpg"/>exekutive Massnahmen zu erlassen, so bleibt ihr nur die Mög<lb break="no"/>lichkeit, über die Probleme hier zu diskutieren. Nach Meinung<lb/>
+Weissenbergs genügt dies aber, dass die Unternehmer freimütiger<lb/>
+Unterlagen an die Betriebsräte aushändigen. Ich persönlich teile<lb/>
+diese Meinung nicht und bin auch der Überzeugung, dass im Rahmen<lb/>
+der Verhandlungen im Parlament dies wahrscheinlich wieder gestrichen<lb/>
+werden wird. Es stellt sich ja jetzt heraus, dass das Betriebsräte<lb break="no"/>gesetz in seinem vollem Umfang gar nicht genützt wird, soweit nicht<lb/>
+eben ein tüchtiger Betriebsrat in einem Betrieb ist. Wenn ein<lb/>
+solcher Betriebsrat wirklich in einem Betrieb steckt, dann hat er<lb/>
+oft ohne gesetzliche Grundlage ein Mitsprache- und Einschaurecht,<lb/>
+wie es ihm durch Gesetze gar nicht gesichert werden kann. <name type="person" ref="per:97525">Häuser</name><lb/>
+selbst will ja primär die kleine Reform machen, um die sehr<lb/>
+wichtigen Punkte, nämlich den Schutz des Betriebsrates und einige<lb/>
+Wahlbestimmungen der Betriebsrätewahl, durchzubringen. <name type="person" ref="per:97346">Benya</name> be<lb break="no"/>richtete auch über die Verhandlungen betreffend das Pressehaus,<lb/>
+da nämlich <name type="person" ref="per:97777">Nenning</name> wiedereinmal in seinem "Forum" einen entsprechenden<lb/>
+Angriff gestartet hat. Tatsächlich ist, dass es keinen Vertrag<lb/>
+mit <name type="person">Dichant</name> und <name type="person">Falk</name> gibt, der eine Schonung des Gewerkschafts<lb break="no"/>bundes in Zukunft sichert, sondern es gibt nur die kommerziellen<lb/>
+Überlegungen, dass die Kronenzeitung, die eine eigene Druckerei</p>
+            <p xml:space="preserve">errichten wollte und diesbezüglich schon einen Grund gekauft hat.<lb/>
+durch die Beteiligung von 49 % am Pressehaus in diesem gebunden<lb/>
+bleiben konnte und wird. Die Kronenzeitung hatte von <name type="person" ref="per:126929">Molden</name> einen<lb/>
+derartig guten Druckvertrag, dass sie auf Grund dieses 25 Mio S<lb/>
+pro Jahr Verluste dem Pressehaus zugefügt hätte, in fünf Jahren<lb/>
+wäre dies ein beachtlicher Gewinn der also jetzt, da die Kronenzei<lb break="no"/>tung ad dem Pressehaus beteiligt ist, wenigstens zur Hälfte mitge<lb break="no"/>tragen wird. Andere Zeitungen haben teilweise, wie z.B. der Express<lb/>
+wieder, sehr schlechte Druckverträge, und würden, da sie einen<lb/>
+Ewigen Druckvertrag haben, auf lange Zeit zumindestens gebunden<lb/>
+bleiben. Durch die starke Ausweitung der Kronenzeitung und den<lb/>
+günstigen Nachdruckpreis und durch die starke Einschränkung der<lb/>
+Express-Auflage kommt es zu dieser divergenten Entwicklung. Aus<lb/>
+diese Grunde musste eine kommerzielle und finanzielle Lösung ge<lb break="no"/>funden werden. Dies ist der wirkliche Grund des Arrangements der<lb/>
+INGEBE – einer Industriebeteiligungsgesellschaft der BAWAG, der<lb/>
+auch das Pressehaus gehört, mit dem Zeitungsverlag <name type="person">Dichant</name> und <name type="person">Falk</name>.</p>
+            <pb n="02-0496" facs="02_1970-09-08_0496.jpg"/>
+            <p xml:space="preserve">Stadtrat <name type="person" ref="per:97772">Nekula</name> hat sich bei mir beschwert, dass das Ministerium<lb/>
+die vorgesehene Überprüfung im Gaswerk unter Bedingungen verlangt,<lb/>
+die man nur bei Betrügern aufstellt. Ich sagte ihm zu, ich würde<lb/>
+mir diesen Fall genau anschauen und er schlug vor, er würde mir<lb/>
+den Brief schicken, damit die Abteilung nichts davon bemerkt.<lb/>
+Sicher ist eines, dass <name type="person" ref="per:112946">Schleifer</name> scheinbar hier seine ganze or<lb break="no"/>ganisatorische Kraft einsetzt, um zu beweisen, welch tüchtiger<lb/>
+Vertreter er im Interesse des Konsumenten der gewerblichen<lb/>
+Industriebetriebe ist.</p>
+            <p xml:space="preserve">Rumänische Journalisten wollten von mir interessante Details<lb/>
+über die wirtschaftliche Lage wissen, nur war ich über die<lb/>
+rumänische Situation gar nicht gut informiert und es war<lb/>
+interessant, dass ich um 5 Uhr im Hause keine Unterlagen mehr<lb/>
+im Detail bekommen konnte. Obwohl das Tagesprogramm sicher auch<lb/>
+in den Sektionen bekannt war, hat niemand es für wert befunden,<lb/>
+mir entsprechende Informationen und Unterlagen zur Verfügung zu<lb/>
+stellen. Von Seiten unseres Büros wurde dies leider auch verab<lb break="no"/>säumt.</p>
+            <p xml:space="preserve">Da mit Ministerpräsident <name type="person">Ceausescu</name> auch der rum. Aussenhandels<lb break="no"/>minister nach Wien und wir einen langfristigen Handelsvertrag<lb/>
+bis zum Jahre 1975 jetzt abgeschlossen haben, habe ich ange<lb break="no"/>nommen und kombiniert, dass der Vertrag wahrscheinlich zwischen<lb/>
+Handelsminister und mir unterschrieben werden wird. Eine genaue<lb/>
+Information habe ich allerdings nicht besessen. Ich konnte nur<lb/>
+aus Kombination auf diese Tatsache schliessen und habe sie<lb/>
+daher auch natürlich steif und fest behauptet, als ich ge<lb break="no"/>fragt wurde. Ein sehr befriedigender Zustand ist das allerdings<lb/>
+für mich und <name type="person" ref="per:98053">Wanke</name>, der dabei war, nicht gewesen.</p>
+            <p xml:space="preserve">Die Information der Vertrauenspersonen und die Konferenzen zeigen<lb/>
+mir sehr deutlich, dass ich einerseits auf die Angriffe der ÖVP<lb/>
+im Detail einzugehen habe mich also daher nicht drücken soll und<lb/>
+kann, unangenehme Probleme, wie z.B. Preisentwicklung, Budget<lb break="no"/>situation usw. , zu erörtern, dass aber andererseits die Ge<lb break="no"/>nossinen und Genossen sehr grosses Interesse daran haben, so<lb/>
+gag-artige Insert-Information über die Arbeit in einem Ministerium<lb/>
+<pb n="02-0497" facs="02_1970-09-08_0497.jpg"/>und als Minister zu bekommen. Ich kann immer wieder feststellen,<lb/>
+dass solche Details sehr gut ankommen und die sonst sehr sachliche<lb/>
+Information doch einigermassen auflockern. Ich würde deshalb vor<lb break="no"/>schlagen, dass die einzelnen Minister-Sekretariate sachliches<lb/>
+Material vorlegen und allen Ministern und Referenten zur Verfügung<lb/>
+stellen, das bis ins letzte Details ausgearbeitet sein müsste<lb/>
+Die Informationen für Vertrauenspersonen müsste deshalb eigent<lb break="no"/>lich primär durch entsprechende statistische Ziffern ergänzt werden.<lb/>
+Ich glaube, dass unsere statistische Abteilung im Hause dazu gar<lb/>
+nicht fähig wäre und es wird deshalb zweckmässig sein, mit <name type="person" ref="per:133326">Krämer</name> von<lb/>
+der Arbeiterkammer diesbezügliche Verhandlungen unverzüglich zu<lb/>
+führen.</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="02_0491_01" facs="02_1970-09-08_0491-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 8.9.1970</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="02_0497_01" facs="02_1970-09-08_0497-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesordnung 20. Ministerratssitzung, 8.9.1970</head>
+            <gap reason="sampling"/>
+            <pb n="02_0497_02" facs="02_1970-09-08_0497-02.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="02_0497_03" facs="02_1970-09-08_0497-03.jpg"/>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+  </text>
+</TEI>

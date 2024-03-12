@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der 23. Juni 1979</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band49_1979-06-23</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1979-06-23">Samstag, 23. Juni 1979</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-08-26">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="49-0718" facs="49_1979-06-23_0718.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Samstag, 13. Juni 1979<lb/>
+</p>
+            <p xml:space="preserve">Der Landesparteitag stand unter dem Motto "Jahr der Partei" und<lb/>
+war deshalb auch nicht gerade ein hinreissender. Nach der Gemeinde<lb break="no"/>ratswahl-Niederlage, die allerdings durch die Nationalratswahler<lb break="no"/>gebnisse wieder teilweise kompensiert wurde, betrachtete es jeder<lb break="no"/>mann als eine kritische Phase innerhalb der Wiener Parteiorganisation<lb/>
+Tatsächlich wurde auch in den Bezirken und befreundeten Organisationen<lb/>
+viel diskutiert und viele Vorschläge gemacht. Viel Papier wurde be<lb break="no"/>druckt. An dem Parteitag wurden viele Anträge und Resolutionen ge<lb break="no"/>stellt. Die kritischste Phase war die Personaldiskussion um <name type="person" ref="per:97488">Gratz</name>.<lb/>
+Die Liesinger wollten den Parteiobmann vom Bürgermeister trennen.<lb/>
+Dies ist ihnen in der Wahlkommission nicht nur nicht gelungen,<lb/>
+sondern letzten Endes sind auch etliche verbündete andere Bezirke<lb/>
+oder Bezirksteile davon abgegangen. Selbst innerhalb von Liesing<lb/>
+gibt es darüber getrennte Meinungen. Trotzdem hat sich die Dis<lb break="no"/>kussion in den Wahlergebnissen dann niedergeschlagen. <name type="person" ref="per:97488">Gratz</name> erhielt<lb/>
+wesentlich mehr Streichungen als beim letzten Parteitag. Strei<lb break="no"/>chungen gingen von 13 % bis 0.5 %. Letzteres erreichte durch Zufall<lb/>
+ich – und <name type="person" ref="per:97543">Heindl</name> wieder behauptet dass dies ein typisches Ergebnis<lb/>
+für mich ist, bin ich fest davon überzeugt, dass es ein reiner Zu<lb break="no"/>fall ist, wenn eine Massnahme wie z.B. Benzinpreiserhöhung eine grössere<lb/>
+Gruppe verärgert, wenn es gar vielleicht zu einer Energieverknappung<lb/>
+kommen würde, die der einzelne Konsument stärker spürt, dann bin<lb/>
+ich überzeugt, hätte ich sofort eine ganze Anzahl von Streichungen.<lb/>
+Bei der anschliessenden Konstituierung des Vorstandes, bleib alles<lb/>
+beim Alten. <name type="person" ref="per:109818">Edlinger</name> Parteisekretär, <name type="person" ref="per:133069">Nussbaum</name> sein Stellvertreter,<lb/>
+die bisherigen Kooptierungen und Beiziehungen wurden auch wieder<lb/>
+beschlossen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="49_0717_01" facs="49_1979-06-23_0717-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 23.6.1979</head>
+         </div>
+      </back>
+   </text>
+</TEI>

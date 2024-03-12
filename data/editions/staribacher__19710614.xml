@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Montag, der 14. Juni 1971</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band06_1971-06-14</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1971-06-14">Montag, 14. Juni 1971</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-08-14">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="06-0702" facs="06_1971-06-14_0702.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Montag, 14. Juni 1971<lb/>
+</p>
+            <p xml:space="preserve">In die Regierungsklausur kam ich zu spät, da ich zuerst zur Koch<lb break="no"/>löffeluniversität, d.h. der Höheren Frauenschule nach Grinzing fuhr, wo<lb/>
+ursprünglich die Klausur abgehalten werden sollte. Die Klausurtagung hat<lb break="no"/>te zwei Hauptgründe: erstens festzustellen, wie die nächsten Monate<lb/>
+gearbeitet werden soll und zweitens die Budgeterstellung zu bespre<lb break="no"/>chen. Zum ersten Tagesordnungspunkt meinte <name type="person" ref="per:97668">Kreisky</name>, dass primär die<lb/>
+Glaubwürdigkeit der Regierung darin zu suchen sei, dass man so viel<lb/>
+wie möglich jetzt verwirklichen müsse. Der Slogan: lasst <name type="person" ref="per:97668">Kreisky</name> und<lb/>
+sein Team arbeiten, welcher noch im vergangenen Herbst uns gute Er<lb break="no"/>folge bei den Nachwahlen gebracht hat, würde jetzt nicht mehr ange<lb break="no"/>wendet werden dürfen. Bald würde sich der Slogan nur mehr für Kabarett<lb break="no"/>witze eignen. Überhaupt dürfe man eine Parole nicht wiederholen. Als<lb/>
+man 1953 das Arbeitslosengespenst gegen <name type="person" ref="per:97852">Raab</name> angewendet hat, sei die<lb/>
+SPÖ zu guten Ergebnissen gekommen. Als man 1956 dieselbe Parole wieder<lb/>
+benützte und sogar Wahlplakate aus 1953 reproduzierte, sei die Wahl<lb/>
+verlorengegangen. Glaubwürdig müsste die Regierung erscheinen, deshalb<lb/>
+müsste man sieh bemühen, die Heeresreform von 9 auf 6 Monate durchzu<lb break="no"/>setzen. Natürlich müsste man wahrscheinlich der FPÖ und der ÖVP Zu<lb break="no"/>geständnisse machen bei den Übungen, die mit 60 Tagen wahrscheinlich<lb/>
+beschlossen würden. Das Schülerbeihilfegesetz sei ja bereits im letzten<lb/>
+Nationalrat – was sich <name type="person" ref="per:97668">Kreisky</name> nicht erinnern konnte, da er nicht an<lb break="no"/>wesend war – in der Nacht noch beschlossen worden. Auf sozialpoliti<lb break="no"/>schem Gebiet müsste die Abfertigung und der Urlaub noch versucht wer<lb break="no"/>den, durchzusetzen. Das Justizministerium wird die Strafrechtsänderung<lb/>
+mit allen drei Stimmen versuchen durchzusetzen und das Angestelltenge<lb break="no"/>setz hätte keine Chance, da die Freiheitlichen dagegen seien, aller<lb break="no"/>dings sei fraglich, ob die ÖVP nicht doch noch vielleicht diesem Ge<lb break="no"/>setz seine Zustimmung geben wird. Das Mietrechtsänderungsgesetz, das<lb/>
+insbesondere für die Gewerbetreibenden von Entscheidung ist, da der<lb/>
+Mietzins von 3.- pro Krone auf 2.- S reduziert werden sollte, hat<lb/>
+wahrscheinlich keine Aussicht durchzukommen, ist aber für die Wahl<lb break="no"/>propaganda von grösster Bedeutung. Das Unterrichtsministerium hat das<lb/>
+Regierungsprogramm erfüllt, wie <name type="person" ref="per:97488">Gratz</name> sich ausdrückte, indem er alle<lb/>
+Gesetze eingebracht hat, resp. zur Begutachtung ausgeschckt hat, die<lb/>
+versprochen wurden. Das Wissenschaftsministerium hat drei Prioritäten<lb break="no"/>gesetze in Arbeit. Das Land- und Forstwirtschaftsministerium wird das<lb/>
+Weingesetz einbringen, Gen.Sekr. <name type="person" ref="per:97769">Mussil</name> hat mit <name type="person" ref="per:98055">Weihs</name> vereinbart,<lb/>
+dass ein Unterausschuss dieses bearbeiten wird. Das Aussenministerium<lb/>
+möchte noch den Bulgarien- und Ungarnvertrag bezüglich der technischen<lb/>
+<pb n="06-0703" facs="06_1971-06-14_0703.jpg"/>Zusammenarbeit erledigen. Das Bautenministerium hat das Bundes<lb break="no"/>strassengesetz und wird das Bodenbeschaffungs-Assanierungsgesetz<lb/>
+in die Begutachtung schicken. Bezüglich des Wohnbaugesetzes meinte<lb/>
+<name type="person" ref="per:97668">Kreisky</name>, dass uns hier wahrscheinlich die Bevölkerung am meisten<lb/>
+kritisieren wird, da es nicht gelungen ist, eine gesetzliche Rege<lb break="no"/>lung zu erreichen. Die ÖVP und FPÖ wird im Gegenteil wahrscheinlich<lb/>
+ihre Wohnbauvorstellungen durchsetzen. <name type="person" ref="per:97668">Kreisky</name> meinte noch, es sei<lb/>
+unerklärlich, wieso die frühzeitige Rückzahlung von der SPÖ, der<lb/>
+sogenannten ÖVP-Sanierungsplan für weitere Wohnbauten nicht von der<lb/>
+SPÖ unterstützt wird. <name type="person" ref="per:97755">Moser</name> erwiderte, dass seit 1954 im Wohnhauswieder<lb break="no"/>aufbaufonds eine solche 50 %-ige Rückzahlungsmöglichkeit besteht<lb/>
+und dass im ersten Jahr 268 Mill. eingeflossen sind, weil man damals<lb/>
+gleichzeitig erklärte, es darf nur jemand eine subventionierte Woh<lb break="no"/>nung besitzen und deshalb alle Zweit- und Drittwohnungen der Wohnungs<lb break="no"/>besitzer natürlich dann dem Wohnhauswiederaufbaufonds sofort ihre<lb/>
+Kredite zurückgezahlt haben. Das Verkehrsministerium wird das Fern<lb break="no"/>meldeinvestitionsgesetz einbringen, wobei allerdings <name type="person" ref="per:97743">Minkowitsch</name><lb/>
+seinen Wunsch, nämlich Versorgung der Bauerngebiete mit Telefonan<lb break="no"/>schlüssen koppeln wird. Die ÖBB-Gesetze könnten dahingehend fortge<lb break="no"/>setzt werden, dass man weiterhin eine budgetäre Entlastung der ÖBB<lb/>
+herbeiführt, wenn man so wie das die ÖVP begonnen hat, die Pen<lb break="no"/>sionslasten vom ÖBB-Defizit ins Staatsbudget übernimmt.<lb/>
+</p>
+            <p xml:space="preserve">Ich berichtete wie die anderen Minister, dass das Handelsministerium<lb/>
+die KF-Gesetznovelle wahrscheinlich sogar einstimmig zum Beschluss<lb/>
+durchbringen wird, wobei die Wünsche der Kraftfahrorganisationen<lb/>
+erfüllt worden sind. Das Innenministerium wird versuchen, das Preis<lb break="no"/>regelungsgesetz, das erst – da es vorige Woche nicht mehr zeitgerecht<lb/>
+dem Parlament vorgelegt werden konnte – es dürfte im Innenministerium<lb/>
+derselbe Fehler passiert sein, wie er uns vor Wochen passiert ist –<lb/>
+erst am kommenden Mittwoch im Nationalrat eingebracht werden.<lb/>
+Das Preisregelungsgesetz wird nun im Parlament versucht werden, die<lb/>
+ÖVP zu den Preisproblemen zu stellen. Die bisherigen Ergebnissen<lb/>
+waren nach Auffassungen von <name type="person" ref="per:97668">Kreisky</name> nach diesem Bericht der Minister<lb/>
+eher kärglich. Die letzte Preisdebatte wurde ausgelöst bei der Schil<lb break="no"/>lingaufwertung. Die zweite im vergangen Nationalrat durch die Dring<lb break="no"/>liche Anfrage der ÖVP wegen Inflationsalarm. Die dritte soll nun<lb/>
+durch eine Wirtschaftsdebatte ausgelöst werden, die von der Regierung<lb/>
+provoziert, d.h. also durch einen Bericht im Nationalrat herbeige<lb break="no"/>führt. <name type="person" ref="per:97311">Androsch</name> kündigte an, er würde in seinem Ministerium jetzt<lb/>
+<pb n="06-0704" facs="06_1971-06-14_0704.jpg"/>die Massnahmen zusammenstellen lassen, die bis jetzt schon geschehen<lb/>
+sind und welche man gegebenenfalls ergreifen sollte, d.h. er bereitet<lb/>
+einen wirtschaftspolitischen Bericht für das wirtschaftliche Minister<lb break="no"/>komitee vor, der dann als Regierungsbeschluss ins Parlament gehen soll.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: Bitte, sich sofort mit <name type="person" ref="per:110922">Vranitzky</name> ins Einvernehmen<lb/>
+setzen, um abzustimmen, dass auch unsere Vorschläge und Wünsche einge<lb break="no"/>baut werden oder, vielleicht sogar noch besser, ein Ergänzungsbericht<lb/>
+von uns gemacht wird.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Radiodiskussion des Bundeskanzlers mit <name type="person" ref="per:97775">Nemschak</name> am Samstag kam des<lb break="no"/>sen Auffassung für uns sehr gut zum Durchbruch. <name type="person" ref="per:97775">Nemschak</name> meinte, dass die<lb/>
+Regierung schon alles getan hat, die ÖVP hat noch dazu für Montag, wo<lb/>
+sie die Anti-Inflations-Expertentagung einberufen hat, auch <name type="person" ref="per:97775">Nemschak</name><lb/>
+eingeladen, der allerdings mit einem Brief mitteilt, dass er nie dort<lb/>
+gewesen sei. In der Grundsatzgruppe, wo ich nachmittags anwesend war,<lb/>
+hat <name type="person" ref="per:137215">Hecke</name> von der Handelskammer deshalb auch <name type="person" ref="per:97775">Nemschak</name> hart angegriffen<lb/>
+weil er erklärte, ein Wirtschaftsforscher sollte Wirtschaftsforschen<lb/>
+und nicht in die Politik einmischen und dürfte überhaupt nie bescheinigen,<lb/>
+dass schon alles geschehen ist, um eine Konjunkturpolitik betreiben<lb/>
+zu können. Ganz im Gegenteil, er hätte müssen verlangen, dass das<lb/>
+konjunkturpolitische Instrumentarium verbessert wird, wie es z.B.<lb/>
+in den sozialistischen Wirtschaftsprogrammen vorgeschlagen wurde. Dies<lb/>
+hätte sich auf die Budgetpolitik, das Haushaltsrecht, die Koordinierung<lb/>
+von Aufträgen der Länder, Gemeinden und des Bundes, wie sie <name type="person" ref="per:97647">Koren</name> bereits<lb/>
+begonnen hat und wie sie fortgesetzt werden gehört, vorgeschlagen werden<lb/>
+müssen. Ausserdem sei <name type="person" ref="per:97775">Nemschak</name> ein sehr grosser Fehler unterlaufen,<lb/>
+denn der Verbraucherpreisindex sei kein Lebenshaltungskostenindex und<lb/>
+deshalb sei die Berechnung um 13 % seien die Löhne gestiegen weniger<lb/>
+5 % maximal Verbraucherpreisindex-Steigerung, daher eine 8 % reale Er<lb break="no"/>höhung des Lebenshaltungsstandards falsch. <name type="person" ref="per:137215">Hecke</name>, der Referent und<lb/>
+Verantwortliche der Bundeskammer für Statistik und Wirtschaftspolitik<lb/>
+nach <name type="person" ref="per:126405">Klose</name> ist, wird sicherlich <name type="person" ref="per:97769">Mussil</name> diese Argumentation in Kürze auch<lb/>
+anwenden. <name type="person" ref="per:97668">Kreisky</name> hat jetzt <name type="person" ref="per:97775">Nemschak</name>, der sich ja sehr gerne auch in<lb/>
+der ÖVP-Regierungszeit als Wirtschaftspolitiker betätigt hat, für sich<lb/>
+genützt und dies in einem Zeitpunkt getan, wo er es in der Preisargumen<lb break="no"/>tation sehr dringend gebraucht hat. Ich kann mir vorstellen, wie sich die<lb/>
+andere Seite darüber ärgert, ich selbst hatte mich in der ÖVP-Regierungs<lb break="no"/>zeit auch masslos geärgert, dass <name type="person" ref="per:97775">Nemschak</name> als Wirtschaftstheoretiker und<lb/>
+Wirtschaftsforscher, wie er sich immer bezeichnet, Wirtschaftspolitik be<lb break="no"/>trieben hat.<lb/>
+</p>
+            <pb n="06-0705" facs="06_1971-06-14_0705.jpg"/>
+            <p xml:space="preserve">Die Glaubwürdigkeit zu verbessern, wird auch <name type="person" ref="per:97668">Kreisky</name> an <name type="person" ref="per:97311">Androsch</name><lb/>
+einen Brief schreiben, wo er ihm die Vorschläge betreffend der<lb/>
+Politikerbesteuerung ab 1.1.1972 machen wird. Die Lösung erscheint<lb/>
+wie die Quadratur des Kreises, es soll keine Minderung der Einkommen<lb/>
+der Abgeordneten entstehen und keine neuen Privilegien geschaffen werden<lb/>
+andererseits aber auch keine Erhöhung des Einkommens der Minister,<lb/>
+der Landeshauptleute, der Landesregierungsmitglieder usw. entstehen.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> glaubt, das gefunden zu haben, wenn er den Klubbeitrag durch<lb/>
+die öffentliche Hand ersetzen lässt und dadurch die einzelnen eine<lb/>
+höhere steuerliche Leistung an den Staat erbringen könnten. Ich<lb/>
+bin wirklich gespannt, wie auf diese Aktion die einzelnen Klubs ins<lb break="no"/>besondere auch der sozialistische Klub reagieren wird.<lb/>
+</p>
+            <p xml:space="preserve">Gut meint <name type="person" ref="per:97668">Kreisky</name>, würde auch die Entpolitisierung der verstaatlichten<lb/>
+Industrie ankommen, dass nämlich <name type="person" ref="per:97470">Geist</name> als Fachmann und nicht als<lb/>
+Sozialist berufen wurde. In der Verstaatlichten soll ausserdem jetzt<lb/>
+versucht werden, so schnell wie möglich eine Lösung herbeizuführen,<lb/>
+betreffend die Elektrobaugesellschaft Linz. Sprecher &amp; Schuh,<lb/>
+der für diesen vom Finanzministerium Eigentum verwalteten Betrieb<lb/>
+interessiert hat, kommt wie <name type="person" ref="per:134509">Demuth</name> ihm mitgeteilt hat, nicht mehr<lb/>
+in Frage. Die oö. Genossen wünschen aber eine Lösung, Elin muss<lb/>
+nach unserer Auffassung ausscheiden, sodass nur mehr Asea überbleibt.<lb/>
+Elin wird darüber genauso verärgert sein, wie dass die ÖIAG jetzt<lb/>
+in den Siemenskonzern einsteigt mit den Anteilen, die Österreich<lb/>
+noch besitzt, und nicht die Elin. Die ÖIAG muss aber noch entsprechend<lb/>
+reorganisiert werden. Derzeit ist der Finanzreferent <name type="person" ref="per:137178">Derdak</name> nach der<lb/>
+Geschäftsordnung für die Finanzfragen zuständig. <name type="person" ref="per:97668">Kreisky</name> hat nun er<lb break="no"/>fahren, dass 120 Mio. S bei der Girozentrale liegen und 40 Mio bei<lb/>
+Schoeller und die Länderbank nur 10 Mio. S ÖIAG-Geld eingelegt hat.<lb/>
+<name type="person" ref="per:137178">Derdak's</name> Sohn ist bei der Schoeller-Bank beschäftigt.<lb/>
+</p>
+            <p xml:space="preserve">Für die Bauern soll die Möglichkeit, die Sozialisten attraktiver zu<lb/>
+machen, dadurch gegeben werden, dass eine Bergbauernhilfe jetzt gestar<lb break="no"/>tet wird. Allerdings soll dies nicht durch eine Show geschehen und wie<lb/>
+<name type="person" ref="per:97311">Androsch</name> sich ausdrückt mit einem "Kappl-Schmäh" sondern durch die<lb/>
+Raumordnungskonferenz. <name type="person" ref="per:98055">Weihs</name> hat jetzt einen regionalpolitischen Be<lb break="no"/>richt, der 1966 in Auftrag gegeben wurde, vorgelegt. Ich bin über<lb break="no"/>zeugt davon, dass dieser Bericht auf einer soliden Untersuchung beruht.<lb/>
+</p>
+            <pb n="06-0706" facs="06_1971-06-14_0706.jpg"/>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: Bitte, den Bericht beschaffen.<lb/>
+</p>
+            <p xml:space="preserve">Österreich soll nun die Raumordnungskonferenz einen diesbezüglichen<lb/>
+Agrarplan ausarbeiten, für den <name type="person" ref="per:98055">Weihs</name> jährlich 350 Mill. und <name type="person" ref="per:97311">Androsch</name><lb/>
+aber für 5 Jahre 1,5 Mia., d.h. 300 Mill. einsetzt. Dadurch würde<lb/>
+sich der Grüne Plan, der heuer 768 Mill. beträgt auf über 1 Mia.<lb/>
+erhöhen. Die Traumgrenze, die sich seinerzeit die Landwirtschaft ge<lb break="no"/>setzt hatte, würde damit überschritten sein. Mit dieser Massnahme sollte<lb/>
+der ÖVP, deren Landwirtschaftskonzept nur die verfassungsmässige<lb/>
+Verankerung der Marktordnungsgesetz im Grossen und Ganzen vorsieht,<lb/>
+entgegengetreten werden. Ich glaube schon, dass es auf die Bauern<lb/>
+mehr Eindruck macht, wenn man ihnen wirklich Geld gibt, als wenn man<lb/>
+ihnen verspricht eine Marktordnungsgesetzsanierung, in dem man<lb/>
+die Landeskompetenz in die Bundeskompetenz überführen würde. Vor<lb/>
+allem müsste die SPÖ versuchen, die stärkste Partei zu werden, um<lb/>
+das Gesetz des Handelns an sich zu reissen, dass insbesondere bis<lb/>
+zu den Wahlen von der Regierung durch Administrieren und durch<lb/>
+Abschluss von Gesetzen die im Wahlprogramm versprochen wurden,<lb/>
+dokumentieren sollte, dass sie handelt. Also nicht: lasst <name type="person" ref="per:97668">Kreisky</name> und<lb/>
+sein Team arbeiten, die Regierung arbeitet. <name type="person" ref="per:97668">Kreisky</name> meint sogar,<lb/>
+man sollte gar kein Wahlprogramm erstellen, sondern nur die Leistungen<lb/>
+der Regierung in den nächsten Monaten zur Debatte stellen.<lb/>
+</p>
+            <p xml:space="preserve">Durch diese gezielten Massnahmen hofft <name type="person" ref="per:97668">Kreisky</name>, dass gewisse Wähler<lb break="no"/>schichten zu gewissem Verhalten angeregt werden. Er hofft, dass<lb/>
+von der ÖVP zwei % als Protestwähler zu Hause bleiben, wie es in<lb/>
+den oö. Landtagswahlen die Bauern z.B. getan haben. Ausserdem glaubt<lb/>
+er, dass die FPÖ 1 % von der ÖVP gewinnen kann. Wenn die Sozialisten<lb/>
+noch 1 % dazu gewinnen, dass kann niemand mehr gegen uns regieren.<lb/>
+Wenn wir auch nur 49 % aus den Wahlen gewinnen, dass ist doch eine<lb/>
+Minderheitsregierung ohne weiteres wieder möglich. Eine grosse<lb/>
+Koalition sei nach Auffassung <name type="person" ref="per:97668">Kreisky</name> zu teuer, eine kleine Koali<lb break="no"/>tion noch nicht beschlossen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97372">Broda</name> meinte, dass vor den Wahlen das entscheidende TV-Interview,<lb/>
+das nur 5 Minuten gedauert hat, drei Punkte herausgestrichen hat,<lb/>
+die man jetzt entsprechend als Erfüllung darstellen müsste, das erste<lb/>
+war die Herabsetzung der Wehrdienstzeit von 9 auf 6 Monate, das<lb/>
+zweite war der Privilegienabbau, d.h. die Politikerbesteuerung, und<lb/>
+das dritte auf die kleine Einkommensteuerreform. Ich bin zwar der<lb/>
+Meinung, dass es wesentlich vielschichtiger ist, die Erfüllung des<lb/>
+<pb n="06-0707" facs="06_1971-06-14_0707.jpg"/>Wahlversprechens darzustellen, glaube aber doch, dass man sich auf<lb/>
+einige Punkte wird konzentrieren müssen. Insbesondere kam aber<lb/>
+<choice><choice><sic>übereinstimmung</sic><corr>übereinstimmend</corr></choice></choice> die Auffassung zum Durchbruch, dass das Preisproblem<lb/>
+der Angelpunkt der künftigen Wahlpolitik sein wird.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97311">Androsch</name> will das Budgetkonzept ohne in die Details zu gehen, doch<lb/>
+nach folgenden Grundsätzen aufstellen. 9,5 Mia. dürfe das Defizit sein,<lb/>
+auf alle Fälle versucht er, unter die 10-Mia.-Grenze zu kommen. Trotz<lb break="no"/>dem wird 1,5 Mia. für Schwerpunkte zur Verfügung stehen, da für Kriegs<lb break="no"/>opferfürsorge 300, und zwar die Nachdynamisierung von Leistungen, die<lb/>
+man nach 1966 nicht in die Dynamisierung einbezogen hat. Bereits im<lb/>
+1. Budgetüberschreitungsgesetz heuer sollen dafür ein Teil von 28 Mio.<lb/>
+zur Verfügung gestellt werden. Das Programm der Kriegsopferverbände<lb/>
+allerdings sieht vor, dass 1972 mit 2,3 Mia. Aufwand für die Kriegs<lb break="no"/>opfer im Jahre 1975 auf 4,244 Mia. erhöht werden soll. <name type="person" ref="per:97525">Häuser</name> hat nun<lb/>
+die Verhandlungen mit den Kriegsopferverbänden abgelehnt, da er auf<lb/>
+solche – wie er sich ausdrückte – unrealistische Forderungen gar<lb/>
+nicht eingehen kann und will. <name type="person" ref="per:112996">Staudinger</name> von der ÖVP macht sich aller<lb break="no"/>dings auf diesem Sektor jetzt sehr stark, da er ja Mitglied des<lb/>
+Präsidiums, glaube ich, der Kriegsopferverbände ist. Für die Bergbauern<lb/>
+sollen 300 Mill. als Schwerpunkt vorgesehen werden, 100 Mill. soll<lb/>
+die Forschung zusätzlich bekommen und 200 Mill. für Schulbau zur<lb/>
+Verfügung gestellt werden. Ebenso sollen für Spitäler 200 Mill. Mehr<lb break="no"/>leistung gebracht werden. Dies reicht nach Auffassung von <name type="person" ref="per:97525">Häuser</name><lb/>
+überhaupt nicht aus, da durch den 18,5 %-igen Abgang, den der Bund<lb/>
+übernehmen müsste, für das Jahr 1970 250 Mill. anfallen werden und<lb/>
+für das Jahr 1971 370 Mill. S. Insgesamt wären das fast 650 Mill. S,<lb/>
+die der Bund bereits verpflichtet ist, den Spitälern zur Verfügung zu<lb/>
+stellen. Konkrete Forderungen liegen aber noch für den Bahnhof Wol<lb break="no"/>furt und für den Ausbau des Malta-Kraftwerkes in der Höhe von 1,3 <choice><choice><sic>Ma</sic><corr>?</corr></choice></choice>. S<lb/>
+vor. Ich meldete für den Fremdenverkehr und Gewerbe 200 – 300 Mill. S<lb/>
+an, was bei <name type="person" ref="per:97311">Androsch</name> allerdings nur eine Verwunderung ausgelöst hat.<lb/>
+Keinesfalls eine Zustimmung. Um die Schwerpunkte finanzieren zu<lb/>
+können und das Defizit nicht über 10 Mia. steigen zu lassen, wird<lb/>
+<name type="person" ref="per:97311">Androsch</name> 4 Mia. Ausgabenreduktion herbeiführen müssen. 2 Mia. S hofft<lb/>
+er durch Schuldenprolongation zu erreichen, 500 Mill. durch die Sockel<lb break="no"/>finanzierung des Fernsprech-Investitionsgesetzes sich ersparen,<lb/>
+1 % hofft er Personaleinsparungen durch Dienstpostenplankürzungen zu<lb/>
+erreichen. Das Sozialbudget würde trotz allem aber eine (Kapitel 16)<lb/>
+Höhe von 3,2 Mia. S erreichen. Bei den Einnahmen müsste klargestellt<lb/>
+<pb n="06-0708" facs="06_1971-06-14_0708.jpg"/>werden, dass die Alkohol-Sondersteuer (10 %) unter allen Um<lb break="no"/>ständen aufrechterhalten werden muss, die Weinsteuer dagegen<lb/>
+bleibt zur Entlastung der Bauern weg. Da den Bauern die verbilligte<lb/>
+Dieselölabgabe verboten wurde, werden die Punkte-Werte von 75 S<lb/>
+im Jahre 1970, die jetzt auf 95 S im Jahre 1971 angehoben wurden,<lb/>
+jetzt auf 105 S pro Punkt erhöht werden. Dies wird im ersten Budget<lb break="no"/>überschreitungsgesetz ca. 30 Mill. S kosten. Als sehr populäre<lb/>
+Massnahmen glaubt <name type="person" ref="per:97311">Androsch</name>, dass sich die Erhöhung der Zollfrei<lb break="no"/>grenze für Geschenke von 650.– auf 1.000 S auswirken wird.<lb/>
+Ich teile diese Meinung, bin allerdings in einer schwierigen Si<lb break="no"/>tuation, weil er zuerst vorgesehen gehabt hat, dass man mindestens<lb/>
+24 Stunden im Ausland verbringen muss, damit er diese Begünstigung<lb/>
+in Anspruch nehmen kann und nun auf die zahlreichen Interventionen<lb/>
+doch auf diese 24-Stunden-Auflage-Frist verzichtet. Dadurch werden<lb/>
+sich die Gewerbetreibenden in den Grenzgegenden natürlich wieder<lb/>
+sehr benachteiligt fühlen. Es wäre meiner Meinung nach viel ziel<lb break="no"/>führender gewesen, er hätte bei der Ausarbeitung dieses Gesetz<lb break="no"/>entwurfes erst gar nicht die Auflage-Frist von 24 Stunden aufge<lb break="no"/>nommen. Der Haupteinwand gegen die Finanzierungskonzepte des<lb/>
+zukünftigen Budgets ins Detail gehend richtete sich insbesondere<lb/>
+dahin, dass <name type="person" ref="per:97372">Broda</name> erklärte, man könnte kaum den Verwaltungsauf<lb break="no"/>wand wie im Vorjahr ansetzen, da z.B. durch höhere Heizungskosten<lb/>
+ja dann nicht einmal die Möglichkeit besteht, die Gefängnisse zu<lb/>
+heizen. <name type="person" ref="per:97442">Firnberg</name> meinte, sie hätte einen Untersuchungsbericht<lb/>
+von den Universitäten verlangt und nun müsste der Sachaufwand um<lb/>
+359 Mill. S erhöht werden. <name type="person" ref="per:97488">Gratz</name> erklärte, dass ihm seine Beamten<lb/>
+jetzt einen Entwurf vorgelegt hätten, der in die 15-Mia.-Grenze<lb/>
+sich bewegt. Er hätte diese Arbeit natürlich jetzt sofort gestoppt.<lb/>
+Man sieht, wie in den Ministerien sicherlich auch teilweise bei<lb/>
+uns vollkommen sinnlos irgendwelche Ziffern zusammengetragen werden<lb/>
+die Abteilungen arbeiten und leisten die einzelnen Referenten<lb/>
+sich im Addieren üben und in Wirklichkeit dann von diesen ganzen<lb/>
+Arbeiten überhaupt nichts übrig bleiben kann und übrig bleiben<lb/>
+wird. <name type="person" ref="per:97755">Moser</name> meine, 1970 seien die Ansätze um 11 % für das Budget<lb/>
+1971 gekürzt worden. Er könnte deshalb nicht jetzt erwarten, dass<lb/>
+1972, wenn die Ansätze gleichbleiben sollten, wie 1971, er dann<lb/>
+durchkommen könnte. Insbesondere seien die Instandhaltung von Gebäu<lb break="no"/>den nicht mehr gewährleistet. <name type="person" ref="per:97525">Häuser</name> glaubt, dass der einzige möglich<lb/>
+Weg der wäre, dass man z.B. versucht, von der Arbeitslosenversicherung<lb/>
+1,5 % für Bauten der Arbeitsmarktverwaltung abzuzweigen. Dies<lb/>
+bedürfe allerdings einer gesetzlichen Änderung und ich weiss nicht,<lb/>
+<pb n="06-0709" facs="06_1971-06-14_0709.jpg"/>ob so etwas wirklich zielführend ist, wenn er jede Einnahme, die für<lb/>
+einen bestimmten Zweck vorgesehen ist, dann aufgesplittert wird auf<lb/>
+Sachaufwendungen. Allerdings sagt <name type="person" ref="per:97525">Häuser</name>, er hätte z.B. das Arbeitsamt<lb/>
+in der Märzstrasse und in Voitsberg unbedingt reparieren lassen müssen.<lb/>
+Darüber hinaus müssten serologische und bakteriologische Anstalten<lb/>
+endlich einmal wieder renoviert werden.<lb/>
+</p>
+            <p xml:space="preserve">Das 10-Jahres-Investitionsprogramm, welches <name type="person" ref="per:97311">Androsch</name> nach Richtlinien<lb/>
+die er ausgegeben hat, erstellen liess, gab, wenn man den Mehrbedarf<lb/>
+nicht anerkannt, auf Grund der Richtlinien zusammenzählt, mehr als<lb/>
+261 Mia. S. Bedingt anerkannt, wenn man mit den einzelnen Ressorts ver<lb break="no"/>handelt, würde ein Betrag von 298 Mia. als rund 300 Mia. S herauskommen.<lb/>
+Die einzelnen Ministerien ergäbe sich beim Inneren 475, bei Unterricht<lb/>
+2,785, Kunst 309, bei Wissenschaft an die 5 Mia., bei Verteidigung 1,340<lb/>
+bei FM 638 Mio., Finanzausgleich 3,2 Mia., Verwaltung 3,1 Mia., Land- u.<lb/>
+Forstwirtschaft l,400, bei Bauten 89 Mia., bei Verkehr 658, bei der Post<lb/>
+1,8 Mia., bei ÖBB 21,9 Mia. und bei Forschungsförderung 2,5 Mia. und<lb/>
+Forstwirtschaft 2,7 Mia. Da sich diese Zahlen aber nicht genau rekon<lb break="no"/>struieren liessen, ob es sich hier um anerkannte oder nur bedingt aner<lb break="no"/>kannte oder teilweise sogar um Forderungen von Ressorts handelt, die<lb/>
+überhaupt nicht zur Debatte stehen können, ist ein Vergleich für mich jetzt<lb/>
+mehr möglich, <name type="person" ref="per:97311">Androsch</name> wollte auch nicht ins Detail gehen und hat deshalb<lb/>
+diese Ziffern verhältnismässig sehr schnell vorgelesen und <name type="person" ref="per:97668">Kreisky</name> meinte,<lb/>
+man sollte über diese Detailziffern sich noch nicht den Kopf zerbrechen,<lb/>
+ja nicht einmal noch darüber diskutieren. In diesem Investitionsprogramm<lb/>
+ist für den Umweltschutz überhaupt nichts vorgesehen und auch für die<lb/>
+Spitalsanierung. Wenn die einzelnen Ressorts also nicht einmal wissen,<lb/>
+wieviel also das Bautenministerium, das 89 Mia. S verlangt hat, von denen<lb/>
+4 Mia. S nur bedingt anerkannt wurden und 19 Mia. S überhaupt dann noch<lb/>
+zusätzlich offen sind, weiss niemand wie die Bauten der einzelnen Ressorts<lb/>
+dort berücksichtigt wurden. Auf alle Fälle ist das HM glaube ich weitest<lb break="no"/>gehend umgefallen, weil zwar <name type="person" ref="per:137289">Laroche</name> versucht hat, den Fremdenverkehrsplan<lb/>
+in dieses Investitionsprogramm einzubauen, ich aber noch immer nicht genau<lb/>
+weiss, ob das vom Finanzministerium berücksichtigt wurde.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: Es wäre zielführend, wenn in Hinkunft solche Grundsatz<lb break="no"/>arbeiten von einzelnen Referenten doch dahingehend Informationen vorgelegt<lb/>
+werden, wenn und in welchem Umfang die Beamten des FM dann zu unseren Vor<lb break="no"/>schlägen positiv oder negativ Stellung genommen haben.<lb/>
+</p>
+            <pb n="06-0710" facs="06_1971-06-14_0710.jpg"/>
+            <p xml:space="preserve">Bezüglich der Dienstposten teilte <name type="person" ref="per:97668">Kreisky</name> mit, dass 2.504 neue Dienst<lb break="no"/>posten mit den einzelnen Ministerienvertretern akkordiert worden sind.<lb/>
+3.052 seien noch offen, von denen <name type="person" ref="per:135724">Markovics</name> meinte, 344 wären noch<lb/>
+möglich sich zu einigen. Die Präsidentschaftskanzlei will 15 genehmigt.<lb/>
+Das BKA will 93 und hat 128 gestrichen bekommen. Das FM kriegt Null und<lb/>
+hat 528 gestrichen bekommen. Land- u. Forstwirtschaftsministerium hat<lb/>
+269 gestrichen bekommen. Das Handelsministerium und das Arsenal hätte<lb/>
+nur Kleinigkeiten verlangt. Das Justizministerium hätte 496 Posten ge<lb break="no"/>nehmigt bekommen. <name type="person" ref="per:97372">Broda</name> meinte allerdings, wenn er das Strafvoll<lb break="no"/>zugsgesetz, damit am Sonntag die Gefangenen spazieren gehen können, durch<lb break="no"/>führen müsste, müsste er noch 167 dazu bekommen. Das Verkehrsministerium<lb/>
+verlangt 51 für die Schiffahrt, 901 für die Post und 1952 für die ÖBB<lb/>
+in Form der Lohnbediensteten. Die seinerzeitige Vereinbarung mit<lb/>
+<name type="person" ref="per:97461">Frühbauer</name> war dahingehend getroffen worden, dass er den Dienstpostenplan<lb/>
+um 2.000 Beamte verringern wird. Die Arbeitszeitverkürzung von 1 Stunde<lb/>
+von 43 auf 42 Stunden mit 1. Jänner 1972 verlangt die Bundesbahn aber<lb/>
+jetzt eben diese Lohnbediensteten. da sie ansonsten den Betrieb nicht auf<lb break="no"/>rechterhalten kann. Das Unterrichtsministerium verlangt 3.766 Lehrer,<lb/>
+die sich dadurch errechnen, dass laut Gesetz pro 36 Schüler ein Lehrer<lb/>
+zur Verfügung gestellt werden muss. Allerdings beabsichtigt die Bundes<lb break="no"/>regierung nicht denselben Fehler zu wiederholen, wie im Vorjahr, wo<lb/>
+wir Dienstposten angefordert haben, insgesamt sollten 276.348 lt.<lb/>
+Plan existieren und 271.500 sind effektiv besetzt. 4.850 sind unbesetzt<lb/>
+und auf den Plakaten wird die Regierung angeprangert, dass sie 3.000<lb/>
+Dienstposten neu geschaffen hat. <name type="person" ref="per:97488">Gratz</name> wird deshalb die Dienstposten auf<lb/>
+Grund der möglichen Besetzungen, er weiss z.B. genau, was von den Lehrer<lb break="no"/>bildungsanstalten an Lehrern anfällt, stellen. Erst wenn dann wirklich<lb/>
+tatsächliche notwendige Anstellungen anfallen, wird im Laufe des Jahres<lb/>
+ein diesbezüglicher Gesetzesantrag im Parlament eingebracht werden.<lb/>
+<name type="person" ref="per:108224">Lütgendorf</name> will sein Ministerium umorganisieren und insbesondere einige<lb/>
+Dienstposten einsparen, Derzeit hat er 96 Brigadiere und Generäle, die<lb/>
+auf 29 reduziert werden sollen. Allerdings würden dann die Oberste, die<lb/>
+derzeit nur die VII. Dienstklasse erreichen, die VIII. Dienstklasse be<lb break="no"/>kommen müssen, um die Truppenoffiziere in dem Ministerium entsprechend<lb/>
+zu befriedigen. Da dies ein gefährliches Präjudiz darstellt, erinnerte<lb/>
+ich <name type="person" ref="per:97668">Kreisky</name> daran, dass er sich unbedingt vorher mit <name type="person" ref="per:98066">Robert Weisz</name>, dem<lb/>
+Gewerkschaftsvertreter ins Einvernehmen setzen sollte.<lb/>
+</p>
+            <p xml:space="preserve">Um dem Preisproblem eine gewisse Aktualität in meinem Ministerium zu<lb/>
+geben, hatte ich mich entschlossen, an der Grundsatzgruppenbesprechung<lb/>
+teilzunehmen. Dort trug <name type="person" ref="per:98112">Zöllner</name> die Forderungen des AKT auf mehr Libera<lb break="no"/>lisierung, autonome Lizenzerteilung sowie durch Exportkontrollen von<lb/>
+<pb n="06-0711" facs="06_1971-06-14_0711.jpg"/>Wild und Holz vor. Ausserdem sollten in einer Zollsenkungsaktion die<lb/>
+Nähmaschinen, Kochplatten, elektrische Herde, Löskaffee und Gesundheits<lb break="no"/>tee einbezogen werden. Auf die Ausgleichsteuerfreiliste könnten Kürbis<lb break="no"/>kernöl und Dünnsäfte sowie Limonaden und Schaffleisch gesetzt werden.<lb/>
+Bei den landwirtschaftlichen Produkten möchte er, dass Geflügel und<lb/>
+Eier sowie auch Käse in Hinkunft die Abschöpfungen entsprechend redu<lb break="no"/>ziert werden. Mit der Preisbildung sollten die amtlichen Höchstpreise<lb/>
+nicht nur die Lohnkosten berücksichtigen, sondern auch die Produktivität<lb/>
+entsprechend berücksichtigt werden. <name type="person" ref="per:97725">Marquet</name> und <name type="person" ref="per:126405">Klose</name> sowie <name type="person" ref="per:137287">Karpal</name><add>[ev. Falschidentifikation]</add><lb/>
+und <name type="person" ref="per:137215">Hecke</name>, die sich an der Diskussion beteiligten, waren der Meinung<lb/>
+es sollte doch die Bundesregierung abwarten, wie sich die Aufwertung<lb/>
+auf die Lebenshaltungskosten auswirken. Laut <name type="person" ref="per:126405">Klose</name> sind die Preise<lb/>
+1971 nicht mehr zu beeinflussen. Erst im Herbst könnte man neue Aktionen<lb/>
+setzen und bis dahin müsste man Geduld haben. <name type="person" ref="per:98112">Zöllner</name> teilte mit, dass<lb/>
+167 Preisanträge der ÖGB bis jetzt im Preisunterausschuss zugestimmt hat<lb/>
+diese Tatsache im Nationalrat mitgeteilt wurde, sodass der Gewerkschafts<lb break="no"/>vertreter jetzt im Preisunterausschuss alle Anträge abgelehnt hat. Dies<lb/>
+veranlasst <name type="person" ref="per:126405">Klose</name> natürlich darauf hinzuweisen, dass es ganz sinnlos<lb/>
+ist, eine solche Politik zu machen, weil damit nur die Sozialpartner<lb break="no"/>schaft zugrundegerichtet wird. <name type="person" ref="per:126405">Klose</name> meinte, der einzelne Unternehmer<lb/>
+könnte doch nichts dafür, wenn Abgeordnete im Nationalrat irgendwelche<lb/>
+Aussagen machen. Ich muss zugeben, dass ich verstehen kann, dass <name type="person" ref="per:97346">Benya</name><lb/>
+vielleicht in dieser Debatte sehr verärgert wurde, aber ich halte auch<lb/>
+ein Vorgehen für unmöglich, dass man daraus die Konsequenz zieht und<lb/>
+in Hinkunft nicht mehr sachlich zusammen arbeitet. Ich gab meiner Über<lb break="no"/>zeugung Ausdruck, dass dies spätestens am Mittwoch, wo die Paritätische<lb/>
+Kommission zusammentritt, bereinigt sein wird.<lb/>
+</p>
+            <p xml:space="preserve">Am Abend bei der Heurigenveranstaltung des Verbandes der Journalisten<lb/>
+traf ich <name type="person" ref="per:97641">Kohlmaier</name>, der mir sagte, er selbst würde sich also als General<lb break="no"/>sekretär der ÖVP sehr bemühen, eine grosse Koalition wieder zustande<lb break="no"/>zubringen, da die kleinen Koalitionen doch nur sehr viel Geld kosten,<lb/>
+ganz egal ob es eine FPÖ-ÖVP oder eine FPÖ-SPÖ-Koalition wird. Ich<lb/>
+selbst glaube jetzt auch schön langsam, dass die Vereinbarungen über<lb/>
+die Sozialpartnerschaft nur dann funktionieren können, wenn wir doch<lb/>
+zu einer ruhigeren wirtschaftlichen Entwicklung und politischen Entwicklung<lb/>
+kommen, dies würde natürlich in einer grossen Koalition wesentlich<lb/>
+leichter sein. Derzeit haben wir allerdings ein sehr gutes Argument<lb/>
+gegen eine solche grosse Koalition, dass die ÖVP – wie <name type="person" ref="per:97641">Kohlmaier</name> zugab –<lb/>
+diese so verteufelt hat, dass derzeit niemand daran denken kann, sie<lb/>
+jetzt unmittelbar wieder zu errichten.<lb/>
+</p>
+            <pb n="06-0712" facs="06_1971-06-14_0712.jpg"/>
+            <p xml:space="preserve">Die Journalisten interessierten sich natürlich insbesondere über<lb/>
+die Verhandlungen in Moskau. Interessant war der Eindruck der Be<lb break="no"/>richterstattung scheinbar so, dass wir dort sehr grosse Erfolge<lb/>
+erzielen konnten. Ich selbst teile diese Meinung nicht, obwohl<lb/>
+ich von verschiedensten Seiten Mitteilung erhielt, dass die Verhand<lb break="no"/>lungsführung und die Ergebnisse doch sehr sich von den bisherigen<lb/>
+Ergebnissen und der Verhandlungsführung unterschieden haben. Trotzdem<lb/>
+glaube ich ist es nicht sehr zielführend, einen zu grossen Erfolg<lb/>
+darzustellen, da nach einiger Zeit natürlich man gefragt wird und<lb/>
+was ist jetzt konkret bei diesen Verhandlungen jetzt herausgekommen,<lb/>
+d.h. was wurde in einem halben Jahr dann konkret von dem Versprochenen<lb/>
+verwirklicht. Ein Hauptargument, dass die Information das Entscheidend<lb break="no"/>ste war und dass noch niemals die sowjetischen Stellen über die EWG-<lb/>
+Verhandlungen, die Österreich führt, so im Einzelnen und im Detail<lb/>
+informiert wurden, wurde von <name type="person" ref="per:97647">Koren</name> aber auch von einzelnen Journalisten<lb/>
+und Journalistinnen dahingehend widersprochen, dass ja <name type="person" ref="per:97634">Klaus</name> auch immer<lb/>
+erklärt hat, er ist nach Russland gefahren, um Aufklärung zu leisten.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: Ich glaube, es wäre sehr zielführend, wenn man<lb/>
+wirklich in Erfahrung bringen könnte aus dem Aussenamt, wie weit diese<lb/>
+Behauptung auf Tatsachen beruht. Botschafter <name type="person" ref="per:137273">Haymerle</name> hat mir diesbe<lb break="no"/>züglich nichts mitgeteilt. Seine Auffassung war im Gegenteil, dass man<lb/>
+das EWG-Problem bei den Russen auch jetzt noch nicht anschneiden soll<lb break="no"/>te, sondern dem womöglich ausweichen sollte. Ich kann mir nicht vor<lb break="no"/>stellen, dass – wenn er diese Meinung schon vor Jahren gehabt hat –<lb/>
+dann <name type="person" ref="per:97749">Mitterer</name> oder <name type="person" ref="per:97647">Koren</name> oder gar <name type="person" ref="per:97634">Klaus</name> wirklich eine aufklärende Tä<lb break="no"/>tigkeit in der SU entfaltet haben. Bitte, zu versuchen, wie die tat<lb break="no"/>sächlichen Verhältnisse gelegen sind.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="06_0701_01" facs="06_1971-06-14_0701-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 14.6.1971</head>
+         </div>
+         <pb n="06_0701_02" facs="06_1971-06-14_0701-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+         <pb n="06_0701_03" facs="06_1971-06-14_0701-03.jpg"/>
+         <pb n="06_0701_04" facs="06_1971-06-14_0701-04.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>hs. Notizen</head>
+            <gap reason="sampling"/>
+            <pb n="06_0701_05" facs="06_1971-06-14_0701-05.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="06_0701_06" facs="06_1971-06-14_0701-06.jpg"/>
+         </div>
+      </back>
+   </text>
+</TEI>

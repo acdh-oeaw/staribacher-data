@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstag, der 11. Juni 1974</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band21_1974-06-11</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1974-06-11">Dienstag, 11. Juni 1974</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-12-19">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band21/">
+      <body>
+         <pb n="21-0722" facs="21_1974-06-11_0722.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Dienstag, 11. Juni 1974</p><p xml:space="preserve">In der Gewerkschaft der Lebensmittelarbeiter unterhalte ich mich<lb/>
+stundenlang mit den Kollegen der Tabakfabrik Ottakring, Dort hat der<lb/>
+Bruder des christlichen Obmannstellvertreters 10 Zigaretten im<lb/>
+Arbeitsgewand gehabt, als er die Fabrik kurzzeitig verliess, worauf<lb/>
+die Direktion die Entlassung ausgesprochen hat. Alle Versuche<lb/>
+der Kollegenschaft, dies auf gütlichem Wege zu regeln, <choice><choice><sic>amn</sic><corr>?</corr></choice></choice> Obmann<lb break="no"/>stellvertreter, der ebenfalls in der Tabakfabrik beschäftigt ist,<lb/>
+hat sich auf Empfehlung seine Parteifreundes Gen.Dir. <name type="person" ref="per:126941">Musils</name><lb/>
+herausgehalten, waren erfolglos, ausser dass eine Einspruchsfrist<lb/>
+versäumt wurde. Ich habe nach Rücksprache mit unseren Freunden<lb/>
+empfohlen, wenn man wünscht, dass ich mich einschalten werde,<lb/>
+eine Umwandlung der Entlassung in eine einvernehmliche Dienstlösung,<lb/>
+damit die finanziellen Verluste für die 16-jährige Tätigkeit in<lb/>
+der Tabakregie nicht zu gross sind. Wenn der Entlassene klagt, geben<lb/>
+wir ihm, wenn er des Diebstahls freigesprochen wird, im Nachhinein<lb/>
+den Rechtsschutz. Interessant ist, dass die von meinem Vorgänger<lb/>
+<name type="person" ref="per:114575">Mantler</name> gepflegte Devise: Ich habe das Stehlen nicht erfunden,<lb/>
+ich werde daher das Stehlen nicht abstellen, insbesondere als<lb/>
+Fleischersekretär in St. Marx vor Jahrzehnten geprägt hatte, heute<lb/>
+selbst bei den christlichen Gewerkschafter vielleicht gerade dort<lb/>
+am allerwenigsten und unser Sekretär der christlichen Fraktion<lb/>
+ist bei der Fleischergruppe und ich habe ihn auch wegen dieses<lb/>
+Falles kontaktiert, nicht mehr akzeptiert wird.</p><p xml:space="preserve">In der Mitgliederversammlung des Kuratoriums für Verkehrssicherheit<lb/>
+wo ich Ehrenmitglied wurde, als ich die Kompetenz an <name type="person" ref="per:110923">Lanc</name> übertrug<lb/>
+einen zuständigen Minister will man nicht im Kuratorium als Mitglied<lb/>
+haben, damit er nicht beeinflusst wird oder sich zu sehr gebunden<lb/>
+fühlt, war man sehr erstaunt, dass ich auch als Ehrenmitglied<lb/>
+mich für die Belange weiterhin interessieren, Für mich war nur<lb/>
+sehr interessant, dass man dort neue Ideen hat, wie z.B. die Er<lb break="no"/>richtung einer Musterfahrschule, in diesem Fall für das Bundes<lb break="no"/>heer, um neue Lehrmethoden auszuprobieren. Die Initiative geht<lb/>
+in dem Fall immer wieder von anderen Stellen aus, nur nicht von<lb/>
+der Bürokratie. Ich bin wirklich sehr froh, dass ich diese Gruppe<lb/>
+los bin.</p><pb n="21-0723" facs="21_1974-06-11_0723.jpg"/><p xml:space="preserve">Im Kuratorium traf ich den Präsidenten des Statistischen Zentral<lb break="no"/>amtes <name type="person" ref="per:114128">Bosse</name>, der mir auf meine dezidierte Anfrage erklärte, dass<lb/>
+die Tage, wo der Lebenshaltungskostenindex vom Stat. Zentralamt jetzt<lb/>
+bereits festgelegt wurde, eine Manipulation ist unmöglich und auch gar<lb/>
+nicht beabsichtigt und ich habe ihm deshalb die Presseaussendung<lb/>
+der ÖVP, die dies trotz seiner Information jetzt neuerdings be<lb break="no"/>hauptet, gegeben. Er wird dazu Stellung nehmen, meinte aber, dass<lb/>
+er sich dieses Verhalten gar nicht erklären könne, die ÖVP hat in<lb/>
+Wirklichkeit den Zeitpunkt versäumt, wo sie wegen eventuellen<lb/>
+Manipulierens protestieren hätte können, als nämlich die Gemeinde<lb/>
+Wien beschlossen hat, den Spitalsbettentarif rückwirkend aufzuheben.<lb/>
+Dass die Durchrechnung dann vom Statistischen Zentralamt entsprechend<lb/>
+erfolgt, war eine Selbstverständlichkeit und zu Protesten eigent<lb break="no"/>lich schon zu spät und unberechtigt.</p><p xml:space="preserve">Gen.Sekr. <name type="person" ref="per:98032">Veith</name> beschwerte sich bei mir neuerdings, dass die<lb/>
+Zusammenarbeit zwischen ÖAMTC und ARBÖ wegen des Abg. <name type="person" ref="per:97558">Hobl</name> so schlecht<lb/>
+funktioniert. Ich versprach ihm nur neuerdings mit dem Gen.Sekr.<lb/>
+<name type="person" ref="per:97411">Effenberger</name> zu sprechen.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98072">WIESINGER</name>: Bitte mit <name type="person" ref="per:97411">Effenberger</name> verbinden.</p><p xml:space="preserve">Der Obmann des Konsumverbandes NR <name type="person" ref="per:97505">Haberl</name> hat mich eingeladen, um<lb/>
+die Preissenkungsaktion mit mir und <name type="person" ref="per:98040">Wais</name> und <name type="person" ref="per:115020">Welser</name> sowie Dr. <name type="person" ref="per:126949">Partik</name><lb/>
+und Dr. <name type="person" ref="per:97860">Rauter</name> zu besprechen. Der Vorstand des Konsumverbandes oder der<lb/>
+Einkaufsgruppe hat sich scheinbar furchtbar aufgeregt, dass wir<lb/>
+bis jetzt den Konsum nicht stärker herausgestrichen haben. Mit<lb/>
+Recht konnte ich aber erwidern, dass man uns die gewünschten Unterlage<lb/>
+überhaupt nicht zur Verfügung stellte. Der Konsumverband – und es ist<lb/>
+nicht zu glauben – ist ausserstande, seine Genossenschaften soweit<lb/>
+zu koordinieren, dass sie einheitlich ein paar Artikel für ganz<lb/>
+Österreich verbilligen, Jeder Konsum macht seine eigene Politik,<lb/>
+oft entgegen den Intentionen der Zentrale. Ich habe deshalb und das<lb/>
+glaube ich mit Recht die Vorwürfe ganz entschieden zurückgewiesen,<lb/>
+ja ganz im Gegenteil sofort attackiert, dass man in einer so<lb/>
+mächtigen Organisation nicht imstande ist, wenigstens ein Dutzend<lb/>
+Artikel für ganz Österreich gleichmässig zu senken. Die Stafa<lb/>
+und Kaufhäuser haben nun vor längerer Zeit eine Liste von reinen<lb/>
+Ausverkaufspositionen geschickt. Schon allein die Bezeichnung als<lb/>
+Restposten zeigt dies. Auf Wunsch Dr. <name type="person" ref="per:126949">Partiks</name> werden wir dies<lb/>
+<pb n="21-0724" facs="21_1974-06-11_0724.jpg"/>nun veröffentlichen. Der Konsumverband wollte sich mit der Tatsache<lb/>
+entschuldigen, dass sie ehrlich sind und daher bei jeder Verlautbarung<lb/>
+diese auch restlos einhalten. Der Verband hat angeblich Probekäufe<lb/>
+bei A&amp;O gemacht und festgestellt, dass die uns mitgeteilten Preis<lb break="no"/>senkungen nicht durchgeführt werden. Wir haben sofort erklärt,<lb/>
+dass wir dies genau prüfen werden.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name>: Die Verständigung der Landesbehörden muss minde<lb break="no"/>stens so funktionieren wie bei den Ergebnissen der<lb/>
+Paritätischen Kommission, damit dort gegebenen<lb break="no"/>falls Kontrollen durchgeführt werden können.</p><p xml:space="preserve">Bei den soz. Frauen berichtete ich über die Preissituation und erklärte<lb/>
+ihnen insbesondere die Problematik der Index-Berechnung und angeb<lb break="no"/>lichen Manipulation. In der Diskussion zeigte sich, dass wir hier viel<lb/>
+mehr informatives Material an die Genossinnen schicken müssten.<lb/>
+Mir ist es unerklärlich, warum wir unsere Funktionärinnen so wenig<lb/>
+mit konkreten Daten versorgen.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97646">KOPPE</name>: Wir müssen uns selbst den Vorwurf machen, weil<lb/>
+wir auch so wenig dazu beitragen. Bitte mit<lb/>
+<name type="person" ref="per:133326">Krämer</name> und <name type="person" ref="per:98040">Wais</name> besprechen.</p><p xml:space="preserve">Die Europäische Gemeinschaft hat jetzt in der Kommission beschlossen,<lb/>
+es soll eine konsumentenpolitische Grundsatzerklärung erfolgen. Da<lb/>
+wir nicht zuletzt auf Initiative der soz. Frauen im Handelsministerium<lb/>
+1970 bereits ein konsumentenpolitische Deklaration erlassen haben,<lb/>
+die weit geht aber schon damals diese erst jetzt von der EG vorgeschla<lb break="no"/>gene Lösung vorsah, habe ich den Frauen empfohlen, sie sollen dies<lb/>
+doch als Ergebnis ihrer Sitzung mitteilen. Auch hier könnten wir<lb/>
+propagandistisch viel stärker in Erscheinung treten. Nicht dass das<lb/>
+Handelsministerium ins Spiel gebracht werden müsste, sondern dass<lb/>
+viel mehr der Erfolg der soz. Frauen herausgestrichen gehört.</p><p xml:space="preserve">Das Gespräch mit den Autoimporteure verlief wie erwartet. Von den<lb/>
+Importfirmen und Händlern kam nicht einer pro Firma sondern meistens<lb/>
+zwei oder drei und noch mehr. Der Sitzungssaal war überfüllt. Natürlich<lb/>
+wurde nur von den einzelnen Redner, soweit sie sich überhaupt meldeten<lb/>
+erklärt, sie sähen keine wie immer geartete Möglichkeit, eine Preis<lb break="no"/>senkung vorzunehmen. Ich habe ihnen auseinandergesetzt, dass wenn<lb/>
+wir nicht zu einer friedlichen und freundschaftlichen Lösung kommen,<lb/>
+<pb n="21-0725" facs="21_1974-06-11_0725.jpg"/>die Massenmedien dann mit Recht auf die grossen Lager hinweisen werden<lb/>
+und verlangen, dass entsprechende Preissenkungen erfolgen. Ich werde<lb/>
+dann auf Grund des Preisbestimmungsgesetzes zu prüfen haben, ob tat<lb break="no"/>sächlich alle Verbilligungen in den letzten Jahren weitergegeben<lb/>
+wurden. Zuletzt einigten wir uns, dass sie mit ihren Mutterwerken noch<lb/>
+einmal reden werden und wir bilaterale Gespräche mit jeder einzelnen<lb/>
+Firma führen werden.</p><p xml:space="preserve">Im nachmittägigen Ministerrat hat <name type="person" ref="per:97668">Kreisky</name> überhaupt keine Vorbe<lb break="no"/>sprechung gemacht sondern sofort die Beamten dazugebeten. Er berichtete<lb/>
+deshalb nur von der <name type="person" ref="per:127591">Nixon</name>-Aussprache in Salzburg, verlangte aber, dass<lb/>
+darüber nicht Protokoll geführt wird. Im Grund erörterte <name type="person" ref="per:127591">Nixon</name> nur seine<lb/>
+Auffassung über den Nahost-Konflikt. Nach Information der Amerikaner<lb/>
+waren die Russen bereit, 6 Divisionen nach Ägypten und Syrien zu<lb/>
+schicken und damit die Israeli zwar nicht ins Meer zu werfen,<lb/>
+aber doch über die Grenzen des 6-Tage-Krieges zurückzuwerfen. Aus<lb/>
+diesem Grunde musste sich Amerika einschalten, und hat dann durch Druck<lb/>
+auf Israel einerseits und Unterstützung Ägyptens andererseits den<lb/>
+Waffenstillstand erreicht. Die grösste Sorge bereitet Amerika<lb/>
+jetzt die Entwicklung in Italien. Wem nicht, auch eine Erkenntnis!</p><p xml:space="preserve">In der Ministerratssitzung machte ich <name type="person" ref="per:97668">Kreisky</name> darauf aufmerksam, dass<lb/>
+die zweite Etappe der Rundfunkgebührenerhöhung, die mit 1.7. erfolgen<lb/>
+sollte, den Lebenshaltungskostenindex um ca. 1/3 % erhöhen würde. Ich<lb/>
+stellte <name type="person" ref="per:97668">Kreisky</name> anheim, ob er als Eigentümervertreter oder ich im Zuge<lb/>
+der Preissenkungsaktion mit <name type="person" ref="per:97326">Bacher</name> verhandeln sollte. Er entschied, dass<lb/>
+er einen Brief an <name type="person" ref="per:97326">Bacher</name> schreiben wird, ich ersuchte nur, dass dieser<lb/>
+unverzüglich abgesendet werden muss, weil ansonsten kaum mehr eine Chance<lb/>
+besteht, dass die Einhebung sagen wir auf einige Monate verschoben wird.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> erklärte, dass bezüglich der Einschränkung der ausländischen<lb/>
+Dienstreisen auch für die Minister er entsprechende Richtlinien<lb/>
+zur Diskussion für die Minister vorschlagen wird. Er spürt und<lb/>
+dies mit Recht, dass die Auslandsfahrten in der Bevölkerung sehr schlecht<lb/>
+ankommen. Ich bin ja bloss gespannt, wie er dieses Problem lösen möchte.<lb/>
+<name type="person" ref="per:97442">Firnberg</name> und <name type="person" ref="per:98055">Weihs</name> wiesen darauf allerdings nach der Sitzung als sie<lb/>
+mitsammen sprachen und ich zufälligerweise dabeistand, wie sie Auslands<lb break="no"/>reisen einschränken sollten, gleichzeitig man immer mit anderen Staaten<lb/>
+kooperieren soll. Ich bin ja hier in einer glücklicheren Position,<lb/>
+weil ich seit eh und je nur ins Ausland reiste, wenn ich irgendwelche<lb/>
+<pb n="21-0726" facs="21_1974-06-11_0726.jpg"/>Verpflichtungen hatte, die womöglich durch Vertragsabschluss oder durch<lb/>
+Beschlüsse der vorhergehenden Regierung oder Verträge, die solche<lb/>
+Auslandsreisen vorsehen, gemacht habe. Einladungen zu Gegenbesuchen,<lb/>
+wo keine vertragliche Verpflichtung besteht, wie z.B. Norwegen und<lb/>
+viele andere Staaten, habe ich kategorisch immer abgelehnt.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97377">BUKOWSKI</name>: Lass Dir bitte eine Zusammenstellung von<lb/>
+<name type="person" ref="per:97801">Ottahal</name> aber auch von den einzelnen Sektionen<lb/>
+machen, wo ich immer hätte in den vergangenen<lb/>
+Jahren hinfahren müssen und nicht gefahren bin.</p><p xml:space="preserve">Meister <name type="person" ref="per:126284">Leherb</name> hat jetzt mit der neuen Leitung des Fremdenverkehrs<lb break="no"/>werbung und meine Vermittlung neuen Kontakt aufgenommen und vor allem<lb/>
+einmal jetzt abgesprochen, wie seine wirklich in der ganzen Welt<lb/>
+ankommenden Plakate besser mit seinen Ausstellungen und sonstigen<lb/>
+Aktivitäten im Ausland koordiniert werden können. Darüber hinaus hat<lb/>
+er mit Recht darauf hingewiesen, dass seine Frau <name type="person" ref="per:136839">Lotte Profohs</name><lb/>
+mit der Präsentation dieser Plakate viel Arbeit aufgewendet hat.<lb/>
+<name type="person" ref="per:111736">Zolles</name> schlug vor und Dr. <name type="person" ref="per:114586">Zedek</name> stimmte dem zumindestens durch<lb/>
+Schweigen zu, dass man eine entsprechende Lösung im Direktorium<lb/>
+suchen würde. <name type="person" ref="per:126284">Leherb</name> wird mir sagen, was <name type="person" ref="per:136839">Profohs</name> sich am meisten<lb/>
+wünschen würde. Plakate und insbesondere die Präsentation soweit<lb/>
+ich mitwirken konnte, war wirklich ein voller Erfolg. Die Zeitaufwendung<lb/>
+die ich aber dafür in Kauf nehmen musste, war auch nicht gerade<lb/>
+gering. Zum Glück bin ich dieses Geschäft jetzt los.</p><p xml:space="preserve">Bei der Sektionsleitersitzung, die wir vor Wahlen immer anstelle von<lb/>
+Vorstandsitzungen durchführen um unsere Funktionärsspitze des Bezirkes<lb/>
+besser zu informieren, analysierten wir auch die NÖ. Wahlergebnisse.<lb/>
+Die Frage unserer Funktionäre konnte ich nicht beantworten, aber<lb/>
+ich teile sie ob wir nicht durch doch eine gewisse Vernachlässigung<lb/>
+unserer Stammwähler insbesondere der Arbeiter und Angestellten dazu<lb/>
+beitragen, dass wir in dieser Wählerschicht Stimmen verlieren. Anderer<lb break="no"/>seits haben wir festgehalten, dass man sich um die Jugend viel zu wenig<lb/>
+kümmert, dann aber scheinbar schockartig die Unterstützungen wie die<lb/>
+16.000 S Geburtenbeihilfe schafft. Vor allem aber im Zentralsekre<lb break="no"/>tariat wird viel zu wenig für die organisatorische Unterstützung<lb/>
+der Jungen Generation bei uns getan. Diese Genossen sind wirklich<lb/>
+Idealisten, opfern sich auf und ZS <name type="person" ref="per:97727">Marsch</name> ist nicht einmal bereit,<lb/>
+sie bei Informationstagungen wie z.B. die gestrige Obmänner- und Sekre<lb break="no"/>tärsbesprechung zu erwähnen. Das Hauptproblem und das habe ich wieder<lb/>
+<pb n="21-0727" facs="21_1974-06-11_0727.jpg"/>einmal mehr festgestellt, liegt in der mangelnden Koordination,<lb/>
+in der mangelnden Anerkennung von Leistungen anderer und vor<lb/>
+allem in dem mangelnden Willen auch der persönlichen Aversion<lb/>
+diese zurückzustellen im Interesse der gemeinsamen Sache.</p><p xml:space="preserve"/></div>
+      </body>
+      <back>
+         <pb n="21_0721_01" facs="21_1974-06-11_0721-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 11.6.1974</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="21_0727_01" facs="21_1974-06-11_0727-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesordnung 121. Ministerratssitzung, 11.6.1974</head>
+            <gap reason="sampling"/>
+            <pb n="21_0727_02" facs="21_1974-06-11_0727-02.jpg"/>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+   </text>
+</TEI>

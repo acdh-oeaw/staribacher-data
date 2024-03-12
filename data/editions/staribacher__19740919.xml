@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Donnerstag, der 19. September 1974</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band22_1974-09-19</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1974-09-19">Donnerstag, 19. September 1974</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2017-01-12">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band22/">
+      <body>
+         <pb n="22-1106" facs="22_1974-09-19_1106.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Donnerstag, den 19. September 1974</p><p xml:space="preserve">Um mein Interesse an der österreichischen Fremdenverkehrswerbung<lb/>
+zu bekunden und vor allem weil ich ja noch niemals bei einer Re<lb break="no"/>ferentenbesprechung war, bin ich dort ganz unvermutet aufgetaucht.<lb/>
+Diese Referentenbesprechungen sind in Wirklichkeit nichts anderes<lb/>
+als unsere Abteilungsleitersitzungen in der Arbeiterkammer oder<lb/>
+die Sektionsleitersitzung jetzt bei mir im Handelsministerium.<lb/>
+Überall dasselbe, ein paar Aktivisten, ein oder der andere der<lb/>
+viel redet, muß nicht immer etwas dahinter sein, furchtbar schwer<lb/>
+beim ersten mal zu beurteilen, wer ist wirklich jetzt ein guter<lb/>
+Arbeiter und wer nicht. Als Begründung für mein Erscheinen habe<lb/>
+ich angeführt, daß ich in Innsbruck jetzt die Messe eröffne, daher<lb/>
+von ihnen gerne irgendwelche Ideen und Vorschläge hören möchte,<lb/>
+daß ich vor allem neuerdings an sie appelliere, mit den Landesfremden<lb break="no"/>verkehrsämtern besser zu kooperieren. Mir erscheint nämlich<lb/>
+tatsächlich die Frage, wie weit man die Bürokratie in den Ländern und<lb/>
+in den Zentralstellen zu einer Zusammenarbeit bringen kann, als das<lb/>
+Entscheidende. Wenn es nämlich gelingt, die Bürokratien dafür zu<lb/>
+gewinnen, dann glaube ich würde selbst eine kompetenzmäßige Trennung<lb/>
+vom Bund und Land, wie wir sie derzeit haben, leicht überbrückt werden<lb/>
+können. Die größte Gefahr ist und bleibt, daß die Animosität eines<lb/>
+bürokratischen Apparates gegen einen anderen besteht, was nämlich<lb/>
+bedeutet, daß dann selbst wenn die oberste Spitze noch so sehr zu<lb break="no"/>sammenarbeiten will, es zu keiner solchen Zusammenarbeit kommt. Disku<lb break="no"/>tiert wurde, und ich muß zugeben, daß dies stimmt, daß die Länder<lb/>
+vielmehr für ihre Fremdenverkehrsdirektoren resp. für die Fremden<lb break="no"/>verkehrsverantwortlichen der Gemeinden, der Regionalverbände,<lb/>
+wesentlich qualifiziertere Leute, die noch zu schulen wären, ver<lb break="no"/>wenden müßten. Wenn die Verkaufswerbung mehr und mehr Platz greift,<lb/>
+dann müssen auch dort wirkliche Manager angestellt werden. Es ist<lb/>
+nicht entscheidend, wer in den 2 Monaten der Fremdenverkehrshochsaison<lb/>
+dort als Verantwortlicher dort auftritt, sondern wer in den rest<lb break="no"/>lichen 10 Monaten in der Verkaufswerbung so tüchtig ist, daß eben<lb/>
+in den zwei Monaten dann die entsprechenden Gäste kommen. Wenn<lb/>
+diese Verkaufswerbung weiterhin um sich greift, dann müßten auch die<lb/>
+Verkehrsvereine wahrscheinlich in Hinkunft die Zimmervermittlung<lb/>
+mit übernehmen.</p><p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:97377">BUKOWSKI</name>: Lass bitte von <name type="person" ref="per:97584">Jagoda</name> prüfen, wie weit das<lb/>
+gewerberechtlich möglich ist.</p><pb n="22-1107" facs="22_1974-09-19_1107.jpg"/><p xml:space="preserve">Weiteres Problem war die Zusammenfassung der Hotels, wie sie jetzt<lb/>
+bereits in Ansätzen vorliegt. Es gibt eine Gruppe Burg- und Schloß<lb break="no"/>hotels, die Round-table Konferenz-Hotels, die Luxushotels, die angeblich<lb/>
+aber gar keine Luxushotels überall sind, und dann vor allem mal die<lb/>
+sieben Kärntner, die sich zur Erfa, d.h. Erfahrungsgruppe, zusammengetan<lb/>
+haben. Hier müßte insbesondere der gemeinsame Einkauf der Hotels<lb/>
+und wahrscheinlich mehr oder minder aller Fremdenverkehrsbetriebe<lb/>
+im regionalen Bereich eine wesentliche Erleichterung bringen. Die<lb/>
+österreichische Ausbildung der Fremdenverkehrsfachleute erstreckt<lb/>
+sich meistens auf Hoteldirektoren, niemals aber auf Verkaufsleiter<lb/>
+für Fremdenverkehrsgemeinden, Regionalverbände usw. Diesmal war für<lb/>
+mich die Beschwerde, daß es zu einer Balkanisierung der österreichi<lb break="no"/>schen Küche kommt. Überall findet man jetzt Cevapcici und Pustaplatten<lb/>
+als die scheinbar vom Gast so gewünschte Speise. Wahrscheinlich ergibt<lb/>
+sich hier die günstigste Kostensituation und die einfachste Her<lb break="no"/>stellungsweise. Richtig ist, daß wir alles daransetzen müssen, um<lb/>
+die österreichische Küche, österreichische Bezeichnung und öster<lb break="no"/>reichische Spezialitäten aufrecht zu erhalten. Besonders der franzö<lb break="no"/>sische, belgische, aber auch der italienische Gast wünscht keine<lb/>
+Balkanisierung, sondern eben eine gehobene bessere Küche. <name type="person" ref="per:111736">Zolles</name><lb/>
+war sehr froh, daß ich erschienen bin und ich habe ihm neuerdings<lb/>
+<choice><choice><sic>bestmöglichste</sic><corr>bestmögliche</corr></choice></choice> und größte Unterstützung zugesagt.</p><p xml:space="preserve">Zu den Wirtschaftsgesprächen mit den syrischen Wirtschaftsminister<lb/>
+war eine Riesendelegation österreichischerseits erschienen. Von<lb/>
+der Handelskammer Präsident <name type="person" ref="per:97925">Schoeller</name>, der Handelsdelegierte in<lb/>
+Beirut <name type="person" ref="per:137245">Schneider</name>, der auch gleichzeitig für Syrien zuständig ist<lb/>
+und sachlich zuständige Referent. Von der Verstaatlichten Industrie<lb/>
+waren sogar Firmenvertreter von VÖEST, SGP, Chemie Linz, Schoeller-<lb/>
+Bleckmann, der sich nebenbei bemerkt auch gleich von Lenz-Moser,<lb/>
+für den sie eine Anlage bauen wollen, den jungen <name type="person" ref="per:97755">Moser</name> mitge<lb break="no"/>bracht hat. Geführt wenn ich sozusagen sagen darf, wurde die Dele<lb break="no"/>gation von <name type="person" ref="per:98034">Veselsky</name>, der <name type="person" ref="per:97468">Gatscha</name> und <name type="person" ref="per:97340">Beelitz</name> an seiner Seite hatte.<lb/>
+Mich störte dies gar nicht, ganz im Gegenteil, weil sich dann sehr<lb/>
+bald herausstellte daß der Wirtschaftsminister nicht mit unserem<lb/>
+arabischen Dolmetscher arbeiten wollte, sondern sofort mit englisch<lb/>
+begann. In diesem Fall war ich natürlich gehandikapt, konnte ich mich<lb/>
+über die Situation hinwegschwindeln. Natürlich war aber, daß der<lb/>
+Vertreter der Außenhandelsstelle natürlich den besten Kontakt<lb/>
+<pb n="22-1108" facs="22_1974-09-19_1108.jpg"/>mit den syrischen Stellen bis jetzt gehabt hat und daher immer<lb/>
+wieder in jeden konkreten Geschäftsfall in jeden Wunsch der Syrier<lb/>
+in jeden Vorschlag von uns sehr konkrete Informationen geben konnte<lb/>
+und natürlich dadurch die Verhandlung dominierte. Dies hat <name type="person" ref="per:97468">Gatscha</name>,<lb/>
+wie ich bemerkte, sehr geärgert und er hat mir selbst immer zugeflüstert,<lb/>
+dies ist die typische Methode der Handelskammer, so als wie würde sie<lb/>
+ihn vollkommen verdrängen. Ich habe zwar immer wieder bei jedem<lb/>
+konkreten Geschäft, wenn es nur irgendwie ging, den Vertretern der<lb/>
+Verstaatlichten Betriebe das Wort gegeben, sie aufgefordert, dazu kon<lb break="no"/>kret Stellung zu nehmen und vor allem das gesamte Material, das meistens<lb/>
+aus verstaatlichten Betrieben vorlag, den Syrern als Unterlage zum<lb/>
+Studium weitergegeben. Zum Glück hatte <name type="person" ref="per:97426">Fälbl</name> wieder eine, wenn auch<lb/>
+teilweise unzulängliche Liste von Projekten schriftlich vorbereitet,<lb/>
+sodass wir an Hand dieser Liste und der Ergänzungswünsche der Syrer<lb/>
+eine sehr ins Konkrete gehende Tagesordnung abwickeln konnten. Da<lb/>
+ich bereits bei allen Vorbesprechungen, die ich mit dem Minister hatte,<lb/>
+darauf hinwies, daß wir die Finanzierung nicht lösen können, es daher<lb/>
+auch gar keinen Sinn hat, darüber zu sprechen, er dies auch eingesehen<lb/>
+hat, kamen wirklich eine große Anzahl von Kooperations- und Liefer<lb break="no"/>möglichkeiten zur Sprache. Zuerst hatte es den Anschein, bevor wir<lb/>
+in die konkrete Liste eingingen, d.h. vor etlichen Tagen, es hätte<lb/>
+nur ein einziges Projekt für die Syrer Interesse, u.zw. die Reifen<lb break="no"/>fabrik von Semperit. In Wirklichkeit stellte sich dann heraus, daß<lb/>
+gerade dieses Projekt von seiten der Syrer gar nicht als so interes<lb break="no"/>sant und abschlußreif betrachtet wird. Semperit, Gen.Dir. <name type="person" ref="per:137219">Rueger</name>,<lb/>
+war übrigens sehr erstaunt, als er scheinbar jetzt erfuhr, daß auch<lb/>
+in Irak eine Riesen-Reifenfabrik jetzt gebaut werden soll und wahr<lb break="no"/>scheinlich auch noch in anderen arabischen Staaten.Für mich neu war,<lb/>
+daß sowohl der Kuwait- als auch der Abu-Dhabi-Fonds, jeder umfaßt Milliar<lb break="no"/>den Dollar, für die Investitionen der arabischen Länder zur Verfügung<lb/>
+steht und daher auch von Syrien beansprucht werden kann. Wenn nun die<lb/>
+syrische Seite angeblich darauf besteht, dass sie das Know-how oder<lb/>
+die Anlage von einer österreichischen Firma erwerben will, dann soll<lb/>
+auch in diesem Fonds, die natürlich nur für arabische Interessen<lb/>
+eintreten, die Möglichkeit bestehen Geld, d.h. Kredit dafür zu<lb/>
+bekommen. Beim Abendessen habe ich den Wirtschaftsminister gefragt,<lb/>
+ob er nicht eine Möglichkeit auch darin sieht, daß wir mit Hilfe der<lb/>
+Oststaaten, die riesige, äußerst billige Kredite angeblich um 2-3%<lb/>
+zur Verfügung stellen, gemeinsam in Syrien Anlagen oder Fabriken errich<lb break="no"/>ten können. Er meinte, daß dies als zweiter Schritt möglich sei, er<lb/>
+<pb n="22-1109" facs="22_1974-09-19_1109.jpg"/>möchte aber vorher versuchen allein für Österreich die entsprechenden<lb/>
+Kreditmittel von den arabischen Geldinstituten zur Verfügung zu<lb/>
+bekommen. Premierminister war mit den Ergebnissen, wie er mir beim<lb/>
+Abendessen sagte, ich kam zwischen ihm und den Wirtschaftsminister<lb/>
+zu sitzen, sehr zufrieden.</p><p xml:space="preserve">Der russische Handelsrat <name type="person" ref="per:139647">Wassiljew</name>, der scheinbar schwer erkrankt ist,<lb/>
+fährt jetzt nach Moskau zurück, und <name type="person" ref="per:113078">Nikolajenko</name> ein neuer Handelsrat<lb/>
+hat sich bei mir vorgestellt. Bei der Verabschiedung, es wurde sogar<lb/>
+noch ein Empfang gegeben, bin ich dann nicht zuletzt auf Intervention<lb/>
+von <name type="person" ref="per:97426">Fälbl</name> dann doch aufgetaucht, um unser besonderes Interesse der<lb/>
+russischen Seite gegenüber zu bekunden. <name type="person" ref="per:113078">Nikolajenko</name> hat bereits an<lb break="no"/>gedeutet, daß es zwar Schwierigkeiten mit den Gas-Blechgeschäft gibt,<lb/>
+er aber überzeugt ist, daß wir auch hier eine befriedigende Lösung er<lb break="no"/>reichen. Weder <name type="person" ref="per:97644">Koller</name> und <name type="person" ref="per:97738">Meszaros</name> wissen etwas Konkreteres, weil<lb/>
+die Delegation der ÖMV und VÖEST noch immer nicht von Rußland<lb/>
+zurück ist. <name type="person" ref="per:97738">Meszaros</name> war bereits im Detail informiert über die<lb/>
+Aussprache beim Finanzminister wegen Austria-Ferngas – ÖMV Abstimmung<lb/>
+und mit seinen Leuten, wenn sie aus Moskau zurückkommen, im Vorstand<lb/>
+dieses Problem besprechen und dann die entsprechende Koordination<lb/>
+versuchen. Ich bin überzeugt, daß rein aus der Konkurrenzsituation<lb/>
+dieser beiden Gas-Gesellschaften kaum eine wirklich befriedigende<lb/>
+Lösung zu erwarten ist. Die einzige Frage, die mich immer wieder<lb/>
+quält, ob wir und wie wir diese riesen Projekte und nicht zuletzt auch<lb/>
+die riesen Mengen die kommen werden, finanzieren können und dann gerecht<lb/>
+und zielmäßig verteilen. Nicht daran denken möchte ich, daß wir in<lb/>
+eine Wirtschaftskrise kommen und dann vielleicht die ganzen Energie<lb break="no"/>mengen überhaupt nicht gebraucht werden.</p><p xml:space="preserve">Zum Glück bin ich zur festlichen Stunde zu <name type="person" ref="per:97733">Mayer-Gunthof</name> gegangen,<lb/>
+weil ich dort zu meiner größten Überraschung wirklich die gesamte<lb/>
+Prominenz auch auf unserer Seite angetroffen habe. Es erschien zwar<lb/>
+verspätet, aber doch der Bundeskanzler, Präsident <name type="person" ref="per:97346">Benya</name> als Gewerk<lb break="no"/>schaftsvertreter, selbstverständlich alle Handelskämmerer mit <name type="person" ref="per:97893">Sallinger</name><lb/>
+an der Spitze und auch die Regierung war durch <name type="person" ref="per:97372">Broda</name>, <name type="person" ref="per:108224">Lütgendorf</name> und<lb/>
+mich vertreten. Die Industriellenvereinigung hatte ein Riesenprogramm,<lb/>
+von <name type="person" ref="per:136383">Häussermann</name> sehr gut zusammengestellt und vor allem aber etliche<lb/>
+Festredner. Aus der festlichen Stunde wurden dann festliche Stunden.<lb/>
+<name type="person" ref="per:97733">Mayer-Gunthof</name>, der aber mit mir wirklich sehr gut kooperierte und den<lb/>
+ich wirklich leiden kann, ich bezeichnete ihn immer als Inkarnation<lb/>
+der guten Seite der Monarchie, hat sich dies aber auch tatsächlich<lb/>
+verdient. Ansonsten aber war dieser Tag, wie man ihn für einen Minister<lb/>
+<pb n="22-1110" facs="22_1974-09-19_1110.jpg"/>wahrscheinlich erwartet. Wenig verhandelt, Frühstück durch den<lb/>
+Bundespräsidenten, Verabschiedung durch Empfänge, festliche Geburts<lb break="no"/>tagsfeiern, ein Contre-Dinner im Hotel Imperial, wann eigentlich<lb/>
+arbeitet ein solcher Minister.</p></div>
+      </body>
+      <back>
+         <pb n="22_1105_01" facs="22_1974-09-19_1105-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 19.9.1974</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="22_1105_02" facs="22_1974-09-19_1105-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+   </text>
+</TEI>

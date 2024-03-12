@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der 23. Juni 1978</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band43_1978-06-23</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1978-06-23">Freitag, 23. Juni 1978</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2017-06-13">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="43-0725" facs="43_1978-06-23_0725.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Freitag, den 23. Juni 1978<lb/>
+</p>
+            <p xml:space="preserve">In der Fraktion des Handelsausschusses entwickelte der Klubobmann<lb/>
+<name type="person" ref="per:97444">Fischer</name> seine Strategie. Selbstverständlich waren alle damit ein<lb break="no"/>verstanden, denn jeder war davon überzeugt, als es galt, so schnell<lb/>
+als möglich die ganze Angelegenheit, insbesondere die Frage des Kern<lb break="no"/>kraftwerkes über die Runden zu bringen. Der Obmann des Handelsaus<lb break="no"/>schusses, Abgeordneter <name type="person" ref="per:112996">Staudinger</name> von der ÖVP, erschien knapp vor<lb/>
+Sitzungsbeginn und erklärte <name type="person" ref="per:97444">Fischer</name>, <name type="person" ref="per:97543">Heindl</name>, <name type="person" ref="per:97563">Hofstetter</name> und mir, daß<lb/>
+die ÖVP eine Sitzungsunterbrechung verlangen wird, um den Antrag auf<lb/>
+Volksabstimmung genauer prüfen zu können. Selbstverständlich mußte<lb/>
+diesem Verlangen Rechnung getragen werden, denn dies verlangt die<lb/>
+jahrzehntelange Tradition des Hauses.<lb/>
+</p>
+            <p xml:space="preserve">Wir einigten uns darauf, daß daher die Tagesordnung umgestellt wird.<lb/>
+Die Gesetzentwürfe über den Beitritt Österreichs zum Europäischen<lb/>
+Patentamt wurde einem Unterausschuß zugewiesen. Die Österreichische<lb/>
+Volkspartei konnte sich auch jetzt noch nicht entschließen, ihre end<lb break="no"/>gültige Zustimmung zu geben.<lb/>
+</p>
+            <p xml:space="preserve">Die Novelle zum Mühlengesetz wurde als einziger Gesetzentwurf und<lb/>
+der Bericht über den Mühlenfonds dann einstimmig beschlossen. Vorher<lb/>
+allerdings gab es auch hier noch ein Heckmeck. <name type="person" ref="per:97584">Jagoda</name> hatte den<lb/>
+Abgeordneten <name type="person" ref="per:111721">Stix</name> über die Novelle informiert und dieser ließ uns schon<lb/>
+wissen, er werde einen Abänderungsantrag einbringen, der die Anpassung<lb/>
+der Strafbestimmungen an die jetzt in anderen Gesetzen gehandhabte<lb/>
+vorsieht. Dagegen war unsererseits nichts einzuwenden, da es sich um<lb/>
+eine Erleichterung für die Müller handelt, bis jetzt war es Geld oder<lb/>
+Arreststrafe, in Hinkunft soll es nur mehr Geldstrafe sein, wobei<lb/>
+gleichzeitig das Strafausmaß verringert wurde. Zu meiner größten<lb/>
+Überraschung hatte Abg. <name type="person" ref="per:112149">Gorton</name>, ÖVP, vorerst einen Abänderungsantrag<lb/>
+eingebracht, wonach die Verlängerung des Mühlengesetzes um 5 Jahre<lb/>
+erfolgen sollte. Dies widersprach den <choice><choice><sic>Gegebnissen</sic><corr>Ergebnissen?</corr></choice></choice> unserer Verhand<lb break="no"/>lung mit den Sozialpartnern. Darauf machte ich mit aller Deutlichkeit<lb/>
+aufmerksam. Der Vorsitzende <name type="person" ref="per:112996">Staudinger</name> bemühte sich deshalb die ÖVP<lb/>
+dazu zu bringen den Antrag zurückzuziehen. Im Plenum hätte jeder<lb/>
+die Möglichkeit darauf zu verweisen, daß eine 5-jährige Verlängerung<lb/>
+zweckmäßiger gewesen ist. Tatsächlich hat dann <name type="person" ref="per:112149">Gorton</name> nicht zuletzt,<lb/>
+<pb n="43-0726" facs="43_1978-06-23_0726.jpg"/>weil ich mit aller Deutlichkeit darauf aufmerksam machte, daß damit<lb/>
+ein neuer Weg von seiten der ÖVP beschritten wird, keine Sozial<lb break="no"/>partnerabsprache, dann Einbringen eines Abänderungsantrages, der<lb/>
+vorher nicht einmal bekannt war, sich scheinbar doch nicht stark<lb/>
+genug fühlte, auf diesem Gebiet auf Konfrontationskurs zu gehen.<lb/>
+Selbst der Abg. <name type="person" ref="per:111721">Stix</name> zog dann den zweiten Teil seines beabsichtigten<lb/>
+Abänderungsantrages, der ebenfalls eine Verlängerung um 5 Jahre vor<lb break="no"/>sah, zurück. Einstimmig konnte also das Mühlenproblem gelöst werden.<lb/>
+</p>
+            <p xml:space="preserve">Die zwei Direktoren der GKT <name type="person" ref="per:110040">Nentwich</name> und <name type="person" ref="per:97990">Staudinger</name>, aber vor allem<lb/>
+auch die beiden Aufsichtsratsvorsitzenden <name type="person" ref="per:112014">Erbacher</name> und Stellvertreter<lb/>
+Gen.Dir. <name type="person" ref="per:97496">Gruber</name> wurden nun zum Kernkraftwerk befragt. Vor allem<lb/>
+galt es für die Sozialistische Fraktion herauszuarbeiten, und <name type="person" ref="per:97543">Heindl</name><lb/>
+hatte dies in der Vorbesprechung schon bereits vereinbart, vorher<lb/>
+aber sogar die Frage mit <name type="person" ref="per:110040">Nentwich</name> besprochen, festzulegen, welche<lb/>
+Kosten die Nicht-Inbetriebnahme verursachen werden. Ich legte in<lb/>
+der Vorbesprechung nur großen Wert darauf, daß wenige Ziffern, diese<lb/>
+dafür aber ständig wiederholt werden müßten. Tatsächlich stellte<lb/>
+sich heraus, daß die Investitionen 7,6 Mrd S ausmachen inkl. 5 %<lb/>
+Afa mit 400 Mio, Zinsen 1,3 Mrd und Uran 900 Mio, also in der<lb/>
+Summe einschließlich Brennstoff und Anreicherung 8 1/2 Mrd Schilling.<lb/>
+Für die Ersatzenergie muß man 1 Mrd S rechnen. Direktor <name type="person" ref="per:97990">Staudinger</name><lb/>
+hat auf besonderes Befragen dann mitgeteilt, daß inkl. aller noch<lb/>
+zu erwartenden und jetzt bekannten Kosten sowie auch die Frage der<lb/>
+Wiederaufbereitung und der Zwischenlagerung der Strompreis aus Zwen<lb break="no"/>tendorf knapp unter 40 Groschen liegen wird. Die angebliche, von den<lb/>
+Atom-Gegnern behauptete Wiederaufbereitung 11 Mrd kostet in Wirklich<lb break="no"/>keit nur eine Milliarde bei Cogema. Die geologische Endlagerung von<lb/>
+10 Mrd kostet, wenn in Österreich gebaut wird, 1,7 Mrd, wird aller<lb break="no"/>dings in Ägypten wesentlich mehr kosten. Die Stillegung, mit 7 Mrd An<lb break="no"/>lagekosten angenommen auf Grund einer Studie in Deutschland, die 10–<lb/>
+15% Investitionen rechnet und auf Grund der bisherigen Erfahrungen<lb/>
+sich ergibt mit einer Milliarde angenommen werden. Die Konditionierung<lb/>
+in Seibersdorf von schwach- und mittelaktivem Abfall kostet nicht<lb/>
+3 Mrd, sondern 300 Mio. Die Brennelemente-Zwischenlagerung von 5 Mrd<lb/>
+fällt überhaupt nicht an, weil diese durch den Cogema-Vertrag ge<lb break="no"/>deckt sind. Die so behaupteten 36 Mrd Schilling werden ca 5 Mrd<lb/>
+betragen und damit bei 6.000 jährliche Betriebsstunden in 20 Jahren<lb/>
+<pb n="43-0727" facs="43_1978-06-23_0727.jpg"/>6 Groschen auf den Strompreis ausmachen. Selbst wenn ich annehme,<lb/>
+daß<add>[sich]</add> ungünstigenfalls diese Zahl verdoppelt, würde der Strompreis<lb/>
+bei ca 45 Groschen liegen. Abg. <name type="person" ref="per:111410">König</name> hat bei seiner Befragung<lb/>
+natürlich wieder nur ein einziges Ziel gehabt, irgendwo in Neben<lb break="no"/>sächlichkeiten und wirklichen Kleinigkeiten nachzuweisen, daß <name type="person" ref="per:97668">Kreisky</name><lb/>
+sich in irgendeinem Gegensatz zu Aussagen der Kernkraftwerksbefür<lb break="no"/>worter befindet. Man kann direkt aus seinen Mienen ablesen, wie<lb/>
+er sich freut, solche Kleinigkeiten zu entdecken. Abg. <name type="person" ref="per:111723">Wiesinger</name><lb/>
+wollte wieder gar nichts anderes wissen, als ob das Gesundheits<lb break="no"/>ministerium insbesondere <name type="person" ref="per:107938">Leodolter</name> alles optimal erledigt hat, sein<lb/>
+ganzes Bestreben während der Verhandlungen im Unterausschuß bestand<lb/>
+ja nur darin, <name type="person" ref="per:107938">Leodolter</name> ein Klampfl anzuhängen, sein Ziel ist und<lb/>
+bleibt die Gesundheitsministerin zu stürzen und womöglich selbst<lb/>
+zu werden. Abg. <name type="person" ref="per:97572">Hubinek</name> wieder sieht sich jetzt als die Frauen<lb break="no"/>schützerin und gefiel sich in der Rolle auf alle Unzulänglich<lb break="no"/>keiten aufmerksam zu machen. Die sozialistische Seite legte bei<lb/>
+den Fragen an die Direktoren und Aufsichtsräte natürlich immer<lb/>
+wieder positive Aspekte vor. Ich persönlich sah mich veranlaßt,<lb/>
+<choice><choice><sic>daher</sic><corr>da</corr></choice></choice> das Sicherheitsmoment von der ÖVP jetzt wieder ganz besonders<lb/>
+in den Vordergrund gerückt wird, als einzige Frage zum Schluß neben<lb/>
+dafür die dezidierte Antwort zu bekommen, wie sie die Sicherheit<lb/>
+von Zwentendorf sehen. Natürlich war dies eine Suggestivfrage und<lb/>
+die Antwort war natürlich, daß es hier nach jeden einzelnen seinem<lb/>
+Ermessen um ein optimales Werk handelt. <name type="person" ref="per:97572">Hubinek</name> stellte dann noch<lb/>
+in einem Zwischenruf fest, der Handelsminister zweifelt die Sicher<lb break="no"/>heit an, was mich veranlaßte zu erklären, genau wegen ihrer jetzt<lb/>
+so beginnenden Sicherheitszweifel an dem Kernkraftwerk Tullnerfeld<lb/>
+habe ich diese Frage gestellt. Immerhin waren zwei Parteifreunde<lb/>
+von ihr, Gen.Dir. <name type="person" ref="per:97496">Gruber</name> und Dir. <name type="person" ref="per:97990">Staudinger</name>, die die Sicherheit<lb/>
+doch eindeutig bejahen.<lb/>
+</p>
+            <p xml:space="preserve">Anschließend an dieses Hearing hat dann Klubobmann <name type="person" ref="per:97444">Fischer</name> seine<lb/>
+Begründung für den Gesetzentwurf Inbetriebnahme Zwentendorf und<lb/>
+Volksabstimmung dargelegt. Die ÖVP erhoffte sich aus dieser Situ<lb break="no"/>ation herauszureden, nicht nur daß sie einen Vertagungsantrag<lb/>
+gestellt <choice><choice><sic>ist</sic><corr>hat</corr></choice></choice>, sondern daß auch ihr Rechtsexperte Dr. <name type="person" ref="per:112626">Hauser</name>, der<lb/>
+ja dem Unterausschuß die ganze Zeit auch angehörte, sofort mit<lb/>
+Geschäftsordnungsfragen begann. Hier war <name type="person" ref="per:97444">Fischer</name> aber, der ja<lb/>
+<pb n="43-0728" facs="43_1978-06-23_0728.jpg"/>nicht zuletzt auch ein Buch über die Geschäftsordnung im Parlament<lb/>
+mit dem Parlamentsdirektor vor längerer Zeit verfaßt hatte, wirklich<lb/>
+o.k. Trotzdem dauerte die Debatte wegen der Geschäftsordnung ver<lb break="no"/>hältnismäßig lang und letzten Endes einigte man sich, diese am<lb/>
+Montag, dem neuen Handelsausschuß fortzusetzen. Ich ersuchte <name type="person" ref="per:97444">Fischer</name><lb/>
+dann außerhalb der Sitzung, er möge Vorkehrung treffen, daß nicht<lb/>
+diese Debatte tatsächlich am Montag im Handelsausschuß geführt wird.<lb/>
+Die Geschäftsordnungsfragen könnten doch nur das Präsidium lösen<lb/>
+resp. wenn es dort zu keiner eindeutigen Lösung kommt, dann im<lb/>
+Plenum diskutiert und wahrscheinlich durch entsprechende Beschlüsse<lb/>
+abgeschlossen werden.<lb/>
+</p>
+            <p xml:space="preserve">Ich hatte angenommen, daß natürlich auch von der ÖVP der Brief<lb break="no"/>wechsel vom Cogema-Vertrag ebenfalls abgelehnt wird. Überrascht<lb/>
+war ich allerdings von <name type="person" ref="per:111410">König</name> zu hören, daß sie auch wahrscheinlich<lb/>
+der Novelle zum Außenhandelsgesetz nicht zustimmen werden. Diesen<lb/>
+Fall versuchte ich <name type="person" ref="per:111410">König</name> zu erklären, daß es sich doch um eine Schutz<lb break="no"/>funktion handelt, die sie doch ständig wollen. Trotzdem meinte<lb/>
+<name type="person" ref="per:111410">König</name>, sie seien dagegen, was mich zu einem Zwischenruf veranlaßte,<lb/>
+na die sind schön im Eck. Tatsächlich herrscht jetzt bei der ÖVP<lb/>
+durch den taktischen Zug der Volksabstimmung größtes Wirrwarr. <name type="person" ref="per:98003">Taus</name><lb/>
+hat seinerzeit bei einer Diskussion mit <name type="person" ref="per:97668">Kreisky</name> die Idee der Volks<lb break="no"/>abstimmung in die Debatte geworfen. <name type="person" ref="per:97668">Kreisky</name> hat damals noch nicht<lb/>
+so dezidiert nein gesagt, sondern nur äußerte die Zeit zurückdenken.<lb/>
+Später allerdings, und dies wirft ihm natürlich die ÖVP jetzt ent<lb break="no"/>sprechend vor, hat er sich dezidiert gegen die Volksabstimmung<lb/>
+ausgesprochen. Als <name type="person" ref="per:97668">Kreisky</name> jetzt der Volksabstimmung zugestimmt hat,<lb/>
+ja sogar im Parteivorstand selbst referierte und in der Öffentlich<lb break="no"/>keit damit der Eindruck entsteht, die Idee ist von ihm, gibt uns eine<lb/>
+ungeheure gute Ausgangsbasis. Die ÖVP hätte uns im Parlament nicht<lb/>
+nur mit äußerst knapper Mehrheit, wenn solche überhaupt zustande<lb break="no"/>gekommen wäre, den schwarzen Peter zugeschoben und natürlich einen<lb/>
+Atom-Wahlkampf dann geführt. Jetzt wird sie gegen die Inbetrieb<lb break="no"/>nahme des Kernkraftwerkes Zwentendorf auftreten, Sicherheitsgründe<lb/>
+anführen, die aber leicht zu widerlegen sein werden und so hoffen<lb/>
+wir alle, diese Volksabstimmung verlieren wird. Der wichtigste<lb/>
+und entscheidendste Punkt aber in meinen Augen bei dieser neuen Idee<lb/>
+war, daß wir einen Streit zwischen Partei und Gewerkschaft dadurch<lb/>
+verhindert haben. <name type="person" ref="per:97346">Benya</name>, der sich ja ständig für die sofortige<lb/>
+Inbetriebnahme Zwentendorf ausspricht, hätte ein weiteres Taktieren<lb/>
+<pb n="43-0729" facs="43_1978-06-23_0729.jpg"/>oder Hinauszögern kaum mehr vertragen, andererseits muß ich sagen,<lb/>
+hat <name type="person" ref="per:97668">Kreisky</name> vollkommen recht, wenn er sagt, Atom-Wahlkampf ge<lb break="no"/>führt müßte der SPÖ Prozente, Stimmen kosten, die, wenn überhaupt,<lb/>
+nur äußerst schwer durch andere positive Momente, d.h. also<lb/>
+Stimmenzuwachs zu erwägen, andere Leistungen aufgeholt werden<lb/>
+könnte. <name type="person" ref="per:97668">Kreisky</name> war immer der Meinung, daß wir mit dem Kernkraft<lb break="no"/>werk unsere absolute Mehrheit verlieren. Durch die Volksabstimmung<lb/>
+kann jetzt doch dieser Wahlkampf, und um nichts anderes handelt<lb/>
+sichs in meinen Augen, im Herbst dieses Jahres abgewickelt werden<lb/>
+und nicht im nächsten Jahr bei den Nationalratswahlen.<lb/>
+</p>
+            <p xml:space="preserve">Beim Jour fixe haben wir natürlich auch über dieses Problem ein<lb break="no"/>gehend debattiert. Die Meinungen über den Ausgang dieser Volks<lb break="no"/>abstimmung sind so, daß jeder damit rechnet, daß eine Mehrheit<lb/>
+zustande kommt. Die einen glauben nur 70 %, <name type="person" ref="per:114075">Schmidt</name>, ÖGB, meint 60 %<lb/>
+bei 60 % Beteiligung, <name type="person" ref="per:98112">Zöllner</name> nimmt an, daß die Beteiligung sehr<lb/>
+gering sein wird, nämlich nur 40 %, weshalb er nur 52 % annimmt<lb/>
+und <name type="person" ref="per:113026">Tumpel</name> meint sogar, noch knapper.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> hat mich spät abends angerufen, um mit mir die Propaganda<lb break="no"/>maßnahmen zu besprechen, die jetzt sofort einsetzen müssen. <name type="person" ref="per:97668">Kreisky</name><lb/>
+erwartet, daß die Energiewirtschaft Geld zur Verfügung stellt,<lb/>
+ohne natürlich selbst besonders in Erscheinung zu treten. Ihm<lb/>
+schwebt vor, man sollte ein Kuratorium oder eine ähnliche Organi<lb break="no"/>sation gründen, die für die Volksabstimmung die notwendige Pro<lb break="no"/>paganda macht. Wie wichtig ihm die Sache erscheint, dokumentierte<lb/>
+er dadurch, daß er seinem Pressereferenten <name type="person" ref="per:114464">Kunz</name> für diese Monate<lb/>
+freigibt, d.h. abstellt, damit dieser mit der Elektrizitäts<lb break="no"/>wirtschaft die notwendigen Propagandamaßnahmen setzt. Ich werde<lb/>
+die nötigen Kontakte und Vorarbeiten veranlassen.<lb/>
+</p>
+            <p xml:space="preserve">Präsident <name type="person" ref="per:97743">Minkowitsch</name> vom Bauernverband hat mich angerufen, um<lb/>
+mir mitzuteilen, er könne das Paket nicht finalisieren. Beim<lb/>
+Bauerngipfel mit den Präsidenten der Landwirtschaftskammern und<lb/>
+sonstigen Agrarspitzen sei er nicht durchgekommen. Insbesondere<lb/>
+müßte auf dem normalen Weizenpreis irgend etwas an Preiszuge<lb break="no"/>ständnisse kommen. Außerdem müßte der Milchpreis mit 20 Groschen<lb/>
+gesichert werden. Dazu sei es notwendig den Trinkmilchpreis<lb/>
+um mehr als 40 Groschen zu erhöhen. In beiden Fällen, erklärte<lb/>
+ich <name type="person" ref="per:97743">Minkowitsch</name>, <choice><choice><sic>ich bin</sic><corr>bin ich</corr></choice></choice> selbstverständlich zu einem weiteren<lb/>
+<pb n="43-0730" facs="43_1978-06-23_0730.jpg"/>Gespräch bereit, sehe aber keine Möglichkeit, daß wir diese Ver<lb break="no"/>einbarung in diesen beiden Punkten korrigieren.<lb/>
+</p>
+            <p xml:space="preserve">Beim Jour fixe diskutierten wir ebenfalls die Agrarpreisverhand<lb break="no"/>lungen. Die AK, insbesondere <name type="person" ref="per:98112">Zöllner</name>, steht auf dem Standpunkt, daß<lb/>
+wir bereits viel zu große Zugeständnisse an die Bauern gemacht<lb/>
+haben. Die Erzeugerpreisberechnungen für Weizen hätten ergeben,<lb/>
+daß der Qualitätsweizen nur um einen halben Groschen hätte erhöht<lb/>
+werden sollen, tatsächlich wollen um 10 Groschen den Qualitäts<lb break="no"/>weizen erhöhen. Die Kalkulation des Normalweizens, nach wie vor<lb/>
+natürlich von mir sehr umstritten, zeigt auch kein eindeutiges<lb/>
+Bild. Eine Erhöhung kann wenig mehr aus Kalkulationsgründen als<lb/>
+vielmehr wegen der großen Überschußproduktion beim besten Willen<lb/>
+nicht verantwortet werden. Der Gewerkschaftsbund, wieder Dr. <name type="person" ref="per:114075">Schmidt</name>,<lb/>
+spricht sich ganz entschieden gegen eine Erhöhung des Erzeuger<lb break="no"/>milchpreises über 15 Groschen aus. Selbst wenn die Rückrechnung<lb/>
+ergäbe, daß man 2 oder 3 Groschen noch drauflegen könnte, meint<lb/>
+er, dürfe dies nicht geschehen. Das Ganze ist ziemlich verfahren<lb/>
+und wird uns noch große Schwierigkeiten in der nächsten Woche<lb/>
+bringen. Trotzdem glaube und hoffe ich, daß wir zu einer einver<lb break="no"/>nehmlichen Regelung kommen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:114075">Schmidt</name> urgierte auch die fruchtsirupamtliche Preisregelung.<lb/>
+Richtig ist, daß, wenn es uns nicht gelingt auf diesem Sektor<lb/>
+ein Exempel zu statuieren, dann die Paritätische Kommission mit<lb/>
+ihrer freiwilligen Preisbildung sehr stark zerrüttelt wird. Wenn<lb/>
+die Unternehmer bemerken, es geschieht ihnen nichts, wenn sie sich<lb/>
+nicht an Beschlüsse der Paritätischen Kommission halten, dann<lb/>
+wird früher oder später das ganze Gebäude zusammenbrechen. Meine<lb/>
+Überlegung war, daß, wenn ein Unternehmen jetzt auf Grund des<lb/>
+§ 4 Preisverfahrens vorgeschrieben bekommt, ungeheuer viele Unter<lb break="no"/>lagen zu liefern, daß er dann eher vorzieht, sich doch den Spiel<lb break="no"/>regeln der Paritätischen Kommission zu unterwerfen. Dies war bei<lb/>
+Fruchtsirup nicht der Fall. Die Unterlagen wurden zum Teil ge<lb break="no"/>liefert, für die neuen noch zu erbringenden Unterlagen eine<lb/>
+Nachfrist gesetzt. Jetzt muß allerdings dann in der Preiskommission<lb/>
+so schnell als möglich die Entscheidung fallen. Als neuer § 4<lb/>
+Fall hat <name type="person" ref="per:114075">Schmidt</name> Sand und Kies angekündigt, weil sich dort zwei<lb/>
+Firmen, Kiesunion und Teubl, ebenfalls nicht an Beschlüsse der<lb/>
+Paritätischen Kommission halten. Ich versprach den Sektions<lb break="no"/>chef <name type="person" ref="per:97584">Jagoda</name> mit dieser Frage neuerdings zu konfrontieren.<lb/>
+</p>
+            <pb n="43-0731" facs="43_1978-06-23_0731.jpg"/>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Bitte Du und <name type="person" ref="per:97584">Jagoda</name> mit mir eine Be<lb break="no"/>sprechung abhalten.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:114075">Schmidt</name> teilte mit, daß im Kurier eine Zahlungsbilanzstudie, die<lb/>
+die Österreichische Nationalbank und der Finanzminister dem<lb/>
+Wirtschaftsforschungsinstitut übertragen hatten, wortwörtlich<lb/>
+zitiert wurde, obwohl sie noch niemand kennen konnte. Im Sozial-<lb/>
+und Wirtschaftsbeirat wurde diese Studie im einzelnen noch dis<lb break="no"/>kutiert. Meine Überzeugung ist, daß jetzt in der nächsten und,<lb/>
+wenn man so sagen will, letzten Jahr vor der Nationalratswahl es<lb/>
+immer schwieriger sein wird, eine sachliche Arbeit zu leisten.<lb/>
+Überall wird die Propaganda und vor allem die Ausrichtung auf<lb/>
+den Wahlkampf jede sachliche Arbeit sehr erschweren, um nicht<lb/>
+zu sagen unmöglich zu machen. Darin sehe ich eine große Gefahr<lb/>
+für unser System der Sozialpartnerschaft.<lb/>
+</p>
+            <p xml:space="preserve">Min.Rat <name type="person" ref="per:112011">Kurzel</name> berichtet mir über den Fortgang der Preisver<lb break="no"/>handlungen bei Milch und Getreide. Ich informiere ihn über das<lb/>
+Gespräch mit Präs. <name type="person" ref="per:97743">Minkowitsch</name>, dessen Vorgangsweise selbst nicht<lb/>
+einmal <name type="person" ref="per:112011">Kurzel</name> goutiert. <name type="person" ref="per:112011">Kurzel</name> ist fest davon überzeugt zu einer<lb/>
+Lösung kommen zu können, die Milchpreise seien ja seiner Meinung<lb/>
+nach weitgehend klargestellt und bezüglich Brot und Mehl glaubt<lb/>
+er auch mit einer 50 Groschen Maximalerhöhung durchkommen zu<lb/>
+können. Darin würde die Getreidepreiserhöhung vom vergangenen<lb/>
+Jahr und auch diesem Jahr sowie die Lohnerhöhungen beinhaltet<lb/>
+sein. Außerdem hat er noch eine kleine Reserve für Erhöhung<lb/>
+der Aufkäuferspanne. Ich versichere ihm neuerdings, daß er plein<lb/>
+Pouvoir hat, wenn er ein zustimmendes Resultat von allen Inte<lb break="no"/>ressensvertretungen mehr oder minder anerkannt zustande bringt.<lb/>
+Ich bin überzeugt, die Lösung wird ähnlich der letzten aussehen,<lb/>
+keiner wird ausdrücklich dagegen sein, jeder wird Bedenken an<lb break="no"/>melden, in den Protokollen der Preiskommission wird sich dies<lb/>
+alles widerspiegeln, in der Öffentlichkeit werde ich aber einmal<lb/>
+mehr erklären können, dies ist die optimalste Lösung, die mehr<lb/>
+oder minder alle zustimmend zur Kenntnis genommen haben.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="43_0724_01" facs="43_1978-06-23_0724-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 23.6.1978</head>
+         </div>
+         <pb n="43_0724_02" facs="43_1978-06-23_0724-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

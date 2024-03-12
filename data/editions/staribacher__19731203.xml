@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Montag, der  3. Dezember 1973</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band18_1973-12-03</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1973-12-03">Montag, 3. Dezember 1973</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-08-18">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band18/">
+      <body>
+         <pb n="18-1369" facs="18_1973-12-03_1369.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Montag, 3. Dezember 1973</p><p xml:space="preserve">Der neue Gen.Sekretär der internationalen Handelskammer<lb/>
+<name type="person" ref="per:98081">Winquist</name> wurde von <name type="person" ref="per:97925"><sic>Philip</sic> Schoeller</name> und Dr. <name type="person" ref="per:113031">Melis</name> mir vor<lb break="no"/>gestellt und wir unterhielten fast 3/4 Stunden über die wirt<lb break="no"/>schaftspolitische Situation in Österreich. Ich erklärte ihm<lb/>
+das System der Paritätischen Kommission, die Sozialpartnerschaft<lb/>
+und unterstricht natürlich die besonders guten Beziehungen des<lb/>
+Handelsministeriums mit der Bundeskammer. Interessant war, dass<lb/>
+bei dem Punkt der Diskussion, wo ich über die Entwicklung des<lb/>
+Osthandels zu sprechen kam, dortinsbsondere über die Multila<lb break="no"/>teralisierung und Liberalisierung natürlich auch der Problem der<lb/>
+<choice><choice><sic>escape close</sic><corr>escape clause</corr></choice></choice> d.h. der Absicherung der österr. Industrie erwähnte,<lb/>
+<name type="person" ref="per:97925">Schoeller</name> die Bemerkungmachte, es müsste Aufgabe der Internatio<lb break="no"/>nalen Handelskammer sein, zu versuchen, dass auch die anderen<lb/>
+Staaten sich solche Schutzklauseln gegenüber dem Osten schaffen.<lb/>
+Die Internationale Handelskammer sollte hier koordinierend vorgehe.<lb/>
+<name type="person" ref="per:97925">Schoeller</name> dürfte befürchten, dass früher oder später, wenn Öster<lb break="no"/>reich allein diesen Schutz hat, die Oststaaten dagegen die öster<lb break="no"/>reichischen Bestrebungen unterlaufen könnten. <name type="person" ref="per:98081">Winquist</name> meinte<lb/>
+nur, dass im Liaison-Ausschuss, wo auch die Oststaaten mit<lb/>
+Beobachterstatus teilweise anwesend sind, es äusserst shcwierig<lb/>
+sein wird. Insbesondere ist dort ein ehemaliger GATT-Beamter nach<lb/>
+seiner Pensionierung beschäftigt, der alle diese Problem immer<lb/>
+auf multinationaler Basis lösen möchte. Damit ist die echte Mög<lb break="no"/>lichkeit, zu einer wirksamen Beschlussfassung der internationalen<lb/>
+Handelskammer zu kommen.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: VErsuche die Beweggründe <name type="person" ref="per:97925">Schoellers</name> – <name type="person" ref="per:113031">Melis</name><lb/>
+wird sicher mehr darüber wissen – zu ana<lb break="no"/>lysieren und bei eienr Grundsatzbesprechung<lb/>
+festzuhalten, wir werden sie dringendst<lb/>
+brauchen.</p><p xml:space="preserve">Gen.Dir. <name type="person" ref="per:97938">Seidl</name> von der Lenzinger verständigt mich, dass die<lb/>
+Tschechen bis jetzt 717 t Schwefel, die Lenzing von Polen bezieht,<lb/>
+die tschech. Bahnverwaltungen im Transitverkehr sehr behindern.<lb/>
+Ich verspreche ihm sofort die nötigen Untersuchungen anzustellen,<lb/>
+und gegebenenfalls zu intervenieren. <name type="person" ref="per:97426">Fälbl</name> stellt dann fest,<lb/>
+dass die Bahnverwaltungen über die CSSR scheinbar Waggonschwierig<lb break="no"/>keiten haben, denn auch die VÖEST, die wesentlichmehr bezieht und<lb/>
+<pb n="18-1370" facs="18_1973-12-03_1370.jpg"/>eine fixe Vereinbarung hat, dass ihre Importwaren auf alle<lb/>
+Fälle transit durchgehen können, hat Schwierigkeiten, erklärt<lb/>
+sich aber bereit und hat bereits in der Vergangenheit manchmal<lb/>
+die Schwefel- und andere Lieferungen für die Lenzinger über<lb break="no"/>nommen. Ein Briefentwurf an den csl. Minister wird mir vorgelegt.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97377">BUKOWSKI</name>: Bitte die Vorgangsweise mit dem Aussen<lb break="no"/>ministerium abstimmen.</p><p xml:space="preserve">Beim Journalistenfrühstück erörtert Sekt.Chef <name type="person" ref="per:97584">Jagoda</name> die Gewerbe<lb break="no"/>ordnung. Im Zug eines Popularisierungsplanes wollen wir schritt<lb break="no"/>weise jetzt die Gewerbeordnung in der Öffentlichkeit präsentie<lb break="no"/>ren, und auch für die Bundesregierung und insbesondere das<lb/>
+Handelsministerium verkaufen. ICh bin sehr gespannt, wie die<lb/>
+Presse daruaf reagiert. Ich fürchte, einmal werden sie ein bissche<lb/>
+etwas bringen und dann werden sie sich kaum mehr dafür inter<lb break="no"/>essieren. Der einzige Aufhänger ist, dass wir dann bei<lb/>
+Erlass und vor Erlassung der Verordnungen, die auf Grund der Ge<lb break="no"/>werbeordnung notwendig sind, immer wieder die neue Politik, die<lb/>
+jetzt der Gewerbetreibende machen kann, herausstreichen.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97646">KOPPE</name>: Wo bleibt der Propagandaplan und wie sollen<lb/>
+wir ihn wirklich zweckmässig anlegen, damit<lb/>
+der Erfolg mehr herauskommt.</p><p xml:space="preserve">Das Interesse von Fernsehen, Rundfunk aber auch der Presse kon<lb break="no"/>zentriert sich nach wie vor immer auf die Ölsituation. Da der<lb/>
+ARBÖ letzten Endes doch beschlossen hat, dass er die Bewirt<lb break="no"/>schaftung als das zielführendste Mittel ansieht und daher vor<lb break="no"/>schlägt, ich dagegen die Bewirtschaftung als das letzte Mittel<lb/>
+aus administrativen Schwierigkeiten möchte, werde ich mit dieser<lb/>
+Tatsache auf von der Presse hart konfrontiert. Ich glaube wir müs<lb/>
+ten jetzt alle Für und Wider systematisch analysieren. Für die<lb/>
+Bewirtschaftung spricht, dass man damit die anfallende Menge<lb/>
+Eigenproduktion ÖMV und Import genau verteilen kann und sich<lb/>
+eine gewisse Reserve zurückhält. Dadurch kommen wahrscheinlich<lb/>
+– <name type="person" ref="per:97558">Hobl</name> hat dann diese Zahl mit bestätigt – ca 80 Liter maximal auf<lb/>
+den Autofahrer. Der Schwarzmarkt für den, der nicht 80 Liter braucht<lb/>
+geschaffen wird, vielleicht sogar ein sozialer Ausgleich, weil<lb/>
+der Autofahrer mit einem kleinen Wagen durch die gleichmässige Zu<lb break="no"/>teilung gegen einen Autofahrer mit einer grossverbrauchenden<lb/>
+<pb n="18-1371" facs="18_1973-12-03_1371.jpg"/>Luxuslimousine bevorzugt wird. Der Druck aber von Autofahrern,<lb/>
+die ihr Fahrzeug wie z.B. die Vertreter aber auch Arbeiter</p><p xml:space="preserve">die von weit her in den Ländern zu ihrer Arbeitsstätte fahren,<lb/>
+wird ungeheuer sein, dass man ihnen eine grössere Benzinmenge<lb/>
+zuteilt. Man müsste dann bevorzugte Gruppen ausser den Ärzten<lb/>
+und den öffentlichen Fahrzeugen zusätzlich schaffen, eien unge<lb break="no"/>heure Verteilungsfrage, die die Bezirkshauptmannschaft, die<lb/>
+Gemeinden durchführten müssten, mit dem ewigen Streit und der<lb/>
+ewigen Forderung andie Zentralstellen, d.h. an das Han<lb break="no"/>delsministerium eben, mehr für diese Kategorien bereitzustellen<lb/>
+und damit den durchschnittlichen Abgabesatz für den normalen<lb/>
+Bezieher reduzieren müssen. Die andere Alternative ist, dass<lb/>
+wir doch den Autofahrer verhalten, gewisse Tage nicht zu<lb/>
+fahren. Wenn wir eine geringe Kontrolle und eine-n nicht z<lb/>
+grossen Verwaltungsaufwand für die Einteilung, wer an welchem<lb/>
+Tag fahren kann, treffen möchten, bleibt uns nur die Schlussnum<lb break="no"/>mern der Autokennzeichen an gewissen Tagen auszuschliessen.<lb/>
+Z.B. die letzte Nummer 1,2 am Montag, 3,4 am Dienstag usw.<lb/>
+hier würden Samstag Sonntag dann ohne Beschränkung bleiben.<lb/>
+Das grosse Problem ist nur, wie weit wir Autobesitzer, die in<lb/>
+irgendeinem Graben hinten wohnen, gestatten zur Arbeit zu fahren.<lb/>
+Der einzige Ausweg wäre, dass er nur bis zum nächsten öffent<lb break="no"/>lichen Verkehrmittel, wenn die Busse dies nicht imstande sind<lb/>
+weiter zu befördern, dann bis zur nächsten Bahnstation geneh<lb break="no"/>migen müssten.</p><p xml:space="preserve">ANMERKUNG AN <name type="person" ref="per:98053">WANKE</name>: BItte jetzt alle Variationsmöglichkeiten<lb/>
+durchdenken lassen und in Form einer Tabelle<lb/>
+zusammenstellen. Insbesondere die Für und<lb/>
+Wider.</p><p xml:space="preserve"><name type="person" ref="per:97372">Broda</name> als Präsident des ARBÖ ist über die letzte Bundesvorstands<lb break="no"/>sitzung sehr unglücklich und kommt gleich zu mir, um sich bei<lb/>
+mir zu entschuldigen. <name type="person" ref="per:97558">Hobl</name> meitn dagegen, er hätte die Wünsche<lb/>
+seiner Mitglieder im Bundesvorstand weitestgehend kanalisiert<lb/>
+und in eine tragbare Lösung auch für mich umgewandelt. Ich erklä<lb break="no"/>re ihm rundweg, dass ich davon wenig bemerkt habe und die ÖVP<lb/>
+natürlich mich jetzt hart attackiert, dass mir der ARBÖ die Spore<lb/>
+gibt. <name type="person" ref="per:97558">Hobl</name> hat hier glaube ich nur instinktsicher sich abge<lb break="no"/>sichert, dass wenn alles schiefgeht, er dann jederzeit sagen<lb/>
+kann, der ARBÖ hat schon immer vorgeschlagen, man soll eine<lb/>
+Bewirtschaftung einführen. Ähnlich wird sich natürlich sofort<lb/>
+<pb n="18-1372" facs="18_1973-12-03_1372.jpg"/>die Oppositionspartei verhalten, die mich jetzt immer im Parla<lb break="no"/>ment attackiert und sagt, ich solle mehr Massnahmen setzen. Auch<lb/>
+meine Regierungskollegen und ganz besonders <name type="person" ref="per:97668">Kreisky</name> wird sicher<lb break="no"/>lich wenn es schiefgeht, darauf hinweisen, dass sie immer schon<lb/>
+Massnahmen von mir erwartet haben. Die Bemerkung <name type="person" ref="per:97668">Kreisky</name>, man muss<lb/>
+halt auch einmal unpopuläre Massnahmen setzen, deutet darauf<lb/>
+hin.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Die Möglichkeiten einer Erlassung des Fahr<lb break="no"/>verbotes auf Grund des Rohstofflenkungsge<lb break="no"/>setzes wird von <name type="person" ref="per:113621">Anreiter</name> aber auch <name type="person" ref="per:112948">Degischer</name><lb/>
+auf das Entschiedendste bestritten. <name type="person" ref="per:112956">Schwarz</name><lb/>
+und der Verfassungsdienst ist anderer Meinung.<lb/>
+Wir sollten im Parlament unbedingt darauf<lb/>
+drängen, dassder Handelsausschuss so schnell w<lb/>
+wie möglich die Strassenverkehrsnovelle<lb/>
+behandeln und dort womöglich eine Paragraphen<lb/>
+einfügen, acuh dann wenn es in die Systematik<lb/>
+der Rechtsphilosophen nicht hineinpasst.</p><p xml:space="preserve">Der neue Vizepräsident der italienisch-österreichischen Handels<lb break="no"/>kammer <name type="person" ref="per:122020">Giuli</name> teilt mir mit, dass italienische Parteifreunde, die<lb/>
+angeblich in Italien einen eigenen Betrieb, der der Partei gehören<lb/>
+sollte, und dringend Metallschrott braucht, bei ihm waren. Ob eine<lb/>
+Möglichkeit besteht, einen solchen aus Österreich zu beziehen.<lb/>
+Staatssekretär <name type="person" ref="per:97435">Ferrari</name> soll daran interessiert sein und auch dies<lb break="no"/>bezüglich sogar einmal nach Österreich kommen. Er hätte ihnen ge<lb break="no"/>sagt, wenn sie uns Ölprodukte liefern, würde sich dies leichter<lb/>
+machen lassen. Ich verweise sofort darauf, dass wenn ein solches<lb/>
+Tauschgeschäft zustandekommen sollte, der Schrottverband seine<lb/>
+Zustimmung geben müsste. Hier funktioniert nämlich das Rohstoff<lb break="no"/>lenkungsgesetz verhältnismässig gut. Da die österr. Stahlindustrie<lb/>
+den Metallschrott selbst braucht, wird fast nichts exportiert.<lb/>
+Die Händler dagegen haben sehr grosses Interesse daran zu exportie<lb break="no"/>ren, weil sie da viel mehr im Ausland verdienen könnten. Ich weiss<lb/>
+nicht, ob die italienische Seite überhaupt an einem solchen Kompen<lb break="no"/>sationsgeschäft interessiert ist und durchführen kann, nachdem die<lb/>
+Italiener ja auch selbst ihrer Firma Agip hier nichts liefern<lb/>
+und diese jetzt aus der BRD Benzine und Heizöl bezieht. WEnn es aber<lb/>
+zu einem solchen Tausch kommen würde, müsste auf alle Fälle der Schrott<lb break="no"/>verband zustimmen. Entgegen diese könnte ich auf gar keinen Fall<lb/>
+Exportgenehmigungen ausstellen.</p><pb n="18-1373" facs="18_1973-12-03_1373.jpg"/><p xml:space="preserve">Dr österr. Botschafter <name type="person" ref="per:98077">Willfort</name> in Marokko teilt mir mit, dass<lb/>
+die Handelskammer Staatssekretär <name type="person" ref="per:146484">Imani</name> eingeladen hat, der die<lb/>
+Durchführung des 5-Jahresplanes 1973-1977 über hat. Dieser möchte<lb/>
+aber um einen höheren Standard und höheres Niveau zu bekommen zur<lb/>
+Gemischten Kommission, die jetzt dreijähriger Unterzeichnung<lb/>
+des Vertrages endlich in Wien zusammentritt gleichzeitig auch mit<lb/>
+mir Kontakt aufnehmen. Ich habe ihm selbstverständlich zugesagt,<lb/>
+dass ich <name type="person" ref="per:146484">Imani</name> empfangen und mit ihm verhandeln werde. <name type="person" ref="per:98077">Willfort</name><lb/>
+schlägt mir neuerdings vor, ich sollte unbedingt bie der Eröffnung<lb/>
+der marokkanischen Linie Wien-Agadir teilnehmen. ICh habe dies<lb/>
+schon einmal aus zeitökonomischen Gründen abgelehnt.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97377">BUKOWSKI</name>: Lass Dir bitte unauffällig erklären, wie<lb/>
+und zu welchem Zeitpunkt eine solche Er<lb break="no"/>öffnung stattfindet, wenn sie Samstag/Sonn<lb break="no"/>tag einmal ist, könnte ich vielleicht meiner<lb/>
+Verpflichtung Marokko zu besuchen, nach<lb break="no"/>kommen.</p><p xml:space="preserve">Der Aussenstellenleiter der ÖFVW-Stelle Mailand <name type="person" ref="per:127033">Oberegger</name>, kommt<lb/>
+um den vor einiger Zeit geschriebenen Brief zu erläutern, wonach er<lb/>
+unbedingt ein neues Lokal braucht, was natürlich wesentlich teurer<lb/>
+ist als das jetzige, wo allerdings wirklich unhaltbare Zustände<lb/>
+herrchen müssen. Ich mache ihn doch darauf aufmerksam, dass früher<lb/>
+oder später die Länder und auch die Handelskammer über die Entwick<lb break="no"/>lung der administrativen Kosten in der ÖFVW ungehalten sein werden<lb/>
+und er macht interessanterweise im Laufe der Diskussion den Vorschlag<lb/>
+ob denn immer zwei Aussenstellen, nämlich Rom und Mailand existieren<lb/>
+müssen. Ichw eiss nicht, wer von den beiden Aussenstellenleitern<lb/>
+früher in Pension geht, aber eine Konzentration wäre sicherzu über<lb break="no"/>legen. Der Anteil des italienischen Reisepublikums ist wahrlich<lb/>
+nicht so gross, insbesondere gegenüber der BRD, wo wir drei, in<lb/>
+Hinkunft wenn München gemacht wird, bald vier Niederlassungen haben,<lb/>
+dass man wirklich vielleicht eine Rekonstruktion in Italien in<lb/>
+Erwägung zeiehn sollte.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Bitte die Überlegungen genau prüfen lassen,<lb/>
+ohne dass der Autor genannt wird.</p><p xml:space="preserve">Die Vertreter der Wäschereien Habsburg-Excelsior, De Counde<add>[?]</add><lb/>
+usw., es erscheinen sogar die Besitzer, sind über die Behand<lb break="no"/><pb n="18-1374" facs="18_1973-12-03_1374.jpg"/>lung in der Paritätischen Kommission sehr unglücklich. Vor sechs<lb/>
+Monaten haben sie eine 13,5 %-ige Erhöhung beantragt, man hat<lb/>
+ihnen nur für doe Grosskunden eine gewisse Preiserhöhung zuge<lb break="no"/>standen, die teuren Filialbetriebe können sie aber nicht mehr auf<lb break="no"/>rechterhalten, wenn sie nicht auch für die anderne Kunden entsprechen<lb break="no"/>de Preiserhöhungen bekommen. Ich verpflichte mich nur mit der Ar<lb break="no"/>beiterkammer über ihre Schwierigkeiten zu reden.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name>: Bitte bei <name type="person" ref="per:98112">Zöllner</name> mit mir gemeinsam inter<lb break="no"/>venieren, vorerst aber die Unterlagen be<lb break="no"/>schaffen.</p><p xml:space="preserve">Ing. <name type="person" ref="per:146313">Gall</name> kommt für die 5 Betriebe, die Flüssiggas vertreiben.<lb/>
+Die ÖMV produziert ca. 57.000 t, die sie über die 5 Firmen ver<lb break="no"/>treibt, 52.000 vertreibt sie direkt. 17.000 t habn die Firmen impor<lb break="no"/>tiert und durch die Reduktion ergibt sich natürlich jetzt eine<lb/>
+schwierige Situation. Die Tankstellen sind meistens gesperrt,<lb/>
+Ing. <name type="person" ref="per:146313">Gall</name> beschwert sich bei mir, dass er im Fernsehen von dem<lb/>
+Fernsehteam, das er gewarnt hat, im jetzigen Zeitpunkt für Flüssig<lb break="no"/>gas eine Propaganda zu machen. überfahren wurde, da ich ihm glaube<lb/>
+zurecht vorwerfe, dass dies der ungünstigste Zeitpunkt für<lb/>
+Flüssiggaspropaganda gewesen ist. Die Firmen möchten, da in Wien<lb/>
+ein Grosstanklager vond er ÖMV existiert, im Westen ein gemeinsames<lb/>
+bauen, da diesungefähr 2.000 t umfassen sollte, würden sie ihrer<lb/>
+Schätzung nach ca.. bis zu 20 Mill. S aufwenden müssen. Er fragt<lb/>
+mich, ob ich eine Chance sehe für die Zuteilung von ERP-Mitteln<lb/>
+und ich verweiseihn an Sekt.Chef <name type="person" ref="per:144358">Preglau</name> in der Hohenstaufengasse.</p><p xml:space="preserve">Direktor <name type="person" ref="per:97716">Manhart</name> vom Kuratorium für Verkehrssicherheit überrascht und<lb/>
+überfährt mich, dass er bei der nächsten ausserordentlichen Vor<lb break="no"/>standssitzung, wo sie eine Budgetsanierung beschliessen müssen, mir<lb/>
+die Ehrenmitgliedschaft antragen möchten. BEvor ich mich noch<lb/>
+dagegen wehren kann und frage, was das kostet, zeigt er mir bereits<lb/>
+die ausgesendete Einladung, wo die Generalversammlung einen solchen<lb/>
+Beschluss am 13. Dezember um 16. Uhr im Intercontinental fassen<lb/>
+wird. Das Gesamtbudget beträgt 32 Mill. S, 28 bezahlt die Ver<lb break="no"/>sicherungswirtschaft, der Sprecher <name type="person" ref="per:137269">Hajek</name> und auch Gen.Dir. <name type="person" ref="per:140564">Zimmer</name><lb/>
+ersuchen mich, ich sollchte unbedingt diese Ehrenmitgliedschaft<lb/>
+annehmen. 4,5 Mill. stellt das Bautenministerium mit Forschungs<lb break="no"/>aufträgen, teilweise auch das Unterrichtsministerium und sonstige<lb/>
+<pb n="18-1375" facs="18_1973-12-03_1375.jpg"/>Institutionen bei. Vom Handelsministerium oder von mir erwartet man<lb/>
+keinen Groschen. Die Ehrenmitgliedschaft soll mir nur deshalb<lb/>
+verliehen werden, weil man sich auf Dankbarkeit mir gegenüber und<lb/>
+durch die Zusammenarbeit, die ich in den dreieinhalb Jahren prakti<lb break="no"/>ziert habe, Anerkennung finden soll. Da ich ja die ganze Versicherungs<lb break="no"/>wirtschaft und auch <name type="person" ref="per:97716">Manhart</name> nicht desavouieren kann, eine Ablehnung<lb/>
+würde einen Affront bedeuten, der wirklich von niemandem verstanden<lb/>
+wird, muss ich akzeptieren. <name type="person" ref="per:97716">Manhart</name> meint, ich hätte schon längst<lb/>
+einen solchen Antrag bekommen, aber man hat angenommen, dass ich<lb/>
+als Handelsminister solange die Kompetenz bei mir liegt, eine gewsi<lb break="no"/>se Inkompatibilität feststellen würde. Dieser einzige Grund fällt nun<lb/>
+mit 1.1.1974 weg, da ja die Kompetenz ans Verkehrsministerium über<lb break="no"/>geht.</p><p xml:space="preserve">Die Besprechung über eine zweite Raffinerie mit Gen.Dir. <name type="person" ref="per:97470"><sic>GEist</sic></name>, Dr.<lb/>
+<name type="person" ref="per:97498">Grünwald</name>, <name type="person" ref="per:97429">Feichtinger</name>, <name type="person" ref="per:97738"><sic>Mszarosch</sic></name>, <name type="person" ref="per:98018">Uher</name>, <name type="person" ref="per:107937">Frank</name> und <name type="person" ref="per:97469"><sic>GEhart</sic></name> war für<lb/>
+mich ungeheuer lehrreich. Schon allein, dass <name type="person" ref="per:97470">Geist</name> meinte, es müsste<lb/>
+nun ein aufrichtiges Verhältnis zwischen ÖMV-ÖIAG und Linz-Chemie<lb/>
+entstehen zeigt, dass die ÖMV noch immer als starkes Unternehmen ihr<lb/>
+eigene Politik macht und sich einen Pfifferling um die ÖIAG schert.<lb/>
+IHre Bestrebungen, gegegenbefalls eine zweite Raffinerie<lb/>
+mit Libyen zu machen, während <name type="person" ref="per:97470">Geist</name> eine solche mit Iran beabsichtigt<lb/>
+kam deshalb gar nicht zur Sprache, weil die ÖMV gar keinen Wert<lb/>
+darauf legt, dieses Problem überhaupt wo zu diskutieren. Gegen die<lb/>
+Industrieraffinerie im oö. Raum wo 2 Mill. t Naphta gebraucht<lb/>
+werden und die 1980 eventuell in Betrieb gehen solle, wendet <name type="person" ref="per:97429">Feichtin<lb break="no"/>ger</name> wahrscheinlich zu recht ein, dass dann 8 Mill. t Rohöl notwendig s<lb/>
+sind, die man nicht nur kriegen muss, sondern dann auch den anfallende<lb/>
+Heizölanteil verkaufen muss. Ich verweise darauf, dass die Linz-<lb/>
+Chemie, d.h. Gen.Dir. <name type="person" ref="per:112054">Buchner</name> insbesondere diese 2. Raffinerie<lb/>
+besonders betreibt, mir jetzt einen Brief geschrieben hat, dass<lb/>
+er von 200.000 t Leichtbenzin bis 500 Mill. m3 Gas im nächsten<lb/>
+Jahr noch ene weitere Palette von Rohstoffen braucht, die wahrschein<lb break="no"/>lich kaum jemand bei der jetzigen Ölsituation wirklich produzieren<lb/>
+kann. <name type="person" ref="per:97470">Geist</name> verweist darauf, dass ein Chemieplan existiert, den<lb/>
+ein Prof. <name type="person" ref="per:146078">Assinger</name>, der jetzt aus Deutschland in Pension gegangen<lb/>
+ist nach Österreich zrückgekehrt ist und als Konsulent der ÖIAG einen<lb/>
+solchen Chemieplan erarbeitet hat, neue Vorschläge erstattete.</p><pb n="18-1376" facs="18_1973-12-03_1376.jpg"/><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97469">GEHART</name>: Dieser Chemieplan muss sofort von unseren<lb/>
+Leuten überprüft werden und durch Querinfor<lb break="no"/>mationen mit den Abnehmern und Produzenten<lb/>
+festgestellt werden, was überhaupt daran mög<lb break="no"/>lich ist.</p><p xml:space="preserve">Von <name type="person" ref="per:97738"><sic>Meszarosch</sic></name> bin ich insoferne enttäuscht, als er mir und die ÖMV<lb/>
+vor drei Jahren versprochen hat, mit den Internationalen gemeinsam<lb/>
+zu errechnen, ob und inwieweit eine <choice><choice><sic>Produkentenpipeline</sic><corr>Produktenpipeline?</corr></choice></choice> in den Westen<lb/>
+möglich ist. Bis jetzt habe ich nichts gehört. Bei meiner jetzigen<lb/>
+Urgenz meint <name type="person" ref="per:97738"><sic>Meszarosch</sic></name>, ich müsste doch wissen, dass ein solches<lb/>
+Projekt bereits seit Jahren bei der ÖMV durchgerechnet wurde, von 28<lb/>
+Standorten nur mehr zwei, nämlich Nettingsdorf und Ennsraum übrig<lb/>
+blieben und sie sogar in den nächsten Aufsichtsrat damti gehen werden,<lb/>
+um eine solche Produktenpipeline und ein Zentrallager in Oberöster<lb break="no"/>reich zu beschliessen. Ich habe in der Vergangenheit einige Male<lb/>
+festgestellt, dass insbesondere Min.Rat <name type="person" ref="per:112191">Mayer</name> im Hause aber auch<lb/>
+andere Beamte mehr oder minder von den Informationen der ÖMV abhängig<lb/>
+sind. Ich war mir auch vollkommen klar, dass es mir nicht besser<lb/>
+ergeht. Was mich aber wirklich berührt ist, dass ich so ausschliess<lb break="no"/>lich auch von der ÖMV in der Versorgungsfrage abhängig bin. Wenn<lb/>
+hier die Informationen nur teilweise stimmen und das befürchte ich<lb/>
+auch, so kann ich in der Versorgungsfrage in des Teufels Küche<lb/>
+kommen, wenn alles gut geht, kann ich nächstes Jahr im April<lb/>
+triumphieren, wenn dagegen die ÖMV als geschäftspolitischen Gründen<lb/>
+mich falsch oder unzulänglich informierte, habe ich letzten Endes<lb/>
+die Konsequenzen zu tragne. Die ÖMV wird natürlich nur uns gegen<lb break="no"/>über vorsichtiger sein als selbst ihrem Eigentümer – der ÖIAG – gegen<lb break="no"/>über. Sie weiss, dass sie merh oder minder im RAhmen des Energiekon<lb break="no"/>zeptes und vor allem enmal gegenüber der Diskussion der Austro-Ferngas<lb/>
+meine Unterstützung dringendst benötigt. Trotzdem habe ich ein teilwe<lb/>
+se sehr ungutes Gefühl seit eh und je. Die ÖMV war stark genug und is<lb/>
+es wahrscheinlich auch heute noch, unsere Beamten weitestgehend zu<lb/>
+beeinflussen. Auch in bin mir wahrscheinlich gar nicht klar, wie<lb/>
+weit auch ich im Einfluss dieser ÖMV-Information oder Nicht-Information<lb/>
+stehe.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97469">GEHART</name>: Hier müsstest Du als Sekretär des fraktionellen<lb/>
+Energieausschusses versuchen, unverfänglich<lb/>
+und still und leise bessere Informationen zu be<lb/>
+kommen als wir sie derzeit besitzen.</p><pb n="18-1377" facs="18_1973-12-03_1377.jpg"/><p xml:space="preserve">Bei dem Abendessen der Steyr-Daimler-Puch für Minister <name type="person" ref="per:140791">Wraszczik</name><lb/>
+für Maschinenbau, steht in meinem Programm 1/2 8 Uhr obwohl</p><p xml:space="preserve">es dann eigentlich erst um 8 Uhr ist. <name type="person" ref="per:98109">Zembsch</name> informierte mich<lb/>
+durch ein Schreiben , dass die Kooperation mit Steyr-Daimler-Puch<lb/>
+grosse Schwierigkeiten hat. Gen.Dir. <name type="person" ref="per:97854">Rabus</name>, der auch ein bisschen<lb/>
+früher kommt, allerdings eine Viertelstunde nach mir, sich tausend<lb break="no"/>mal entschuldigt, erklärt mir aber, dass alles in bester Ordnung<lb/>
+sei. Die einzige Schwierigkeit, die mir dann auch noch ein Direktor<lb/>
+von ihm noch erörtert ist, dass sie für die Export der LKW kaum<lb/>
+Importe in dem grossen Umfang hereinnehmen können. Sie möchten und<lb/>
+könnten für 250 Mill. LKW exportieren und haben nur Gegenware für<lb/>
+150 Mill. Möglichkeit in Österreich unterzubringen oder selbst<lb/>
+zu benötigen. Wozu wir multilateralisiert haben, möchte ich<lb/>
+gerne wissen, wo nach wie vor im Osten das bilaterale, fast würde<lb/>
+ich sagen Kompensationsgeschäft in der Praxis noch immer geübt wird.</p><p xml:space="preserve">Beim Essen stellt sich heruas, dass der poln. Minister ein Jäger<lb/>
+ist und natürlich <name type="person" ref="per:97854">Rabus</name> ihn sofort ins Jagdrevier in Donnersbach<lb break="no"/>wald einlädt. Ich stimme dem begeistert zu, da ich weiss, was<lb/>
+es für einen Jäger bedeutet, an Stelle von blöden Besprechungen, die<lb/>
+ja so nichts bringn, eine Jagd durchführen zu können, dass gegebenen<lb break="no"/>falls meine Besprechung morgen vorverlegt und das Mittagessen ent<lb break="no"/>fallen könnte, sodass ein Tag gewonnen wird, um in Steyr noch einen<lb/>
+Jagdausflug dazwischenschieben zu können. Leider lässt sich dies<lb/>
+dann nicht mehr arrangieren, da der poln. Botschafter <name type="person" ref="per:97616">Karski</name>,<lb/>
+derja primär daran interessiert ist, dass vielleicht doch irgend<lb break="no"/>welche Geschäfte abgeschlossen werden, erklärt, dies sei nicht zu<lb break="no"/>letzt deshalb unmöglich, weil ja auch am Donnerstag der Bundespräsident<lb/>
+den Minister erwartet. In HInkunft müsste man meiner meinung nach wes<lb/>
+sentlich mher auf Wünsche von Ministern, die nach Österreich<lb/>
+kommen, eingehen, d. h. sie eigentlich vorher erraten. Hier müsste<lb/>
+eine ganz neue Art der Betreuung einsetzen. <name type="person" ref="per:97801">Ottahal</name> wickelt das<lb/>
+protokollmässig ab, ein Minister ist aber primär daran interessiert<lb/>
+wenn er schon einen Besuch macht und Zeit übrig hat, dann die Zeit so<lb/>
+zu gestalten, wie er es am liebsten hat und nicht wie das Protokoll<lb/>
+es möchte.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97377">BUKOWSKI</name>: Hier ist noch ein unbegrenztes Feld mit<lb/>
+irrsinnigen Möglichkeiten, die die Firmen,<lb/>
+die ein Geschäft machen könnten, gerne be<lb break="no"/>zahlen, von Jagdausflügen bis über Nachtlokale<lb/>
+was man allerdings äusserst diplomatisch und<lb/>
+geschickt angreifen muss.</p><pb n="18-1378" facs="18_1973-12-03_1378.jpg"/><p xml:space="preserve">Nimm dich bitte dieses Problems an, damit wir von<lb/>
+dieser protokollmässigen Abfertigung unserer Gäste<lb/>
+so schnell wie möglich wegkommen.</p><p xml:space="preserve"/></div>
+      </body>
+      <back>
+         <pb n="18_1368_01" facs="18_1973-12-03_1368-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 3.12.1973</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="18_1368_02" facs="18_1973-12-03_1368-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="18_1378_01" facs="18_1973-12-03_1378-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesordnung 97. Ministerratssitzung, 4.12.1973</head>
+            <gap reason="sampling"/>
+            <pb n="18_1378_02" facs="18_1973-12-03_1378-02.jpg"/>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+   </text>
+</TEI>

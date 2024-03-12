@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der 10. Dezember 1976</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band33_1976-12-10</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1976-12-10">Freitag, 10. Dezember 1976</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-02-19">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="33-1409" facs="33_1976-12-10_1409.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Freitag, 10. Dezember 1976.<lb/>
+</p>
+            <p xml:space="preserve">Das Verkehrsbüro hat das 1A-Hotel "ALBA" Betrieb übernommen.<lb/>
+Eine Baulücke wurde von einem deutschen Rechtsanwalt mit 17 Mio<lb/>
+Schilling verbaut. Das Einbettzimmer inkl. einem phantastischem<lb/>
+Frühstück, das ich allerdings nicht aß, kostet 380 Schilling.<lb/>
+Eine harte Konkurrenz für die Hotels in Wien.<lb/>
+</p>
+            <p xml:space="preserve">Den Ministerialkanzleidirektor, der neu zu besetzen ist, besteht hinter<lb/>
+den Kulissen ein richtiger Kampf. Der jetzige <name type="person" ref="per:139727">Schubert</name> möchte am liebsten<lb/>
+seinen Bruder haben und <name type="person" ref="per:140260">Kneissler</name> hat für seinen Nachfolger <name type="person" ref="per:121996">Kretschmer</name><lb/>
+derzeit Kanzleidirektor von der handelspolitischen Sektion inter<lb break="no"/>veniert. Die Personalvertretung vom Bautenministerium möchte ebenfalls<lb/>
+einen Mann von ihnen haben. Sie fürchten, dass von aussen <name type="person" ref="per:145774">Apfelbeck</name><lb/>
+von der Land- und Forstwirtschaft oder <name type="person" ref="per:145775">Stellig</name> vom Sozialministerium<lb/>
+kommt. Ich plädiere für die Ausschreibung. <name type="person" ref="per:140260">Kneissler</name> teilte mir gleich<lb break="no"/>zeitig mit, dass als Nachfolger für den Präsidenten des Sportver<lb break="no"/>eines der für den vom Eich- und Vermessungsamt <name type="person" ref="per:145773">Eidherr</name> vom<lb/>
+Bautenministerium jetzt der tätige Vizepräsident <name type="person" ref="per:113076">Schmelz</name><add>[evtl. Falschidentifikation, Anm.]</add> werden<lb/>
+soll. Dieser ist VP-Vertreter und auch -Verhandler. Ich plädiere<lb/>
+für unseren MR <name type="person" ref="per:115656">Steiger</name> vom Handelsministerium. Der Sportklub heisst<lb/>
+schliesslich und endlich ja Handelsministerium.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97819">PLESCH</name>: Bitte recherchiere unauffällig, wie die Chancen<lb/>
+für <name type="person" ref="per:115656">Steiger</name> stehen.<lb/>
+</p>
+            <p xml:space="preserve">MR <name type="person" ref="per:108609">Sterk</name> hat mir den a.o. Prof. <name type="person" ref="per:145776">Haditsch</name> aus Leoben vorgestellt, der<lb/>
+sich für die Nachfolge unseres Chefgeologen <name type="person" ref="per:111747">Holzer</name> interessiert.<lb/>
+<name type="person" ref="per:111747">Holzer</name> erklärte mir, dass die Wissenschaft die anderen Staaten schon<lb/>
+längst auf den Standpunkt stehen, dass die Bergbehörde im Rahmen<lb/>
+der Wirtschaft der Wirtschaftssektionen eingegliedert werden soll.<lb/>
+MR <name type="person" ref="per:112190">Mock</name> und <name type="person" ref="per:108609">Sterk</name> besprachen mit mir die Möglichkeit die Schürf<lb break="no"/>rechte an der burgenländisch-ungarischen Grenze an Austromineral<lb/>
+zu übertragen. Die Bergbehörde Wien hat den jetzigen Besitzer aller<lb break="no"/>dings seinen Bescheid verlängert. Obwohl bis jetzt keinerlei Prospektion<lb/>
+oder Explorationsarbeiten gemacht wurden. Jetzt hat man im letzten<lb/>
+Moment angekündigt, man wird noch heuer 2 Mio. Schilling für Seismik<lb/>
+aufwenden. <name type="person" ref="per:112190">Mock</name> und <name type="person" ref="per:108609">Sterk</name> sind überzeugt, dass es sich hier nur um eine<lb/>
+Alibihandlung handelt, weil niemand mehr imstande ist, in so kurzer<lb/>
+Zeit wirklich eine positive Arbeit zu leisten.<lb/>
+</p>
+            <pb n="33-1410" facs="33_1976-12-10_1410.jpg"/>
+            <p xml:space="preserve"><add>[Mit]</add> Dr. <name type="person" ref="per:113010">Holoubek</name><add>[evtl. Falschidentifikation, Anm.]</add> und Arch. <name type="person" ref="per:113074">Czernin</name> musste ich die Renovierarbeit in<lb/>
+unserem Miethaus besprechen. Seit Jahren zieht sich jetzt eine notwendige<lb/>
+Reparatur hin. Ein neuer Mieter hatte beim Abschluss des Mietver<lb break="no"/>trages gesagt, er müsste in Hinkunft jedwede Mietzinserhöhung akzep<lb break="no"/>tieren. Die Reparaturen, die jetzt anfallen und über 1 Mio. Schilling<lb/>
+für drei Mieter betragen, gehen wie <name type="person" ref="per:113010">Holoubek</name> mir sagte, weit über<lb/>
+die gesetzlichen Höchstgrenzen hinaus. Laut Berechnung <name type="person" ref="per:113010">Holoubek</name><lb/>
+dürften höchsten 23 Schilling pro qm rauskommen und über 30 wird<lb/>
+vorgeschlagen. <name type="person" ref="per:113074">Czernin</name> meinte, es könnten, wenn man Konkurrenz<lb break="no"/>offerte einholen würde, wesentlich günstigere Ergebnisse insbesondere<lb/>
+in Verbindung mit einem anderen Bau erzielt werden. Ich habe dies<lb/>
+bereits vor einigen Tagen – und <name type="person" ref="per:113010">Holoubek</name> jetzt mit mir gemeinsam –<lb/>
+ganz entschieden abgelehnt. Das Ganze wäre zwar absolut legal, könnte<lb/>
+jeder Privatmann machen, ich kann es mir beim besten Willen nicht<lb/>
+erlauben.<lb/>
+</p>
+            <p xml:space="preserve">Bundesinnungsmeister der Zuckerbäcker, Ing. <name type="person" ref="per:145777">Stuller</name>, Leiter des<lb/>
+Verhandlungskomitees der Zuckerbäcker, Innungsmeister <name type="person" ref="per:145778">Bimashofer</name>, sowie<lb/>
+der Sekretär der Innung und die Sekretäre <name type="person" ref="per:116991">Göbl</name> und <name type="person" ref="per:137946">Schuster</name> berichteten<lb/>
+mir über die ins Stocken geratenen Verhandlungen über den Kollektiv<lb break="no"/>vertrag. Die Innung hat jetzt eine sogenannte ERFA, Erfahrungsgruppe,<lb/>
+gegründet und festgestellt, dass die Zuckerbäcker nicht einmal mehr<lb/>
+5 % Gewinn machen. Insbesondere die Belastungen steigen in den letzten<lb/>
+Jahren sehr stark. Beim aktuellen Strompreis z.B. meinte der Innungs<lb break="no"/>meister, für 25 KW Anschluss müssten sie vom Gewerbe 6000–8000<lb/>
+Schilling bezahlen, während die Grundgebühr für den Haushalt 300 Schilling<lb/>
+beträgt. Die gestiegenen Energiekosten drücken sehr den Zuckerbäcker.<lb/>
+Am meisten erschütterte mich aber, die Anklage <name type="person" ref="per:145777">Stullers</name>, dass wir<lb/>
+kein Rechtsstaat mehr sind. Ich habe sofort SChef <name type="person" ref="per:97584">Jagoda</name> gerufen und<lb/>
+mit <name type="person" ref="per:145777">Stuller</name> dieses Problem besprochen. Er beschwerte sich darüber,<lb/>
+dass immer wieder von <name type="person" ref="per:97808">Petuely</name> die Rechtsgrundlage Beanstandungen er<lb break="no"/>folgen. Die Zuckerbäcker würden zwar die Prozesse, wenn sie sich gegen<lb/>
+die Bestrafung wehren würden, gewinnen, doch sind die Gerichtskosten<lb/>
+und Aufwendungen höher, als wenn sie gleich die 1000 oder 5000 Schil<lb break="no"/>ling Strafe bezahlen. <name type="person" ref="per:97584">Jagoda</name> wird im nächsten Jahr sofort mit Be<lb break="no"/>sprechungen zur Abklärung dieser Frage beginnen. Im Gewerbeverfahren<lb/>
+wird, so erklärte <name type="person" ref="per:97584">Jagoda</name>, bei Änderungen immer der Unternehmer recht<lb break="no"/>zeitig vorher verständigt, sodass er eventuell notwendige Abänderungen<lb/>
+zeitgerecht weiss und vornehmen kann. Ausserdem werden selbstver<lb break="no"/>ständlich entsprechende Übergangsfristen gewährt. Diesbezügliche<lb/>
+Wünsche sollen auch mit dem Gesundheitsministerium besprochen werden.<lb/>
+</p>
+            <pb n="33-1411" facs="33_1976-12-10_1411.jpg"/>
+            <p xml:space="preserve">Die Kollektivvertragsverhandlungen werden fortgesetzt.<lb/>
+</p>
+            <p xml:space="preserve">Präsident <name type="person" ref="per:112215">Weiss</name> ersuchte mich mit <name type="person" ref="per:98003">Taus</name> eine Aussprache wegen der<lb/>
+<sic>ÄnderungÄnderung</sic> in Verbundvorstand zu führen, was ich selbst<lb break="no"/>verständlich sofort kurzfristig ansetzte. <name type="person" ref="per:98003">Taus</name> bedankte sich des<lb break="no"/>halb sehr, meinte aber, er könne eine Reduzierung de Verbundvor<lb break="no"/>standes von 4 auf 3 Vorstandsmitglieder nicht akzeptieren. Dies<lb/>
+sei nach seiner Meinung unzumutbar. Präs. <name type="person" ref="per:112215">Weiss</name> befürchtete ein<lb/>
+Junktim zwischen der eventuellen Verlängerung von <name type="person" ref="per:112012">Arthold</name> um, wie<lb/>
+er wünscht, 1 1/2 Jahre, der Arbeiterbetriebsrat 1/2 Jahre. Ich er<lb break="no"/>klärte sofort, ein Junktim wird es nicht geben, die Reduzierung des Vor<lb break="no"/>standes durch eine Statutenänderung erst bei der nächsten Hauptversamm<lb break="no"/>lung im Frühjahr 1977 erfolgen wird. Dort braucht von der ÖVP über<lb break="no"/>haupt niemand zustimmen, weil niemand dort ist, da der Hauptversamm<lb break="no"/>lungsbeschluss auf Antrag des Eigentumsvertreter eines Beamten meines<lb/>
+Ministeriums erfolgen wird. <name type="person" ref="per:98003">Taus</name> erklärte, dies würde der Kriegsfall<lb/>
+sein. Ich würde grosse Schwierigkeiten im gesamten Elektrizitätswesen<lb/>
+bekommen. <name type="person" ref="per:98003">Taus</name> konnte mir auch nichts wegen der Ersparnis entgegen<lb break="no"/>setzen, umso mehr als ich sofort angeboten habe, gegebenenfalls nur<lb/>
+2 Vorstandsdirektoren in Hinkunft in der Verbund zu installieren.<lb/>
+Nachdem wir unsere Standpunkte festgelegt hatten, einigten wir uns<lb/>
+darauf, dass die ÖVP zur Kenntnis nimmt, dass ich 3 Vorstandsmitglieder<lb/>
+im Jahre 1978 nach Ablauf vom <name type="person" ref="per:112012">Arthold</name>-Vertrag installieren will und<lb/>
+werde, sie aber noch darüber entsprechende Verhandlungen führen<lb/>
+möchte. Wie sehr in der Elektrizitätswirtschaft gespart werden muss<lb/>
+und kann, habe ich <name type="person" ref="per:98003">Taus</name> expliziert. Die Lohn- und Gehaltstangente ist<lb/>
+von 17 % vor 20 Jahren trotz des kapitalintensiven Betriebes auf<lb/>
+fast 30 % gestiegen. Die Sparmassnahmen, sagte ich, müssen aber von oben,<lb/>
+Reduzierung des Aufsichtsrates, Vorstandverringerung usw., beginnen.<lb/>
+Diese Politik ist notwendig, um dann den Betriebsräten klarzumachen,<lb/>
+dass auch insgesamt entsprechende Posten eingespart werden müssen.<lb/>
+Ich fragte <name type="person" ref="per:98003">Taus</name>, wieviel er Amtsgehilfen in der Vorstandsetage ver<lb break="no"/>mutet. Er meinte, in der Girozentrale bei 4 Vorstandsdirektoren seien<lb/>
+es zwei gewesen. Er schätze auf 4–5. In Wirklichkeit sind es 14,<lb/>
+wie mir <name type="person" ref="per:112215">Weiss</name> auch bestätigen musste.<lb/>
+</p>
+            <p xml:space="preserve">Beim Jour-fixe mit der Arbeiterkammer diskutierten wir über die<lb/>
+Strompreisverhandlungen, die gleichzeitig in der Energiesektion<lb/>
+liefen. <name type="person" ref="per:109811">Burian</name> hat einen Vermittlungsversuch gestartet, den die Elek<lb break="no"/>trizitätswirtschaft akzeptierte nämlich 5 Groschen für den Tagstrom<lb/>
+<pb n="33-1412" facs="33_1976-12-10_1412.jpg"/>und 4 Groschen für den Nachtstrom. Die Arbeiterkammer, <name type="person" ref="per:98112">Zöllner</name>,<lb/>
+aber auch die Landwirtschaftskammer und Handelskammer haben dies<lb/>
+ganz entschieden abgelehnt. Ich hatte mit <name type="person" ref="per:98112">Zöllner</name> als maximalen Satz<lb/>
+4.2, ich würde sagen, noch 4.3 bis 4 besprochen. <name type="person" ref="per:109811">Burian</name> ist trotzdem<lb/>
+ich ihm dieses Limit genau gesagt habe, zu weit gegangen. <name type="person" ref="per:97337">Bauer</name> hat<lb/>
+mich angerufen und gehofft, dass ich diesen Vorschlag akzeptieren<lb/>
+könnte, da ihm die Elektrizitätswirtschaft jetzt schluckt. Ich sehe<lb/>
+dazu keine Möglichkeit und habe <name type="person" ref="per:97333">Bandhauer</name> auf unsere Aussprache im Ge<lb break="no"/>werkschaftsbund verwiesen.<lb/>
+</p>
+            <p xml:space="preserve">Über den Gaspreis für Wien konnte eine 6.1-%ige Erhöhung einvernehmlich<lb/>
+festgelegt werden. Zum Schluss hatte ich nur noch Schwierigkeiten mit<lb/>
+MR <name type="person" ref="per:112011">Kurzel</name>. Die Jour-fixe-Teilnehmer hörten am Telefon meine Taktik,<lb/>
+die ich anwendete, damit auch <name type="person" ref="per:112011">Kurzel</name> letzten Endes zustimmte und waren<lb/>
+dann darüber teilweise belustigt, teilweise sehr erstaunt. Ich frage mich<lb/>
+oft selbst, wie es mir gelungen ist in den 7 Jahren ohne Weisungen<lb/>
+durchzukommen und doch den Beamten durch Motivation Gefühl zu geben,<lb/>
+es geschieht alles so wie sie wollen. Manchmal frage ich, vielleicht<lb/>
+irre ich mich, und es geschieht wirklich so, wie sie es wollen.<lb/>
+</p>
+            <p xml:space="preserve">Bezüglich der Initiativanträge im Parlament über die Diskriminierung,<lb/>
+Kontrahierung, Verkauf unter dem Einstandspreis usw. berichtete <name type="person" ref="per:97676">Lachs</name>,<lb/>
+dass er glaubt, wir kommen mit der Handelskammer einvernehmlich zu<lb/>
+einer Lösung, wo nur das Diskriminierungsverbot und der Kontrahierungs<lb break="no"/>zwang festgelegt werden. Ich selbst kann mir nicht vorstellen, dass<lb/>
+das Parlament tatsächlich nur diese 2 Materien in den neuen Wettbewerbs<lb break="no"/>gesetz beschliessen wird. Die anderen Wünsche der Handelskammer, auch<lb/>
+auf alle Fälle am Zivilrechtsweg, d.h. mit dem unlauteren Wettbewerbs<lb break="no"/>gesetz, das ziemlich wirkungslos ist bekämpft werden müssten, würde<lb/>
+ich eher plädieren alle ihre Wünsche zu erfüllen.<lb/>
+</p>
+            <p xml:space="preserve">Der Konsum wird bei der Firma Eisert eine grössere Menge von Wegwerf<lb break="no"/>feuerzeugen bestellen. Der Verbraucherpreis soll 10 Schilling betragen<lb/>
+gegenüber den sonst normalen um 15 Schilling. Die Firma Eisert ist<lb/>
+bereit, um 6.50 Schilling den Fabrikabgabepreis festzusetzen und<lb/>
+gleichzeitig Konsum auf das Feuerzeug aufzudrücken. Ich habe Gen.Dir.<lb/>
+<name type="person" ref="per:113061">Kaditz</name> von Wien angerufen, damit er eine grössere Menge bestellt.<lb/>
+Angeblich war er zuerst sehr abgeneigt – hat mir dann allerdings fast<lb/>
+einen Millionenbezug genannt. <name type="person" ref="per:97676">Lachs</name> wäre schon froh, wenn er ein<lb/>
+paar hunderttausend Stück bestellten würde.<lb/>
+</p>
+            <pb n="33-1413" facs="33_1976-12-10_1413.jpg"/>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: Bitte diese Bezugsmöglichkeiten genau verfolgen<lb/>
+und andere Firmen zu Reklamezwecken zu veranlassen, ebenfalls jetzt<lb/>
+Feuerzeuge zu bestellen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97627">Kienzl</name> wollte von mir und dann auch von <name type="person" ref="per:108322">Meisl</name> wissen, wie wir das<lb/>
+Handelsbilanzdefizit, welches ständig steigt, abbauen könnten. Ich<lb/>
+sehe die einzige Möglichkeit daran, dass wir aus den Oststaaten<lb/>
+Energie beziehen, die wir brauchen. Bis jetzt konnten wir dorthin<lb/>
+sehr gut exportieren, weil wir ungeheure Kredit gewährt haben. Dies<lb/>
+lässt sich auf die Dauer sicherlich nicht fortsetzen. Unsere Importe<lb/>
+aus dem Westen sind aber grösstenteils Steigerungen der Autos<lb/>
+mindestens 5 Mia. Schilling und die teuren Energiebezüge.<lb/>
+</p>
+            <p xml:space="preserve">Der indische Handelsminister <name type="person" ref="per:145779">Chattopadhyaya</name> wollte bei seinem Besuch<lb/>
+nichts anders, als dass wir eine Gemischte indisch-österreichische<lb/>
+Kommission einsetzen, damit die überprüft, ob wir mehr Handel betrei<lb break="no"/>ben können. Eine solche Kommission wird zwar in meinen Augen nichts<lb/>
+anderes als wie Kosten verursachen und kaum irgendwelche Resultate<lb/>
+bringen. Selbstverständlich konnte ich nicht ablehnen, dass eine<lb/>
+indische Kommission zu uns kommen soll.<lb/>
+</p>
+            <p xml:space="preserve">Mit Präs. <name type="person" ref="per:114655">Harmer</name>, Leiter des Verhandlungskomitees über den Industrie-<lb/>
+Rahmenkollektivvertrag, Dr. <name type="person" ref="per:139990">Ecker</name><add>[evtl. Falschidentifikation, Anm.]</add>, <name type="person" ref="per:145780">Pascale</name> von der Handelskammer und<lb/>
+<name type="person" ref="per:130457">Riegler</name> vom Fachverband sowie 3 Kollegen von unserem Gewerkschafts<lb break="no"/>verhandlungskomitee verhandelten wir die offenen Fragen des Rahmen<lb break="no"/>kollektivvertrages. Dort wurde in 20 Verhandlungen während 2 Jahren<lb/>
+kein Ergebnis erzielt. Nach mühsamen stundenlangen Gesprächen gelang<lb/>
+es dann doch Punkt für Punkt zu einer Kompromisslösung zu kommen.<lb/>
+Auf die Dauer kann ich mir allerdings eine solche Tätigkeit, wie sie<lb/>
+heute bei den Zuckerbäckern und jetzt bei der Industrie war, nicht<lb/>
+vorstellen. Ich möchte nicht den Eindruck erwecken, dass ich als<lb/>
+Handelsminister einen Druck auf die Unternehmerseite ausübe. Nur weil<lb/>
+wir 2 Jahre erfolglos verhandelten und weil es jetzt schon zu Unruhen<lb/>
+in den Betrieben kam, glaube ich, hat es auch die andere Seite gerne<lb/>
+gesehen, dass ich mich jetzt eingeschaltet habe, um zu einer endgültigen<lb/>
+Lösung zu kommen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="33_1408_01" facs="33_1976-12-10_1408-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 10.12.1976</head>
+         </div>
+         <pb n="33_1408_02" facs="33_1976-12-10_1408-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

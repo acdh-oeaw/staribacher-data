@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstag, der  2. März 1971</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band04_1971-03-02</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1971-03-02">Dienstag, 2. März 1971</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-07-22">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="04-0270" facs="04_1971-03-02_0270.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Dienstag, 2. März 1971<lb/>
+</p>
+            <p xml:space="preserve">Das von <name type="person" ref="per:108224">Lütgendorf</name> vorgelegte Wehrgesetz war am Montag abends nicht<lb/>
+endgültig behandelt worden, deshalb fing die Ministerratsbesprechung<lb/>
+mit einer Vorbesprechung an, die Beamten sassen aber bereits im Kongress<lb break="no"/>saal. <name type="person" ref="per:97444">Fischer</name> vom Klub überreichte die in der Nacht mit den jungen<lb/>
+Genossen ausgearbeiteten Abänderungsvorschläge. Natürlich war keine<lb/>
+Zeit mehr und es konnten nur die einzelnen Bestimmungen, die keine<lb/>
+grösseren Änderungen betrafen, berücksichtigt werden. Die Argumenta<lb break="no"/>tion <name type="person" ref="per:97668">Kreiskys</name> war, im Parlament könnten dann ja alle anderen Fragen<lb/>
+noch behandelt werden. <name type="person" ref="per:97525">Häuser</name> teilte eine Korrektur zum Lebensmittel<lb break="no"/>gesetz aus, wo die Täuschung an zwei Stellen des Lebensmittelgesetz<lb break="no"/>entwurfes herausgestrichen werden sollte. Ich hatte am Vortag mit<lb/>
+ihm vereinbart, dass bei Täuschung von Kosmetika und Gebrauchsgegen<lb break="no"/>ständen eliminiert gehört. Er dagegen hat jetzt die Täuschung nur von<lb/>
+den Gebrauchsgegenständen dafür aber auch die Täuschung bei eingeführten<lb/>
+Waren herausgenommen. <name type="person" ref="per:98055">Weihs</name> behauptete, dass in seinen Aufzeichnungen<lb/>
+die Aussage von <name type="person" ref="per:97525">Häuser</name> nur bestätigen kann. Ich erörterte, warum ich<lb/>
+den Gesetzentwurf in diesen Punkten und auch einigen andere, wo bekannt<lb break="no"/>licherweise das Handelsministerium total ausgeschaltet ist, für falsch<lb/>
+halte. Doch <name type="person" ref="per:97525">Häuser</name> meinte, dass aus zeitmässigen Gründen der Entwurf<lb/>
+muss heute noch durch den Ministerrat durch, eine weitere Diskussion<lb/>
+nicht mehr möglich ist. Dabei kam wieder diese blöde Bemerkung, die<lb/>
+auch bereits einige andere Minister gebracht hatten, ich hätte mich<lb/>
+eben im Haus von meinen Beamten aufrichten lassen. Mein Hinweis, dass<lb/>
+ich nur mit <name type="person" ref="per:97646">Koppe</name> darüber geredet habe, wurde scheinbar überhaupt<lb/>
+nicht geglaubt. <choice><choice><sic>Mir</sic><corr>Für mich</corr></choice></choice> spielt das zwar überhaupt keine Rolle, ob man von<lb/>
+mir denkt, dass ich ein starker Minister bin, der alles allein ent<lb break="no"/>scheidet oder ein schwacher Minister, der ausschliesslich von seinen<lb/>
+Beamten getrieben wird, ich glaube nur, dass man auf so eine Art und<lb/>
+Weise keine Gesetze machen soll. <name type="person" ref="per:97525">Häuser</name> meinte, ich könnte ja jede getewünsche Erklärung zu diesem Gesetzentwurf abgeben. Das hätte ja gerade<lb/>
+noch gefehlt, ich halte von der Methode, irgendwo zu erklären, dass<lb/>
+man gegen die und die und die Bestimmung in dem Entwurf ist, aber<lb/>
+nachher letzten Endes doch zuzustimmen, für total verfehlt. Da im<lb/>
+Ministerrat nur einstimmige Beschlüsse gefasst werden können, so<lb/>
+kann ich noch so sehr dagegen reden, wenn der Gesetzentwurf den<lb/>
+Ministerrat passiert, dann ist er eben mitbeschlossen. Zum Glück war<lb/>
+<name type="person" ref="per:97769">Mussil</name> krank und ich konnte ihn über die Details überhaupt nicht in<lb break="no"/>formieren. Abends bei der Klubsitzung kam <name type="person" ref="per:97372">Broda</name> noch zu mir und<lb/>
+<pb n="04-0271" facs="04_1971-03-02_0271.jpg"/>versicherte mir, dass er mit dieser Methode des Überfahrens und<lb/>
+des Durchziehens auch nicht einverstanden ist. Doch hoffe er, dass<lb/>
+der gesamte Gesetzentwurf sowieso untergehen wird. Im Klub gab<lb/>
+es dann auch noch eine heftige Diskussion über das Wehrgesetz.<lb/>
+Vertreter der jungen Generation, <name type="person" ref="per:97913">Schieder</name> und <name type="person" ref="per:97356">Blecha</name>, wiesen darauf<lb/>
+hin, dass das Problem der Wehrdienstverweigerer überhaupt nicht ge<lb break="no"/>löst sei. Im derzeitigen Gesetz und auch im neuen Entwurf wird immer<lb/>
+nur von den Waffendienstverweigerern gesprochen und der Bundesjungend<lb break="no"/>ring hat aber verlangt, dass auch der Wehrdienstverweigerer berücksich<lb break="no"/>tigt werden muss. Waffendienstverweigerer werden mit dem Sturmgewehr<lb/>
+ausgebildet zur Selbstverteidigung und dann im Militärrahmen ver<lb break="no"/>wendet. Wehrdienstverweigerer sollen nun lt. Auffassung aller Organi<lb break="no"/>sationen im Bundesjugendring und auch von der Bundesheerkommission ein<lb break="no"/>stimmig beschlossen, irgendwelche Sozialdienst ableisten können,<lb/>
+weil sie überhaupt keine Waffe in die Hand nehmen wollen. Ausserdem<lb/>
+ist in diesem Entwurf jetzt vorgesehen, dass der Verdienstentgang<lb/>
+bei Waffenübungen, die derzeit die Wirtschaft, d.h. der Unternehmer<lb/>
+tragen muss, in Zukunft der Staat übernehmen wird. Dies ist uns<lb/>
+sicher durch die Lappen gegangen, beabsichtigt war dies zumindestens<lb/>
+von unserer Regierungsfraktion sicherlich nicht. <name type="person" ref="per:97356">Blecha</name> war auch<lb/>
+deshalb sehr erbost, weil sie in der Nacht bis 1 Uhr an diesem Ent<lb break="no"/>wurf gearbeitet hattet und <name type="person" ref="per:97668">Kreisky</name> ihnen erklärt hat, dass alle<lb/>
+ihre Wünsche, die sie ihm vorher vorgetragen haben, berücksichtigt<lb/>
+werden. Angeblich haben sie bei der Regierungsvorbesprechung am Mon<lb break="no"/>tag bei ihm im Zimmer gesessen, um ihn auf alle Details aufmerksam<lb/>
+zu machen. <name type="person" ref="per:97668">Kreisky</name> meinte auch hier wie beim Lebensmittelgesetz<lb/>
+<name type="person" ref="per:97525">Häuser</name>, dies alles könnte ja noch im Parlament geändert werden.<lb/>
+Betreffend der Wehrdienstverweigerer schlug er vor, dass die Re<lb break="no"/>gierung eine Enquete über dieses Problem veranstaltet. Ich kann<lb/>
+mir jetzt sehr gut vorstellen wie in Wirklichkeit eine Entwicklung<lb/>
+ausgelöst wird, die letzten Endes in der ÖVP gang und gäbe ist<lb/>
+aber die auch letzten Endes garantiert zu einem schlechten Klima<lb/>
+innerhalb des Klubs kommen kann. Ich glaube, dass die Voraussetzung<lb/>
+einer gedeihlichen Zusammenarbeit zwischen Regierung und Klub sein<lb/>
+muss, dass wenn auch Probleme in der Öffentlichkeit diskutiert werden<lb/>
+und wenn sie sogar sehr lange diskutiert werden, bereits die ent<lb break="no"/>sprechenden Gesetzentwürfe mit den dafür in Betracht kommenden Grup<lb break="no"/>pen ausgearbeitet sein müssen. Wenn dann in der Diskussion, sei es<lb/>
+mit den Gegnern, oder mit den eigenen Leuten eine Lösung gefunden<lb/>
+<pb n="04-0272" facs="04_1971-03-02_0272.jpg"/>wird, dann muss eben schon der Gesetzentwurf in den letzten<lb/>
+Details ausgearbeitet sein und vorliegen. Wenn erst zu diesem<lb/>
+Zeitpunkt, womöglich unter Zeitdruck ein Problem durch den<lb/>
+Ministerrat gejagt wird, dann muss dies schief gehen. Ausserdem<lb/>
+muss man unter allen Umständen vermeiden, ich betone unter a 1 l e n<lb/>
+Umständen vermeiden, dass ein anderer überführt wird. Ich erinnere<lb/>
+daran, dass die Gewerbeordnung der ÖVP-Alleinregierung aus dieser<lb/>
+Tatsache, dass nämlich <name type="person" ref="per:97749">Mitterer</name> überführt werden sollte und über<lb break="no"/>führt wurde von <name type="person" ref="per:97917">Schleinzer</name> letzten Endes auch in der Regierung<lb/>
+gescheitert ist. In erinnere daran, dass im KF-Gesetz die notwen<lb break="no"/>digen gesetzlichen Formulierungen im Ausschuss nicht mehr zeit<lb break="no"/>gerecht und vor allem sachgemäss erledigt wurden, sodass dann im<lb/>
+Haus ganze Seiten von Abänderungsanträgen in letzter Minute<lb/>
+noch korrigiert und beschlossen werden mussten.<lb/>
+</p>
+            <p xml:space="preserve">In der Ministerratssitzung wies <name type="person" ref="per:97668">Kreisky</name> noch darauf hin, dass<lb/>
+bei der Wahlwerbung zur Bundespräsidentenwahl die Regierungs<lb break="no"/>mitglieder ihre normalen Amtsgeschäfte weiterführen werden, d.h.<lb/>
+dass die Versammlungstätigkeiten erst am Freitag abends und Samstag<lb/>
+Sonntag in den Bundesländern durchgeführt werden könne. Er wollte<lb/>
+dann auch noch eine Formulierung, die dem Sinne nach von <name type="person" ref="per:97488">Gratz</name> in<lb/>
+der Vorbesprechung beantragt wurde, dass bei Bundesländerreisen keine<lb/>
+Amtsgeschäfte miterledigt werden. Meine Bemerkung, dass dies doch<lb/>
+nicht gut möglich sei, liess er diese Formulierung aber dann fallen.<lb/>
+Ich hatte bereits bei der Vorbesprechung darauf hingewiesen, dass<lb/>
+ich unter allen Umständen Kontaktaufnahmen und sonstige zweckmässig<lb/>
+erscheinende Verbindungen, sei es mit der Landesregierung oder sei<lb/>
+es mit sonstigen Organisationen der Handelskammer oder auch Innungen<lb/>
+für sehr zielführend halte. Schon allein aus zeitökonomischen Gründen<lb/>
+wäre es doch ein Wahnsinn, die Gelegenheiten nicht zu nützen. <name type="person" ref="per:97668">Kreisky</name><lb/>
+berichtete weiters, dass der Prüfungsbericht auf Grund des § 14<lb/>
+d. Rundfunkgesetzes nun vorliegt für das Jahr 1969, da ja bereits<lb/>
+im Unterausschuss des Nationalrates diskutiert wird. Er selbst<lb/>
+hat aber noch keinen bekommen. Wenn er ihn überreicht bekommt,<lb/>
+dann wird es 14 Tage später die Hauptversammlung einberufen, um<lb/>
+dem Aufsichtsrat und dem Vorstand die Entlastung auszusprechen.<lb/>
+Bei dieser Gelegenheit wies er darauf hin, dass die Postenausschrei<lb break="no"/>bung für den Generalintendanten in der Aufsichtsratssitzung des<lb/>
+<pb n="04-0273" facs="04_1971-03-02_0273.jpg"/>5. März besprochen werden soll. Es liegen jetzt mehrere Be<lb break="no"/>werber vor, aber die Aufsichtsratsmitglieder haben noch immer<lb/>
+nicht die Unterlagen bekommen. Der Wunsch von den soz. Aufsichts<lb break="no"/>ratsmitgliedern, die Sitzung zu verschieben, wurde vom Vorsitzenden<lb/>
+des Aufsichtsrates Staatssekretär a.D. <name type="person" ref="per:134812">Kranzlmayr</name> abgelehnt.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> meinte ausdrücklich für das Protokoll bestimmt, dass<lb/>
+eine Verpolitisierung des Rundfunks in einem Masse Platz gegriffen<lb/>
+hat, wie es in der Vergangenheit niemals der Fall gewesen ist.<lb/>
+</p>
+            <p xml:space="preserve">Der italienische Botschafter <name type="person" ref="per:122023">Aillaud</name> meldete sich und wollte<lb/>
+unbedingt einen Antrittsbesuch machen. <name type="person" ref="per:98034">Veselsky</name> war von dieser<lb/>
+Vorsprache in Kenntnis und er rief mich vorher an. um mir mitzu<lb break="no"/>teilen, dass es sich hier um schwerwiegende Probleme handelt, die<lb/>
+besprochen werden sollten. Von der ENI, das ist die italienische<lb/>
+Konzernspitze der Verstaatlichten, waren Dr. <name type="person" ref="per:134813">Ratti</name> und Dr. <name type="person" ref="per:134814">Radolfi</name><lb/>
+hier. Er hatte mit ihnen ein Mittagessen und Gen.Dir. <name type="person" ref="per:97337">Bauer</name> von<lb/>
+der ÖMV hatte ihm über die Verhandlungen zwischen der ÖMV und ENI<lb/>
+über die Gasleitung durch Österreich informiert. Bei dem Mittag<lb break="no"/>essen wollten nun die italienischen Vertreter entsprechende Zusagen<lb/>
+haben. Er verwies sie aber – kompetenzmässig – wie er mir mitteilte<lb/>
+an das Handelsministerium. Ich war deshalb über die Wünsche, die<lb/>
+sie vorbrachten informiert und konnte vor allem aber.auch Min.Rat<lb/>
+<name type="person" ref="per:108322">Meisl</name>, der anwesend war, vorher über deren Absichten informieren.<lb/>
+Der Botschafter und <name type="person" ref="per:134813">Ratti</name> führten im einzelnen aus: Die technischen<lb/>
+Probleme bezüglich der Errichtung einer Erdgasleistung, die das<lb/>
+russische Erdgas im derzeitigen Umfang von 6 Milliarden m³ durch<lb/>
+Österreich nach Italien transportieren sollen, seien gelöst.<lb/>
+Die ENI verhandelt nun mit der ÖMV bereits durch 5 Jahre und kommt<lb/>
+in der Frage des Eigentümers dieser Erdgasleitung nicht weiter.<lb/>
+Zuerst hätten sie vorgeschlagen, dass 90 % der Nutzung Italien<lb/>
+zugutekommt und 10 % nur Österreich, auch ein solches Verhältnis<lb/>
+bei der Eigentumsaufteilung der zu errichtenden Gesellschaft vorzu<lb break="no"/>nehmen. Jetzt seien sie bereit Österreich kostenlos 50:50 anzubieten.<lb/>
+Wenn Österreich einmal eine grössere Nutzung aus dieser Leitung<lb/>
+haben sollte, dann könnte auch natürlich einen höheren Eigentumsanteil<lb/>
+erhalten. Die ÖMV stellt sich ausserdem vor, dass sie für den Durch<lb break="no"/>gang des Gases Transportkosten d.h. Peagierung Kosten verrechnet.<lb/>
+Die östliche und westliche Ersatzlösung d.h. die über Ungarn und<lb/>
+die über die Schweiz sehen nun keinerlei Peagierungskosten vor.<lb/>
+Der Botschafter, aber auch <name type="person" ref="per:134813">Ratti</name> rechnen fest, dass es uns gelingen<lb/>
+<pb n="04-0274" facs="04_1971-03-02_0274.jpg"/>wird, eine Lösung zu finden, denn sie wollen auf alle Fälle der<lb/>
+durch Österreich gehenden Pipeline den Vorzug geben. Ich erwiderte,<lb/>
+dass auch ich glaube, dass wir sicherlich zu einer Lösung kommen werden.<lb/>
+Es sei nicht unser Fehler, wenn erst 5 Jahre nach Beginn der Verhand<lb break="no"/>lungen die Regierungen angesprochen werden. Ich selbst werde aber selbst.<lb/>
+verständlich mich jederzeit zur Verfügung stellen, wenn es notwendig<lb/>
+sein sollte, um eine Lösung herbeizuführen. Ich wies darauf hin, dass<lb/>
+ich derzeit an einem Pipeline-Gesetz arbeite. Dies erschreckte die<lb/>
+Herren sehr, weil sie geglaubt haben, dass es solange keine endgültigen<lb/>
+Abschlüsse über die Gas-Pipeline zwischen österr. Grenze und italieni<lb break="no"/>scher Grenze geben würde. Hier war mit dieser Aussage eine Nebenwirkung<lb/>
+erzielt, die ich wirklich nicht beabsichtigte. Ich erklärte deshalb<lb/>
+sofort, dass ich ab morgen schon bereit bin, wenn die ÖMV und ENI<lb/>
+dies wünschen, sofort in die Verhandlungen einzugreifen. <name type="person" ref="per:134813">Ratti</name> meinte,<lb/>
+dies sei nicht notwendig. Er werde jetzt mit der ÖMV weiter verhandeln.<lb/>
+Die österreichische Bundesregierung wird hingegen von Italien eine<lb/>
+Verbal-Note in dieser Angelegenheit erhalten.<lb/>
+</p>
+            <p xml:space="preserve">Die Aussenhandelsstellen-Leiter von Osteuropa sowie der Türkei und<lb/>
+Israel hatten in Wien eine Tagung und ich konnte mit Min.Rat <name type="person" ref="per:97426">Fälbl</name><lb/>
+und <name type="person" ref="per:108322">Meisl</name> daran teilnehmen. Es war eine richtiggehende Arbeitstagung,<lb/>
+wo <name type="person" ref="per:97474">Gleißner</name> über Ostliberalisierung, Globalkontingente und multila<lb break="no"/>terale Zahlung referierte. Soweit die Delegierte, sei es <name type="person" ref="per:123349">Bittner</name><lb/>
+von der CSSR, oder <name type="person" ref="per:111757">Daurer</name> von Polen, <name type="person" ref="per:134815">Stipkovich</name> aus der UdSSR<lb/>
+oder <name type="person" ref="per:113607">Syrovatka</name> von Bulgarien das Wort ergriffen, waren sie eigentlich<lb/>
+mit den Auffassungen <name type="person" ref="per:97474">Gleißners</name> identisch. Dies ist glaube ich nicht<lb/>
+darauf zurückzuführen, dass sie in einem reinen Abhängigkeitsverhältnis<lb/>
+von ihn stehen, sondern es ist glaube ich wirklich ihre Überzeugung.<lb/>
+Sie glauben also – so wie die Bundeskammer – dass die Hardcore-Fälle<lb/>
+nicht wirkliche Hardcore-Fälle sein sollten, sondern dass das noch<lb/>
+handelspolitische Trümpfe in der Zukunft werden können, auch dann<lb/>
+wenn sie liberalisieren müssen. Sie glauben weiters, dass das Global<lb break="no"/>kontingent nichts nützen würde, weil die Eifersucht der Oststaaten<lb/>
+untereinander sehr gross ist und sie meinen, man müsste nach wie vor<lb/>
+bilateral entsprechende Kontingenterhöhungen immer nur aushandeln.<lb/>
+Sowohl <name type="person" ref="per:97426">Fälbl</name> als auch ich versuchte, ihnen auseinanderzusetzen, dass<lb/>
+es doch zielführender wäre, noch einige Trümpfe, die man jetzt in der<lb/>
+Hand hat, jetzt auszuspielen und dafür einige andere Wünsche Österreichs<lb/>
+einzutauschen. Nut der ungarische Handelsdelegierte versicherte uns,<lb/>
+dass es zielführend sein könnte, wenn man jetzt z.B. die Zollämter<lb break="no"/><pb n="04-0275" facs="04_1971-03-02_0275.jpg"/>ermächtigung den Ungarn geben würde. Als Gegenkompensation meinte<lb/>
+<name type="person" ref="per:97426">Fälbl</name> könnte man sicher dann einige sei es z.B. Fabrikerrichtungen<lb/>
+oder Kooperationsverbesserungen für einzelnen Firmen damit erreichen.<lb/>
+Ich erörterte unsere Politik im Handelsministerium, dass wir auch<lb/>
+gegenüber den Oststaaten eine liberalere Politik einschlagen sollten<lb/>
+um sie nicht so sehr gegen uns aufzubringen und damit auch letzten<lb/>
+Endes ihre Zustimmung d.h. zumindestens ihr Akzeptieren unserer<lb/>
+Brüsseler Vereinbarung in Zukunft zu erleichtern. <name type="person" ref="per:134815">Stipkovich</name>,<lb/>
+der Handelsdelegierte in der Sowjetunion, teilt diese Meinung<lb/>
+nicht-.Er glaubt, dass die Sowjetrussen unser Entgegenkommen jetzt<lb/>
+akzeptieren werden, dann aber bei den entscheidenden Besprechungen<lb/>
+oder Sitzungen auf alle Fälle dagegen sein werden. Wir hätten dann<lb/>
+umsonst die Opfer gebracht. Generalsekretär <name type="person" ref="per:126971">Wakolbinger</name> sagte,<lb/>
+er sei sehr erfreut, dass ich so offen über unsere Probleme mit<lb/>
+den Handelsdelegierten spreche. Ich erwiderte sofort, er kann aber<lb/>
+bei den letzten Besprechungen nicht anwesend gewesen sein, denn<lb/>
+ich habe immer mit den Handelsdelegierten, so wie ich mit der Handels<lb break="no"/>kammer auch sonst sehr offene Worte gebraucht. <name type="person" ref="per:97474">Gleißner</name> wird meine<lb/>
+Idee zur Osthandelspolitik noch einmal im Präsidium besprechen. Ein<lb/>
+Problem wurde durch den Beitrag von <name type="person" ref="per:134816">Feldbacher</name>, dem jugosl.<lb/>
+Handelsdelegierten aufgerollt. Die jug. Handelsbilanz sieht wesent<lb break="no"/>lich günstiger aus als von Österreichischer Sicht, da die Jugoslawen<lb/>
+die österreichischen Lieferungen aus Drittländern als österr. Liefe<lb break="no"/>rung betrachten. Der Ursprung der Waren ist uninteressant, in ihre<lb/>
+Statistik geht nur ein, wer fakturiert. Dadurch exportieren wird<lb/>
+nach Jugoslawien um ca. 30 Mill. $ mehr als tatsächlich österr.<lb/>
+Waren nach Jugoslawien gehen, die Aussprache war, glaube ich, sehr<lb/>
+zielführend, da sie unseren Herren die Möglichkeit gab, unsere neue<lb/>
+Ostpolitik irgendwie den Handelsdelegierten auseinanderzusetzen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="04_0269_01" facs="04_1971-03-02_0269-01.jpg"/>
+         <pb n="04_0269_02" facs="04_1971-03-02_0269-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 2.3.1971</head>
+         </div>
+         <pb n="04_0275_01" facs="04_1971-03-02_0275-01.jpg"/>
+         <pb n="04_0275_02" facs="04_1971-03-02_0275-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesordnung 43. Ministerratssitzung, 2.3.1971</head>
+            <gap reason="sampling"/>
+            <pb n="04_0275_03" facs="04_1971-03-02_0275-03.jpg"/>
+         </div>
+         <pb n="04_0275_04" facs="04_1971-03-02_0275-04.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>hs. Notizen (TO Ministerratssitzung Rückseite)</head>
+         </div>
+         <pb n="04_0275_05" facs="04_1971-03-02_0275-05.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Nachtrag TO 43. Ministerratssitzung, 2.3.1971</head>
+         </div>
+      </back>
+   </text>
+</TEI>

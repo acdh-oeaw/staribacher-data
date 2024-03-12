@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der 20. Juni 1975</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band26_1975-06-20</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1975-06-20">Freitag, 20. Juni 1975</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-11-27">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="26-0760" facs="26_1975-06-20_0760.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Freitag, 20. Juni 1975<lb/>
+</p>
+            <p xml:space="preserve">Die Aussprache mit Arch. <name type="person" ref="per:140636">Schwanzer</name>, <name type="person" ref="per:97755">Moser</name>, <name type="person" ref="per:97893">Sallinger</name>, <name type="person" ref="per:97581">Igler</name> betreffend<lb/>
+die Errichtung der Universität Riad war für mich sehr aufschlussreich.<lb/>
+<name type="person" ref="per:140636">Schwanzer</name> behauptet, er hat eine Million Schilling investieren<lb/>
+müssen, bevor der in Saudi-Arabien als Planungsfachmann sich durch<lb break="no"/>setzen konnte. Entgegen allen anderen Berichten, dass man in Saudi nur<lb/>
+mit Bestechung zu einem Geschäft kommen kann, erklärt er, dass er keinen<lb/>
+Groschen bis jetzt irgendjemanden Bakschisch zahlen musste. Er behauptet<lb/>
+sogar im Gegenteil, dass die jungen Technokraten, die sich schön langsam<lb/>
+in der saudi-arabischen Verwaltung durchsetzen und ganz besonders in der<lb/>
+Universität, wie er sich ausdrückt, die Waffen-SS der Saudi-Arabier sind.<lb/>
+Strenggläubig, fanatisch und absolut integer, er hat ein Planungskonsor<lb break="no"/>tium aufgebaut mit Sitz in Wien. Sein Gesellschaftsanteil beträgt<lb/>
+51 %, der Planungsanteil allerdings nur 32 %, doch dies ist bei einem<lb/>
+2-Mia.-Dollar-Projekt auch noch irrsinnig viel Er wird die Aufsicht und<lb/>
+das Management haben. Die Schweden mit 15 % Skanska und einer Firma<lb/>
+<choice><choice><sic>Swetco</sic><corr>Swecon</corr></choice></choice>, die die Infrastruktur bearbeiten wird. GB mit 10 % Statik und<lb/>
+Hochbau, Fa. Atkins. Deutschland den Rest mit 2 Firmen, eine grosse<lb/>
+Klima- und Heizungsfirma Brandi<add>[?]</add> und eine Baufirma Mischels<add>[?]</add>, die die<lb/>
+Bauten über hat. Der riesige Vorteil ist, dass wenn <name type="person" ref="per:140636">Schwanzer</name> den Pla<lb break="no"/>nungsaufbau für den Bau bekommt, er dann durch entsprechende Ausschrei<add>[-bungs]</add>-<lb/>
+und vor allem dass die Planungsstelle in Wien sitzt, österreichische<lb/>
+Firmen eine einmalige Chance zu Lieferungen gibt. <name type="person" ref="per:140636">Schwanzer</name> braucht<lb/>
+eine politische, d.h. eine Unterstützung der Regierung. Ich habe ihm<lb/>
+dies sofort zugesagt und fragte nur, warum er sich nicht schon<lb/>
+früher konkret an uns gewendet hat. <name type="person" ref="per:140636">Schwanzer</name> meinte, er hätte uns<lb/>
+seinem Brief geschrieben. Zum Glück haben wir den Brief sofort gefunden<lb/>
+und ihm zeigen können, dass wir ihn ja beantwortet haben. <name type="person" ref="per:140636">Schwanzer</name> sagt,<lb/>
+dass der Bauring unten einen sehr guten Namen hat, nur scheinbar den<lb/>
+falschen Leuten geschmiert. Vor allem aber sicherlich zu viel Provision<lb/>
+bezahlt. <name type="person" ref="per:140636">Schwanzer</name> war sehr froh, dass Minister <name type="person" ref="per:97442">Firnberg</name> den Unterrichts<lb break="no"/>minister und den Rektor eingeladen hat und ersucht, dass <name type="person" ref="per:97893">Sallinger</name>,<lb/>
+<name type="person" ref="per:97581">Igler</name> und mich an einem Essen, das <name type="person" ref="per:97442">Firnberg</name> für diese Delegation<lb/>
+gibt, teilzunehmen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97377">BUKOWSKI</name>: Bitte, bevor <name type="person" ref="per:97442">Firnberg</name> uns drei einlädt,<lb/>
+klären, ob <name type="person" ref="per:97893">Sallinger</name> insbesondere überhaupt kommt.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:140636">Schwanzer</name> erkennt ganz genau und schildert uns, dass die Hauptschwierig<lb break="no"/>keit in Saudi<add>[-Arabien]</add> die mangelnde Verwaltung – es gibt keine nach westeuropäi<lb break="no"/>schen Begriffen – und die mangelnde Infrastruktur ist. Seine Zeitpläne<lb/>
+<pb n="26-0761" facs="26_1975-06-20_0761.jpg"/>sind deshalb immer so abgestimmt, dass er taktweise vorgeht und<lb/>
+wenn eine Genehmigung notwendig ist, dann die Zeitabläufe unter<lb break="no"/>brochen werden. Dieses System imponiert mir. Meine Meinung nach der<lb/>
+einzige Weg, um keine Pönale für Nichterfüllung bezahlen zu müssen.<lb/>
+</p>
+            <p xml:space="preserve">Zwei Herren der Fa. Porr ersuchen, dass wir beim Besuch der Perser<lb/>
+wegen der Abwicklung ihrer Bauaufträge intervenieren. <name type="person" ref="per:97426">Fälbl</name> schlägt<lb/>
+ihnen vor, sie sollen mir einen Aktenvermerk in Persisch geben, den<lb/>
+ich dann dem Minister übergeben werde. Er hat in Iran grosse Bauaufträge<lb/>
+durchgeführt, kommt aber jetzt wegen der starken Inflation, 25 %, in immer<lb/>
+grössere Schwierigkeiten. Ausserdem zeigt sich dort die mangelnde Infra<lb break="no"/>struktur, die verstopften Häfen, die überlastete Eisenbahn und so weiter<lb/>
+dass die Durchführung von Aufträgen im Iran immer schwieriger wird. Ich<lb/>
+erkläre mich sofort bereit, alle österreichischen Firmen bei Minister<lb/>
+besuchen entsprechend zu unterstützen.<lb/>
+</p>
+            <p xml:space="preserve">In der Preiskommission versucht sowohl die Arbeiterkammer – <name type="person" ref="per:112010">Blaha</name> und<lb/>
+<name type="person" ref="per:115003">Weiss</name> – als auch Oberrat <name type="person" ref="per:111737">Marsch</name> ganz verzweifelt den Kalkulationsschema<lb break="no"/>ta der Landwirtschaft Gegenberechnungen entgegenzustellen. Der Versuch<lb/>
+von <name type="person" ref="per:112010">Blaha</name>, auf das Jahr 1972 zurückzugehen, dort hat die Berechnung<lb/>
+4,5 Groschen ergeben und das LWM hat 15 Groschen damals genehmigt,<lb/>
+weshalb er auf diesen Zeitpunkt bezogen jetzt nur eine 12-Groschen-<lb/>
+Milchpreiserhöhung errechnet, hat einen Fehler beinhaltet. <name type="person" ref="per:112010">Blaha</name><lb/>
+ist anständig genug, mich knapp vor der Sitzung mit den Bauern darauf<lb/>
+aufmerksam zu machen. Die Arbeiterkammer hat vergessen, dass bei Berück<lb break="no"/>sichtigung der Umstellung auf die Mehrwertsteuer die Bezugsbasis eine<lb/>
+andere war und deshalb nicht 12 gr, sondern über 20 herauskommen. Ähnlich<lb/>
+verhält es sich mit den Berechnungen von <name type="person" ref="per:111737">Marsch</name>. Er ist auf 17 gr gekommen<lb/>
+hat allerdings auch bei den Bezugsbasisjahr einen Fehler gemacht, sodass<lb/>
+die Landwirtschaftskammer bei entsprechender Korrektur auf 40 gr kommt.<lb/>
+Der grosse Vorteil bei meiner Information für die Gestehungskosten<lb break="no"/>berechnung, sei es zuerst von einzelnen Kollegen, dann aber auch in der<lb/>
+Preiskommission ist, dass ich doch neuere Details erfahre. Z.B. fällt<lb/>
+mir auf, dass man für die Gülle-Grube die entsprechenden Kosten ein<lb break="no"/>setzt, dass man aber aus der Kalkulation, wie wir sie in den Fünfziger-<lb/>
+Jahren gemacht haben, den Stallmist und die Gülle als Ertrag nicht<lb/>
+mehr rechnet.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:111737">MARSCH</name>: Wieso hat man darauf verzichtet?<lb/>
+</p>
+            <pb n="26-0762" facs="26_1975-06-20_0762.jpg"/>
+            <p xml:space="preserve">Stadtrat <name type="person" ref="per:123210">Heller</name> ruft mich an und teilt mir mit, dass er für die Fleisch<lb break="no"/>preisverhandlungen grosse Schwierigkeiten vorhersieht. Die Arbeiter<lb break="no"/>kammer verlangt eine Senkung der amtlich geregelten Preise und die<lb/>
+Fleischhauer erklären, dass sie plus 8,5 % brauchen. Zwischen ÖGB und<lb/>
+Arbeiterkammer meint <name type="person" ref="per:123210">Heller</name>, gibt es hier keine einheitliche Auffassung,<lb/>
+ich kann ihm nur empfehlen zuerst zu versuchen, zwischen Arbeiterkammer<lb/>
+und Gewerkschaft einen Akkord zu erzielen und dann erst die Verhandlungen<lb/>
+mit der Unternehmerseite aufzunehmen. Die erklären, sie zahlen die<lb/>
+vereinbarten Löhne nur, wenn sie eine entsprechende Preiskorrektur<lb/>
+erhalten.<lb/>
+</p>
+            <p xml:space="preserve">Die 6. österr. Raumordnungskonferenz ist für alle Beteiligten ein Greuel,<lb/>
+zumindestens habe ich diesen Eindruck mit den Funktionären mit denen<lb/>
+ich spreche. So etwas Formelles wie dort habe ich noch nie erlebt.<lb/>
+Die einzelnen Tagesordnungspunkte sind von der Stellvertreterkonferenz<lb/>
+wahrscheinlich in stundenlangen Beratungen diskutiert, die Raumordnungs<lb break="no"/>konferenz bekommt dann umfangreiches Elaborat insgesamt hat die<lb/>
+ÖROK im Jahre 1974 hunderttausende Kopien gemacht, wie sie selbst in<lb/>
+ihrem Tätigkeitsbericht sagt. Die Protokollierung erfolgt äusserst<lb/>
+penibel und selbstverständlich kommt es dann doch zu Formulierungs<lb break="no"/>kompromissen. Der einzige Vorteil ist, dass der erwartete Angriff der<lb/>
+Ländervertreter gegen die Bundesregierung ausbleibt. <name type="person" ref="per:97668">Kreisky</name> hat be<lb break="no"/>fürchtet, dass die ÖVP- Landeshauptleute die Gelegenheit nützen werden,<lb/>
+um vor den Wahlen jetzt die Bundesregierung hart zu attackieren.<lb/>
+Stattdessen wickelt sich die Konferenz derartig formell ab, dass ich<lb/>
+überrascht bin. <name type="person" ref="per:97668">Kreisky</name> erklärt bei dem Problem Donauausbau, er fährt<lb/>
+jetzt nach Bonn und wird dort besonders auf die Bedeutung des <choice><choice><sic>Donau-Rhein-<lb/>
+Main-Kanals</sic><corr>Rhein-Main-Donau-Kanals</corr></choice></choice> hinweisen. Alle sind entzückt und beschliessen, dass ihn<lb/>
+die Raumordnungskonferenz dort in ihrem Namen eine dringliche Fertig<lb break="no"/>stellung verlangt. Betreffend das Bergbauernförderungsgesetz des Land<lb break="no"/>wirtschaftsministeriums begnügt man sich auch darauf hinzuweisen, dass<lb/>
+doch mehr Koordiniert werden soll. Nachdem die Geschäftsführung der ÖROK<lb/>
+eine komplizierte Protokollierung vorschlägt, die niemanden befriedigt,<lb/>
+formuliert <name type="person" ref="per:97668">Kreisky</name>, man solle halt, nachdem die Begutachtung schon<lb/>
+eingeleitet ist, über einen Entwurf, den das Landwirtschaftsministerium<lb/>
+ausgesendet hat, ohne die Vorschläge der ÖROK zu berücksichtigen, nach<lb/>
+dem Begutachtungsverfahren noch einmal zu reden. Selbst <name type="person" ref="per:98048">Wallnöfer</name><lb/>
+ist mit dieser Formulierung einverstanden und alles ist eitel Wonne.<lb/>
+</p>
+            <pb n="26-0763" facs="26_1975-06-20_0763.jpg"/>
+            <p xml:space="preserve">Dem grossen Zampano gelingt es also, dass von der Raumordnungs<lb break="no"/>konferenz nicht eine Konfrontation mit der Regierung, sondern eine<lb/>
+vollkommene Harmonisierung erfolgt. Nach der Sitzung sage ich zu<lb/>
+<name type="person" ref="per:97668">Kreisky</name>, Du hast einen riesigen Angriff erwartet und genau das Gegen<lb break="no"/>teil ist herausgekommen. Hier kann ich nur sagen, die ÖVP muss wieder<lb/>
+her. <name type="person" ref="per:98034">Veselsky</name> hat ein wenig in seinem geschwollenen Stil beim OECD-<lb/>
+Bericht über die Raumordnung die Behauptung der Stellvertreter als<lb/>
+einen Unsinn bezeichnet. Ein leichtes Murren war die einzige Reaktion.<lb/>
+Wenn uns das in der Opposition passiert wäre, hätte ich als AK-Ver<lb break="no"/>treter schon allein bei diesem Punkt die Regierung zur "Sau" gemacht.<lb/>
+<name type="person" ref="per:131309">Bock</name> informierte mich, und ich wusste dies sowieso, dass <name type="person" ref="per:98034">Veselsky</name><lb/>
+bei der OECD-Prüfung versucht hatte, den Raumordnungsgedanken und<lb/>
+insbesondere die Bundeskompetenz zu stärken, indem er diesen Prüfungs<lb break="no"/>bericht verlangt hat und dann entsprechend beeinflussen wollte, damit<lb/>
+dieser sagt, es muss mehr Bundesraumordnung gemacht werden. Die<lb/>
+Länder wurden deshalb weder gefragt, noch entsprechend wirklich geprüft,<lb/>
+ja nicht einmal herangezogen. Vorarlberg bemerkte, dass sie nur Kosten<lb/>
+gehabt haben, um die Delegation herumzuführen und zu bewirten.<lb/>
+Dann noch die ungeschickte Erklärung von <name type="person" ref="per:98034">Veselsky</name>. Die ÖVP-Vertreter<lb/>
+aber rühren sich nicht. Einzig und allein der Vorarlberger Landes<lb break="no"/>amtsdirektor meckert ein klein wenig wegen diese Tatbestandes.<lb/>
+Wäre es härter geworden, habe ich einen guten Gag entdeckt. Die<lb/>
+einzige Dame, Frau Dr. <name type="person" ref="per:140659">Dorfwirth</name> von der Handelskammer, hätte mir<lb/>
+einen guten Grund abgegeben. Ihr Name war im Bericht aber als Teil<lb break="no"/>nehmerin bei diesen Tagungen als "Forfwirt" geschrieben, d.h. ein<lb/>
+typischer Druckfehler. Ich hätte gesagt, ich hätte volles Verständ<lb break="no"/>nis wenn man diesen Bericht entscheidend ablehnt, wenn im Jahre der<lb/>
+Frau die einzige, die in der ÖROK als Delegierte aufscheint, so<lb/>
+schlecht behandelt wird. Als nämlich das Gewitter nicht losbrach<lb/>
+und ich auf der Seite, wo sie sass, auf den Fehler aufmerksam machte,<lb/>
+und sagte, aus diesem Grund müsse man den Bericht ablehnen, hatte<lb/>
+ich die Lacher auf meiner Seite.<lb/>
+</p>
+            <p xml:space="preserve">Bei den Besprechungen mit den Bauern, versuchte ich auch mit einem<lb/>
+gespielten Gag über die Schwierigkeit hinwegzukommen. Gen.Sekr.<lb/>
+<name type="person" ref="per:97368">Brandstätter</name> bemerkte zurecht, dass jetzt wochenlang über die Milch<lb break="no"/>preisanträge und deren Berechnungen verhandelt wurde. Die Ergebnisse<lb/>
+zeigen eindeutig, dass sie 40 gr und mehr mit Recht verlangen können.<lb/>
+Ich biete ihnen dann aber nur 20 gr an. Er meinte, die Verhandlungen<lb/>
+<pb n="26-0764" facs="26_1975-06-20_0764.jpg"/>seien ein Theater und es sei schade um die Zeit, die die LWK-<lb/>
+Vertreter der Präsidentenkonferenz dort verbringen. Ganz unrecht<lb/>
+hat er nicht, doch durfte ich dies natürlich nicht zugeben. Ich<lb/>
+erklärte deshalb, eine Preiskommission ist keine Löwinger-Bühne<lb/>
+sondern hat die Aufgabe alle Anträge entsprechend genau zu prüfen.<lb/>
+Dies geschieht nicht nur mit dem Antrag der Präsidentenkonferenz<lb/>
+sondern auch mit denen der Arbeiterkammer aber natürlich aus des<lb/>
+Allgemeinen Bauernverbandes. Ich sehe mich veranlasst, die Objektivi<lb break="no"/>tät zu wahren und wie MR <name type="person" ref="per:112011">Kurzel</name> auch in der Preiskommission genau<lb/>
+erklärte, dass eben gewissenhaftest selbst der des allgemeinen Bauern<lb break="no"/>verbandes auf 1.38 Preiserhöhung zu prüfen ist und zu behandeln ist.<lb/>
+Für mich war vollkommen klar, dass die Bauern die 20 gr Anbot keines<lb/>
+falls akzeptieren und <name type="person" ref="per:97668">Kreisky</name> hat deshalb dann vorgeschlagen, man<lb/>
+wird noch einmal über die ganze Problematik reden. Bei Getreide dagegen<lb/>
+hat die Landwirtschaft bis jetzt schon eingesehen, dass eine Er<lb break="no"/>höhung des Mehl- und Brotpreises vor Feber nächsten Jahres nicht in<lb/>
+Frage kommt. Sie schlagen deshalb vor, nachdem der Weizenvorrat<lb/>
+bis Jänner und der Roggen-Vorrat bis Dezember reicht, die jetzigen<lb/>
+Vorräte den Mühlen kontingentiert zuzuweisen, sodass man erst im<lb/>
+Jänner dann einen neuen Brot- und Gebäckpreis und Mehlpreis fest<lb break="no"/>setzen muss. Ich selbst plädiere dafür, dass man den seinerzeitigen<lb/>
+<name type="person" ref="per:140616">Leopold</name>-Plan, wonach nur Qualitätsweizen erhöht werden kann, ohne<lb/>
+dass eine Brot- und Mehlpreiserhöhung erfolgen muss, weil die<lb/>
+Qualitätsweizenpreiserhöhung von den Mühlen durch andere Ausmahlung<lb/>
+zu tragen ist, verhandelt werden sollte. <name type="person" ref="per:97668">Kreisky</name> neigt aber mehr<lb/>
+zur Lösung des Landwirtschaftskammervorschlages, da er darin eine<lb/>
+grössere Befriedigung der Bauern erblickt. Er wird sich allerdings<lb/>
+damit nur grössere Schwierigkeiten aufhalsen, denn ich bin über<lb break="no"/>zeugt, dass das Kontingentieren und Zuteilen nicht funktionieren<lb/>
+wird. Darüber hinaus sollen die Vorräte auch nicht bis zu diesem<lb/>
+Zeitpunkt reichen sondern wahrscheinlich schon früher aufgebraucht<lb/>
+sein. Ausserdem wird es schwierig sein, den Mühlenvorrat entsprechend<lb/>
+zu berücksichtigen und zu lenken. Generell mag das alles sehr leicht<lb/>
+erscheinen, im Details wird es dann unvergleichliche Schwierigkeiten<lb/>
+geben. Einigen konnte man sich sofort über die Vieh-Situation,<lb/>
+weil die Landwirtschaft bereit ist, dieselbe Formulierung wie 1974<lb/>
+zu akzeptieren. Damals hiess es, die Regierung wird eine positive<lb/>
+Absatzpolitik betreiben und entsprechende Zuschüsse leisten. <name type="person" ref="per:97311">Androsch</name><lb/>
+war nicht anwesend, diese Formulierung kostet ihn aber wieder ein<lb/>
+ganze- schönes Geld. Bezüglich der Sozialversicherungswünsche<lb/>
+<pb n="26-0765" facs="26_1975-06-20_0765.jpg"/>hat <name type="person" ref="per:97525">Häuser</name> wie immer sehr mit Zahlen ausgestatteten Bericht ge<lb break="no"/>bracht, welchen <name type="person" ref="per:97368">Brandstätter</name> allerdings mit anderen Zahlen wider<lb break="no"/>legte. Hier stehen eben Meinung gegen Meinung. <name type="person" ref="per:115595">Reiter</name>, der neben<lb/>
+mir sass, meinte, er wundert sich wie die andere Seite dann gar<lb/>
+nicht konkrete Erklärungen des Bundeskanzlers mehr oder minder<lb/>
+akzeptierte, indem dieser feststellte man werde über das Ganze noch<lb/>
+einmal sprechen, es müsste sich eine Lösung abzeichnen, indem man<lb/>
+entsprechende Erklärungen vereinbart, niemals aber konkret fest<lb break="no"/>stellte, dass und dass geschehen soll. Ich musste wegen des<lb/>
+ägyptischen Ministers <name type="person" ref="per:140592">Osman</name> früher weggehen, bin aber überzeugt<lb/>
+dass es nichts anderes als Resultat gab als eine neuerliche Sitzung.<lb/>
+</p>
+            <p xml:space="preserve">Mit dem polnischen Vizeminister, dem Generaldirektor von der Ge<lb break="no"/>mischten Kommission, den polnischen Botschafter und Handelsrat be<lb break="no"/>sprach <name type="person" ref="per:97426">Fälbl</name> und ich die Wünsche der polnischen Seite für das<lb/>
+Kooperationsabkommen zwischen Steyr-Daimler-Puch und der polnischen<lb/>
+Firma eine Zollreduzierung resp. Freistellung zu bekommen. Wir<lb/>
+erklärten ihnen dass auf Grund des § 6 unseres Zollgesetzes, den<lb/>
+ich Gott sei Dank auch griffbereit in meiner Bibliothek hatte,<lb/>
+nur auf individuellen Antrag der Firma eine entsprechende Zoller<lb break="no"/>mässigung in Frage kommt. Die polnische Seite wünscht aber eine<lb/>
+Vereinbarung auf Regierungsebene. Sowohl der Finanzminister als auch<lb/>
+ich sind brennend daran interessiert dass es in dieser Kooperation<lb/>
+auch für diesen Punkt eine positive Lösung gibt. Natürlich können<lb/>
+wir das Gesetz nicht ausser Kraft setzen. Die Finanzbürokratie<lb/>
+verlangt deshalb einen einigermassen rechtlich einwandfreien Weg.<lb/>
+Dieser kann nur im Einzelantrag von der Firma, auch nicht wie die<lb/>
+Polen wünschen auf 15 Jahre einmal gestellt werden. <name type="person" ref="per:97426">Fälbl</name> wird mit<lb/>
+dem Finanzministerium verhandeln um zu einer tragbaren Lösung zu komme<lb/>
+Sowohl <name type="person" ref="per:97426">Fälbl</name> als ich wussten dass Steyr-Daimler-Puch gar nicht bis<lb/>
+jetzt die Absicht hatten, solche Zollermässigungen zu verlangen.<lb/>
+Sie befürchteten nämlich dass dann auch für andere Konkurrenz<lb break="no"/>produkte für sie ähnliche Regelungen Platz greifen würden. Insbe<lb break="no"/>sondere befürchten sie von der Firma MANN Deutschland, hier grosse<lb/>
+Schwierigkeiten.<lb/>
+</p>
+            <p xml:space="preserve">Der Minister <name type="person" ref="per:140592">Osman</name> hat mir gleich im kleinsten Kreis versichert,<lb/>
+dass Präsident <name type="person" ref="per:112568">Sadat</name> Österreich bewundert, von Kanzler <name type="person" ref="per:97668">Kreisky</name><lb/>
+<pb n="26-0766" facs="26_1975-06-20_0766.jpg"/>begeistert ist und erwartet, dass die Kooperation und die Wirt<lb break="no"/>schaftsbeziehungen zwischen Ägypten und Österreich sich wesentlich<lb/>
+verbessern. <name type="person" ref="per:140592">Osman</name> wurde vor seinem Abflug noch von <name type="person" ref="per:112568">Sadat</name> empfangen<lb/>
+und mit entsprechenden Aufträgen wie er der Presse gegenüber<lb/>
+äusserte versehen. In der ägyptischen Presse sei dann auch gestan<lb break="no"/>den, wie <name type="person" ref="per:140293">Maschke</name>, der österreichische Botschafter in Kairo, be<lb break="no"/>richtet, dass Österreich 50 Millionen Dollar den Ägyptern zur Ver<lb break="no"/>fügung stellt. <name type="person" ref="per:97668">Kreisky</name> meinte mir gegenüber dies sei in Irrtum<lb/>
+und es könne sich höchstens um 10% Kredithilfe handeln, die er zur<lb/>
+Verfügung stellen möchte. Die Ägypter haben aber im Rahmen des<lb/>
+UNDP für 3 Milliarden Pfund, d.s. 100 Milliarden Schilling Projekte<lb/>
+eingereicht und erwarten daher einen gewissen <choice><choice><sic>Prozentansatz</sic><corr>Prozentsatz?</corr></choice></choice> als<lb/>
+Hilfe. Im UNDP sagt <name type="person" ref="per:98034">Veselsky</name> gibt es aber nur Geschenke. Ich hoffe<lb/>
+er hat dies auch <name type="person" ref="per:97668">Kreisky</name> gesagt. Ich bin schon sehr gespannt wie<lb/>
+<name type="person" ref="per:97668">Kreisky</name> sich aus dieser Schlinge herausziehen wird. Ich habe ihm<lb/>
+vorgeschlagen, die beste Lösung ist wir übernehmen die Projekt<lb break="no"/>kosten für den Tunnelbau. Unsere Firmen werden dadurch die Planung<lb/>
+durchführen, ohne dass sie eigentlich den Ägyptern diesen Betrag<lb/>
+aufrechnen müssen. Die Feasibility study und die Detailplanungen<lb/>
+kosten ca. 3% der Bausumme, dies sind auch immerhin fast 50 Millionen<lb/>
+Schilling mindestens. Wenn der Auftrag dann nach Österreich fällt,<lb/>
+können sie einen Grossteil in die Kosten einrechnen und die öster<lb break="no"/>reichische Regierung müsste nur einen verschwindenden Prozent<lb break="no"/>satz dann leisten.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="26_0759_05" facs="26_1975-06-20_0759-05.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 20.6.1975</head>
+         </div>
+      </back>
+   </text>
+</TEI>

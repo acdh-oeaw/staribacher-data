@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der 25. März 1977 bis Sonntag, der 27. März 1977</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band35_1977-03-25</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date from="1977-03-25" to="1977-03-27">Freitag, 25. März 1977 bis Sonntag, 27. März 1977</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-03-05">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="35-0347" facs="35_1977-03-25_1977-03-27_0347.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Freitag, 25. März, und Samstag, den 26. März 1977<lb/>
+</p>
+            <p xml:space="preserve">Die Aussprache mit <name type="person" ref="per:97457">Friderichs</name> und <name type="person" ref="per:97375">Brugger</name> in München brachte das<lb/>
+von mir erwartete Ergebnis.Keine allzu grosse Publicity, auch<lb/>
+nicht allzu viele wirklich neue Erkenntnis. Trotzdem ist es meiner<lb/>
+Meinung nach zweckmässig, diese Aussprache abzuführen, weil ich<lb/>
+doch dadurch Gelegenheit habe, konkrete Wünsche direkt <name type="person" ref="per:97457">Friderichs</name><lb/>
+mitzuteilen. Die Deutschen erwarten 1977 denselben guten Konjunktur<lb break="no"/>verlauf wie 1976, auch mit der hohen Arbeitslosenziffer. Die Schweizer<lb/>
+selbst haben nach wie vor grosse Probleme ihre Konjunktur einiger<lb break="no"/>massen anzukurbeln. Die Schweizer haben 4 bis 5 Mia. in die Wirtschaft<lb/>
+gepumpt, trotzdem einen grossen Wettbewerbsverlust nicht zuletzt<lb/>
+durch die exorbitante Schweizer-Franken-Aufwertung auch gegenüber der<lb/>
+DM, wo allerdings in der letzten Zeit eine Erleichterung eingetreten<lb/>
+ist. Die Deutschen werden bis 1980 14 Mia. DM, allerdings grössten<lb break="no"/>teils für Infrastrukturmassnahmen in die Wirtschaft pumpen. 8 Mia.<lb/>
+der Bund, 4 Mia. die Länder, 2 Mia. die Gemeinden. <name type="person" ref="per:97457">Friderichs</name> und<lb/>
+<name type="person" ref="per:97375">Brugger</name> sind Liberale, weshalb sie auch ihre Wirtschaftspolitik<lb/>
+unter diesen Gesichtspunkten immer wieder sehen. Z.B. meinte <name type="person" ref="per:97457">Friderichs</name><lb/>
+hätten sie nicht eine so überbewertete DM gehabt, dann hätte man sich<lb/>
+nicht vom Volkswagenwerk und anderen grossen Unternehmungen auf die<lb/>
+Exporte nach Amerika so eingestellt, dass sie jetzt als die DM<lb/>
+gegenüber dem Dollar sich festigte, in grosse Schwierigkeiten mit<lb/>
+ihren Experten kamen. Die Billigstwaren aus den Entwicklungsländern,<lb/>
+meinte <name type="person" ref="per:97457">Friderichs</name>, müsste man auf alle Fälle dem Markt in Europa und<lb/>
+ganz besonders in Deutschland offenhalten. Wenn auch die Industrie<lb/>
+dadurch in eine harte Konkurrenzsituation kommt, wird man früher<lb/>
+oder später doch die deutsche Qualität auch in Deutschland wieder<lb/>
+mehr wünschen und kaufen. Neckermann sei nicht zuletzt pleitegegangen<lb/>
+weil er sich nur auf diese Billigstqualität eingestellt hat.<lb/>
+<name type="person" ref="per:97457">Friderichs</name> meinte auch, es gäbe exportseitig für die KWU gute Mög<lb break="no"/>lichkeiten mit Österreich und der Schweiz Drittmarktgeschäfte zu<lb/>
+machen. Ein typische Beispiel die Portugiesen sollen jetzt von<lb/>
+Deutschland 1.5 DM ein Atomkraftwerk bekommen. Deutschland<lb/>
+würde sich nur für 570 Mio. DM interessieren, der Rest könnte durch<lb/>
+Beteiligung Österreichs nach Österreich vergeben werden. <name type="person" ref="per:97457">Friderichs</name><lb/>
+könnte sich auch vorstellen, dass man Jugoslawien eine bessere Hilfe<lb/>
+gibt und um sie nicht jetzt einmal wirtschaftlich wieder in die<lb/>
+Hände der Sowjetunion zurückzustossen. Er könnte sich gut vor<lb break="no"/>stellen, dass in der Provinz <choice><choice><sic>Kosanu</sic><corr>Kosovo?</corr></choice></choice>, wo grosse Braunkohlenvorkommen<lb/>
+<pb n="35-0348" facs="35_1977-03-25_1977-03-27_0348.jpg"/>im Tagbau abgebaut werden können, ein Dampfkraftwerk gemeinsam<lb/>
+errichtet wird. Ich habe sofort zugesagt, wir würden ähnlich wie<lb/>
+mit Polen, wenn es zu diesen Projekt kommt, die Bezahlung für<lb/>
+Deutschland und Österreich in Strom akzeptieren können.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name> UND <name type="person" ref="per:107937">FRANK</name>: Bitte sich mit den deutschen Referenten<lb/>
+<name type="person" ref="per:146016">Schiel</name> und <name type="person" ref="per:146017">Brulach</name> diesbezüglich ins Einvernehmen setzen.<lb/>
+</p>
+            <p xml:space="preserve">Ich schilderte unsere Handelsbilanzsituation und verlangte von<lb/>
+<name type="person" ref="per:97457">Friderichs</name>, dass er uns unterstützt, dieses Handelsbilanzpassivum<lb/>
+von 50 Mia. Schilling, das fast dem gesamten Handelsbilanzdefizit<lb/>
+Österreichs entspricht etwas unternimmt. Er erklärte sich sofort<lb/>
+bereit mit den Autofirmen, insbesondere Volkswagenwerk, wo der<lb/>
+deutsche Staat beteiligt ist zu reden, damit Mehrlieferung von<lb/>
+österreichischen Firmen erfolgen können. Die idealste Lösung<lb/>
+allerdings meinte er so wie Daimler-Benz und Steyr-Daimler-Puch<lb/>
+den neuen Geländewagen gemeinsam in Kooperation erstellen. Aus<lb/>
+seinen Nebenbemerkungen entnahm ich, dass er für den Austria-Porsche<lb/>
+keine allzu grosse Zukunft sieht. Porsche hat auch für OPEC-Länder<lb/>
+solche Studien ausgearbeitet. Diese Mitteilung war mir zumindestens<lb/>
+neu. <name type="person" ref="per:97457">Friderichs</name> teilte mir auch mit, dass Iran jetzt, um sein teures<lb/>
+Erdöl absetzen zu können, für jede Grossaufträge, die er reinnimmt,<lb/>
+50 % Ölkompensation verlangt und Petrofina Belgien mussten sich bei<lb/>
+einem Grossprojekt bereits darauf einstellen. Schwierig wird es<lb/>
+für <name type="person" ref="per:97457">Friderichs</name> nur, den Kompensationspartner für die Ölabnahme in<lb/>
+Deutschland zu finden. In der Ölfirma VEBA ist der Staat nur zu 40 %<lb/>
+beteiligt. Die Privaten denken nicht daran solche Ölverluste für<lb/>
+die deutsche Exportindustrie zu übernehmen.<lb/>
+</p>
+            <p xml:space="preserve">Eine lange Diskussion nahm zwischen <name type="person" ref="per:97457">Friderichs</name> und seinen Aussen<lb break="no"/>wirtschafts-Min.Rat <name type="person" ref="per:146018">Müller</name> sowie <name type="person" ref="per:97375">Brugger</name> und seinem Mann <name type="person" ref="per:118681">Jolles</name>,<lb/>
+die Verhandlungen des Nord-Süddialoges statt. In Deutschland haben<lb/>
+sich die Devisenreserven auch 76 wieder erhöht. <name type="person" ref="per:97457">Friderichs</name> und<lb/>
+<name type="person" ref="per:146018">Müller</name> befürchten daher eine Gefahr der Vergemeinschaftung.Dieser<lb/>
+Neubegriff wurde mit erklärt, ist die Tendenz aller EG Länder den<lb/>
+Devisenzufluss Deutschlands irgendwie zu lukrieren. Überhaupt hatte<lb/>
+ich bei dieser Aussprache den Eindruck, dass sowohl in der Schweiz<lb/>
+als auch ganz besonders in Deutschland auf der einen Seite die libe<lb break="no"/>rale Politik die Arbeitslosigkeit nicht lösen kann, dies gilt für Deutsch<lb break="no"/><pb n="35-0349" facs="35_1977-03-25_1977-03-27_0349.jpg"/>land und in der Schweiz die Wirtschaftsankurblung nicht gelingt<lb/>
+da man sich doch zu grösseren Eingriffen nicht bereit findet, oder<lb/>
+sie wie in der Devisensituation der Schweiz mangels gesetzlicher<lb/>
+Grundlage nicht durchführen kann. Hier ist Österreich in einer<lb/>
+besseren Situation. Beim Nord-Süd-Dialog mit <name type="person" ref="per:97457">Friderichs</name> hat angeblich<lb/>
+Bundeskanzler <name type="person" ref="per:114106">Schmidt</name> schon vor längerer Zeit aufmerksam gemacht<lb/>
+dass sie den Entwicklungsländern etwas anbieten müssen. Wenn sie<lb/>
+schon nicht den gemeinsamen Rohstoff-Fonds, wie Korea es wünscht,<lb/>
+mit Haushaltsmitteln anfüllen, so müssen sie doch einen gemeinsamen<lb/>
+Fond gleichzeitiger Parallelität von Rohstoffabkommen mit den ein<lb break="no"/>zelnen Ländern zustimmen. Das Ziel müsste Versorgungssicherheit<lb/>
+bei Preisstabilität an Hand von konkreten Rohstoffabkommen sein.<lb/>
+Die Schweizer stossen für ihre Konjunkturpolitik auf finanzielle<lb/>
+Grenzen, weil sie beim letzten Referendum keine Zustimmung für ihre<lb/>
+Erhöhung der Haushaltsmittel bekommen haben. Die Deutschen wieder<lb/>
+dürfen Kreditaufnahmen netto nur dann tätigen, soweit es sich um<lb/>
+Investitionen handelt. <name type="person" ref="per:97457">Friderichs</name> und <name type="person" ref="per:97375">Brugger</name> befürchten ausserdem,<lb/>
+dass sich eine internationale Bürokratie entwickeln wird, wie dies<lb/>
+auch im starken Ausmass bei der Europäischen Gemeinschaft entstanden<lb/>
+ist. Viel Dirigismus im internationalen Rahmen, damit auch viel<lb/>
+Bürokratie. Da auch ich angesprochen wurde, obwohl wir an der Nord-<lb/>
+Süd-Dialog direkt gar nicht beteiligt sind, erörterte ich den Plan<lb/>
+<name type="person" ref="per:97668">Kreiskys</name>, einen gross angelegten Marshallplan ähnliche Lösung<lb/>
+für die Entwicklungsländer. Beide Gesprächspartner haben dies nur<lb/>
+zur Kenntnis genommen und sich nicht dazu geäussert. Im Grunde<lb/>
+genommen fürchten sie glaube ich auch, bei dieser Lösung eine<lb/>
+entsprechende Verbürokratisierung und riesige internationale Or<lb break="no"/>ganisation, ohne dass sie dies allerdings sagten.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97457">Friderichs</name> fürchtet für die Montan-Union, dass dort Quoten<lb/>
+Krisenartikel 56 resp. Mindestpreise Art. 6l des Montan-Union-Vertrages<lb/>
+ohne dass Deutschland zustimmt, eingeführt werden. Dort hat zum<lb/>
+Unterschied vom EG-Vertrag die Kommission alle Möglichkeiten. <name type="person" ref="per:118681">Jolles</name><lb/>
+berichtet, dass die Japaner jetzt mit Deutschland ein Selbstbeschrän<lb break="no"/>kungsabkommen auf dem Stahlsektor machen und die Schweiz nicht gerne<lb/>
+hätte, wenn Deutschland jetzt mit den Japanern auch über die Auf<lb break="no"/>lagen gegenüber der Schweiz verhandeln würden. Die Europäische Ge<lb break="no"/>meinschaft ist ein Stahl-Netto-Exporteur mit ungeheuren differenten<lb/>
+Kostensituationen. Deutschland erzeugt bei Thyssen äusserst preis<lb break="no"/>günstig, die Franzosen bei ............. mit 4 Mia. Subvention in<lb/>
+<pb n="35-0350" facs="35_1977-03-25_1977-03-27_0350.jpg"/>der Stahlindustrie und insbesondere mit den alten Werken in Lothringen<lb/>
+äusserst teuer. Die Schweiz stosst bei jedem Problem immer wieder<lb/>
+auf die Schwierigkeit des Referendum. Dies gilt ganz besonders für<lb/>
+ihre internationalen Verpflichtungen, die sie früher oder später<lb/>
+gegenüber den Entwicklungsländern eingehen muss. Anstelle neuer<lb/>
+Leistungen, die man den Entwicklungsländern wird ermöglichen müssen,<lb/>
+wäre der Schweiz lieber, wenn die alten Schulden ganz einfach ge<lb break="no"/>strichen werden. Dort hat sie aber wieder aus prinzipiell liberalen<lb/>
+Gründen die grosse Schwierigkeit, dass sie nicht weiss, wo dann<lb/>
+noch weitere Schulden, Entwicklungsländer oder sonstiger Staaten<lb/>
+ebenfalls gestrichen werden müssten. Die Beispielfolgen sind für<lb/>
+einen Liberalen katastrophal. Deutschland geht es ähnlich mit dem<lb/>
+Gegensatz in dieser Frage mit Frankreich. Überhaupt hat <name type="person" ref="per:97457">Friderichs</name><lb/>
+ganz freimütig erklärt, dass innerhalb der europäischen Gemein<lb break="no"/>schaft ungeheure Spannungen existieren, nicht zuletzt wegen des<lb/>
+Agrarmarktes, die die Gemeinschaft fast unbeweglich machen.Sarkastisch<lb/>
+meinte <name type="person" ref="per:97457">Friderichs</name> hätte er sich nicht immer wieder um eine Lösung<lb/>
+auch des Agrarmarktes bemüht und irgendwelche Kompromisse gefunden,<lb/>
+dann wäre der Agrarmarkt jetzt schon zusammengebrochen und dies<lb/>
+wäre vielleicht die bessere Lösung als das jetzige weiterwurschtln.<lb/>
+Ohne dass ich es sagte, auch nicht einem Reporter dann gegenüber<lb/>
+der mich dezidiert fragte, können wir nur glücklich sein, dass wir<lb/>
+nicht in der Europäischen Gemeinschaft stärker verankert sind.<lb/>
+<name type="person" ref="per:97311">Androsch</name> soll dies angeblich den Reporter gegenüber von der DPA<lb/>
+einmal bei einer Aussprache die er mit dem Finanzminister hat,<lb/>
+geäussert haben. Ich sehe den Zweck solcher Aussprache nicht darin die<lb/>
+besondere bessere Situation Österreichs in vielen Punkten hervorzu<lb break="no"/>streichen, sondern gegebenenfalls mit kleinen Wünschen unsere Export<lb break="no"/>situation zu verbessern.<lb/>
+</p>
+            <p xml:space="preserve">Interessant war abends die Vorführung der Lach- und Schiessgesellschaft<lb/>
+Ein kleines Lokal, noch dazu teils mit Tischen, war gesteckt voll.<lb/>
+Sehr unbequem zu sitzen, eine furchtbar rauchig und daher stickige<lb/>
+Luft, gab es eine brillante Kritik der deutschen Zustände. So ein<lb/>
+Kabarett würden wir auch in Österreich dringendst brauchen.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Eröffnung der Handwerksmesse kam es zu den erwarteten<lb/>
+Dialog zwischen den Präsidenten des deutschen Handwerkes <name type="person" ref="per:125379">Schnitker</name><lb/>
+mit <name type="person" ref="per:97457">Friderichs</name>. <name type="person" ref="per:125379">Schnitker</name> hat hart attackiert, obwohl er zugeben<lb/>
+musste, dass <name type="person" ref="per:97457">Friderichs</name> ideell der Unternehmensphilosophie nicht nur<lb/>
+<pb n="35-0351" facs="35_1977-03-25_1977-03-27_0351.jpg"/>nahesteht, sondern diese auch vertritt. <name type="person" ref="per:97457">Friderichs</name> konnte aber dann<lb/>
+auch bei seiner Erwiderung doch nur immer mehr oder minder die<lb/>
+deutsche Regierungspolitik vertreten. Was nützt es ihm, wenn<lb/>
+er darauf hinwies, dass er oft anderer Meinung ist und den For<lb break="no"/>derungen des Handwerkes volles Verständnis gegenüber bringt.<lb/>
+Die Schwierigkeit mit ........... der Steuerwünsche, die Notwendig<lb break="no"/>keit den Eingriff des Staates doch zu begründen und vieles mehr<lb/>
+war für mich typisch. Die Koalition zwingt die FDP doch gewisse<lb/>
+Zustimmungen zu geben, auch dann wenn es für sie contre-coeur ist.<lb/>
+Das typischste Beispiel ist das neue Berufsausbildungsgesetz.<lb/>
+Hier sprach man von Verstaatlichung der Lehrlingsausbildung und<lb/>
+der Präsident des Handwerkes meinte ganz provokant, gegen dieses<lb/>
+Gesetz müsse man jetzt nicht mehr kämpfen, das geht von allein<lb/>
+zu Grunde. Hier hat die Koalition glaube ich gegen die CDU, CSU<lb/>
+tatsächlich einen Pyrrhus-Sieg errungen. Die vorgesehene Fonds<lb break="no"/>lösung kann in Deutschland auch nicht scheinbar zustande kommen<lb/>
+und schon gar nicht funktionieren. Gleichzeitig wurde bei dem Rund<lb break="no"/>gang dann von Jugendlichen ein Transparent gezeigt, 10.000 Lehr<lb break="no"/>plätze in München fehlen. Die Jugendarbeitslosigkeit innerhalb<lb/>
+Deutschlands ist nämlich auch verheerend. Die Unternehmervertreter<lb/>
+verlangen Leistung, wollen auch das Leistung honoriert wird, wenden<lb/>
+sich daher ganz besonders gegen die deutsche Schule und gegen die<lb/>
+Beschlüsse der Bonner-Regierung. <name type="person" ref="per:97457">Friderichs</name> muss dies mehr oder<lb/>
+minder vertreten. Verteidigen tut er es wahrlich nur mit halben<lb/>
+Herzen. Die Ansprachen dauerten 2 Stunden, waren aber für mich<lb/>
+sehr interessant weil sie ähnlich wie ich dies in Innsbruck und<lb/>
+Graz mache, auch stets Dialoge zwischen den konservativen Landes<lb break="no"/>regierungen und der Bundesregierung sind. Ich habe nur eine<lb/>
+wesentlich günstigere Ausgangsposition als <name type="person" ref="per:97457">Friderichs</name>. Dies ist<lb/>
+teilweise ideell bedingt, teilweise aber auch durch die wesentlich<lb/>
+günstigere wirtschaftliche Situation für mich leichter.<lb/>
+</p>
+            <p xml:space="preserve">Nachdem ich <name type="person" ref="per:97457">Friderichs</name>, aber auch <name type="person" ref="per:121042">Strauss</name> beim Österreich-Pavillon<lb/>
+begrüsst habe, bin ich unverzüglich, nachdem ich auch noch die<lb/>
+Tiroler und oö. Ausstellung besuchte nach Linz zurückgereist.<lb/>
+München, das muss ich sagen, machte auf mich den saubersten Eindruck,<lb/>
+den ich seit langem von einer Stadt hatte. Wien ist dagegen wirklich<lb/>
+verdreckt.<lb/>
+</p>
+            <pb n="35-0352" facs="35_1977-03-25_1977-03-27_0352.jpg"/>
+            <p xml:space="preserve">In Linz kam ich gerade noch zur Abschlussansprache, für die<lb/>
+mich <name type="person" ref="per:97356">Blecha</name> besonders gebeten hat. <name type="person" ref="per:97311">Androsch</name> und die anderen<lb/>
+waren eigentlich alle schon weg. Natürlich berichtete ich<lb/>
+gleich ganz kurz über die Münchner-Situation, insbesondere<lb/>
+die Eröffnung der Handwerksausstellung und die ideellen<lb/>
+Gegensätze, die ich gegenüber Österreichsystem besonders heraus<lb break="no"/>strich.<lb/>
+</p>
+            <p xml:space="preserve">Abends hat <name type="person" ref="per:97668">Kreisky</name> einen Empfang für die Gemeinde und Delegierten<lb/>
+gegeben. <name type="person" ref="per:97879">Rösch</name> und ich stellten uns in der langen Reihe mit<lb/>
+hunderten Eingeladenen an, während <name type="person" ref="per:97879">Rösch</name> mir mitteilte, dass<lb/>
+<name type="person" ref="per:108224">Lütgendorf</name> sich sofort vorgearbeitet hat. Als wir dann als eine<lb/>
+der letzten bei <name type="person" ref="per:97668">Kreisky</name>-Empfangslinie erschienen, war tatsächlich<lb/>
+nicht nur <name type="person" ref="per:108224">Lütgendorf</name>, sondern auch andere aufgefädelt und haben<lb/>
+allen der Delegierten die Hand gegeben. Die österreichischen Dele<lb break="no"/>gierten haben die Gewohnheit immer überaus pünktlich zu sein,<lb/>
+weshalb sich schon vor 6 die Tausend Delegierten eingefunden<lb/>
+haben. Entweder man drängt sich vor, oder man landet dann mit den<lb/>
+anderen Schritt für Schritt. Mir war das letztere sehr recht,<lb/>
+da ich mit <name type="person" ref="per:97879">Rösch</name> ein wenig plaudern konnte. Dieser spürt immer<lb/>
+deutlicher, dass er früher oder später das Verteidigungsressort<lb/>
+wird übernehmen müssen. Freude hat er damit keine. 1970 wäre es<lb/>
+für ihm noch eine grosse Herausforderung gewesen. Als Parteisoldat<lb/>
+wird er allerdings auch diese Aufgabe – wenn sie ihm übertragen wird –<lb/>
+übernehmen und davon bin ich überzeugt, auch bestens erfüllen.<lb/>
+Typisch für <name type="person" ref="per:97879">Rösch</name> war es nur, dass er nach dem offiziellen Empfang<lb/>
+als das Essen dort begann, sofort wieder gegangen ist und ich ihm<lb/>
+dann abends beim ARBÖ vor dem dortigen offiziellen Essen im Gast<lb break="no"/>haus ein Paar Würstel verschlingen sah. <name type="person" ref="per:97879">Rösch</name> liebt seine bisherige<lb/>
+Lebensweise, bevor er Minister wurde, und möchte sie auch in dieser<lb/>
+Frage bin ich ihm sehr ähnlich.<lb/>
+</p>
+            <pb n="35-0353" facs="35_1977-03-25_1977-03-27_0353.jpg"/>
+            <p xml:space="preserve">Sonntag, 27. März 1977<lb/>
+</p>
+            <p xml:space="preserve">Beim Bundestag des ARBÖ hielt ich nicht nur eine Begrüssungs<lb break="no"/>ansprache, sondern weil zwischendurch die Abstimmung erfolgte<lb/>
+ein Kurzreferat. Selbstverständlich berichtete ich über die<lb/>
+Benzinpreisverhandlungen, die jetzigen Bemühungen bei ausländischen<lb/>
+Autoproduzenten grössere Österreichlieferungen unterzubringen und<lb/>
+über die Schiedsgerichte, die jetzt in den Bundesländern errichtet<lb/>
+werden sollen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name>: Wie geht es überhaupt mit dieser Frage jetzt<lb/>
+endgültig weiter?<lb/>
+</p>
+            <p xml:space="preserve">Über das neue Porsche-Auto habe ich nur erklärt, die neue Studie<lb/>
+nicht zu kennen und mich daher in keiner Weise festgelegt. <name type="person" ref="per:97668">Kreisky</name>,<lb/>
+erzählte man mir, hat am Vortag dieses Projekt sehr im Detail positiv<lb/>
+geschildert.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97819">PLESCH</name>: Bitte versuche jetzt inoffiziell diese Studie<lb/>
+zu bekommen.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Eröffnung der Damenmodewoche ist sowohl Fachverbandobmann<lb/>
+für die Bekleidungsindustrie <name type="person" ref="per:116977">Elias</name>, als auch der Sekretär Dr.<lb/>
+<name type="person" ref="per:115012">Catharin</name> händeringend zu mir gekommen, ich sollte bei meiner Ansprache<lb/>
+nichts über die Importsituation Österreichs sagen. Sehr zum Unter<lb break="no"/>schied von den vergangenen, ich glaube über ein Dutzend Eröffnungen,<lb/>
+wo es immer zu einem Dialog zwischen <name type="person" ref="per:116977">Elias</name> und mir gekommen ist,<lb/>
+wollte man diesmal die Aussteller, wie man sagte, nicht verunsichern.<lb/>
+Deshalb hat <name type="person" ref="per:116977">Elias</name> überhaupt nicht gesprochen, sondern nach der<lb/>
+Begrüssung von Gen.Dir. <name type="person" ref="per:115005">Hintschig</name>, der ein Messegesetz verlangte,<lb/>
+und ganz kurzen Worten <name type="person" ref="per:107940">Dittrichs</name> konnte ich nur mehr auf das<lb/>
+neue System der Eröffnung verweisen. Anstelle von Dialogen und langen<lb/>
+Reden diesmal eine Modeschau. Nur auf die Forderung bezüglich des<lb/>
+Messegesetzes ging ich ein und erklärte, dass die Handelskammer,<lb/>
+<name type="person" ref="per:107940">Dittrich</name> hat mir dies vorher ausdrücklich bestätigt, gegen ein<lb/>
+Messegesetz ist. Ich selbst habe auch nicht grosse Lust mit ge<lb break="no"/>setzlichen unzulänglichen Mitteln, mir den ganzen Zores der<lb/>
+Messeveranstaltungen aufzuhalsen. Ich werde mich, wie ich dann<lb/>
+beim Essen <name type="person" ref="per:115005">Hintschig</name> ganz deutlich sagte, weiter bemühen die Salz<lb break="no"/>burger ebenfalls noch in die Arbeitsgemeinschaft einzubringen.<lb/>
+</p>
+            <pb n="35-0354" facs="35_1977-03-25_1977-03-27_0354.jpg"/>
+            <p xml:space="preserve"><name type="person" ref="per:107940">Dittrich</name> ersuchte mich, dass wir doch die Differenzen, die<lb/>
+zwischen der Handelskammer Wien und dem Handelsministerium,<lb/>
+sprich, zwischen ihm und mir existieren, mit einer Aussprache<lb/>
+bereinigen könnten und sollten. Er ist der Meinung, hier handelt<lb/>
+es sich nur um Mißverständnisse, die ohne weiteres beseitigt werden<lb/>
+könnten. Selbstverständlich habe ich zugestimmt und ersuchte seine<lb/>
+Sekretärin, die ebenfalls dort beim Mittagessen anwesend war, mit<lb/>
+<name type="person" ref="per:98072">Wiesinger</name> einen Termin zu vereinbaren.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="35_0346_01" facs="35_1977-03-25_1977-03-27_0346-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 25.-27.3.1977</head>
+         </div>
+         <pb n="35_0346_02" facs="35_1977-03-25_1977-03-27_0346-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+         <pb n="35_0355_01" facs="35_1977-03-25_1977-03-27_0355-01.jpg"/>
+         <pb n="35_0355_02" facs="35_1977-03-25_1977-03-27_0355-02.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>hs. Notizen auf Einladung Soz. Lehrerverein 24.3.1977</head>
+         </div>
+         <pb n="35_0355_03" facs="35_1977-03-25_1977-03-27_0355-03.jpg"/>
+         <pb n="35_0355_04" facs="35_1977-03-25_1977-03-27_0355-04.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>hs. Notizen auf Einladung 29. Int. Handwerksmesse München 26.3.1977</head>
+         </div>
+      </back>
+   </text>
+</TEI>

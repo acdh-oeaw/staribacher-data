@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittwoch, der 28. Februar 1973</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band14_1973-02-28</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1973-02-28">Mittwoch, 28. Februar 1973</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-10-27">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band14/">
+      <body>
+         <pb n="14-0253" facs="14_1973-02-28_0253.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Mittwoch, 28. Feber 1973</p><p xml:space="preserve">MinRat <name type="person" ref="per:134300">Metzner</name> hat den Entwurf zum Ortstafelgesetz vorgelegt<lb/>
+und wollte ihn unbedingt besprechen. Zum Glück müssen wir im<lb/>
+internationalen Übereinkommen unsere Straßentafeln sowieso ändern.<lb/>
+Anstelle des Ende der Ortschaft kommt auf die Rückseite der Name<lb/>
+und wird rot durchgestrichen. Dadurch ersparen wir uns rückwärts<lb/>
+noch wo möglich "Ende der" auf slowenisch zu schreiben. Bei dieser<lb/>
+Gelegenheit wird nun trotz aller rechtlichen Bedenken vom Handels<lb break="no"/>ministerium vorgeschlagen, daß auch zur besseren Orientierung des<lb/>
+Straßenbenützers das Bundeswappen und die Bundesfarben seitlich<lb/>
+angebracht werden können. Da die Länder Bedenken haben, daß über<lb/>
+die Landesfarben und Landeswappen nur sie entscheiden können hat<lb/>
+<name type="person" ref="per:134821">Kammerhofer</name> natürlich wieder nicht die Möglichkeit der Anbringung<lb/>
+dieser im Gesetz vorgesehen. Ich ersuchte deshalb <name type="person" ref="per:134300">Metzner</name> unbedingt<lb/>
+diese Ergänzung zu machen. Wenn die Länder dagegen demonstrieren,<lb/>
+so sollen sie dies im Begutachtungsverfahren tun. Es ist unwahr<lb break="no"/>scheinlich, daß es fast länger wie ein halbes Jahr gedauert hat, bis<lb/>
+endlich ein Wunsch von der Regierung die Beamten soweit gebracht<lb/>
+hat, daß sie sich überhaupt durchgerungen haben, einen Entwurf<lb/>
+jetzt endlich vorzulegen. Alle verfassungsrechtlichen und sonstigen<lb/>
+Bedenken wurden immer wieder ins Treffen geführt. <name type="person" ref="per:98053">Wanke</name> hat voll<lb break="no"/>kommen Recht wenn er sagt, eines kann die Bürokratie auf alle<lb/>
+Fälle verhindern. Wenn sie eine Materie oder ein Problem nicht<lb/>
+lösen will.</p><p xml:space="preserve">Dr. <name type="person" ref="per:133082">Auracher</name> ist mit seinem Adlatus gekommen, um jetzt seine<lb/>
+Klassifizierung aller Patente rückwirkend in Erwägung zu ziehen.<lb/>
+Die WIPO hat eine solche Idee geäußert und er möchte nun bei einer<lb/>
+Verhandlung in Genf diese Idee aufgreifen und zumindestens Zusagen<lb/>
+machen, daß die INPADOC sehr wohl bereit wäre, diese Arbeit zu<lb/>
+übernehmen. Ich warnte <name type="person" ref="per:133082">Auracher</name> davor, denn ich habe, sowie <name type="person" ref="per:97469">Gehart</name><lb/>
+große Bedenken, daß nicht einmal die Arbeit erledigt werden kann,<lb/>
+die die INPADOC bis 1. l. 1974 durchführen muß. <name type="person" ref="per:133082">Auracher</name> ist da<lb break="no"/>gegen sehr optimistisch und meinte, die INPADOC könnte in Hinkunft<lb/>
+beides machen. Abgesehen von meinen Bedenken bezüglich der Leistungs<lb break="no"/>möglichkeit kommt noch das finanzielle Problem dazu. Die neue Arbeit<lb/>
+<pb n="14-0254" facs="14_1973-02-28_0254.jpg"/>wird mindestens denselben Betrag kosten, den die INPADOC aufwenden<lb/>
+muß, um überhaupt in Erfüllung des Vertrages mit l. l. 1974 die<lb/>
+entsprechenden EDV-mäßige Aufarbeitung vornehmen zu können. Der<lb break="no"/>zeit hat die INPADOC 20 Mio. vom Finanzminister bekommen und es<lb/>
+würde wahrscheinlich der doppelte Betrag notwendig sein. <name type="person" ref="per:133082">Auracher</name><lb/>
+meinte, er wird sich dies wenn nötig mit dem Finanzminister aus<lb break="no"/>machen. Ich empfahl ihm äußerste Zurückhaltung, nicht unbedingt<lb/>
+ablehnend, aber auch keine wie immer gearteten Zusagen zu machen.</p><p xml:space="preserve">In Gramatneusiedl hat die PARA-Chemie ein Schwesterbetrieb der<lb/>
+Österr. Chem. Werke, die sich wahrscheinlich in deutschen Händen<lb/>
+befindet, eine Betriebserweiterung gehabt, die ich eröffnete.<lb/>
+Der Geschäftsführer der Gesellschaft Dr. <name type="person" ref="per:134328">Lukesch</name> hat bei seiner<lb/>
+Begrüßung ungeheuer positiv über die Regierungsmaßnahmen betreffend<lb/>
+die Einführung der Mehrwertsteuer, die Exportunterstützung, usw.<lb/>
+Ja sogar über den Mitbestimmungsentwurf gesprochen. Er meinte,<lb/>
+daß ein Unternehmen damit fertig werden kann und daß in seinem<lb/>
+Betrieb bereits überall die Mitsprache des Betriebsrates und eine<lb/>
+große Anzahl gesichert ist. <name type="person" ref="per:112031">Maurer</name> dagegen hatte zwar ein vorbe<lb break="no"/>reitetes Konzept, das er sehr geschickt vorlas, dabei aber immer<lb/>
+extemporierte und ohne sehr aggressiv zu sein, doch auf die notwendige<lb/>
+Unterstützung des Bundes für Niederösterreich hinwies. Ich konnte<lb/>
+deshalb bei meiner Rede die positive Einstellung der PARA-Chemie<lb/>
+hervorheben und auf der anderen Seite natürlich <name type="person" ref="per:112031">Maurer</name> mit seinen<lb/>
+Wünschen insbesondere für die tote Grenze und für mehr Unterstützung<lb/>
+Niederösterreichs ÖROK verweisen. Betreffend mehr Unterstützung für<lb/>
+Niederösterreich, bin ich sehr geschickt, vielleicht ein wenig<lb/>
+demagogisch darauf eingegangen, daß die einzelnen Landeshaupt<lb break="no"/>leute z. B. <name type="person" ref="per:113131">Niederl</name> und <name type="person" ref="per:112031">Maurer</name> sich einigen müßten, ob so viel Geld<lb/>
+nach Aichfeld Murboden oder in niederösterreichischen Regionen inve<lb break="no"/>stiert werden soll. Einziger Vorteil dem ich bezüglich meiner Minister<lb break="no"/>tätigkeit jetzt sehr schätze, daß ich immer als letzter zum Reden komm<lb/>
+Dadurch kann ich auf entsprechende Angriffe, die vorher von ÖVPlern<lb/>
+gestartet werden, leicht eingehen und sie sofort beantworten. Das<lb/>
+freie Polemisieren macht mir in dem Fall wirklich Spaß.</p><pb n="14-0255" facs="14_1973-02-28_0255.jpg"/><p xml:space="preserve">Bei der Neuerrichtung des Ost-West-Handelszentrums der Amerikaner<lb/>
+lernte ich dann Herrn <name type="person" ref="per:140778">Colson</name>, den Berater von Nixon, kennen. So<lb break="no"/>wie den Unterstaatssekretär <name type="person" ref="per:146974">Lacerus</name> vom Handelsministerium. <name type="person" ref="per:97632">Kirch<lb break="no"/>schläger</name> war Gott sei Dank zeitgerecht zur Feier erschienen. Ich<lb/>
+selbst hatte mich überhaupt entschuldigt, da ich den Betrieb in<lb/>
+Gramatneusiedl eröffnen mußte, war dann aber doch noch schnell<lb/>
+hingefahren. Das Mittagessen der Para-Chemie in Mödling als auch<lb/>
+der Amerikaner im Intercont habe ich gestrichen, da man ersten<lb/>
+wenn man so viel ißt sowieso zu dick wird und zweitens aber vor allem<lb/>
+viel zu viel Zeit bei diesen offiziellen Essen aufgeht. Da ziehe<lb/>
+ich schon unseren Institutsschlick vor. Nachmittägige Vorsprache<lb/>
+von <name type="person" ref="per:140778">Colson</name> mit dem Botschafter und dem neuen Handelsrat brachte<lb/>
+als wichtigstes Ergebnis, daß <name type="person" ref="per:140778">Colson</name> erwartet, daß wir bei der<lb/>
+EWG für den amerik. Standpunkt werben und vor allem in öffentl.<lb/>
+Erklärungen dafür gewisses Verständnis zeigen. Ansonsten tue<lb/>
+ich mir bei englisch geführten Diskussionen sehr scher schwer.<lb/>
+Oft denke ich mir es wäre gescheiter, wenn ich anstelle des Ab<lb break="no"/>diktierens von Berichten englisch lernen würde. Andererseits ist<lb/>
+mir aber vollkommen klar, daß diese Information für uns wahrschein<lb break="no"/>lich von großer Bedeutung für uns, zumindestens für die Arbeit<lb/>
+von größerer Bedeutung ist, als meine Englischkenntnisverbesserung.<lb/>
+<name type="person" ref="per:98053">Wanke</name> würde sagen, ein Minister braucht dies nicht. Wenn man über<lb break="no"/>heblich ist kann man sagen, daß ist die Aufgabe, die ein Kellner<lb/>
+in Nobelhotels kennen muß.</p><p xml:space="preserve">In der Paritätischen Kommission hat <name type="person" ref="per:97668">Kreisky</name> einleitend auf die<lb/>
+Euro-Dollar-Spekulation und auf die Gefahr der weiteren Preisent<lb break="no"/>wicklung hingewiesen. <name type="person" ref="per:122974">Altenburger</name> hat insbesondere neuerdings<lb/>
+gegen die Index-Erstellung remonstriert. Er möchte, daß scheinbar<lb/>
+großen Erfolg durchsetzen, daß die Indexrevision schneller erfolgt,<lb/>
+als für das Jahr 1974, d.h. neuer Index 1. Jänner 1976 beginnend<lb/>
+eine Vorverlegung zu erreichen. <name type="person" ref="per:97668">Kreisky</name> selbst teilte ursprünglich<lb/>
+diese Meinung, hat sich aber scheinbar nicht zuletzt durch Infor<lb break="no"/>mationen im Statistischen Zentralamt davon überzeugen lassen, daß<lb/>
+dies kaum möglich sein wird. Zu diesem Zweck hat er nun erklärt,<lb/>
+wird er eine Besprechung der Interessensvertretungen dem Statisti<lb break="no"/>schen Zentralamt gemeinsam durchführen, um alle zu überzeugen, daß<lb/>
+der richtige Weg beschritten wurde. GenSekr <name type="person" ref="per:97769">Mussil</name> warnte davor,<lb/>
+daß man an den eingefahrenen Geleise etwas ändert. Er meinte, daß<lb/>
+<pb n="14-0256" facs="14_1973-02-28_0256.jpg"/>es nicht nur internat. üblich ist in größeren Zeitabständen<lb/>
+eine Indexberechnungsrevision vorzunehmen, sondern daß auch<lb/>
+die Indexberechnung von allen in der Bevölkerung und Interessens<lb break="no"/>vertretungen akzeptiert werden muß. Wenn eine Änderung eintritt<lb/>
+und dies öfter geschieht, könnte der wert des Index in Frage ge<lb break="no"/>stellt werden und die Arbeitnehmer und Arbeitgeber hätten keine<lb/>
+wie immer geartete Orientierungsmöglichkeit für ihre Lohnpolitik<lb/>
+umfangreiche Tagesordnung mit fast 30 Punkten wurde verhältnismäßig<lb/>
+schnell abgewickelt. Da die Präsidenten vorher bereits über jeden<lb/>
+Punkt sich geeinigt haben, ist der Bericht schon diesen Beschluß<lb/>
+entsprechend und wird in der Paritätischen Kommission in den<lb/>
+meisten Fällen zur Kenntnis genommen. Ganz selten wehrt sich<lb/>
+dann ein Nichtteilnehmer der Präsidentenkonferenz gegen diese<lb/>
+Beschlüsse. Es ist vor allem <name type="person" ref="per:122974">Altenburger</name>, der in diesem System<lb/>
+eine Ausschaltung seiner Person sieht und sich erst schön langsam<lb/>
+damit abfindet.</p><p xml:space="preserve">Anschließend an die Paritätische Kommission hat <name type="person" ref="per:97879">Rösch</name> mit <name type="person" ref="per:112051">Singer</name><lb/>
+und mir gesprochen. <name type="person" ref="per:97879">Rösch</name> hat neuerdings festgehalten, daß <name type="person" ref="per:112051">Singer</name><lb/>
+nicht die Absicht nicht zu uns zu kommen, wenn die Preiskompetenz<lb/>
+ins Handelsministerium kommt. <name type="person" ref="per:112051">Singer</name> hat mir auch gegenüber erklärt,<lb/>
+er hätte keine wie immer geartete Äußerung getan, daß er lieber<lb/>
+im Innenministerium bliebe. Eine einzige Bemerkung <name type="person" ref="per:111737">Marsch</name> gegenüber<lb/>
+hätte er einmal gemacht, wenn man ihn nicht wolle, so könne er<lb/>
+natürlich im Innenministerium sich eine Beschäftigung suchen. Ich<lb/>
+vereinbarte sofort mit ihm, wir sollten uns einmal im Institut,<lb/>
+<name type="person" ref="per:97646">Koppe</name>, und er und wer sonst noch will zusammensetzen, um unsere<lb/>
+zukünftige Arbeit zu besprechen. <name type="person" ref="per:112051">Singer</name> wird mit Unterstützung<lb/>
+von <name type="person" ref="per:97879">Rösch</name> eine entsprechende Lösung jetzt vorbereiten, daß wir<lb/>
+nach Kompetenzübertragung noch immer auf den jetzt eingespielten<lb/>
+Gendarmerie und Polizeiapparat weiter zurückgreifen<lb/>
+können. Dies ist äußerst wichtig um überhaupt effizient bei Er<lb break="no"/>hebungen und Preiskontrollen in Erscheinung treten zu können.</p><p xml:space="preserve">Anmerkung für <name type="person" ref="per:97646">KOPPE</name><lb/>
+Wenn Du Dein Konzept fertig hast und wir zusammen gesprochen habe<lb/>
+erscheint es zweckmäßig, dann <name type="person" ref="per:112051">Singer</name> wirklich ins Institut zu bitten.</p><pb n="14-0257" facs="14_1973-02-28_0257.jpg"/><p xml:space="preserve">Als <name type="person" ref="per:97879">Rösch</name> den Namen Institut bei dieser Aussprache hörte<lb/>
+fragte er um was es sich dabei eigentlich handelt. Ich erklärte<lb/>
+ihm unser System und er meinte dies sei doch interessant, wie<lb/>
+viele Zirkel sich hier gebildet hätten. Er bezog sich insbeson<lb break="no"/>dere auch auf die Einrichtung von <name type="person" ref="per:97488">Gratz</name>, der bekanntlicherweise<lb/>
+bei Demel eine solche Mittagsrunde starten will oder schon ge<lb break="no"/>startet hat. Zu diesem Gespräch kam zufällig <name type="person" ref="per:97346">Benya</name> dazu und ohne<lb/>
+daß er sich für die Detail des Institutes überhaupt interessierte<lb/>
+nur auf Grund des Namens schon erklärte, daß jetzt immer mehr in<lb/>
+anderen Organisationsformen gearbeitet wird. Er meinte, daß es<lb/>
+früher klar war, daß die Jugend in die Partei überwechselt und<lb/>
+dort ihre Tätigkeit ausübt. Derzeit ist es so, daß die junge Ge<lb break="no"/>neration und wer weiß noch alle in die 0rganisationsformen einge<lb break="no"/>schaltet werden und damit die Partei, wie er sich ausdrückte, nur<lb/>
+vertrocknet. <name type="person" ref="per:97346">Benya</name> kritisierte nicht unsere Institutseinrichtung,<lb/>
+hat aber scheinbar größte Bedenken gegen alle Neuerungen. <name type="person" ref="per:97346">Benya</name><lb/>
+vergißt in diesem Fall nur und niemand wird ihm davon überzeugen<lb/>
+können, daß die heutige Gesellschaftsform nicht nur pluralistisch<lb/>
+ist, das war sie immer, sondern daß sie nur andere Methoden be<lb break="no"/>darf, um überhaupt an die Bevölkerung heranzukommen. Sicher hat er<lb/>
+Recht, daß die junge Generation eine gewisse Art Fremdkörper<lb/>
+in einer hierachisch aufgebauten und stark geführten Partei dar<lb break="no"/>stellt. Er hat vollkommen recht, wenn es in der 1. Republik so<lb/>
+war, daß Falken in die SAJ und die SAJ dann in die Partei ihre<lb/>
+Mitglieder überführen sollte und teilweise getan hat. Ich sage<lb/>
+deshalb sollte, weil es damals auch schon schwierig war die Ge<lb break="no"/>meinschaften irgendwie in die neue und höhere Form überzuführen.<lb/>
+Damals hatten sich Jungfalken gebildet die über das 14. Lebensjahr<lb/>
+hinaus zusammenblieben weil sie nicht in die SAJ gehen wollten und<lb/>
+bei der SAJ war es genauso bezüglich der Partei. Selbst war damals<lb/>
+noch in der Falkenbewegung tätig und weiß genau, welches Schwierig<lb break="no"/>keiten es schon damals mit den Überwechsel beim Älterwerden sich<lb/>
+ergaben. Für die Nebengebiete wurde so wie jetzt Nebenorganisationen<lb/>
+entwickelt, wie z. B. die ganzen Kultureinrichtungen, Arbeiter<lb break="no"/>fischer, Arbeitersamariter, Arbeiter-Schachklub usw. Wichtig ist<lb/>
+andererseits, daß alle diese Organisationen wesentlich weniger<lb/>
+finanziellen Aufwand haben und nicht so stark in Erscheinung traten<lb/>
+als dies heute der Fall ist. Dafür waren sie, und das ist schon<lb/>
+richtig, wesentlich stärkere Organisationen, was ihre Mitglieder<lb break="no"/><pb n="14-0258" facs="14_1973-02-28_0258.jpg"/>anzahl betraf. Andererseits aber hat sich nach dem 2. Weltkrieg<lb/>
+eine andere Form der Parteiarbeit herausentwickelt, Wohl bleibt<lb/>
+die alte Gliederung in Sektionen mit den Sektionsabenden und<lb/>
+sonstiger Sektionsarbeit. Der heutigen Zeit entsprechend muß aber<lb/>
+dann doch eine Form gefunden werden, um neue Kreise anzusprechen.<lb/>
+Dies ist ja, oder sollte, die Hauptaufgabe der jungen Generation<lb/>
+z. B. sein. Richtig ist allerdings, daß sie hier einen gewissen<lb/>
+Selbstzweck darstellt, um gerade innerhalb der Partei sich durch<lb/>
+entsprechende Zusammenfassung von jungen Mitarbeitern auf Jungwähler<lb/>
+besser sich auszuwirken, aber dadurch auch den jungen Genossen<lb/>
+eine größere Chance gibt, sich z. B. bei der Mandatsverteilung<lb/>
+durchzusetzen. Wieweit <name type="person" ref="per:97346">Benya</name> mit seiner Kritik recht hat, möchte<lb/>
+ich gar nicht untersuchen und erkläre auch, daß wirklich ganz<lb/>
+komplizierte Überlegungen erst angestellt werden müssen. Primavista<lb/>
+erscheint mir seine Kritik nicht ganz berechtigt, da vielleicht<lb/>
+doch diese moderne Form der pluralistischen, heute so ausgeprägten<lb/>
+Gesellschaft mehr Rechnung trägt.</p><p xml:space="preserve">Für die Enquete der soz. Lehrer des Freien Wirtschaftsverbandes,<lb/>
+Gewerkschaftsjugend, usw. über den Lehrling, hat eine Vorbe<lb break="no"/>sprechung stattgefunden, an der auch <name type="person" ref="per:97584">Jagoda</name> teilnahm. Ich überlegte,<lb/>
+ob wir zu dieser Enquete auch andere Herren seiner Sektion einladen<lb/>
+sollten. Ich hatte deshalb bedenken, weil es sich hier um<lb/>
+eine ausgesprochene Parteiveranstaltung handelt. Hätte sich jemand<lb/>
+melden wollen oder hätte sich jemand tatsächlich gemeldet, dann wäre<lb/>
+dies etwas anderes gewesen, als wenn wir sie zu einer solchen En<lb break="no"/>queteteilnahme aufgefordert hätten. Der Initiator <name type="person" ref="per:140468">Schön</name> aber auch<lb/>
+<name type="person" ref="per:97892">Sallaberger</name> und <name type="person" ref="per:137217">Mrkwitschka</name> vom ÖGB arbeiten in dieser Enquete<lb/>
+darauf hin, ein neues System für die Lehrlingsausbildung zu kreieren.<lb/>
+Da schwebt ihnen indirekt vor, daß der Polytechnische Lehrgang<lb/>
+schön langsam in die Lehrlingsausbildung aufgesogen wird, d.h.<lb/>
+in Wirklichkeit außer Kraft gesetzt wird. Ich habe spät abends<lb/>
+beim Konzert von Jung-Wien Stadtschulrats-Präsident <name type="person" ref="per:97923">Schnell</name> ge<lb break="no"/>troffen. Als ich ihm auch bezüglich der Unzweckmäßigkeit des<lb/>
+Polytechnischen Lehrgangs für die Lehrlingsausbildung ansprach<lb/>
+hat er mir vorgeschlagen, ich sollte doch mit ihm gemeinsam den<lb/>
+besten Polytechnischen Lehrgang, der bei uns auf der Landstraße<lb/>
+sich befindet, besuchen. Er meinte nämlich, ich würde dann eine<lb/>
+<pb n="14-0259" facs="14_1973-02-28_0259.jpg"/>andere Einstellung zu diesem Problem bekommen. Im polytechnischen<lb/>
+Lehrgang sind nur mehr 15 % der Schüler und diese werden sehr wohl<lb/>
+für den Beruf vorbereitet. Der größte Teil der Lehrlinge kommt heute<lb/>
+aus Repitenten der Hauptschule oder Volksschule und aus Sonderschulen.<lb/>
+Die Absolventen der Polytechnischen Lehrgänge kommen primär in die<lb/>
+höheren Berufe wie z. B. Graphiker, wie z. B. interessanterweise<lb/>
+sich für die Kfz-Mechaniker meistens Schüler der Sonderschulen be<lb break="no"/>werben und natürlich infolge Arbeitskraftmangel dort auch tatsächlich<lb/>
+Lehrstellen finden. <name type="person" ref="per:97923">Schnell</name> wird selbst auch zur Enquete kommen<lb/>
+und für mich persönlich zeigte sich, daß wir viel zu viel wenig<lb/>
+zumindest was meine Person betrifft, Detailinformationen an diese<lb/>
+Probleme herangehen.</p><p xml:space="preserve">Da mich unsere Bezirksorganisation der Freiheitskämpfer zur Jahres<lb break="no"/>versammlung eingeladen hat und ich dort auch ein Referat halten<lb/>
+sollte habe ich das 1. Mal mit dieser Nebenorganisation Kontakt<lb/>
+bekommen. Diese Gründung von alten Kämpfern oder Genossen geführt<lb/>
+von <name type="person" ref="per:133400">Rosa Jochmann</name>, ist selbstverständlich zum Aussterben verurteilt,<lb/>
+obwohl sie sich bemühten durch Aufnahme von Jugendlichen eine ge<lb break="no"/>wisse Auffrischung zu erreichen, ist dies glaube ich nur in den<lb/>
+zentralen Funktionen nicht geglückt. Ich kann mir auch beim besten<lb/>
+Willen nicht vorstellen, daß ein junger Mensch in diesen, fast<lb/>
+hätte ich gesagt "Altersheim" wohlfühlt. Alle Achtung für unsere<lb/>
+illegale Tätigkeit und für die Opfer, die diese Genossen gebracht<lb/>
+haben. Ich glaube, daß man die Tradition und die Erfahrung keines<lb break="no"/>falls auf eine neue junge Generation übertragen kann, die damit<lb/>
+nichts zu tun gehabt hat. Interessant für mich war nur, als Abends<lb/>
+dann mein Sohn erklärte, daß im VSM man diesen Freiheitskämpfern,<lb/>
+er bezeichnete sie als einen Verein, der angeblich "Nie Vergessen"<lb/>
+als Parole hat, Kontakt aufgenommen hat, da man ihnen von dieser<lb/>
+Seite bescheinigt, daß sie nicht Antisemiten sind, wie <name type="person" ref="per:109961">Staberl</name> dies<lb/>
+in einem Artikel behauptete. Der Initiator, der seinerzeitigen<lb/>
+Ausstellung "Niemals vergessen" von der Arbeiterkammer, Herr <name type="person" ref="per:146181">Doch</name>,<lb/>
+ist auch Mitglied von der Landstraße, wie ich nun bei der Jahres<lb break="no"/>versammlung feststellen konnte. Ich kann mir sehr gut vorstellen,<lb/>
+daß alle aktiven Mitglieder dieses Vereines jede Gelegenheit wahr<lb break="no"/>nehmen, um besseren Kontakt mit Jugendlichen, wo immer dies möglich<lb/>
+ist, zu bekommen. Trotzdem bin ich überzeugt, wird früher oder<lb/>
+<pb n="14-0260" facs="14_1973-02-28_0260.jpg"/>später diese Organisation einschlafen. Die unangenehmste Be<lb break="no"/>sprechung hatte ich mit der Austro-Ferngas-Vertretern. Diesmal<lb/>
+waren nicht nur alle drei Geschäftsführer, sondern auch alle<lb/>
+drei Funktionäre der Organisation nämlich <name type="person" ref="per:97865">Reisinger</name> für Wien,<lb/>
+Gruber für NÖ. und für die Steiermark der Geschäftsführer der<lb/>
+Veitscher Magnesit gekommen. Dieser erklärte mir vor Sitzung,<lb/>
+daß sowohl die amerikanische Magnesit als Veitscher vollkommen<lb/>
+übereinstimmen. daß Magnesit im neuen Berggesetz unbedingt grund<lb break="no"/>egigen bleiben sollen und nicht wie die Professoren und auch <name type="person" ref="per:112190">Mock</name><lb/>
+von der OB wünschen in Bergfrei umgestuft werden. Eine diesbe<lb break="no"/>zügliche Stellungnahme werden wir von der Handelskammer und In<lb break="no"/>dustriellenvereinigung noch bekommen. Unangenehm war die Sitzung<lb/>
+deshalb, weil <name type="person" ref="per:97865">Reisinger</name> und <name type="person" ref="per:97496">Gruber</name> auch die Geschäftsführer auch<lb/>
+darüber beschwerten, daß nun doch die ÖMV versucht mit den Algeriern<lb/>
+Kontakt aufzunehmen und die Ferngas aus der Verhandlungsposition<lb/>
+zu verdrängen. Das Konsortium hat in Brüssel unter gewissen Be<lb break="no"/>dingungen die Mitgliedschaft Österreichs, d.h. der Austria Ferngas,<lb/>
+vorgesehen. Die Menge soll 2 Milliarden m3 wenn die Algerier zu<lb break="no"/>stimmen. Die Bedingungen würden für diesen Fall dieselben sein,<lb/>
+das Konsortium jetzt hat. Es ist dies ein angeblich verhältnis<lb break="no"/>mäßig günstiger Preis mit nur einer 2%igen Gleitklausel. Die<lb/>
+Mengen die gekauft werden sollen nicht nur dazu dienen um sie<lb/>
+gegen andere Mengen abzutauschen, sondern sollen durch die Trans<lb break="no"/>portsysteme <choice><choice><sic>Vossimare</sic><corr>Fos-sur-Mer</corr></choice></choice> und <choice><choice><sic>Monfalkone</sic><corr>Monfalcone</corr></choice></choice> tatsächlich genutzt<lb/>
+werden. Eine gemeinschuldnerische Haftung dieser Lände würde aus<lb break="no"/>reichen. Ursprünglich wollte man sogar eine Staatsgarantie. Die<lb/>
+Finanzierung in Europa würde so sein, daß Österreich 2/13 d.s.<lb/>
+325 Mio. DM aufbringen müßte. Diese Finanzierung könnte dann zu<lb/>
+dazu dienen ev. gefundene Exporte von Österreich damit zu bezahlen.<lb/>
+Durch diese Investitionen in Europa wäre also die österr. Export<lb break="no"/>industrie Mitpartizipant. Für Algerien sieht das Konsortium eine<lb/>
+Euro-Dollar-Anleihe in Erwägung und auf Österreich würde ein<lb/>
+bestimmter Anteil entfallen. Die Sonatrach hat jetzt eine<lb/>
+Anleihe in Höhe von 250 Mio. Dollar in Aussicht. Die auf dem Euro-<lb/>
+Dollar-Markt gedeckt werden soll. Als Eintrittsgeld Österreichs.<lb/>
+da es erst jetzt zum Konsortium dazu kommt und damit gewisse Vor<lb break="no"/>teile, die durch jahrelange Verhandlungen schon bestehenden Mit<lb break="no"/>gliedern abgegolten werden soll, das Konsortium hat 4 – 5 cent<lb/>
+<pb n="14-0261" facs="14_1973-02-28_0261.jpg"/>dafür berechnet, soll Österreich 60 – 70 % davon als Preiszu<lb break="no"/>schlag dafür akzeptieren. Nach Berechnungen von der Austro-Fern<lb break="no"/>gas kämen maximal 1 – 1/2 Cent in Frage und diesbezügliche<lb/>
+Verhandlungen werden noch fortgeführt. Auf alle Fälle verlangt<lb/>
+das Konsortium für ihre Tätigkeit bis jetzt um das Österreich über<lb break="no"/>haupt aufgenommen wird, eine finanzielle Entschädigung. Unter den<lb/>
+oben genannten Umständen wären die Konsortialmitglieder bereit,<lb/>
+Österreich aufzunehmen. Das Ganze kann aber nur dann spielen,<lb/>
+wenn mit Algerien eine entsprechende Vereinbarung getroffen wird,<lb/>
+wobei die Algerier dann gleich von den 13 Milliarden m3 die sie<lb/>
+dem Konsortium liefern wollen, sich verpflichten müßten, 15 Milliarden<lb/>
+dann zu liefern. Die Algerier haben ursprünglich solche Avancen<lb/>
+den Vertretern der Austria Ferngas gemacht. Ich bin aber nicht<lb/>
+ganz überzeugt, daß sie dabei bleiben. Sicherlich hat die Politik<lb/>
+der sich jetzt über die Gas de France und Ruhrgas versucht sich<lb/>
+einzuschalten, eine gewisse Möglichkeit in Algerien eröffnet, jetzt<lb/>
+zwischen den beiden Partner ÖMV oder AVG sich zu entscheiden und<lb/>
+damit eigentlich auch zu lizitieren. Die ÖMV hat seinerzeit aus<lb break="no"/>drücklich verzichtet auf das algerische Gas und versucht sich nun<lb/>
+natürlich wieder einzuschalten. Ich schlug der Austro-Ferngas vor,<lb/>
+mit der ÖMV gemeinsam und mir eine Besprechung durchzuführen.</p></div>
+      </body>
+      <back>
+         <pb n="14_0252_04" facs="14_1973-02-28_0252-04.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 28.2.1973</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="14_0252_05" facs="14_1973-02-28_0252-05.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+   </text>
+</TEI>

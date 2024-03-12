@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittwoch, der  6. Februar 1980</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band53_1980-02-06</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1980-02-06">Mittwoch, 6. Februar 1980</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2017-08-28">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="53-0143" facs="53_1980-02-06_0143.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Mittwoch, 6. Feber 1980<lb/>
+</p>
+            <p xml:space="preserve">Dr. <name type="person" ref="per:97860">Rauter</name> vom Konsum und gleichzeitig Vorsitzender des<lb/>
+Ausschusses Strukturprobleme des Handels und sein Stellver<lb break="no"/>treter Gremialvorsteher Dr. <name type="person" ref="per:112013">Zach</name> berichteten mir über die<lb/>
+einstimmig gefassten Vorschläge des Ausschusses. <name type="person" ref="per:112013">Zach</name> insbe<lb break="no"/>sondere war so begeistert und glücklich, dass es geglückt ist,<lb/>
+in diesem Ausschuss zu einem Ergebnis zu kommen, dass man<lb/>
+ihm direkt seine Freude ansah. Die wichtigsten Ergebnisse<lb/>
+sind stärkere Betriebsberatung, Standarduntersuchung und punktuelle<lb/>
+Hilfe, um die weissen Stellen, wie er sich ausdrückte, wo es<lb/>
+keine Nahversorgung mehr gibt, wegzubringen, das Sortiment<lb/>
+den örtlichen Bedürfnissen anzupassen und Güter und Dienstlei<lb break="no"/>stungen längerfristig den täglichen Bedarf zu decken. Die Preisge<lb break="no"/>staltung<add>[ist?]</add> so gestalten, dass das Distributionsnetz gesichert wird.<lb/>
+In den amtlichen Preisen müssten die sozial kalkulierten Produkte<lb/>
+höhere Spannen bekommen. <name type="person" ref="per:112013">Zach</name> hat zugegeben, dass dies bei den<lb/>
+offenen Hartkäsesorten und bei Zucker in der letzten Zeit<lb/>
+schon der Fall gewesen ist. Sehr glücklich sind alle, dass<lb/>
+es jetzt möglich war, den Verkauf unter dem Einstandspreis<lb/>
+einvernehmlich zu regeln. Der wichtigste Wunsch ist aber<lb/>
+Steuerpauschalierung. Ich glaube auch, dass hier der Finanz<lb break="no"/>minister den Lebensmitteleinzelhandel-Betrieben mehr entgegen<lb break="no"/>kommen sollte. Die Förderungsmassnahmen sollte man wieder zu<lb break="no"/>sammenstellen und auch in Zukunft die Forderungen und Förderungen<lb/>
+erfüllen. Dem Einzelhandel sind auch die Bäcker, Fleischer, Gast-<lb/>
+und Schankgewerbe gleichzustellen und in die Nahversorgung ein<lb break="no"/>zubeziehen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97860">Rauter</name> verwies darauf, dass nachdem jetzt die Nahversorgungs<lb break="no"/>probleme mit diesen Vorschlägen gesichert und wenn sie durch<lb break="no"/>geführt werden, auch erfüllt sind, als nächster Schritt eine<lb/>
+Untersuchung über die betriebswirtschaftlichen Notwendigkeiten<lb/>
+praxisbezogen gemacht werden müssten. Die Handelskammer hat<lb/>
+eine Studie beabsichtigt, die 80.000 S kostet und das Institut<lb/>
+für Handelsforschung, Dr. <name type="person" ref="per:121789">Bock</name>, bei dem Ordinarius <name type="person" ref="per:98014">Theuer</name> angeregt.<lb/>
+</p>
+            <pb n="53-0144" facs="53_1980-02-06_0144.jpg"/>
+            <p xml:space="preserve">Prof. <name type="person" ref="per:98014">Theuer</name> ist zwar ein ausgesprochener Gegner, mit<lb/>
+dem ich noch einigermassen auskomme. Seine extreme markt<lb break="no"/>wirtschaftliche Theorie, die alle Fehler, welche der einzelne<lb/>
+macht, sofort den planwirtschaftlichen Einflüssen der Re<lb break="no"/>gierung vorwirft, verdient meiner Meinung nach keine wie<lb/>
+immer geartete Unterstützung. Trotzdem müssen wir als<lb/>
+Ministerium sowohl das Institut für Gewerbeforschung als,<lb/>
+so fürchte ich, auch sein Institut für Handelsforschung unter<lb break="no"/>stützen. Dr. <name type="person" ref="per:121789">Bock</name> dürfte hier für seriösere Untersuchungen<lb/>
+zuständig sein.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Was wissen und tun wir fürs Institut<lb/>
+für Handelsforschung, insbesondere Dr. <name type="person" ref="per:121789">Bock</name><lb/>
+</p>
+            <p xml:space="preserve">Als dritte und letzte Arbeit wäre dann die Weiterbildung im Le<lb break="no"/>bensmittelkleinhandel entsprechend zu untersuchen und ent<lb break="no"/>sprechende Vorschläge vorzubereiten. Wir einigten uns aller<lb break="no"/>dings sofort, dass bezüglich des Lehrberufes und der Lehrlings<lb break="no"/>ausbildung nicht der Ausschuss zuständig ist, sondern der Be<lb break="no"/>rufsausbildungsbeirat. Die allgemeine Weiterbildung aber, ins<lb break="no"/>besondere nach Abschluss der Lehrzeit, sollte sehr wohl in<lb/>
+weiterer Folge dann von dem Ausschuss betrieben werden. Das<lb/>
+Gremium hat jetzt von Deutschland übernommen, entsprechende<lb/>
+Aufklärungs- und Weiterbildungsschriften aufgelegt. Ins<lb break="no"/>besondere aber hat sie selbstständig für die Warenkunde zweck<lb break="no"/>mässige Arbeitsbehelfe vorbereitet. Ich habe <name type="person" ref="per:112013">Zach</name> sofort vor<lb break="no"/>geschlagen, er soll sie im Rahmen eines Pressefrühstücks präsen<lb break="no"/>tieren, was er mit viel Stolz angenommen hat. Bei dieser Ge<lb break="no"/>legenheit hat dann Mag. <name type="person" ref="per:117023">Pein</name> mir vorgeschlagen, könnte man<lb/>
+auch die von der Gewerkschaft beabsichtigte Präsentation der<lb/>
+Fortbildungskurse für Zuckerbäcker usw. präsentieren.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Bitte Entsprechendes veranlassen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97860">Rauter</name> beschwerte sich bei mir, dass er zwar Vorsteher des<lb/>
+Gremiums der Konsumgenossenschaft ist, dieses Gremium umfasst<lb/>
+12 Mitglieder, die natürlich nie gewählt werden, sondern immer<lb/>
+eine paktierte Liste sind. 1947 wurde vereinbart, dass dieses<lb/>
+Gremium der Konsumgenossenschaften selbstverständlich auch an<lb/>
+den Vorstandssitzungen der Bundeshandelskammer teilnehmen soll.<lb/>
+</p>
+            <pb n="53-0145" facs="53_1980-02-06_0145.jpg"/>
+            <p xml:space="preserve">Eine Vorstandssitzung findet aber nie statt. Weder der<lb/>
+ehemalige Sektionsobmann vom Handel <name type="person" ref="per:111717">Schönbichler</name> noch der<lb/>
+verstorbene Steirer <name type="person" ref="per:121793">Fuchs</name>, nach Nachfolger, der ein guter<lb/>
+Bekannter von <name type="person" ref="per:97860">Rauter</name> war, geschweige denn der neue jetzt im<lb/>
+Amt befindliche Obmann der Sektion Handel <name type="person" ref="per:121792">Steidl</name> berufen<lb/>
+eine Vorstandssitzung ein. Das Gremium agiert, indem immer<lb/>
+eine erweiterte Sektionsleitersitzung einberufen wird.<lb/>
+Dort sind 110 Teilnehmer, alle Kammeramtsdirektoren und sonstige<lb/>
+Funktionäre und Beamte, sodass die beiden Mitglieder <name type="person" ref="per:97860">Rauter</name><lb/>
+für die Konsumgenossenschaft und <name type="person" ref="per:116941">Bartel</name> als Freier-Wirtschafts<lb break="no"/>verband-Funktionär natürlich hoffnungslos untergehen. In den<lb/>
+Ländern ist es anders. Dort werden die Sitzungen mit den Konsum<lb break="no"/>genossenschaftsvertretern, wenn auch nur sporadisch, abgehalten.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98072">WIESINGER</name>: Bitte mit Konsumgenossenschaftssekretär<lb/>
+in der BHK, <name type="person" ref="per:121791">Schediwy</name>, verbinden.<lb/>
+</p>
+            <p xml:space="preserve">Ein Betriebsrat der Fa. Mercedes hat für Energiesparmassnahmen<lb/>
+bei mir interveniert. Tatsächlich sind dann <name type="person" ref="per:121795">Kendelsbacher</name>,<lb/>
+<name type="person" ref="per:121796">Schachner</name> bei mir aufgetaucht, die einen amerikanischen<lb/>
+Filter der Fa. Stilko verkaufen wollen. Durch Umbau der österr.<lb/>
+resp. europäischen Fahrzeuge könnte dieser Filter eingebaut<lb/>
+werden und einen wesentlich geringeren Ölwechsel notwendig<lb/>
+machen. Ich erklärte den beiden sofort, dass die Konkurrenz<lb/>
+insbesondere die Autofirmen behaupten werden, dies führt nur<lb/>
+dazu, dass der Motor umso früher kaputt wird, wenn man eben<lb/>
+nicht zeitgerecht Ölwechsel vornimmt. Zur Prüfung habe ich<lb/>
+die beiden in unsere Energiesektion, Dr. <name type="person" ref="per:121794">Kellner</name>, geschickt.<lb/>
+</p>
+            <p xml:space="preserve">Da der ÖAMTC die Frau Staatssekretär und mich eingeladen hat,<lb/>
+bei ihm vorzusprechen, hatte ich veranlasst, dass wir vorher dem<lb/>
+ARBÖ einen Besuch abstatten. <name type="person" ref="per:109808">Albrecht</name> musste dort sowieso<lb/>
+offiziell vorgestellt werden, Gen.Sekr. <name type="person" ref="per:97411">Effenberger</name> und<lb/>
+etliche Vizepräsidenten haben uns dann empfangen und wir<lb/>
+diskutierten mit ihnen auch ganz offiziell über Massnahmen,<lb/>
+die zum Energiesparen führen könnten. <name type="person" ref="per:109808">Albrecht</name> wird sich in<lb/>
+Hinkunft noch stärker um den Frauenklub des ARBÖ kümmern.<lb/>
+<name type="person" ref="per:97411">Effenberger</name> teilte mir mit, dass sein Hausbesitzer, <name type="person" ref="per:115685">Mischek</name>,<lb/>
+vom ihm weit über 1 Mio S pro Jahr für die Miete verlangt.<lb/>
+Er hätte jetzt ein Stückchen weiter draussen in der Maria<lb break="no"/>hilfer Strasse ein Grundstück zur Hand, wo er ein Haus bauen<lb/>
+möchte. Da er aber nur 2 Stockwerke benötigt, sucht er<lb/>
+<pb n="53-0146" facs="53_1980-02-06_0146.jpg"/>einen zweiten Mieter für die anderen Stockwerke. Ich<lb/>
+versprach ihm, dass wir sofort vermittelnd eingreifen, wenn<lb/>
+uns irgendetwas unterkommt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Frag bitte auch im Haus, ohne ARBÖ<lb/>
+zu erwähnen, wer Büroräume bräuchte.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:109808">Albrecht</name> stand vor einem organisatorischen Problem. In der<lb/>
+OECD war bis jetzt als Handelsministerium-Vertreter Dr. <name type="person" ref="per:114579">Lad<lb break="no"/>stätter</name> von der Sektion <name type="person" ref="per:97584">Jagoda</name>, der auch die Auslandsagenden<lb/>
+für Konsumentenschutz hat. Vom Gewerkschaftsbund war die jetzt<lb/>
+in ihr Büro genommene Dr. <name type="person" ref="per:116971">Smolka</name> delegiert. <name type="person" ref="per:109808">Albrecht</name> vereinbarte<lb/>
+mit mir, dass in Hinkunft nur <name type="person" ref="per:114579">Ladstätter</name> diese Funktion weiter<lb break="no"/>hin wahrnehmen soll. <name type="person" ref="per:116971">Smolka</name> kann sicherlich gelegentlich, so wie<lb/>
+<name type="person" ref="per:109811">Burian</name> auch einmal jetzt zu einer solchen Tagung nach Paris<lb/>
+gefahren ist, mitfahren. Im Prinzip aber bleibt dabei die 1970<lb/>
+bereits eindeutig entschieden wurde, dass <choice><choice><sic>die</sic><corr>das?</corr></choice></choice> Büro, sprich der<lb/>
+Stab niemals die Linie, sprich Ministerium ersetzen oder gar<lb/>
+verdrängen kann und soll. Hier muss es bei der klaren Trennung<lb/>
+bleiben, das hierarchisch aufgebaute Ministerium muss all<lb/>
+seine Kompetenzen weiter behalten, der Stab hat nur die Aufgabe,<lb/>
+als Transmissionsriemen des Ministers und der Staatssekretärin<lb/>
+zu fungieren. Ich erzählte <name type="person" ref="per:109808">Albrecht</name>, wie seinerzeit Minister<lb/>
+<name type="person" ref="per:97793">Olah</name> im Innenministerium alles über sein Büro abgewickelt hat.<lb/>
+Dies verärgert nicht nur die Beamten, sondern muss früher oder<lb/>
+später auch Schiffbruch erleiden.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:109808">Albrecht</name> und <name type="person" ref="per:114579">Ladstätter</name> sind auch dafür, dass der im Europarat<lb/>
+gebildete Arbeitsausschuss Sozialwissenschaft Unterausschuss, der<lb/>
+sich mit dem Schutz des Konsumenten beschäftigt und wo jetzt<lb/>
+ein Ländersitz frei wird, von Österreich besetzt werden sollte.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109808">ALBRECHT</name>: Bitte veranlasse, dass dies dann auch<lb/>
+tatsächlich geschieht.<lb/>
+</p>
+            <p xml:space="preserve">Min.Rat <name type="person" ref="per:111367">Würzl</name> besprach mit <name type="person" ref="per:109808">Albrecht</name> und mir den Fremdenverkehrs<lb break="no"/>tag. Er hat die Absicht, bereits am Montag, den 18. Feber<lb/>
+im Pressefrühstück die Bevölkerung aufzufordern, durch drei<lb/>
+Vorschläge a 10 Zeilen ihre Wünsche bezüglich der Fremdenver<lb break="no"/>kehrswirtschaft an den Fremdenverkehrstag zu richten. Die Vorschläge<lb/>
+sollten genau überprüft werden und eine Auslosung am 19. Mai erfolgen.<lb/>
+</p>
+            <pb n="53-0147" facs="53_1980-02-06_0147.jpg"/>
+            <p xml:space="preserve">Die Gewinner würden 5 Urlaubstage für 2 Personen bekommen.<lb/>
+Zur Auswertung des zu erwartenden grossen Andranges von Vor<lb break="no"/>schlägen bräuchte er eine D- und vor allem einmal eine A-Kraft.<lb/>
+Die D-Kraft, meint er, könnte er im Haus finden, die A-Kraft<lb/>
+müsste man zumindestens zeitweise aufnehmen oder einen Werk<lb break="no"/>vertrag oder eine Subvention an irgendjemandem geben, der<lb/>
+diese Arbeit dann übernimmt. Ich habe ihn diesbezüglich sofort<lb/>
+an Sekt.Chef <name type="person" ref="per:112949">Kazda</name> verwiesen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:109808">Albrecht</name> hat neuerdings vorgeschlagen, dass jetzt <name type="person" ref="per:111367">Würzl</name> die<lb/>
+von Vizebürgermeister <name type="person" ref="per:97899">Sandner</name> angeregte Pickerl-Aktion "kinder<lb break="no"/>freundlicher Betrieb" für den Fremdenverkehrstag vorbereitet.<lb/>
+<name type="person" ref="per:111367">Würzl</name> hat sofort meiner Meinung nach in diesem Fall richtig<lb/>
+reagiert und wird mit Sekt.Obmann <name type="person" ref="per:109291">Scheiner</name>, NR <name type="person" ref="per:111728">Westreicher</name><lb/>
+und ganz besonders dem Gatten von <name type="person" ref="per:97899">Sandner</name>, Komm.Rat <name type="person" ref="per:97459">Fröhlich</name>,<lb/>
+konsultieren, wie die Unternehmerseite diesen Vorschlag nicht<lb/>
+nur aufnimmt, sondern auch dann durchführt. Ohne Mitwirkung der<lb/>
+Betriebe glaube auch ich, würden wir zu keinem positiven Er<lb break="no"/>gebnis kommen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Lass Dir bitte über die weitere Vorgangs<lb break="no"/>weise immer genau berichten.<lb/>
+</p>
+            <p xml:space="preserve">Der deutsche Wirtschaftsminister <name type="person" ref="per:111707">Lambsdorff</name> hat angerufen, um<lb/>
+mein Einverständnis zu bekommen, die vorgesehene Internationale<lb/>
+Agentursitzung im März um 1–2 Monate zu verschieben. <name type="person" ref="per:111707">Lambs<lb break="no"/>dorff</name> fährt jetzt nach Amerika, um dem dortigen Energie<lb break="no"/>minister dies auch klar zu machen. <name type="person" ref="per:111707">Lambsdorff</name> befürchtet,<lb/>
+dass die Amerikaner jetzt eine Kürzungsdiskussion im Rahmen<lb/>
+der IEA beginnen würden. <name type="person" ref="per:111707">Lambsdorff</name>, der wieder Vorsitzender<lb/>
+sein soll, die letzte Sitzung hat er hervorragend geführt, steht<lb/>
+auf dem Standpunkt, über die Kürzungsmodalitäten würden sich<lb/>
+die Minister im jetzigen Zeitpunkt nicht einigen können. Ich<lb/>
+selbst bin sehr für eine Verschiebung, denn dann können wir<lb/>
+im April oder Mai bereits feststellen, wie sich das erste<lb/>
+Quartal entwickelt hat. <name type="person" ref="per:111707">Lambsdorff</name> war über diese Überein<lb break="no"/>stimmung sehr zufrieden.<lb/>
+</p>
+            <p xml:space="preserve">In der ORF-Sendung Schilling diskutierte ich mit GS <name type="person" ref="per:112978">Kehrer</name><lb/>
+über Recycling und vor allem einmal Energiesparmassnahmen,<lb/>
+ganz besonders aber Energielenkungsgesetz-Vorschlag. Da<lb/>
+<pb n="53-0148" facs="53_1980-02-06_0148.jpg"/>in dieser 3/4-Stunden-Sendung insgesamt nur 10 Minuten Diskussion<lb/>
+vorgesehen war, konnte sich eine echte Konfrontation gar nicht<lb/>
+ergeben. Die Handelskammer, und dies kam klar und deutlich zum<lb/>
+Ausdruck, lehnt natürlich jedwede auch vorbeugende Gesetzgebung<lb/>
+von Lenkungsmassnahmen auf dem Energiesektor ab. Dies zeigt<lb/>
+mir klar und deutlich, dass wir im Parlament sicherlich nicht<lb/>
+für das Energielenkungsgesetz die 2/3-Mehrheit zustandebringen.<lb/>
+Vielleicht wird der eine oder andere Punkt in das jetzt be<lb break="no"/>stehende aufgenommen werden. Nachdem ich dann zum dritten Mal<lb/>
+in drei Legislaturperioden die entsprechenden Vorschläge dem<lb/>
+Parlament gemacht habe und dort immer abgeblitzt bin, muss<lb/>
+ich mir genau überlegen, ob ich diese Taktik fortsetzen soll.<lb/>
+Jetzt, nämlich das dritte Mal, muss es auf alle Fälle noch einmal<lb/>
+geschehen, die ÖVP muss zur Aussage gezwungen werden, dass sie<lb/>
+zwar immer wieder mich angreift, gleichzeitig aber mir aber keine<lb/>
+Kompetenzen gibt. Dieser Zustand ist aber, fürchte ich, auf lange<lb/>
+Sicht für mich wesentlich unangenehmer als für die ÖVP. Die Ausrede,<lb/>
+ich habe keine gesetzliche Kompetenz, wird nämlich – davon bin<lb/>
+ich überzeugt – auf die Dauer auch bei der gutgläubigen Bevölkerung<lb/>
+nicht akzeptiert werden, sondern der Eindruck entstehen, das ist<lb/>
+eben ein unfähiger Minister.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Über dieses Problem müssen wir uns ein<lb break="no"/>gehend unterhalten.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="53_0142_10" facs="53_1980-02-06_0142-10.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 6.2.1978</head>
+         </div>
+         <pb n="53_0142_11" facs="53_1980-02-06_0142-11.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

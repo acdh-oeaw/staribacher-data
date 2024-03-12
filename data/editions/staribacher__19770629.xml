@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittwoch, der 29. Juni 1977</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band37_1977-06-29</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1977-06-29">Mittwoch, 29. Juni 1977</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-06-20">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="37-0781" facs="37_1977-06-29_0781.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Mittwoch, 29. Juni 1977<lb/>
+</p>
+            <p xml:space="preserve">Dir. <name type="person" ref="per:97333">Bandhauer</name> und <name type="person" ref="per:97526">Hautzenberg</name> berichten mir, dass die Beteili<lb break="no"/>gungen der Länder an Voitsberg III dem Kohlenkraftwerk endgültig<lb/>
+fixiert ist. STEWEAG und KELAG je 10 %, TIWAG 5 %, SAFE und VKW<lb/>
+je 3 %, insgesamt also 31 % Beteiligung der Landesgesellschaften.<lb/>
+Der Baubeschluss wird am 8. Juli gefasst. Es ist eigentlich unwahr<lb break="no"/>scheinlich, wie lange es dauert, bis etwas verwirklicht werden kann.<lb/>
+Vor drei Jahren setzte ich – und darauf bin ich schon ein wenig<lb/>
+stolz – die Initiative bei einem Besuch von Pölfing-Bergla und<lb/>
+dem Köflacher Kohlenrevier. Nachdem ich die Kompetenz der Elektri<lb break="no"/>zitätswirtschaft übernommen habe. Überrascht war ich von der Mittei<lb break="no"/>lung, dass in der Arbeitsgemeinschaft der Länder noch immer man damit<lb/>
+rechnet, 1985 das zweite Kernkraftwerk Stein in Betrieb nehmen zu<lb/>
+können. Ich traute meinen Ohren nicht, noch mehr überrascht war ich<lb/>
+allerdings, als bei der Vorsprache der Betriebsräte der verstaatlichten<lb/>
+Elektrizitätswirtschaft fraktionell beim Bundeskanzler <name type="person" ref="per:114380">Nischkauer</name><lb/>
+dezidiert erklärte, Sekt.Chef <name type="person" ref="per:107937">Frank</name> hätte bei der letzten Auf<lb break="no"/>sichtsratssitzung der Verbund den Vorstand hart kritisiert, weil<lb/>
+er nicht alle Planungsarbeiten vorantreibe, damit das zweite<lb/>
+Kernkraftwerke so schnell wie möglich in Angriff genommen werden<lb/>
+kann. Eine sofortige Rücksprache mit Sekt.Chef <name type="person" ref="per:107937">Frank</name> ergab, dass<lb/>
+er nur immer wieder die Vorstände der Verbundgesellschaft kritisiert,<lb/>
+weil sie nicht schnell und umfangreich die notwendigen vorarbeiten<lb/>
+für die Lagerung von abgebrannten Brennstäben und sogar die Endla<lb break="no"/>gerung von Atommüll bearbeiten. Er hätte nur dezidiert erklärt,<lb/>
+man solle nicht glauben, dass ein zweites Kernkraftwerk genauso<lb/>
+schlampig vorbereitet übernommen werden könne. <name type="person" ref="per:107937">Frank</name> weiss genau<lb/>
+und ich habe dies dezidiert schon einige Male erklärt, dass momentan<lb/>
+nicht daran zu denken ist, ein zweites Kernkraftwerk in Angriff<lb/>
+zu nehmen. Solange wir nur die Spur einer möglichen Deckung unseres<lb/>
+Strombedarfes durch andere Primärenergieträger und solange wir<lb/>
+die Importmöglichkeiten haben, wird wie ich bereits 1974 dezidiert<lb/>
+entschieden habe, ein zweites Kernkraftkwerk nicht in Angriff<lb/>
+genommen. Wie bei der Vorsprache der Betriebsräte bei <name type="person" ref="per:97668">Kreisky</name><lb/>
+dieser auch dezidiert erklärte, glaubt er, das in unmittelbarer<lb/>
+Zukunft die kanadische Technologie, die wesentlich sicherer ist,<lb/>
+auch für Österreich in Frage käme. Ich selbst habe damals, als der<lb/>
+Baubeschluss für das zweite Kernkraftwerk heranreifte und ich auf<lb/>
+die Verschiebung drängte, nur entschieden, dass die 1.300-MW-Typen<lb/>
+erst viel zu wenig gebaut werden und wir nicht unbedingt bei den<lb/>
+<pb n="37-0782" facs="37_1977-06-29_0782.jpg"/>Kernkraftwerken sein wollen, die dann alle Kinderkrankheiten der<lb/>
+Technologie mitmachen müssen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name>: Eine Besprechung über kanadische Kernkraft<lb break="no"/>werke einberufen, damit wir uns informieren lassen.<lb/>
+</p>
+            <p xml:space="preserve">Am meisten überrascht aber bei der Vorsprache der Betriebsräte<lb/>
+bei <name type="person" ref="per:97668">Kreisky</name> war die Stellungnahme der Betriebsräte. <name type="person" ref="per:97668">Kreisky</name> hatte<lb/>
+angenommen, dass die Betriebsräte zu ihm kommen, um ihn zu fragen,<lb/>
+warum der Kernkraftwerk nicht in Betrieb gehen soll, resp. wie<lb/>
+sich die Regierung und insbesondere er persönlich vorstellt, dass es<lb/>
+weitergehen soll. Er hat deshalb sofort anfangs erklärt. er will<lb/>
+niemandem das Wort nehmen, aber doch zuerst einmal seine Stellung<lb break="no"/>nahme bekanntgeben. Dezidiert führt er aus, dass wir nicht umhinkommen,<lb/>
+das Kernkraftwerk Tullnerfeld in Betrieb zu nehmen, dass aber<lb/>
+doch vorher unbedingt die Lagerung der abgebrannten Brennstäbe und<lb/>
+gegebenenfalls auch des Atommülls geklärt sein muss. Dies könne nicht<lb/>
+gegen das Waldviertel entschieden werden, denn dann gäbe es dort einen<lb/>
+Bürgerkrieg, wie wir ihn jetzt auch in der Schweiz ansatzmässig er<lb break="no"/>leben müssen. Die Wahlen seien 1979 sowieso verloren. Wen kein<lb/>
+Entscheid fällt, werden es Atomwahlen, weil die ÖVP uns diese aufzwin<lb break="no"/>gen wird und wenn eine Entscheidung gefallen ist, werden es erst<lb/>
+recht Atomwahlen. Trotzdem werden wir entscheiden müssen, auch dann<lb/>
+wenn jetzt noch und daran wird sich nichts ändern innerhalb der<lb/>
+Partei in den entsprechenden Gremien verschiedene Meinungen zur<lb/>
+Atomkraft bestehen. Die Betriebsräte antworteten dann unisono<lb/>
+sie erwarten gar nicht, dass das Atomkraftwerk bald in Betrieb<lb/>
+geht. <name type="person" ref="per:114380">Nischkauer</name> meinte nur, dass die SJ vor 20 Jahren, wie er noch<lb/>
+dabei war, für die friedliche Nutzung der Atomenergie demonstriert<lb/>
+hat. Jetzt, wenn Tullnerfeld in Betrieb geht, ohne dass die End<lb break="no"/>lagerung abgeschlossen ist, kann Österreich aber noch viel<lb/>
+mehr die SPÖ von jedermann erpresst werden. Der Reaktor ist sozusagen<lb/>
+kritisch, die Zeituhr läuft ab und die Sozialisten werden jedermann<lb/>
+ausgeliefert. In der ÖVP-Zeit wurde durch den Präs. <name type="person" ref="per:112215">Weiss</name>, damals<lb/>
+Minister für die E-Wirtschaft, die Verbundgesellschaft durch die<lb/>
+Landesgesellschaften förmlich erpresst, dieses Kernkraftwerk in<lb/>
+Angriff zu nehmen. Als die Verbundgesellschaft 1971 ein Moratorium<lb/>
+vorschlug, haben die Landesgesellschaftsvertreter erklärt, eine<lb/>
+Vertragsverlängerung von <name type="person" ref="per:97555">Hintermayer</name> in der Verbundgesellschaft<lb/>
+würde von einer Lösung des Kernkraftwerk-Problems abhängig gemacht.<lb/>
+Eine glatte Erpressung, wie <name type="person" ref="per:114380">Nischkauer</name> meinte, wurde damals sogar<lb/>
+<pb n="37-0783" facs="37_1977-06-29_0783.jpg"/>schriftlich festgehalten. <name type="person" ref="per:97668">Kreisky</name> fragte sofort, wieso dies nicht<lb/>
+im Regierungsbericht drinnensteht. Sekt.Chef <name type="person" ref="per:107937">Frank</name>, den ich<lb/>
+anschliessend fragte, teilte mir wieder mit, es gäbe aus dieser<lb/>
+Zeit keinerlei Akten im Ministerium, weil alles über die<lb/>
+Ministerbüros abgewickelt wurde, was mit vollkommen unerklärlich<lb/>
+ist.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name>: Bitte sofort die Unterlagen von <name type="person" ref="per:114380">Nischkauer</name> und<lb/>
+der Verbund zusammenstellen lassen.<lb/>
+</p>
+            <p xml:space="preserve">NR <name type="person" ref="per:112931">Köck</name> meinte, was immer geschieht, was immer geschieht, es werden,<lb/>
+wenn es wirklich Kernkraftwerks-Wahlen 1979 gibt die Sozialisten<lb/>
+verlieren, wie dies <name type="person" ref="per:97668">Kreisky</name> richtig analysiert. Er drängt deshalb<lb/>
+nicht auf eine schnelle Entscheidung, sondern würde nur vorschlagen,<lb/>
+dass eine einheitliche Stellung der soz. Spitzenvertreter im<lb/>
+FS, Rundfunk usw. abgegeben wird. Eine gemeinsame Haltung sei<lb/>
+notwendig. Er selbst zweifle, ob im Parlament, wenn die Abstimmung<lb/>
+freigegeben wird, er für die Inbetriebnahme des KKW stimmen wird.<lb/>
+Neben der Genossin <name type="person" ref="per:111408">Eypeltauer</name>, die bereits angeblich erklärt hat,<lb/>
+dass sie auf alle Fälle dagegen stimmt, würde er jetzt für<lb/>
+sich als zweiter oö. Abgeordneter ebenfalls dagegen sein. <name type="person" ref="per:97668">Kreisky</name><lb/>
+bemerkte mit Recht, niemand soll je gezwungen werden, aber wie<lb/>
+kann eine einheitliche Stellungnahme der SPÖ zustande kommen,<lb/>
+wenn jeder nach Glaubens- und Gewissensfragen hier seine Meinung<lb/>
+eben dokumentiert, bevor es zur Abstimmung kommt, von der<lb/>
+<name type="person" ref="per:97668">Kreisky</name> eine Mehrheit erwartet. <name type="person" ref="per:97905">Schatzmayr</name> wieder erklärte,<lb/>
+man soll die Landesgesellschaften-Vertreter zwingen, ihre Meinung<lb/>
+öffentlich zu sagen, damit die ÖVP dann nicht nur auf die soz.<lb/>
+Vertreter immer hinhauen kann. <name type="person" ref="per:97668">Kreisky</name> verwies darauf, dass<lb/>
+er mit den Gen.Direktoren eine Aussprache veranlasst hat, wobei<lb/>
+er aber nicht überzeugt ist, dass wirklich alle Generaldirektoren<lb/>
+kommen werden. <name type="person" ref="per:114385">Kasamas</name> meinte, dass die Betriebsräte ja alle<lb/>
+Beschäftigten in der E-Wirtschaft zwei Seelen ach in ihrer<lb/>
+Brust hätten. Als Betriebsräte seien sie für die Inbetriebnahme<lb/>
+als Sozialisten aber dagegen, da sie die Angst in der Bevölkerung<lb/>
+kennen. <name type="person" ref="per:97668">Kreisky</name> ergänzte hier meiner Meinung nach sehr treffend,<lb/>
+dass für die Sozialisten immer für die Armen, Beladenen, für die<lb/>
+Angst haben eingetreten sind und jetzt in eine Situation gezwungen<lb/>
+werden, wo sie womöglich gegen diese Gruppe stimmen und auftreten.<lb/>
+Am meisten überrascht war ich vom Betriebsrat <name type="person" ref="per:141028">Fischer</name> des Kern<lb break="no"/>kraftwerkes Tullnerfeld. Er teilte mit, dass im Kontaktlager<lb/>
+bis 1980 die abgebrannten Brennstäbe nass gelagert werden können.<lb/>
+</p>
+            <pb n="37-0784" facs="37_1977-06-29_0784.jpg"/>
+            <p xml:space="preserve">Jetzt würden zwei Aufträge vergeben, die KKWP und BBC<add>[Brown, Boveri &amp; Cie.]</add><lb/>
+sollen bis Juli 1977 ein Nasslager, welches man dann als Trocken<lb break="no"/>lager auch verwenden könnte, exterritorial vom Kernkraftwerk<lb/>
+Tullnerfeld der Behörde vorgelegt werden. Darüber wurde noch<lb/>
+ein zweites Projekt verlangt, das als Trockenlager und Dauer<lb break="no"/>lager natürlich auch exterritorial Tullnerfeld einreichungsfähig<lb/>
+der Behörde vorgelegt werden muss. Jetzt verlangt aber die Behörde<lb/>
+dass es sich nicht nur um ein einreichungsfähiges, sondern bereits<lb/>
+um ein bewilligtes Projekt handelt, bevor die Betriebsbewilligung<lb/>
+gegeben wird. Dadurch kann sich die Betriebsbewilligung bis<lb/>
+auf 5 Jahre verschieben. Der Zeitplan Beginn Mai 1978 kann sowieso<lb/>
+nicht mehr eingehalten werden. Seiner Meinung nach wird es Anfangs<lb/>
+1979 möglich sein, auf Grund der jetzigen Information in der letzten<lb/>
+Aufsichtsratssitzung, dass das KKW Tullnerfeld in Betrieb gehen kann.<lb/>
+Der technische Arbeitsausschuss hätte diesbezügliche Beschlüsse<lb/>
+schon gefasst und dem Aufsichtsrat mitgeteilt. Gen.Dir. <name type="person" ref="per:112014">Erbacher</name>,<lb/>
+den ich abends dann traf, erklärte mir dezidiert, das die KWU nach wie<lb/>
+vor auf den Fertigstellungstermin Mai 1978 festgelegt ist und<lb/>
+für jedwede weitere Verzögerung Pönale bezahlen wird und muss.<lb/>
+Er selbst glaubt, dass im Herbst 1978 der Betriebsbeginn möglich<lb/>
+ist. <name type="person" ref="per:97668">Kreisky</name> hat keinerlei Zutrauen mehr zu den KWU ja zu den<lb/>
+ganzen Technikern, wegen der ständigen Erklärungen, dass dieses<lb/>
+und jenes was man seinerzeit zugesagt hat, nicht eingehalten<lb/>
+werden kann. Dies gilt aber nicht nur für <name type="person" ref="per:97668">Kreisky</name> sondern ich<lb/>
+muss zugestehen auch für mich. Ich habe <name type="person" ref="per:141028">Fischer</name> dort vorgeworfen,<lb/>
+dass bei meinem ersten Besuch im Kernkraftwerk unmittelbar nach<lb/>
+meiner Amtsübernahme für die Elektrizitätskompetenz 1974 mir<lb/>
+dezidiert erklärt wurde, sie liegen im Zeitplan und August 1976<lb/>
+geht das Kraftwerk in Betrieb. Jetzt hat es den Anschein, dass<lb/>
+es wieder einmal, zum x-ten Male einen anderen Betriebsbeginn<lb/>
+geben wird. <name type="person" ref="per:114714">Inthal</name> meint deshalb, <choice><choice><sic>umfasste</sic><corr>und fasste</corr></choice></choice> so die Meinung aller<lb/>
+Betriebsräte zusammen, man sollte nicht auf eine Entscheidung<lb/>
+drängen. Sie tun es auf keinen Fall, sie wollten nur die<lb/>
+Meinung <name type="person" ref="per:97668">Kreiskys</name> wissen. <name type="person" ref="per:97668">Kreisky</name> wieder fasst zusammen, dass die<lb/>
+soz. Funktionäre immer davon nur ausgehen, was sie in ihrem Kreis<lb/>
+hören. Die Möglichkeit der Einflussnahme sie durch eine Notiz<lb/>
+von <name type="person" ref="per:107937">Frank</name> an <name type="person" ref="per:97668">Kreisky</name> für die Regierung resp. Handelsministerium<lb/>
+klar und deutlich so ihm mitgeteilt worden, dass kein Eigentümer<lb break="no"/>charakter durch das Handelsministerium gegeben ist. <name type="person" ref="per:107937">Frank</name>, den ich<lb/>
+unverzüglich dann fragte, meinte, dies sei ein Missverständnis,<lb/>
+denn er hätte in der Notiz nur geschrieben, dass die Eigentums<lb break="no"/><pb n="37-0785" facs="37_1977-06-29_0785.jpg"/>vertretung des Staats durch die Verbund erfolgt, die Verbund in<lb/>
+den Organen der GKT vertreten ist und daher das Handelsministerium<lb/>
+direkt keinen Einfluss hat.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name>: Bitte lass Dir endlich alle Aktennotizen<lb/>
+und Informationen von <name type="person" ref="per:107937">Frank</name> geben.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> versicherte den Delegationsmitgliedern, dass sicherlich<lb/>
+am 7.7. 1977 im Parteivorstand nicht der Betriebsbeginn von<lb/>
+Tullnerfeld festgelegt wird. Der Beschluss könne nur so lauten,<lb/>
+dass zwar Tullnerfeld in Betrieb genommen wird, wenn aber erst<lb/>
+die Frage der Lagerung des Atommülls resp. der abgebrannten<lb/>
+Brennelemente einwandfrei geklärt ist.<lb/>
+</p>
+            <p xml:space="preserve">Mit <name type="person" ref="per:107937">Frank</name>, <name type="person" ref="per:97543">Heindl</name> und <name type="person" ref="per:98040">Wais</name> besprach ich die weitere Vorgangsweise<lb/>
+auf dem KKW-Sektor resp. Bergbauförderung. Ich habe <name type="person" ref="per:107937">Frank</name> eindring<lb break="no"/>lich davor gewarnt sich zu sehr zu exponieren, da ich ehrlich ge<lb break="no"/>standen auch immer unsicherer werde. Ein zweites Kernkraftwerk kommt<lb/>
+jetzt überhaupt nicht in Frage und er soll sich nicht dem Vorwurf aus<lb break="no"/>setzen, dass er es ist, der drängt, obwohl wir dafür gar nicht<lb/>
+zuständig sind, dass das Kernkraftwerke jetzt unverzüglich in<lb/>
+Betrieb geht. <name type="person" ref="per:107937">Frank</name> teilte mir mit, dass er genauso überrascht<lb/>
+war, über die Betriebserrichtungsbescheide, ohne Flugzeugabsturz<lb break="no"/>sicherung und Gasschiffahrtstanker-Explosion. Er vermutet, dass<lb/>
+jetzt bei der Kompaktlager-Billigungs-Besprechung und -Diskussion<lb/>
+dieses Problem neuerdings wird von de-r Behörde aufgerollt werden.<lb/>
+Bezüglich der Novelle eines Bergbauförderungsgesetzes, wonach auch<lb/>
+andere Mineralien in die Bergbauförderung aufgenommen werden sollen,<lb/>
+wird zugewartet, bis wir im Herbst mit dem Finanzministerium unsere<lb/>
+Bergbauförderungsbudgetdiskussion abgeschlossen haben. Erst dann<lb/>
+werden wir diskutieren und entscheiden, wie wir in der Bergbauförderung<lb/>
+überhaupt weiter vorgehen. Entgegen der Stellungnahme des FM<lb/>
+werde ich unter gar keinen Umständen ein diesbezügliches Gesetz<lb/>
+bearbeiten lassen oder gar einbringen. Ich möchte nicht miterleben,<lb/>
+dass der Finanzminister mir einmal einen Vorwurf machen kann, ich<lb/>
+hätte von ihm finanzielle Mittel verlangt, die er durch die Budget<lb break="no"/>situation bedingt nicht bringen kann. Ich habe seit 1970 nichts<lb/>
+von ihm verlangt und ich werde daher auch in Hinkunft diese Politik<lb/>
+fortsetzen. Ich kenne die Schwierigkeiten, die sich ergeben, wenn<lb/>
+man zuerst irgendwo doch eine Zusage erwartet, den Gesetzesauftrag<lb/>
+dann bekommt und letzten Endes aus dem laufenden Budget dann<lb/>
+entsprechend umschichten muss, um überhaupt decken zu können.<lb/>
+Diese Taktik habe ich angewendet wie <name type="person" ref="per:97311">Androsch</name> 1970 mir sofort<lb/>
+<pb n="37-0786" facs="37_1977-06-29_0786.jpg"/>für die Industrieförderung 20 Mill. S, ohne dass ich es gefordert<lb/>
+habe, gegeben hat. Mit 20 Mill. S kann man nämlich keine Industrie<lb break="no"/>förderung machen ohne stark zu selektieren oder wenn man so will<lb/>
+nur ganz gewisse Betriebe zu fördern. Ich habe deshalb dann die<lb/>
+20 Mill. S sofort für gewerbliche Förderung umgewidmet. Hätte<lb/>
+ich diese nicht gehabt, hätten wir in der Bürges und in der allgemeinen<lb/>
+Wirtschaftsförderung niemals die Anforderungen, die an uns dann<lb/>
+letzten Endes gestellt wurden, erfüllen können. Wenn jetzt für<lb/>
+die Bergbauförderung anstelle der rund 60 Mill. im Budget minde<lb break="no"/>stens das Vierfache in Hinkunft gegeben wird, so werde ich zwar<lb/>
+diese Beträge tatsächlich in den nächsten Jahren für die Kohle<lb/>
+dringendst brauchen, in weiterer Folge aber vielleicht dann daraus<lb/>
+Mittel flüssig machen können, um andere Aktivitäten entfalten zu<lb/>
+können. Erst zu diesem Zeitpunkt wäre es opportun, einen Gesetzes<lb break="no"/>auftrag, den die ÖVP ja schon lange mir geben wollte, dann von<lb/>
+selbst aus zu verlangen.<lb/>
+</p>
+            <p xml:space="preserve">In der Preiskommission hat <name type="person" ref="per:112011">Kurzel</name> sehr geschickt die Aufhebung der<lb/>
+Preisfreigabe für Weissgebäck, geformt, d.h. in dem Fall nur für<lb/>
+die Semmel, eingeleitet und vorbereitet. Mich selbst ersuchte er,<lb/>
+zu erklären, warum diese Massnahme notwendig ist. Ich habe sofort<lb/>
+so referiert, dass alle annehmen mussten, dies sei nicht nur ein<lb/>
+Wunsch des ÖGB und der AK sondern auch fest schon eine abgesprochene<lb/>
+Angelegenheit mit der Bundeskammer. Tatsächlich wurde dann von allen<lb/>
+Vertretern, auch von der Handelskammer, die noch durch die Brot<lb break="no"/>industrie verstärkt war, dem Verordnungsentwurf zugestimmt. <name type="person" ref="per:115366">Heinrich</name><lb/>
+als der Vertreter der Brotindustrie fragte nur, ob trotzdem eine<lb/>
+Chance besteht, dass in absehbarer Zeit ihre nicht kostendeckende<lb/>
+Semmelkalkulation berücksichtigt wird. Ich erklärte ihm genauso<lb/>
+wie <name type="person" ref="per:97893">Sallinger</name>, der dann bei mir anfragte, wie es jetzt weitergehen<lb/>
+soll, dass die Absicht bestanden hat, innerhalb der Paritätischen<lb/>
+Kommission ja mit 1. August, nachdem 1 Jahrestermin eingehalten wurde,<lb/>
+eine Preiskorrektur zu genehmigen. Dies war ja auch der Grund,<lb/>
+warum die Bundesinnung ihre Landesinnungen ersuchte und insbesondere<lb/>
+die Funktionäre aufforderte, zuzuwarten. Nur die Wiener Innung<lb/>
+und die Wiener Handelskammer dürften aus Protest in innerem Gegen<lb break="no"/>satz um nicht zu sagen Streit mit der Zentralstelle dokumentieren,<lb/>
+dass sie eine härtere Gangart wünscht. Von 36 Bäckern, wo ein<lb/>
+Probeeinkauf getätigt wurde, haben 28 den 1.10-S-Preis verlangt.<lb/>
+ich habe nachmittags dann sofort mit Bgm. <name type="person" ref="per:97488">Gratz</name> gesprochen, der<lb/>
+erklärte, er wird, wenn er die Delegierung jetzt bekommt, sofort den<lb/>
+Preis von 1.- S festsetzen, bis die Paritätische Kommission einen<lb/>
+anderen Preis genehmigt hat.<lb/>
+</p>
+            <pb n="37-0787" facs="37_1977-06-29_0787.jpg"/>
+            <p xml:space="preserve"><name type="person" ref="per:97893">Sallinger</name> wird sich bemühen, dass die Bäcker freiwillig unverzüg<lb break="no"/>lich den 1-S-Preis wieder einhalten und diesbezügliche Besprechung<lb/>
+mit der Innung führen. In der Preiskommission hat <name type="person" ref="per:112011">Kurzel</name> dann er<lb break="no"/>klärt warum die Delegierung an den LH durch Verordnung erfolgen<lb/>
+muss. Da die Semmelpreise vom Bürgermeister dann auch durch Verordnung<lb/>
+erlassen werden, muss der Verordnungsweg beschritten werden. Bei<lb/>
+der seinerzeitigen Aufhebung des Erdgaspreise für Oberösterreich<lb/>
+wurde dies durch Bescheid dem LH mitgeteilt. Dies war deshalb möglich,<lb/>
+weil zwei Firmen davon betroffen sind und deshalb diesen beiden<lb/>
+Firmen ebenfalls durch Bescheid dies mitgeteilt werden konnte.<lb/>
+Ich nützte gleich die Gelegenheit der Preiskommission, um unter All<lb break="no"/>fälligem mitzuteilen, dass jetzt der seinerzeitige Antrag der AK<lb/>
+auch die Gaspreise preiszuregeln von mir jetzt aufgenommen wird.<lb/>
+Die Vorbereitung und Vorprüfungen erfolgen bereits in der Sektion<lb/>
+Energie.<lb/>
+</p>
+            <p xml:space="preserve">Dir. <name type="person" ref="per:113124">Nemetschke</name>, Fa. Rella, hat mit einer deutschen Firma Bilfinger<lb/>
+Berger in der Türkei den Zuschlag für ein grosses Dammprojekt<lb/>
+für 2,5 Mia. S zu 50 % Rella-Anteil bekommen. Die Österr. Kontroll<lb break="no"/>bank, <name type="person" ref="per:97518">Haschek</name> erklärt zwar im Prinzip, dass für die Ausfuhr<lb break="no"/>finanzierung übernehmen kann, dass dies aber noch grosse Schwierigkeiten<lb/>
+macht. Bankmässig soll dies mit der Genossenschaftlichen Zentral<lb break="no"/>bank abgewickelt werden. Ich versprach, entsprechend zu inter<lb break="no"/>venieren.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98072">WIESINGER</name>: Bitte mit Gen.Dir. <name type="person" ref="per:127907">Klauhs</name> verbinden.<lb/>
+</p>
+            <p xml:space="preserve">In der Wirtschaftspolitischen Aussprache gab es keinerlei neue<lb/>
+Gesichtspunkte, ausser dass <name type="person" ref="per:97937">Seidel</name> berichtete, die angenommen<lb/>
+positive Entwicklung würde fortgesetzt, wahrscheinlich sogar noch bis<lb/>
+ins Jahr 1978 sich hineinwirken. Präs. <name type="person" ref="per:97637">Kloss</name>, ÖNB, berichtet über<lb/>
+den Devisenzuwachs der letzten Zeit und die Handelskammervertreter<lb/>
+klagten über die steuerlichen Belastungen. <name type="person" ref="per:97311">Androsch</name> setzte ihnen<lb/>
+die Notwendigkeit, um eine Budgetbeweglichkeit zu bekommen, aus<lb break="no"/>einander.<lb/>
+</p>
+            <p xml:space="preserve">In der Fraktion der soz. Direktoren des E-Verbandes wurde besprochen,<lb/>
+wie der Versuch von <name type="person" ref="per:97496">Gruber</name> und Abg. <name type="person" ref="per:111410">König</name> abgewehrt werden kann,<lb/>
+dass jetzt der Vertreter der Privat-Elektrizitätswerke, <name type="person" ref="per:140319">Frizberg</name><add>[hs. ergänzt, Anm.]</add>, der seinerzeit<lb/>
+verzichtet hatte, jemals Verbandspräsident zu werden, nicht jetzt mit<lb/>
+der dort starken schwarzen Mehrheit doch dazu gewählt wird. Ich selbst<lb/>
+war sehr überrascht vor einiger Zeit zum ersten Mal mit dieser Frage<lb/>
+<pb n="37-0788" facs="37_1977-06-29_0788.jpg"/>konfrontiert, zu erfahren, dass 1972, als also schon längst die<lb/>
+soz. Mehrheit feststand, man in diesem Verband überhaupt nichts<lb/>
+geändert hat, was dem tatsächlichen Stärkeverhältnis entspreche.<lb/>
+Wenn, erklärte ich, die Verbundgesellschaft einige Landesgesell<lb break="no"/>schaften und Städte aus dem Verein, der ja nur auf privatrechtlicher<lb/>
+Basis fundiert ist, hinaustritt, dann bricht die ganze ÖVP-Organisation<lb/>
+zusammen. Leider musste ich dann ins Parlament zurück und konnte die<lb/>
+Diskussion nicht mehr weiter verfolgen.<lb/>
+</p>
+            <p xml:space="preserve">Im Parlament kam abends um 8 Uhr der Nahversorgungs- und Wettbewerbs<lb break="no"/>verbesserungsgesetzentwurf zur Debatte. Ich hatte die feste Absicht,<lb/>
+mich nicht zu melden, da es erstens einmal Initiativanträge waren<lb/>
+die letzten Endes zu dem Gesetzentwurf führten und zweitens am<lb/>
+Abend sowieso jeder nur beliebt wird, der nicht mehr redet.<lb/>
+Abg. <name type="person" ref="per:116983">Frauscher</name> als dritter und letzter Redner der ÖVP griff aber derart<lb/>
+<choice><choice><sic>tig</sic><corr>heftig?</corr></choice></choice> mich als Handelsminister und gesamt soz. Regierung an, lobte,<lb/>
+dass <name type="person" ref="per:97749">Mitterer</name> bereits viel mehr für die kleinen getan hat, dass ich<lb/>
+nicht umhin konnte, mich dann doch ganz kurz zu melden. Zum Gaudium<lb/>
+unserer Fraktion fragte ich mit Recht, wieso es <name type="person" ref="per:97749">Mitterer</name>, meinem<lb/>
+Amtsvorgänger, nicht möglich war, 1966 bis 1970 eine Regelung<lb/>
+die allen Wünschen und die die ÖVP so gerne gemacht hätte, zustande<lb/>
+zu bringen. Bei uns hat es 7 Jahre zwar gedauert, seit 1970, aber wir haben<lb/>
+immer hin einen Konsens jetzt erreicht und das Handelsministerium<lb/>
+hat entscheiden dabei mitgewirkt. Die Bürges, wo für die Klein-<lb/>
+und Mittelbetriebe so viel geschieht, musste <name type="person" ref="per:97749">Mitterer</name> zusperren,<lb/>
+<choice><choice><sic>als</sic><corr>?</corr></choice></choice> im BÜG von <name type="person" ref="per:97311">Androsch</name> konnten wir sie wieder aufmachen und seit<lb/>
+der Zeit geschieht dort Jahr für Jahr wesentlich mehr als in der<lb/>
+ÖVP-Zeit je geschah. Mit Zwischenrufen von der ÖVP ständig fast als<lb/>
+Stichwortbringen genützt, konnte ich auf unsere Leistung hinweisen.<lb/>
+Das lustigste war aber der Zwischenruf <name type="person" ref="per:97769">Mussils</name>, ich hätte die<lb/>
+Akte verbrannt. <name type="person" ref="per:97769">Mussil</name> weiss ganz genau, dass dies noch die Akte<lb/>
+von <name type="person" ref="per:97749">Mitterer</name> waren, die dieser angeordnet hat zu verbrennen, die<lb/>
+Bürokratie aber solange brauchte bis der Ofen endlich angeheizt wurde,<lb/>
+dass dies tatsächlich in meiner Amtszeit dann die halben verbrannten<lb/>
+Akte aus dem Schornstein auf den Stubenring fielen. <name type="person" ref="per:97769">Mussil</name> hat die<lb/>
+alte Taktik immer wieder etwas zu behaupten, wenn es auch noch so<lb/>
+falsch ist, irgendwie wird es dann vielleicht doch in der Öffent<lb break="no"/>lichkeit ankommen und wenn es oft genug gesagt wird, auch geglaubt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name>: Bitte dies besonders genau verfolgen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="37_0780_01" facs="37_1977-06-29_0780-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 29.6.1977</head>
+         </div>
+         <pb n="37_0780_02" facs="37_1977-06-29_0780-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

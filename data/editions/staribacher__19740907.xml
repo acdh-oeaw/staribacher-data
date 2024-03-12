@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der  7. September 1974</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band22_1974-09-07</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1974-09-07">Samstag, 7. September 1974</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2017-01-10">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band22/">
+      <body>
+         <pb n="22-1038" facs="22_1974-09-07_1038.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Samstag, den 7. September 1974</p><p xml:space="preserve">Da ich wußte, daß die Arbeiterkammer bei <name type="person" ref="per:97346">Benya</name> eine Besprechung über<lb/>
+die Marktordnungen hatte, ich <name type="person" ref="per:97346">Benya</name> und die Arbeiterkammer dringend<lb/>
+über die Zuckerpreissituation informieren wollte, habe ich telefonisch<lb/>
+<name type="person" ref="per:97563">Hofstetter</name> von meiner Teilnahme verständigt. <name type="person" ref="per:97346">Benya</name> war sehr erfreut,<lb/>
+daß ich zu dieser Aussprache gekommen bin. Bezüglich der Würfelzucker<lb break="no"/>preis-Regelung einigten wir uns sofort, daß ich den § 3a nicht anwen<lb break="no"/>den soll, sondern, daß wenn die rechtliche Möglichkeit besteht und<lb/>
+<name type="person" ref="per:97584">Jagoda</name> hat dies ja eindeutig bestätigt und ich teile seine Meinung,<lb/>
+daß ich eben die Preisregelung auf Grund des Preisregelungsgesetzes<lb/>
+Anlage A durchführen soll. Über die Höhe des Würfelzuckerpreises<lb/>
+einigten wir uns auch verhältnismäßig bald, weil selbst <name type="person" ref="per:98112">Zöllner</name> und<lb/>
+auch <name type="person" ref="per:97676">Lachs</name> erklärten, es wäre schon ein großer Erfolg, wenn ich<lb/>
+einen tieferen Preis als 80 Groschen bis 1 Schilling, wie derzeit<lb/>
+für die verschiedenen Sorten von der Zuckerindustrie verlangt wird,<lb/>
+reduzieren könnte. <name type="person" ref="per:97346">Benya</name> sagt rundwegs, ich könnte ohne weiteres bis<lb/>
+70 Groschen gehen. Ich glaube allerdings, das habe ich dort nicht<lb/>
+erklärt, daß ich eine gute Startchance habe. <name type="person" ref="per:117100">Habig</name> hat mir über<lb/>
+<name type="person" ref="per:58381">Mauthner</name> seinerzeit wissen lassen, daß er bereit ist, für gewisse<lb/>
+Würfelzuckersorten, wie z.B. Großwürfel überhaupt nur 50 oder 60<lb/>
+Groschen Preiserhöhung zu verlangen. Was er nun seinerzeit den<lb/>
+Arbeiterkammervertretern zugestanden hat, muß er natürlich jetzt<lb/>
+ebenfalls bei der amtlichen Preisregelung zur Kenntnis nehmen resp.<lb/>
+akzeptieren. Die Frage ist nur, wie ich dies taktisch angehen soll.<lb/>
+Weder <name type="person" ref="per:112011">Kurzel</name> noch <name type="person" ref="per:112051">Singer</name> kann ich beauftragen jetzt hier so zu<lb/>
+recherchieren, ob die Zuckerindustrie noch bereit ist, dieses<lb/>
+seinerzeitige Anbot aufrecht zu erhalten.</p><p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:98040">WAIS</name>: Lass Dir bitte von <name type="person" ref="per:58381">Mauthner</name> und <name type="person" ref="per:112010">Blaha</name>, resp.<lb/>
+<name type="person" ref="per:114467">Wehsely</name> die einzelnen Preisvorschläge noch einmal bestätigen.</p><p xml:space="preserve">Über das Marktordnungsgesetz einigten wir uns dann auch nach ver<lb break="no"/>hältnismäßig längerer Debatte. Landwirtschaftsminister <name type="person" ref="per:98055">Weihs</name> hat<lb/>
+mit <name type="person" ref="per:98112">Zöllner</name> und <name type="person" ref="per:112010">Blaha</name> eine Vorverhandlung geführt und mir gegenüber<lb/>
+erklärt, daß er sich weitgehendst geeinigt hat. Dies stimmt auch tat<lb break="no"/>sächlich bis auf einige, aber doch sehr entscheidende Punkte. <name type="person" ref="per:98055">Weihs</name><lb/>
+glaubt noch immer er kann den Ernährungsplan als daß große fort<lb break="no"/>schrittliche neue Element der Marktordnung vorschlagen. Ich habe die<lb/>
+<pb n="22-1039" facs="22_1974-09-07_1039.jpg"/>größten Bedenken, weil dadurch Dutzende um nicht zu sagen hunderte<lb/>
+Millionen vom Finanzminister für die Bevorratung und diesen Ernährungs<lb break="no"/>plan bereitgestellt werden müßen. Alle anderen Punkte, glaube ich, können<lb/>
+wir uns ohne weiteres fraktionell einigen. In seinen neuen Entwurf hat<lb/>
+er die automatische Krisenregelung bei dem Milchgroschen, den er mit<lb/>
+der Landwirtschaft auf Vertragsbasis unter Krampf<add>[Kampf?]</add> abgeschlossen hat,<lb/>
+jetzt im Gesetz verankert. Neu sollen auch alle Exporte in die Fonds<lb/>
+kommen, wobei für Milch und Getreide sogar eine Abschöpfung vorgesehen<lb/>
+ist. Die Landwirtschaft wird hier sicherlich dann die Erstattung ver<lb break="no"/>langen, doch wird man sich dagegen kaum wehren können. Die Regelung<lb/>
+für die Viehimporte ist ein seinem Entwurf jetzt vom Standpunkt des<lb/>
+Gewerkschaftsbundes und der Arbeiterkammer nicht akzeptabel. Hier<lb/>
+schlug <name type="person" ref="per:97676">Lachs</name>, aber auch <name type="person" ref="per:112010">Blaha</name> und <name type="person" ref="per:98112">Zöllner</name> und <name type="person" ref="per:114075">Schmidt</name> hat sich dem<lb/>
+sofort angeschlossen, die Formulierung vor, wie sie <name type="person" ref="per:97524">Hauffe</name> jetzt in<lb/>
+meinem inoffiziellen Entwurf auch aufgenommen hat. Diese Formulierung<lb/>
+stammt allerdings von <name type="person" ref="per:97872">Rief</name> von der Bundeshandelskammer der sich<lb/>
+nicht getraut, sie der Handelskammer offizielle vorzuschlagen. In diesem<lb/>
+Fall würde eine automatische Lizenzierung vorgesehen sein, die nur aus<lb/>
+volkswirtschaftlichen Gründen in eine weltweite Ausschreibung umge<lb break="no"/>wandelt werden könnte. Bezüglich der Kommissionen hat <name type="person" ref="per:98055">Weihs</name> jetzt einen<lb/>
+Vorschlag, daß er erstens bei der Kommission, die ihn für den Milch<lb break="no"/>krisengroschen berät, nicht mehr die politischen Parteien, also den<lb/>
+Bauernbund und den Arbeitsbauernbund und die freiheitlichen Bauern,<lb/>
+sondern eben die Kammern einschaltet und den Österreichischen Gewerk<lb break="no"/>schaftsbund. Getreide- und der Viehfonds sollen jeweils aus zwölf-<lb/>
+und zwölf Mitglieder, wobei die zweiten zwölf vom Gewerkschaftsbund<lb/>
+und Arbeiterkammer nominiert werden. <name type="person" ref="per:97346">Benya</name> lehnt dies ab und meint,<lb/>
+soll die Arbeiterkammer die Parität bekommen und der Gewerkschaftsbund<lb/>
+gar nicht genannt werden, d.h. es wird gegenüber 27 jetzt 3 x 9<lb/>
+eine Reduktion der Kommission erfolgen. Beim Viehverkehrsfonds wäre<lb/>
+es 6 zu 6, das sind also 12 gegenüber derzeit 3 x 3 neun Kommissions<lb break="no"/>mitgliedern. Wenn es zu einer solchen Kommissionsumwandlung kommt,<lb/>
+wird der Gewerkschaftsbund auf die einfache Abstimmung verzichten,<lb/>
+d.h. es könnte eine 4/5 Mehrheit bleiben. Auf alle Fälle aber muß der<lb/>
+Minister ein eindeutiges Weisungsrecht bekommen. Nebenbei ein sehr<lb/>
+interessantes Detail, daß die Bürokratie sich jetzt durchgesetzt<lb/>
+hat und eine Bestimmung aufgenommen werden soll, daß der Bundesminister<lb/>
+für Finanzen und für Handel, Gewerbe und Industrie bzw. ihre Vertreter<lb/>
+Sitzungsgeld in der gleichen Höhe wie die Kommissionsmitglieder be<lb break="no"/>kommen sollen. Hier werden die Minister vorgeschoben, um den Beamten<lb/>
+<pb n="22-1040" facs="22_1974-09-07_1040.jpg"/>Sitzungsgelder auszuzahlen. Interessanterweise wollte sich weder<lb/>
+der Gewerkschaftsbund noch die Arbeiterkammer gegen eine solche<lb/>
+Bestimmung aussprechen, <name type="person" ref="per:112010">Blaha</name> mit dem Hinweis, daß er die Beamten<lb/>
+ja doch bei den Sitzungen braucht. Ich muß mir deshalb etwas anderes<lb/>
+einfallen lassen. Bei einem genauen Studium aller Entwürfe und vor<lb/>
+allem auch der Stellungnahmen von <name type="person" ref="per:112956">Schwarz</name> und <name type="person" ref="per:97524">Hauffe</name> bin ich erst<lb/>
+jetzt auf diese Tatsache gestoßen. In Hinkunft müssen wir im Büro und<lb/>
+ich selbst auch solche Stellungnahmen und ganz besonders diese politisch<lb/>
+heißen Bestimmungen genauer beachten.</p><p xml:space="preserve">Bei einem Ausflug auf dem Schöpfl, mich interessierte die Situation<lb/>
+für das Subventionsansuchen, konnte ich wieder feststellen, daß sich<lb/>
+die Wandergewohnheit sehr geändert hat. Das Gebiet ist teilweise<lb/>
+durch Forstaufschließungsstraßen, vor allem aber durch einen Zufahrtsweg,<lb/>
+der wahrscheinlich nicht für die Öffentlichkeit freigegeben ist, aber<lb/>
+doch benützt wird, so erschlossen, daß die meisten Besucher mit dem<lb/>
+Auto bis zur Schutzhütte fahren. Der Hüttenwirt, der mich nicht erkannte<lb/>
+und anfangs immer nur meinte, daß ich den Herrn Handelsminister sehr<lb/>
+ähnlich schau, lebt glaube ich wirklich primär von den Autofahrern,<lb/>
+die bis rauf kommen. Die Aussichtswarte, die sicherlich eine Attraktion<lb/>
+wäre und die bis August hätte fertig sein sollen, ist natürlich erst<lb/>
+mit den Eisengerüst und den Anstrich zu Ende. Daß bereits in unmittel<lb break="no"/>barer Nähe der Schutzhütte mitten auf einer Wiese ein Autowrack steht, ist<lb/>
+daher nicht besonders überraschend, dafür aber umso grauenhafter.<lb/>
+Ich glaube, daß man die Konzeption des Wanderns und Bergsteigens<lb/>
+zumindestens in der Umgebung der Städte neu überdenken müsse. Obwohl<lb/>
+ich persönlich das alles zu Fuß mache, glaube ich, daß man die Hütten<lb/>
+eigentlich nur mit Zufahrtswegen, die man auch für die Gäste freigeben<lb/>
+muß, einigermaßen sanieren könnte. Vielleicht bringt man dann die<lb/>
+Bergsteiger, die eigentlich nicht auf den Berg steigen wollen, aber<lb/>
+dann oben zumindestens ein bißchen spazieren gehen, zur Sanierung<lb/>
+näher an diese heran.</p><p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:97377">BUKOWSKI</name>: Was wollte man damals von uns für eine Subven<lb break="no"/>tion vom Schöpfl und besprich mit den Naturfreunden und vor allem im<lb/>
+Haus diese Kombination Autofahrer, Spaziergeher, Straßenaufschließung.</p></div>
+      </body>
+      
+   </text>
+</TEI>

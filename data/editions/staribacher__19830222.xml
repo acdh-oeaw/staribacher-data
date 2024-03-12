@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstag, der 22. Februar 1983</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band68_1983-02-22</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1983-02-22">Dienstag, 22. Februar 1983</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-12-03">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="68-0229" facs="68_1983-02-22_0229.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Dienstag, 22. Februar 1983<lb/>
+</p>
+            <p xml:space="preserve">Dr. <name type="person" ref="per:1138363">Semrau</name> und Dr. <name type="person" ref="per:1138364">Josef</name> wollen eine Fremdenverkehrverbrauchsstudie<lb/>
+ausarbeiten. Aus den Betriebskennziffern des Statistischen Zentral<lb break="no"/>amtes soll der Verbrauch von industriellen Produkten für die einzel<lb break="no"/>nen Betriebskategorien festgestellt werden. Kennziffern aus Einzel<lb break="no"/>betrieben haben sie nicht, das Gallup-Institut will allerdings die Er<lb break="no"/>gebnisse dann bei ihren Betriebserhebungen kontrollieren, <name type="person" ref="per:117164">Gehmacher</name>,<lb/>
+das IFES-Institut, wird ein Computersimulationsmodell dafür ent<lb break="no"/>wickeln. Zusammengearbeitet wird außerdem mit <name type="person" ref="per:133327">Smeral</name> vom WIFO mit<lb/>
+deren In- und Outputmodell. Die Österreichische Nationalbank hat die<lb break="no"/>ses Projekt mit 1 Mio. S aus ihrem Jubiläumsfonds subventioniert, ins<lb break="no"/>gesamt brauchen sie aber 1,4 Mio., die Restfinanzierung muß dann erst<lb/>
+besprochen werden bis konkrete Unterlagen vorliegen. Vom Handelsmi<lb break="no"/>nisterium haben wir ihnen keine Unterstützung bis jetzt gewähren<lb/>
+können. Sie bedanken sich aber, daß ich sie immerhin an die Österrei<lb break="no"/>chische Nationalbank erfolgreich verwiesen habe. Die Fremdenverkehrs<lb break="no"/>sektion der Handelskammer, Dr. <name type="person" ref="per:118737">Schimka</name>, ist daran sehr interessiert.<lb/>
+Überraschend für mich war, daß Dr. <name type="person" ref="per:113096">Placek</name>, HK-Sektion Industrie, dafür<lb/>
+sehr wenig Interesse zeigt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97727">MARSCH</name> UND <name type="person" ref="per:108746">HAFFNER</name>: Welche Bedenken hat man bei <name type="person" ref="per:113096">Placek</name>?<lb/>
+</p>
+            <p xml:space="preserve">In der Ministerratsvorbesprechung ist <name type="person" ref="per:97668">Kreisky</name> auf die <name type="person" ref="per:111325">Mock</name>-Pressestunde<lb/>
+zu sprechen gekommen. Das Echo davon war sehr schlecht, die Salzburger<lb/>
+Nachrichten haben eine verheerende Glosse darüber geschrieben. Die<lb/>
+Journalisten hatten sich ja bei der Pressestunde schon beschwert, daß<lb/>
+keine konkreten Aussagen von <name type="person" ref="per:111325">Mock</name> gemacht werden. <name type="person" ref="per:111325">Mock</name> hält immer die<lb/>
+selbe Rede, die selbe hat er ja auch bei der Auflösungsdebatte im Par<lb break="no"/>lament gemacht. Die Journalisten lassen sich dies aber nicht gefallen.<lb/>
+</p>
+            <p xml:space="preserve">Die Meinungsumfragen ergeben eine überwältigende Mehrheit, daß die Sozi<lb break="no"/>alisten die absolute Mehrheit machen, dem steht aber gegenüber, daß <add>[es]</add><lb/>
+keine adäquaten Stimmen in den Meinungsumfragen dafür gibt. Die Mei<lb break="no"/>nungsumfragen ergeben ein unerfreuliches Ergebnis. Es ergibt sich ein<lb/>
+beunruhigende Situation bei den Jugendlichen. ebenso ist der Abfall<lb/>
+bei den Alten wahrscheinlich auf das im Jänner verkündete Maßnahmen<lb break="no"/>paket zurückzuführen. Eine andere Meinungsumfrage, hier meinte <name type="person" ref="per:97668">Kreisky</name><lb/>
+sicherlich die von <choice><choice><sic>WSW</sic><corr>SWS-Umfrage</corr></choice></choice>, die <name type="person" ref="per:97627">Kienzl</name> dann nachmittags im ÖGB detailliert<lb/>
+erörterte, ergibt auch großen Einfluß der Steuermaßnahmen. Die Frage<lb/>
+<pb n="68-0230" facs="68_1983-02-22_0230.jpg"/>sind die Grünen, die Freiheitlichen behaupten, daß sie kein Grund<lb break="no"/>mandat bekommen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> hat mit dem Vizebürgermeister <name type="person" ref="per:133385">Stingl</name> von Graz gesprochen, er<lb/>
+hat ihm empfohlen keinesfalls nachzugeben. In Graz wird der Bürger<lb break="no"/>meister in der geheimen Abstimmung gewählt, die Möglichkeit, daß sich<lb/>
+Grüne oder Freiheitliche dann für ihn entscheiden, bleibt bestehen.<lb/>
+Im Mai ist der Parteitag der Freiheitlichen. Dort wird nach Meinung<lb/>
+<name type="person" ref="per:97668">Kreisky</name> <name type="person" ref="per:112569">Götz</name> gehen. Der Bürgermeister in Graz kann ohne den Stadtse<lb break="no"/>nat schwer regieren, doch rechnet <name type="person" ref="per:97668">Kreisky</name> dann mit einer freiheitli<lb break="no"/>chen Unterstützung.<lb/>
+</p>
+            <p xml:space="preserve">Unerträglich ist, daß die 30 S jetzt an die Arbeiter nicht mehr aus<lb break="no"/>bezahlt werden, aber die Politiker nichts dazu beitragen, es muß etwas<lb/>
+geschehen. <name type="person" ref="per:112992">Löschnak</name> soll einen Vorschlag ausarbeiten, der muß be<lb break="no"/>sprochen werden.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:112992">Löschnak</name> erklärt, daß der Auslagenersatz verschieden hoch ist, die<lb/>
+Regierung bekommt 40 % Pauschale, die Nationalräte 25 %. <name type="person" ref="per:112992">Löschnak</name><lb/>
+meint, die könnte man um 10 bis 20 % senken.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97891">Salcher</name> meinte, das sei eine politische Entscheidung. Er würde anstelle<lb/>
+eines perzentuellen Senkungssatzes ganz einfach erklären, die Politik<lb/>
+zahlt 100-mal mehr als die 30 S, also 3000 S.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:113083">Sinowatz</name> meint, die Massenmedien hätten in der Vergangenheit bereits<lb/>
+auf diese Diskrepanz hingewiesen, werden dies aber auch in Zukunft<lb/>
+bei jeder Gelegenheit tun wie jetzt z.B. wieder mit den Abfertigungen.<lb/>
+<name type="person" ref="per:112992">Löschnak</name> meint, wenn man die 40 % um 10 % senkt, also 36 % dann nur<lb/>
+mehr zuschlägt, ergibt dies 4.400 S weniger. Die Nationalräte mit<lb/>
+25 % – 10 % würden 22,5 Pauschale in Zukunft ausmachen.<lb/>
+</p>
+            <p xml:space="preserve">Klubobmann <name type="person" ref="per:97444">Fischer</name> meint, bei der Prozentsatzregelung wird es immer<lb/>
+wieder eine Diskussion geben und insbesondere der gesamte Prozentsatz<lb/>
+dann wieder in die Debatte geworfen. Er plädiert auch für absoluten<lb/>
+Betrag, Minister 3.000 S, Nationalräte 1.500 S.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> interessiert sich dann, wie eigentlich jetzt die Zinsertrags<lb break="no"/>steuer endgültig festgelegt wird. Ursprüngich hieß es ja mit dem<lb/>
+Pauschalbetrag von 2o % ist alles erledigt. <name type="person" ref="per:97891">Salcher</name> stellt sofort<lb/>
+klar, daß die Leute, die bis jetzt Zinsenertrag gehabt haben und sie<lb/>
+weiter offen deklarieren, natürlich zu der Einkommensteuer herangezogen<lb/>
+<pb n="68-0231" facs="68_1983-02-22_0231.jpg"/>werden. <add>[Die]</add> Zinsenertragssteuer bis zu 30.000 S wird dann Sparbücher<lb/>
+bis 500.000 S abdecken und nur, was darüber hinaus geht, kommt zur<lb/>
+Einkommensteuer, diese Regelung muß aber aufrechterhalten bleiben,<lb/>
+denn sonst würden die Banken, Versicherungen usw., die jetzt 62 % bei<lb/>
+der Veranlagung aus ihren Zinserträgen zahlen, dann nur mehr 20 %<lb/>
+zahlen. Er erwähnt wieder das typische Beispiel, wo ein Automatenauf<lb break="no"/>steller ein Sparbuch von 40 Mio. S mit 9 % Verzinsung hatte, sein<lb/>
+Zinsertrag war 3,6 Mio., nachher hat er 60 % bezahlen müssen, 2,4 Mio.,<lb/>
+veranlagt hat er gar nichts, daher 0 bezahlt, in Hinkunft wird in so<lb/>
+einem Fall wenigstens 720.000 S Zinsertragssteuer abgeführt.<lb/>
+</p>
+            <p xml:space="preserve">Ein zweites Problem wird bei der Pressestunde für <name type="person" ref="per:97668">Kreisky</name> die Frage<lb/>
+der öffentlich Bediensteten sein. <name type="person" ref="per:97668">Kreisky</name> sagt, Nationalräte oder Bun<lb break="no"/>desräte sollten keinesfalls zur Dienstleistung herangezogen werden.<lb/>
+Man könne den Ministern gar nicht zumuten, daß z.B. <name type="person" ref="per:108328">Pahr</name> dann die Abg.<lb/>
+<name type="person" ref="per:111325">Mock</name>, <name type="person" ref="per:97991">Steiner</name>, <name type="person" ref="per:116706">Ettmayer</name>, aber auch <name type="person" ref="per:1138365">Häsele</name>, mit dem es die geringsten<lb/>
+Schwierigkeiten gäbe, wieder im Außenamt tätig sind. Sein Vorschlag<lb/>
+wird daher sein, sie wären zu pensionieren, nach 10 Jahren haben ja<lb/>
+alle einen Anspruch auf Pension. Rücken sie dann wieder in den aktiven<lb/>
+Dienst ein, wird ihnen die ganze Zwischenzeit, wo sie Abgeordnete waren,<lb/>
+angerechnet.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:108223">Lausecker</name> erinnert, daß im Februar 1979 <add>[ein]</add> diesbezügliche<add>[r]</add> Gesetzesentwurf,<lb/>
+Versetzung in den zeitlichen Ruhestand, im Nationalrat eingebracht<lb/>
+wurde, dort aber nicht bearbeitet wurde. Nach 10 Jahren Aktivität<lb/>
+würde der Beamte dann 50 % Pensionsberechtigung von 80 % seiner<lb/>
+Höchstbemessungsgrundlage haben. Wenn er wieder einrückt, wird dann<lb/>
+durchgerechnet, so wie wenn er durchgedient hätte.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> verweist darauf, daß ja die Kommission, die er eingesetzt hat,<lb/>
+diese Vorschläge machen soll.<lb/>
+</p>
+            <p xml:space="preserve">Staatssekretär <name type="person" ref="per:97678">Lacina</name> berichtet, daß diese Kommission erstens <choice><choice><sic>die</sic><corr>das?</corr></choice></choice><lb/>
+deutsche Aktiengesetzrecht bezüglich der Publizität vorschlagen wird,<lb/>
+zweitens die neue Aufsichtsratsregelung, drittens, daß die Aufsichts<lb break="no"/>ratsgebühren in den Konzernen an die Mutter abzuführen sind, so wie<lb/>
+die ÖIAG Regel es jetzt vorsieht und 4. auch die Vorstandspensionen,<lb/>
+die ja immer im Vertrag geregelt sind, gekürzt werden sollten. Es geht<lb/>
+nicht an, daß die VÖEST-Alpine-Arbeiter hier Kürzungen von Soziallei<lb break="no"/>stungen akzeptieren müssen, während die Vorstände überhaupt nichts<lb/>
+dazu beitragen. Im Verstaatlichtensektor war jetzt ein einziges Mal,<lb/>
+wo Bezüge von den VMW gekürzt wurden.<lb/>
+</p>
+            <pb n="68-0232" facs="68_1983-02-22_0232.jpg"/>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> regt auch an, daß der Grenzsteuersatz, derzeit 62 %, erhöht<lb/>
+werden müßte.<lb/>
+</p>
+            <p xml:space="preserve">Staatssekretär <name type="person" ref="per:123215">Fast</name> meint, wenn man oben nichts ändern will, dann soll<lb/>
+man sozusagen unten alles streichen, dies würde natürlich eine beträcht<lb break="no"/>liche Erhöhung der Steuererträge aus den höheren Einkommen bringen,<lb/>
+aber eine radikale Änderung des Steuersystems. Auf den Vorschlag<lb/>
+wird nicht eingegangen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97891">Salcher</name> meint, die Einkommensteuerfälle, die so hohe Einkommen haben<lb/>
+sind minimal. Nach seiner Berechnung bringt eine Erhöhung des Grenz<lb break="no"/>steuersatzes höchstens 25 Mio. Es trifft aber auch Einzelbetriebe,<lb/>
+dort würde die ÖVP erklären, wird anstelle daß Eigenkapital gebildet<lb/>
+werden kann, eine neuerliche steuerliche Erhöhung Platz greifen. <name type="person" ref="per:97668">Kreisky</name><lb/>
+erwidert, daß die 3 Mio. Gehälter der höher Verdienenden die Leute<lb/>
+aufregen.<lb/>
+</p>
+            <p xml:space="preserve">Klubobmann <name type="person" ref="per:97444">Fischer</name> meint, als man das Zensuswahlrecht in Österreich<lb/>
+abgeschafft hat, hat man leider auch die Einkommensteuerstatistik<lb/>
+abgeschafft, sie ist jetzt schlechter, als sie im 19. Jahrhundert war.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:131107">GROSSENDORFER</name>: Bitte die letzte Einkommensteuerstatistik<lb/>
+mir beschaffen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:113083">Sinowatz</name> glaubt auch, daß eine Steuererhöhung sofort die Diskussion<lb/>
+auslöst, <add>[daß]</add> es sich um eine Leistungsfeindlichkeit gegenüber der Wirtschaft<lb/>
+handelt. <name type="person" ref="per:97668">Kreisky</name> besteht trotzdem darauf und meint, es dürfte na<lb break="no"/>türlich nicht so wie in Skandinavien 90 % oder in England ebenfalls<lb/>
+so ein kontraproduktiver Steuersatz eingeführt werden. Aber für<lb/>
+die höheren Einkommen gibt es keine Begründung, es gibt keinen Wert der<lb/>
+Arbeit, der 5 Mio. S ausmachen würde. Die Bankengehälter haben hier<lb/>
+stark überzogen.<lb/>
+</p>
+            <p xml:space="preserve">Staatssekretär <name type="person" ref="per:97678">Lacina</name> berichtet, daß jetzt Richtlinien für die öffent<lb break="no"/>lich beeinflußte Wirtschaft von seiner Kommission ausgearbeitet wer<lb break="no"/>den sollen. Vorstände sollen mindestens 12, höchstens 16 Gehälter haben.<lb/>
+Stark überbezahlt wird bei der OeNB. <name type="person" ref="per:111742">Kamitz</name>, als er dorthin kam, hatte<lb/>
+erklärt, er müsse mehr haben als der Generaldirektor der CA, in der<lb/>
+E-Wirtschaft, bei den Konzernen der verstaatlichten Banken.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:113083">Sinowatz</name> erinnert daran, daß der Rechnungshof, wenn er hohe Jahresge<lb break="no"/>hälter beanstandet, dann dazu führt, daß wie z.B. in den Salzburger<lb/>
+Festspielen eben auf 20 Bezüge umgelegt wird.<lb/>
+</p>
+            <pb n="68-0233" facs="68_1983-02-22_0233.jpg"/>
+            <p xml:space="preserve"><name type="person" ref="per:111740">Dallinger</name> verweist darauf, daß der Semperitvorstand als Konzernunter<lb break="no"/>nehmen der CA einen verhältnismäßig hohen Bezug hat, trotzdem aber<lb/>
+600 Mio. S heuer Subvention verlangt. <name type="person" ref="per:97668">Kreisky</name> bemerkt, daß dies bei<lb/>
+Steyr-Daimler-Puch auch so ist.<lb/>
+</p>
+            <p xml:space="preserve">Über die Frühpensionierung, 57 Jahre bereits für gewisse Gruppen die<lb/>
+Pensionsmöglichkeit, wird ein Ministerratskomitee, <name type="person" ref="per:97668">Kreisky</name>, <name type="person" ref="per:111740">Dallinger</name>,<lb/>
+<name type="person" ref="per:97891">Salcher</name>, <name type="person" ref="per:97985">Staribacher</name>, aber auch <name type="person" ref="per:97346">Benya</name>, eingesetzt.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> teilt mit, daß jetzt Bischof <name type="person" ref="per:1138366">Knall</name> für die Evangelen gewählt<lb/>
+wurde. Zum nächsten Palmsonntag wird <name type="person" ref="per:97442">Firnberg</name> delegiert, die sich<lb/>
+freiwillig zu dieser Messe meldet.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:112992">Löschnak</name> teilt mit, daß einzelne Personalvertreter jetzt in den Mini<lb break="no"/>sterien anläßlich des 15. Jahrestages des Personalvertretungsgesetzes<lb/>
+Festveranstaltungen machen. Er warnt davor, weil z.B. 150 Beamte aus<lb/>
+den Ländern dazu anreisen möchten. Im Finanzministerium und Unter<lb break="no"/>richtsministerium wurden aber bereits solche Festveranstaltungen abge<lb break="no"/>halten, die nichts gekostet haben.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Gibt es bei unserer Personalvertretung einen<lb/>
+solchen Wunsch?<lb/>
+</p>
+            <p xml:space="preserve">Klubobmann <name type="person" ref="per:97444">Fischer</name><add>[berichtet?]</add>, daß die Bauarbeiterdelegation bei den 3 Klubs<lb/>
+vorgesprochen hat, sie beschweren sich, daß immer wieder die Bau<lb break="no"/>aufträge in immer knapperer Fristerfüllung ausgeschrieben werden. Dann<lb/>
+sind Überstunden notwendig. Sie möchten gerne für Projekte Frister<lb break="no"/>streckungen haben. <name type="person" ref="per:97668">Kreisky</name> erklärt, er hat diese Bauarbeiter auch sofort<lb/>
+empfangen, <name type="person" ref="per:111325">Mock</name> hat angeblich erst im März Zeit.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97891">Salcher</name> berichtet schriftlich über die Ergebnisse der zwei Beschäfti<lb break="no"/>gungsprogramme.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Wer kann sich diese bei uns genauer anschauen.<lb/>
+</p>
+            <p xml:space="preserve">In der Ministerratssitzung wird alles genehmigt. <name type="person" ref="per:97668">Kreisky</name> streicht nur<lb/>
+von der Tagesordnung seinen eigenen Bericht des Bundeskanzlers, wonach<lb/>
+Dr. <name type="person" ref="per:1138367">Spirik</name> zu einer Roundtablekonferenz der Geberländer Benins in diesen<lb/>
+3 Wochen spazieren fahren würde.<lb/>
+</p>
+            <p xml:space="preserve">Nach dem Ministerrat habe ich mit <name type="person" ref="per:97891">Salcher</name> über die Erhöhung des<lb/>
+Kleinstkreditrahmens, derzeit 13 Mio. S, gesprochen. <name type="person" ref="per:97891">Salcher</name> fürchtet,<lb/>
+<pb n="68-0234" facs="68_1983-02-22_0234.jpg"/>daß dadurch dezidiert anerkannt wird, daß Betriebsmittel finanziert<lb/>
+werden können; in diesem Kleinstkreditrahmen mit den Ländern und<lb/>
+Handelskammer gibt es nämlich diese Möglichkeiten. Andererseits ver<lb break="no"/>suche ich <name type="person" ref="per:97891">Salcher</name> klarzumachen, daß wir damit aus dem Vorwurf heraus<lb break="no"/>kommen können, für die Kleinen nichts übrig zu haben und auch einer<lb/>
+einstimmigen Form einer Entschließung des Nationalrates, wonach über<lb/>
+die Betriebsmittelkredite Richtlinien zwischen Finanzministerium und<lb/>
+Handelsministerium zu erstellen sind, zumindestens teilweise Rechnung<lb/>
+getragen wird. <name type="person" ref="per:97891">Salcher</name> wird meinen Vorschlag prüfen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97584">JAGODA</name> UND <name type="person" ref="per:123301">VECSEI</name>: Bitte mit Büro des Finanzministers<lb/>
+Kontakt darüber aufnehmen.<lb/>
+</p>
+            <p xml:space="preserve">Verteidigungsminister <name type="person" ref="per:97879">Rösch</name> teilt mir mit, daß die Staubsaugereinkäufe<lb/>
+bei der österreichischen Firma Famulus um 100 % teurer wären als die<lb/>
+Konkurrenzangebote. <name type="person" ref="per:97879">Rösch</name> wird mir das Unterlagenmaterial schicken,<lb/>
+er wäre sofort bereit die österreichischen zu kaufen, wenn ich ihm<lb/>
+einen Lösungsvorschlag bringen kann.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:111737">MARSCH</name> UND <name type="person" ref="per:108746">HAFFNER</name>: Wie können wir hier eine Bestäti<lb break="no"/>gung <name type="person" ref="per:97879">Rösch</name> geben.<lb/>
+</p>
+            <p xml:space="preserve">Staatssekretär <name type="person" ref="per:97678">Lacina</name> teilt <name type="person" ref="per:97879">Rösch</name> und mir mit, daß die Firma Alfa-<lb/>
+Laval, 150 Beschäftigte, erklärt sperren zu müssen. <name type="person" ref="per:97780">Nenning</name> <add>[evtl. Falschidentifikation, Anm.]</add>, der Ge<lb break="no"/>schäftsführer der Handelskammer, behauptet, daß dies sofort verhindert<lb/>
+werden könnte, wenn <name type="person" ref="per:97879">Rösch</name> und ich entsprechende Gegenlieferungen für<lb/>
+Militäreinkäufe festlegen würden. Da sowohl <name type="person" ref="per:97879">Rösch</name> als auch ich diese<lb/>
+Beschwerde zum erstenmal hören, erkundige ich mich sofort bei SC<lb/>
+<name type="person" ref="per:111737">Marsch</name>, dieser teilt mir zu meiner größten Verwunderung mit, daß der<lb/>
+von der Handelskammer gegründete und vom Fachverbandsleiter Dr.<lb/>
+<name type="person" ref="per:112980">Taurer</name> initiierte Verein für Zulieferer für Gegengeschäfte scheinbar<lb/>
+dahintersteckt. Dieser verlangt von den Gegenlieferanten, ob es sich<lb/>
+jetzt um <choice><choice><sic>autotive</sic><corr>automotive</corr></choice></choice> Teile handelt oder andere Gegenlieferungen, daher<lb/>
+auch sicherlich für Militärgegenlieferungen für die Vermittlung ent<lb break="no"/>sprechende Provision. Scheinbar will jetzt der Geschäftsführer<lb/>
+<name type="person" ref="per:1138368">Neumayer</name> auch bei Alfa-Laval in eine solche Liefermöglichkeit kommen.<lb/>
+Ich bin der Meinung, hier muß man einmal genau prüfen, was hier wirk<lb break="no"/>lich geschieht.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:111737">MARSCH</name> UND <name type="person" ref="per:108746">HAFFNER</name>: Bitte mir einen umfangreichen Be<lb break="no"/>richt ausarbeiten lassen und Alfa-Laval resp. <name type="person" ref="per:1138368">Neumayer</name> fragen.<lb/>
+</p>
+            <pb n="68-0235" facs="68_1983-02-22_0235.jpg"/>
+            <p xml:space="preserve">Der Kabinettschef <name type="person" ref="per:1138369">Amry</name> ersucht mich, daß doch die ÖMV Iraköl kaufen<lb/>
+sollte. Da ich nach meiner Rückkunft von der Gemischten Kommission<lb/>
+die ÖMV darüber ersuchte, bin ich sehr verwundert, daß dort angeblich<lb/>
+nichts geschehen ist. GD <name type="person" ref="per:122959">Kaes</name>, ÖMV, teilt mir dann auch mit, daß sehr<lb/>
+wohl mit den Irakern über die Lieferung eines 100.000-to-Schiffes<lb/>
+verhandelt wurde, die Menge wäre in Ordnung, die Iraker hätten sich<lb/>
+allerdings bis zu 600.000 to vorgestellt, über den Preis konnte<lb/>
+aber keine Einigung erzielt werden. Die Iraker wollten über 34 $<lb/>
+für das Barrel. <name type="person" ref="per:1138369">Amry</name> wird sofort den österreichischen Botschafter von<lb/>
+Bagdad von der Lieferbereitschaft bei entsprechendem Preisangebot<lb/>
+informieren.<lb/>
+</p>
+            <p xml:space="preserve">Die Deutsche Zentrale für Tourismus, Dir. <name type="person" ref="per:145803">Spazier</name>, hat das neue Büro<lb/>
+am Schubertring offiziell eröffnet. Bis jetzt waren sie in einem<lb/>
+anderem Domizil mit 190 m², jetzt haben sie 440 und zahlen nur um<lb/>
+7.000 S pro Monat mehr. Bei der Eröffnung waren wirklich sehr viele<lb/>
+Leute, die sich die Reden, auch leider von mir eine zwar launige und<lb/>
+kurze, anhören mußten.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:123301">VECSEI</name>: Versuche zu erfahren, wie viel dieses Lokal wirk<lb break="no"/>lich an Miete bezahlt. <add>35.000 öS/Monat ohne Betriebskosten</add><lb/>
+</p>
+            <p xml:space="preserve">In der ÖGB Bundesfraktion berichtete ich über die Ölpreisentwicklung,<lb/>
+insbesondere wies ich darauf hin, daß jetzt, wenn es, auch wenn sich<lb/>
+die Ölgesellschaften noch so wehren, zu einer Preisreduktion der Ver<lb break="no"/>braucherpreise bei Benzin und Dieselöl kommen wird, auch amtlicher<lb break="no"/>seits sofort geprüft werden wird, ob Heizöl extra leicht, 6.50 S,<lb/>
+nicht auch gesenkt werden kann.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:131107">GROSSENDORFER</name>: Bitte vertraulich diese Preissenkung<lb/>
+über die Preiskommission vorbereiten.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97676">Thommy Lachs</name> referierte über die Zahlungsbilanzsituation, Dr. <name type="person" ref="per:97627">Kienzl</name><lb/>
+über die Ergebnisse der Sozialwissenschaftlichen-Studiengesellschaft-<lb/>
+Meinungsumfragen. Nach wie vor steht mit Vollbeschäftigung, 76 %,<lb/>
+Preise 25 %, Korruption 19 %, Auslandsverschulden 15 %, eben die<lb/>
+Vollbeschäftigung an der Spitze. Umweltumfragen ergeben, daß die Leute<lb/>
+dem große Bedeutung beimessen, aber nur 15 % bereit wären mehr als<lb/>
+50 S für Umweltmaßnahmen zu opfern.<lb/>
+</p>
+            <pb n="68-0236" facs="68_1983-02-22_0236.jpg"/>
+            <p xml:space="preserve">Die Beschäftigungsproblematik nimmt immer mehr zu, 79 waren erst<lb/>
+21 %, jetzt eben schon 76 %, ohne Parteipräferenz steigt auch ebenfalls<lb/>
+von 24 % auf 31 %, selbst in der ÖVP Sympathisanten von 9 % auf 13 %.<lb/>
+</p>
+            <p xml:space="preserve">In der Umfrage nimmt auch die Alleinregierung zu, 79 31 %, jetzt<lb/>
+33 %, die große Koalition von 17 % auf 13 % ab.<lb/>
+</p>
+            <p xml:space="preserve">Arbeitszeitverkürzung wird von 54 % verlangt, aber 31 % sind dagegen,<lb/>
+17 % dafür, 52 % erklären aber, sie würden eine solche Partei nicht<lb/>
+wählen, die diese Arbeitszeitverkürzung bringt, 36 % sind auch über<lb break="no"/>zeugt davon, daß die Vollbeschäftigung damit nicht zu halten ist,<lb/>
+33 % meinen, man könnte sie nur kurzfristig halten. Die härteste<lb/>
+Aussage ist, daß ohne Lohnausgleich 7 bis 10 % sagen, sie würden dann<lb/>
+die Partei, die dies vorschlägt, nicht wählen.<lb/>
+</p>
+            <p xml:space="preserve">Die Quellensteuer wird von 57 % <add>[mit]</add> "ist ehrlich und richtig" <add>bezeichnet</add>, 83 % SPÖ-<lb/>
+Sympathisanten, 49 % aber sogar nicht engagierte. 8 % halten es<lb/>
+für einen politischen Fehler.<lb/>
+</p>
+            <p xml:space="preserve">Nach der Wahl glauben ziemlich einheitlich um 70 % herum, daß die<lb/>
+Steuern erhöht werden.<lb/>
+</p>
+            <p xml:space="preserve">Die Parteipräferenzen ergeben derzeit 44,6 für die Sozialisten, 23,7<lb/>
+für die ÖVP, 6,4 für die Freiheitlichen, 1 % für die Kommunisten,<lb/>
+24,3 % sind Nichtentschlossene, die Grünen wurden noch nicht erhoben<lb/>
+resp. genau analysiert. Diese Ergebnisse stimmen weitestgehend mit<lb/>
+IFES-Novembererhebung überein, 44,9 SPÖ, 26,2 ÖVP, 2,4 FPÖ, Unent<lb break="no"/>schlossene 26,5. Die Differenz zwischen <choice><choice><sic>dem WSW</sic><corr>zur SWS-Umfrage</corr></choice></choice>, außer der zeitlichen<lb/>
+Verschiebung Anfang Februar gegen November, Vorjahr, ist vor allem<lb/>
+auf die verschiedenen Erhebungsmethoden zurückzuführen, IFES erhebt<lb/>
+in den Wohnungen, weshalb sich die Parteipräferenzen immer nur sehr<lb/>
+schwer hinterfragen lassen, die SWS auf der Straße resp. in den Be<lb break="no"/>trieben. Die absolute Mehrheit ist derzeit nicht drinnen. Nach wie vor<lb/>
+ist die Persönlichkeit <name type="person" ref="per:97668">Kreiskys</name> besser, von 57 auf 59 % wieder ge<lb break="no"/>stiegen, <name type="person" ref="per:97346">Benya</name> von 29 auf 32, <name type="person" ref="per:97444">Fischer</name> von 9 auf 19, in Wien liegen<lb/>
+die Verhältnisse, aber auch <choice><choice><sic>Bundespolitiker</sic><corr>bundespoltisch?</corr></choice></choice> gesehen, schlechter; wenn<lb/>
+SWS stimmt, was ich bezweifle, hätte <name type="person" ref="per:109293">Busek</name> mit 10 sogar sogar Graz mit<lb/>
+6 überrundet. <name type="person" ref="per:97668">Kreisky</name> liegt in Wien bei 47, <name type="person" ref="per:97346">Benya</name> bei 25. <name type="person" ref="per:111325">Mock</name> verliert<lb/>
+aber überall. Die SWS-Aussagen sind aber nach wie vor in meinen Augen<lb/>
+immer sehr problematisch.<lb/>
+</p>
+            <p xml:space="preserve">Der Fa. Scheiderbauer Fernsehfilmproduktion habe ich das Staatswappen<lb/>
+<pb n="68-0237" facs="68_1983-02-22_0237.jpg"/>verliehen. Dort wird jetzt gerade von <name type="person" ref="per:125288">Eckhardt</name> ein neuer Fernsehfilm<lb/>
+"Der gute Engel" abgedreht, die Dekorationen und auch die Filmvorführung<lb/>
+war für mich sehr interessant. Auf alle Fälle habe ich bei meiner<lb/>
+Ansprache erklärt, bin ich lieber zu den Beschäftigten hier gekommen,<lb/>
+als im Pallavicini feierlichst dort sozusagen begrüßen zu können.<lb/>
+</p>
+            <p xml:space="preserve">Im Bezirk gab es eine Bezirksratsaussprache, weil die ÖVP-Landstraße<lb/>
+entsprechend demagogische Anträge jetzt in der Bezirksvertretung<lb/>
+einbringt, die ÖVP ist sehr offensiv und aggressiv, sie macht sich,<lb/>
+und ich glaube leider gar nicht unberechtigt, Hoffnungen auf den Be<lb break="no"/>zirksvorsteher auf der Landstraße. In der anschließenden Sektions<lb break="no"/>leitersitzung wurde dann ein Referat von mir, kurz auch die Meinungs<lb break="no"/>umfragen, ohne sie so im Detail bekannt zu geben, diskutiert, die<lb/>
+organisatorischen Aufgaben der nächsten Zeit dann im Detail neuer<lb break="no"/>dings besprochen. Aufgefallen ist mir, daß jetzt schön langsam nicht<lb/>
+nur eine hektische Stimmung, sondern auch eine gereizte Stimmung<lb/>
+immer mehr aufkommt. <name type="person" ref="per:97543">Heindl</name>, der jetzt immer den Vorsitz führt, hat<lb/>
+es hier gar nicht sehr leicht.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="68_0228_01" facs="68_1983-02-22_0228-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 22.2.1983</head>
+         </div>
+         <pb n="68_0228_02" facs="68_1983-02-22_0228-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+         <pb n="68_0237_01" facs="68_1983-02-22_0237-01.jpg"/>
+         <pb n="68_0237_02" facs="68_1983-02-22_0237-02.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Anhang Pressereferentensitzung</head>
+            <gap reason="sampling"/>
+            <pb n="68_0237_03" facs="68_1983-02-22_0237-03.jpg"/>
+         </div>
+         <pb n="68_0237_04" facs="68_1983-02-22_0237-04.jpg"/>
+         <pb n="68_0237_05" facs="68_1983-02-22_0237-05.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesordnung 165. Ministerratssitzung, 22.2.1983</head>
+         </div>
+         <pb n="68_0237_06" facs="68_1983-02-22_0237-06.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>hs. Notizen (TO Ministerratssitzung Rückseite)</head>
+         </div>
+         <pb n="68_0237_07" facs="68_1983-02-22_0237-07.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Nahctrag TO 165. Ministerratssitzung, 22.2.1983</head>
+         </div>
+      </back>
+   </text>
+</TEI>

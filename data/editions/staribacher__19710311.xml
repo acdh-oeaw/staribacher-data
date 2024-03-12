@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Donnerstag, der 11. März 1971</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band05_1971-03-11</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1971-03-11">Donnerstag, 11. März 1971</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-08-06">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="05-0318" facs="05_1971-03-11_0318.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Donnerstag, 11. März 1971<lb/>
+</p>
+            <p xml:space="preserve">Der Wiener Ausschuss, dem ich als Bezirksobmann des III. Bezirkes ange<lb break="no"/>höre, und die Vollversammlung des Klubs der soz. Gemeinderäte wurden<lb/>
+mit dem Problem der Fernheizwerke beschäftigt. <name type="person" ref="per:97932">Schweda</name> hat hier ein<lb/>
+trauriges Erbe übernommen. Die Gemeinde hat vor Jahren die Fernheizwerke<lb/>
+geschaffen, mit der Idee, in Gemeindebauten aber auch in Spitälern und<lb/>
+sonstige öffentliche Gebäude mit Fernwärme zu versorgen. Vom städte<lb break="no"/>baulichen Standpunkt ist die Zentralisierung der Heizungsanlagen dringend<lb/>
+erforderlich, die Umweltverschmutzung der einzelnen Öfen kann nur auf<lb/>
+diese Weise eingeschränkt werden. Leider ist man scheinbar an dieses<lb/>
+Problem nicht mit einem entsprechenden Konzept herangegangen. Die einzelnen<lb/>
+Häuserblocks haben ganz verschiedene Berechnungsmethoden entwickelt. Teil<lb break="no"/>weise wurden sogar Anschlusskosten, wie z.B. im 19. Bezirk im Heimhof in<lb/>
+der Höhe von 1,3 Mill. S verrechnet und vom Mieter auch bezahlt. In Kagran<lb/>
+wieder gibt es Mietverträge, die auf einer Höhe Heizungskosten vereinbart<lb/>
+haben, die einen jährlichen Verlust von 4,8 Mill. S für die Fernheizwerke<lb/>
+bedeuten. Es gibt darüber hinaus einige hunderte Extremfälle, die irrsinni<lb break="no"/>ge Heizungskosten haben. Die Gemeinde hat ausserdem Vorschläge über Wärme<lb break="no"/>dämmung bei der Erstellung von Gebäuden, insbesondere von Eckwohnungen,<lb/>
+unberücksichtigt gelassen, sodass dadurch in diesen Wohnungen bei tieferen<lb/>
+Temperaturen oft nur 6–7 Grad plus trotz voller Heizung erreicht werden<lb/>
+können. Die ursprüngliche Idee, durch Pauschalierung der Heizungskosten eine<lb/>
+gleichmässige Verteilung auf alle zu erreichen und auch dann gleichzeitig<lb/>
+durch das ganze Jahr hindurch eine Belastung der Mieter zu erreichen, hat<lb/>
+sich nicht bewährt. Durch die Neueinführung von Messegeräten, sogenannte<lb/>
+Verdunstungszähler, glauben die Leute nun, es wird dort manipuliert, resp.<lb/>
+diese Zähler, die nicht geeicht sind, geben kein genaues Bild. Die finan<lb break="no"/>ziellen Verluste der Fernheizwerke selbst gehen in die hundert Millionen,<lb/>
+incl. des verlorenen Bauaufwandes. <name type="person" ref="per:97932">Schweda</name> hat als erstes einmal mit den<lb/>
+betroffenen Bezirken zu diskutieren begonnen und eine wie die sich aus<lb break="no"/>drückten erträgliche Regelung gefunden. Wichtig erschien mir, dass überhaupt<lb/>
+mit den Leuten jetzt gesprochen wurde. Vor Monaten noch waren sie zu mir<lb/>
+gekommen, weil niemand sie angehört hat. Die neue Regelung sieht nun<lb/>
+vor, dass ein gespaltener Tarif eingeführt wird. Auf der einen Seite<lb/>
+wird jede Wohnung ein Grundgebühr von 150 S zu bezahlen haben und darüber<lb/>
+hinaus wird nach cal. auf den Verdunstungszählern jeder Strich 151.– S<lb/>
+kosten. Wo Verträge bestehen, die eine andere Lösung haben, wird ver<lb break="no"/>sucht werden, ein Gutachten von Dr. <name type="person" ref="per:112582">Schönherr</name> und von Sekt.Chef. a.D. <name type="person" ref="per:136686">Hoyer</name><lb/>
+vom Justizministerium zu bekommen, ob diese Verträge ohne bei Gericht zu<lb/>
+<pb n="05-0319" facs="05_1971-03-11_0319.jpg"/>verlieren, gekündigt werden können. Da die Kosten 50 % über dem durch<lb break="no"/>schnittlichen Verbrauch liegen, wird diese Menge vom Heizwerk übernommen.<lb/>
+Das Ungute an dieser Regelung ist, dass z.B. von Kagran in 4.700 Fällen<lb/>
+2.900 eine Ermässigung bekommen, die werden sich sicherlich überhaupt<lb/>
+nicht rühren, aber 1.800 werden Erhöhungen verrechnet bekommen. Hier wird<lb/>
+es sicherlich eine Unruhe geben.<lb/>
+</p>
+            <p xml:space="preserve">Koll. <name type="person" ref="per:65937">Lackner</name>, der Bezirksvorsteher von Liesing, erklärte, wenn er mich<lb/>
+schon bei einer Vollversammlung hat, möchte er fragen, ob wir nichts<lb/>
+dagegen unternehmen können, dass in der Breitenfurterstrasse so viele<lb/>
+Tankstellen errichtet wurden. Ich erklärte, ihnen die Tankstellenpolitik<lb/>
+der Ölgesellschaften und habe anschliessend und Beiziehung von <name type="person" ref="per:65937">Lackner</name><lb/>
+Stadtrat <name type="person" ref="per:115005">Hintschig</name> befragt, ob er bereit ist, keinen Gemeindegrund mehr<lb/>
+den Ölgesellschaften zur Verfügung zu stellen. Unter diesen Bedingungen<lb/>
+wäre ich nämlich imstande gewesen, mit den Ölgesellschaften härter zu<lb/>
+verhandeln, dass sie so schnell wie möglich einen Ausbauplan und eine<lb/>
+Koordinierung vornehmen. <name type="person" ref="per:115005">Hintschig</name> erklärte, dass dies unmöglich sei,<lb/>
+da er mit Hilfe der Tankstellen sich die Tiefgaragen finanzieren lässt.<lb/>
+</p>
+            <p xml:space="preserve">Im Institut kam ich mit <name type="person" ref="per:98112">Zöllner</name> und <name type="person" ref="per:97676">Lachs</name> überein, dass wir in der Pari<lb break="no"/>tätischen Kommission den Antrag der ÖMV auf Erhöhung des Heizölpreises<lb/>
+um 175.– pro t, das sind bei Heizöl schwer, derzeit 610.- Kosten fast<lb/>
+an die 30 %, unter der Bedingung zustimmen werden, dass die Benzin<lb break="no"/>preiserhöhung, wenn überhaupt, zu einem möglichst späten Zeitpunkt<lb/>
+erfolgen soll. Die ÖMV stellt sich unter spät Ende April, die AK und der<lb/>
+ÖGB höchstens Ende des Jahres vor. Die Erhöhung des Heizölpreises muss<lb/>
+meiner Meinung nach schon deshalb vorgenommen werden, weil die westlichen<lb/>
+Bundesländer sonst keine Lieferungen mehr aus Italien und Deutschland er<lb break="no"/>warten können. Da die ÖMV maximalst 50 % des Heizölbedarfes befriedigen<lb/>
+kann, müssen Importe aus dem Weste getätigt werden. Die Zollfreistellung<lb/>
+dieser Importe wird notwendig sein.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97498">Grünwald</name> war wirklich erschüttert, als er mir mitteilte, dass auch nun<lb/>
+<name type="person" ref="per:136689">Smolka</name>, d.h. die Tyrolia-Bindung-Erzeugung in amerikanische Hände über<lb break="no"/>gehen wird. Der Besitzer, ein ehemaliger oder vielleicht auch jetzt noch<lb/>
+Angehöriger der kommunistischen Partei hat also auch vor dem amerikani<lb break="no"/>schen Kapitalismus die Flagge gestrichen. Ich selbst kriege nur meine<lb/>
+Theorie, die ich vor Jahrzehnten aufgestellt habe, bestätigt. In einem<lb/>
+kapitalistischen System gelten die kapitalistischen Gesetze und <name type="person" ref="per:114602">Karl Marx</name><lb/>
+<pb n="05-0320" facs="05_1971-03-11_0320.jpg"/>hat in einem Punkt vollkommen recht behalten als er die Konzentration<lb/>
+des Kapital vorausgesehen hat. Diese Konzentration erstreckt sich aber<lb/>
+nicht nur im nationalen Grenzen sondern greift jetzt in weltweitem<lb/>
+Massstab um sich. Die österreichischen Unternehmer werden von deutschen<lb/>
+oder amerikanischen aufgefressen. Die deutschen Unternehmungen auch von<lb/>
+amerikanischen, das ist gar nicht so sicher, ob nicht auch die amerika<lb break="no"/>nischen früher oder später den japanischen zum Opfer fallen werden.<lb/>
+Bei der wirtschaftlichen Expansion Japans mit jährlichen Brutto<lb break="no"/>nationalproduktsteigerungen von 11 und 12 % ist eine solche Entwicklung<lb/>
+fast mit Sicherheit für die nächsten Jahrzehnte vorauszusagen.<lb/>
+</p>
+            <p xml:space="preserve">Im Parteivorstand sollte die Delegierung von <name type="person" ref="per:98018">Uher</name> in die CA besprochen<lb/>
+und beschlossen werden. <name type="person" ref="per:97346">Benya</name> hat sich allerdings gegen die Bestellung<lb/>
+ganz entschieden ausgesprochen. Er selbst möchte unbedingt <name type="person" ref="per:116951">Schneider</name><lb/>
+von der ÖCI, den er von der Gewerkschaftsbewegung – wie er sagt – gut<lb/>
+kennt, auf alle Fälle auf diesem Posten haben. Ich kam einmal zu einer<lb/>
+Besprechung, wo <name type="person" ref="per:97311">Androsch</name> <name type="person" ref="per:97346">Benya</name> unter vier Augen versuchte zu überzeugen,<lb/>
+dass <name type="person" ref="per:98018">Uher</name> das Vertrauen vom Ressortminister, d.h. von ihm geniesst,<lb/>
+während er <name type="person" ref="per:116951">Schneider</name> als nicht richtig auf diesem Platz bezeichnete.<lb/>
+Die Eventuallösung, dass wir beide in die CA geben, erscheint <name type="person" ref="per:97311">Androsch</name><lb/>
+nicht als Zielführend, wie er mir nachher mitteilte, da dann nur Strei<lb break="no"/>tigkeiten zwischen den beiden von vornherein immer gegeben wären.<lb/>
+Diese ganze Frage sollte im erweiterten Präsidium von <name type="person" ref="per:97346">Benya</name><lb/>
+gründlichst diskutiert werden. Scheinbar war dies aber nicht der Fall,<lb/>
+denn unter den Delegationen wurde dieses Problem nicht berichtet. An<lb break="no"/>stelle des verstorbenen Stadtrates a.D. <name type="person" ref="per:124100">Thaller</name>, der als Kassier<lb/>
+in der SPÖ fungierte, wurde Metallarbeitersekretär <name type="person" ref="per:136690">Wiltschek</name> vom<lb/>
+Präsidium vorgeschlagen und vom Parteivorstand genehmigt. Daraus entnehme<lb/>
+ich, dass <name type="person" ref="per:97668">Kreisky</name> <name type="person" ref="per:97346">Benya</name> nicht verärgern will und auch deshalb einen<lb/>
+weiteren Metallarbeiter in eine Funktion gebracht hat. Die Kassier<lb break="no"/>stelle ist zwar eine mehr formelle Funktion, da natürlich die Kassier<lb break="no"/>geschäfte von hauptamtlichen Angestellten gemacht werden. Auch an<lb/>
+Stelle des <name type="person" ref="per:97498">Ossi Grünwald</name>, der Mitglied des Aufsichtsrates der ÖIAG<lb/>
+war, und nun Generalsekretär wird, wurde ein Metallarbeiter von OÖ,<lb/>
+Kammerpräsident der AK, <name type="person" ref="per:116950">Schmidl</name>, berufen. In den Alpine-Aufsichtsrat<lb/>
+wird VÖEST-Direktor <name type="person" ref="per:97644">Koller</name> durch den Arbeiterkammerpräsident <name type="person" ref="per:136691">Stecher</name><lb/>
+ersetzt. Die Verschränkung der Aufsichtsräte zwischen Schiffswerft<lb/>
+Korneuburg und Schiffswerft Linz wurde ebenfalls weiter ausgebaut.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> versuchte hier, ohne dass er auch nur ein Wort zu diesen Proble<lb break="no"/>men gesagt hat, scheinbar die richtige Taktik, um <name type="person" ref="per:97346">Benya</name> und die Ge<lb break="no"/>werkschaft nicht zu sehr zu verärgern. Die Gewerkschaften müssen erstens<lb/>
+<pb n="05-0321" facs="05_1971-03-11_0321.jpg"/>als Fraktion ja doch noch immer sehr viel Geld der Partei geben<lb/>
+und es ist deshalb sehr zielführend, wenn ein Kassier von den Metall<lb break="no"/>arbeitern nominiert wird. <name type="person" ref="per:97311">Androsch</name> dürfte sich also mit seinem Wunsch<lb/>
+obwohl auch <name type="person" ref="per:97627">Heinzi Kienzl</name> <name type="person" ref="per:98018">Uher</name> sehr unterstützt und auch ich glaube<lb/>
+eigentlich, dass er der bessere Mann auf diesem Platz wäre, nicht<lb/>
+durchgedrungen sein. Er hat zwar das letzte Mal sein ganzes Prestige<lb/>
+in die Waagschale geworfen, indem er erklärt hat, wenn man ihm Leute<lb/>
+versetzt, die nicht sein Vertrauen haben, dann müsste er Konsequenzen<lb/>
+ziehen. Ich glaube, dass man in solchen Angelegenheiten doch ver<lb break="no"/>suchen muss, zu einem Arrangement zu kommen und nicht mit schweren<lb/>
+Geschützen auffahren sollte. Den politischen Bericht konnte ich nicht<lb/>
+mehr ganz hören, da ich zur Vorstandssitzung der Lebensmittelarbeiter<lb/>
+fahren musste. <name type="person" ref="per:97668">Kreisky</name> wies nur einleitend schon darauf hin, dass<lb/>
+man damit rechnen muss, gegebenenfalls bereits im Herbst mit Neuwahlen<lb/>
+zu rechnen. Ich persönlich glaube, dass die Hauptschwierigkeit darin<lb/>
+den Zeitpunkt zu erraten, wo keine weiter Zunahme mehr an Sympathie<lb/>
+bei der Bevölkerung zu erreichen ist. Derzeit liegen wir angeblich<lb/>
+sehr gut und unsere Anteile steigen noch. Der Nachteil einer Demo<lb break="no"/>kratie liegt darin, dass man selbst in einer so straffen zentralistisch<lb/>
+geführten Partei wie der sozialistischen nicht mit Überraschungsmomenten<lb/>
+arbeiten kann. <name type="person" ref="per:97668">Kreisky</name> muss deshalb, wenn er erst in drei Monaten Neu<lb break="no"/>wahlen beabsichtigt, bereits jetzt systematisch die Öffentlichkeit aber<lb/>
+auch die eigenen Parteikreise auf diese Taktik festlegen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="05_0317_01" facs="05_1971-03-11_0317-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 11.3.1971</head>
+         </div>
+      </back>
+   </text>
+</TEI>

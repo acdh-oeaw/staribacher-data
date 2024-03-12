@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstag, der 23. Mai 1972</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band11_1972-05-23</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1972-05-23">Dienstag, 23. Mai 1972</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-10-10">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="11-0634" facs="11_1972-05-23_0634.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Dienstag, 23. Mai 1972<lb/>
+</p>
+            <p xml:space="preserve">In der Ministerratsvorbesprechung kam die Demonstration in Salzburg<lb/>
+zur Sprache. Die Massenmedien haben die Demonstration natürlich als<lb/>
+Sensation aufgebauscht. Der ORF, erklärt <name type="person" ref="per:97668">Kreisky</name>, hat nichts über<lb/>
+die Flughafenbeschädigung durch die Demonstranten mitgeteilt. Als Aus<lb break="no"/>gleich hat <name type="person" ref="per:97672">Kreuzer</name> <name type="person" ref="per:137941">Peterlunger</name> interviewt. <name type="person" ref="per:97525">Häuser</name> kritisiert, dass die<lb/>
+Darstellung sehr einseitig gewesen ist und dass die Berichterstattung<lb/>
+für die Regierung immer sehr ungünstig erfolgt. Das vorsichtige<lb/>
+Vorgehen <name type="person" ref="per:97668">Kreiskys</name> zeigt wieder einmal wie richtig er gelegen ist, denn<lb/>
+derzeit soll in der Londoner Times sogar bereits über die Unabhängig<lb break="no"/>keitsbedrohung des ORF Artikel sein. Unsere Genossen im Rundfunk wollen<lb/>
+<name type="person" ref="per:97326">Bacher</name> immer wieder beweisen, dass sie sich absolut nicht nach Partei<lb break="no"/>intention richten lassen, auf der anderen Seite macht <name type="person" ref="per:97417">Emmerich</name> die<lb/>
+Geschäfte <name type="person" ref="per:139953">Barzels</name> und <name type="person" ref="per:126214">Dalma</name> die von <name type="person" ref="per:121042">Strauss</name>.<lb/>
+</p>
+            <p xml:space="preserve">Erstmals hat <name type="person" ref="per:97668">Kreisky</name> in der Regierungsvorbesprechung keinen Standpunkt<lb/>
+zu einem Problem bezogen, sondern erklärt, er möchte die Meinung der<lb/>
+Regierungsmitglieder zum Gesundheitsplan erfahren. Als einziger meldet<lb/>
+sich allerdings <name type="person" ref="per:97525">Häuser</name> und weist auf die Gesundheitspolitische Dekla<lb break="no"/>ration, die der Gesundheitsplan ist, hin. Im Detail wird er noch zu<lb/>
+besprechen sein, wenn es um die Durchführung geht. <name type="person" ref="per:108224">Lütgendorf</name> meldet nur<lb/>
+bei der beabsichtigten Untersuchung bei der Musterung seine Wünsche an.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> fasst zusammen, dass die Pläne in ihrer Fassung immer faszinierend<lb/>
+sind, aber die Durchführung natürlich, wenn sie nicht sofort erfolgt, bei<lb/>
+der Opposition entsprechende Kritik auslöst. Er schlägt deshalb vor,<lb/>
+dem Bericht zuzustimmen, aber zur Feststellung der Prioritäten ein<lb/>
+Ministerkomitee einzusetzen. Im Ministerrat schlägt er sogar vor,<lb/>
+dass der Vorsitz der Frau Minister und die Koordinationsfunktion des<lb/>
+Bundeskanzlers ausnahmsweise abgetreten wird. In dem Komitee wird<lb/>
+Finanzen, Soziales, Wissenschaft, Landwirtschaft, Handel und für die<lb/>
+Raumplanung <name type="person" ref="per:98034">Veselsky</name> Mitglied sein.<lb/>
+</p>
+            <p xml:space="preserve">Die vorgesehene längere Aussprache mit <name type="person" ref="per:97893">Sallinger</name> wird verhältnismässig<lb/>
+kurz, da <name type="person" ref="per:97893">Sallinger</name> bei der ÖVP eine wichtige Besprechung wegen der<lb/>
+internen Auseinandersetzungen hat. Da <name type="person" ref="per:97769">Mussil</name> nicht anwesend ist, ist<lb/>
+mir dies sehr recht, weil ich ja ausführlich über die ÖVP-Taktik<lb/>
+bezüglich der Handelsvertrags- resp. ERP-Verhandlungen sprechen möchte.<lb/>
+Ich erkläre <name type="person" ref="per:97893">Sallinger</name> nur, dass die Kooperation in Hinkunft unmöglich<lb/>
+<pb n="11-0635" facs="11_1972-05-23_0635.jpg"/>sein wird, wenn aus oppositionspolitischen und taktischen Gründen<lb/>
+Pläne, die ausser Streit gestanden sind und auch in Hinkunft stehen<lb/>
+sollten, in den Streit einbezogen werden sollen. Dies gilt be<lb break="no"/>züglich Verratstheorie von mir gegenüber der Landwirtschaft bei den<lb/>
+EG-Verhandlungen - eine solche Bemerkung hat <name type="person" ref="per:97769">Mussil</name> in der letzten<lb/>
+Nationalratssitzung bei der Integrationsdebatte gemacht – als auch<lb/>
+bezüglich des Wunsches, ein halbes Jahr den Vertrag später erst<lb/>
+zu paraphieren und ganz besonders betreffend der Meistbegünstigungs<lb break="no"/>klausel gegenüber den China-Verhandlungen, die er durch seine Be<lb break="no"/>merkung bei der Presse-Konferenz ungeheuer erschwert hat. Min.Rat<lb/>
+<name type="person" ref="per:108322">Meisl</name> hat mir mitgeteilt, dass sofort nach der Pressekonferenz<lb/>
+eine Sitzung, die die Chinesen mit uns bereits vereinbart haben,<lb/>
+abgesetzt haben, um neue Weisungen aus Peking zu erwarten. <name type="person" ref="per:108322">Meisl</name><lb/>
+befürchtet, dass die Chinesen, die jetzt in einen Prestigestandpunkt<lb/>
+hineingetrieben werden, aufmerksam gemacht sind, dass die Meistbegünsti<lb break="no"/>gung den Russen gegeben wurde und wir sie jetzt bis jetzt verweigerten<lb/>
+der entsprechende Ministerialentwurf hat eine solche nicht vorgesehen,<lb/>
+durch die Pressekonferenz jetzt aber aufmerksam gemacht, dass vielleicht<lb/>
+doch eine solche Möglichkeit besteht, bedeutet, dass damit die China-<lb/>
+Verhandlungen sich sehr erschweren werden. <name type="person" ref="per:108322">Meisl</name> vermutet, dass sogar<lb/>
+hinter dieser Bemerkung bei der Pressekonferenz die Absicht bestehen<lb/>
+könnte, die entsprechenden erfolgreichen Verhandlungen zwischen<lb/>
+Handelsministerium und der Regierung in China zum Scheitern zu bringen,<lb/>
+um die Verhandlungen für die Wirtschaftsbeziehungen zwischen China<lb/>
+und Österreich auf Kammerebene zu belassen. In meiner Gutmütigkeit<lb/>
+nehme ich aber immer noch an, dass es sich bei <name type="person" ref="per:97769">Mussil</name> nur um einen<lb/>
+Aufhänger für die Pressekonferenz gehandelt hat, in letzter Zeit<lb/>
+hat er immer wieder vom, Aufreissen der Ostflanken in unseren Aussen<lb break="no"/>handelsbestrebungen gesprochen. Dies glaubte er durch eine unpassende<lb/>
+Bemerkung über den China-Vertrag noch verstärken zu müssen. <name type="person" ref="per:97474">Gleissner</name><lb/>
+selbst, der ihn scheinbar über die interministeriellen Besprechungen<lb/>
+informiert hat, ist über die Bemerkung sehr unglücklich. Ich werde<lb/>
+bei der nächsten Aussprache eine klar Abgrenzung verlangen.<lb/>
+</p>
+            <p xml:space="preserve">Mit <name type="person" ref="per:97488">Gratz</name> und <name type="person" ref="per:97444">Fischer</name> bespreche ich im Klub die Möglichkeit der Begut<lb break="no"/>achtung der Ministerien, ohne dass die Opposition die Einzelinfor<lb break="no"/>mation in die Hand bekommen bevor die politische Koordination zwischen<lb/>
+den Ministern erfolgt ist. Bei den Verwaltungsgesetzen, wie sie <name type="person" ref="per:97488">Gratz</name><lb/>
+bezeichnet, spielt dies gar keine Rolle. Bei den politisch bedeutenden<lb/>
+Gesetzen müsste eben die Regierung vorher bereits ihre gemeinsame<lb/>
+<pb n="11-0636" facs="11_1972-05-23_0636.jpg"/>Linie festlegen. Eine Möglichkeit einer Vorbegutachtung ist äusserst<lb/>
+schwierig zu erfüllen. Die Minister müssten sich eben die Zeit nehmen,<lb/>
+die Gutachten im einzelnen zu kontrollieren. Insbesondere hat schockiert<lb/>
+dass <name type="person" ref="per:98055">Weihs</name>, als er das Forstgesetz ausgeschickt hat, es zwar unter<lb break="no"/>schrieben, aber wie er jetzt sagt, nicht einmal gelesen hat.<lb/>
+Dass ein Minister dies nicht alles tun kann, erscheint mir selbstver<lb break="no"/>ständlich, er muss eben Vorkehrungen treffen, dass Vertrauensper<lb break="no"/>sonen und seinem Büro diese Arbeit übernehmen.<lb/>
+</p>
+            <p xml:space="preserve">Die Möglichkeit der Mandatszurücklegung eines Ministers und dann<lb/>
+gleichzeitig noch auf der Liste zu bleiben, um nach Ausscheiden<lb/>
+sofort wieder Abgeordneter zu werden ist nicht so einfach wie dies<lb/>
+am Anfang geschienen hat. <name type="person" ref="per:97444">Fischer</name> muss dieses Problem noch im einzel<lb break="no"/>nen mit <name type="person" ref="per:97879">Rösch</name> resp. mit seinem Verfassungsjuristen besprechen. Inter<lb break="no"/>essant war eine Bemerkung von <name type="person" ref="per:97488">Gratz</name>, der meint, ich dränge ja auf die<lb/>
+Lösung dieses Problems, damit ich mehr ins Ausland fahren kann und<lb/>
+nicht durch das Parlament gehindert bin. Genau dies trifft aber bei mir<lb/>
+nicht zu, im Gegenteil ich bin sehr froh, dass ich mich durch die Par<lb break="no"/>lamentstätigkeit bei vielen Auslandsbesuchen ausreden kann. Niemand wird<lb/>
+mir dies aber glauben.<lb/>
+</p>
+            <p xml:space="preserve">Beim Mittagessen mit dem Herrn <name type="person" ref="per:139954">Morales</name>, er ist weder Minister noch Portu<lb break="no"/>giese, sondern venezolanischer, angeblicher bedeutender Geschäfts<lb break="no"/>mann, muss ich feststellen, dass ich wirklich fehl am Platz bin. Die<lb/>
+Botschaft schickt nur den Geschäftsträger, der sehr verwundert<lb/>
+ist, dass überhaupt ein Minister anwesend ist. Hier bin ich wirklich<lb/>
+nur einem Wunsch von Elin und Danubia nachgekommen, damit sie in<lb/>
+Venezuela leichter ins Geschäft kommen. Ich bin überzeugt, dass<lb/>
+dieser Präsident <name type="person" ref="per:139954">Morales</name> meine Einladung eben als Grund für seine<lb/>
+Reise gebraucht hat. <name type="person" ref="per:139955">Harmer</name>, der Vorsitzendes des Fachverbandes Elektro<lb break="no"/>industrie, erklärt mir auch, dass er hofft, dass ich zu einem Mittag<lb break="no"/>essen für seinen Präsidenten, den luxemburgischen Muttergesellschaft,<lb/>
+der jetzt wechselt und nach Wien kommt, Zeit haben werde. Zum Glück<lb/>
+ist Parlament und ich werde wahrscheinlich eine gute Ausrede haben.<lb/>
+Alles was scheinbar das Ministeramt so interessant macht, die Auslands<lb break="no"/>reisen, die Empfänge usw., die Mittagessen ist für mich wahrlich nur<lb/>
+eine Belastung und Qual.<lb/>
+</p>
+            <pb n="11-0637" facs="11_1972-05-23_0637.jpg"/>
+            <p xml:space="preserve">Das Gespräch mit Gen.Sekr. <name type="person" ref="per:97374">Broicher</name> vom Deutschen Industrie- und<lb/>
+Handelstag und Dr. <name type="person" ref="per:97382">Conrad</name>, dem Geschäftsführer der deutsch-österr.<lb/>
+Handelskammer, unter Anwesenheit von <name type="person" ref="per:108322">Meisl</name> ist eine reine Informations<lb break="no"/>besprechung für <name type="person" ref="per:97374">Broicher</name>. Zum Glück erinnert er mich, dass er bereits<lb/>
+vor etlichen Monaten bei mir war, um sich über die Möglichkeit der<lb/>
+Errichtung von Arbeiterkammern in Deutschland zu informieren. Damals<lb/>
+hatte er keine Ahnung, dass ich auch als Arbeiterkammermann ins<lb/>
+Handelsministerium gekommen bin und ich konnte ihm daher wirklich<lb/>
+informative Auskunft geben. Er meint, dass in der BRD es nicht zur Er<lb break="no"/>richtung der Arbeiterkammern kommen wird, da die Gewerkschaften sehr<lb/>
+dagegen sind.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Welchen Weg kann es geben, dass ich informiert<lb/>
+bin, ob jemand schon bei mir war und was ich damals mit ihm besprochen<lb/>
+habe.<lb/>
+</p>
+            <p xml:space="preserve">Die Gewerkschaftsfraktion dauert wesentlich kürzer, ich komme nur<lb/>
+mehr zur Restitutionsfonds-Versammlung zurecht, wo wir den derzeitigen<lb/>
+Geschäftsführer <name type="person" ref="per:137457">Zak</name>, der in Pension geht, durch <name type="person" ref="per:97563">Hofstetter</name> ersetzen.<lb/>
+1969 bis 1971 hat der Restitutionsfonds der Partei 3,2 Mill. S über<lb break="no"/>wiesen, seit 1948 insgesamt 23,2 Mill. S. In der Fraktionssitzung<lb/>
+teilt mir <name type="person" ref="per:97357">Blümel</name> mit, hat <name type="person" ref="per:97346">Benya</name> erklärt, 1973 keine bedeutenden Lohn<lb break="no"/>bewegungen durchgeführt werden sollen. Dies bedeutet, dass wir in unserer<lb/>
+Organisation heuer noch alle Gruppen zum Abschluss bringen müssen. Ich<lb/>
+nütze deshalb die freigebliebene Zeit, um der Gewerkschaft oben mit den<lb/>
+einzelnen Sekretären, soweit sie am Abend noch anwesend sind, die Lohn<lb break="no"/>bewegungstaktik zu besprechen. Wir werden Anfang September mit den Grup<lb break="no"/>pen, Bäcker, Fleischer, Molkereiarbeiter und Mühlenarbeiter die Ver<lb break="no"/>handlungen aufzunehmen und zum Abschluss zu führen haben. Diese Gruppen<lb/>
+sind äusserst schwierig, da es sich um preisgeregelte Waren handelt.<lb/>
+Über diese Probleme und auch über die Politikerbesteuerung werde ich bei<lb/>
+den Ortsgruppenobmännern, wo ich mich ebenfalls zeige, interviewt.<lb/>
+</p>
+            <p xml:space="preserve">Prof. <name type="person" ref="per:136835">Dahrendorf</name>, der zum Europa-Gespräch mit <name type="person" ref="per:135642">Leitner</name> nach Wien ge<lb break="no"/>kommen ist, stattet mir einen Besuch ab. Es sollte ihn ein Wagen von<lb/>
+uns abholen, dies hat aber wieder einmal nicht geklappt. Noch viel<lb/>
+weniger funktioniert dann der Transport zum Bürgermeister zurück, da<lb/>
+überhaupt im Haus kein Auto mehr anwesend ist. Ich setze <name type="person" ref="per:136835">Dahrendorf</name><lb/>
+neuerdings auseinander, dass wir das Interimsabkommen dringendst<lb/>
+aus drei Gründen brauchen. Erstens hat Österreich durch 10 Jahren Verhand<lb break="no"/>lungen sich eine bevorzugte Behandlung eben durch das Interimsabkommen<lb/>
+<pb n="11-0638" facs="11_1972-05-23_0638.jpg"/>verdient. Zweitens muss unsere Exportindustrie die einmalige Chance<lb/>
+mit einer 30 %-igen Zollsenkung ab sofort rechnen zu können, nützen,<lb/>
+um auf dem europäischen Markt Fuss fassen zu können. Drittens und<lb/>
+für uns am wichtigsten aber kann durch die 30 %-ige Senkung der Zölle<lb/>
+ein gewisser Preisdruck in Österreich erfolgen, was aus konjunkturpoli<lb break="no"/>tischen Gründen äusserst notwendig ist. <name type="person" ref="per:136835">Dahrendorf</name> sagte, er ist sehr<lb/>
+erfreut über diese Mitteilung, da sie ihm eine Möglichkeit gibt, inner<lb break="no"/>halb der Kommission für das Interimsabkommen zu plädieren, den einzelnen<lb/>
+Minister fürchtet er, haben heute kein Interesse mehr daran, das Interims<lb break="no"/>abkommen mit Österreich tatsächlich abzuschliessen. <name type="person" ref="per:136835">Dahrendorf</name> möchte,<lb/>
+da er sich morgen dann sofort nach Paris begibt zur OECD-Tagung, wissen,<lb/>
+wie weit Österreich an einer weiteren Zollsenkung im Rahmen des GATT<lb/>
+interessiert ist. <name type="person" ref="per:136835">Dahrendorf</name> befürchtet, dass die aussertarifarischen<lb/>
+Hemmnisse in Hinkunft wesentlich mehr ins Gewicht fallen als die Zölle.<lb/>
+Er selbst rechnet also nicht damit, dass eine zweite Kennedy-Runde<lb/>
+bis 1973 ernstlich und zielführend in Angriff genommen werden kann.<lb/>
+Man wird auf ein Vorbereitungskomitee ausweichen. <name type="person" ref="per:135642">Leitner</name> ist sehr<lb/>
+unglücklich, als ich mich bei <name type="person" ref="per:136835">Dahrendorf</name> entschuldige, dass ich morgen<lb/>
+kaum an der Diskussion im Europa-Gespräch teilnehmen werde, da ich<lb/>
+eben durch den Besuch des Bundeskanzlers <name type="person" ref="per:114110">Brandt</name> okkupiert bin. <name type="person" ref="per:136835">Dahren<lb break="no"/>dorf</name> ist später gekommen, weil er sein Referat, welches er am nächsten<lb/>
+Tag erst halten sollte, bereits jetzt bei der Eröffnung gehalten hat.<lb/>
+Hätte ich gewusst, dass dieses Eröffnungsgespräch stattfindet und ich<lb/>
+sowieso bei der Diskussion kaum anwesend sein kann, hätte ich sicher<lb break="no"/>lich daran teilgenommen. Die Möglichkeit wäre in dem Fall wirklich<lb/>
+zufällig gewesen, da die Fraktion wesentlich kürzer gedauert hat.<lb/>
+Ich glaube, ich sollte in meinem Programm immer die Eventualmöglichkeit<lb/>
+einer Anwesenheit irgendwo bei einer Sitzung, die ich ansonsten eben<lb/>
+bereits abgesagt habe, in Erwägung ziehen und auch vermerkt haben.<lb/>
+Die Terminerstellung ist wirklich eines der schwierigsten Probleme<lb/>
+und wir müssten doch ein moderneres und besseres System finden.<lb/>
+Voraussetzung ist, dass wir in irgendeiner Weise, wenn ich einen<lb/>
+Termin nicht einhalten kann, automatisch das Büro wissen muss, wen<lb/>
+es alles verständigen muss, weil ich eben jetzt durch eine andere<lb/>
+Disposition an der und der Veranstaltung nicht mehr teilnehme. Anderer<lb break="no"/>seits muss es eine andere Möglichkeit geben, dass wenn ich bei<lb/>
+irgendeiner Veranstaltung teilnehmen sollte, wie z.B. der Eröffnung<lb/>
+der Europa-Gespräche, wenn eine Lücke entsteht, dann tatsächlich dort<lb/>
+zweckmässig aufscheine. Allerdings konnte niemand wissen, dass der<lb/>
+<pb n="11-0639" facs="11_1972-05-23_0639.jpg"/>Bundespräsident, der abgesagt hat, durch einen Vortrag von <name type="person" ref="per:136835">Dahren<lb break="no"/>dorf</name> ersetzt wird.<lb/>
+</p>
+            <p xml:space="preserve">Beim Empfang für <name type="person" ref="per:114110">Brandt</name> habe ich <name type="person" ref="per:97632">Kirchschläger</name> über unsere Aussprache<lb/>
+mit <name type="person" ref="per:136835">Dahrendorf</name> informiert. Ich kam auch mit <name type="person" ref="per:97311">Androsch</name> ins An drosch<lb/>
+über die Mitteilung von Gen.Sekr. <name type="person" ref="per:97374">Broicher</name>, dass sie die Mehrwert<lb break="no"/>steuer von 11 auf 16 % erhöhen wollen, um <choice><choice><sic>die</sic><corr>wie?</corr></choice></choice> ursprünglich geplant<lb/>
+die Lohn- und Einkommensteuersenkung vornehmen zu können. <name type="person" ref="per:97374">Broicher</name><lb/>
+war nämlich über die Mitteilung, dass wir dies gleichzeitig mit<lb/>
+1. Jänner 1972 machen sehr entzückt, denn er hat darin eine gewisse<lb/>
+Kombination gesehen, die ihnen in der BRD vorgeschwebt ist. Allerdings<lb/>
+haben sie jetzt eine derartige Budgetlücke, dass sie nur 2 % allein<lb/>
+für die Abdeckung der Abgänge des Bundeshaushaltes brauchen. Ob es<lb/>
+daher zu einer Senkung der Lohn- und Einkommensteuer bei gleichzeitiger<lb/>
+Erhöhung der Mehrwertsteuer kommen wird, steht noch nicht fest.<lb/>
+<name type="person" ref="per:97311">Androsch</name> erwiderte, dass mit den 16 % nicht das Auslangen ge<lb break="no"/>funden werden kann und er eigentlich 18 % bräuchte. Bei Benzin ist<lb/>
+er fest entschlossen, bei den 16 % zu bleiben, um nicht einen weiteren<lb/>
+Einnahmenverlust hinnehmen zu müssen. Ich erkläre ihm, dass aber dann<lb/>
+eine nur 30 Groschen Benzinpreiserhöhung kaum möglich sein wird.<lb/>
+Auf meine Frage, ob er die Einstellung der Komfortzimmeraktion, nachdem<lb/>
+wir bereits Anträge für 42 Mill. haben, verlautbaren sollen, meint<lb/>
+er, dass wenn eine Aktion so gut eingeschlagen hat, wir dies nicht<lb/>
+tun sollten. Er wird sich bemühen, im Herbst durch Umschichtung<lb/>
+und eventuelle zusätzliche Deckungen eine Budgetüberschreitung für<lb/>
+diese Aktion in Erwägung zu ziehen. Er meint, dass wir unsere Fremden<lb break="no"/>verkehrsaktivitäten viel zu wenig verkaufen. Bisher gilt auch ganz<lb/>
+besonders für das Ausfinanzieren der Fremdenverkehrs-ERP-Ansuchen.<lb/>
+Ich verspreche ihm, dass wir dies beim Fremdenverkehrstag nachholen<lb/>
+werden.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97646">KOPPE</name>: Bitte die propagandistische Seite, damit<lb/>
+<name type="person" ref="per:116106">Mauhart</name> nicht beleidigt ist, mit diesem zu besprechen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97311">Androsch</name> ist bereit für die zu gründende Weltpatentdokumentations<lb break="no"/>gesellschaft den Vorsitz des Aufsichtsrates an das Handelsministerium<lb/>
+abzutreten. Er meint, dies sei bis jetzt nur bei der Austria-Wochen<lb break="no"/>schau der Fall gewesen, alle anderen Gesellschaften werden vom<lb/>
+<pb n="11-0640" facs="11_1972-05-23_0640.jpg"/>Finanzminister geführt, d.h. der Aufsichtsratsvorsitzende wird<lb/>
+von ihm gestellt. Er meint, dass dies eine Gelegenheit sei, um<lb/>
+<name type="person" ref="per:97469">Gehart</name> den versprochenen Aufsichtsratsposten zu geben. Man sollte<lb/>
+dieses Problem sofort mit <name type="person" ref="per:133082">Auracher</name> besprechen und <name type="person" ref="per:97469">Gehart</name> für diesen<lb/>
+Posten vorschlagen. Die Begründung könnte sein, dass <name type="person" ref="per:97469">Gehart</name> bereits<lb/>
+jetzt diese Materie in der Grundsatzabteilung behandelt hat und darüber<lb/>
+hinaus sprachkundig ist. Und vor allem in Genf in seiner vorhergehenden<lb/>
+Funktion internationale Probleme sehr gut kennt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Bitte diese Zustimmung <name type="person" ref="per:97311">Androschs</name> bezüglich<lb/>
+der Budgetüberschreitung mit seinem Büro festhalten.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="11_0633_01" facs="11_1972-05-23_0633-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 23.5.1972</head>
+         </div>
+         <pb n="11_0640_01" facs="11_1972-05-23_0640-01.jpg"/>
+         <pb n="11_0640_02" facs="11_1972-05-23_0640-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesordnung 27. Ministerratssitzung, 23.5.1972</head>
+            <gap reason="sampling"/>
+            <pb n="11_0640_03" facs="11_1972-05-23_0640-03.jpg"/>
+         </div>
+      </back>
+   </text>
+</TEI>

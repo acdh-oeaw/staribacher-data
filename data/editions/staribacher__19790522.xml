@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstag, der 22. Mai 1979</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band48_1979-05-22</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1979-05-22">Dienstag, 22. Mai 1979</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-07-26">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="entry"/>
+      </body>
+      <back>
+         <pb n="48_0587_01" facs="48_1979-05-22_0587-01.jpg"/>
+         <pb n="48_0587_02" facs="48_1979-05-22_0587-02.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>TB Burian, 22.5.1979</head>
+            <gap reason="sampling"/>
+            <pb n="48_0587_03" facs="48_1979-05-22_0587-03.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="48_0587_04" facs="48_1979-05-22_0587-04.jpg"/>
+         </div>
+         <pb n="48_0587_05" facs="48_1979-05-22_0587-05.jpg"/>
+         <pb n="48_0587_06" facs="48_1979-05-22_0587-06.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesordnung 163. Ministerratssitzung, 22.5.1979</head>
+            <gap reason="sampling"/>
+            <pb n="48_0587_07" facs="48_1979-05-22_0587-07.jpg"/>
+         </div>
+      </back>
+   </text>
+</TEI>

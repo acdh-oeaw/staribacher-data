@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der 30. Jänner 1971</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band04_1971-01-30</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1971-01-30">Samstag, 30. Januar 1971</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-07-26">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="04-0110" facs="04_1971-01-30_0110.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Samstag, 30. Jänner 1971<lb/>
+</p>
+            <p xml:space="preserve">Da wir die ganze Woche keine Chance hatten, zusammenzukommen,<lb/>
+hatte ich mit <name type="person" ref="per:97893">Sallinger</name> vereinbart, dass wir uns am Samstag<lb/>
+Vormittag treffen. Mir war diese Besprechung zu diesem Zeitpunkt<lb/>
+sehr gelegen, da er damit dokumentiert, dass der Minister auch<lb/>
+am Samstag arbeitet, was ja wirklich gelegentlich bei mir<lb/>
+zutrifft. Ich informierte <name type="person" ref="per:97893">Sallinger</name> über die beginnenden konkreten<lb/>
+Verhandlungen zum Genossenschaftsgesetz und damit Abgrenzung zur Ge<lb break="no"/>werbeordnung. Er meinte, dass dies für sie ein schwerer Schlag sein<lb/>
+würde, wenn es mir wirklich gelänge, eine Gewerbeordnung, die die<lb/>
+allgemein gleichen Wettbewerbsbedingungen für alle schaffen, durchzu<lb break="no"/>setzen. Ich hoffe, dass es mir auch tatsächlich gelingen wird, <name type="person" ref="per:98055">Weihs</name><lb/>
+davon zu überzeugen, dass wir hier einen wettbewerbsneutralen Weg<lb/>
+gehen müssen. Da <name type="person" ref="per:97769">Mussil</name> nicht anwesend war, ersuchte mich <name type="person" ref="per:97893">Sallinger</name>,<lb/>
+ob wir dieses Problem nicht noch auch in seiner Anwesenheit – wir<lb/>
+wollen uns in der nächsten Woche im Parlament zusammensetzen –<lb/>
+besprochen werden kann. Ich stimmte dem natürlich sofort zu. Betref<lb break="no"/>fend der grossen Kompetenznovelle stehe ich auf dem Standpunkt, dass<lb/>
+die Bundeskammer aus optischen Gründen dagegen sein muss. Die wirklichen<lb/>
+Schwerpunkte ihrer Kritik richten sich ausschliesslich gegen die<lb/>
+Befürchtung, dass die Strasse und der Güterverkehr automatisch zu<lb/>
+<name type="person" ref="per:97461">Frühbauer</name>, dem Verkehrsminister kommt. Mein Hinweis, dass ja auch<lb/>
+die Bundessektion Verkehr in der Bundeshandelskammer dies wünscht,<lb/>
+hat <name type="person" ref="per:97893">Sallinger</name> nicht sehr befriedigt, da er natürlich genau weiss,<lb/>
+dass sich die Spediteure und sonstigen Fachgruppenmitglieder sofort<lb/>
+mit der Bundesbahn einigen werden und die andere Wirtschaft dann – wie<lb/>
+er glaubt, die Zeche bezahlen muss. Ich erwiderte neuerdings, dass<lb/>
+<name type="person" ref="per:97461">Frühbauer</name> ein schlechter Verkehrsminister wäre, wenn er ausschliesslich<lb/>
+die Politik von der Bundesbahn aus machen würde. Ebenso meint die<lb/>
+Bundeskammer, dass es schlecht wäre, die Integrationsproblematik<lb/>
+dem Aussenministerium zu übertragen. Mein Hinweis, dass ja auch be<lb break="no"/>reits <name type="person" ref="per:97749">Mitterer</name> in der Klosterneuburger Übereinkommen eine solche<lb/>
+Regelung zumindestens praeter legem, wenn nicht sogar contra legem verein<lb break="no"/>bart hat, wurde dahingehend interpretiert, dass <name type="person" ref="per:97749">Mitterer</name> hier <name type="person" ref="per:97634">Klaus</name><lb/>
+nachgegeben hat und eigentlich damit nur einen schlechten Erfolg erzielt<lb/>
+hatte. Ich kam dann noch auf die Problematik unserer Bürges-Konstruktion<lb/>
+zu sprechen. Da <name type="person" ref="per:97656">Kostroun</name>, der Präsident des Freien Wirtschaftsverbandes<lb/>
+und gleichzeitiger Vizepräsident der Bundeskammer, an <name type="person" ref="per:97893">Sallinger</name> einen<lb/>
+<pb n="04-0111" facs="04_1971-01-30_0111.jpg"/>Brief geschrieben hatte, nahm ich Bezug auf meine Vorstands<lb break="no"/>aussprache im FWV, dort hat mir <name type="person" ref="per:97656">Kostroun</name> von diesem Schreiben<add>[eine]</add><lb/>
+Mitteilung gemacht und ich hab deshalb jetzt <name type="person" ref="per:97893">Sallinger</name> aufgefordert,<lb/>
+er möge in dieser Frage mit <name type="person" ref="per:97656">Kostroun</name> einen Akkord herstellen.<lb/>
+<name type="person" ref="per:97893">Sallinger</name> hatte die Post aber noch nicht gesehen, er war ja die<lb/>
+ganzen Wochen in Tirol und anderen Bundesländern gewesen und hat<lb/>
+sich sofort den Brief vorlegen lassen. In diesem Brief steht nichts<lb/>
+Konkretes drinnen, sondern nur, dass <name type="person" ref="per:97656">Kostroun</name> unter Anwesenheit von<lb/>
+<name type="person" ref="per:98000">Swoboda</name>, dem Generalsekretär, und <name type="person" ref="per:97602">Jodlbauer</name> mit ihm über Problem<lb/>
+Bürges sowie über Problem Amtlicher Stimmzettel und Vertretung der<lb/>
+Mitglieder des FWV in den einzelnen Fachgruppen reden will. Ich<lb/>
+habe <name type="person" ref="per:97893">Sallinger</name> darauf aufmerksam gemacht, dass <name type="person" ref="per:97757">Mühlbacher</name>, der der<lb break="no"/>zeitige Vertreter des FWV, bei der Bürges, und zwar im Gewerbestruk<lb break="no"/>turverbesserungs-Beirat als starker Mann in dieser Frage doch in<lb/>
+die Bürges eingebaut werden könnte. <name type="person" ref="per:97893">Sallinger</name> sagte mir sofort zu,<lb/>
+dass er dies mit <name type="person" ref="per:97656">Kostroun</name> unverzüglich in Angriff nehmen wird.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="04_0111_01" facs="04_1971-01-30_0111-01.jpg"/>
+         <pb n="04_0111_02" facs="04_1971-01-30_0111-02.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>TB Koppe, 13.1.1971</head>
+            <gap reason="sampling"/>
+            <pb n="04_0111_03" facs="04_1971-01-30_0111-03.jpg"/>
+         </div>
+         <pb n="04_0111_04" facs="04_1971-01-30_0111-04.jpg"/>
+         <pb n="04_0111_05" facs="04_1971-01-30_0111-05.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>TB [Autor unbekannt], 15.1.1971</head>
+         </div>
+      </back>
+   </text>
+</TEI>

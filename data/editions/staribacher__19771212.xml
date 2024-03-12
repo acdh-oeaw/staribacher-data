@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Montag, der 12. Dezember 1977</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band39_1977-12-12</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1977-12-12">Montag, 12. Dezember 1977</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-06-24">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="39-1435" facs="39_1977-12-12_1435.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Montag, 12. Dezember 1977<lb/>
+</p>
+            <p xml:space="preserve">Beim Jour fixe bei <name type="person" ref="per:97893">Sallinger</name> besprach ich mit ihm nur einige Fälle<lb/>
+von Auszeichnungen, die er wünschte resp. die schon erledigt<lb/>
+wurden. Detailinformationen über andere Probleme überlässt er<lb/>
+prinzipiell <name type="person" ref="per:97769">Mussil</name>. Wir hatten daher Zeit genug, um uns auch<lb/>
+über die Frage, wer Klubobmann <name type="person" ref="per:97647">Koren</name> nachfolgt, zu unterhalten.<lb/>
+<name type="person" ref="per:97893">Sallinger</name> ist fest davon überzeugt, dass der ÖAAB mit Obmann<lb/>
+<name type="person" ref="per:111325">Mock</name> als Nachfolger nicht durchkommen wird. Dieser Posten wurde<lb/>
+dem Wirtschaftsbund, <name type="person" ref="per:97487">Graf</name>, versprochen und er wird mit allen ihm<lb/>
+zur Verfügung stehenden Mitteln darauf drängen. Freitag in der<lb/>
+Budgetdebatte wird <name type="person" ref="per:97893">Sallinger</name> selbstverständlich Kritik an dem<lb/>
+Handelsressort üben, doch war er sehr erstaunt von mir die Ziffern<lb/>
+über die Entwicklung der Budgetausgaben zu erfahren. Insbesondere<lb/>
+überraschte es ihn, dass im nächsten Jahr um 240 Mill. mehr<lb/>
+und insgesamt 1,3 Mia. zur Verfügung stehen. Ich erklärte ihm<lb/>
+freimütig, dass wenn andere Oppositionsredner nicht informiert<lb/>
+sind und auf Grund von falschen Zahlen Kritik üben, mir dies nur<lb/>
+recht ist, weil ich dann umso leichter dagegen argumentieren kann.<lb/>
+Ihn aber möchte ich von einer solchen Blamage verschonen.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Aussprache von Vorstandsdirektor <name type="person" ref="per:149434">Langer</name>, Ford-Köln, mit<lb/>
+seinen Österreich-Vertretern, Gen.Dir. <name type="person" ref="per:149435">May</name> und Dr. <name type="person" ref="per:112058">Sternbach</name>,<lb/>
+stellte sich heraus, dass 10 seiner Einkäufer in den zwei Tagen<lb/>
+mit 144 österr. Firmen Kontakt aufnehmen werden. Auf die seiner<lb break="no"/>zeitige schriftliche Anfrage, wo 94 Firmen angeschrieben wurden,<lb/>
+hatten 54 überhaupt nicht geantwortet, 36 in die engere Wahl<lb/>
+gezogen, ergaben letzten Endes nur 6 konkurrenzfähige Firmen.<lb/>
+Von 72 Mill. S Einkaufssumme 1975 wurde heuer eine Erhöhung auf<lb/>
+112 Mill. S vorgenommen. Wenn man bedenkt, dass ja insgesamt für<lb/>
+rund 53 Mia. S einkauft, so ist dies 0,3 %, also wahrlich<lb/>
+sehr wenig. <name type="person" ref="per:149434">Langer</name> erzählte auch, dass sich die Italiener, Fran<lb break="no"/>zosen, Belgier, Niederländer viel mehr um Absatzmöglichkeiten<lb/>
+bemühen, während österr. Firmen überhaupt nie zu ihnen kommen.<lb/>
+Das Ford-Motorenwerk, welches nach Grossbritannien verlegt wurde,<lb/>
+und deshalb der Oppositionsgewerkschafter <name type="person" ref="per:113374">Gassner</name> mich schriftlich<lb/>
+interpellierte, wurde durch die Entscheidung von Amerika letzten<lb/>
+Endes nach United Kingdom verlegt, weil ein altes Motorenwerk<lb/>
+dort geschlossen wird. Österreich. Saarland und Berlin waren ernst<lb break="no"/>liche Konkurrenten. <name type="person" ref="per:149434">Langer</name><add>Ford</add> war auch bereit, die Erklärungen im<lb/>
+<pb n="39-1436" facs="39_1977-12-12_1436.jpg"/>Pressefrühstück dann abzugeben. Dies löste dort eine lange Dis<lb break="no"/>kussion aus. Es ist unwahrscheinlich, wie ich mich immer wieder<lb/>
+irre. Mit dem zweiten Thema über den Bericht der Reisebürobe<lb break="no"/>schwerdekommission, wo insbesondere der Vorsitzende <name type="person" ref="per:115681">Dorner</name> vom<lb/>
+Reisebürofachverband referierte, wurde dann die Journalistenstunde<lb/>
+sogar überzogen. Gerade, dass ich noch eine Kritik an der Kritik<lb/>
+des Energiesprechers wegen unserer Tarifpreispolitik bei Elektrizi<lb break="no"/>tätsunternehmungen anbringen konnte. Abg. <name type="person" ref="per:111410">König</name> hat allen Ernstes ver<lb break="no"/>langt, man soll einen Sozialtarif schaffen und die Elektrizitäts<lb break="no"/>mindestabnahmen zum Verschwinden bringen. Ebenso sollte der Grundpreis<lb/>
+unverändert bleiben. Genau dies habe ich bei der letzten Strompreis<lb break="no"/>erhöhung schon durchgesetzt. Ein Sozialtarif aber, der familiengerecht<lb/>
+gestaltet ist, würde einen ungeheuren Verwaltungsaufwand erfordern.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name>: Bitte in Tabellenform die generellen Preiserhöhungen<lb/>
+und Durchschnittspreise seit 1950 zusammenstellen lassen.<lb/>
+</p>
+            <p xml:space="preserve">Im Parteivorstand berichtet <name type="person" ref="per:97668">Kreisky</name> einmal mehr über die, wie er sagt,<lb/>
+hoffnungslose Lage der Eisen- und Stahlindustrie. Hätte die VÖEST<lb/>
+im Anlagenbau von 6 % Anteil 1970 nicht auf 25 % erhöht, wobei<lb/>
+auch die österreichischen Zulieferungen von 20 % auf 70–80 %<lb/>
+gesteigert werden konnten, wäre die Katastrophe noch grösser. Ins<lb break="no"/>besondere ist die deutsche Stahlindustrie noch schlechter dran.<lb/>
+Gen.Dir. <name type="person" ref="per:149436">Beiz</name> hat deshalb weitblickend Aktien teilweise an den Schah<lb/>
+verkauft, was <name type="person" ref="per:97668">Kreisky</name> jetzt als eine sehr gute Lösung hinstellt.<lb/>
+Papierindustrie, Chemieindustrie geht es genauso schlecht.<lb/>
+Interessant sind nur Betriebe, die man bereits vor 10 Jahren behaup<lb break="no"/>tet hat, dass sie abzuschreiben sind, wie Elin, Siemens, SGP, sehr<lb/>
+gut florieren. VMW Ranshofen hat jetzt eine gute Auslastung,<lb/>
+Buntmetall dagegen geht es wesentlich schlechter. Die Zukunft<lb/>
+liegt in der Solarenergie, weshalb man nicht zuwarten darf, bis sie<lb/>
+technisch vollendet ist, sondern jetzt muss man schon den Mut haben,<lb/>
+in das Kommerzgeschäft einzusteigen, damit man gezwungen wird, Ver<lb break="no"/>besserungen und Verbilligungen dann durch Marktanpassungen vorzu<lb break="no"/>nehmen. Bei der Regierungsklausur im Jänner soll nicht nur ein Investi<lb break="no"/>tionsprogramm vorgelegt werden, sondern sehr konkrete Vorhaben im<lb/>
+einzelnen beschlossen. Im Grund aber soll es wieder ein 10-Jahres-<lb/>
+Programm sein, wie dies auch <name type="person" ref="per:98043">Waldbrunner</name> 1953 bis 1963 mit 10 Mia S,<lb/>
+damals eine utopische Zahl, eingeleitet hat. <name type="person" ref="per:97311">Androsch</name> bemerkte sofort<lb/>
+dass heuer 47 Mia. S Investitionen vom Bund sind, sodass 500 Mia. für<lb/>
+<pb n="39-1437" facs="39_1977-12-12_1437.jpg"/>die nächsten 10 Jahre ohne weiteres prognostiziert werden können.<lb/>
+<name type="person" ref="per:97346">Benya</name> und <name type="person" ref="per:97668">Kreisky</name> meinten, das hätte man schon einmal angekündigt<lb/>
+und auch beschlossen und es müsste daher jetzt mehr geschehen.<lb/>
+U.a. müssten die Länder und Gemeinden jetzt veranlasst werden mitzutun<lb/>
+und der privaten Wirtschaft eine Kreditmöglichkeit erschlossen werden.<lb/>
+In der Handelspolitik wird er im Jänner noch Moskau fahren und hofft,<lb/>
+dass ich ihn begleiten kann, um mit <name type="person" ref="per:97652">Kossygin</name> grössere Absatzmöglich<lb break="no"/>keiten zu besprechen. Ausser dem Überschuss von 3 Mia. müsste man die<lb/>
+Russen an eine langfristige Beteiligung durch Kreditgewährung an die<lb/>
+SU binden. Die Auswirkungen des Massnahmenpakets werden erst im Jänner<lb/>
+und im Feber spürbar sein, weshalb man dann entsprechende Aufklärungen<lb/>
+braucht. <name type="person" ref="per:97346">Benya</name> meinte, derzeit gäbe es keine negative Resonanz in den<lb/>
+Betrieben, im Frühsommer würde man aber vor der Budgeterstellung mit dem<lb/>
+Finanzminister über eine Steuersenkung verhandeln müssen. <name type="person" ref="per:97757">Mühlbacher</name><lb/>
+beklagte sich, dass die ÖVP die Möglichkeit hat, uns immer als gewerbe<lb break="no"/>feindlich hinzustellen, insbesondere durch das 2. Abgabenänderungsgesetz.<lb/>
+Im neuen Investitionsprogramm müsste deshalb darauf hingewiesen werden,<lb/>
+dass Klein- und Mittelbetriebe als Zubringer sich nicht nur beteiligen<lb/>
+können sondern dadurch eine eine Verbesserung ihrer wirtschaftlichen<lb/>
+Situation erreicht wird. <name type="person" ref="per:114936">Hartl</name> beschwerte sich darüber, dass noch immer<lb/>
+keine klare Entscheidung wegen der Kernkraftwerke gefallen ist. Ins<lb break="no"/>besondere in St. Pantaleon möchten die Genossen und die Bevölkerung wisse<lb/>
+ob und wann das zweite Kernkraftwerk kommt. Aus diesem Grund musste ich<lb/>
+mich auch melden, um zu erklären, dass im Ausbauprogramm für die nächsten<lb/>
+10 Jahre kein zweites Kernkraftwerk vorgesehen ist und das erste so<lb/>
+bald es fertig ist, frühstens im Herbst nächsten Jahres, in Betrieb<lb/>
+gehen sollte, wenn das Parlament nicht etwas anderes beschliesst.<lb/>
+Jetzt müsste endlich der Bescheid über die Einlagerung von Brenn<lb break="no"/>elementen, die vollkommen ungefährlich sind, gegeben werden, weshalb<lb/>
+das Gesundheitsministerium schon einen mündlichen Ministerratsvortrag<lb/>
+stellt. <name type="person" ref="per:97389">Czettel</name> urgierte darauf neuerdings, wir sollten auch die<lb/>
+Brennelementelagerung verschieben, bis der Nationalrat entschieden hat.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> meinte, so lange werden wir nicht warten können, weil die ÖVP<lb/>
+kein Interesse hat, schnell zu entscheiden. Diese wird ganz im Gegen<lb break="no"/>teil alles versuchen, hinauszuschieben. Der Wirtschaftsbund wird<lb/>
+sich nicht durchsetzen können, der ÖAAB wird gespalten sein und die<lb/>
+Bauern werden allein wegen Waldviertel grösstenteils sich dagegen aus<lb break="no"/>sprechen. Die Freiheitlichen werden überhaupt geteilt sein und auch von<lb/>
+den Sozialisten werden 4–6 dagegen stimmen. Trotzdem glaubt er auf<lb/>
+eine Mehrheit rechnen zu können.<lb/>
+</p>
+            <pb n="39-1438" facs="39_1977-12-12_1438.jpg"/>
+            <p xml:space="preserve">Auch in der Ministerratsbesprechung wurde nach einem Situations<lb break="no"/>bericht von <name type="person" ref="per:97627">Kienzl</name> und <name type="person" ref="per:97873">Rieger</name> über die Zahlungsbilanzsituation<lb/>
+die nichts Neues brachte, sofort über den Ministerratsvortrag<lb/>
+Brennelementelagerung diskutiert. <name type="person" ref="per:97668">Kreisky</name> steht nach wie vor auf<lb/>
+dem Standpunkt, dass es zweckmässig wäre, die Brennelemente einzu<lb break="no"/>fliegen. Er ist fest davon überzeugt, dass in Amerika alles mit<lb/>
+Flugzeug transportiert wird. Mühsam musste ich ihm erklären,<lb/>
+dass in Österreich internationale Vereinbarungen über Transport<lb/>
+gefährlicher Güter dem entgegenstehen. <name type="person" ref="per:110923">Lanc</name> meinte, wir könnten ja<lb/>
+diese internationalen Verpflichtungen ohne weiteres in Österreich<lb/>
+missachten. Davor warnte <name type="person" ref="per:97668">Kreisky</name>, weil er mit Recht sagt, dann würden<lb/>
+die Atomgegner sofort wieder entsprechende Angriffsmöglichkeiten<lb/>
+haben. Wenn die Regierung ihre Verpflichtungen nicht peinlichst genau<lb/>
+einhält, dann bräuchten auch sie sich nicht an Vereinbarungen oder<lb/>
+gesetzliche Verpflichtungen halten. Ausserdem würde man dann sagen,<lb/>
+hier sieht man, dass die Regierung selbst Sicherheitsauflagen, die sie<lb/>
+international eingegangen ist, missachtet. Für mich ist es nur<lb/>
+vollkommen unerklärlich, wieso es so lange dauert, bis von der KWU<lb/>
+festgestellt wird, ob in Deutschland überhaupt eine Transportmög<lb break="no"/>lichkeit mit Flugzeug existiert. Die GKT wurde nämlich vor langer Zeit<lb/>
+schon beauftragt, zu prüfen, ob eine solche Massnahme möglich ist.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> hat sie einen Brief geschrieben, behauptete er bei der<lb/>
+Ministerratsvorbesprechung, wo sie erklärt, bis März nächsten Jahres<lb/>
+könnte der Betrieb aufgenommen werden. Ich erklärte sofort, dass dies<lb/>
+vollkommen unmöglich ist, dass aber, wenn überhaupt, eine Aufnahme des<lb/>
+Betriebes im Jahre 1978 möglich sein sollte, jetzt bereits die<lb/>
+Brennstäbe eingeführt werden müssen. Die Transportgenehmigung der<lb/>
+Länder lieben bereits bescheidmässig vor, es fehlt nur noch die<lb/>
+Genehmigung des Gesundheitsministeriums über die Lagerung der Brennstäbe<lb/>
+im Kernkraftwerk selbst. Der diesbezügliche Ministerratsvortrag<lb/>
+wurde von <name type="person" ref="per:98063">Weissenberg</name> in der Vorbesprechung erörtert, <name type="person" ref="per:97668">Kreisky</name> meinte,<lb/>
+dies hätte das Gesundheitsministerium allein zu entscheiden und es<lb/>
+sollte kein offizieller Antrag morgen im Ministerrat gebracht werden.<lb/>
+Die Kernkraftgegner würden dadurch nur ein neuerliches Signal sehen,<lb/>
+um sofort wieder entsprechende Aktivitäten zu setzen. Wie ich nach<lb/>
+der Sitzung feststellen konnte, hat <name type="person" ref="per:111739">Vychytil</name>, der ein Schulbekannter<lb/>
+von <name type="person" ref="per:97444">Fischer</name> ist, diesen gefragt, was er machen soll und <name type="person" ref="per:97444">Heinz Fischer</name><lb/>
+hat ihm die Idee eingeimpft, man sollte einen Ministerratsvortrag mache<lb/>
+Die Beamten wollen sich dort ständig abdecken, die Ministerin <name type="person" ref="per:107938">Leodolter</name><lb/>
+genügt ihnen scheinbar nicht, weshalb sie einreden, man sollte<lb/>
+eben durch Ministerratsbeschlüsse sich entsprechend absichern.<lb/>
+</p>
+            <pb n="39-1439" facs="39_1977-12-12_1439.jpg"/>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> wieder verweist immer wieder darauf, dass durch das Kernkraft<lb break="no"/>werk wir mindestens 2 % der Wähler verlieren und damit unsere abso<lb break="no"/>lute Mehrheit, wenn wir sie nicht durch irgendetwas anderes auch<lb/>
+ausgleichen, 1979 verloren ist. <name type="person" ref="per:97444">Fischer</name> ist wie ich der Meinung,<lb/>
+dass er in seiner gewohnten Taktik immer das Negative herausstreicht,<lb/>
+um dann zu sagen, das habe ich schon immer vorausgeahnt, wobei er<lb/>
+aber gerade bei der Kernkraftwerk überhaupt keine andere Lösung<lb/>
+vorschlagen kann. Für die Endlagerung, die ja letzten Endes die<lb/>
+Voraussetzung für die Inbetriebnahme sein wird, überlegt er jetzt<lb/>
+scheinbar die amerikanische Erklärung kombiniert mit dem französischen<lb/>
+Aufarbeitungsvertrag als eine solche Lösung dann anzubieten. Da<lb/>
+die Franzosen die Brennelemente, wenn wir uns daran beteiligen,<lb/>
+übernehmen, aufarbeiten und dann frühestens in 10 Jahren zurückgeben,<lb/>
+wird er dann versuchen, im nächsten Jahr zu erklären, dass bis dahin<lb/>
+die Amerikaner die Abfälle übernehmen und damit die Entsorgungsfrage<lb/>
+gelöst werden kann. Kabinettchef <name type="person" ref="per:97469">Gehart</name> hat mit dann anschliessend<lb/>
+auch noch mitgeteilt, dass <name type="person" ref="per:112014">Erbacher</name> vor einer Woche bei ihm war,<lb/>
+um eine neuerliche Aussprache mit <name type="person" ref="per:97668">Kreisky</name> zu ersuchen. Da diese<lb/>
+nicht zustandekam, <name type="person" ref="per:97469">Gehart</name> meinte, es seien keine neuen Gesichtspunkte<lb/>
+und daher eine Aussprache nicht zielführend, hätte man nun das Memoran<lb break="no"/>dum über<add>[die]</add> GKT verfasst und allen beteiligten Ministern zugeschickt.<lb/>
+</p>
+            <p xml:space="preserve">Eine Debatte ergab sich dann neuerdings auf den Vorschlag <name type="person" ref="per:97389">Czettels</name>,<lb/>
+ob wir nicht, wenn wir die Brennelemente jetzt hereinlassen die Glaub<lb break="no"/>würdigkeit verlieren, denn die grosse Masse der Bevölkerung sieht darin<lb/>
+einen weiteren Schritt zur Inbetriebnahme des Kernkraftwerkes. <name type="person" ref="per:97389">Czettel</name><lb/>
+meint deshalb, man müsste abwarten, bis der Nationalrat darüber ent<lb break="no"/>schieden hat. Klubobmann <name type="person" ref="per:97444">Fischer</name> glaubt, dass die ÖVP bereit ist,<lb/>
+diese Diskussion beschleunigt abzuführen. Wenn der Bericht jetzt ins<lb/>
+Parlament kommt, wird er sofort den Handelsausschuss zugewiesen.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> hat einen richtigen politischen Rieche rund meint, übrigens<lb/>
+genauso wie ich, dass die ÖVP sich sehr lange Zeit lassen wird<lb/>
+und das ganze Problem hinausschiebt. Es genügt nämlich nicht, wenn<lb/>
+der Bericht nur zur Kenntnis genommen wird, sondern es soll ja<lb/>
+festgehalten werden, unter welchen Voraussetzungen der Nationalrat<lb/>
+der Inbetriebnahme des Kernkraftwerkes zustimmt. Diese Verhandlungen<lb/>
+werden sich ziehen, davon bin auch ich überzeugt. Am Mittwoch,<lb/>
+dem 14. soll der wirtschaftliche Ministerrat über die beabsichtigte<lb/>
+Klausurtagung im Jänner vorverhandeln. Dazu brauche ich dringend unsere<lb/>
+Zusammenfassung.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98072">WIESINGER</name>: Bitte alle insb. <name type="person" ref="per:111737">Marsch</name> darauf aufmerksam<lb/>
+machen.<lb/>
+</p>
+            <pb n="39-1440" facs="39_1977-12-12_1440.jpg"/>
+            <p xml:space="preserve"><name type="person" ref="per:97311">Androsch</name> hat mir vor dem Ministerrat eine Einsichtsbemerkung<lb/>
+wegen des DDR-Vertrages seiner Beamten gezeigt. Darin stellen diese<lb/>
+mit Recht fest, dass für Kreditabkommen der Finanzminister zuständig<lb/>
+ist, aus diesem Grund hat er auch in Polen entsprechende Verträge<lb/>
+unterfertigt. Ich erkläre ihm sofort, dass ich dafür volles Verständnis<lb/>
+habe, <name type="person" ref="per:97668">Kreisky</name> meint, ich sollte, wenn ich jetzt nach Berlin fliege,<lb/>
+den Vertrag paraphieren, da die Voraussetzung eines solchen<lb/>
+Vertrages überhaupt die Einigung zwischen der Österr. Kontroll<lb break="no"/>bank und der Deutschen Aussenhandelsbank ist, ist es sicher gar<lb/>
+nicht so wichtig, wann der Vertrag dann endgültig unterschrieben wird.<lb/>
+Ich nehme an, dass <name type="person" ref="per:97668">Kreisky</name> ihn bei seinem Besuch in Berlin dann mit<lb/>
+<name type="person" ref="per:97311">Androsch</name> unterschreiben möchte resp. wird.<lb/>
+</p>
+            <p xml:space="preserve">Abend rief mich dann <name type="person" ref="per:97543">Heindl</name> an und teilte mir mit, dass Frau <name type="person" ref="per:149433">Böhm</name> ent<lb break="no"/>führt wurde. Ein Telefonanruf um 4 Uhr früh hätte wieder einmal<lb/>
+<name type="person" ref="per:126228">Böhm</name> nicht nur aufgeschreckt, sondern auch angekündigt, dass er jetzt<lb/>
+drankommt. Da er eine Reise nach Italien vor hatte, bliebt er dann<lb/>
+gleich auf, ist weggefahren, derzeit noch gar nicht zu erreichen<lb/>
+und weiss daher noch gar nicht, was seiner Frau widerfahren ist.<lb/>
+<name type="person" ref="per:97543">Heindl</name> hat diesen Telefonanruf sofort der Polizei mitgeteilt und<lb/>
+Präs. <name type="person" ref="per:140911">Reidinger</name> hat vorgeschlagen, man soll eine Fangtaste einbauen.<lb/>
+Dies kommt nun alles zu spät. Wo diese Entwicklung hinführt, kann<lb/>
+ich mir beim besten Willen nicht vorstellen.<lb/>
+</p>
+            <p xml:space="preserve">Sozialminister <name type="person" ref="per:98063">Weissenberg</name> teilt mir mit, dass Min.Rat <name type="person" ref="per:110981">Pelzl</name> mit<lb/>
+seinem Zentralarbeitsinspektor <name type="person" ref="per:116919">Böse</name> verhandelt, um eine Lösung der<lb/>
+Abgrenzung zwischen OB und Arbeitsinspektorat zu finden. Min.Rat <name type="person" ref="per:110981">Pelzl</name><lb/>
+machte <name type="person" ref="per:116919">Böse</name> den Vorschlag, es wäre zweckmässig, eine einheitliche<lb/>
+Kontrollorganisation für die Arbeiter von Industrie und Gewerbe und<lb/>
+Bergbau gefunden wird. Zu diesem Zweck könnte er sich gut vorstellen,<lb/>
+dass die Agenden der OB über Kontrolle der Bergbaue an die Arbeits<lb break="no"/>inspektorate übertragen werden. <name type="person" ref="per:98063">Weissenberg</name> vermutet, dass <name type="person" ref="per:110981">Pelzl</name> wegen<lb/>
+seiner Schwierigkeiten in der OB bereit wäre, in das Sozialministerium<lb/>
+zu übersiedeln. Dagegen hätte ich persönlich auch gar nichts einzuwenden<lb/>
+Ich erkläre <name type="person" ref="per:98063">Weissenberg</name>, dass ich <name type="person" ref="per:110981">Pelzl</name> dazu keinen Auftrag gegeben<lb/>
+habe und auch keinen geben werde. Die Besprechungen hat er ohne mein<lb/>
+Wissen begonnen und soll sie jetzt auch ohne mein Wissen weiterführen.<lb/>
+Mir persönlich kann es nur recht sein, wenn innerhalb der CV-ler und<lb/>
+der ÖAAB-s wegen dieses Vorgehens ein riesiger Streit entstehen wird.<lb/>
+Vor etlichen Jahren hat aus Zweckmässigkeitsgründen Soz.Minister<lb/>
+<pb n="39-1441" facs="39_1977-12-12_1441.jpg"/><name type="person" ref="per:97525">Häuser</name> diese Idee gehabt. Rein sachlich wäre es sicherlich richtig,<lb/>
+wenn eine einheitliche Kontrolle sowohl der Verkehrsinspektorate<lb/>
+wie der OB als auch letzten Endes beide in die Arbeitsinspektion<lb/>
+des Sozialministeriums eingegliedert erfolgen würde. Damals haben<lb/>
+sich nur die soz. Eisenbahner ganz entschieden gegen diesen Plan ge<lb break="no"/>wehrt. Auch von Seiten der ÖVP-Berghauptleute und Obersten Bergbehörde<lb/>
+wurde diese Idee abgelehnt. Ich bin sehr gespannt, wie diese Verhand<lb break="no"/>lungen und Besprechungen weitergehen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name>: Bitte versuche vorsichtig zu erfahren, ob <name type="person" ref="per:110981">Pelzl</name><lb/>
+mit irgendjemandem in der OB darüber gesprochen hat.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="39_1434_01" facs="39_1977-12-12_1434-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 12.12.1977</head>
+         </div>
+         <pb n="39_1434_02" facs="39_1977-12-12_1434-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

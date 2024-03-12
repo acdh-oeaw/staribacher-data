@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Montag, der 21. Jänner 1980</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band53_1980-01-21</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1980-01-21">Montag, 21. Januar 1980</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2017-09-25">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="53-0048" facs="53_1980-01-21_0048.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Montag, 21. Jänner 1980<lb/>
+</p>
+            <p xml:space="preserve">Der erweiterte Wiener Vorstand, d.h. mit den Bezirksobmännern,<lb/>
+wurde trotz der Erkrankung <name type="person" ref="per:97488">Gratz</name>' nicht abgesagt. <name type="person" ref="per:97488">Gratz</name> hat<lb/>
+eine Lungenentzündung und wird, wie dann von <name type="person" ref="per:110923">Lanc</name>, der den<lb/>
+Vorsitz führte, mitgeteilt wurde, mindestens 3 Wochen aus<lb break="no"/>fallen. Landessekretär <name type="person" ref="per:109818">Edlinger</name> berichtete zuerst über die<lb/>
+IFES-Umfrage vom Dezember des Vorjahres. Diese bestätigte<lb/>
+wieder einmal, dass wir bei den 30- bis 40-Jährigen sehr gut<lb/>
+liegen, gut bei den bis 50 Jahre, und da bis 70 erhoben wurde,<lb/>
+auch diese Kategorie sehr gut abschneidet. Die Schwäche der<lb/>
+SPÖ liegt bei den 20- bis 30-Jährigen. Überraschend für mich<lb/>
+war, dass die 16- bis 20-Jährigen aber bereits so wie der<lb/>
+Wiener Durchschnitt, d.h. also ganz gut, liegen. Die Volkspartei<lb/>
+liegt unter den Werten 78, aber ihre Aktion Pro Wien ist sehr<lb/>
+positiv beurteilt. <name type="person" ref="per:109293">Busek</name> hat ebenfalls verloren. Bei der Frage<lb/>
+nach der fiktiven Wahl am nächsten Sonntag stellt sich heraus,<lb/>
+dass wir jetzt bei den Landtagswahlen, die sehr kurvig von<lb/>
+Monat zu Monat verlaufen und noch stärker eigentlich von Wahl<lb/>
+zu Wahl, derzeit das 78-er Ergebnis hätten. Bei National<lb break="no"/>ratswahlen verlauft es wesentlich flacher und natürlich we<lb break="no"/>sentlich günstiger. Neu war das Erkenntnis, dass sich die Be<lb break="no"/>völkerung identifiziert mit der Stadt, zu 68%, was international<lb/>
+sehr hoch gilt. 51% SPÖ, 16% VP. Wenn man Rechts, Links und Mitte<lb/>
+fragt und einstuft, so sind 30% links, 28% rechts und 36 fühlen<lb/>
+sich Mitte zugehörig. Interessant ist noch, dass die Einrichtungen<lb/>
+insbesondere für die Jugendlichen, sowohl Gemeinschaftseinrichtung<lb/>
+als auch Freizeiteinrichtung, als zu wenig betrachtet werden. Bil<lb break="no"/>dungseinrichtungen gäbe es genug. Wenn Einrichtungen aber geschaf<lb break="no"/>fen werden, dann müsste es die Gemeinde machen und nicht die po<lb break="no"/>litischen Parteien. Am bekanntesten, aber negativ besetzt war die<lb/>
+Arena-Aktion, Pro Wien, wie gesagt, ist 2/3 bekannt, wovon 80%<lb/>
+positiv darüber denken. 13% glauben noch immer, dass es sich hier<lb/>
+um eine sozialistische Aktion handelt. Der einzige Ideenmarkt,<lb/>
+den die ÖVP gemacht hat, war ebenfalls mit 36% bekannt und 27%<lb/>
+positiv besetzt. Nicht die ÖVP, wohl aber ihre Aktionen kommen<lb/>
+sehr gut an. Die Bevölkerung sieht in Bürgerinitiativen eine<lb/>
+Bereicherung und wünscht sie.<lb/>
+</p>
+            <pb n="53-0049" facs="53_1980-01-21_0049.jpg"/>
+            <p xml:space="preserve">Dies war auch dann der Grund, warum es um 4 Volksbefragungen<lb/>
+ging, die jetzt Bürgerinitiativen abfangen sollen. Erstens<lb/>
+Flötzersteig, zweitens Vorrang Massenverkehr, drittens Sperr<lb break="no"/>friedhöfe, d.h. Friedhöfe, die nicht mehr belegt werden sollten,<lb/>
+und viertens Dreieckständer, die Wien verschandeln, aber die<lb/>
+die ÖVP jetzt auch sehr aktiv einsetzt. Nach stundenlanger<lb/>
+Diskussion wurde dann beschlossen, da der Bürgermeister <name type="person" ref="per:97488">Gratz</name><lb/>
+seinerzeit einmal erklärt hat, die Partei wird keine Stellung<lb break="no"/>nahmen beziehen, dass sehr wohl insbesondere bei Flötzersteig<lb/>
+und Vorrang Massenverkehr eine Stellungnahme der Partei unbe<lb break="no"/>dingt abgegeben werden muss. Nur bei Sperrfriedhöfen und Drei<lb break="no"/>eckständern soll man frei entscheiden lassen, d.h. die Partei<lb/>
+keine Äusserung abgeben. Ich glaube, dass die Partei in jeden<lb/>
+Fall eine Äusserung abgeben muss, denn die Funktionäre, insbe<lb break="no"/>sondere aber in den Sektionen, und unsere Mitglieder werden<lb/>
+natürlich wissen wollen, wie sie im einzelnen Fall, auch dann,<lb/>
+wenn sie sich eine eigene Meinung gebildet haben oder bilden<lb/>
+wollen, die Partei über die Probleme denkt und was sie letzten<lb/>
+Endes vorschlägt. <name type="person" ref="per:97561">Hofmann</name> meinte, die beste Lösung wäre, kein<lb/>
+Funktionär gibt eine andere Stellungnahme ab als der zuständige<lb/>
+Stadtrat, der ja mehr oder minder die Parteimeinung mitvertritt.<lb/>
+Da aber in vielen Fragen innerhalb des Stadtsenats eine einver<lb break="no"/>nehmliche Auffassung besteht, glaube ich, wird diese Einfach<lb break="no"/>formel auch nur schwer zur Anwendung gelangen. In Wirklichkeit<lb/>
+wird es eben, wie z.B. in der Flötzersteig-Bürgerinitiative und<lb/>
+der jetzigen Volksbefragung, mehr oder minder darauf ankommen<lb/>
+der Bevölkerung, auch der unmittelbar betroffenen, klarzumachen,<lb/>
+um was es dabei geht. Nach wie vor glaube ich, dass man Bürger<lb break="no"/>initiativen versuchen muss schon bei der Entstehung in den Griff<lb/>
+zu bekommen, d.h. sie entweder zu unterwandern oder sogar viel<lb break="no"/>leicht überhaupt für seine eigene Meinung zu gewinnen und eben<lb/>
+nicht zuzuwarten, bis eine Zeitung oder sonstige Massenorgani<lb break="no"/>sation sich dieser Bürgerinitiative annimmt, wie dies z.B. beim<lb/>
+Sternwartepark der Fall war.<lb/>
+</p>
+            <p xml:space="preserve">Stadtrat <name type="person" ref="per:97786">Nittel</name> teilte mit, dass mit 1. Feber der Gaspreis um<lb/>
+19.6% vom Bürgermeister als Landeshauptmann erhöht wurde. Darin<lb/>
+ist die von der UdSSR erwartete 27%ige Steigerung ab 1. Jänner<lb/>
+und auch die noch kommenden mehr oder minder drinnen. 192 Mio<lb/>
+Schilling bringt die 19.6%ige Erhöhung dem Gaswerk Mehrerlös,<lb/>
+<pb n="53-0050" facs="53_1980-01-21_0050.jpg"/>wodurch die Investitionssperre von 200 Mio Schilling aufgehoben<lb/>
+werden kann.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Bitte sofort Lebenshaltungskostenindex<lb/>
+mit 19.6 berechnen lassen.<lb/>
+</p>
+            <p xml:space="preserve">Für die Bundespräsidentenwahl wurde der Wahlfonds mit 30 Schil<lb break="no"/>ling pro Mitglied festgelegt. 15 Schilling muss an die Zentrale<lb/>
+abgeführt werden, 10 Schilling an die Landespartei und 5 Schilling<lb/>
+verbleiben im Bezirk. Nur der Bezirksobmann <name type="person" ref="per:116042">Suttner</name> von Liesing<lb/>
+war der Meinung, dass die 30 Schilling als zu hoher Aufwand für<lb/>
+die Bundespräsidentenwahl gelten müssen, insbesondere die Länder<lb/>
+würden kaum so grosse Kosten, weshalb er dagegen stimmte. <name type="person" ref="per:109818">Edlinger</name><lb/>
+verwies mit Recht darauf, dass Grosswerbeflächen aufgestellt und<lb/>
+gemietet werden müssen, denn man kann die Einfahrt und sonstige<lb/>
+wichtige Punkte nicht dem Gegenkandidaten <name type="person" ref="per:97490">Gredler</name> überlassen.<lb/>
+Eine Transparentwerbung muss durchgeführt werden, Postkarten von<lb/>
+<name type="person" ref="per:97632">Kirchschläger</name> sind zu bestellen und auch im Kino wird man ent<lb break="no"/>sprechende Einschaltungen vornehmen. Die letzte Bundespräsidenten<lb break="no"/>wahl 1975 hat 13 Mio Schilling gekostet. Wien rechnet deshalb<lb/>
+mindestens mit 4 Mio Schilling Aufwand. Mit den 10 Schilling kommen<lb/>
+aber höchstens 2.5 Mio herein.<lb/>
+</p>
+            <p xml:space="preserve">Der ehemalige Gewerkschaftsobmann und jetzige Gemeinderat <name type="person" ref="per:123305">Busta</name><lb/>
+legt sein Gemeinderatsmandat zurück und es wird Ing. <name type="person" ref="per:122010">Riedler</name>. Eben<lb break="no"/>so scheidet er aus den Sparkassenrat aus, wodurch neben <name type="person" ref="per:97488">Gratz</name>,<lb/>
+<name type="person" ref="per:97757">Mühlbacher</name> und <name type="person" ref="per:123306">Lackner</name> in Hinkunft <name type="person" ref="per:123308">Meier</name>, <name type="person" ref="per:97563">Hofstetter</name> und <name type="person" ref="per:123307">Bandion</name><lb/>
+in die Z entsendet werden.<lb/>
+</p>
+            <p xml:space="preserve">Die Werbeaktion ist abgeschlossen und hat 16.040 Mitglieder mehr<lb/>
+gebracht. Das sind 87.6 % des Werbeziels. Die Landstrasse liegt<lb/>
+mit 54 % an letzter Stelle. Netto verbleiben von den 16.000<lb/>
+3.000, alles andere ging durch Abgang wieder verloren. Die nächste<lb/>
+Werbeaktion wird insbesondere Mitarbeiter umfassen. Organisato<lb break="no"/>risch ist vorgesehen, dass eine Broschüre jetzt für die Sektions<lb break="no"/>arbeit rauskommt. Eine Bezirkszeitung wird vierteljährlich jetzt<lb/>
+von der Partei in jedem Bezirk erscheinen, Eine Kulturarbeits<lb break="no"/>gemeinschaft wird gegründet und in jedem Bezirk soll ein Öffent<lb break="no"/>lichkeitsarbeitsreferent ernannt werden, der insbesondere zu den<lb/>
+Zeitungen und Massenmedien besseren Kontakt herstellt. Vertrau<lb break="no"/>lich wurde mitgeteilt, dass jetzt auch eine Runde der Presserefe<lb break="no"/><pb n="53-0051" facs="53_1980-01-21_0051.jpg"/>renten bei jeden Stadtrat sein <choice><choice><sic>woll</sic><corr>soll? will?</corr></choice></choice>. Einmal in der Woche,<lb/>
+nämlich am Montag, wird in der AZ jetzt der Organisations<lb break="no"/>kalender erscheinen und mit der SJ, Jungen Generation und<lb/>
+Kinderfreunden-Vorständen wird der Wiener Ausschuss ein<lb/>
+Open House machen. Dies kann nur eine Massendemonstration<lb/>
+von etlichen hundert Teilnehmern werden, wenn alle daran<lb/>
+teilnehmen, was sicherlich nicht der Fall ist. Durch<lb/>
+diese ganztägige Sitzung wurde viel diskutiert, ich war<lb/>
+ja leider nur teilweise anwesend, und auch etliche Beschlüsse<lb/>
+gefasst. Trotzdem halte ich solche Sitzungen für sehr proble<lb break="no"/>matisch, denn die Ausschussmitglieder, die daran nicht teil<lb break="no"/>nehmen können, glauben weiss Gott was dort alles besprochen<lb/>
+wird und fühlen sich teilweise diskriminiert. Die Besetzung<lb/>
+z.B. der Gemeinderäte wäre ausschliesslich dem Ausschuss vor-<lb/>
+behalten und könnte gar nicht, auch vom erweiterten Vorstand,<lb/>
+beschlossen werden. Da es aber dringend war, musste es eben<lb/>
+von dem unzuständigen Organ vorgenommen werden. Ich bin neu<lb break="no"/>gierig, ob sich das nächste Mal darüber wer aufregt. Ich glau<lb break="no"/>be, eigentlich kaum.<lb/>
+</p>
+            <p xml:space="preserve">Im Pressefrühstück, das diesmal so gut wie noch nie besetzt<lb/>
+war, kaum dass alle Beteiligten sitzen konnten, berichtete<lb/>
+<name type="person" ref="per:114739">Goldmann</name> zuerst über die Arbeitsgruppen wegen der Bio-Sprit-<lb/>
+Untersuchungen. Wenn 5% Beimischung kommt, müsste der Benzin<lb break="no"/>preis um 30 bis 50 Groschen erhöht werden. Der Bund würde sich<lb/>
+200 Mio Schilling ersparen durch Wegfall von Exportstützungen<lb/>
+und 65.000 Tonnen Öl bräuchten weniger importiert werden. Der<lb/>
+Bodenkulturprofessor <name type="person" ref="per:123310">Köttl</name> von der Landwirtschaft hat natürlich<lb/>
+nur das Positive herausgestrichen. Seiner Meinung nach könnten<lb/>
+90.000 Tonnen Schlempe als Futtermittel verbraucht werden. Bis<lb/>
+zu 90.000 Tonnen könnten sogar zusätzlich dann noch für Rinder<lb/>
+als Flüssigfuttermittel im Umkreis von 10 Kilometern verwendet<lb/>
+werden. Mit einem Wort, es wäre äusserst günstig Getreide dafür<lb/>
+zu verwenden. Sollte Zuckerrübe aber verwendet werden, das<lb/>
+einen besseren Energieertrag gäbe, müsste man mit der Maische<lb/>
+halt Düngemittel erzeugen oder sonst irgendwie wesentlich<lb/>
+schlechter verwenden. Der Direktor <name type="person" ref="per:123309">Schreier</name> von Vogelbusch wieder<lb/>
+hat alle technischen Details sehr positiv geschildert und der<lb/>
+Technikprofessor <name type="person" ref="per:117651">Schmidt</name> meinte, es könnte bis zu 15, bis 20%<lb/>
+ohne schwerwiegende Probleme Biosprit beigemischt werden, wo<lb break="no"/>durch eine bessere Verbrennung erfolgt. Derselbe Literverbrauch<lb/>
+<pb n="53-0052" facs="53_1980-01-21_0052.jpg"/>wäre, obwohl nur 70 % des Energiegehaltes bei Alkosprit<lb/>
+vorliegt, der CO-Gehalt würde fallen und man könnte sogar<lb/>
+wahrscheinlich Bleizusatz ein wenig senken. Die Importben<lb break="no"/>zine müssten durch eine Mischanlage, die natürlich Investi<lb break="no"/>tionskosten verursacht, sowie die Inlandsbenzine entsprechend<lb/>
+technisch möglich sofort gemischt werden. Ich erklärte dann de<lb break="no"/>zidiert, dass jetzt das Handelsministerium alle Vorarbeiten ab<lb break="no"/>geschlossen hat und dass eben jetzt bei den Produzenten, vom<lb/>
+Bauern angefangen, die sich ja schon mit einer Gesellschaft<lb/>
+bei der EBS organisiert haben, bis zu der Mineralölwirtschaft,<lb/>
+die ja letzten Endes die Übernahme und Beimischung durchführen<lb/>
+muss, liegt, wann und ob dieses Projekt zustande kommt. Jetzt<lb/>
+muss endgültig von der Mineralölwirtschaft resp. von den Sprit<lb break="no"/>produzenten klar entschieden werden. Zu hoffen, dass das<lb/>
+Handelsministerium dekretiert, ist eine Illusion, denn dazu<lb/>
+habe ich weder die gesetzliche Grundlage, noch stehe ich auf<lb/>
+dem Standpunkt, dass in unserem Wirtschaftssystem alles immer<lb/>
+vom Staat dekretiert und damit bezahlt werden soll.<lb/>
+</p>
+            <p xml:space="preserve">GD <name type="person" ref="per:97453">Fremuth</name> hat in der Früh angerufen und mitgeteilt, dass in<lb/>
+der UdSSR er wider Erwarten sogar von einem Vizeministerprä<lb break="no"/>sident und von sonstigen lauter erstrangigen Leuten empfangen<lb/>
+wurde, um über Strombezug zu sprechen. Wie mir MR <name type="person" ref="per:97426">Fälbl</name> nachher<lb/>
+mitteilte, war anfangs sowohl in der Botschaft als insbesondere<lb/>
+bei der Handelsdelegation von der Reise <name type="person" ref="per:97453">Fremuths</name> wenig bekannt<lb/>
+und man wollte sie sogar streichen. Als dann <name type="person" ref="per:97453">Fremuth</name> aber sich<lb/>
+selbst eine so gute Verhandlungsposition geschaffen hat, ist<lb/>
+Botschafter <name type="person" ref="per:114156">Hinteregger</name> sofort mitgelaufen. Die Russen haben<lb/>
+halt wahrscheinlich auch die Quarglerei in den verschiedensten<lb/>
+Kommissionen und offiziellen Gremien und über Botschaften usw.<lb/>
+satt und spüren, dass <name type="person" ref="per:97453">Fremuth</name> als Verbundgesellschaft imstande<lb/>
+ist, auch für sie entsprechend interessante Projekte zu bringen.<lb/>
+Da die Sowjets auf alle Fälle Spitzenstrom brauchen, den wir ja<lb/>
+im Abtausch gegen Grundlast ohne weiteres zur Verfügung stellen<lb/>
+können, ergibt sich eine interessante Stromaustauschmöglichkeit.<lb/>
+Da die Russen jetzt eine 750 KV-Leitung bis Budapest gelegt haben,<lb/>
+glaubt <name type="person" ref="per:97453">Fremuth</name> wäre es möglich über diese Leitung dann auch bis<lb/>
+Österreich und darüber hinaus nach den westeuropäischen Ländern,<lb/>
+Schweiz und Deutschland, eventuell sogar Frankreich und Italien,<lb/>
+<pb n="53-0053" facs="53_1980-01-21_0053.jpg"/>entsprechende Strommengen exportieren zu können. Nach Meinung<lb/>
+<name type="person" ref="per:97453">Fremuth</name> könnte dies bis 1.000 Megawatt ab 1985 gehen.<lb/>
+</p>
+            <p xml:space="preserve">Ich berichtete dann abschliessend schnell über die Öl-, Gas-<lb/>
+und Elektrizitätsverbräuche von Jänner bis November und verwies<lb/>
+natürlich, dass daraus beim besten Willen keine chaotische Energie<lb break="no"/>versorgung, wie Abg. <name type="person" ref="per:111410">König</name> von der ÖVP und Energiesprecher dieser<lb/>
+Partei immer wieder behauptet, festzustellen ist. Wenn <name type="person" ref="per:111410">König</name><lb/>
+aber die Ostabhängigkeit im Anhang an <name type="person" ref="per:97453">Fremuth</name> besonders kriti<lb break="no"/>siert, so erwarte ich, dass die ÖVP dem Energiesicherungsgesetz<lb/>
+zustimmen wird, wo, wie ich mit <name type="person" ref="per:107937">Frank</name> anschliessend besprach,<lb/>
+auch eine entsprechende Lenkungsmöglichkeit für Importbezüge<lb/>
+vorgesehen werden muss.<lb/>
+</p>
+            <p xml:space="preserve">Die Vorsprache der EUMIG-Betriebsräte von ganz Österreich war<lb/>
+erschütternd. In Wiener Neudorf sollen 430 gekündigt werden,<lb/>
+in Deutsch Altenburg 188, in Fürstenfeld 316 und in Kirchdorf<lb/>
+126, insgesamt über 1.000, sodass nur 4.500 Rest überbleiben.<lb/>
+Auch diese sind sehr gefährdet. Die Firma ist mit 2,3 Mia<lb/>
+Schilling verschuldet, die Länderbank mindestens 2 Mia, bei<lb/>
+einem Umsatz von 1,3 Mia Schilling und einem jährlichen Defizit<lb/>
+von 300 Mio. Aus der Zinsenbelastung allein müsste die Firma<lb/>
+200 Mio Schilling jährlich tragen. Eine ganz unmögliche Situation.<lb/>
+Da die CA 150 Mio Schulden, die Postsparkasse 108 Mio und die<lb/>
+Zentralsparkasse auch eine dreistellige Zahl zusätzliche Ver<lb break="no"/>schuldung der EUMIG besitzt, wird von den Betriebsräten befürch<lb break="no"/>tet, dass diese versuchen zu ihrem Geld zu kommen und damit der<lb/>
+Betrieb in Konkurs gehen muss. <name type="person" ref="per:97311">Androsch</name> berichtete dann im<lb/>
+Ministerrat, dass die Länderbank im Aufsichtsrat 200 Mio neuer<lb break="no"/>lich Kreditmittel beschlossen hat, wodurch die Liquidität bis<lb/>
+Ende März gesichert ist und bis zu diesem Zeitpunkt das Sanie<lb break="no"/>rungskonzept vorliegen soll. Die EUMIG-Bilanzen waren bereits<lb/>
+seit 1974 negativ und schlecht und scheinbar ist in der Länder<lb break="no"/>bank niemand oder, wenn überhaupt, wesentlich zu spät darauf<lb break="no"/>gekommen. Die Situation liegt daher auch für die Länderbank<lb/>
+äusserst ungünstig. Die Beschäftigung der Entlassenen ist<lb/>
+einigermassen gesichert, denn Philips und Siemens werden fast<lb/>
+600 aus Wiener Neudorf und Deutsch Altenburg übernehmen können.<lb/>
+Auch in Kirchdorf wird man die Leute unterbringen. Das Problem<lb/>
+<pb n="53-0054" facs="53_1980-01-21_0054.jpg"/>liegt nur bei Fürstenfeld. Hier wäre es interessant, wenn<lb/>
+es gelänge die Agfa dort zu etablieren. Entsprechende Sicher<lb break="no"/>stellungen würde ja die Länderbank jederzeit geben.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte <name type="person" ref="per:97493">Gröger</name> soll sofort entsprechende<lb/>
+Versuche mit Agfa einleiten.<lb/>
+</p>
+            <p xml:space="preserve">Vor der Ministerratssitzung habe ich Landwirtschaftsminister<lb/>
+<name type="person" ref="per:97511">Haiden</name> darauf aufmerksam gemacht, dass sein SChef <name type="person" ref="per:114570">Steiner</name><lb/>
+unbedingt zur ministeriellen Vorbesprechung für die EG-Ver<lb break="no"/>handlungen das Handelsministerium einladen muss. <name type="person" ref="per:97511">Haiden</name> wird<lb/>
+Entsprechendes veranlassen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte <name type="person" ref="per:115656">Steiger</name> informieren.<lb/>
+</p>
+            <p xml:space="preserve">In der Vorbesprechung hat <name type="person" ref="per:97311">Androsch</name> <name type="person" ref="per:97668">Kreisky</name> zu seinem morgigen<lb/>
+Geburtstag gratuliert und weitere erfolgreiche Zusammenarbeit<lb/>
+und insbesondere Gesundheit gewünscht. <name type="person" ref="per:97668">Kreisky</name> hat einmal mehr<lb/>
+darauf wieder verwiesen, wie gut dieses grosse Mass der Zusam<lb break="no"/>menarbeit in unserer Regierung funktioniert, was auf eine ein<lb break="no"/>heitliche Partei zurückzuführen ist und sich wohltuend gegen<lb break="no"/>über Deutschland, Italien und Frankreich, wo es schwere innere<lb/>
+Konflikte, sei es in der Partei, oder in den Regierungen gibt,<lb/>
+unterscheidet. <name type="person" ref="per:97668">Kreisky</name> wird jetzt die Asien-Reise antreten, auch<lb/>
+dann wenn die ÖVP, <name type="person" ref="per:116706">Ettmayer</name>, meint, er sollte dies unterlassen,<lb/>
+weil sie schlecht vorbereitet ist.<lb/>
+</p>
+            <p xml:space="preserve">Der UdSSR-Botschafter war heute bei ihm und hat sanftmütig, wie<lb/>
+wenn er vom heiligen Stuhl entsendet worden wäre, die sowjetische<lb/>
+Situation dargelegt. Die UdSSR steht unter Zwang und er versteht<lb/>
+die Aufregung wegen Afghanistan nicht. Dort war immer die UdSSR<lb/>
+vertreten und 10.000 Aufständische militanter Art hätten dort<lb/>
+jetzt den Bürgerkrieg entfacht. Wenn sowjetische Soldaten dort<lb/>
+als Freundschaftspakt einmarschieren, regt sich die Welt auf,<lb/>
+dass in Kuba und Panama US Soldaten stehen, vergisst man dabei.<lb/>
+Sicher war die UdSSR über die Reaktion der Welt sehr überrascht.<lb/>
+Für die Amerikaner ist die afghanische Besetzung wie gewünscht<lb/>
+gekommen aus innenpolitischen Gründen. Der Botschafter versicherte,<lb/>
+dass es sich hier um eine isolierte Aktion gegen Afghanistan<lb/>
+handelt und dass nicht die Absicht besteht, weder nach Pakistan<lb/>
+<pb n="53-0055" facs="53_1980-01-21_0055.jpg"/>oder Iran oder sonst wo sich einzumischen. Er komme im Auftrag<lb/>
+<name type="person" ref="per:108324">Breschnews</name>, um dies neuerdings zu versichern und der UdSSR komme<lb/>
+es nicht in den Sinn in Jugoslawien einzugreifen. Österreich,<lb/>
+das sich immer für die Entspannungspolitik eingesetzt hat, er<lb break="no"/>sucht er diese Politik weiterzuführen.<lb/>
+</p>
+            <p xml:space="preserve">Eine längere Diskussion gab es dann wegen der Olympiade. Hier<lb/>
+werden wir abwarten. Auf gar keinen Fall kommt eine Gegenolympiade<lb/>
+in Frage. <name type="person" ref="per:113083">Sinowatz</name> teilte mit, dass der Präsident des österrei<lb break="no"/>chischen olympischen Komitees <name type="person" ref="per:123210">Heller</name> erklärt hätte, man werde<lb/>
+die Meinung der Österreicher bei einer Entscheidung berücksich<lb break="no"/>tigen und natürlich die Regierung fragen.<lb/>
+</p>
+            <p xml:space="preserve">Eine lange Diskussion ergab sich, weil <name type="person" ref="per:98063">Weissenberg</name> dem<lb/>
+FPÖ-Abgeordneten <name type="person" ref="per:123311">Haider</name> in der Fragestunde am Mittwoch Antwort<lb/>
+geben soll, wie der Abbau der Stützung der Lebensmittel, die<lb/>
+Energiepreisverteuerungen usw. für die Pensionisten berücksich<lb break="no"/>tigt werden. Laut Grundsatznorm ASVG und die anderen Sozialver<lb break="no"/>sicherungsgesetze liegt die AZ-Ausgleichszulagenregelung eigent<lb break="no"/>lich bei den Ländern. Seinerzeit wurde nur unter <name type="person" ref="per:111742">Kamitz</name>, als die<lb/>
+halbe Gewerbesteuer im Finanzausgleichsgesetz dem Bund gegeben wur<lb break="no"/>de, übernommen diese Ausgleichszulagen zu bezahlen. Die Richt<lb break="no"/>sätze werden deshalb immer von der Kommission festgesetzt und<lb/>
+der Bund geltet sie mit 5.5 Mia Schilling ab. Theoretisch müssten<lb/>
+aber die Länder dafür aufkommen. Darauf wollte <name type="person" ref="per:98063">Weissenberg</name> be<lb break="no"/>sonders verweisen, insbesondere dass ja die Fürsorgerichtsätze<lb/>
+der Länder höher sein können als die Richtsätze der Ausgleichs<lb break="no"/>zulagen. <name type="person" ref="per:97311">Androsch</name> meinte, dass wir ja heuer die Pensionen um 5.6%<lb/>
+anheben, obwohl die Aktiven nur 4.2 bis 4.5% erhalten haben.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> hatte nur Bedenken, dass man die Länder zu sehr auffor<lb break="no"/>dert sich um die sozial Bedürftigsten anzunehmen. Letzten Endes<lb/>
+würden dies vielleicht sogar die Länder machen, um dann zu be<lb break="no"/>weisen, dass sie wieder einmal einspringen, weil der Bund versagt.<lb/>
+Zusätzliche Mittel aber, wie wir dies zweimal in der Vergangenheit<lb/>
+für eine zusätzliche Abgeltung gemacht haben, kann der Finanz<lb break="no"/>minister nicht zur Verfügung stellen.<lb/>
+</p>
+            <pb n="53-0056" facs="53_1980-01-21_0056.jpg"/>
+            <p xml:space="preserve">Sowohl der Zentralsekretär der Metallarbeiter <name type="person" ref="per:112988">Wille</name>, als<lb/>
+auch der Obmann der Privatangestellten <name type="person" ref="per:111740">Dallinger</name> hatten<lb/>
+mich verwundert gefragt, wieso die Sozialversicherung jetzt<lb/>
+4.000 Betten im Waldviertel bauen und betreiben soll. Der<lb/>
+Sozialminister <name type="person" ref="per:98063">Weissenberg</name> hatte mir dezidiert erklärt, dass<lb/>
+dafür natürlich überhaupt keine Geldmittel von der Sozialver<lb break="no"/>sicherung oder von ihm selbst zur Verfügung gestellt werden<lb/>
+könnten. Genauso unmöglich betrachtet die Gewerkschaftsbewe<lb break="no"/>gung auch den Vorschlag, man sollte einen 8- oder 14-tägigen<lb/>
+zusätzlichen Urlaub für die Schichtarbeiter oder Nachtarbeiter<lb/>
+dekretieren, damit dann diese Sozialversicherungseinrichtungen<lb/>
+dort entsprechend belegt werden. Hier wird also die Idee von<lb/>
+<name type="person" ref="per:120379">Mayr</name>, der sie ja <name type="person" ref="per:97668">Kreisky</name> eingeredet hat, sicherlich scheitern.<lb/>
+In der Bundeshandelskammer, so habe ich erfahren, herrscht des<lb break="no"/>halb helle Aufregung und Empörung, dass der Staat hunderte Mil<lb break="no"/>lionen jetzt auf diese Art und Weise in den Fremdenverkehr für<lb/>
+eine Privatfirma pumpen will. Die meiner Meinung nach sehr un<lb break="no"/>glückliche Mitteilung von <name type="person" ref="per:120379">Mayr</name> auf der Hoteliervereinigungs<lb break="no"/>tagung schlägt also ungeheure Wellen. Rauskommen kann und wird<lb/>
+überhaupt nichts.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="53_0047_01" facs="53_1980-01-21_0047-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 21.1.1980</head>
+         </div>
+         <pb n="53_0047_02" facs="53_1980-01-21_0047-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

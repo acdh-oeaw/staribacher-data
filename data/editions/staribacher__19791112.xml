@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Montag, der 12. November 1979</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band51_1979-11-12</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1979-11-12">Montag, 12. November 1979</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-09-12">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="51-1217" facs="51_1979-11-12_1217.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Montag, 12. November 1979<lb/>
+</p>
+            <p xml:space="preserve">Zur Kranzniederlegung beim Republikdenkmal ging Staatssekretär<lb/>
+<name type="person" ref="per:109808">Albrecht</name>, dadurch konnte ich im Büro einiges erledigen. Ausserdem<lb/>
+hätte ich meinen Mantel zu Hause vergessen und dadurch jämmerlich<lb/>
+gefroren.<lb/>
+</p>
+            <p xml:space="preserve">Beim Jour fixe, wo <name type="person" ref="per:109808">Albrecht</name> das erste Mal mit war, hat <name type="person" ref="per:97893">Sallinger</name><lb/>
+sich bemüht, ihr gegenüber äusserst charmant zu sein. Vorige Woche<lb/>
+erklärte er mir noch, dass eine Verlegung des Jour fixe von Montag<lb/>
+auf Freitag sehr schwer, fast unmöglich wäre, hat er diesmal sofort<lb/>
+zugestimmt und nur gemeint, wir sollten mit Jahresbeginn damit<lb/>
+starten, weil er seine Termine jetzt ändern muss. Die Terminver<lb break="no"/>schiebung auf Freitag ist deshalb unbedingt notwendig, weil <name type="person" ref="per:109808">Al<lb break="no"/>brecht</name> Montag immer morgens Wiener Präsidium hat und sie zwar glaubt,<lb/>
+gegebenenfalls könnte sie dort schwänzen. Dies ist sicher ab und zu<lb/>
+möglich, aber kann keine Dauereinrichtung sein. Leider lässt sich<lb/>
+das Journalistenfrühstück von Montag nicht mehr verschieben, weil<lb/>
+dies ein fest eingeführter Termin ist. Sollten wir einmal damit be<lb break="no"/>ginnen, würde sich kaum ein anderer Tag finden, der so günstig ist.<lb/>
+Ausserdem würde sich auf diesen Montag-Vormittagstermin sofort<lb/>
+jemand anderer draufsetzen und wir könnten dann gar nicht mehr zu<lb break="no"/>rück. <name type="person" ref="per:109808">Albrecht</name> wird daher sich für diese Stunde freimachen. Ich habe<lb/>
+schon daran gedacht, ob man gegebenenfalls von 10.30 auf 11 Uhr ver<lb break="no"/>schieben könnte. Dies würde aber bedeuten, dass der ORF für das<lb/>
+Mittagsjournal zu spät käme.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109808">ALBRECHT</name>: Gibt es noch eine andere Lösung?<lb/>
+</p>
+            <p xml:space="preserve">Ich berichtete <name type="person" ref="per:97893">Sallinger</name> und <name type="person" ref="per:112978">Kehrer</name> über die Polenverhandlungen,<lb/>
+insbesondere über das neue Abkommen bezüglich der Kooperation mit<lb/>
+Klein-und Mittelbetrieben und aus Drittländer. Gleichzeitig be<lb break="no"/>schwerte ich mich über die Tatsache, dass zum Empfang von Minister<lb/>
+<name type="person" ref="per:122944">Olszewski</name> um 7.25 Uhr niemand von der Handelskammer gekommen ist.<lb/>
+<name type="person" ref="per:97893">Sallinger</name> hat sofort den Abteilungsleiter <name type="person" ref="per:97474">Gleissner</name> gerufen und<lb/>
+ihm ganz vorsichtig, um nicht zu sagen zaudern gefragt – wieso<lb/>
+den wirklich niemand von der Handelskammer dort war. <name type="person" ref="per:97474">Gleissner</name><lb/>
+konnte dies auch nicht erklären und ist sofort sehr geschickt zum<lb/>
+<pb n="51-1218" facs="51_1979-11-12_1218.jpg"/>Gegenangriff übergegangen, indem er meinte, er hätte mir jetzt<lb/>
+sowieso einen Brief geschrieben, wo er sich darüber beschwert,<lb/>
+dass in das Protokoll sofort der polnische Wunsch und die Tat<lb break="no"/>sache aufgenommen wurden, dass sie uns ein Memorandum über<lb break="no"/>reicht haben, das sich mit der Diskriminierung Polens durch<lb/>
+den EG und EFTA-Vertrag beschäftigt. Ich kannte diese Proble<lb break="no"/>matik von <name type="person" ref="per:97426">Fälbl</name>. Dieser hat vollkommen recht, dass die Handels<lb break="no"/>kammer nichts als rumtüftelt, um irgend etwas zu den Verhand<lb break="no"/>lungen, insbesondere zur Verhandlungsführung von MR <name type="person" ref="per:97426">Fälbl</name> zu<lb/>
+sagen. Der wirklich grosse Angriff der Handelskammer unter<lb break="no"/>bleibt ja ständig. Selbstverständlich berichtete ich auch über<lb/>
+die Idee <name type="person" ref="per:97668">Kreiskys</name>, ein grosses Energiezentrum mit anderen<lb/>
+Staaten gemeinsam in Polen zu errichten. <name type="person" ref="per:112978">Kehrer</name> meinte, da<lb/>
+müssten wir dann wieder entsprechende Kredite geben. Nach seiner<lb/>
+Meinung – und dies ist sicherlich auch die Meinung der Funktionäre<lb/>
+der Handelskammer, nicht der Exportwirtschaft – haben wir uns mit<lb/>
+den 30 Mia. Schilling, die die Polen jetzt uns schon schulden,<lb/>
+dort zu stark engagiert. Eine andere Lösung als Kreditgewährung,<lb/>
+die übrigens natürlich auch die anderen Staaten machen, konnte<lb/>
+er auch nicht sagen.<lb/>
+</p>
+            <p xml:space="preserve">Die Handelskammer ist durch meine Aufforderung und Fragestellung<lb/>
+bereit, kleinere Kontingente für Import von jugoslawische Kohle<lb/>
+zu geben. Die beiden Firmen, 30.000 Tonnen für <name type="person" ref="per:123163">Flemmer</name> – sprich<lb/>
+BP – 15.000 Tonnen für <name type="person" ref="per:151062">Bartel</name> – sprich Kolkoks – soll zu gleichen<lb/>
+Teilen, maximal jeder 10.000 Tonnen bekommen, aufgeteilt werden.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Wenn ÖIAG einverstanden, soll MR <name type="person" ref="per:114663">Fischer</name><lb/>
+diese Lösung dem Aussenhandelsbeirat vorschlagen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:112978">Kehrer</name> hat bezüglich der Beitrittsverhandlungen Griechenland zur<lb/>
+EG grosse Befürchtungen, dass dadurch Österreich wieder einmal<lb/>
+diskriminiert wird. Die EG-Kommission hat den Griechen Zusagen<lb/>
+gemacht, die auf Kosten Österreichs und der Schweiz gehen. <name type="person" ref="per:112978">Kehrer</name><lb/>
+meinte, es wäre dringendst notwendig, die Mitgliedstaaten der EG<lb/>
+zu informieren, d.h. auf höchster Ebene zu intervenieren. Ich habe<lb/>
+sofort vorgeschlagen, dass, sollte die Handelskammer mich ersuchen,<lb/>
+Frau Staatssekretär <name type="person" ref="per:109808">Albrecht</name> in die Länder der EG fahren würde<lb/>
+und dort sozusagen auch die politische Intervention gemeinsam mit<lb/>
+<pb n="51-1219" facs="51_1979-11-12_1219.jpg"/>MR <name type="person" ref="per:115656">Steiger</name> durchzuführen. <name type="person" ref="per:112978">Kehrer</name> wird sich dies überlegen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: <name type="person" ref="per:115656">Steiger</name> soll <name type="person" ref="per:109808">Albrecht</name> und mich genau infor<lb break="no"/>mieren.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97893">Sallinger</name> hat gefragt, ob bei der Österreichischen Fremdenverkehrs<lb break="no"/>werbung jetzt die Budgeterhöhung geregelt ist. Ich teilte ihm mit,<lb/>
+dass die Finanzreferenten der Länder bei ihrer letzten Tagung<lb/>
+mit dem Finanzminister dieses Problem besprechen werden. Leider hat<lb/>
+mich <name type="person" ref="per:109811">Burian</name> erst später dann informiert, dass die Vereinbarung<lb/>
+gelautet hat, 10 % Erhöhung 1980, dafür 1981 keine Erhöhung. Die<lb/>
+Bundeshandelskammer hat bereits im voraus schon erklärt, dass sie<lb/>
+mit einer Erhöhung einverstanden ist. Natürlich hat <name type="person" ref="per:97893">Sallinger</name> dann<lb/>
+die Frage angeschnitten, ob die Handelskammer wieder den geschäfts<lb break="no"/>führenden Obmann nach Ausscheiden <name type="person" ref="per:114586">Zedeks</name> im Mai 1980 stellen<lb/>
+kann. Ich habe unverblümt erklärt, dass ich seinerzeit diese Ge<lb break="no"/>schäftsführung nur an die Handelskammer abgetreten habe, weil<lb/>
+gegen den Geschäftsführer Dr. <name type="person" ref="per:111736">Zolles</name> von seiten der Handelskammer<lb break="no"/>funktionäre grösste Bedenken geäussert wurden. In der Zwischenzeit<lb/>
+hat sich, wie <name type="person" ref="per:97893">Sallinger</name> mir auch jetzt wieder bestätigt, heraus<lb break="no"/>gestellt, dass <name type="person" ref="per:111736">Zolles</name> der beste Geschäftsführer ist, den wir jeweils<lb/>
+gehabt haben. Ich werde deshalb ab Mai die Geschäfte der Öster<lb break="no"/>reichischen Fremdenverkehrswerbung wieder voll führen. Die Länder,<lb/>
+musste <name type="person" ref="per:112978">Kehrer</name> zugeben, sind sowie so nicht einer einheitlicher Mei<lb break="no"/>nung, ob ein geschäftsführender Obmann gebraucht wird und wer dies<lb/>
+sein sollte. Die Fremdenverkehrswirtschaft, die angeblich den ge<lb break="no"/>schäftsführenden Obmann unbedingt will, konnte mir auch nicht nach<lb break="no"/>weisen, dass ich bis zur Bestellung <name type="person" ref="per:114586">Zedek</name> nicht die Österreichi<lb break="no"/>sche Fremdenverkehrswerbung mitgeführt habe. Noch niemals hat sich<lb/>
+nämlich ein Minister um diese Institution so gekümmert und ange<lb break="no"/>nommen wie ich. Allein die Sitzungen, die ich dort ständig abgehalten<lb/>
+und geleitet habe, waren wie alle zugeben, einmalig. Natürlich möchte<lb/>
+die Handelskammer diesen Posten unbedingt weiter haben. Ich habe<lb/>
+<name type="person" ref="per:111736">Zolles</name> anschliessend sofort informiert, dass ich die mit ihm bespro<lb break="no"/>chene Linie eingehalten und auch bezüglich der Teilkommerzialisierung<lb/>
+nach Übernahme der Obmannschaft dann sofort in Angriff nehmen werde.<lb/>
+</p>
+            <pb n="51-1220" facs="51_1979-11-12_1220.jpg"/>
+            <p xml:space="preserve"><name type="person" ref="per:97893">Sallinger</name> hat mir neuerdings versichert, er könnte es nicht<lb/>
+ertragen, wenn jetzt bei der neuen Handelskammerumlage von<lb/>
+0.1 % ein Limit eingezogen wird. <name type="person" ref="per:97676">Lachs</name> hat für den Konsum in<lb/>
+einem Brief an <name type="person" ref="per:97668">Kreisky</name> vorgeschlagen, dass man 200 bis 300.000<lb/>
+Schilling als Grenze einführen sollte. Ich habe <name type="person" ref="per:97676">Lachs</name> sofort<lb/>
+mitgeteilt – und dies auch <name type="person" ref="per:97346">Benya</name> und <name type="person" ref="per:113061">Kadits</name> beim Heurigen ein<lb break="no"/>mal gesagt – dass ein solcher Vorschlag die andere Seite nur<lb/>
+zur Weissglut bringen muss. Auch wenn der Konsum jetzt 70.000<lb/>
+Schilling zahlt und dann 3,2 Mio., oder die VÖEST, die ja nur<lb/>
+mehr vom Kapitalertrag und nicht mehr vom Gewerbeertrag, sie<lb/>
+ist ja derzeit in roten Ziffern, 400.000 Schilling, anstelle der<lb/>
+zukünftigen behaupteten 12, in wahrscheinlich 8 Mio. Schilling<lb/>
+zahlen muss, kann man nicht ein solche Limit vorschlagen. Da<lb/>
+<name type="person" ref="per:97893">Sallinger</name> überall erklärt, <name type="person" ref="per:97668">Kreisky</name> hätte ihn ermächtigt nach Ab<lb break="no"/>schluss dieser Verhandlungen auch das Ergebnis überall mitzuteilen,<lb/>
+ist <name type="person" ref="per:97893">Sallinger</name> auf <name type="person" ref="per:97668">Kreiskys</name> <choice><choice><sic>Wort bauend</sic><corr>?</corr></choice></choice> in alle seine Bundesländer<lb/>
+und Organe damit gegangen. Ich glaube dass es sehr schwierig sein<lb/>
+wird überhaupt ein Limit einzuziehen, aber sicherlich dann nicht<lb/>
+in der vom Konsum vorgeschlagenen Methode und Ausmass. <name type="person" ref="per:97893">Sallinger</name><lb/>
+behauptet, dass ab dem dritten Jahr die Einnahmen nicht mehr die<lb/>
+Ausgaben für die Abfertigung decken werden. Im Entgeltfortzahlungs<lb break="no"/>gesetz hätten die Kleinbetriebe 400 Mio. ab 1. Jänner 1979, aber<lb/>
+immerhin noch 300 Mio. mehr bezahlt, die den Grossen zugute kommen.<lb/>
+Die Reduktion um 100 Mio. ergibt sich, dass das Sozialministerium<lb/>
+durch einen Erlass festgelegt hat, dass 23 % vom 13. und 14. von<lb/>
+der Lohnsumme nur mehr bezahlt werden müssen, wenn sie über<lb/>
+103.000 Schilling beträgt. Das reduziert also die Leistung der<lb/>
+Kleinen. In Oberösterreich waren es 156 Mio. Schilling, die der<lb/>
+VÖEST-Alpine mit 50 Mio. Schilling zugute kamen. Ich glaube dass es<lb/>
+eine harte Auseinandersetzung über dieses Problem noch im Parlament<lb/>
+geben wird.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Bitte um eine Information wegen der Entgelt<lb break="no"/>fortzahlungsgesetzänderung.<lb/>
+</p>
+            <p xml:space="preserve">Ich urgierte zum x-ten Male die Frage des Energiesprechers der<lb/>
+Handelskammer. <name type="person" ref="per:112978">Kehrer</name> meinte, dies müsse im Präsidium noch be<lb break="no"/>schlossen werden. <name type="person" ref="per:97893">Sallinger</name> beabsichtigt den Vizepräsidenten der<lb/>
+Handelskammer, der auch die Industrie nachher vertreten wird, zu<lb/>
+<pb n="51-1221" facs="51_1979-11-12_1221.jpg"/>einem solchen Sprecher zu bestimmen. Um diesen Posten bemüht<lb/>
+sich Dr. <name type="person" ref="per:97581">Igler</name> von der Industriellenvereinigung. Er kann dort<lb/>
+durch die Statutenänderung die er mehr oder minder mitveran<lb break="no"/>lasst hat, zweimal die Kandidatur eines Präsidenten nicht mehr<lb/>
+kandidieren. Im Gespräch ist <name type="person" ref="per:140467">Mayer-Rieckh</name>, allerdings schon 70<lb/>
+Jahre, ein guter Funktionär und Handelskammerpräsident der<lb/>
+Steiermark, oder der Wiener <name type="person" ref="per:141834">Zuckermann</name> resp. der Tiroler <name type="person" ref="per:149388">Heiss</name>.<lb/>
+Wer es letzten Endes werden wird, ist nicht ganz klar. <name type="person" ref="per:97893">Sallinger</name><lb/>
+wird unter allen Umständen verhindern dass es <name type="person" ref="per:97581">Igler</name> wird, davon<lb/>
+bin ich überzeugt. Sollte ihm dies nicht gelingen, so ist dies<lb/>
+ein Zeichen wie wenig er sich dann – allerdings im Wirtschaftsbund,<lb/>
+resp. der Handelskammer – durchsetzen könnte. Aus einigen Bemerkungen -<lb/>
+Sie werden schon noch sehen, wie Sie mit meinem Nachfolger dann aus<lb break="no"/>kommen werden – schliesse ich eine gewisse Müdigkeit von <name type="person" ref="per:97893">Sallinger</name><lb/>
+nicht aus.<lb/>
+</p>
+            <p xml:space="preserve">Beim 312. Pressefrühstück hat sich <name type="person" ref="per:111699">Puffler</name> verabschiedet und sowohl<lb/>
+ich als auch <name type="person" ref="per:109808">Albrecht</name>, die ihm in dieser Funktion nachfolgen wird,<lb/>
+haben sich bei ihm herzlichst bedankt. Vizebürgermeister <name type="person" ref="per:97899">Sandner</name><lb/>
+berichtete über eine Studie für kinderfreundlicher Urlaub, die die<lb/>
+Kinderfreunde erarbeitet haben. Von grossen Wünschen wie kinderge<lb break="no"/>rechte Hotelzimmer, Gäste-, Speise- und Spielzimmer bis zu den Pro<lb break="no"/>blemen Kinder-WC-Brille, Windelwaschen, Kinderbesteck und entspre<lb break="no"/>chende andere Utensilien handelt es sich wirklich um vorzügliche<lb/>
+Vorschläge. Es sollen eine staatliche Förderungsaktion, eine Be<lb break="no"/>gleituntersuchung und eine Informations- und Servicestelle <choice><choice><sic>beschaf<lb break="no"/>fen</sic><corr>geschaffen</corr></choice></choice> werden. Diese Vorschläge werden jetzt unverzüglich an die<lb/>
+Interessensvertretungen und an die Fremdenverkehrswirtschaft wei<lb break="no"/>tergeleitet.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte entsprechendes veranlassen.<lb/>
+</p>
+            <p xml:space="preserve">MR <name type="person" ref="per:114402">Fellner</name> berichtete über den Staatspreis für Innovation und<lb/>
+MR <name type="person" ref="per:131763">Pschorn</name> über den Polenvertrag. Ich habe meinen Augen nicht ge<lb break="no"/>traut als ich vor Beginn des Pressefrühstück MR <name type="person" ref="per:114532">Bolhar-Nordenkampf</name><lb/>
+entdeckte, der auch an der Pressekonferenz und auch an der Vereidi<lb break="no"/>gung des Bundeslastverteilers teilnehmen wollte. Ich habe ihm er<lb break="no"/>klärt, die Energiesektion soviel zu tun und erledigt Briefe so<lb/>
+zögernd, S.Chef <name type="person" ref="per:107937">Frank</name> beschwert sich ständig, dass er zu wenig Leute<lb/>
+<pb n="51-1222" facs="51_1979-11-12_1222.jpg"/>hat und dann werden alle diese Repräsentationsaufgaben von der<lb/>
+Energiesektion wahrgenommen. Ob dies eine Wirkung hat weiss ich<lb/>
+nicht, auf alle Fälle ist er wenigstens abgezogen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97453">Fremuth</name> hat bei der Dekretübergabe als Bundeslastverteiler da<lb break="no"/>rauf verwiesen, dass die neuen Ideen <name type="person" ref="per:97668">Kreiskys</name> jetzt noch wesent<lb break="no"/>lich mehr Strom aus Polen zu beziehen, nicht nur ein Transitproblem<lb/>
+über die CSSR ist – hier könnte man seiner Meinung nach über die<lb/>
+UdSSR und Ungarn ausweichen – sondern dass auch einmal klargestellt<lb/>
+werden muss, wieviel Strom wir selbst brauchen, wieviel wir expor<lb break="no"/>tieren können und wie wir in Hinkunft die Stromgestaltung, Bezug<lb/>
+und Exportmöglichkeiten einteilen wollen. Ich teile <name type="person" ref="per:97453">Fremuth</name> mit,<lb/>
+dass er ja mit nach Polen fährt und wir dort alles vorher noch be<lb break="no"/>sprechen können. Interessant war, dass am Abend bei der Minister<lb break="no"/>ratsvorbesprechung <name type="person" ref="per:97668">Kreisky</name> zwar vorschlug, dass neben <name type="person" ref="per:97311">Androsch</name><lb/>
+und mir auch noch <name type="person" ref="per:97315">Apfalter</name> von der VÖEST und <name type="person" ref="per:97518">Haschek</name> und <name type="person" ref="per:111755">Castellez</name><lb/>
+von der Österreichischen Kontrollbank mitfahren, <name type="person" ref="per:97453">Fremuth</name> aber<lb/>
+scheinbar vergessen hat. Ich habe ihn sofort nominiert.<lb/>
+</p>
+            <p xml:space="preserve">Mit Rat <add>[?]</add> <name type="person" ref="per:110944">Zluwa</name> von der Energiesektion besprach ich die Idee <name type="person" ref="per:97543">Heindls</name>,<lb/>
+er solle als Koordinator dem S.Chef <name type="person" ref="per:107937">Frank</name> von <name type="person" ref="per:97543">Heindl</name> vorgeschlagen,<lb/>
+ich würde fast sagen, eingeredet werden. <name type="person" ref="per:110944">Zluwa</name> bemerkte zu recht,<lb/>
+mit dieser Koordination ist eigentlich ressortmässig die Abteilung<lb/>
+<name type="person" ref="per:114624">Obermair</name> betraut. Da <name type="person" ref="per:107937">Frank</name> sowieso in absehbarer Zeit entweder<lb/>
+in die Universität abwandert oder spätestens in einem Jahr dann in<lb/>
+Pension geht, müssen wir diese Zeit überbrücken. <name type="person" ref="per:110944">Zluwa</name> wird auch<lb/>
+ein neues Energiesicherungsgesetz sich überlegen und mir nach<lb/>
+Weihnachten entsprechende Vorschläge unterbreiten.<lb/>
+</p>
+            <p xml:space="preserve">Den Journalistenpreis, eine Art Weltreise zum Studium von Wirt<lb break="no"/>schaftsproblemen durch die Firma Mobil, hat dieses Mal <name type="person" ref="per:123344">Barazon</name><lb/>
+von den Salzburger Nachrichten bekommen. Die Jury hat jetzt zum<lb/>
+zweiten Mal einen Journalisten der Salzburger Nachrichten dafür<lb/>
+bestimmt. Mir kann es recht sein, mir ist es eigentlich egal. An<lb break="no"/>schliessend hat GD <name type="person" ref="per:114404">Ebeling</name> mir mitgeteilt, er hätte mit <name type="person" ref="per:98112">Zöllner</name>,<lb/>
+<name type="person" ref="per:112010">Blaha</name>, <name type="person" ref="per:114598">Hruby</name> und <name type="person" ref="per:112965">Maurer</name> eine Aussprache mit seinem GD <name type="person" ref="per:117032">Schachinger</name><lb/>
+gehabt und festgestellt, dass die Arbeiterkammer mit den 95 Groschen<lb/>
+Höchstpreis für das IV. Quartal und 1.05 Schilling ab 1.1., wie<lb/>
+ihn auch die ÖMV hat, einverstanden ist. De facto würde sie ja nie<lb break="no"/>mals diesen Höchstpreis erreichen, denn tatsächlich liegt der Er<lb break="no"/>lös durch die Verträge die die RAG hat, tiefer. Einer Preisregelung<lb/>
+<pb n="51-1223" facs="51_1979-11-12_1223.jpg"/>stimmt die Mobil nie zu, einer Nichtpreisregelung stimmt die<lb/>
+Arbeiterkammer nicht zu. <choice><choice><sic>Den</sic><corr>Der</corr></choice></choice> Eindruck, den <name type="person" ref="per:114404">Ebeling</name> vorerst er<lb break="no"/>wecken wollte, er hätte vollen Konsens mit der Arbeiterkammer<lb/>
+erreicht, stimmt deshalb nicht. Ich habe ihn nur auf die Preis<lb break="no"/>kommission verwiesen. Wenn dort ein Konsens zustande kommt, werde<lb/>
+ich den auf alle Fälle akzeptieren.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Bitte Jour fixe AK setzen.<lb/>
+</p>
+            <p xml:space="preserve">Der Bauunternehmer <name type="person" ref="per:150269">Buchwieser</name>, der grösste Gewerbebetrieb in Wien,<lb/>
+der auch sehr gut ausgelastet ist, hat als Gründer des Europahau<lb break="no"/>ses, sprich jetzt Europaakademie und Gründer von Jungarbeiterhäusern,<lb/>
+2.200 Betten, nächstes Jahr kommen noch 200 dazu, mich um Mitwirkung<lb/>
+in seiner Akademie ersucht. Dies habe ich sofort akzeptiert. Die<lb/>
+Führungsspitze hat er dort ja proporzmässig zusammengesetzt. <name type="person" ref="per:111325">Mock</name><lb/>
+<name type="person" ref="per:97356">Blecha</name>, und auch sein Büro entsprechend aufgeteilt. Er will mit der<lb/>
+EFTA ein Kolloquium machen und mit dem Gewerbe über die Inte<lb break="no"/>gration. Termine wird er mit Frau <name type="person" ref="per:98072">Wiesinger</name> vereinbaren. Da ich ihm<lb/>
+für seine Aktivitäten keinerlei Subventionen geben kann und auch<lb/>
+nicht will, hat er dann vorgeschlagen, wir sollten ihm für die Aus<lb break="no"/>stattung eines Lehrlingsheimes einen Betrag zur Verfügung stellen.<lb/>
+Dies ist möglich, denn wir unterstützen ja auch die Kolping-Häuser.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Bitte im nächstjährigen Budget berücksichtigen.<lb/>
+</p>
+            <p xml:space="preserve">GD <name type="person" ref="per:97337">Bauer</name> und sein Stellvertreter <name type="person" ref="per:97429">Feichtinger</name>, ÖMV, berichteten mir<lb/>
+über die Verhandlungen mit dem sowjetischen Gasvertreter <name type="person" ref="per:115018">Baranowski</name>.<lb/>
+Die Sowjets sind durch Vertrag gebunden die Preise durch eine Preis<lb break="no"/>klausel, 10 % Rohölpreis, 15 % Ofenheizölpreis, 75 % Heizöl schwer, ge<lb break="no"/>mischt aus Importpreis plus Raffinerieabgabepreis zur jährlichen<lb/>
+Korrektur <choice><choice><sic>berechtigt</sic><corr>?</corr></choice></choice>. Derzeit 1.14 Schilling soll aber ohne den<lb/>
+nächsten Preistermin 1. April 1980 abzuwarten, jetzt auf 1.95 Schilling<lb/>
+erhöht werden. Die ÖMV wäre bereit gewesen den 1. April 1980 auf 1.1.<lb/>
+vorzuziehen, wodurch der Preis 1.33 Schilling wäre. Die Sowjets gingen<lb/>
+auf 1.65 Schilling zurück. Da die Ölpreise 8 x sich in dieser Zeit<lb/>
+erhöht haben und das seinerzeitige Verhältnis Gaspreis ca. 70 % des<lb/>
+Ölpreises jetzt auf 60 % gefallen, wäre ein weiterer Kompromiss<lb/>
+diese 70 % wieder herzustellen, <choice><choice><sic>dass</sic><corr>was</corr></choice></choice> 1.45 Schilling Gaspreis be<lb break="no"/>deuten würde. Die ÖMV wird mit einem Vertreter der Austro-Ferngas<lb/>
+<pb n="51-1224" facs="51_1979-11-12_1224.jpg"/>nach Moskau fahren um die Verhandlungen dort weiterzuführen.<lb/>
+Wichtig wäre für die ÖMV gegebenenfalls einen neuen Vertrag mit<lb/>
+höheren Mengen abzuschliessen. Da wären sie zu weiteren Preiszuge<lb break="no"/>ständnissen bereit. Die Sowjets möchten aber beides voneinander<lb/>
+trennen. Für den alten Vertrag entsprechende Nachziehung der Preise,<lb/>
+über einen neuen Vertrag wird man reden. Die ÖMV hat sich bei der<lb/>
+Ruhrgas in Düsseldorf erkundigt und festgestellt, dass die nur 13 %<lb/>
+ihres Bedarfes aus der UdSSR decken, wir fast die Hälfte. Die Ruhrgas<lb/>
+möchte auf ihre Verträge beharren und ist dafür bereit 100 Mio. DM<lb/>
+sozusagen Abstandszahlung zusätzlich zu leisten. <name type="person" ref="per:97429">Feichtinger</name> hat auch<lb/>
+grosse Sorgen wegen der Öllieferung. 1980 erwartet er 1.5 Mio. Tonnen.<lb/>
+Den Deutschen wurde das Kontingent um 25 % gekürzt. 2 Mio. Tonnen<lb/>
+aus dem Irak, 750.000 aus Libyen und 450.000 aus Algerien, insgesamt<lb/>
+wäre dadurch der ÖMV-Bedarf von 6,2 Mio. Tonnen mit 4.7 Mio. ge<lb break="no"/>deckt. Den Rest müsste die ÖMV auf Spotmärkten kaufen. <name type="person" ref="per:97429">Feichtinger</name><lb/>
+sieht keine Möglichkeit mehr den Preis zu halten. Die Unterdeckung mit<lb/>
+343 Schilling die Tonne ist inzwischen durch die zusätzlichen Spot<lb break="no"/>preiskäufe auf 700 Schilling die Tonne gestiegen. Ich habe der ÖMV<lb/>
+neuerdings gesagt, dass die Preiskommission insbesondere auch das<lb/>
+Ergebnis der Wirtschaftsforschung genau prüft und an eine unmittel<lb break="no"/>bare Preisfestsetzung nicht zu denken ist. Mein Vorschlag den Super<lb break="no"/>benzinpreis freizugeben lehnt die ÖMV nach wie vor, so wie der<lb/>
+Gewerkschaftsbund entschieden ab. Ich habe MR <name type="person" ref="per:112011">Kurzel</name> ersucht, er<lb/>
+möge die Preisverhandlungen normal weiterführen, auch dann wenn<lb/>
+Dr. <name type="person" ref="per:112977">Neuhold</name> jetzt neuerdings auf Krankenurlaub geht. <name type="person" ref="per:112011">Kurzel</name> ist mit<lb/>
+Recht erbost, dass man ihm zuerst das Vorprüfungsverfahren aus der<lb/>
+Hand genommen hat und die Sektion V aber scheinbar nicht imstande<lb/>
+ist dies zeitgerecht abzuwickeln.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Lass Dich bitte am Laufenden halten.<lb/>
+</p>
+            <p xml:space="preserve">Zur Eröffnung der neuen Betriebsstätte Agfa-Gevaert in die Mariahil<lb break="no"/>ferstrasse bin ich 1/2 Stunde zu spät gekommen, weil man wieder ein<lb break="no"/>mal die Gäste 1/2 Stunde früher gebeten hat. Ich habe das den dort<lb/>
+Anwesenden genau erklärt, denn <name type="person" ref="per:97893">Sallinger</name> hatte man wieder 1/4 Stunde<lb/>
+später eingeladen. Peinlich war für mich, dass sowohl Vizebürger<lb break="no"/>meister <name type="person" ref="per:109293">Busek</name> als auch Stadtrat <name type="person" ref="per:109290">Mayr</name> und doch immerhin ein paar<lb/>
+hundert Gäste warten mussten. In Hinkunft darf so etwas nicht mehr<lb/>
+passieren. GD <name type="person" ref="per:124053">Fischer</name> aus Deutschland hat in seiner Ansprache darauf<lb/>
+<pb n="51-1225" facs="51_1979-11-12_1225.jpg"/>verwiesen, dass ein handelsfreundliches Österreich und seine<lb/>
+Tochter sich hier sehr ausdehnen. Ich habe in meiner Ansprache<lb/>
+auf die Vorredner <name type="person" ref="per:97893">Sallinger</name> besonders darauf verwiesen, dass<lb/>
+wir auch ein produktionsfreundliches Österreich wären. Er möge<lb/>
+unbedingt zumindestens Teilproduktionen nach Österreich verlegen.<lb/>
+Mit Stadtrat <name type="person" ref="per:109290">Mayr</name> und GD <name type="person" ref="per:124053">Fischer</name>, sowie dem österreichischen<lb/>
+Direktor <name type="person" ref="per:121130">Kaminski</name> über die Investitionsmöglichkeiten im einzel<lb break="no"/>nen gesprochen. Ich versprach <name type="person" ref="per:121130">Kaminski</name> auch ein Investorenbuch<lb/>
+zu übersenden. Im Begleitschreiben würde ich dann auf diese Aus<lb break="no"/>sprache Bezug nehmen und auch schriftlich den Wunsch, ja fast<lb/>
+die Forderung neuerlich deponieren, dass man nicht nur allein in<lb/>
+Österreich Handel betreiben kann und soll, sondern eben auch Pro<lb break="no"/>duktionsstätten, siehe Autoindustrie, herverlegt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte <name type="person" ref="per:97493">Gröger</name> soll entsprechendes veran<lb break="no"/>lassen.<lb/>
+</p>
+            <p xml:space="preserve">In der Ministerratsvorbesprechung hat <name type="person" ref="per:97668">Kreisky</name> über seine Aus<lb break="no"/>sprache mit dem jugoslawischen Ministerpräsident berichtet. Er<lb/>
+hofft, dass die Slowenen jetzt in der Minderheitsfrage nachgehen<lb/>
+und die Beiräte akzeptieren, Im kleinen Grenzverkehr hat man ihm<lb/>
+gesagt, hätte der Handelsminister schon entsprechende Gespräche<lb/>
+und Versprechungen gemacht. Ich stellte sofort richtig, dass es<lb/>
+sich nur um eine Einladung von Experten gehandelt hat, die bis<lb/>
+jetzt allerdings nicht gekommen sind.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> berichtet auch, dass er über die Aufsichtsräte VÖEST-Alpine<lb/>
+jetzt mit <name type="person" ref="per:111325">Mock</name> verhandelt und er nicht <name type="person" ref="per:97769">Mussil</name> durchbringen wird.<lb/>
+Andererseits aber <name type="person" ref="per:113833">Assmann</name> nicht akzeptiert. Diese Gelegenheit be<lb break="no"/>nützte ich, um auf den Wunsch <name type="person" ref="per:111325">Mock</name>, dass <name type="person" ref="per:111410">König</name> und <name type="person" ref="per:112215">Weiss</name> über<lb/>
+Elektrizitätsposten verhandeln sollte, mit <name type="person" ref="per:112215">Weiss</name> gesprochen habe,<lb/>
+da ich mit <name type="person" ref="per:111410">König</name> keine Verhandlungsbasis suche. Bei uns wird aber<lb/>
+in den Organen entschieden. <name type="person" ref="per:97668">Kreisky</name> hat dies zur Kenntnis genommen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> will im Waldviertel eine Aichfeld-Murboden-Lösung, der<lb/>
+Fremdenverkehr müsste so wie Wörishofen, wo auch nur eine Hochmoor<lb break="no"/>masse existiert, entsprechend ausgebaut werden. Ich informiere ihn,<lb/>
+dass <name type="person" ref="per:150254">Mayr</name> die Studie übernommen hat.<lb/>
+</p>
+            <pb n="51-1226" facs="51_1979-11-12_1226.jpg"/>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> erwähnt dann noch ganz kurz die Iran-Situation und<lb/>
+diverse Heurige, die wir besuchen müssen.<lb/>
+</p>
+            <p xml:space="preserve">Auf der Landstrasse haben die neuen Mitglieder zu einem geselligen<lb/>
+Zusammensein eingeladen. Von 300 sind immerhin 60 gekommen. Die ent<lb break="no"/>sprechenden Nationalräte, Gemeinderäte, Bezirksräte wurden ihnen<lb/>
+vorgestellt.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="51_1216_01" facs="51_1979-11-12_1216-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 12.11.1979</head>
+         </div>
+         <pb n="51_1216_02" facs="51_1979-11-12_1216-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+         <pb n="51_1226_01" facs="51_1979-11-12_1226-01.jpg"/>
+         <pb n="51_1226_02" facs="51_1979-11-12_1226-02.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>TB Albrecht, 12.11.1979</head>
+            <gap reason="sampling"/>
+            <pb n="51_1226_03" facs="51_1979-11-12_1226-03.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="51_1226_04" facs="51_1979-11-12_1226-04.jpg"/>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der 19. Juni 1971</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band06_1971-06-19</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1971-06-19">Samstag, 19. Juni 1971</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-08-13">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="06-0737" facs="06_1971-06-19_0737.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Samstag, 19. Juni 1971<lb/>
+</p>
+            <p xml:space="preserve">In der Fraktion des Arbeiterkammervorstandes musste ich fest<lb break="no"/>stellen, dass die Genossen durch die verschiedensten Äusserungen<lb/>
+sehr desorientiert sind. Da <name type="person" ref="per:97346">Benya</name> jetzt auf Herbstwahlen drängt<lb/>
+und <name type="person" ref="per:97668">Kreisky</name> sich erst noch nicht endgültig in diesem Punkt ge<lb break="no"/>äussert hat, erscheint den Genossen ein Zwiespalt zwischen den<lb/>
+beiden zu existieren. Das Hauptproblem liegt in meinen Augen<lb/>
+darin, dass man in der Taktik verschiedener Meinung sein kann,<lb/>
+aber immer dann denken muss, dass die mittleren, aber auch selbst<lb/>
+höhere Funktionäre grosse Schwierigkeit haben, sich selbst zu<lb/>
+orientieren. Gerade in der SPÖ ist man gewöhnt, dass eine ziemlich<lb/>
+klare und einheitliche Linie überall vertreten wird. Die gegne<lb break="no"/>rischen Zeitungen und die Öffentlichkeit, die uns nicht wohlge<lb break="no"/>sonnen ist, werden sich sicherlich auf den scheinbaren Gegensatz<lb/>
+stürzen.<lb/>
+</p>
+            <p xml:space="preserve">Herr <name type="person" ref="per:137306">Kranister</name> von der Schule ist gekommen und hat mir erzählt,<lb/>
+dass ihn viele Mitschüler angesprochen haben, dass ich bei Dalli<lb/>
+Dalli mitwirke. Er meint nun, ich müsste auf alle Fälle mittun,<lb/>
+denn sonst würde der Eindruck entstehen, ich sei feig gewesen und<lb/>
+hätte mich gedrückt. Wenn nun Parlament ist, kann ich ganz unmöglich<lb/>
+daran teilnehmen. Selbst wenn kein unmittelbarer Tagesordnungspunkt<lb/>
+behandelt wird, wo ich unbedingt anwesend sein müsste, muss ich<lb/>
+gewärtig sein, dass die ÖVP erklärt, ich würde dem Fernsehspiel<lb/>
+den Vorzug geben gegen meine parlamentarische Anwesenheitspflicht.<lb/>
+Ich glaube, das haben wir nicht bedacht und das Ergebnis wird auf<lb/>
+alle Fälle jetzt ein negatives sein.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="06_0736_01" facs="06_1971-06-19_0736-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 19.6.1971</head>
+         </div>
+      </back>
+   </text>
+</TEI>

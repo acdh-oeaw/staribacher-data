@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Montag, der 17. September 1973</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band17_1973-09-17</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1973-09-17">Montag, 17. September 1973</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-09-19">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band17/">
+      <body>
+         <pb n="17-1007" facs="17_1973-09-17_1007.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Montag, 17. September 1973</p><p xml:space="preserve">Beim Jour Fixe war nur <name type="person" ref="per:97893">Sallinger</name>, der kaum Details hat sondern nur<lb/>
+intervenierte, ob wir für <name type="person" ref="per:146348">Gugler</name> den § 58 schon gemacht haben und<lb/>
+wir dem gewerblichen Forschungsinstitut mehr als die 250.000 S<lb/>
+geben könnten. Ich habe ihm im letzteren Fall versprochen, da das Jahr<lb/>
+1974 grössere Aufträge dem Gewerbeforschungsinstitut zu geben. Er<lb/>
+war damit einverstanden, dass ich mit <name type="person" ref="per:134312">Walzer</name> noch einmal über dieses<lb/>
+Problem sprechen sollte.</p><p xml:space="preserve">ANMERKUNG: Bitte einen Termin mit Komm.Rat <name type="person" ref="per:134312">Walzer</name> von der Handels<lb break="no"/>kammer vereinbaren.</p><p xml:space="preserve">Ich selbst habe sofort die Finanzierung des Vereins für Konsumenteninforma<lb break="no"/>tion angeschnitten. Ich erklärte, dass nur die Vereinsmitgliedschaft<lb/>
+wobei ich mich verpflichtete, keine wie immer gearteten Aktivitäten<lb/>
+zu entwickeln, die mit VKI über die Schwierigkeiten hinweghilft, wenn<lb/>
+uns keine solche Lösung, die auch erst mit BK <name type="person" ref="per:97668">Kreisky</name> und FM <name type="person" ref="per:97311">Androsch</name><lb/>
+ausgefochten werden müsste, gelingt, glaube ich, dass der ÖGB auf die<lb/>
+Werbesteuer verzichtet. <name type="person" ref="per:97893">Sallinger</name> versprach, dieses Problem mit <name type="person" ref="per:97769">Mussil</name><lb/>
+neuerdings zu besprechen. Mehr war leider nicht zu erreichen.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97646">KOPPE</name>: Die Hauptschiwerigkeit besteht ausschliesslich<lb/>
+darin, dass scheinbar keiner in der Handelskammer<lb/>
+initiativ werden will.</p><p xml:space="preserve">Gen.Dir. <name type="person" ref="per:97865">Reisinger</name> ruft ganz verzweifelt an, dass bis zum 25. September<lb/>
+die österr. Seite sich an der Finanzierungslösung beteiligen müsste.<lb/>
+Den Algeriern wurde eine durchschnittlich 7 %-ige Verzinsung ver<lb break="no"/>sprochen, sodass die Österr. Kontrollbank erklärt, sie bräuchte eine<lb/>
+Bundesgarantie, eine Genehmigung den Auslandskapitalmarkt zu benützen<lb/>
+und ausserdem von der Entwicklungshilfe 458 Mill. S oder wenn 20 Jahre<lb/>
+die Endsummenbeträge bezahlt werden, 793 Mill. für das Jahr 1974 wären<lb/>
+es 9,8 Mill., für das Jahr 1975 25,5 Mill. Es steigt bis zum Jahre<lb/>
+1980 an und fällt dann wieder ab. <name type="person" ref="per:97865">Reisinger</name> hätte mit <name type="person" ref="per:97488">Gratz</name> bereits einig<lb/>
+Male darüber gesprochen und <name type="person" ref="per:97488">Gratz</name> hat es übernommen, mit <name type="person" ref="per:97668">Kreisky</name><lb/>
+dieses Problem zu klären. Der Finanzminister soll überhaupt sehr negativ<lb/>
+zu einer solchen Belastung eingestellt sein. Mit diesem Entwicklungs<lb break="no"/>hilfezuschuss soll der gebundene Kredit für Investitionslieferung öster<lb break="no"/>reichs 6,5 % gehalten werden können. Für die freien Kredite werden<lb/>
+die Stützungen durch die Gasbezugsgesellschaften notwendig, da dieser<lb/>
+auch nur 7,5 % betragen sollte. Am freien Kreditmarkt ist natürlich<lb/>
+<pb n="17-1008" facs="17_1973-09-17_1008.jpg"/>derzeit schwerlich angeblich Geld zu bekommen. <name type="person" ref="per:97865">Reisinger</name> hat mir<lb/>
+zugegeben, dass dies kein Problem vom Handelsministerium ist, dass<lb/>
+aber andererseits er hofft, dass ich wenn das zur Sprache kommt, ihn<lb/>
+unterstützte, das ich selbstverständlich zugesagt habe.</p><p xml:space="preserve">Das Journalistenfrühstück war gut besucht und da auch <name type="person" ref="per:135868">Nussbaum</name> vom<lb/>
+ORF anwesend war, gab es zumindestens Anfragen, wenn schon keine leb<lb break="no"/>hafte Diskussion. Es berichteten nämlich <name type="person" ref="per:108322">Meisl</name> und ich über GATT in<lb/>
+Tokio, Textilproblem Hongkong und vor allem die Verhandlungen mit der<lb/>
+Sowjetunion.</p><p xml:space="preserve">Beim Pressefrühstück kann ich immer wieder feststellen, soweit wir<lb/>
+über die Aktivitäten über Konsumenten berichten, findet dies einen<lb/>
+sehr guten Widerhall. Die Schulverordnung, die ganz uninteressant ist,<lb/>
+wurde doch prinzipiell diskutiert und ganz besonders dann unsere<lb/>
+dann zu errichtende Beschwerdestelle für den Fremdenverkehr. Nachdem<lb/>
+wir so gute Erfahrungen mit der Kommission für Reisebüro-Angelegen<lb break="no"/>heiten gemacht haben, habe ich grosse Hoffnungen, dass es wirklich gelingt,<lb/>
+für den gesamten Fremdenverkehr eine Art Beschwerdestelle zu<lb/>
+errichten. Die Zeitungen, insbesondere auch der Kurier waren daran<lb/>
+sehr interessiert. Ing. <name type="person" ref="per:139851">Zotter</name> hat wirklich sich nicht nur sehr gut<lb/>
+eingearbeiet sondern versteht auch mit den Zeitungen entsprechend zu re<lb break="no"/>den. <name type="person" ref="per:135868">Nussbaum</name> hat dann mit mir und ihr gemeinsam ein Rundfunkinterview ge<lb/>
+macht Darüber war ich sehr erfreut. Wenn <name type="person" ref="per:139851">Zotter</name> einen entsprechenden<lb/>
+Wirkungsbereich bekommt und vor allem die inneren hierarchischen Proble<lb break="no"/>me für sie einigermassen positiv gelöst werden, glaube ich, dass wir<lb/>
+sie vielleicht doch halten können.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Bitte Beschwerdestelle für Fremdenverkehrsange<lb break="no"/>legenheiten so schnell wie möglich aktivieren und<lb/>
+eine Lösung für die Stellung <name type="person" ref="per:139851">Zotters</name> suchen,<lb/>
+damit sie uns nicht verlorengeht.</p><p xml:space="preserve"><name type="person" ref="per:97915">Schipper</name> und <name type="person" ref="per:114994">Böhm</name> ersuchten mich und bin daher sofort in <name type="person" ref="per:97915">Schippers</name><lb/>
+Zimmer gegangen, bei der Überstellung von Dienstposten resp. Angehörige<lb/>
+unseres Ressorts an das Aussenministerium und Verkehrsministerium<lb/>
+mit den dafür zuständigen Ministern ein Gespräch zu führen, das Aussen<lb break="no"/>amt, die Beamten, resp. der dort verhandlende Personalchef <name type="person" ref="per:146258">Ender</name>, <name type="person" ref="per:148991">Pichler</name><lb/>
+und für das Budget Presse, erwarten, dass wir ausser Brüssel, wo sich<lb/>
+16 Dienstposten und Beamte überstellt bekommen, auch noch aus dem Haus</p><p xml:space="preserve">3 Akademiker, einen C-Beamten und einen D-Posten abgetreten bekommen.</p><pb n="17-1009" facs="17_1973-09-17_1009.jpg"/><p xml:space="preserve"><name type="person" ref="per:108322">Meisl</name>, der zugezogen wurde, erklärte dezidiert, er würde mit <name type="person" ref="per:137933">Marquet</name><lb/>
+jetzt Besprechungen anfangen, denn die Durchführung der Staatsverträge<lb/>
+obliegt ja dem Handelsministerium und hier könnte doch nicht gesagt wer<lb break="no"/>den, dass das Aussenamt mehr Arbeit in Hinkunft hat, im Gegenteil, wir<lb/>
+werden die ganze Detailarbeit weiter zu lösen haben.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Bitte kläre auf fraktioneller Basis, warum das<lb/>
+Aussenamt derartig unerklärliche Forderungen über<lb break="no"/>haupt anmeldet.</p><p xml:space="preserve">Das Verkehrsministerium wünscht alle, die die Doppelzuteilung haben, für<lb/>
+sich. Dadurch würden die 36 Dienstposten auf 43 Dienstposten anwachsen.<lb/>
+Im Kanzleidienst, wo drei überstellt werden sollte, wünschen sie auch<lb/>
+noch die vierte, wobei diese allerdings als Springerin eingesetzt ge<lb break="no"/>wesen ist. Im Gesetz steht zwar, dass ausschliesslich oder überwiegend<lb/>
+der betreffende Beamte mit der Arbeit beschäftigt gewesen sein muss,<lb/>
+wo die Kompetenz übertragen wird. <name type="person" ref="per:97915">Schipper</name> und <name type="person" ref="per:114994">Böhm</name> hoffen nun, dass<lb/>
+wir von diesen 7 Doppelzuteilungen doch 3, nämlich <name type="person" ref="per:146080">Baumgartner</name> , der<lb/>
+in der Gewerbeordnungmitgearbietet hat, gleichzeitig auch Schriftleiter<lb/>
+von der Handelsregister-Zeitung ist , erhalten werden kann. <name type="person" ref="per:146080">Baumgartner</name> aller<lb break="no"/>dings hat bis jetzt keine sehr grosse Ambition gezeigt, im Haus zu<lb/>
+bleiben. Dann sollte ich versuchen, wenigstens den Posten zu erhalten.<lb/>
+Ebenso sollte von der Abteilung 20 zumindestens <name type="person" ref="per:149162">Türk</name>, der als Fachbran<lb break="no"/>chenreferent beliben sollte, versuchen ihn zu halten oder zumindestens<lb/>
+ebenfalls den Posten sichern. Von der Abteilung 18 wünscht aber Sekt.<lb/>
+Chef <name type="person" ref="per:97584">Jagoda</name>, der diesen Besprechungen zugezogen wurde, dass man unbedingt<lb/>
+Min.Ober.Komm. <name type="person" ref="per:115404">Sedlak</name> erhält. Der macht allerdings jetzt bei <name type="person" ref="per:134301">Steinhart</name><lb/>
+und Bartl, zwei Ministerialräte, die konzeptiv überhaupt nicht arbeiten<lb/>
+können, die Legistik im Kraftfahrrecht. Nun möchte <name type="person" ref="per:97584">Jagoda</name> diesen jungen<lb/>
+tüchtigen Beamten in die Legistik zu <name type="person" ref="per:111722">Kinscher</name> geben. Nachdem Min.Rat<lb/>
+<name type="person" ref="per:134300">Metzner</name> mit seiner ganzen Gruppe, wie er mir mitgeteilt hat auch zum<lb/>
+neuen Verkehrsminister hinübergeht – <name type="person" ref="per:110923">Lanc</name> hat ihn gefragt, ob er<lb/>
+unter den Bedingungen, die <name type="person" ref="per:97461">Frühbauer</name> ihm angeboten hat, auch bei ihm<lb/>
+arbeiten möchte, was er bejahte – so kennt <name type="person" ref="per:134300">Metzner</name> natürlich alle<lb/>
+unsere Mätzchen und wehrt sich dagegen, dass seine Gruppe dezimiert<lb/>
+wird. Vom Verkehrsministerium bekommen wir aus der Energiesektion<lb/>
+33 Beamte. Strittig ist noch, wer die Verkehrswerbung resp. wer von der<lb/>
+Verkehrswerbung und wer für Fremdenverkehr arbeitet, abgetreten wird.<lb/>
+Ich lege keinen besonderen Wert darauf, da vor allem ja wirklich niemand<lb/>
+freiwillig ins Handelsministerium scheinbar kommen möchte.</p><p xml:space="preserve">Mit <name type="person" ref="per:110923">Lanc</name> habe ich in einem Telefongespräch vereinbart, dass ich in der<lb/>
+<pb n="17-1010" facs="17_1973-09-17_1010.jpg"/>Verkehrsfrage keine wie immer geartete Entscheidung mehr treffe, ohne<lb/>
+mit ihm im engsten Einvernehmen vorzugehen. Ich habe ihn zur Enquete<lb/>
+eingeladen, er übernimmt aber gerade zu diesen Zeitpunkt sein Mini<lb break="no"/>sterium und kann deshalb nicht kommen. Er ist aber damit einverstanden<lb/>
+dass ich am Ende der Enquete Arbeitsgruppen einsetzen werde, die nächte<lb/>
+Enquete dann bei ihm stattfinden soll, zumindestens nachdem noch die<lb/>
+formelle Kompetenz bei mir liegt, aber der Sitzungssaal vom Verkehrsmini<lb break="no"/>sterium als Grunldage dienen sollte und damit klar und deutlich unser<lb/>
+kooperatives Zusammenarbeiten nach aussen hin auch entsprechend unter<lb break="no"/>strichen werden soll. So sehr ich verstehe, dass wir um jeden Dienst<lb break="no"/>posten kämpfen, möhcte ich gerade nicht, dass <name type="person" ref="per:110923">Lanc</name> denEindruck hat,<lb/>
+ich will ihm hier irgendwelche tüchtige Leute abspenstig machen.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Hier muss Du unbedingt mit dem Sekretariat von<lb/>
+<name type="person" ref="per:97461">Frühbauer</name>, d.h. mit unseren Genossen und Freunden<lb/>
+eine amikale Lösung suchen, ohne dass <name type="person" ref="per:110923">Lanc</name> den<lb/>
+Eindruck hat, dass wir ihn bei der Übernahme des<lb/>
+des Geschäftes bereits hereingelegt haben. Dies er<lb break="no"/>scheint mir wichitger als ein starker Mann bei<lb/>
+<name type="person" ref="per:97915">Schipper</name> zu erscheinen, der imstande war, irgend<lb break="no"/>welche Dienstposten zusätzlich zu halten.</p><p xml:space="preserve">Direktor <name type="person" ref="per:97339">Baumgartner</name> von den Ennskraftwerken, dernur einen Antritts<lb break="no"/>besuch machen wollte, war sehr erstaunt, dass ich michsofort in die Detail<lb/>
+vom Mollnprojekt einmischte. Er meinte, er hätte gar nicht erwartet,<lb/>
+dass ein Minister diese Problem überhaupt kennt. <name type="person" ref="per:107937">Frank</name> meinte dann,<lb/>
+da ich für Fremdenverkehr zuständig sei, sei auch daraus schon<lb/>
+eine Kompetenz abzuleiten. Ich habe <name type="person" ref="per:97339">Baumgartner</name> auseinandergesetzt, dass<lb/>
+ich mit dem verstorbenen Dr. <name type="person" ref="per:133399">Singer</name> bie meiner seinerzeitigen Besich<lb break="no"/>tigung der Kraftwerke der Enns bereits über dieses Problem sehr eingehend<lb/>
+auch fraktionell gesprochen habe. Ic stehe nach wie vor auf dem STand<lb break="no"/>punkt, dass wenn es sich bei diesem Projekt um ein reines Elektrizitäts<lb break="no"/>projekt handelt, dann wird die Ennskraftwerks AG Schiffbruch erleiden.<lb/>
+Sie muss versuchen, über die Wasserversorgung, d.h. dafür VErständnis<lb/>
+bei der Bevölkerung zu erwecken, dass diese Speicher Molln als Wasser<lb break="no"/>reserve dringendst benötigt wird. <name type="person" ref="per:97339">Baumgartner</name> selbst hat auch der<lb/>
+Gemeinde Wien 100 Mill. m3 bereits angeboten für den Linzer Raum<lb/>
+seien nur 10 Mill. ca. reserviert, sodass eigentlich tatsächlich, wenn<lb/>
+Wien ein INteressezeigt, die Wasserseite wichtiger ist als die Elektrizitäts<lb break="no"/>seite. Die Leitung nach Wien wird allerdings 1,8 Mia S kosten. Mit der<lb/>
+Aufbereitungsanlage würde der m3 auf S 3.- zu stehen kommen. Die Wiener<lb/>
+haben derzeit noch keine dezidierte Stellungnahme abgegeben und sehr wenig<lb/>
+<pb n="17-1011" facs="17_1973-09-17_1011.jpg"/>Interesse für dieses Wasser gezeigt . Die Ennskraftwerke machen bereits<lb/>
+jetzt gegen die Bürgerinitiative ebenfalls Aktivitäten, sie führt<lb/>
+z.B. Schlauchphosphate durch die Steyr, wo bereits jetzt ca. 10 m3<lb/>
+fliessen. Dies sit die Mindestmenge, die ebenfalls im Sommer über<lb/>
+die Steyr abgeleitet werden muss. Im Winter soll sie auf 5 m3<lb/>
+reduziert werden. Da der Parteiobmann von Oberösterreich <name type="person" ref="per:114604">Hillinger</name> das<lb/>
+Volksbegehren unterschrieben hat, wird früher oder später auch LH-Stv.<lb/>
+<name type="person" ref="per:125380">Fridl</name> konkret dazu Stellung nehmen müssen. Ich selbst habe <name type="person" ref="per:97339">Baumgartner</name><lb/>
+versprochen, dieses Problem in Linz mit <name type="person" ref="per:125380">Fridl</name> und <name type="person" ref="per:114604">Hillinger</name> zu besprechen.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Die Idee von Arch. <name type="person" ref="per:137167">Ursprunger</name> ist wie Du siehst<lb/>
+nichts Neues und wird deshalb, nachdem sie bereits<lb/>
+von den Ennskraftwerken durchgeführt wurde, von mir<lb/>
+derzeit nicht mehr verfolgt. Mit den Oberösterrei<lb break="no"/>chern müssen wir beim Parteirat sprechen.</p><p xml:space="preserve">Der ehemalige Gen.Dir. <name type="person" ref="per:97622">Kepnik</name> von der ÖBB hat einen Ordenswunsch für<lb/>
+ein Vorstandsmitglied der poln.-österr. Gesellschaft, nämlich <name type="person" ref="per:97880">Rosenstrauch</name>.<lb/>
+Selbstverständlich werden wir diesen Ordenswunsch erfüllen. Bei dieser<lb/>
+Gelegenheit erfuhr ich, dass die DDR-österr. Gesellschaft sehr schlecht und<lb/>
+parteipolitisch zur KPÖ eindeutig orientiert geführt wird. <name type="person" ref="per:97622">Kepnik</name> ist<lb/>
+auch dort im Vorstand tätig und sagt, es kämen oft von Berlin Frauen,<lb/>
+die Weisungen dem Präsidenten resp. Sekretär erteilen, der diese, ohne<lb/>
+auch nur mit der Wimper zu zucken, durchführt. Ich habe <name type="person" ref="per:98053">Wanke</name> dazuge<lb break="no"/>rufen und <name type="person" ref="per:98053">Wanke</name> wird nun klären, wie eine andere Entwicklugn einge<lb break="no"/>leitet werden kann.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: UND <name type="person" ref="per:98053">WANKE</name>: Ich glaube, wir müssten uns um die österr.<lb/>
+und jetzt anderen Gesellschaften der Ostblockländer<lb/>
+mehr kümmern. Diese spielen doch scheinbar eine be<lb break="no"/>deutende Rolle.</p><p xml:space="preserve">Dr. <name type="person" ref="per:147034">Mattos</name> von der Presse wollte ein Interview über das Europa-Institut.<lb/>
+Bei dieser GElegenheit lernte ich gleich den Geschäftsführer Dr. <name type="person" ref="per:145849">Jabinger</name><lb/>
+und Magister <name type="person" ref="per:146923">Kotte</name> kennen. Beide machen auf mich den besten Eindruck.<lb/>
+<name type="person" ref="per:147034">Mattos</name> wird nun für die SEite 3 einen längeren Artikel schreiben. Da<lb/>
+ich nicht will, dass die Handelskammer ndann neuerdings über Aktivitäten<lb/>
+des Europa-Instituts beschwert, von denen sie nichts weiss, habe ich <name type="person" ref="per:98053">Wanke</name><lb/>
+ersucht, er möge, bevor dieser Artikel erscheint. d.h. wenn <name type="person" ref="per:147034">Mattos</name> mit<lb/>
+<name type="person" ref="per:145849">Jabinger</name> über den Inahlt sich einig ist, womöglich das Manuskript der Handels<lb break="no"/>kammer zur Approbation vorgelegt wird.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: Bitte die Handelskammer ausser den scheinbar nicht immer<lb/>
+berichtenden <name type="person" ref="per:113031">Melis</name> über das Sekretariat von<lb/>
+<name type="person" ref="per:97893">Sallinger</name> über Aktivitäten des Europa-Instituts in<lb break="no"/>formieren. und womöglich einer<lb/>
+<pb n="17-1012" facs="17_1973-09-17_1012.jpg"/>Kuratotiumssitzung vereinbaren, wenn auch erst ein<lb/>
+späterer Zeitpunkt möglich sein wird. Die günstigste<lb/>
+Gelegenheit und spätester Termin wäre bei Zusammentritt<lb/>
+des Nationalrates, Dieser Termin gilt nur, wenn wirk<lb break="no"/>lich kein anderer zustandekommen sollte.</p><p xml:space="preserve">Ein Interview mit <name type="person" ref="per:146073">Pal Balasz</name>, der vor allem zuerst über die Kooperationen<lb/>
+und Ostverträge sich erkundigte, dann aber auf die Beziehungen zu den<lb/>
+Niederlanden zu sprechen kommt, war mit vollkommen unerklärlich. <name type="person" ref="per:111699">Puffler</name><lb/>
+hätte nach meiner Aufzeichnung dabei sein sollen, war es aber nicht,<lb/>
+<name type="person" ref="per:98040">Wais</name> wusste scheinbar auch nicht, wer dieser <name type="person" ref="per:146073">Balasz<term>Balasz, Pal</term></name> gewesen ist und für<lb/>
+mich war die Kombination Osten und dann sein sehr grosses Interesse aus<lb/>
+der Niederlande überhaupt nicht erklärlich. Nicht, dass es mir Schwierig<lb break="no"/>keiten bereitet hätte, so wäre ich doch sehr daran interessiert, wieso<lb/>
+eine solche Kombination von <name type="person" ref="per:146073">Balasz<term>Balasz, Pal</term></name> gewünscht wurde.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name>: Vielleicht kannst Du irgendwie ergründen, weshalb<lb/>
+er gerade die Fragen gestellt hat, Du warst ja an<lb break="no"/>wesend.</p><p xml:space="preserve">In der Ministerratsvorbesprechung meinte sowohl <name type="person" ref="per:97668">Kreisky</name> als auch <name type="person" ref="per:97311">Androsch</name><lb/>
+dass ich scheinbar durch reinen Zufall wieder einmal anwesend bin.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> war sehr erstaunt, dass ich darauf replizierte, bei Reisen<lb/>
+stünde ich bezüglich der Ausgaben an sechster Stelle. Er fragte sofort,<lb/>
+wer vor mir sei, worauf ich nur meinte, der Aussenminister selbst<lb break="no"/>verständlich, aber dann kommt schon er als Bundeskanzler. Er meinte, dies<lb/>
+sei unmöglich, in Wirklichkeit sei er erst dreimal weg gewesen. Hier<lb/>
+müsste ich irgendwie schwindeln. Ich erklärte, dass ich alle Möglichkeiten<lb/>
+nütze, aber auch selbst sparsamst bin und bin auch z.B. jetzt wieder<lb/>
+zweiter Klasse geflogen. Dies meinte er, sei ein unrichtiges Vorgehen,<lb/>
+weil andere dann ebenfalls vielleicht so fahren sollten oder müssten und<lb/>
+der Beschluss lautet nur für Europa. Ich setzte ihm aber auseinander,<lb/>
+dass schon allein, weil mir die Ausgaben auch dann, wenn sie der Staat<lb/>
+ersetzt, als zu hoch erscheinen, immer mit der zweiten Klasse fliegen werde<lb/>
+Damit keine Propaganda mache und mir ganz wurscht ist, was die anderen<lb/>
+tun. Das Ganze wickelte sich sehr freundschaftlich ab, <name type="person" ref="per:97668">Kreisky</name> war aber<lb/>
+wirklich sehr überrascht, dass er bei den Ausgaben so hoch oben rangiert.<lb/>
+Die anderen habe ich überhaupt nicht mehr erwähnt.</p><p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> meinte dann noch im Ministerrat müssten wir wegen der Sprengung<lb/>
+das Partisanendenkmals einen deutlichen Protest aussprechen.</p><p xml:space="preserve">Mit der Jugenddiskussion hat er das Problem des Nationalfeiertages<lb/>
+heute besprochen und der Jugendorgansation die Durchführung übertragen.</p><pb n="17-1013" facs="17_1973-09-17_1013.jpg"/><p xml:space="preserve">Die finanziellen Mitteln wird das Unterichtsministerium im 2. BÜG<lb/>
+bekommen. Für die Interessensvertretung wird ein Empfang in Schönbrunn<lb/>
+gegeben, wobei eben nicht wie sonst üblich Eingeladenen und womöglich<lb/>
+Arbeiter und Unternehmer, die in den Betrieben stehen und noch niemals<lb/>
+in Schönbrunn waren, bevorzugt werden sollen. Die Auswahl überlässt<lb/>
+er aber auf alle Fälle den Interessensvertretungen. Ein Symposium der<lb/>
+Historiker wird wieder durchgeführt. Darüberhinaus möchte er aber<lb/>
+eine grosse Diskussion am Nationalfeiertag über das Thema: Volk und<lb/>
+Verteidigung. <name type="person" ref="per:108224">Lütgendorf</name> meinte, hier müsste man aber doch die Meinungen<lb/>
+ausrichten, damit nicht verschiedene Auffassungen zum Durchbruch kommen.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> war natürlich genau gegenteiliger Meinung, er möchte, dass<lb/>
+sehr wohl alle verschiedensten Auffassungen diskutiert werden. Er hofft<lb/>
+nur, so wie dies auch vor Jahren in Schweden gewesen ist, dadurch durch<lb/>
+eine breite Diskussion die Verteidungsbereitschaft der Bevölkerung<lb/>
+steigt. <name type="person" ref="per:113083">Sinowatz</name> meldete an, dass er mitwirken möchte, da die geistige<lb/>
+Landesverteidigung bei ihm ressortiert, er jetzt einen neuen guten Mann für<lb/>
+dieses Problem gefunden hat. <name type="person" ref="per:133397">Brantl</name> machte mir gegenüber die Bemerkung,<lb/>
+ob nicht auch die wirtschaftliche Landesverteidigung von mir herausgestrich<lb/>
+chen werden sollte. Ich habe <name type="person" ref="per:133397">Brantl</name> sofort ersucht, dieses Thema nicht<lb/>
+zur Sprache zu bringen, weil ich hier mit der ÖVP und der FPÖ Besprechungen<lb/>
+dilatorischer Art führe, weil ich keine finanziellen Mittel habe und sie<lb/>
+auch nicht ansprechen möchte. Mein Bestreben auf diesem Sektor kann <lb/>
+nur sein, über die Runden zu kommen, ohne angeschossen werden zu können,<lb/>
+die finanziellen Mitteln müssten vorerst gesichert sein und <name type="person" ref="per:97311">Androsch</name><lb/>
+kann und will nicht grössere Beträge dafür bereitstellen. Die Diskussion<lb/>
+soll am 25. Oktober nachmittags stattfinden. Am 27. hat er Senator<lb/>
+<name type="person" ref="per:122898">Kennedy</name> eingeladen, der über "die USA ist anders" sprechen wird. Zu<lb/>
+dieser Grossveranstaltung möchte er sämtliche Auslandsjournalisten<lb/>
+aber auch Journalisten aus dem Ausland nach Wien bitten.</p><p xml:space="preserve">Die Gesundenmeinungsumfrage müsste von 2 Instituten, nämlich IFES-<lb/>
+<name type="person" ref="per:97356">Blecha</name> und Fessel durchgeführt werden, da das dritte Institut, ein deutsches -<lb/>
+ich weiss nicht welches er gemeint hat – dafür nicht in Frage kommt.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> glaubt, dass dieses Institut arg kriminell geführt wird. Das<lb/>
+Linzer Institut, auch hier weiss ich nicht welches er meinte, käme<lb/>
+erst nach der Wahl in Frage, weshalb nur <name type="person" ref="per:97356">Blecha</name> und Fessel übrigbleiben.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">Heindl</name>: Bitte kläre einmal, wer die zwei anderen Institute<lb/>
+sein sollten, <name type="person" ref="per:115595">Reiter</name> müsste mehr davon wissen<lb/>
+und warum er so negativ über alle anderen Institute<lb/>
+denkt. Die Grosse Meinungsumfrage wird 1 Mio S<lb/>
+<pb n="17-1014" facs="17_1973-09-17_1014.jpg"/>kosten und erst im nächsten Jahr fertig sein, wie <name type="person" ref="per:97444">Fischer</name> richtig bemerkte.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> möchte aber bereits bei der Budgetdebatte eine gewisse Infor<lb break="no"/>mation haben und vor allem einmal im Parlament diskutieren, sodass ein<lb/>
+kleiner Vorspann von ihm jetzt angeregt wird, der ca. 30.000 S kostet.<lb/>
+Eine Omnibusfrage und die den Instituten aber nicht bezahlt wird, sondern<lb/>
+dann in die grosse Umfrage aufgehen soll.</p><p xml:space="preserve">In Wien halten sich die Gerüchte, dass die Segelflieger, die in der<lb/>
+CSSR abgeschossen wurden, mit dem Nachrichtendienst in Verbindung<lb/>
+stehen. <name type="person" ref="per:108224">Lütgendorf</name> hat dies abgestritten und erklärte, in keiner Weise<lb/>
+Ebenso seien Befürchtungen, dass Telefone abgehört werden, nicht zutreffend.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> war über diese Mitteilung sehr erfreut. Hoffentlich stimmt sie</p><p xml:space="preserve">Die Anerkennung Chiles wurde von ihm erörtert, wobei die südamerikanischen <lb/>
+Staaten, wie Mexiko jetzt auch beweist, angeblich nur legale Regime aner<lb break="no"/>kennen. In Europa sei es anders. Hier wurden auch Putschisten bereits aner<lb break="no"/>kannt. u.a. teilte <name type="person" ref="per:97632">Kirchschläger</name> mit, daß die Schweiz bereits die Aner<lb break="no"/>kennung der neuen Regierung ausgesprochen hat. Österreich könnte sich<lb/>
+aus diesem Problem so herausziehen, daß es eine Regierung niemals aner<lb break="no"/>kennt und daher nicht nötig ist, die Beziehungen von Staat zu Staat er<lb break="no"/>folgen. <name type="person" ref="per:97668">Kreisky</name> wird über dieses Problem noch mit <name type="person" ref="per:97632">Kirchschläger</name> Besprechungen<lb/>
+führen.</p><p xml:space="preserve">Die schwedischen Wahlen stehen gar nicht günstig, denn 175 : 175 hat<lb/>
+<name type="person" ref="per:114142">Palme</name>, wie bereits angekündigt wird, durch die 50.000 Briefwähler zu<lb/>
+Ungunsten der Sozialdemokraten entschieden. <name type="person" ref="per:97632">Kirchschläger</name> berichtete<lb/>
+über das Ableben des Königs und <name type="person" ref="per:97346">Benya</name> soll ersucht werden, bei den Trauer<lb break="no"/>feierlichkeiten teilzunehmen, was dieser sicherlich ablehnen wird.<lb/>
+In diesem Fall kann man nicht den 3. Präsidenten <name type="person" ref="per:97845">Probst</name>, der sehr gerne<lb/>
+fahren will, schicken, sondern muß, wie <name type="person" ref="per:97668">Kreisky</name> meinte, zuerst <name type="person" ref="per:97714">Maleta</name><lb/>
+fragen. Das ganze wird aber dem Bundespräsidenten vorgeschlagen, den wir<lb/>
+am liebsten hätten, daß er selbst fährt, was aber sehr unwahrscheinlich<lb/>
+ist.</p><p xml:space="preserve"><name type="person" ref="per:133397">Brantl</name> erinnerte daran, daß <name type="person" ref="per:114604">Hillinger</name> erwartete, daß wir alle am<lb/>
+Knödelessen in Linz teilnehmen. Ich hoffe, daß im Wahlkampf dieses be<lb break="no"/>deutende Ereignis auch entsprechend gewürdigt sind. Sorgen sind dies.</p><p xml:space="preserve">Bei Tourist Austria habe ich auf dem Schiff mit <name type="person" ref="per:134288">Millwisch</name> vom Verkehrs<lb break="no"/><pb n="17-1015" facs="17_1973-09-17_1015.jpg"/>büro und von Ruefa mit <name type="person" ref="per:136644">Figdor</name> über die Beschwerden gesprochen. Ich<lb/>
+habe sie auch streng vertraulich informiert, daß ich in Innsbruck eine<lb/>
+neue Aktion ankündigen werde. Da <name type="person" ref="per:97459">Fröhlich</name> am Schiff war habe<lb/>
+ich mich einer Diskussion über die Geschäftsführerbestellung entzogen.</p></div>
+      </body>
+      <back>
+         <pb n="17_1006_17" facs="17_1973-09-17_1006-17.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 17.9.1973</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="17_1006_18" facs="17_1973-09-17_1006-18.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+   </text>
+</TEI>

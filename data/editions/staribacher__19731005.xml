@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der  5. Oktober 1973</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band17_1973-10-05</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1973-10-05">Freitag, 5. Oktober 1973</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-09-21">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band17/">
+      <body>
+         <pb n="17-1089" facs="17_1973-10-05_1089.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Freitag, 5. Oktober 1973</p><p xml:space="preserve">Bei der Eröffnung der Wieselburger Brauerei hat sich wieder bewährt,<lb/>
+dass ein sozialistischer Minister zuletzt sprechen kann. Gen.Dir. <name type="person" ref="per:114051">Beurle</name><lb/>
+hat mir nachher gestanden, dass er sehr froh war, dass <name type="person" ref="per:112031">Maurer</name> nicht<lb/>
+politisch polemisierte, Ich erklärte, das hätte mir eigentlich gar nichts<lb/>
+ausgemacht, weil ich sowieso und das weiss <name type="person" ref="per:112031">Maurer</name> ganz genau, sofort<lb/>
+auf alle Angriffe entsprechend eingehe. <name type="person" ref="per:114051">Beurle</name> erzählte mir, dass bei<lb/>
+der Grundsteinlegung, wo er der letzte Redner war, er ein fulminantes poli<lb break="no"/>tisches Referat gehalten hat. Interessant war, dass nur ÖVP-Landesräte an<lb break="no"/>wesend waren. Dies hat <name type="person" ref="per:112031">Maurer</name> dazu benützt, um hinzuweisen, dass der<lb/>
+Vertreter der Arbeiter durch Finanzreferent <name type="person" ref="per:97703">Ludwig</name>, der Vertreter der<lb/>
+Wirtschaft durch Landesrat <name type="person" ref="per:114522">Schneider</name> und die Bauern durch ihn hier<lb/>
+vertreten sind, um der Brauerei zu danken.</p><p xml:space="preserve">Die Konzentration der Brauerei AG in der Betriebsstätte Wieselburg<lb/>
+hat, wie mir der technische Direktor versicherte, sicher schon jetzt<lb/>
+sich bestens bewährt. Die Brauerei bedauert, dass es seinerzeit nicht<lb/>
+geglückt ist, die Konzentration aller Brauereien in Österreich herbei<lb break="no"/>zuführen. Das ursprüngliche Konzept war ja, nicht nur, dass die Zipfer AG<lb/>
+zur Brau AG kommt, sondern dass sich auch Schwechat und Reininghaus und Gösser<lb/>
+liieren. Die Brau AG selbst hat die Wieselburger Brauerei grössenordnungs<lb break="no"/>mässig und bautenmässig auf 1 Mill. hl. ausgelegt. Bei 8 Mill. hl Ausstoss<lb/>
+bedeutet dies, dass sie auf lange Sicht sicherlich auch nicht nur die<lb/>
+Liesinger Brauerei, die bereits bezüglich des Brauens stillgelegt ist,<lb/>
+dort wird nur mehr vermalzt, sondern auch die Linzer Brauerei wahrschein<lb break="no"/>lich stillegen wird. Derzeit allerdings muss sie die weit entfernteren<lb/>
+Brauereien wie Bürgerbräu in Innsbruck und Zipf in Salzburg und Oberöster<lb break="no"/>reich entsprechend, da diese bereits an die Kapazitätsgrenze angestossen<lb/>
+sind, mit Lieferungen versorgen. Die Brau AG erwartet aus der Bundesrepu<lb break="no"/>blik aber auch aus Dänemark entsprechenden Importdruck, insbesondere im<lb/>
+Laufe der weiteren Integration durch das Freihandelszonenabkommen mit<lb/>
+der EWG.</p><p xml:space="preserve">Finanzlandesrat <name type="person" ref="per:97703">Ludwig</name> hat sich bitter bei mir beschwert, dass durch die<lb/>
+Kreditrestriktionen auf die übrigens auch <name type="person" ref="per:112031">Maurer</name> anspielte und wo ich<lb/>
+leicht replizieren konnte, die nö. Bauvorhaben, die der Bund durchführt,<lb/>
+jetzt sehr stark gedrosselt werden. Ich habe <name type="person" ref="per:112031">Maurer</name> und <name type="person" ref="per:97703">Ludwig</name> sofort vorge<lb break="no"/>schlagen, sie müssen eben durch Zwischenfinanzierung die notwendigen Mittel<lb/>
+<pb n="17-1090" facs="17_1973-10-05_1090.jpg"/>aufbringen um die Bauvorhaben fortsetzen zu können. Der Bund selbst<lb/>
+muss sich an die Kreditrestriktionen und restriktive Budgetpolitik<lb/>
+halten, wenn er nicht ständig von der Opposition attackiert werden<lb/>
+will. Hier zeigte sich, wie gut doch das System ist, dass nicht wir<lb/>
+die selektive Kreditkontrolle durchführen sondern, dass eben die Banken<lb/>
+die notwendigen Massnahmen und Prioritäten setzen müssen.</p><p xml:space="preserve"><name type="person" ref="per:97584">Jagoda</name> berichtet, dass es ihm geglückt ist, auf Beamtenebene das Finanz<lb break="no"/>ministerium, Min.Rat <name type="person" ref="per:98053">Wanke</name>, zu überzeugen, dass eine Änderung der Bürges<lb break="no"/>richtlinien, resp. neue Aktionen solange die Budgetposten nicht offiziell<lb/>
+bekannt sind und die Gelder nicht entsprechend zur Verfügung stehen, nicht<lb/>
+in Frage kommt. Damit wurde diese kritische Klippe in der Bürges-Aufsichts<lb break="no"/>rat umschifft. Die Taktik müsste sein, Bürges austrocknen lassen, wenn<lb/>
+gar nicht anders, dann höchstens irgendwelche unbedeutende Aktionen neu<lb/>
+zu starten, die wirkliche Lösung liegt doch in einem anderen System<lb/>
+ähnlich der Komfortzimmeraktion, wo wir unmittelbar dem Betreffenden<lb/>
+einen entsprechenden Barbetrag auf die Hand auszahlen. Dies bemerkt<lb/>
+er, dazu gibt es die geringsten administrativen Aufwendungen und den<lb/>
+grössten politischen Erfolg. Ausserdem können solche Aktionen so ge<lb break="no"/>startet werden, dass früher oder später ein Auslaufen zu erwarten ist,<lb/>
+dann ergibt sich nämlich die gute Situation, dass man eine andere Aktion<lb/>
+mit diesem Geld dann wieder starten kann. Bei der Bürges aber wird un<lb break="no"/>unterbrochen eine weitere Belastung des Budgets erreicht. Mit Schaudern<lb/>
+denke ich daran, dass <name type="person" ref="per:97311">Androsch</name> mir die 20 Mill. S für die Industrie<lb break="no"/>förderung gegeben hat, damit ich auch womöglich eine solche Kredit<lb break="no"/>aktion starte. Alle Jahre hätte ich mich dann um die weiteren 20 Mill.<lb/>
+und darüber hinaus dann noch um einen entsprechenden höheren Betrag küm<lb break="no"/>mern müssen, weil ja letzten Endes die nicht zum Zuge gekommen Industriel<lb break="no"/>len erwarten, dass sie wenigstens im nächsten Jahr drankommen.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name> UND <name type="person" ref="per:97469">GEHART</name>: Am Fremdenverkehr und gewerblichen Sek<lb break="no"/>tor müssen wir irgendwelche Wege finden, um die Bundeskammer<lb/>
+davon zu überzeugen, dass ausser Bürges es noch bessere Lö<lb break="no"/>sungen gibt.</p><p xml:space="preserve">Min.Rat <name type="person" ref="per:111722">Kinscher</name>, mit dem ich das Referat beim Jugendkongress durchge<lb break="no"/>sprochen habe, hat mit Recht kritisiert, dass es viel zielführender<lb/>
+wäre, wenn man zeitgerecht eine entsprechende Aussprache hätte. Dann<lb/>
+kann er das Material entsprechend aufarbeiten und vor allem weiss er<lb/>
+die Intentionen, die mich leiten, bei einer Unterlage, die ich von<lb/>
+ihm wünsche. Ich glaube überhaupt, dass es zweckmässiger ist, dass<lb/>
+wenn ich eine Einladung bekomme, dann mit dem Fachreferat resp. mit den<lb/>
+anderen Kollegen entsprechend eine kurze Aussprache habe, um meine<lb/>
+<pb n="17-1091" facs="17_1973-10-05_1091.jpg"/>Wünsche mitzuteilen, die dann entsprechend aufgeteilt sicherlich<lb/>
+besser erfüllt werden, als wie wenn es jetzt über das Büro nur eine<lb/>
+Mitteilung gibt, dass der Minister an dieser Sitzung und an dieser<lb/>
+Eröffnung teilnimmt und entsprechende Unterlagen wünscht.</p><p xml:space="preserve">Bei dieser Aussprache konnte ich neuerdings feststellen, dass <name type="person" ref="per:111722">Kinscher</name><lb/>
+sich mit dieser Materie nicht nur von Berufs wegen also im Auftrag sozu<lb break="no"/>sagen des Handelsministeriums, sondern sicherlich als Familienpolitiker<lb/>
+sehr beschäftigt und eigene Ideen hat. Schade, dass wir bis jetzt noch<lb/>
+keinen richtigen Weg gefunden haben, wie wir ihn für die Gewerkschaftsjugend<lb/>
+stärker einspannen können. Er ist natürlich ein sehr eigenwilliger<lb/>
+Mensch, doch könnte man ihn für den überparteilichen Gewerkschaftsbund<lb/>
+sicherlich stärker mobilisieren.</p></div>
+      </body>
+      <back>
+         <pb n="17_1088_01" facs="17_1973-10-05_1088-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 5.10.1973</head>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+   </text>
+</TEI>

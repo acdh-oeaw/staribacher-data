@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstag, der 17. Juli 1973</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band17_1973-07-17</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1973-07-17">Dienstag, 17. Juli 1973</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-09-13">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band17/">
+      <body>
+         <pb n="17-0863" facs="17_1973-07-17_0863.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Dienstag, 17. Juli 1973</p><p xml:space="preserve">Zur Interministeriellen Sitzung über die Inpadoc ist neben den Vertretern<lb/>
+des Finanzministeriums und des Handelsministeriums <name type="person" ref="per:133082">Auracher</name> und vom Patent<lb break="no"/>amt VP <name type="person" ref="per:97688">Leberl</name> erschienen. Ich habe auch in Anwesenheit von <name type="person" ref="per:110922">Vranitzky</name><lb/>
+<name type="person" ref="per:133082">Auracher</name> nicht im Zweifel gelassen, dass Geschäftsführung zu einem Debakel<lb/>
+führen kann, wenn nicht baldigst die notwendigen Massnahmen, die auch<lb/>
+der Aufsichtsrat vorgesehen hat, erfüllt werden. Insbesondere wurde<lb/>
+der Gegenvorschlag vorbereitet, der auf die Forderung des WIPO-Vertreters<lb/>
+<name type="person" ref="per:137669">Bogsch</name> bezugnimmt. <name type="person" ref="per:133082">Auracher</name> behauptet, dass die technischen Vorbereitun<lb break="no"/>gen ebenfalls nicht klappen, da <name type="person" ref="per:134167">Werner</name> teilweise durch Abwesenheit daran<lb/>
+schuld sein soll, hat <name type="person" ref="per:133082">Auracher</name> ihm gekündigt. <name type="person" ref="per:134167">Werner</name> hat sich ja bei mir<lb/>
+darüber sehr beschwert und erklärt, dass sich herausstellen wird, dass<lb/>
+die technischen Vorbereitungen in Ordnung sind und nur die kommerzielle<lb/>
+Führung <name type="person" ref="per:133082">Aurachers</name> das Debakel verursachen wird. Er hat aber einvernehmlich<lb/>
+mit <name type="person" ref="per:133082">Auracher</name> seine Dienste mit Oktober quittiert. Ob wir mit dieser<lb/>
+Organisation tatsächlich das Problem lösen werden, erscheint mir immer<lb/>
+zweifelhafter. Allerdings weiss ich keinen Ausweg, da wir keine ent<lb break="no"/>sprechenden Leute zur VErfügung haben. <name type="person" ref="per:97688">Leberl</name> hat mir versichert, er wird<lb/>
+alles unternehmen, um die Inpadoc tatsächlich und tatkräftigst u<lb/>
+zu unterstützten.</p><p xml:space="preserve">Im Milchkomitee hat <name type="person" ref="per:98055">Weihs</name> deutlch bei seiner Verhandlungsführung zu er<lb break="no"/>kennen gegeben, dass er bereit ist, den Milchgroschen, wenn die Bauern<lb break="no"/>bündler zustimmen, dass monatlich der Krisengroschen festgesetzt wird,<lb/>
+um 5 Groschen zu senken. <name type="person" ref="per:97311">Androsch</name> war der Ansicht, dass der Bauernbund<lb/>
+jetzt zu einer Lösung kommenmuss, weil die Allgemeinen Bauernverbändler<lb/>
+alles daran setzen werden, um mit dem Milchstreik den Bauernbund zu Aktio<lb break="no"/>nen zu zwingen, wenn es zu keinem Abschluss kommen sollte.</p><p xml:space="preserve">In der ÖGB-Bundesfraktion berichtete ich über die wirtschaftliche Situation<lb/>
+<name type="person" ref="per:97741">Millendorfer</name>, der zu spät kam und über die Lage der Bauwirtschaft sehr<lb/>
+besorgt ist, hat mich dann hart attackiert. Die VIBÖ hätte ihm mitgeteilt<lb/>
+dass der Auftragsstand für die industriellen Bauunternehmen um 31 % zurück<lb break="no"/>gegangen sei. Er meint, dass in kürzester Zeit die Bauarbeiter arbeitslos<lb/>
+sein werden, er rechnet mit 30 – 40.000. Vorarlberg hätten aber bereits<lb/>
+die Bauunternehmer 49,5 % Gastarbeiter, hauptsächlich Jugoslawen. <name type="person" ref="per:97525">Häuser</name><lb/>
+hat dann in der Diskussion mit <name type="person" ref="per:97741">Millendorfer</name> einen ganz schönen Streit<lb/>
+gehabt. Da <name type="person" ref="per:97741">Millendorfer</name> in seiner rüden Art immer wieder <name type="person" ref="per:97525">Häuser</name> unter<lb break="no"/>brach. <name type="person" ref="per:97346">Benya</name> ging dann der Hut hoch. Er erklärte, unter soclhen Bedin<lb break="no"/>gungen könne man nicht diskutieren und er weise alle Verdächtigungen,<lb/>
+die die Bauarbeiter insbesondere aber nur <name type="person" ref="per:97741">Millendrfer</name> gegen die Regierung<lb/>
+<pb n="17-0864" facs="17_1973-07-17_0864.jpg"/>mitglieder aussprechen, aus der entschiedenste zurück. Meinte, dass sich<lb/>
+<name type="person" ref="per:97525">Häuser</name> und ich in der Regierung stets sehr bemühen unsere Interessen und<lb/>
+die des ÖGB zu vertreten und er solle deshalb mit diesen grundlosen<lb/>
+Verdächtigungen aufhören. <name type="person" ref="per:97741">Millendorfer</name> kam dann zu mir und meinte, er möchte<lb/>
+gemeinsam mit mir bei <name type="person" ref="per:97755">Moser</name> intervenieren, damit er eine den Bauarbeitern<lb/>
+gefügigere Politik machen sollte. Insbesondere mpsste sich <name type="person" ref="per:97755">Moser</name> jetzt das<lb/>
+Kalkulationsbüro aufbauen, um nicht immer den Wünschen der Bauunternehmen<lb/>
+ausgeliefert zu sein.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Bitte versuche auf Sekretariatebene zu klären, wie<lb/>
+weit <name type="person" ref="per:97755">Moser</name> mit den Bauarbeitern und deren Forderungen<lb/>
+Kalkulationsbüro, Auftragsvergabe usw. übereinstimmt,<lb/>
+oder wieweit es hier Differenzen gibt, damit ich gege<lb break="no"/>benenfalls vermittelnd eingreifen kann.</p><p xml:space="preserve"><name type="person" ref="per:97893">Sallinger</name> und <name type="person" ref="per:97769">Mussil</name> wollte noch mit mir bevor ich abreise über das Problem<lb/>
+der AHF-Beiträge verhandeln. Auf Beamtenebene war vorgesehen, dass die<lb/>
+40 Mill. S, die bisher Entwicklungshilfe aus AHF-Beiträgen gezahlt wurden,<lb/>
+in HInkunft nur mehr für Exportförderung zur VErfügung gestellt werden<lb/>
+dürfen. Die diebezügliche Kritik des Rechnungshofes müsste berücksichtigt<lb/>
+werden. <name type="person" ref="per:97893">Sallinger</name> wollte nun wissen, wie weit, wenn sie Reisespesen fr<lb/>
+das Handelsministerium übernehmen ihr Budget damit belastet wird. Ich habe<lb/>
+ihnen zugesichert, dass wir die entsprechenden Unterlagen, soweit sie bei<lb/>
+uns budgetmässig aufgeschienen sind, der vergangengen Jahre zur VErfügung<lb/>
+stellen werden.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Bitte über das Präsidium die entsprechenden UNter<lb break="no"/>lagne hinüber schicken und Vorverhandlungen führen.</p><p xml:space="preserve">Bei dieser Gelegenheit beschwerten sich die Handelskammer über die rüde<lb/>
+Art, wie man Firmenvertreter im Preisunterausschuss behandelt. Der seiner<lb break="no"/>zetigie Kammeramtsdirektor von Salzburg <name type="person" ref="per:113822">Haslinger</name>, der jetzt Finanz<lb break="no"/>referent wird und sein Nachfolger meinten, dass sie immer wieder fest<lb break="no"/>stellen können, dass sgerade Bundesländerfirmen sehr verärgert von Wien<lb/>
+zurückkommen.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: Ich glaube, wir sollten dieses Problem noch einmal<lb/>
+mit ÖGB-Vertretern und AK-Vertretern diskutieren.</p><p xml:space="preserve"/></div>
+      </body>
+      <back>
+         <pb n="17_0862_01" facs="17_1973-07-17_0862-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 17.7.1973</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="17_0862_02" facs="17_1973-07-17_0862-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="17_0864_01" facs="17_1973-07-17_0864-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesordnung 80. Ministerratssitzung, 17.7.1973</head>
+            <gap reason="sampling"/>
+            <pb n="17_0864_02" facs="17_1973-07-17_0864-02.jpg"/>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+   </text>
+</TEI>

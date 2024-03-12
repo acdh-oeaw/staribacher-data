@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Montag, der 23. September 1974</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band22_1974-09-23</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1974-09-23">Montag, 23. September 1974</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2017-01-16">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band22/">
+      <body>
+         <pb n="22-1120" facs="22_1974-09-23_1120.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Montag, 23. September 1974</p><p xml:space="preserve">Beim Jour-fixe berichtete ich <name type="person" ref="per:97893">Sallinger</name> über die Verhandlungen<lb/>
+wegen der Besetzung und Reorganisation der Elektrizitätswirt<lb break="no"/>schaft. <name type="person" ref="per:97769">Mussil</name> selbst hat mein Konzept mehr oder minder zur<lb/>
+Kenntnis genommen, er meinte nur, wenn zu keiner einvernehmlichen<lb/>
+Lösung kommt, wird es ein harter politischer Kampf werden. Die<lb/>
+Bundeskammer war vor etlichen Jahren, als Dr. <name type="person" ref="per:97872"><choice><choice><sic>Riek</sic><corr>Rief [?]</corr></choice></choice></name> <add>[evtl. Falschidentifikation, Anm.]</add> ein zentrali<lb break="no"/>stisches Konzept gegen die Länder gerichtet vorschlug, wurde er<lb/>
+hart attackiert. Die Landesgesellschaften haben damals die Bundes<lb break="no"/>kammer, aber auch ihn persönlich scheinbar hart angegriffen. Die<lb/>
+Variante in der Konzentration der Verbundgesellschaft die Enns<lb break="no"/>kraftwerke zu unterstellen, meint <name type="person" ref="per:97769">Mussil</name>, ähnelt dem Wunsch der<lb/>
+ÖIAG, wo <name type="person" ref="per:97470">Geist</name> auch ein zentralistisches Konzept verfolgt. Mein<lb/>
+Vorschlag, die Ennskraftwerke der Donau zuzuordnen und nicht der<lb/>
+Verbund vorsieht, hoffe ich doch, daß die Bundeskammer sich neutral<lb/>
+verhalten wird.</p><p xml:space="preserve">Ein neuerlicher Bericht, daß ich mit dem Bevorratungsgesetz nicht<lb/>
+weiterkomme, weil nicht nur die Länder sondern auch die Bundes<lb break="no"/>kammer gegen den Entwurf Stellung nimmt und ich deshalb ein Lager<lb break="no"/>gesetz anstrebe, hat Aussicht von der Handelskammer akzeptiert zu<lb/>
+werden. <name type="person" ref="per:97769">Mussil</name> meinte nur seinerzeit hätte die Handelskammer er<lb break="no"/>rechnet, daß man 18 Milliarden Schilling, wenn man alles berück<lb break="no"/>sichtigt, und mind. 5 – 6 Milliarden Schilling bräuchte, wenn man<lb/>
+die notwendigen Produkte nach Auffassung der Handelskammer zur<lb/>
+Verfügung haben musste. Trotzdem gibt <name type="person" ref="per:97769">Mussil</name> zu, daß es zweck<lb break="no"/>mässig ist, die 2 Milliarden Schilling endlich der Nationalbank<lb/>
+zu verwenden.</p><p xml:space="preserve">Anmerkung für <name type="person" ref="per:98053">WANKE</name>: Vielleicht kannst du in der Grundsatzgruppe,<lb/>
+nachdem du vorher mit dem Finanzministerium Wünsche und Konzepte<lb/>
+abbesprochen hast, eine breitere Basis für diese Idee finden.</p><p xml:space="preserve">Ich habe die Handelskammer nicht im Unklaren gelassen, daß<lb/>
+im Zuge des Umweltschutzkonzeptes wir auch die Wegwerfflasche<lb/>
+durch Glasflaschen ersetzen müssen. Die verlorenen Packungen werden<lb/>
+ansonsten für uns zu unlösbaren Problemen führen. <name type="person" ref="per:97769">Mussil</name> hat keiner<lb break="no"/>lei grössere Einwendungen gegen diese Konzeption gehabt.</p><pb n="22-1121" facs="22_1974-09-23_1121.jpg"/><p xml:space="preserve">Anmerkung für <name type="person" ref="per:97377">BUKOWSKI</name>: Ohne große Kosten wäre es notwendig, bei<lb/>
+einer Umfrage festzustellen, ob die Hausfrauen tatsächlich nur Weg<lb break="no"/>werfflaschen wünschen.</p><p xml:space="preserve"><name type="person" ref="per:97769">Mussil</name> hat schwere Bedenken wegen der konjunkturellen Entwicklung<lb/>
+insbesondere bei der Textil- u. Bekleidungsindustrie, wo Gewerk<lb break="no"/>schaftssekretär <name type="person" ref="per:115611">Steinle</name> nach seiner Auffassung Irrsinnsforderungen<lb/>
+gestellt und Baron <name type="person" ref="per:140551">Hauser</name>, ein sonst nicht so klagender Bekleidungs<lb break="no"/>industrieller ihm scheinbar die Situation in der Branche sehr<lb/>
+düster geschildert hat, meint, hier müsse das Handelsministerium<lb/>
+sehr vorsichtig vorgehen. <name type="person" ref="per:97893">Sallinger</name> wieder weist darauf hin,<lb/>
+daß in der Bauwirtschaft nach seiner Information die Aufträge<lb/>
+äußerst gering sind und größere und mittlere Firmen vor einer<lb/>
+katastrophalen Lage stehen. Die Handelskammer richtet noch<lb/>
+weitestgehend ihre Konjunkturbeobachtung nach der Börse aus,<lb/>
+da die Börsenkurse ständig fallen, der amerikanische Index soll<lb/>
+angeblich dieselbe Tiefe erreicht haben wie zum schwarzen Freitag<lb/>
+vor der Weltwirtschaftskrise in den 30er Jahren, fürchtet <name type="person" ref="per:97769">Mussil</name><lb/>
+das Schlimmste. Seiner Meinung nach ist dies erklärlich, da die<lb/>
+Dividenden max. 4–5 % ausmachen, während bei fest verzinslichen<lb/>
+doch immerhin 11 % zu erreichen sind, kann sich die Aktie nicht<lb/>
+erholen und kündet eine schreckliche Wirtschaftsentwicklung an.</p><p xml:space="preserve">Anmerkung für <name type="person" ref="per:98053">WANKE</name>: Vielleicht sollte die Grundsatzgruppe einmal<lb/>
+eine Debatte und Untersuchung über die Indikatorenwirkung von Bör<lb break="no"/>seberichten anstellen. Ich glaube nämlich, daß die Zeit heute für<lb/>
+Bedeutung der Kurse vorüber ist.</p><p xml:space="preserve">Beim Journalistenfrühstück, das ausnahmsweise einmal statt <name type="person" ref="per:111699">Puffler</name><lb/>
+<name type="person" ref="per:97377">Bukowski</name> präsentierte, ging alles glatt. <name type="person" ref="per:97377">Bukowski</name> hatte in Erfahrung<lb/>
+gebracht, daß <name type="person" ref="per:140458">Aigner</name> <add>[evtl. Falschidentifikation, Anm.]</add>vom Fernsehen sich wegen der stillgelegten<lb/>
+Atomkraftwerke in Amerika erkundigen wird. Ich hatte eher be<lb break="no"/>fürchtet, daß man mich wegen der Preisentwicklung und insbesondere<lb/>
+der Ankündigungen über den Elektrizitätspreis usw. in die Zange<lb/>
+nehmen wird, als ich die aufgebauten Scheinwerfer beim Beginn des<lb/>
+Pressefrühstücks bemerkte. Diesmal kamen aber die Preise und die<lb/>
+Preisentwicklung überhaupt nicht zur Sprache.</p><p xml:space="preserve">Präs. <name type="person" ref="per:114377">Fritsch</name> von den Wirtschaftstreuhändern mit seinen Leuten<lb/>
+und insbesondere ein neuer Mann, namens <name type="person" ref="per:113112">Böck</name>, der scheinbar von<lb/>
+der Sozialistischen Fraktion stammt, um weitere Forderungen und<lb/>
+Abschluß über ihre Tarife Wünsche zu führen. <name type="person" ref="per:113112">Böck<term>Böck, Josef</term></name> glaubte allen<lb/>
+<pb n="22-1122" facs="22_1974-09-23_1122.jpg"/>Ernstes, er könne mich insofern unter Druck setzen, als er<lb/>
+darauf hinwies, daß seit dem 1. Feber 1974, der Stichtag, wo<lb/>
+sie ihren Antrag verrechnungsmäßig abgeschlossen haben, den<lb/>
+sie im April einbrachten, hätten in der Zwischenzeit eine<lb/>
+Kollektivvertrag und Istlohnerhöhung akzeptieren und gleich<lb break="no"/>zeitig jetzt mit 1. Jänner 1975 eine Arbeitszeitverkürzung, die<lb/>
+ihnen bei 2 Stunden – 5 % aber 7 1/2 % kosten wird, weil sie<lb/>
+50 % Überstundenzuschlag rechnen müssen. Sie können nach ihrer<lb/>
+Angabe keine Ersatzkräfte einstellen, sondern mit den vorhandenen<lb/>
+ihr Auslangen finden, aus diesem Grund wollte <name type="person" ref="per:113112">Böck</name>, wenn wir<lb/>
+jetzt wirklich nur 20 % geben, daß mit 1.1.1975 jetzt gleich eine<lb/>
+zweite Etappe mit 10 % verhandelt wird. Nach längerer Verhandlung,<lb/>
+wo ich sie nicht im Unklaren ließ, daß ich eine Etappenlösung<lb/>
+unter gar keinen Umständen akzeptieren kann, einigten wir uns<lb/>
+dahingehend, daß wir nicht mit 1. November, wie dies derzeit die<lb/>
+Rechtsanwälte bei <name type="person" ref="per:97372">Broda</name> beantragt haben, sondern mit 1. September<lb/>
+eine 20 %-ige Erhöhung akzeptieren, nur für die Aktiengesellschaften<lb/>
+wird Wertgebühr und auch für die Wertgebühr der mittleren Unter<lb break="no"/>nehmer eine neue Tabelle entwickelt, die mehr als 20 %, aber bis<lb/>
+maximal 25 % im Einzelansatz betragen kann. <name type="person" ref="per:114377">Fritsch</name> und ich glaube<lb/>
+auch die anderen waren mit dieser Lösung dann sehr einverstanden.</p><p xml:space="preserve"><name type="person" ref="per:137899">Patzenhofer</name>, der Besitzer der Siegendorfer Zuckerfabrik wollte,<lb/>
+daß ich neuerdings wegen des hohen Gaspreises bei der BEGAS inter<lb break="no"/>veniere. Er war sehr erstaunt, als ich nachwies, daß ich zweimal<lb/>
+mit den Herren der BEGAS insbesondere mit Landesrat <name type="person" ref="per:98037">Vogl</name> ver<lb break="no"/>handelt habe und dieser mir eben erklärte, daß nicht zuletzt auf<lb/>
+Wunsch <name type="person" ref="per:137899">Patzenhofers</name> die Ölklausel in den Gasvertrag aufgenommen<lb/>
+wurde, dadurch hat sich der ursprüngliche Preis von 42 Groschen<lb/>
+pro cbm auf 104 Groschen jetzt erhöht. Noch mehr erstaunt war er<lb/>
+aber, als ich mich nicht nur für seine Detailinformation bedankte<lb/>
+und sehr interessierte, wie <name type="person" ref="per:137899">Patzenhofer</name> jetzt fallengelassenes<lb/>
+Projekt eines Zusammenschlusses von Siegendorf und Bruck mit<lb/>
+ihm besprach. Die Zuckerindustrie hat mich ja nicht informiert,<lb/>
+sondern der Zuckerclan, wie <name type="person" ref="per:137899">Patzenhofer</name> meinte, hat seinerzeit<lb/>
+nur erklärt, im letzten Moment wären knapp vor Unterschrift die<lb/>
+Patzenhofer <choice><choice><sic>ausgesprungen.</sic><corr>abgesprungen?</corr></choice></choice> Tatsächlich hätte die Familie Patzenhofer<lb/>
+62 % der neuen Gesellschaft an Aktien bekommen, doch hätten sich<lb/>
+die anderen Zuckerindustrien, die ja an der Brucker Zuckerfabrik<lb/>
+ja alle beteiligt sind, vorbehalten, trotz der 62 % Aktien der<lb/>
+Patzenhofer alle Investitionen zu genehmigen. Ursprünglicher<lb/>
+<pb n="22-1123" facs="22_1974-09-23_1123.jpg"/>Konzeption wäre eine Rohzuckerfabrik entstanden, entweder<lb/>
+in Siegendorf oder in Bruck, je nachdem, wo die günstigere Lage<lb/>
+gewesen wäre, und eine zweite Fabrik, wo man Raffinade, resp.<lb/>
+Verarbeitung und Verpackung durchgeführt hätte. <name type="person" ref="per:137899">Patzenhofer</name><lb/>
+meint, daß er die schlechte Grenzlage, er muß vom Süd-Burgen<lb break="no"/>land rüber beziehen und möchte sogar bis in die Steiermark<lb/>
+runter, den Rübenanbau forcieren, immer kostenmäßig schlechter<lb/>
+abschneidet. <name type="person" ref="per:137899">Patzenhofer</name> versprach, mir den Vertrag zu schicken.<lb/>
+Ich bin neugierig ob er dies tatsächlich einhält.</p><p xml:space="preserve">Anmerkung für <name type="person" ref="per:98040">WAIS</name>: Bitte das Branchenreferat zu informieren.</p><p xml:space="preserve">Das Gespräch zwischen ÖMV und <choice><choice><sic>Austro-Ferngas</sic><corr>Austria Ferngas</corr></choice></choice> verlief wie erwartet.<lb/>
+Austro-Ferngas glaubt nachweisen zu können, daß man trotz der<lb/>
+wesentlich höheren Gaspreise, die wir für 1980 erwarten müssen,<lb/>
+die 2 Milliarden cbm Algeriengas dringend benötigen. <name type="person" ref="per:97337">Bauer</name> von der<lb/>
+ÖMV, unterstützt durch äußerst geschickt verhandelnden <name type="person" ref="per:97738">Meszaros</name>,<lb/>
+bezweifelt, daß die Bedarfsziffern heute noch stimmen. Darüber<lb/>
+hinaus hat <name type="person" ref="per:97337">Bauer</name> dann meiner Meinung nach ganz unmotiviert in die<lb/>
+Diskussion geworfen, daß sie das iranische Gas, welches in größeren<lb/>
+Mengen nach Europa kommen wird, dazu benützen werden, um gegebenenfalls,<lb/>
+wenn die Austro-Ferngas durch das Algeriengas ihren Bedarf deckt,<lb/>
+mit dem iranischen Gas entsprechende Konkurrenz auch in Österreich<lb/>
+den Landesgesellschaften, resp. der Ferngas machen wird. Wir<lb/>
+einigten uns dann, daß erstens die Experten der beiden Gruppen<lb/>
+mit MR <name type="person" ref="per:108609">Sterk</name> eine neue Bedarfsprognose erstellen werden, zweitens<lb/>
+werden die Gespräche zwischen den Experten ohne Ministerium einst<lb break="no"/>weilen aufgenommen, um die Arbeitsteilung zwischen Austro-Ferngas<lb/>
+und ÖMV festzulegen. Der Versuch, den ich vor etlichen Jahren<lb/>
+unternommen habe, wo bei Verhandlungen mit den Russen die ÖMV<lb/>
+Austro-Ferngas-Vertreter mitnimmt und umgekehrt bei der Austro-<lb/>
+Ferngas mit dem Konsortium ÖMV Vertreter informiert werden und<lb/>
+anwesend sind, ist als gescheitert zu betrachten. Austro-Ferngas<lb/>
+erklärt formell mit Recht, es hat solche Verhandlungen zwischen<lb/>
+dem Konsortium den Algeriern und der Austro-Ferngas nie gegeben,<lb/>
+weil eben Austro-Ferngas sofort in den fertigen Vertrag eingestiegen<lb/>
+ist. <name type="person" ref="per:97337">Bauer</name> wieder sagte ganz dezidiert und unverblümt, er denke<lb/>
+nicht daran, einen Vertreter zu den Russenverhandlungen mitzunehmen.<lb/>
+Nach der Sitzung hat er sich aber doch im Stehen und beim Verab<lb break="no"/>schieden bereit erklärt, Gen.Dir. <name type="person" ref="per:97496">Gruber</name> eine gewisse Aufklärung<lb/>
+über die sowjetischen Verhandlungen zu geben. Er verwies nur<lb/>
+<pb n="22-1124" facs="22_1974-09-23_1124.jpg"/>auf die Menge die zur Verfügung steht, sagte ihnen den<lb/>
+Preis für das nächste Jahr und vor allem für die kommenden<lb/>
+Jahre überhaupt nicht, sondern deutete nur eine entsprechende<lb/>
+Erhöhung an, er wird so bald der Vertrag endgültig fixiert<lb/>
+ist, sie dann im Detail informieren. Gen.Dir. <name type="person" ref="per:97496">Gruber</name> wieder wehrte<lb/>
+sich dagegen, daß er die erhöhten Gaspreise angekündigt hat,<lb/>
+sondern verweist darauf, daß er eine Zeitung, gemeint ist der<lb/>
+Kurier und der dortige Redakteur <name type="person" ref="per:140196">Dunner</name>, von einer Vervierfachung<lb/>
+des Gaspreises gesprochen hat, <name type="person" ref="per:140196">Dunner</name> geht bei der ÖMV ein und<lb/>
+aus, gilt deshalb als der <sic>speziale</sic> informierte Vertreter der ÖMV.</p><p xml:space="preserve">Auf meine besondere Aufforderung hat dann die <choice><choice><sic>Austro-Ferngas</sic><corr>Austria Ferngas</corr></choice></choice><lb/>
+andererseits mitgeteilt, daß die Erhöhung des gebundenen Kredites<lb/>
+von 900 Millionen Dollar um 20 % von Seiten der Sonatrach bei<lb/>
+den letzten Verhandlungen in Brüssel wieder zurückgenommen wurde,<lb/>
+dadurch verbessert sich die Finanzierungsschwierigkeit ein bißchen.<lb/>
+Angeblich hätten die Bankenvertreter den Auftrag von <name type="person" ref="per:97311">Androsch</name> so<lb/>
+aufgefaßt, daß sie nicht Detailinformationen einholen sollen und<lb/>
+dann in einen Papier zusammenzufassen, sondern daß nur ganz allge<lb break="no"/>mein eben über die Kreditmöglichkeit und insbesondere über den<lb/>
+so großen Kreditrahmen, der für alle Projekte notwendig ist, ein<lb/>
+Papier ausarbeiten sollen. Die Austro-Ferngas-Vertreter werden<lb/>
+deshalb sehr konkrete Unterlagen auch auf dem Banksektor, Kraft<lb/>
+und Möglichkeit ihrer Verbindung mit dem ausländischen Konsortium<lb/>
+beistellen. Der Vertrag soll jetzt endgültig bis Ende Oktober<lb/>
+behandelt und noch heuer unterzeichnet werden.</p><p xml:space="preserve">In der Ministerratsvorbesprechung berichtete <name type="person" ref="per:97668">Kreisky</name>, der in<lb/>
+Oberösterreich und Steiermark war, über die Eindrücke. Von OÖ<lb/>
+meint er, daß die Enthüllungen, die vom Kontrollobmann gemacht<lb/>
+wurden, eben das dieser aus der Luft gegriffen hat und nur das<lb/>
+Strittige und die zerstrittene Lage dokumentieren. In Steier<lb break="no"/>mark dagegen sei ein sehr positiver Wahlkampf im Gange. Die Idee<lb/>
+in Caorle ihn zu beginnen, war sehr gut, der Slogan "i mog<lb/>
+<name type="person" ref="per:97935">Sebastian</name>" ist ursteirisch, das Leiberl geht weg wie warme Semmeln<lb/>
+und jetzt zum Unterschied von früher ist <name type="person" ref="per:97668">Kreisky</name> sehr optimistisch.<lb/>
+Die Personenkonfrontation <name type="person" ref="per:113131">Niederl</name>, der eben nicht kleiner ist, und<lb/>
+<name type="person" ref="per:97935">Sebastian</name> läuft gut, wenn jetzt tatsächlich den Grazer Wählern<lb/>
+die Reue kommt und sie dies in einer anderen Stimmabgabe zum Ausdruck<lb/>
+<pb n="22-1125" facs="22_1974-09-23_1125.jpg"/>werden, müsse die steirische Wahl gut ausgehen. Er will keine<lb/>
+Prognose machen, doch wäre dies bei einem Halten das Mandats<lb break="no"/>standes ein sehr <choice><choice><sic>gehter</sic><corr>guter?</corr></choice></choice> Erfolg. Wenn ich bedenke, wie negativ<lb/>
+vor einiger Zeit noch alle über die steirischen Wahlen gesprochen<lb/>
+haben, kann ich mich nur über den Wandel wundern. Ich bin sehr<lb/>
+begierig nächstes Wochenende, wo ich in der Steiermark einge<lb break="no"/>setzt werde, zu erfahren, ob es tatsächlich eine solche positive<lb/>
+Wahlkampfstimmung gibt.</p><p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> berichtet über den Hörer- und Seherbeirat, wo die Arbeits<lb break="no"/>weise den typischen Proporzlösungen entspricht. <name type="person" ref="per:97668">Kreisky</name> glaubt<lb/>
+aber trotzdem, dass es im Kuratorium zu der gewünschten Bestellung<lb/>
+von <name type="person" ref="per:114975">Oberhammer</name> als Generalintendant kommt. Was die einzelnen Inten<lb break="no"/>danten und die personelle Besetzung betrifft, so versuchen die Be<lb break="no"/>triebsräte jetzt ihre Vorstellungen mit Gewalt durchzusetzen. Wenn<lb/>
+sich die Betriebsräte durch eine Betriebsrätekonferenz so binden<lb/>
+lassen, daß in Wirklichkeit dann unfähige, aber für sie zweckmässige<lb/>
+Direktoren bestellt werden sollten, dann wird <name type="person" ref="per:97668">Kreisky</name> mit den Par<lb break="no"/>teienverhandlungen beginnen. Als <choice><choice><sic>Eigentumvertreter</sic><corr>Eigentümervetrreter</corr></choice></choice> hat er dazu alle<lb/>
+Möglichkeiten und möchte unter allen Umständen verhindern, daß<lb/>
+die Betriebsräte Kraft ihrer entscheidenden Mandate im Kuratorium<lb/>
+Politik machen können, die den ORF die größten Schwierigkeiten<lb/>
+durch Fehlbesetzungen bringen würde. <name type="person" ref="per:97668">Kreisky</name> meinte, hier hätten<lb/>
+die Betriebsräte in der Verstaatlichten Industrie ein viel besseres<lb/>
+Verständnis für alle Belange die diese betreffen.</p><p xml:space="preserve">Landeshauptmann <name type="person" ref="per:113131">Niederl</name> hat jetzt ein Förderungsprogramm an die<lb/>
+Regierung geschickt, das alle Minister das betrifft.</p><p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:97377">BUKOWSKI</name>: Das Programm ist angeblich schon unter<lb break="no"/>wegs zu uns, bitte sofort verlangen, da ich es für die Messeer<lb break="no"/>öffnung in Graz sehr dringend brauche.</p><p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> erwähnte auch in einem Brief betreffend die personelle Umge<lb break="no"/>staltung in der Elektrizitätswirtschaft und meinte, diese würde<lb/>
+wahrscheinlich durchgeführt. Ich verwies darauf, daß ich, wie er<lb/>
+ja bemerkte, bei den Empfang für den iranischen Ministerpräsidenten<lb/>
+neben <name type="person" ref="per:97917">Schleinzer</name> zu sitzen kam und deshalb mit ihm noch einmal das<lb/>
+Problem durchgesprochen habe. Wenn die ÖVP aber nach wie vor auf<lb/>
+ihrem Standpunkt beharrt und sich gegen die, wie ich meine, sach<lb break="no"/>lich richtige Entscheidung von mir wenden wird, dann beginne<lb/>
+ich den Kampf, werde auf alle Fälle das von mir geschilderte<lb/>
+Konzept wie im Brief festgehalten, durchziehen.</p><pb n="22-1126" facs="22_1974-09-23_1126.jpg"/><p xml:space="preserve"><name type="person" ref="per:113083">Sinowatz</name> berichtet auf eine kritische Bemerkung <name type="person" ref="per:97668">Kreiskys</name><lb/>
+wegen der Schulbuchaktion, dass er im nächsten Jahr 100 Mill. S<lb/>
+<choice><choice><sic>Ersparung</sic><corr>Einsparung, Ersparnis</corr></choice></choice> vor hat, indem er ein neues System ausarbeitet.<lb/>
+Die Lehrer selbst wollen jetzt unter allen Umständen für jeden<lb/>
+Gegenstand Lehrbücher, so z.B. eines für Turnen, etliche für<lb/>
+Singen und auch für Religion, sodass sich der heurige Aufwand,<lb/>
+wie <name type="person" ref="per:113083">Sinowatz</name> mir dann vertraulich mitteilt, auf 740 Mill. stel<lb break="no"/>len wird. Der Vorschlag <name type="person" ref="per:97917">Schleinzers</name> wird allerdings nach Ansicht<lb/>
+<name type="person" ref="per:113083">Sinowatz</name> weitere 500 Mill. S kosten. Mein Hinweis, dass man<lb/>
+doch auf Arbeitsbücher umsteigen sollte und müsste, beantwortet<lb/>
+<name type="person" ref="per:113083">Sinowatz</name>, dass für die Pflichtschulen bereits die Arbeitsbücher<lb/>
+eingeführt werden.</p><p xml:space="preserve">Das Spitzbuben-Programm war im ersten Teil katastrophal schlecht.<lb/>
+Nicht, dass ich sehr prüde bin, aber so primitive Erotik hatte<lb/>
+ich schon lange nicht gehört. Ich muss sogar zugeben, dass ich<lb/>
+das überhaupt zum ersten Mal in meinem Leben gehört habe.<lb/>
+Politische Satire kam überhaupt zu kurz, war ausgesprochen<lb/>
+primitiv, sodass mir schon leid getan hat, dass ich überhaupt<lb/>
+hingegangen bin. Erst nach der Pause im zweiten Teil besserte sich<lb/>
+die Schau, insbesondere fast als nostalgische Welle gute Kabaret<lb break="no"/>tisten wie <name type="person" ref="per:120391">Qualtinger</name>, gute Sänger wie <name type="person" ref="per:148729">Horst Winter</name>, von den<lb/>
+neuen Spitzbuben imitiert werden. Ich habe sowohl Komm.Rat<lb/>
+<name type="person" ref="per:117119">Klein</name> als auch einigen Aufführenden, die mich fragten, vorbe<lb break="no"/>haltlos meine Meinung gesagt. Die einzige Einschränkung,<lb/>
+die ich machte, war, dass ich ihr Publikum nicht kenne und des<lb break="no"/>halb vielleicht meine Kritik nicht zutreffend ist. Ich glaube<lb/>
+aber wirklich, dass man wenn man Gelegenheit hat, auch dann<lb/>
+wenn man ein Gast ist, die Darbietungen nur bis zu einer gewissen<lb/>
+Grenze widerspruchslos zur Kenntnis nehmen soll.</p><p xml:space="preserve"><name type="person" ref="per:97525">Häuser</name> ist in Genf, weshalb ich über Swarovski-Kurzarbeit<lb/>
+mit ihm nicht reden konnte. Mit <name type="person" ref="per:108224">Lütgendorf</name> wegen der Laser-<lb/>
+Strahlen habe ich gesprochen und er versicherte mir, er wird<lb/>
+die 12 Kürassier-Panzer mit Swarovski-Optik ausstatten, damit<lb/>
+man in Konkurrenz gegen die französische Zieleinrichtung fest<lb break="no"/>stellt, welche sich besser bewährt. Da es der Firma Swarovski jetzt<lb/>
+schon zu sagen, beabsichtigt er sowieso für die österr. Panzer,<lb/>
+die allerdings nur ein paar Dutzend betragen, die österreichische<lb/>
+Optik zu verwenden. Die Panzer, die aber nach Frankreich exportiert<lb/>
+<pb n="22-1127" facs="22_1974-09-23_1127.jpg"/>werden, muss er auf alle Fälle mit der französischen Optik aus<lb break="no"/>statten.</p><p xml:space="preserve"><name type="person" ref="per:110923">Lanc</name> ersuchte ich beim Rückstrahlerprogramm auf Swarovski Rück<lb break="no"/>sicht zu nehmen. <name type="person" ref="per:110923">Lanc</name> erklärte aber, ich glaube zuerst, dass der<lb/>
+PR-Mann und scheinbarer Verhandlungspartner von Swarovski mit ihm<lb/>
+der ehemalige Redakteur <name type="person" ref="per:120841">Neier</name> von der Tiroler Tageszeitung,<lb/>
+<choice><choice><sic>Schwadran,</sic><corr>Schwadron???</corr></choice></choice> wie er ihn bezeichnet, noch immer nicht die entwicklungs<lb break="no"/>fähigen Prototypen vorgelegt hat.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97377">BUKOWSKI</name>: Bitte mit <name type="person" ref="per:97493">Gröger</name> eine Zwischenerledigung,<lb/>
+d.h. Brief für Swarovski vorbereiten.</p></div>
+      </body>
+      <back>
+         <pb n="22_1119_01" facs="22_1974-09-23_1119-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 23.9.1974</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="22_1119_02" facs="22_1974-09-23_1119-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+   </text>
+</TEI>

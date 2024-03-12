@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Donnerstag, der  3. Februar 1977</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band34_1977-02-03</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1977-02-03">Donnerstag, 3. Februar 1977</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-02-26">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="34-0121" facs="34_1977-02-03_0121.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Donnerstag 3. Feber 1977<lb/>
+</p>
+            <p xml:space="preserve">Im Parlament hat beim Rechnungshofbericht 75 der Abg. <name type="person" ref="per:112162">Neumann</name><lb/>
+mich hart attackiert, weil die Mittel für die Kohlenförderung die<lb/>
+Ansätze unzulänglich sind. Wir brauchen normaler Weise ungefähr den<lb/>
+vierfachen Betrag. <name type="person" ref="per:97311">Androsch</name> war bis jetzt nicht dazu zu bewegen, um<lb/>
+sein Budget nicht zu sehr aufzudrehen mehr einzusetzen.<lb/>
+Natürlich kritisieren die oppositionellen Abgeordneten diese Tatsache<lb/>
+weil sie sonst kaum etwas bei mir aussetzen können. Da <name type="person" ref="per:112162">Neumann</name> aber<lb/>
+darüber hinaus stets behauptet, dass wir nichts für die Bergarbeiter<lb/>
+unternehmen, ersuchten mich <name type="person" ref="per:97444">Fischer</name> und <name type="person" ref="per:97803">Pansi</name>, ich sollte unbedingt darauf<lb/>
+antworten. Natürlich entwickelte sich eine ungeheure Polemik und<lb/>
+selbst der sonst mir so gewogene Wirtschaftsbund, Klubobmann <name type="person" ref="per:97487">Graf</name><lb/>
+machte den Zwischenruf, sind sie nicht so demagogisch, das entspricht<lb/>
+nicht ihrem Niveau. <name type="person" ref="per:114610">Kandutsch</name>, der neben mir sass und der sich immer<lb/>
+wieder darüber beschwert, dass die Budgetwahrheit in diesem Punkt<lb/>
+im Handelsministerium verletzt wird, versuchte ich zu erklären, dass<lb/>
+bei der Budgeterstellung der Budgetansatz, da man nicht weiss bei<lb/>
+Stillegungen, welche Leistungen zu erbringen sind, nicht genau festge<lb break="no"/>stellt werden kann. Da wir dem Rechnungshof zugesichert haben diese<lb/>
+Fehlschätzung womöglich zu verbessern ist <name type="person" ref="per:114610">Kandutsch</name> mit unserem Vor<lb break="no"/>schlag einverstanden und gibt sich zufrieden. Das nächste Jahr müssen<lb/>
+wir unbedingt eine bessere oder eine den tatsächlichen Verhältnissen<lb/>
+annähernde Ansatzpost für das Budget 78 einsetzen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97819">PLESCH</name>: Bitte die Verhandlungen mit dem Finanzministerium<lb/>
+sofort aufnehmen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97893">Sallinger</name> hat natürlich, wie ich erwartete, meine Bemerkung zu<lb/>
+Dir. <name type="person" ref="per:145884">Stoss</name>, aber ganz besonders Präsidenten <name type="person" ref="per:97487">Graf</name> – ich bin sehr ent<lb break="no"/>täuscht über ihn – zugetragen bekommen und mich sofort angerufen,<lb/>
+was der Grund dieser Behauptung ist. Ich erwiderte, dass die Handels<lb break="no"/>kammer jetzt mitteilt, der Handelsdelegierte, d.h. der Zugeteilte <name type="person" ref="per:145885">Klade</name><lb/>
+kommt jetzt doch noch Libyen. <name type="person" ref="per:97893">Sallinger</name> stellte sofort richtig, dass<lb/>
+diese Mitteilung überholt ist und nicht stimmt. Im Parlament hatte<lb/>
+er mich bei einem Gespräch mit <name type="person" ref="per:114075">Schmidt</name>, Gewerkschaftsbund, und <name type="person" ref="per:114467">Wehsely</name>,<lb/>
+Arbeiterkammer, gesehen und mich ausdrücklich. Wenn er etwas zusagt,<lb/>
+so könne ich mich darauf verlassen, jetzt sei er enttäuscht, dass<lb/>
+ich dies bezweifle, er könne nichts dafür, wenn <name type="person" ref="per:145885">Klade</name> nicht mitge<lb break="no"/>teilt hat, dass seine Frau Jüdin ist, was ich natürlich sofort erwiderte,<lb/>
+<pb n="34-0122" facs="34_1977-02-03_0122.jpg"/>dazu besteht gar keine Veranlassung, <name type="person" ref="per:145885">Klade</name> hat es mir auch nicht erzählt,<lb/>
+sondern von <name type="person" ref="per:97678">Lacina</name> von der Arbeiterkammer, einem Freund von ihm, erfahren.<lb/>
+<name type="person" ref="per:97893">Sallinger</name> machte noch die Bemerkung, darüber hat es in der Handelskammer<lb/>
+noch eine harte Auseinandersetzung gegeben. <name type="person" ref="per:97474">Gleissner</name> dürfte mit aller<lb/>
+Macht für die Versetzung gewesen sein. Ich bin neugierig, wie es jetzt<lb/>
+mit <name type="person" ref="per:145885">Klade</name> in der Handelskammer weitergehen wird. <name type="person" ref="per:114467">Wehsely</name>, der auch<lb/>
+ein Freund <name type="person" ref="per:145885">Klade's</name> ist, meinte mir gegenüber, es ist abzuwarten, ob<lb/>
+er jetzt besser behandelt wird, weil die Handelskammer weiss, dass<lb/>
+ich mich für ihn einsetze, oder vielleicht gar schlechter.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040"><del>PLESCH</del><corr>WAIS</corr></name>: Bitte mit AK und <name type="person" ref="per:145885">Klade</name> deshalb Kontakt halten.<lb/>
+</p>
+            <p xml:space="preserve">Der Handelsdelegierte der DDR, <name type="person" ref="per:114374">Krüger</name>, überreichte mir wieder das<lb/>
+Routineschreiben, welches jährlich <name type="person" ref="per:97969">Sölle</name>, der Aussenhandelsminister,<lb/>
+mit der Einladung zur Leipziger Messe schickt. Bei dieser Gelegen<lb break="no"/>heit kam er auf die Zollbelastung der Mineralölprodukte, die bis<lb/>
+jetzt ein Zollfreikontingent gehabt haben, zu sprechen. Darauf ent<lb break="no"/>wickelte sich dann eine Diskussion über die generelle Zollwünsche<lb/>
+der DDR, ja überhaupt der Oststaaten. <name type="person" ref="per:114374">Krüger</name> meinte, sie würden nicht<lb/>
+aussteigen aus dem Österreichmarkt, trotzdem mit Juli eine weitere<lb/>
+Zollsenkung in der EG zu tragen kommt und die DDR Waren dadurch dis<lb break="no"/>kriminiert werden. Ich verwies darauf, dass wir nicht die Staatshandels<lb break="no"/>länder in Kategorien teilen und der UdSSR spezifische Zugeständnisse<lb/>
+machen, sondern wie <name type="person" ref="per:114374">Krüger</name> selbst zugab, wenn wir eine Lösung finden<lb/>
+dies für alle Staaten gilt. Als typische Beispiel der Senkung des<lb/>
+Autozolls, eine generelle Regelung der Zollproblematik erklärte ich,<lb/>
+käme für uns nicht in Frage. Zum Glück war ich durch eine aufge<lb break="no"/>schnappte Bemerkung von einer anderen Besprechung über die Absicht der<lb/>
+Energiesektion informiert, die Mineralölzollkontingente heuer nicht<lb/>
+wirksam werden zu lassen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte einen genauen Bericht über die Produktion<lb/>
+und Einfuhrziffern 76, sowie die Zollbefreiung vorlegen lassen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:114374">Krüger</name> teilte auch im Auftrag <name type="person" ref="per:97969">Sölle</name> mit, dass mein Ausreiseansuchen für<lb/>
+<name type="person" ref="per:145895">Lakitsch</name> am 13.11. positiv erledigt wurde, wie ich Staatssekretär<lb/>
+<name type="person" ref="per:97343">Beil</name> bei seinem letzten Aufenthalt ersuchte.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name>: <name type="person" ref="per:145895">Lakitsch</name> hätte uns auch verständigen können.<lb/>
+</p>
+            <pb n="34-0123" facs="34_1977-02-03_0123.jpg"/>
+            <p xml:space="preserve">Der Obmann der Fleischindustrie <name type="person" ref="per:126917">Freudenschuss</name>, Sekr. <name type="person" ref="per:145896">Wibiral</name> und<lb/>
+Sekt.Rat <name type="person" ref="per:114799">Raaber</name> besprachen den Wunsch der Fleischindustrie bei der<lb/>
+italienischen Herkunftsbezeichnung wegen Salami und Parma-Schinken<lb/>
+eine Änderung in der nächsten Gemischten Kommission zu besprechen.<lb/>
+Die Ursprungsbezeichnung-Verordnung aus dem Jahre 1969, welche erst<lb/>
+1972 ratifiziert wurde, hat zwar eine umfangreiche Liste, aber<lb/>
+interessanter Weise eine gewisse Schädigung der Fleischindustrie.<lb/>
+<name type="person" ref="per:145896">Wibiral</name> behauptet, dass damals dem Verlangen der Handelskammer nicht<lb/>
+Rechnung getragen wurde. Jetzt haben sie mit Dr. <name type="person" ref="per:137912">Gall</name> vom Patentamt<lb/>
+darüber gesprochen und sind über seine Aufgeschlossenheit sehr erfreut.<lb/>
+Scheinbar hat also 1969 Min.Rat <name type="person" ref="per:97524">Hauffe</name> ihrem Verlangen nicht Rechnung<lb/>
+getragen. Die Entscheidung von mir, dass diese Ursprungsbezeichnungs<lb break="no"/>kompetenz wieder von <name type="person" ref="per:97524">Hauffe</name>, der sich dies unter <name type="person" ref="per:97749">Mitterer</name> – wie man<lb/>
+Wienerisch sagt "unter dem Nagel gerissen hat" – wieder an das Patent<lb break="no"/>amt zurückzugeben, wird begrüsst. Mir ist vollkommen unerklärlich, dass<lb/>
+man die berechtigten Interessen der Fleischindustrie damals scheinbar<lb/>
+nicht beachtet hat.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name> UND <name type="person" ref="per:98040">WAIS</name>: Bitte von <name type="person" ref="per:137912">Gall</name> feststellen lassen<lb/>
+warum 1969 der Wunsch der Handelskammer nicht erfüllt wurde.<lb/>
+</p>
+            <p xml:space="preserve">LR <name type="person" ref="per:114529">Klauser</name> erörtert in Anwesenheit von <name type="person" ref="per:107937">Frank</name> den Wunsch der Steirer<lb/>
+wegen der Regelung der Hoch- und Niederdruckkonzessionen für die<lb/>
+Steirische Ferngas und die Gemeinden. Leoben, Kapfenberg, Veitsch und<lb/>
+Graz versorgen jetzt schon mit eigenen Gesellschaften dieses Gebiet.<lb/>
+In Mürzzuschlag, wünscht insbesondere Abg. <name type="person" ref="per:97563">Hofstetter</name>, soll die Gemeinde<lb/>
+eine eigene Konzession bekommen. Das andere Mürztal würde die Ostgas,<lb/>
+eine Neugründung mit 25 % <name type="person" ref="per:145897">Huber</name>, einem ehemaligen Niogas-Angestellten,<lb/>
+und 75 % eine Baugesellschaft als Eigentümer bekommen. Darüber<lb/>
+interessiert sich die Ferngas die eine Hochdruckkonzession jetzt be<lb break="no"/>kommen soll, ebenfalls um die Niederdruckkonzession für ganz Steier<lb break="no"/>mark. Ich selbst habe schon immer erklärt, wir legen vom Handels<lb break="no"/>ministerium grossen Wert darauf, eine einheitliche starke Landesgas<lb break="no"/>gesellschaft zu haben. Natürlich muss jetzt in der Steiermark fest<lb break="no"/>gehalten werden, dass auch die sozialistischen Gemeinden oder noch<lb/>
+besser die sozialistische Regierungsfraktion entsprechenden Einfluss<lb/>
+in dieser neuen Gesellschaft hat. Ich beabsichtige deshalb eine Kon<lb break="no"/>zession nur dann an jemanden zu geben, wenn, wie ja immer von <name type="person" ref="per:113131">Niederl</name><lb/>
+behauptet wird, das steirische Klima auch in diesem Fall dazu führt,<lb/>
+<pb n="34-0124" facs="34_1977-02-03_0124.jpg"/>eine einvernehmliche Lösung der politischen Kräfte und dem Land<lb/>
+und den Gemeinden erreicht wird. <name type="person" ref="per:114529">Klauser</name> ist mit diesem Vorschlag<lb/>
+sehr einverstanden und wird bezüglich der Geschäftsführung und des<lb/>
+Vorstandes Parteienvereinbarungsgespräche führen.<lb/>
+</p>
+            <p xml:space="preserve">Der Abg. <name type="person" ref="per:111741">Sekanina</name>, Metallarbeiterobmann, beschwert sich bei Anwesen<lb break="no"/>heit des Dir. <name type="person" ref="per:133965">Haager</name> von Kapsch, dass diese Firma, wo er gelernt<lb/>
+und jahrelang gearbeitet hat, von der Verbundgesellschaft schlecht<lb/>
+behandelt wird. Kapsch hat für eine Richtfunkanlage sich interessiert<lb/>
+und Dr. <name type="person" ref="per:113017">Berchtold</name><add>[evtl. Falschidentifikation, Anm.]</add>, der zuständige Hauptabteilungsleiter von der Verbund,<lb/>
+ist ihrem Ansuchen sehr negativ gegenüber eingestellt. Ich verspreche<lb/>
+<name type="person" ref="per:111741">Sekanina</name>, ohne dass ich <name type="person" ref="per:133965">Haager</name> erwähnen werde, von der Verbund eine<lb/>
+Information und eine gleichmässige Behandlung<add>[von]</add> Kapsch bei der Verbund<lb/>
+intervenieren werde.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name>: Bitte kläre, ohne <name type="person" ref="per:133965">Haager</name> zu nennen, unter Verweis<lb/>
+der Intervention <name type="person" ref="per:111741">Sekaninas</name>, was die Verbund dazu sagt. <add>Bitte Rückspr. <name type="person" ref="per:114508">Tie</name></add><lb/>
+</p>
+            <p xml:space="preserve">Der Bürgermeister von Bad Gastein, <name type="person" ref="per:145898">Fornather</name>, und der soz. Abg. von St.<lb/>
+Johann im Pongau intervenieren wegen Verlängerung der Stützung<lb/>
+für die Alpenstrasse und Sport-Gastein. Diese waren nach unseren Richt<lb break="no"/>linien mit 5 Jahren begrenzt. Ich erkläre nur, dass ich bereit bin,<lb/>
+mir den Fall anzusehen und mache keine verbindliche Zusage. weil ich<lb/>
+weiss, dass die Verlängerung von Stützungen immer grosse Schwierigkeiten<lb/>
+bringt. Bad-Gastein hat jetzt vom Land 90 Mio. Schilling und von den<lb/>
+Banken 125 Mio. Schilling als neue Kapitalgesellschaft gegründet. Das<lb/>
+Kur- und Kongresszentrum mit Felsenbad, Haus Austria usw. tritt dieser<lb/>
+Gesellschaft ebenfalls bei. Da die so stark verschuldete Gemeinde noch<lb/>
+ein Restdarlehen von 125 Mio hat, ersucht mich der Bürgermeister, dass<lb/>
+die Zinsstützung des Handelsministeriums für einen Teil des Restdarlehens,<lb/>
+welches auf das Handelsministerium entfällt, auch auf die neue Gesell<lb break="no"/>schaft übertragen werden soll.Dies halte ich für zweckmässig und notwen<lb break="no"/>dig. Im Prinzip stehe ich auf dem Standpunkt, dass man selbstverständ<lb break="no"/>lich jetzt der Gemeinde im Zuge dieses Sanierungsvorschlages helfen<lb/>
+muss. Ich werde daher – so versichere ich den beiden – die ganze Ange<lb break="no"/>legenheit in positiven Sinne prüfen lassen und wenn es irgendeine Mög<lb break="no"/>lichkeit gibt, selbstverständlich von Handelsministerium-Seite zu<lb break="no"/>stimmen.<lb/>
+</p>
+            <pb n="34-0125" facs="34_1977-02-03_0125.jpg"/>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:114508">TIEBER</name> UND <name type="person" ref="per:108746">HAFFNER</name>: Bitte von <name type="person" ref="per:111367">Würzl</name> sofort prüfen lassen.<lb/>
+</p>
+            <p xml:space="preserve">In der Vorstandssitzung der Lebensmittelgewerkschaft berichte ich über<lb/>
+die uns besonders betreffenden Verhandlungen über die Mühlenlöhne und<lb/>
+Mühlenpreisfrage für Mehl, die Bäckereiverhandlungen und derzeit lau<lb break="no"/>fenden Brotpreisverhandlungen, die Kodexfragen der Brauindustrie,<lb/>
+alkoholfreie Biereinfuhr, die Fleischerwünsche bezüglich Ursprungs<lb break="no"/>zeugnisse usw. Über die Bäckerverhandlungen ergibt sich dann eine lange<lb/>
+Diskussion. Der Betriebsratsobmann vom Konsum, <name type="person" ref="per:110999">Serini</name>, kritisiert sehr<lb/>
+hart, worüber ich sehr erfreut bin. Er gesteht offen, dass er während<lb/>
+der ganzen Verhandlungen einige Male dachte und es auch aussprach, dass<lb/>
+er mich am liebsten absetzen würde, weil er keine Einigung erwartete.<lb/>
+Auf der anderen Seite schrieb die <choice><choice><sic>Südposter Tageszeitung</sic><corr>Südost-Tagespost?</corr></choice></choice>, ich läge<lb/>
+mit meinem System und der Methode ganz daneben, Kritik also von links<lb/>
+und rechts. <name type="person" ref="per:110999">Serini</name> hat dann aber zugegeben, dass mein System doch er<lb break="no"/>folgreich war. Solch offenes Zugeständnis habe ich von ihm gar nicht er<lb break="no"/>wartet. Unser Kassier, <name type="person" ref="per:120633">Paul Balaz</name>, berichtete von der Internationalen<lb/>
+Union der Lebensmittelarbeiter, der letzte Kongress beschäftigte sich<lb/>
+mit den immer stärker werdenden Multis in unserer Branche. In den Ent<lb break="no"/>wicklungsländern gibt es keine freien Gewerkschaften und die Multis<lb/>
+tragen dort auch nichts dazu bei, eine solche zu entwickeln, ganz im<lb/>
+Gegenteil. Aber auch in den Industrieländern wurde festgestellt, wie<lb/>
+sehr die Multis sich dort antigewerkschaftlich benehmen. Wir können in<lb/>
+Österreich feststellen, dass wir nicht zuletzt, wahrscheinlich durch<lb/>
+den starken Einfluss der Gewerkschaftsbewegung im Wirtschafts- und So<lb break="no"/>zialbereich und durch die sogenannte Wirtschafts- und Sozialpartner<lb break="no"/>schaft diese Gefahr zwar auch haben, aber in der Praxis sehr erfolg<lb break="no"/>reich abwehren können. Auch in diesem Punkt glaube ich, hat sich meine<lb/>
+Politik auch auf lange Sicht bewährt gegenüber auch bei uns früher von<lb/>
+einzelnen angeklungenen oder gewünschten radikalen Kampf gegen die<lb/>
+Multis. Das wirklich erfreulichste aber war, dass <name type="person" ref="per:120633">Balaz</name> von unserer<lb/>
+Statistik berichtete, dass wir seit 1970 erstmalig im vergangenen Jahr<lb/>
+von den tausend neuen Zuwächsen pro Jahr wenigstens am Jahresende einige<lb/>
+hundert Mitglieder halten konnten und dadurch unseren Stand erhöhten.<lb/>
+</p>
+            <p xml:space="preserve">Beim Empfang für den senegalesischen Industrieminister waren nur der General<lb break="no"/>konsul von Österreich mit seiner Frau pünktlich, der Minister und<lb/>
+seine Leute beträchtlich zu spät. In Afrika dürften auch andere Sitten<lb/>
+in dieser Beziehung herrschen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97543">Heindl</name> hat mir ein Offert einer Firma über Strumpfhosen an die Firma<lb/>
+<pb n="34-0126" facs="34_1977-02-03_0126.jpg"/>Schöps geben wollen, welches tief unter den von uns festgesetzten<lb/>
+Mindestpreis liegt. Ich erklärte ihm sofort, er soll dies offiziell<lb/>
+im Handelsministerium deponieren, damit wir jetzt in der Untersuchung<lb/>
+über die Durchstechereien dieser Verordnung konkrete Unterlagen haben.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name>: Wo bleibt der Bericht von <name type="person" ref="per:112973">Hillebrandt</name>.<lb/>
+</p>
+            <p xml:space="preserve">Im Musikvereinssaal hörte ich den russischen Geiger <name type="person" ref="per:145900">Oistrach</name>. Ich<lb/>
+fragte den Generalsekretär, was dieser für den Abend bekommt. Interessan<lb break="no"/>terweise obliegt es den Veranstaltern, die Russen entsprechend zu<lb/>
+drücken. Während westliche Geiger, die auch nicht besser sind als<lb/>
+<name type="person" ref="per:145900">Oistrach</name>, 50 bis 60.000 Schilling pro Abend bekommen, bezahlt man den<lb/>
+Russen nur die Hälfte. Der neue Russen-Manager versucht zwar eine Er<lb break="no"/>höhung für <name type="person" ref="per:145900">Oistrach</name> durchzusetzen, hatte aber bis jetzt keinen Erfolg<lb/>
+in Westeuropa. Mir ist dies nur so erklärlich, dass die Russen Wert<lb/>
+darauf legen mit ihren guten Künstlern auf alle Fälle in Westeuropa<lb/>
+aufzutreten. Früher mag noch dazugekommen sein, dass sie diese Devisen<lb break="no"/>erlöse dringendst brauchten Im Zyklus der Wiener Symphoniker, <choice><choice><sic>die</sic><corr>von denen</corr></choice></choice> ich,<lb/>
+bevor ich Minister wurde, ein Abonnement hatte, sind immer vier gleich<lb break="no"/>lautende Abende. Der erste für das Theater der Jugend, durch die ver<lb break="no"/>billigten Karten für alle erschwinglich, daher aber leider, wie ich selbst<lb/>
+feststellen konnte, nicht ganz voll. Der zweite dann für die Gewerkschaft<lb/>
+und der dritte und vierte dann für normales Abonnement-Publikum. Die<lb/>
+Wiener Symphoniker und vor allem <name type="person" ref="per:145900">Oistrach</name> haben sich nicht ver<lb break="no"/>dient vor einem nicht vollen Saal spielen zu müssen. Am meisten war ich<lb/>
+aber überrascht, als er dann noch eine Draufgabe gab. Die Russen sind<lb/>
+in dieser Beziehung sehr grosszügig.<lb/>
+</p>
+            <p xml:space="preserve">Noch immer ist leider in unserem Büro nicht die notwendig Ruhe und<lb/>
+Zusammenarbeit eingetreten. Kollegin <name type="person" ref="per:145901">Bartkiewicz</name> möchte sich unbedingt<lb/>
+versetzen lassen. Ich werde mich bemühen, wenn sie es wünscht, einen<lb/>
+gleichwertigen Posten für sie im Haus zu finden. Ich appellierte<lb/>
+neuerdings an alle Kollegen um mehr Zusammenarbeit, mehr Teamgeist,<lb/>
+mehr Kollegialität walten zu lassen. Dieser Zustand in unserem Büro<lb/>
+stimmt mich eigentlich sehr traurig. Natürlich ist mir klar – und aus<lb/>
+meiner jahrzehntelangen Arbeitstätigkeit weiss ich auch das von mir<lb/>
+selbst – dass man nicht mit allen Menschen gleich gut befreundet sein<lb/>
+kann. Jeder Mensch hat seine Eigenarten, jeder Mensch hat seine Vor-<lb/>
+und Nachteile. Trotzdem kann ich es mir nicht erklären – und werde es<lb/>
+auch nicht durchlassen – dass es nicht möglich wäre wieder ein Team<lb/>
+zusammenzubringen. Noch hoffe ich, dass meine Appelle wegen kollegialer<lb/>
+<pb n="34-0127" facs="34_1977-02-03_0127.jpg"/>Zusammenarbeit<add>Erfolg haben, es</add> ist nämlich der Einsatz jedes Einzelnen, wenn er<lb/>
+noch so gross und gut ist, nur teilwirksam. Ich habe immer be<lb break="no"/>hauptet und glaube, ich kann das auch beweisen, dass ein jeder seine<lb/>
+Eigenheiten ein bisschen zurückstellen muss um eine vollwirksame<lb/>
+Teamarbeit zu ermöglichen. Ich bitte diesen Appell auch wirklich zu<lb/>
+beachten.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="34_0120_01" facs="34_1977-02-03_0120-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 3.2.1977</head>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittwoch, der 16. September 1970</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band02_1970-09-16</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1970-09-16">Mittwoch, 16. September 1970</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-04-20">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-19" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+  <text xml:base="http://192.168.0.9/staribacher/src/scans/Band02/">
+      <body>
+         <pb n="02-0528" facs="02_1970-09-16_0528.jpg"/>
+         <div type="entry">
+            <dateline>
+               <date when="1970-09-16">Mittwoch, 16. September 1970</date>
+            </dateline>
+            <p xml:space="preserve">In Vorarlberg hat Landtagsabgeordneter <name type="person">Winder</name>, der Sekretär der SPÖ,<lb/>
+eine Angelegenheit aufgegriffen, die grossen Staub aufgewirbelt hat<lb/>
+im wahrsten Sinne des Wortes. Ein Steinbruch versuchte sich dort zu<lb/>
+vergrössern und <name type="person">Winder</name> hat Aufnahmen vorgelegt, wo man sieht, dass<lb/>
+bei Sprengungen die ganze Ortschaft in Staub eingewickelt ist. Der<lb/>
+Bürgermeister hat bisher die Interessen des Steinbruchbesitzers ver<lb break="no"/>treten und deshalb wurde eine Berufung gegen den genehmigten Bescheid<lb/>
+an mein Ministerium eingebracht. Ich werde mir den Fall natürlich genau<lb/>
+ansehen, wobei ich aber immer wieder mehr feststellen muß, es sich jetzt<lb/>
+um Bergbaubetriebe oder Steinbrucharbeiten oder Ölraffinerien handelt,<lb/>
+man kommt in ein furchtbares Dilemma. Einerseits soll man natürlich <lb break="no"/>die wirtschaftlichen Interssen nützen, andererseits muss natürlich<lb/>
+das Interesse der Bevölkerung entsprechend berücksichtigt werden.</p>
+            <p xml:space="preserve">Der Redakteur der Textilzeitung, den ich in Vorarlberg bei meiner Aus<lb break="no"/>sprache mit den Textilunternehmern und der Pressekonferenz kennengelernt<lb/>
+hatte, <name type="person" ref="per:97642">Wise Köhmeier</name>, und sein Freund aus Salzburg, <name type="person">Ruch</name>, kamen, um mir<lb/>
+angeblich zu helfen. Sie erklärten mir, dass die Aussprache in Dornbirn<lb/>
+einen sehr guten Eindruck hinterlassen hatte und wollten mir jetzt er<lb break="no"/>klären. dass sie selbst als Textilnachrichtenblatt die Kaufleute ge<lb break="no"/>fragt hatten und festgestellt, dass die eine Lehrlingsausbildung nur<lb/>
+für Textilkaufleute sehr dringend wünschen würden. Ich war nicht ganz<lb/>
+sicher, wie in dieser Angelegenheit die derzeitige Rechtslage ist und<lb/>
+verlangte deshalb sofort Min.Rat <name type="person" ref="per:111722">Kinscher</name>. Bei dieser Gelegenheit konnte<lb/>
+ich feststellen, dass er meine Meinung teilte. Eine Spezialisierung der<lb/>
+Ausbildung – so sehr sie im schulischen zweckmässig und notwendig ist –<lb/>
+in der Lehrlingsausbildung aber würde zu einem Nachteil für die Betreffen<lb break="no"/>den führen. Bis jetzt war es so, dass es nur einen kaufmännischen Lehrling<lb/>
+gegeben hat, derzeit wird auf Grund der neue Lehrberufsliste sowieso<lb/>
+vorgesehen, dass es Grosskaufmann-Lehrlinge, Kleinkaufmann-Lehrlinge,<lb/>
+Bürokaufmann-Lehrlinge, Industriekaufmanns-Lehrlinge gibt. Eine weitere<lb/>
+Spezialisierung würde nur dazu führen, dass die Mobilität der Arbeits<lb break="no"/>kräfte leiden würde, weil eben für jede Sparte nur gewisse Ausbildungen<lb/>
+vorhanden wären. Bezüglich der schulischen Ausbildung in der Berufsschule<lb/>
+wo die Redakteure daran hinwiesen, dass z.B. in Ried ausschliesslich Textil<lb/>
+kaufleute herangezogen werden, ressortiert dies ausschliesslich beim Unter<lb break="no"/>richtsministerium.</p>
+            <pb n="02-0529" facs="02_1970-09-16_0529.jpg"/>
+            <p xml:space="preserve">Anschliessend hatte ich mit <name type="person" ref="per:111722">Kinscher</name> eine Aussprache über den<lb/>
+neuen Plan des Finanzministers und der soz. Regierung, die Familien<lb break="no"/>lasten Ausgleichsfonds zu teilen und den Zuwachs nicht ausschliess<lb break="no"/>lich zur Erhöhung der Beihilfen zu verwenden, sondern allgemeine<lb/>
+Massnahmen wie z.B. Kindergärten und Stipendien für Obermittelschüler,<lb/>
+Spitäler für Kinder usw. zu verwenden. <name type="person" ref="per:111722">Kinscher</name>, der im katholischen<lb/>
+Familienverband eine führende Rolle spielt, erklärte mir nur seine<lb/>
+persönliche Meinung mitteilen zu können und lehnte eine solche<lb/>
+Teilung ab. Er glaubt, dass es zwar unzweckmässig ist und er verwirft<lb/>
+den Vorschlag von <name type="person" ref="per:97641">Kohlmaier</name>, die Beihilfe um 50.- S generell zu<lb/>
+erhöhen, sonderner möchte eine Staffelung nach Alter, wobei<lb/>
+allerdings die 1 oder 2 Kinder ausgenommen werden sollten. Unsere<lb/>
+neue Idee wird deshalb – fürchte ich – auf sehr grossen Widerstand<lb/>
+stossen. Die katholischen Verbände werde also gegen die soz. Re<lb break="no"/>gierung genauso polemisieren wie gegen die ÖVP-Regierung Stellung<lb/>
+genommen hatten, als diese Mitteln dem Familienlastenausgleichsfonds vo<lb/>
+vorbehalten hat. Mit Freude hat er zur Kenntnis genommen, dass wir<lb/>
+dies nicht getan haben, mit dem Aufteilungsschlüssel aber war er<lb/>
+nicht einverstanden.</p>
+            <p xml:space="preserve">Im Pressezentrum hatte ich die Pressekonferenz, wo ich die Fremden<lb break="no"/>verkehrskonzepte erörterte. Wir gingen einmal in dieses Pressezentrum<lb/>
+da die Journalisten dort bei der Eröffnung alle anwesend waren und<lb/>
+wir anschliessend eben sofort unsere Pressekonferenz machen konnten.<lb/>
+Es waren deshalb verhältnismässig sehr viele Journalisten anwesend.<lb/>
+Das Fernsehen war nicht anwesend und ich muss bekennen, dass es<lb/>
+vielleicht wirklich meine Schuld gewesen ist. <name type="person" ref="per:139833">Weis</name> vom Fernsehen<lb/>
+hat mich den Tag vorher gefragt, was ich in der Pressekonferenz<lb/>
+sagen würde und ich bagatellisierte, indem ich erklärte, nur das<lb/>
+Fremdenverkehrskonzenpt wird entwickelt werden und sonst stehe ich<lb/>
+also auch für alle anderen Fragen zur Verfügung . Dies veranlasste<lb/>
+das FErnsehen, das Team unverzüglich vom Pressehaus in das Land<lb break="no"/>wirtschaftsministerium umzudirigieren, da dort eine Salzburger<lb/>
+Frauendelegationen mit Bäuerinnen beim Landwirtschaftsminister ein<lb/>
+Sit-in veranstaltet. Die Berichterstattung der SK beinhaltet einige<lb/>
+kleinere Fehler, z.B. behauptet sie, dass ich bereits den Beirat<lb/>
+einberufen habe, was ja wirklich nicht stimmt, sondern ich beabsicht<lb break="no"/>ige nur, in den Beirat die Ländervertreter aufzunehmen. Aber die<lb/>
+erste Besprechung, die wir geführt haben, war nicht die Beirats<lb break="no"/><pb n="02-0530" facs="02_1970-09-16_0530.jpg"/>besprechung. Und zweitens sagt die SK, dass ich bereits mit den<lb/>
+LandesFlNANZreferenten gesprochen habe, dies trifft abernur für<lb/>
+einige sozialistische Funktionäre in den Ländern zu.</p>
+            <p xml:space="preserve"><name type="person" ref="per:97915">Schipper</name> hat mir die Unterlagen für die Weihnachtsgratifikationen<lb/>
+gegeben und <name type="person" ref="per:97543">Heindl</name> ist der Meinung, man müsste sich diese sehr<lb/>
+genau ansehen. Und vor allem nicht nur die Präsidienzahlen sondern<lb/>
+auch die der Sektionen gemeinsam überprüfen. <name type="person" ref="per:97915">Schipper</name> wollte aller<lb break="no"/>dings so schnell wie möglich meine Entscheidung herbeiführen. Ich<lb/>
+sagte ihm, er müsste doch auch noch mit <name type="person" ref="per:97755">Moser</name> über dieses Problem<lb/>
+reden. Bei dieser Gelegenheit teilte er mir auch mit, dass er nächste<lb/>
+Woche Verhandlungen führen muss über die Dienstposten für das nächste<lb/>
+Jahr, da bekanntlicherweise Sektionschef <name type="person">Habel</name> in Pension gehen könnte<lb/>
+der eine Neunerposten, der als Personalreserve besetzt ist, gestrichen<lb/>
+werden. Ich stellte fest, dass ich dies unter gar keinen Umständen<lb/>
+hinnehmen werde, aber derzeit noch immer nicht sagen könnte, wie dieser<lb/>
+Posten besetzt werden soll. Den Vorschlag von <name type="person" ref="per:97769">Mussil</name>, dass <name type="person" ref="per:97524">Hauffe</name><lb/>
+diesen Posten kriegen könnte, lehnte selbst <name type="person" ref="per:97915">Schipper</name> ab, da dieser<lb/>
+erst ganz kurze Zeit Ministerialrat ist. Er selbst schlug <name type="person">Wohlgemuth</name><lb/>
+vor, der allerdings nur mehr ein Jahr in Funktion bleiben würde. Ich<lb/>
+hatte zu diesem Vorschlag mich überhaupt nicht geäussert.</p>
+            <p xml:space="preserve">Generalsekretär <name type="person" ref="per:97769">Mussil</name> hatte mit mir eine Vorbesprechung vereinbart<lb/>
+wegen der Paritätischen Kommission, konnte dann diese allerdings nicht<lb/>
+einhalten, weil er bei anderen Sitzungen aufgehalten wurde. Ich benützte<lb/>
+deshalb die kurze Zeit, die uns zur Verfügung stand, um ihn darauf hinzu<lb/>
+weisen, dass ich neuerdings in der Pressekonferenz angesprochen wurde,<lb/>
+was ich mit der Aussenhandelsstelle beabsichtigte. Ich versicherte,<lb/>
+dass ich überhaupt nicht die Absicht hätte, diese sehr zweckmässige<lb/>
+Organisation einzuschränken oder gar aufzulösen, sondern ganz im<lb/>
+Gegenteil, mich ihrer zu bedienen. Ich wies darauf hin, dass z.B.<lb/>
+ein direkter Kontakt zwischen Ministerium und Aussenstellen sehr<lb/>
+notwendig wäre. Eine solche Information musste ich ihm geben, da<lb/>
+bekanntlicherweise <name type="person" ref="per:97469">Gehart</name> ein Schreiben an die Aussenhandelsstellen<lb/>
+um Material gerichtet hat. <name type="person" ref="per:97769">Mussil</name> sagte, dies würde Kriegsfall be<lb break="no"/>deuten, wenn wir direkten Kontakt mit den Aussenhandelsstellen woltten,<lb/>
+er selbst versicherte, wir würden alles Material über die Bundes<lb break="no"/>kammer sofort zur Verfügung kriegen und ich erwiderte, dies müsste<lb/>
+ich mir doch noch im einzelnen überlegen. Bei dieser Gelegenheit<lb/>
+<pb n="02-0531" facs="02_1970-09-16_0531.jpg"/>sagte ich ihm auch, wie unzufrieden ich mit der ersten Besprechung<lb/>
+gewesen bin, er selbst war ja nicht anwesend, wo das gesamte Präsidium<lb/>
+mich empfangen hat und ich dann einen Bericht bekommen habe, was in<lb/>
+den einzelnen Ländern vorgeht, an stelle dass ich bei dieser Arbeits<lb break="no"/>sitzung wirklich über die Probleme mit den Aussenhandelsstellenleitern<lb/>
+frei diskutieren könnte. <name type="person" ref="per:97769">Mussil</name> teilte mir auch mit, dass innerhalb<lb/>
+der ÖVP die Beiratssache durch die Formulierung des Bauernrates von<lb/>
+<name type="person" ref="per:98055">Weihs</name> auf ungeheurenWiderstand jetzt stosst und er grösstenWert darauf<lb/>
+legen würde, wenn wir unsere Beiratsaktivität zurückstellenkönnten.<lb/>
+Ich selbst erklärte, dass dies bezüglich des Fremdenverkehrsbeirates<lb/>
+und des Konsumentenrates unmöglich sei, daß ich aber bezüglich des<lb/>
+Aussenhandelsrates einige Zeit verstreichen lassen würde.</p>
+            <p xml:space="preserve">In der Paritätischen Kommission beschwerte sich <name type="person" ref="per:97769">Mussil</name> einleitend, dass<lb/>
+in der SPÖ-Belangsendung – ich habe sie tatsächlich gehört – er als<lb/>
+Preistreiber hingestellt wird und nie eigentlich gesagt wird, dass<lb/>
+er auch die Lohnanträge stellt und er diese Funktion ja von der<lb/>
+Paritätischen Kommission übertragen bekommen hat. Bekanntlich hat<lb/>
+er bei der ersten Sitzung dieses Mandat, das ja jahrzehntelang die<lb/>
+Bundeskammer hat, zur Verfügung gestellt, war aber aufgefordert werden,<lb/>
+das auch in Zukunft beizubehalten. <name type="person" ref="per:97346">Benya</name> schloss sich dieser Meinung,<lb/>
+an und meinte, man sollte die Paritätische Kommission aus dem Streit<lb/>
+heraus lassen. <name type="person" ref="per:97668">Kreisky</name> erwiderte, dass auch er der Meinung ist, die<lb/>
+Paritätitsche Kommission aus wahlpolitischen Auseinandersetzungen heraus<lb break="no"/>zuhalten und er wird diesbezüglich Einfluss nehmen, soweit ihm dies<lb/>
+möglich ist. Präsident <name type="person" ref="per:97691">Lehner</name> stellte die Frage an <name type="person" ref="per:98055">Weihs</name>, ob er mit<lb/>
+dem Bauernrat Interessenvertretungen ausschalten wollte, was <name type="person" ref="per:98055">Weihs</name><lb/>
+die Gelegenheit gab, darauf hinzuweisen, dass sein Verhandlungs- und<lb/>
+Gesprächspartner die Präsidentenkonferenz ist und bleiben wird.<lb/>
+Die Tagesordnung war vefhältnismässig uninteressant, es wurden nur bei<lb/>
+der Preiserhöhung von Tenn und Ata von Persil und der Firma Blendax<lb/>
+die bereits Erhöhungen vorgenommen hatten ohne Genehmigung der PK<lb/>
+das Problem vom Rundfunk wieder auf die Tagesordnung gesetzt.<lb/>
+<name type="person" ref="per:122974">Altenburger</name> wies darauf hin, man sollte diese Vorgangsweise sich nicht<lb/>
+gefallen lassen, dass Firmen Preiserhöhung vornehmen, ohne dass sie<lb/>
+die PK beschäftigt hatten. Insbesondere bei Persil, wo die Reklamekosten<lb/>
+die <name type="person" ref="per:122974">Altenburger</name> sei eh und je stören, ein Grund der Erhöhung waren,<lb/>
+brachte er den ORF ins Gespräch. Dies nützte <name type="person" ref="per:97668">Kreisky</name>, um darauf hinzu<lb break="no"/>weisen, dass er erstens glaube, man sollte jetzt unverzüglich um die<lb/>
+neuen Werbekosten mit 1. Oktober nicht in Kraft treten zu lassen,<lb/>
+<pb n="02-0532" facs="02_1970-09-16_0532.jpg"/>den Innenminister auffordern, § 3 a) zur Anwendung bringen zu<lb/>
+können, und zweitens die Gesellschafter des Rundfunks auffordern,<lb/>
+nach dem Rechten zu sehen. <name type="person" ref="per:97769">Mussil</name> lehnte Punkt 1 ganz kategorisch<lb/>
+ab und bei Punkt 2 meinte er, die Handelskammer müsste sich dies<lb/>
+überlegen. <name type="person" ref="per:97668">Kreisky</name>, der der Gesellschafter ist, erklärte darauf,<lb/>
+dass er so lange eine Generalversammlung nicht einberufen werde,<lb/>
+solange nicht der im Gesetz vorgesehen Wirtschaftlichkeitsbericht<lb/>
+vonSeite des Generalindentanten vorgelegt wird. Anschliessend an<lb/>
+eine Versammlung, die wir beide im dritten Bezirk abends hattenm<lb/>
+sagt mir <name type="person" ref="per:97668">Kreisky</name>, er hoffe oder erwarte, dass diese Mitteilung<lb/>
+jetzt <name type="person" ref="per:97326">Bacher</name> zur Kenntnis kommt, und er daher weiss, er muss einen<lb/>
+diesbezüglichen Wirtschaftlichkeitsbericht legen, der nach Auffassung<lb/>
+<name type="person" ref="per:97668">Kreiskys</name> für ihn verheerend sein müsste.</p>
+         </div>
+      </body>
+      <back>
+         <pb n="02_0527_04" facs="02_1970-09-16_0527-04.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 16.9.1970</head>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+  </text>
+</TEI>

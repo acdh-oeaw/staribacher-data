@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Montag, der 17. März 1975</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band25_1975-03-17</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1975-03-17">Montag, 17. März 1975</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-11-21">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="25-0341" facs="25_1975-03-17_0341.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Montag, 17. März 1975<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97333">Bandhauer</name>, Verbund, ruft an und teilt mir mit, dass Direktor <name type="person" ref="per:113016">Peter</name><lb/>
+von den Illwerken vorschlägt, bei der nächsten Zusammenkunft<lb/>
+zwischen <name type="person" ref="per:97333">Bandhauer</name> in Vorarlberg mit ihm auch mit <name type="person" ref="per:116913">Mandl</name> das Ill<lb break="no"/>werk-Vertragsproblem zu verhandeln. <name type="person" ref="per:97333">Bandhauer</name> möchte wissen, ob<lb/>
+ich damit einverstanden bin. Ich gebe nicht nur die Zustimmung<lb/>
+sondern verlange von <name type="person" ref="per:97333">Bandhauer</name>, dass man so schnell wie möglich die<lb/>
+grössere Kelag-Beteiligung bei der ÖDK 49 % als auch die Abtretung<lb/>
+von Aktien der Illwerke an das Land lösen soll. Gleichzeitig mache<lb/>
+ich <name type="person" ref="per:97333">Bandhauer</name> darauf aufmerksam, dass ich in Hinkunft Jour fixe<lb/>
+mit dem gesamten Vorstand der Verbundgesellschaft möchte, um den<lb/>
+gesamten Vorstand bezüglich der Elektrizitätspolitik zu binden.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97469">GEHART</name>: Bitte mit <name type="person" ref="per:107937">Frank</name> erste Tagesordnung dieses<lb/>
+Jour fixe zusammenstellen.<lb/>
+</p>
+            <p xml:space="preserve">Beim Jour fixe mit <name type="person" ref="per:97769">Mussil</name>, <name type="person" ref="per:97893">Sallinger</name> ist wegen seines Fusses in<lb/>
+Spitalsbehandlung, teile ich ihm die Preisforderung der Landwirtschaft,<lb/>
+70 Groschen bei der Milch und 50 Groschen bei Weizen mit. Da die<lb/>
+Landwirtschaft – <name type="person" ref="per:113056">Bierbaum</name> – immer wieder behauptet, die Getreide<lb break="no"/>preiserhöhung koste fast nichts, nicht einmal einen Groschen bei<lb/>
+der Semmel, werde ich vorschlagen, im Anhängeverfahren, wenn es<lb/>
+überhaupt zu einer Preiserhöhung kommt, die Agrarpreiserhöhung am Ver<lb break="no"/>braucherpreis zuzuschlagen. Ich habe wegen der Milch auch diesbezüg<lb break="no"/>lich bereits den Obmänner des Milchwirtschaftsfonds und des Getrei<lb break="no"/>defonds bei der Messe-Eröffnung eine Andeutung gemacht. <name type="person" ref="per:97769">Mussil</name><lb/>
+lehnt dies ganz entschieden ab und verlangt selbstverständlich<lb/>
+eine Spannenerhöhung zumindestens in perzentuellem Ausmass wie sie<lb/>
+bis jetzt gewährt wurde. Ich muss versuchen, die Forderung der<lb/>
+radikaleren Agrarvertreter, <name type="person" ref="per:113056">Bierbaum</name> usw., in den Verarbeitungs<lb break="no"/>betrieben und insbesondere der Handelskammer isoliert zu verhandeln.<lb/>
+Oberrat <name type="person" ref="per:111737">Marsch</name> habe ich ersucht, er soll jetzt die Kalkulationen<lb/>
+nach unserem Schema überprüfen. Damit werden wir wieder in einen<lb/>
+Schemastreit kommen, doch gewinnt man damit nicht nur Zeit sondern<lb/>
+es ist überhaupt die einzige Methode glaube ich, um die 70 gr<lb/>
+einigermassen begründet widerlegen zu können.<lb/>
+</p>
+            <pb n="25-0342" facs="25_1975-03-17_0342.jpg"/>
+            <p xml:space="preserve"><name type="person" ref="per:97769">Mussil</name> hat den Vertrag des Handelsministeriums mit dem Verein<lb/>
+für Konsumenteninformation jetzt vorliegen und meinte, er hätte<lb/>
+niemals zugestimmt, dass das Handelsministerium ordentliches Mitglied<lb/>
+wird. Ich erörtere ihm, dass er dies sehr wohl tat, dass nur die<lb/>
+Frage war, ob Wien allein beitreten könnte oder nicht auch die ande<lb break="no"/>ren Länder. Diese zweite Etappe wird jetzt erst im Detail verhandelt.<lb/>
+Ich selbst müsste aber darauf bestehen, ordentliches Mitglied zu<lb/>
+sein, damit wir die entsprechenden Geldmittel bereitstellen können.<lb/>
+Ich versichere ihm neuerdings, dass ich nicht die Absicht habe, in<lb/>
+die Geschäfte des VKI einzugreifen. <name type="person" ref="per:97769">Mussil</name> weiss natürlich nicht,<lb/>
+wie dies einmal mit einem Nachfolger von mir funktionieren wird.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97769">Mussil</name> beginnt auf das Problem wieder mit dem Bäckereiarbeitergesetz<lb/>
+Arbeitszeitverkürzung in Linz und behauptet 35 Bäcker seien davon be<lb break="no"/>troffen. Ich wiederhole, dass es sich nur um 2 handelt und dass man<lb/>
+auch in anderen Fabriken, z.B. in der Ankerbrotfabrik dieses Problem<lb/>
+schon gelöst hat. Gleichzeitig informiere ich ihn, dass es Schwierigkei<lb break="no"/>ten mit Vorarlberger Brauereien gibt. Die Kollegen der Mohrenbrauerei<lb/>
+haben erklärt, wenn die bis jetzt gewährte Überbezahlung jetzt redu<lb break="no"/>ziert werden soll, so müssten sie Kampfmittel bis zum Streik anwenden.<lb/>
+Ich setzte <name type="person" ref="per:97769">Mussil</name> auseinander, dass wir von der Gewerkschaft der LUGA<lb/>
+grössten Wert darauflegen, dass die Unternehmer mit uns die Vereinba<lb break="no"/>rungen über Löhne und Kollektivverträge treffen. Wenn sie freiwillige<lb/>
+Leistungen geben, was uns gar nicht so recht ist, dann müssen sie aber<lb/>
+zur Kenntnis nehmen, dass sie die nicht bei der nächsten generellen<lb/>
+Regelung anrechnen können. Ich habe dies vor Jahren einmal so formu<lb break="no"/>liert, wenn die Unternehmer Weihnachtsmann spielen, dann nicht nur für<lb/>
+kurze Zeit zu Weihnachten sondern eben fürs ganze Jahr. <name type="person" ref="per:97769">Mussil</name> gibt<lb/>
+zu, dass unsere Taktik verständlich ist, er hofft nur, dass es zu<lb/>
+einer einvernehmlichen Regelung kommt. Dies wünschen auch wir.<lb/>
+</p>
+            <p xml:space="preserve">Zu dem Rohrleitungsgesetz, teilt <name type="person" ref="per:97769">Mussil</name> mit, hätten sie nun zugestimmt<lb/>
+da Gas herausgenommen wurde. Überhaupt gibt es jetzt innerhalb der ÖVP<lb/>
+grosse Spannungen, weil es dieser Regierung gelingt, alle offenen<lb/>
+Probleme, die früher in der ÖVP unlösbar waren, z.B. Gewerbeordnung<lb/>
+und andere jetzt doch durch Kompromisslösungen zu einem positiven<lb/>
+Ergebnis mit Zustimmung der Handelskammer zu bringen. Nur beim Energie<lb break="no"/>plan meint er, sei der Massnahmenkatalog sehr mager. Er kann aber<lb/>
+nicht bestreiten, dass wir hier entsprechende erste Schritte getan<lb/>
+haben und gerade die Fachverbände der Handelskammer erstmalig sich<lb/>
+<pb n="25-0343" facs="25_1975-03-17_0343.jpg"/>überhaupt über einen Massnahmenkatalog geeinigt haben.<lb/>
+</p>
+            <p xml:space="preserve">Da <name type="person" ref="per:97893">Sallinger</name> nicht anwesend ist, ersuche ich <name type="person" ref="per:97769">Mussil</name>, er möge mit<lb/>
+<name type="person" ref="per:97895">Salzbrunn</name> und anderen Herren darüber reden, wie wir das A als Signet<lb/>
+der Bundeskammer jetzt mit einer grösseren Aktion auch von der<lb/>
+ÖFVW übernehmen können. Wenn schon die ÖFVW auf ihr Signet, das<lb/>
+mir nie gefallen hat, verzichtet, dann sollte man dies doch nicht<lb/>
+still und leise sondern mit einer grösseren Aktion dem In- und Aus<lb break="no"/>land kundtun.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97377">BUKOWSKI</name>: <name type="person" ref="per:111736">Zolles</name> soll sich bitte mit dem Sekretariat<lb/>
+von <name type="person" ref="per:97769">Mussil</name> ins Einvernehmen setzen und mit <name type="person" ref="per:111367">Würzl</name> entsprechende Vor<lb break="no"/>schläge unterbreiten.<lb/>
+</p>
+            <p xml:space="preserve">Beim Journalistenfrühstück berichtete Prof. <name type="person" ref="per:97762">Musil</name> über die Ergebnisse<lb/>
+des Energiesparbeirates und wir legten das ganze Elaborat vor, was<lb/>
+mir aufgefallen ist, dass bei der Wärmekraftkupplung die Müllver<lb break="no"/>brennungsanlage Spittelau hart kritisiert wurde. Zuerst hatte ich<lb/>
+gar nicht angenommen, dass daran auch Wiener Vertreter teilnahmen,<lb/>
+doch konnte ich mich dann aus dem Teilnehmerverzeichnis am Ende<lb/>
+überzeugen, dass diese sehr wohl vertreten waren. Vor der Pressekonfe<lb break="no"/>renz als ich dies mit <name type="person" ref="per:107937">Frank</name> besprach, hat er mir erklärt, dass eben<lb/>
+der seinerzeitige dafür zuständige Senatsrat bei der Gemeinde diesen<lb/>
+Konstruktionsfehler gemacht hat. Ich versuchte ganz unauffällig aus<lb/>
+dieser Energiesparstudie das Problem der Kernkraftwerke und des<lb/>
+angeblichen Differenzen in der Regierung in die Diskussion einzu<lb break="no"/>schmuggeln, doch ist mir nichts gelungen. Niemand von den Redakteuren<lb/>
+hat sich für dieses Problem ja nicht einmal für die gesamte Energie<lb break="no"/>studie besonders interessiert.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Erörterung der Fremdenverkehrsanalyse durch <name type="person" ref="per:116108">Haiden</name>, wo wir<lb/>
+ebenfalls die letzten Prognose vom Wirtschaftsforschungsinstitut,<lb/>
+die eine Zusammenfassung der gesamten Analyse darstellt, den Journa<lb break="no"/>listen gaben, verschwand einer nach dem anderen. Die Erklärung war,<lb/>
+dass <name type="person" ref="per:97311">Androsch</name> das Rechenzentrum um dieselbe Zeit mit einer Presse<lb break="no"/>konferenz eröffnete. <name type="person" ref="per:116108">Haiden</name> hat mir nach der Sitzung mitgeteilt,<lb/>
+dass <name type="person" ref="per:111367">Würzl</name> grosse Bedenken hat, wenn ich am 17. April in Wels bei<lb/>
+dem Freien Wirtschaftsverband diese Studie präsentiere. Er meint,<lb/>
+hier handelt es sich dann um ein parteipolitisches Manöver. Hier irrt<lb/>
+<name type="person" ref="per:111367">Würzl</name>. Was ich von ihm wollte ist, dass so schnell wie möglich auch<lb/>
+<pb n="25-0344" facs="25_1975-03-17_0344.jpg"/>die anderen Arbeitskreise ihre Unterlagen vorlegen, wir dann eine ge<lb break="no"/>meinsame Studie mit der Analyse herausgeben, allen zusenden, auch den<lb/>
+Klubs der Parteien und den Interessensvertretungen und dann jede Partei<lb/>
+natürlich aus dieser Studie oder in Ergänzung dieser Studie ihre<lb/>
+Konsequenzen für die Fremdenverkehrspolitik zeihen kann und entsprechen<lb break="no"/>de Vorschläge machen kann, ja sogar soll. Dass ich dies für die SPÖ<lb/>
+und den Freien Wirtschaftsverband bei der Fremdenverkehrsmesse in Wels<lb/>
+entrieren werde, kann mir niemand vorwerfen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Die Ergänzungsvorschläge müssten dann von Dir in<lb/>
+Wels mit einem FW-Verbändler präsentiert werden.<lb/>
+</p>
+            <p xml:space="preserve">Beim Mittagessen für <name type="person" ref="per:134057">Thorn</name> beim Bundespräsidenten kam <name type="person" ref="per:97668">Kreisky</name> auf das<lb/>
+Problem mit <name type="person" ref="per:97525">Häuser</name> und <name type="person" ref="per:98055">Weihs</name> und mir von Köflach und Voitsberg zu<lb/>
+reden. Da ich durch Zufall bei dieser Bezirkskonferenz in Voitsberg<lb/>
+anwesend war, schilderte ich ihm, wie die Genossen dort über die Lösung<lb/>
+bezüglich der Kurzarbeit für 300 weitere Oberglas-Arbeiter zufrieden<lb/>
+waren, weil sie mit einer Kündigung für diese Woche bereits gerechnet<lb/>
+hatten. <name type="person" ref="per:97525">Häuser</name> setzt überhaupt seine Mittel soweit wie möglich ein,<lb/>
+auch dann, wenn es nicht ganz einwandfrei ist. Er hat auch wesentlich<lb/>
+mehr als die vorhergehende Regierung – <name type="person" ref="per:117613">Rehor</name> hat 1969 87 Mill. gehabt,<lb/>
+während <name type="person" ref="per:97525">Häuser</name> heuer 880 Mill. zur Verfügung stehen. Mit der Reserve<lb/>
+hat er 2,6 Mia. S. Allerdings in Rücklagen, teilweise nicht sofort ver<lb break="no"/>fügbar.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:113038">REIM</name>: Bitte vertraulich – nicht durch Akt – festzustellen,<lb/>
+wieweit das Sozialministerium z.B. im Fall von Oberglas geht, um hier<lb/>
+Unterstützungen zu gewähren, die vielleicht nicht hundertprozentig ge<lb break="no"/>setzlich gedeckt sind.<lb/>
+</p>
+            <p xml:space="preserve">Im Wiener Vorstand wurde die budgetäre Situation besprochen und fest<lb break="no"/>gestellt, dass es immerhin gelungen ist, fast 20 Mill. S die Verschuldung<lb/>
+der Wiener Partei von 44 auf 28 Mill. zu verringern. Noch immer wird<lb/>
+der überwiegendste Teil unserer Einnahmen durch Mitgliedsbeiträge er<lb break="no"/>bracht. Dies ist auch eine Erklärung, warum die ÖVP sich so gegen die<lb/>
+neue Novelle des Parteienfinanzierungsgesetzes von <name type="person" ref="per:97311">Androsch</name> wendet.<lb/>
+Die Behauptung nämlich, dass sie SPÖ, vom ÖGB, von der Konsumgenossen<lb break="no"/>schaft usw. riesige Spenden bekommt, ist absolut falsch. Unsere Partei<lb/>
+wird aus Mitgliedsbeiträgen und Parteisteuern der Mandatare finanziert.<lb/>
+</p>
+            <pb n="25-0345" facs="25_1975-03-17_0345.jpg"/>
+            <p xml:space="preserve">Das 74 Mill.-Budget der Wiener Organisation ist dafür das treffendste<lb/>
+Beispiel. Die Frage wurde vom Kontrollobmann <name type="person" ref="per:97926">Schranz</name> nur dahingehend<lb/>
+noch erweitert, ob nicht auch die von uns in die Wirtschaft entsendeten<lb/>
+Fachleute Parteisteuer natürlich nur bei den höheren Einkommen, zahlen<lb/>
+sollten. Die politischen Mandatare zahlen pünktlich und wahrscheinlich<lb/>
+schon in der maximal zu vertretenden Höhe. In der ÖVP ist es deshalb<lb/>
+schlimmer, weil selbst wenn die Mandatare dort ebenfalls Parteisteuer<lb/>
+zahlen, was ich gar nicht bezweifle so sind es immer drei Bünde und<lb/>
+dann noch die Zentralpartei sowie die Landespartei, die sich den Happen<lb/>
+teilen müssen. Deshalb wird ebne der grösste Teil der Parteifinanzierung<lb/>
+bei der ÖVP über die Spenden der Unternehmungen erbracht werden. Die<lb/>
+berühmten Erlässe der Finanzminister aus der Koalitionszeit, wonach<lb/>
+die Parteien steuerfrei sind, ist für die SPÖ uninteressant. Im ÖGB<lb/>
+wird überhaupt nur die Vermögenssteuer nicht von den Heimen, da sie<lb/>
+als karitativ bezeichnet werden, was sie auch sicherlich sind, eingehoben.<lb/>
+Trotzdem glaube ich, wäre eine saubere Parteifinanzierung durch Zu<lb break="no"/>schüsse des Staates an die Träger der Parteien restlich für die ÖVP zwar<lb/>
+finanziell geringer, für uns aber auf alle Fälle ergiebiger und für<lb/>
+alle Parteien einwandfreier. Die Parteien sind einmal Träger des Staates<lb/>
+und man soll sie transparenter machen, dies ist zumindestens die Meinung<lb/>
+<name type="person" ref="per:97668">Kreiskys</name>. Ich fürchte allerdings, dass die Bevölkerung dann noch mehr<lb/>
+über die Parteien schimpfen wird, weil sie vereinzelt ein Übel darin<lb/>
+sehen und die meisten vielleicht ein notwendiges Übel.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name> UND <name type="person" ref="per:97646">KOPPE</name>: Wie kann man dieses Problem besser lösen?<lb/>
+</p>
+            <p xml:space="preserve">Eine grosse Frage war die Vorbereitung des Landesparteitages und die De<lb break="no"/>legierung auch zum Bundesparteitag. Durch die geringere Anzahl der<lb/>
+Mitglieder verlieren wir auch immer wieder Delegierte. Dies spielt aber<lb/>
+deshalb in der Praxis kaum eine Rolle, weil es auch am Bundespartei<lb break="no"/>tag kaum zu Kampfabstimmungen kommt. Die Geschlossenheit unserer Partei<lb/>
+und ganz besonders jetzt in den letzten Jahren aber auch die zentralisti<lb break="no"/>sche Führung ergibt, dass selbst bei Nominierungen von Kandidaten ein<lb break="no"/>vernehmliche Lösungen erzielt werden können. <name type="person" ref="per:97511">Haiden</name> wurde z.B. bei der<lb/>
+Grazer Konferenz als Parteinotwendigkeit auf dem wählbaren Listenplatz ab<lb break="no"/>gestimmt. <name type="person" ref="per:97727">Fritz Marsch</name> meint, dass dies so ungewöhnlich und vielleicht<lb/>
+wo anders danebengehen könnte. Die Grazer haben nämlich <name type="person" ref="per:97511">Haiden</name> mit einem<lb/>
+überwältigenden Votum gewählt. An der Spitze <name type="person" ref="per:97755">Moser</name> mit 200 Stimmen<lb/>
+von 200 Delegierten, <name type="person" ref="per:97511">Haiden</name> hat immer hin auch über 180 erhalten. Aller<lb break="no"/><pb n="25-0346" facs="25_1975-03-17_0346.jpg"/>dings ist nicht so klar, ob z.B. in Oberösterreich auch die Partei<lb break="no"/>notwendigkeit <name type="person" ref="per:97842">Prechtl</name> und <name type="person" ref="per:98010">Teschl</name> mit so hohem Votum über die Bühne<lb/>
+gehen würden, obwohl eigentlich natürlich Parteinotwendigkeit nicht<lb/>
+unbedingt abgestimmt werden müsste. Zumindestens nach Auffassung<lb/>
+von <name type="person" ref="per:97727">Marsch</name>. Ich teile diese Meinung nicht, denn wenn eine Partei<lb break="no"/>notwendigkeit nicht innerhalb unserer Partei, wo man für diese<lb/>
+Frage viel mehr Verständnis hat als in der ÖVP oder gar vielleicht<lb/>
+in der FPÖ, dann ist es besser, man kandidiert wirklich dort nicht.<lb/>
+</p>
+            <p xml:space="preserve">Im Wiener Ausschuss berichtete <name type="person" ref="per:97442">Firnberg</name> über das Universitäts<lb break="no"/>organisationsgesetz. Ich musste während der Diskussion dann zur<lb/>
+Ministerratsvorbesprechung und weiss nicht wie letzten Endes das<lb/>
+ausgegangen ist. Sicher ist nur eines für mich, dass die Professoren<lb/>
+wie auch der Studentenvertreter dort erklärte, ihre Privilegien,<lb/>
+die sie jetzt in ihrer Selbstverwaltung haben, erhalten wollen.<lb/>
+<name type="person" ref="per:97442">Firnberg</name> hat einige Beispiele aufgezählt, wo die administrative Arbeit<lb/>
+die die Professoren angeblich so belastet von ihnen sehr geliebt wird,<lb/>
+weil sie dadurch ihre Prestigebedürfnisse Einrichtungen nicht nur der<lb/>
+Institute sondern auch ihrer Zimmer befriedigen können.<lb/>
+</p>
+            <p xml:space="preserve">Die Ministerratsvorbesprechung war kürzer, weil BRO <name type="person" ref="per:97525">Häuser</name> <name type="person" ref="per:97668">Kreisky</name><lb/>
+auseinandersetzte, es müssten sich die meisten noch zum Abendempfang um<lb break="no"/>ziehen gehen. <name type="person" ref="per:97668">Kreisky</name> hat insbesondere das Problem Köflach herausgear<lb break="no"/>beitet. Er meinte, wir sollten uns jeder dafür zuständige Minister<lb/>
+jetzt nicht nur den Kopf zerbrechen sondern auch Aktivitäten entfal<lb break="no"/>ten. Er hob besonders hervor, dass er froh ist, dass ich dieses<lb/>
+Notstandsgebiet nicht gemieden habe, sondern dass ganz im Gegenteil<lb/>
+ich dorthin gefahren bin und schlug vor, dass wir am Samstag, den<lb/>
+5. April – er, <name type="person" ref="per:97525">Häuser</name>, <name type="person" ref="per:97311">Androsch</name> und ich – dort gemeinsam auftreten<lb/>
+sollten. Seine Vorstellung ist, dass jetzt sofort die Arbeiten über<lb/>
+die Kohlenerschliessung des neuen Feldes in Angriff genommen wird.<lb/>
+Ebenso sollte die Verbund sofort mit der konkreten Planung des<lb/>
+Voitsberg III 300-MW-Blocks beginnen. Optisch wäre es wichtig,<lb/>
+wenn jetzt bereits ein Teil Arbeit beginnen könnte. Für die Firma<lb/>
+Strehler, d.h. Juniorwerke sollen neue Unternehmen für die Hallen<lb/>
+usw. gefunden werden. Ich habe sofort festgestellt, dass die Notwendig<lb break="no"/>keit, dass schneller das Ausgleichsverfahren abgewickelt wird. Die<lb/>
+Genossen dort haben mich aufmerksam gemacht, dass der Ausgleichsver<lb break="no"/>walter jetzt erklärt, er könnte 1975 nicht fertig werden, es würde<lb/>
+sicherlich Ende 1976 werden. Solange wird sich niemand bereitfinden,<lb/>
+<pb n="25-0347" facs="25_1975-03-17_0347.jpg"/>in die Hallen dort neue Betriebe hineinzulegen. Bei Merino hat sich<lb/>
+genau dasselbe abgespielt. Wenn der Ausgleichsverwalter eine potente<lb/>
+Firma findet oder mehrere Firmen, dann versucht er, einen höheren<lb/>
+Betrag für seinen Ausgleich aus der Firma<lb/>
+herauszuquetschen. Dadurch kommt es zu einem monate<lb break="no"/>langen Streit und die Leidtragenden sind die Beschäftigten, weil sie<lb/>
+dann gekündigt werden und die Betriebsstätte stillsteht. <name type="person" ref="per:97372">Broda</name> er<lb break="no"/>klärt sich ausserstande, auf die Ausgleichsverwalter einzuwirken, weil<lb/>
+es sich hier um unabhängige Richter handelt. <name type="person" ref="per:97668">Kreisky</name> meint, dass wir<lb/>
+zusätzliche Mittel, sie es für die Aufschliessung der Kohle, sei es<lb/>
+für Betriebsgründungen usw. zur Verfügung stellen sollen und werden.<lb/>
+Ich selbst weise sofort darauf hin, dass VAMAG zwar nur 40 Beschäftigte<lb/>
+mit einem ERP-Kredit eventuell zusätzlich beschäftigen kann und auch<lb/>
+noch eine zweite Firma Bau sich beworben hat. <name type="person" ref="per:97668">Kreisky</name> gibt <name type="person" ref="per:115595">Reiter</name> den<lb/>
+Auftrag, dies sofort zu verfolgen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:113038">REIM</name>: Bitte diese beiden ERP-Projekte im Detail mit <name type="person" ref="per:115595">Reiter</name><lb/>
+besprechen.<lb/>
+</p>
+            <p xml:space="preserve">Das VÖEST-Südafrika-Projekt kommt neuerdings zur Sprache und <name type="person" ref="per:97668">Kreisky</name> meint,<lb/>
+er ist sehr erfreut, wenn es zu einer dringlichen Anfrage kommt, damit er<lb/>
+dann sehr konkret werden kann. <name type="person" ref="per:97668">Kreisky</name> schildert den für mich bekannten<lb/>
+Zustand, dass nämlich eine endgültige Entscheidung jetzt noch gar nicht<lb/>
+fallen muss und ich mache den Vorschlag, man sollte doch wenn man das<lb/>
+Projekt aus verschiedensten Gründen nicht verfolgen kann und will,<lb/>
+die Taktik einschlagen, wie wir es auch beim Algerien-Gas getan haben.<lb/>
+Dort war auch Österreich zuerst ausserstande, die finanziellen Beiträge<lb/>
+zu erbringen, wir haben aber zugewartet, bis die Deutschen und selbst<lb/>
+die Schweizer erklärten, so könnten sie das Projekt nicht finanzieren.<lb/>
+Dadurch sind die anderen zuerst ausgetreten und wir haben uns dann dieser<lb/>
+angeschlossen. Auch bei dem Südafrika-Projekt ist noch keinesfalls ent<lb break="no"/>schieden, ob tatsächlich Klöckner und Finsider, d.h. die Deutschen und<lb/>
+die Italiener einsteigen. Luxemburg erklärt auf alle Fälle, die Hände<lb/>
+davon zu lassen, Wiese <name type="person" ref="per:97668">Kreisky</name> nach einer Aussprache mit <name type="person" ref="per:134057">Thorn</name> mitteilte.<lb/>
+Wenn es nach mir gegangen wäre, hätte ich der ÖVP wissen lassen, wie<lb/>
+ich dies auch <name type="person" ref="per:97769">Mussil</name> gegenüber getan habe, dass wenn sie daraus ein<lb/>
+Politikum machen sie letzten Endes auch die wirtschaftliche Verantwortung<lb/>
+die ein solches Politikum in der Öffentlichkeit auslösen wird, tragen<lb/>
+müssen. Wenn jetzt Exporteure nach Südafrika sich beschweren, dass sie<lb/>
+dort auf grössere Schwierigkeiten stossen werden, so hätte sich dies<lb/>
+<pb n="25-0348" facs="25_1975-03-17_0348.jpg"/>die ÖVP eben vorher überlegen müssen. Niemand wollte in Wirklich<lb break="no"/>keit, dass dieses Projekt jetzt in die Öffentlichkeit gezerrt<lb/>
+wird. Da überhaupt noch keine endgültige Entscheidung fallen muss.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="25_0340_01" facs="25_1975-03-17_0340-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 17.3.1975</head>
+         </div>
+         <pb n="25_0340_02" facs="25_1975-03-17_0340-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der  6. März 1981</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band58_1981-03-06</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1981-03-06">Freitag, 6. März 1981</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-04-18">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="58-0319" facs="58_1981-03-06_0319.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Freitag, 6. März 1981<lb/>
+</p>
+            <p xml:space="preserve">GD <name type="person" ref="per:126509">Scheriau</name> von Andritz hat mit den Generaldirektoren der Zellstoffabrik<lb/>
+Paskov das erste Generaldirektortreffen auf Wunsch der Tschechen hat er<lb/>
+diese Vorsprache mit mir vereinbart. Ich halte diese Generaldirektortreffen<lb/>
+für sehr klug, sie werden alle paar Monate zusammenkommen, um auftretende<lb/>
+Schwierigkeiten gleich von oben zu beseitigen. Das nächste Treffen findet<lb/>
+im Mai statt, das Haarmonogramm, wie die Tschechen sagen, wir würden<lb/>
+sagen der Netzplan, zeigt, daß eine kleine Produktionsverspätung vorliegt.<lb/>
+Der Endfertigungstermin wird aber sicher eingehalten, von dem 4-Mrd.-S-<lb/>
+Projekt haben 1 Mrd. S tschechische Zulieferer. Davon sind leider erst<lb/>
+113 Mio. vergeben und diese Vergabe<add>[ist]</add> in Verzug. Die nächste Gemischte<lb/>
+tschechisch-österreichische Kommission wird Gelegenheit geben, daß Außen<lb break="no"/>handelsminister <name type="person" ref="per:114726">Barcak</name> bei der Wochenendreise Freitag, Samstag, Sonntag<lb/>
+in Graz auch die Andritzer Fabrik besuchen wird, <name type="person" ref="per:126509">Scheriau</name> ist davon be<lb break="no"/>geistert, ich erkläre gleich freimütig, der tschechische Handelsdelegierte<lb/>
+<choice><choice><sic>ich</sic><corr>ist?</corr></choice></choice> ebenfalls dabei und wird dies <name type="person" ref="per:114726">Barcak</name> sicher mitteilen, daß es zwei<lb/>
+Gründe gibt dann in die Steiermark nach Graz zu fahren: erstens der Be<lb break="no"/>such von Andritz und zweitens der Bundesparteitag, der das Wirtschaftspro<lb break="no"/>gramm beschließen wird und wo ich zeitweise zumindestens anwesend sein<lb/>
+sollte.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: <name type="person" ref="per:97426">Fälbl</name> ist auf Kur, laß Dir von der Abteilung stets<lb/>
+den weiteren Fortgang berichten.<lb/>
+</p>
+            <p xml:space="preserve">Der GD <name type="person" ref="per:123347">Kuchta</name> von Technoexport ersucht mich neuerdings, ich sollte mit<lb/>
+der Vöest-Alpine über ihr Ethylenwerk reden. Das Werk arbeitet noch immer<lb/>
+nicht, die Schuld liegt beim belgischen Sublieferanten. Außenhandelsmi<lb break="no"/>nister <name type="person" ref="per:114726">Barcak</name> läßt mich ersuchen, ich sollte mich unbedingt einschalten,<lb/>
+da er und die ganze tschechische Seite wegen der Nichtinbetriebnahme große<lb/>
+Schwierigkeiten hat. Ich rufe noch während der Anwesenheit von <name type="person" ref="per:123347">Kuchta</name><lb/>
+GD <name type="person" ref="per:97315">Apfalter</name> an, der mir versichert, die Vöest wird alles unternehmen, da<lb break="no"/>mit der Fehler repariert wird. Über die finanziellen Folgen wird man sich<lb/>
+erst nachher unterhalten. Ich verbinde <name type="person" ref="per:123347">Kuchta</name> mit <name type="person" ref="per:97315">Apfalter</name>, der ihm dies<lb/>
+auch persönlich bestätigt. Ich bin überzeugt, daß diese schnelle Erledi<lb break="no"/>gung von mir die Tschechen sehr beeindruckt hat.<lb/>
+</p>
+            <p xml:space="preserve">GD <name type="person" ref="per:97337">Bauer</name> wird sich bemühen,<add>daß</add> ein erdölwissenschaftliches Seminar, welches<lb/>
+die Opec bezahlt, auch in Wien stattfindet. Derzeit wird ein solches in<lb/>
+London, Oxford abgehalten. Der Hinweis von <name type="person" ref="per:107956">Satzinger</name>, daß die Jugoslawen<lb/>
+<pb n="58-0320" facs="58_1981-03-06_0320.jpg"/>resp. die Tschechen wünschen,<add>[daß]</add> die Ölleitung Bakar-Bratislava von<lb/>
+Österreich benützt werden soll und womöglich bis Wien verlängert wird,<lb/>
+kann <name type="person" ref="per:97337">Bauer</name> derzeit nicht zustimmen. Die Austria-Wien-Pipeline, mit 11<lb/>
+Mio. Jahrestonnenleistung, ist derzeit nicht ausgenützt. Ein Bezug über<lb/>
+die 500 Mio. t Rijeka-Bratislava-Pipeline kommt derzeit nicht infrage.<lb/>
+Eine Investition zur Verlängerung würde ca. 200 Mio. S kosten. Sie wird<lb/>
+derzeit nicht gebraucht und wahrscheinlich auch in absehbarer Zukunft<lb/>
+nicht. Gegebenenfalls könnte man, wenn mehr als 11 Mio. t über die AWB ge<lb break="no"/>leitet werden sollten, die 18 Zoll-Leitung <choice><choice><sic>lopen</sic><corr>?</corr></choice></choice>, daß heißt durch entspre<lb break="no"/>chende Investitionen eine größere Durchleitung leicht erreichen.<lb/>
+</p>
+            <p xml:space="preserve">Die AWB-Verträge mit den internationalen Ölgesellschaften laufen bis<lb/>
+1983. Angeblich, erklärt <name type="person" ref="per:97337">Bauer</name>, hätte man dort die 40 % Heizöl-schwer-<lb/>
+Ausbeute den Internationalen garantieren müssen. Jetzt wird die Raffine<lb break="no"/>rie aber doch auf 90 % Vergaserproduktion eingestellt. Optimal wären<lb/>
+nur 60 % und 40 % zu importieren. Derzeit werden bis 3 Mio. t Heizöl<lb/>
+schwer produziert, in Hinkunft sollen es nur 1 1/2 Mio t sein. Gegen<lb break="no"/>über Deutschland ist nicht die veraltete Raffinerie und die schlechte<lb/>
+Planung dieser Raffinerie an dem erhöhten Heizölschwerausstoß schuld,<lb/>
+sondern der Rohöleinsatz. Die Deutschen, die 21 % Heizöl schwer haben,<lb/>
+zum Unterschied der 40 % von uns, haben dieses gute Ergebnis durch den<lb/>
+entsprechenden Rohöleinsatz. Hätte Österreich die selbe Qualität, würden<lb/>
+sie 22 % Heizöl schwer nur erzeugen müssen. Dem stünde allerdings die<lb/>
+behauptete Zusage von 40 % Heizöl schwer zu liefern entgegen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Versuch dies sehr geschickt und vertraulich<lb/>
+die Behauptung von Heizöl schwer Lieferverpflichtung zu verifizieren.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97337">Bauer</name> ist bezüglich der Gasversorgung Österreichs sehr optimistisch.<lb/>
+Die Russen werden liefern wollen, aber auch in Katar und Kamerun usw., wo<lb/>
+man jetzt größere Gasmengen entdeckt, wird es sehr bald einen großen<lb/>
+Export geben. Notwendig ist nur ein Liquidgashafen. Die ÖMV untersucht<lb/>
+jetzt, ob ein solcher in Bakar in Jugoslawien errichtet werden sollte.<lb/>
+Monfalcone wäre der Konkurrenzhafen, der jetzt allerdings weniger in<lb/>
+Frage kommt.<lb/>
+</p>
+            <p xml:space="preserve">Bezüglich der Versorgung der Gärtner mit Warmwasser erklärt <name type="person" ref="per:97337">Bauer</name> dezi<lb break="no"/>diert, daß die ÖMV zur Investition nichts beitragen kann und will. Sie<lb/>
+stellt das 40-Grad-Kühlwasser umsonst zur Verfügung. Dadurch werden die<lb/>
+<pb n="58-0321" facs="58_1981-03-06_0321.jpg"/>Energiekosten von 250 S auf 90 S pro m² für die Gärtner gesenkt, die<lb/>
+Investitionen müssen sie selbst über eine Genossenschaft besorgen. Ich<lb/>
+empfehle GD <name type="person" ref="per:97337">Bauer</name> sich doch mit den landwirtschaftlichen Kreditinsti<lb break="no"/>tuten und Organisationen darum gemeinsam zu bemühen. <name type="person" ref="per:97337">Bauer</name> erklärt, die<lb/>
+ÖMV ist derzeit illiquide. <name type="person" ref="per:97738">Meszaros</name> muß 3 Mrd. S Betriebsmittelkredite<lb/>
+jetzt auf 6 Mrd. S erhöhen. 1980 wird die ÖMV das erste Mal für 320 Mio.<lb/>
+S Zinsenbelastung in ihren Bilanzen haben.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Laß die AK diese Behauptung prüfen.<lb/>
+</p>
+            <p xml:space="preserve">Bezüglich der Biomasseverwertung wird jetzt eine Studie von der ÖMV mit<lb/>
+Waagner-Biro ausgearbeitet.<lb/>
+</p>
+            <p xml:space="preserve">Mr. <name type="person" ref="per:130194">Baum</name> von der UNO macht wieder einmal eine Tagung für Entwicklungslän<lb break="no"/>der wie seinerzeit auch in der Hofburg, diesmal in Den Haag. Die ÖMV<lb/>
+würde den Bohrspezialisten Ing. <name type="person" ref="per:113371">Spörker</name> schicken, wenn das Handelsmini<lb break="no"/>sterium dazu ermächtigt. Die Einladung erfolgt nämlich an die Regierung.<lb/>
+Ich erkläre mich sofort dazu bereit, daß <name type="person" ref="per:113371">Spörker</name> als Handelsministerre<lb break="no"/>präsentant dorthin fährt.<lb/>
+</p>
+            <p xml:space="preserve">Ich informiere GD <name type="person" ref="per:97337">Bauer</name>, daß der Energiesprecher der SPD im Bundesrat,<lb/>
+Oberbürgermeister <name type="person" ref="per:130197">Wolfram</name> von Recklinghausen, mit GD <name type="person" ref="per:130199">Liesen</name> und seinen<lb/>
+Leuten von der Ruhrgas jetzt wegen Gaslieferungen auf meinen Wunsch in<lb break="no"/>tervenieren wird. GD <name type="person" ref="per:97337">Bauer</name> ist damit sehr einverstanden. <name type="person" ref="per:97337">Bauer</name> betrach<lb break="no"/>tet diese, wie er sagt, 4-Augengespräche, an denen aber immer <name type="person" ref="per:107956">Satzinger</name><lb/>
+teilnimmt, als wichtige Informationsquelle für den Handelsminister. In<lb/>
+Wirklichkeit aber bin ich mir vollkommen klar, möchte er gar nichts an<lb break="no"/>deres mit dieser Alibihandlung sagen, er hätte mich stets in allem aus<lb break="no"/>führlichst informiert.<lb/>
+</p>
+            <p xml:space="preserve">Ein gewisser Direktor der Z will seinen Verwandten, Dr. <name type="person" ref="per:130205">Gassner</name>, der<lb/>
+allerdings schon 44 Jahre alt ist, bei uns im Handelsministerium unter<lb break="no"/>bringen. Ich schicke ihn sofort zu SC <name type="person" ref="per:112949">Kazda</name>.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Wer ist <name type="person" ref="per:131470">Zelezny</name>?<add>Tel. Nr. - 7292/215 hat behauptet, er kennt BM gut</add><lb/>
+</p>
+            <p xml:space="preserve">Der spanische Botschafter geht jetzt nach Madrid zurück. Sein letzter<lb/>
+Wunsch mir gegenüber ist, ob wir nicht doch aus Spanien Muscheln importie<lb break="no"/>ren lassen können. Wo er herkommt, ist gerade das größte Muschelproduk<lb break="no"/>tionsgebiet. Das Handelsministerium hätte dagegen gar nichts einzuwenden,<lb/>
+<pb n="58-0322" facs="58_1981-03-06_0322.jpg"/>die Schwierigkeiten kommten vom Gesundheitsministerium, Lebensmittelun<lb break="no"/>tersuchungsanstalt, <name type="person" ref="per:97808">Petuely</name>, hat ein neues Prüfverfahren entwickelt und<lb/>
+schließt die spanischen Muscheln aus. Der spanische Botschafter kann dies<lb/>
+nicht verstehen, denn in den EG ist man sehr wohl bereit, diese Muscheln<lb/>
+zu importieren. Ich verspreche ihm, einen diesbezüglichen Brief an den<lb/>
+Gesundheitsminister <name type="person" ref="per:117200">Steyrer</name> zu schreiben.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Die <name type="person" ref="per:98075">Willenpart</name>-Abteilung bereitet etwas vor.<lb/>
+</p>
+            <p xml:space="preserve">Die ARGE Qualitätsarbeit hat größte Schwierigkeiten mit ihrer Anerkennung<lb/>
+resp. Abgrenzung gegen die ARGE Made in Austria. Sie wollten zuerst eine<lb/>
+Studie für 800.000,–– S machen, haben dies jetzt aber zurückgestellt.<lb/>
+Wichtig erscheint mir wirklich, daß zwischen diesen beiden Vereinen, an<lb/>
+denen die Handelskammer führend beteiligt ist, endlich eine Abgrenzung er<lb break="no"/>folgt. Insbesondere müßte das Bautenministerium als für die ÖNORM zustän<lb break="no"/>dige Behörde endlich trachten, daß bezüglich der Importe auch in diesem<lb/>
+Punkt eine richtige und für die österreichische Industrie erträgliche<lb/>
+Abgrenzung erfolgt.<lb/>
+</p>
+            <p xml:space="preserve">Der Leiter der ARGE, KR <name type="person" ref="per:130207">Petschenka</name>, ist gleichzeitig auch der Innungs<lb break="no"/>meister von Lederverarbeitern. Seinerzeit wurde erklärt, daß aufgrund<lb/>
+der Washingtoner Artenschutzabkommen eine Ausnahme für Krokodil zur<lb/>
+Taschenproduktion nicht mehr gegeben wird. Jetzt stellt sich heraus, daß<lb/>
+Frankreich, Italien, Deutschland, die Schweiz sich an diese Vereinbarung<lb/>
+nicht halten.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte prüfen lassen und<add>[in]</add> Österreich dann die<lb/>
+selbe Ausnahmegenehmigung wieder einzuführen.<lb/>
+</p>
+            <p xml:space="preserve">BR <name type="person" ref="per:131471">Heller</name> mit GD <name type="person" ref="per:130208">Binder</name> und GD <name type="person" ref="per:114148">Göttlicher</name>, alle von der Wiener Städtischen<lb/>
+Versicherung, beschweren sich bitter, daß<add>[sich]</add> die österreichischen Unterneh<lb break="no"/>Amungen bei den nicht österreichischen Versicherungen immer mehr versichern<lb/>
+lassen. Dies ist darauf zurückzuführen, weil die Betriebe dann über<lb/>
+diese Versicherungen besonders günstige Auslandkredite vermittelt bekom<lb break="no"/>men resp. in Österreich dann entsprechende gute Kreditkonditionen erhal<lb break="no"/>ten. Dies dürfte der Grund sein, warum die Verbund, GD <name type="person" ref="per:97453">Fremuth</name>, das<lb/>
+Kernkraftwerk Zwentendorf jetzt bei der deutschen Allianz versichert,<lb/>
+ähnlich ist es jetzt für das große <choice><choice><sic>Eisenhüttenwerk</sic><corr>Stahlwerk in Eisenhüttenstadt</corr></choice></choice> in der DDR. Natürlich<lb/>
+haben diese ausländischen Versicherungen entsprechende österreichische<lb/>
+Gesellschaften. Echte Österreicher sind aber nur die Städtische und die<lb/>
+<pb n="58-0323" facs="58_1981-03-06_0323.jpg"/>Bundesländerversicherung. Die Erste Allgemeine hat zu 90 % die Generali<lb/>
+und zu 10 % die CA. Die Allianz hat zu 52 % die Generali, 24 % die<lb/>
+deutsche Allianz und 24 % die deutsche Münchner Rückversicherung. Noch<lb/>
+unerklärlicher ist es der Städtischen, daß jetzt die Riunione resp. In<lb break="no"/>terunfall, bei der<add>[die]</add> ÖDK ein seit eh und je österreichisch versichert war,<lb/>
+eingestiegen<add>[ist]</add>. <name type="person" ref="per:107956">Satzinger</name> will dies im einzelnen genau prüfen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>; Nächstes Jour fixe <name type="person" ref="per:97453">Fremuth</name> setzen.<lb/>
+</p>
+            <p xml:space="preserve">Der Wunsch der Delegation, ich sollte in die Handelsverträgen einbauen,<lb/>
+daß die österreichischen Versicherungen herangezogen werden müßen, halte<lb/>
+ich nicht für gangbar. Solche Bestimmungen gibt es in den Handelsverträ<lb break="no"/>gen bis jetzt nicht und es würde äußerst schwer sein, so etwas in der<lb/>
+gemischten Kommission mit den Ausländern entsprechend auch durchzusetzen.<lb/>
+Möglich erscheint mir dagegen, daß jetzt sofort in der Informationsstelle<lb/>
+für öffentliche Ausschreibungen auch der Wunsch der österreichischen Ver<lb break="no"/>sicherungen behandelt wird. Natürlich muß hier äußerst vorsichtig und<lb/>
+vertraulich vorgegangen werden. Die Zweiteilung zwischen echten öster<lb break="no"/>reichischen Versicherungen, wie eben Städtische, Bundesländer, Donau, und<lb/>
+den sogenannten Vertretern des Auslandes, Allianz, Generali usw., dürfte<lb/>
+offiziell nicht gemacht werden.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:111737">MARSCH</name> UND <name type="person" ref="per:109811">BURIAN</name>: Bitte mit mir Rücksprache halten.<lb/>
+</p>
+            <p xml:space="preserve">Die Abgeordneteninformation der Wr. Abgeordneten wird schön langsam wirk<lb break="no"/>lich eine Pleite. Diese Informationssitzungen auf Anregung der Landesre<lb break="no"/>gierung unter Vorsitz von Bgm. <name type="person" ref="per:97488">Gratz</name> und vom Wiener Abgeordnetenvertre<lb break="no"/>ter <name type="person" ref="per:97926">Schranz</name> sollten über die Bundesstraßengesetznovelle informiert werden.<lb/>
+Außer <name type="person" ref="per:111741">Sekanina</name>, der ja letzten Endes auch der Referent<add>[war,]</add> waren nur noch<lb/>
+die Abgeordneten <name type="person" ref="per:112942">Braun</name>, <name type="person" ref="per:97923">Schnell</name>, <name type="person" ref="per:114542">Schemmer</name> und ich anwesend.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97488">Gratz</name> berichtet einleitend, daß er über die Hauptwohnsitzfrage für die<lb/>
+nächste Volkszählung größte Bedenken hat. Die kleinen Bürgermeister der<lb/>
+Zweitwohnsitzgemeinde drohen den Wienern mit Nachteilen, wenn sie sich<lb/>
+nicht an der zweiten Wohnsitzgemeinde als Hauptwohnsitz angeben. Dadurch<lb/>
+wird die Volkszählung ungeheuer beeinflußt. <name type="person" ref="per:97488">Gratz</name> wird alle die ihm be<lb break="no"/>kannten Fälle an das Statistische Zentralamt als Durchführungsstelle<lb/>
+resp. an das Bundeskanzleramt weitergeben. Es wird durch diese Art eine<lb/>
+vollkommen falsche Berechnungsgrundlage der Mandate, aber auch vor allem<lb/>
+die Zuteilungsschlüssel für den Finanzausgleich herauskommen.<lb/>
+</p>
+            <pb n="58-0324" facs="58_1981-03-06_0324.jpg"/>
+            <p xml:space="preserve"><name type="person" ref="per:111741">Sekanina</name> berichtet über die Straßenbauten in Wien. Der Osten ist gegen<lb break="no"/>über dem Westen auch beim Autobahnausbau stark benachteiligt, um dies<lb/>
+einigermaßen auszugleichen, wird jetzt in Wien, Burgenland und Niederöster<lb break="no"/>reich der Autobahnbau mehr forciert. Burgenland braucht für 33 km 860<lb/>
+Mio., Niederösterreich 6 Mrd., Wien aber für die 43 km 14,2 Mrd. S. Die<lb/>
+Mineralölsteuer wird 1980 erstmalig, obwohl 12,042 Mrd. S eingeflossen<lb/>
+sind, um 240 Mio. S weniger bringen als präliminiert, trotz der Erhöhung<lb/>
+um 20 Groschen. Die jetzt beschlossenen 20 Groschen mit 1. April werden<lb/>
+nur 538 Mio. mehr bringen, im Jahr werden es 980 Mio. S sein. Der Mur-Mürz-<lb/>
+Furche-Ausbau würde 7 Mrd. S aber allein bis 86 brauchen. Die Verbindung<lb/>
+von Wels zur deutschen Grenze, Passau, der wintersichere Ausbau für das<lb/>
+Arlbergprojekt Schnellstraße würde 680 Mio. kosten. Insgesamt also müßte<lb/>
+er bis 1985 die berühmten 20 Mrd S kriegen, er hofft einen Teil davon<lb/>
+von den EG.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:111741">Sekanina</name> hat jetzt bei seiner Vorsprache in Brüssel wegen Mitfinanzie<lb break="no"/>rung nur eines erreicht, daß die Kommission erklärt hat, sie wird sich<lb/>
+um ein Mandat von dem Ministerrat bemühen. Diese wird sicherlich auch<lb/>
+ein solches erhalten, ob <name type="person" ref="per:111741">Sekanina</name> dabei aber viel Geld erhalten wird,<lb/>
+bezweifle ich.<lb/>
+</p>
+            <p xml:space="preserve">Beim Jour fixe mit AK und ÖGB ersuchte Dir. <name type="person" ref="per:97676">Lachs</name> vom Konsum, daß die<lb/>
+Luftaufwärmung und Umwälzung aufgrund des Arbeitnehmerschutzgesetzes<lb/>
+neuerdings überprüft <choice><choice><sic>zu werden</sic><corr>wird</corr></choice></choice>, wie weit man damit im Winter nicht Ener<lb break="no"/>gieverschwendung betreibt. SC <name type="person" ref="per:97584">Jagoda</name> erklärt sich bereit,<add>[dies]</add> in dem Ge<lb break="no"/>werbeordnungsnovellenentwurf, der mit 1.2.1982 in Kraft treten wird,<lb/>
+in Angriff zu nehmen.<lb/>
+</p>
+            <p xml:space="preserve">Alle stimmen überein, daß die Kesselfabrik <name type="person" ref="per:126571">Bertsch</name>, auch wenn große Be<lb break="no"/>denken von SGP vorliegen, in Judenburg auf dem Gelände der VEW eine Teil<lb break="no"/>produktion aufziehen müßte.<lb/>
+</p>
+            <p xml:space="preserve">Dkfm. <name type="person" ref="per:112010">Blaha</name> spricht sich ganz entschieden gegen eine Liberalisierung der<lb/>
+Trockenschnitzel aus. NR <name type="person" ref="per:114075">Schmidt</name>, der gleichzeitig Obmannstellvertreter<lb/>
+im Milchfonds ist, meint, in die Silosperrgebiete dürfe in Hinkunft keine<lb/>
+Trockenschnitzel mehr geliefert werden, dies würde auch deshalb jetzt<lb/>
+schon nicht mehr gehen, weil das Landwirtschaftsministerium die Fracht<lb break="no"/>stützung dorthin eingestellt hat. Ich selbst erkläre dezidiert, daß ich<lb/>
+nicht ununterbrochen Bewirtschaftungsmaßnahmen aufrechterhalten möchte,<lb/>
+wenn selbst die Landwirtschaft keine Bedenken für die Liberalisierung<lb/>
+der Trockenschnitzel sieht und einer Zollämterermächtigung zustimmt. Die<lb/>
+<pb n="58-0325" facs="58_1981-03-06_0325.jpg"/>AK wird dieses Problem mit der Zuckerindustrie besprechen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97584">JAGODA</name> UND <name type="person" ref="per:109811">BURIAN</name>: Bitte erledigt dies auch mit MR <name type="person" ref="per:112011">Kurzel</name>.<lb/>
+</p>
+            <p xml:space="preserve">Beim Schichtarbeitergesetzvorschlag des Sozialminister <name type="person" ref="per:111740">Dallinger</name> kommt<lb/>
+klar und deutlich der Gegensatz zwischen ÖGB und <name type="person" ref="per:111740">Dallinger</name> zum Durch<lb break="no"/>bruch. Die Beschwerde der Textilindustrie bei Sektionschef <name type="person" ref="per:111737">Marsch</name> und<lb/>
+mir ist nur ein unbedeutend kleiner Teil dieses Problems. Die Stahl-,<lb/>
+Chemie-, Papierindustrie wird davon noch härter betroffen. NR <name type="person" ref="per:114075">Schmidt</name><lb/>
+hat errechnet, daß 3–5 % Kostenerhöhungen durch diesen Gesetzentwurf<lb/>
+entstehen, der überhaupt nicht mit dem Gewerkschaftsbund abgesprochen<lb/>
+wurde. Hier entwickelt sich ein schwerer Streit zwischen Sozialminister<lb/>
+und Gewerkschaftsbund.<lb/>
+</p>
+            <p xml:space="preserve">Die Wirtschaftstreuhänder haben jetzt ultimativ von SC <name type="person" ref="per:97584">Jagoda</name> verlangt,<lb/>
+daß er ihren Antrag auf 12 %-ige Erhöhung ihrer Gebühren bis März 81<lb/>
+genehmigt, ansonsten ihr Anbot ebenfalls wieder zurückgezogen wird.<lb/>
+Die Wirtschaftstreuhänderkammer würde dann die Honorarordnung rückwirkend<lb/>
+mit 1. Jänner 1981 außer Kraft sezten. <name type="person" ref="per:97584">Jagoda</name> ist über diese ultimative<lb/>
+Verhandlungsmethode sehr verärgert. Wir beschließen sofort, daß wir dar<lb break="no"/>auf überhaupt nicht reagieren, die AK und der ÖGB werden die Wirtschafts<lb break="no"/>treuhänder, wenn sie eine Verbandsempfehlung machen, aufgrund des Kartell<lb break="no"/>gesetzes § 36 zum paritätischen Ausschuß zitieren.<add>[Die]</add> Wirtschaftstreuhänder<lb/>
+werden mit dieser Methode nicht durchkommen, denn jetzt stellt sich be<lb break="no"/>reits heraus, daß die gewünschten vorjährigen Tariferhöhungen nicht von<lb/>
+uns genehmigt wurden, weshalb ihre Klienten größtenteils nicht bereit<lb/>
+sind, sie anzuerkennen. Jeder verlangt heute von der amtlichen Preis<lb break="no"/>kommission oder zumindest von der Paritätischen Kommission eine entspre<lb break="no"/>chende Bestätigung, daß Tariferhöhungen oder Preiserhöhungen genehmigt<lb/>
+wurden.<lb/>
+</p>
+            <p xml:space="preserve">Die Beschwerde der Fa. Flaga, daß Flüssiggas in der Bündelkalkulation<lb/>
+stärker erhöht wurde als die anderen Produkte, wird von der AK und vom<lb/>
+ÖGB gleich in Verbindung mit der Flaschenpfandfrage mit Flaga verhan<lb break="no"/>delt.</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Bitte den Flüssiggasfirmen mitteilen.<lb/>
+</p>
+            <p xml:space="preserve">NR <name type="person" ref="per:114075">Schmidt</name> urgiert, daß jetzt endlich für den inländischen Erdgaspreis,<lb/>
+nachdem es nicht möglich ist, mit der ÖMV und der RAG zu einer Einigung<lb/>
+zu kommen, eine gesetzliche Regelung Platz greifen sollte. Ich haben inso<lb break="no"/><pb n="58-0326" facs="58_1981-03-06_0326.jpg"/>ferne dagegen im jetztigen Zeitpunkt große Bedenken, denn für das ver<lb break="no"/>gangene Jahr, es müßte ja rückwirkend auch dann eine gesetzliche Rege<lb break="no"/>lung für die schon mit der ÖMV und RAG vereinbarte Abschlagzahlung<lb/>
+gemacht werden. Ich habe bis jetzt zumindestens noch nie eine gesetzliche<lb/>
+rückwirkende Regelung angestrebt. AK und ÖGB sollten diesen Wunsch an<lb/>
+das Finanzministerium herantragen, wenn wir endlich die Abschlagszahlung<lb/>
+bekommen haben.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97627">Kienzl</name> berichtet, daß jetzt die Währungszuflüsse wieder zugenommen<lb/>
+haben, die Devisenreserve beträgt jetzt 60 Mrd S. Für eine Zinsenregelung<lb/>
+ist die Z, <name type="person" ref="per:98028">Vak</name>, aber auch die Landwirtschaftsseite, GD <name type="person" ref="per:127907">Klaus</name>. Der ex<lb break="no"/>tremste liberale Banker ist derzeit die BAWAG, GD <name type="person" ref="per:114047">Flöttl</name>. Dieser hat<lb/>
+langfristige dreijährige Zinsgarantie mit 8 3/4 % gegeben. <name type="person" ref="per:97676">Lachs</name> behaup<lb break="no"/>tet, daß jetzt einer Holdingfirma 14 1/2 % für Dreimonatswechsel ange<lb break="no"/>boten wurden, um von der Z die Kunden weg und zur BAWAG zu bringen. Alle<lb/>
+sind wir uns einig, daß die jetzige Hochzinspolitik nicht fortgesetzt<lb/>
+werden dürfte, weil sie für die österreichische Wirtschaftsentwicklung<lb/>
+sich verheerend auswirkt.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="58_0318_01" facs="58_1981-03-06_0318-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 6.3.1981</head>
+         </div>
+         <pb n="58_0318_02" facs="58_1981-03-06_0318-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittwoch, der 29. April 1970</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Joseph Staribacher</collection>
+                  <idno type="signature">Band01_1970-04-29</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1970-04-29">Mittwoch, 29. April 1970</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-03-18">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-02-27" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-02-27" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+  <text xml:base="http://192.168.0.9/staribacher/src/scans/Band01/">
+      <body>
+         <pb n="01-0042" facs="01_1970-04-29_0042.jpg"/>
+         <div type="entry">
+            <dateline>
+               <date when="1970-04-29">Mittwoch, 29. April 1970</date>
+            </dateline>
+            <p xml:space="preserve">Bei der Regierungserklärungsdebatte im Parlament nützte ich<lb/>
+die Gelegenheit, um mit Präsident <name type="person" ref="per:97893">Sallinger</name> und <name type="person" ref="per:97769">Musil</name> Bes<lb break="no"/>prechungen aufzunehmen. Ich erklärte, daß ich versuchte,<lb/>
+schon in den Vorlagen Kontakt herzustellen, was mir aber<lb/>
+nicht gelang. Ich übergab ihnen unseren Dienstzettel an die<lb/>
+Sektionen, betreffend Vorbereitungen der nächsten Paritätisc<lb break="no"/>hen Kommission. Da <name type="person" ref="per:97893">Sallinger</name> beim Mittagessen war, redete<lb/>
+ich zuerst mit <name type="person" ref="per:97769">Musil</name> ganz früh schon und gab ihm ein Exemplar.<lb/>
+Als wir uns in seinem Besprechungszimmer am Nachmittag<lb/>
+zusammensetzten mußte ich feststellen, daß <name type="person" ref="per:97769">Musil</name> wahrschein<lb break="no"/>lich, und das ist ja selbstverständlich, schon mit Präsident<lb/>
+<name type="person" ref="per:97893">Sallinger</name> darüber gesprochen hatte. Ich übergab Präsident<lb/>
+<name type="person" ref="per:97893">Sallinger</name> ein zweites Exemplar und wollte die Diskussion über<lb/>
+die einzelnen Punkte beginnen. Zu meiner größten Verwunderung<lb/>
+reagierte aber <name type="person" ref="per:97893">Sallinger</name> derartig heftig, daß sich meine Taktik<lb/>
+sofort umstellen mußte. <name type="person" ref="per:97893">Sallinger</name> erklärte, wenn auch nur ein<lb/>
+solches Papier in der Paritätischen Kommission auf den Tisch<lb/>
+kommt, dann sei für ihn die Sozialpartnerschaft erledigt, das<lb/>
+heißt, er würde unverzüglich den Abbruch der Verhandlungen<lb/>
+herbeiführen. Ich versuchte ihm zu erklären, daß die Unterlagen,<lb/>
+die vom Ministerium jetzt erarbeitet werden, hauptsächlich da<lb break="no"/>zu dienen, um die Angriffe, die von seiten des ÖGB – Vertreters<lb/>
+und der Arbeiterkammer zu erwarten sind, entsprechend variieren<lb/>
+zu können. <name type="person" ref="per:97769">Musil</name> erklärte, daß e s mir gelingen müsse die Ar<lb break="no"/>beiterkammer dazu zu gewinnen, daß sie keine wie immer geartete<lb/>
+Forderung in der Paritätischen Kommission erheben würde. Ich<lb/>
+sagte zu ihm, daß dies unmöglich sei, da die Vertreter der Ar<lb break="no"/>beitnehmer selbstverständlich so in der Vergangenheit auch hier<lb/>
+ihre Interessenspoli1ik machen würden.</p>
+            <pb n="01-0043" facs="01_1970-04-29_0043.jpg"/>
+            <p xml:space="preserve">Nach längerer Diskussion, bei der es nicht einmal mir gelang,<lb/>
+trotz aller Versuche, die beiden Herren zu beruhigen, ich be<lb break="no"/>merkte, daß es sich hier wirklich nicht um eine gespielte Auf<lb break="no"/>regung handelte, schlug <name type="person" ref="per:97893">Sallinger</name> vor, daß wir Präsident <name type="person" ref="per:97346">Benya</name><lb/>
+zur Sitzung bitten sollten. Ich holte Präsident <name type="person" ref="per:97346">Benya</name> in den Be<lb break="no"/>sprechungsraum. Sie erklärten, wie ich in der jetztigen Phase<lb/>
+ihren Leuten überhaupt nichts zumuten können und verlangten<lb/>
+deshalb, daß in der Paritätischen Kommission von seiten des<lb/>
+Gewerkschaftsbundes und der Arbeiterkammer vorerst keine<lb/>
+konkreten Maßnahmen gegen den zu erwartenden Preisauftrieb<lb/>
+verlangt werden. Ich habe darauf hingewiesen, daß die flankierenden<lb/>
+Maßnahmen mit 31. Juni auslaufen und unbedingt verlängert werden<lb/>
+müssen, sagte <name type="person" ref="per:97769">Musil</name>, daß auch hier in diese m Punkt ein Ablauf<lb/>
+ihren Mitgliedern seinerzeit zugesagt worden war. Sie erklärten<lb/>
+sich allerdings bereit, daß sie nur diese Maßnahmen gegebenen<lb break="no"/>falls mit sich reden ließen. Da mir ja überhaupt vorgeschwebt<lb/>
+ist, daß eine Unterausschuß der Paritätischen Kommission mit<lb/>
+den Ministerien zusammen, die davon betroffen sind, eingesetzt<lb/>
+werden sollte, der die entsprechenden Maßnahmen beraten und<lb/>
+letztenendes dann noch durchführen mußte, so versuchte ich jetzt<lb/>
+im Laufe der Debatte eine solche Zustimmung von seiten der Bundes<lb break="no"/>kammervertreter zu erwirken . Präsident <name type="person" ref="per:97346">Benya</name> selbst ging, als<lb/>
+er die Situation sofort erfaßte, auf die Wünsche der Bundeskammer<lb/>
+ein und erklärte, daß die Arbeiterkammer und der Gewerkschafts<lb break="no"/>bund, wenn sie solche Überlegungen anstellen, natürlich zuerst mit<lb/>
+ihm Kontakt aufnehmen müßten. Das heißt, daß die Referenten des<lb/>
+Kammertages und des Gewerkschaftsbundes, bevor sie ein solches<lb/>
+Papier verfassen, natürlich sowieso mit ihm erst reden müßten.</p>
+            <p xml:space="preserve">Als ich anschließend daran mit <name type="person" ref="per:97676">Tomy Lachs</name> vom Gewerkschaftsbund<lb/>
+über diese Situation sprach erklärte er, daß die Forderungen ja nur<lb/>
+ursprünglich schon bereits vom Gewerkschaftsbund und Arbeiter<lb break="no"/>kammer erhobenen Forderungen waren die seit eh und je verlangt<lb/>
+wurden. Dies ist richtig. Man vergißt allerdings, daß sie so<lb/>
+konkret formuliert, wie sie das Arbeitspapier vom Arbeitsaus<lb break="no"/>schuß den <name type="person" ref="per:97627">Heinzi Kienzl</name> einberufen hatte, forderte bisher noch nie<lb break="no"/><pb n="01-0044" facs="01_1970-04-29_0044.jpg"/>mals solchen Umfange, tatsächlich aufgestellt wurde.<lb/>
+Außerdem glaube ich haben wir vergessen, daß früher die Bundes<lb break="no"/>kammer natürlich den absoluten Schutz der Regierung hatte, den<lb/>
+sie jetzt vermißt und noch immer nicht glaubt, daß ich ihre lnter<lb break="no"/>essen tatsächlich vertreten soll.<lb/>
+Wir kamen überein, daß bei der Paritätischen Kommission kein<lb/>
+konkretes Papier überreicht wird, sondern daß ein Unterausschuß<lb/>
+bei den Ministerien, der Vorschlag lautete beim Handelsministerium,<lb/>
+errichtet werden soll, der einen entsprechenden Entwurf für Maß<lb break="no"/>nahmen ausarbeitet, die dann in der Präsidentenbesprechung oder<lb/>
+in der nächsten Paritätischen Kommission diskutiert und beschlossen<lb/>
+werden kann und wo die Regierung dann ein, auf gemeinsamer<lb/>
+Basis erstelltes Programm hätte, das den Preisauftrieb be<lb break="no"/>kämpfen sollte. Interessant waren die Äußerungen, daß ich auch<lb/>
+in Zukunft nur mit <name type="person" ref="per:97769">Musil</name> und <name type="person">Vasaleger</name> Kontakt aufnehmen sollte,<lb/>
+da, wie sich <name type="person" ref="per:97769">Musil</name> ausdrückt, es uns in der Vergangenheit gelungen sei, selbst ihre Leute<lb/>
+schon von den Maßnahmen zu überzeugen, ich würde fast sagen zu<lb/>
+infizieren und daraus keine Gewähr mehr gegeben ist, daß die<lb/>
+Funktionäre ihre Sekretäre oder Angestellten decken. Es<lb/>
+kam neuerdings die Frage der Regierungsbildung im Rahmen der<lb/>
+Koalitionsverhandlungen zur Sprache und <name type="person" ref="per:97893">Sallinger</name> erklärte, daß<lb/>
+es sicher eine Möglichkeit gegeben hätten, wenn man ernstlich<lb/>
+an eine solche Lösung, nämlich eine große Koalition gedacht hat.<lb/>
+<name type="person" ref="per:97346">Benya</name> erwiderte, daß er stets ein Anhänger der großen Koalition<lb/>
+gewesen ist, daß aber <name type="person" ref="per:98091">Withalm</name> keine wie immer gearteten<lb/>
+Anzeichen erkennen ließ, daß er tatsächlich eine solche wollte.</p>
+            <pb n="01-0045" facs="01_1970-04-29_0045.jpg"/>
+            <p xml:space="preserve">Eher war die Befürchtung unsererseits, daß er eine kleine<lb/>
+Koalition bilden möchte. Dazu erklärte <name type="person" ref="per:97893">Sallinger</name>, daß dafür<lb/>
+innerhalb der ÖVP keine Mehrheit gefunden werden könnte.<lb/>
+Die Parteispitze spreche. sich ganz entschieden gegen eine<lb/>
+kleine Koalition aus und in dem mittleren Funktionärapparat<lb/>
+könnten höchstens 10 – 20 % für eine solche Lösung gewonnen<lb/>
+werden. <name type="person">Musil</name> meinte sogar, er hätte am Montag noch geglaubt.<lb/>
+daß es sich nur um ein taktisches Manöver handle. Als man<lb/>
+<name type="person" ref="per:97607">Jonas</name> einschaltete, war er der Meinung, daß dies dazu dienen<lb/>
+sollte. um <name type="person" ref="per:97607">Jonas</name> für die nächste Bundespräsidentenwahl aufzu<lb break="no"/>merken. Sei es der Bundespräsident hätte in Erscheinung treten<lb/>
+sollen, daß er doch noch einmal die Koalition und damit Österreich<lb/>
+gerettet hätte. <name type="person" ref="per:97346">Benya</name> erwiderte, daß dies ein anderes Ver<lb break="no"/>halten von <name type="person" ref="per:98091">Withalm</name> vorausgesetzt hätte. Als er Montag zum<lb/>
+Bundespräsidenten kam, hatte er nur Bericht erstattet und keine<lb/>
+wie immer gearteten Andeutungen gemcht, was die ÖVP jetzt<lb/>
+zu tun gedenke. Auf ein diesbezügliches Vorhalten im Plenum,<lb/>
+in einem Zwischenruf, erwiderte <name type="person" ref="per:98091">Withalm</name>, daß er vom Bundes<lb break="no"/>präsident dazu nicht aufgefordert wurde. ln der Plenumdiskussion<lb/>
+hatten auch die Kontraredner zur Regierungserklärung von der ÖVP<lb/>
+darauf hingewiesen, daß sie angenommen haben, <name type="person" ref="per:97668">Kreisky</name> hätte durch<lb/>
+seine Taktik die ÖVP ausgespielt. Zu meiner größten Verwunderung<lb/>
+nickte zu diesen Ausführungen <name type="person" ref="per:97818">Pittermann</name> immer zustimmend.</p>
+            <pb n="01-0046" facs="01_1970-04-29_0046.jpg"/>
+            <p xml:space="preserve">Zur Ressortverteilung sagte abschließend <name type="person" ref="per:97893">Sallinger</name> noch, man<lb/>
+hätte sich mit jeder Lösung einverstanden erklärt, sie hätten<lb/>
+nur nicht das Verteidigungsministerium nehmen können. Es<lb/>
+hätte ihnen aber nichts ausgemacht, wenn die Sozialisten das<lb/>
+Innenministerium und damit auch die gesamten Exekutivkörper<lb/>
+Polizei, Gendarmerie und Heer in der Hand gehabt hätten.<lb/>
+Sie sind der Meinung, daß keine wie immer ge<lb break="no"/>artete Gefahr, wie in der 1. Republik, besteht, wenn eine<lb/>
+Partei de gesamte Exekutive in der Hand hat.</p>
+            <p xml:space="preserve">Zum Abschluß offerierte ich der Bundeskammer mein Kontingent<lb/>
+zur Ernennung der Kommerzialräte und bat sie, sich mit Präsident<lb/>
+<name type="person" ref="per:97656">Kostroun</name> vom Freien Wirtschaftsverband ins Einvernehmen zu<lb/>
+setzen, um in Zukunft einvernehmliche Vorschläge zur Ernennung<lb/>
+der Kommerzialräte zu erhalten. Zum Schluß bat ich noch um<lb/>
+einen Termin für eine endgültige Vorbesprechung zur nächsten<lb/>
+Paritätischen Kommission, da aber Präsident <name type="person" ref="per:97893">Sallinger</name> seinen<lb/>
+Terminkalender nicht bei sich hatte, sagte er mirzu, er würde<lb/>
+mir von seinem Büro noch mitteilen, wann eine solche Vorbe<lb break="no"/>sprechung stattfinden könnte.</p>
+         </div>
+      </body>
+    
+  </text>
+</TEI>

@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittwoch, der 18. Juni 1980</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band55_1980-06-18</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1980-06-18">Mittwoch, 18. Juni 1980</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2017-11-27">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="55-0754" facs="55_1980-06-18_0754.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Mittwoch, 18. Juni 1980<lb/>
+</p>
+            <p xml:space="preserve">In der Beiratssitzung bei der Bürges wurde von den Geschäftsführern<lb/>
+berichtet, daß in allen Aktionen weitere Steigerungen zu verzeich<lb break="no"/>nen sind. Am meisten wurden bei den Existenzneugründungen Steige<lb break="no"/>rungsraten über 300 % festgestellt. Die durchschnittliche Prämie<lb/>
+ist von 440.000.–– auf 600.000.–– S gegenüber dem Vorjahr ange<lb break="no"/>stiegen. Überrascht war ich, daß bei den einzelnen Aktionen die<lb/>
+Ablehnungsquote sehr stark gestiegen ist. Dies wurde auf meine<lb/>
+Frage dahingehend geklärt, daß von den Banken unzulänglich ausge<lb break="no"/>füllte Anträge, diese größtenteils ohne Beilagen, eingereicht werden.<lb/>
+Die Bürges schreibt den Kreditnehmer an und verlangt entsprechende<lb/>
+Ergänzungen. Bis zu 80 % kommen dann die richtig ausgefüllten<lb/>
+Formulare. In diesem Fall kann dann entsprechend positiv entschie<lb break="no"/>den werden. Geschäftsführer <name type="person" ref="per:113824">Hönlinger</name> beschwerte sich über die<lb/>
+Banken wegen der unqualifizierten Angriffe. Die Länderbank hat<lb/>
+ein Plakat, wenn man schnell Geld braucht, dann sofort zu ihr zu<lb/>
+kommen, bei subventionierten Krediten dauert es lang. Die Bürges<lb/>
+ist zwar nicht namentlich genannt, aber jedermann weiß, daß es<lb/>
+sich in dem Fall um unsere Aktion handelt. Die Creditanstalt wieder<lb/>
+behauptet, bis 360.000,–– soll man sich an sie wenden, dort geht<lb/>
+es schnell und ohne Stützung. Ich erklärte mich sofort bereit, ge<lb break="no"/>gen diese unfaire Propaganda ein entsprechendes Schreiben an die<lb/>
+beiden Institute zu richten.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Mit dem Brief bitte <name type="person" ref="per:97584">Jagoda</name> befassen.<lb/>
+</p>
+            <p xml:space="preserve">Im Klub hat <name type="person" ref="per:113083">Sinowatz</name> über Schulgesetze, <name type="person" ref="per:97511">Haiden</name> über die Marktord<lb break="no"/>nungen und ich über die anderen Wirtschaftsgesetze berichten müssen.<lb/>
+Ich unterstrich selbstverständlich, daß unsere Funktion im Handels<lb break="no"/>ausschuß ausschließlich darin besteht, <name type="person" ref="per:97511">Haiden</name> in seiner schweren<lb/>
+Auseinandersetzung mit der Landwirtschaft zu unterstützen. Obwohl<lb/>
+sich in der Diskussion weder bei ihm noch bei mir jemand zu Wort<lb/>
+meldete, hat mir dann NR <name type="person" ref="per:97809">Pfeifer</name>, der Agrarsprecher unseres Klubs,<lb/>
+versichert, daß diese Taktik ihnen sehr viel hilft. <name type="person" ref="per:97757">Mühlbacher</name><lb/>
+wieder meinte, dies spielen wir ja jetzt auch schon 10 Jahre mit<lb/>
+mehr oder minder gutem Erfolg, und er ist vom Standpunkt des Freien<lb/>
+<pb n="55-0755" facs="55_1980-06-18_0755.jpg"/>Wirtschaftsverbandes auch mit dieser Taktik sehr einverstanden.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97757">Mühlbacher</name> berichtet dann auch über die Klubkasse. Einnahmen von<lb/>
+19 Mrd. stehen Ausgaben von 23,4 Mrd. gegenüber. Der Klub wäre also<lb/>
+im wahrsten Sinne des Wortes pleite. Die wichtigsten Posten sind<lb/>
+6 Mio. S Personal, 2 Mio. S Veranstaltungen und 680.000.–– für Reisen.<lb/>
+Die große Post aber ist 13 Mio. S für den Wahlfonds, der die Passiv<lb break="no"/>gebarung erklärt.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> hielt dann im Klub die Gedenkrede für <name type="person" ref="per:98043">Waldbrunner</name>. Da man<lb/>
+ja bei allen diesen Anlässen meist nur das Positive herausstreicht,<lb/>
+ist es selbstverständlich, daß sie, wenn man erst ein paar Interna<lb/>
+kennt, anders ausfiel, als die Wirklichkeit war. <name type="person" ref="per:98043">Waldbrunner</name> hatte<lb/>
+sich aus der Regierung grollend zurückgezogen oder wurde besser<lb/>
+gesagt nicht mehr aufgestellt, als <name type="person" ref="per:97904">Schärf</name> als seinen Nachfolger<lb/>
+<name type="person" ref="per:97818">Pittermann</name> und nicht <name type="person" ref="per:98043">Waldbrunner</name> vorschlug. Als <name type="person" ref="per:97818">Pittermann</name> dann ge<lb break="no"/>stürzt werden sollte, war die erklärte Absicht von der damaligen Ge<lb break="no"/>werkschaftsbundführung <name type="person" ref="per:98043">Waldbrunner</name> an seine Stelle zu setzen.<lb/>
+<name type="person" ref="per:98043">Waldbrunner</name> ist damals aber schwer erkrankt, er hatte zeitweise<lb/>
+blackouts, was natürlich zu diesem Zeitpunkt niemand wußte, und hat<lb/>
+deshalb auf diese Berufung verzichtet. Er und dann insbesonders<lb/>
+dann <name type="person" ref="per:97346">Benya</name> wollte damals den Genossen <name type="person" ref="per:97389">Hans Czettel</name> zum Obmann wählen.<lb/>
+Die Begründung war, man soll gleich sozusagen die nächste Gene<lb break="no"/>ration heranziehen, nur damit <name type="person" ref="per:97668">Kreisky</name> nicht zum Zuge kommt. All<lb/>
+das kann man natürlich bei einer Gedenkfeier nicht sagen, ist mir<lb/>
+aber so richtig in den Sinn gekommen und ich habe dem neben mir<lb/>
+sitzenden <name type="person" ref="per:97543">Heindl</name> erzählt, damit wenn dies auch nirgends geschrieben<lb/>
+wird, vielleicht doch in der mündlichen Überlieferung sicherlich,<lb/>
+von mir teils subjektiv betrachtet, ein kleiner Beitrag zum wahren<lb/>
+Geschichtsablauf festgehalten wird. Der Abgeordnete a.D. <name type="person" ref="per:126259">Mark</name>, der<lb/>
+übrigens zu meiner größten Überraschung bereits 80 Jahre ist, hat<lb/>
+mir, als ich ihm zu seiner Wirkungsstätte, dem Volksbildungswerk,<lb/>
+mit dem Auto führte, gesagt, <name type="person" ref="per:98043">Waldbrunner</name>, der stets als gefühlsloser<lb/>
+trockener Machtmensch-Manager-Bürokrat galt, hat insbes. zu Gra<lb break="no"/>tulationsgelegenheiten die herzlichsten Briefe an den Betroffenen<lb/>
+geschrieben. Dies kann ich nur bestätigen.<lb/>
+</p>
+            <p xml:space="preserve">Offiziell wurde in der Säulenhalle dann von <name type="person" ref="per:97346">Benya</name> sozusagen vor<lb/>
+dem versammeltem National und Bundesrat in Anwesenheit der Familie<lb/>
+<pb n="55-0756" facs="55_1980-06-18_0756.jpg"/>die Trauerrede gehalten. <name type="person" ref="per:97346">Benya</name> war sehr gerührt, sprach sehr<lb/>
+leise, die Verstärkeranlage war nicht richtig eingestellt und man<lb/>
+verstand daher kein Wort. Ich kann mir diese Trauerrede aber sehr<lb/>
+gut denken, denn zwischen <name type="person" ref="per:97346">Benya</name> und <name type="person" ref="per:98043">Waldbrunner</name> bestand, wie <name type="person" ref="per:97627">Heinzi<lb/>
+Kienzl</name> immer sagte, das selbe Verhältnis wie zwischen einem Werk<lb break="no"/>meister und dem Oberingenieur. <name type="person" ref="per:97346">Benya</name> hatte von <name type="person" ref="per:98043">Waldbrunner</name> eine<lb/>
+ungeheuer positive Meinung und auch einen entsprechenden Respekt.<lb/>
+Mit diesen Bemerkungen über <name type="person" ref="per:98043">Waldbrunner</name> möchte ich aber unter gar<lb/>
+keinen Umständen seine wirklich großen Leistungen vergessen oder<lb/>
+gar herabsetzen. Ganz im Gegenteil. Ich weiß heute mehr denn je<lb/>
+seinen Einsatz und seine harte Auseinandersetzung innerhalb der<lb/>
+Regierung zu schätzen. Des öfteren war Bundeskanzler <name type="person" ref="per:97852">Raab</name> daran,<lb/>
+zu erklären, mit <name type="person" ref="per:98043">Waldbrunner</name> kann man nicht zusammenarbeiten und<lb/>
+er wird beim Bundespräsidenten seine Abberufung verlangen. Da in<lb/>
+der Koalition ja letzten Endes immer Kompromisse erzielt werden<lb/>
+mußten, war sicherlich in der Regierung ein Mann wie <name type="person" ref="per:98043">Waldbrunner</name><lb/>
+dringendst notwendig, der mit seiner sturen Haltung, die, davon<lb/>
+bin ich überzeugt, andere Seite sture Haltung aufgewogen hat.<lb/>
+</p>
+            <p xml:space="preserve">Im Plenum wurde dann über die Bestellung des neuen Rechnungshofprä<lb break="no"/>sidenten <name type="person" ref="per:112588">Broesigke</name> hart und lang diskutiert. Die ÖVP wollte bei<lb/>
+dieser Gelegenheit auch ihren Vizepräsidenten <name type="person" ref="per:122972">Marschall</name>, der schon<lb/>
+über 70 ist, gegen den Abgeordneten <name type="person" ref="per:112626">Hauser</name> austauschen. Die Klub<lb break="no"/>leitung stimmte dem nicht zu, weshalb die ÖVP den <name type="person" ref="per:112588">Broesigke</name> nicht<lb/>
+wählte. Das Abstimmungsergebnis war dann aber sehr interessant. Von<lb/>
+175 abgegebenen Stimmen waren 168 gültig. Von den 95 Abgeordneten<lb/>
+waren 93 Sozialisten anwesend. Von den 11 Freiheitlichen ist anzu<lb break="no"/>nehmen, daß <name type="person" ref="per:112588">Broesigke</name> nicht sich selbst gewählt hat, weshalb po<lb break="no"/>sitiv 103 theoretisch herauskommen und tatsächlich auch für<lb/>
+<name type="person" ref="per:112588">Broesigke</name> 103 gezählt wurden. Von den 77 Abgeordneten der ÖVP waren<lb/>
+74 gemeldet, 65 stimmten mit nein, weshalb anzunehmen ist, daß<lb/>
+eine Anzahl von ÖVP-Abgeordneten ungültige Stimmen abgegeben haben.<lb/>
+Dies sind natürlich alles nur Vermutungen, die aber sicherlich zu<lb break="no"/>treffen. <name type="person" ref="per:112588">Broesigke</name> war nämlich auch bei der ÖVP sehr beliebt und<lb/>
+die Redner, insbes. dann zum Schluß der Wirtschaftsklubvertreter<lb/>
+Präs. <name type="person" ref="per:97487">Graf</name> hat fast eine Laudatio auf <name type="person" ref="per:112588">Broesigke</name> gehalten. Etliche<lb/>
+ÖVP-Abgeordnete haben sich deshalb nicht an die Klubempfehlung<lb/>
+und an den Klubbeschluß gehalten.<lb/>
+</p>
+            <pb n="55-0757" facs="55_1980-06-18_0757.jpg"/>
+            <p xml:space="preserve">Bei dem Aufruf zur Abstimmung ist den sozialistischen Abgeordneten<lb/>
+<name type="person" ref="per:115452">Haas</name> bei meinem Namensaufruf ein kleines Malheur passiert, was all<lb break="no"/>gemeine Heiterkeit auslöste und mir einen neuen Spitznamen einbrach<lb break="no"/>te. Der Obmann des Handelsausschusses <name type="person" ref="per:112996">Staudinger</name>, mit dem ich sehr<lb/>
+gut zusammenarbeite und unmittelbar nach mir und <name type="person" ref="per:115452">Haas</name> hat deshalb<lb/>
+meinen Namen verballhornt und STAUDIBACHER gesagt. Neben SALLIBACHER,<lb/>
+Kombination aus <name type="person" ref="per:97893">Sallinger</name> und <name type="person" ref="per:97985">Staribacher</name>, nehme ich diese Kombi<lb break="no"/>nation sehr gerne in meine Spitznamenliste auf.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Bitte eintragen.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Betriebsbesichtigung von Unilever in Atzgersdorf mit der<lb/>
+ungarischen Gewerkschaftsdelegation hatte ich Gelegenheit über die<lb/>
+Fettpläne mit dem dafür zuständigen Unilever-Direktor zu reden.<lb/>
+Dieser erklärte mir, die Unilever hätte bereits ähnlich der Stärke<lb break="no"/>abgabe einen Entwurf vollkommen fertig ausgearbeitet, er hat dies<lb break="no"/>bezüglich auch Gespräche mit NR <name type="person" ref="per:114075">Schmidt</name>, ÖGB, schon geführt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Die Nachfolgerin von <name type="person" ref="per:114739">Goldmann</name> soll sich diese<lb/>
+Unterlagen beschaffen.<lb/>
+</p>
+            <p xml:space="preserve">Die Besprechung mit den Agrarvertretern und <name type="person" ref="per:97668">Kreisky</name>, <name type="person" ref="per:97511">Haiden</name>, mir<lb/>
+und<add>[dem]</add> nur zeitweise anwesenden Finanzminister <name type="person" ref="per:97311">Androsch</name> verlief wie<lb/>
+erwartet. <name type="person" ref="per:97743">Minkowitsch</name> leitete ein und meinte, die Marktordnung<lb/>
+soll morgen im Plenum beschlossen werden und die Bauern erhoffen<lb/>
+und erwarten, ja fordern sogar, flankierende Maßnahmen. Aufgezählt<lb/>
+wurde von ihm Getreide, Ölsaaten, Gemüse, Obst, Stärkeförderung,<lb/>
+Wein, ernstlich gemeint hat er allerdings nur das Vieh. Dort sind<lb/>
+die Preise 3 Jahre unverändert und die Bauern erwarten, daß um<lb/>
+2 S der Erzeugerpreis erhöht wird. Zu diesem Zweck möchten sie,<lb/>
+daß zusätzliche 60 Mio. S für den Export von Vieh vom Bund bereit<lb break="no"/>gestellt werden. In diesem Fall hoffen sie, daß durch die höhere<lb/>
+Exportstützung auch der inländische Abgabepreis auf den Märkten um<lb/>
+2 S erhöht werden kann. Theoretisch ist dies möglich, wenn die<lb/>
+Preisbänder von der Viehkommission um diesen Preis angehoben werden.<lb/>
+Praktisch aber läuft es, wie ich dann versuchte den Bauern ausein<lb break="no"/>anderzusetzen, darauf hinaus, daß die Fleischhauer dann auch be<lb break="no"/>reit sind, diese höheren Viehbänderpreise zu bezahlen. Bei einem<lb/>
+<pb n="55-0758" facs="55_1980-06-18_0758.jpg"/>größeren Angebot wird dies sicherlich nicht der Fall sein, es<lb/>
+sei denn, es wird noch stärker auf den Märkten interveniert, als<lb/>
+dies bis jetzt geschehen ist. Dann aber werden wieder wesentlich<lb/>
+größere Mittel von seiten des Landwirtschaftsministerium eingesetzt<lb/>
+werden müssen. <name type="person" ref="per:97511">Haiden</name> erörterte, daß er im Budget außer die 300 Mio.<lb/>
+Abschöpfung, da er für die Export- und Marktintervention 700 Mio.<lb/>
+braucht, 400 aus dem Budget vom Finanzminister bereitgestellt braucht.<lb/>
+Er muß deshalb auch in einem weiteren BÜG 70 Mio. zu dem an und für<lb/>
+sich schon hohen Budgetansatz 1980 von 608 Mio. zusätzlich verlangen.<lb/>
+Dies ist den Bauern aber natürlich verhältnismäßig wurscht, sie<lb/>
+wollen nur eine unbedingte Lösung für ihre katastrophalen Vieh<lb break="no"/>preise. Da der Milchpreis, wie sie sagen, jetzt einigermaßen be<lb break="no"/>friedigt geregelt ist, streben sie ein Verhältnis 1 zu 7 zwischen<lb/>
+Milch und Vieh an. Natürlich sind sie froh, wenn sie 1 zu 6 errei<lb break="no"/>chen würden. Selbst in der ÖVP-Alleinregierungszeit unter Land<lb break="no"/>wirtschaftsminister <name type="person" ref="per:97917">Schleinzer</name> wurde dieses Verhältnis nie erreicht.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Jour Fixe AK und HK setzen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> hat in dieser Sitzung dann auch über seine Intervention<lb/>
+in der EG berichtet und meinte, nach x-maligen Interventionen von<lb/>
+<name type="person" ref="per:97511">Haiden</name> und jetzt auch <name type="person" ref="per:97985">Staribacher</name> könne er nur sagen, daß die EG<lb/>
+sich sehr ängstlich verhält, weil sie befürchtet, eine Lawine los<lb break="no"/>zutreten. Mit Großbritannien werden im Herbst wieder Verhandlungen<lb/>
+wegen der Agrarpreise und Leistungen der EG zu den Agrarsubventio<lb break="no"/>nen, die ja fast 200 Mrd. schon betragen, neu aufnehmen. <name type="person" ref="per:97668">Kreisky</name><lb/>
+meinte, die Weinregelung wird bald erfolgen. Damit könnte dann<lb/>
+hochgrädiger Wein und auch Qualitätswein zusätzlich in die EG ge<lb break="no"/>liefert werden.<lb/>
+</p>
+            <p xml:space="preserve">Überraschend für mich war, daß <name type="person" ref="per:97311">Androsch</name> zuerst Gespräche mit<lb/>
+<name type="person" ref="per:97893">Sallinger</name> führte und spät zur Sitzung kam, dort sich nur ein paar<lb/>
+Minuten aufhielt und dann sofort wieder telefonieren ging, ein<lb/>
+einziges Mal kurz das Wort nahm und nur bemerkte, die Subvention<lb/>
+wird immer größer, obwohl man ihm erklärt hat, mit der Bereinigung<lb/>
+beim letzten Mal sei das Agrarbudget jetzt stabilisiert und an<lb break="no"/>sonsten demonstrativ sein Desinteresse an der Zusammenarbeit mit<lb/>
+<name type="person" ref="per:97668">Kreisky</name> demonstrierte. Dies Ganze entzündete sich an der sogenannten<lb/>
+<pb n="55-0759" facs="55_1980-06-18_0759.jpg"/>Quellenbesteuerung für Spar- und Bankeinlagen. <name type="person" ref="per:97668">Kreisky</name> will diese<lb/>
+6 Mrd. Einnahmen für den Bund erschließen, <name type="person" ref="per:97311">Androsch</name> möchte dafür<lb/>
+lieber die Mehrwertsteuer für elektrischen Strom von 8 auf 18<lb/>
+erhöhen, <name type="person" ref="per:97346">Benya</name> wird diesmal kaum vermitteln können. Der Vorsitzende<lb/>
+der gewerkschaftlichen Steuerkommission, Abg. <name type="person" ref="per:111740">Dallinger</name>, hat sich<lb/>
+eindeutig für die Quellensteuer entschieden. Die Idee der Quellen<lb break="no"/>besteuerung ist sogar von <name type="person" ref="per:97346">Benya</name>, wie er mir sagte, vor der vorletzten<lb/>
+Regierungsklausur in Mallnitz aufgebracht worden, <name type="person" ref="per:97311">Androsch</name> hat sie<lb/>
+ihm damals nur ausgeredet, diesmal dürfte es <name type="person" ref="per:97311">Androsch</name> aber nicht<lb/>
+einmal bei <name type="person" ref="per:97668">Kreisky</name> gelungen sein. An diesem Sachproblem spitzt<lb/>
+sich nun der persönliche Konflikt zwischen <name type="person" ref="per:97668">Kreisky</name> und <name type="person" ref="per:97311">Androsch</name><lb/>
+immer mehr zu. Im Klub selbst sind die Meinungen sehr geteilt. Offen<lb/>
+wurde und wird nicht diskutiert, niemand kann daher feststellen,<lb/>
+wie die Mehrheitsverhältnisse in diesem Fall im Sachproblem liegen.<lb/>
+Dies ist aber, so wie oft schon, auch gar nicht im Detail interessant,<lb/>
+hier geht es, wie ich gestern bei der Sektionsleitersitzung auf<lb/>
+der Landstraße feststellen konnte, ohne daß die Genossen auch nur<lb/>
+Details wußten, aber gefühlsmäßig richtig tippten, eben um eine<lb/>
+persönliche Auseinandersetzung zwischen Kanzler und Vizekanzler.<lb/>
+Wie das enden wird, ich getraue mir in diesem Fall keine Prognose<lb/>
+zu machen. Eines steht für mich nur fest, die fast unerträglichen<lb/>
+persönlichen Aversionen müssen früher oder später zu einer Lösung<lb/>
+führen. Lösung im wahrsten Sinne des Wortes.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="55_0753_01" facs="55_1980-06-18_0753-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 18.6.1980</head>
+         </div>
+         <pb n="55_0753_02" facs="55_1980-06-18_0753-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

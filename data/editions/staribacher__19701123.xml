@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Montag, der 23. November 1970</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band03_1970-11-23</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1970-11-23">Montag, 23. November 1970</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-04-11">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-02-27" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+  <text xml:base="http://192.168.0.9/staribacher/src/scans/Band03/">
+      <body>
+         <pb n="03-0828" facs="03_1970-11-23_0828.jpg"/>
+         <div type="entry">
+            <dateline>
+               <date when="1970-11-23">Montag, 23.November 1970</date>
+            </dateline>
+            <p xml:space="preserve">Um der ÖVP im Parlament die Angriffsmöglichkeiten zu nehmen, hatten<lb/>
+wir – <name type="person" ref="per:97632">Kirchschläger</name> und ich – eine Pressekonferenz betreffend Inte<lb break="no"/>gration vereinbart. Bekanntlich hat ja die ÖVP als einen meiner schwa<lb break="no"/>chen Punkte entdeckt, dass ich die Kompetenz, die mir auf Grund des<lb/>
+Nationalratsbeschlusses von 1966, d.h. das Kompetenzgesetz von der<lb/>
+damaligen Zeit, zusteht, nicht entsprechend wahrnehme. Nach diesem<lb/>
+Gesetz hätte ich in Brüssel Erklärungen abgeben müssen. <name type="person" ref="per:97646">Koppe</name> meinte,<lb/>
+nachdem wir auf recht schwachem Fuss stehen, müssten wir propagandistisch<lb/>
+und optisch sofort einen entsprechenden Gegenangriff starten. Die<lb/>
+Pressekonferenz wurde von einer grossen Anzahl ausländischer aber<lb/>
+auch inländischer Journalisten besucht, niemand von uns hatte an<lb break="no"/>genommen, dass so viele und bedeutende Journalisten kommen würden.<lb/>
+Von der Prawda bis zur New York Herald Tribune war alles vertreten.<lb/>
+Nach einer Erklärung meinerseits, wo ich insbesondere darauf hin<lb break="no"/>wies, dass wir jetzt die Vorbereitungsarbeiten für das Interimsab<lb break="no"/>kommen in Arbeitsgruppen ganz hervorrangend vorbereitet haben, begann<lb/>
+nach einer kurzen Erklärung <name type="person" ref="per:97632">Kirchschlägers</name> die Diskussion. Vorerst<lb/>
+allerdings hatte ich noch die Delegationsführung, Botschafter <name type="person" ref="per:135642">Leitner</name><lb/>
+und auch die anderen Herren, die bei den Vorbereitungsarbeiten<lb/>
+und hier insbesondere bei der Delegation sein würden, vorgestellt.<lb/>
+Bei dieser Gelegenheit verwies ich insbesondere auf die Büroführung<lb/>
+des Vorbereitungskomitees, die Dr. <name type="person" ref="per:114800">Michitsch</name> anvertraut wurde. <name type="person" ref="per:97867">Reiterer</name><lb/>
+hat bekanntlicherweise – zumindstens wurde mir dies mitgeteilt – bei<lb/>
+<name type="person" ref="per:114800">Michitsch</name> bis jetzt ziemlich abgemauert, obwohl er ein sehr tüchtiger<lb/>
+Mann ist. Schon allein aus diesem Grund hatte ich ihn der Presse<lb/>
+entsprechend präsentiert. Die Fragen bewegte sich zuerst in einem<lb/>
+ziemlich ausgefahreren Geleise und es wollten insbesondere viele<lb/>
+Detailinformationen haben, die ich soweit es irgendwie möglich war,<lb/>
+ohne unsere Verhandlungsposition allzu sehr preiszugeben, auch ent<lb break="no"/>sprechend beantwortete. Bald wäre unser Hauptgrund, warum wir die<lb/>
+Pressekonferenz einberufen hatten, untergegangen. Im letzten Moment<lb/>
+hat nicht zuletzt durch die Intervention von <name type="person" ref="per:97646">Koppe</name>, Koll. <name type="person" ref="per:107937">Frank</name><lb/>
+eine Presseredakteurin der Arbeiterkammer, die Frage über die<lb/>
+Angriffe der ÖVP an uns gestellt. <name type="person" ref="per:97632">Kirchschläger</name> antwortete mir gleich<lb/>
+bei der Fragestellung, indem er mir ins Ohr flüsterte, na endlich !<lb/>
+Ich hatte jetzt Gelegenheit, durch entsprechende humorvollle Ausfü<lb break="no"/>hrungen auf die Argumentation der ÖVP einzugehen. Ich wiederholte, was<lb/>
+ich bereits im Ausschuss gesagt hatte, dass ich jeden Beistrich des<lb/>
+<pb n="03-0829" facs="03_1970-11-23_0829.jpg"/>Kompetenzgesetzes wahrnehmen werde, ich aber wirklich keinen Grund<lb/>
+gesehen hatte, nach Brüssel zu fahren. Ich fragte, ob wir vielleicht<lb/>
+gemeinsam hätten die Erklärung der Bundesregierung vorlesen, oder<lb/>
+ob vielleicht <name type="person" ref="per:97632">Kirchschläger</name> einen Satz und ich einen zweiten Satz<lb/>
+hätte vorlesen sollen. Die Erklärung war im Ministerrat abgestimmt<lb/>
+und letzten Endes festgelegt worden. Wenn ich sie verlesen hätte,<lb/>
+sagte ich, hätte ich vielleicht eine andere Betonung auf die einzelnen<lb/>
+Wörter gelegt. <name type="person" ref="per:97632">Kirchschläger</name> selbst stellte ebenfalls seinerseits<lb/>
+fest, dass es sich um eine aussenpolitische Erklärung gehandelt hatte,<lb/>
+die wohl natürlich Integrationsfragen betraf und deshalb voll<lb break="no"/>kommen richtig von ihm in Brüssel abgegeben worden war. Wir<lb/>
+werden ja sehen. ob die ÖVP im Parlament diesen Angriff zurück<lb break="no"/>nehmen wird. d.h. auf ihn verzichten wird.</p>
+            <p xml:space="preserve">Da das zweite Budgetüberschreitungsgesetz nun im Finanzausschuss ge<lb break="no"/>nehmigt wurde, hatte ich grünes Licht, um endlich auch die ent<lb break="no"/>sprechenden Mitteln im Hause zu vergeben. Die einzelnen Abteilungen<lb/>
+hatten deshalb entsprechende Vorschläge nach ihrer Meinung vorberei<lb break="no"/>tet. Dr. <name type="person" ref="per:136485">Renner</name>, der die Abteilung führte, welche bisher über die<lb/>
+Gelder des gewerblichen Forschungsfonds verfügte, wollte ebenfalls<lb/>
+2 Mill. S, die im Budget für ihn gar nicht vorgesehen waren, aus<lb/>
+der Wirtschaftsförderung, um weitere Mittel Firmen zuzuleiten. Er<lb/>
+stellte sich vor, dass wir der Firma Piler in Gleisdorf, für eine<lb/>
+Vertikalförderung, die dort entsprechend in Entwicklung stand<lb/>
+und vor allem Seibersdorf je eine Million geben sollten. Seibersdorf<lb/>
+hätte ein Projekt damit finanziert, um das radioaktive Wasser wieder<lb/>
+zu reinigen. Ich lehnte nicht nur aus Budgetmangel sondern aus prinzipi<lb/>
+ellen Gründen es ganz entschieden ab, da wir den Fonds an das Wissen<lb break="no"/>schaftsministerium abgetreten hatten und jetzt aus unserem Budget für<lb/>
+einzelne Projekte Finanzierungen durchführen, die gar nicht mehr in<lb/>
+unsere Kompetenz fallen. Bei der Abteilung <name type="person"><sic>Wohlgemut</sic></name> hatten Min.Rat<lb/>
+<name type="person" ref="per:110035">Thun-Hohenstein</name> zwei Firmen, u.zw. Schukra und Landmann die ebenfalls<lb/>
+einen Kredit – wie er sich ausdrückte – bekommen sollten. Jede dieser<lb/>
+Firma hätte eine halbe Million Schilling bekommen sollen, um Betriebs<lb break="no"/>mittel für die entsprechende Entwicklung zu besitzen. Ich halte eine<lb/>
+solche Vorgangsweise ebenfalls nicht für möglich. Denn ich kann mir<lb/>
+nicht vorstellen, dass es mit rechten Dingen zugeht, wenn man einer<lb/>
+Firma einen Kredit gibt und einer anderen nicht. Die Fa. Schukra<lb/>
+z.B. ist vielleicht ein echtes Erfinderschicksal, das zwar sehr gute<lb/>
+Erfindungen liefert, aber kaum einen Finanzier findet. Hier habe ich<lb/>
+<pb n="03-0830" facs="03_1970-11-23_0830.jpg"/>bereits vor etlichen Wochen gesagt, man sollte sich den Kopf zer<lb break="no"/>brechen, wie man wirklich über eine Erfindungsverwertungsgesellschaft<lb/>
+Firmen, die kein Kapital haben, irgendwie unterstützen könnte. Um<lb/>
+der Fa. Schukra diesen Kredit zu geben, müsste meiner Meinung nach z.B.<lb/>
+die Bank , die angeblich die Liquidität und Passivität der Firma herbei<lb break="no"/>geführt hat, ein Arrangement finden, wie sie die entsprchenden Kredite<lb/>
+entweder langfristig saniert oder vielleicht überhaupt streicht. Bei<lb/>
+dem anderen Förderungsprojekt hat man am gewerblichen Sektor versucht,<lb/>
+womöglich alle Förderungen, die in irgendeiner Weise parteipolitisch<lb/>
+oder gewerkschaftlich uns nahestehen, entsprechend höher zu dotieren,<lb/>
+Ohne dass ich einen diesbezüglichen Auftrag gegeben hatte. Ich konnte<lb/>
+deshalb die Forderungen, die meiner Meinung nach nicht real sind, z.B.<lb/>
+hat das BFI 6 Mill. S Projekte eingereicht, auf ein vernünftiges Ausmass<lb/>
+zurückführen. Im Fremdenverkehr hat <name type="person" ref="per:134296">Poppinger</name> wieder einmal nur ganz<lb/>
+vage Ziffern vorgelegt und sie vor allem nicht von den Ansätzen des<lb/>
+Budgets abgelassen. Ich versuchte deshalb am Ende der Sitzung <name type="person" ref="per:97722">Marhold</name>, er<lb/>
+sollte unverzüglich jetzt eine entsprechende Zusammenstellung mir für<lb/>
+die nächsten Tage machen, dann würde ich die endgültige Entscheidung<lb/>
+treffen. Vor allem aber hatte ich durchgesetz, dass wir nicht mehr,<lb/>
+so wie das früher der Fall war, jedem irgendwie, der<lb/>
+sich dafür klassifiziert, nach seiner Auffassung klassifiert, der Gelder<lb/>
+will, diese ihm automatisch, wenn auch mit einem entsprechenden Abstrich<lb/>
+gebe. In Zukunft werden wir von den Subventionsempfängern entsprechende<lb/>
+Projekte verlangen und es wurden wirklich entsprechende Einzelprojekte<lb/>
+vorgelegt. Für einzelne Projektanten, wie z.B. das ÖPZ, planen wir<lb/>
+überhaupt ganz konkrete Leistungen, die für das Haus erstellt werden<lb/>
+müssen.</p>
+            <p xml:space="preserve">Im Gemeinderatsklub wurde mit dem Wiener Ausschuss über das Budget der<lb/>
+Gemeinde Wien debattiert. Ich kam zu spät und musste dann auch zur<lb/>
+Ministerratsbesprechung früher weggehen. In der Diskussion selbst<lb/>
+aber konnte ich bereits feststellen, dass sich im Prinzip nichts geändert<lb/>
+hätte, jeder zählte seine Wünsche, die er glaubte, dass sie im Budget<lb/>
+noch untergebracht werden sollten, auf. Es wurde meiner Meinung nach<lb/>
+viel zu wenig die Taktik angewandt, die auch wir in der Regierung so<lb/>
+erfolgreich angewandt hatten, nämlich es sollten meiner Meinung nach<lb/>
+zuerst Schwerpunkte gebildet werden. Diese waren aber auch tatsächlich<lb/>
+im Gemeindebudget vorgesehen, nur war halt jetzt der Wunsch der Vater<lb/>
+der einzelen Diskutanten, der veranlasste, noch mehr Mitteln für ihre Über<lb break="no"/>legungen und Projekte bereitzustellen. Wahrscheinlich spielt aber dabei<lb/>
+eine grosse Rolle, dass wir in der Gemeindestube so stark vertreten sind,<lb/>
+<pb n="03-0831" facs="03_1970-11-23_0831.jpg"/>dass ein jeder ohne die grosse Linie zu gefährden, glaubt, seine Wünsche<lb/>
+präsentieren zu können. Vizebürgermeister <name type="person" ref="per:97899">Sandner</name> beschwerte sich deshalb<lb/>
+bei mir und meinte, sie hätte so viel für den Sport und für den ASKÖ in<lb/>
+den letzten Jahren getan und noch immer seien sie sehr sehr unzufrieden.<lb/>
+Ich hatte zu diesem Zeitpunkt noch nicht gewusst, dass sie mit dem Gemeinde<lb break="no"/>rat <name type="person" ref="per:97459">Fröhlich</name> von der ÖVP liiert ist und ja bekanntlicherweise – wie ich auch<lb/>
+jetzt weiss – im nächsten Jahr heiraten wird. Für mich zeigten die Nachreden,<lb/>
+dass man doch innerhalb der SPÖ noch nicht so weit ist, um hier die<lb/>
+sachlichen von den persönlichen Problemen zu trennen. Meine Frau, eine<lb/>
+kleine Funktionärin innerhalb der Partei, meint, dass dies eine Mesalliance<lb/>
+ist und deshalb nur zur linken Hand geheiratet werden dürfte. Der kleine<lb/>
+Funktionär kann und wird es glaube ich nicht verstehen, dass sie hier<lb/>
+diese Verbindung aufgenommen hat. In meinen Augen wäre das eine Revolu<lb break="no"/>tion innerhalb der Partei und eine Entwicklung zum wahrlich Besseren, wenn<lb/>
+es möglich wäre, dass ein Funktionär der SPÖ wirklich in seinem Privat<lb break="no"/>leben mit einem ÖVP-Funktionär verbunden sein könnte. Ich glaube aber, dass<lb/>
+die breite Masse unserer kleinen Funktionäre dies niemals akzeptieren wird.</p>
+            <p xml:space="preserve">Bei der Ministerratsvorbesprechung schlug <name type="person" ref="per:97668">Kreisky</name> vor, dass wir im Frühjahr<lb/>
+1971 wieder Konferenzen mit den Experten machen sollten. Wir wollen den<lb/>
+Leuten, die am Wirtschaftsprogramm. Kulturprogramm, Humanprogramm und<lb/>
+Schulprogramm und den vielen anderen Programmen mitgearbeitete haben,<lb/>
+bei diesen Konferenzen die Möglichkeit geben, die Berichte, die die ent<lb break="no"/>sprechenden Minister zu erstatten hätten, zu kritisieren und gegebenenfalls<lb/>
+neue Anregungen zu machen. Ausserdem schlug er vor, dass wir dann ein kon<lb break="no"/>tinuierliches Komitee aus jeder dieser Konferenz herausbilden sollten.<lb/>
+Die Wirtschafter hatten ein solches Komitee ja bereits konstituiert und<lb/>
+ich es auch gelegentlich einberufen. Ich hatte sowieso die Absicht, in<lb/>
+der nächsten Zeit im Parlament wieder eine solche Sitzung zu machen und<lb/>
+ich freute mich daher, dass auch die anderen zu einer solchen Konfrontierung<lb/>
+mit unseren Experten gezwungen werden sollten. Ich glaube nämlich auch, dass<lb/>
+das schlechteste ist, wenn sich die Mitarbeiter nachher vernachlässigt<lb/>
+fühlen, weil sie den Eindruck haben, dass man sie jetzt nicht mehr braucht.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> regte weiters an, man sollte ein Spendenkomitee schaffen. In Schwe<lb break="no"/>den z.B. gibt es dieses Komitte und wenn jemand irgendwelche Sammlungen oder<lb/>
+Spenden haben will, dann muss er von diesem Komitee autorisiert sein. Auch<lb/>
+in der BRD gibt es eine ähnliche Regelung. In Amerika sollen caritative<lb/>
+Vereine überhaupt in einer zentralen Stelle vereinigt sein und die Ver<lb break="no"/>teilung der Mittel, die zufliessen, erfolgt dort schlüsselmässig.</p>
+            <pb n="03-0832" facs="03_1970-11-23_0832.jpg"/>
+            <p xml:space="preserve">Gegen dieses Konzept hatten einige Bedenken, da sie dann befürchteten,<lb/>
+dass die ÖVP sofort kritisieren würde, dass wir auch nun vorschreiben,<lb/>
+wer Spenden entsprechend empfangen darf. Die Diskussion über dieses Problem<lb/>
+wird noch fortgesetzt.</p>
+            <p xml:space="preserve">Die vorhergehende Regierung hat den ÖBB am Schwarzenbergplatz der Akademie<lb/>
+für Musik und darstellende Kunst gewidmet, um dort eine Dependence zu<lb/>
+errichten. Ohne dass man die ÖBB davon verständigte, ja nicht einmal<lb/>
+nachdem die ÖBB jetzt zu diesem Zeitpunkt damals ein eigener Wirtschafts<lb break="no"/>körper war, die Zustimmung zu haben, muss nun die jetzige Bundesregierung<lb/>
+dieses Vorhaben durchführen. Eine Reanimierung dieses Beschlusses er<lb break="no"/>schien der ganze Bundesregierung unmöglich. Es wird deshalb die ÖBB auf<lb/>
+diesen Baugrund verzichten müssen. <name type="person" ref="per:97311">Androsch</name> machte nur darauf aufmerksam,<lb/>
+dass wir in den teuersten Gebieten unsere Universitäts- und Hochschulpro<lb break="no"/>jekte verwirklichen. Unter anderem haben wir jetzt das ehemalige Semperit<lb break="no"/>Haus für die Rechts- und staatswissenschaftliche Fakultät aufgekauft. Die<lb/>
+Technik hat am Karlsplatz entsprechende Ausweitungen vorgenommen und jetzt<lb/>
+beginnt auch die Musik- und darstellende Kunst-Akademie auf dem teuersten<lb/>
+Baugrund zu bauen. Er hätte sich vorstellen können, dass man an die Peri<lb break="no"/>pherie geht, wo es wesentlich billigere Gründe gibt. Sein Vorschlag aller<lb break="no"/>dings, eine zentrale Hochschule irgendwo zu errichten, fand auf Grund der<lb/>
+Erfahrungen, die man in Frankreich aber auch letzten Endes in Linz gemacht<lb/>
+hat, nicht die Zustimmung. Die ÖBB schätzt das Grundstück auf 73 Mill. S,<lb/>
+bei einer Ausschreibung wurde dieser Betrag auch genannt. Geschätzt aber<lb/>
+für die Vertragsverhandlung resp. Grundabtretung wurde das Grundstück mit<lb/>
+34 Mill. S. Die ÖBB wollte es im Baurecht an eine private Firma vergeben<lb/>
+und dann für die Generaldirektion 3/5 des Gebäudes mieten.</p>
+            <p xml:space="preserve"><name type="person" ref="per:97439">Figl</name> hatte seinerzeit König <name type="person" ref="per:147006">Leopold von Belgien</name> in Tirol einen Pachtver<lb break="no"/>trag mit einer 15.000 ha Jagd zu S 2.- pro ha angeboten und abgeschlossen.<lb/>
+In dieser Gegend werden jetzt für die Jagden 30 – 40.- S pro ha von den<lb/>
+Bundesforsten verlangt. Deshalb hat sich jetzt seine Frau, die die Jagd<lb/>
+in der Zwischenzeit übernommen hat, <name type="person" ref="per:97332">Lilian</name>, ganz entschieden gegen eine<lb/>
+Aufwertung des Pachtzinses ausgesprochen und erklärt, dass nur sie im<lb break="no"/>stande ist, diese alte kaiserliche auf Kaiser <name type="person">Maximilian</name> vor etlichen<lb/>
+hundert Jahren zurückgehende Jagd entsprechend zu betreuen. Der Land<lb break="no"/>wirtschaftsminister wurde aber aufgefordert, unverzüglich Verhandlungen<lb/>
+aufzunehmen und eine Revision des Pachtschillings herbeizuführen.</p>
+            <pb n="03-0833" facs="03_1970-11-23_0833.jpg"/>
+            <p xml:space="preserve">Der <name type="person">Klimt</name>-Fries über <name type="person">Beethoven</name> gehört einem Emigranten namens<lb/>
+<name type="person" ref="per:97689">Lederer</name>, der derzeit in Genf sitzt. Dieser kann den Fries nicht<lb/>
+ausführen, weil das Bundesdenkmalamt dagegen ist. Andererseits<lb/>
+aber will ihn auch des Bundesministerium für Unterricht nicht kaufen.<lb/>
+<name type="person" ref="per:97689">Lederer</name> verlangt dafür allerdings für 1 Mill. $ und hat nach Auf<lb break="no"/>fassung von <name type="person" ref="per:97488">Gratz</name> und <name type="person" ref="per:97442">Firnberg</name> sich gegen eine verünftige Regelung<lb/>
+ganz entschieden ausgesprochen. Auf alle Fälle wurde jetzt bei <name type="person" ref="per:97668">Kreisky</name><lb/>
+interveniert und <name type="person" ref="per:97668">Kreisky</name> versucht nun oder will ein entsprechendes<lb/>
+Arrangement zwischen <name type="person">Lederer</name> und der österr. Bundesregierung herbei<lb break="no"/>führen. Wir werden ja sehen, wie wir über diese Schwierigkeit hinweg<lb break="no"/>kommen.</p>
+         </div>
+      </body>
+      <back>
+         <pb n="03_0827_01" facs="03_1970-11-23_0827-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 23.11.1970</head>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+  </text>
+</TEI>

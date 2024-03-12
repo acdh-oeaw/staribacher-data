@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Montag, der  3. November 1980</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band57_1980-11-03</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1980-11-03">Montag, 3. November 1980</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-02-08">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="57-1357" facs="57_1980-11-03_1357.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Montag, 3. November 1980<lb/>
+</p>
+            <p xml:space="preserve">Dr. <name type="person" ref="per:114051">Beurle</name>, GD d. Brau AG und jetzt auch Präsident der Industriellen<lb break="no"/>vereinigung, wozu ich ihm gleich gratulierte, war sehr überrascht von<lb/>
+mir zu hören, daß in der Gesamtvorstandssitzung der LUGA sein Vorgehen<lb/>
+hart kritisiert wurde. Der ZBRO <name type="person" ref="per:113132">Suko</name> beschwert sich nicht gegen die<lb/>
+Rationalisierungsmaßnahmen und Strukturverbesserungen, sondern daß der<lb/>
+BRO nicht, wie es notwendig und sogar bis jetzt üblich war, zeitgerecht<lb/>
+eingeschaltet wurde. Der Brau AG geht es darum, daß 111 Mio. S Investi<lb break="no"/>tionsersparnisse und 49 Mio. S laufender Aufwand durch die Strukturände<lb break="no"/>rungen erspart werden. Dadurch müssen bei laufender sonstiger Rationali<lb break="no"/>sierung in Schwechat zusätzlich noch 100 Mann eingespart und in Linz<lb/>
+immerhin bei 240 Arbeitern 82 und bei 72 Angestellten 7 Angestellte ein<lb break="no"/>gespart werden, in den anderen Braustädten der Brau AG ca. 50. Für Linz<lb/>
+ist es ein schwerer Schlag, auch dann, wenn<add>[für]</add> die alkoholfreien Getränke<lb/>
+25 Mio. S Investition, allein für die Abfüllanlage 10 Mio. S, vorgesehen<lb/>
+sind. Dies ist der sicherste Beweis, daß die alkoholfreien Getränke<lb/>
+in Linz bleiben. Der Bürgermeister <name type="person" ref="per:114604">Hillinger</name> in Linz, der sich wegen<lb/>
+der Stillegung der Linzer Brauerei sehr aufregt, befürchtet, daß auch<lb/>
+die alkoholfreie Produktion bald verschwindet. <name type="person" ref="per:114051">Beurle</name> meint, in der<lb/>
+Vergangenheit gab es nur die <choice><choice><sic>Waggonfabrik Kraus</sic><corr>Lokomotivfabrik Krauss</corr></choice></choice>, die Kaffeemittelfabrik<lb/>
+Frank &amp; Kathreiner neben der Bäckerei Neuhauser &amp; Obermeyr. Jetzt<lb/>
+gibt es eine Unzahl von Industriebetrieben neben den größten VÖEST-<lb/>
+Alpine, Chemie Linz usw. <name type="person" ref="per:114051">Beurle</name> wird alle Unterlagen SC <name type="person" ref="per:111737">Marsch</name> sofort<lb/>
+schicken.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:111737">MARSCH</name> UND <name type="person" ref="per:108746">HAFFNER</name>: Bitte mir daraus sofort ein Konzept<lb/>
+machen.<lb/>
+</p>
+            <p xml:space="preserve">Vst.Dir. <name type="person" ref="per:97983">Stanek</name>, Waagner-Biro, informierte mich, daß sie mit der Ruhr<lb break="no"/>kohle AG ein gemeinsames Projekt Kokstrockenlöschung entwickeln wollen.<lb/>
+Es gibt nur 2 Staaten, die darauf Patent haben, die SU, Gipro, und Waag<lb break="no"/>ner-Biro. Die Lizenz wurde bereits auch an eine japanische Firma verge<lb break="no"/>ben. Mit Ruhrkohle soll jetzt Waagner-Biro<add>[um]</add> 10 Mio. DM ein Gesamtprojekt<lb/>
+von 23 Mio. DM errichten. Ich habe an den deutschen Wirtschaftsminister<lb/>
+<name type="person" ref="per:111707">Graf Lambsdorf</name> geschrieben, gleichzeitig nützte ich die Burgtheater-Auf<lb break="no"/>führung, wo ich seinen Staatssekretär <name type="person" ref="per:127095">Schlecht</name> getroffen habe, um die<lb/>
+Details mit ihm zu besprechen. Dieser wird sich sehr dafür einsetzen.<lb/>
+</p>
+            <pb n="57-1358" facs="57_1980-11-03_1358.jpg"/>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:127086">MARTIN</name>: Bitte mit <name type="person" ref="per:97983">Stanek</name> verbinden.<lb/>
+</p>
+            <p xml:space="preserve">Redakteur <name type="person" ref="per:127094">Kletzander</name> will im Umweltschutz einen Artikel über die Akti<lb break="no"/>vitäten der Regierung in dieser Frage schreiben. Er interviewte mich<lb/>
+diesbezüglich. Ich war überrascht, wie viel mir dazu auf Anhieb einge<lb break="no"/>fallen ist.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Laß aufgrund dieses Artikels dann stichwort<lb break="no"/>artig immer unsere Aktivitäten zusammenstellen.<lb/>
+</p>
+            <p xml:space="preserve">Beim Journalistenfrühstück hat der neue oberösterreichische Wirtschafts<lb break="no"/>landesrat <name type="person" ref="per:127093">Leibenfrost</name> die Studie "Die Energieversorgung Oberösterreichs"<lb/>
+von Prof. <name type="person" ref="per:118219">Schuster</name> vorgestellt. Dabei erwähnte er, daß die Importabhän<lb break="no"/>gigkeit in Oberösterreich, 42 % derzeit, 1985 47 % betragen wird, daß<lb/>
+für Kohle 50–70 Tage, für Heizöl 54–57 Tage, bei den Privaten so<lb break="no"/>gar für 58 ein Vorrat vorhanden ist. Die Altreifen werden jetzt in der<lb/>
+Zementfabrik verbraucht, wodurch die Landesregierung überall Container<lb/>
+aufstellen muß<add>[, um]</add> Altreifen jetzt sozusagen zweckmäßig zu verwenden und<lb/>
+dadurch 20.000 t Heizöl erspart wird. Insbesondere verwies er auch auf<lb/>
+die Fernwärmenutzung. Die OKA wird Ostermiething jetzt mit Abwärme versor<lb break="no"/>gen und die VÖEST-Alpine hat jetzt für Linz mit ESSO-Gesellschaft, Öster<lb break="no"/>reichische Fernwärmegesellschaft einen Vertrag geschlossen, wo ab 1981<lb/>
+20.000 t Heizöl pro Jahr erspart wird. Die einzige für mich wirklich<lb/>
+interessante Aussage war, daß 22.000 Pendler in Oberösterreich, wovon<lb/>
+53 % mit PKW fahren, über 4 km pro Tag zurücklegen. Durch entsprechen<lb break="no"/>de Pendlergemeinschaft können 400.000 l Benzin pro Tag erspart werden.<lb/>
+Prof. <name type="person" ref="per:118219">Schuster</name> ergänzte dann noch, daß seine Studie nicht nur 800 Sei<lb break="no"/>ten, sondern auch einmalig sei. Er hätte die regionale Differenzierung<lb/>
+bis in die Bezirke erhoben. Oberösterreich verbraucht 25 % der Gesamt<lb break="no"/>energie Österreichs. Von diesen 25 % braucht wieder Linz 50 %. 90<lb/>
+davon ist in Linz Sachgüterproduktion, 5 % nur für den Haushalt. Dem<lb break="no"/>gegenüber ist in Freistadt 9 % nur Sachgüterproduktion, 58 % Haushalt<lb/>
+und 12 % Landwirtschaft. Diese Regionalstruktur sei für die Krisenvor<lb break="no"/>sorge nach seiner Meinung sehr wichtig. Ich habe ihn in dieser Illusion<lb/>
+gelassen. Sollte es nämlich wirklich zu einem Krisenausbruch kommen,<lb/>
+so nützen diese 800 Seiten sehr wenig. Die Energieverteilung wird zen<lb break="no"/>tral erfolgen. Die Priorität wird vom Bundeslastverteiler für elektri<lb break="no"/>schen Strom und vom Handelsministerium natürlich im Einvernehmen mit<lb/>
+den Ländern für Gas, Öl und Kohle erfolgen. Was in diesem Fall funktio<lb break="no"/><pb n="57-1359" facs="57_1980-11-03_1359.jpg"/>nieren muß, ist die Verteilungsorganisation und nicht theoretische<lb/>
+Studien, wer in welchem Bezirk was braucht und wie dies im Jahre 1979<lb/>
+gewesen ist.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Dränge bitte auf das durchexerzieren der Öl<lb break="no"/>verteilung und Markenbewirtschaftung in der Energiesektion mit den<lb/>
+Bundesländern.<lb/>
+</p>
+            <p xml:space="preserve">Staatssekretär <name type="person" ref="per:109808">Albrecht</name> hat dann die Pressekonferenz insbesondere mit<lb/>
+dem Thema Nationalpark und E-Wirtschaft durch GD <name type="person" ref="per:97453">Fremuth</name> weitergeführt.<lb/>
+Dort wurde dann weniger über den Nationalpark als über die Energiever<lb break="no"/>sorgung auch im Krisenfall diskutiert.<lb/>
+</p>
+            <p xml:space="preserve">MR <name type="person" ref="per:97426">Fälbl</name> berichtete dann über den Bulgarien-Besuch.<lb/>
+</p>
+            <p xml:space="preserve">Der Verband der Ansichtskartenverleger und -hersteller hat eine Ansichts<lb break="no"/>kartenausstellung im Restaurant Novak durchgeführt und mich zur Eröff<lb break="no"/>nung eingeladen. Da immerhin 140 Mio. Ansichtskarten pro Jahr in Öster<lb break="no"/>reich erzeugt und auch verkauft werden, betrachte ich dies vom Stand<lb break="no"/>punkt der ÖFVW als den billigsten Werbeträger mit dem höchsten Wirkungs<lb break="no"/>grad. Der Effekt ist gigantisch, weil durch eine gezielte Werbung auf<lb/>
+einen bestimmten Personenkreis mehr wirkt als jedweder Prospektver<lb break="no"/>sand. Die Ansichtskartenverleger haben sich auch bereit erklärt, öster<lb break="no"/>reichische Slogans wie "Wanderbares Österreich" usw. auf die Karte auf<lb break="no"/>zudrucken. Überrascht war ich von dem elegant eingerichteten, auch in<lb/>
+der Küche äußerst sauberen Gasthaus, welches zwar klein ist, aber sehr<lb/>
+gute Küche hat, wie mir Dr. <name type="person" ref="per:108746">Haffner</name> erzählte.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Vielleicht kann <name type="person" ref="per:114718">Dersch</name> wirklich dort einmal<lb/>
+etwas veranstalten.<lb/>
+</p>
+            <p xml:space="preserve">Präs. <name type="person" ref="per:127092">Maisel</name>, mit dem ich schon im Buchenwald zusammen war und den ich<lb/>
+vom Landesgericht in Wien schon kannte, feierte seinen 90. Geburts<lb break="no"/>tag. Eine Delegation von der Landstraße, wo er jahrelang Bezirksobmann<lb/>
+war, und auch Staatssekretär <name type="person" ref="per:109808">Albrecht</name> haben ihm dazu herzlichst gratu<lb break="no"/>liert. Unwahrscheinlich, wie er trotz schwerer Gehbehinderung und vie<lb break="no"/>len Operationen noch verhältnismäßig rüstig ist. Natürlich haben wir<lb/>
+weniger über unsere guten Zeiten, die wir zusammen erlebten, gesprochen,<lb/>
+sondern über die schlechten im Gefängnis und Konzentrationslager.<lb/>
+</p>
+            <pb n="57-1360" facs="57_1980-11-03_1360.jpg"/>
+            <p xml:space="preserve">Im Wr. Vorstand berichtete <name type="person" ref="per:109818">Edlinger</name> über die Einsetzung des Schiedsge<lb break="no"/>richtes gegen die 4 Untersuchungshäftlinge im AKH-Skandal. Den Vorsitz<lb/>
+wird Altgemeinderat <name type="person" ref="per:118305">Schreiner</name> führen, der SPÖ-Beisitzer wird <name type="person" ref="per:127096">Wiesinger</name><lb/>
+sein. Da die 4 Mitglieder der SPÖ jetzt in Untersuchungshaft keine<lb/>
+Beisitzer nominieren können, wird dieses Schiedsgericht auch in abseh<lb break="no"/>barer Zeit nicht zusammentreten können. Die Vorgangsweise entspricht<lb/>
+den Statuten, denn ein Ruhen der vorläufigen Mitgliedschaft, wie Zentral<lb break="no"/>sekretär <name type="person" ref="per:97356">Blecha</name> angekündigt hat, gibt es nach unseren Statuten gar nicht.<lb/>
+</p>
+            <p xml:space="preserve">Im September haben wir 245.915 Mitglieder, das sind ein paar mehr als im<lb/>
+Vormonat. Der Abblockungsprozess hat aufgehört. Die gestartete Werbe<lb break="no"/>aktion bringt schon in den ersten Monaten im Durchschnitt 37 % des<lb/>
+Werbeziels, die Landstraße, nach Josefstadt, wo Staatssekretär <name type="person" ref="per:109808">Albrecht</name><lb/>
+das schlechteste Werbeziel hat, wir gleich, wo ich verantwortlich bin,<lb/>
+das zweitschlechteste mit 14,14 %. Der 2. Bezirk, der sein Werbeziel<lb/>
+mit 112 % erreicht hat, erklärt Bezirksobmann <name type="person" ref="per:97926">Schranz</name>, nütze die Adres<lb break="no"/>sen, wo bei der Aktion Rat und Auskunft 3500 sich bis jetzt eingefunden<lb/>
+haben.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Sollten wir nicht auch so etwas versuchen.<lb/>
+</p>
+            <p xml:space="preserve">Bei dem Volksbegehren sind 1 Mio. 200.000 Stimmberechtigte, die Partei<lb/>
+wird aber keinerlei Aktivitäten entfalten. Im Pressefrühstück wurde<lb/>
+ich gefragt, wie viel ich schätze, daß unterschreiben werden. Ich habe<lb/>
+mich dazu nicht geäußert. Die Meinung ist, daß knapp über 200.000 zu<lb break="no"/>sammenkommen. Selbstverständlich erklärte ich, es genügen formell auch<lb/>
+200.001 Stimmen, dann kommt das Ganze ins Parlament und dies ist mir<lb/>
+am wichtigsten.<lb/>
+</p>
+            <p xml:space="preserve">NR <name type="person" ref="per:114542">Schemer</name>, Bezirksobmann Donaustadt, erklärte, daß heute über die<lb/>
+Praterbrücke 48.000 Fahrzeuge pro Tag in seinen Bezirks strömen. Auf<lb/>
+dem Brenner sind es 22.000. Er verlangt daher unbedingt die Fortsetzung<lb/>
+A 24 mit Untertunnelung Hirschstätten. Da dies 3 Mrd. S kostet, erklärt<lb/>
+Bautenminister <name type="person" ref="per:111741">Sekanina</name>, daß er dafür das Geld nicht hätte. Wien bringt<lb/>
+aber 41 % der Mineralölsteuer auf. Dieses Geld wird dann am Pfänder,<lb/>
+am Arlberg, im Plabutschtunnel ausgegeben werden. Bgm. <name type="person" ref="per:97488">Gratz</name> empfahl, man<lb/>
+sollte zu <name type="person" ref="per:111741">Sekanina</name> entsprechende Delegationen schicken, wie dies auch<lb/>
+die anderen Bundesländer mit sozialistischen Abgeordneten ständig ma<lb break="no"/>chen.<lb/>
+</p>
+            <pb n="57-1361" facs="57_1980-11-03_1361.jpg"/>
+            <p xml:space="preserve">Stadtrat <name type="person" ref="per:109290">Mayr</name> berichtete, daß jetzt die Absicht besteht, die Wiener<lb/>
+Betriebsansiedlungsgesellschaft WIBAG und die Investitionsförderung<lb/>
+der Z mit anderen Institutionen in einen Wirtschaftsförderungsfonds<lb/>
+zusammenzufassen.<lb/>
+</p>
+            <p xml:space="preserve">Für die Druckereien Kurier, Kronen-Zeitung und Vorwärts sollen von der<lb/>
+Gemeinde Wien Subventionen gegeben werden, um die Lichtsatzumstellung,<lb/>
+die ca. 100 Mio. einen Betrieb kostet, entsprechend zu fördern. Dafür<lb/>
+ist ein 30 %-iger Zuschuß vorgesehen. Da der Kurier nach Biedermanns<lb break="no"/>dorf gehen wollte, dadurch Wien die Inseratenabgabe verloren hätte,<lb/>
+wird für ihn eine weitere 10 %-ige Förderung bis maximal 90 Mio., minde<lb break="no"/>stens 50 % die Kostenanteile der Besitzer gegeben, damit er in Wien<lb/>
+bleibt. Der Kurier wird vom 7. Bez. in den 23. Bez. übersiedeln. Die<lb/>
+Absicht, die Gebäude im 7. Bez. der Gemeinde anzudrehen, wird von <name type="person" ref="per:109290">Mayr</name><lb/>
+abgelehnt. Dadurch würden ungeheure Schwierigkeiten bei der Verwertung<lb/>
+entstehen. Wahrscheinlich würde dann sofort eine Aktion für eine Grün<lb break="no"/>fläche dort einsetzen. Die Kronen-Zeitung wird im Pressehaus in der<lb/>
+Muthgasse entsprechende Ergänzungen vornehmen und ebenfalls 90 Mio. S<lb/>
+bekommen. Der Vorwärts erhielt nur 30 Mio, die Staatsdruckerei, die<lb/>
+die Wr. Zeitung herstellt, bleibt von der Förderung ausgeschlossen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:109290">Mayr</name> kündigte dann auch an, daß<add>[die]</add> Wassergebühr mit 15.12. durch Bescheid<lb/>
+um 21 % von 6.60 S auf 8.–– S erhöht werden müßte. Hier gab es dann<lb/>
+eine heftige Kritik, weil <name type="person" ref="per:109290">Mayr</name> ähnlich wie bei der Parkplatzverdoppe<lb break="no"/>lung, ohne vorher zu berichten, solche Aktionen startet. Wenn man den<lb/>
+Leuten durch Monate hindurch klarmacht, daß jetzt durch die 3. Wasser<lb break="no"/>leitung eine ungeheure Verteuerung eingetreten ist, wenn man auf die<lb/>
+Investitionen, die notwendig sind, hinweist, wenn man die Förderung des<lb/>
+Landes immer wieder erwähnt und begründet, dann wird die öffentliche<lb/>
+Meinung dafür aufbereitet. <name type="person" ref="per:109290">Mayr</name> macht aber lauter Überraschungszüge,<lb/>
+ohne mit den Funktionären vorher in den Gremien, sei es der Vorstand,<lb/>
+insbes. der Wr. Ausschuß, darüber zu sprechen. In der Diskussion ist<lb/>
+auch die Idee aufgetaucht, ob nicht zwischen Wien und Niederösterreich<lb/>
+eine Aussprache wegen der Lizitation von Förderungszusagen gewährt<lb/>
+werden könnte. Ich habe diesen Plan sofort als unrealistisch kritisiert.<lb/>
+Offiziell wird jede Stelle bereit sein zu sagen nicht mehr zu lizitie<lb break="no"/>ren. Im konkreten Fall wird dann jede Gemeinde oder Land versteckt ent<lb break="no"/>sprechend Hilfe den Unternehmern zusagen, damit sie ja das Projekt be<lb break="no"/>kommen. Typischstes Beispiel dafür war General Motors. Für GM, erklärt<lb/>
+<pb n="57-1362" facs="57_1980-11-03_1362.jpg"/>Stadtrat <name type="person" ref="per:109290">Mayr</name>, hätte aber nur die normale Förderung von 10 %, die er<lb/>
+jedermann gibt, gewährt. Bei den Druckereien konnte er auf die 30 % des<lb break="no"/>halb gehen, weil allein die Inseratenabgabe der beiden, Kurier und Kro<lb break="no"/>nen-Zeitung, mehr ausmacht als die Förderung.<lb/>
+</p>
+            <p xml:space="preserve">Im Wr. Ausschuß hat <name type="person" ref="per:97488">Gratz</name> dann zum politischen Bericht nur die Regie<lb break="no"/>rungsklausur in Schladming erwähnt und meinte, in den Zeitungen sei<lb/>
+alles zu lesen gewesen. Dann berichtete er als zweiten Punkt über das<lb/>
+Jahr der Behinderten, wo Wien entsprechende Aktivitäten setzen wird.<lb/>
+</p>
+            <p xml:space="preserve">Eine längere Diskussion gab es dann wegen des Beschlusses, daß anstelle<lb/>
+von NR <name type="person" ref="per:114119">Seda</name> jetzt <name type="person" ref="per:98034">Veselsky</name> entsendet wurde. <name type="person" ref="per:116042">Suttner</name> beschwerte sich,<lb/>
+daß dadurch die Zusage von Staatssekretär <name type="person" ref="per:112992">Löschnak</name>, daß er das erste<lb/>
+frei werdende Mandat und damit Liesing wieder seinen Nationalrat bekom<lb break="no"/>men würde, erhält. Kärnten hat 8 Mandate und nur 1 Parteinotwendigkeit<lb/>
+gehabt, Wien muß alle Parteinotwendigkeiten schlucken. <name type="person" ref="per:123789">Hofstetter</name> von<lb/>
+Döbling meinte, <name type="person" ref="per:98034">Veselsky</name> sei jetzt keine ausschließliche Parteinotwen<lb break="no"/>digkeit, sondern als Bezirksbildungsobmann hätte <name type="person" ref="per:123789">Hofstetter</name> verzichtet,<lb/>
+damit <name type="person" ref="per:98034">Veselsky</name> jetzt bei <name type="person" ref="per:114119">Seda</name> nachrückt. Bgm. <name type="person" ref="per:97488">Gratz</name> stellte fest, daß<lb/>
+79 <name type="person" ref="per:98034">Veselsky</name> kein Staatssekretär mehr war, weshalb auch auf die Kärntner<lb/>
+die Parteinotwendigkeit weggefallen ist. Sie haben sich nur bereiter<lb break="no"/>klärt für die halbe Legislaturperiode <name type="person" ref="per:98034">Veselsky</name> zu akzeptieren. Wien<lb/>
+hat nach den Wahlen 79 den Arzt Dr. <name type="person" ref="per:117200">Steyrer</name> auf der Verbandliste durch<lb break="no"/>gebracht, obwohl Wien die geringsten Reststimmen für dieses Mandat zur<lb/>
+Verfügung stellen konnte. Gegen die Stimme <name type="person" ref="per:116042">Suttners</name> wurden dann auch vom<lb/>
+Wr. Ausschuß, der dafür kompetent ist, die seinerzeitigen Beschlüsse<lb/>
+des Wr. Vorstandes angenommen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:109290">Mayr</name> berichtete dann über die Druckereiförderungen, insbes. über die<lb/>
+Wassergebührerhöhung. Der Erlös des Wasserwerkes wird im nächsten Jahr<lb/>
+900 Mio. sein, wenn man die Mehrwertsteuer abrechnet, verbleiben 847 Mio.<lb/>
+1 Mrd. 074 Mio. sind aber die Selbstkosten. Die Wassergebühr müßte von<lb/>
+6,60 S auf 8.40 S erhöht werden, er schlägt 8 S vor. Steigende Zinsen<lb/>
+und insbes. aber geringerer Wasserverbrauch um 2–3 % jährlich ver<lb break="no"/>langen, daß die Fixkosten auf eine geringere Wassermenge umgelegt wer<lb break="no"/>den müssen. Interessanterweise gab es im Wr. Ausschuß darüber keine<lb/>
+Diskussion. <name type="person" ref="per:109290">Mayr</name> hatte auch aufgrund der harten Kritik im Wr. Vorstand<lb/>
+seinen Vorschlag jetzt nur als Vorinformation bezeichnet. Der nächste<lb/>
+Klub wird sich damit im Detail beschäftigen. Dadurch ist er einer har<lb break="no"/>ten Kritik im Wr. Ausschuß entgangen.<lb/>
+</p>
+            <pb n="57-1363" facs="57_1980-11-03_1363.jpg"/>
+            <p xml:space="preserve">Neue Mitglieder, die wir werben, werden von der Bezirksorganisation<lb/>
+auf der Landstraße zu einem Willkommensabend eingeladen. Da unsere Wer<lb break="no"/>beaktion ja nicht gerade sehr erfolgreich ist, sind bei diesem Will<lb break="no"/>kommensabend mehr Funktionäre, Nationalräte, Gemeinderäte, insbes. Be<lb break="no"/>zirksvorsteherstellvertreter und Bezirksräte anwesend, als geworbene<lb/>
+Mitglieder letzten Endes kommen, die meisten davon sogar mit entspre<lb break="no"/>chenden Wohnungswünschen, wie ich selbst feststellen konnte. Wichtiger<lb/>
+als das Erscheinen ist uns natürlich, daß durch die Anschrift an der<lb/>
+Einladung die neugeworbenen Mitglieder sehen sollen, daß wir uns sehr<lb/>
+um sie bemühen.<lb/>
+</p>
+            <p xml:space="preserve">Im Burgtheater habe ich dann eine wirklich uninteressante Aufführung<lb/>
+von Tartuffe gesehen. Hätte ich nicht in der Pause Gelegenheit gehabt<lb/>
+mit dem deutschen Staatssekretär <name type="person" ref="per:127095">Schlecht</name> zu reden, wäre das ein ver<lb break="no"/>lorener Zeitaufwand gewesen. Der Regisseur hat ernstlich geglaubt, wenn<lb/>
+er die Schauspieler ununterbrochen auf der Bühne hin und her jagt, sie<lb/>
+in Nebenräume gehen läßt, in der Hinterbühne oder Nebenbühne sind und<lb/>
+dort weitersprechen läßt, sodaß man sie kaum noch hört, wenn er also<lb/>
+mit aller Gewalt action vortäuschen will, daß dadurch die Aufführung<lb/>
+besser wird, hat er sich schwer geirrt. Eine so schlechte Tartuffe-Auf<lb break="no"/>führung habe ich wirklich noch nie in meinem Leben gesehen. Allerdings<lb/>
+muß ich zugeben, daß ich noch nicht sehr viel sah. Wahrscheinlich macht<lb/>
+auch das Fernsehen mit den Aufzeichnungsmöglichkeiten entsprechend dem<lb/>
+Burgtheater wirklich große Konkurrenz.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="57_1356_01" facs="57_1980-11-03_1356-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 3.11.1980</head>
+         </div>
+         <pb n="57_1356_02" facs="57_1980-11-03_1356-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

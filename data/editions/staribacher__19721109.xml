@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Donnerstag, der  9. November 1972</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band13_1972-11-09</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1972-11-09">Donnerstag, 9. November 1972</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-11-05">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="13-1338" facs="13_1972-11-09_1338.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Donnerstag, 9. November 1972<lb/>
+</p>
+            <p xml:space="preserve">Botschafter <name type="person" ref="per:97577">Humes</name> und HR <name type="person" ref="per:140204">Brown</name> von der US-Botschaft waren die<lb/>
+einzigen, die sich bis jetzt für die Chinareise interessierten.<lb/>
+<name type="person" ref="per:97577">Humes</name> wollte unbedingt Detailinformationen von der Aussprache mit<lb/>
+<name type="person" ref="per:115699">Tschu En Lai</name>. Da die Aussprache ja unter Anwesenheit aller Journa<lb break="no"/>listen der österr. Zeitungen stattgefunden hat, konnte ich ihm alle<lb/>
+Detailinformationen, die er wünschte, geben. Die ungewöhnliche Vorgangs<lb break="no"/>weise <name type="person" ref="per:115699">Tschu En Lais</name>, nämlich nicht nur die Regierungsdelegation sondern<lb/>
+auch die Journalisten gleichzeitig zu dieser Aussprache zu bitten,<lb/>
+die zweifelsohne als die Regierungsdelegation abwertende zu be<lb break="no"/>trachten ist, hat jetzt seine positiven Seiten. Wenn mir <name type="person" ref="per:115699">Tschu En Lai</name><lb/>
+die Informationen z.B. dass 1 Mill. sowj. Soldaten an der chinesischen<lb/>
+Grenze stehen und dass damit eine Kriegsgefahr ja sogar der Krieg mög<lb break="no"/>lich ist, dass sich die Chinesen darauf vorbereiten und durch entspre<lb break="no"/>chende Punktesystem sich verteidigen werden, dass also die Aggression<lb/>
+von der SU und weniger von Amerika kommt, allein mitgeteilt, so wäre<lb/>
+ich sicher in einem Dilemma gewesen, ob ich dies wortwörtlich dem<lb/>
+amer. Botschafter weitergeben könnte und sollte. So aber war es<lb/>
+für mich sehr einfach, denn in den Zeitungen – bin ich überzeugt –<lb/>
+wird mit der Zeit die gesamte Diskussion stehen. <name type="person" ref="per:97577">Humes</name> teilte mir<lb/>
+auch mit, dass die Regierung der Vereinigten Staaten in Wien eine<lb/>
+Süd-Ost-Stelle errichten wird. Aufgabe dieser auf ca. 300 m³ Raum<lb/>
+befindlichen Organisation wird es sein, die Verhältnisse mit dem<lb/>
+Osten zu verbessern. Ich habe deshalb die 300 m³ als einzigen<lb/>
+Anhaltspunkt, weil <name type="person" ref="per:140204">Brown</name> ein solches Gebäude jetzt sucht, resp.<lb/>
+eine Wohnung und deshalb mich um Unterstützung gebeten hat.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Bitte veranlasse, dass man in der Nähe der amer.<lb/>
+Botschaft eine solche Unterkunft, wenn möglich, dem Handelsrat <name type="person" ref="per:140204">Brown</name><lb/>
+mitteilt. Ich selbst habe ihn insbesondere auf die Gemeindeverwaltung<lb/>
+<choice><choice><sic>verwaltung</sic><corr>?</corr></choice></choice> verwiesen.<lb/>
+</p>
+            <p xml:space="preserve">In der Aussenstelle, wo eine Pressekonferenz für Management statt<lb break="no"/>fand, habe ich vorher die Kolleginnen und Kollegen neuerdings be<lb break="no"/>sucht. Dort rechnet man ganz fix, dass man das Haus in kürzester Zeit<lb/>
+für die Chinesen räumen muss. Jetzt habe ich erst einen so richtigen<lb/>
+Vergleich, wie sehr unsere Reorganisation gewirkt hat. Bei meinem<lb/>
+ersten Besuch habe ich noch Dutzende Angestellte getroffen, die in<lb/>
+der Hollerith-Abteilung und bei sonstigen komplizierten Verfahren<lb/>
+<pb n="13-1339" facs="13_1972-11-09_1339.jpg"/>tätig gewesen sind. Jetzt ist durch die Reorganisation selbst für die<lb/>
+Management-Arbeitsgemeinschaft ein ganzer Flügel frei geworden. Die<lb/>
+Arbeitsgemeinschaft hat sich den Flügel supermodern eingerichtet, was<lb/>
+auch allgemeine Ablehnung der Beamten stiess.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Pressekonferenz, die Dr. <name type="person" ref="per:97895">Salzbrunn</name> vom Wifi leitete, und<lb/>
+wo alle an der Arbeitsgemeinschaft Managementschulung beteiligten<lb/>
+im Präsidium teilgenommen hatten, war auch Sekt.Chef <name type="person" ref="per:97915">Schipper</name> neben<lb/>
+mir, der mich in die Aussenhandelsstelle begleitet hat. Nachdem<lb/>
+<name type="person" ref="per:97895">Salzbrunn</name> die entsprechenden Einführungsworte und die Entstehungs<lb break="no"/>geschichte und die Absicht der Arbeitsgemeinschaft Managementschulung<lb/>
+dargelegt hatte, hat er mir das Wort gegeben, und ich konnte den<lb/>
+vom Präsidium anwesenden meinen Dank aussprechen. Die Vertreter der<lb/>
+Handelskammer und der Industriellenvereinigung und ganz besonders<lb/>
+aber der Schulungsleiter von Hernstein, der auch anwesend war, muss<lb break="no"/>ten ja ganz grosse Widerstände in ihren Organisationen überwinden,<lb/>
+bis sie Grünes Licht durchsetzen konnten, an dieser Arbeitsgemein<lb break="no"/>schaft teilzunehmen. Der geistige Punkt in dieser Entstehungsgeschichte<lb/>
+war Min.Rat <name type="person" ref="per:97493">Gröger</name>, der von mir ganz besonders hervorgestrichen wurde.<lb/>
+Ich erwähnte aber auch, dass alle Personalprobleme nur durch die<lb/>
+positive Einstellung des Präsidialisten Dr. <name type="person" ref="per:97915">Schipper</name> möglich war.<lb/>
+Als eine Frage aus dem Publikum, wer aller eine Managementschulung<lb/>
+nötig hat, von Sekt.Rat <name type="person" ref="per:97722">Marhold</name> mit einem Zwischenruf "Der Bund"<lb/>
+mir ein Stichwort lieferte, konnte ich erklären, dass das Handelsmini<lb break="no"/>sterium als erster Ministerium eine Managementschulung seiner Beamten<lb/>
+durchgeführt hat, an der auch Sekt.Rat <name type="person" ref="per:97722">Marhold</name> teilgenommen hat. Bei<lb/>
+meinen Ausführungen habe ich, ohne dass ich jemals das Wort Wiener<lb/>
+Handelskammer oder gar <name type="person" ref="per:97749">Mitterer</name> gefallen ist, doch darauf hinge<lb break="no"/>wiesen, dass man zuerst grösste Bedenken gegen die Management<lb break="no"/>schulung und die Koordinierung gehabt hat und dass jetzt sehr wohl<lb/>
+auch diese Organisation sogar die Kleinstbetriebe managementmässig<lb/>
+schulen will.<lb/>
+</p>
+            <p xml:space="preserve">Beim Parteivorstand, zu dem durch die Pressekonferenz später kam, hat<lb/>
+<name type="person" ref="per:97668">Kreisky</name> als einzigen und wichtigen Punkt die Stillhaltepause refe<lb break="no"/>riert. Das Präsidium hat ausserdem die Wirtschaftskommission beschlossen<lb/>
+und dem Parteivorstand zur Bestätigung vorgelegt. Die Wirtschafts<lb break="no"/>kommission wird 16 Personen umfassen und somit ein Spitzengremium<lb/>
+der Partei sein. <name type="person" ref="per:97346">Benya</name> dürfte sich also mit 12, die er vorgeschlagen<lb/>
+hat, doch weitestgehend durchgesetzt haben. Neben den Wirtschaftsmini<lb break="no"/>stern, den Interessenvertretungen und drei Ländervertretern, näm<lb break="no"/><pb n="13-1340" facs="13_1972-11-09_1340.jpg"/>lich <name type="person" ref="per:97505">Haberl</name>, <name type="person" ref="per:97935">Sebastian</name> und <name type="person" ref="per:114604">Hillinger</name>.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Diskussion haben <name type="person" ref="per:97818">Pittermann</name> und dann <name type="person" ref="per:97384">Czernetz</name> aber auch noch<lb/>
+andere Diskussionsteilnehmer dezidiert verlangt, dass eigentlich bevor<lb/>
+ein solches Stillhalteprogramm verhandelt und dann mit den Wirtschafts<lb break="no"/>partnern, d.h. auch mit der Handelskammer besprochen werden soll,<lb/>
+doch vorher dem Parteivorstand zur Genehmigung vorzulegen wäre. Hier<lb/>
+handelt es sich wieder einmal um das alte Problem, dass selbstver<lb break="no"/>ständlich die Genossinnen und Genossen, die bei einem anderen Gremium<lb/>
+nicht anwesend sind, sehr gerne die Ergebnisse dieses Gremiums, bevor<lb/>
+es dann in die Öffentlichkeit kommt, auch diskutieren wollen oder<lb/>
+zumindestens Kenntnis haben wollen, und nicht wie es <name type="person" ref="per:97818">Pittermann</name> aus<lb break="no"/>drückte aus den Zeitungen und aus dem Fernsehen dies erst erfahren.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> hat aber in seinem Schlusswort dann festgehalten, dass dies<lb/>
+nicht möglich sei und die Wirtschaftskommissionsmitglieder eben<lb/>
+das Vertrauen des Parteivorstandes haben und deshalb eine neuerliche<lb/>
+Befassung des Parteivorstandes nicht mehr möglich ist.<lb/>
+</p>
+            <p xml:space="preserve">Als zweiten Punkt berichtete <name type="person" ref="per:97668">Kreisky</name> über die ORF-Situation. Er denkt<lb/>
+nicht daran, den Generalintendanten durch die Generalversammlung wählen<lb/>
+zu lassen, wenn die Generalversammlung in der derzeitigen Zusammensetzung<lb/>
+bleibt. Jetzt hat mit 98 % der Regierungschef als Vertreter des Bundes<lb/>
+die Mehrheit. Dies könnte sich aber ändern und dann würde mit Recht auch<lb/>
+die SPÖ sich von den Entscheidungen der jeweiligen Regierungspartei<lb/>
+übervorteilt sehen. Deshalb sollte nachdem die Länder ja mit 49 % in<lb/>
+Hinkunft sich an dem ORF beteiligen wollen, nach dem Länderanteil, diese<lb/>
+ein Mitbestimmungsrecht haben und der Generalintendant mit 2/3-Mehrheit<lb/>
+gewählt werden. Dadurch ist es notwendig, einen weitestgehenden Konsens<lb/>
+herbeizuführen, aber auch die Gewähr gegeben, dass nicht wieder ein<lb/>
+Typ <name type="person" ref="per:97326">Bacher</name> Generalintendant werden kann. <name type="person" ref="per:97326">Bacher</name> selbst wehrt sich auch ge<lb break="no"/>gen die Bestellung eines zweiten Fernsehens und damit 2 Fernsehintendanten<lb/>
+oder Direktoren, weil er behauptet, es müsste ein integriertes Programm<lb/>
+erstellt werden. Derzeit wird nämlich ein Programm gemacht und dann auf<lb break="no"/>geteilt, ob es in TV 1 oder TV 2 gesendet wird. Dies soll angeblich Kosten<lb/>
+ersparend sein. <name type="person" ref="per:97668">Kreisky</name> bemerkte mit Recht, dass er jetzt wieder beim<lb/>
+Programm zu sparen beginnt, während er bei den Ausgaben für Studios<lb/>
+vollkommen hemmungslos die entsprechenden Aufträge verteilt hat. <name type="person" ref="per:97346">Benya</name><lb/>
+kommt es primär darauf an, dass die Frage der Gebührengenehmigungen ge<lb break="no"/>regelt werden. Da die Paritätische Kommission bereits unter Kanzler<lb/>
+<name type="person" ref="per:97634">Klaus</name> entsprechende einstimmige Beschlüsse gefasst hat, dass der ORF als<lb/>
+<pb n="13-1341" facs="13_1972-11-09_1341.jpg"/>privates Unternehmen der Paritätischen Kommission unterliegt, müsste<lb/>
+jetzt, da der ORF sich daran hin hält, eben wieder z.B. der Hauptausschuss<lb/>
+oder eine sonstige Organisation zur Genehmigung eingeschaltet werden.<lb/>
+</p>
+            <p xml:space="preserve">In der Vorstandssitzung der Lebensmittelarbeiter konnte ich mitteilen,<lb/>
+dass jetzt endgültig für alle Hauptgruppen nicht nur die Verträge abge<lb break="no"/>schlossen sind, sondern dass sie auch jetzt von der PK freigegeben wurden.<lb/>
+Da die Zuckerarbeiter aber auch andere Gruppen sich in den letzten Monaten<lb/>
+sehr intensiv mit dem Problem der Erstattungsregelung befasst hatten,<lb/>
+habe ich eine entsprechende Detailinformation dem Vorstand gegeben. Die<lb/>
+Gruppen resp. beteiligten Betriebsräte sind über diese Entscheidung der<lb/>
+Partei sehr glücklich, da sie darin eine weitere Sicherung nicht nur ihrer<lb/>
+Arbeitsplätze, die in Wirklichkeit gar nicht so gefährdet waren, als<lb/>
+die Erfüllung eines Unternehmerwunsches sehen, der ihnen die Möglichkeit<lb/>
+gibt, weitere Forderungen in Hinkunft leichter unterbringen zu können.<lb/>
+Niemand kann mir also einen Vorwurf machen, dass sich obwohl die Arbeiter<lb break="no"/>schaft der davon betroffenen Betriebe sehr wohl eine diesbezügliche Unter<lb break="no"/>stützung von mir erwartet und verlangt hat, trotzdem gegenüber der ÖVP<lb/>
+bei den Verhandlungen Zugeständnisse gemacht habe. Ich habe mich absolut<lb/>
+neutral verhalten, d.h. ich habe jedwede Verhandlung über diesen Punkt abge<lb break="no"/>lehnt, nicht zuletzt auch deshalb, damit man mir nicht den Vorwurf machen<lb/>
+kann, dass ich aus egoistischem Interesse für die Lebensmittelarbeiter<lb/>
+die Interessen der gesamten Regierung oder gar der Partei in diesem Punkt<lb/>
+verraten habe. Diese Haltung konnte ich umso mehr einnehmen, als ich<lb/>
+von allem Anfang an überzeugt war, dass in irgendeiner Weise sowohl<lb/>
+<name type="person" ref="per:97668">Kreisky</name> als auch <name type="person" ref="per:97311">Androsch</name> nachgeben werden.<lb/>
+</p>
+            <p xml:space="preserve">Die erste und letzte gemeinsame Sitzung aller Stellen, die an dem<lb/>
+Entlastungsausschuss und an den Entlastungslisten beteiligt waren, hat<lb/>
+im Marmorsaal stattgefunden und war eine riesige Versammlung. Ich habe<lb/>
+mir, da ich nur beschränkt Zeit hatte, als erstes die kritischen Punkte wie<lb/>
+Ärzte, Zahnärzte und Dentisten, Tierärzte, Rechtsanwälte, Wirtschaftstreu<lb break="no"/>händer, Ziviltechniker, d.h. die Freien Berufe herausgenommen. Mehr<lb/>
+oder minder gelang es, ein Kompromiss zu erzielen. Damit haben wir ihnen<lb/>
+Parteigehör gegeben und wenn sie mit der Lösung nicht einverstanden sind,<lb/>
+was ich aber eigentlich gar nicht annehme, können sie ja entsprechende<lb/>
+Individualanträge vom einzelnen Arzt stellen. Die Meinung der Ärzte<lb break="no"/>kammervertreter, dass die Ärztekammer dies für sie machen kann, war<lb/>
+vollkommen falsch und wurde dort entsprechenden nicht nur von mir<lb/>
+richtiggestellt, sondern auch von den anderen Freien-Berufsvertretern.<lb/>
+</p>
+            <pb n="13-1342" facs="13_1972-11-09_1342.jpg"/>
+            <p xml:space="preserve">Die Frage der Auto-Entlastung konnte ich insofern ein Kompromiss erzie<lb break="no"/>len, als der neue Vorschlag, den mir <name type="person" ref="per:97543">Heindl</name> mitgegeben hat von seiten<lb/>
+der Autohändler zwar akzeptiert, wohl aber nicht von der Handelskammer<lb/>
+und auch nicht von der Arbeiterkammer. Beide Interessenvertretungen<lb/>
+werden noch Besprechungen führen, ob sie einen besseren gemeinsamen<lb/>
+Vorschlag bringen könne. Ich bin überzeugt davon, dass ihnen dies<lb/>
+nicht gelingt und deshalb das ausgehandelte Kompromiss auch für sie<lb/>
+akzeptabel ist. Dr. <name type="person" ref="per:137215">Hecke</name> erklärte namens der BHK, dass er noch hunderte<lb/>
+entsprechende kleine Bemerkungen zu den Listen hätte und hatte zuerst<lb/>
+die Befürchtung dass über seine Wünsche überhaupt nicht mehr geredet<lb/>
+würde. Andererseits beschwerte sich auch Dr. <name type="person" ref="per:98112">Zöllner</name>, dass auf diese<lb/>
+Art keine Verhandlungen mehr geführt werden können, sondern dass eben<lb/>
+jetzt nur mehr zu redigieren ist und der Handelsminister zu entscheiden<lb/>
+hat. Nachdem ich die offenen Punkte aber doch einigermassen durchgeboxt<lb/>
+hatte, war ich gerne bereit, dass Sekt.Chef <name type="person" ref="per:97584">Jagoda</name> den Vorsitz über<lb break="no"/>nahm und nun alle Detailbesprechungen, die ja keine materiellen<lb/>
+Änderungen mehr bringen konnten, durchführte. <name type="person" ref="per:97584">Jagoda</name>, sowie Ober<lb break="no"/>rat <name type="person" ref="per:111737">Marsch</name> warne für diese Sitzung extra aus dem Spital resp. vom Kran<lb break="no"/>kenbett gekommen <name type="person" ref="per:97584">Jagodas</name> Arzt sagt ihm, dass er sich unbedingt mehr<lb/>
+schonen muss, da das letzte EKG sehr schlecht gewesen ist. Auch <name type="person" ref="per:111737">Marsch</name><lb/>
+hat eine Erholung dringendst notwendig. Wir haben ein ausgesprochenes<lb/>
+Pech, dass gerade diese sehr wichtige Abteilung und der Sektionsleiter<lb/>
+jetzt, wo die meiste Arbeit erst anfallen wird, nicht mehr ganz<lb/>
+einsatzfähig sind. Wenn wir für diese Arbeit nicht Ing. <name type="person" ref="per:139851">Zotter</name> gehabt<lb/>
+hätten, die sich mit ihrer ganze Kraft für die Drucklegung eingesetzt<lb/>
+hat, weiss ich nicht, wie wir die Arbeit zeitgerecht in die Druckerei<lb/>
+gebracht hätten.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Bitte veranlasse, dass wirklich so schnell wie<lb/>
+möglich <name type="person" ref="per:139851">Zotter</name> in ein geregeltes Angestelltenverhältnis kommt.<lb/>
+</p>
+            <p xml:space="preserve">Die Genossen der Wirtschaftskommission sollten prinzipell über die<lb/>
+die Beruhigungspause verhandeln, um Grundlinien festzulegen, die<lb/>
+nachher von Experten im Details ausgearbeitet werden sollten. Bei<lb/>
+der letzten Aussprache hat <name type="person" ref="per:97668">Kreisky</name> und insbesondere <name type="person" ref="per:97346">Benya</name> darauf hinge<lb break="no"/>wiesen, dass die ersten Besprechungen im kleinsten Kreis erfolgen<lb/>
+sollen. Zu meiner grössten Verwunderung waren aber dann doch der<lb/>
+Finanzminister z.B. mit <name type="person" ref="per:110922">Vranitzky</name> erschienen. Dieser verteilte<lb/>
+dann auch ein Programm, welches – da es sehr brenzlige Formulierungen<lb/>
+beinhaltete – nach Vorschlag von <name type="person" ref="per:97346">Benya</name> wieder eingesammelt wurde.<lb/>
+</p>
+            <pb n="13-1343" facs="13_1972-11-09_1343.jpg"/>
+            <p xml:space="preserve">Zumindestens als ich zur Fernsehaufzeichnung weggehen musste und dann<lb/>
+Dr. <name type="person" ref="per:97469">Gehart</name> mich vertrat, war die Debatte nicht abgeschlossen, aber man<lb/>
+war sich glaube ich einig, dass dieses Papier nicht in die Öffentlichkeit<lb/>
+kommen sollte und deshalb der FM wieder einsammeln sollte. <name type="person" ref="per:97346">Benya</name> hat<lb/>
+sich nämlich gegen einige Formulierungen in diesem Papier ganz entschieden<lb/>
+ausgesprochen, so die Formulierung: Ein Stillhalteabkommen bei Preisen<lb/>
+und Löhnen sollten für Jänner bis April abgeschlossen werden. <name type="person" ref="per:97627">Kienzl</name><lb/>
+wehrte sich wieder dagegen, dass auf dem Kreditsektor nur in dem Papier<lb/>
+vorgesehen war, dass die Kreditrestriktionen in der bisherigen Linie<lb/>
+und Ausmass beibehalten werden sollten. <name type="person" ref="per:97627">Kienzl</name> wies darauf hin, dass 19 %<lb/>
+Kreditexpansion pro Monat keinesfalls zu einer Beruhigung der Preisent<lb break="no"/>wicklung beitragen. Die Ländervertreter wie <name type="person" ref="per:97963">Slavik</name> und auch <name type="person" ref="per:97935">Sebastian</name><lb/>
+wehrten sich wieder, dass ein Tarif- und Gebührenstopp vorgesehen ist.<lb/>
+<name type="person" ref="per:113055">Tillian</name> vom Gemeindeverband meinte, dass im Jänner bis März die Gemeinden<lb/>
+einen riesigen Engpass haben und deshalb auch hier eine Drosselung nicht<lb/>
+zu verantworten sei. Genauso sei es mit den AIK, d.h. mit den landw. Kredi<lb break="no"/>ten. <name type="person" ref="per:97668">Kreisky</name> wieder hat insoferne Bedenken gegen ein Stillhalten vom<lb/>
+Jänner bis April des nächsten Jahres, da er meint, es müsste sofort ein<lb break="no"/>setzen und schlug deshalb vor, dass wir für ein halbes Jahr ein solches<lb/>
+Stillhalten anstreben sollten. Nur über das Zeitausmass einigte man sich<lb/>
+nicht aber über die inhaltlichen Massnahmen. Der Finanzminister schlug auch<lb/>
+vor, dass Zucker, Mieten und Elektrizität überhaupt nicht erhöht werden<lb/>
+dürften, für Benzin hat er 33 Groschen vorgesehen, warum gerade 33 kann<lb/>
+ich mir nicht genau erklären. Bei der Elektrizität vermutete <name type="person" ref="per:109811">Burian</name> als<lb/>
+Vertreter vom Verkehrsminister, dass eine solche Entscheidung die ÖVP-Lan<lb break="no"/>desgesellschaften veranlassen werden, sich gegen diese Regelung zu wenden<lb/>
+und ganz einfach die entsprechenden Preise zu verlangen. Wenn sie dann<lb/>
+in erster Instanz gestraft werden würde, wahrscheinlich in zweiter<lb/>
+Instanz der Landeshauptmann den Preisbescheid aufheben. Er schlägt deshalb<lb/>
+vor, man sollte mit den Landesgesellschaften und dem Verbund verhandeln,<lb/>
+dass sie eventuell bereit wären, zu einem späteren Zeitpunkt erst die<lb/>
+Elektrizitätspreise in Kraft zu setzen. Ich bin überzeugt, dass wenn es<lb/>
+dann zu Preissteigerungen kommen wird, alle Massnahmen, die entgegen den<lb/>
+Beschlüssen von einzelnen Körperschaften oder gar Firmen getroffen wurden<lb/>
+sehr hart kritisiert werden, Ich bin deshalb sehr froh, dass wir in der<lb/>
+Entlastungsfrage doch unbedingt auf eine einvernehmliche Regelung ge<lb break="no"/>drängt haben die auch weitestgehend zustande gekommen ist, weil dadurch<lb/>
+wir nicht allzu starker Kritik ausgesetzt werden. Ausserdem bin<add>[ich]</add> mehr<lb/>
+denn je überzeugt, dass es gar keinen anderen Weg geben kann. Ich hatte<lb/>
+z.B. Dr. <name type="person" ref="per:112977">Neuhold</name> den Auftrag gegeben, er solle ausrechnen, wie hoch der<lb/>
+<pb n="13-1344" facs="13_1972-11-09_1344.jpg"/>Entlastungssatz für Benzin sein müsste, damit die 30–40 Groschen Benzin<lb break="no"/>preiserhöhung herauskommen würden. Er hat mir mitgeteilt dass in diesem<lb/>
+Fall die Entlastung über 16 Prozent betragen müsste. Dass ein solcher Ent<lb break="no"/>lastungssatz vollkommen unmöglich ist, steht ausser Zweifel, sodass wirk<lb break="no"/>lich jetzt erst ein preisbehördliches Verfahren erbringen müsste, dass<lb/>
+eben nur 33 Verfahren, wie der FM bereit ist, zuzustimmen, die Grundlage<lb/>
+nicht im Entlastungssatz sondern nur im Preisbescheid finden<lb/>
+kann. Auch hier bin ich neugierig, wie letzten Endes <name type="person" ref="per:97668">Kreisky</name>, an den<lb/>
+dieses Problem sicherlich von der Ölwirtschaft herangetragen wird, ent<lb break="no"/>scheiden wird. Wenn man so wie ich in den vergangenen 27 Jahren mit dem<lb/>
+Sozialpartner gemeinsam Lösungen gesucht hat und jetzt auf die neue Linie<lb/>
+sich umstellen, dass die Regierung alles macht, dann ist es für mich<lb/>
+ganz besonders schwer. Ich halte nämlich gar nichts davon, wenn<lb/>
+sei es der Finanzminister oder selbst ich oder vielleicht gar der Bundes<lb break="no"/>kanzler irgendwelche Überlegungen anstellt, Papier ausarbeitet, die<lb/>
+nicht vorher mit den Interessensvertretungen und den Experten dieser<lb/>
+Organisationen im Grund und im Prinzip abgesprochen sind. Ich glaube<lb/>
+nämlich nicht, dass die Regierung stark genug ist, gegen die Interessen<lb break="no"/>vertretungen etwas durchzuziehen. Wenn sie dies trotzdem macht, so wird<lb/>
+sie früher oder später Schiffbruch erleiden. Politik könnte und müsste<lb/>
+– wie ich schon seinerzeit vorgeschlagen habe – sein, dass wo man mit den<lb/>
+Interessensvertretungen Übereinstimmung erzielen kann, diese Übereinstimmung<lb/>
+als Richtlinie nimmt und nur dort, wo es vereinzelt keine Möglichkeit eines<lb/>
+Konsens gibt, entsprechend als Regierung selbst entscheidet.<lb/>
+</p>
+            <p xml:space="preserve">Im Fernsehen erfolgte eine Stundenaufzeichnung über das Ladenschlussproblem<lb/>
+Die Diskussion an der von Seiten der Handelskammer Komm.Rat <name type="person" ref="per:140206">Papitz</name>, Stellver<lb break="no"/>treter von <name type="person" ref="per:111717">Schönbichler</name>, und Prof. <name type="person" ref="per:112967">Hruschka</name> sowie Dkfm. <name type="person" ref="per:114739">Goldmann</name>, der Initia<lb break="no"/>tor des Langen Abends, <name type="person" ref="per:140207">Pleiner</name> vom Freien Wirtschaftsverband, ein Lebensmit<lb break="no"/>telhändler, die Gewerkschafterin <name type="person" ref="per:140208">Jarma</name>, eine Verkäuferin, teilnahm und<lb/>
+ein City-Verkäufer, <name type="person" ref="per:140209">Cerny</name> sowie NR <name type="person" ref="per:115155">Skritek</name>, war äusserst sachlich geführt.<lb/>
+Dadurch hatte ich die Möglichkeit schon bei meiner ersten Wortmeldung darauf<lb/>
+hinzuweisen, dass nur eine solche sachliche Diskussion die Grundlage für<lb/>
+eine Entscheidung sein kann. Zum Glück hatte ich den Arbeitsausschuss<lb/>
+bereits einberufen, denn sonst hätte Dkfm. <name type="person" ref="per:114739">Goldmann</name>, wie er auch in<lb/>
+einem Angriff mich sehr provokativ fragte, ob er der auslösende Mann<lb/>
+gewesen ist, zumindestens optisch rechtbehalten. Ich glaube, dass die<lb/>
+Lösung, diese Arbeitsgruppe einzusetzen, nicht nur wirklich eine sachlich<lb/>
+gute ist sondern uns überhaupt erst die Möglichkeit gibt, aus dem Dilemma<lb/>
+<pb n="13-1344" facs="13_1972-11-09_1344-01-D.jpg"/>herauszufinden. Solange nämlich durch Volksbegehren gesetzwidrige Aktio<lb break="no"/>nen auf Offenhalten und ich weiss nicht was sonst noch alles kommen<lb/>
+wird von politischer Seite, dieses Thema so hoch gespielt wird, kann<lb/>
+es kaum zu einer sachlichen Lösung wirklich kommen. Andererseits wieder<lb/>
+glaube ich, ist es wieder nicht allzu schlecht, dass man jetzt<lb/>
+in der Öffentlichkeit so viel über diese Probleme spricht, weil da<lb break="no"/>durch doch die Handelsangestelltengewerkschaft bereit sein wird, in<lb/>
+dem einen oder anderen Punkten Untersuchungen anzustellen, die gegebenen<lb break="no"/>falls dann zu einer leichten Modifizierung kommen können. <name type="person" ref="per:122296">Payrleitner</name><lb/>
+selbst wollte ja, weil es so sachlich zuging, bereits die Aussage<lb/>
+machen, ein Ergebnis liegt bereits in der Luft, es muss nur einer<lb/>
+ganz einfach erklären, so und so soll es sein. Da irrt er natürlich<lb/>
+ganz gewaltig und kann sich nicht vorstellen, wieviel innerer Wider<lb break="no"/>stand für eine allgemein zustimmende Lösung noch notwendig ist zu<lb/>
+überwinden. Der Wirtschaftsbund resp. die ÖVP wird über die<lb/>
+Sendung nicht sehr glücklich sein, weil <name type="person" ref="per:140207">Pleiner</name> zum Schluss immer<lb/>
+wieder darauf hingewiesen hat, dass der Freie Wirtschaftsverband dies<lb/>
+und jenes verlangt hat oder bereit ist, zuzugestehen. Zum Glück<lb/>
+war dies gegen Ende der Sitzung, denn sonst hätte <name type="person" ref="per:115155">Skritek</name> sich sicher<lb break="no"/>lich sofort wieder ganz energisch gegen diese Vorschläge gewendet und wir<lb/>
+hätten dann das Schauspiel gehabt, dass zwei soz. Organisationen in<lb/>
+aller Öffentlichkeit sich bekämpft hätten. Wenn ich als politischer Gegner<lb/>
+dort gesessen wäre, hätte ich mich mit Freude sofort auf diesen Gegen<lb break="no"/>satz gestürzt und hätte ihn entsprechend in der ganze Sendung ausgebaut.<lb/>
+Hier hat aber <name type="person" ref="per:122296">Payrleitner</name> entweder in seiner Objektivität oder in seiner<lb/>
+Naivität diesen Fehler begangen und ich bin überzeugt davon, dass<lb/>
+die Gegner ihm dies sehr verübeln werden, denn ausser <name type="person" ref="per:140206">Papitz</name>, den man<lb/>
+aber auch nicht zum Wirtschaftsbund offiziell zählen kann, er war<lb/>
+ja dort als Handelskammervertreter, war eigentlich kein prononcierter<lb/>
+ÖVP-Mann. <name type="person" ref="per:114739">Goldmann</name> selbst hat auf eine nicht ganz geschickte und faire<lb/>
+Frage von <name type="person" ref="per:115155">Skritek</name> geantwortet, dass er unparteiisch ist, was aber glaube<lb/>
+oder hoffe ich wenigstens untergegangen ist. Ausgelöst wurde diese<lb/>
+Diskussion durch die Frage <name type="person" ref="per:122296">Payrleitners</name>, ob auch die Gewerkschaft<lb/>
+gegen <choice><choice><sic>dem</sic><corr>die</corr></choice></choice> vom soz. Goldhändler im 22. Bezirk jetzt beabsichtigten Offen<lb break="no"/>haltekampagne ebenfalls vorgehen wird. Was <name type="person" ref="per:115155">Skritek</name> sofort bejahte.<lb/>
+Vielleicht wird sich auch Grund dieser Fernsehsendung jetzt die eine<lb/>
+oder andere Gruppe melden, um gegebenenfalls in dieser Arbeitsgemein<lb break="no"/>schaft des Konsumentenbeirates mitzuwirken. In einem solchen Fall<lb/>
+sollten wird, glaube ich, wenn die Gruppe einigermassen qualifiziert<lb/>
+ist, einem solchen Verlangen tatsächlich Rechnung tragen. Allerdings muss<lb/>
+<pb n="13-1345" facs="13_1972-11-09_1345.jpg"/>dazu noch vorher mit dem <name type="person" ref="per:111717">Schönbichler</name> und <name type="person" ref="per:115155">Skritek</name> Kontakt aufgenommen<lb/>
+werden und insbesondere von <name type="person" ref="per:115155">Skritek</name> die Zustimmung erlangt werden. Ich habe<lb/>
+mit <name type="person" ref="per:115155">Skritek</name> über dieses Problem noch nicht gesprochen, glaube aber,<lb/>
+wenn tatsächlich eine seriöse Gruppe noch sich melden sollte, dass man den<lb/>
+Versuch unternehmen müsste.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97646">KOPPE</name>: Bitte überleg Dir, ob man nicht wirklich noch jemanden<lb/>
+als Konsumenten- oder Hausfrauenorganisation zuziehen könnte. Allerdings<lb/>
+äusserst vorsichtig vorgehen, weil ansonsten auch die Arbeiterkammer als<lb/>
+Konsumentenvertreterin verärgert sein würde. Wenn sich niemand meldet, dann<lb/>
+haben wir dieses Problem Gott sei Dank nicht dieses Problem, und können,<lb/>
+wenn wir später einmal angegriffen werden, immer darauf hinweisen, dass ich<lb/>
+in aller Öffentlichkeit ja meine Bereitschaft bekundet habe, dass wir uns<lb/>
+sehr gerne in den Arbeitskreis und insbesondere in dem Konsumentenforum<lb/>
+verbreitern würden.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="13_1337_01" facs="13_1972-11-09_1337-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 9.11.1972</head>
+         </div>
+      </back>
+   </text>
+</TEI>

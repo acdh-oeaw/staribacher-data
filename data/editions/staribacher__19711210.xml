@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der 10. Dezember 1971</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band08_1971-12-10</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1971-12-10">Freitag, 10. Dezember 1971</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-08-30">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="08-1463" facs="08_1971-12-10_1463.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Freitag, 10. Dezember 1971<lb/>
+</p>
+            <p xml:space="preserve">Das Pokerspiel um die Preisregelung geht weiter. <name type="person" ref="per:97879">Rösch</name> hatte mich<lb/>
+ersucht, ich sollte <name type="person" ref="per:97893">Sallinger</name> und <name type="person" ref="per:97769">Mussil</name> fragen, ob sie seinen Kompro<lb break="no"/>missvorschlag aus dem § 3a die Worte "marktbeherrschend" und "ganze Branchen"<lb/>
+herauszustreichen, übernehmen würden. Wenn nämlich diese Bestimmung aus<lb/>
+dem § 3a gestrichen wird, hätte <name type="person" ref="per:97879">Rösch</name> gemeint, könnte die FPÖ als<lb/>
+Kompromiss und zur Wahrung des Gewichtes für eine einjährige Ver<lb break="no"/>längerung stimmen. <name type="person" ref="per:97893">Sallinger</name> und <name type="person" ref="per:97769">Mussil</name> wollten zuerst die Wirtschafts<lb break="no"/>bundabgeordneten und dann aber vor allem die Parteiführung fragen.<lb/>
+Sie teilten mir nun mit, dass kaum eine Chance besteht, dass dieses<lb/>
+Kompromiss von der ÖVP akzeptiert wird, müssten aber noch montags<lb/>
+im Klub darüber beraten.<lb/>
+</p>
+            <p xml:space="preserve">Wie sehr es zum jetzigen Zeitpunkt noch nicht notwendig war, die Strom<lb break="no"/>preise zu fixieren, zeigt das Verhalten der SAFE. LH-Stv. <name type="person" ref="per:97994">Steinocher</name><lb/>
+hat <name type="person" ref="per:97461">Frühbauer</name> und mich telefonisch dringend gebeten, denn die SAFE-Direk<lb break="no"/>toren haben grosse Angst, dass LH <name type="person" ref="per:137200">Lechner</name> einer 14 % Preiserhöhung nicht<lb/>
+zustimmen wird, obwohl er Aufsichtsratsvorsitzender der SAFE ist. <name type="person" ref="per:97461">Früh<lb break="no"/>bauer</name> meinte, die Direktoren sollten eben darauf hinweisen, dass in<lb/>
+Hinkunft die Netze ausgebaut werden müssen und deshalb höhere Preise<lb/>
+für die zu erwartenden Investitionen brauchen. Ich erklärte <name type="person" ref="per:97994">Steinocher</name><lb/>
+er sollte den Direktoren und insbesondere <name type="person" ref="per:137200">Lechner</name> ausrichten, dass dies<lb/>
+die letzte Preiserhöhung ist, denn wenn die Elektrizitätswirtschaft zu mir<lb/>
+kommt, werden sie ja nach ganz anderen Gesichtspunkten beurteilt werden.<lb/>
+Ich bin nämlich wirklich überzeugt, dass unsere ganze Energiepolitik falsch<lb/>
+ist. Wir wollten die Tarife zwischen Westen und Osten – im Westen sind sie<lb/>
+verhältnismässig sehr tief – nicht weiter auseinanderklaffen lassen.<lb/>
+Deshalb werden auch dem Westen 14 % resp. der Tiwag 13 und der Vorarl<lb break="no"/>berger Gesellschaft 12 % zugestanden. Diese Landesgesellschaften haben einen<lb/>
+verhältnismässig tiefen Groschenpreis für Strom und werden durch die per<lb break="no"/>zentuelle Erhöhung sowieso nicht zu einem hohen Erlös kommen wie die<lb/>
+östlichen Landesgesellschaften. Alle werfen aber einen Gewinn ab,<lb/>
+vielleicht, dass die KELAG durch ihre grossen Investitionen in Ausser<lb break="no"/>fragant sich verspekuliert hat und deshalb heute nicht so gut finanziell<lb/>
+dasteht wie alle anderen Landesgesellschaften. Einen einheitlichen Strom<lb break="no"/>preis werden wir kaum zustandebringen, denn dann müssten man ja die Super<lb break="no"/>gewinne vom Westen abschöpfen. Andererseits aber werden die Stadtwerke<lb/>
+jetzt an die Landesgesellschaften angeglichen, was eine weitere Be<lb break="no"/>lastung der Konsumenten in Graz, Salzburg und teilweise in Innsbruck<lb/>
+<pb n="08-1464" facs="08_1971-12-10_1464.jpg"/>bringen wird. Hier kommt es zu einer Vereinheitlichung der Strom<lb break="no"/>preise zumindestens in einem Land. Da ich aber nicht beabsichtige,<lb/>
+den Strompreis wieder jahrelang vollkommen unverändert zu lassen,<lb/>
+müsste doch ein System gefunden werden, wo wir auf der einen Seite die<lb/>
+Investitionen der Landes- und insbesondere der Verbundgesellschaft<lb/>
+sicherstellen, auf der andren Seite aber den Konsumenten für die Belastung<lb/>
+irgendein Äquivalent und wenn es nicht anderes ist, eine Beteiligung<lb/>
+der Konsumenten an der Mehrleistung zu gewähren. Wenn in der E-Wirtschaft<lb/>
+der freie Markt spielen würde, d.h. wenn Unternehmungen tatsächlich<lb/>
+investieren und Strom verkaufen könnten, hätten sich wahrscheinlich<lb/>
+schon die entsprechenden Kapitalien gefunden, inländische oder auslän<lb break="no"/>dische, die die Versorgung der Bevölkerung übernommen hätten. Auf der<lb/>
+anderen Seite aber ist Österreich so klein und leistet sich den Luxus<lb/>
+monopolartiger Gesellschaften in den Ländern und darüber noch die Ver<lb break="no"/>bundgesellschaft zu haben. Wenn schon diese Verbundgesellschaft und<lb/>
+die Landesgesellschaften eine solche Macht und abgegrenzte Versorgungs<lb break="no"/>gebiete haben, dann müsste man sie eigentlich zu einer einheitlichen Ge<lb break="no"/>sellschaft zusammenfassen, die Verwaltungsapparate wesentlich reduzieren<lb/>
+und vor allem dann eine einheitliche Energiepolitik betreiben. Die<lb/>
+Monopolgewinne müssten dann allerdings sehr genau und gewissenhaft<lb/>
+geprüft und vor allem verteilt werden. Unser österreichisches System<lb/>
+ist eine Mischung zwischen den beiden Extremen und wahrscheinlich<lb/>
+hat es auch alle nachteiligen Bestandteile jeden Systems.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: Wir sollten versuchen, ohne als Auftraggeber auf<lb break="no"/>zuscheinen, Fachleute<add>[zu]</add> finden, die entsprechende Überlegungen anstellen,<lb/>
+damit – wenn wir die Kompetenz bekommen – dieses neue System dann schön<lb/>
+langsam von uns angepeilt werden könnte.<lb/>
+</p>
+            <p xml:space="preserve">Gen.Direktor <name type="person" ref="per:97739">Mieling</name> von Shell ist von den internationalen Gesellschaften<lb/>
+beauftragt worden, mit der Regierung über die OPEC-Verhandlungen Kontakt<lb/>
+zu halten. Seinerzeit, als die OPEC-Staaten die Ölpreise erhöhten, hat<lb/>
+man mich bereits – ich glaube, damals war dies Gen.Direktor <name type="person" ref="per:137936">Russbach</name><lb/>
+von der Mobil – Samstag Sonntag aufgestöbert, um mir die Ergebnisse mitzu<lb break="no"/>teilen. Mysteriös hat man das zuerst angekündigt, mir dann gesagt, er<lb/>
+liegt jetzt eine unvollständige Kabelmitteilung in Englisch vor und<lb/>
+man wird mich dann in ein paar Stunden wieder<add>[ver-]</add> ständigen und man<lb/>
+müsste mir das alles im Detail <choice><choice><sic>auftrags</sic><corr>im Auftrag?</corr></choice></choice> der internationalen Gesell<lb break="no"/>schaften als Regierungsmitglied mitteilen. In Wirklichkeit ist alles<lb/>
+Stunden vorher bereits über die Agenturen gelaufen und im Fernsehen und<lb/>
+<pb n="08-1465" facs="08_1971-12-10_1465.jpg"/>Radio hat man alles bereits im Detail erfahren können. Ich bin mir<lb/>
+noch nicht ganz klar, was die internationalen Gesellschaften mit diesen<lb/>
+Methoden bezwecken <name type="person" ref="per:97739">Mieling</name> teilte mir nämlich wieder nur mit, dass<lb/>
+sie derzeit in Verhandlungen mit den OPEC-Ländern stehen. Es wurden<lb/>
+von 22.11. eine Woche mit Experten über die Währungsfragen mit den<lb/>
+OPEC-Ländern verhandelt. Die OPEC-Länder wünschen nämlich für die Währungs<lb break="no"/>abwertung des Dollars eine entsprechende Erhöhung des Rohölpreises von<lb/>
+7–8 %. Die nächste Preiserhöhung wurde nämlich auf Grund der Inflations<lb break="no"/>ratenvereinbarung mit 1.1.1973 5 % erst fällig. Die Verhandlungen werden<lb/>
+derzeit noch weitergeführt. Weiters wollen die OPEC-Staaten eine Beteili<lb break="no"/>gung und zwar die Golfländer 20 % und Libyen sogar 50 % an dem inter<lb break="no"/>nationalen Gesellschaften, die in diesen Ländern entsprechende nationale<lb/>
+Gesellschaften haben. Die internationalen Gesellschaften wären einverstan<lb break="no"/>den ausser den Royalities auch noch eine Beteiligung den Staaten<lb/>
+zuzugestehen, wenn sie die Gewähr hätten, dass dann die Mittel, die die<lb/>
+Gesellschaften erarbeiten und die natürlich dann auch dem Staate dort<lb/>
+zufliessen, entsprechende Investitionen getätigt werden. Die internatio<lb break="no"/>nalen Gesellschaften fürchten, dass die Gelder sonst im Budget oder in der<lb/>
+Privatschatulle von den dortigen Machthabern untergehen, und der<lb/>
+weitere Ausbau der Ölproduktion in den nationalen Ländern dadurch zurück<lb break="no"/>gehen würde. Ausserdem gibt es noch den grossen Streit, in welchem Masse<lb/>
+die Investitionen, die die internationalen Gesellschaften in diesen Ländern<lb/>
+getätigt haben abgelöst werden. Die nationalen Staaten sind bereit, ihnen<lb/>
+nur den Buchwert ihrer Investitionen als Ablöse zu bezahlen, während die<lb/>
+internationalen Gesellschaften den Marktpreis verlangen. Das Detailproblem<lb/>
+ist, dass die Konzessionen in Iran 1979 auslaufen und jetzt die internatio<lb break="no"/>nalen Gesellschaften jetzt mit dem Schah von Persien sich einigen müssen<lb/>
+ob und wie sie weitere Konzessionen bekommen können. In Irak wieder ist<lb/>
+das Nord-Rumaila-Feld enteignet wurde und die Iraq Petroleum Company<lb/>
+wünscht nun, dass aus diesem Feld die ÖMV Öl kauft. Die ÖMV ist dazu<lb/>
+auch bereit und <name type="person" ref="per:97739">Mieling</name> hat, ohne dass<add>[er]</add> dies irgendwo an die grosse<lb/>
+Glocke hängen will, sich sehr bemüht, dass Shell, welche an der Irak PC<lb/>
+beteiligt ist, aus diesem Kauf nicht aus Österreich beleidigt resp.<lb/>
+Repressalien ergreift. Ich urgierte vor allem den Ausbauplan für<lb/>
+österreichische Mineralöl- und -produkteversorgung und <name type="person" ref="per:97739">Mieling</name> erklärte,<lb/>
+es müsste jetzt in den nächsten Wochen ein diesbezüglicher Plan fertig<lb/>
+werden. <name type="person" ref="per:97739">Mieling</name> meint, dass die SHELL sich nämlich jetzt entscheiden<lb/>
+muss, nachdem Ingolstadt grösser ausgebaut wird, wie viel sie zusätzliche<lb/>
+Produkte für Österreich beziehen kann. Dies würde eine Produktenpipeline<lb/>
+<pb n="08-1466" facs="08_1971-12-10_1466.jpg"/>Ingolstadt nach Westösterreich ermöglichen, wenn sich die anderen<lb/>
+internationalen Gesellschaften daran beteiligen. Andererseits<lb/>
+will ja die ÖMV eine Produktenleitung nach dem Westen bauen und diese<lb/>
+Pläne müssten nun endgültig aufeinander abgestimmt werden. Auch der<lb/>
+Ausbau des Tankstellennetzes, welchen ich neuerdings urgierte,<lb/>
+hat <name type="person" ref="per:97739">Mieling</name> erklärt, würde in der nächsten Zeit in meinem Sinne durch<lb break="no"/>geführt werden. Es wird keine einzige Prestigetankstelle gebaut sondern<lb/>
+im Saldo werden wahrscheinlich die Tankstellen nicht mehr zunehmen.<lb/>
+Sein Verbindungsmann zwischen der SHELL als OPEC-Vertreter der inter<lb break="no"/>nationalen Gesellschaften und dem Handelsministerium habe ich Min.Rat<lb/>
+<name type="person" ref="per:112191">Mayer</name> von der OB und von der Abteilung 25 bestimmt.<lb/>
+</p>
+            <p xml:space="preserve">Die Diskussion mit den Vertretern der Jugend – die 6., die <name type="person" ref="per:97668">Kreisky</name> bis<lb/>
+jetzt einberufen hat – war insofern ergiebig, als die Jugendorganisa<lb break="no"/>tionen Gelegenheit haben, mit Regierungsmitgliedern zu diskutieren. Natür<lb break="no"/>lich konzentriert sich eigentlich alles auf die Person des Bundeskanz<lb break="no"/>lers. Die Minister haben nur Gelegenheit auf Spezialfragen und Spe<lb break="no"/>zialwünsche Auskunft.zu geben. <name type="person" ref="per:97668">Kreisky</name> versucht zwar sehr geschickt immer<lb/>
+jeden Minister irgendwie ins Spiel zu bringen. So wurde er z.B. über<lb/>
+die Filme gefragt und hat sofort gemeint, auch der Handelsminister<lb/>
+wäre für die Filmförderung zuständig und er wird sicher Auskunft geben.<lb/>
+Ich habe dort nicht im Zweifel gelassen, dass ich nur eine kommerzielle<lb/>
+Filmförderung ins Auge fasse, denn für die kulturelle Seite sei der<lb/>
+Unterrichtsminister zuständig, der bereits jetzt entsprechende Film<lb break="no"/>förderung betreibt. Interessant war für mich eigentlich nur die Frage<lb/>
+der Gewerkschaftsjugend. Der Obmann dieser Organisation beschwerte sich,<lb/>
+dass noch immer die Lehrberufe von der Gewerbeordnung abhängig seien<lb/>
+und deshalb auch das Berufsausbildungsgesetz, welches nah jahrzehnte<lb break="no"/>langer Beratung vor etlichen Jahren beschlossen wurde, für sie sehr<lb/>
+unbefriedigend ist. Da die Lehrberufe von der Gewerbeordnung abhängig<lb/>
+sind, kann man immer wieder feststellen, dass noch immer wieder viele<lb/>
+Lehrberufe es gibt, die vollkommen uninteressant sind und deshalb auch<lb/>
+kaum einen Lehrling haben. Von den 303 Lehrberufen hatten im letzten Jahr<lb/>
+67 überhaupt keinen Lehrling ausgebildet. 43 haben 1–5 Lehrlinge ausge<lb break="no"/>bildet und 27 haben nur 5–10 Lehrlinge ausgebildet. Man sieht also, das<lb/>
+in Wirklichkeit ein Grossteil der Lehrberufe gar keine Lehrberufe sind.<lb/>
+Ich habe zugesagt und möchte dies auch tatsächlich einhalten, dass ich<lb/>
+bei der nächsten Sitzung des Beirates auf Grund des Berufsausbildungs<lb break="no"/>gesetzes anwesend sein werde, um über dieses Problem eine offene<lb/>
+Aussprache zu führen. Ich könnte mir sehr gut vorstellen, dass aus diesem<lb/>
+<pb n="08-1467" facs="08_1971-12-10_1467.jpg"/>Beirat entsprechende gemeinsam Vorschläge zwischen den Handelskammer<lb break="no"/>vertretern und den Gewerkschaftsvertretern erarbeitet werden, die<lb/>
+letzten Endes dann ihren Niederschlag – sei es in der Gewerbeordnung<lb/>
+oder sei in einem neuen Berufsausbildungsgesetz – findet.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: Bitte diese Frage bei <name type="person" ref="per:97584">Jagoda</name> deponieren.<lb/>
+</p>
+            <p xml:space="preserve">Dr. <name type="person" ref="per:97716">Manhart</name> vom Kuratorium für Verkehrssicherheit wollte als neuer<lb/>
+Geschäftsführer sich erstens vorstellen und Zweitens nachdem ich ja<lb/>
+dies immer gleich mit einer Arbeitssitzung verbinde, mir mitteilen, dass<lb/>
+das Kuratorium grösste Bedenken hat, jetzt die Woche gegen den Alkohol<lb break="no"/>missbrauch am Steuer zu starten. Das Ergebnis ist nun ein Film, der<lb/>
+in allen Fernsehanstalten Europas gesendet werden soll und ein Plakat.<lb/>
+Dr. <name type="person" ref="per:97716">Manhart</name> hat grösste Bedenken, so kurzfristig jetzt noch ein Plakat<lb/>
+allein zu affichieren und einen Film <choice><choice><sic>in den</sic><corr>an das? im?</corr></choice></choice> Fernsehen zu senden, welche<lb/>
+noch niemand gesehen hat. Ich erklärte ihm sofort, er möge sich mit<lb/>
+Dr. <name type="person" ref="per:134300">Metzner</name> von uns ins Einvernehmen setzen, denn ich selbst habe mich<lb/>
+nur verpflichtet, die Fernsehanhalt sowie alle anderen Minister zu<lb/>
+ersuchen, dass dieser Film überhaupt gesendet wird. Wann und welcher<lb/>
+Film es sein wird, bleibt natürlich den dafür zuständigen Stellen über<lb break="no"/>lassen.<lb/>
+</p>
+            <p xml:space="preserve">Beim Schwerpunktprogramm ist er auch unserer Meinung, dass es unmög<lb break="no"/>lich ist, durch zwei Monate hindurch ein Programm wirklich durchzuziehen<lb/>
+Da kann die Exekutive keinesfalls mitwirken, Er ist deshalb sehr ein<lb break="no"/>verstanden, dass wir nur 8 Tage einen wirklichen Exekutiveinsatz haben<lb/>
+und während der anderen 7 Wochen eine neue Form gefunden werden muss.<lb/>
+Vor allem meint er müsste es gelingen, alle Stellen, die dafür in<lb/>
+Frage kommen und alle Institutionen, die sich mit Verkehrsfragen be<lb break="no"/>schäftigen, für dieses Schwerpunktprogramm Arbeit zu koordinieren.<lb/>
+Er selbst wird mit seiner Institution entsprechend mitarbeiten.<lb/>
+</p>
+            <p xml:space="preserve">Der wichtigste Punkt seiner Vorsprache war aber, dass Univ.Dozent<lb/>
+<name type="person" ref="per:114125">Knoflacher</name>, der bei ihm im Kuratorium arbeitet und den wir bereits<lb/>
+einige Male mit Freistellung vom Militär helfen konnten, die Chance hat,<lb/>
+in Wien eine Lehrkanzel zu bekommen. Der derzeitige Inhaber beabsich<lb break="no"/>tigt Anfang nächsten Jahres nach Deutschland zu gehen. Ich habe des<lb break="no"/>halb <name type="person" ref="per:97716">Manhart</name> sofort versprochen, mit Minister <name type="person" ref="per:97442">Firnberg</name> zu sprechen.<lb/>
+Tatsächlich ist es gelungen, noch unmittelbar nach der Sitzung einen<lb/>
+Termin zu vereinbaren und <name type="person" ref="per:97442">Firnberg</name> hat uns zugesagt, alles zu unterneh<lb break="no"/>men, dass <name type="person" ref="per:114125">Knoflacher</name> dieser Lehrstuhl bekommt. Damit würde gesichert<lb/>
+<pb n="08-1468" facs="08_1971-12-10_1468.jpg"/>sein, dass er im Kuratorium für Verkehrssicherheit weiterarbeiten<lb/>
+kann. Interessant ist die Bezahlung dieses Mannes vom Kuratorium.<lb/>
+Da die entsprechenden Gehaltsschemata auch dort keine Möglichkeit<lb/>
+geben, ihn befriedigend zu entlohnen, wird er durch Beteiligung<lb/>
+an Projekten, die er mit anderen durchführt, er bekommt z.B. 25 %<lb/>
+eines Projektes eigentlich als freier Mitarbeiter entlohnt. Daraus<lb/>
+konnte ich entnehmen, dass wahrscheinlich nicht nur beim Staat und<lb/>
+bei öffentlichen Körperschaften sondern heute schon auch bei allen<lb/>
+anderen Institutionen irgendwelche krummen Touren und Wege gegangen<lb/>
+werden, um Fachkräfte zu binden. Ich halte dieses verlogene System<lb/>
+für erstens sehr gefährlich und zweitens auf die Dauer sicherlich<lb/>
+nicht für haltbar. Ich glaube, es wäre höchste Zeit, wenn man sich<lb/>
+aufschwingen könnte, eine wirklich normale und alle befriedigende<lb/>
+oder einigermassen befriedigende Lösung zu finden.<lb/>
+</p>
+            <p xml:space="preserve">Beim Besuch des Bundespräsidenten, wo ich ihm über die Ergebnisse<lb/>
+der Ungarnreise berichtete, teilte er mir mit, dass er grössten Wert<lb/>
+darauf legen würde, wenn ich auch an dem Besuch in Frankreich teil<lb break="no"/>nehmen würde. Ich erklärte, dass ich natürlich diese Einladung zu<lb/>
+schätzen weiss und mich darüber sehr freue, doch möchte ich dieses<lb/>
+Problem mit dem Aussenminister besprechen. Ich erklärte zwar, dass<lb/>
+mich mit <name type="person" ref="per:97632">Kirchschläger</name> und das darf ich mit ruhigem Gewissen<lb/>
+sagen, freundschaftliche Beziehungen verbinden, doch glaubte ich<lb/>
+es <name type="person" ref="per:97632">Kirchschläger</name> schuldig zu sein, ihm von dieser Entwicklung Mittei<lb break="no"/>lung zu machen und vor allem seine Meinung einzuholen. Ich kann mit<lb/>
+sehr gut vorstellen, dass in einer anderen Regierung ein Aussenminister<lb/>
+über ein Mitglied, das ununterbrochen zu Staatsbesuchen mitfährt,<lb/>
+empört ist, weil er darin eine Herabsetzung seiner Person sieht. <name type="person" ref="per:97632">Kirch<lb break="no"/>schläger</name>, mit dem ich über dieses Problem ganz offen gesprochen habe<lb/>
+war aber – wie ich auch erwartete – ganz anderer Meinung. Er sagte,<lb/>
+dass er sich sehr freut, wenn ich ebenfalls mitkomme und betrachtet<lb/>
+dies nicht nur als einen Ausfluss der persönlichen Zuneigung des<lb/>
+Bundespräsidenten zu mir, sondern er will damit auch dokumentieren,<lb/>
+dass seine Staatsbesuche Arbeitsbesuche sind, wo wirklich über Probleme<lb/>
+gesprochen wird. Wenn ich mir vorstelle, dass in der vorhergehenden<lb/>
+Regierung <name type="person" ref="per:97749">Mitterer</name> z.B. vom Präsidenten aufgefordert worden wäre,<lb/>
+ebenfalls mitzukommen, dann hätte wahrscheinlich <name type="person" ref="per:137940">Toncic</name> oder auch <name type="person" ref="per:114093">Wald<lb break="no"/>heim</name> darüber nicht nur die Nase gerümpft, sondern sicherlich auch eine<lb/>
+kleine Kabinettskrise veranlasst. Es ist nämlich in meinen Augen<lb/>
+<pb n="08-1469" facs="08_1971-12-10_1469.jpg"/>keinesfalls selbstverständlich, dass ein anderer Minister als der<lb/>
+Aussenminister an solchen Staatsbesuchen teilnimmt.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="08_1462_01" facs="08_1971-12-10_1462-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 10.12.1971</head>
+         </div>
+         <pb n="08_1462_02" facs="08_1971-12-10_1462-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

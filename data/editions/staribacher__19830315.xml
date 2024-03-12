@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstag, der 15. März 1983</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band69_1983-03-15</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1983-03-15">Dienstag, 15. März 1983</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-12-16">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="69-0346" facs="69_1983-03-15_0346.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Dienstag, 15. März 1983<lb/>
+</p>
+            <p xml:space="preserve">Eine Rücksprache mit dem Direktor der Österreichischen Kontrollbank,<lb/>
+<name type="person" ref="per:111755">Castellez</name>, ergab, daß die Finanzierung der DDR-Exporte auf dem Konsum<lb break="no"/>gütersektor indirekt doch durch die Österreichische Kontrollbank er<lb break="no"/>folgt, wie ich ursprüngich vermutet und auch behauptet habe. 5 Haus<lb break="no"/>banken der österreichischen Exporteure, Creditanstalt 300 Mio., die<lb/>
+Länderbank, die Girozentrale, BAWAG und Kathrein, bei Zucker kommt jetzt<lb/>
+noch die Zentralsparkasse dazu, finanzieren mit entsprechender Rückver<lb break="no"/>sicherung durch die Österreichische Kontrollbank die Exporteure. Durch<lb/>
+Genehmigung des Beirates wurden Konsumgüter von 27. Dezember des Vor<lb break="no"/>jahres bis zum Jänner dieses Jahres von ca. 1 Mrd. S genehmigt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: MR <name type="person" ref="per:121815">Fels</name> soll doch noch eine solche Zusammen<lb break="no"/>stellung machen.<lb/>
+</p>
+            <p xml:space="preserve">Eine Rücksprache mit Staatssekretär <name type="person" ref="per:97343">Beil</name> in Leipzig, den ich von der<lb/>
+prinzipiellen Zustimmung zu seiner Idee 2 Mrd. S in Fortsetzung der<lb/>
+DDR-Exporte durch Österreich ergab, daß dieser zum jetzigen Zeitpunkt<lb/>
+keine Detailverhandlungen mit mir oder z.B. bei den Weinexporten<lb/>
+mit dem Landwirtschaftsministerium wünscht. Er muß scheinbar in der<lb/>
+DDR noch entsprechende Vorarbeiten leisten und wird mich nach Ende<lb/>
+der Leipziger Messe von Berlin neuerdings kontaktieren. Meinen Hinweis,<lb/>
+daß Landwirtschaftsminister <name type="person" ref="per:97511">Haiden</name> eine größere Menge Weinexport<lb/>
+in die DDR wünscht, nahm er zur Kenntnis.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte über die Detailverhandlungen derzeit<lb/>
+mit niemandem sprechen.<lb/>
+</p>
+            <p xml:space="preserve">Der iranische Geschäftsträger <name type="person" ref="per:1138697">Keiarishi</name> erklärte, daß in Teheran man<lb/>
+gerne eine Delegation aus Österreich sehen würde. In diese Delegation<lb/>
+sollten aber auch Firmen mitgenommen werden, mit denen man bis jetzt<lb/>
+Gespräche über Kooperation oder zumindesens österreichische Lieferwünsche<lb/>
+verhandelt hat. Auf Wunsch der VÖEST-Alpine-Handelsfirma Intertrading,<lb/>
+die ein 300-Mio.-$-Partnerabkommen in Teheran unterschriftsreif liegen<lb/>
+hat, habe ich auf diesen Abschlußwunsch von VÖEST-ALpine verwiesen. Der<lb/>
+Geschäftsträger deutete an, daß für die Verzögerung <add>[der]</add> VÖEST-Alpine-Lie<lb break="no"/>ferungen an den Irak über Jordanien, der Hafen Akaba wurde von ihm ein<lb break="no"/>deutig als selbst für Kriegsmaterial den Irakern offenstehend bezeichnet.<lb/>
+Dieses 300-Mio.-$-Partnerabkommen hat aber nichts mit dem bisherigen<lb/>
+<pb n="69-0347" facs="69_1983-03-15_0347.jpg"/>Ölabnahmegeschäft für die Lieferung in die DDR und zur Bezahlung als<lb/>
+Gegengeschäft österreichische Exporte nach den Iran zu tun. Bei diesem<lb/>
+Partnerabkommen handelt es sich um Möglichkeiten von Reislieferungen z.B.<lb/>
+aus Asien in den Iran. In all diesen Geschäften werden 85 % auf ein<lb/>
+Bankkonto in Österreich einbezahlt, um damit dann die Gegengeschäfte<lb/>
+entsprechend finanzieren zu können.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:125291">MARTIN</name>: Bitte wegen Traktorenexporte mit GD <name type="person" ref="per:111400">Malzacher</name><lb/>
+verbinden.<lb/>
+</p>
+            <p xml:space="preserve">In der Ministerratsvorbesprechung kam <name type="person" ref="per:97668">Kreisky</name> sofort auf die erste<lb/>
+Ausgabe der Sonntagzeitung zu sprechen. Dies ist die größte Boulevard-<lb/>
+Zeitung mit der größten Auflage in Österreich. Darin können nicht alle<lb/>
+Interessen vertreten sein. Er hat von dem Protest der Frauen gegen den<lb/>
+Jeans-Artikel gehört, dieser Artikel wurde weniger wegen des Inhaltes<lb/>
+als wegen eines nackten Oberkörpers der Frau, die die Jeans anhat, hart<lb/>
+kritisiert. Staatssekretär <name type="person" ref="per:109808">Albrecht</name> hat mir ja ganz empört mitgeteilt,<lb/>
+sie würden diese Zeitung nicht austragen. <name type="person" ref="per:97668">Kreisky</name> meinte, wenn die<lb/>
+Genossinnen dagegen argumentieren und diese Art der Zeitung ablehnen,<lb/>
+dann müßten sie eben die AZ lesen. Dort wird nur seriös berichtet und<lb/>
+auch seriös aufgemacht. Wenn die Bevölkerung oder gar die Frauen nur<lb/>
+diese seriöse Art der Berichterstattung wünschen, dann müßte die AZ<lb/>
+50.000 und mehr Auflage haben.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Organisation haben sich in der Druckerei des Kuriers Schwierigkei<lb break="no"/>ten ergeben, wodurch die Auslieferung nicht so klappte, als man erwartet<lb/>
+hat. Es grenzt an ein Wunder, daß die Nr. 1 überhaupt rausgekommen ist.<lb/>
+Von den Druckern hätte er mehr Solidarität erwartet, jetzt kommt man<lb/>
+an die Partei und insbesondere an ihn als Bundeskanzler nur dann heran,<lb/>
+wenn man protektionistische Wünsche hat.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> erwähnte dann auch den Brief der Wiener Linkssozialisten wegen<lb/>
+der Wiener Gemeinderatswahl. Dieser kritische Brief meint, es müßte<lb/>
+jetzt endlich auch die sozialistische Kommunalpolitik betrieben werden.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> stellte fest, daß dieser Brief schäbig ist und daß die Schreiber<lb/>
+jahrelang geschwiegen haben. In der Partei haben sie überhaupt nie<lb/>
+mitgearbeitet, sondern höchstens geredet. Dieser Brief wurde den Redak<lb break="no"/>tionen, u.a. dem Kurier, zugeschickt. Er hat den Verdacht, daß damit<lb/>
+andere Absichten, als die Briefschreiber allein zum Ausdruck bringen, ver<lb break="no"/>bunden sind. <name type="person" ref="per:97668">Kreisky</name> fühlt sich mit der Gemeinde Wien und deren politi<lb break="no"/>schen Verantwortlichen solidarisch und auch betroffen. Die Briefschrei<lb break="no"/>ber haben bis jetzt für die Partei noch nichts geleistet. Dies gilt<lb/>
+<pb n="69-0348" facs="69_1983-03-15_0348.jpg"/>auch für die Mitglieder seiner Familie, die mitunterschrieben haben,<lb/>
+sein Sohn und dessen Frau sind nämlich auch dabei.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> kam dann auch auf das geheime Bündnis zwischen den Grünen und<lb/>
+der ÖVP zu sprechen. <name type="person" ref="per:112571">Tollmann</name> hat ja bereits erklärt, in Wien werden die<lb/>
+Grünen bei den Gemeinderatswahlen nicht kandidieren. Damit will er<lb/>
+deutlich sichtbar den Vizebürgermeister <name type="person" ref="per:109293">Busek</name>, das heißt die Wiener<lb/>
+ÖVP, schonen und möchte denen keine Stimmen kosten. Damit ergibt sich<lb/>
+jetzt bereits eine schwarz-grüne Koalition. <name type="person" ref="per:97668">Kreisky</name> warnte aber umso mehr<lb/>
+von der Idee, eine rot-grüne Koalition <del>oder</del> auch nur anzudeuten.<lb/>
+</p>
+            <p xml:space="preserve">Vizebürgermeister <name type="person" ref="per:133385">Stingl</name> hätte ihm berichtet, daß auch die Alternativen<lb/>
+in Graz keinesfalls zu erkennen gegeben haben, daß sie eindeutig bei<lb/>
+der geheimen Wahl des Bürgermeisters <name type="person" ref="per:133385">Stingl</name> wählen würden. Er hat Grund<lb/>
+anzunehmen, daß sich die Alternativler gespalten hätten, ein Teil von<lb/>
+ihnen hätte sicherlich <name type="person" ref="per:112570">Hasiba</name> gewählt, er hat dann im Stadtsenat mit den<lb/>
+Freiheitlichen die Mehrheit und könnte daher ohne weiteres gegen die<lb/>
+SPÖ als gewählter Bürgermeister dann leicht agieren. Daher ist die<lb/>
+Teilung der Amtszeit zwischen <name type="person" ref="per:112570">Hasiba</name> und <name type="person" ref="per:133385">Stingl</name> zu vertreten.<lb/>
+</p>
+            <p xml:space="preserve">Da ich durch eine Falschinformation über die Ankunft der sowjetischen<lb/>
+Lebensmittelministerdelegation, Gemüse- und Obstminister sowie Vizemi<lb break="no"/>nister für Milch und Getreide und den Vizeminister für Lebensmittelma<lb break="no"/>schinenproduktion, in Schwechat abholen mußte, habe ich vorzeitig die<lb/>
+Sitzung verlassen. Staatssekretär <name type="person" ref="per:109808">Albrecht</name> hat es freundlicherweise<lb/>
+übernommen, die weitere Sitzung festzuhalten.<lb/>
+</p>
+            <p xml:space="preserve">Die riesige sowjetische Delegation, die auf Anregung der Handelskammer<lb/>
+BK <name type="person" ref="per:97668">Kreisky</name> mit einem Schreiben an den Ministerpräsident <name type="person" ref="per:127768">Tichonow</name> for<lb break="no"/>mell eingeladen hat, interessiert sich primär für die Verbesserung der<lb/>
+Kooperation mit österreichischen Firmen. Ein umfangreiches Besichtig<lb break="no"/>ungsprogramm wurde deshalb ausgearbeitet. Die sowjetische Seite ist<lb/>
+damit sehr zufrieden, hatte kleine Änderungswünsche, die wir alle er<lb break="no"/>füllen konnten. Interessant war, daß aber der Delegationsleiter mir ge<lb break="no"/>genüber ersuchte, wenn sie schon in Wien sind, ob sie nicht eine Musik<lb break="no"/>veranstaltung besuchen könnten. Zum Glück hatte ich vor dem Ministerrat<lb/>
+die Vertreter des BKA aufgescheucht und erklärt, <name type="person" ref="per:97668">Kreisky</name> lädt eine<lb/>
+Delegation ein und vom BKA ist niemand am Flughafen. Sofort wurde der<lb/>
+BKA-Protokollchef MR <name type="person" ref="per:132712">Nigisch</name> geschickt, dieser war dann auch imstande<lb/>
+sofort eine Loge für heute Abend für die russische Delegationsführung<lb/>
+zu organisieren.<lb/>
+</p>
+            <pb n="69-0349" facs="69_1983-03-15_0349.jpg"/>
+            <p xml:space="preserve">Beim Arbeitsessen, das ich der sowjetischen Delegation gab, war auch<lb/>
+Landwirtschaftsminister <name type="person" ref="per:97511">Haiden</name> anwesend. Vorher versuchte ich schon<lb/>
+über unsere Abteilung die Exporte von Agrarprodukten in die SU festzu<lb break="no"/>stellen, leider wußte niemand Konkretes davon, außer SL <name type="person" ref="per:114570">Steiner</name>. Bis<lb/>
+jetzt wurden 100.000 to Weizen, 130 S die Tonne zu Subvention 1,75<lb/>
+abgeschlossen, 20.000 to Mehl, Subvention auf Getreide gerechnet, 2,40,<lb/>
+insgesamt wurden dafür 226 Mio. S aufgewendet. 36 Mio. S ist eine weitere<lb/>
+Subvention, die über das Nahrungsmittelhilfskonto abgewickelt wird<lb/>
+und mit den 20.000 to Mais, die ebenfalls jetzt in die SU geliefert<lb/>
+werden, verbunden sind. <choice><choice><sic>Diese</sic><corr>Um diese?</corr></choice></choice> 36 Mio. S werden für Nepal und andere Ent<lb break="no"/>wicklungsländer Nahrungsmittel zum B. Reis gekauft werden. Österreich<lb/>
+exportiert auch 6.000 to Butter, allerdings strengst vertraulich nicht<lb/>
+aus der österreichischen Produktion, sondern durch die hohe Stützung<lb/>
+in der EG aus Deutschland zu uns importiert und dann den Sowjets als<lb/>
+österreichische Butter weiterverkauft. Ähnliches geschieht mit 20.000<lb/>
+to Milchpulver, von denen ca. 1/4 aus der österreichischen Produktion<lb/>
+stammt. Dort ist eine Subvention von 18 S pro kg notwendig. <choice><choice><sic>Die</sic><corr>Über die</corr></choice></choice> ev.<lb/>
+20.000 to Fleisch, die die Sowjets ebenfalls kaufen könnten, <choice><choice><sic>wird</sic><corr>werden</corr></choice></choice> von<lb/>
+Einzelfirmen bis jetzt Gespräche geführt<add>[, die]</add> aber zu keinem konkreten Er<lb break="no"/>gebnis gekommen sind. Große Absicht der Sowjets, 100.000 hl 12-grädigen<lb/>
+Wein zu kaufen, scheitert an dem schlechten Preisangebot, 9.40 S pro<lb/>
+hl, dies ergibt einen Literpreis von 1,60 S. Selbst wenn man jetzt die<lb/>
+2,– S Subvention dazurechnet, <choice><choice><sic>daß</sic><corr>die</corr></choice></choice> das Landwirtschaftsministerium dazu<lb break="no"/>zahlen wird, gibt es für den Bauern keinen erträglichen Verkaufspreis,<lb/>
+da er ja noch fast 1 S daraus Transportkosten und sonstige Kosten zahlen<lb/>
+müßte. Der 1,60-Preis ergibt sich von einem angeblichen spanischen<lb/>
+Export in die SU frei Mittelmeerhafen im Tankschiff. Unwahrscheinlich,<lb/>
+zu welchen Wahnsinnspreisen die Mittelmeerstaaten Wein weltweit expor<lb break="no"/>tieren. Ich versuchte der sowj. Seite klarzumachen, daß wir an den<lb/>
+100.000 hl sehr interessiert sind, daß aber insbesondere Handelsrat<lb/>
+<name type="person" ref="per:1137602">Stesnow</name> und ganz besonders Botschafter <name type="person" ref="per:114403">Jefremow</name> sich bemühen sollten,<lb/>
+bessere Preise in Moskau zu erreichen. Auch bei Getreide hat es monate<lb break="no"/>lang gedauert, bis sich letzten Endes dann die sowjetische Seite be<lb break="no"/>sonders unter Mitwirkung des Botschafters <name type="person" ref="per:114403">Jefremow</name> dazu entschlossen<lb/>
+hat einen einigermaßen erträglichen Preis zu bezahlen, wie Landwirtschafts<lb break="no"/>minister <name type="person" ref="per:97511">Haiden</name> beim Arbeitsgespräch erwähnte.<lb/>
+</p>
+            <p xml:space="preserve">Die sowj.-österr. Außenhandelsbilanz ist noch immer für uns hoch passiv,<lb/>
+wir haben im vergangenen Jahr für fast 17 Mrd. eingeführt und für nicht<lb/>
+ganz 9 1/2 Mrd. ausgeführt. Während allerdings 1981 das Verhältnis dreimal<lb/>
+so hohe Einfuhr zur Ausfuhr war, hat sich dieses Verhältnis jetzt auf<lb/>
+1,8 zu 1 verbessert, Botschafter <name type="person" ref="per:114403">Jefremow</name> ließ diese Ziffern nicht mehr<lb/>
+<pb n="69-0350" facs="69_1983-03-15_0350.jpg"/>gelten, <choice><choice><sic>dann</sic><corr>denn?</corr></choice></choice> aufgrund der Auftragsstände waren für 1. Februar für 9<lb/>
+Mrd. Importe abgeschlossen, hauptsächlich also Gas und Öl, und für 12<lb/>
+Mrd. bereits österreichische Ausfuhren vereinbart. Die Differenz mit<lb/>
+der SU besteht nicht nur durch verschiedenen Begriffsdefinitionen, was<lb/>
+alles zur Aus- und Einfuhr dazugerechnet resp. abgerechnet werden muß,<lb/>
+sondern auch darin, daß die sowjetische Seite immer nur die abgeschlos<lb break="no"/>senen Verträge zusammenzählt. Die Sowjets kennen nämlich jeden Vertrag<lb/>
+ganz genau, registrieren den auch im einzelnen, während die österreichi<lb break="no"/>sche Seite und auch das Handelsministerium davon ja kaum etwas weiß.<lb/>
+Am meisten habe ich mich darüber gewundert, daß nicht einmal über die<lb/>
+großen Projekte und z.B. landwirtschaftlichen Agrarprodukte eine auch<lb/>
+nur größenordnungsmäßig brauchbare Aufzeichnung im Handelsministerium<lb/>
+existiert.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Das sollte die Abteilung aber doch in Hinkunft<lb/>
+verfolgen.<lb/>
+</p>
+            <p xml:space="preserve">Der Geschäftsträger der japanischen Bank Yamaichi in Frankfurt <name type="person" ref="per:1138698">Seki</name><lb/>
+ist mit MR <name type="person" ref="per:121815">Fels</name> gekommen, um mir sozusagen die Aufwartung zu machen.<lb/>
+Die japanische Bankorganisation entspricht der amerikanischen, strenge<lb/>
+Trennung zwischen der Kommerzbank und der Investitionsbank. Da wir<lb/>
+in Österreich großes Interesse daran haben, daß japanische Firmen in<lb/>
+Österreich investieren, und er ein Vertreter der Investitionsbank ist,<lb/>
+und zwar der viertgrößten in Japan, ersuchte ich ihn, er möge mehr<lb/>
+sich für ev. Investitionen japanischer Firmen in Österreich einsetzen.<lb/>
+Seine Firma, erklärte er, würde dies sehr gerne tun, hat auch im Broker-<lb/>
+und Konsortialgeschäft gute Beziehungen zu Österreich. Seine Bank wird,<lb/>
+wenn die entsprechenden Zinsen und sonstigen Konditionen günstiger<lb/>
+liegen, für die Gemeinde Wien eine große Anleihe auflegen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: MR <name type="person" ref="per:121815">Fels</name> sollte über all diese bekannten Aktivi<lb break="no"/>täten mehr zusammenfassende Aufstellungen liefern.<lb/>
+</p>
+            <p xml:space="preserve">Im Präsidium der Landstraße kamen unsere unmittelbaren und auch mittel<lb break="no"/>baren Aktivitäten für den Wahlkampf zur Sprache. Vorerst aber mußten<lb/>
+wir mit dem Vertreter der JG, <name type="person" ref="per:1138521">Groiss</name>, die Frage der offenen Diskussion mit<lb/>
+anderen Partei- resp. Wahlkampfgruppen besprechen. Die JG hat zwei<lb/>
+Alternativlistenvertreter der Landstraße zu sich eingeladen, gleichzei<lb break="no"/>tig aber auch 25 Teilnehmer unsererseits. Ich konnte <name type="person" ref="per:1138521">Groiss</name> klarmachen,<lb/>
+daß vor den Wahlen eine solche Zusammenkunft nicht sehr zweckmäßig ist<lb/>
+wenn er revolutionär marxistisch-leninistisch denkt, dann muß er<lb/>
+doch zugeben, daß es sicherlich nicht möglich war die zwei ALÖ-ler<lb/>
+<pb n="69-0351" facs="69_1983-03-15_0351.jpg"/>von ihrer Absicht, nämlich durch eine eigene Kandidatur die Arbeiter<lb break="no"/>bewegung zu schwächen, abzubringen. Die große Gefahr bestand aber, daß<lb/>
+von den 25 Zuhörern und Diskutanten vielleicht der eine oder der ande<lb break="no"/>re sehr wohl dachte, die ALÖ hat recht, er wird sie letzten Endes dann<lb/>
+vielleicht auch zumindestens bei der Gemeinderatswahl wählen. Vor<lb/>
+der Wahl gibt man dem Gegner nicht die Möglichkeit einer solchen Dis<lb break="no"/>kussion, auch dann, wenn <name type="person" ref="per:1138521">Groiss</name> sagt, all das, was die zwei vorgetragen<lb/>
+haben, waren krause Behauptungen und ganz unmögliche Programme. Was<lb/>
+sie positiv haben, ist genau das, was positiv auch von der Gemeinde<lb/>
+Wien und der SPÖ in den letzten Jahren gemacht wurde.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:123301">VECSEI</name>: Was weißt Du über <choice><choice><sic>die konkreten Programm</sic><corr>das konkrete Programm? die konkreten Programme?</corr></choice></choice> der<lb/>
+ALÖ.<lb/>
+</p>
+            <p xml:space="preserve">Unsere Partei-Wahlmanager haben vorgeschlagen, daß ich auch in der<lb/>
+Fasangasse auf und ab gehen soll und mit Passanten zu diskutieren, mein<lb/>
+Bild mit Unterschrift und gleichzeitig mit den drei Hostessen, die ange<lb break="no"/>worben wurden und sehr fleißige Genossinnen sind, die selbstlos sich immer<lb/>
+dafür zur Verfügung stellen, Wahlpropaganda mache. Natürlich haben wir<lb/>
+dort kaum Leute angetroffen, unser Bez.Vst. <name type="person" ref="per:144759">Reviczky</name>, der seine Sektion<lb/>
+in diesem Viertel hat, hat eher geglaubt, damit einen gewissen Aufmerk<lb break="no"/>samkeitseffekt zu erreichen. Die drei Hostessen habe ich getröstet<lb/>
+und meinte, morgen diskutieren wir im AEZ, da sind wieder hunderte Leute,<lb/>
+diesmal haben wir eben den Versuch gestartet. Insbesondere machte ich<lb/>
+ihnen klar, daß man auch als Spitzenfunktionär, wenn jemand anderer die<lb/>
+Wahlwerbung organisiert sich diesem Konzept unterordnen muß. Es kann<lb/>
+immer nur in jeder Situation einen Bestimmer geben und die anderen,<lb/>
+selbst die höchsten Funktionäre, müssen sich dem unterordnen.<lb/>
+</p>
+            <p xml:space="preserve">In der WU hat <name type="person" ref="per:126284">Leherb</name> in Riesendimensionen, 8 mal 8 Meter, Fayencen<lb/>
+über die 4 Kontinente, Asien, Europa, Afrika und zuletzt Amerika, fertig<lb break="no"/>gestellt und in einer Vernissage jetzt in Anwesenheit von Minister<lb/>
+<name type="person" ref="per:97442">Firnberg</name> und mir offiziell vorgestellt. Durch 18 Monate hat er in<lb/>
+Italien diese Fayencen hergestellt und gebrannt und mit Recht sagte<lb/>
+er, hat dort ein Leben geführt wie seinerzeit <name type="person" ref="per:1138699">Michelangelo</name> in der<lb/>
+Sixtinischen Kapelle. Mit allen Mitarbeitern hat er sich zerstritten,<lb/>
+hat dann ganz allein diese Arbeit geleistet, nur betreut von seiner<lb/>
+Frau. Da er sich auch ein Nierenleiden zugezogen hat, hat er tatsächlich<lb/>
+hauptsächlich von Brennesseltee gelebt. Ich muß gestehen, daß ich<lb/>
+noch niemals solche großen Fayencen gesehen habe, die Sujets sind<lb/>
+typisch <name type="person" ref="per:126284">Leherb</name>, surrealistisch, aber auch für mich beeindruckend, sehr<lb/>
+gut gelungen. Dies habe ich <name type="person" ref="per:126284">Leherb</name> auch freimütig gesagt und er hat<lb/>
+<pb n="69-0352" facs="69_1983-03-15_0352.jpg"/>sich glaube ich darüber wirklich gefreut. Durch die Anwesenheit von<lb/>
+<name type="person" ref="per:97442">Firnberg</name> und mir hatte diese Vernissage für ihn eine gewisse Aufwertung<lb/>
+erfahren. Jeder Künstler braucht so wie jedermann auch eine Anerkennung,<lb/>
+die künstlerische Anerkennung seiner Fachkollegen und Kritiker müßte<lb/>
+ihm eigentlich schon allein von der handwerklichen Seite zuerkannt werden.<lb/>
+Ob dies allerdings zutrifft, weiß ich nicht genau. Ich bin sehr ge<lb break="no"/>spannt, wie die Kritiker und Medien darauf reagieren.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="69_0345_01" facs="69_1983-03-15_0345-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 15.3.1983</head>
+         </div>
+         <pb n="69_0352_01" facs="69_1983-03-15_0352-01.jpg"/>
+         <pb n="69_0352_02" facs="69_1983-03-15_0352-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesordnung 169. Ministerratssitzung, 15.3.1983</head>
+            <gap reason="sampling"/>
+            <pb n="69_0352_03" facs="69_1983-03-15_0352-03.jpg"/>
+         </div>
+         <pb n="69_0352_04" facs="69_1983-03-15_0352-04.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>hs. Notizen (TO Ministerratssitzung Rückseite)</head>
+         </div>
+         <pb n="69_0352_05" facs="69_1983-03-15_0352-05.jpg"/>
+         <pb n="69_0352_06" facs="69_1983-03-15_0352-06.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Ministerrat, 15.3.1983, Protokoll Albrecht</head>
+            <gap reason="sampling"/>
+            <pb n="69_0352_07" facs="69_1983-03-15_0352-07.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="69_0352_08" facs="69_1983-03-15_0352-08.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="69_0352_09" facs="69_1983-03-15_0352-09.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="69_0352_10" facs="69_1983-03-15_0352-10.jpg"/>
+         </div>
+         <pb n="69_0352_11" facs="69_1983-03-15_0352-11.jpg"/>
+         <pb n="69_0352_12" facs="69_1983-03-15_0352-12.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Pressereferentensitzung, 15.3.1983</head>
+            <gap reason="sampling"/>
+            <pb n="69_0352_13" facs="69_1983-03-15_0352-13.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="69_0352_14" facs="69_1983-03-15_0352-14.jpg"/>
+         </div>
+      </back>
+   </text>
+</TEI>

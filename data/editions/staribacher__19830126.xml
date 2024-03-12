@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittwoch, der 26. Jänner 1983</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band68_1983-01-26</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1983-01-26">Mittwoch, 26. Januar 1983</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-12-09">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="68-0095" facs="68_1983-01-26_0095.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Mittwoch, 26. Jänner 1983<lb/>
+</p>
+            <p xml:space="preserve">Eine Besprechung mit dem Unilever-BRO <name type="person" ref="per:121814">Bayer</name> und dem LUGA-Sekretären<lb/>
+ergab, daß Bensdorp von Unilever doch nicht verkauft wird. Eine Aus<lb break="no"/>sprache bei Suchard in Vorarlberg ergab, daß diese Firma eine Kapa<lb break="no"/>zität von 24.000 to in der Bludenzer Fabrik erzeugen kann, 18.000<lb/>
+davon brauchen sie jetzt schon, dazu kommen die 3.000 to von Mirabell<lb/>
+in Salzburg. Derzeit produziert Bensdorp 12.000 to, sodaß an eine<lb/>
+Stillegung des Tullner Werkes nicht zu denken ist. Suchard wird mit<lb/>
+einer Zusammenarbeit mit Bensdorp nur gegen die deutsche Konkurrenz<lb/>
+versuchen den österreichischen Markt zu halten. Die deutsche Firma<lb/>
+Ritter in Deutschland, 700 Beschäftigte, ein Umsatz von 2,1 Mrd. S,<lb/>
+wird, wenn sie Walde in Tirol erwirbt, über diese Verkaufsorganisation<lb/>
+versuchen in den österreichischen Markt einzudringen. Suchard wird<lb/>
+in Hinkunft die Schokoladeproduktion dem Typ nach zart, Bensdorp<lb/>
+den Typ nach sportlich beibehalten und hofft mit der Kooperation der<lb/>
+deutschen Konkurrenz besser standhalten zu können. Bei der gestrigen<lb/>
+Aufsichtsratssitzung hat BRO <name type="person" ref="per:121814">Bayer</name> die Forderungswünsche der Be<lb break="no"/>legschaftsvertreter an die Unternehmungsleitung festgelegt, danach<lb/>
+würden alle Unileverbetriebe solidarisch zusammenstehen, um die Ar<lb break="no"/>beitsplätze in Tulln, d.h. die Aufrechterhaltung der Tullner Produktion<lb/>
+zu sichern.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: <name type="person" ref="per:133371">Mandl</name> soll dieser Entwicklung besonderes Augen<lb break="no"/>merk zuwenden.<lb/>
+</p>
+            <p xml:space="preserve">Die Fraktion soz. Gewerkschafter, Landesgruppe Wien, hat ihren Jahres<lb break="no"/>kongreß abgehalten. Bei dieser Landesgruppe sind alle 15 Gewerkschaften<lb/>
+durch entsprechende Delegierte, daher auch die LUGA vertreten. Landes<lb break="no"/>gruppenobmann <name type="person" ref="per:114543">Pöder</name> hielt eine sehr herzliche Begrüßung vieler Honora<lb break="no"/>tioren, von der Regierung waren <name type="person" ref="per:97442">Firnberg</name>, <name type="person" ref="per:97879">Rösch</name>, <name type="person" ref="per:111740">Dallinger</name> und ich er<lb break="no"/>schienen. <name type="person" ref="per:97668">Kreisky</name> selbst hielt ja dann am Nachmittag vor diesem Kon<lb break="no"/>greß sein politisches Referat.<lb/>
+</p>
+            <p xml:space="preserve">Im Parlament tagte zum letzten Mal der Unterausschuß zur Vorbehandlung<lb/>
+des Volksbegehrens auf Aufhebung des Sperrgesetzes zum Betrieb des<lb/>
+KKW Zwentendorf. Die ÖVP hatte bei der letzten Sitzung verlangt, daß<lb/>
+über die Betonwanne, die errichtet wurde, um erdbebensicher das Kraft<lb break="no"/>werk zu gestalten, Univ.Prof. Reifenstuhl als Fachmann vor dem Unter<lb break="no"/>ausschuß aussagen sollte. Dieser erörterte neben dem Univ.Prof.<lb/>
+</p>
+            <pb n="68-0096" facs="68_1983-01-26_0096.jpg"/>
+            <p xml:space="preserve"><name type="person" ref="per:1138308">Rauch</name>, der das letztemal schon die physikalische Erklärung gegeben<lb/>
+hatte und diesmal wieder ergänzte, die Wannenkonstruktion und insbe<lb break="no"/>sondere die Abdichtung gegenüber dem Grundwasser bis in das letzte<lb/>
+Detail. Wenn man weiß, daß diese ganzen Aussprachen der ÖVP nur<lb/>
+dazu dienen über die Runden zu kommen, so fragt man sich wirklich,<lb/>
+ob dieser Aufwand an Experten und an Zeit überhaupt zweckmäßig ist.<lb/>
+Der Gesundheitssprecher der ÖVP, der das nächste Mal wahrscheinlich<lb/>
+gar nicht mehr im Parlament mehr sein wird, da ihn seine Gruppe nicht<lb/>
+auf einen wählbaren Platz bringen kann, machte wieder das Fragespiel<lb/>
+bis ins letzte Detail. Die Univ.Professoren und Fachleute müssen sich<lb/>
+<choice><choice><sic>ga</sic><corr>ja?</corr></choice></choice> wirklich fragen, was soll dies.<lb/>
+</p>
+            <p xml:space="preserve">Da die seinerzeit von der ÖVP gestellten einzelnen Abschnitte der<lb/>
+notwendigen Auskünfte alle jetzt durchgearbeitet wurden, mit Ausnahme<lb/>
+des Problemes der Entsorgung, stellte ich nach stundenlangen Verhand<lb break="no"/>lungen fest, daß damit wohl jetzt außer dem Kapitel der Entsorgung<lb/>
+alle Fragen geklärt sind. Die ÖVP, insbesondere auch Energiesprecher<lb/>
+<name type="person" ref="per:111410">König</name>, mußte dies zugeben, meinte aber, sie hätten aber keine Wertung<lb/>
+der Aussagen vorgenommen. Meine Argumentation dagegen ist, daß es aber<lb/>
+notwendig gewesen wäre, wenn noch offene Probleme bestanden hätten,<lb/>
+daß man die mit den Experten hätte diskutieren müssen. Selbst der<lb/>
+Abg. <name type="person" ref="per:111721">Stix</name>, der ja immer gegen das Kernkraftwerk war, erklärte, in seinem<lb/>
+Abschlußbericht wird nicht nochmals eine Diskussion über die schon<lb/>
+abgeführten Probleme gefordert Da aber die ÖVP einer Regelung in<lb/>
+dieser Legislaturperiode ja gar nicht zustimmen wollte, die SPÖ aber<lb/>
+mit der Erklärung, nur mit 2/3-Mehrheit im Parlament ein Gesetz zu<lb/>
+beschließen, war man längerer Zeit sich schon einig, daß überhaupt<lb/>
+keine Behandlung im Handelsausschuß, geschweige denn im Plenum erfol<lb break="no"/>gen soll. Ich erklärte letzten Endes, es nützen die ganzen noch so gut<lb/>
+gemeinten Aufklärungen der Experten und der Wissenschaftsverantwortli<lb break="no"/>chen im Parlamentsunterausschuß nichts, wenn es sich bei den Diskus<lb break="no"/>sionen und Auseinandersetzungen um das Kernkraftwerk in Wirklich<lb break="no"/>keit schön langsam um eine Glaubensfrage handelt. Der Obmann des<lb/>
+Handelsausschusses und gleichzeitig auch des Unterausschusses, <name type="person" ref="per:112996">Staudin<lb break="no"/>ger</name>, erklärte dann auch die Tätigkeit des Unterausschusses als beendet,<lb/>
+ein gemeinsamer Bericht, ja überhaupt ein Bericht wird dem Handels<lb break="no"/>ausschuß gegeben, der Unterausschuß ist sozusagen selig dem Herren<lb/>
+entschlagen, mit Ende der Legislaturperiode erlischt seine Tätigkeit,<lb/>
+alle nicht erledigten Gesetzesanträge sind verfallen. Ich glaube<lb/>
+aber, daß es besser war diesen Weg zu gehen, als im Unterausschuß einen<lb/>
+Minderheitsbericht abzufassen, im Handelsausschuß dann einen Mehrheits<lb break="no"/>beschluß herbeizuführen und dann im Plenum eine Atomdebatte zu führen,<lb/>
+die nichts anderes bringen würde als das Aufleben der Atomdiskussion<lb/>
+<pb n="68-0097" facs="68_1983-01-26_0097.jpg"/>vor der Nationalratswahl.<lb/>
+</p>
+            <p xml:space="preserve">Die jugoslawische Firma Radenska hat mit der deutschen Firma Kajo,<lb/>
+die in Österreich eine Niederlassung hat und von hier aus ihr kalorien<lb break="no"/>armes Fruchtsaftgetränk Deit vertreibt, den Essenzbezug aus Österreich<lb/>
+eingestellt. Radenska wäre vertraglich verpflichtet diese Essenzen<lb/>
+aus Österreich zu beziehen. Aus Devisenmangel, nach jugoslawischer An<lb break="no"/>sicht force majeure, höhere Gewalt, kann und will sie dies nicht<lb/>
+mehr tun. Der Fa. Kajo ist dadurch ein Schaden von 21 Mio. S entstanden.<lb/>
+1 Mio. haben die Jugoslawen bezahlt, um 1,3 Mio. wird jetzt noch verhan<lb break="no"/>delt. Die Fa. Kajo will jetzt noch mit anderen jugoslawischen Firmen<lb/>
+Kontakt aufnehmen, die Belgrader Behörden haben aber den jugoslawischen<lb/>
+Firmen dies verboten. Wir einigten uns darauf, daß MR <name type="person" ref="per:140899">Feith</name> neuerdings<lb/>
+bei den Jugoslawen gegen diese Vorgangsweise protestieren wird. Die<lb/>
+ganze Frage wird außerdem beim österreichisch-jugoslawischen Handels<lb break="no"/>kammerkontaktkomitee nächste Sitzung in Belgrad zur Sprache gebracht.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:1138580">Müller</name> von der Fa. Kajo erbat dann Unterstützung für eine Deitproduk<lb break="no"/>tion in der SU. Mit der sowj. Handelskammer, Vizepräsident <name type="person" ref="per:126933">Pitowranow</name>,<lb/>
+wurden diesbezügliche Gespräche in Moskau schon geführt. Dort würde<lb/>
+sofort eine große Produktion von 1 Mrd. Flaschen, Umsatz 350 Mio., aufge<lb break="no"/>nommen werden, wenn das sowjetische Außenhandelsministerium eine dies<lb break="no"/>bezügliche positive Stellungnahme abgibt. In der SU werden jetzt in<lb/>
+immer stärkerem Maße Westgetränke produziert. Pepsi Cola soll angeb<lb break="no"/>lich jetzt von 10 Abfüllern auf 25 Abfüllern erweitert werden. Deit<lb/>
+hofft als kalorienarmes alkoholfreies Getränk in der SU bei den ja<lb/>
+sehr bekannten sowjetischen Frauen entsprechende Absatzmöglichkeiten<lb/>
+zu haben. Ich sagte Herrn <name type="person" ref="per:1138580">Müller</name> selbstverständlich entsprechende Unter<lb break="no"/>stützung insbesondere bei der nächsten Gemischten Kommission zu. <name type="person" ref="per:1138580">Müller</name><lb/>
+wird entsprechende Unterlagen zeitgerecht zur Verfügung stellen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: MR <name type="person" ref="per:97426">Fälbl</name> soll dies mit mir besprechen.<lb/>
+</p>
+            <p xml:space="preserve">Im Unterausschuß des Handelsausschusses über Produktsicherheitsgesetz<lb/>
+gab es einen verspäteten Beginn. Die ÖVP-Fraktion wollte noch mit ihrer<lb/>
+Experten Details besprechen. In Wirklichkeit aber war die ÖVP-Fraktion<lb/>
+aber dann in der Sitzung zu diesem Gesetz sehr positiv eingestellt.<lb/>
+Die Abg. <name type="person" ref="per:122900">Tichy-Schreder</name> hat gleich einleitend bemerkt, daß die ÖVP<lb/>
+diesem Gesetzentwurf zustimmt und Frau Staatssekretär <name type="person" ref="per:109808">Albrecht</name> dafür<lb/>
+sogar gratuliert. Auch die FPÖ, Dr. <name type="person" ref="per:111721">Stix</name>, erklärte ihre Zustimmung, sodaß<lb/>
+einer Beschlußfassung nichts mehr im Wege stand. Staatssekretär <name type="person" ref="per:109808">Albrecht</name><lb/>
+<pb n="68-0098" facs="68_1983-01-26_0098.jpg"/>war natürlich darüber sehr erfreut, weil es immerhin ihr Gesetz ist,<lb/>
+was noch im letzten Moment in dieser Legislaturperiode beschlossen<lb/>
+wird. Im Unterausschuß gab es daher fast überhaupt keine Diskussion,<lb/>
+der Vertreter des Zentralarbeitsinspektorates vom Sozialministe<lb break="no"/>rium dagegen wollte, daß die Arbeitsinspektoren aus dem Gesetz ausgenom<lb break="no"/>men werden. Aufgrund des Arbeitsinspektionsgesetzes hat, wie der zu<lb break="no"/>ständige Ministerialrat vom Sozialministerium ausführte, der Arbeits<lb break="no"/>inspektor ein besonderes Vertrauensverhältnis mit den Unternehmern<lb/>
+in den Betrieben. Dieses könnte nach Meinung des Sozialministeriums<lb break="no"/>vertreters gestört werden, wenn das jetzige zu beschließende Gesetz<lb/>
+vorsieht, alle Dienststellen, aber auch Untersuchungsanstalten usw.<lb/>
+haben die Pflicht, wenn sie gefährliche Produkte irgendwo bemerken, dies<lb/>
+dem Handelsministerium mitzuteilen. Selbstverständlich ist auch das<lb/>
+Handelsministerium zur strengsten Verschwiegenheit verpflichtet, trotz<lb break="no"/>dem glaubt aber das Arbeitsinspektorat, es würde sein besonderes Ver<lb break="no"/>trauensverhältnis mit den Unternehmern dadurch gestört werden. Diese<lb/>
+Argumentation geht meiner Meinung nach ganz daneben. Die Arbeitsin<lb break="no"/>spektion beschränkt sich auf die Sicherheit der Arbeitnehmer. Dort<lb/>
+mag es ein Vertrauensverhältnis geben, eine Firmenleitung ist verpflich<lb break="no"/>tet dem Arbeitsinspektor z.B. über die Zusammensetzung von chemischen<lb/>
+Produktionen Auskunft zu geben, damit festgestellt werden kann, ob die<lb/>
+dort Beschäftigten dadurch gesundheitlich gefährdet werden. Die Forde<lb break="no"/>rung auf Ausnahme wurde daher von allen drei im Unterausschuß ver<lb break="no"/>tretenen Parteien entschieden abgelehnt.<lb/>
+</p>
+            <p xml:space="preserve">Nach der Sitzung habe ich den Ministerialrat des Sozialministeriums<lb/>
+meine Meinung noch deutlicher gesagt, die Arbeitsinspektoren sind mei<lb break="no"/>stens Gewerkschaftsvertrauensleute. Die Unternehmer haben daher eine<lb/>
+gewisse Aversion gegen diese Arbeitsinspektorate. Aus meiner Praxis<lb/>
+weiß ich daher auch, daß das Vertrauensverhältnis ganz anders zustande<lb/>
+kommt und aufgebaut wird, als dies im Unterausschuß von dem Sozial<lb break="no"/>ministeriumvertreter dargelegt wurde.<lb/>
+</p>
+            <p xml:space="preserve">Mit dem Präsidialisten <name type="person" ref="per:117111">Schuberth</name> und SC <name type="person" ref="per:97584">Jagoda</name> besprach ich neuerdings<lb/>
+die Frage der Errichtung einer Abteilung über die innere Kontrolle.<lb/>
+Diese Forderung wird nach wie vor vom Rechnungshof erhoben, ein Referat,<lb/>
+wie wir es derzeit haben, genügt ihm nicht. Auch Staatssekretär <name type="person" ref="per:112992">Löschnak</name><lb/>
+meint, man müsse doch der inneren Kontrolle ein größeres Augenmerk<lb/>
+zuwenden. Das Bautenministerium wird jetzt, wie SL <name type="person" ref="per:117111">Schuberth</name> erklärte,<lb/>
+im Rahmen des Präsidiums eine solche Abteilung wahrscheinlich errichten.<lb/>
+In diesem Fall wäre es meiner Meinung nach zweckmäßig, so wie wir eine<lb/>
+gemeinsame Rechtsabteilung und eine gemeinsame Budgetabteilung im<lb/>
+<pb n="68-0099" facs="68_1983-01-26_0099.jpg"/>Rahmen des gemeinsamen Präsidiums zwischen Bauten und Handelsministe<lb break="no"/>rium haben, vielleicht auch diese Abteilung dann für innere Kontrolle<lb/>
+zu führen. SL <name type="person" ref="per:117111">Schuberth</name> wird diesbezüglich alle Gespräche aufnehmen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Du hast die Diskussion ja mitverfolgt, bitte<lb/>
+mich ständig am Laufenden zu halten.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="68_0094_07" facs="68_1983-01-26_0094-07.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 26.1.1983</head>
+         </div>
+      </back>
+   </text>
+</TEI>

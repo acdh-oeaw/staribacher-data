@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der 28. Oktober 1978 bis Sonntag, der 29. Oktober 1978</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band45_1978-10-28</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date from="1978-10-28" to="1978-10-29">Samstag, 28. Oktober 1978 bis Sonntag, 29. Oktober 1978</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2017-07-20">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="45-1256" facs="45_1978-10-28_1978-10-29_1256.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Sonntag, 29. Oktober 1978<lb/>
+</p>
+            <p xml:space="preserve">Der türkische Landwirtschaftsminister <name type="person" ref="per:117883">Yüceler</name> ist nach<lb/>
+Österreich gekommen, um mit Steyr-Daimler-Puch einen grossen<lb/>
+Rahmenvertrag abzuschliessen. Steyr-Daimler-Puch wäre daran<lb/>
+sehr interessiert, dass dieser Vertrag, der sich auf Lieferungen<lb/>
+von Traktoren und Lastkraftwagen und insbesondere dann aber<lb/>
+natürlich der Kooperation und Erzeugung in der Türkei<lb/>
+erstreckt, so schnell wie möglich anläuft. Das wirkliche<lb/>
+Problem ist aber einmal mehr die Finanzierung, die überhaupt<lb/>
+nicht geklärt ist.<lb/>
+</p>
+            <p xml:space="preserve">Da ich bis jetzt noch mit keinem türkischen Minister Gelegenheit<lb/>
+gehabt habe, wegen Atommüllagerung zu reden, benütze ich<lb/>
+dieser Gelegenheit. Mir war allerdings von allem Anfang an<lb/>
+gleich klar, dass es hier so wie bei vielen anderen Ministern,<lb/>
+die ich diesbezüglich angesprochen habe, keine Antwort<lb/>
+bekommen werde. Es bisschen betreibe ich diese Politik<lb/>
+aus rein optischen Gründen. Natürlich könnte der Zufall<lb/>
+ergeben, dass es dann tatsächlich wie auch in Ägypten,<lb/>
+wie auch im Iran durch solche Bemerkungen dann doch zu konkreten<lb/>
+Verhandlungen kommt. Wenn dies aber nicht der Fall ist, ja selbst<lb/>
+wenn überhaupt gar nichts anderes herauskommt, als dass ich<lb/>
+eben unseren Wunsch in jedem Land deponiert habe, so kann mir<lb/>
+die Volkspartei dann einmal nicht vorwerfen, ich hätte nicht<lb/>
+alles unternommen, um nicht doch zu einer Lösung für das<lb/>
+Abfallproblem zu gelangen. Der türkische Minister zeigte dann<lb/>
+grosses Interesse, Zwentendorf noch zu besuchen. Da <name type="person" ref="per:97511">Haiden</name><lb/>
+anschliessend daran in die Wachau fahren wollte, wäre dies<lb/>
+kein Problem gewesen. Eine telefonische Anmeldung ergab aber,<lb/>
+dass dort angeblich grössere Drängeleien und insbesondere<lb/>
+Pro- und Kontra-Kundgebungen stattfinden. Die Polizei hätte<lb/>
+deshalb für den türkischen Minister grössere Sicherheitsmass<lb break="no"/>nahmen treffen müssen. Darauf wurde auf einen Besuch Zwenten<lb break="no"/>dorfs verzichtet.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Geh, bitte stell fest, was dort wirklich<lb/>
+am Sonntag los war.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="45_1255_01" facs="45_1978-10-28_1978-10-29_1255-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 28./29.10.1978</head>
+         </div>
+      </back>
+   </text>
+</TEI>

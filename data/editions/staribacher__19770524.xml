@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstag, der 24. Mai 1977</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band36_1977-05-24</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1977-05-24">Dienstag, 24. Mai 1977</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-06-06">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="36-0597" facs="36_1977-05-24_0597.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Dienstag, 24. Mai 1977<lb/>
+</p>
+            <p xml:space="preserve">Redakteur <name type="person" ref="per:130518">Dibold</name> von der AZ schreibt ein Buch über das Kleinge<lb break="no"/>werbe insbesondere Wien und wollte ein Interview über die Stellung<lb/>
+des Handelsministers zu dem Gewerbeproblem. Was ihn besonders<lb/>
+interessierte, waren einige Gags aus meiner Lehrzeit als Stein-<lb/>
+und Offsetdrucker. <name type="person" ref="per:130518">Dibold</name> hat glaube ich ganz richtig erkannt,<lb/>
+dass er ein ökonomisch wichtiges Problem nur in Geschichterln oder<lb/>
+wie das neudeutsche Wort heisst "Stories" verpacken kann. Damit<lb/>
+konnte ich ihm sehr behilflich sein.<lb/>
+</p>
+            <p xml:space="preserve">In der Ministerratsvorbesprechung hat <name type="person" ref="per:97511">Haiden</name> mitgeteilt, dass<lb/>
+der österr. Bauernbund aus dem Abkommen über den Milchkrisengroschen<lb/>
+ausscheren möchte. Dieses gilt bis zum Sommer 1978 und regelt<lb/>
+die automatische Steigerung des Milchpreisabzuges bei stärkerer<lb/>
+Anlieferung. Da die Milchanlieferung jetzt beträchtlich gestiegen<lb/>
+ist, müsste eine neuerliche Erhöhung des Krisengroschens erfolgen.<lb/>
+<name type="person" ref="per:97511">Haiden</name> will zwar ein neues Milchreglementierungssystem, jetzt aber<lb/>
+unbedingt an dem Abkommen festhalten. Finanzminister <name type="person" ref="per:97311">Androsch</name> hat<lb/>
+mit Recht erwähnt, dass zweimal das Abkommen schon zugunsten der<lb/>
+Bauern modifiziert wurde. Wenn sie nicht zu dem Abkommen stehen,<lb/>
+könnte man in Hinkunft mit ihnen keinerlei Vereinbarungen mehr<lb/>
+schliessen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:110923">Lanc</name> berichtet über den öffentlichen Streit mit <name type="person" ref="per:113822">Haslauer</name><lb/>
+beim Österr. Verkehrstag in Salzburg. Ausgelöst wurde er, weil<lb/>
+<name type="person" ref="per:110923">Lanc</name> den Salzburger Hauptbahnhof bis jetzt noch nicht zur Moder<lb break="no"/>nisierung in Angriff genommen hat. Schuld daran ist die Stadtbild<lb break="no"/>pflege der Gemeinde, die bis jetzt noch nicht zustimmte. Sicherlich<lb/>
+ist dies für <name type="person" ref="per:110923">Lanc</name> ein guter Grund, dort nichts zu tun, weil er<lb/>
+letzten Endes sowieso mit seinen knappen Budgetmitteln ohne weiteres<lb/>
+wo anders dieses Geld investieren kann. Als Gegenschlag gegen<lb/>
+diesen Angriff hat <name type="person" ref="per:110923">Lanc</name> dann die Aufhebung des Bundeskraftfahrzeug<lb break="no"/>zuschlages durch Salzburger Landesregierung Mehrheitsbeschluss<lb/>
+der ÖVP angeprangert. <name type="person" ref="per:97311">Androsch</name> bemerkte, dass in der Vergangenheit<lb/>
+schon öfters und nicht nur in der soz. Regierung solche Bundeszuschlä<lb break="no"/>ge festlegt wurden, ohne dass ein Land deswegen zum Verfassungs<lb break="no"/>gerichtshof gelaufen ist. Typisches Beispiel ist die Bundesmineral<lb break="no"/>ölsteuer, wo ebenfalls ein Bundeszuschlag existiert oder die<lb/>
+Steuerzuschläge vom ehemaligen Finanzminister <name type="person" ref="per:97647">Koren</name> zur Einkommen-,<lb/>
+Lohnsteuer und sonstigen Steuer. Solche Zuschläge wurden immer<lb/>
+<pb n="36-0598" facs="36_1977-05-24_0598.jpg"/>ausschliesslich zur Budgetsanierung des Bundes verwendet.<lb/>
+<name type="person" ref="per:97311">Androsch</name> kündigte an, dass er diese neue Entwicklung bei den<lb/>
+Finanzausgleichsverhandlungen entsprechend bewerten und<lb/>
+berücksichtigen wird. Z.B. wird er die 9 %-ige Pauschale<lb/>
+für Strassenbauprojektierungen, die die Länder vom Bauten<lb break="no"/>ministerium bekommen, die einzeln Prozent Zuschüsse zu den<lb/>
+Hochbauten des Bundes, die ebenfalls die Länder verlangen<lb/>
+und wo die Landeshauptleute deshalb oft die teuersten Projekte<lb/>
+bevorzugen, in den Verhandlungen versuchen, wesentlich zu<lb/>
+reduzieren.<lb/>
+</p>
+            <p xml:space="preserve">Beim Ministerrat wurde auf Wunsch <name type="person" ref="per:98063">Weissenbergs</name> im allgemeinen<lb/>
+Rahmen Richtlinien für Gewährung von Förderung aus Bundesmitteln<lb/>
+neuerdings zurückgestellt. Die Beamten des Sozialministeriums<lb/>
+haben sich mit denen des Finanzministeriums nicht einigen<lb/>
+können und <name type="person" ref="per:98063">Weissenberg</name> hofft, dass es bei einer Aussprache<lb/>
+bei den Ministern möglich sein würde, seine Position zu<lb/>
+halten. Wie er mir nachher erzählte, wundert er sich, dass<lb/>
+sich kein anderer Minister seinen Forderungen anschliesst.<lb/>
+Der Finanzminister hat in den Richtlinien vorgesehen, dass<lb/>
+Subventionen über 1 Mill. S vom Finanzministerium vor der<lb/>
+konkreten Zusage mitgenehmigt werden müssen. Das Sozialmini<lb break="no"/>sterium und angeblich auch das Bautenministerium hatten das<lb/>
+Privileg bis jetzt gehabt, ohne Zustimmung des Finanzministeriums<lb/>
+solche Subventionen geben zu können. Vielleicht gibt es auch noch<lb/>
+andere Ministerien, da <name type="person" ref="per:97311">Androsch</name> darauf hinwies, dass der Rech<lb break="no"/>nungshof bei seiner ausserordentlichen Prüfung 1975 diese<lb/>
+Feststellung getroffen hat und einige Ministerien hart kritisiert.<lb/>
+Für das Handelsministerium sieht die neue Richtlinie sogar<lb/>
+eine gewisse Begünstigung vor, weil wir bis jetzt angeblich<lb/>
+mit allen Subventionen von etlichen hunderttausenden Schilling<lb/>
+schon das Finanzministerium fragen musste. Scheinbar wurde<lb/>
+hier mit zweierlei Masstab gemessen. In dem Antrag von <name type="person" ref="per:97442">Firnberg</name><lb/>
+über die Errichtung von Ausbildungsstätten für die Zahnärzte<lb break="no"/>ausbildung an den Universitäten, sind ca. 80 Dienstposten<lb/>
+nötig. <name type="person" ref="per:97311">Androsch</name> verlangte erfolgreich die Streichung des<lb/>
+Hinweises, dass 80 Posten notwendig sind, weil dies nur einen<lb/>
+besonderen Antrag des Bundeskanzleramtes zur Änderung des<lb/>
+Dienstpostenplanes möglich ist. Immer mehr kam wieder die<lb/>
+Stärke des Finanzministeriums, welches letzten Endes ja<lb/>
+<pb n="36-0599" facs="36_1977-05-24_0599.jpg"/>tatsächlich alle Aufwendungen bezahlen muss, zum Durchbruch,<lb/>
+wenn der Finanzminister, wie ich sogar glaube, logisch richtige<lb/>
+Forderungen stellt. Dass er sich damit bei seinen Ministerkollegen<lb/>
+nicht besonders beliebt macht, ist verständlich.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97819">PLESCH</name>: Bitte stelle fest, wieso bei Subventionen<lb/>
+differente Vorgangsweisen bei den einzelnen Ministerien im<lb/>
+Finanzministerium existieren.<lb/>
+</p>
+            <p xml:space="preserve">Die Aussprache mit <name type="person" ref="per:126387">Liegle</name>, Fa. Licona, und <name type="person" ref="per:108746">Haffner</name> über die Massnahmen<lb/>
+zum Schutze der österreichischen Bekleidungsindustrie zeigte mir<lb/>
+deutlich, dass tatsächlich gegen die Durchstechereien mehr unter<lb break="no"/>nommen werden muss als man bis jetzt getan hat. Die österr. Textil-<lb/>
+und ganz besonders die Bekleidungsindustrie ist durch die Hart<lb break="no"/>währungspolitik und durch den Wegfall des Zollschutzes hart be<lb break="no"/>drängt. Dazu kommt noch, dass Ware aus Billigstpreisländern<lb/>
+falsch deklariert nach Österreich kommt. <name type="person" ref="per:126387">Liegle</name> hat daher vorge<lb break="no"/>schlagen, es müsste unbedingt die Deklarationsprüfung beim Zollamt<lb/>
+erfolgen. Wenn Ware in den Oststaaten oder gar im fernen Osten<lb/>
+hergestellt wird, dann müsste sie wie auch andere Staaten jetzt<lb/>
+verlangen, als Made in Jugoslawien oder in Formosa for Austria<lb/>
+eindeutig deklariert werden. Die Kennzeichnungspflicht der<lb/>
+Textilien müsste vom Zollamt bereits beim Grenzübertritt festge<lb break="no"/>stellt werden. Alle anderen europäischen Staaten machen dies<lb/>
+schon längere Zeit. In der Schweiz muss man ganz konkrete Angaben<lb/>
+beim Zollübertritt machen, die oft gar keinen Einfluss auf die<lb/>
+Verkaufspolitik oder die Preise haben. Trotzdem verlangt der genaue<lb/>
+Schweizer Zoll die Ausfüllung der Formulare und Erfüllung jeder<lb/>
+Vorschrift.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte die Abteilung soll sofort mit dem<lb/>
+Finanzministerium Verhandlungen aufnehmen.<lb/>
+</p>
+            <p xml:space="preserve">In der Fraktion des Handelsausschusses über das Patent- und<lb/>
+Markenschutzgesetz ist <name type="person" ref="per:97688">Leberl</name> nicht gekommen, weil er auf Urlaub<lb/>
+ist und schickte zu meiner grössten Verwunderung seinen Vizepräsi<lb break="no"/>denten, der gar nicht unserer Partei angehört. Bis jetzt habe ich es<lb/>
+immer so gehandhabt, dass in die Fraktion nur Genossen kommen.<lb/>
+In Hinkunft werde ich an dieser Politik festhalten.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97819">PLESCH</name>: Bitte auf die nächste fraktionelle Sektions<lb break="no"/>leitersitzung diesen Tagesordnungspunkt setzen.<lb/>
+</p>
+            <pb n="36-0600" facs="36_1977-05-24_0600.jpg"/>
+            <p xml:space="preserve">Im Unterausschuss gab es dann über diese Patentnovelle eine<lb/>
+längere Diskussion, weil sowohl die ÖVP als auch die FPÖ<lb/>
+die hundertprozentige Gebührenerhöhung des Patentamtes ablehnten.<lb/>
+Ich versuchte den Abgeordneten klarzumachen, dass 75 % der Patentge<lb break="no"/>bührenerhöhung die Ausländer trifft, weil eben fallend immer<lb/>
+weniger Österreicher Patente angemeldet werden. Die Gebührenerhöhung,<lb/>
+die uns 55 Mill. S Mehreinnahmen bringen soll, dient dazu, um<lb/>
+die Serviceleistungen des Patentamtes zu verbessern. Während<lb/>
+<choice><choice><sic>1907</sic><corr>1970?</corr></choice></choice> ca. 25 Mill. S Überschuss war, wird es heuer zu einem<lb/>
+Defizit des Patentamtes kommen. Ich erklärte mich bereit und habe<lb/>
+nachher sofort mit <name type="person" ref="per:97584">Jagoda</name> darüber gesprochen, dass die Arbeitsgemein<lb break="no"/>schaft zur Förderung des Patentwesens, die die Handelskammer und<lb/>
+das Handelsministeriums in Form eines Vereines gegründet haben,<lb/>
+für die wirklich kleineren Patentanmeldungen entsprechende<lb/>
+Unterstützung geben sollten, wenn die ÖVP und die FPÖ der Gebühren<lb break="no"/>erhöhung zustimmen. Sollte dies nicht der Fall sein, müssten wir<lb/>
+eine Konstruktion jetzt finden, dass wir nachher diese zusätzliche<lb/>
+Belastung des Handelsbudgets für die Arbeitsgemeinschaft f. Patent<lb break="no"/>förderung nicht zu hoch ist. Die Vertreter der Patentanwaltskammer<lb/>
+die Industrievertreter hatten mit mir vorher eine Aussprache,<lb/>
+wo wir uns über die zukünftige Vorgangsweise einigten und wo<lb/>
+ich glaubte, ihnen erklärt zu haben, warum wir entsprechenden<lb/>
+Novellen verlangen müssen. Jetzt, wahrscheinlich gedopt durch<lb/>
+die ÖVP, hatten sie wieder ihre uralten Forderungen vorgebracht.<lb/>
+Ich fürchte, dass entgegen meinem Prinzip es bei der Patent<lb break="no"/>gesetznovelle zu keinem einstimmigen Beschluss im Handels<lb break="no"/>ausschuss und damit auch im Plenum kommen wird. Unerklärlich<lb/>
+war mir, dass bei dieser für das Patentamt wichtigen Frage gerade<lb/>
+jetzt der Präsident <name type="person" ref="per:97688">Leberl</name> in Urlaub gehen musste.<lb/>
+</p>
+            <p xml:space="preserve">Im Unterausschuss über die Nahversorgung und die über den Kompromiss<lb break="no"/>vorschlag, den die Experten insbesondere <name type="person" ref="per:112563">Farnleitner</name>, Handels<lb break="no"/>kammer und <name type="person" ref="per:114075">Schmidt</name>, ÖGB ausgearbeitet hatten, tatsächlich eine<lb/>
+einstimmige Beschlussfassung erreicht werden. Die ÖVP bedauerte<lb/>
+besonders, dass es nicht möglich war, über den Punkt Verkauf<lb/>
+unter dem Einstandpreis eine Einigung zu erzielen. Ich ver<lb break="no"/>suchte klar zu machen, dass es weltweit noch nicht möglich war,<lb/>
+dieser Entwicklung durch Gesetz Einhalt zu gebieten. Selbst in<lb/>
+Amerika hat <add>[der]</add> <name type="person" ref="per:127590">Truman</name>-Act <add>[gemeint ist vmtl. der 1953 unter <name type="person" ref="per:149335">Eisenhower</name> beschlossene Small Business Act, Anm.]</add> keinen wirklichen Erfolg gezeitigt.<lb/>
+Für mich ist es ungeheuer wichtig, dass jetzt über diese Materie<lb/>
+zwischen den beiden Initiativanträgen <name type="person" ref="per:97437">Fiedler</name>, ÖVP auf der<lb/>
+<pb n="36-0601" facs="36_1977-05-24_0601.jpg"/>einen Seite und <name type="person" ref="per:97757">Mühlbacher</name>, SPÖ auf der anderen, gelungen ist,<lb/>
+einen gemeinsamen Entwurf einstimmig zu beschliessen, dem<lb/>
+auch die Konsumgenossenschaft, Abg. <name type="person" ref="per:97505">Haberl</name>, zugestimmt hat.<lb/>
+Damit kann ich die Angriffe "das Handelsministerium macht nichts<lb/>
+gegen das Sterben der kleinen Gewerbetreibenden" insbesondere<lb/>
+der Lebensmittelhändler, entgegentreten. Dass dieses Gesetz,<lb/>
+da es letzten Endes darauf aufbaut, beim Kartellgericht da<lb break="no"/>gegen Klage zu erheben, nicht viel nützen wird, steht auf<lb/>
+einem anderen Blatt. Politische Angriffe kann man jetzt<lb/>
+von Seiten des Österr. Wirtschaftsbundes – die SPÖ macht nichts –<lb/>
+für die Kleinen – mit diesem Gesetzentwurf optisch zumindestens<lb/>
+erfolgreich abwehren. Was kann man vom Handelsminister mehr<lb/>
+verlangen, als dass er exekutiert, was das Parlament einstimmig<lb/>
+beschlossen hat.<lb/>
+</p>
+            <p xml:space="preserve">Zur Fraktion des Gewerkschaftsbundes berichtete Klubobmann<lb/>
+<name type="person" ref="per:97444">Fischer</name> über die Aktivitäten des Parlamentes. Die Diskussion<lb/>
+konnte ich nicht mehr hören.<lb/>
+</p>
+            <p xml:space="preserve">Der Kongress der Frauen der Lebensmittelarbeiter, den ich be<lb break="no"/>grüsste, hat wider Erwarten nur zwei Stunden gedauert. Meine<lb/>
+Hoffnung und Begrüssungsansprache, dass wir von den Frauen<lb/>
+entsprechende Vorschläge für unseren Gewerkschaftskongress<lb/>
+erwarten, dass sie längere Zeit hätten über Probleme diskutieren<lb/>
+sollen, wurde dann nicht erfüllt. Nach einem Referat von Metall<lb break="no"/>arbeiter-Sekretärin und einem Bericht unserer Frauenobmännin,<lb/>
+Betriebsrat der Ankerbrotfabrik <name type="person" ref="per:126213">Mucha</name> wurde scheinbar nicht<lb/>
+allzu lange diskutiert. Das bedauere ich zutiefst, weil<lb/>
+ich mich immer wieder bemühe, unsere Frauenorganisation zu<lb/>
+stärken, resp. die Frauen stärker in das Gewerkschaftsgeschehen<lb/>
+einzubeziehen. Bis jetzt leider mit sehr wenig Erfolg.<lb/>
+</p>
+            <p xml:space="preserve">Der Handelsdelegierte von Moskau <name type="person" ref="per:114589">Canisius</name> berichtete mir<lb/>
+über die Mitteilung der sowjetischen Seite wegen der Gemischten<lb/>
+Kommission im Juli. Ich habe unverzüglich mit dem Leiter der<lb/>
+<choice><choice><sic>ZAE</sic><corr>ZÄE?</corr></choice></choice> Sekt.Rat <name type="person" ref="per:146854">Fischer</name> die Verhandlungen aufgenommen, damit<lb/>
+wir für die zollfreie oder zumindestens zollermässigte Einfuhr<lb/>
+von Wasserleistungsrohren und besonders für die Ersatzteile<lb/>
+der sowjetischen PKW-Produktion Lada eine Zollermässigung er<lb break="no"/>reichen müsste, beschleunigen, damit bei der Gemischten<lb/>
+Kommission diese sowj. Forderung zumindestens teilweise erfüllt<lb/>
+ist. Da wir der sowj. Seite den Wunsch einer Freihandelszonen<lb break="no"/><pb n="36-0602" facs="36_1977-05-24_0602.jpg"/>regelung ähnlich mit Finnland auch mit Österreich abzu<lb break="no"/>schliessen, ganz kategorisch ablehnen und dafür erklären,<lb/>
+in Einzelfällen Lösungen zu suchen, müssen wir in zumindestnes<lb/>
+diesen beiden Fälle de sowjetischen Seite positiv erledigen<lb/>
+können.<lb/>
+</p>
+            <p xml:space="preserve">Unser aller ärztlicher Berater, Dr. <name type="person" ref="per:114512">Koholzer</name>, der jetzt<lb/>
+auch noch Zucker bekommen hat und sehr schlecht aussieht,<lb/>
+ersuchte mich, dass ich für seinen Schwager <name type="person" ref="per:146857">Toni Miller</name><lb/>
+geboren 1939, derzeit in ungekündigter Stellung, einen<lb/>
+anderen Job suche. Er hat die technische Mittelschule<lb/>
+Schellinggasse erfolgreiche absolviert, war bei General<lb/>
+Motors Cost- und Pricing-Mann, arbeitet derzeit bei<lb/>
+einer Textilfirma. <name type="person" ref="per:114512">Koholzer</name> dachte, dass das Austro-Porsche-<lb/>
+Projekt schon so weit fortgeschritten ist, dass man sich<lb/>
+jetzt schon um entsprechende Posten dort bewerben kann.<lb/>
+Ich versprach ihm, dass wir uns alle umsehen, um irgendwo<lb/>
+anders seinen Schwager unterzubringen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG PUR <name type="person" ref="per:97819">PLESCH</name>: Vielleicht kommt Dir in der 30.000 S-<lb/>
+Position etwas unter.<lb/>
+</p>
+            <p xml:space="preserve">Der neue jordanische Botschafter für Österreich <name type="person" ref="per:146863">Bilbeisi</name><lb/>
+brachte das von König <name type="person" ref="per:113384">Hussein</name> unterzeichnete ökonomische<lb/>
+Abkommen, das vor längerer Zeit bereits ratifiziert wurde.<lb/>
+Bei dieser Gelegenheit urgiert er neuerdings die Handelskammer<lb break="no"/>delegation, die nach Jordanien kommen sollte und beim<lb/>
+Besuch des Kronprinzen der jordanischen Seite von der Handels<lb break="no"/>kammer selbst versprochen wurde. Damals hatte man auch erklärt,<lb/>
+es würde der Handelsdelegierte aus Damaskus nach Moskau<lb/>
+<add>[Fehlstelle, Anm.]</add>ein Trade Center zu errichten.<lb/>
+Die Jordanier stellen sich vor, dass dieses Handelshaus nicht<lb/>
+nur für Österreich sondern für alle Staaten errichtet<lb/>
+werden sollte und wünschen nur, dass Österreich sie dabei<lb/>
+tatkräftigst unterstützt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte auf nächstes Jour fixe mit<lb/>
+Handelskammer setzen.<lb/>
+</p>
+            <p xml:space="preserve">Beim Empfang des brasilianischen <choice><choice><sic>Handelsministers</sic><corr>Energieministers</corr></choice></choice> <name type="person" ref="per:146671">Ueki</name><lb/>
+in der brasilianischen Botschaft konnte ich diesen zum dem<lb/>
+Abschluss zwischen der brasilianischen Gesellschaft<lb/>
+und VÖEST gratulieren. Der Erzliefervertrag wurde von<lb/>
+1,6 Mill. t auf 1,8 Mill. t erhöht.<lb/>
+</p>
+            <pb n="36-0603" facs="36_1977-05-24_0603.jpg"/>
+            <p xml:space="preserve">Bei dem Empfang traf ich Herrn <name type="person" ref="per:145324">Kohmaier</name>, der mir mitteilte,<lb/>
+dass noch immer nicht zwischen den Rumänen und seiner Ketten<lb break="no"/>fabrik die offenen Probleme wegen Errichtung einer solchen<lb/>
+Fabrik in Rumänien geklärt sind. <name type="person" ref="per:145324">Kohmaier</name> glaubt allerdings,<lb/>
+dass dies in der nächsten Zeit doch der Fall sein würde, nachdem<lb/>
+er jetzt schon jahrelang, nicht zuletzt mit Unterstützung<lb/>
+des Handelsministeriums einige Fortschritte gemacht hat. Wie<lb/>
+schwer die Rumänen sich dazu entschliessen, Kooperationen auf<lb/>
+dieser Basis dann tatsächlich durchzuführen, zeigt, dass er<lb/>
+das 4. Abkommen mit den Rumänen abschliessen möchte und bis jetzt<lb/>
+nur 6 Abkommen überhaupt zur Diskussion stehen. <name type="person" ref="per:145324">Kohmaier</name> möchte<lb/>
+gerne, dass im Rahmen der nächsten Gemischten Kommission Min.<lb/>
+<name type="person" ref="per:118213">Avram</name> von der rumänischen Seite und ich von der österr. Seite<lb/>
+die Firma wesentlich beigetragen haben zu dem Joint venture den<lb/>
+Spatenstich vornehmen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte von <name type="person" ref="per:145324">Kohmaier</name> auf dem laufenden<lb/>
+halten lassen.<lb/>
+</p>
+            <p xml:space="preserve">In unserer Klubsitzung der SPÖ-Mandatare auf der Landstrasse<lb/>
+gab es nach meinem Bericht eine interessante Diskussion wegen<lb/>
+der Atomkraftwerkspolitik. Die Funktionäre beschwerten sich<lb/>
+und klagten, dass es innerhalb der soz. Führungsspitze keine<lb/>
+einheitliche Auffassung zu diesem Problem gibt. Dadurch werden<lb/>
+unsere Mitglieder verunsichert und nicht durch die geteilte<lb/>
+Meinung der Wissenschaft. Sie fragen, hat <name type="person" ref="per:97488">Gratz</name> jetzt recht,<lb/>
+der Atomkraftwerke ganz entschieden ablehnt oder <name type="person" ref="per:97346">Benya</name>, der<lb/>
+erklärt, wir brauchen die Atomwerke zur weiteren wirtschaftlichen<lb/>
+Entwicklung. Ich konnte den Funktionären nicht sagen, dass<lb/>
+das Hauptübel darin liegt, dass innerhalb der Regierung noch<lb/>
+keine einheitliche Meinung bis jetzt erreicht werden konnte.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> ist nach wie vor sehr pessimistisch, wenn er der Atom<lb break="no"/>energie zustimmt die nächsten Wahlen zu verlieren und sich aus<lb/>
+dem Streit bis jetzt herauszuhalten resp. keine eindeutige<lb/>
+Stellungnahme zu beziehen. Ich hatte immer versucht, als Lösung<lb/>
+allen zu erklären, dass man weder pro noch kontra die Atomenergie<lb/>
+sein soll sondern ganz einfach aus energiewirtschaftlichen Gründen<lb/>
+nachdem es keine andere Lösung gibt das Atomkraftwerk Zwentendorf<lb/>
+nach Erfüllung aller Sicherheitsauflagen in Betrieb zu nehmen.<lb/>
+Früher oder später müssen wir uns ja zu einer solchen Entscheidung<lb/>
+durchringen. Was hat es für einen Sinn, wenn dies dann<lb/>
+unsere Mitglieder ja die gesamte Bevölkerung durch die nicht klare<lb/>
+Entscheidung der Bundesregierung verunsichert wird.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="36_0596_02" facs="36_1977-05-24_0596-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 24.5.1977</head>
+         </div>
+         <pb n="36_0596_03" facs="36_1977-05-24_0596-03.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+         <pb n="36_0603_01" facs="36_1977-05-24_0603-01.jpg"/>
+         <pb n="36_0603_02" facs="36_1977-05-24_0603-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesordnung 75. Ministerratssitzung, 24.3.1977</head>
+            <gap reason="sampling"/>
+            <pb n="36_0603_03" facs="36_1977-05-24_0603-03.jpg"/>
+         </div>
+         <pb n="36_0603_04" facs="36_1977-05-24_0603-04.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>hs. Notizen (TO Ministerratssitzung Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

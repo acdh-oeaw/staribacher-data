@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Montag, der 15. Jänner 1973</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band14_1973-01-15</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1973-01-15">Montag, 15. Januar 1973</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-10-20">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band14/">
+      <body>
+         <pb n="14-0030" facs="14_1973-01-15_0030.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Montag, 15. Jänner 1973</p><p xml:space="preserve"><name type="person" ref="per:97769">Mussil</name> wird beim Jour Fixe von Vizepräsident <name type="person" ref="per:97938">Seidl</name> gerufen, der sich<lb/>
+beschwert, dass die Aufrundungsfrage mit den Entlastungssätzen noch<lb/>
+immer nicht geregelt ist. Die ÖPA hat nun im Kartel eingereicht und<lb/>
+Ab- und Aufrundungen vorgenommen. Die Arbeiterkammer – Dr. <name type="person" ref="per:98112">Zöllner</name> –<lb/>
+wird aber dagegen Stellung nehmen. <name type="person" ref="per:98112">Zöllner</name>, mit dem ich vorher ge<lb break="no"/>sprochen habe, befürchtet, dass ein gefährliches Präjudiz durch den<lb/>
+Kartellrichter geschaffen wird, wenn die Arbeiterkammer nichts dagegen<lb/>
+unternimmt. Nachher wird von <name type="person" ref="per:97769">Mussil</name> Dr. <name type="person" ref="per:137215">Hecke</name> und Dr. <name type="person" ref="per:126405">Klose</name> zugezogen<lb/>
+und <name type="person" ref="per:137215">Hecke</name> gibt zu, dass es zweckmässiger gewesen wäre, einen vernünf<lb break="no"/>tigen Aufrundungserlass zustandezubringen. Bekanntlich hat die Handels<lb break="no"/>kammer ursprünglich verlangt, dass die Nettopreise aufgerundet werden,<lb/>
+wodurch durch die 16 %-ige Mehrwertsteuer dann für den zivilrechtlichen<lb/>
+Preis, d.h. für den Preis des Letztverbrauchers, wieder unrunde Ergeb<lb break="no"/>nisse herausgekommen wären.</p><p xml:space="preserve"><name type="person" ref="per:97769">Mussil</name> fürchtet, dass das grosse Kompetenzgesetz von der Regierung<lb/>
+durchgezogen wird und überhaupt keine Möglichkeit einer Diskussion<lb/>
+resp. Verhandlung im Parlament gegeben ist. Insbesondere fürchtet er,<lb/>
+dass die politischen Beamten, die dann eingeführt werden können,<lb/>
+Ministerbüros etc., das Berufsbeamtentum schwer schädigen könnten.<lb/>
+Er erklärt, dass er sich aus der politischen Arbeit grösstenteils<lb/>
+herausgezogen hat, aber dass doch über diese Gesetze ernst und redlich<lb/>
+verhandelt werden sollte. Die Voraussetzung hiefür ist, dass die ÖVP<lb/>
+tatsächlich zu einem vernünftigen Kompromiss kommen wolle und ernstliche<lb/>
+Verhandlungen mit der SPÖ führt. Dies könnte nur im Klub resp. zwischen<lb/>
+den Klubobmännern besprochen und vereinbart werden. Ich setze <name type="person" ref="per:97769">Mussil</name><lb/>
+auseinander, dass er auf alle Fälle – wer immer in meinem Ministerium<lb/>
+in Hinkunft die Verantwortung trägt – solche organisatorische Änderungen<lb/>
+dringendst benötigt. Als Beispiel verweise ich, dass sich sicher auch in<lb/>
+der Handelskammer Dr. <name type="person" ref="per:137215">Hecke</name> als Art Stabsvertreter eingerichtet hat.<lb/>
+<name type="person" ref="per:97769">Mussil</name> macht die Bemerkung, das hat ihm auch genug Widerstand in der<lb/>
+Handelskammer dieser Beschluss ausgelöst.</p><p xml:space="preserve">Durch die neue Mitbestimmung und Aufsichtsratsbestellung des Stahlkon<lb break="no"/>zernes durch die Bundesregierung sieht er eine ganz grosse Schwächung<lb/>
+der ÖIAG. <name type="person" ref="per:97470">Geist</name> behauptet, er möchte ein Weisungsrecht auf der einen Seite<lb/>
+gegenüber den Firmen und auf der anderen Seite hat er nicht einmal die<lb/>
+<pb n="14-0031" facs="14_1973-01-15_0031.jpg"/>Möglichkeit über die Bestellung des Aufsichtsrates einen gewissen<lb/>
+Einfluss auszuüben.</p><p xml:space="preserve">Im Aufsichtsrat der Bürges behauptet er, würde von mir ein politischer<lb/>
+Mandatar nämlich <name type="person" ref="per:97892">Sallaberger</name>, Gen.Sekr. Stellvertreter vom Freien<lb/>
+Wirtschaftsverband, berufen. Unter diesen Umständen muss er den Ver<lb break="no"/>treter der Handelskammer <name type="person" ref="per:114965">Dorn</name> abziehen und dafür einen Wirtschafts<lb break="no"/>bund-Mann, wahrscheinlich <name type="person" ref="per:109293">Busek</name> <add>evtl. Falschidentifikation, Anm.</add> nominieren. Er möchte nun, dass ich<lb/>
+zustimme, dass <name type="person" ref="per:97892">Sallaberger</name> entweder zurückgezogen wird oder zumindestens<lb/>
+die Arbeiterkammer ihn in ein Konsulentenverhältnis nimmt, sodass er<lb/>
+sich ausreden kann und erklärt, dass eben <name type="person" ref="per:97892">Sallaberger</name> als Arbeiter<lb break="no"/>kammervertreter dort tätig wird. Ich erkläre, dass nicht ich die Auf<lb break="no"/>sichtsräte zu bestellen habe, dass ich aber auf der anderen Seite gar<lb/>
+keinen Grund und Möglichkeit sehe, <name type="person" ref="per:97892">Sallaberger</name> zurückzuziehen oder<lb/>
+dass die Arbeiterkammer ihn als Konsulent beschäftigt.</p><p xml:space="preserve"><name type="person" ref="per:97769">Mussil</name> ist im Prinzip einverstanden, einen Verein für die Patent<lb break="no"/>förderung zu gründen und sich als Handelskammer daran zu beteiligen.<lb/>
+Er möchte nun aber endgültig wissen, was ungefähr dieser Verein für<lb/>
+finanzielle Aufwendungen haben wird, d.h. die Belastung der Handelskammer<lb/>
+nachdem halb-halb zwischen Handelskammer und Handelsministerium der<lb/>
+verein finanziert werden soll. Er bestimmt, dass <name type="person" ref="per:137215">Hecke</name> – und ich erkläre<lb/>
+dass <name type="person" ref="per:97469">Gehart</name> im Handelsministerium – beauftragt werden soll, gemeinsam<lb/>
+Kost-Benefit-Rechnungen zu machen.</p><p xml:space="preserve"><name type="person" ref="per:97769">Mussil</name> erklärt, dass eine ständige Kommission auf Grund des Preisbestim<lb break="no"/>mungsgesetzes im Handelsministerium nicht gewünscht wird und er auch<lb/>
+<name type="person" ref="per:137215">Hecke</name> dafür nicht ermächtigen wird, daran teilzunehmen. Ich erkläre,<lb/>
+dass auch die Arbeiterkammer und insbesondere der Gewerkschaftsbund<lb/>
+grösste Bedenken haben und deshalb eine ständige Kommission nicht zustande<lb break="no"/>kommt. Weise aber darauf hin, dass alle Beteiligten in etlichen Monaten<lb/>
+es bereuen werden, dass wir nicht bereits mit Jahresbeginn diese Arbeit<lb/>
+aufgenommen haben. Ich fürchte, dass es ihnen ähnlich ergehen wird, wie<lb/>
+bei den Rundungserlass, wo auch beide Teile zuerst dagegen Stellung ge<lb break="no"/>nommen haben und jetzt froh wären, wenn wir eine vernünftige Lösung er<lb break="no"/>arbeitet hätten. Aus meinem Prinzip, alles im Einvernehmen mit den Inter<lb break="no"/>essensvertretungen zu machen, werde ich daher Abstand nehmen.- Nebenbei<lb/>
+bemerkt, ich erwähne das dort natürlich nicht, hätte das gar keinen Sinn,<lb/>
+etwas anzuordnen auf diesem Gebiet, weil ich ja letzten Endes gesetz<lb break="no"/>liche Regelungen nur mit 2/3-Mehrheit im Parlament durchbringen kann,<lb/>
+d.h. die Voraussetzung dafür, die Zustimmung der Handelskammer ist.</p><pb n="14-0032" facs="14_1973-01-15_0032.jpg"/><p xml:space="preserve">Bei dem Journalistenfrühstück, welches diesmal ganz besonders<lb/>
+gut besucht ist, entspinnt sich eine riesige Diskussion über die<lb/>
+Ferienstaffelung und den Fremdenverkehr. <name type="person" ref="per:97584">Jagoda</name> kann dann gerade noch<lb/>
+einige Erklärungen über die beginnenden Verhandlungen mit der Gewerbe<lb break="no"/>ordnung im Parlament geben. Diese Frühstücksrunden sind immer improvi<lb break="no"/>siert und trotzdem glaube ich, kommen wir dabei sehr gut über die Runde.<lb/>
+Der P.R.-Mann <name type="person" ref="per:133397">Brantl</name> verteilt in der Ministerratsvorbesprechung ein<lb/>
+Schreiben an alle Minister, wo er sie daran erinnert, dass sie über die<lb/>
+Tätigkeit ihres Ressorts und insbesondere über die zukünftigen Pläne,<lb/>
+Pressekonferenz abhalten sollen. Dagegen Spricht sich sowohl Vize<lb break="no"/>kanzler <name type="person" ref="per:97525">Häuser</name> als auch ganz besonders <name type="person" ref="per:97668">Kreisky</name> aus, weil er meint, es<lb/>
+wäre unzweckmässig, wenn man jetzt allen Ministern Pressekonferenzen<lb/>
+machen liesse, da würde eine die andere erschlagen. Jeder Minister<lb/>
+soll nur in der nächsten Zeit bei einer ihm passenden Gelegenheit<lb/>
+über seine Tätigkeit Besprechungen mit der Presse oder bei Konferenzen<lb/>
+seine Ideen darlegen, damit dann in der Presse darüber berichtet wird.<lb/>
+Häuser z.B. wird eine grosse Angestellten-Fraktion am Semmering in den<lb/>
+nächsten Wochen haben und hofft, dass er dann dort seine Informationen<lb/>
+in die Presse Eingang finden wird. Ich glaube, dass eigentlich unser<lb/>
+Weg der zweckmässigste und intensivste ist. Allerdings müssen wir froh<lb/>
+sein, dass die anderen teilweise so pressescheu sind, dass sie solche<lb/>
+Einrichtungen nicht geschaffen haben. Wenn dies nämlich der Fall wäre,<lb/>
+denn hätten wir 14 Jour fix resp. Pressefrühstücke oder Pressegespräche<lb/>
+in der Woche, was mit neuerdings alles erschlagen würde. Die Presse<lb/>
+besprechungen nach dem Ministerrat nämlich sind in Wirklichkeit nur von<lb/>
+<name type="person" ref="per:97668">Kreisky</name> dominiert. Die anderen bilden dort nur Staffage und werden gelegent<lb break="no"/>lich von dem einen oder anderen Journalisten gefragt. Allerdings ist bei<lb/>
+der Pressebesprechung nach dem Ministerrat meistens eine höhere Garnitur<lb/>
+von Journalisten anwesend. In diesem Fall gilt aber in Abwandlung der<lb/>
+Spruch: Besser die zweite Garnitur ständig als eine erste Garnitur<lb/>
+gelegentlich oder besser gesagt überhaupt nie. In der Berichterstattung<lb/>
+findet dies überhaupt keinen negativen Niederschlag.</p><p xml:space="preserve">Im Institut hat <name type="person" ref="per:97868">Reithofer</name> mit <name type="person" ref="per:97337">Bauer</name> von der ÖIAG und Dr. <name type="person" ref="per:97511">Haiden</name> von der<lb/>
+Zentralsparkasse mit bekniet, dass wir doch die Fremdenverkehrsstudie,<lb/>
+die der Beirat im Rahmen der Integrationsarbeit ausarbeiten liess,<lb/>
+veröffentlichen. Der Beirat selbst hat keine Möglichkeit, weder finan<lb break="no"/>ziell, noch würde er wahrscheinlich eine einstimmige Verabschiedung durch<lb break="no"/>führen, sondern es müssten vorerst noch monatelange Verhandlungen und<lb/>
+Reduzierungen der Aussagen durchgeführt werden. Da bei der Fremden<lb break="no"/><pb n="14-0033" facs="14_1973-01-15_0033.jpg"/>verkehrsstudie ausser Dr. <name type="person" ref="per:113096"><choice><choice><sic>Platzer</sic><corr>Placek</corr></choice></choice></name> von der Handelskammer und Min.Rat<lb/>
+<name type="person" ref="per:111367">Würzl</name> vom Handelsministerium lauter Genossen teilgenommen haben,<lb/>
+nämlich Dr. <name type="person" ref="per:97511">Haiden</name>, Dr. <name type="person" ref="per:97995">Stockinger</name>, Sparkasse Salzburg, Dr. <name type="person" ref="per:139695">Rainer</name><lb/>
+AK Innsbruck, Dr. <name type="person" ref="per:142469">Goschler</name>, Sparkassenverbandsvertreter, müssten diese<lb/>
+Genossen doch zumindestens durch die Publikation entschädigt werden.<lb/>
+<name type="person" ref="per:97469">Gehart</name>, mit dem ich nachher eingehend über dieses Problem noch einmal<lb/>
+spreche, hat grosse Bedenken, dass obwohl unsere Genossen daran mit<lb break="no"/>gewirkt haben, diese Studie nichts anderes ist als ein Forderungspro<lb break="no"/>gramm für Steuerermässigungen, verbilligte Kredite usw. <name type="person" ref="per:97469">Gehart</name> fürchtet,<lb/>
+dass auch ein Vorwort von mir, wo ich mich klar und deutlich von<lb/>
+diesen Aussagen distanziere, indem ich sie eben als sehr interessante<lb/>
+Anregung bezeichne, er selbst würde ein solches Vorwort ja entwerfen,<lb/>
+meint, die einzige Möglichkeit wäre, um diese Arbeit ein bisschen zu<lb/>
+neutralisieren, wenn man alle Studien, die der Beirat für die Integra<lb break="no"/>tion angestellt hat und die noch nicht veröffentlicht wurden, im Hause<lb/>
+durch Abziehen entsprechend zur Verfügung stellt. Das Zusammenlegen<lb/>
+und Binden, das bei uns einen grossen Engpass darstellt, müssten dann<lb/>
+andere Institutionen übernehmen und bezahlen. <name type="person" ref="per:97511">Haiden</name> hat erklärt, dass<lb/>
+das Sparkassenverband dafür ohne weiteres bereit wäre. Dieser Vor<lb break="no"/>schlag von <name type="person" ref="per:97469">Gehart</name> ist meiner Meinung nach sehr zielführend, denn<lb/>
+ich könnte dann den Vorwurf im Parlament entkräften, was das Handels<lb break="no"/>ministerium dazu beigetragen hat, um die Wirtschaft auf die Integra<lb break="no"/>tion vorzubereiten und welche Untersuchungen hier tatsächlich angestellt<lb/>
+wurden.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: Wenn auch dies eine Heiden-Arbeit für unser<lb/>
+Abziehbüro ist, glaube ich, sollte man den Vor<lb break="no"/>schlag <name type="person" ref="per:97469">Gehart</name> unbedingt verwirklichen. Die Zu<lb break="no"/>sammenlegarbeit sollte dann von anderen Institu<lb break="no"/>tionen übernommen und auch bezahlt werden, sodass<lb/>
+eine Belastung des Hauses nicht entsteht.</p><p xml:space="preserve">Min.Rat <name type="person" ref="per:97722">Marhold</name> und Reg.Rat <name type="person" ref="per:137484">Schütz</name>, mit denen ich den Rechnungsabschluss<lb/>
+bespreche, weil er gegebenenfalls morgen im Parlament zur Verhandlung<lb/>
+kommt, bestätigen mir, dass tatsächlich mein Amtsvorgänger einen Kredit<lb/>
+von 20 Mill. S für die Errichtung von Gewerbehöfen gegeben hat. <name type="person" ref="per:110035">Thun-<lb/>
+Hohenstein</name> hat damals den Wunsch der Handelskammer Wien Rechnung getragen<lb/>
+und diese Subvention allerdings mit der Auflage versehen, dass wenn<lb/>
+Erträge aus dieser Tätigkeit erwachsen, dann der Kredit zurückbezahlt<lb/>
+werden muss. Die Budgetsektion Wird nun mit <name type="person" ref="per:110035">Thun-Hohenstein</name> ver<lb break="no"/>handeln und Bericht verlangen, ob dieser Zustand jetzt bereits<lb/>
+eingetreten ist, nachdem dieser Verein einen dritten Werkstättenhof<lb/>
+<pb n="14-0034" facs="14_1973-01-15_0034.jpg"/>errichten will, wo bereits aus den Gewinnen und Erträgen der ersten<lb/>
+beiden notwendige Mittel dazu verwendet werden sollen. In diesem Fall<lb/>
+bestünde für uns die Möglichkeit, im Wege der seinerzeitigen Auflage,<lb/>
+diese 20 Mill. S zurückzuverlangen oder zumindestens mit anderen Wünschen<lb/>
+der Handelskammer Wien zu kompensieren. Dieser Vorschlag kommt von Min.<lb/>
+Rat <name type="person" ref="per:97722">Marhold</name> und ich stimme dem natürlich zu.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Bitte äusserst vorsichtig vorgehen, da anzunehmen<lb/>
+ist, dass die Handelskammer Wien dann ganz energisch<lb/>
+gegen eine etwaige Rückforderung bei mir protestie<lb break="no"/>ren wird. In diesem Fall müsste dies als eine be<lb break="no"/>rechtigte und sogar in den seinerzeitigen Beschlüs<lb break="no"/>sen begründete Aktion der Beamten dargestellt werden.<lb/>
+Politisch müsste man noch immer dann die Möglichkeit<lb/>
+haben, wenn ein allzu grosser Widerstand entsteht,<lb/>
+von Ministerseite dies zu stoppen.</p><p xml:space="preserve">Präsident <name type="person" ref="per:97406">Ebert</name> und dann der Vorsitzende der Sektion Handel <name type="person" ref="per:111717">Schönbichler</name><lb/>
+und Syndikus <name type="person" ref="per:134294">Zajicek</name> und sein Mitarbeiter beschweren sich bei mir über<lb/>
+die Erstellung der Von-Bis-Preise. Insbesondere sollen derzeit Überwachungs<lb break="no"/>organe mit unseren vorgerechneten Vollpreisen bei den Unternehmern er<lb break="no"/>scheinen, sie auffordern, den Preis auf eben den vom Computer errechneten<lb/>
+Masse zurückzugehen und gleichzeitig mit einem Formular die Bestätigung des<lb/>
+Kleinhändlers zu verlangen. <name type="person" ref="per:111717">Schönbichler</name> und <name type="person" ref="per:97406">Ebert</name> nehmen an, dass diese<lb/>
+Berechnungen auf den Von-Bis-Preisen fundiert sind. Ich erkläre sofort,<lb/>
+dass dies ein Irrtum ist, denn die vorgelegten oder vorgegebenen Soll-<lb/>
+Preise wurden auf die Originalerhebung in dem Geschäft, das eben wieder<lb/>
+kontrolliert wird, aufgebaut. <name type="person" ref="per:111737">Marsch</name> bestätigt, dass wir bei den Von-Bis-<lb/>
+Preisen dem Wunsch der Handelskammer entsprechend eine Erklärung, wie es<lb/>
+zu dieser Von-Bis-Preisliste gekommen ist, jeweils hinzufügen, die aller<lb break="no"/>dings eben von der Presse nicht gebracht wird. Ich geben nur den Vertretern<lb/>
+die Zusicherung, dass wir bei der nächsten Von-Bis-Preis-Aussendung wieder<lb/>
+eine solche Erklärung, wie es zu der Erstellung der Von-Bis-Preisliste<lb/>
+gekommen ist, beifügen werden. Aktionspreise sind ja weitestgehend aus dieser<lb/>
+Von-Bis-Preisliste ausgeschlossen.</p><p xml:space="preserve"><name type="person" ref="per:97406">Ebert</name> beschwert sich, dass die Inflation mit der Führung des Staatswappens<lb/>
+welches auch die Arbeiterkammer schon beanstandet hat, in letzter Zeit<lb/>
+so zugenommen hat. Er verweist insbesondere darauf, dass die Firma Jacobs<lb/>
+jetzt erklärt, dass nur die Handelskammer gegen eine Auszeichnung der Firma<lb/>
+wäre. Ich habe mich dazu im einzelnen ja nie geäussert, da mir es ganz<lb/>
+egal ist, wieviele Staatswappen jetzt von den Firmen geführt werden,<lb/>
+möchte aber doch bei dieser Gelegenheit <name type="person" ref="per:97406">Ebert</name> aufmerksam machen, dass<lb/>
+<pb n="14-0035" facs="14_1973-01-15_0035.jpg"/>auch die Firma Arabia bereits das Staatswappen hat und führt. <name type="person" ref="per:111717">Schön<lb break="no"/>bichler</name> selbst erklärt ebenfalls, dass er sich daran nicht beteiligen<lb/>
+kann, an dieser Diskussion, weil er ebenfalls bereits als Kaffee-Importeur<lb/>
+das Staatswappen führt. Arabia, meint <name type="person" ref="per:97406">Ebert</name>, hat seinerzeit nur als Trost<lb break="no"/>pflaster dieser Auszeichnung bekommen, weil er nämlich <choice><choice><sic>geglaugt,</sic><corr>?</corr></choice></choice> dass<lb/>
+das Finanzministerium ihm bei dem Erwerb von Auersperg resp. Schloss<lb/>
+Laudon die dortigen Gemälde, die ein Vermögen darstellen, als Betriebs<lb break="no"/>ausgaben anerkennen wird und entsprechend abschreiben lässt. Da das<lb/>
+Finanzminister, resp. der damalige Finanzminister dies ganz entschieden<lb/>
+abgelehnt hat, hat man ihm als Trostpflaster dann eine Staatsauszeichnung<lb/>
+zukommen lassen. Das Finanzministerium hat nämlich mit Recht entschieden<lb/>
+dass die Gemälde dort nicht weniger wert werden und eine Abschreibung da<lb break="no"/>durch bedingt ist, sondern deren Wert ständig steigt.</p><p xml:space="preserve">Vor der Ministerratsbesprechung ersuche ich <name type="person" ref="per:113083">Sinowatz</name> wegen des Johann-<lb/>
+Strauss-Orchesters Subvention einen Beitrag zu leisten, was er allerdings<lb/>
+so wie ich auf das entschiedenste ablehnt. Er nimmt zur Kenntnis, was<lb/>
+mir vollkommen genügt, dass ich bei ihm interveniert habe und wird<lb/>
+dies auch gelegentlich den vorsprechenden Vereinsmitgliedern mitteilen.</p><p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> berichtet über seine Sozialistenführer-Konferenz in Paris, aller<lb break="no"/>dings auch nicht mehr als in den Zeitungen gestanden ist. Er weist nur dar<lb/>
+rauf hin, dass in der Europäischen Gemeinschaftspolitik er keine Kritik<lb/>
+an der Labourparty gemacht hat. Allerdings sagt er, dass die Autonomie,<lb/>
+die jeder einzelne Staat hat, d.h. jede soz. Partei im Rahmen der soz.<lb/>
+Internationale, auch eine gewisse Solidarität voraussetzt. <name type="person" ref="per:140771">Callaghan</name> selbst<lb/>
+erklärte, dass Grossbritannien, wenn es wieder von Labour regiert wird,<lb/>
+die Beitrittsbedingungen neu überprüfen möchte. <name type="person" ref="per:97668">Kreisky</name> bedauert ins<lb break="no"/>besondere dass Labour sich von dem Europäischen Parlament zurückzieht.<lb/>
+Die 130 Abgeordneten würden, wenn die Sozialisten sich einigermassen<lb/>
+formieren und organisieren, von 32 auf 60 erhöht werden und schlagkräftige<lb/>
+dort wirken können. Allerdings ist das europäische Parlament heute noch<lb/>
+grösstenteils vollkommen auch in ihrer parlamentarischen Tätigkeit<lb/>
+unwirksam. Es beschliesst keine Gesetze und es genehmigt nicht einmal<lb/>
+ein Budget der Kommission. Im Mittleren Osten gibt es derzeit keine<lb/>
+Entwicklung, denn es herrschen intransigente Haltungen. Finnland wird<lb/>
+jetzt endgültig den Europäischen-Gemeinschaftszollfreizonenvertrag,<lb/>
+wie ihn Schweiz, Schweden und Österreich schon hat, unterfertigen.<lb/>
+<name type="person" ref="per:114501">Kekkonen</name>, der dies doch zustandegebracht hat, wird wahrscheinlich<lb/>
+neuerlich als Präsident kandidieren.</p><pb n="14-0036" facs="14_1973-01-15_0036.jpg"/><p xml:space="preserve">Die sowj. Bedenken zumindestens die Verzögerung wurde damit end<lb break="no"/>gültig beseitigt. Der sowj. Botschafter in Österreich war bei <name type="person" ref="per:97668">Kreisky</name><lb/>
+und hat ihm mitgeteilt, dass er bei seinem Aufenthalt jetzt in Moskau<lb/>
+ersucht hat, dass sowohl <name type="person" ref="per:97652">Kossygin</name>, <name type="person" ref="per:146938"><sic>Kretschko</sic></name> <add>[evtl. Falschidentifikation, Anm.]</add> und <name type="person" ref="per:108330">Gromyko</name> nach Wien<lb/>
+kommen sollten. <name type="person" ref="per:112951">Patolitschew</name> wird ja Ende Jänner kommen. Der Botschafter<lb/>
+hat auch erklärt, dass Österreich bezüglich der Gaslieferung eine dies<lb break="no"/>bezügliche Entscheidung erwartet. Ob allerdings <name type="person" ref="per:112951">Patolitschew</name> tatsächlich<lb/>
+mit den gewünschten Gasmengen kommen wird, kann ich auch aus den Äusse<lb break="no"/>rungen des Botschafters gegenüber <name type="person" ref="per:97668">Kreisky</name> zumindestens dessen Mitteilung<lb/>
+darüber nicht entnehmen.</p><p xml:space="preserve"><name type="person" ref="per:97879">Rösch</name> verweist darauf, dass die Vereinigung der Finanzakademiker Briefe<lb/>
+an alle Minister geschrieben haben, wo sie gegen die Überstellung von<lb/>
+<name type="person" ref="per:148612">Wrba</name> als B-Beamten in einen A-Posten protestieren. Sie waren schon<lb/>
+bei <name type="person" ref="per:137693">Mayer</name> nicht sehr einverstanden, <name type="person" ref="per:97311">Androsch</name> erklärt, dass aber diese<lb/>
+beiden tüchtigen Beamten auf alle Fälle berechtigt sind und <name type="person" ref="per:97668">Kreisky</name><lb/>
+meint, dass die Regierung lt. Gesetz solche Möglichkeiten haben und<lb/>
+diese auch vereinzelt durchführen wird. Der Brief wird von <name type="person" ref="per:97668">Kreisky</name><lb/>
+und <name type="person" ref="per:97311">Androsch</name> beantwortet werden.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Wir brauchen uns glaube ich daher gar nicht im<lb/>
+Speziellen äussern, wenn wir den Brief auch schon<lb/>
+erhalten haben.</p><p xml:space="preserve">Ein ähnliches Problem besteht bei den Soldatenverbänden wegen der Inhaf<lb break="no"/>tierung von <name type="person" ref="per:113049">Reder</name>.</p><p xml:space="preserve"><name type="person" ref="per:97632">Kirchschläger</name> ersucht <name type="person" ref="per:97668">Kreisky</name>, ob er sich an der Düsseldorfer Öster<lb break="no"/>reich-Woche im September beteiligt. 1958 war <name type="person" ref="per:97439">Figl</name> und auch in den ver<lb break="no"/>gangenen anderen Jahren waren immer prominente Österreicher vertreten.<lb/>
+Nachdem der Oberbürgermeister <name type="person" ref="per:140772">Becker</name> versuchen wird, auch <name type="person" ref="per:114110">Brandt</name><lb/>
+dafür zu gewinnen, sagt <name type="person" ref="per:97668">Kreisky</name> zu. Meiner Erinnerung nach ist dies<lb/>
+die höchstbesetzte Österreich-Woche, die ich kenne. Wenn man bedenkt,<lb/>
+dass diese andere Staaten und Städte Östereich-Wochen veranstalten,<lb/>
+dann ist es mir unerklärlich, warum eine einzelne so sehr ausgezeichnet<lb/>
+wird. Ich habe natürlich dagegen gar nichts einzuwenden, sondern bin<lb/>
+froh, dass man nicht an mich herangetreten ist. Ich fürchte, dass dann<lb/>
+letzten Endes <name type="person" ref="per:97668">Kreisky</name> absagen wird und ich dann im September für ihn<lb/>
+nach Düsseldorf fliegen kann.</p><p xml:space="preserve"><name type="person" ref="per:113083">Sinowatz</name> berichtet, dass die AHS-Lehrer durch das Absagen von <name type="person" ref="per:97668">Kreisky</name><lb/>
+Termin von weiteren Verhandlungen sehr empört sind. <name type="person" ref="per:97668">Kreisky</name> selbst hat<lb/>
+aber nicht absagen wollen, sondern nur Verschiebung bis Ende Jänner,<lb/>
+<pb n="14-0037" facs="14_1973-01-15_0037.jpg"/>damit der neue Staatssekretär dann bereits die Wünsche der Mittelschul<lb break="no"/>lehrer entsprechend verhandeln kann. Betreffend der Herabsetzung der<lb/>
+Arbeitszeit auf 43 Stunden für Angehörige des Bundesheeres meint <name type="person" ref="per:97668">Kreisky</name>,<lb/>
+dass dies noch jetzt durchführen wird, damit nicht der neue Staatssekretär<lb/>
+bereits mit dieser unangenehmen Fragen belastet wird. <name type="person" ref="per:135724">Markowitz</name> ist<lb/>
+wegen der Bestellung des Staatssekretär sehr verärgert, da er dies als ein<lb/>
+Misstrauensvotum gegen ihn betrachtet.</p><p xml:space="preserve"><name type="person" ref="per:97311">Androsch</name> bringt den der VÖEST versprochenen Kreditzusage nicht in die Vor<lb break="no"/>besprechung, da er dies erst, wie er mir sagt, erst mit <name type="person" ref="per:97668">Kreisky</name> besprechen<lb/>
+will. <name type="person" ref="per:97315">Apfalter</name> muss noch ein bisschen warten.</p></div>
+      </body>
+      <back>
+         <pb n="14_0029_10" facs="14_1973-01-15_0029-10.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 15.1.1973</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="14_0029_11" facs="14_1973-01-15_0029-11.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittwoch, der 16. April 1975</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band25_1975-04-16</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1975-04-16">Mittwoch, 16. April 1975</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-11-22">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="25-0465" facs="25_1975-04-16_0465.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Mittwoch, den 16. April 1975<lb/>
+</p>
+            <p xml:space="preserve">Die Kelag Vertreter <name type="person" ref="per:139680">Pacheiner</name>, <name type="person" ref="per:115646">Hofstätter</name> mit ihrem Wirtschafts-<lb/>
+prüfer <name type="person" ref="per:126404">Stadler</name> und Univ.Prof. <name type="person" ref="per:140532">Bauerreiss</name> wollten eine kurze Aus-<lb/>
+sprache und dann dauerte sie 1 1/2 Stunden. Die Kärntner wollen,<lb/>
+daß endlich jetzt ihre Erhöhung an der ÖDK auf 49% durchgeführt<lb/>
+wird. Die Verbund hat mir in einem Schreiben mitgeteilt, daß sie<lb/>
+mir nur Entscheidungsgrundlagen geben will, wobei sie gleich<lb/>
+darauf hingewiesen hat, daß die Kelag entsprechende Erhöhungen<lb/>
+der Rücklagen oder eine Barzahlung durchführen muß, damit der<lb/>
+innere Wert der Aktien ausgeglichen wird. <name type="person" ref="per:126404">Stadler</name> bestreitet dies<lb/>
+ganz entschieden, da man keine inneren Werte bei Konzerngesell-<lb/>
+schaften, die noch dazu alle verstaatlicht<add>[sind]</add> oder in der Gemein-<lb/>
+wirtschaft sich befinden, feststellen kann. <name type="person" ref="per:140532">Bauerreiss</name> wieder<lb/>
+meint, daß sie 50 % Anspruch haben auf Grund des zweiten Verstaat<lb break="no"/>lichungsgesetzes. Er droht sogar, sie werden eine diesbezügliche<lb/>
+Feststellungsklage einreichen, wenn die Verbund sich nicht zu<lb/>
+einer befriedigenden Lösung <sic>herbei-lässt</sic>. Ich versichere ihnen,<lb/>
+daß ich so schnell als möglich zu einem positiven Abschluß kom-<lb/>
+men will, wie ich dies auch schon vor den Wahlen <name type="person" ref="per:97461">Frühbauer</name> ver-<lb/>
+sprochen habe, wenn sie auf den 50%igen Anteil verzichten, der<lb/>
+ihnen bei einer Aktionärbesprechung von dem seinerzeitigen Ver-<lb/>
+bundvorstand zugesagt wurde. Was mich am meisten überrascht, ist,<lb/>
+daß <name type="person" ref="per:139680">Pacheiner</name> mir die Hand hinhält und meinte, schlag ein, damit<lb/>
+wir dies sicher haben. Dies lehne ich entschieden ab, weil ich<lb/>
+sofort erkläre, wenn ich eine Erklärung abgegeben habe, ob dies<lb/>
+schriftlich oder mündlich ist, so brauche ich nicht einen formellen<lb/>
+Handschlag und was sonst noch alles vielleicht woanders üblich<lb/>
+ist. Ich stehe zu meiner Zusage, muß allerdings von der Verbund<lb break="no"/>gesellschaft einen entsprechenden Vorschlag bekommen. Ich werde<lb/>
+mich bemühen, daß sich die Vorstände zusammensetzen, damit end-<lb/>
+lich ein Kompromiß erzielt werden kann. Ich bin bereit, wenn dieses<lb/>
+Kompromiß nicht auf dieser Ebene zu erreichen ist, mich dann in<lb/>
+die Verhandlungen persönlich einzuschalten.<lb/>
+</p>
+            <p xml:space="preserve">Im Energiebeirat, wo ich durch die lange Aussprache mit der Kelag<lb/>
+ja später hinkomme, war zuerst die Frage des Energiesicherungs-<lb/>
+gesetzes. Dort wurde von fast allen Stellen festgehalten, daß sie<lb/>
+den Entwurf des Ministeriums entschieden ablehnen. Es stört mich<lb/>
+an und für sich weniger, weil ich ja sowieso im Parlament mit der<lb/>
+<pb n="25-0466" facs="25_1975-04-16_0466.jpg"/>ÖVP entsprechende Verhandlungen führen muß, da es sich um<lb/>
+eine 2/3 verfassungsgesetzliche Bestimmung handelt und ich daher<lb/>
+deren Zustimmung unbedingt brauche. Es wird also auch hier eine<lb/>
+einvernehmliche Regelung erzielt werden, die ich ja immer im<lb/>
+Handelsausschuß erreichen möchte. Als zweiten Punkt hat Prof.<lb/>
+<name type="person" ref="per:140539">Tintner</name> vom Ökonometrischen Institut der Technischen Hochschule<lb/>
+über das Krisenmodell berichtet. Im Auftrag vom Handelsministerium<lb/>
+haben insbesondere glaube ich seine Assistenten versucht, ein<lb/>
+Krisenmodell zu entwickeln. Die Aufgabe war die Wertschätzung resp.<lb/>
+die Lohn- und Gehaltssumme zu optimieren, d.h. wenn die Energie<lb break="no"/>versorgung nicht mehr sichergestellt ist, wie kann man dann zu<lb/>
+einer optimalen Lösung kommen. Dieses auch international erstmals<lb/>
+vorgelegte Modell soll jetzt nachdem der Energiebeirat darüber<lb/>
+diskutiert hat, von <name type="person" ref="per:107937">Frank</name> auch bei internationalen Stellen vor<lb break="no"/>gelegt werden. Ich selbst halte von solchen Modellen nicht allzu<lb/>
+viel und die Diskussion war auch keinesfalls so, daß man sagen<lb/>
+könnte, hier ist wirklich eine übereinstimmende Meinung auch<lb/>
+der Praktiker. Am meisten war ich überrascht, daß auch Prof. <name type="person" ref="per:140503">Edwin</name><lb/>
+aus Deutschland zu dieser Sitzung gekommen ist. <name type="person" ref="per:140503">Edwin</name> war bei der<lb/>
+ÖDK Hauptabteilungsleiter und eigentlich ausersehen, daß er nach<lb/>
+dem Vorstand <name type="person" ref="per:98069">Werner</name> die Nachfolge antreten wird. Er hat sich dann<lb/>
+aber mit <name type="person" ref="per:98069">Werner</name> so zerstritten, daß er lieber nach Deutschland<lb/>
+gegangen ist. Dort hat er jetzt ein Institut an einer Technischen<lb/>
+Hochschule und verdient wie er mir nachher sagt 140.000 DM.<lb/>
+Trotzdem weiß ich, daß er sehr unglücklich dort ist und gerne<lb/>
+nach Österreich zurück will. Ich habe ihm deshalb im Institut<lb/>
+bei Anwesenheit von <name type="person" ref="per:98040">Wais</name>, der gerade von der ÖDK-Aufsichtsrats<lb break="no"/>sitzung kam bereit wäre nach Österreich zurückzukommen.Meine Ab<lb break="no"/>sicht ist, ihm wenn es nicht allzu große Widerstände gibt, bei<lb/>
+der Tauernkraftwerke AG als Nachfolger von <name type="person" ref="per:133973">Nyvelt</name> im nächsten Jahr<lb/>
+zu installieren. <name type="person" ref="per:140503">Edwin</name> gilt als ein Fachmann, hat nun auch theore<lb break="no"/>tische Kenntnisse sich angeeignet und wird wahrscheinlich nur auf<lb/>
+Widerstand bei gewissen Leuten in Österreich stoßen. <name type="person" ref="per:97453">Fremuth</name> hat<lb/>
+für diesen Posten, vielleicht weil er gar nicht wußte, ob sich<lb/>
+<name type="person" ref="per:140503">Edwin</name> dafür interessieren würde, <name type="person" ref="per:140241">Perl</name> von der Verbund empfohlen.<lb/>
+Das ganze ist deshalb jetzt zur Sprache gekommen, weil Ing. <name type="person" ref="per:97732">Mayer</name>,<lb/>
+Bürgermeister von Bregenz, die absolute Mehrheit wieder erreicht<lb/>
+hat und deshalb selbstverständlich Bürgermeister bleibt. Da niemand<lb/>
+mit einem solchen Erfolg gerechnet hat, habe ich eigentlich schon<lb/>
+<pb n="25-0467" facs="25_1975-04-16_0467.jpg"/>disponiert, daß <name type="person" ref="per:97732">Mayer</name> Nachfolger von <name type="person" ref="per:133973">Nyvelt</name> wird. Diesbezügliche<lb/>
+Vorarbeiten wurden auch schon von allen geleistet. Die ganze Ange<lb break="no"/>legenheit muß man weitestgehend vertraulich behandeln, sonst<lb/>
+wird sofort ein ungeheurer Widerstand gegen die Rückkehr von<lb/>
+<name type="person" ref="per:140503">Edwin</name> einsetzen. Ich selbst habe ihm ja keinerlei Zusagen gemacht<lb/>
+sondern nur einmal sondiert.<lb/>
+</p>
+            <p xml:space="preserve">Die Aussprache mit den Außenhandelsstellenleitern Naher Osten<lb/>
+war insofern für mich neu, als ich die meisten von den Reisen in<lb/>
+diese Länder schon kenne. Daher habe ich mir sehr leicht ein<lb/>
+Bild über die Situationen die sie geschildert haben, machen können.<lb/>
+Interessant war für mich, daß eigentlich die wenigsten sehr<lb/>
+konkrete Geschäfte bei diesen Aussprachen immer wieder zur Sprache<lb/>
+bringen. Da ich allein aus optischen Gründen im Nahost-Raum, d.h.<lb/>
+in den arabischen Ländern große Zuwachsraten erwarte, habe ich<lb/>
+mich ganz besonders für die Länder interessiert. Ich habe deshalb<lb/>
+auch vorgeschlagen, man soll eine zweite Aussprache, wenn die Außen<lb break="no"/>handelsstellenleiter mit den österreichischen Firmen jetzt in den<lb/>
+nächsten Wochen Kontakte haben und konkretere Ergebnisse mir<lb/>
+berichten können. Optisch meine ich deshalb, weil ich über<lb break="no"/>zeugt bin, daß früher oder später der arabische Raum einer großen<lb/>
+Entwicklung entgegen sieht und ich dann jederzeit auch mit ruhigem<lb/>
+Gewissen sagen kann, daß ich mich besonders für diesen Raum<lb/>
+interessiert habe. Ich habe erstmalig eben eine zweite Besprechung<lb/>
+mit den Außenhandelsstelle verlangt und eben erklärt, es müßten<lb/>
+jetzt die Außenhandelsstellenleiter versuchen, konkretere Ge<lb break="no"/>schäfte mit österreichischen Firmen zu besprechen. Bei dem Bericht<lb/>
+mit Syrien ist mir aufgefallen, dass die Möglichkeit besteht über die<lb/>
+Wifi entsprechende Schulungskurse für Facharbeiter aus arabischen<lb/>
+Ländern zu organisieren. Die Bundeshandelskammer wie mir Gen.Sekr.-<lb/>
+Stellvertreter <name type="person" ref="per:126971">Wakolbinger</name> zugab, hat die Absicht, einige Fach<lb break="no"/>arbeiter zu solchen Kursen einzuladen. In ihren Exportfonds<lb break="no"/>mitteln haben sie entsprechende Beträge bereitgestellt. Natürlich<lb/>
+will sie diese ganze Sache nur vertraulichst behandeln, weil sie<lb/>
+fürchtet, dass dann andere Länder ebenfalls kommen werden und eine<lb/>
+entsprechende Schulung in den Wifis gratis verlangen. Ich habe<lb/>
+sofort darauf hingewiesen, dass die reichen Länder, also die Öl<lb break="no"/>exporteure wahrscheinlich sogar bereit sind, entsprechende Beträge<lb/>
+zu bezahlen. Nur Syrien oder andere, die eben nicht diese finanzielle<lb/>
+Kraft haben, werden verlangen, dass man ihre Facharbeiter, die bei<lb/>
+<pb n="25-0468" facs="25_1975-04-16_0468.jpg"/>uns ausgebildet werden, umsonst hier betreut.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:113038">REIM</name>: Bitte die Möglichkeiten insbesondere das Aus<lb break="no"/>mass feststellen.<lb/>
+</p>
+            <p xml:space="preserve">Über Marokko berichtet der Aussenhandelsstellenleiter, dass den<lb/>
+Marokkanern bei der letzten Kommission in Wien zugesagt wurde, dass<lb/>
+eine Feasibility Study gemacht wird. Bis jetzt wurde überhaupt noch<lb/>
+nicht vom BKA – Entwicklungshilfe darauf reagiert. Ich halte dies<lb/>
+für einen schlechten Start unserer Entwicklung mit Marokko. Schliesslich<lb/>
+hat <name type="person" ref="per:97668">Kreisky</name> zugesagt, eine solche zu machen, und es erscheint mir drin<lb break="no"/>gendst notwendig, dass man auch tatsächlich eine Zusage des Bundeskanz<lb break="no"/>lers einhält und nicht durch Monate und Jahre darüber womöglich nicht<lb/>
+einmal redet.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:113038">REIM</name>: Bitte diese Studie sofort verlangen und entspre<lb break="no"/>chend verfolgen. Sekt.Chef <name type="person" ref="per:108322">Meisl</name> einschalten.<lb/>
+</p>
+            <p xml:space="preserve">Die erste Aussprache, die ich mit dem Verbundvorstand führte, war – wie<lb/>
+nicht anders zu erwarten – sehr lebhaft aber doch befriedigend. Die<lb/>
+Verbundleute erklärten übereinstimmend, dass sie über die Aussprache<lb/>
+sehr erfreut sind und tatsächlich auch einen ständigen Kontakt<lb/>
+wünschen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97469">GEHART</name>: Mindestens einmal im Monat bitte eine solche<lb/>
+Aussprache organisieren.<lb/>
+</p>
+            <p xml:space="preserve">In der Sache selbst kam die Rückstellung des Kernkraftwerkes zur<lb/>
+Debatte, der Verbundvorstand teilt meine Meinung, dass wir mindestens<lb/>
+ein Jahr Zeit haben. In diesem Zeitraum sind die offenen Fragen zu<lb/>
+klären. Insbesondere <name type="person" ref="per:107937">Frank</name> hat neuerdings auf einige Details ver<lb break="no"/>wiesen. Ich erklärte dann aber auch, dass die Koordinationsgespräche<lb/>
+mit den Ländern zu einem neuen koordinierten Ausbauprogramm führen<lb/>
+müssten. In dieses ist nicht nur die polnische Stromlieferung sondern<lb/>
+auch der Kohlenkraftwerke 300 bis 350 MW einzubauen. Darüber hinaus<lb/>
+müsste man auch so schnell wie möglich mit der SU über deren Export<lb break="no"/>wunsch von 1 Mia. kWh zur Lösung kommen. <name type="person" ref="per:112014">Erbacher</name> teilte mit, dass<lb/>
+die Sowjets angedeutet haben, Österreich müsste sich bei der Leitung<lb/>
+in Ungarn oder in der CSSR, wenn der Strom über dort geliefert wird,<lb/>
+mit einem Perzentsatz beteiligen. Dies kommt nicht in Frage.<lb/>
+</p>
+            <pb n="25-0469" facs="25_1975-04-16_0469.jpg"/>
+            <p xml:space="preserve">Die Verbund hat dies sofort abgelehnt und auch ich teile diese<lb/>
+Meinung. Was wir machen können, ist ähnlich wie beim Röhrenge<lb break="no"/>schäft, dass wir Leitungsteile oder ganze Leitungen liefern, daher<lb/>
+eigentlich vorfinanzieren und dann mit der Stromlieferung abgezahlt<lb/>
+bekommen. Die ständige Beteiligung aber an einer Überlandleitung,<lb/>
+die nicht auf österreichischem Boden liegt, kommt nicht in Frage.<lb/>
+</p>
+            <p xml:space="preserve">Die Verhandlungen mit den Polen sind abgeschlossen, 27 Groschen<lb/>
+pro kWh plus einer Gleitklausel ist vereinbar und die Polen haben<lb/>
+jetzt auch schriftlich mitgeteilt, dass sie sich an der HÜG zur<lb/>
+Hälfte beteiligen werden, dadurch wird Österreich nur einen Auf<lb break="no"/>wand von 200 Mill. S haben. 200 Mill. wollen die Polen sich an<lb/>
+dieser Hochspannungsgleichrichter-Übertragung beteiligen. Dadurch<lb/>
+braucht Österreich nur 200 Mill. aufbringen.<lb/>
+</p>
+            <p xml:space="preserve">Bezüglich des Wunsches Vorarlbergs auf Erhöhung der Anteile an<lb/>
+den Illwerken warte ich jetzt den Syndikatsvertragsentwurf von<lb/>
+LR <name type="person" ref="per:116913">Mandl</name> ab, werde diesen sofort der Verbund übermitteln und es<lb/>
+wird dann ein entsprechender Vertragsentwurf gemeinsam Ministerium<lb/>
+und Verbund aufgearbeitet. Bezüglich der Erhöhung der KELAG-Anteile<lb/>
+warte ich das Gutachten von Prof. <name type="person" ref="per:126404">Stadler</name> ab, werde dies ebenfalls<lb/>
+sofort der Verbund übermitteln und die Verbund wird in der Zwischen<lb break="no"/>zeit eventuelle Kontakte mit der KELAG dazu nützen, um offene<lb/>
+Fragen zu klären. Ich habe vorgeschlagen, dass man die Verhandlungen<lb/>
+womöglich sofort aufnimmt und so schnell wie möglich zu einer positi<lb break="no"/>ven Lösung zu kommen. Insbesondere <name type="person" ref="per:114747">Zach</name> hat sich dagegen ausgespro<lb break="no"/>chen, dass die KELAG ein Geschenk bekommen sollte. Sie stellen sich<lb/>
+dies so vor, dass wenn es nicht gelingt eine Lösung mit der KELAG<lb/>
+zu finden, dann durch die Aktienkapitalerhöhung die zukünftigen<lb/>
+Gewinne der KELAG zufliessen, für die sie in der Vergangenheit<lb/>
+keine Leistung erbracht hat. <name type="person" ref="per:114747">Zach</name> schwebt vor, dass man mit der<lb/>
+KELAG dieselbe Regelung in diesem Punkt anstrebt wie mit der OKA.<lb/>
+Ich bin mit jeder Lösung einverstanden, nur nicht, dass die KELAG<lb/>
+womöglich 50 % bekommt, wie dies bei der OKA der Fall ist, wodurch<lb/>
+sich sofort eine Patt-Stellung zwischen Verbund und Landesgesellschaft<lb/>
+ergibt.<lb/>
+</p>
+            <pb n="25-0470" facs="25_1975-04-16_0470.jpg"/>
+            <p xml:space="preserve">Bezüglich der Ennskraftwerke-Donau-Regelung gab es eine längere<lb/>
+Debatte. Die ÖVP-Vertreter <name type="person" ref="per:112012">Arthold</name> und <name type="person" ref="per:114747">Zach</name> erklärten, dass sie<lb/>
+einer solchen Regelung nicht zustimmen. Zufällig hatte ich vorher<lb/>
+ein Gespräch mit Abgeordneten <name type="person" ref="per:111410">König</name> und dieses Gespräch solange<lb/>
+hinausgezogen, bis sie selbst mithören konnte, wie ich in dieser<lb/>
+Frage gegen <name type="person" ref="per:111410">König</name> argumentierte. <name type="person" ref="per:111410">König</name> hat mir nämlich mitge<lb break="no"/>teilt, dass er jetzt eine Rücksprache mit Präs. <name type="person" ref="per:112215">Weiss</name> und auch mit<lb/>
+LH <name type="person" ref="per:112031">Maurer</name> gehabt hat und er sozusagen namens der Kärntnerstrasse<lb/>
+mir die Erklärung gibt, dass sie dem nicht zustimmen, weil sie ihn<lb/>
+als einen politischen Akt betrachten. Ich erklärte sofort, alles ist<lb/>
+ein politischer Akt aber wenn die ÖVP diese Frage hochspielen will,<lb/>
+kann ich das nicht ändern. Ich halte es für falsch und habe auch<lb/>
+den Eindruck gehabt, dass sowohl <name type="person" ref="per:112031">Maurer</name> als auch <name type="person" ref="per:112215">Weiss</name> wünschen,<lb/>
+dass obwohl sie dem nicht zustimmen, doch eine befriedigende Lösung<lb/>
+über die Geschäftseinteilung gefunden wird. <name type="person" ref="per:112031">Maurer</name> hat ja sogar<lb/>
+vorgeschlagen, dass nicht die Verbundgesellschaft also <name type="person" ref="per:112014">Erbacher</name><lb/>
+einen diesbezüglichen Brief hätte schreiben sollen, sondern dass der<lb/>
+Vorstand der Donau sich hätte sollen überlegen, wie und welche Ge<lb break="no"/>schäftseinteilung durchgeführt wird. Darüber hinaus hat <name type="person" ref="per:112031">Maurer</name> dann<lb/>
+erklärt, wäre es zweckmässig, wenn es zu keiner Einigung kommt, dass<lb/>
+ein Aufsichtsratsausschuss dieses Problem löst. Ich zeigte mich über<lb/>
+die intransigente Haltung von <name type="person" ref="per:111410">König</name> sehr überrascht. Ich erklärte<lb/>
+allerdings, dass ich selbst auch nichts dagegen habe, wenn die ÖVP<lb/>
+eine dringliche Anfrage macht.<lb/>
+</p>
+            <p xml:space="preserve">Die Pressekonferenz mit der BÜRGES wo ich auch eingeladen war hat<lb/>
+von der ÖVP-Seite eine heftige Kritik gegen <name type="person" ref="per:113824">Hönlinger</name>, den Geschäfts<lb break="no"/>führer, der der ÖVP nahesteht, ich würde sogar sagen, ihr angehört,<lb/>
+ausgelöst. Die ÖVP wollte unter gar keinen Umständen, dass vor der<lb/>
+Handelskammerwahl nicht eine solche Möglichkeit besteht, über die<lb/>
+Leistungen, die wir über die Bürges erbracht haben, zu diskutieren.<lb/>
+Überrascht war ich, dass auch die dortigen Vertreter der Kreditinsti<lb break="no"/>tute sich sehr lebend über die Geschäftsführung aussprachen. Natür<lb break="no"/>lich habe ich sofort darauf hingewiesen, dass ich sehr stolz darauf<lb/>
+bin, weil letzten Endes ja diese Geschäftsführung von mir installiert<lb/>
+wurde. Sowohl Dir. <name type="person" ref="per:140541">Norbert</name> als auch <name type="person" ref="per:140540">Pale</name> von den Sparkassen haben<lb/>
+immer wieder unterstrichen, dass sie ein gutes Einvernehmen haben<lb/>
+und dass eigentlich gar nichts zu ändern ist. Um einen Angriff<lb/>
+<pb n="25-0471" facs="25_1975-04-16_0471.jpg"/>wegen der Erhöhung der Grenzen von 200.000 auf 300.000 abzuwehren,<lb/>
+habe ich bei meinem Einleitungsvortrag schon darauf verwiesen,<lb/>
+dass ich jetzt in Verhandlungen mit dem Finanzministerium und<lb/>
+den Interessensvertretungen bin, um ein besseres System in Form<lb/>
+von Prämienzahlungen gemeinsam zu erarbeiten. Es wurde deshalb<lb/>
+überhaupt keine Attacke dort von ÖVP-Vertreter geritten, sondern<lb/>
+eine einstimmige gute Zusammenarbeit mit allen immer wieder fest<lb break="no"/>gestellt.<lb/>
+</p>
+            <p xml:space="preserve">Der Besuch des rumänischen Ministerpräsidenten <name type="person" ref="per:140304">Pățan</name> läuft glaube<lb/>
+ich ganz gut an, ihm hat der Bettelstudent ganz gut gefallen, die<lb/>
+Besetzung war aber nicht überragend und insbesondere anschliessend<lb/>
+das Essen war sehr gemütlich und hat nur halt leider bis fast<lb/>
+12 Uhr gedauert.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="25_0464_08" facs="25_1975-04-16_0464-08.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 16.4.1975</head>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Donnerstag, der 11. September 1980</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band56_1980-09-11</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date from="1980-09-11" to="1980-09-14">Donnerstag, 11. September 1980 bis Sonntag, 14. September 1980</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-01-15">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="56-1130" facs="56_1980-09-11_1980-09-14_1130.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Donnerstag, 11. September 1980<lb/>
+</p>
+            <p xml:space="preserve">GD <name type="person" ref="per:98102">Wolfsberger</name> teilt mir mit, daß der Vertreter der deutschen<lb/>
+Siemens in der KWU, Kraftwerksunion, <name type="person" ref="per:114550">Bartelt</name>, mit dem deutschen<lb/>
+Oppositionsführer <name type="person" ref="per:114973">Kohl</name> gesprochen hat, dieser hat wieder dem öster<lb break="no"/>reichischen Oppositionsführer und Parteifreund Dr. <name type="person" ref="per:111325">Mock</name> vorgeschlagen,<lb/>
+er soll ein Seminar seiner Spitzenpolitiker veranstalten, wo deutsche<lb/>
+Atomfachleute referieren würden. Natürlich ist auch ein solcher Ver<lb break="no"/>such zu begrüßen, um für die Verhandlungen im Nationalrat resp. be<lb break="no"/>reits jetzt zum Volksbegehren den Spitzenpolitikern der Opposition<lb/>
+Sachinformationen zu geben. Ich erkläre aber Dr. <name type="person" ref="per:98102">Wolfsberger</name> eindeu<lb break="no"/>tig, daß ich fest überzeugt bin, wenn wir bis zur parlamentarischen<lb/>
+Verhandlung über die Aufhebung des Atomsperrgesetzes keine Atommüll<lb break="no"/>lagerung schlüssig vorlegen können, keine Chance besteht, daß die 2/3-<lb/>
+Mehrheit im Nationalrat zustande kommt. <name type="person" ref="per:98102">Wolfsberger</name> meint, die<lb/>
+Deutschen arbeiten jetzt an der Zwischenlagerung mit Stahlbehältern<lb/>
+und dies würde technisch neue Möglichkeiten eröffnen. Eine solche<lb/>
+Lösung würde im österreichischen Parlament wahrscheinlich nicht als<lb/>
+Atommüllagerung akzeptiert werden.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Laß Dir die Ergebnisse über diese Stahlbe<lb break="no"/>hälterlösung im Detail vorlegen.<lb/>
+</p>
+            <p xml:space="preserve">Vizepräsident <name type="person" ref="per:97938">Seidl</name> von der Bundeskammer, jetzt als Präsident der<lb/>
+OÖ Ferngas, möchte im amtlichen Preisverfahren, daß ihr Abgabepreis<lb/>
+an die Industrie und die Stadtwerke Linz für den Haushalt durch einen<lb/>
+Formalbescheid genehmigt wird. Sobald die Einstandspreise für Import<lb break="no"/>gas, das sie von der ÖMV übernehmen, oder die amtlichen Preise für<lb/>
+die RAG erhöht werden, dann automatisch auch ihre Abgabepreise mit<lb/>
+einem gewissen Zuschlagssystem von der Gesellschaft selbst weiterver<lb break="no"/>rechnet werden können. Aufgrund des jetzigen Preisbescheides würden<lb/>
+sie heuer einen Verlust von 154 Mio. S bei einem Kapital von 80 Mio. S<lb/>
+erzielen. Sektionschef <name type="person" ref="per:97584">Jagoda</name> hat <name type="person" ref="per:97938">Seidl</name> vorgeschlagen, er soll die<lb break="no"/>se Überlegungen bei der amtlichen Preisregelung vorbringen, ohne ihm<lb/>
+konkrete Zusagen gemacht zu haben.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Nächstes Jour fixe AK, ÖGB und HK setzen.<lb/>
+</p>
+            <p xml:space="preserve">Ich informiere GD <name type="person" ref="per:97453">Fremuth</name> von der Verbund, daß der Finanzminister<lb/>
+im Budget 1981 nicht imstande ist, die 400 Mio. S Kapitalaufstockung<lb/>
+<pb n="56-1131" facs="56_1980-09-11_1980-09-14_1131.jpg"/>bereitzustellen. <name type="person" ref="per:97453">Fremuth</name> wurde bereits von <name type="person" ref="per:97311">Androsch</name> auch dahingehend<lb/>
+informiert und ist durch die gute Ertragslage der Verbundgesellschaft<lb/>
+imstande darauf 1 Jahr tatsächlich zu verzichten.<lb/>
+</p>
+            <p xml:space="preserve">MR <name type="person" ref="per:108321">Rameder</name> ersucht, ob nicht neben dem jetzt in ihre Abteilung kom<lb break="no"/>menden <name type="person" ref="per:126948">Vondruska</name> nicht für den mit Jahresende ausscheidenden MR<lb/>
+<name type="person" ref="per:117024">Miklas</name>, der die Handelskammer und Wirtschaftstreuhänder bearbeit,<lb/>
+doch Frau <name type="person" ref="per:126951">Ganz</name>, ehemalige Bürges-Angestellte, ins Handelsministerium<lb/>
+aufgenommen werden könnte. Für <name type="person" ref="per:126951">Ganz</name> hat sich auch bei ihr Präsident<lb/>
+<name type="person" ref="per:97893">Sallinger</name>, HK, eingesetzt. Ich erkläre ihr nur, über dieses Problem<lb/>
+mit Sektionschef <name type="person" ref="per:112949">Kazda</name> zu sprechen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:112949">KAZDA</name> UND <name type="person" ref="per:109811">BURIAN</name>: Bitte, wie steht die Angelegenheit.<lb/>
+</p>
+            <p xml:space="preserve">Aufgrund des neuen Kreditwesengesetzes muß der Siebenervorstand der<lb/>
+BAWAG geändert werden. Bis jetzt gab es eine eigenartige Lösung, daß<lb/>
+Konsum- und Gewerkschaftsleute, die nicht hauptberuflich, nur Vorstands<lb break="no"/>mitglieder bei der BAWAG waren, trotzdem dort im Vorstand aufschei<lb break="no"/>nen. In Hinkunft wird es nur mehr 4 hauptberufliche Vorstandsmitglie<lb break="no"/>der geben, nämlich <name type="person" ref="per:114047">Flöttl</name>, <name type="person" ref="per:121807">Böck</name>, <name type="person" ref="per:116189">Elsner</name> und <name type="person" ref="per:126949">Partik</name>. <name type="person" ref="per:113840">Ströer</name> wird Auf<lb break="no"/>sichtsratspräsident nach dem ausscheidenden <name type="person" ref="per:118662">Klenner</name>, <name type="person" ref="per:126947">Krizek</name> von<lb/>
+den Metallarbeitern und <name type="person" ref="per:97505">Haberl</name> vom Konsum gehen in Pension.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:125291">MARTIN</name>: Bitte mit Präs. <name type="person" ref="per:97346">Benya</name>, ÖGB, <name type="person" ref="per:126952">Tröthann</name> erinnern.<lb/>
+</p>
+            <p xml:space="preserve">Prof. <name type="person" ref="per:126950">Auerswald</name>, mit dem ich vor mehr als 30 Jahren in der Kodex<lb break="no"/>kommission gemeinsam gearbeitet habe, interveniert, daß das Handels<lb break="no"/>ministerium die Fremdenverkehrsstudie über die wissenschaftliche Ob<lb break="no"/>jektivierung der österreichischen Kuren, also Heilbäder, genehmigen<lb/>
+sollte. Ich erkläre ihm sofort, daß im nächsten Budget ja sehr ge<lb break="no"/>spart werden muß und daher nur bereit bin, mir diesen Vorschlag an<lb break="no"/>zusehen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Was ist mit dieser Studie von <name type="person" ref="per:111367">Würzl</name> aus zu<lb/>
+sagen?<lb/>
+</p>
+            <p xml:space="preserve">Der nigerianische Handelsminister <name type="person" ref="per:126885">Shaahu</name> befindet sich auf einer<lb/>
+Europareise. Ich habe ihn zwar nicht eingeladen, doch bin ich bren<lb break="no"/>nend daran interessiert, mit ihm über unsere Beziehungen zu disku<lb break="no"/>tieren. Insbes. wollte ich ursprünglich wegen der Stickereiexporte<lb/>
+<pb n="56-1132" facs="56_1980-09-11_1980-09-14_1132.jpg"/>mit ihm bessere Lösungen besprechen, als das jetzige Einfuhrverbot.<lb/>
+Dies führt nur dazu, daß die Stickereien über Nachbarstaaten nach<lb/>
+Nigeria geschmuggelt werden. Die Stickereileute ließen mich aber<lb/>
+wissen, sie wünschten, daß überhaupt nicht über dieses Problem ge<lb break="no"/>sprochen wird. Die Aussprache beschränkte sich daher insbes. auf die<lb/>
+Traktor- und LKW-Produktion und Importe in Nigeria. Dir. <name type="person" ref="per:115693">Eder</name>, der<lb/>
+österreichische Leiter im nigerianischen Assemblingwerk von Steyr-<lb/>
+Daimler-Puch, ersuchte mich wegen einer Lizenzierung von Sattel<lb break="no"/>schleppern zu intervenieren. <name type="person" ref="per:126885">Shaahu</name> und seine Begleiter erklärten sich<lb/>
+bereit, mit <name type="person" ref="per:115693">Eder</name> diesen Wunsch in Lagos genau zu prüfen. Die Importe<lb/>
+von Traktoren aber aus aller Welt würden nicht lizenziert werden.<lb/>
+Die nigerianische Regierung legt Wert darauf, daß billige Traktoren,<lb/>
+das heißt ein harter Konkurrenzkampf in Nigeria durch die Importe<lb/>
+mit den Assemblingwerken bestehen bleibt. Bei LKW schützen sie so<lb break="no"/>wieso die Firmen, welche in Nigeria produzieren, durch gestaffelte<lb/>
+Zölle. Erstmals hörte ich von dem System, daß die Einfuhr von LKW-<lb/>
+Teilen mit einem geringeren Zoll belastet wird, je weiter die Pro<lb break="no"/>duktionsstätte von Lagos sprich von der Küste entfernt ist. Mercedes<lb/>
+und andere Firmen zahlen 15 %, Steyr-Daimler-Puch, weil sie am wei<lb break="no"/>testen entfernt ist, nur 5 %.<lb/>
+</p>
+            <p xml:space="preserve">Der Minister und seine Begleitung haben auch die nigerianische Aus<lb break="no"/>stellung auf der Wr. Messe besucht. Der Ausstellungsleiter erklärte<lb/>
+mir, sie seien mit dem Ergebnis auf der Wr. Messe sehr zufrieden. Als<lb/>
+nächstes wird er jetzt zur Budapester Messe übersiedeln. Bei den<lb/>
+Nigerianern handelt es sich auch mehr, wie bei Staatshandelsländern,<lb/>
+um eine Leistungs- oder Demonstrationschau des Staates.<lb/>
+</p>
+            <p xml:space="preserve">Ähnlich ist es mit dem<add>[sechst-]</add> kleinsten Staat Europas, Andorra, der eben<lb break="no"/>falls erstmalig auf der Wr. Messe ausstellte. Der Generalrat<add>[der]</add> Täler<lb/>
+wollte mit einer Delegation von mir empfangen werden. Bei dieser Ge<lb break="no"/>legenheit konnte ich in Erfahrung bringen, daß mit diesem Kleinst<lb break="no"/>staat, 6000 Einwohner, 12 Mio. Touristen, die durchfahren, und 4 Mio.<lb/>
+Nächtigungen, Österreich ein geschätztes Handelsvolumen von 3 Mio.<lb/>
+S hat. Immerhin ist dieser Staat aber 800 Jahre alt und lebt davon,<lb/>
+daß er staatlich von Spanien und religiös von Frankreich seit diesem<lb/>
+Zeitraum geschützt und auch anerkannt wird.<lb/>
+</p>
+            <p xml:space="preserve">Bad Vöslau hat im Herbst eine Trauben- und Mostkur und ersuchte mich<lb/>
+die heurige zu eröffnen. Ein geschickter Conferencier, <name type="person" ref="per:126953">Günther Frank</name>,<lb/>
+<pb n="56-1133" facs="56_1980-09-11_1980-09-14_1133.jpg"/>konnte eine große Anzahl von Einheimischen und wahrscheinlich auch<lb/>
+Gäste begrüßen. Der Hauptgrund aber war, daß 60 l Most und 100 kg<lb/>
+Weintrauben gratis verteilt wurden. Der Conferencier <name type="person" ref="per:126953">Günther Frank</name><lb/>
+will mit mir eine Radiosendung, wie ich ihm vorgeschlagen habe, eine<lb/>
+Doppelconference machen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:125291">MARTIN</name>: Wenn er anruft, bitte Termin geben.<lb/>
+</p>
+            <p xml:space="preserve">Donnerstag, 11. bis Sonntag, 14. September 1980<lb/>
+</p>
+            <p xml:space="preserve">Bei der 25-Jahrfeier der Kraftwerksgruppe Glockner-Kaprun von den<lb/>
+Tauernkraftwerken TKW wurde, da der Bundespräsident, hier muß man<lb/>
+wirklich sagen, mitwirkte, ein umfangreiches Programm gestaltet.<lb/>
+Gemeinde Kaprun bereitete ihm einen herzhaften Empfang. Alle Schul<lb break="no"/>kinder mit Blumensträußen auf Wanderstäben, alle Sportvereine, die<lb/>
+Trachtengruppe, der Singverein, der Kameradschaftsbund, die Frei<lb break="no"/>willige Feuerwehr, die Musikkapelle und viele Zuschauer und doch<lb/>
+noch immer anwesende Gäste empfingen ihn am Hauptplatz. Niemand hat<lb/>
+ihm gesagt, daß er eine Ansprache halten muß, doch auch in diesem<lb/>
+Amt muß man gut improvisieren können.<lb/>
+</p>
+            <p xml:space="preserve">Die Feier dann oben auf der Mooserbodensperre ebenfalls mit Musik,<lb/>
+Schützenkompanie, Kranzniederlegung für die Opfer und erstmalig in<lb/>
+diesem Kraftwerk auch eine Wortmesse. Vor 25 Jahren gab es einen<lb/>
+richtigen Streit zwischen dem damals für die E-Wirtschaft zuständi<lb break="no"/>gen Verkehrsminister <name type="person" ref="per:98043">Waldbrunner</name> und dem Landeshauptmann. <name type="person" ref="per:98043">Waldbrunner</name><lb/>
+lehnte es ab, daß eine Einsegnung erfolgt. Ich habe diesen Stand<lb break="no"/>punkt nie verstanden und stehe seit eh und je dazu, daß wenn Gesell<lb break="no"/>schaften eine Einsegnung durchführen, ich nicht nur dagegen gar nichts<lb/>
+einzuwenden haben, sondern sogar eigentlich erwarte.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Bitte dies bei entsprechenden Gelegenheiten<lb/>
+der Gesellschaft wissen lassen.<lb/>
+</p>
+            <p xml:space="preserve">Das Wetter war anfangs sehr trüb und kalt, dazu kamen dann auch noch<lb/>
+8 Redner. Der LH <name type="person" ref="per:113822">Haslauer</name>, ging, wie nicht anders zu erwarten, nicht<lb/>
+zuletzt durch eine Bemerkung des Präsidenten des Aufsichtsrates<lb/>
+<name type="person" ref="per:97358">Bock</name><add>[evtl. Falschidentifikation]</add>, fast provoziert, auf den Ausbau der Wasserkräfte an der Salzach<lb/>
+ein. Er meinte, dies sei Salzburger Wasser und müsse daher auch der<lb/>
+<pb n="56-1134" facs="56_1980-09-11_1980-09-14_1134.jpg"/>Salzburger Bevölkerung zugute kommen. Ich als Wiener würde schon<lb/>
+Strom aus Salzburg und auch Milch beziehen, wenn ich in der Früh<lb/>
+aufwache. Ich konterte sofort, in Wien beziehen wir ja Atomstrom<lb/>
+aus der Schweiz und meine Wohnung liegt im Schärdinger Versorgungs<lb break="no"/>gebiet, also Milch aus Oberösterreich. Natürlich nützte ich die Ge<lb break="no"/>legenheit, um auf den günstigen Winter, Hydraulizität um 50 % höher<lb/>
+als im Regeljahr, mittlere Temperaturen, Dezember 6 Grad, Februar 5<lb/>
+Grad C, also ein sehr warmer Winter, der uns mengenmäßig geholfen<lb/>
+hat und der vor allem aber eine sehr gute Ertragslage bei der Ver<lb break="no"/>bundgesellschaft einbrachte. In diesem Winter müssen aber bereits mit<lb/>
+Deutschland und der Schweiz für ca. 400 MW Reservehaltungsverträge<lb/>
+abgeschlossen werden. Inländische Reserve ist nur mehr 200 MW, wobei<lb/>
+das größte Kraftwerk mit 285 MW Korneuburg nach einer alten Regel<lb/>
+immer durch Reserve jederzeit ersetzt werden müßte. Ich verwies<lb/>
+dann auch noch darauf, daß Malta im August vollkommen ausgefallen ist<lb/>
+und 790 MW schnell ersetzt werden mußten. Dies war nur durch Bezüge<lb/>
+aus dem Ausland möglich. Durch die gute Ertragslage ist die Verbund<lb/>
+auch imstande,<add>[auf]</add> die vom Finanzminister vorgesehene Streichung der<lb/>
+Kapitalerhöhung um 400 Mio. S im nächsten Budgetjahr zu verzichten.<lb/>
+</p>
+            <p xml:space="preserve">Insbesondere ging ich natürlich auf die Probleme Nationalpark Ost<lb break="no"/>tirol-Kraftwerk, welches ja die TKW bauen und betreiben wird, ein<lb/>
+und verwies<add>[darauf]</add>, daß der deutsche Alpenverein mit dem österreichischen<lb/>
+Alpenverein 20 Deutsche Journalisten eingeladen hat. Durch reinen<lb/>
+Zufall erfuhr ich davon. Die ÖFVW, unser Public-Relations-Mann <name type="person" ref="per:97559">Hofbau<lb break="no"/>er</name>, ersuchte mich dringend, daß ich daran teilnehme. Dies habe ich ge<lb break="no"/>tan und in Virgen in Osttirol mit GD <name type="person" ref="per:97453">Fremuth</name>, dem Baudirektor und<lb/>
+<name type="person" ref="per:107956">Satzinger</name> eine Gruppe von aggressiven deutschen Journalisten und Rund<lb break="no"/>funkleuten vorgefunden. Prof. <name type="person" ref="per:124068">Oberwalder</name> vom Österr. Alpenverein hielt<lb/>
+einen Einführungsvortrag, die Diskussion leitete der neue Präsident<lb/>
+des deutschen Alpenvereines Dr. <name type="person" ref="per:126954">März</name>, der bisherige, <name type="person" ref="per:124064">Sander</name>, neben<lb break="no"/>bei bemerkt ein SPD-Mann, war auch dort. Anstelle des Nachtmahls<lb/>
+ging ich von Tisch zu Tisch, um mit den einzelnen besser Kontakt auf<lb break="no"/>nehmen zu können. Dabei konnte ich feststellen, daß die Parole des<lb/>
+deutschen, aber teilweise auch des österreichischen Alpenvereines, die<lb/>
+Alpen müssen unverändert jetzt belassen werden, auch bei noch so<lb/>
+berechtigter Begründung durch die Bürgermeister entschieden abgelehnt<lb/>
+wurden. Es ergab sich also eine doppelte Front. Auf der einen Seite<lb/>
+gegen die Bürgermeister und deren Fremdenverkehrsaktivitäten, die<lb/>
+sie schaffen wollen, insbes. die Aufstiegshilfen, und auf der anderen<lb/>
+Seite das Kraftwerk. Freimütig konnte ich bekennen, daß zwei Seelen<lb/>
+<pb n="56-1135" facs="56_1980-09-11_1980-09-14_1135.jpg"/>in meiner Brust sind. Prof. <name type="person" ref="per:124068">Oberwalder</name> meinte, sogar mit einem<lb/>
+Zwischenruf, 3 und daß ich nicht nur bestrebt sein werde ein ver<lb break="no"/>nünftiges Kompromiß zu finden, sondern auch stets mit dem Alpenverein<lb/>
+engen Kontakt zu halten, wie ich ja jetzt durch meine Anwesenheit<lb/>
+demonstriere. Ob der Alpenverein wirklich glücklich war, daß ich<lb/>
+gekommen bin, weiß ich nicht. Der neue Gen.Sekr. des Österr. Alpen<lb break="no"/>vereines, <name type="person" ref="per:126955">Höpperger</name>, kam nach Abschluß spät abends zu mir und meinte,<lb/>
+es sei doch ganz anders gelaufen, als der Pressereferent der ÖFVW,<lb/>
+<name type="person" ref="per:97559">Hofbauer</name>, befürchtete. Dies war richtig. Wie weit das allerdings auf<lb/>
+die Anwesenheit von uns zurückzuführen ist, ist eine zweite Frage.<lb/>
+Der österreichische Alpenverein hat mit dem deutschen Alpenverein<lb/>
+jetzt in seinen Zeitschriften eine Propaganda für Osttirol gestar<lb break="no"/>tet. Motto Rettet Osttirol, kommt, besucht es jetzt, damit die<lb/>
+Fremdenverkehrsbetriebe und die Bauern ein höheres Einkommen haben.<lb/>
+<name type="person" ref="per:126955">Höpperger</name> ärgerte sich sehr, daß die Fremdenverkehrsverantwortlichen<lb/>
+feststellten, es wurden 1308 Bestellkarten angefordert und 120 Re<lb break="no"/>servierungen, also 1700 Nächtigungen erreicht. Für die Fremdenver<lb break="no"/>kehrsverantwortlichen, die alle sich herzlichst dafür bedanken, auch<lb/>
+ein Erfolg, für <name type="person" ref="per:126955">Höpperger</name>, bei 600.000 Mitgliedern<add>[von]</add> ÖAV und DAV,<lb/>
+ein vernichtendes Ergebnis. Er meinte deshalb, die Aktion sei noch<lb/>
+nicht abgeschlossen und man müsse erst die endgültigen Ergebnisse<lb/>
+durchrechnen. Daß mit solchen Aktionen den Osttirolern geholfen wird,<lb/>
+aber sie keinesfalls aus der furchtbaren Situation <choice><choice><sic>80 bis 80</sic><corr>nur sic</corr></choice></choice> Vollbe<lb break="no"/>legstage herauskommen, ist klar.<lb/>
+</p>
+            <p xml:space="preserve">Der größte Widerstand der Gemeindevertreter war aber gegen den Na<lb break="no"/>tionalpark gerichtet. Sie haben das Gefühl, daß auf ihre Kosten die<lb/>
+anderen sich ein Reservat schaffen wollen, mit dem sie zwar, und dies<lb/>
+hat dort allgemeine Heiterkeit ausgelöst, in ihren Prospekten schon<lb/>
+Propaganda machen, obwohl es ihn noch gar nicht gibt und sie dagegen<lb/>
+sind.<lb/>
+</p>
+            <p xml:space="preserve">Der deutsche Alpenverein war immerhin imstande, bedeutende Journali<lb break="no"/>sten und Rundfunkleute zu organisieren. Die österr. E-Wirtschaft,<lb/>
+die ebenfalls ein Kraftwerkswandern Samstag, Sonntag veranstaltete<lb/>
+und dies sehr gut organisiert hatte, war nur imstande für den ersten<lb/>
+Wandertag 3 und für den zweiten dann nur mehr 2 Journalisten zu ge<lb break="no"/>winnen. Meine härteste Kritik aber an dieser Aktion war, daß wieder<lb/>
+einmal die Journalisten überschätzt wurden. Von den 2en mußte einer<lb/>
+sogar dann noch bei der Wanderung ins Leitertal an das Seil genommen<lb/>
+werden, so exponiert war der Weg. Wenn Kraftwerksbauer oder Einhei<lb break="no"/><pb n="56-1136" facs="56_1980-09-11_1980-09-14_1136.jpg"/>mische irgendwo gehen, dann erscheinen ihnen selbst ausgesetzte<lb/>
+Steige als vollkommen normale Fußgeherwege. 3 1/2 stündige Aufstiege<lb/>
+betrachten sie als <choice><choice><sic>Sapiergänge</sic><corr>Spaziergänge?</corr></choice></choice>. In Hinkunft aber, und das ist das<lb/>
+Wichtigste, müssen solche Pressefahrten besser organisiert werden,<lb/>
+das heißt, es müssen alle Verbindungen spielen, damit tatsächlich<lb/>
+mehr daran teilnehmen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name> UND <name type="person" ref="per:108746">HAFFNER</name>: Dies bitte mit <name type="person" ref="per:97559">Hofbauer</name> be<lb break="no"/>sprechen.<lb/>
+</p>
+            <p xml:space="preserve">Da die ganze Fahrt nur ein oberösterreichischer Redakteur der so<lb break="no"/>zialistischen Tageszeitung und der Kurier-Vertreter <name type="person" ref="per:126510">Sirowi</name> mitgemacht<lb/>
+hat, kann es ein wirklicher Exklusivbericht des Kuriers über diese<lb/>
+Reise werden. Selbstverständlich wurde er von allen besonders be<lb break="no"/>treut und ich konnte ihn dann sogar noch mit dem Auto nach Hause<lb/>
+nehmen. Ich bin sehr gespannt, wie der Kurier darüber berichten wird.<lb/>
+Selbstverständlich wollten weder ich, noch soll sonst irgend wer ihn<lb/>
+direkt oder indirekt beeinflussen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="56_1129_06" facs="56_1980-09-11_1129-06.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 11.9.1980</head>
+         </div>
+         <pb n="56_1129_07" facs="56_1980-09-11_1129-07.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

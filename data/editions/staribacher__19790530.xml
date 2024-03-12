@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittwoch, der 30. Mai 1979</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band48_1979-05-30</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1979-05-30">Mittwoch, 30. Mai 1979</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-07-26">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="48-0614" facs="48_1979-05-30_0614.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Mittwoch, 30.5.1979<lb/>
+</p>
+            <p xml:space="preserve">Der Gremialvorsteher des steirischen Weinhandels, Komm.Rat<lb/>
+<name type="person" ref="per:150299">Kronabether</name> beschwert sich bitter über die Entwicklung auf dem<lb/>
+Weinmarkt. Mit 1. Jänner l971 wurde die Weinsteuer aufgehoben<lb/>
+und dadurch die Weinkommissare abgeschafft. Diese hatten die Kon<lb break="no"/>trolle bei den Bauerngenossenschaften und Händlern durchzuführen.<lb/>
+Dadurch wurde die Weinmenge, welche zum Verkauf gelangt. einiger<lb break="no"/>massen erfasst. Seit dieser Zeit nimmt der Direktverkauf ständig<lb/>
+zu und erreicht jetzt 30%. Die Gastwirte verlangen jetzt von Händ<lb break="no"/>lern genau dieselbe Möglichkeit, wie wenn sie direkt beim Bauern<lb/>
+einkaufen, d.h. dass ihnen ohne Rechnung geliefert wird. Die Händ<lb break="no"/>ler sind diesen Verlangen teilweise nachgekommen, indem sie fiktive<lb/>
+Namen in ihre Rechnungen eingesetzt haben. Die Steuer hat nun ei<lb break="no"/>nige Händler aber auch Genossenschaften überprüft und Strafverfah<lb break="no"/>ren eingeleitet. <name type="person" ref="per:150299">Kronabether</name> ist es geglückt, dass diese Straf<lb break="no"/>verfahren niedergeschlagen wurden resp. nicht mehr weiter verfolgt<lb/>
+werden. In Zukunft glaubt aber der Handel nicht mehr diese unge<lb break="no"/>setzliche Falschfakturierung vornehmen zu können. Damit ist der<lb/>
+Weinverkauf bei den Händlern weiter zurückgehend. <name type="person" ref="per:150299">Kronabether</name> wollte<lb/>
+nun von mir haben, dass ich mich für eine Weinbauförderungsabgabe<lb/>
+einsetze, die einige Groschen nur betragen müsste. Ihm erscheint<lb/>
+ausschliesslich wichtig, dass eben wieder eine Weinkontrolle er<lb break="no"/>folgt. Ich erklärte ihm sofort, dass ich mir nicht vorstellen<lb/>
+kann, dass der Finanzminister – ein diesbezüglicher Vorschlag<lb/>
+müsste ja vom Landwirtschaftsminister kommen – eine neue Steuer<lb/>
+einführen möchte. Die Weinpreise sind von 8.– Schilling auf 4.50<lb/>
+Schilling nach Auskunft <name type="person" ref="per:150299">Kronabethers</name> 4.80 bis 5.– Schilling zurück<lb break="no"/>gegangen. Seine Argumentation, dafür hat der Bauer um 30% ein<lb/>
+höheres <choice><choice><sic>Fechsum</sic><corr>Wachstum???</corr></choice></choice>, mag stimmen, doch kann man damit keinesfalls den<lb/>
+Bauern erklären, dass er jetzt mit so einem geringen Weinpreis<lb/>
+noch zusätzlich eine Weinbauförderungsabgabe bezahlen soll. Theo<lb break="no"/>retisch könnte er sie natürlich auf den Käufer überwälzen. Bei<lb/>
+einem solchen Überschuss ist dies aber kaum anzunehmen. Ein wei<lb break="no"/>terer Wunsch war, im zweiten Abgabenänderungsgesetz eine <choice><choice><sic>25ige</sic><corr>25%ige?</corr></choice></choice><lb/>
+Wertgrenze in eine <choice><choice><sic>25ige</sic><corr>25%ige?</corr></choice></choice> von der Mengengrenze festzulegen, damit<lb/>
+nicht die Preisschwankungen sich so ungünstig auswirken. Auch<lb/>
+dieses Problem muss der Weinhandel mit dem Finanzministerium<lb/>
+klären.<lb/>
+</p>
+            <pb n="48-0615" facs="48_1979-05-30_0615.jpg"/>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Das Memorandum habe ich an die Abteilung<lb/>
+weitergegeben, bitte jetzt verfolgen, was damit geschieht.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Grundsteinlegung für ITT zu einem Forschungszentrum<lb/>
+in Strebersdorf habe ich mit den Gen.Dir. <name type="person" ref="per:149376">Hainisch</name>, aber auch mit<lb/>
+den für Europa zuständigen ITT-Mann, der extra aus Brüssel an<lb break="no"/>gereist ist, über die Stillegung von Ingelen gesprochen. Ich habe<lb/>
+beiden neuerdings auseinandergesetzt, dass wir in Österreich es<lb/>
+nicht zulassen können, dass Ingelen als Betrieb, der das Staats<lb break="no"/>wappen führen darf und führt, eine so unsoziale Art der Still<lb break="no"/>legung vornimmt. Darüber hinaus muss aus Handels- und Zahlungsbilanz<lb break="no"/>gründen darauf gedrängt werden, dass ITT für den Exportausfall<lb/>
+von über 50.000 Fernsehgeräten eine andere Produktion nach Öster<lb break="no"/>reich gebracht wird. Beide Herren haben mir im Prinzip zugestimmt<lb/>
+und erklärt, sie werden dies mit ihren obersten Chefs noch einmal<lb/>
+besprechen. Sie waren auch damit einverstanden, dass mit Philips,<lb/>
+Gen.Dir. <name type="person" ref="per:114409">Koning</name>, wegen der Lieferung von Laufwerken für Video<lb break="no"/>recorder eine Aussprache mit mir erfolgen soll.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98072">WIESINGER</name>: Bitte <name type="person" ref="per:149376">Hainisch</name> und <name type="person" ref="per:114409">Koning</name> zu einer Be<lb break="no"/>sprechung mit mir einladen.<lb/>
+</p>
+            <p xml:space="preserve">Der für die Öllieferung und im irakischen Ölministerium eine<lb/>
+grosse Rolle spielende Doktor <name type="person" ref="per:131472">Al Ani</name><add>[evtl. Falschidentifikation, Anm.]</add> besucht Österreich. Ein Mit<lb break="no"/>tagessen, von <name type="person" ref="per:97426">Fälbl</name> für ihn gegeben, gab mir Gelegenheit über die<lb/>
+weitere Ölpreisentwicklung zu diskutieren. <name type="person" ref="per:131472">Al Ani</name> sagte freimütig,<lb/>
+erst bei 24 Dollar das Barrel wird sich der Rohölmarkt einiger<lb break="no"/>massen beruhigen und stabilisieren. Unter diesen Umständen ist<lb/>
+also in nächster Zeit mit weiteren Preiserhöhungen zu rechnen.<lb/>
+</p>
+            <p xml:space="preserve">Die Ölpreisentwicklung hat auch die Aussprache mit den interna<lb break="no"/>tionalen Ölfirmen und der ÖMV den ganzen Tag gegenüber die öster<lb break="no"/>reichische Preisgestaltung geprägt. GD-Stv. <name type="person" ref="per:97429">Feichtinger</name>, aber auch<lb/>
+der sehr geschickt verhandelnde Dr. <name type="person" ref="per:97738">Meszaros</name> haben sich bei den<lb/>
+Internationalen nicht durchsetzen können. Die erste Aussprache<lb/>
+ohne Arbeiterkammer und Gewerkschaftsbund ergab bereits ein<lb/>
+äusserst mieses Klima und harte Attacken von seitens der Ölwirt<lb break="no"/>schaft. Insbesondere <name type="person" ref="per:97556">Hirnigel</name>, von der BP, war über die Verhandlun<lb break="no"/>gen mit der Arbeiterkammer und dem ÖGB, die sie allein geführt<lb/>
+haben, empört. Allen Ernstes erwarteten sie von mir, dass ich<lb/>
+ihren Preisanträgen, die in der letzten Zeit übrigens noch<lb/>
+<pb n="48-0616" facs="48_1979-05-30_0616.jpg"/>einmal um 10 Groschen im Durchschnitt nach oben korrigiert<lb/>
+wurden, Rechnung trage. Sie haben sich sicherlich einen Preis<lb/>
+von über 8 Schilling für Superbenzin erwartet. Die Art und Weise<lb/>
+ihrer Argumentation und ihres Auftretens waren so empörend, dass<lb/>
+MR <name type="person" ref="per:112011">Kurzel</name>, den ich den Besprechungen zugezogen habe, mir nachher<lb/>
+sagte, er hätte meine Geduld bewundert und sie schon längst rausge<lb break="no"/>schmissen. Mir persönlich erschien es aber wichtig, nicht beleidigt<lb/>
+zu sein, sondern eine Lösung, letzten Endes allen aufzuoktroyieren<lb/>
+wo ich dann noch immer sagen konnte, es war das einzig mögliche<lb/>
+Kompromiss und die Versorgung wird insbesondere zu den Pfingst<lb break="no"/>feiertragen aufrecht erhalten. Dass es dieses Mal nicht mög<lb break="no"/>lich sein wird, eine Einigung zu erzielen, war mir eigentlich<lb/>
+von allen Anfang an klar. Wenn ich ehrlich bin, ist es ja auch das<lb/>
+letzte Mal nicht geglückt. Die ÖMV hat 1974 der Preiserhöhung auf<lb/>
+7.30 Schilling für Super zugestimmt, diesmal hat die ÖMV auch auf<lb/>
+7.90 Schilling für Super akzeptiert und die anderen mussten mehr<lb/>
+oder minder folgen. Den grössten Streit gab es aber innerhalb der<lb/>
+Ölindustrie eine Zeitlang auch zwischen ÖGB-Vertreter und <name type="person" ref="per:113026">Tumpel</name><lb/>
+und der Arbeiterkammer, <name type="person" ref="per:98112">Zöllner</name> und <name type="person" ref="per:112010">Blaha</name> und <name type="person" ref="per:114598">Hruby</name>, wegen der<lb/>
+Freigabe vom Dieselpreis aus der amtlichen Preisregelung. Aus mir<lb/>
+unerklärlichen Gründen hat Präs. <name type="person" ref="per:97386">Czettel</name>, mit dem ich nicht, wie<lb/>
+<name type="person" ref="per:98112">Zöllner</name> vermutete, gestern oder vorgestern gesprochen habe, der<lb/>
+Preisfreigabe sofort zugestimmt. <name type="person" ref="per:98112">Zöllner</name> selbst in der Preiskommis<lb break="no"/>sion der einzige Vertreter der Konsumenten, der ÖGB ist ja dort<lb/>
+offiziell nicht anwesend, war daher einverstanden, dass man den<lb/>
+Dieselkraftstoff aus der amtlichen Preisregelung herausnimmt.<lb/>
+<name type="person" ref="per:97738">Meszaros</name> war darüber gar nicht glücklich und <name type="person" ref="per:97429">Feichtinger</name> sogar<lb/>
+empört. Beide gaben sich der Hoffnung hin, dass es innerhalb der<lb/>
+Konsumentenvertreter noch im Zuge der Verhandlungen so differen<lb break="no"/>zierte Auffassungen gibt, dass ich darauf verzichte, diesen, wie ich<lb/>
+glaube, einzig richtigen Schritt zu machen. Sie wären bereit ge<lb break="no"/>wesen jeden Dieselpreis, den ich dekretiert hätte sofort zu ak<lb break="no"/>zeptieren. Genau dies wollte ich nicht, denn es hätte dann sowohl<lb/>
+die Landwirtschaft als auch die Bundeshandelskammer stets auf mich<lb/>
+verwiesen, wenn es entweder nicht genug Diesel in den westlichen<lb/>
+Bundesländern, oder was noch genau so schlimm gewesen wäre, die<lb/>
+entsprechenden empörende Proteste gegen die neue Kostenbelastung<lb/>
+von Frächtern usw. gegeben, die sich ausschliesslich gegen mich<lb/>
+gerichtet hätten. Das einzig offene Problem, welches wir weder<lb/>
+<pb n="48-0617" facs="48_1979-05-30_0617.jpg"/>jetzt, noch fürchte ich in absehbarer Zukunft lösen können,<lb/>
+ist Heizöl extraleicht. Hier hätte die ÖMV auch erwartet, dass<lb/>
+ich die vom Gewerkschaftsbund zugestandenen 30 Groschen jetzt<lb/>
+dekretiere. Da aber <name type="person" ref="per:97738">Meszaros</name> freimütig erklärte, auch mit<lb/>
+diesem Preis, ja selbst bei einer Erhöhung um 1.30 Schilling wäre die<lb/>
+Versorgung im Winter nicht sicherzustellen, sah ich keine Mög<lb break="no"/>lichkeit und Veranlassung jetzt eine Preiserhöhung vorzunehmen.<lb/>
+Hier wird es notwendig sein in absehbarer Zukunft, innerhalb der<lb/>
+nächsten Monate zu einer generellen Regelung zu kommen, womit<lb/>
+die ÖMV imstande ist -und sich auch bereit erklärt – damit die<lb/>
+Versorgung im Winter zu sichern. <name type="person" ref="per:97738">Meszaros</name> meint, wir müssten,<lb/>
+so wie in anderen Staaten auch Heizöl extraleicht mit der vollen<lb/>
+Länge der Mineralölsteuer neuerdings belasten. Derzeit wird ja<lb/>
+nur die halbe Steuer verrechnet. Dadurch wird sich eine wesent<lb break="no"/>liche Erhöhung des Heizöl-extraleicht-Preises ergeben und die<lb/>
+Konsumenten dann nicht immer stärkerem Ausmass auf diese Energie<lb break="no"/>form übertreten. Die Belastungen für die kleinen Leute sollten durch<lb/>
+entsprechende Erhöhung der Familienbeihilfen und Renten und was<lb/>
+sonst noch alles, wie sich die ÖMV dies vorstellt wurde im Einzel<lb break="no"/>nen nicht besprochen, abgegolten werden. Auf alle Fälle hat <name type="person" ref="per:97738">Mes<lb break="no"/>zaros</name> festgehalten, dass er dies vorerst mit dem Finanz<lb break="no"/>minister besprechen muss und besprechen will. Ich habe den Ver<lb break="no"/>tretern der AK und<add>[des]</add> ÖGB klargemacht, dass wir hier eine Lösung<lb/>
+unbedingt in den nächsten Wochen finden müssen. Derzeit spielt<lb/>
+die Heizöl-extraleicht-Versorgung bei dieser sommerlichen Hitze<lb/>
+keine Rolle. Wesentlich anders sieht es aber aus, wenn es zu<lb/>
+einem Witterungsrückschlag kommt und womöglich die Konsumenten<lb/>
+aber ganz besonders die Fremdenverkehrsbetriebe zusätzliche<lb/>
+Heiztage, vielleicht sogar auch nur Heizstunden einschalten<lb/>
+müssen.<lb/>
+</p>
+            <p xml:space="preserve">Die Handelskammer, aber auch die Landwirtschaftskammer waren<lb/>
+über die neue Taktik von mir so überrascht und teils empört,<lb/>
+dass Dr. <name type="person" ref="per:97872">Rief</name> von der Bundeshandelskammer unmittelbar während der<lb/>
+Tagung der Preiskommission die doch letzten Endes aufgescheuchten<lb/>
+Reporter sofort entsprechend informierte. Dadurch ist der Benzin<lb break="no"/>preis wesentlich früher, nämlich um 7 Uhr, bereits im Radio ver<lb break="no"/>lautbart worden. Ich habe dann versucht, <add>[für die]</add> Reporter Aufklärungen<lb/>
+zu geben und den Sachverhalt, wie ich ihm sehe, darzustellen.<lb/>
+</p>
+            <pb n="48-0618" facs="48_1979-05-30_0618.jpg"/>
+            <p xml:space="preserve">Darüber hinaus habe ich sofort durch eine Inspektionsfahrt<lb/>
+mich informiert, wie es bei den Tankstellen zugeht. Ich war<lb/>
+einigermassen überrascht, dass sich überall verhältnismässig<lb/>
+ruhige Autofahrer angetroffen habe und vor allem nicht die<lb/>
+Kolonnenbildung bei einzelnen Tankstellen, um schnell noch<lb/>
+billigen Benzin zu bekommen feststellte. Der ORF, ZIB 2, <name type="person" ref="per:135868">Werner<lb/>
+Nussbaum</name>, hat mich über <name type="person" ref="per:111699">Puffler</name> aufgefordert, ins Studio zu<lb/>
+kommen und dort ein Statement abzugeben. <name type="person" ref="per:111699">Puffler</name> meinte zuerst,<lb/>
+ich sollte mich nicht jetzt dieser Prozedur unterziehen und<lb/>
+mich dort sozusagen ausfratscheln lassen. Was zu sagen ist<lb/>
+wird im Kommunique des Ministeriums mitgeteilt. Im Prinzip<lb/>
+hat er vollkommen recht und ich beabsichtigte ursprünglich auch<lb/>
+tatsächlich gar nicht hinzugehen. Wie ich aber dann bei den<lb/>
+einzelnen Tankstellenbesuchen feststellte, war gerade eine Auf<lb break="no"/>klärung von mir über das Fernsehen dringendst notwendig, denn<lb/>
+die Inkognito-Auskünfte und Bemerkungen der Autofahrer zeigten mir,<lb/>
+dass sie nur einseitig informiert sind und wahrscheinlich durch ZIB<lb/>
+2 dann noch einseitiger informiert werden. Zu meiner grössten<lb/>
+Überraschung stellte ich dann tatsächlich im Studio fest, dass,<lb/>
+wenn ich nicht gekommen wäre, Dr. <name type="person" ref="per:97872">Rief</name> von der Bundeshandelskammer<lb/>
+allein mit <name type="person" ref="per:135868">Ernst-Werner Nussbaum</name> über die Benzinpreiserhöhung und<lb/>
+insbesondere die Dieselpreisfreigabe diskutiert hätten. <name type="person" ref="per:97872">Rief</name> hat<lb/>
+selbst in meiner Anwesenheit noch behauptet, die Versorgung insbe<lb break="no"/>sondere mit Diesel wird zusammenbrechen, denn die kostendecken<lb break="no"/>den Preise müssten 9.80 Schilling <add>für Diesel</add> bei einem derzeitigen Preis von<lb/>
+6.10 Schilling betragen. Ich konnte daher in dem Studiogespräch,<lb/>
+das live gesendet wurde, einige Richtigstellungen machen und ganz<lb/>
+besonders auch für die Autofahrer die schweren Kämpfe in ihrem<lb/>
+Interesse des Ministeriums richtig darstellen. Der alte Grund<lb break="no"/>satz von <name type="person" ref="per:97646">Koppe</name> – wo immer ich ein Mikrophon bekomme, wo immer ich<lb/>
+eine Fernsehkamera erhaschen kann, habe ich mich zu stellen – hat<lb/>
+sich auch hier wieder einmal bewährt.<lb/>
+</p>
+            <p xml:space="preserve">In der Paritätischen Kommission, Preisunterausschuss, wurde über<lb/>
+den Düngerpreis verhandelt. Die Arbeiterkammer und der ÖGB haben<lb/>
+die Landwirtschaft dazu gebracht, dass sie von 4.5% Preiszuge<lb break="no"/>ständnis bis auf 7% raufgehandelt wurde. Diesen Preis hat aber die<lb/>
+Chemie-Linz nicht akzeptiert, sondern die Verhandlungen ver<lb break="no"/>lassen. Da die Chemie-Linz jetzt den neuen Preis sofort in Kraft<lb break="no"/><pb n="48-0619" facs="48_1979-05-30_0619.jpg"/>setzen muss, da das neue Düngejahr mit 1. Juni beginnt, wird<lb/>
+sie auch sicherlich nicht die Paritätische Kommission abwarten.<lb/>
+AK und ÖGB sind über diese Vorgangsweise sehr empört. Wenn die<lb/>
+Landwirtschaft einen § 3a stellt, dann werden sie sofort zustim<lb break="no"/>men und das Handelsministerium muss dann die notwendigen Preis<lb break="no"/>festsetzungen durchführen. Für mich wird dies eine verhältnis<lb break="no"/>mässig unangenehme Situation. Bei der letzten Preisfestsetzung<lb/>
+im Jahre 1974 auch nach 3a und gewissenhafter Überprüfung fest<lb break="no"/>stellen müssen, dass der von der Chemie Linz verlangte Preis ge<lb break="no"/>rechtfertigt ist. Diesmal werde ich ganz bestimmt – schon allein<lb/>
+weil die Vorgangsweise von Chemie Linz nicht der bisherigen Tra<lb break="no"/>dition und Vorgangsweise der Paritätischen Kommission entspricht –<lb/>
+einen entsprechenden Abschlag machen. Die Chemie Linz rechnet<lb/>
+übrigens damit. Wichtig erscheint mir aber, dass die Unterlagen<lb/>
+einigermassen jetzt auch von unseren Herren geprüft werden.<lb/>
+<name type="person" ref="per:97819">Plesch</name> hat die von mir angeforderten Unterlagen bekommen, konnte<lb/>
+sie aber bis jetzt nicht entsprechend bearbeiten. In Hinkunft werde<lb/>
+ich diese auch innerhalb unseres Hauses sofort zur Bearbeitung den<lb/>
+zuständigen Abteilungen zuweisen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Bitte Entsprechendes veranlassen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97757">Mühlbacher</name>, Präsident des Freien Wirtschaftsverbandes und Vizeprä<lb break="no"/>sident in der Handelskammer, teilt mir mit, dass im Präsidium be<lb break="no"/>schlossen wurde, mit 1. Oktober <name type="person" ref="per:97769">Mussil</name> zu pensionieren und an seiner<lb/>
+Stelle den Wiener Kammeramtsdirektor Dr. <name type="person" ref="per:112978">Kehrer</name> zu bestellen.<lb/>
+Gleichzeitig wird Dr. <name type="person" ref="per:113032">Reiger</name>, bis jetzt der Personalchef, als Kam<lb break="no"/>meramtsdirektor-Stellvertreter bestellt. Die Personalfrage wird<lb/>
+in Hinkunft Dr. <name type="person" ref="per:114537">Oder</name>, Sekretär von <name type="person" ref="per:97893">Sallinger</name>, leiten. Damit geht<lb/>
+die traditionsreiche Ära <name type="person" ref="per:97893">Sallinger</name>/<name type="person" ref="per:97769">Mussil</name> auch schön langsam<lb/>
+dem Ende entgegen. Ich bin sehr gespannt, ob ich mich mit <name type="person" ref="per:112978">Kehrer</name><lb/>
+so einigermassen verstehen kann, wie dies mit <name type="person" ref="per:97769">Mussil</name> der Fall ge<lb break="no"/>wesen ist. Aus der jahrzehntelangen gemeinsamen Tätigkeit, insbe<lb break="no"/>sondere die Doppelconferencen im Parlament als ich noch Opposi<lb break="no"/>tionsabgeordneter war, werde ich mit <name type="person" ref="per:112978">Kehrer</name> natürlich niemals<lb/>
+haben. Erstens will <name type="person" ref="per:97893">Sallinger</name>, dass der Kammeramtsdirektor nie<lb/>
+mehr wieder ein Politiker wird. Er soll sich ausschliesslich der<lb/>
+Handelskammer, Organisation, allen anderen Fragen usw. widmen.<lb/>
+<name type="person" ref="per:97893">Sallinger</name> möchte sicherlich aber damit erreichen, dass der Kammer<lb break="no"/>amtsdirektor nicht mehr die starke politische Stellung bekommt,<lb/>
+<pb n="48-0620" facs="48_1979-05-30_0620.jpg"/>wie sie <name type="person" ref="per:97769">Mussil</name> in seiner Glanzzeit hatte. Wieweit allerdings der<lb/>
+Nachfolger von <name type="person" ref="per:97893">Sallinger</name> dann diese Politik fortsetzt, oder viel<lb break="no"/>leicht ändert, wird sich erst herausstellen, bis dieser Nach<lb break="no"/>#folger bestimmt resp. in Tätigkeit ist. Wird es der Wiener Kam<lb break="no"/>merpräsident <name type="person" ref="per:107940">Dittrich</name>, was ich eigentlich ziemlich fest annehme,<lb/>
+dann wird diese neue Politik <name type="person" ref="per:97893">Sallingers</name> sicherlich fortgesetzt.<lb/>
+Dr. <name type="person" ref="per:112978">Kehrer</name> hat jetzt innerhalb der Wiener Kammer nur einen ganz be<lb break="no"/>schränkten Spielraum gehabt. <name type="person" ref="per:107940">Dittrich</name> hat dort im wahrsten Sinne<lb/>
+des Wortes autokratisch geherrscht. Ich bin sehr persönlich sehr<lb/>
+gespannt, wie lange <name type="person" ref="per:97893">Sallinger</name> noch seine Position beibehält. Po<lb break="no"/>litisch ist er nicht zuletzt deshalb sehr stark angeschlagen, weil<lb/>
+der Wirtschaftsbund eine immer geringere Einflussmöglichkeit inner<lb break="no"/>halb der ÖVP hat, die Politik des Parteiobmanns <name type="person" ref="per:98003">Taus</name>, den übrigens<lb/>
+<name type="person" ref="per:97893">Sallinger</name> im wahrsten Sinne des Wortes gemacht hat, richtet sich<lb/>
+scheinbar gegen alle Bünde, hat aber insbesondere den Wirtschafts<lb break="no"/>bund in der letzten Zeit am härtesten getroffen. Ob sich dieser<lb/>
+Wirtschaftsbund unter einer anderen Führung als <name type="person" ref="per:97893">Sallinger</name> besser<lb/>
+durchsetzen kann, kann und will ich eigentlich gar nicht beurteilen.<lb/>
+Ich habe mich bis jetzt immer mit den Fakten, wie ich sie auf diesem<lb/>
+Gebiet vorgefunden habe abgefunden, ich habe nie versucht in der<lb/>
+Handelskammer oder über einen Dritten über die Handelskammer Poli<lb break="no"/>tik zu machen, wodurch ich letzten Endes, glaube ich auch tatsäch<lb break="no"/>lich, diesen guten Ruf auf der drüberen Stubenring-Seite habe. Die<lb break="no"/>se Politik werde ich weiter fortsetzen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="48_0613_05" facs="48_1979-05-30_0613-05.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 30.5.1979</head>
+         </div>
+         <pb n="48_0613_06" facs="48_1979-05-30_0613-06.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

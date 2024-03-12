@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstag, der 26. Juni 1973</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band16_1973-06-26</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1973-06-26">Dienstag, 26. Juni 1973</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-09-28">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band16/">
+      <body>
+         <pb n="16-0750" facs="16_1973-06-26_0750.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Dienstag, 26. Juni 1973</p><p xml:space="preserve">Der Aussenhandelsstellenleiter von der Elfenbeinküste, der auch für<lb/>
+Senegal und andere frankophile afrikanische Staaten zuständig ist<lb/>
+– Dr. <name type="person" ref="per:149224">Tinkl</name> – wollte von mir wissen, ob Österreich den Versuch un<lb break="no"/>ternehmen wird, mit den assoziierten afrikanischen Staaten der EG<lb/>
+entsprechende Regelungen zu erreichen, damit Österreich nicht aus<lb/>
+dieser Region insbesondere aus einzelnen Staaten fast de facto aus<lb break="no"/>geschaltet ist. Die Franzosen dominieren in ihrem ehemaligen Kolonial<lb break="no"/>reich, indem sie ausser ihrer Tradition und viel Geld, was sie<lb/>
+bereits in diese Region hineingesteckt haben, noch präferenzielle<lb/>
+Zölle hat. <name type="person" ref="per:149224">Tinkl</name> hatte sich extra anmelden wollen und <name type="person" ref="per:98072">Wiesinger</name> hat<lb/>
+sehr schlau ihn sofort eingeschoben. Für ihn war dies sicherlich über<lb break="no"/>raschend, für mich aber ist es der Beweis, dass Aussenhandelsstellen<lb/>
+leiter sehr wohl Kontakt mit mir nehmen wollen. Dr. <name type="person" ref="per:149224">Tinkl</name> hatte<lb/>
+auch bereits mit Sekt.Leiter <name type="person" ref="per:108322">Meisl</name> ein diesbezüglichen Termin verein<lb break="no"/>bart. Bei den Aussenhandelsstellenleitertagungen, wo ich meistens<lb/>
+einige Stundn- mit ihnen diskutiere, erkläre ich zwar immer, dass sich<lb/>
+jeder an mich wenden kann und ich ihn jederzeit unterstützen werde,<lb/>
+doch eigentlich wagen es nur wenige den Kontakt dann tatsächlich aufzu<lb break="no"/>nehmen. Um diese Kollegen nicht in Schwierigkeiten zu bringen, wäre<lb/>
+es vielleicht zielführend zu versuchen, die Kooperationsfreudigen<lb/>
+unter ihnen herauszufinden. Wenn diese dann Kontakt mit uns insbe<lb break="no"/>sondere mit mir persönlich aufnehmen wollen, ist es dann ein Leichtes<lb/>
+sie ganz offiziell zu mir zu bitten. In diesem FAlle wäre er gegenüber<lb/>
+der Handelskammer gedeckt, denn wenn ein Minister einladet, dann muss<lb/>
+man selbstverständlich kommen. Soweit ich ins Ausland reise, wo ich<lb/>
+ja ständig KOntakt mit den Aussenhandelsstellenleitern und deren<lb/>
+Büro aufnehmen, ergibt sich diese Schwierigkeit kaum, obwohl es auch<lb/>
+hier interessant wäre, zu recherchieren, wie weit dann wirklich noch<lb/>
+ein zusätzlicher Kontakt von Seiten des Aussenhandelsstellenleiters<lb/>
+gewünscht wird. Vielleicht genügt es auch vollkommen, wenn die Aussen<lb break="no"/>handelsstellenleiter, die kooperieren wollen, mit <name type="person" ref="per:108322">Meisl</name> den Kontakt<lb/>
+aufnehmen und halten. Als Auszeichnung könnte ich dann vielleicht bei<lb/>
+Besprechungen bei <name type="person" ref="per:108322">Meisl</name> anwesend sein oder sie ganz kurz bei mir empfan<lb break="no"/>gen.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: Überlege mit <name type="person" ref="per:108322">Meisl</name>, ob man nicht wirklich recher<lb break="no"/>chieren kann, wer will kooperieren und ob die<lb/>
+Lösung, die ich oben angeführt habe, möglich<lb/>
+ist.</p><pb n="16-0751" facs="16_1973-06-26_0751.jpg"/><p xml:space="preserve">Dr. <name type="person" ref="per:98109">Zembsch</name> hat das GEfühl, dass die Information und die Art wie<lb/>
+die Information zu mir gelangt, für mich nicht befriedigend ist und<lb/>
+das stimmt. Er hat mir deshalb vorgeschlagn, dass er in Hinkunft,<lb/>
+wenn er als Kooperationsreferent zu den Besprechungen von Ministern<lb/>
+oder von Firmen, die die Ministerbesuche vorbereiten anwesend<lb/>
+sein kann, dann die notwendigen UNterlagen liefern wird. Ich habe<lb/>
+sofort erklärt, dass ich noch niemals jemanden ausgeschlosen habe,<lb/>
+der bie irgendwelche Besprechungen anwesend sein möcht.e Die Minister<lb/>
+kommen niemals allein und es ist dahr leicht möglich, dass neben dem<lb/>
+Länderreferenten selbstverständlich auch <name type="person" ref="per:98109">Zembsch</name> für die Sektion III<lb/>
+und Kooperationsreferent daran teilnimmt. Die diesbezüglichen Mit<lb break="no"/>teilungen müssten ja in meinem Programm enthalten sein, sodass jeder<lb/>
+weiss, wann ein Minister kommt und sich entsprechend einstellt.<lb/>
+<name type="person" ref="per:98053">Wanke</name> bemerkte richtig, dass oft im letzten Moment Ministerbesuche<lb/>
+kommen und <name type="person" ref="per:98109">Zembsch</name> dann wirklich davon nichts wissen kann. Wir verein<lb break="no"/>barten, dass in diesem FAll von der Kollegin <name type="person" ref="per:98072">Wiesinger</name> verständigt<lb/>
+wird. Ich bin neugierig, ob in Hinkunft endlich eine Berichtsinfor<lb break="no"/>mation resp. Aktivitäten im Haus entwickelt wird, die konkrete Er<lb break="no"/>gebnisse zeitigen. Bis jetzt bestand ja die Tätigkeit bezüglich<lb/>
+des Aussenhandels primär darin, dass formale Verträge geschlossen<lb/>
+werden, insbsondere in den letzten Jahren, dass dann immerzusätz<lb break="no"/>lich Kooperationsverträge Zusammenarbeitsverträge und ich weiss<lb/>
+nicht was noch alles abgeschlossen wurde, die alle aber nichts<lb break="no"/>sagend sind udn eignetlich nur eine Aktivität vortäuschen. Die wirkl<lb/>
+konkreten Geschäfte und Kooperationsverträge, die ja letzten Endes<lb/>
+den Aussenhandel ausmachen werden von ganz andere Seite nämlich<lb/>
+eben den Firmen abgeschlossen und wir wissen daovn oft nichts. Dieser<lb/>
+Zustand ist an und für sich nicht beängstigend, sondern zeigt nur,<lb/>
+dass sich die Wirtschaft doch ohne unsere Hilfe die notwendigen<lb/>
+Verträge abschliesst, traurig ist nur, dass wir oft davon nicht<lb/>
+einmal etwas wissen. Service an der Wirtschaft ist des nicht, sondern<lb/>
+höchstens der Beweis, dass diese uns gar nicht braucht. Nur in<lb/>
+vereinzelten Fällen wenden sihc die Firmen, verstaatlichte oder private<lb/>
+an mich, und bitten manchmal um Unterstützung besonders, wenn ein<lb/>
+Minister kommt oder ich ins Ausland fahre. Aber auch diese Unter<lb break="no"/>stützung wird ganz selten verlangt, was mich insoferne überrascht,<lb/>
+als meine Funktion ja genau darin bestehen würde, sie bei Abschluss<lb/>
+dieser Verträge wirklich zu unterstützen. Vielleicht scheuen sich<lb/>
+die Firmen noch – was nach drei Jahren ein trauriges Zeichen für<lb/>
+mich wäre – oder sie brauchen und wirklich nicht, weil sie sagen,<lb/>
+<pb n="16-0752" facs="16_1973-06-26_0752.jpg"/>bei uns erreicht man sowieso nichts und die Unterstützung hat<lb/>
+keinen Sinn. Was noch trauriger wäre.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: Bitte überleg, wie man hier wirklich Service<lb/>
+für die Wirtschaft praktizieren könnte und<lb/>
+Firmen von Seiten des Ministeriums oder auch<lb/>
+meinerseits stärker unterstützen könnte.</p><p xml:space="preserve">Der Bürgermeister von Hohenems kam wegen der leidigen Steinbruch<lb break="no"/>frage. Da die Vorarlberger Landesregierung uns nicht eine Befundung<lb/>
+der Wand zeitgerecht geschickt hat, d.h. bis jetzt hat sie sie<lb/>
+überhaupt noch nicht vorgelegt, da andereseits die Gutachten für uns<lb/>
+unzulänglich waren und die neuen Gutachten vonSeiten der Landes<lb break="no"/>regierung nicht kamen, hat die Firma nachdem 6 Monate abgelaufen snd<lb/>
+beim Verwaltungsgerichtshof Beschwerde eingelegtund nachdem der<lb/>
+Verwaltungsgerichtshof jetzt Gutachten vom Sozialministerium<lb/>
+angefordert hat, ist anzunehmen, dass er in merito entscheiden<lb/>
+wird. Der zuständige Referent von unserem Haus hat sich bereit<lb/>
+erklärt, für den Bürgermeister beim Verwaltungsgerichtshof anzurufen,<lb/>
+um zu erfahren, wann die Sitzung und die Entscheidung zu erwarten<lb/>
+ist. Bürgermeister <name type="person" ref="per:137233">Amann</name> hofft, dass wenn der Verwaltungsgerichts<lb break="no"/>hof Sprengungen erlaubt, er und ich gemeinsam dann die Bevölkerung die<lb/>
+aufklären sollten, um eine geiwse Beruhigung zu erzielen. Die beste<lb/>
+Lösung, die er anstrebt, und ich teile diese Meinung, war, dass der<lb/>
+Firma Hoch- und Tiefbau zusichert, dass sie – wenn sie die entspre<lb break="no"/>chendne Sicherheitssprengungen gemacht haben, dann den Grund des<lb/>
+Steinbruches der grösstenteils im Besitz von <name type="person" ref="per:113017">Berchtold</name>,<lb/>
+gleichzeitig Gen.Direktor der E-Werke, an Firmen, die in Hohenems an<lb break="no"/>siedeln wollen, verkaufen oder verpachten sollte. Dadurch hat er –<lb/>
+wie <name type="person" ref="per:137233">Amann</name> glaubt – ein grösseres Einkommen als mit dem Steinbruch.<lb/>
+Überraschend für ihn war, dass die Firma im März alle Arbeiter<lb/>
+gekündigt und abgefertigt hat und jetzt im Mai neuerdings aufge<lb break="no"/>nommen. Da die Steinbruchreste aufgearbeitet sind, sitzen die Ar<lb break="no"/>heiter herum und haben nichts zu tun. Da sich <name type="person" ref="per:97646">Koppe</name> bei Dr. <name type="person" ref="per:123312">Stern</name>,<lb/>
+dem Rechtsvertreter von der Firma verabschieden wird, hat er bei<lb/>
+dieser Gelegenheit die Möglichkeit zu erkunden, ob und warum die<lb/>
+Firma jetzt die Arbeiter neuerdings aufgenommen hat und ob und in<lb break="no"/>wieweit <name type="person" ref="per:123312">Stern</name> vielleicht schon weiss, wie der Verwaltungsgerichtshof<lb/>
+entscheiden wird.</p><p xml:space="preserve">Bürgermeister <name type="person" ref="per:137233">Amann</name> ist zwar ein ÖVP-ler, hat aber mit der Landes<lb break="no"/>regierung grosse Schwierigkeiten. Er hat z.B. für seine Gemeinde<lb/>
+<pb n="16-0753" facs="16_1973-06-26_0753.jpg"/>schon einen Flächenwidmungsplan wegen zwei kleineren sonstigen Gemeinden<lb/>
+schon beschlossen und kommt in grosse Schwierigkeiten, dass z.B. die<lb/>
+umliegende Gemeinde Dornbirn dies bis jetzt nicht getan hat. Dadurch<lb/>
+verkaufen die Grundbesitzer von Dornbirn ihre Grundstücke wie sie<lb/>
+wollen und kommen dann womöglich in sein Gemeindegebiet, um dort land<lb break="no"/>wirtschaftliches Grundstück zu erwerben. Andereseits wird gegen die Flä<lb break="no"/>chenwidmungsplan auch in seiner Gemeinde z.B. ein riesiger Autowrack-<lb/>
+Parkplatz geschaffen und dann von ihm verlangt, er möge zustimmen, dass<lb/>
+in diesem landwirtschaftlichen Gebiet eine Halle errichtet werden darf.<lb/>
+um diese Autowracks zu zerkleinern. <name type="person" ref="per:97584">Jagoda</name>, der diese Probleme genau<lb/>
+kennt, meint, dass hier die Landesgesetzes eben verkehren müssten,<lb/>
+dass die Gewerbebehörde an die Beschlüsse des Naturschutzes, Landschafts<lb break="no"/>schutzes usw. begunden ist, sodass eben nicht in einem landwirtschaft<lb break="no"/>lich genutzten Teil und landwirtschaftlich unmöglichen Situationen Auto<lb break="no"/>wracks abgestellt werden, auf Grund einer Gewerbebehördlichen Genehmigung<lb/>
+der Bezirksverwaltungsbehörde. Dieses leidge Problem kann eben nur im<lb/>
+Einvernehmen mit dem Land gelöst werden, da dafür keine Bundesgesetzl.<lb/>
+Kompetenz gegeben ist. Das Land entscheidet hier aber nach Gesichts<lb break="no"/>punkten, die nicht unbedingt die GEsichtspunkte und Überlegungen der<lb/>
+Gemeinde sein müssen. Hier zeigt sich ein gewisser grosser Nachteil<lb/>
+unseres föderalistischen Systems. Nicht aber zwischen Bund und Land son<lb break="no"/>dern zwischen Land und Gemeinde.</p><p xml:space="preserve">Bei der Sektionsleitersitzung kommen antrülich ungeheuer viele Themen<lb/>
+zur Sprache, da die Sektionen ja dies als eine Berichtssitzung auf<lb break="no"/>fassen. Der grösste Vorteil glabue ich besteht dann nur darin, dass<lb/>
+in dem Protokoll die Information auch für die einzelnen Mitarbeiter<lb/>
+im Ministerium bis in die letzte Stelle erfolgt. Erschütternd ist<lb/>
+für mich, dass oft die Kooperation zwischen den einzelnen Sektionen<lb/>
+noch immer nicht funktionier.t Z.B. berichtete <name type="person" ref="per:97467">Gasser</name> über eine<lb/>
+Aussprache wegen der Heizölverknappung, die immer auch behauptet wird,<lb/>
+und wie sich nun herausstellt mit den Erdölfirmen überhaupt nicht zutriff<lb/>
+sondern gesichert ist. MEine Frage, ob dies auch für Dieselöl gilt wird<lb/>
+dahingehend beantwortet, dafür sei <name type="person" ref="per:112946">Schleifer</name> zuständig und man wisse<lb/>
+nicht, was dort auf diesem Sektor gescheieht. In der Presse wurde aber<lb/>
+in der letzten Zeit nicht behauet, dass Heizöl knapp wird, sondern dass<lb/>
+Dieselöl knapp wird. Wie ich die Mitteilung bekommen habe, dass eine<lb/>
+Aussprache mit den Erdölfirmen wegen der Knappheit durchgeführt wird,<lb/>
+habe ich selbstverständlich angenommen, dass es sich um die Diesel<lb break="no"/>knappheit handelt. Doch dies liegt in der Kompetenz einer anderen Sek<lb break="no"/>tion und deshalb wird ganz einfach über dieses Problem nicth gesprochen<lb/>
+<pb n="16-0754" facs="16_1973-06-26_0754.jpg"/>der Sektionsleiter weiss nichts und auch die Sektion III kann</p><p xml:space="preserve">keine Auskunft geben. Eine jämmerliche Koordination.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: UND <name type="person" ref="per:97543">HEINDL</name>: So etwas dürfte nicht vorkommen und<lb/>
+kommt es vor, muss es dazu dienen,um sofort abge<lb break="no"/>stellt zu werden, bitte Entsprechendes veranlassen.</p><p xml:space="preserve">Nach der Sektionsleitersitzung ist Sekt.Chef <name type="person" ref="per:97915">Schipper</name> und Min.Rat<lb/>
+<name type="person" ref="per:97722">Marhold</name> sich beschweren gekommen, dass ohne dass sie es wussten <name type="person" ref="per:111367">Würzl</name><lb/>
+das Handelsministerium, d.h. sich selbst in die Kommission für Bäder-<lb/>
+und Sportstättenbau beim Unterrichtsministerium nominiert hat.<lb/>
+Durch die Nominierung entsteht uns jetzt über 500.000 S anteilsmässige<lb/>
+Kosten, die zwar vom Finanzministerium anerkannt werden, aber natürlich<lb/>
+von unserem Budget zu bezahlen sind. Sie bemerkten, dass <name type="person" ref="per:111367">Würzl</name> dies des<lb/>
+habl gemacht hat, um 2.000 S im Monat, so wie dies auch Beamte des<lb/>
+Bautenministeriums bekommen, zu erhalten. ICh habe sofort <name type="person" ref="per:111367">Würzl</name> ge<lb break="no"/>rufen, ihm den SAchverhalt erklärt, <name type="person" ref="per:111367">Würzl</name> wies darauf hin, dass er<lb/>
+einen Brief geschrieben hat, der im Präsidium hängenblieb, wonach eben<lb/>
+festgestellt werden sollte, ob und inwieweit das Handelsministeriums<lb/>
+Mitgliedsbeiträge zu bezahlen haben wird. Er behauptet für diese<lb/>
+Tätigkeit nichts zu bekommen. <name type="person" ref="per:111367">Würzl</name> war selbst überrascht, dass wir<lb/>
+jetzt diese BEträge leisten müssen, denn ihm kam es ja primär<lb/>
+darauf an, mit Fremdenverkehr und Bäder- und Sportstättenbau koordi<lb break="no"/>nierend tätig zu werden. Ich verstehe, dass das Unterrichtsministerium<lb/>
+gerne mehrere Mitglieder hat, damit die notwendigen Mitteln in etlichen<lb/>
+Millionen Schilling eben gemeinsam von diesen aufgebracht werden.<lb/>
+Für mich ist gar kein Zweifel, dass in weiterer Folge das Finanz<lb break="no"/>ministerium dann darauf hinweisen wird, dass wir selbstverständlich<lb/>
+aus unserem Budget die notwendigen Mitgliedsbeiträge zu entrichten<lb/>
+haben. Wir werden dann von der Huld und Gunst des Finanzministerium<lb/>
+abhängen, ob wir diese BEträge zusätzlich in unser Budget bekommen.<lb/>
+Auf alle Fälle wird, wenn es Bindungen gibt, dann automatisch auf diese<lb/>
+von uns nur als Durchlaufpost zu bezeichnenden Budgetposten Bindungen<lb/>
+fallen und ich sehe nicht ein, warum wir unser Budget dadurch aufbläehn</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Bitte solche Praktiken nach Möglichkeit unter<lb break="no"/>binden.</p><p xml:space="preserve">Ich glaube, dass wir überhaupt in der Budgetgebarung äusserst vor<lb break="no"/>sichtig vorgehen sollten. Die Bundesregierung – <name type="person" ref="per:97668">Kreisky</name> und letzten<lb/>
+Endes Landwirtschaftsminister <name type="person" ref="per:98055">Weihs</name> hat den Raurisern versprochen,<lb/>
+<pb n="16-0755" facs="16_1973-06-26_0755.jpg"/>entsprechende Hilfe zu gewähren. Da aber jetzt sich herausstellt,<lb/>
+dass ansatzmässig dies gar nicht über das Landwirtschaftsministerium<lb/>
+abgewickelt werden kann, kommt es zu einem Kompromiss, das für uns<lb/>
+sehr unzulänglich ist. Beim Landwirtschaftsministerium werden ent<lb break="no"/>sprechende Posten gebunden, bei uns wir-d ein Teil der Bindung auf<lb break="no"/>gehoben und diese Millionen muss ich dazu verwenden, um die Rauriser<lb/>
+einen Zinsenzuschuss kapitalisiert zu geben. Budgetrechtlich möge<lb/>
+alles in Ordnung sein. SAchlich bin ich überzeugt, wurde ich deshalb<lb/>
+drüher oder später hart attackiert und von unserem finanziellen Stand<lb break="no"/>punkt wird natürlich letzten Endes das gesamt Budgetvolumen mehr oder mi<lb/>
+minder beeinflusst. Der Finanzminister wird mit Recht einmal darauf<lb/>
+hinweisen, dass wir sowieso um so und so viel Prozent die Bindung bei<lb/>
+uns aufgehoben wurde und nicht in eine Kürzung umgewandelt. Trotzdem<lb/>
+haben wir davon gar nichts, weil diese BEträge nicht zu meiner Ver<lb break="no"/>fügung standen, diese BEträge auch gar nicht anerkannt werden, dass<lb/>
+ich sie geleistet habe, sondern diese Finanztransaktion nur richtige<lb/>
+Budgetisten verstehen. Bei solcher konkreter Durchführung von Re<lb break="no"/>gierungsversprechungen kann ich immer wieder festwstellen und bin<lb/>
+überrascht über die ungeheure Macht, die in Wirklichkeit nur das<lb/>
+Finanzministerium hat. Dort sind aber sicherlich hunderte solcher<lb/>
+Entscheidungen zu treffen, sodass dies auch gar nicht mehr der Finanz<lb break="no"/>minister überblicken kann und sicherlich ach nicht in jedme einzelnen<lb/>
+Fall prüfen kann, sodass man automaitsch der Finanzbürokratie aufge<lb break="no"/>liefert ist. Im wahrsten Sinne des Wortes.</p><p xml:space="preserve">Gen.Dir. <name type="person" ref="per:97526">Hautzenberg</name> von der ÖDK war über Pressemitteilungen von Strom<lb break="no"/>importen aus Polen desorientiert und hat deshalb um eine Aussprache<lb/>
+ersucht. Ich konnte ihn aufklären und beruhigen, dass wenn überhaupt<lb/>
+eine solche Stromlieferung zustandekommt, dies erst für die Achtziger<lb break="no"/>jahre beabsichtigt ist und nur durch eine Einschränkung des zweiten<lb/>
+Atomkraftwerkes, wofür Anmeldungen für 1.300 MW Vorliegen auf 1.000 MW<lb/>
+reduziert, dann 300 MW zur VErfügung des Importes gestellt werden könn<lb break="no"/>ten. <name type="person" ref="per:97526">Hautzenberg</name> fürchtet und dies scheinbar mit Recht, dass wir in den<lb/>
+nächsten zwei Jahren nicht eine Stromknappheit haben, sondern wen die<lb/>
+kalorischen Werke nur einigermassen kostendeckend fahren sollen, d.h.<lb/>
+mindeste 2 – 4.000 Betriebsstunden haben, die ÖDK einen Stromüber<lb break="no"/>schuss erzeugen wird und eigentlich exportieren müsste. Es wird wirk<lb break="no"/>lich höchste Zeit, dass <name type="person" ref="per:107937">Frank</name> und die anderen Kollegen versuchen, eine<lb/>
+Prognose, d.h. einen Energieplan zu erstellen, Rein instinktiv habe<lb/>
+ich bis jetzt immer behauPtet, dass das GEschrei von der Energie<lb break="no"/><pb n="16-0756" facs="16_1973-06-26_0756.jpg"/>krise für Österreich nicht zutrifft. Tatsache ist, dass alle<lb/>
+Energiearten eigentlich, wenn amn mit Einzelfirmen dann spricht,<lb/>
+in grösserem Masse angeboten werden, als man den Absatz für 2 –<lb/>
+3 Jahre annimmt. Wennes nicht zu einer Katastrophe, sie es durch<lb/>
+Werksausfall oder sontigesn Ereignissen kommt, kann in Öster<lb break="no"/>reich mit keiner Energiekrise resp. muss mit keiner Energiekrise<lb/>
+in Österreich gerechnet werden. Nach den Mitteilungen der einzelnen<lb/>
+Firmen ist eher anzunehmen, dass man Überschüsse an Energie wird<lb/>
+in den nähcsten Jahren in Österreich haben. Dieser ZUstand ist zwar<lb/>
+angenehmer aber natürlich auch nicht allzu befriedigend. <name type="person" ref="per:97526">Hautzenberg</name><lb/>
+wird mir entsprechende UNterlagen liefern, wie die ÖDK vielleocht<lb/>
+die österr. Bergbauproduktion im Köflacher Revier aufrechterhalten<lb/>
+kann, insbesondere wenn er die gewünschte Anlage Voitsberg III<lb/>
+bauen könnte, gegen die sich alelrdings die Verbundgesellschaft<lb/>
+ganz entschieden bis jetzt ausgesprochen hat. Kohlenüberschuss,<lb/>
+Heizölüberschuss, Elektrizitätsüberschuss, nur Gas infolge der<lb/>
+billigen Importe aus der SU gefragt und dies soll eine Energie<lb break="no"/>krise ergeben. richtig ist allerdings, dass die UMwandlung von<lb/>
+einer Energieform in eine andere kostspielig sein kann, viel<lb break="no"/>leicht technisch oft gar ncht möglich und deshalb in gewissen Energie<lb break="no"/>sektoren infolge überhöhter Nachfrage entsprechende Lücken ent<lb break="no"/>stehen könnten. Hier wäre wirklich durch Propaganda Aufklärung und<lb/>
+insbesondere durch einen Energieplan und ein -konzept die<lb/>
+notwenidge Vorarbeit zuleisten.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name> UND <name type="person" ref="per:98053">WANKE</name>: Bitte drängt, damit mit 1.1.1974<lb/>
+tatsächlich die notwendigen UNterlagen für die Konzep<lb break="no"/>tion zur VErfügung stehen Und propagandistisch gross<lb/>
+eingesetzt werden können.</p><p xml:space="preserve">Bei fünfeinhalbstündigem Telefondienst in der Löwelstr., wo ununter<lb break="no"/>brochen das Telefon besetzt war, kamen ca. 60 Anfrager, die ich wie<lb/>
+ichglaube wirklich im einzelnen befriedigen konnte. Eine Zeit lang<lb/>
+war sogar vom Fernsehen ein Beobachter dort, der sich Notizen machten.<lb/>
+Auch die SK war vertreten und hat mitgehört. Wirklich hart ist<lb/>
+nur, wenn jemand sagt, die sozialistische Partei hat versprochen die<lb/>
+Mietzinse für Geschäftsleute von 3 auf 2 S zu senken und bis<lb/>
+jetzt ist nichts geschehen. Hier hilft auch kein Herausreden oder<lb/>
+Herumredne senden konkrete Wahlversprechungen soll man entweder<lb/>
+nicht machen oder dann wirklich auch einhalten. Ich habe mir vorgenomm<lb/>
+dne Besitzer der Kleinen, alten und wie er sich ausdrücktedunklen und<lb/>
+muffigen Drogerie auf alle Fälle zu besuchen. Er wird sehr überrascht<lb/>
+sein, denn er hat mit nicht einmal die genaue Adresse gesagt. Trotzdem<lb/>
+<pb n="16-0757" facs="16_1973-06-26_0757.jpg"/>werde ich ihn ausfindig mahcen. INteressant war, dass sich ein<lb/>
+Herr <name type="person" ref="per:147368">Meier</name>, dn wir abgeleht hatten, dass er ein Souvenir-Geschäft<lb/>
+Samstag und Sonntag offen haben darf, er befindet sihc im 1. Bezirk,<lb/>
+mitteilt, dass <name type="person" ref="per:122012">Hübner</name> im Kursalon einen Kiosk errichtet hat für<lb/>
+18.000 S Miete dafür ganztätig offen haben darf, auch Samstag und Sonn<lb break="no"/>tag. Ähnlich ist die Verkaufssituation des Ladens im Intercontinental<lb/>
+<name type="person" ref="per:147368">Meier</name> meitn, dass hier scheinbar zeierlei Recht existiert, weil man<lb/>
+ihm gesagt hat, na der <name type="person" ref="per:122012">Hübner</name> kann sich selbstverständlich bei der<lb/>
+Gemeinde richten. n</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Bitte prüfen lassen und TAtbestand mir mitteilen.</p><p xml:space="preserve">Mehr überrascht war ich als eine Frau <name type="person" ref="per:97406">Ebert</name> bei mir anrief, die in der<lb/>
+Aussenstelle beschäftigt ist, 17 Jahre Vertragsbedienstete, und nun<lb/>
+mit 62 Jahren kündigt, um in die Pension zu gehen, Sie hat nuN ihrer<lb/>
+Meinung nach REcht auf 9 Monate Abfertigung, da sie vom Jahre 1952<lb/>
+bis 1956 im Statistischen Zentralamt gearbeitet hat, dort allerdings,<lb/>
+wenn die Arbeit vorüber war, sofort wieder gekündigt, um für die nächste<lb/>
+Arbeit aber bereits wieder aufgenommen zu werden. die meistens nach<lb/>
+einem Zeitabstand von etlichenWOche, höchstens ein paar Monaten erfolgte<lb/>
+Die Personalabteilung steht nun auf dem STandpunkt, dass ihr durch<lb/>
+diese Unterbrechungen nur 6 Moante Abfertigung zusteht. ICh habe ihr<lb/>
+keinerlei Zusagen gemacht, weil ich – wie ich mich ausdrückte – den<lb/>
+Akt und den Fall im einzelnen nicht kenne, wohl aber mitgeteilt, dass<lb/>
+ich mri die Sache genau anschauen werde und sie BEscheid bekommt.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Bitte lass den Fal prüfen und informiere mich<lb/>
+und insbesondere dann die Frau <name type="person" ref="per:97406">Ebert</name>.</p><p xml:space="preserve">INterssant bei diesen Kontakten, sie es in der Passagendiskussion, sei<lb/>
+es Durch Telefondienst, auch Leute sich meldne, sie ansonsten sich nicht<lb/>
+getrauen würden, im Amt oder auch privat zu HAuse anzurufen. WEnn es<lb/>
+sich dann noch um Mitglieder der Dienststellen des Handelsministeriums<lb/>
+handelt, bin ich umso mehr überrasxht. Dies zeigt, dass noch immer ein<lb/>
+viel zu hrosser Respekt vor dem Minister in der Bevölkerung herrscht<lb/>
+und das s man meiner Meinung nach der Bevölkerung viel mehr Möglich<lb break="no"/>keiten geben muss, mit den Mandataren. Abgeordneten, Ministern usw.<lb/>
+in KOntakt zu kommen. Ich habe deshalb am Abend bei unserem Klub<lb/>
+der Mandatare im 3. Bezirk mich herftig beschwert, dass obwohl<lb/>
+ich dies einige Mal geäussert habe und gewünscht habe, dass ich zu<lb/>
+Telefondienst eingeteilt werde, dies oft jahrelang nicht geschehen<lb/>
+ist. Die Erklärung, die mir <name type="person" ref="per:112986">Weisbier</name> vom Wiener Sekretariat gegeben<lb/>
+<pb n="16-0758" facs="16_1973-06-26_0758.jpg"/>hat, war erschütternd. Er sagt, es gibt nur wenige Minister und fast<lb/>
+keine Stadträte, die bereit wären, sich zu soclhen Aktionen zur<lb/>
+VErfügung zustellen. Deshalb können solche Aktionen nicht in dem<lb/>
+gewünschten Umfang wie er und insbesonder das Wiener Sekretariat selbst<lb/>
+gerne möchte, abgewickelt werden. Wenn dies wirklich zutrifft und ich<lb/>
+habe keinen Grund es zu bezweifeln, dann ist dies ein verheerendes<lb/>
+Zeugnis unserer politischen Spitzenfunktionäre.</p></div>
+      </body>
+      <back>
+         <pb n="16_0749_01" facs="16_1973-06-26_0749-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 26.6.1973</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="16_0749_02" facs="16_1973-06-26_0749-02.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>hs. Notizen</head>
+            <gap reason="sampling"/>
+            <pb n="16_0749_03" facs="16_1973-06-26_0749-03.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="16_0749_04" facs="16_1973-06-26_0749-04.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="16_0749_05" facs="16_1973-06-26_0749-05.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="16_0749_06" facs="16_1973-06-26_0749-06.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="16_0749_07" facs="16_1973-06-26_0749-07.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="16_0749_08" facs="16_1973-06-26_0749-08.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="16_0749_09" facs="16_1973-06-26_0749-09.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="16_0749_10" facs="16_1973-06-26_0749-10.jpg"/>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+   </text>
+</TEI>

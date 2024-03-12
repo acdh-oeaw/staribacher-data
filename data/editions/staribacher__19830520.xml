@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der 20. Mai 1983</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band70_1983-05-20</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1983-05-20">Freitag, 20. Mai 1983</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-12-17">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="70-0648" facs="70_1983-05-20_0648.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Freitag, 20. Mai 1983<lb/>
+</p>
+            <p xml:space="preserve">Das Präsidium des Kaffeeverbandes, die wichtigsten Kaffeeimporteure,<lb/>
+hatten das Bedürfnis sich bei mir zu verabschieden. Natürlich wurde<lb/>
+wieder fachgesimpelt. Das Präsidium bestätigte mir, daß die 50.000 to<lb/>
+Kaffee, die wir importieren, keinesfalls in Österreich verbraucht werden<lb/>
+oder verbraucht werden können. Sie haben mir vor längerer Zeit ver<lb break="no"/>sprochen, sie werden mir die auf meine Anregung gemachte Studie über<lb break="no"/>reichen, wie diese Kaffeemengen verwendet werden. Bis jetzt habe ich<lb/>
+sie allerdings noch nicht bekommen. Von der internationalen Kaffee<lb break="no"/>organisation ICO werden auch seit längerer Zeit 2 Mio. Sack Kaffee<lb/>
+gesucht. In anderen europäischen Ländern ist man jetzt auf Ursprungs<lb break="no"/>fälschungen draufgekommen. Ob solche auch in Österreich durchgeführt<lb/>
+wurden oder mit gefälschten Ursprungszeugnissen Kaffeetransfers durch<lb break="no"/>geführt wurden, ist nicht endgültig geklärt. Die Situation ergibt sich<lb/>
+daraus, daß der Weltmarktpreis ca. 60 S pro kg Kaffee ist, während die<lb/>
+SU, Ungarn, Rumänien und Israel, die aus dem internationalen Kaffeeüber<lb break="no"/>einkommen ausgetreten sind, jetzt nur 30 S pro kg bezahlen. Natürlich<lb/>
+versuchen jetzt die <choice><choice><sic>Kaffeexporteurländer</sic><corr>Kaffeeexportländer</corr></choice></choice> mehr Kaffee außer der ihnen<lb/>
+zugestandenen Quote zu verkaufen. Dadurch kommt es zu dem Unterschlei<lb break="no"/>fen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Du solltest auf die Vollendung der versprochenen<lb/>
+Studie drängen.<lb/>
+</p>
+            <p xml:space="preserve">Der designierte Staatssekretär <name type="person" ref="per:114075">Schmidt</name> hat auf seinen Wunsch mit<lb/>
+Staatssekretär <name type="person" ref="per:109808">Albrecht</name>, den soz. Sektionschefs und meinem Büro eine<lb/>
+Aussprache durchgeführt. Er selbst möchte Sekretär <name type="person" ref="per:108746">Haffner</name> und <name type="person" ref="per:131107">Grossen<lb break="no"/>dorfer</name> übernehmen, dazu dann die Sekretärinnen von mir, <name type="person" ref="per:125291">Martin</name> und <name type="person" ref="per:136485">Renner</name>.<lb/>
+</p>
+            <p xml:space="preserve">Wie er uns mitteilte, möchte Minister <name type="person" ref="per:122970">Steger</name> zwei Sekretärinnen mit<lb break="no"/>bringen, dazu seinen persönlichen Sekretär <name type="person" ref="per:1138724">Lohrmann</name>, von der CA <name type="person" ref="per:1138725">Sevelta</name>,<lb/>
+Mag. <name type="person" ref="per:1138726">Haas</name> von der Industriellenvereinigung und noch einen vierten Sekre<lb break="no"/>tariatsmann. Auch <name type="person" ref="per:114075">Schmidt</name> möchte als erstes Dr. <name type="person" ref="per:137412">Hellar</name> vom ARBÖ durch<lb/>
+Sondervertrag ins Ministerium bringen.<lb/>
+</p>
+            <p xml:space="preserve">Wie SL <name type="person" ref="per:117111">Schuberth</name> mitteilte, haben wir derzeit von unseren 608 Planstellen<lb/>
+der Zentralverwaltung 5 vakant, nicht ganz frei, 4 sind nämlich auf<lb/>
+Karenz, wobei zwei wahrscheinlich nicht mehr verlängert werden<del>, kommen</del>.<lb/>
+<pb n="70-0649" facs="70_1983-05-20_0649.jpg"/>trotzdem aber in der neuen Dienststelle bleiben wollen. <name type="person" ref="per:133683">Mersi</name> ist in<lb/>
+der BRD und <name type="person" ref="per:126515">Thalhammer</name> kommt auch nicht mehr zurück. Mag. <name type="person" ref="per:114739">Goldmann</name><lb/>
+bei der ÖIAG wird seinen Karenzurlaub nicht mehr verlängert bekommen,<lb/>
+ebenso <name type="person" ref="per:1138727">Neider-Stahl</name>, d.h. früher oder später, wenn die draußen bleiben,<lb/>
+was wahrscheinlich ist, werden diese 2 Posten auch frei. Davon sind<lb/>
+allerdings 2 schon wieder durch Bewerbungen besetzt, ein Nachfolger<lb/>
+für den im nächsten Jahr für die Betriebsanlagen zuständigen MR<lb/>
+<name type="person" ref="per:131814">Schedl</name>, der muß zeitgerecht nachbesetzt werden, damit er eingeschult<lb/>
+werden kann, und ein gewisser <name type="person" ref="per:140749">Wagner</name> <add>[alternativ <name type="person" ref="per:136790">Wagner, Georg</name>, Anm.]</add>. <name type="person" ref="per:117111">Schuberth</name> gibt allerdings zu,<lb/>
+daß es eine Möglichkeit gibt die gewünschte Besetzung der Büroleute<lb/>
+vorzunehmen, wenn auch mit Sondervertrag und durch Dienstpostenbindung,<lb/>
+da dies nicht sofort erfolgen muß, sondern im Laufe des Jahres durch<lb/>
+Ausscheiden anderer Beamter möglich wäre. Wir sind nämlich ncoh nicht<lb/>
+im zentralen Computersystem, sodaß das Finanzministerium resp. das BKA<lb/>
+während des laufenden Jahres nicht genau feststellen kann, wieviele<lb/>
+Dienstposten wir tatsächlich besetzt haben. Bis zum Jahresende muß<lb/>
+dann allerdings eine endgültige Planstellenfreimachung für die auf<lb/>
+Sondervertrag aufgenommenen erfolgen.<lb/>
+</p>
+            <p xml:space="preserve">SC <name type="person" ref="per:111737">Marsch</name> erinnert <name type="person" ref="per:114075">Schmidt</name> daran, daß es notwendig ist sofort mit dem<lb/>
+neuen Landesverteidigungsminister zu klären, daß die Gegengeschäfts<lb break="no"/>vereinbarung unbedingt aufrechterhalten bleiben muß. <name type="person" ref="per:114075">Schmidt</name> teilt<lb/>
+mit, daß es jetzt eine fraktionelle Wirtschaftsgruppe geben wird unter<lb/>
+Vorsitz von <name type="person" ref="per:113083">Sinowatz</name>, der Finanzminister <name type="person" ref="per:97891">Salcher</name>, Staatssekretär <name type="person" ref="per:97678">Lacina</name><lb/>
+vom BKA und er vom Handelsministerium daran teilnehmen werden. Dort<lb/>
+wird man über die Betriebsansiedlungen reden und bei dieser Gelegen<lb break="no"/>heit wird klargestellt werden, daß es öffentliche Aufträge nur dann in<lb/>
+größerem Umfang geben wird, wenn eben diese Wirtschaftswünsche, entspre<lb break="no"/>chende Zuschläge, Gegengeschäfte usw. erfüllt werden. Ob sich dies<lb/>
+alles so leicht wird führen lassen, als sich jetzt viele neue Minister,<lb/>
+Staatssekretäre vor allem der soz. Gruppe vorstellen, wird sich erst<lb/>
+zeigen. Die FPÖ wird mit ihren 3 Ministern und 3 Staatssekretären<lb/>
+eine entsprechende Mitsprache nicht nur verlangen, sondern auch erwar<lb break="no"/>ten. Wenn es nämlich, und das bin ich fest davon überzeugt, zu einer<lb/>
+allzu starken Fraktionierung kommt, würde das Vertrauen des Koalitions<lb break="no"/>partners sehr leiden und früher oder später dann der Krach kommen.<lb/>
+</p>
+            <p xml:space="preserve">Der Rechnungshof hat beanstandet, daß Förderungsschreiben immer von<lb/>
+mir selbst unterschrieben wurden, er sieht darin eine gewisse unnöti<lb break="no"/>ge Aufwendung der Verwaltung, aufgrund dieser Beanstandung könnten dann<lb/>
+Minister <name type="person" ref="per:122970">Steger</name> und Staatssekretär <name type="person" ref="per:114075">Schmidt</name> sich einigen, daß der<lb/>
+Rechnungshof vorschlägt, der entscheidende Beamte fertigt alle Briefe<lb/>
+<pb n="70-0650" facs="70_1983-05-20_0650.jpg"/>die neutralste Lösung wäre. Ich bin fest davon überzeugt, daß <del>sich</del><lb/>
+<name type="person" ref="per:122970">Steger</name> dies aber, wenn er einmal draufkommt, sicherlich nicht akzeptie<lb break="no"/>ren wird.<lb/>
+</p>
+            <p xml:space="preserve">Da <name type="person" ref="per:114075">Schmidt</name> glaubt, vielleicht auch mit <name type="person" ref="per:122970">Steger</name> tatsächlich so vereinbart,<lb/>
+daß er in der Industrie- und Energiesektion das ausschließliche Sagen<lb/>
+hat, er hätte ja dafür die Kompetenz, wird klargestellt, daß er alle<lb/>
+Akte auch der anderen Sektionen vor Genehmigung vorgeschrieben bekommt.<lb/>
+Nur so ist seine Information garantiert, da er ja volle Kooperation<lb/>
+mit <name type="person" ref="per:122970">Steger</name> vereinbart hat. Der Staatssekretär muß sich nämlich absi<lb break="no"/>chern. Der Minister kann dann sowieso <del>dann</del> auf alle Fälle jede Vorlage<lb/>
+verlangen und auch letzten Endes jede Unterschrift selbst sich vorbe<lb break="no"/>halten.<lb/>
+</p>
+            <p xml:space="preserve">In der Vierer-Sektion müssen wir den neuen Minister <name type="person" ref="per:122970">Steger</name> auf die<lb/>
+Papierindustriestützung, insbesondere auf Pöls, auf das Biospritprojekt<lb/>
+und auf die Erzeugungswünsche der Landwirtschaft bezüglich Speiseöl<lb/>
+und Fette, Sojaprojekt, aufmerksam machen.<lb/>
+</p>
+            <p xml:space="preserve">Der Energiesektionsleiter <name type="person" ref="per:110944">Zluwa</name> hätte einen einzigen Wunsch, die EVA,<lb/>
+Prof. <name type="person" ref="per:113069">Weiser</name>, sollte jetzt sofort aufgelöst werden. Darüber gibt <name type="person" ref="per:114075">Schmidt</name><lb/>
+keine konkrete Auskunft, meint nur, dieses Problem wird man selbstver<lb break="no"/>ständlich jetzt besprechen müssen.<lb/>
+</p>
+            <p xml:space="preserve">Dem Minister <name type="person" ref="per:122970">Steger</name> muß klargemacht werden, daß eine sofortige Entschei<lb break="no"/>dung jetzt für das Donaukraftwerk Hainburg fällig ist.<lb/>
+</p>
+            <p xml:space="preserve">SC <name type="person" ref="per:108322">Meisl</name> verweist darauf, daß jetzt als nächstes entschieden werden<lb/>
+muß, ob und wer an der EFTA-Tagung in Bergen teilnimmt. Er möchte von<lb/>
+<name type="person" ref="per:114075">Schmidt</name> wissen, ob man <name type="person" ref="per:122970">Steger</name> diese Reise suggerieren soll. <name type="person" ref="per:114075">Schmidt</name><lb/>
+stellt fest, daß auf alle Fälle jemand zur EFTA-Tagung fahren wird,<lb/>
+überhaupt wird <name type="person" ref="per:114075">Schmidt</name> dann mit <name type="person" ref="per:122970">Steger</name> die Auslandstermine im einzel<lb break="no"/>nen besprechen. Entweder wird immer <name type="person" ref="per:122970">Steger</name> oder <name type="person" ref="per:114075">Schmidt</name> fahren.<lb/>
+</p>
+            <p xml:space="preserve">SC <name type="person" ref="per:97584">Jagoda</name> macht darauf aufmerksam, daß es jetzt eine Novelle zum Mini<lb break="no"/>steriengesetz geben muß, da ja der Konsumentenschutz zur neuen Fami<lb break="no"/>lienministerin <name type="person" ref="per:97614">Karl</name> kommt. Darüber ist <name type="person" ref="per:109808">Albrecht</name> sehr traurig und ver<lb break="no"/>sucht immer wieder jedermann klar zu machen, daß dies keine richtige<lb/>
+Lösung ist, alles war so gut im Handelsministerium vereinbart, gere<lb break="no"/>gelt und jetzt durch 13 Jahre von mir aufgebaut, von ihr dann fortge<lb break="no"/>setzt, am besten organisiert. <name type="person" ref="per:109808">Albrecht</name> kann oder will nicht mehr er<lb break="no"/>kennen, daß das bei einer politischen Absprache keine Rolle spielt,<lb/>
+<pb n="70-0651" facs="70_1983-05-20_0651.jpg"/>die Sachfrage steht nicht im Vordergrund, sondern eben die politische<lb/>
+Entscheidung. Zum Familienministerium kommt sicherlich der Konsumenten<lb break="no"/>beirat, die OECD-,Vertretung vor allem aber die ganze Abteilung <name type="person" ref="per:114579">Lad<lb break="no"/>stätter</name> aus der Gewerbesektion. <name type="person" ref="per:97584">Jagoda</name> wird nur versuchen die Durch<lb break="no"/>führung des § 32 UWG und der Gewerbeordnung im Handelsministerium zu<lb/>
+behalten. <name type="person" ref="per:114075">Schmidt</name> meint noch ergänzend, auch das Gesetz zur Verbesse<lb break="no"/>rung der Nahversorgung, die Kartellverordnung usw. müßten im Handels<lb break="no"/>ministerium bleiben, so wie auch das Konsumentenschutzgesetz seinerzeit<lb/>
+vom Justizministerium blieb. Minister <name type="person" ref="per:97614">Karl</name> ist nicht der Typ, die<lb/>
+ungeheuer um Kompetenzen kämpfen wird. Eine gewisse Befriedigung aber<lb/>
+wird <choice><choice><sic>dringends</sic><corr>dringend? dringendst?</corr></choice></choice> notwendig sein, weil ansonsten die erklärte Gefahr be<lb break="no"/>steht, daß die Gründung dieses Familienministeriums in der Öffentlich<lb break="no"/>keit noch mehr <choice><choice><sic>diskriminiert</sic><corr>diskreditiert?</corr></choice></choice> wird, als dies jetzt schon geschieht.<lb/>
+</p>
+            <p xml:space="preserve">Präs. <name type="person" ref="per:97688">Leberl</name> vom Patentamt meint, die INPADOC müßte jetzt zum Patent<lb break="no"/>amt kommen, der seinerzeitig beabsichtigte Gesetzesentwurf, der die<lb/>
+Lostrennung vom Finanzministerium vorgesehen hat, ist ja niemals in<lb/>
+der Legislaturperiode besprochen worden. Dr. <name type="person" ref="per:146932">Kraus</name>, der Gründer des VdU,<lb/>
+der als Nachbar vom Kaiserhaus, wo das Patentamt untergebracht ist,<lb/>
+guten Kontakt mit <name type="person" ref="per:97688">Leberl</name> hat, hätte ihm erklärt, Steger hätte ein großes<lb/>
+Interesse im Patentwesen. Angeblich gibt es sogar im Eco-Journal der<lb/>
+Presse vor etlichen Monaten ein Interview von <name type="person" ref="per:122970">Steger</name>, daß er einen<lb/>
+Staatssekretär für das Patentamt vorschlagen würde.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Wieso hat niemand bei uns dieses Eco-Journal<lb/>
+gesehen.<lb/>
+</p>
+            <p xml:space="preserve">Bis zum 20. Mai sind von den Inlandsreisen, 1,1 Mio. S Budgetansatz,<lb/>
+980.000 S freigegeben, 329.422 S, das sind 33,6 % genützt. Bei den<lb/>
+Auslandsdienstreisen von 1,418.000 ist alles freigegeben, 588.077<lb/>
+S, das sind 39,7 % genützt. Von den Repräsentationskosten, 440.000 S,<lb/>
+ist alles freigegeben, 86.300 S genützt, das sind 19 %. Die Budget<lb break="no"/>ansätze wurden also in diesen 3 wichtigen Fragen, insbesondere die Re<lb break="no"/>präsentationsausgaben, tief unterschritten. <name type="person" ref="per:122970">Steger</name> und <name type="person" ref="per:114075">Schmidt</name> haben<lb/>
+hier alle Möglichkeiten, die wahrscheinlich andere Ministerien, die<lb/>
+neu besetzt werden, keinesfalls so günstig übergeben werden. Auch von<lb/>
+dem streng verrechenbaren Pauschale von 4.900 S für den Monat Mai<lb/>
+werde ich 1.120 S aliquoten Anteil dem neuen Minister übergeben. Als<lb/>
+ich gekommen bin, wurde so exakt nicht abgerechnet. Das Handelsmini<lb break="no"/>steriumsbudget war damals sogar in einem sehr desolaten Zustand, die<lb/>
+BÜRGES mußte ja bekanntlicherweise unmittelbar vor der Amtsübergabe<lb/>
+von meinem Vorgänger Minister <name type="person" ref="per:97749">Mitterer</name> noch geschlossen werden.<lb/>
+</p>
+            <pb n="70-0652" facs="70_1983-05-20_0652.jpg"/>
+            <p xml:space="preserve">Ich weiß nicht, ob <name type="person" ref="per:122970">Steger</name> einen, wie man im Privatleben sagen würde,<lb/>
+Kassasturz verlangt. Ich habe seinerzeit darauf verzichtet, weil eine<lb/>
+solche Feststellung für alle Budgetdetails lange Zeit in Anspruch<lb/>
+genommen hätte. Durch die Fortschreitenden Ausgaben, die ja jeder<lb/>
+Minister gleich vom ersten Tag an bestätigen muß, wäre dann letzten<lb/>
+Endes eine solche exakte Feststellung jeder einzelnen Budgetpost<lb/>
+auch nicht sehr zielführend gewesen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Falls <name type="person" ref="per:122970">Steger</name> dies verlangt, bitte mir dann<lb/>
+Durchschrift geben.<lb/>
+</p>
+            <p xml:space="preserve">Auch das Kuratorium für den Fremdenverkehr, derzeit unter Führung von<lb/>
+Sektionschef <name type="person" ref="per:97584">Jagoda</name>, hatte das Bedürfnis sich bei mir zu bedanken.<lb/>
+Alle, Handelskammer, Gewerkschaften, Gemeinden, Ländervertreter,<lb/>
+strichen hervor, wie viel ich für den Fremdenverkehr getan hab und<lb/>
+wie gut es mit mir zu kooperieren war. Beeindruckend für mich ist<lb/>
+eine einzige Ziffer, die ich noch einmal zwar nicht exakt, aber in der<lb/>
+Tendenz feststellen konnte, es gab früher vor meinem Amtsantritt ca.<lb/>
+1.200 Fremdenverkehrsgemeinden, jetzt gibt es 1.600. Nicht nur die<lb/>
+Übernachtung ist gestiegen, sondern auch die Gemeinden, die sich die<lb break="no"/>ses Wirtschaftszweiges heute besonders annehmen.<lb/>
+</p>
+            <p xml:space="preserve">SC <name type="person" ref="per:97584">Jagoda</name> wollte vorher von mir die Zustimmung, ob ich nicht andeuten<lb/>
+sollte, daß ich ev. als geschäftsführender Obmann bei der ÖFVW verblei<lb break="no"/>ben könnte. Minister <name type="person" ref="per:122970">Steger</name> hat ja einen diesbezüglichen Wunsch<lb/>
+<name type="person" ref="per:97346">Benyas</name> sehr positiv aufgenommen und will es mit mir besprechen. Mit<lb/>
+Staatssekretär <name type="person" ref="per:114075">Schmidt</name>, <name type="person" ref="per:97584">Jagoda</name> und dem Sekretariat habe ich dieses<lb/>
+Problem angeschnitten, <name type="person" ref="per:108746">Haffner</name> hätte große Bedenken, weil er meint,<lb/>
+ich würde dann <name type="person" ref="per:122970">Steger</name> die Schwierigkeit der dortigen Geschäftsführung<lb/>
+abnehmen, würde die ganzen Probleme aus der Welt schaffen und <name type="person" ref="per:122970">Steger</name><lb/>
+könnte dann den Ruhm über die weitere gute Fremdenverkehrspolitik<lb/>
+ernten. Diese Sorgen habe ich am allerwenigsten. <name type="person" ref="per:97584">Jagoda</name> wieder wäre<lb/>
+äußerst glücklich, wenn ich die Funktion übernehme, weil er mich kennt<lb/>
+und weil er hofft, daß durch meine Geschäftsführung dort wirklich auch<lb/>
+für ihn viele Schwierigkeiten nicht auftreten würden. Ich selbst habe<lb/>
+mich zu gar nichts noch entschieden, sondern warte ab, wie mir es<lb/>
+Minister <name type="person" ref="per:122970">Steger</name> anbieten wird. Sollte es wirklich sein Wunsch sein,<lb/>
+würde ich diese ehrenamtliche Funktion nolens volens übernehmen.<lb/>
+Daß der Fremdenverkehr mein Hobby ist und war, ist ja allgemein bekannt,<lb/>
+ich ersuchte <name type="person" ref="per:97584">Jagoda</name>, unter gar keinen Umständen der anderen Seite auch<lb/>
+nur eine Andeutung zu machen, dieser Plan, der auf den Geschäftsführer<lb/>
+<name type="person" ref="per:111736">Zolles</name> zurückgeht, dürfte erst dann mit der Handelskammer und den<lb/>
+<pb n="70-0653" facs="70_1983-05-20_0653.jpg"/>Ländern verhandelt werden, bis er endgültig von <name type="person" ref="per:122970">Steger</name> entschieden<lb/>
+ist.<lb/>
+</p>
+            <p xml:space="preserve">Als sozusagen letzte offizielle Handlung habe ich dann noch der deutschen<lb/>
+Firma Züblin, einem Bauunternehmen, das jetzt insbesondere ein großes<lb/>
+Bauwerk für die Bulgaren am Naschmarkt aufführt, dort feierlichst<lb/>
+überreicht. Die Fa. Züblin ist heute mit über 300 Beschäftigten und<lb/>
+einem Umsatz von über 300 Mio. das Bauunternehmen, welches erst 73<lb/>
+von der Stuttgarter Mutterfirma gegründet wurde. Heute aber schon,<lb/>
+sagen die Deutschen selbst, führt das österreichische Zweigwerk Export<lb break="no"/>aufträge nicht nur in Bulgarien, Ungarn und in Italien aus, sondern<lb/>
+auch Teile in der BRD. U.a. haben sie <choice><choice><sic>die neue Wiener Reichsbrücke<lb/>
+Wettbewerb</sic><corr>den Wettbewerb zum Neubau der Wiener Reichsbrücke</corr></choice></choice> gewonnen und die Ausführung durchgeführt.<lb/>
+</p>
+            <p xml:space="preserve">Der bulgarische Botschafter, der selbstverständlich auch dort anwesend<lb/>
+war, wollte mit mir ein Abendessen vereinbaren, wo er auch den Vize<lb break="no"/>kanzler <name type="person" ref="per:122970">Steger</name> und Staatssekretär <name type="person" ref="per:114075">Schmidt</name> dazu geladen hätte. Ich<lb/>
+habe ihm sofort erklärt, daß diese Vorgangsweise überhaupt nicht<lb/>
+zielführend sein wird. Wenn er wirklich Wert darauf legt, daß ich<lb/>
+und dann auch noch sogar <name type="person" ref="per:122970">Steger</name> und <name type="person" ref="per:114075">Schmidt</name> kommen sollen, sollte er<lb/>
+die beiden einladen und fragen, ob sie einverstanden sind, ob ich ev.<lb/>
+auch an einem Mittagessen, nur ein solches kommt für mich infrage,<lb/>
+teilnehmen könnte. Vizekanzler <name type="person" ref="per:122970">Steger</name>, aber wahrscheinlich auch Staats<lb break="no"/>sekretär <name type="person" ref="per:114075">Schmidt</name> werden ja nach meinem Dafürhalten und aufgrund der<lb/>
+Erfahrung, die ich gemacht habe, eine solche Unzahl von Essenseinla<lb break="no"/>dungen bekommen, daß sie kaum an Abschiedsessen für den Handelsminister<lb/>
+<name type="person" ref="per:97985">Staribacher</name> großes Interesse entwickeln werden, eher das Gegenteil.<lb/>
+</p>
+            <p xml:space="preserve">So wie immer hatte ich dem Chauffeur für das Wochenende und ganz<lb/>
+besonders natürlich für die Pfingstfeiertage freigegeben. Ich war<lb/>
+daher sehr überrascht, daß der neue BMW gerade am Pfingstsonntag<lb/>
+dann ausgefallen ist, dies noch dazu in Weidlingbach, wo man kaum<lb/>
+öffentliche Verkehrsmittel zur Verfügung hat. Ich erinnerte mich<lb/>
+noch daran, daß, als ich das Ministerium vor 13 Jahren übernommen<lb/>
+habe, fast zur selben Zeit auch das damals mir übergebene<lb/>
+amerikanische Auto des Ministers <name type="person" ref="per:97749">Mitterer</name> auch gleich bei unserer<lb/>
+ersten Ausfahrt in Niederösterreich auf der Autobahn-Süd zusammen<lb break="no"/>gebrochen ist. Damals mußte mich, glaube ich, die Gendarmerie nach<lb/>
+Wien befördern. Am Anfang meiner Ministertätigkeit, am Ende meiner<lb/>
+Ministertätigkeit, der Zusammenbruch also der Dienstautos. Wenn<lb/>
+sonst allerdings während meiner ganzen Ministertätigkeit nicht<lb/>
+mehr passiert ist, soll es mir recht sein.<lb/>
+</p>
+            <pb n="70-0654" facs="70_1983-05-20_0654.jpg"/>
+            <p xml:space="preserve">Auf alle Fälle ist dies das letzte diktierte Tagebuch, was ich damit<lb/>
+anfangen werde, weiß ich nicht. Ursprünglich ist es handschriftlich<lb/>
+entstanden, weil ich in der Nacht nicht schlafen konnte. Jetzt habe<lb/>
+ich natürlich durch 13 Jahre diese Gewohnheit beibehalten. Froh bin<lb/>
+ich, wenn ich's dann nicht mehr abdiktieren muß. Fast könnte ich<lb/>
+sagen, die Ära <name type="person" ref="per:97668">Kreisky</name> ist zu Ende, daher auch meine. Viele behaupten,<lb/>
+daß es sich hier um ein zeitgeschichtliches Dokument handelt, von<lb/>
+ungeheurer Bedeutung. Diese Meinung teile ich keineswegs, sicherlich<lb/>
+sind die Aufzeichnungen ein Unikat, ob man damit etwas anfangen kann,<lb/>
+weiß ich nicht. Früher oder später wird sich vielleicht ein oder<lb/>
+der andere Historiker dafür interessieren. Die angeblich 15.000 DIN A4<lb/>
+schreibmaschingeschriebenen Seiten waren eine furchtbare Arbeit. Ich<lb/>
+habe sie in keiner einzigen Phase gerne gemacht. Morgens, wenn ich wach<lb/>
+wurde, habe ich immer geflucht. Ich habe sie hauptsächlich deshalb<lb/>
+geführt, um meinen Mitarbeitern die beste Informationsmöglichkeit<lb/>
+zu geben. Alle haben immer gesagt, sie brauchen diese Unterlagen<lb/>
+äußerst dringend. Meiner Aufforderung aber, sie sollen event. auch<lb/>
+so etwas als Ergänzung zumindestens schreiben, sind außer wirklich<lb/>
+sporadischen Bemerkungen, nur <name type="person" ref="per:123301">Vecsei</name> hat wenigstens ein bißchen mehr von<lb/>
+den Pressereferentengesprächen abdiktiert, sonst aber niemand nachge<lb break="no"/>kommen. Auch auf diesem Gebiet, bin ich drauf gekommen, es gibt keine<lb/>
+Teamarbeit, indem man sagt, ich informiere euch mit diesen Tagebuch-<lb/>
+Mitteilungen, bitte macht es auch ihr. Selbst <name type="person" ref="per:109808">Albrecht</name> sagte, sie hätte<lb/>
+nicht diese Ausdauer. Ich glaube aber, bei <name type="person" ref="per:109808">Albrecht</name> spielt noch mit,<lb/>
+daß sie als Journalistin nicht bereit war, so wie ich, ganz einfach<lb/>
+abzudiktieren und dann nicht einmal mehr durchlesen. Wenn man aber zu<lb/>
+korrigieren anfängt, dann bedeutet dies, daß man wesentlich mehr Ar<lb break="no"/>beit aufwenden muß. Wie denn auch sei, meine Funktion ist zu Ende,<lb/>
+damit auch diese Tätigkeit. Beides war sehr anstrengend, ich möchte<lb/>
+sie nicht wieder haben, andererseits möchte ich sie aber auch nicht<lb/>
+missen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR SEKRETARIAT: Herzlichsten Dank auch für die ungeheure<lb/>
+Schreibarbeit.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="70_0647_01" facs="70_1983-05-20_0647-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 20.5.1983</head>
+         </div>
+         <pb n="70_0647_02" facs="70_1983-05-20_0647-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+         <pb n="70_0654_01" facs="70_1983-05-20_0654-01.jpg"/>
+         <pb n="70_0654_02" facs="70_1983-05-20_0654-02.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Typoskript "Anstehende Probleme"</head>
+         </div>
+      </back>
+   </text>
+</TEI>

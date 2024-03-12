@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der 22. September 1978 bis Sonntag, der 24. September 1978</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band44_1978-09-22</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date from="1978-09-22" to="1978-09-24">Freitag, 22. September 1978 bis Sonntag, 24. September 1978</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2017-07-10">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="44-1067" facs="44_1978-09-22_1978-09-24_1067.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Freitag, 22. September bis Sonntag, 24. September 1978<lb/>
+</p>
+            <p xml:space="preserve">Direktor <name type="person" ref="per:110040">Nentwich</name>, GKT, ist von Ägypten extra zur Berichterstattung<lb/>
+nach Österreich gefahren. Bei der offiziellen Delegation bezüglich<lb/>
+Atomabfalllagerung gibt es seiner Meinung nach unüberwindbare<lb/>
+Schwierigkeiten. Die Ägypter stehen auf dem Standpunkt, dass im<lb/>
+Protokoll, welches <name type="person" ref="per:112982">Achmed Sultan</name> und ich unterzeichnet haben, nur<lb/>
+vom Abfall aus dem Kernkraftwerk Zwentendorf gesprochen wird.<lb/>
+Dies bedeutet, dass nur schwach und mittelaktiver, sowie abgebrannte<lb/>
+Brennelemente nach ihrer Meinung in Ägypten gelagert werden. Sie<lb/>
+weigern sich - und dies insbesondere der Staatssekretär im Ener<lb break="no"/>gieministerium <name type="person" ref="per:112982">Achmed Sultan</name> den Atommüll von der Wiederaufbereitung<lb/>
+in La Hague zu übernehmen. Herr <name type="person" ref="per:113105">Maculan</name> und Herr <name type="person" ref="per:116939">Matzel</name> von der<lb/>
+Firma Maculan, der in Ägypten die neu gegründete ägyptisch-österrei<lb break="no"/>chisch Baufirma vertritt und SChef <name type="person" ref="per:107937">Frank</name> am Vortag bereits infor<lb break="no"/>miert und meint diesen gegenüber, dass nicht optimal verhandelt<lb/>
+wird. <name type="person" ref="per:107937">Frank</name> teilt diese Meinung insbesondere im Bezug auf die Ver<lb break="no"/>handlungsfürhung <name type="person" ref="per:110040">Nentwichs</name> auch im Iran und verlangt eine Änderung<lb/>
+der Taktik. Herr <name type="person" ref="per:113105">Maculan</name> hat mit <name type="person" ref="per:112982">Sultan</name> ein Vieraugengespräch, wo<lb/>
+dieser angeblich erklärte, die abgebrannten Brennelemente können<lb/>
+selbstverständlich gelagert werden und auch der Atommüllrest von<lb/>
+La Hague wahrscheinlich ja. Staatssekratär <name type="person" ref="per:115001">Abaza</name> in seinem Mini<lb break="no"/>sterium sagt aber bei allen offiziellen Sitzungen dezidiert nein.<lb/>
+Ich gebe mich keiner Illusion hin, dass die weitere Entwicklung<lb/>
+ganz davon abhängen wird, wieweit sich <name type="person" ref="per:112982">Sultan</name> überhaupt in der<lb/>
+neuen Regierung wird durchsetzen können und wie weit Präsident<lb/>
+<name type="person" ref="per:112568">Sadat</name> hinter ihm steht. Im ägyptischen Parlament beginnt jetzt<lb/>
+die Antiatomgruppe immer stärker zu werden, die sich gegen eine<lb/>
+Lagerung in Ägypten wahrscheinlich ausspricht. Im Hinblick auf die<lb/>
+Friedenserfolge von <name type="person" ref="per:109804">Carter</name> ist zu hoffen, dass die amerikanische<lb/>
+Administration ihre bisherige negative Stellungnahme zur Lagerung<lb/>
+von Brennelementen, ja sogar von Atommüll in Ägypten revidiert.<lb/>
+Mir erschien bei dieser Aussprache nur wichtig darauf hinzuweisen<lb/>
+und durchzusetzen, dass die Verhandlungen nicht abgebrochen werden.<lb/>
+Andererseits natürlich kann man nicht die von <name type="person" ref="per:107937">Frank</name> immer wieder<lb/>
+geforderte sofortige geologische Untersuchung, selbst wenn diese<lb/>
+etliche Dutzend Millionen Schilling kosten sollte, beginnen,<lb/>
+solange nicht ein klareres Bild eine solche Entscheidung der Elektri<lb break="no"/>zitätswirtschaft auch erleichtert. <name type="person" ref="per:113105">Maculan</name> schlägt immer wieder vor,<lb/>
+<pb n="44-1068" facs="44_1978-09-22_1978-09-24_1068.jpg"/>man sollte so schnell als möglich einen Staatsvertrag zwischen<lb/>
+<name type="person" ref="per:112982">Sultan</name> und mir ausarbeiten und unterzeichnen. Da aber in diesem<lb/>
+Staatsvertrag sicherlich auch auch etwas über die 1 Mia Schil<lb break="no"/>ling Infrastrukturleistung, die die Elektrizitätswirtschaft<lb/>
+zusätzlich erbringen soll, stehen müsste, sehe ich für eine<lb/>
+schnelle Entscheidung derzeit keinen Weg. SChef <name type="person" ref="per:107937">Frank</name> wird<lb/>
+<name type="person" ref="per:110040">Nentwich</name> jetzt einen Brief an die Ägypter mitgeben.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Lass Dir die Briefabschrift vorlegen.<lb/>
+</p>
+            <p xml:space="preserve">In der DDR-Botschaft wurde als erstes der Briefwechsel zwischen<lb/>
+<name type="person" ref="per:97343">Beil</name> und mir unterfertigt, wo vorgeschlagen wird, unser Handels<lb break="no"/>und Zahlungsabkommen um 5 Jahre zu verlängern. Über diese Lösung<lb/>
+bin ich sehr zufrieden, denn eine neue Formulierung hätte sicherlich<lb/>
+ein langwieriges Verfahren mit den alten Streit über Vidierungs<lb break="no"/>fälle usw. ausgelöst.<lb/>
+</p>
+            <p xml:space="preserve">Die anschliessend durchgeführten Unterfertigungen von VOEST Alpine<lb/>
+mit den DDR-Direktoren bzw. dem Stahlwerk Ilsenburg war sicher<lb break="no"/>lich ein grosses Ereignis. Sowohl <name type="person" ref="per:114101">Mittag</name> als auch <name type="person" ref="per:97343">Beil</name> versicher<lb break="no"/>ten mir, dies sei in so kurzer Zeit nur möglich gewesen, weil sehr<lb/>
+grosses Vertrauen zwischen der DDR und der Voest besteht. Interessant<lb/>
+für mich war, dass <name type="person" ref="per:97343">Beil</name> auch bei der Pressekonferenz dann immer von<lb/>
+5 Mia Schilling Umfang sprach, während <name type="person" ref="per:97315">Apfalter</name> mir versicherte,<lb/>
+es seien nur 3 Mia, wovon 2 ungefähr auf österreichische Zulieferung<lb/>
+usw. entfallen. <name type="person" ref="per:97343">Beil</name> dürfte hier entweder noch weitere Lieferungen<lb/>
+in Aussicht nehmen, oder, was ich sehr glaube, aus propagandistischen<lb/>
+Gründen Doppelzählungen vornehmen. Da das Projekt in 40 Monaten<lb/>
+fertig sein soll, hat er vielleicht andere gleitende Werte als Grund<lb break="no"/>lage genommen. Als Gegengeschäft wird die VOEST in 7 Jahren metal<lb break="no"/>lurgische und Maschinen von der DDR importieren.<lb/>
+</p>
+            <p xml:space="preserve">Ein Plasmaschmelzverfahrenlizenz wurde ebenfalls unterfertigt.<lb/>
+<name type="person" ref="per:97315">Apfalter</name> sagte mir vertraulich, wenn es tatsächlich in Hinkunft<lb/>
+möglich sei, das Schmelzgut zu entfetten, dann könnte diese Technik<lb/>
+ähnlich der LD-Verfahren im nächsten Jahrtausend grosse Bedeutung<lb/>
+erlangen, weil der Stahl daraus äusserst rein ist. <name type="person" ref="per:97343">Beil</name> versicherte<lb/>
+mir unter 4 Augen, dass sie dieses Problem in der DDR bereits ge<lb break="no"/>löst haben. Ausser Amerika, wo sie allein den Vertrieb übernehmen,<lb/>
+<pb n="44-1069" facs="44_1978-09-22_1978-09-24_1069.jpg"/>wird die VOEST mit DDR-Lizenz weltweit diese neue Schmelz<lb break="no"/>technik vertreten.<lb/>
+</p>
+            <p xml:space="preserve">Für mich politisch und gegenüber der Handelskammer von grosser<lb/>
+Bedeutung war, dass tatsächlich auch bei dieser Gelegenheit von<lb/>
+der Firma Krause Verträge über Konsumgüterlieferungen 1979 abge<lb break="no"/>schlossen wurden. Im heurigen Jahr wird fast für 300 Mio Schilling<lb/>
+exportiert.<lb/>
+</p>
+            <p xml:space="preserve">In der Pressekonferenz im Hotel Bristol hat <name type="person" ref="per:97343">Beil</name> dann alle diese<lb/>
+Verträge besonders herausgestrichen, was ich voll verstehen kann.<lb/>
+Wichtig für mich war nur, meinerseits zu ergänzen, dass die Unken<lb break="no"/>rufe, es handelt sich bei Absichtserklärungen beim Besuch <name type="person" ref="per:97668">Kreiskys</name><lb/>
+in Berlin nur um eine Optik, mit diesen Abschlüssen endgültig wider<lb break="no"/>legt sind.<lb/>
+</p>
+            <p xml:space="preserve">Der neuerliche Messebesuch von mir mit Dr. <name type="person" ref="per:114101">Mittag</name> und <name type="person" ref="per:97343">Beil</name> war zeit<lb break="no"/>lich sehr begrenzt, weshalb wir nur den DDR-Pavillon, die Russen<lb/>
+und Bulgarien sowie interessanter Weise dann Simmering-Graz<lb break="no"/>Pauker besuchten. Der Gen.Dir. <name type="person" ref="per:116945">Kirchner</name> wies auf die mögliche Zusam<lb break="no"/>menarbeit besonders hin und versprach in absehbarer Zeit nach Berlin<lb/>
+zu kommen, um konkrete Verhandlungen zu führen. Überhaupt legt die<lb/>
+DDR natürlich sowie alle Staatshandelsländer grössten Wert darauf<lb/>
+die Verhandlungen auf höchster Ebene, mindestens Generaldirektor,<lb/>
+zu führen. Neu für mich war nur, dass sie auch Wert darauf legten,<lb/>
+dass ich daran teilnehmen soll. Solange dies in Österreich resp. in<lb/>
+Wien geschieht, habe ich dagegen gar nichts einzuwenden.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97343">Beil</name> hat mir neuerdings versichert, dass der Besuch <name type="person" ref="per:114101">Mittags</name> ein<lb/>
+voller Erfolg war. Die offizielle Jagd in Österreich ist nicht<lb/>
+aufgehoben, nur aufgeschoben. Diesmal war es beiden lieber streng<lb/>
+vertraulich bei VÖEST Alpine eine Hirschkuh und eine Gams zu schies<lb break="no"/>sen. Ich war sehr erstaunt, dass man dies unter strengster Vertrau<lb break="no"/>lichkeit, angeblich war nur der DDR-Botschafter informiert.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97343">Beil</name> hat mir bei der Fahrt zum Flughafen neuerdings versichert,<lb/>
+dass ich am besten erkenne die Bedeutung, die <name type="person" ref="per:114101">Mittag</name> heute hat. Dies<lb/>
+gilt nicht nur bezüglich seiner Stellung im Politbüro, sondern<lb/>
+wenn man die Alterszusammensetzung betrachtet, ist er doch um<lb/>
+<pb n="44-1070" facs="44_1978-09-22_1978-09-24_1070.jpg"/>10 bis 15 Jahre jünger und damit der kommende Mann, wenn die<lb/>
+älteren Genossen dann in Pension gehen. Da <name type="person" ref="per:114101">Mittag</name> bis jetzt,<lb/>
+wie ich erfahren konnte, im Winter immer nach Bulgarien Ski<lb break="no"/>fahren geht, habe ich <name type="person" ref="per:97343">Beil</name> vorgeschlagen, er soll ein Arrange<lb break="no"/>ment versuchen, dass er eventuell nach Österreich kommt. Ich<lb/>
+selbst habe ihn dann auch noch offiziell eingeladen. Am meisten<lb/>
+überrascht war ich aber bei dieser Fahrt von <name type="person" ref="per:97343">Beil</name> zu erfahren,<lb/>
+dass um 400 Mio Bauaufträge, z.B. für die Tankstellenbauten und<lb/>
+auch andere in der DDR von österreichischen Baufirmen übernommen<lb/>
+wurden. Davon hat niemand etwas gewusst.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Versuche zu klären, was hier die DDR-Handels<lb break="no"/>vertretung weiss.<lb/>
+</p>
+            <p xml:space="preserve">Auf der Fahrt nach Axams unterbrach ich, um mit <name type="person" ref="per:114508">Herbert Tieber</name><lb/>
+seine weitere Arbeitsmöglichkeit zu besprechen. <name type="person" ref="per:114508">Tieber</name> war sehr er<lb break="no"/>freut, dass sich seine Freunde in Wien mehr um ihn kümmern als die<lb/>
+in Tirol. Dir. <name type="person" ref="per:116951">Schneider</name> von der CA hat bereits mit ihm gesprochen<lb/>
+und er wird unmittelbar mit dem Jenbacher Direktor am Montag Kontakt<lb/>
+aufnehmen. Ich versicherte <name type="person" ref="per:114508">Tieber</name>, dass wenn es in Tirol wirklich<lb/>
+keine Möglichkeit gibt, Klubobmann <name type="person" ref="per:97444">Fischer</name> mir versprochen hat,<lb/>
+ihn in Wien entsprechend zu beschäftigen. Natürlich wäre <name type="person" ref="per:114508">Tieber</name><lb/>
+auch lieber, wenn er in Tirol bleiben könnte.<lb/>
+</p>
+            <p xml:space="preserve">Die Staatsbürgerversammlung in Axams war für dortige Verhältnisse<lb/>
+sicherlich gut besucht, in Verbindung mit der Innsbrucker Messe<lb/>
+für mich auch gar kein allzu grosser zusätzlicher Aufwand. Unangenehm<lb/>
+war nur, dass meine Stimme sich wesentlich verschlechterte und der<lb/>
+Rauch von den 2 Dutzend Teilnehmern unerträglich war. Der zu<lb break="no"/>ständige Bezirkssekretär <name type="person" ref="per:116974">Zörer</name>, Innsbruck Land, und vor allem der<lb/>
+Landtagsabgeordnete von Rum wollten unbedingt, dass ich zur Eröff<lb break="no"/>nung der Bekleidungsfirma Widudress zwischen 26. November und<lb/>
+6. Dezember nach Rum komme. Ich habe nichts Konkretes zugesagt, bin<lb/>
+aber eigentlich bereit, weil es angeblich für diese Genossen dort<lb/>
+von so grosser Bedeutung ist.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98072">WIESINGER</name>: Vielleicht können wir eine grössere Frem<lb break="no"/>denverkehrsauszeichnung, Betriebseröffnung usw. Arrangement machen.<lb/>
+</p>
+            <pb n="44-1071" facs="44_1978-09-22_1978-09-24_1071.jpg"/>
+            <p xml:space="preserve">Beim traditionellen Frühstück mit Landeshauptmann <name type="person" ref="per:98048">Wallnöfer</name> am<lb/>
+Samstag kam dieser zu meiner grössten Überraschung selbst auf<lb/>
+die Kraftwerksbauten Osttirol zu sprechen. Er meinte, wir müssten<lb/>
+uns jetzt so schnell als möglich einigen, damit man für die TIWAG<lb/>
+nach Ausbau im Kühtai gleich mit dem Baustab nach Osttirol über<lb break="no"/>siedeln könnte. Seiner Meinung nach sei die beste Lösung noch immer,<lb/>
+eine gemischte Gesellschaft zwischen TIWAG und Tauernkraftwerken<lb/>
+zu bilden. Auf diesen Vorschlag ging ich gar nicht mehr ein, denn<lb/>
+dies würde bedeuten, dass wir 50:50 eine neue Gesellschaft schaffen<lb/>
+müssten, herausgegangen aus der jetzigen Studiengesellschaft. Als<lb/>
+Gegenvorschlag wiederholte ich nur mein altes Angebot, die TIWAG resp.<lb/>
+das Land Tirol soll sich bei den Tauernkraftwerken stärker beteiligen,<lb/>
+mit all den Vorteilen, die ihr daraus erwachsen, ähnlich der KELAG<lb/>
+in der Draukraftwerk und Vorarlberg bei den Illwerken. <name type="person" ref="per:98048">Wallnöfer</name><lb/>
+sagte neuerdings zu, er wird dies mit seinen Leuten besprechen.<lb/>
+In nächster Zeit hat er eine Aussprache mit den Direktoren der<lb/>
+Tauernkraftwerke, die er ebenfalls abwarten will.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Messeeröffnung ist erstmalig auch Bundeskammerpräsident<lb/>
+<name type="person" ref="per:97893">Sallinger</name> zur Eröffnungsansprache eingeladen worden. Dadurch hat sich<lb/>
+die Rednerliste um einen noch verlängert und das hätte <name type="person" ref="per:97893">Sallinger</name><lb/>
+dann auch noch der Präsident der Handelskammer <name type="person" ref="per:116957">Menardi</name>, aber auch<lb/>
+Bürgermeister <name type="person" ref="per:114375">Lugger</name> haben unverhältnismässig lang gesprochen.<lb/>
+<name type="person" ref="per:116957">Menardi</name> deshalb, weil er die ganzen Wünsche und Kritiken der Frächter,<lb/>
+er selbst ist ja ein Autobusunternehmer, bei dieser Gelegenheit vor<lb break="no"/>trug. <name type="person" ref="per:97893">Sallinger</name>, weil er doch auf die offenen Fragen, insbesondere<lb/>
+auf die finanziellen Belastungen der Unternehmer ins Detail einging.<lb/>
+Natürlich kam er auf die Mittelstandsdiskussion zu sprechen. Fast<lb/>
+wie bestellt hat dann Bürgermeister <name type="person" ref="per:114375">Lugger</name> auch sich dieses Pro<lb break="no"/>blems angenommen, dort sofort erklärt, der Mittelstand<lb/>
+steht im Zentrum des Wirtschaftens, sowohl im Bereich der Produktion<lb/>
+oder des Konsumes. Andererseits aber gäbe es den sozialen Mittel<lb break="no"/>stand, der als Unselbständiger sich selbst einen gewissen Lebens<lb break="no"/>standard erarbeitet hat, also jedermann. Wer ja sagt zur Arbeit im<lb/>
+Interesse des Gemeinwesens gehört zum Mittelstand und man hüte sich,<lb/>
+diesen Begriff zu einem politischen Schlagwort zu machen. <name type="person" ref="per:98048">Wallnöfer</name><lb/>
+schlug vor – und er ist nicht einmal zum Rednerpult gegangen – nur<lb/>
+mehr infolge der fortgeschrittenen Zeit einige Bemerkungen zu machen.<lb/>
+Diesem Beispiel schloss ich mich natürlich sofort an, zur Freude aller<lb/>
+Zuhörer, wobei ich auf die wichtigsten Angriffe aber selbstverständ<lb break="no"/>lich einging. Bezüglich der Getränkesteuerbelastung, <name type="person" ref="per:97311">Androsch</name> hat<lb/>
+<pb n="44-1072" facs="44_1978-09-22_1978-09-24_1072.jpg"/>gemeint, die Unternehmer seien mit ihrer Kalkulation schuld für<lb/>
+die hohen <choice><choice><sic>extra</sic><corr>Extras?</corr></choice></choice>, verwies ich auf den jahrealten Vorschlag, man sollte<lb/>
+die Verrechnungsvereinfachung endlich konkreter besprechen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name> Lass Dir von <name type="person" ref="per:111367">Würzl</name> über die weitere Vorgangs<lb break="no"/>weise berichten.<lb/>
+</p>
+            <p xml:space="preserve">Das Statistische Zentralamt – so polemisierte auch <name type="person" ref="per:112216">Bassetti</name> – hätte<lb/>
+jetzt im Feber 78 eine Erhebung gemacht über die Fremdenzimmerbetten<lb break="no"/>qualität. Danach schneidet Tirol sehr schlecht ab und <name type="person" ref="per:112216">Bassetti</name> ver<lb break="no"/>langt daher mehr Förderungsmittel aus der Komfortzimmeraktion. Ich<lb/>
+versicherte, dass alle Ansuchen bis jetzt noch immer erfüllt wurden<lb/>
+und zwar in allen Bundesländern.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Lasse Dir bitte von dieser Erhebung eine Analyse<lb/>
+geben.<lb/>
+</p>
+            <p xml:space="preserve">Die Polemik zwischen <name type="person" ref="per:97893">Sallinger</name> und <name type="person" ref="per:114375">Lugger</name> über Mittelstand kam mir<lb/>
+gerade recht. Darauf ging ich selbstverständlich insoferne ein,<lb/>
+dass ich sehr gespannt sei, wie die Definition letzten Endes er<lb break="no"/>folgen wird und welche Vorschläge noch konkret kommen. Beim Rund<lb break="no"/>gang durch die Messe wurde mir dann ein Gemeinderat aus Innsbruck<lb/>
+vorgestellt, der eine Einmannfraktion, sogenannte Mittelstands<lb break="no"/>partei, ÖVP nahestehend, repräsentiert. Angeblich ist er vor längerer<lb/>
+Zeit schon inoffiziell von der ÖVP abgesprungen, um, wie man mir sagte,<lb/>
+auf der Mittelstandswelle nach oben zu schwimmen. Professor <name type="person" ref="per:111734">Andrae</name>,<lb/>
+der bei der Salzburger Mittelstandskongressdiskussion auch das grosse<lb/>
+Wort führte, fordert ich auf, jetzt endlich Klarheit in dieses Wirr<lb break="no"/>warr zu bringen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Dieses Durcheinander sollten wir eigentlich<lb/>
+nützen.<lb/>
+</p>
+            <p xml:space="preserve">Selbstverständlich gab es auch wieder eine Reihe von Interventionen.<lb/>
+Der Altbürgermeister <name type="person" ref="per:116959">Glas</name> von Seefeld intervenierte für das Hotel<lb/>
+Schöneck, Schwenninger, wo Verschuldung durch grosse entstandene<lb/>
+Kapitaldienstverpflichtungen. In der Diskussion mussten die Ver<lb break="no"/>treter des WIFI Tirol, aber auch der Handelskammer selbst zugeben,<lb/>
+dass dies primär dadurch entstanden ist, dass die zuständige Bank<lb/>
+<name type="person" ref="per:116975">Schwenninger</name> nicht auf die Zinszuschussaktionen aufmerksam gemacht<lb/>
+<pb n="44-1073" facs="44_1978-09-22_1978-09-24_1073.jpg"/>hat. Mir ist es vollkommen unerklärlich, wieso derartige Investi<lb break="no"/>tionen erfolgen konnten, ohne dass man sich der ERP-Mittel oder BÜRGES<lb/>
+oder sonstigen Aktionen bediente. Jetzt hofft man, dass ich aus den<lb/>
+Fremdenverkehrsonderkrediten irgendeine Umschuldung machen kann.<lb/>
+Ich habe nur zugesichert den Fall prüfen zu lassen und dann alle<lb/>
+Beteiligten zu verständigen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte versuche, ob wir eine Teillösung viel<lb break="no"/>leicht machen können.<lb/>
+</p>
+            <p xml:space="preserve">Die Schuhfabrik Neuner, Pfaffenhofen, Tirol, hofft mit Unterstützung<lb/>
+der Fachgewerkschaft, aber auch des Handelsministeriums eine Über<lb break="no"/>brückung zu bekommen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97819">PLESCH</name>: Bitte die Erledigung so schnell als möglich,<lb/>
+wie immer sie ausgeht, voranzutreiben.<lb/>
+</p>
+            <p xml:space="preserve">Die Gemeinde Zirl muss ihr Betonbecken vom Schwimmbad durch Nirosta<lb/>
+ersetzen. Unser Vertrauensmann <name type="person" ref="per:116976">Lothar Georg</name>, Franz-Platten-Str. 35d<lb/>
+in Zirl, ersucht um Unterstützung und ganz besonders um vorher<lb break="no"/>gehende Verständigung, bevor es offiziell positiv beschlossen wird.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Wie steht die Angelegenheit.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Staatsbürgerversammlung in Stumm, ursprünglich sollte eine<lb/>
+in Fügen stattfinden, hat man mir die Situation der Firma Rieser<add>(Herde)</add><lb/>
+geschildert. Die Belegschaftsvertreter waren sehr enttäuscht, dass<lb/>
+man sie so im Stich gelassen hat. Vorher hatte ich bereits bei der<lb/>
+Messebesichtigung mit <name type="person" ref="per:112216">Bassetti</name> und anderen ÖVP-Funktionären über<lb/>
+diesen Fall gesprochen. Für Rieser kommt jede Hilfe zu spät,<lb/>
+der Konkurs ist bereits angemeldet. Wegen fahrlässiger Krida ist<lb/>
+sogar nach Meinung der ÖVP-Tirol mit einer Anklage zu rechnen. Ich<lb/>
+habe dann sofort vorgeschlagen, dass ich bereit bin den Betrieb<lb/>
+zu besuchen. Dies hat grosse Begeisterung in der Versammlung ausgelöst.<lb/>
+Der Betrieb selbst ist vollkommen neu gebaut, sehr gut eingerichtet<lb/>
+und könnte die 50 cm Herde, die angeblich <name type="person" ref="per:115647">Heiß</name>, der die Norm von<lb/>
+60 cm hat, nicht erzeugt, entsprechend produzieren. Früher hat<lb/>
+Rieser, wie er mir mitteilte, von Elin entsprechende Aufträge ge<lb break="no"/>habt, jetzt hat Präs. <name type="person" ref="per:97581">Igler</name> entschieden, dass Elin wieder zu seinem<lb/>
+<pb n="44-1074" facs="44_1978-09-22_1978-09-24_1074.jpg"/>Freund <name type="person" ref="per:115647">Heiß</name> zurückgeht. Die AEG, welche im nächsten Jahr 15.000<lb/>
+Stück, wie <name type="person" ref="per:97521">Haselbrunner</name> mir mitteilte, bestellen würde, hat angeblich<lb/>
+diese Geräte jetzt nach Finnland zur grössten Zufriedenheit ver<lb break="no"/>kauft und auch in der Schweiz gäbe es Folgeaufträge. Die 68 Mann<lb/>
+Beschäftigten wurden aber gerade dieses Wochenende gekündigt. Für<lb/>
+die Gemeinde Stumm ist, wie der Bürgermeister mir versichert, dies<lb/>
+eine ausgesprochene Katastrophe. Allein, dass sich der Handels<lb break="no"/>minister um diese Frage annimmt hat grossen Beifall, sicherlich<lb/>
+aber auch grosse Hoffnungen ausgelöst. Ich erklärte zwar dezidiert<lb/>
+dass ich nichts versprechen kann, ausser dass ich mit AEG, Elin und<lb/>
+dem Sozialministerium in Verbindung setzen werde.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97819">PLESCH</name>: Bitte entsprechende Schritte unverzüglich<lb/>
+einleiten.<lb/>
+</p>
+            <p xml:space="preserve">Die Staatsbürgerversammlung in Schwaz, alle Tiroler haben scheinbar<lb/>
+so ungefähr immer 2 Dutzend Teilnehmer, hatte fast 3 Stunden ge<lb break="no"/>dauert, weil dort in sehr grossem Umfang das Atomproblem zur<lb/>
+Sprache kam. Die Genossen behaupteten, die 3 Atomgegner, die dort<lb/>
+dezidiert auftraten, seien nicht einmal aus Schwaz, was aber nur teil<lb break="no"/>weise zutraf. Wieder einmal konnte ich feststellen, wie ungeduldig<lb/>
+die anderen waren, wenn es zu Detaildiskussionen in dieser Frage<lb/>
+kommt. Dies ist meiner Meinung nach das Bedauerlichste bei allen<lb/>
+diesen Versammlungen und Aussprachen.<lb/>
+</p>
+            <p xml:space="preserve">Beim Frühstück mit dem albanischen Handelsminister <name type="person" ref="per:116961">Hodza</name> wurde von<lb/>
+seiner Seite neuerdings die Einladung an mich ausgesprochen. Der<lb/>
+Handelsumfang ist äusserst gering, wir exportieren um ca 42 Mio<lb/>
+Schillinge und importierten 76 für 77 und 77 für 92 Mio. Grössere<lb/>
+Möglichkeiten sieht <name type="person" ref="per:116961">Hodza</name> bei dem Import von elektrischer Energie.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Lass bitte Transitmöglichkeit über Jugos<lb break="no"/>lawien prüfen.<lb/>
+</p>
+            <p xml:space="preserve">Die Damenmodewocheneröffnung war wie im Vorjahr auch heuer wieder<lb/>
+durch kurze Ansprachen nur gekennzeichnet. Anschliessend daran<lb/>
+findet nämlich eine Modeschau statt und alles ist daran interessiert<lb/>
+und nicht an ellenlangen Ausführungen. Da Komm.Rat <name type="person" ref="per:116977">Elias</name> bei seiner<lb/>
+Ansprache schon darauf hinwies, dass das Weissbuch, welches die<lb/>
+Bekleidungsindustrie mir im Vorjahr angekündigt und übergeben hatte<lb/>
+und die darin enthaltenen Forderungspunkte zum grössten Teil erfüllt<lb/>
+sind, brauchte ich auf diese Problematik im Einzelnen nicht ein<lb break="no"/><pb n="44-1075" facs="44_1978-09-22_1978-09-24_1075.jpg"/>zugehen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97819">PLESCH</name> UND <name type="person" ref="per:108746">HAFFNER</name>: Was ist noch offen.<lb/>
+</p>
+            <p xml:space="preserve">Gen.Dir. <name type="person" ref="per:115005">Hintschig</name> von der Messe teilt mir mit, dass angeblich<lb/>
+die Wiener Messe gut abgeschnitten hat. Auch die Damenmodewoche<lb/>
+soll bereits am ersten Tag einen sehr guten Verlauf genommen haben.<lb/>
+Beim Rundgang haben mir die Unternehmer versichert, dass die<lb/>
+Situation sich wesentlich verbesserte. Seinerzeit hatte ich noch mit<lb/>
+unserem Messereferat vereinbart, dass nach Abschluss der Messen wir<lb/>
+eine kurze Information bekommen sollten, wie der Messeverlauf war.<lb/>
+Meistens allerdings war dies nicht anderes als ein Abklatsch der<lb/>
+offiziellen Kommentare der Messegesellschaft. Was mich aber in<lb break="no"/>teressiert hätte, wäre die tatsächliche nicht beschönigte Informa<lb break="no"/>tion gewesen, wie die Messeaussteller dies beurteilen. Da aber<lb/>
+selbst die schlechte oder unvollständige Information besser ist als<lb/>
+gar nichts, glaube ich, sollten wir von unserem Messereferat viel<lb break="no"/>leicht ergänzt durch Brancheninformationen doch eine kurze Zusammen<lb break="no"/>stellung der Messeerfolge in Wien und Innsbruck bekommen. Diese<lb/>
+Unterlagen könnte ich vielleicht dann bei der Grazer Herbstmesse<lb/>
+entsprechend verwenden.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Lass bitte etwas zusammenfragen und -tragen.<add>Müller wurde von mir bereits gestern beauftragt so etwas zu machen. [Paraphe Burian]</add><lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="44_1066_01" facs="44_1978-09-22_1978-09-24_1066-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 22.9.1978</head>
+         </div>
+         <pb n="44_1066_02" facs="44_1978-09-22_1978-09-24_1066-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+         <pb n="44_1066_03" facs="44_1978-09-22_1978-09-24_1066-03.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 23.9.1978</head>
+         </div>
+         <pb n="44_1066_04" facs="44_1978-09-22_1978-09-24_1066-04.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+         <pb n="44_1066_05" facs="44_1978-09-22_1978-09-24_1066-05.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 24.9.1978</head>
+         </div>
+      </back>
+   </text>
+</TEI>

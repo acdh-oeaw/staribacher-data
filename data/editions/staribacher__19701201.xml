@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstag, der  1. Dezember 1970</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band03_1970-12-01</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1970-12-01">Dienstag, 1. Dezember 1970</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-04-27">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-02-27" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+  <text xml:base="http://192.168.0.9/staribacher/src/scans/Band03/">
+      <body>
+         <pb n="03-0867" facs="03_1970-12-01_0867.jpg"/>
+         <div type="entry">
+            <dateline>
+               <date when="1970-12-01">Dienstag, 1. Dezember 1970</date>
+            </dateline>
+            <p xml:space="preserve">Im Ministerrat waren zwei sozialpolitische Gesetze, das Arbeits<lb break="no"/>zeitgesetz und das Urlaubsgesetz, das von <name type="person" ref="per:97769">Mussil</name> als absolut unakzep<lb break="no"/>tabel aufgefasst wird, vorgelegen. Das Arbeitszeitgesetz sollte – wie<lb/>
+der Bundesrat vorgeschlagen hat und das deshalb die Bundesregierung<lb/>
+einbringen muss – eine bereits vom Nationalrat abgelehnte Novelle<lb/>
+den 25 %-igen Überstundenzuschlag in einen gesetzlichen 50 %-igen <lb/>
+Überstundenzuschlag ändern. Im Urlaubsgesetz sollten die Urlaubs<lb break="no"/>bestimmungen der Angestellten auch auf die Urlaubsbestimmungen der<lb/>
+Arbeiter angewendet werden. <name type="person" ref="per:97769">Mussil</name> hat mir bei der Vorbesprechung<lb/>
+auf mein Exemplar mit roter Tinte draufgeschrieben EINSPRUCH ! Be<lb break="no"/>kanntlich hat er ja einmal erklärt, es würde die Bundeskammer, wenn<lb/>
+ich einen diesbezüglichen Einspruch machen würde, 8 Tage beflaggen.<lb/>
+In beiden Fällen konnte ich ihm aber nachweisen, dass dies Reaktionen<lb/>
+sind, die insbesondere auch die ÖVP verstehen müsste. Der 50 %-ige<lb/>
+Überstundenzuschlag – <name type="person" ref="per:97769">Mussil</name> sagte, dies sei nur ein Rachegesetz<lb break="no"/>entwurf – sollte der ÖVP zeigen, dass sie sich nicht ungestraft<lb/>
+bei der Überstundensteuerregelung mit der FPÖ verbündet hat. Bekant<lb break="no"/>lich hat damals der Handelskammerpräsident von Burgenland, <name type="person" ref="per:97486">Graf</name>,<lb/>
+den Antrag von <name type="person" ref="per:97807">Peter</name>, ohne dass er eigentlich mit der ÖVP besprochen<lb/>
+wurde, unterfertigt und damit diese seinerzeitige Überstundenregelung<lb/>
+herbeigeführt. Bei der Urlaubsregelung konnte ich sofort gegen <name type="person" ref="per:97769">Mussils</name><lb/>
+Ablehnung, dass er doch selbst mit dem Abgeordneten <name type="person" ref="per:97641"><sic>Kohlmeier</sic></name> vom<lb/>
+ÖAAB einen diesbezüglichen Initiativantrag eingebracht hat.Er fragte<lb/>
+mich, ob ich aber auch wüsste, dass dieser Initiativantrag ganz<lb/>
+andere Bestimmungen beinhaltet hatte. Ich kannte den Initiativantrag<lb/>
+nicht im Detail, konnte aber sofort darauf hinweisen, dass es auch<lb/>
+sich um Angleichung der Urlaubsbestimmungen der Arbeiter an die<lb/>
+Angestellten hält. Allerdings soll dies erst im Jahre 1975 in Kraft<lb/>
+treten. <name type="person" ref="per:97769">Mussil</name> meinte eben, dieser Zeitpunkt sei deshalb gewählt<lb/>
+worden, weil dann die Arbeitszeitverkürzung mit 40 Stunden abgeschlossen<lb/>
+sei. Ich glaube sogar, dass <name type="person" ref="per:97769">Mussil</name> diesem Initiativantrag deshalb zu<lb break="no"/>gestimmt hat, um optisch auch für die ÖVP auch eine bessere Start<lb break="no"/>situation zu schaffen. Vom Haus bekam ich noch von Dr. <name ref="per:98113" type="person">Zuser</name>, den<lb/>
+Referenten bei Frau MR <name type="person" ref="per:97381">Carmine</name>, derzeit allerdings im Krankenstand,<lb/>
+einen Vermerk, dass mit dieser gesetzlichen Regelung eine weitere<lb/>
+<pb n="03-0868" facs="03_1970-12-01_0868.jpg"/>Belastung der Unternehmer zu befürchten ist. Da die Stellungnahme<lb/>
+der Sektion II, d.h. des Min.Sekr. <name type="person">Zuser</name> in die Stellungnahme der<lb/>
+Abteilung Präs. C nicht aufgenommen wurde, hat mir die Abteilung II<lb/>
+diese Information auf direktem Wege zugemittelt. Es wäre ein Leichtes,<lb/>
+auf diese Information hin zu antworten, dass <name type="person" ref="per:97769">Mussil</name> als Generalsekre<lb break="no"/>tär der Bundeskammer einer ähnlichen Regelung ja sogar in einem<lb/>
+Initiativantrag zum Ausdruck gebracht hat, dass diese Entwicklung<lb/>
+kommen sollte. Trotzdem würde ich ein solches Vorgehen für voll<lb break="no"/>kommen falsch halten. Objektiverweise muss man zwischen dem General<lb break="no"/></p>
+            <p xml:space="preserve">sekretär der Bundeskammer und dem Politiker <name type="person" ref="per:97769">Mussil</name> unterscheiden.<lb/>
+Ich glaube sogar, dass er diesem Initiativantrag nicht nur aus<lb/>
+optischen Gründen zugestimmt hat, sondern vielleicht auch weil er<lb/>
+damit noch ärgeres beim ÖAAB-Antrag verhindern wollte. <name type="person" ref="per:97769">Mussil</name> be<lb break="no"/>findet sich eigentlich – so wie ich – derzeit in einer sehr unange<lb break="no"/>nehmen Situation. Ich als Gewerkschafter kann und will gar nicht<lb/>
+irgendwelche sozialpolitischen Initiativen hemmen, er als General<lb break="no"/>sekretär der Bundeskammer kann und will wahrscheinlich alle diese<lb/>
+Gesetze gar nicht, auch Initiativanträge nicht, und kann aber als<lb/>
+Politiker nicht zurück und muss hier mit dem ÖAAB- gewisse Initiativen</p>
+            <p xml:space="preserve">entwickeln. Wenn ich Zeit hätte, würde ich uns beide bedauern.</p>
+            <p xml:space="preserve">Die Bundesregierung beschloss im Hinblick auf die jetzt vom Land<lb break="no"/>wirtschaftsminister eingebrachten Marktordnungsgesetze-Novellen über<lb/>
+die ganzen Wirtschaftsgesetze mit der ÖVP und dann mit der FPÖ<lb/>
+Besprechungen aufzunehmen. Diese explorativen Gespräche sollen dazu<lb/>
+führen, ob und inwieweit eine Zustimmung zu erreichen ist. Alle<lb/>
+diese Bestimmungen müssten mit 2/3-Mehrheit gefasst werden. Ich bin<lb/>
+überzeugt, dass sich letzten Endes aus dieser Diskussion im Parlament<lb/>
+nur ergeben wird, die Gesetze unverändert auf einen gewissen Zeitraum<lb/>
+zu verlängern. <name type="person" ref="per:97668">Kreisky</name> selbst meinte, es könnte eine kurzfristige Ver<lb break="no"/>längerung nur in Frage kommen, d.h. wie in den Regierungsvorlagen<lb/>
+vorgesehen 1 Jahr. Seine Begründung finde ich sogar für sehr plausibel<lb/>
+er meint, unbefristet wäre eine solche Gesetzesänderung deshalb nicht<lb/>
+zu verlängern, da es sich um Verfassungsbestimmungen handelt und damit<lb/>
+eigentlich eine Verfassungsänderung durchgeführt wird.</p>
+            <pb n="03-0869" facs="03_1970-12-01_0869.jpg"/>
+            <p xml:space="preserve">Bei der Sektionsleiterbesprechung teilte <name type="person" ref="per:108322">Meisl</name> mit, dass<lb/>
+die Japaner unbedingt eine Verminderung der Negativ-Liste<lb/>
+wünschten. Derzeit haben wir noch 80 Positionen, die gegen<lb break="no"/>über Japan nicht liberalisiert sind und wenn die Japaner sich<lb/>
+bereiterklären, den Vertrag mit 1.1.1971 zu verlängern, so<lb/>
+wünschen sie, dass mindestens 20 Positionen aus der Negativ-<lb/>
+Liste gestrichen werden, damit das europäische Niveau erreicht<lb/>
+wird. Auf eine Wertigkeit der Positionen legen sie keinen Wert.<lb/>
+D.h. es liegt in unserem Ermessen, welche Positionen wir aus<lb/>
+dieser Liste streichen. Die Handelskammer hat einen diesbezüg<lb break="no"/>lichen Vorschlag bereits erhalten und wir erwarten von Dr. <name type="person" ref="per:134817">Gleihsner</name><lb/>
+die Stellungnahme. Hätte die Handelskammer zeitgerecht sich mit<lb/>
+diesem Problem beschäftigt, d,h ihre Vorschläge erstattet, dann<lb/>
+hätten wir im Rahmen der preisdämpfenden Massnahmen dies</p>
+            <p xml:space="preserve">gleichzeitig mit den Zollsenkungen und Ausgleichssteuersenkungen<lb/>
+mitteilen können. Ich glaube, wir müssen in Zukunft noch auf<lb/>
+eine richtigere Zeiteinteilung, d.h. auf das richtige Timing grösse<lb break="no"/>ren Wert legen. Sicherlich werden die Massnahmen alle mit 1.1.1971<lb/>
+in Kraft treten, ich glaube, wenn wir sie gleichzeitig alle<lb/>
+verlautbart hätten, dann hätte das einen besseren optischen Er<lb break="no"/>folg erzielt.</p>
+            <p xml:space="preserve">Bei einem Mittagessen der ÖGB für die OECD-Delegierten, die die<lb/>
+Einkommenspolitik studieren wollen, hatte ich Gelegenheit mit<lb/>
+März von der AK zu sprechen. Er teilte mir mit, dass die Arbeits<lb break="no"/>gruppe mittelfristige Prognose aufgelassen werden soll. <name type="person" ref="per:98060">Weissel</name><lb/>
+hat – wie er sich ausdrückt – nicht die genügend hochqualifizierten<lb/>
+Arbeitskräfte unserer Seite bekommen und deshalb dominiert die<lb/>
+Handelskammer bei dieser Arbeitsgruppe. Es wird auch Angeblich<lb/>
+überhaupt kein wesentlicher Fortschritt erzielt und deshalb ist<lb/>
+die Idee, die Arbeitsgruppe aufzulösen. Der Optik halber soll<lb/>
+es aber in der Form geschehen, dass die Arbeits<lb break="no"/>gruppe mit dem Fordinstitut verschmolzen wird. Es sollten Arbeiten<lb/>
+dem Fordinstitut übertragen werden und gleichzeitig dort<lb break="no"/>hin alle Unterlagen und bisherigen Ergebnisse geliefert werden.<lb/>
+Das Ganze wird dann Institutionalisierung der Arbeitsgruppe ge<lb break="no"/>nannt. Damit hat sich wieder bewiesen, dass auch intelligente<lb/>
+Menschen einer streng und hierarchisch gegliederten Führung be<lb break="no"/>dürfen. Der Glaube, dass intelligente Menschen, wenn sie ein<lb/>
+<pb n="03-0870" facs="03_1970-12-01_0870.jpg"/>Ziel vor Augen haben, dann zielstrebig das auch erreichen wollen,<lb/>
+hat sich als Irrglaube erwiesen.</p>
+            <p xml:space="preserve">Min.Rat <name type="person">Peschke</name> hatte den Stahlausschuss, eine Arbeitsgruppe des<lb/>
+Walzstahlbüros, ins Parlament gebracht. Die Herren erklärten<lb/>
+mir, dass sie an einer kontunierlichen Auslastung ihrer Betriebe<lb/>
+Interesse hätten. Ihrer Meinung nach sollte die Bundesregierung alles<lb/>
+daran setzen, dass die Bauwirtschaft kontinuierlich ihren Baustahl<lb/>
+abnimmt. Im heurigen Jahr hatten sie im ersten Halbjahr eine ungeheuer<lb/>
+schlechte Geschäftslage und im zweiten Halbjahr sollten sie dann die<lb/>
+Produktion des ersten und des zweiten Halbjahres produzieren und<lb/>
+liefern. Dies konnten sie natürlich nicht und haben deshalb grössere<lb/>
+Importe tätigen müssen. Diese Importe sind zeitweise höher gelesen<lb/>
+als ihre inländischen Preise. Sie glaubten deshalb, es wäre zielführend,<lb/>
+wenn die Umsatzausgleichsteuer in diesem Fall ermässigt, resp. erlassen<lb/>
+wird. Da die Stahlerzeuger eigentlich unter sich waren, denn die Alpine,<lb/>
+die z.B. auch Importe tätigte, ist normalerweise eine der grössten Pro<lb break="no"/>duzenten für diesen Baustahl, war diese Forderung glaube ich nicht<lb/>
+sehr ernst gemeint. Überhaupt konnte ich ihnen nur zusichern, dass<lb/>
+ihre Forderung auf Erhöhung und Kontrolle der Qualität unsere Unter<lb break="no"/>stützung finden wird. Die Bauwirtschaft, erklärte ich, sei nächstes<lb/>
+Jahr in den ersten neun Monaten bestens ausgelastet und sie könnten<lb/>
+deshalb ihre Produktion auf dieses Niveau aufbauen. Sie selbst beab<lb break="no"/>sichtigen ja um 17 % mehr zu erzeugen und wahrscheinlich 250.000 t<lb/>
+Baustahl zu liefern. Ich erklärte ihnen aber sofort, dass es eine<lb/>
+Garantie von Seiten des Ministeriums, dass sie mit garantierten Absatz<lb break="no"/>mengen zu rechnen hätten, nicht geben könnte. <name type="person" ref="per:98053">Wanke</name> hat recht gehabt,<lb/>
+dass es sich bei dieser Vorsprache des Stahlausschusses um nichts<lb/>
+anderes gehandelt hat, als um eine Gschaftelhuberei.</p>
+            <p xml:space="preserve">Der Betriebsrat der ÖFVW, wo ich automatisch Obmann bin, kam mit<lb/>
+dem Personalreferenten, um die Entwicklung und die derzeit ungute<lb/>
+Stimmung in dieser Institution mit mir zu besprechen. Sie stimmten<lb/>
+mir zu, als ich die schlechten Organisationsverhältnisse in dieser<lb/>
+Institution erwähnte. Ich hatte bekanntlich bei meiner ersten Aus<lb break="no"/>sprache mit der Geschäftsführung und seinen engsten Mitarbeitern<lb/>
+z.B. gleich an einen schwachen Punkt im Pressereferat feststellen<lb/>
+und nachweisen können, dass zwei Leute im Rang dem wirklichen Arbeiter<lb/>
+vorgelagert sind. Ich hatte damals, es war ein reinen Zufall, dass<lb/>
+<pb n="03-0871" facs="03_1970-12-01_0871.jpg"/>ich auf diesen schwachen Punkt gestossen bin, erklärt, man müsste<lb/>
+eben einen Organisationsplan erstellen, wo diese überschüssigen<lb/>
+Dienstposten und Dienststellen verschwinden sollten. Die Reorganisation<lb/>
+sollte aber ohne soziale Härte durchgeführt werden..Ich<lb/>
+brauchte deshalb dem Betriebsrat keine andere Erklärung abgeben als<lb/>
+ich sie auch damals dem Geschäftsführer und seinen Mitarbeitern ge<lb break="no"/>geben hatte. Ich weiss nicht , ob die Kollegin und die Kollegen sehr<lb/>
+begeistert waren von meinen Ausführungen auf alle Fälle aber erklärten<lb/>
+sie, dass sie über die offene Aussprache sehr erfreut sind. Sie hofften<lb/>
+auch, dass ich in weiterer Zukunft Gelegenheit geben werde, mit mir<lb/>
+über die Personalprobleme zu sprechen. Dies sicherte ich ihnen zu,<lb/>
+verwies aber darauf, dass in Hinkunft das Direktorium für die Geschäfts<lb break="no"/>führung und die Belegschaft die richtige Stelle sei, um diese Probleme<lb/>
+dort zu besprechen.</p>
+            <p xml:space="preserve">Im Nationalrat kamen dann auch die vom Handelsausschuss einstimmig<lb/>
+verabschiedeten Berichte im Plenum zur Behandlung. Ich hatte nicht<lb/>
+einmal die Unterlagen mit, da sich wahrscheinlich durch die ununterbrochene<lb/>
+Verschiebung der Termine mein Büro gar nicht mehr auskennt,<lb/>
+was eigentlich jetzt zur Debatte kommt. In Hinkunft werde ich doch in<lb/>
+dieser Frage einen genaueren Plan mit meinem Büro machen müssen.<lb/>
+Da es sich aber um Probleme handelt, die ich gegebenenfalls auch<lb/>
+aus dem Stegreif behandeln hätte können, hatte ich kein ungutes<lb/>
+Gefühl als ich auf der Regierungsbank sass. Es meldeten sich auch<lb/>
+keinerlei Diskussionsredner, nur beim letzten Punkt über den Bericht<lb/>
+des Mühlenfonds, benützt der Rauchfangkehrervertreter, und Klubordner<lb/>
+der ÖVP im Nationalrat, die Gelegenheit, in einem Debattenbeitrag zu<lb/>
+fragen, ob die sozialistische Minderheitsregierung bereit sei, ähnlich<lb/>
+wie beim Mühlenfonds den anderen Wirtschaftszweigen auch zu helfen.<lb/>
+Ich meldete mich sofort und erklärte, dass selbstverständlich auch<lb/>
+die sozialistische Regierung bereit sei, andere Vorschläge zu prüfen,<lb/>
+er wollte ja nur eine Prüfung haben, und verwies aber gleichzeitig<lb/>
+darauf, dass dieser Gesetzentwurf im vorparlamentarischen Raum von den<lb/>
+Interessenvertretungen vor 10 Jahren in allen Details ausgehandelt<lb/>
+wurde. Es waren daran nicht wie <name type="person" ref="per:138743">Mayr</name> erklärte, nur die Handelskammer<lb break="no"/>vertreter, der hat sie namentlich genannt, Komm.Rat <name type="person" ref="per:149301">Schaffer</name> und Dr.<lb/>
+<name type="person" ref="per:97967">Sob</name>, der Innungssekretär, beteiligt, sondern noch viele andere.</p>
+            <pb n="03-0872" facs="03_1970-12-01_0872.jpg"/>
+            <p xml:space="preserve">Der nächste Punkte behandelte eine Entschädigungsproblem für<lb/>
+die deutschen Flüchtlinge aus dem Osten, sogenanntes Kreuznacher<lb/>
+Übereinkommen, der Finanzminister war aber nicht im Saal und deshalb<lb/>
+blieb ich für ihn auf der Regierungsbank sitzen. <name type="person" ref="per:97706">Machunze</name> als erster<lb/>
+Redner, war darüber gar nicht glücklich, weil er sagte, er hätte<lb/>
+einige Fragen an den Finanzminister zu richten, die ich aber kaum<lb/>
+beantworten könnte, die ÖVP machte dabei einige sehr gute Zwischen<lb break="no"/>rufe und sagte: Staribacher, kann alles beantworten. Ich hätte mich<lb/>
+natürlich herausgewunden, indem ich erklärte dass dieses<lb/>
+Problem von der Bundesregierung neuerdings einer Prüfung unterzogen<lb/>
+wird oder sonstige irgendwelche Ausflüchte gebraucht. Finanzminister<lb/>
+<name type="person" ref="per:97311">Androsch</name> ist dann allerdings gerade zu diesem Zeitpunkt zeitgerecht<lb/>
+noch erschienen.</p>
+            <p xml:space="preserve">Nach den Abstimmungen konnte ich noch zur Bezirkskonferenz im dritten<lb/>
+Bezirk fahren. Bei dieser Bezirkskonferenz musste ich – bevor<lb/>
+<name type="person" ref="per:114117">Mayerhofer</name> das Budget der Gemeinde Wien erörterte, unseren Genos<lb break="no"/>sinnen und Genossen Rede und Antwort stehen über die Zeitungsmarkt<lb break="no"/>problematik. Dies war zwar in der Tagesordnung nicht vorgesehen,<lb/>
+aber ich glaube, dass ich unseren Vertrauensmännern eine diesbezüg<lb break="no"/>liche Erklärung schuldig sei. In der Diskussion kam auch noch<lb/>
+das Problem <name type="person" ref="per:97900">Sandner</name> sehr gehässig zur Sprache. In meinem<lb/>
+Schlusswort wurde ich sogar durch Beifall unterbrochen als ich<lb/>
+den Grundsatz erklärte, die Sozialisten mischen sich nicht in das<lb/>
+Privatleben, das ist eine persönliche Angelegenheit.</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="03_0866_01" facs="03_1970-12-01_0866-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 1.12.1970</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="03_0872_01" facs="03_1970-12-01_0872-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesordnung 32. Ministerratssitzung, 1.12.1970</head>
+            <gap reason="sampling"/>
+            <pb n="03_0872_02" facs="03_1970-12-01_0872-02.jpg"/>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="03_0872_03" facs="03_1970-12-01_0872-03.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Information Sekt. II zu TOP 15, 30.11.1970</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="03_0872_04" facs="03_1970-12-01_0872-04.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Vortrag BKA an die Bundesregierung betr. Arbeitszeitgesetz, 26.11.1970</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="03_0872_05" facs="03_1970-12-01_0872-05.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Vortrag an die Bundesregierung betr. Arbeitszeitgesetz, 26.11.1970: Antrag</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="03_0872_06" facs="03_1970-12-01_0872-06.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Gesetzesantrag des Bundesrates betr. Arbeitszeitgesetz, 19.11.1970</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="03_0872_07" facs="03_1970-12-01_0872-07.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Vortrag Sozialministerium an den Ministerrat betr. Urlaubsvorschriften, 26.11.1970</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="03_0872_08" facs="03_1970-12-01_0872-08.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Gesetzentwurf betr. Urlaubsvorschriften</head>
+            <gap reason="sampling"/>
+            <pb n="03_0872_09" facs="03_1970-12-01_0872-09.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="03_0872_10" facs="03_1970-12-01_0872-10.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="03_0872_11" facs="03_1970-12-01_0872-11.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="03_0872_12" facs="03_1970-12-01_0872-12.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="03_0872_13" facs="03_1970-12-01_0872-13.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="03_0872_14" facs="03_1970-12-01_0872-14.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="03_0872_15" facs="03_1970-12-01_0872-15.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="03_0872_16" facs="03_1970-12-01_0872-16.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="03_0872_17" facs="03_1970-12-01_0872-17.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="03_0872_18" facs="03_1970-12-01_0872-18.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="03_0872_19" facs="03_1970-12-01_0872-19.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="03_0872_20" facs="03_1970-12-01_0872-20.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="03_0872_21" facs="03_1970-12-01_0872-21.jpg"/>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="03_0872_22" facs="03_1970-12-01_0872-22.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Gesetzentwurf betr. Urlaubsvorschriften: Erläuterungen</head>
+            <gap reason="sampling"/>
+            <pb n="03_0872_23" facs="03_1970-12-01_0872-23.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="03_0872_24" facs="03_1970-12-01_0872-24.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="03_0872_25" facs="03_1970-12-01_0872-25.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="03_0872_26" facs="03_1970-12-01_0872-26.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="03_0872_27" facs="03_1970-12-01_0872-27.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="03_0872_28" facs="03_1970-12-01_0872-28.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="03_0872_29" facs="03_1970-12-01_0872-29.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="03_0872_30" facs="03_1970-12-01_0872-30.jpg"/>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="03_0872_31" facs="03_1970-12-01_0872-31.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Gesetzentwurf betr. Urlaubsvorschriften: Gegenüberstellung GF</head>
+            <gap reason="sampling"/>
+            <pb n="03_0872_32" facs="03_1970-12-01_0872-32.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="03_0872_33" facs="03_1970-12-01_0872-33.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="03_0872_34" facs="03_1970-12-01_0872-34.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="03_0872_35" facs="03_1970-12-01_0872-35.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="03_0872_36" facs="03_1970-12-01_0872-36.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="03_0872_37" facs="03_1970-12-01_0872-37.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="03_0872_38" facs="03_1970-12-01_0872-38.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="03_0872_39" facs="03_1970-12-01_0872-39.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="03_0872_40" facs="03_1970-12-01_0872-40.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="03_0872_41" facs="03_1970-12-01_0872-41.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="03_0872_42" facs="03_1970-12-01_0872-42.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="03_0872_43" facs="03_1970-12-01_0872-43.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="03_0872_44" facs="03_1970-12-01_0872-44.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="03_0872_45" facs="03_1970-12-01_0872-45.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="03_0872_46" facs="03_1970-12-01_0872-46.jpg"/>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="03_0872_47" facs="03_1970-12-01_0872-47.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Nachtrag TO 32. Ministerratssitzung betr. ORF</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="03_0872_48" facs="03_1970-12-01_0872-48.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesordnung 32. Ministerratssitzung, 1.12.1970: Fortsetzung</head>
+            <gap reason="sampling"/>
+            <pb n="03_0872_49" facs="03_1970-12-01_0872-49.jpg"/>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+  </text>
+</TEI>

@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstag, der  5. Oktober 1971</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band07_1971-10-05</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1971-10-05">Dienstag, 5. Oktober 1971</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-08-21">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="07-1147" facs="07_1971-10-05_1147.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Dienstag, 5. Oktober 1971<lb/>
+</p>
+            <p xml:space="preserve">Vor der Ministerratssitzung fragte ich <name type="person" ref="per:97488">Gratz</name>, warum er eigentlich<lb/>
+bei der Camera obscura zugesagt hat, eine Diskussion zu führen, da<lb/>
+dies doch wirklich ein sehr obskures Lokal sei und kaum eine seriöse<lb/>
+Diskussion zustandekommen könnte. Nur weil der Rundfunk erklärte, dort<lb/>
+Aufnahmen zu machen – der Rundfunk möchte nämlich immer womöglich<lb/>
+von Sensationsstätten Sensationsberichte und Sensationsreportagen –<lb/>
+kann doch kein Grund sein, dass wir uns als Politiker uns immer tiefere<lb/>
+Niveaus für unsere Arbeit einlassen. Zu meiner grössten Verwunderung<lb/>
+erklärte <name type="person" ref="per:97488">Gratz</name>, dass er niemals zugesagt hatte, dort zu diskutieren<lb/>
+und auch gar nicht ersucht hatte, dass ich ihn dort vertreten sollte.<lb/>
+Er hätte deshalb von vornherein abgelehnt an einer solchen Diskussion<lb/>
+teilzunehmen und könne sich nicht erklären, wieso sein Sekretär <name type="person" ref="per:97543">Heindl</name><lb/>
+aufgefordert hat, mich als Ersatz als Diskussionsteilnehmer zu ersuchen.<lb/>
+<name type="person" ref="per:137392">Grachegg</name> der Besitzer dieses obskuren Lokals soll ohne Zustimmung <name type="person" ref="per:97488">Gratz's</name><lb/>
+ihn auf die Diskussionsliste gesetzt haben. <name type="person" ref="per:97488">Gratz</name> hat deshalb nicht<lb/>
+abgesagt, weil <name type="person" ref="per:137393">Furzewa</name> allein zu diesem Zeitpunkt bereits in Wien war<lb/>
+und er mit ihr bereits Gespräche bis nach Mitternacht führte, sondern<lb/>
+weil er eben darüber hinaus genau derselben Meinung wie ich war, dass<lb/>
+wir in einem solchen Lokal eigentlich keinesfalls sinnvoll eine Diskussion<lb/>
+mit anderen Parteivertretern führen sollten. In der Löwelstrasse hat aller<lb break="no"/>dings <name type="person" ref="per:97646">Koppe</name> gehört, dass man gesagt hat, jetzt würde <name type="person" ref="per:97488">Gratz</name> auch nicht<lb/>
+in die Kamera obscura gehen können. Auch die nähere Amtskollegin von<lb/>
+<name type="person" ref="per:97488">Gratz</name>, <name type="person" ref="per:97442">Hertha Firnberg</name>, wurde gefragt, ob sie bereit wäre, diese Dis<lb break="no"/>kussion dort zu führen, lehnte aber ab. Mit einem Wort, ich hatte wieder<lb/>
+einmal als Notnagel – was mir gar nichts ausmacht – aushelfen müssen,<lb/>
+werde aber in Hinkunft doch den Rat von <name type="person" ref="per:98053">Wanke</name>, der meint, die Politiker<lb/>
+sollten sich nicht so erniedrigen, mehr berücksichtigen.<lb/>
+</p>
+            <p xml:space="preserve">Im Ministerrat wurde die Tagesordnung verhältnismässig sehr schnell<lb/>
+erledigt. <name type="person" ref="per:97668">Kreisky</name> und <name type="person" ref="per:97311">Androsch</name> kamen ein bisschen zu spät und deshalb<lb/>
+hatte ich anschliessend nicht mehr sehr viel Zeit, mit <name type="person" ref="per:97311">Androsch</name> über das<lb/>
+Problem des gewünschten Arbeitskreises wegen der Schillingfakturierung<lb/>
+in der Handelskammer zu sprechen. <name type="person" ref="per:97311">Androsch</name> teilte mir mit, dass über<lb/>
+diesen Wunsch er bereits mit <name type="person" ref="per:97769">Mussil</name> geredet hatte und diesen Vorschlag<lb/>
+glattweg abgelehnt hat. Mein Hinweis, dass eine Arbeitsgruppe bei<lb/>
+uns eigentlich existiert und wir mit<add>[Fehlstelle, Anm.]</add> einig sind und mit wechseln<lb break="no"/>dem Vorsitz dieses Problem in Hinkunft bearbeiten könnten, hat er nach<lb/>
+<pb n="07-1148" facs="07_1971-10-05_1148.jpg"/>kurzem Nachdenken gemeint, das sei eine ausschliesslich Kom<lb break="no"/>petenz des Finanzministers. Ich weiss nicht, wie weit hier aus<lb break="no"/>schliesslich die Kompetenzfrage bei ihm eine Rolle spielte,<lb/>
+oder ob er nicht ebenso wie <name type="person" ref="per:97668">Kreisky</name> auch der Meinung ist, dass<lb/>
+hier die Gewerkschaftsseite eine weitere Stärkung der Position<lb/>
+innerhalb der Regierung erreichen möchte. Ich kann mir sehr gut<lb/>
+vorstellen, dass er schon von seinen Leuten gehört hat, dass ich<lb/>
+erklärt habe, dass der Gewerkschaftsbund wahrscheinlich mit seinen<lb/>
+Forderungen über die Lohnsteuersenkung durchdringen wird, was man –<lb/>
+was mir jetzt erst eingeht – womöglich auch als eine Attacke gegen<lb/>
+<name type="person" ref="per:97668">Kreisky</name> und seine Politik auffassen könnte. Ich hatte auf eine An<lb break="no"/>frage von Journalisten – wie ich mich zu der Forderung des Gewerk<lb break="no"/>schaftsbundes stelle, die Steuerprogression 1972 bereits zu mildern,<lb/>
+gegen die der Finanzminister auftrat und wo <name type="person" ref="per:97668">Kreisky</name> erklärte, er<lb/>
+würde vermitteln – eindeutig auf die Seite des Gewerkschaftsbundes<lb/>
+gestellt. Ich kann mir sehr gut vorstellen, dass das jetzt in der<lb/>
+Kombination Gewerkschafter gegen <name type="person" ref="per:97668">Kreisky</name> auch eine Rolle spielt.<lb/>
+Da am Sonntag ja bereits die Wahlen sind, halte ich es auch<lb/>
+nicht für sehr sinnvoll, wenn man jetzt eine Aussprache über alle<lb/>
+diese Probleme noch herbeiführt. Selbst wenn alles bereinigt werden<lb/>
+könnte, hat es für den Wahlausgang und für unsere Propaganda bis dort<lb break="no"/>hin kaum mehr eine Wirkung. Das Schlimme wird werden, dass nach<lb/>
+Beendigung der Wahl – wie immer sie ausgeht – man erklären wird,<lb/>
+hätte all diese Politik der Gewerkschaftsvertreter nicht statt<lb break="no"/>gefunden, dann wäre der Sieg noch grösser geworden oder ich<lb/>
+weiss nicht, was man sonst noch alles behaupten wird. Damit<lb/>
+fürchte ich, wird die gute Zusammenarbeit, die bis jetzt für<lb/>
+mich ein Wunder war, die in eineinhalb Jahren zu keiner einzigen<lb/>
+Auseinandersetzung geführt hatte, wahrscheinlich mit einer schweren<lb/>
+Hypothek belastet werden.<lb/>
+</p>
+            <p xml:space="preserve">Bei <name type="person" ref="per:97893">Sallinger</name> die Besprechung wegen Importstoss war reichlichst von<lb/>
+anderer Seite beschickt. Es kam ausser Gen.Sekr. <name type="person" ref="per:97769">Mussil</name> noch der<lb/>
+Präsident der Industriellenvereinigung <name type="person" ref="per:97733">Mayer-Gunthof</name>, dessen<lb/>
+Aussenhandelsfachmann Dr. <name type="person" ref="per:97725">Marquet</name>, von der Bundeskammer Dr. <name type="person" ref="per:97474">Gleissner</name><lb/>
+und Dr. <name type="person" ref="per:127889">Koch</name>. Ich war sehr froh, dass ich wenigstens <name type="person" ref="per:98053">Wanke</name> ersucht<lb/>
+hatte, zu dieser Besprechung mitzukommen. <name type="person" ref="per:97769">Mussil</name> schaltete ganz<lb/>
+sichtbar auf stur und wollte unter allen Umständen jedwede Kon<lb break="no"/>zession vermeiden. Er erklärte, er könne sich jetzt nicht präju<lb break="no"/><pb n="07-1149" facs="07_1971-10-05_1149.jpg"/>dizieren und müsse erst nach einem Präsidiumsbeschluss auch mit<lb/>
+den Fachverbänden in entsprechende Verhandlungen eintreten. Die<lb/>
+Fachverbände würden einer Kontingenterhöhung unter gar keinen Um<lb break="no"/>ständen zustimmen, die Bundeshandelskammer müsste aus handelspoliti<lb break="no"/>schen Gründen die jetzt beginnenden Verhandlungen mit der CSSR, Ungarn<lb/>
+und Bulgarien diese Möglichkeit der Kontingenterhöhungen zu handels<lb break="no"/>politischem Tauschobjekt zu machen, wahren. In Wirklichkeit ging es<lb/>
+ihm glaube ich primär darum, ob es nicht doch noch zu einem Krach<lb/>
+kommen würde, wenn er nicht einmal bereit wäre, ein nichtssagenden<lb/>
+Kommunique gemeinsam mit uns zu verfassen. Dabei war gar nicht<lb/>
+ursprünglich daran gedacht, dass dieses Kommunique von der Handels<lb break="no"/>kammer herausgegeben würde, sondern wirklich nur ein mit ihrer Zustim<lb break="no"/>mung von mir herausgegebenen Presseverlautbarung herauskommen sollte.<lb/>
+<name type="person" ref="per:97893">Sallinger</name> war sichtbar bemüht eine Lösung zu finden und <name type="person" ref="per:97733">Mayer-Gunthof</name><lb/>
+war erschüttert, dass ich mich nicht hier an die seinerzeitige Ver<lb break="no"/>pflichtung halten wollte, wonach eine Verlängerung über den 1. Oktober<lb/>
+hinaus nicht in Frage kommt. Immer wieder darauf hingewiesen, ich<lb/>
+hätte mein Wort gegeben und nun würden sie mich als wortbrüchig<lb/>
+betrachten müssen und auch in der Propaganda so hinstellen. Wäre<lb/>
+es in dieser Sache nur ein bisschen mehr um materiellen Vorteil<lb/>
+für unsere Politik gegangen, so hätte ich liebend gerne durchgezogen,<lb/>
+um diese harte Haltung von <name type="person" ref="per:97769">Mussil</name> und damit natürlich auch der BHK<lb/>
+zu konterkarieren. Wenn mehr materielle Substanz in dieser Angelegenheit<lb/>
+drinnen gewesen wäre, hätte ich liebend gern mehr Prestigedenken in<lb/>
+dieser Frage gezeigt und mich über den Einspruch der BHK hinweggesetzt.<lb/>
+Geärgert hat mich nämlich die Haltung von <name type="person" ref="per:97769">Mussil</name> sehr. <name type="person" ref="per:127889">Koch</name> hat näm<lb break="no"/>lich <name type="person" ref="per:108322">Meisl</name> erklärt, dass <name type="person" ref="per:97769">Mussil</name> nicht einmal einen Beistrich zugeste<lb break="no"/>hen kann. Auch <name type="person" ref="per:97676">Tommy Lachs</name>, der mich angerufen hat, hat mir mitgeteilt<lb/>
+dass <name type="person" ref="per:97474">Gleissner</name> ihn beschwörend gebeten hat, er möge bei mir intervenie<lb break="no"/>ren, dass man nicht wegen dieser Sache in einen schweren handelspoliti<lb break="no"/>schen Nachteil kommt. Die Beamten auf der anderen Seite waren also<sic>lebhaftigst</sic> bemüht, einen Ausgleich zu finden, während <name type="person" ref="per:97769">Mussil</name><lb/>
+auf vollkommen stur schaltete. Aus einer Bemerkung von <name type="person" ref="per:97769">Mussil</name>, wann denn<lb/>
+endlich der Lebenshaltungskostenindex veröffentlicht wird, der längst<lb/>
+heraussen sein müsste, konnte ich entnehmen, dass er unbedingt noch<lb/>
+eine Hetzkampagne starten will, wobei natürlich dann eine von ihm<lb/>
+zugestandene Einfuhrliberalisierung als ein in den Rückenfallen von<lb/>
+der Partei aufgefasst werden könnte. Geendet hat diese Besprechung<lb/>
+<pb n="07-1150" facs="07_1971-10-05_1150.jpg"/>der noch ins Waldviertel fahren müsste und auch ich zu Herzmansky<lb/>
+und Gerngross besuchen musste, dass wir ein Komitee einsetzten, das<lb/>
+eine Formulierung versuchten sollte. Diese Formulierung kam auch<lb/>
+dann bei einer Besprechung zwischen <name type="person" ref="per:98053">Wanke</name>, <name type="person" ref="per:97474">Gleissner</name>, <name type="person" ref="per:127889">Koch</name> und<lb/>
+<name type="person" ref="per:97646">Koppe</name> zustande und wurde von beiden Präsidenten der Handelskammer<lb/>
+und mir auch genehmigt. <name type="person" ref="per:97646">Koppe</name> versuchte dann noch diese magere<lb/>
+Suppe ein bisschen aufzufetten, indem er sich ans Telefon hing und<lb/>
+die Redaktionen informierte.<lb/>
+</p>
+            <p xml:space="preserve">Bei dem Besuch im Kaufhaus Herzmansky und Gerngross konnte ich<lb/>
+feststellen, dass ein Direktor erklärte, er hätte eigentlich Minister<lb/>
+<name type="person" ref="per:97311">Androsch</name> erwartet, mit dem er über die Neidsteuer diskutieren wollte.<lb/>
+Ich erklärte, dass ich zwar nicht kompetenzmässig zuständig sei,<lb/>
+aber mit ihm natürlich auch bereit bin, mit ihm dieses Problem<lb/>
+zu besprechen. Der Direktor führte aus, dass ihm damals sehr im<lb break="no"/>poniert hat, dass die Arbeiterbetriebsräte gegen die Erhöhung<lb/>
+der Umsatzsteuer von 5,5 % auf 6,1 % für Unternehmen, die mehr als<lb/>
+20 Mill. S Umsatz haben beim sozialistischen Klub heftigst dagegen<lb/>
+protestiert haben. Da die SPÖ in der Opposition war, hat sie auch<lb/>
+diese Neidsteuer abgelehnt. Er möchte <choice><choice><sic>nu</sic><corr>nun?</corr></choice></choice> sehr gerne wissen, ob die<lb/>
+Sozialisten bereit wären, jetzt diese 6,1 % wieder auf 5,5 % <choice><choice><sic>f</sic><corr>für?</corr></choice></choice><lb/>
+die Grosskaufhäuser und sonstige grosse Umsatzhandelsbetriebe zurückzu<lb break="no"/>führen. Ich erklärte sofort, dies würde ja mit der Einführung der<lb/>
+Mehrwertsteuer endgültig gelöst sein, eine andere Zusage hätte wo<lb break="no"/>möglich noch im Wahlkampf verlautbart von Seiten der Firmen oder<lb/>
+unterschwellig den Zeitungen mitgeteilt werden, dass erstens <name type="person" ref="per:97311">Androsch</name><lb/>
+womöglich wegen Kompetenzüberschreitung wieder eingeschnappt wäre<lb/>
+aber zweitens vor allem einmal unsere Handelsleute womöglich dann noch<lb/>
+erklärt hätten, dass auch der Freie Wirtschaftsverband durch ein<lb/>
+solches Verhalten geschädigt wird, denn selbstverständlich sind<lb/>
+die Kleinbetriebe hier der Meinung, dass endlich ein ganz kleiner<lb/>
+Konkurrenzvorteil für sie besteht, was mich ja gewundert hat, war<lb/>
+nur, dass ich dadurch erfahren habe, dass ich auch hier nur als<lb/>
+Notnagel eingesetzt wurde.<lb/>
+</p>
+            <p xml:space="preserve">Im Kautsky-Kreis erläuterte <name type="person" ref="per:97627">Heinz Kienzl</name> sein neues Ideologie-Konzept<lb/>
+der Soz. Partei. Er hat einige ganz interessante Punkte drinnen und<lb/>
+die Diskussion ergab, dass wirklich selbst in diesem Kreis die Auf<lb break="no"/>fassung der Ziele und vor allem einmal der Ideologie der SPÖ ganz<lb/>
+verschieden aufgefasst wird. Ich betrachte es als sehr erfreulich,<lb/>
+<pb n="07-1151" facs="07_1971-10-05_1151.jpg"/>dass wir so viele verschiedene Meinung von einer Gruppe, die doch<lb/>
+ideologisch zumindestens gefühlsmässig sehr eng liiert ist, dies<lb/>
+zeigt mir klar und deutlich, wie schwierig es sein müsste, eine einheit<lb break="no"/>liche Meinung in unserer Partei in dieser Frage zu erreichen. Allerdings<lb/>
+glaube ich, dass eine solche gar nicht angestrebt werden soll. Rede-<lb/>
+und Gedankenfreiheit erscheint mir als das wichtigste Element inner<lb break="no"/>halb unserer Partei. Eine Disziplin soll und muss es nur in der<lb/>
+Organisatorischen Frage resp. in eventuell gefassten Beschlüssen,<lb/>
+die dann absolut von jedem eingehalten werden müssen, geben.<lb/>
+</p>
+            <p xml:space="preserve">In der Ausschussitzung im dritten Bezirk kam nach meinem Bericht,<lb/>
+wo ich selbstverständlich die heissen Eisen: Verstaatlichung, Preis<lb break="no"/>erhöhung, insbesondere Benzinpreis und Bundesheer referierte, zu<lb/>
+einer sehr lebhaften Diskussion. Selbst unsere Genossen, denen ich<lb/>
+wirklich versuchte, die Situation klar zu machen, sind nicht davon<lb/>
+überzeugt, dass wir vor der Wahlüberhaupt über diese Probleme hätten<lb/>
+sprechen sollen. Am besten fasste diese Kritik <name type="person" ref="per:112037">Tischler</name> zusammen,<lb/>
+als <choice><choice><sic>er</sic><corr>sie</corr></choice></choice> meinte, es müsste halt neben dem Handbuch für die Funktionäre<lb/>
+wäre die Wahlbewegung auch ein Handbuch für die Regierungsmitglieder<lb/>
+geben. Ein anderer meinte, dies könnte in ganz kleiner Auflagenzahl<lb/>
+erscheinen, vielleicht sogar handgeschrieben sein.<lb/>
+</p>
+            <p xml:space="preserve">Die Junge Generation hatte wieder eine sehr schlecht besuchte Ver<lb break="no"/>anstaltung und ich habe dort allerdings eine sehr interessante Dis<lb break="no"/>kussion geführt. Insbesondere war ein junger Chemiker anwesend und<lb/>
+es war wirklich erfreulich, mit dem ein Zwiegespräch zu haben. Noch<lb/>
+ein zweiter Diskutant hat auch entsprechende Informationen von mir ge<lb break="no"/>wünscht. <name type="person" ref="per:112986">Weisbier</name> erklärte mir anschliessend, dass sowieso beabsich<lb break="no"/>tigt sei, diese Besprechungen aufzugeben. da trotz telefonischer und<lb/>
+schriftlicher Einladung die jungen nicht mehr bereit sind, an solchen<lb/>
+Aussprachen teilzunehmen.<lb/>
+</p>
+            <p xml:space="preserve">Nach der Opernaufführung "Boris Godunow" des russischen Bolschoi-<lb/>
+Theaters gab <name type="person" ref="per:97668">Kreisky</name> einen Empfang für diese Leute. Er hatte dazu<lb/>
+alle Künstler in Wien eingeladen und ich hatte nicht die Absicht,<lb/>
+an diesem Empfang teilzunehmen. Nun war <name type="person" ref="per:114511">Muliar</name> im Laufe des Nach<lb break="no"/>mittages bei uns gewesen, um die Doppelkonferenz für das AEZ vorzu<lb break="no"/>bereiten und zu besprechen. Bei dieser Gelegenheit erklärte <name type="person" ref="per:114511">Muliar</name>, das<lb/>
+die Stimmung, die er als ausgesprochen katastrophal bezeichnete, letzten<lb/>
+<pb n="07-1152" facs="07_1971-10-05_1152.jpg"/>Endes auf dem Gegensatz zwischen <name type="person" ref="per:97525">Häuser</name> und <name type="person" ref="per:97668">Kreisky</name> zurückzuführen<lb/>
+sei. Er ersuchte mich deshalb, ich sollte unter allen Umständen, nachdem<lb/>
+ich jetzt auch mehr oder minder zu dem Gewerkschaftsflügel gezählt<lb/>
+werde, zum dem Empfang kommen, sonst würde man sofort wieder erklären,<lb/>
+aha, jetzt gehen sie nicht einmal mehr zu dem Empfängen von <name type="person" ref="per:97668">Kreisky</name>.<lb/>
+Ich sah diese Stellungnahme sofort ein und hatte meine Frau überrascht,<lb/>
+als ich sie abholte und erklärte, wir gehen jetzt noch auf einen<lb/>
+Empfang. <name type="person" ref="per:97525">Häuser</name>, der ebenfalls in der Loge sass, fragte mich, ob ich<lb/>
+an dem Empfang teilnehmen würde, worauf ich antwortete, er müsste un<lb break="no"/>bedingt hingehen. Bei dem Empfang konnte ich dann mit <name type="person" ref="per:114511">Muliar</name> und<lb/>
+seiner Frau, <name type="person" ref="per:97314">Antel</name> und seiner Frau, dann dem Mann, der mit <name type="person" ref="per:114511">Muliar</name> eine<lb/>
+Schauspielschule betreibt, den ich aber nicht kannte, und seine Frau<lb/>
+sowie den <add>[kaufmännischen, Anm.]</add> Direktor des Volkstheaters <name type="person" ref="per:137398">Peyerl</name> mit seiner Frau an<lb/>
+zwei zusammengestellten Tischen einmal herzlich blödeln und ich<lb/>
+muss sagen, es hat mir sehr gut getan, obwohl es bis nach 1 Uhr dauerte.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="07_1146_01" facs="07_1971-10-05_1146-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 5.10.1971</head>
+         </div>
+         <pb n="07_1146_02" facs="07_1971-10-05_1146-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+         <pb n="07_1152_01" facs="07_1971-10-05_1152-01.jpg"/>
+         <pb n="07_1152_02" facs="07_1971-10-05_1152-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesordnung 71. Ministerratssitzung, 5.10.1971</head>
+         </div>
+      </back>
+   </text>
+</TEI>

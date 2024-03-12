@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der 21. Jänner 1983 bis Sonntag, der 23. Jänner 1983</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band68_1983-01-21</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date from="1983-01-21" to="1983-01-23">Freitag, 21. Januar 1983 bis Sonntag, 23. Januar 1983</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-12-09">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="68-0072" facs="68_1983-01-21_1983-01-23_0072.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Freitag, 21. bis Sonntag, 23. Jänner 1983<lb/>
+</p>
+            <p xml:space="preserve">Der Vortrag von mir bei der Hoteliervereinigung Zürs fiel im wahrsten<lb/>
+Sinne des Wortes nicht ins Wasser, sondern unter die Lawinensperre Zürs.<lb/>
+Wie schon einmal und fast trifft es alle Jahre zu, meistens sogar bei<lb/>
+der Woche der Hoteliervereinigung, wurde Zürs tagelang von der Außen<lb break="no"/>welt verkehrsmäßig abgeschnitten. Da bis Donnerstag abends noch immer<lb/>
+nicht feststand, ob Zürs überhaupt Freitag angefahren werden kann, habe<lb/>
+ich dem Präsidenten <name type="person" ref="per:114525">Zorn</name> mitgeteilt, daß ich beim besten Willen nicht<lb/>
+kommen kann. Ich ersuchte auch den in Zürs eingeschneiten ehemaligen<lb/>
+Finanzminister <name type="person" ref="per:97311">Androsch</name>, er möge so lieb sein und ein für Samstag Vor<lb break="no"/>mittag vorgesehenes Referat Freitag Nachmittag halten. <name type="person" ref="per:97311">Androsch</name> war<lb/>
+damit sofort einverstanden. Dadurch ersparte ich mir das Risiko nach<lb/>
+Langen<add>[hs. korrigiert, Anm.]</add> zu fahren und dann erst nicht nach Zürs einreisen zu können.<lb/>
+</p>
+            <p xml:space="preserve">Überrascht war ich dann am Samstag im Radio zu hören, daß bei der Hote<lb break="no"/>liervereinigung scheinbar als Ergänzung MR <name type="person" ref="per:111367">Würzl</name> die Dezemberziffern<lb/>
+vom Winterfremdenverkehr mit –13 % Nachtigungsrückgang verlautbarte.<lb/>
+Soviel mir bekannt war, war beabsichtigt diese Ziffern bei dem Presse<lb break="no"/>gespräch am kommenden Montag zu verlautbaren.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR SC <name type="person" ref="per:97584">JAGODA</name> UND <name type="person" ref="per:123301">VECSEI</name>: Warum wurde diese Vereinbarung nicht<lb/>
+eingehalten.<lb/>
+</p>
+            <p xml:space="preserve">Anstelle des FV-Seminars in Zürs habe ich dann sofort ein Pressegespräch<lb/>
+mit den ausländischen Journalisten, die wir von der ÖFVW nach Abtenau ein<lb break="no"/>geladen haben, natürlich auch mit den Vertretern österr. Zeitungen bei<lb/>
+dieser Veranstaltung abgehalten. Ich selbst habe aber über die letzten<lb/>
+Dezemberziffern nichts genaues gewußt und daher nur grobe Schätzungen<lb/>
+über das Jahresergebnis 1982 der Presse mitgeteilt. Ich war sehr über<lb break="no"/>rascht von den österr. Teilnehmern am Sonntag zu erfahren, daß alle De<lb break="no"/>tails bereits bei den Redaktionen von der Äußerung MR <name type="person" ref="per:111367">Würzls</name> vorliegen.<lb/>
+Ich halte es nicht für sehr zweckmäßig, <choice><choice><sic>bei eigenen</sic><corr>eigene?</corr></choice></choice> Veranstaltungen<lb/>
+sprich Pressefrühstück<add>[zu?]</add> unterlaufen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name> UND <name type="person" ref="per:123301">VECSEI</name>: Bitte entsprechendes veranlassen.<lb/>
+</p>
+            <p xml:space="preserve">Bei den vielen Kontaktgesprächen mit den Journalisten als vor allem mal<lb/>
+auch mit den Bürgermeistern und FV-Verantwortlichen des Lammertals er<lb break="no"/>fuhr ich, daß man dort große Hoffnungen hat, zusätzliche Infrastruktur<lb break="no"/>maßnahmen in Hinkunft doch wieder in Angriff zu nehmen. Auch einzelne<lb/>
+Hoteliers erklärten mir, daß sie jetzt trotz des Rückganges im Tourismus<lb/>
+damit rechnen, daß früher oder später wieder positive Ergebnisse erreicht<lb/>
+<pb n="68-0073" facs="68_1983-01-21_1983-01-23_0073.jpg"/>werden und sie deshalb jetzt schon zusätzliche Überlegungen anstellen,<lb/>
+neue Investitionen zu tätigen. Abschreckend aber wirkt, wenn wie mir der<lb/>
+Hotelier <name type="person" ref="per:1138535">Moisl</name> in Abtenau mitteilt, er im September 1981 von der Hotel<lb break="no"/>treuhand, Dr. <name type="person" ref="per:124066">Mücke</name>, verständigt wurde, daß rückwirkend die ERP-Kredite<lb/>
+um 1,5 % erhöht werden. Mit Recht hat <name type="person" ref="per:1138535">Moisl</name> darauf verwiesen, er muß seine<lb/>
+Pensionspreise vorher kalkulieren, rückwirkende Zahlungen betrachtet er<lb/>
+daher zu recht als unfair.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte von Dr. <name type="person" ref="per:124066">Mücke</name> eine Stellungnahme verlangen,<lb/>
+die wir dann <name type="person" ref="per:1138535">Moisl</name> mitteilen müssen.<lb/>
+</p>
+            <p xml:space="preserve">Der FV-Referent von OÖ, Dr. <name type="person" ref="per:123823">Debene</name>, teilte mir mit, daß er seinerzeit das<lb/>
+HGI verständigt hat, in St. Wolfgang je ein Ort Rußbach existiert <add>[Satz unvollständig, Anm.]</add>...<lb/>
+Basaltvorkommen zu interessanten Funden gekommen. Ausgelöst wurde diese<lb/>
+Intervention, als wir einen Steinschleifer besichtigten, der in Gosau für<lb/>
+Gäste eine herrliche Ausstellung hat und als einer der letzten Stein<lb break="no"/>schleifer gilt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:131107">GROSSENDORFER</name>: Was wissen wir über dieses Basaltvorkommen<lb/>
+und wer hat dieses Schreiben erhalten.<lb/>
+</p>
+            <p xml:space="preserve">Der Bürgermeister von Abtenau ersuchte mich, bei Bundesminister <name type="person" ref="per:97511">Haiden</name><lb/>
+zu intervenieren, damit endlich die Straße Abtenau - <choice><choice><sic>Postalm</sic><corr>?</corr></choice></choice> errichtet<lb/>
+werden könnte. Von 11 km Straße würden 5 km durch Bundesforste-Gebiet<lb/>
+gehen. Diese Straße ist für den FV ungeheuer wichtig. Eine eigene Gesell<lb break="no"/>schaft wurde deshalb schon gegründet, die Bundesforste dagegen haben bis<lb/>
+jetzt ihre Zustimmung verweigert. Angeblich ist einmal wieder mehr ein<lb/>
+Jagdpächter der Bundesforste der Haupthindernisgrund. Da es sich bei<lb/>
+diesem um einen Verwandten des Landesforstdirektors der österr. Bundes<lb break="no"/>forste in diesem Gebiet handelt, ist mir vieles erklärlich. Ich habe dem<lb/>
+Bgm. <name type="person" ref="per:1138537">Köppl</name> sofort zugesichert, darüber mit Landwirtschaftsminister <name type="person" ref="per:97511">Haiden</name><lb/>
+noch am Montag zu sprechen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:125291">MARTIN</name>: Bitte mit <name type="person" ref="per:97511">Haiden</name> verbinden.<lb/>
+</p>
+            <p xml:space="preserve">Die Wetterverhältnisse verbesserten sich von Freitag auf Sonntag rapid.<lb/>
+Sonntag war ein herrliches Wetter. Morgens in der Früh im Tal Nebel,<lb/>
+oben auf der Zwieselalm aber bereits herrlichster Sonnenschein, der Dach<lb break="no"/>stein und die ganze Region hat sich von ihrer schönsten Seite gezeigt.<lb/>
+Die Ausländer aber auch die österr. Journalisten waren von der Veran<lb break="no"/>staltung begeistert und mit der Organisation sehr zufrieden. Alle FV-Ver<lb break="no"/>antwortlichen versicherten mir, daß diese Art der Gästebetreuung insbe<lb break="no"/>sondere auch durch mein persönliches Erscheinen optimal ist. Für die klei<lb break="no"/><pb n="68-0074" facs="68_1983-01-21_1983-01-23_0074.jpg"/>nen Orte wie Abtenau, Rußbach, Golling, auch die Bürgermeister von Ischl<lb/>
+und anderen Salzkammergutorten sind dazugestoßen, ist dies eine gute Ge<lb break="no"/>legenheit sich zu präsentieren.<lb/>
+</p>
+            <p xml:space="preserve">Überrascht war ich, daß ein Gespräch, das ich mit LR <name type="person" ref="per:117626">Baumgartner</name> von <add>[der]</add> FPÖ,<lb/>
+FV-Verantwortlicher für Salzburg, über die wirtschaftliche Entwicklung führte,<lb/>
+von ihm zu hören, daß er <name type="person" ref="per:97668">Kreisky</name> bewunderte, das Maßnahmenpaket vor der<lb/>
+Wahl bekanntgegeben zu haben. Er hat sogar gegenüber den ÖVP-Bürgermei<lb break="no"/>stern diese Maßnahmen während meiner Anwesenheit auch verteidigt, seiner<lb/>
+Aussage nach ist seine neue Art der Politik, da man nicht weiß, wie man<lb/>
+ankommt, die aber sehr beachtlich ist. Ich erklärte freiweg, daß <name type="person" ref="per:97668">Kreisky</name><lb/>
+eben meint, er hätte es nicht notwendig, auf seinen alten Tagen, wenn er<lb/>
+gefragt wird, die Bevölkerung im Unklaren zu lassen oder gar zu belügen.<lb/>
+Wer mit seiner Politik einverstanden ist und will, daß sie fortgesetzt<lb/>
+wird, muß ihm eben wählen. <name type="person" ref="per:97668">Kreisky</name> setzt alles auf eine Karte. Niemand<lb/>
+weiß, ob sie aufgeht.<lb/>
+</p>
+            <p xml:space="preserve">Die Grazer Gemeinderatsergebnisse, wo allerdings die ÖVP Stimmen gewinnen<lb/>
+konnte, die SPÖ aber ein Mandat, nämlich das 24. dazugewann, dürfte der<lb/>
+<name type="person" ref="per:97668">Kreisky</name>-Politik recht geben. Natürlich handelt es sich bei den Grazer Ge<lb break="no"/>meinderatswahlen um lokale<add>[hs. korrigiert, Anm.]</add> Wahlen und nicht um die Nationalratswahlen. Die<lb/>
+ÖVP hat aber sehr wohl alles daran gesetzt, schon in Graz dokumentieren<lb/>
+zu können, daß <name type="person" ref="per:97668">Kreisky</name> mit seiner Politik jetzt Schiffbruch erlitten hat.<lb/>
+Sowohl Parteiobmann <name type="person" ref="per:111325">Mock</name> als auch der Wiener Vizebgm. <name type="person" ref="per:109293">Busek</name> waren im<lb/>
+Fernsehen deutlich im Grazer Wahlkampf zu sehen. <choice><choice><sic>Das</sic><corr>?</corr></choice></choice> jetzt GS <name type="person" ref="per:128688">Graff</name> so<lb/>
+darstellen möchte, als die ÖVP hätte gar nie erwartet, <choice><choice><sic>das</sic><corr>?</corr></choice></choice> Maßnahmenpaket<lb/>
+bei den Grazer Wahlen entschieden wird, sondern eben erst bei den NR-<lb/>
+Wahlen, eine billige Ausrede. Trotzdem <choice><choice><sic>wer</sic><corr>wir</corr></choice></choice> in den Meinungsumfragen derzeit<lb/>
+einen tiefsten Stand erreicht haben, und dies knapp drei Monate vor den<lb/>
+Wahlen, würde ich nicht ausschließen, daß es <name type="person" ref="per:97668">Kreisky</name> gelingt bis zu den Wah<lb break="no"/>len die Schockwirkung seiner Ankündigung zu beseitigen. Gelingt dies,<lb/>
+dann hat sein Rezept Erfolg gehabt und die absolute Mehrheit für die<lb/>
+soz. Partei <add>[ist]</add> möglich.<lb/>
+</p>
+         </div>
+      </body>
+      
+   </text>
+</TEI>

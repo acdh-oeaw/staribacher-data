@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der 15. Februar 1974</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band19_1974-02-15</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1974-02-15">Freitag, 15. Februar 1974</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-11-15">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band19/">
+      <body>
+         <pb n="19-0235" facs="19_1974-02-15_0235.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Freitag, 15. Feber 1974</p><p xml:space="preserve">Überraschend erschien ich bereits bei der Vorbesprechung der<lb/>
+Mineralölfirmen in der ÖMV, da ich zur festgesetzten Zeit<lb/>
+um 1/2 9 Uhr Parteivorstandssitzung im Kongresshaus hatte.<lb/>
+Ich erklärte den Firmen, dass ich mit ihrer Zustimmung und<lb/>
+ihrem Einverständnis die autofreien Tage aufheben möchte. Bereits<lb/>
+bei der letzten Pressebesprechung wurde ich hart attackiert, warum<lb/>
+wri eigentlich so grosse Mengen ansparen müssten, da doch nur ent<lb break="no"/>scheidend sein könnte, wieviel in den vorhergehenden Jahren um die<lb/>
+selbe Zeit bereits in der ÖMV gelagert war. Man wollte von mir<lb/>
+die Ziffern wissen,die ich aber nicth bekanntgab. Richtig ist,<lb/>
+dass wir jetzt 235.000 t angespart haben, während sie im Vorjahr<lb/>
+160.000 t betrugen. Die Behauptung, dass die Deutschen an den<lb/>
+Grenzen so viel Benzin kaufen wird widerlegt durch eine Zeitungs<lb break="no"/>notiz wonach im oberösterreichischen Raum an der Grenze die Tank<lb break="no"/>warte sich beschweren, dass sie wesentlich geringere Umsätze haben<lb/>
+als vorher. Ich bat die Mineralölfirmen, sich genau zu überlegen,<lb/>
+wie sie die Sitaution einschätzen, insbesondere wie der Monat<lb/>
+März, wie sie sich immer ausdrücken, laufen wird und wenn ich von<lb/>
+der Parteivorstandssitzung zurückkomme, könnten wir über das ganze<lb/>
+Problem eingehend diskutieren.</p><p xml:space="preserve">Zu meiner grössten Überraschung erklärte <name type="person" ref="per:97337">Bauer</name> nach der eingehenden<lb/>
+Beratung der Mineralölfirmen, sie könnten zu meinem Antrag nicht<lb/>
+Stellung nehmen. Sie möchten so gerne immer im Einvernehmen mit<lb/>
+mir arbeiten, er meint aber, es gäbe jetzt so negative Momente<lb/>
+die er mir am besten gar nicht mitteilt und die Firmen ebenfalls<lb/>
+nicht, damit ich nicht von so schwerwiegenden und mit so schwer<lb break="no"/>wiegenden Problemen belastet werde. Eine dümmere Erklärung hätte<lb/>
+ich mir gar nicht vorstellen können. Ich war sehr verärgert und<lb/>
+erklärte, dann hätte ich nur die Möglichkeit, nachdem wir noch<lb/>
+stundenlang über dieses Problem diskutiert hatten, die Presse<lb/>
+dahingehend zu informieren, dass ich doch die autofreien Tage<lb/>
+aufhebe, die ansparte Menge 235.000 t beträgt und die Mineralöl<lb break="no"/>firmen Gründe haben, die sie noch selbst erklären werden. <name type="person" ref="per:97337">Bauer</name><lb/>
+von der ÖMV, <name type="person" ref="per:97739">Mieling</name> von Shell und ganz besonders <name type="person" ref="per:97556">Hirnigel</name> von BP<lb/>
+waren über diese Wendung nicht sehr glücklich, konnten sich aber<lb/>
+zu keiner anderen Auffassung durchringen. Sie meinten allen<lb/>
+<pb n="19-0236" facs="19_1974-02-15_0236.jpg"/>Ernstes, dass – ohne dass sie es aussprachen – die Preiserhöhung<lb/>
+der entscheidende Faktor ist und solange dies nicht erledigt ist,<lb/>
+sie keinerlei Zustimmung zu einer Lockerung geben könnten. Insbesonde<lb/>
+der Vertreter von Agip war totunglücklich und meinte, das wichtig<lb break="no"/>ste sei die Preiserhöhung. Ich machte ihnen keinerlei Zusagen,<lb/>
+sondern verwies nur darauf, sie sollten als Modell einmal annehmen,<lb/>
+dass z.B. die Paritätische Kommission vielleicht doch zu einer<lb/>
+Lösung kommen würde, obwohl ich eine solche bis jetzt noch nicht<lb/>
+sehe. <name type="person" ref="per:97738">Meszaros</name> war der Vernünftigste und versuchte dann ein<lb/>
+Kompromiss, dass nachdem die ÖMV und auch der Fachverband bereits<lb/>
+erklärt hat, dass der autofreie Tag bereits Mitte März verschwin<lb break="no"/>den könnte, dass mna jetzt vielleicht die Verordnung sistiert.<lb/>
+Zuertst wollte ich auf dieses Kompromiss gar nicht eingehen, ob<lb/>
+wohl mir auch Sekt.Chef <name type="person" ref="per:107937">Frank</name> diesen Vorschlag sehr schmackhaft<lb/>
+machen wollte. Meine Überlegungen waren nach wie vor und ich er<lb break="no"/>klärte auch den Ölfirmen meinen Standpunkt, die Öffentlichkeit jetzt<lb/>
+erwartet, dass ich wegen der Preise von den Ölfirmen stark unter<lb/>
+Druck gesetzt werde. Wenn wir daher zu keiner Einigung kommen,<lb/>
+würde dies nicht mir schaden sondern ausschliesslich den Ölfirmen,<lb/>
+Letzten Endes war mir aber auch klar, dass ich ein Kompromiss er<lb break="no"/>zielen muss und zwar sowohl innder Ansparung der Menge als auch in<lb/>
+der Preisfrage. Meiner Grundsatzeinstellung entsprechend habe ich<lb/>
+natürlich dann letztehn Endes dieses Kompromiss akzeptiert. Der<lb/>
+interessanteste Teil bei der Durchführung, obwohl ich erklärt<lb/>
+habe, ich möchte die Sistierung nicht terminisieren, wurde mir dann<lb/>
+doch von der Abteilung ein Entwurf vorgelegt, wonach ich nur im<lb/>
+Feber bis Ende März den autofreien Kraft ausser Kraft setze.<lb/>
+Da wir diese Unterschrift sowohl <name type="person" ref="per:110923">Lanc</name> als auch ich auf dem<lb/>
+Akt zu leisten hatten und ich wenig später erst aus dem Saal<lb/>
+gehen konnt,e ersuchteich <name type="person" ref="per:110923">Lanc</name>, er sollte ruhig unterschreiben,<lb/>
+<name type="person" ref="per:110923">Lanc</name> meinte dann als ich herauskam, er hat lieber gewartet, denn<lb/>
+es ist ja schliesslich mein Akt. Hier hat er wieder einmal recht<lb/>
+gehabt und er erkärte mir mit seiner fünfjährigen Dienstzeit hat<lb/>
+er als Beamter einige Mal erlebt, wie Akte ganz anders angelegt<lb/>
+und erledigt wurden als sie oben erwartet und gewünscht wurden.<lb/>
+Ich war über dieses Verhalten meines Hauses sehr überrascht.<lb/>
+<name type="person" ref="per:140290">Mitterhauser</name>, der mir den Akt vorlegte, behauptete, dass <name type="person" ref="per:107937">Frank</name><lb/>
+über Sekt.Chef <name type="person" ref="per:107939">Römer</name> diese Auslegung auf Terminisierung gegeben<lb/>
+hat. Sekt.Rat <name type="person" ref="per:112956">Schwarz</name>, hörte ich, hat sich nachher dann sehr be<lb break="no"/>schwert, weil <name type="person" ref="per:140290">Mitterhauser</name> angeblich behauptet hatte, die Kritik<lb/>
+<pb n="19-0237" facs="19_1974-02-15_0237.jpg"/>meinerseits hätte sogar darin gegipfelt, die Beamten seien<lb/>
+alle blöd. Zum Glück war <name type="person" ref="per:98040">Wais</name> anwesend und er hat es sofort<lb/>
+übernommen, <name type="person" ref="per:140290">Mitterhauser</name> wegen dieser Äusserung zu stellen.<lb/>
+Hier kann es sich nur um eine Eigenmächtigkeit von <name type="person" ref="per:107937">Frank</name> ge<lb break="no"/>handelt haben, der ursprünglich auch in der ÖMV bereits für<lb/>
+eine Terminisierung eingetreten ist. Er nimmt an, dass damit<lb/>
+die Ölgesellschaften noch mehr mit dem Kompromiss einverstan<lb break="no"/>den sind. Genau dies halte ich aber für falsch. Durch eine Ter<lb break="no"/>minisierung würde wahrscheinlich nur die Bevölkerung neuerdings<lb/>
+irritiert. Wenn die Versorgungslage es erfordert, werde ich je<lb break="no"/>derzeit wieder die Autofreien Tage dekretieren.</p><p xml:space="preserve">In der konstituierenden Sitzung des Parteivorstandes beschwerte<lb/>
+sich <name type="person" ref="per:97668">Kreisky</name> meiner Meinung nach zurecth, dass von den 54 ge<lb break="no"/>wählten Parteivorstandsmitgliedern wahrscheinlich mindestens<lb/>
+20 % fehlten. Er meinte, der Parteivorstand sei ein sehr wichti<lb break="no"/>ges Gremium und es müssten schon die Genossen sich die Zeit neh<lb break="no"/>men, dann auch zu kommen. Seine Entschuldigung war, dass 1/2 9 Uhr<lb/>
+eine ungewöhnliche Zeit sei. <name type="person" ref="per:97818">Pittermann</name> flüsterte mir noch,<lb/>
+dass der Parteivorstand nicht ein wichtiges Gremium ist<lb/>
+sondern in Wirklichkeit auch die Politik der Partei macht.<lb/>
+Ich würde allerdings dagen, machen soll. und das bin ich nicht<lb/>
+ganz überzeugt. Ich kann mir nicht vorstellen, dass ein Gremium<lb/>
+von 54 Personen überhaupt,imtande ist, eine <choice><choice><sic>Politikmoder</sic><corr>Politik oder (?)</corr></choice></choice> eine<lb/>
+Linie zu finden. Schon allein bei der endgütlgigen Formu<lb break="no"/>lierung der innen- und aussenpolitischen Resolutionen, die der<lb/>
+Parteivorstand dem Parteitag vorschlug, zeigte sich, dass ein<lb/>
+solches Gremium ganz ausserstande ist, wirkliche Arbeit zu lei<lb break="no"/>sten Politik kann in WIrklichkeit nur von einer Person oder<lb/>
+maximal durch eine Gruppe gemacht werden, die anderen können<lb/>
+so eine Politik entweder bestätigen, sicherlich kritisieren,<lb/>
+vielleicht sogar auch noch verwerfen. Machen aber können sie<lb/>
+sie keinesfalls. Dazu ist dieses Gremium viel zu gross und<lb/>
+heterogen.</p><p xml:space="preserve">Bei <name type="person" ref="per:97668">Kreiskys</name> Vorschlag über das Präsidium hat er <name type="person" ref="per:97311">Androsch</name> mit<lb/>
+der Begründung eingeführt, dass eine Verjüngung erfolgen soll<lb/>
+und dann man auch in der Vergangehiet einen Vertreter gehabt hat,<lb/>
+der nicht als Landesobmann automatisch im Präsidium gesessen ist.</p><pb n="19-0238" facs="19_1974-02-15_0238.jpg"/><p xml:space="preserve">Die Oberösterreicher drängten ebenfalls hinein und <name type="person" ref="per:126223">Tull</name> meinte,<lb/>
+dieses Problem sei bereits in Villach zur Sprache gebracht worden.<lb/>
+Damals war alerdings noch beabsichtigt, <name type="person" ref="per:134509">Demuth</name> hinzuschicken. <name type="person" ref="per:97668">Kreis<lb break="no"/>ky</name> meinte, <name type="person" ref="per:114604">Hillinger</name> sei sowieso als Kassier von Bedeutung und<lb/>
+<name type="person" ref="per:97346">Benya</name> hat ihm in der Beziehung wieder geholfen, indem er meinte,<lb/>
+es müsste ein kleines Präsidium sein, sonst würden auch die Ge<lb break="no"/>werkschaftsfraktion einen Sitz verlangen. <name type="person" ref="per:97346">Benya</name> hat allerdings be<lb break="no"/>reits in der Gewerkschaftsfraktion dezidiert erklärt gehabt, dass<lb/>
+eine solche Absicht gar nicht besteht, weil damit eine zu enge<lb/>
+Verbindung vielleicht zwischen Gewerkschaft und Parteiführung<lb/>
+vom Gegner herauskristallisiert werden könnte. Kooptiert werden<lb/>
+in den Parteivorstand die Rentner, der ASKÖ, die Junge Generation<lb/>
+und die Bundesregierungsmitglieder soweit sie nicht automatisch<lb/>
+schon in den Parteivorstand gewählt wurden. Der Klubsekretär, der<lb/>
+ebenfalls urgiert wurde, wird, wie sich dann herausstellt, auto<lb break="no"/>matisch auf Grund der Statuten einen Sitz im Parteivorstand haben.</p><p xml:space="preserve">Zu meiner grössten Überraschung gab es zum Referat von <name type="person" ref="per:97668">Kreisky</name><lb/>
+eine ganze Unzahl von Diskutanten. Die Linken konnten sich nicht<lb/>
+so profilieren als ich es eigentlich erwartet hatte. Sie haben<lb/>
+zwar eine Broschüre verteilt, wonach wir bis jetzt keine soziali<lb break="no"/>stische Politik gemacht haben, aber alle Ansätze, die sie für<lb/>
+eine sozialistische Politik vortrugen, waren eher matt. Die SJ z.B.<lb/>
+und wahrscheinlich auch <name type="person" ref="per:114541">Konecny</name> JG und wahrscheinlich auch unsere<lb/>
+ganzen Jungen hatten nur gegen die Ölkrise den einzigen Vorschlag,<lb/>
+man soll die Multinationalen verstaatlichen. <name type="person" ref="per:97668">Kreisky</name> sagt mit<lb/>
+Recht, jetzt müsse man aufpassen, weil wenn sich jetzt die Spal<lb break="no"/>tung in den Unternehmungen herausstellt, die guten patriotischen<lb/>
+österreichischen und die schlimmen ausländischen Unternehmen,<lb/>
+erinnert es ihn an die Nazizeit, wo es das sogenannte raffende<lb/>
+Kapital, ds jüdisch war und das schaffende Kapital, das also<lb/>
+gut deutsch war, gegeben hat. Für Sozialisten kann es nur einen<lb/>
+Kapitalismus geben, ob multinational oder quasi patriotisch<lb/>
+österreichischer Prägung. in meinen Augen igbt es schon einen<lb/>
+kleinen Unterschied dabei, nämlich dass die Multinationa<lb break="no"/>len auch Kapitalisten ausländischer Herkunft wirklich Kapitalisten<lb/>
+sind, währenddie österr. Kapitalisten sich durch eine kleine<lb/>
+Spielart von diesen unterscheiden, Sie sind nämlich viel weniger<lb/>
+investitionsfreudig und weniger risikofreudig. Dass die Ver<lb break="no"/>staatlichung uns aber in dieser Beziehung nämlich Lösung des<lb/>
+<pb n="19-0239" facs="19_1974-02-15_0239.jpg"/>Ölproblems überhaupt keinen Schritt weiterbringt, brauche ich hier<lb/>
+besonders zu erwähnen. Was wir brauchen, ist eine Konkurrenz auch<lb/>
+zwischen der ÖMV und anderen grossen Firmen und nicht ein womög<lb break="no"/>lich grosser staatlicher Konzern, der keine Ölbasis hat ausser<lb/>
+die geringe inländische Produktion, der sich in der Welt äusserst<lb/>
+schwer tut, weil er gegen die internationalen Gesellschaften<lb/>
+kaum instande sein würde, seine Ölmengen zu einem erträglichen<lb/>
+Preis zu kaufen, wie die unmittelbare und jüngste VErgangenheit<lb/>
+gezeigt hat, und der in Wirklichkeit auch keinen Schiffsraum<lb/>
+und keine Dispositionsmöglichkeit hat, um eventuellen Ausfälle<lb/>
+von einem Land durch ein anderes zu ersetzen. Das Endergebnis einer<lb/>
+solchen Politik wäre alles andere eher als für die Konsumenten<lb/>
+befriedigend.</p><p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> hat in seinem Schlusswort äusserst diplomatisch und ge<lb break="no"/>schickt für aber keinesfalls befriedigend, was seine Kritik an<lb/>
+den Diskutanten betrifft, sie ganz schön abgekanzelt. Die posi<lb break="no"/>tiven Diskussionsbeiträge hat er zwar nicht einzeln erwähnt<lb/>
+und gerühmt, aber doch die Bundesrätin <add>[?]</add> <name type="person" ref="per:1137475 ">Schön</name> herausgestrichen, die<lb/>
+bis vor Monaten auf der Linie 43 als Schaffnerin Dienst gemacht hat.<lb/>
+Die negativen hat er eben durch eine entsprechende Auseinander<lb break="no"/>setzung manchmal sicherlich nicht ganz fair geschickt formulierend<lb/>
+zur Freude des Parteitages zerlegt. Ich war nicht unmittelbar davon<lb/>
+betroffen, in Ideologiediskussionen mische ich mich prinzipiell<lb/>
+nicht drein, ich kenne hier viel zu wenig und habe mich viel<lb/>
+zu wenig darauf vorbereitet und habe gar keine theoretische Ader,<lb/>
+um mir hier wirklich ein Urteil anzumassen, doch glaube ich, dss<lb/>
+man auf diese Art und Weise doch nur verletzte Genossen zurücklässt.</p><p xml:space="preserve">Während der Debatte war es bereits zur Bestätigung des Präsidiums<lb/>
+gekommen. <name type="person" ref="per:97311">Androsch</name> hat mit über 80 Streichungen<add>[Fehlstelle]</add> als<add>[Fehlstelle]</add><lb/>
+<name type="person" ref="per:97311">Androsch</name> damals vom Wahlkomitee in den Parteivorstand vorgeschla<lb break="no"/>gen wurde. Da die Altersklausel jetzt ausgesetzt wurde, ist ein<lb/>
+unmittelbares Nachfolgeproblem sowieso nicht gegeben. Nach dem<lb/>
+Villacher Parteitag erwartete man eine Ideologie-Diskussion. Sie<lb/>
+ist ausgeblieben. Nach dem Wiener Parteitag wird angekündigt, dass<lb/>
+wir eine Reform-Diskussion führen, ich fürchteoder nehme sogar mot<lb/>
+Gewissheit an, auch diese wird ausbleiben. Die Formen einer Struktur<lb/>
+einer Partei werden, diesen Eindruck habe ich, unter ganz anderen<lb/>
+<pb n="19-0240" facs="19_1974-02-15_0240.jpg"/>Gesichtspunkten gebildet und die ENtwicklung wird kaum durch<lb/>
+Komitees, Arbeitsgruppen usw. vorangetrieben.</p><p xml:space="preserve">Im Direktorium der ÖFVW, wo ich zu spät hingekommen bin, wurde<lb/>
+weder vor mir noch bei meiner Anwesenheit über das Geschäfts<lb break="no"/>führerproblem diskutiert. Wir besprachen nur, dass mit April<lb/>
+spätestens die Generalversammlung tagen soll, der Budgetentwurf<lb/>
+wurde durchdiskutiert und beschlossen.</p><p xml:space="preserve">Anschliessend an die Direktoriumssitzung habe ich <name type="person" ref="per:97684">Langer-Hansel</name><lb/>
+der mich unbedingt sprechen wollte, darauf aufmerksm gemacht,<lb/>
+dass die Bestellung des <name type="person" ref="per:111736">Zolles</name> zum Geschäftsführer derzeit gar<lb/>
+nicht günstig steht. <name type="person" ref="per:97684">Langer-Hansel</name> hat bei seiner Good-Will-Tour<lb/>
+in Zürs geglaubt, wenn er erklärt, dass <name type="person" ref="per:111736">Zolles</name> nicht der SPÖ ange<lb break="no"/>hört er damit die Geister besänftigen könne. In Wirklichkeit er<lb break="no"/>klärte ich ihm, hat er genau das GEgenteil erreicht. Natürlich<lb/>
+musste <name type="person" ref="per:111736">Zolles</name>, als er gefragt wurde, zugeben, dsss er der SPÖ<lb/>
+angehört und das Endergebnis ist, dass man ihm jetzt ein Doppel<lb break="no"/>spiel vorwirft. Noch schlimmer ist, dass einzelne heute sagen,<lb/>
+dass hier gelogen wird. <name type="person" ref="per:97684">Langer-Hansel</name> sieht dies zwar nicht ein,<lb/>
+sondern meint, er hätte damit einer Verleumdungskampagne Paroli<lb/>
+bieten wollen, er übersieht nur, dass die Verleumdungskampagne<lb/>
+leichterzu bekämpfen gewesen wäre, wenn man die daran interessierten<lb/>
+mit den tatsächlichen Gegebenheiten konfrontiert hätte. Eine<lb/>
+Aufklärungskampagne mit entsprechendem Hinweis, dass <name type="person" ref="per:111736">Zolles</name> sehr<lb/>
+wohl der SPÖ angehört, wäre hier viel zielführender gewesen als<lb/>
+wie zu erklären, dass dies nicht der Fall ist. <name type="person" ref="per:97684">Langer-Hansel</name> wollte<lb/>
+wissen, wie es jetzt weitergehensoll, nachdem mit März seine Ge<lb break="no"/>schäftsführerbestellung abläuft. Zu dieser Frage habe ich <name type="person" ref="per:111367">Würzl</name><lb/>
+zugezogen und habe ihn gebeten, er soll die Details mit <name type="person" ref="per:97684">Langer-<lb/>
+Hansel</name> besprechen.An und für sich muss er noch nicht, wie er mir<lb/>
+vorgeschlagen hat, alle internationalen Funktionen jetzt bereits<lb/>
+zurücklegen. Solange er Geschäftsführer ist, kann er dies<lb/>
+ohne weiteres ausüben und auch solange nicht ein neuer Geschäfts<lb break="no"/>führer bestellt ist, provisorisch diese Aufgaben wahrnehmen.<lb/>
+Natürlich muss ich Vorkehrung treffen, damit nicht dann Ende März<lb/>
+bis zur Einberufung der Generalversammlung überhaupt keine<lb/>
+Geschäftsführung vorhanden ist. IN einem solchen Fall würde man<lb/>
+mir eine grosse Fahrlässigkeit vorwerfen können. Da wir im März<lb/>
+<pb n="19-0241" facs="19_1974-02-15_0241.jpg"/>auf alle Fälle noch eine Direktoriumssitzung haben, habe ich zu<lb/>
+diesem Termin noch immer alle Möglichkeiten offen.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Bei der Bestellung des Geschäftsführers in der<lb/>
+Generalversammlung fürchte ich, dass wir auf<lb/>
+alle Fälle in der Minderheit bleiben werden.<lb/>
+Ich habe zwar für meine Person Konsequenzen<lb/>
+angekündigt, aber ich fürchte, dass dies nicht<lb/>
+ausreicht, die Delegierten von einer Wahl<lb/>
+<name type="person" ref="per:97459">Fröhlichs</name> abzuhalten. Die Chance, <name type="person" ref="per:97459">Fröhlich</name><lb/>
+zum geschäftsführenden Obmann zu bestellen<lb/>
+wird dadurch nicht grösser.</p></div>
+      </body>
+      <back>
+         <pb n="19_0234_01" facs="19_1974-02-15_0234-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 15.2.1974</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="19_0234_02" facs="19_1974-02-15_0234-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der  8. September 1979</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band50_1979-09-08</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1979-09-08">Samstag, 8. September 1979</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-08-27">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="50-0964" facs="50_1979-09-08_0964.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Samstag, 8. September 1979<lb/>
+</p>
+            <p xml:space="preserve">Mit Stadtrat <name type="person" ref="per:97786">Nittel</name> und seinem Sekretär <name type="person" ref="per:151177">Schwarz</name> wurde mit dem<lb/>
+Parteipräsidium der Landstrasse unser Verkehrsproblem stundenlang<lb/>
+durchbesprochen. Unser jüngster Bezirksrat, <name type="person" ref="per:114118">Woller</name>, der gleichzeitig<lb/>
+jetzt auch Bildungssekretär in Wien ist, hat sich mit dieser Frage<lb/>
+sehr eingehend beschäftigt. Zum Unterschied von den bis jetzt vor<lb break="no"/>liegenden Plänen, wo die Landstrasse auch als Durchzugsstrassen<lb break="no"/>bezirk in Hinkunft genützt werden soll, wollen wir doch verkehrs<lb break="no"/>arme Zonen schaffen. <name type="person" ref="per:97786">Nittel</name> ist im Prinzip damit einverstanden, möchte<lb/>
+aber natürlich, dass alle Pläne und Vorschläge vorerst mit ihm ab<lb break="no"/>gesprochen werden. Kleinigkeiten wird er sofort erledigen, die grosse<lb/>
+Konzeption sollen unsere Bezirksräte aber jetzt öffentlich präsen<lb break="no"/>tieren, damit nicht die ÖVP, die jetzt in allen Bezirken sehr aktiv<lb/>
+wird, auch hier wieder bei uns auf der Landstrasse Oberwasser bekommen<lb/>
+könnte. <name type="person" ref="per:97786">Nittel</name>, der sich in den letzten Monaten einen ungeheuer guten<lb/>
+Ruf erwirtschaftet hat, stellt sich allen Bürgerinitiativen, legt<lb/>
+grössten Wert darauf auf planmässige Ausführung und noch vielmehr auf<lb/>
+termingerechte Vollendung. Dies macht ihn mir nur mehr sympathischer<lb/>
+als er schon bisher war. <name type="person" ref="per:97786">Nittel</name> ist ein ausgesprochen tüchtiger und<lb/>
+expeditiver Arbeiter. Dies ist aber bereits aus der SJ-Zeit bekannt.<lb/>
+Sein <choice><choice><sic>Vorgänger</sic><corr>Nachfolger</corr></choice></choice> in der sozialistischen Jugend, <name type="person" ref="per:97488">Gratz</name>, hat immer einen<lb/>
+leeren Schreibtisch und wer zu ihm kommt um irgend etwas zu bespre<lb break="no"/>chen, wurde sofort ins Kaffeehaus eingeladen, wo man alle Probleme<lb/>
+leichter – wie <name type="person" ref="per:97488">Gratz</name> immer meinte – besprechen kann. <name type="person" ref="per:97786">Nittel</name> selbst<lb/>
+hat immer einen vollen Schreibtisch, fragt gleich um was handelt es<lb/>
+sich, erledigen wir jetzt sofort, für einen Tratsch hat er immer<lb/>
+wenig Zeit.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Messeeröffnung ist <name type="person" ref="per:97893">Sallinger</name> als einziger ÖVP-ler natürlich<lb/>
+auch auf die Schillingaufwertung zu sprechen gekommen. Dadurch<lb/>
+musste ich insbesonders auf die Ausführungen besonders reagieren.<lb/>
+Obwohl ich von der Zweckmässigkeit dieser Aufwertung nicht sehr<lb/>
+überzeugt bin, denn sie richtet sich im Prinzip gegen meine Infla<lb break="no"/>tionsprinzip, musste ich sie mehr oder minder vertreten. Kurzfristig<lb/>
+gesehen ist sie sicherlich richtig, langfristig wird sie dem Finanz<lb break="no"/>minister kaum ermöglichen aus seiner Schuldenrückzahlungspolitik mit<lb/>
+heiler Haut herauszukommen.<lb/>
+</p>
+            <pb n="50-0965" facs="50_1979-09-08_0965.jpg"/>
+            <p xml:space="preserve">Bei der Eröffnung der Landwirtschaftsmesse hat Präsident <name type="person" ref="per:113056">Bierbaum</name><lb/>
+dagegen sehr stark die ganze Agrarpolitik attackiert. <name type="person" ref="per:97511">Haiden</name> ist<lb/>
+Gott sei Dank dann nicht auf sein Manuskript bestanden und hat so<lb break="no"/>fort – und das sehr geschickt – gegen <name type="person" ref="per:113056">Bierbaum</name> polemisiert.<lb/>
+</p>
+            <p xml:space="preserve">Die Gewerbeausstellung der Handelskammer Wien ist sehr beeindruckend,<lb/>
+weil viele lebende Gewerbe dort demonstrieren was sie leisten können<lb/>
+und wie sie arbeiten. Demgegenüber ist der Arbeiterkammerpavillon<lb/>
+mit dem Berufsförderungsinstitut sehr abgefallen. Zum Glück wurde<lb/>
+aber auch dort demonstriert an Hand von lebenden Projekten, was BFI<lb/>
+leistet. Ähnlich verhält es sich auch mit den Handelskammerpavillon<lb/>
+</p>
+            <p xml:space="preserve">der diesmal über Energienutzung sehr viel demonstrative Objekte<lb/>
+ausstellt. Das Ausstellungssystem der Kammern hat sich in den letzten<lb/>
+Jahren sehr geändert. Wie ich mir vorstellen, wie es vor meiner Zeit,<lb/>
+als ich Kammeramtsdirektor gewesen bin, wo nur Statistiken und leeres<lb/>
+theoretische Wissen vermittelt wurde, das niemand interessierte, so<lb/>
+kann man jetzt wirklich allgemein feststellen, dass jede Gruppe ent<lb break="no"/>sprechende demonstrative Ausstellungen veranstaltet. Früher hat dies<lb/>
+ausschliesslich nur die Landwirtschaftskammer in ihrem Haus gemacht.<lb/>
+</p>
+            <p xml:space="preserve">Der Rundfunk stellt im Messegelände entsprechende Live-Sendungen<lb/>
+her. Einer war fürs Fernsehen der Stammtisch unter <name type="person" ref="per:97417">Klaus Emmerich</name>.<lb/>
+Dort hat sich zuerst <name type="person" ref="per:115005">Hintschig</name> als der Hausherr sehr beschwert,<lb/>
+dass die Arbeiterkammer wegen der Preisauszeichnung die Wiener Messe<lb/>
+attackiert hat. Zum Glück hat mich <name type="person" ref="per:97584">Jagoda</name> zeitgerecht informiert,<lb/>
+sodass ich auf dieses Problem auch, nachdem ich gefragt wurde, ein<lb break="no"/>gehen konnte. Hätte ich diese Information nicht besessen, wäre ich,<lb/>
+wie man so schön sagt, schön im Eck gewesen. Der Vermittlungsvor<lb break="no"/>schlag von <name type="person" ref="per:97584">Jagoda</name>, Preisauszeichnung nur für die unmittelbaren Konsum<lb break="no"/>artikel, die man sofort verzehrt oder mitnehmen kann, halte ich<lb/>
+übrigens für richtig. Sicher muss aber jetzt eine gesetzlich einwand<lb break="no"/>freie Lösung angestrebt werden. Dies gilt aber nicht nur für die<lb/>
+Wiener Messe, sondern gilt ganz allgemein. Es wird meiner Meinung nach<lb/>
+dringendst notwendig festzustellen sein, festzustellen, wer was in<lb/>
+Hinkunft auf einer Messe tun darf.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Bitte <name type="person" ref="per:97584">Jagoda</name> soll entsprechende Vorschläge aus<lb break="no"/>arbeiten.<lb/>
+</p>
+            <pb n="50-0966" facs="50_1979-09-08_0966.jpg"/>
+            <p xml:space="preserve">Beim Stammtisch <choice><choice><sic>konnte</sic><corr>?</corr></choice></choice>, an dem dann Prof. <name type="person" ref="per:97937">Seidel</name>, Wirtschaftsforschungs<lb break="no"/>institut, <name type="person" ref="per:98102">Wolfsberger</name>, Siemens, <name type="person" ref="per:114075">Schmidt</name>, Gewerkschaftsbund, und<lb/>
+Dr. <name type="person" ref="per:126405">Klose</name>, Handelskammer, teilnahm, hat sich dann mit den Preis-<lb/>
+und Lohnfragen sowie der Wirtschaftspolitik im allgemeinen be<lb break="no"/>schäftigt. Da ich ja als Handelsminister dort kaum aggressiv auf<lb break="no"/>treten kann, habe ich mich ganz bewusst zurückhaltend, sozusagen,<lb/>
+ministeriell verhalten. <name type="person" ref="per:114075">Schmidt</name> dagegen hat sehr geschickt polemi<lb break="no"/>siert und was mich sehr gefreut hat, die Sendung sehr beherrscht.<lb/>
+<name type="person" ref="per:126405">Klose</name> hatte die einzige Möglichkeit sich nachher bei ihm, in aller<lb/>
+Freundschaft allerdings, zu beschweren, dass <name type="person" ref="per:114075">Schmidt</name> wieder einmal<lb/>
+die Sendung an sich gerissen hat. Dies ist bei einer Live-Sendung<lb/>
+auch deshalb leicht möglich, denn was sollen die anderen Teil<lb break="no"/>nehmer machen, wenn der Betreffende längere Ausführungen macht<lb/>
+der Diskussionsleiter sich nicht einmischt und die anderen Dis<lb break="no"/>kussionsteilnehmer, schon allein um die Disziplin zu wahren ihm<lb/>
+nicht ständig unterbrechen. Da die Sendezeit 14.00 Uhr äusserst<lb/>
+ungünstig war, war die Zuseherzahl aber sicherlich sowieso minimal.<lb/>
+</p>
+            <p xml:space="preserve">Nachmittag hat dann noch der Rundfunk die 250. Konsumentensendung<lb/>
+auf Band aufgenommen. Dies haben sie auch dieses Mal vom Messegelände<lb/>
+getan, um einen gewissen Werbeeffekt dort bei den Zuschauern zu haben<lb/>
+Ich selbst sollte dort interviewt werden, was ich eigentlich von<lb/>
+dieser Konsumentensendung halte. Frau <name type="person" ref="per:114968">Gips</name> aber hat genau das Gegen<lb break="no"/>teil gemacht, sie fragte mich, was alles das Handelsministerium mit<lb/>
+dem Konsumentenbeirat getan hat und noch beabsichtigt. Mit Ach und<lb/>
+Krach konnte ich in diesem Paar-Minuten-Interview meinen Dank der<lb/>
+Sendung dann unterbringen, denn die 250 Konsumentensendungen haben<lb/>
+dazu beigetragen, dass ein informierter Konsument in Österreich<lb/>
+geschaffen wird. Wie ich besonders herausstreiche braucht dies nicht<lb/>
+nur die Konsumentenvertretung, sondern auch die Produktion.<lb/>
+</p>
+            <p xml:space="preserve">Kardinal <name type="person" ref="per:109820">König</name> gibt immer vor jedem Gewerkschaftskongress – ich<lb/>
+glaube das ist jetzt das dritte oder vierte Mal - einen Empfang für<lb/>
+den Bundesvorstand und für die christliche Fraktion. Bei dieser Ge<lb break="no"/>legenheit konnte ich wieder feststellen, wie sehr <name type="person" ref="per:109820">König</name> eigentlich<lb/>
+wirklich der Gewerkschaftsbewegung zugetan ist und aufgeschlossen.<lb/>
+Im Erzbischöflichen Palais sieht man noch immer das sehr schöne<lb/>
+Christusbild, welches 1938 damals von den HJ-Leuten beim Sturm auf<lb/>
+das Palais zerstört wurde. Mit Recht bleibt es so hängen, damit es<lb/>
+jedermann an diese furchtbare Zeit erinnert. Die christlichen Ge<lb break="no"/><pb n="50-0967" facs="50_1979-09-08_0967.jpg"/>werkschafter unserer Lebensmittelarbeitergewerkschaft waren je nur<lb/>
+2 vorhanden, haben mir neuerdings vor den anderen versichert, dass<lb/>
+sie mit der jetzigen Zeit sehr einverstanden sind, was übrigens<lb/>
+auch für den grössten Teil der christlichen Gewerkschaftsfraktion<lb/>
+im allgemeinen gilt, dass niemand mehr einen gespaltenen Gewerk<lb break="no"/>schaftsbund fraktionell oder konfessionell haben möchte. Die Empfänge<lb/>
+von <name type="person" ref="per:109820">König</name> und insbesondere sein Wirken wahrscheinlich hinter den<lb/>
+Kulissen trägt dazu wesentlich bei.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="50_0963_01" facs="50_1979-09-08_0963-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 8.9.1979</head>
+         </div>
+         <pb n="50_0963_02" facs="50_1979-09-08_0963-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

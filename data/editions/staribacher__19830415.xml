@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der 15. April 1983</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band69_1983-04-15</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1983-04-15">Freitag, 15. April 1983</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-12-10">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="69-0478" facs="69_1983-04-15_0478.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Freitag, 15. April 1983<lb/>
+</p>
+            <p xml:space="preserve">Die Nationalbank hat dem IFES den Auftrag gegeben ein politisches Perio<lb break="no"/>digramm über Wahlverhalten und Wahlprognosen auszuarbeiten. Dr. <name type="person" ref="per:146327">Traar</name> <add>[evtl. Falschidentifikation, Anm.]</add> und<lb/>
+Dr. <name type="person" ref="per:141602">Birk</name> haben diese Studie mit <sic>NR</sic> <name type="person" ref="per:97627">Kienzl</name>, ÖGB-Sekretär <name type="person" ref="per:115583">Muhm</name> und mir bespro<lb break="no"/>chen. Die letzten Erhebungen der Karwoche verglichen mit <name type="person" ref="per:97627">Kienzl</name> -Ergeb<lb break="no"/>nissen, Sozialwissenschaftliche Studiengesellschaft, SWS, und IFES ergebe<lb/>
+annähernd die selben Werte. SWS hat allerdings einen sozialistischen<lb/>
+Bias, der aufgrund der Erfahrungswerte korrigiert wird. Die Sozialisten<lb/>
+hätten nämlich 48 % bei noch 14,1 % Unentschlossenen, der sozialistische<lb/>
+Bias ist 10 %, sodaß die richtige Zahl 43 % wäre. Die ÖVP hat 23,8 %,<lb/>
+korrigiert 28 1/2. Dem stehen die IFES-Ziffern gegenüber von ebenfalls<lb/>
+14 % unentschlossenen Wählern, in Wien leider noch 23 %, dies ergibt für<lb/>
+die ÖVP 41,2 resp. Sozialisten 48,5 %. <name type="person" ref="per:97627">Kienzl</name> hofft, daß bei der IFES<lb/>
+noch eine Korrektur notwendig wäre, da die IFES nur bis zu 70-jährige<lb/>
+erfaßt und 772.000 über 70 Jahre nach <name type="person" ref="per:97627">Kienzls</name> Meinung bei der IFES berück<lb break="no"/>sichtigt die absolute Mehrheit von den Sozialisten ergibt. Von Jänner bis<lb/>
+Ostern ist der Sympathiewert bei SWS um 4 % für die Sozialisten gestiegen,<lb/>
+nach <name type="person" ref="per:97627">Kienzls</name> Meinung ist die <name type="person" ref="per:112571">Tollmann</name>-Gruppe, Vereinigte Grüne Österreichs,<lb/>
+VGÖ, ident mit dem harten Kern der Kraftwerksgegner, deren Einzug ins Par<lb break="no"/>lament scheint ihm aber nicht gegeben. Dem habe ich sofort widersprochen,<lb/>
+hier irrt <name type="person" ref="per:97627">Kienzl</name>. Im IFES-Sample sind ca. 800 Grüne von Februar bis März, al<add>[so]</add><lb/>
+nach dem Skandal, haben sie sich von 10 nur auf 9,4 % verringert und ins<lb break="no"/>besondere in Wien gefestigt. Da sie in Wien mit an Sicherheit grenzender<lb/>
+Wahrscheinlichkeit, wie die Techniker sagen, meiner Meinung nach das Grund<lb break="no"/>mandat bekommen, ist mit deren Einzug zu rechnen. Nach meinem Dafürhalten<lb/>
+ist dann die absolute Mehrheit von SPÖ-Mandaten verloren. Daran ändert <add>[sich]</add><lb/>
+glaube ich leider nichts, obwohl die SPÖ jetzt kontinuierlich gewinnt und<lb/>
+die ÖVP stagniert, ja sogar gegen ihren Höhepunkt Anfang des Jahres leicht<lb/>
+verliert. Immer wieder entdecke ich, daß auch bei mir Wunschdenken vor<lb break="no"/>liegt. Zum Glück kann ich dies noch entsprechend korrigieren.<lb/>
+</p>
+            <p xml:space="preserve">Der BRO <name type="person" ref="per:1138052">Squarza</name> von VEW Judenburg ersucht mich, ich sollte die Firma<lb/>
+unterstützen bei dem Versuch Federn für LKW-Importautos nach Österreich<lb/>
+von VEW zu verwenden. Ich erkläre mich sofort bereit, wenn die Verkaufs<lb break="no"/>manager von Judenburg mir mitteilen, an welche Firmen ich mich wenden<lb/>
+müßte. Die <choice><choice><sic>autotiven</sic><corr>automotiven</corr></choice></choice> Zulieferer haben ja auch durch Unterstützung des<lb/>
+Handelsministeriums diese jetzt schon beträchtlichen Exportmöglichkeiten<lb/>
+bekommen. Die Unterstützung unsererseits kann aber nur auf freiwilliger<lb/>
+<pb n="69-0479" facs="69_1983-04-15_0479.jpg"/>Basis erfolgen, was <name type="person" ref="per:1138052">Squarza</name> mehr oder minder einsieht.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:111737">MARSCH</name> UND <name type="person" ref="per:108746">HAFFNER</name>: Bitte sich mit ihm in Verbindung<lb/>
+setzen.<lb/>
+</p>
+            <p xml:space="preserve">Der Zuckerexporteur <name type="person" ref="per:58381">Mauthner</name> hat mit MR <name type="person" ref="per:108609">Sterk</name> die Möglichkeit der<lb/>
+Kohlekompensation gegen Lebensmittel besprochen und mir dann mitgeteilt,<lb/>
+daß mit Sarajevo 15.000 und insgesamt in Jugoslawien 20.000 bis 25.000 to<lb/>
+Zuckerlieferung zustande kommen könnten. Da der Preis jetzt durch die<lb/>
+Kompensation gegen Kohle in Jugoslawien ein wenig günstiger ist als der<lb/>
+Weltmarktpreis, würde die Zuckerindustrie dadurch um 3 Mio. S mehr erlösen,<lb/>
+obwohl sie noch immer 1,60 S unter dem Selbstkostenpreis liegt. Der<lb/>
+Gesamtverlust bei heurigem Zuckerexport wird bei 70 Mio. S liegen.<lb/>
+<name type="person" ref="per:58381">Mauthner</name> ist überzeugt, daß mindestens 100.000, maximal 130.000 to<lb/>
+exportiert werden müßten.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte mit dem Landwirtschaftsministerium ab<lb break="no"/>stimmen.<lb/>
+</p>
+            <p xml:space="preserve">Der polnische Vizeaußenminister <name type="person" ref="per:147672">Olechowski</name> kam mit dem neuen polnischen<lb/>
+Botschafter, um die finanzielle Umschuldung und ev. weitere Kreditgewäh<lb break="no"/>rung mit mir zu besprechen. Die Polen sind fest davon überzeugt, daß<lb/>
+sie, wenn jetzt in Paris die Verhandlungen wieder aufgenommen werden,<lb/>
+sowohl für die Bankkredite als auch für die vom Staat garantierten Kre<lb break="no"/>dite zu einer Lösung kommen könnten und auch werden. Bis zum Papstbesuch<lb/>
+wird nach Meinung der polnischen Führung es möglich sein den Ausnahme<lb break="no"/>zustand aufzuheben. Das Martial Law, Polizeigesetz, wird von mir immer<lb/>
+wieder angeprangert, die polnischen Vertreter, mit denen ich bis jetzt immer<lb/>
+darüber gesprochen habe, sehen dies auch sofort ein; da der neue Botschaf<lb break="no"/>ter bis jetzt keinerlei Kontakte, weder mit der Handelskammer noch mit<lb/>
+dem Finanzministerium, aufgenommen hatte, habe ich sowohl mit Staatssekre<lb break="no"/>tär <name type="person" ref="per:97937">Seidel</name> als auch Dr. <name type="person" ref="per:97474">Gleißner</name>, Handelskammer, entsprechende Vereinbarun<lb break="no"/>gen mit ihm sofort fixieren können. MR <name type="person" ref="per:97426">Fälbl</name> hat mit ihm dann entsprechend<lb/>
+weitere Gespräche bezüglich der Gemischten Kommission bei der Posener<lb/>
+Messe geführt; die Polen hoffen, daß es ihnen gelingen wird mit Hilfe<lb/>
+von neuen gesetzlichen Bestimmungen über ausländische Kapitalbeteili<lb break="no"/>gungen in Polen notwendige zusätzliche Mittel zu bekommen. Hier sehe<lb/>
+ich kaum eine Chance. Alle Staaten, insbesondere aber Österreich und<lb/>
+ganz besonders deren Unternehmer werden, soweit sie sich in Polen auf<lb/>
+neue Lieferverpflichtungen einlassen, versuchen weitestgehend sofort<lb/>
+zu ihrem Geld zu kommen, die seinerzeit verhältnismäßig großzügige<lb/>
+Kreditgewährung, in der letzten Phase dann auch nur mehr, um gegebenenfalls<lb/>
+<pb n="69-0480" facs="69_1983-04-15_0480.jpg"/>alte Kredite dadurch bezahlt zu bekommen, wird sobald nicht eintreten. F<add>[ür]</add><lb/>
+Polen gilt jetzt der Grundsatz, man soll gutes Geld dem schlechten nicht<lb/>
+nachwerfen.<lb/>
+</p>
+            <p xml:space="preserve">Der jugoslawische Gen.Sekr. des Automobilklubs ist auf Einladung von<lb/>
+ÖAMTC in Wien, der ARBÖ hat mich ersucht, ich sollte entsprechende Gespräche<lb/>
+mit Gen.Sekr. <name type="person" ref="per:1138601">Maras</name> führen, damit der ARBÖ wieder direkte Benzingutscheine<lb/>
+aus Jugoslawien bekommt und dies nicht über den ÖAMTC abgewickelt wird.<lb/>
+Der ÖAMTC hat davon Wind bekommen und mich ersucht ebenfalls zu dieser<lb/>
+Aussprache eingeladen zu werden. Dies habe ich selbstverständlich sofort<lb/>
+getan, die Aussprache ergab, daß <name type="person" ref="per:1138601">Maras</name> aufgrund der internationalen<lb/>
+Verpflichtung der Autoklubs AMSJ und ÖAMTC, das sind Klubkameraden im<lb/>
+AID und dadurch gibt es beiderseitige Verpflichtung, wie <name type="person" ref="per:122942">Schuchlenz</name>,<lb/>
+Gen.Sekr. des ÖAMTC, erklärte, AID-Regel sieht vor, daß die Kooperation nur<lb/>
+mit Schwesterorganisationen erfolgt. Da ich aber dann darauf hinwies,<lb/>
+daß die jugoslawische Regierung einen hoheitsrechtlichen Akt setzt, wenn<lb/>
+sie Benzingutscheine, derzeit 10 % Verbilligung, die übrigens nach Meinung <add>[von]</add><lb/>
+<name type="person" ref="per:1138601">Maras</name> erhöht werden soll <del>setzt</del>, ersuchte ich, daß die Klubs sich untereinan<lb break="no"/>der zu einem positiven Abschluß dieses Problems einigen, damit nicht von<lb/>
+staatlicher Seite Einfluß genommen werden muß. Wie mir dann NR <name type="person" ref="per:97558">Hobl</name> und<lb/>
+Gen.Sekr. <name type="person" ref="per:97411">Effenberger</name> versicherten, haben sie sich dann durch eine Ein<lb break="no"/>leitung und Unterstützung des ARBÖ-Standpunktes auch durchsetzen können.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: <name type="person" ref="per:97411">Effenberger</name> soll dann über den endgültigen Abschluß<lb/>
+Dir oder mir berichten.<lb/>
+</p>
+            <p xml:space="preserve">Das Arbeitsgespräch mit der chinesischen Außenhandelsministerin <name type="person" ref="per:1138602">Chen<lb/>
+Muhua</name> verlief, für mich überraschend, anders, als ich erwartet habe. Schon<lb/>
+in der kleineren Vorbesprechung bei mir im Zimmer, aber noch viel mehr<lb/>
+in der großen Sitzung hat sie ganz allgemein über die freundschaftlichen<lb/>
+Beziehungen zwischen den beiden Staaten <add>[gesprochen]</add>, daß es wirtschaftlich noch viele<lb/>
+Reserven gäbe, die Österreich durch seine Industrieerfahrung nützen<lb/>
+könnte. In der Vergangenheit hat das VÖEST-Alpine-LD-Verfahren, ein Fluß<lb break="no"/>kraftwerk, die feine Schmiedemaschine, damit war eindeutig die auch für<lb/>
+Kanonenrohrproduktion <add>[nutzbare?]</add> <name type="person" ref="per:119181">Kralowetz</name>-Maschine gemeint, als auch für Plastikma<lb break="no"/>schinen hätte es gute Industriebeziehungen schon gegeben. Jetzt gelte<lb/>
+es 100.000 Betriebe in China zu reformieren und hier wird Österreich dazu<lb/>
+eingeladen. China könnte dies auch teils aus eigener Kraft, aber es will<lb/>
+sich nach außen öffnen. Ausländische Technologie und Management ist ge<lb break="no"/>fragt. Es wird eine Ausschreibung bei Großprojekten geben, aber unter Teil<lb break="no"/>nahme Österreichs. Am chinesischen Markt herrschen jetzt harte Konkurrenz<lb break="no"/>bedingungen. Besuchsaustausch <add>[wird]</add> für gegenseitiges Verständnis sorgen, die<lb/>
+<pb n="69-0481" facs="69_1983-04-15_0481.jpg"/>Chinesen werden aber mehr Spezialisten und Techniker nach Österreich sen<add>[den.]</add><lb/>
+Die Gemischte Kommission müßte noch eine wesentlich größere Rolle spielen<lb/>
+und in kürzeren Abständen tagen, 1980 war die letzte in Wien, die dritte<lb/>
+müßte jetzt heuer noch in Peking stattfinden.<lb/>
+</p>
+            <p xml:space="preserve">Ich versuchte auch wieder durch Überreichung von Listen und insbesondere<lb/>
+aus Gründen, weil nach Meinung unseres Handelsdelegierten eine LKW-Assem<lb break="no"/>blingvertrag mit Steyr-Daimler-Puch unmittelbar vor dem Abschluß steht,<lb/>
+diese Firma besonders herauszustreichen, ebenso die Lieferungen der VEW<lb/>
+und auf besonderen Wunsch von Ing. <name type="person" ref="per:115651">Cifer</name> die Bauer-Beregnungs- und<lb/>
+Kultivationsanlagen. Für letzteres habe ich Spezialprospekte persönlich<lb/>
+übergeben.<lb/>
+</p>
+            <p xml:space="preserve">Die Überraschung für mich war, daß zum Unterschied vom letzten chinesischen<lb/>
+Außenhandelsministerbesuch in Wien kein Wort mehr über die Viererbande<lb/>
+gesprochen wurde, die Ministerin hat übrigens auch stets bei den Verhand<lb break="no"/>lungen frei gesprochen, keine Unterlagen benützt, einzige Ausnahme davon<lb/>
+war die offizielle Rede beim Mittagessen.<lb/>
+</p>
+            <p xml:space="preserve">Da die chinesische Delegation eine ganze Reihe von Mitgliedern, fast<lb/>
+1 Dutzend, hatte, ich überrascht war, daß unsererseits beim offiziellen<lb/>
+Gespräch im Sitzungssaal Österreich nicht einmal die Hälfte Personen<lb/>
+umfaßte, mußte ich ganz schnell unsere Kollegen mobilisieren. Ich bin<lb/>
+nach wie vor der festen Überzeugung daß die Fernostländer die Bedeutung<lb/>
+von Besuchen nach der Größe der Delegierten beurteilen. Wenn schon eine<lb/>
+kleine Vorbesprechung in meinem Zimmer und dann eine große Sitzung im<lb/>
+Sitzungssaal beabsichtigt ist, dann muß im Sitzungssaal eine entsprechend<lb/>
+große Anzahl von österreichischen Beamten anwesend sein. Daß man dies<lb/>
+nicht beachtet hat, ist mir unverständlich.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte das nächste Mal entsprechende Vorkehrungen<lb/>
+treffen.<lb/>
+</p>
+            <p xml:space="preserve">Der Freie Flieger-Club am Schwechater Flughafen hatte einen Open-house-<lb/>
+Tag. Der Leiter, der gleichzeitig auch sehr interessante Luftbilder macht,<lb/>
+<name type="person" ref="per:126876">Hausmann</name>, hatte mich dazu inständigst gebeten. Ich war sehr überrascht,<lb/>
+daß ich dort dann tatsächlich nicht nur eine sehr freundliche Aufnahme<lb/>
+fand, sondern man hat mich sofort zum Ehrenmitglied nicht nur ernannt, sondern<lb/>
+auch mit Legitimation ausgestattet <add>[hat]</add>, <choice><choice><sic>sondern auch dann</sic><corr>und dann auch</corr></choice></choice> den Präs. für die<lb/>
+Zivilluftfahrt im Verkehrsministerium kennenlernte. Dieser teilte mir<lb/>
+mit, daß jetzt von der Fliegerseite wegen der hohen Treibstoffpreise<lb/>
+<pb n="69-0482" facs="69_1983-04-15_0482.jpg"/>so wie auch in anderen europäischen Ländern versucht wird die Genehmigung<lb/>
+zu bekommen, daß sie mit Superbenzin für Autos auch fliegen können. Dadurch<lb/>
+würde sich der 17-S-Preis pro Liter wesentlich reduzieren lassen. Die<lb/>
+Ölgesellschaften haben allerdings bereits mitgeteilt, daß sie am Flug<lb break="no"/>hafen Schwechat auch dann nicht den Preis um 17 S wesentlich reduzieren<lb/>
+könnten, keinesfalls also auf den Autotankstellenpreis zurückgehen würden.<lb/>
+Dies ist den Fluggesellschaften, aber auch mir eigentlich unerklärlich.<lb/>
+Ich habe mich verpflichtet, daß wenn es zu keiner einvernehmlichen Regelung<lb/>
+kommen sollte, ich bereit wäre als Vermittler aufzutreten. Die Hauptschwie<lb break="no"/>rigkeit liegt darin, daß der Flughafen Wien letzten Endes entscheidet, wer<lb/>
+sozusagen Benzin anliefern darf.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:123301">VECSEI</name>: Bitte diesen Fall weiter verfolgen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="69_0477_01" facs="69_1983-04-15_0477-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 15.4.1983</head>
+         </div>
+         <pb n="69_0477_02" facs="69_1983-04-15_0477-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

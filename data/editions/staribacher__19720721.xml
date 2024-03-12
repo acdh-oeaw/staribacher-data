@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der 21. Juli 1972</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band12_1972-07-21</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1972-07-21">Freitag, 21. Juli 1972</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-10-23">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="12-0948" facs="12_1972-07-21_0948.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Freitag, 21. Juli 1972<lb/>
+</p>
+            <p xml:space="preserve">Die Besprechung zwischen Sekt.Chef <name type="person" ref="per:110925">Madai</name>, Min.Rat <name type="person" ref="per:112973">Hillebrandt</name>,<lb/>
+Aussenhandelsstellenleiter von Ungarn, <name type="person" ref="per:134208">Kuzmich</name>, ich weiss nicht,<lb/>
+wer sonst noch alles dabei war, gab die erwarteten Schwierigkeiten.<lb/>
+<name type="person" ref="per:110925">Madai</name> war nicht die Punkte, die die Handelskammer in den Vertrag<lb/>
+einbauen wollte, zu akzeptieren. Insbesondere wendete er sich dagegen,<lb/>
+dass Ungarn bereits jetzt erklären, wenn sie dem GATT beitreten,<lb/>
+durch diesen bilateralen Vertrag sie die GATT-Vorteile von vornherein<lb/>
+verzichten, es geht insbesondere über die gewünschte Entliberalisierungs<lb break="no"/>möglichkeit Österreichs. Die Verhandlungsrunde wollte nach der Unter<lb break="no"/>zeichnung des Vertrags über den Schutz der einzelnen Marken und<lb/>
+Wortbezeichnungen weiter verhandeln. Aussenhandelsminister <name type="person" ref="per:110971">Bíró</name> hatte<lb/>
+aber einen Schwächeanfall und konnte sich vom Hotel nicht ins Mini<lb break="no"/>sterium begeben. Im Gegenteil, ich fuhr sofort ins Hotel hin und Prof.<lb/>
+<name type="person" ref="per:140104">Fellinger</name>, den wir bestellten, stellte fest, dass es Gott sei Dank<lb/>
+kein Herzinfarkt war, wie anfangs befürchtet wurde.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Bitte Dankschreiben an <name type="person" ref="per:140104">Fellinger</name> schicken.<lb/>
+</p>
+            <p xml:space="preserve">Die Unterzeichnung erfolgte dann im Hotelzimmer und <name type="person" ref="per:110925">Madai</name> führte<lb/>
+natürlich keinerlei andere Verhandlungen mehr.<lb/>
+</p>
+            <p xml:space="preserve">Der Integrationsausschuss im Parlament begann ein wenig verspätet,<lb/>
+da <name type="person" ref="per:97917">Schleinzer</name> und <name type="person" ref="per:97668">Kreisky</name> noch Parteibesprechungen führten. Wie mir<lb/>
+<name type="person" ref="per:97668">Kreisky</name> nachher versicherte, hat er keinerlei Zusagen gemacht, aber<lb/>
+<name type="person" ref="per:97917">Schleinzer</name> selbst hat durchgesetzt, dass am 5. September die Partei<lb break="no"/>verhandlungen über das Begleitprogramm der ÖVP zur Integration Verhandlungen<lb/>
+führen wird. <name type="person" ref="per:97668">Kreisky</name> gab eine kurze Erklärung im Integrationsausschuss<lb/>
+und ich selbst erörterte die letzte Verhandlungsrunde. <name type="person" ref="per:97769">Mussil</name> eröff<lb break="no"/>nete die Diskussion und stellte Fragen, als ob er den Vertrag und<lb/>
+das Ergebnis überhaupt nicht kennen würde. In Wirklichkeit wollte<lb/>
+er nur entsprechende Informationen von mir offiziell bekommen, um<lb/>
+dann aus der Formulierung, wie ich sie bringe, seine Diskussions<lb break="no"/>rede im Plenum vorzubereiten. Ein Angriffspunkt wird die nicht volle<lb/>
+Symmetrie bei den sensiblen Produkten und bei den Ursprungszeugnissen<lb/>
+die nicht dezidierte Erklärung des kumulierten Ursprungs sein.<lb/>
+Weiters griff er ganz besonders an, dass die Regierung Dienstag den<lb/>
+Beschluss gefasst hatte, zu unterzeichnen, ohne dass der Vertrag end<lb break="no"/>gültig bis in die letzten Details ausgehandelt war und auch kein end<lb break="no"/><pb n="12-0949" facs="12_1972-07-21_0949.jpg"/>gültiger deutscher Text vorlag. <name type="person" ref="per:97632">Kirchschläger</name> replizierte wunder<lb break="no"/>bar, indem er erklärte, dass erstens im italienisch-österreichischen<lb/>
+Südtirol-Vertrag nach dem Krieg überhaupt nur englisch als Vertrags<lb break="no"/>text vorlag und dass zweitens auch beim Staatsvertrag, wo er mitge<lb break="no"/>wirkt hat, keine endgültige Fassung bei der Unterzeichnung vorlag.<lb/>
+<name type="person" ref="per:97769">Mussil</name> glaubte replizieren zu müssen, indem er darauf hinwies, dass<lb/>
+wir den Staatsvertrag unter Besatzungsmacht unterzeichnen mussten,<lb/>
+währenddem wir jetzt ein freier Staat sind. Da war er nun total gefan<lb break="no"/>gen, denn <name type="person" ref="per:97632">Kirchschläger</name> wies darauf hin, dass doch unsere Theorie<lb/>
+immer gegolten hat, dass wir als freier Staat freiwillig den Staats<lb break="no"/>vertrag geschlossen und auch unterfertigt haben. <name type="person" ref="per:97686">Lanner</name> wieder meinte,<lb/>
+dass nach Gerüchten ein Briefwechsel über die Landwirtschaft existie<lb break="no"/>ren sollte. Da ich wusste, dass er diesen Brief tatsächlich besass,<lb/>
+konnte ich leicht in der Antwort ihn fangen, indem ich erklärte,<lb/>
+in dem Brief steht ja eine Verordnung und zwar über 800, ich wusste<lb/>
+genau, dass es 805 war, und er möge doch vor sich nachschauen, ob<lb/>
+ich recht habe mit der 800-Nummer. <name type="person" ref="per:97917">Schleinzer</name> wollte teils über den<lb/>
+Beschluss im Ministerrat und dann vor allem, warum es nicht geglückt<lb/>
+ist, die Ursprungsregelung, die sich in der EFTA bewährt, auch in die<lb/>
+EG zu übernehmen. <name type="person" ref="per:97613">Karasek</name> kam auf die Gefahr der SU zu sprechen und<lb/>
+unsere Leute, <name type="person" ref="per:97488">Gratz</name> – die Folgen, wenn nicht unterzeichnet wird<lb/>
+wegen Nichtvorliegen den endgültigen Textes und <name type="person" ref="per:97444">Fischer</name> - die Zwei<lb break="no"/>drittelmehrheit einzelner Bestimmungen zu sprechen. <name type="person" ref="per:98010">Teschl</name> inter<lb break="no"/>essierte sich für die Papierfrage und meinte, es müsste ein Papier<lb break="no"/>konzept im Rahmen der Begleitmassnahmen dann von der österreichischen<lb/>
+Regierung akzeptiert werden. Hier richtete er mehr oder minder indirekt<lb/>
+einen Appell an den Finanzminister, die Wünsche der Papierindustrie<lb/>
+zu akzeptieren, was dieser bis jetzt immer abgelehnt hat. <name type="person" ref="per:97647">Koren</name> ging<lb/>
+dann insbesondere auf die wirtschaftliche strukturellen Auswirkungen<lb/>
+und Fragte, wie weit die Regierung gegen eine Verschlechterung der<lb/>
+Wettbewerbssituation für die Unternehmungen Vorbereitungen betroffen<lb/>
+hätte. Hier konnte ich natürlich auf seine seinerzeit übernommene<lb/>
+Arbeit im Rahmen des Wirtschafts- und Sozialbeirates wie Koordinierung<lb/>
+der Integrationsuntersuchung durchzuführen, hinweisen, ohne ihn eigent<lb break="no"/>lich anzugreifen, da er diese Arbeit ja dann letzten Endes nicht weiter<lb break="no"/>geführt hat. Dies werde ich vielleicht im Haus machen, wenn er sich<lb/>
+als der Retter der österr. Industrie herausstellen möchte, indem er<lb/>
+jetzt aufzeigt, was alles nicht geschehen ist. Das Begleitprogramm<lb/>
+der ÖVP betreffend konnte und wollte ich mich ja gar nicht auf Einzel<lb break="no"/>heiten festlegen und habe mich deshalb auf die Regierungserklärung<lb/>
+<pb n="12-0950" facs="12_1972-07-21_0950.jpg"/>zurückgezogen. <name type="person" ref="per:97686">Lanner</name> wollte eine sehr dezidierte Mitteilung über<lb/>
+die Agrarfragen und <name type="person" ref="per:98055">Weihs</name>, der replizierte, war scheinbar nicht bereit,<lb/>
+ihm diese Detail selbst zu sagen. Da er aber letzten Endes und dessen<lb/>
+muss man sich doch klar sein, die Details sehr genau kannte, ich habe<lb/>
+dann doch auf die Fragen dezidiert geantwortet. Dabei ist mir ein<lb/>
+grosser Fehler unterlaufen. Über die Zollsenkung bei Wein von 630<lb/>
+auf 300 S pro hl habe ich angenommen, dass es sich nur um Wein in<lb/>
+Fässern handelt. Da eine Unterlage, die mir <name type="person" ref="per:97851">Pultar</name> seinerzeit gegeben<lb/>
+hat, die er auch dem Landwirtschaftsministerium zustellte, für mich zu<lb/>
+mindestens nicht ganz klar, dass dadurch auch die Zölle für Flaschenweine<lb/>
+gesenkt wurden. Als <name type="person" ref="per:97686">Lanner</name> den grossen Fehler beging und anfragte, damit<lb/>
+sind nur die Fasswein-Zölle ermässigt worden, habe ich sofort bemerkt, dass<lb/>
+hier ein Hund von mir drinnen liegen muss und begann die gesamte Zoll<lb break="no"/>position zu verlesen. Damit hatte ich den Fehler ausgebügelt, allerdings<lb/>
+war klar und deutlich zu erkennen, dass meine erste Auskunft falsch war.<lb/>
+</p>
+            <p xml:space="preserve">Da <name type="person" ref="per:97686">Lanner</name> in der Begleitung nach Brüssel vorgesehen war, und dann tat<lb break="no"/>sächlich auch mitfuhr, hat er mir dann zugesichert, er hätte im Haus<lb/>
+niemals das Argument ausgespielt, dass ich ihm die Auskunft gegeben<lb/>
+hätte, dass nur Fasswein eine Zollsenkung erfährt und nicht Flaschen<lb break="no"/>weins. Ich gebe mich keiner Illusion hin, dass er natürlich auch dann<lb/>
+wenn er immer erklärt und das glaube ich, dass er mich gut leiden kann,<lb/>
+weil die ganze Art ihm sehr gefällt, natürlich dieses Argument im Haus<lb/>
+ausgespielt hätte.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97311">Androsch</name> replizierte auf die Angriffe von <name type="person" ref="per:97647">Koren</name> sehr geschickt, indem<lb/>
+er die gesamten Massnahmen, die in der letzten Zeit von ihm getroffen<lb/>
+wurden, in die Debatte warf und sie alle als integrationsbewusst und<lb/>
+vor allem auf das Ziel zu einer Assoziation mit der EG zu kommen ausge<lb break="no"/>richtet erklärte. Das trifft vielleicht für die Mehrwertsteuer zu, sicher<lb break="no"/>lich aber nicht für die vielen anderen Punkte, die er erwähnt hat. Trotz<lb break="no"/>dem glaube ich, hätte ich auch diese Taktik schon bei der <name type="person" ref="per:97647">Koren</name>-Antwort<lb/>
+einschlagen müssen. Hier sieht man, dass ich an Schlagfertigkeit in der<lb/>
+letzten Zeit einiges eingebüsst habe.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="12_0947_01" facs="12_1972-07-21_0947-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 21.7.1972</head>
+         </div>
+      </back>
+   </text>
+</TEI>

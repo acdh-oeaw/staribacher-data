@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstag, der 20. Mai 1975</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band26_1975-05-20</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1975-05-20">Dienstag, 20. Mai 1975</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-12-10">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="26-0617" facs="26_1975-05-20_0617.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Dienstag, 20. Mai 1975<lb/>
+</p>
+            <p xml:space="preserve">Beim Jour fixe beschwert sich <name type="person" ref="per:97893">Sallinger</name> und <name type="person" ref="per:97769">Mussil</name>, daß ich zu wenig<lb/>
+Kontakt mit der Handelskammer und doch immer zu viel Kontakt mit<lb/>
+der Industriellenvereinigung halte. Insbesondere das Letztere wird<lb/>
+hart kritisiert, wobei mehr <name type="person" ref="per:97668">Kreisky</name>, ohne daß der Name gesagt wird,<lb/>
+eine große Gefahr für die Handelskammer darstellt. <name type="person" ref="per:97581">Igler</name> selbst<lb/>
+ist aktiv, tritt überall in Erscheinung, kommt sicherlich auch zu<lb/>
+Besprechungen wo er oft gar nicht eingeladen ist, und <name type="person" ref="per:97893">Sallinger</name><lb/>
+spürt, daß es nicht mehr so ist wie seinerzeit unter <name type="person" ref="per:97733">Mayer-Gunthofs</name><lb/>
+Präsidentschaft in der Industriellenvereinigung. Noch glaubt er, daß<lb/>
+er imstande ist, wenn <name type="person" ref="per:97581">Igler</name> sich zu weit vorwagt, seine treuen Mannen<lb/>
+in der Industriellenvereinigung zurückpfeifen zu können. In Wirk<lb break="no"/>lichkeit entwickelt sich hier eine wahrscheinlich in kürzester Zeit<lb/>
+stattfindende große Auseinandersetzung. Ich selbst war neutral,<lb/>
+werde es auch in Hinkunft sein, weil ich natürlich genau weiß,<lb/>
+daß mit der Handelskammer es primär notwendig ist, auszukommen.<lb/>
+Die Sozialpartnerschaft beruht auf der Mitwirkung der Handelskammer<lb/>
+und nicht der Industriellenvereinigung. Trotzdem frage ich <name type="person" ref="per:97769">Mussil</name><lb/>
+wieso es dann möglich ist, daß die Industriellenvereinigung sich<lb/>
+schon seinerzeit in die Paritätische Kommission und vor allem aber<lb/>
+bei den Auslandsreisen und inländischen Besprechungen über die<lb/>
+Handelspolitik so stark einschalten konnte. <name type="person" ref="per:97769">Mussil</name> erklärt, daß<lb/>
+<name type="person" ref="per:97733">Mayer-Gunthof</name> als Vorsitzender des Außenhandelsausschusses der<lb/>
+Handelskammer bei den Tagungen teilnahm und dann ad personam einge<lb break="no"/>laden wurde. Jetzt nimmt <name type="person" ref="per:97581">Igler</name> dieses Privileg in Anspruch. In der<lb/>
+Paritätischen Kommission, wirtschaftspolitische Aussprache, wurde<lb/>
+seinerzeit <name type="person" ref="per:97661">Kottulinsky</name> als Generalsekretär, als er im Beirat der<lb/>
+Paritätischen Kommission tätig war, ebenfalls ad personam einge<lb break="no"/>laden wurde und jetzt nimmt <name type="person" ref="per:97581">Igler</name> auch dieses Privileg automatisch<lb/>
+in Anspruch. Ich bin überzeugt, daß <name type="person" ref="per:97581">Igler</name> von ihnen nicht stoppt<lb/>
+werden kann. Nur glaube ich, daß <name type="person" ref="per:97668">Kreisky</name> hier bald mit <name type="person" ref="per:97581">Igler</name> in<lb/>
+ganz großem Ausmaß versuchen wird die Industriellenvereinigung<lb/>
+noch mehr zu protegieren. Meine ärgste Drohung gegen die Handels<lb break="no"/>kammer ist, nach den nächsten Wahlen, wenn wir nicht die absolute<lb/>
+Mehrheit bekommen, wird womöglich <name type="person" ref="per:97581">Igler</name> noch als unabhängiger<lb/>
+liberaler Fachmann Handelsminister, dann allerdings meint <name type="person" ref="per:97893">Sallinger</name><lb/>
+wäre seine letzte Stunde in der ÖVP gekommen. So sicher bin ich nicht,<lb/>
+denn mit Dr. <name type="person" ref="per:137886">Stummer</name> von der Präsidentenkonferenz der Landwirtschafts<lb break="no"/>kammer hätte <name type="person" ref="per:97668">Kreisky</name> ebenfalls das Experiment gewagt und wenn sich<lb/>
+<pb n="26-0618" facs="26_1975-05-20_0618.jpg"/><name type="person" ref="per:98055">Weihs</name> nicht dagegen ausgesprochen hätte, wäre er Staatssekretär<lb/>
+bei ihm geworden. Die ÖVP vor die Frage gestellt, ob sie nicht<lb/>
+doch einen Kontakt über einen sogenannten Liberalen haben sollte,<lb/>
+wird sich nicht sofort dagegen aussprechen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97769">Mussil</name> beschwert sich, daß ich jetzt in die Pressebesprechungen<lb/>
+auch vereinzelte Unternehmer einlade. <name type="person" ref="per:97769">Mussil</name> meint, daß sei eine<lb/>
+sehr böse Sache, weil die Handelskammer dadurch ausgeschaltet wird.<lb/>
+Ich greife sofort an und meine, daß die Handelskammer ja durch<lb/>
+ihre Pressevertreter jederzeit eingeladen ist, und erfährt was<lb/>
+beim Pressefrühstück gesprochen wird. <name type="person" ref="per:97769">Mussil</name> erwartet, daß trotzdem<lb/>
+die Sprecher bei solchen Pressegesprächen mit ihm vereinbart werden.<lb/>
+Für die nächste Sitzung lade ich ihm nach dem <name type="person" ref="per:112951">Patolitschew</name>-Besuch<lb/>
+ein. In seiner Verzweiflung sagt er sogar zu. Bitte Termin mit<lb/>
+seinem Sekretariat neuerdings fixieren.<lb/>
+</p>
+            <p xml:space="preserve">In Hinkunft werde ich, um in den letzten Monaten nicht wirklich<lb/>
+einen ernstlichen Konflikt heraufzubeschwören, jeden einzelnen<lb/>
+Eingeladenen, z.B. Gen.Dir. <name type="person" ref="per:97644">Koller</name>, wenn wir eine günstige Gelegen<lb break="no"/>heit haben, mit <name type="person" ref="per:97769">Mussil</name> besprechen und darauf hinweisen, daß <name type="person" ref="per:97644">Koller</name><lb/>
+als Fachverbandsvorsteher kommt. Von der Presseabteilung wird in<lb/>
+Hinkunft <name type="person" ref="per:140547">Errhalt</name> oder <name type="person" ref="per:140548">Pfanzagl</name> kommen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:97377">BUKOWSKI</name>: Bitte veranlasse <name type="person" ref="per:111699">Puffler</name>, daß er diese im<lb break="no"/>mer persönlich einlädt und kontrolliert, ob auch tatsächlich einer<lb/>
+von den beiden kommt.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97769">Mussil</name> hat die Vorschläge der Gewerkschaftsjugend prüfen lassen.<lb/>
+Die Trennung von der Gewerbeordnung lehnt er entschieden ab, womit<lb/>
+er glaube ich auch Recht hat. Die Verdopplung der Berufsschulzeit<lb/>
+stößt auf großen Widerstand, doch weiß er, daß auf alle Fälle<lb/>
+eine Verlängerung der Berufsschulzeit kommen wird. Darüber läßt er<lb/>
+sicherlich mit sich handeln. Gegen die Ausbildungsinspektoren wehrt<lb/>
+er sich, wogegen ich auch Bedenken habe. Ebenso gegen eine Aus<lb break="no"/>bildungsumlage, wobei allerdings er erkennt, daß die Finanzierung<lb/>
+irgend wie gesichert werden muß. Hier kann man sicherlich mit ihm<lb/>
+Verhandlungen positiv abschließen. Großen Widerstand wird er<lb/>
+dagegen leisten, daß die Organisation der Lehrlingsausbildung<lb/>
+und Durchführung und Administration bei der Handelskammer derzeit<lb/>
+<pb n="26-0619" facs="26_1975-05-20_0619.jpg"/>liegt und in Hinkunft in einem paritätischen neutralen Rahmen,<lb/>
+wahrscheinlich sogar staatlich gelenkt, aufgebaut werden sollen.<lb/>
+Um den staatlichen Einfluß zurückzudrängen wird er vielleicht dann<lb/>
+bereit sein ein größeres Mitspracherecht der Arbeitnehmerseite in<lb/>
+einem neutralen Institut, so wie die Sozialversicherung zuzustimmen.<lb/>
+</p>
+            <p xml:space="preserve">Neuerdings kommt das Problem der Kommerzialräte der Statistik des<lb/>
+Außenhandels zur Sprache. <name type="person" ref="per:97769">Mussil</name> und <name type="person" ref="per:97893">Sallinger</name> behaupten, sie hätten<lb/>
+seinerzeit angenommen, daß sie von mir verständigt werden bevor<lb/>
+ich den Antrag ans Bundeskanzleramt stelle. Sie meinen sie könnten<lb/>
+mich nicht desavouieren, wenn ein solcher Antrag schon gestellt<lb/>
+ist und dann erklären, der oder jener käme aus den und diesen Gründen<lb/>
+nicht in Frage. Daher sei die Mitteilung vollkommen zwecklos. Ich<lb/>
+erkläre ausdrücklich, daß ich mich in der Verleihung der Kommerzial<lb break="no"/>ratstitel weitgehend ihren Wünschen angepaßt habe, die echten<lb/>
+Kommerzialräte habe ich überhaupt ihrer Bestimmung überlassen und<lb/>
+für das Ventil Statistiker des Außenhandels, müsse ich die Mög<lb break="no"/>lichkeit haben, um so mehr als ja auch selbst Handelskammervorschläge<lb/>
+immer wieder berücksichtigt werden. Ich kann mir noch vorstellen,<lb/>
+ich habe es ihnen allerdings nicht dezidiert zugesagt, daß ich<lb/>
+ihnen beim Jour fixe, d.h. ohne vorher schriftlich anzukündigen,<lb/>
+die beabsichtigten Eingaben, d.h. die Namen mitteile. Bekomme ich<lb/>
+dann nicht innerhalb kürzester Zeit einen ausgesprochen negativen<lb/>
+Bescheid, wo ich dann mit ihnen verhandeln würde, so lauft die Be<lb break="no"/>stellung automatisch. Wenn es einen kritischen Fall bei uns gibt,<lb/>
+dann würde ich ganz einfach beim Jour fixe ihnen schon sagen, daß<lb/>
+der unbedingt gemacht werden muß. Ich stelle immer wieder mehr<lb/>
+fest, daß es der Handelskammer viel mehr um formelle Fragen mit<lb/>
+Industriellenvereinigung-Mitwirkung, Kommerzialratstitelverleihung<lb/>
+usw. geht, wo sie am empfindlichsten sind und weniger auf irgendwelche<lb/>
+Sachfragen.<lb/>
+</p>
+            <p xml:space="preserve">Genau dasselbe trifft auch bei den Bezahlungen der Handelskammer zu.<lb/>
+Hier meint <name type="person" ref="per:97893">Sallinger</name> neuerdings, daß nur bis Oktober von ihnen<lb/>
+noch die Kosten für Geschenke und Essen und Einladungen usw. über<lb break="no"/>nommen werden. Ich erkläre, daß wir dies im Oktober weiterverhandeln<lb/>
+werden, da ich es nicht akzeptieren kann und verlange alle angemelde<lb break="no"/>ten Geschenke und Essen, mit Ausnahme der Hotelkosten für den<lb/>
+Handelsminister der Elfenbeinküste was auch gegen die seinerzeitige<lb/>
+Vereinbarung, wonach Hotelkosten von mir zu tragen sind, verstoßen<lb/>
+<pb n="26-0620" facs="26_1975-05-20_0620.jpg"/>würde. <name type="person" ref="per:97769">Mussil</name> und <name type="person" ref="per:97893">Sallinger</name> meinen, hier hätten wir doch vom<lb/>
+Handelsministerium entsprechende Repräsentationsmittel und wollen<lb/>
+wissen, wieviel ich dann ersparen werde. Ich erkläre, daß ich<lb/>
+nichts ersparen werde, rufe formell <name type="person" ref="per:97377">Bukowski</name> an und verlange den<lb/>
+letzten Stand. Ich bin selbst dann überrascht, als mir <name type="person" ref="per:97377">Bukowski</name><lb/>
+dann bei meiner Rückkehr sagt, von den 500.000 Schilling seien<lb/>
+nicht einmal noch 98.000 Schilling verbraucht. Als Geschenk<lb/>
+für den Elfenbeinküsten-Minister gibt mir die Handelskammer eine<lb/>
+Silberschale und für Bundesrat <name type="person" ref="per:97375">Brugger</name> ein wertvolles Pferdebuch was<lb/>
+2.500 Schilling kostet.<lb/>
+</p>
+            <p xml:space="preserve">Beim Pressefrühstück referiert von einer Heizungsfirma ein<lb/>
+Diplomingenieur, der bei unserem Energiesparbeirat mitgewirkt hat.<lb/>
+Ich kann verstehen, daß <name type="person" ref="per:97769">Mussil</name> Bedenken hat, wenn wir so einzelne<lb/>
+Firmenvertreter heranziehen, ich bin auch nicht überzeugt, daß wir<lb/>
+mit diesen Leuten einen großen Presseerfolg haben werden. Wenn es<lb/>
+nicht ganz große Top-Manager sind, dann glaube ich hat es nicht<lb/>
+sehr viel Sinn, einzelne Vertreter die sich sehr einsetzen, aber<lb/>
+in Wirklichkeit nichts bringen können, zu dem Pressefrühstück<lb/>
+heranzuziehen. In Hinkunft werde ich deshalb nur Top-Manager zu<lb/>
+wirklich aktuellen Fragen auffordern und sie im vorher der Handels<lb break="no"/>kammer bekanntgeben. Die Hoffnung mit diesem neuen System größere<lb/>
+Publicity zu bekommen, hat sich leider auch nicht bewährt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:97646">KOPPE</name>: Die Idee war hervorragend, bei der Durchführung<lb/>
+gab es Schwierigkeiten, der Erfolg ist leider nicht eingetreten. Wir<lb/>
+müssen es ändern.<lb/>
+</p>
+            <p xml:space="preserve">Gen.Dir. <name type="person" ref="per:97518">Haschek</name> von der Kontrollbank teilt mir mit, daß er mit<lb/>
+dem Handelsrat <name type="person" ref="per:113078">Nikolaenko</name> über das VÖEST-Exportgeschäft, Bleche oder<lb/>
+Rohre gegen Gas, verhandelt hat. Er sieht eine Möglichkeit und wird<lb/>
+mir diesbezügliche Unterlagen zur Verfügung stellen. Die 250 bis<lb/>
+300 Millionen Dollar bis 1980 aufzubringen, glaubt er erfüllen zu<lb/>
+können. Das zweite große Projekt ein Rohrwalzwerk in der VÖEST<lb/>
+zu errichten, wo 7 Milliarden Schilling gebraucht werden und wo<lb/>
+sich die sowjetische Bank Donau damit beschäftigt und wahrscheinlich<lb/>
+auf größtenteils mitfinanziert, ist noch nicht so weit. <name type="person" ref="per:97518">Haschek</name><lb/>
+teilt mir gleichzeitig mit, daß er mit dem Finanzministerium ge<lb break="no"/>sprochen hat, damit die Haftungssumme von 45 Milliarden auf 60<lb/>
+Milliarden und die Finanzierung von 20 auf 30 Milliarden Schilling<lb/>
+<pb n="26-0621" facs="26_1975-05-20_0621.jpg"/>erhöht wird. <name type="person" ref="per:97311">Androsch</name> hätte dem zugestimmt.<lb/>
+</p>
+            <p xml:space="preserve">In der Ministerratsvorbesprechung verweist <name type="person" ref="per:97668">Kreisky</name> auf einen Brief<lb/>
+von <name type="person" ref="per:97676">Lachs</name>, wo dieser sich gegen die nicht motivierten Preise, z.B.<lb/>
+Unilever ausspricht. <name type="person" ref="per:97668">Kreisky</name> möchte deshalb bei Margarine eine<lb/>
+Preissenkungsaktion starten wie 1971. Er deutet an, daß der Finanz<lb break="no"/>minister hier entgegenkommen müßte, sagt aber nicht konkret wie er<lb/>
+sich das vorstelle. 1971 haben wir nämlich die Umsatzsteuer dort gesenkt,<lb/>
+weshalb es leicht möglich war den Margarinepreis ebenfalls zu senken.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> meint, wir müßten jetzt eine aktivere Preispolitik im Zuge<lb/>
+der Rohstoffpreissenkungen durchführen. Meine ursprüngliche Preis<lb break="no"/>senkungsidee vom Vorjahr wird von ihm aufgegriffen und er meint wir<lb/>
+müßten gegebenenfalls auch mit der ganzen Autorität der Regierung<lb/>
+die Unternehmer zu Maßnahmen zwingen. Da ich überzeugt bin, daß der<lb/>
+Finanzminister kaum bereit ist hier eine Steuersenkung in Aussicht<lb/>
+zu stellen, was nebenbei bemerkt auf ein Wahnsinn wäre, weil er<lb/>
+sich das ganze Umsatzsteuersystem zusammenschlägt, erkläre ich, daß<lb/>
+ich Verhandlungen mit der Unilever aufnehmen werde. Ich habe davon<lb/>
+dann sofort MR <name type="person" ref="per:112051">Singer</name> informiert und gebeten, er soll die ersten Be<lb break="no"/>sprechungen führen. Es ist möglich, daß die Unilever um aus der<lb/>
+Kartellklage, die die Arbeiterkammer erhoben hat herauszukommen,<lb/>
+vielleicht wirklich bereit ist Preissenkungen zu machen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:98040">WAIS</name>: Vielleicht könnten wir mit unserer Preissenkungs<lb break="no"/>aktion wieder starten.<lb/>
+</p>
+            <p xml:space="preserve">Ich berichte über die Ölpreissenkung Heizöl Extra Leicht von<lb/>
+2.70 auf 2.50 und <name type="person" ref="per:97311">Androsch</name> ist damit sehr einverstanden, wehrt sich<lb/>
+nur, daß wir den Benzinpreis vielleicht auch einmal senken. Er ist<lb/>
+fest entschlossen 30 Groschen Steuererhöhung für den Südautobahnausbau<lb/>
+sobald als möglich einzuheben. Dazu benötigt er aber ein Gesetz was<lb/>
+sicherlich in dieser Legislaturperiode nicht mehr der Fall sein wird.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> ist außer dieser Preissenkung auf Verbraucherpreisen sehr<lb/>
+daran interessiert, daß man auch die Bauindustrie unter eine neue<lb/>
+Kontrolle nimmt. Er ersucht mich, ich soll <name type="person" ref="per:97755">Moser</name> über die letzten<lb/>
+Wünsche der Baustoffindustrie informieren, damit er diesbezügliche<lb/>
+Verhandlungen als Bautenminister führt und für seinen Bereich sie<lb/>
+nicht akzeptiert.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:98040">WAIS</name>: Bitte dem Büro <name type="person" ref="per:97755">Moser</name> alle Datailunterlagen von<lb/>
+der Paritätischen Kommission zustellen.<lb/>
+</p>
+            <pb n="26-0622" facs="26_1975-05-20_0622.jpg"/>
+            <p xml:space="preserve">Die Anfrage der ÖVP über Meinungsforschungsinstitutsbeschäftigungen<lb/>
+sollen koordiniert werden.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:97377">BUKOWSKI</name>: Bitte sofort mit <name type="person" ref="per:108223">Lausecker</name> Einvernehmen her<lb break="no"/>stellen.<lb/>
+</p>
+            <p xml:space="preserve">Eine Diskussion entwickelt sich über das Allgemeine Krankenhaus.<lb/>
+Der Bau wird irrsinnig lange dauern, weil der Funktionsplan nicht<lb/>
+mehr stimmt, die Detailpläne nicht vorliegen und man zu bauen be<lb break="no"/>gonnen hat und jetzt roch weiterbaut ohne zu wissen, wie die einzelnen<lb/>
+Trakte verwendet werden. Man ist sich nicht einmal noch über die Tür<lb break="no"/>breiten und die Höhen der Zimmer einig. Die Kosten sind davongelaufen.<lb/>
+<name type="person" ref="per:123307">Bandion</name> als Generalbevollmächtigter hat, als er diesen Sauhaufen<lb/>
+dort übernommen hat, teilweise mit der Staatsanwaltschaft gedroht.<lb/>
+Das Ergebnis ist, daß dort jetzt auch die Beamten nichts mehr tun.<lb/>
+Die Konzeption ist sicherlich überhöht, der Projektor <name type="person" ref="per:140549">Riethmüller</name>,<lb/>
+der 120 Millionen Schilling Architektenhonorar bezogen hat, müßte<lb/>
+eigentlich ein anderes Konzept ausarbeiten. <name type="person" ref="per:97668">Kreisky</name> möchte unter gar<lb/>
+keinen Umständen der Gemeinde Wien allein die Bauherrschaft übertragen<lb/>
+und meint, man soll Spitalfachmänner als Gutachter einsetzen, die<lb/>
+erklären sollen, wie man in Zukunft weiter tun sollte. Insbesondere<lb/>
+denkt er an einen dänischen Arzt, der irgendwo erklärt hat, daß wir<lb/>
+zu teuer bauen. Ich bin neugierig ob sich <name type="person" ref="per:97668">Kreisky</name> hier durchsetzt,<lb/>
+d.h. daß anstelle der Reorganisation mit einer Entscheidungsstelle<lb/>
+dann wieder eine Enquete oder ein Gutachten zusätzlich herauskommt,<lb/>
+was auch niemand weiter hilft. Bin ich froh, daß ich nichts mit<lb/>
+Bauten zu tun habe. Die Reorganisation dieses Systems erscheint mir<lb/>
+dringendst notwendig. Auch bei der öffentlichen Hand zeigt sich mein<lb/>
+alter Grundsatz, lieber länger und kürzer bauen, als richtig. Bei<lb/>
+uns wird viel zu wenig Detailplanung vorgenommen, mit dem Bau be<lb break="no"/>gonnen und dann beginnt ununterbrochen die Änderung.<lb/>
+</p>
+            <p xml:space="preserve">In der Ministerratssitzung macht <name type="person" ref="per:97668">Kreisky</name> aus gegebenem Anlaß<lb/>
+bei einem anderem Ministerium wieder darauf aufmerksam, daß die<lb/>
+Auslandsreisen limitiert sind und nach dem Erreichen dieses Limits<lb/>
+keine einzige mehr von ihm genehmigt wird. Wie er das allerdings<lb/>
+prüft, weiß ich nicht. Derzeit führt nur eine Abteilung im Bundes<lb break="no"/>kanzleramt darüber eine genaue Statistik. Wenn die allerdings dann<lb/>
+kommt, ist das Jahr sicherlich fast vorüber.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97755">Moser</name> berichtet über das Brückenunglück und meint, daß innerhalb<lb/>
+<pb n="26-0623" facs="26_1975-05-20_0623.jpg"/>der 5 Jahre 1.420 Brücken gebaut wurden, 500 noch im Bau sind<lb/>
+und sich erst 6 Unfälle ereignet haben. Genaueres, wieso es<lb/>
+allerdings zu dieser Katastrophe gekommen ist, weiß <name type="person" ref="per:97755">Moser</name> auch<lb/>
+noch nicht. Die Bundesregierung beschließt, sofort 5.000 Schilling<lb/>
+jedem zu überweisen.<lb/>
+</p>
+            <p xml:space="preserve">Die Aussprache mit dem Minister von der Elfenbeinküste <name type="person" ref="per:140550">Gnoleba</name>,<lb/>
+an der ich nicht teilnehmen konnte, weil Ministerrat war, bringt<lb/>
+wie mir <name type="person" ref="per:108322">Meisl</name> sagt nichts neues, obwohl er sehr konkrete Auskünfte<lb/>
+wünschte. <name type="person" ref="per:108322">Meisl</name> meinte es wäre oft gut, wenn andere auch so gut<lb/>
+vorbereitet kämen. Die Sitzung dauerte allerdings nur 20 Minuten.<lb/>
+Auch bei meinem Essen gibt es keine neuen Gesichtspunkte. Vom<lb/>
+Bundeskanzleramt ist MR <name type="person" ref="per:114676">Zuk</name>, der für die Entwicklungshilfe zuständig<lb/>
+ist, anwesend. Außer der Reise <name type="person" ref="per:98034">Veselsky</name> in alle diese Gegenden<lb/>
+machen wir aber glaube ich kaum wirklich entscheidende Fortschritte<lb/>
+in unserer Entwicklungshilfeunterstützung.<lb/>
+</p>
+            <p xml:space="preserve">In der Bundesfraktion des ÖGB gibt <name type="person" ref="per:97668">Kreisky</name> einen außenpolitischen<lb/>
+Bericht und meint nur wir sollten dann für die Betriebsräte eine<lb/>
+größere Konferenz starten. Insbesondere schwebt ihm vor, die<lb/>
+Aufsichtsräte in den einzelnen Betrieben sollten zusammengefaßt<lb/>
+werden. Da dies im September nicht möglich ist, am 3. September<lb/>
+ist Bundesvorstand und am 15. beginnt der ÖGB-Kongreß, wird ver<lb break="no"/>sucht werden, dies noch vor dem Sommer zu arrangieren. Solche<lb/>
+großen Konferenzen sollen auch mit den Rentnern und über die<lb/>
+Familienpolitik gemacht werden.<lb/>
+</p>
+            <p xml:space="preserve">Ich wurde aufgefordert über die aktuellen wirtschaftspolitischen<lb/>
+Probleme zu berichten. Interessanterweise gab es darüber keine<lb/>
+Diskussion. Entweder wirke ich so überzeugend, oder es resigniert<lb/>
+schon alles.<lb/>
+</p>
+            <p xml:space="preserve">Für die Aussprache um 17 Uhr war zeitgerecht nur Baron <name type="person" ref="per:140551">Hauser</name><lb/>
+erschienen. Er ist der Direktor von <choice><choice><sic>Walleck</sic><corr>Walek?</corr></choice></choice>, Borckenstein und<lb/>
+<choice><choice><sic>Seuter</sic><corr>Seutter?</corr></choice></choice> und erklärte mir gleich, daß Borckenstein und <choice><choice><sic>Seuter</sic><corr>Seutter?</corr></choice></choice> sehr<lb/>
+gut als Textilbetriebe arbeiten. Kritisch wird es nur bei ein<lb break="no"/>zelnen Betrieben und der Branchen, z.B. sei das Strumpfhosenproblem<lb/>
+<pb n="26-0624" facs="26_1975-05-20_0624.jpg"/>noch immer nicht gelöst. Er war sehr erfreut zu hören, daß wir<lb/>
+für 6. Juni bereits eine Besprechung vorgesehen haben und bis dahin<lb/>
+alle Vorarbeiten geleistet werden. Die Vidierung wird bis dahin so<lb/>
+gehandhabt, daß nur mehr in nachweislich dringendsten Fällen mit<lb/>
+entsprechenden Vertragsvereinbarungen Einfuhrgenehmigungen gegeben<lb/>
+werden. Außerdem müßten wir uns über das Problem der Strümpfe<lb/>
+noch unterhalten, weil hier auch die Billigstpreisimporte<lb/>
+für die österreichischen Betriebe tödlich sind. Als <name type="person" ref="per:97581">Igler</name> und<lb/>
+<name type="person" ref="per:113033">Hartig</name> dann wesentlich später kamen und ähnliche Probleme aufwarfen,<lb/>
+erklärte ich rundwegs, daß lange bevor sie gekommen sind und lange<lb/>
+bevor die Industriellenvereinigung überhaupt auf dieses Problem<lb/>
+dachte, das Handelsministerium schon aktiv geworden ist. <name type="person" ref="per:97581">Igler</name> meinte<lb/>
+nur, daß für einige Textilbetriebe von Linz bis Wien eine Reorgani<lb break="no"/>sation dringend notwendig ist. Von den fünf bis sieben Betrieben<lb/>
+die davon in Frage kommen, dürften maximal 2–3 übrig bleiben.<lb/>
+Er hat deshalb seinerzeit schon bei der Vorsprache der Industriellen<lb break="no"/>vereinigung bei der Regierung von <name type="person" ref="per:97311">Androsch</name> ersucht eine entsprechende<lb/>
+Unterstützung für diese Fusionsbestrebungen auf finanzieller Art<lb/>
+zu bekommen.Die Kredite die wir jetzt im Rahmen der 5 Milliarden<lb/>
+ERP resp. wenn dies durch entsprechende Richtlinien nicht gedeckt<lb/>
+ist, durch andere Möglichkeiten dringend benötigen, sollten auch<lb/>
+durch mich unterstützt werden. Ich erklärte, daß <name type="person" ref="per:97311">Androsch</name> ja schon<lb/>
+mitgeteilt hat, sowie bei Semperit-Kleber-Fusion eine entsprechende<lb/>
+Unterstützung von ihm zu erwarten war, er dies auch in Hinkunft tun<lb/>
+wird. Ich bin daher nicht präjudiziert, wenn <name type="person" ref="per:97311">Androsch</name> sich es wieder<lb/>
+anders überlegt, bin aber auch überzeugt, daß <name type="person" ref="per:97311">Androsch</name> wahrscheinlich<lb/>
+diesen Wunsch der Industriellenvereinigung erfüllen wird.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:113038">REIM</name>: Wie weit ist unser Fachreferat über Semperit-<lb/>
+Kleber im Detail informiert und wie weit wissen wir von den Fusions<lb break="no"/>bestrebungen auf dem Textilsektor im Detail.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97581">Igler</name> und <name type="person" ref="per:140313">Helbich</name><add>[Name hs. korrigiert, Anm.]</add> waren sehr überrascht zu erfahren, daß im<lb/>
+Energiesicherungsgesetz ich gar nicht die Absicht habe ein<lb/>
+Lenkungsinstrumentarium und insbesonderen Apparat aufzubauen. Ich<lb/>
+setzte ihnen auseinander, daß der Vorschlag der Mineralölwirt<lb break="no"/>schaft, insbesonderen Internationalen einen Fonds zu gründen,<lb/>
+<pb n="26-0625" facs="26_1975-05-20_0625.jpg"/>wesentlich mehr administrative Arbeiten wird. Ich jagte ihnen<lb/>
+einen Schrecken ein, als ich erklärte, dies würde der Finanzminister<lb/>
+oder vielleicht der Handelsminister verwalten mit entsprechender<lb/>
+Beamtenhierarchie, Ausbau und Neuaufnahme. Sollte dieser Fond<lb/>
+anderer Weise gegründet werden, dann wird es ähnlich wie bei den<lb/>
+landwirtschaftlichen Fonds, ebenfalls eine ungeheure Bürokratie<lb/>
+entstehen. <name type="person" ref="per:97581">Igler</name> war überrascht dies von mir zu hören, er sei von den<lb/>
+Ölindustriellen anders informiert. Er wird noch einmal mit der<lb/>
+Handelskammer und seinen Mitgliedsbetrieben sprechen. Ich bin gespannt,<lb/>
+was er für einen neuen Vorschlag bringen wird und ob er sich in der<lb/>
+Handelskammer wirklich durchsetzt. Wenn ich bedenke, daß er wahr<lb break="no"/>scheinlich zum ersten Mal erkannt hat, welche Gefahr hierfür<lb/>
+eine Bürokratisierung dieser Lagerhaltung entstehen könnte, so<lb/>
+müßte er tatsächlich alles daransetzen dies zu verhindern. Die<lb/>
+Überlegung nämlich, es wird privatrechtlich mehr oder minder die<lb/>
+zweckgebundenen Einnahmen dann von den Firmen verteilt, ist ja voll<lb break="no"/>kommen unmöglich. Da es sich hier um öffentliche Mittel handelt,<lb/>
+die durch Gesetz vorgeschrieben sind, muß eine genaue gesetzliche<lb/>
+Kontrolle erfolgen. Das bedeutet, daß auf alle Fälle entweder ein<lb/>
+eigener Fond gegründet wird, oder eine Bürokratie in einem Ministerium<lb/>
+sei es Finanzen oder Handel, entsprechende Verteilung durchzuführen<lb/>
+hat. Der Kontrollapparat wird eine ganz gehörige Anzahl von Beamten<lb/>
+beschäftigen. <name type="person" ref="per:140313">Helbich</name><add>[Name hs. korrigiert, Anm.]</add> ist mit der Lösung, eine Kalkulationspost<lb/>
+anzuerkennen und die Unternehmer müssen die Lagerung selbst durch<lb break="no"/>führen, sehr einverstanden. Einzig und allein der Grund warum die<lb/>
+Industriellenvereinigung dagegen ist und war, weil der Finanzminister<lb/>
+ihnen nicht die steuerlichen Wünsche auf diesem Sektor erfüllt hat,<lb/>
+ja nicht einmal darüber gesprochen hat. Hier erklärte ich <name type="person" ref="per:140313">Helbich</name><add>[Name hs. korrigiert, Anm.]</add><lb/>
+müßte er sich eben mit dem Finanzministerium ins Einvernehmen<lb/>
+setzen.<lb/>
+</p>
+            <p xml:space="preserve">Bei der SPÖ-Landstraße, Sektionsleitersitzung, hat sich bei mir der<lb/>
+Betriebsrat von Saurer beschwert, daß ein gewisser <name type="person" ref="per:118324">Pulz</name>, einer<lb/>
+der sieben Direktoren, die jetzt schon bestellt sind oder als achter<lb/>
+noch zusätzlich bestellt wird, von mir einen Orden bekommen hat,<lb/>
+obwohl er als sehr unsozial gilt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:97377">BUKOWSKI</name>: Bitte kläre, wieso <name type="person" ref="per:118324">Pulz</name> diesen Orden bekommen<lb/>
+hat.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="26_0616_01" facs="26_1975-05-20_0616-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 20.5.1975</head>
+         </div>
+         <pb n="26_0616_02" facs="26_1975-05-20_0616-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+         <pb n="26_0616_03" facs="26_1975-05-20_0616-03.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Liste Anträge Bundes(handels)kammer</head>
+         </div>
+      </back>
+   </text>
+</TEI>

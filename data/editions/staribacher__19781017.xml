@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstag, der 17. Oktober 1978</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band45_1978-10-17</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1978-10-17">Dienstag, 17. Oktober 1978</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2017-07-26">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="45-1200" facs="45_1978-10-17_1200.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Dienstag, den 17. Oktober 1978<lb/>
+</p>
+            <p xml:space="preserve">Die Besprechungen mit dem Komitee pro Zwentendorf zeigt, daß dort<lb/>
+wirklich eine ungeheure Aktivität entfaltet wird. Ich <choice><choice><sic>trage</sic><corr>frage?</corr></choice></choice> mich<lb/>
+allerdings, wie die Kampagne ansonsten gelaufen wäre, wenn nicht<lb/>
+<name type="person" ref="per:97627">Kienzl</name>, <name type="person" ref="per:97543">Heindl</name> und andere sich wirklich mit ihrer ganzen Kraft<lb/>
+dahinter gesetzt hätten. Jetzt ist es auch so, daß durch das<lb/>
+Einschwenken der ÖVP-Spitze mit Nein zu Zwentendorf die Industrie<lb/>
+schockiert ist. <name type="person" ref="per:98102">Wolfsberger</name> von Siemens, der natürlich größtes<lb/>
+Interesse daran hat, daß diese Volksabstimmung positiv ausläuft,<lb/>
+hat jetzt <name type="person" ref="per:97543">Heindl</name> gegenüber versichert, daß die Industrie bereit<lb/>
+ist, alle Kosten, die aus dieser Kampagne entstehen, zu übernehmen.<lb/>
+Das Schlimme dabei ist nur, daß jetzt verhältnismäßig wenig Zeit<lb/>
+mehr für wirklich systematische Aufklärungsarbeit verbleibt. Die<lb/>
+Atom-Gegner nützen die scheinbare Unterlegenheit, um sich überhaupt<add>[über]</add><lb/>
+alle fairen Wahlkampf-Methoden hinwegzusetzen. Dabei wird immer<lb/>
+wieder festgestellt, daß die eigenen Genossen die Plakate von<lb/>
+uns nur überkleben, daß sie mit allen ihnen zur Verfügung stehenden<lb/>
+unfairen Methoden gegen diese Aktivität für pro-Zwentendorf arbeiten.<lb/>
+Die wichtigste Frage scheint mir, daß <choice><choice><sic>ich</sic><corr>sich?</corr></choice></choice> die Sympathisanten<lb/>
+für Zwentendorf zumindestens Stimmkarten wählen, wenn sie, wie ich<lb/>
+annehme, zu den 5 schulfreien Tagen für die Pflichtschüler sich<lb/>
+außerhalb Wiens begeben. Das Kinderplakat für pro Zwentendorf<lb/>
+war graphisch sehr gut gelungen, doch wurde sofort von den Gegnern<lb/>
+in zweifacher Hinsicht unterlaufen, ein ebenfalls graphisch ge<lb break="no"/>schicktes Kinderplakat, nur mit Angstimage hat, glaube ich, das<lb/>
+unsere mehr als kompensiert. Dazu wurde noch von den Atomgegnern<lb/>
+sofort auf das Ja Nein drübergeklebt. Von dem Plakat, das<lb/>
+jetzt 68 Universitätsprofessoren für pro Zwentendorf unter<lb break="no"/>schrieben haben, erwarte ich mir bei den Leuten eine Ver<lb break="no"/>stärkung des Gefühls, es sind nicht alle Wissenschaftler dagegen.<lb/>
+Auch über die Enquete über die Atomangst, welche in der nächsten<lb/>
+Woche durchgeführt wird, kann es für gewisse positive Impulse<lb/>
+geben, trotzdem spielt sich unser Atom-Wahlkampf noch verhältnis<lb break="no"/>mäßig ruhig ab, wenn ich an die Schlachten der Atomgegner in<lb/>
+Deutschland denke. Der Pressereferent vom Bundeskanzler, <name type="person" ref="per:114464">Kunz</name>,<lb/>
+ersuchte mich ausdrücklich, im Pressefoyer nach dem Ministerrat<lb/>
+<pb n="45-1201" facs="45_1978-10-17_1201.jpg"/>zu der Frage Umbau des Atomkraftwerkes auf ein kalorisches Stellung<lb/>
+zu nehmen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> hat in diesem Pressefoyer, nachdem er über die Beamtenver<lb break="no"/>handlungen gefragt wurde, auch sofort auf die Plakataktion der<lb/>
+ÖVP verwiesen. Dort hat er mit Recht festgestellt, dass die ÖVP<lb/>
+falsche Behauptungen über die Regierungspolitik skrupellos plakatiert.<lb/>
+Da gewisse Länder vielleicht diese Art das Kampagne nicht mitmachen,<lb/>
+hat sofort Frau <name type="person" ref="per:113082">Schmitz</name> dieselben Plakattexte übernommen und nur<lb/>
+ÖVP-Signet weggelassen. <name type="person" ref="per:97668">Kreisky</name> sieht darin zurecht eine Plakat<lb break="no"/>aktion beider Gruppen, nur unter einem anderen Aspekt. <name type="person" ref="per:97668">Kreisky</name><lb/>
+hat auch vorgeschlagen, es sollte jetzt eine Diskussion im Fern<lb break="no"/>sehen zwischen ihm, <name type="person" ref="per:97346">Benya</name> und mir auf der einen Seite und <name type="person" ref="per:98003">Taus</name> mit<lb/>
+einem von ihm noch zu nominierenden Fachmann oder einem Vertreter<lb/>
+der Wirtschaft stattfinden. Dazu könnte man noch ein oder zwei<lb/>
+Experten, wie er sich ausdrückte, auf die Seite setzen. Ich erörterte<lb/>
+der Presse die letzten Erkenntnis von Univ.Prof. <name type="person" ref="per:116401">Bauer</name> von der<lb/>
+Technischen Hochschule Wien. Dieser hat eindeutig festgestellt,<lb/>
+dass eine Umrüstung des Kernkraftwerkes teurer käme, der Strom<lb break="no"/>preis würde aus diesem Werk gegenüber dem Kernkraftwerksstrompreis um<lb/>
+50 % teurer sein. Die näheren Details habe ich für mein Pressefrüh<lb break="no"/>stück kommenden Montag durch Prof. <name type="person" ref="per:116401">Bauer</name> selbst angekündigt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Bitte die Preis- und Kostenansätze genau<lb/>
+detailliert vorlegen.<lb/>
+</p>
+            <p xml:space="preserve">Im Bundesvorstand des ÖGB wurde in das Pressekommunique ein Satz<lb/>
+aufgenommen, dass der ÖGB sich positiv zur Kernenergie sich<lb/>
+stellt und dass er die Bevölkerung auffordert, zur Volksabstimmung<lb/>
+zu gehen. Ich hatte noch bei diesem Satz dazwischengerufen und mit<lb/>
+Ja zu stimmen. Dies ist deshalb aber nicht in die Resolution<lb/>
+gekommen, weil die christlichen Gewerkschafter ansonsten dieser<lb/>
+Resolution nicht zugestimmt haben. <name type="person" ref="per:113374">Gassner</name>, der Sprecher dieser<lb/>
+Gewerkschafter, hat allerdings nach wie vor seine positive Einstellung<lb/>
+zu Kernkraft Zwentendorf ausgedrückt. Wenn man bedenkt, dass jetzt<lb/>
+der Parteiobmann der ÖVP, <name type="person" ref="per:98003">Taus</name>, auf eine eindeutige "Nein"-Position<lb/>
+gegangen ist, dann hat <name type="person" ref="per:97627">Kienzl</name> vollkommen recht, wenn er in seinem<lb/>
+Diskussionsbeitrag dies besonders hevorgestrichen hat. Eigentlich<lb/>
+waren expressis verbis nur die Vertreter der kommunistischen<lb/>
+Fraktion, <name type="person" ref="per:117018">Streiter</name>, die Gewerkschaftliche Einheit, <name type="person" ref="per:116408">Zingler</name>, dagegen.<lb/>
+</p>
+            <pb n="45-1202" facs="45_1978-10-17_1202.jpg"/>
+            <p xml:space="preserve">Auch deren Gegenstimme war mehr so zu verstehen, dass sie im<lb/>
+Prinzip auch gegen ein Kernkraftwerk nicht einzuwenden haben, sondern<lb/>
+ganz allgemein gegen die Resolution stimmten, weil die Lohnsteuer<lb break="no"/>frage und andere Probleme nicht in ihrem Sinne gelöst werden<lb/>
+konnten. Der freiheitliche Sprecher <name type="person" ref="per:113375">Kindl</name> dagegen stimmte der<lb/>
+Resolution zu, so wie die christlichen Gewerkschafter. Der Obmann<lb/>
+der Chemiearbeiter <name type="person" ref="per:98010">Teschl</name> ersuchte mich, man sollte eine Arbeit<lb/>
+vorlegen, wo die Strukturveränderung seit 1970 in der Industrie<lb/>
+dargelegt wird. Die Gewerkschafter, meint er, hätten von ihrer<lb/>
+Branche ein verhältnismässig gutes Bild über diesen Strukturwandel,<lb/>
+aber über die Gesamtindustrie und Gewerbe wären sie nur unzureichend<lb/>
+informiert. Ich habe ihm zwar keinerlei Zusagen gemacht, könnte mir<lb/>
+aber vorstellen, dass tatsächlich eine kleine Arbeit, vielleicht<lb/>
+5–10 Seiten von uns vorgelegt werden könnte.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97819">PLESCH</name>: Bitte mit <name type="person" ref="per:98053">Wanke</name> und mir die ganze Frage be<lb break="no"/>sprechen.</p>
+            <p xml:space="preserve">Im Bundesparteivorstand hat <name type="person" ref="per:97668">Kreisky</name> <name type="person" ref="per:116415">Ackermann</name> zu seinem 80. Geburts<lb break="no"/>tag die Viktor Adler-Plakette überreicht. <name type="person" ref="per:116415">Ackermann</name> ist ein ver<lb break="no"/>dienter Genosse aus der Ersten Republik, der bereit den Vater<lb/>
+<name type="person" ref="per:97668">Kreiskys</name> beim Militär kennengelernt hat. Dieser hätte ihm durch<lb/>
+die Aufforderung, das Parteiprogramm der Sozialisten zu lesen,<lb/>
+zur Sozialdemokratischen Partei gebracht. <name type="person" ref="per:97668">Kreisky</name> hat dann aus<lb/>
+seiner Erlebniszeit mit <name type="person" ref="per:116415">Ackermann</name> berichtet. In der illegalen Zeit<lb/>
+sei er unmittelbar nach der Februar-Aufstand 1934 von der illegalen<lb/>
+Zentralkomitee-Sitzung, der auch <name type="person" ref="per:116415">Ackermann</name> angehörte, nach Brünn<lb/>
+geschickt worden, um <name type="person" ref="per:115580">Bauer</name> klarzumachen, dass die Parteiführung<lb/>
+jetzt in Wien ist und nicht vielleicht von ihm in Brünn geführt<lb/>
+werden kann. <name type="person" ref="per:115580">Bauer</name> hat aber damals bereits klar und deutlich,<lb/>
+bevor <name type="person" ref="per:97668">Kreisky</name> überhaupt sich äussern konnte, erklärt, dass<lb/>
+selbstverständlich jetzt die Hauptverantwortung und auch die ganze<lb/>
+Entscheidung bei den Genossen in Wien liegt. <name type="person" ref="per:116415">Ackermann</name> hat dann<lb/>
+aus seinem Leben erzählt, wobei er anfangs so aufgeregt war, dass<lb/>
+er kaum sprechen konnte. Hier haben wirklich zwei alte Genossen<lb/>
+sozusagen aus der Schule geplaudert. Umso mehr hat mich in der<lb/>
+Nachtsendung Club 2 dann überrascht, wie <name type="person" ref="per:97354">Pauli Blau</name>, als Anti<lb break="no"/>atomsprecher hinlänglich bekannt, erklärte, er hätte eine viel<lb/>
+längere Zeit innerhalb der Soz. Partei verbracht als <name type="person" ref="per:97668">Kreisky</name>.<lb/>
+<name type="person" ref="per:97354">Blau</name> streicht dies wirklich penetrant immer wieder heraus, wenn<lb/>
+<pb n="45-1203" facs="45_1978-10-17_1203.jpg"/>er sagt, er sei der Parteigründer 1945 gewesen, davon weiss<lb/>
+ich nämlich wirklich auch nichts, oder er sei länger in der<lb/>
+Partei als <name type="person" ref="per:97668">Kreisky</name>.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> selbst hat seinen politischen Bericht dann mit der<lb/>
+Feststellung eingeleitet, er soll vor dem Parteivorstand nicht<lb/>
+so umfangreich sein und man soll sich auf gewisse Fragen konzen<lb break="no"/>trieren. Als Wichtigstes bezeichnete er die Volksabstimmung zum<lb/>
+Kernkraftwerk Zwentendorf. Nachdem er die Entwicklung, wie es zu<lb/>
+der Gesetzwerdung gekommen ist, welche lange Diskussion, für<lb/>
+die er sich mitverantwortlich fühlt, vorangegangen ist, wie es<lb/>
+dann letzten Endes geglückt ist, einstimmige Beschlüsse in der<lb/>
+Partei sowohl im Parteivorstand als auch letzten Endes sogar im<lb/>
+Parteiprogramm zu fassen, stellte er letzten Endes dann den<lb/>
+Antrag, ein eindeutiges "JA" für Zwentendorf diesmal zu beschliessen.<lb/>
+Die SJ und die Junge Generation erinnerte er an ihre Verantwortung.<lb/>
+Er habe den Verdacht, dass es einzelne Funktionäre dort gibt,<lb/>
+die auf dem Standpunkt stehen, es wäre besser, wenn die Sozia<lb break="no"/>listen nicht die Regierung führen würden, dann könnten sie in der<lb/>
+Opposition wahrscheinlich eine bessere, radikalere Politik ver<lb break="no"/>langen, als sie in der Regierung imstande sind durchzuführen.<lb/>
+Wenn nämlich von diesen Gruppen Beschlüsse nicht beachtet werden,<lb/>
+wenn diese Leute insbesondere selbst im Parteivorstand und<lb/>
+in sonstigen Gremien sitzen, dann ist es schon eine grosse<lb/>
+Anforderung an die Toleranz der Partei, dies zu akzeptieren.<lb/>
+In der Diskussion, wo sich über zwei Dutzend Genossinnen und<lb/>
+Genossen beteiligten, kam auch die Verbitterung über das<lb/>
+Verhalten der Sozialisten als Atomgegner zur Sprache. Nur der<lb/>
+Obmann der soz. Jugend <name type="person" ref="per:111409">Cap</name> versuchte zu erklären, dass sie<lb/>
+mit dieser Antiaktion auch der Sozialistischen Partei nützen wollen.<lb/>
+Die Parteireform, die Ideologiediskussion, die offene Partei,<lb/>
+die Demokratisierung schaffe neue Akzente und man müsse daher<lb/>
+die sozusagen klare Linie weiter verfolgen. Sie wollten nicht<lb/>
+verunsichern, sondern nur die Reinheit sozusagen dieser Partei<lb break="no"/>reform, anders ausgedrückt vielleicht sogar der <name type="person" ref="per:97668">Kreisky'schen</name><lb/>
+Idee weiter wahren. Der Vertreter der Jungen Generation <name type="person" ref="per:114541">Konecny</name><lb/>
+wieder verwies darauf, dass die so kritisierte Broschüre<lb/>
+der Wiener JG nicht aus Parteimitteln finanziert wurde, sondern<lb/>
+aus Spenden. Jetzt wird diese Broschüre entgegen den Intentionen<lb/>
+<pb n="45-1204" facs="45_1978-10-17_1204.jpg"/>der JG in Niederösterreich ausgesandt und zwar ausdrücklich<lb/>
+von Parteigegnern. Der Vertreter des Landes Vorarlberg, <name type="person" ref="per:114957">Heinz</name>,<lb/>
+meinte wieder, sie könnten sich der Pro-Zwentendorf-Aktion nicht<lb/>
+anschliessen, sie hatten auch, als es in den Fünfzigerjahren gegen<lb/>
+den Mieterschutz Plakate gab, diese in Vorarlberg nicht affichiert.<lb/>
+Er kündigte aber gleichzeitig an, er wird bei der Abstimmung<lb/>
+den Sitzungssaal verlassen. <name type="person" ref="per:97668">Kreisky</name> verwies in seinem Schlusswort<lb/>
+darauf, dass die Jugend weder von der SJ noch von der JG<lb/>
+erfasst wird. Neuerdings strich er lobend heraus, dass in<lb/>
+Wirklichkeit nur die Gewerkschaftsjugend stärkere Aktivitäten<lb/>
+entfaltet. Hier glaube ich, überschätzt er diese auch ein wenig.<lb/>
+Den jungen Freunden müsste es zu denken geben, wenn sie jetzt<lb/>
+in einer Kampffront sind, die von ganz rechts – <name type="person" ref="per:116417">Burger</name> über<lb/>
+<name type="person" ref="per:113082">Schmitz</name>, <name type="person" ref="per:112569">Götz</name> und <name type="person" ref="per:98003">Taus</name> bis zu den linkesten Kräften, Bund<lb/>
+der Kommunisten usw., eingereiht sind. Ich fürchte, dass es<lb/>
+die Kernkraftgegner auch in unserer Partei gar nicht allzu<lb/>
+sehr stört. Sie sind fest davon überzeugt, dass nur auf diese<lb/>
+Art und Weise die reine Linie der Partei gewahrt werden kann.<lb/>
+Bei der Abstimmung stimmte <name type="person" ref="per:111409">Cap</name> dagegen und <name type="person" ref="per:114541">Konecny</name> enthielt<lb/>
+sich der Stimme.<lb/>
+</p>
+            <p xml:space="preserve">Der zweite Punkt war die Bestellung des Generalintendanten.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> meinte, hier wird ihm eine Führungsschwäche vorgeworfen.<lb/>
+Im Wirklichkeit hat er zwei Gruppen vorgefunden, die sich<lb/>
+nicht über den Generalintendanten einigen konnten. Es blieb<lb/>
+ihm daher gar nichts anderes übrig, als zu versuchen, eine Lösung<lb/>
+durch Vorschlag, man sollte <name type="person" ref="per:114975">Oberhammer</name> provisorisch bestellen<lb/>
+und dann sich um einen neuen Mann umsehen, aus diesem Dilemma<lb/>
+herauszukommen. Alle 16 Kuratoriumsmitglieder hatten ihm und<lb/>
+allen anderen in der Sitzung zugesichert, so sollte man vorgehen,<lb/>
+man war sich daher vollkommen einig, dass <name type="person" ref="per:97326">Bacher</name> nicht gewählt wird,<lb/>
+sondern dass man als Provisorium den <name type="person" ref="per:114975">Oberhammer</name> weiter bestellt.<lb/>
+Drei hatten sich an diesen Vorschlag, dem alle einstimmig zuge<lb break="no"/>stimmt hatten, nicht gehalten. Jetzt war es Aufgabe von <name type="person" ref="per:97356">Blecha</name>,<lb/>
+der nach wie vor als Mediensprecher fungiert, mit <name type="person" ref="per:97326">Bacher</name> das<lb/>
+neue Führungsteam auszuhandeln. <name type="person" ref="per:97356">Blecha</name>, <name type="person" ref="per:97346">Benya</name>, <name type="person" ref="per:97668">Kreisky</name> wurden<lb/>
+in diesem Fall immer wieder kontaktiert. <name type="person" ref="per:97326">Bacher</name> wollte zuerst<lb/>
+<pb n="45-1205" facs="45_1978-10-17_1205.jpg"/>für den Hörfunk anstelle <name type="person" ref="per:115016">Wolf in der Maur</name> <name type="person" ref="per:97417">Emmerich</name> aus Deutsch<lb break="no"/>land, für das erste FS-Programm <name type="person" ref="per:114503">Skala</name>, weil er <name type="person" ref="per:114503">Skala</name> nämlich<lb/>
+von kaufmännischen Direktor wegbringen wollte für seinen Freund<lb/>
+<name type="person" ref="per:116418">Lenhardt</name>. Fürs FS 2 war von ihm <name type="person" ref="per:116419">Marboe</name> vorgesehen. Die Verhandlungen<lb/>
+mit <name type="person" ref="per:97356">Blecha</name> ergaben dann, dass <name type="person" ref="per:115016">Wolf in der Maur</name>, Hörfunk, bleibt,<lb/>
+das 1. FS <name type="person" ref="per:116420">Podgorski</name> bekommt und <name type="person" ref="per:114503">Skala</name> als kaufmännischer Direktor<lb/>
+bleibt. Über den weiteren Vorgang, insbesondere die Wahl <name type="person" ref="per:97326">Bachers</name><lb/>
+zum GI, wird der übernächste Parteivorstand, also knapp vor der<lb/>
+Kuratoriumssitzung, vornehmen. Dies erscheint <name type="person" ref="per:97668">Kreisky</name> deshalb<lb/>
+notwendig, um <choice><choice><sic>den Gegner</sic><corr>dem Gegner? den Gegnern?</corr></choice></choice> nicht jetzt schon wieder durch unsere<lb/>
+Diskussion Möglichkeiten zu geben, sich auf diese Wahl entsprechend<lb/>
+vorzubereiten. Über diesen Punkt gab es fast keine Diskussion.<lb/>
+<name type="person" ref="per:97311">Androsch</name> bemerkte nur, dass jetzt die wirtschaftspolitischen In<lb break="no"/>formationen im ORF verstärkt werden und dass man daher äusserst vor<lb break="no"/>sichtig dieser Aktion gegenüber sich verhalten soll. Es darf nicht<lb/>
+so kommen, dass die Handelskammer und Industriellenvereinigung<lb/>
+diese monopolisiert. Ich glaube nicht, dass eine solche Gefahr<lb/>
+besteht, denn die erste grössere Sendung wurde im engsten Ein<lb break="no"/>vernehmen mit allen Sozialpartnern gestaltet.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:110998">Eisenberg</name> kam mit seinem ständigen Vertreter und einer Frau, die<lb/>
+ich nicht genau kannte, mit <name type="person" ref="per:108746">Haffner</name> zu mir, um wegen der Ein<lb break="no"/>ladung eines indischen Stahl- und Bergbauministers zu intervenieren.<lb/>
+Er hat mit diesem für Rumänien ein 5-Mia-$-Projekt abgeschlossen.<lb/>
+Er meint nun, man hätte, als<add>[sich?]</add> dieser Minister geäussert hat, wahr<lb break="no"/>scheinlich auf Intervention von <name type="person" ref="per:110998">Eisenberg</name> sofort den Mann nach<lb/>
+Österreich einladen müssen. Eine solche Möglichkeit sah ich<lb/>
+persönlich nicht, denn nach Informationen der VÖEST war diese gar<lb/>
+nicht daran interessiert, <name type="person" ref="per:110998">Eisenberg</name> als Vermittler zwischen<lb/>
+indischen Geschäften und sich einschalten zu lassen. Die VÖEST wird<lb/>
+den Minister zur gegebenen Zeit selbst einladen, ohne dass <name type="person" ref="per:110998">Eisen<lb break="no"/>berg</name> zwischengeschaltet wird. <name type="person" ref="per:108746">Haffner</name> hat dann auch noch spezifisch<lb/>
+dargelegt, dass zu diesem Zeitpunkt ich keine Möglichkeit ge<lb break="no"/>habt habe, den indischen Minister zu empfangen. <name type="person" ref="per:110998">Eisenberg</name> hat einen<lb/>
+Briefentwurf vorbereitet, wo ich dem Minister erklären soll, warum<lb/>
+es diesmal nicht möglich war, den von <name type="person" ref="per:110998">Eisenberg</name> vorgesehenen Be<lb break="no"/>suchstermin abzuwickeln. Da er auch in diesem Schreiben immer<lb/>
+wieder als Firma und Vertreter erwähnt werden will, habe ich<lb/>
+erklärt, dass ich im Prinzip bereit bin, an den indischen Minister<lb/>
+zu schreiben, doch die endgültige Formulierung dem Sekt.Chef <name type="person" ref="per:108322">Meisl</name><lb/>
+übertragen werde.<lb/>
+</p>
+            <pb n="45-1206" facs="45_1978-10-17_1206.jpg"/>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte prüfe, wie weit man <name type="person" ref="per:110998">Eisenberg</name><lb/>
+in diesem Schreiben erwähnt und damit sicherlich unterstützt.<lb/>
+</p>
+            <p xml:space="preserve">Die norwegische Ministerin für Konsumentenfragen <name type="person" ref="per:116422">Myklevoll</name><lb/>
+hat mit ihrem Staatssekretär und einigen anderen Vertretern<lb/>
+eine Studienreise nach Österreich unternommen. Sowohl die<lb/>
+Handelskammer als auch insbesondere unsere Ministerialvertreter<lb/>
+haben sie über alle Details informiert. Zuletzt hat noch<lb/>
+Dr. <name type="person" ref="per:97860">Rauter</name> vom Konsumverband sie über die Aktivitäten in<lb/>
+Österreich und ganz besonders über das österr. Sozial- und Wirt<lb break="no"/>schaftssystem aufgeklärt. Das Hauptproblem, glaube ich, besteht<lb/>
+aber darin, dass es sehr schwer war, über Englisch, sogar über<lb/>
+eine verhältnismässig schlechte Übersetzerin ins Norwegische<lb/>
+wirklich Details zu vermitteln. Es stellt sich für mich immer<lb/>
+mehr die Frage, dass die Hauptschwierigkeit in der Sprachenbarriere<lb/>
+liegt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte für nächste ausländische Minister<lb/>
+dafür sorgen, dass doch Dolmetscher zur Verfügung stehen.<lb/>
+</p>
+            <p xml:space="preserve">Der ausserordentliche Wiener Landesparteitag in der Stadthalle<lb/>
+war verhältnismässig gut besucht, die Delegierten waren zu meiner<lb/>
+grössten Überraschung zahlreicher erschienen, als ich erwartet<lb/>
+hatte. Da bereits in den Zeitungen und Rundfunk angekündigt wurde,<lb/>
+dass doch keine wesentliche Änderung in der Mannschaft der<lb/>
+Gemeinde bis Februar vorgenommen wird, hatte ich eigentlich<lb/>
+befürchtet, dass sich wenige Vertrauenspersonen für diesen<lb/>
+Landesparteitag interessieren. <name type="person" ref="per:97488">Gratz</name> hielt ein verhältnis<lb break="no"/>mässig sehr kurzes Referat, wo er die Gründe dieses Beschlusses<lb/>
+von ihm persönlich und dann vom Präsidium, Vorstand und Ausschuss<lb/>
+darlegte. Da <name type="person" ref="per:97488">Gratz</name> 8 Tage vorher noch auf dem Standpunkt gestanden<lb/>
+ist, man müsse sehr schnell handeln, um dem Gegner nicht die Mög<lb break="no"/>lichkeit zu geben, die Führungsschwäche zu behaupten, war es jetzt<lb/>
+umso überraschender, dass <name type="person" ref="per:97488">Gratz</name> nach reiflicher Überlegung, und<lb/>
+das glaube ich ihm sogar, zu der Auffassung gekommen ist,<lb/>
+personell bis Februar nichts zu ändern. Seine Absicht ist, und<lb/>
+dies wurde ihm dann letzten Endes auch vom Landesparteitag be<lb break="no"/>stätigt, dass es zweckmässiger ist, erst eine Sachdiskussion<lb/>
+zu führen, wie denn in den restlichen 4 1/2 Jahren der neu<lb/>
+<pb n="45-1207" facs="45_1978-10-17_1207.jpg"/>zusammenzusetzende Stadtsenat arbeiten soll. Die Bezirke werden<lb/>
+aufgefordert, unter Vorsitz des Bezirksobmannes Arbeitsgruppen<lb/>
+zu bilden und dort alle Kritiken und Vorschläge genau zu prüfen.<lb/>
+<name type="person" ref="per:97488">Gratz</name> wird dann bis Jänner entsprechend auch eine solche Arbeitsgruppe<lb/>
+für Wien schaffen und unter seinem Vorsitz dann alle Vorschläge<lb/>
+durcharbeiten. Erst auf Grund dieses neuen Sachprogrammes soll<lb/>
+dann die personelle Besetzung der Stadträte erfolgen. Ich bin<lb/>
+nicht überzeugt, dass wir wirklich in Ruhe jetzt diese Diskussion<lb/>
+bis zum Februar abführen können. Ich glaube eher, dass die ÖVP<lb/>
+und insbesondere die Massenmedien ständig personelle Vorschläge<lb/>
+und Kritiken bringen werden. Ich bin auch gar nicht so überzeugt,<lb/>
+ob es <name type="person" ref="per:97488">Gratz</name> dann noch im Februar gelingen wird, wenn der Schock<lb/>
+dieser Wahl vorüber ist, wirklich noch die grossen personellen<lb/>
+Veränderungen durchzuführen. <name type="person" ref="per:97488">Gratz</name> ist davon fest überzeugt, weil<lb/>
+er meint, auch bei einem Sieg, d.h. bei Halten des Wahlresultates<lb/>
+hätte er personelle Änderungen vornehmen müssen. Die Erneuerung<lb/>
+des Stadtsenates verlangt dies. In der Diskussion, die diesmal<lb/>
+sehr umfangreich war und sich stundenlang hinzog, hat auch <name type="person" ref="per:97668">Kreisky</name><lb/>
+das Wort ergriffen. Dies war deshalb notwendig, um die sonst scheinbar<lb/>
+ausgeklammerte Volksabstimmung den Delegierten vor Augen zu führen.<lb/>
+Beifall bekamen die Redner, welche freimütig die Situation in<lb/>
+der Partei kritisierten, <name type="person" ref="per:97552">Hindels</name> bezüglich der ORF-<name type="person" ref="per:97326">Bacher</name>-Bestellung<lb/>
+und Bundesrätin <name type="person" ref="per:115582">Heinz</name> über die Frage der Atomabstimmung und Verhalten<lb/>
+der Jungen Generation und SJ. Andererseits aber konnten auch Jugend<lb break="no"/>vertreter mit Beifall rechen, wenn sie die Parteispitze, insbesondere<lb/>
+aber das Verhalten einzelner Genossen und zwar ihr persönliches<lb/>
+Verhalten und Lebensstil kritisierten. Erfreulich für mich war,<lb/>
+dass in der Konferenz 5 junge Leute das Wort ergriffen, dort verhält<lb break="no"/>nismässig wenig demagogisierten, sondern sich sehr zurückhaltend mit<lb/>
+ihren Problemen und Verhältnis zur Partei beschäftigten. Ich hatte<lb/>
+schon befürchtet, dass es ähnlich wie im Parteivorstand ansonsten<lb/>
+zu harter Konfrontation gekommen wäre. Dies hilft in der jetzigen<lb/>
+Situation aber weder der Partei noch der Jugend. Ich glaube, dass<lb/>
+tatsächlich die Jugendfunktionäre jetzt selbst ein wenig geschockt<lb/>
+sind über die Entwicklung der KKW-Debatte. Anfangs mögen sie überzeugt<lb/>
+gewesen sein, hier wirklich im Interesse der Partei-Linie und der,<lb/>
+wie ich im Parteivorstand schon feststellen konnte, "Reinheit der<lb/>
+Demokratie-Reform, Parteireform usw." zu handeln, jetzt aber<lb/>
+dürften durch immer mehr grösseres Abrücken von der Sachfrage<lb/>
+<pb n="45-1208" facs="45_1978-10-17_1208.jpg"/>und der reinen politischen Äusserung selbst Zweifel ent<lb break="no"/>stehen.</p>
+            <p xml:space="preserve">Die Club 2–Diskussion, die ich mir bis in den nächsten<lb/>
+Tag hinein anhörte, war für mich sehr überraschend gut. Die<lb/>
+drei Pro-Leute, <name type="person" ref="per:97990">Staudinger</name>, KKW-Direktor in Zwentendorf und<lb/>
+gleichzeitig aber prononcierter ÖVP-ler, <name type="person" ref="per:116423">Binner</name>, Österr.<lb/>
+Atomreaktorsicherheit, und <name type="person" ref="per:114075">Erich Schmidt</name>, ÖGB, haben sich<lb/>
+wirklich gegen die drei anderen, <name type="person" ref="per:97354">Pauli Blau</name> als Führer der<lb/>
+Kontragruppe, dann einem Pater als Biologe und einer Frau<lb/>
+"Mütter gegen die Atomkraft", sehr gut geschlagen. Wenn alle<lb/>
+Diskussionen im FS, die es in der nächsten Zeit sicherlich<lb/>
+noch geben wird, so gut ausgehen, dann müssten wir auf Grund der<lb/>
+Sachinformation besser abschneiden, als ich befürchte. Alle<lb/>
+Behauptungen, die die KKW-Gegner aufstellten und die sie aus<lb/>
+Unterlagen sich zusammengesucht hatten, die dann einfach von<lb/>
+den Fachleuten widerlegt wurden, werden nämlich immer wieder<lb/>
+kommen. Insbesondere erscheint es mir daher wichtig, jetzt<lb/>
+so schnell wie möglich die ziffernmässige Widerlegung aller<lb/>
+dieser Behauptungen unseren Funktionären in die Hand zu geben.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Bitte mit <name type="person" ref="per:116423">Binner</name> und <name type="person" ref="per:97990">Staudinger</name> sofort<lb/>
+die ganzen Ziffern-Unterlagen, die sie vorgebracht haben, zusam<lb break="no"/>menfassen.</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="45_1199_01" facs="45_1978-10-17_1199-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 17.10.1978</head>
+         </div>
+         <pb n="45_1199_02" facs="45_1978-10-17_1199-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

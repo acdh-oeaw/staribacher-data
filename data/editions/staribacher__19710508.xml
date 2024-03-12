@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der  8. Mai 1971</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band05_1971-05-08</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1971-05-08">Samstag, 8. Mai 1971</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-07-28">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="05-0568" facs="05_1971-05-08_0568.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Samstag, 8. Mai 1971<lb/>
+</p>
+            <p xml:space="preserve">Die Gesamtvorstandssitzung der Lebensmittelarbeiter im Hueberhaus<lb/>
+dauerte so lange, dass ich nicht einmal an der Eröffnung des Bundes<lb break="no"/>tages der sozialistischen Akademiker teilnehmen konnte. In Wirklichkeit<lb/>
+aber sind diese Gesamtvorstandssitzungen wenig ergiebig. Die Sekretärs<lb break="no"/>besprechungen, die man tags zuvor machen muss, um einzelnen Probleme<lb/>
+mit den Sekretären zu besprechen, nehmen in Wirklichkeit alle Detail<lb break="no"/>arbeiten bereits vorweg. Ich glaube auch gar nicht, dass sich die<lb/>
+einzelnen Vorstandsmitglieder dafür sehr interessieren würden. Die<lb/>
+Berichte einzelner Landessekretäre und mancher Gruppensekretäre sind<lb/>
+oft sehr ins Detail gehend, um ihre Tätigkeit zu beweisen. Einige haben<lb/>
+noch immer nicht bemerkt, dass es für mich nicht entscheidend ist,<lb/>
+wenn er einem Problem recht lange Zeit widmet, sondern wenn dieses Problem<lb/>
+gelöst ist, ganz kurz nur erwähnt und dann andere Fragen zur Diskussion<lb/>
+oder zum Bericht stellt. Ich kann mir nämlich nicht vorstellen – obwohl<lb/>
+es ohne weiteres möglich ist – dass so geringe Aktivitäten von einzelnen<lb/>
+Kollegen in den Bundesländern nur entwickelt werden, dass sie mit nur<lb/>
+einem oder zwei Berichten, die recht lange ausfallen glauben, die Tätigkeit<lb/>
+dann entsprechend tarnen zu müssen. Andererseits möchte ich natürlich die<lb/>
+Kollegen nicht enttäuschen und ihnen womöglich das Wort abschneiden.<lb/>
+Ausser unseren Anträgen und die Delegierung zum Gewerkschaftskongress<lb/>
+im September wurden keine entscheidenden Beschlüsse gefasst. Da unsere<lb/>
+Gewerkschaftsarbeit sehr dezentralisiert durch die Gruppen durchgeführt<lb/>
+wird, brauchen wir auch nicht spektakuläre Beschlüsse oder gar Unter<lb break="no"/>stützungen für einzelnen ins Stocken geratene Verhandlungen. Einige<lb/>
+Funktionäre wünschten, dass die Gesamtvorstandssitzung in Hinkunft<lb/>
+nicht mehr am Samstag oder Sonntag sondern auf einen Arbeitstag fallen<lb/>
+sollte. Ebenso soll in Hinkunft nur mehr einmal im Monat eine Zentral<lb break="no"/>vorstandssitzung stattfinden. Anfänglich wehrte ich mich gegen diesen<lb/>
+Plan, doch letzten Endes gab ich nach, da ich deutlich sichtbar in<lb/>
+der Minderheit geblieben wäre. Sekretäre und Funktionäre wollen eben auch<lb/>
+die Fünftagewoche haben, so gut soll es mir einmal gehen.<lb/>
+</p>
+            <p xml:space="preserve">Um 11 Uhr nachts rief mich Botschafter <name type="person" ref="per:135642">Leitner</name> von Brüssel an und teilte<lb/>
+mir den letzten Stand der Verhandlungen mit. Details wusste er allerdings<lb/>
+selbst auch nicht, da die Verhandlungen strengst vertraulich und abge<lb break="no"/>schirmt geführt wurden. Da ihm aber <name type="person" ref="per:97922">Schmitz</name> anrief, um Details von ihm<lb/>
+zu wissen, fühlte er sich verpflichtet, auch mir diese mitzuteilen.<lb/>
+Auf alle Fälle ist es das erste Mal, dass Brüssel sich bei mir rührt.<lb/>
+Ich war angenehm überrascht.<lb/>
+</p>
+         </div>
+      </body>
+      
+   </text>
+</TEI>

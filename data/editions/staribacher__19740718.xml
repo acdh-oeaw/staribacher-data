@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Donnerstag, der 18. Juli 1974</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band21_1974-07-18</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1974-07-18">Donnerstag, 18. Juli 1974</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-12-06">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band21/">
+      <body>
+         <pb n="21-0900" facs="21_1974-07-18_0900.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Donnerstag, 18. Juli 1974</p><p xml:space="preserve">Der ORF – <name type="person" ref="per:122297">Strobl</name> macht eine NÖ-Sendung und interessiert sich<lb/>
+für unsere Untersuchung Zwettl im Rahmen der grenznahen Förderung.<lb/>
+Obwohl die wesentlich bessere Auskunft unsere Präs. G <name type="person" ref="per:97469">Gehart</name> und<lb/>
+seine Leute geben könnten, muss ich dieses Interview machen.<lb/>
+Fulpmes, Zwettl aber auch die Planungen, die für den Ausstellern<lb/>
+und Messen finanzieren, sind zweifelsohne neue Wege. In meinen<lb/>
+Augen zweckmässiger als wenn wir dieses Geld als Subvention zu<lb/>
+den Projekten zuschiessen.</p><p xml:space="preserve">Doz. <name type="person" ref="per:136678">Klimpt</name> hat die Methode, die delegierenden Gewerkschaften<lb/>
+über die Erfolge ihrer Hörer der Sozialakademie zu berichten.<lb/>
+Die zwei Lebensmittelarbeiter haben mit Vorzug abgeschnitten,<lb/>
+bei dieser Gelegenheit schlage ich <name type="person" ref="per:136678">Klimpt</name> vor, <name type="person" ref="per:98053">Wanke</name> er und ich<lb/>
+sollten uns über die Sozialakademie Vorträge über Wirtschaft, die<lb/>
+Lehrplangestaltung, die Vortragenden usw. im Herbst unterhalten.<lb/>
+Ich glaube, dass es notwendig ist, auch auf diesem Gebiet neue<lb/>
+Wege zu gehen.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: Wir müssen auch dort modernere Methoden<lb/>
+bessere Vortragende uns überlegen.</p><p xml:space="preserve"><name type="person" ref="per:140836">Wlaschek</name>, Billa, ruft von Radenthein ein, wo er eine neue Billa-<lb/>
+Filiale errichtet, dass man ihm die Anlieferung von Milch und<lb/>
+Molkereiprodukten verweigert. Ich treffe zufällig Hofrat <name type="person" ref="per:140106">Lechner</name><lb/>
+vom Milchwirtschaftsfonds und interveniere, obwohl ich mir<lb/>
+nicht ganz klar bin, ob nicht <name type="person" ref="per:140836">Wlaschek</name> ganz einfach nicht wirklich<lb/>
+einen Formfehler gemacht hat. In bin aber überzeugt, dass diese<lb/>
+nicht schriftlich durchgeführt Anmeldung für die örtliche Molkerei<lb/>
+genügt, um einen unangenehmen Konkurrenten auszuschalten. Wenn wir<lb/>
+ihm helfen, bin ich sehr gespannt, wie <name type="person" ref="per:140836">Wlaschek</name> unsere Preissenkungs<lb break="no"/>aktion unterstützten wird.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name>: Ich will nicht unbedingt in die Rolle der<lb/>
+ausschliesslichen Diskonter-Schützer kommen.</p><p xml:space="preserve">Beim Antwortschreiben an LH <name type="person" ref="per:98068">Wenzl</name> bin ich mir nicht ganz sicher,<lb/>
+ob tatsächlich unser Beschluss, dass automatisch die sozialisti<lb break="no"/>schen LH-Stellvertreter eine Kopie bekommen, eingehalten wird.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98072">WIESINGER</name>: Bitte unbedingt auf die Einhaltung dieses<lb/>
+äusserst wichtigen Beschlusses achten.</p><pb n="21-0901" facs="21_1974-07-18_0901.jpg"/><p xml:space="preserve">Bei der Regierungsbesprechung gibt Kreisky so wie immer zuerst<lb/>
+einen politischen <choice><choice><sic>tour de horizont.</sic><corr>tour d'horizon</corr></choice></choice> Viele fragen sich, wozu<lb/>
+das überhaupt gut ist. Sie haben scheinbar immer noch nicht überzo<lb break="no"/>gen, resp. erkennen nicht, dass <name type="person" ref="per:97668">Kreisky</name> dabei bei solchen Vorträgen<lb/>
+seine Meinungen motiviert. Allerdings wird er sicherlich auch in<lb break="no"/>folge Überarbeitung immer unduldsamer und möchte scheinbar so wenig<lb/>
+wie möglich Widerspruch zu seinen Ideen. Er klammert z.B. die<lb/>
+Marktordnungsproblematik aus und meint, diese Taktik müsste man<lb/>
+ein andermal besprechen. Als <name type="person" ref="per:98055">Weihs</name> dann doch berichtet, meint er<lb/>
+der Bundeskanzler könnte nicht dagegen auftreten, dann wird in<lb/>
+letzter Minute es doch beschlossen und er erscheint als Hampel<lb break="no"/>mann. Da ich dagegen remonstriere, dass vielleicht letzten Endes,<lb/>
+wie in der Koalitionszeit zum Schluss der Tausch, wir kriegen<lb/>
+die Preisgesetze und die Landwirtschaft die Marktordnungen wie sie<lb/>
+sie wünschen, auch keine ideale Lösung ist, schlägt er vor, <name type="person" ref="per:98055">Weihs</name>,<lb/>
+<name type="person" ref="per:97311">Androsch</name> und ich sollten entsprechende Gegenvorschläge für die<lb/>
+Parteienverhandlungen ausarbeiten. Ich verwies darauf, dass die<lb/>
+Arbeiterkammer und der Gewerkschaftsbund ihre Forderungen jetzt<lb/>
+konkretisieren.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:111737">Marsch</name>: Bitte die konkreten Formulierungen so schnell<lb/>
+wie möglich <name type="person" ref="per:98055">Weihs</name> und <name type="person" ref="per:97311">Androsch</name> zur Verfügung<lb/>
+stellen.</p><p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> meint, dass die LH der ÖVP jetzt sehr aggressiv werden.<lb/>
+<name type="person" ref="per:113131">Niederl</name> hätte ihm wegen der Rundfunkproblematik einen Brief geschrie<lb break="no"/>ben, auf den er nur antwortet, er nähme an, dass <name type="person" ref="per:113131">Niederl</name> diese<lb/>
+ihm vorgelegte Schreiben nicht genau gelesen habe und schicke es<lb/>
+ihm daher zurück. <name type="person" ref="per:97668">Kreisky</name> gibt zu, dass dies ein einmaliger<lb/>
+Vorgang in der Zweiten Republik gewesen ist, ich bin neugierig<lb/>
+wie <name type="person" ref="per:113131">Niederl</name> darauf reagiert. Sicher ist, dass die ÖVP jetzt ihre LH<lb/>
+insbesondere vor den Wahlen gegen die Bundesregierung mobilisiert.<lb/>
+Einerseits werden vernünftige Landeshauptleute wie <name type="person" ref="per:98048">Wallnöfer</name> dies<lb/>
+ausgedrückt hat zuerst greife ich <name type="person" ref="per:97668">Kreisky</name> an und dann gehe ich mit<lb/>
+ihm den Vorarlberg-Tunnel anstechen, nicht immer mitmachen. Die<lb/>
+Länder müssen mit der Bundesregierung zusammenarbeiten, weil sie<lb/>
+auch viel von der Bundesregierung brauchen. <name type="person" ref="per:97668">Kreisky</name> empfiehlt, man so<lb/>
+soll sich aggressive Angriffe der LH nicht gefallen lassen. Ich glaube<lb/>
+dass mit den LH unsachliche Vorgangsweise zurückweisen muss, wie<lb/>
+dies z.B. <name type="person" ref="per:113131">Niederl</name> jetzt mit der steirischen Kohle versucht. Die<lb/>
+Volkspartei und alle ihre Exponenten, LH, NR usw., verschärfen<lb/>
+<pb n="21-0902" facs="21_1974-07-18_0902.jpg"/>das politische Klima in Österreich. Es wird uns muss daher zu einer<lb/>
+härteren Konfrontation kommen. Die schlechten Erfolge bei den<lb/>
+Landtagswahlen sind nicht zuletzt auch darauf zurückzuführen,<lb/>
+und <name type="person" ref="per:97525">Häuser</name> bestätigt dies auch, dass es unmöglich ist, zuerst<lb/>
+5 Jahre zu kooperieren und dann in 6 Wochen im Wahlkampf sich zu<lb/>
+versuchen zu distanzieren. Dies wäre auch nach Auffassung glaube<lb/>
+ich sehr vieler Teilnehmer besonders der Fall, wenn die grosse<lb/>
+Koalition wieder käme. Am schlimmsten wäre es, meinte <name type="person" ref="per:97372">Broda</name>,<lb/>
+wenn wir vielleicht gar das Schweizer System auf Regierungsebene<lb/>
+verfassungsmässig verankern, was jetzt teilweise ja schon in den<lb/>
+Landesregierungen der Fall ist. <name type="person" ref="per:97372">Broda</name> würde dies als österreichi<lb break="no"/>schen Irrweg bezeichnen. Jetzt schon sind die Landesregierungen<lb/>
+nur Verwalter und Verteiler. <name type="person" ref="per:97668">Kreisky</name> glaubt, dass bei der nächsten<lb/>
+Wahl noch immer die Mehrheit für die SPÖ drinnen ist und meint<lb/>
+daher, man sollte jedwede Diskussion über Koalition überhaupt nicht<lb/>
+führen. Die Konfrontation muss gesucht werden und geführt werden<lb/>
+in der Vergangenheit hat man auch nicht geglaubt, dass es möglich ist<lb/>
+in Graz <name type="person" ref="per:136789">Scherbaum</name> mit einer schwarz-blauen Koalition hinauszudrücken<lb/>
+oder in Klagenfurt den beliebten Bürgermeister <name type="person" ref="per:140328">Ausserwinkler</name> zu be<lb break="no"/>seitigen. Hier allerdings möchte ich einschränken, dass sich jetzt<lb/>
+herausgestellt hat, nachdem <name type="person" ref="per:140328">Ausserwinkler</name> verloren hatte, dass schein<lb break="no"/>bar seine Beliebtheit innerhalb der Partei gar nicht so gross ge<lb break="no"/>wesen ist. Nachdem er nicht einmal mehr die Hälfte der Delegierten<lb/>
+bei der nächsten Wahl zum Bezirksobmann hinter sich gehabt hat.<lb/>
+Hier bestätigte sich halt wieder, dass eine verlorene Wahl sich<lb/>
+automatisch auf den Spitzenkanditaten so auswirkt, dass selbst schein<lb break="no"/>bar Götter gestürzt werden.</p><p xml:space="preserve">Bezüglich der Preispolitik meinte <name type="person" ref="per:97668">Kreisky</name>, dass <name type="person" ref="per:97917">Schleinzer</name> im<lb/>
+Klub der ÖVP vorgeschlagen hat, er müsse jetzt entscheiden, ob<lb/>
+man die Vorschläge der SPÖ Preisbildung annehmen solle oder nicht.<lb/>
+Hier hätte angeblich der Klub erklärt, er hätte von der Parteiführung<lb/>
+einen entsprechenden Vorschlag erwartet. Die Ablehnung der Gesetze<lb/>
+seien dann mit sehr knapper Mehrheit erfolgt. Jetzt müsse man weiter<lb/>
+eine selektive Preispolitik betreiben, insbesondere die Preis<lb break="no"/>senkung wurde von <name type="person" ref="per:97668">Kreisky</name> sehr lebend erwähnt. Um der Regierung<lb/>
+nicht vorzuwerfen, dass sie nicht alles dazu beiträgt, um das Preis<lb break="no"/>klima zu verbessern, möchte <name type="person" ref="per:97668">Kreisky</name> daher den ERP-Zinssatz unver<lb break="no"/>ändert lassen. <name type="person" ref="per:97311">Androsch</name> sprach auch davon, dass <name type="person" ref="per:98003">Taus</name> und <name type="person" ref="per:127907">Klauhs</name><lb/>
+beide Generaldirektoren von ÖVP-Instituten, eine hohe Zinsfuss<lb break="no"/><pb n="21-0903" facs="21_1974-07-18_0903.jpg"/>politik wollen, um nicht in deren Abhängigkeit zu geraten , wird<lb/>
+<name type="person" ref="per:97311">Androsch</name> die Auslandskredite für den Bund weitestgehend in An<lb break="no"/>spruch nehmen. In der Budgetpolitik möchte er die Sparsamkeit<lb/>
+in den Vordergrund stellen. Das Budget 1975 wird sehr knapp sein<lb/>
+Ressortnotwendigkeiten werden in Budgetüberschreitungsgesetzen<lb/>
+dann berücksichtigt. <name type="person" ref="per:97668">Kreisky</name> wies bei der Sparsamkeit darauf hin,<lb/>
+dass die Regierung in der Repräsentation sehr zurückhaltend ist,<lb/>
+während die Dienstreisen ständig zunehmen. <name type="person" ref="per:97668">Kreisky</name> meinte insbeson<lb break="no"/>dere die "schwarzen Beamten" fahren ununterbrochen herum. Er wird<lb/>
+Richtlinien in Form eines Briefes an die Minister festhalten,<lb/>
+nach denen dann vorgegangen werden soll.</p><p xml:space="preserve">Bei den einzelnen Ressortberichten wies ich darauf hin, dass<lb/>
+wir unsere Zusammenstellung zeigt, wir von der Regierungserklärung<lb/>
+nur das Bevorratungsgesetz offen hätten. Hier meinte <name type="person" ref="per:97668">Kreisky</name>, in<lb/>
+der Regierungserklärung sei kaum ein Wort über Bevorratungsgesetz<lb/>
+vorgekommen. Ich erwiderte sofort, dass dort richtig nur von der<lb/>
+Wirtschaftlichen Landesverteidigung die Rede ist, aber im Vorjahr<lb/>
+überall Erklärungen abgegeben wurden, dass ein solches Bevorratungs<lb break="no"/>gesetz kommen soll. Ich selbst war hier sehr zurückhaltend und habe<lb/>
+keine solchen Versprechungen gemacht. <name type="person" ref="per:97311">Androsch</name> meinte, es ginge hier<lb/>
+primär um die Finanzierung, da die Unternehmer erwarten, ihre normale<lb/>
+Betriebsmittelfinanzierung auch hier vom Staate subventioniert<lb/>
+zu bekommen. Ich erklärte, dass ich dieses Problem sowieso im<lb/>
+Herbst neuerdings durch Enqueten und spezielle Verhandlungen mit<lb/>
+den einzelnen Bundesländern insbesondere Vorarlberg gibt mir mit<lb/>
+dem Gutachten eine gute Möglichkeit, einleiten werde, sodass nicht<lb/>
+von vornherein mit grossen budgetären finanziellen Belastungen<lb/>
+im nächsten Jahr gerechnet werden muss. Hier hat sich halt wieder<lb/>
+einmal gezeigt, es werden zuerst – und dies wahrlich nicht von mir –<lb/>
+grosse Ankündigungen gemacht und nachher hapert es hie der Durch<lb break="no"/>führung. Als legislative Massnahme habe ich hier angekündigt, dass<lb/>
+gegebenenfalls für das nächste Jahr im Parlament mit dem Berggesetz<lb/>
+gerechnet werden kann. Die anderen Minister haben teilweise, den<lb/>
+Nachweis, dass ihr Teil der Regierungserklärung erfüllt ist, dadurch<lb/>
+erbracht, dass sie den Text von <name type="person" ref="per:97668">Kreisky</name> ganz einfach nur unter<lb break="no"/>strichen haben und erklärten, dies ist eben schon erfüllt. Hier glaub<lb/>
+ich ist die Methode, wie <name type="person" ref="per:97469">Gehart</name> dies mit dem Teil für das Handels<lb break="no"/>ministerium gemacht hat, wesentlich besser.</p><pb n="21-0904" facs="21_1974-07-18_0904.jpg"/><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97469">GEHART</name>: Bitte an alle Regierungsmitglieder Kopien mit<lb/>
+einem Begleitbrief von mir schicken.</p><p xml:space="preserve"><name type="person" ref="per:113083">Sinowatz</name> hat darauf verwiesen, dass das Filmförderungsgesetz eigentlich<lb/>
+in meine Kompetenz fällt und er jetzt gemeinsam mit mir ein solches<lb/>
+erstellen will. Mein Hinweis, dass ich vor längerer Zeit schon eines<lb/>
+fertiggestellt habe, er dann aber die Kompetenz in Anspruch genommen<lb/>
+hat, hat er nicht bestritten. Scheinbar erscheint ihm der Vorschlag,<lb/>
+den <name type="person" ref="per:136288">Jungbluth</name> mit dem neuen Filmförderungsgesetz gemacht hat, nicht<lb/>
+zielführend, weshalb er jetzt einen gemeinsamen Vorschlag machen<lb/>
+will, damit der Finanzminister dann die entsprechenden Mittel bereit<lb break="no"/>stellt.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Bitte den <name type="person" ref="per:136288">Jungbluth</name>-Vorschlag verschaffen und<lb/>
+dann neue Besprechungen beginnen.</p><p xml:space="preserve"><name type="person" ref="per:98055">Weihs</name> wies darauf hin, dass er die Qualitätsklassenverordnungen für<lb/>
+Salat, Gurken, Tomaten, Karfiol jetzt endlich wird vorlegen, nachdem<lb/>
+er befürchtet, dass die Überschüsse der europäischen Gemeinschaft<lb/>
+sonst nach Österreich kommen. Da diese qualitätsmässig sehr schlecht<lb/>
+sein sollen, gibt <name type="person" ref="per:98055">Weihs</name> vor, damit auch die Konsumenten zu schützen.<lb/>
+Demselben Zweck dient die Weingesetznovelle. <name type="person" ref="per:98055">Weihs</name> verwies auch darauf,<lb/>
+dass die Zuckerindustrie von ihm verlangt hat, dass eine Rationierung<lb/>
+eingeführt werden soll, weil der Anschluss an die neue Ernte nicht<lb/>
+gefunden werden kann. <name type="person" ref="per:97668">Kreisky</name> fragte mich sofort, was ich dazu zu<lb/>
+sagen habe, ich selbst erklärt, die Zuckerindustrie, insbesondere die<lb/>
+Firma Mauthner hätte als sie die Exporte durchgeführt hat, erklärt,<lb/>
+die Versorgung sie gesichert und deshalb würde ich jetzt mit <name type="person" ref="per:58381">Mauthner</name><lb/>
+verhandeln, um einen eventuellen Anschlussimport für die neue Ernte<lb/>
+zu finden. Hauptproblem sei der wesentlich höhere Importpreis.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:111737">Marsch</name>: Die Verhandlungen müssen noch vor meinem Urlaubs<lb break="no"/>antritt abgeschlossen werden.</p><p xml:space="preserve"><name type="person" ref="per:98055">Weihs</name> schlug auch vor, dass für die Erwerbsgärtner ein Drittel der<lb/>
+Erdölpreiserhöhungen ca. 33 – 35 Mill. S Subvention eingeführt<lb/>
+werden soll. Dagegen sprach sich <name type="person" ref="per:97311">Androsch</name> sofort aus, da er meinte,<lb/>
+bei Preisgeregelten Waren sei eine Subvention noch <choice><choice><sic>erträflich,</sic><corr>erträglich?</corr></choice></choice> nicht<lb/>
+aber bei der freien Preisbildung der Obst- und Gemüsebauern. <name type="person" ref="per:97668">Kreisky</name><lb/>
+meinte, man solle die Forderung der Erwerbsgärtner nicht so ablehnen,<lb/>
+denn diese seien für die Versorgung unbedingt notwendig. Da er anderer<lb break="no"/>seits selbst aber dann Bedenken bekam wegen der zusätzlichen Subventio<lb break="no"/>nen<lb/>
+<pb n="21-0905" facs="21_1974-07-18_0905.jpg"/>meinte er, ich sollte mit <name type="person" ref="per:98055">Weihs</name> und <name type="person" ref="per:97311">Androsch</name> gemeinsam versuchen,<lb/>
+durch Verhandlung mit den Erwerbsgärtnern andere Entlastungsmög<lb break="no"/>lichkeiten für sie zu finden. <name type="person" ref="per:98055">Weihs</name> meinte, es könnten ihnen Kredite<lb/>
+für Öllager gegeben werden oder sogar eine Umstellung auf Erdgas<lb/>
+empfohlen und vielleicht auch finanziert werden. Vor letzterem<lb/>
+warnte ich ganz entschieden, weil die Erdgaspreise in der nächsten<lb/>
+Zeit sehr stark ansteigen werden.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name>: Bitte lass berechnen, was eine solche Umstellung<lb/>
+und der Betrieb nachher kosten würde.</p><p xml:space="preserve"><name type="person" ref="per:98034">Veselsky</name> kündigte ein Raumordnungsgesetz an und <name type="person" ref="per:97668">Kreisky</name> machte nur<lb/>
+eine einzige Bemerkung, er möchte gerne wissen, was mit den österr.<lb/>
+Bergbau in Zukunft geschehen soll. Hier hatte ich eigentlich erwar<lb break="no"/>tet, dass <name type="person" ref="per:97311">Androsch</name> wegen der zusätzlichen notwendigen Bergbau<lb break="no"/>förderungsmittel sich zu Wort meldet. Ich selbst werde mich weder<lb/>
+in der einen noch in der anderen Richtung exponieren, nicht weil<lb/>
+ich mich um eine Entscheidung drücken will, sondern weil sich hier<lb/>
+in der Vergangenheit herausgestellt hat, dass niemand eine konse<lb break="no"/>quente Linie verfolgt. Hätte ich damals, als <name type="person" ref="per:97668">Kreisky</name> zuerst meinte,<lb/>
+Fohnsdorf muss geschlossen werden – weshalb ja auch die Gesellschaft<lb/>
+Aichfeld-Murboden mit neuen zusätzlichen Arbeitsplätzen geschaffen<lb/>
+wurde – auf diese Linie begeben, würde ich mich jetzt in einer unange<lb break="no"/>nehmen Situation befinden. Zum Glück hatte ich, als ich damals von<lb/>
+der örtlichen Partei aufgefordert wurde, bei den Mai-Kundgebungen in<lb/>
+Fohnsdorf in keiner Weise irgendetwas versprochen. Jetzt vor de<lb/>
+den steirischen Landtagswahlen aber sicherlich auch vor der nächsten<lb/>
+Nationalratswahl wird man den Kohlenbergbau auch in Fohnsdorf als<lb/>
+eine nationale Pflicht und Reserve usw. bezeichnen und <name type="person" ref="per:97311">Androsch</name><lb/>
+wird die notwendigen Mitteln, auch wenn sie noch so sehr anwachsen<lb/>
+bereitstellen müssen.</p><p xml:space="preserve"><name type="person" ref="per:110923">Lanc</name> wies darauf hin, dass ein Investitionsprogramm insbesondere<lb/>
+des Verkehrskonzeptes nicht erfüllt werden kann, da ihm die not<lb break="no"/>wendigen Mitteln fehlen. Seine Idee geht nun dahin, durch die Steuer<lb break="no"/>senkung und 11 Mia S Ersparnis der Steuerzahler im nächsten Jahr<lb/>
+eine Aussenfinanzierung mit diesen Mitteln zu finden. Ich kann<lb/>
+mir nicht vorstellen, was er sich darunter vorstellt , ausser eine<lb/>
+Anleihe für die Bundesbahn oder die Post. Wie sollte er sonst zu die<lb break="no"/>sen Mitteln, die <name type="person" ref="per:97668">Kreisky</name> durch Sparförderung auf alle Fälle irgend<lb break="no"/>wie binden wollte, damit sie nicht sofort in den Konsum gehen,<lb/>
+herankommen.</p><pb n="21-0906" facs="21_1974-07-18_0906.jpg"/><p xml:space="preserve"><name type="person" ref="per:110923">Lanc</name> verwies auch darauf, dass die nächsten Bundeswahlen eigent<lb break="no"/>lich die Arbeiterkammerwahlen im Herbst sind und die Partei<lb/>
+sich bis jetzt noch nicht eingeschaltet hat. <name type="person" ref="per:97727">Marsch</name> replizierte<lb/>
+dass er sehr verwundert ist, dass ein Bezirksobmann nicht weiss,<lb/>
+dass sehr wohl hier entsprechende Vorbereitungen getroffen wurden.<lb/>
+Die Bezirkssekretariate würden mit dem ÖGB insbesondere für die<lb/>
+Kleinbetriebe engstens zusammenarbeiten. Dies sei bereits im<lb/>
+März vereinbart und beschlossen worden. In Vorarlberg spielt die<lb/>
+Gastarbeiterfrage eine grosse Rolle und dort wird der Schwer<lb break="no"/>punkt die Gastarbeiterbetreuung sein. Was die Information und Propa<lb break="no"/>ganda betrifft, besteht ein Koordinierungskomitee und der Verant<lb break="no"/>wortliche für die ganzen Arbeiterkammerwahlen fraktionell gesehen<lb/>
+ist <name type="person" ref="per:97563">Hofstetter</name>. <name type="person" ref="per:97668">Kreisky</name> meinte, er werde sich auf alle Fälle durch<lb/>
+ein Schreiben als Bundeskanzler ohne auf die Arbeiterkammerwahl be<lb break="no"/>zugzunehmen , an die Gastarbeiter wenden und darauf hinweisen, das<lb/>
+die Politik der Regierung ihnen diesen Arbeitsplatz ermöglichst hat<lb/>
+<name type="person" ref="per:97668">Kreisky</name> selbst, das konnte ich aus seinem unmutartigen Fragen und<lb/>
+Kritiken entnehmen, war ebenfalls über die Tätigkeit auf dem AK-<lb/>
+Wahlsektor nicht informiert und vor allem einmal nicht zufrieden<lb/>
+mit der bisherigen Aktivität. <name type="person" ref="per:133397">Brantl</name> verwies darauf, dass die Re<lb break="no"/>gierung überhaupt jetzt einen Sommer-Einsatzplan sich schaffen<lb/>
+sollte. Im Sommer gibt es ungeheure Möglichkeiten in die Presse<lb/>
+mit Informationen zu gehen, weil infolge der Saure-Gurken-Zeit<lb/>
+jede Zeitung jede Neuigkeit des Ministers gerne übernimmt. <name type="person" ref="per:133397">Brantl</name><lb/>
+bestätigte mir, was ich die ganzen Jahre schon immer so gerne in<lb/>
+meinem Ressort gehabt hätte, eine systematische Forcierung aller<lb/>
+Ideen, die man ansonsten während des Jahres gar nicht unter<lb break="no"/>bringt, zeitlich so gestaffelt, dass mindestens einmal in der<lb/>
+Woche etwas vom Handelsministerium drinnenstehen kann und müsste.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97646">KOPPE</name>: Wo bleibt der Presseinformationsplan für<lb/>
+den Sommer.</p><p xml:space="preserve">Nach der Sitzung habe ich <name type="person" ref="per:97668">Kreisky</name> noch davon informiert, dass<lb/>
+wenn ich mich mit <name type="person" ref="per:112215">Weiss</name> über die Reorganisation und insbesondere<lb/>
+über die Besetzung der Aufsichtsräte mit soz. Vertrauenspersonen<lb/>
+um die Mehrheit dort zu erhalten mich durchsetze, ich gegebenen<lb break="no"/>falls bis zur letzten Konsequenz gehenden Krieg mit der ÖVP<lb/>
+beginne. <name type="person" ref="per:97668">Kreisky</name> meinte, er würde sich sehr wundern, wenn ich<lb/>
+tatsächlich einen solchen Kampf führen würde, wofür er übrigens<lb/>
+sehr ist. Das liegt ja natürlich auf seiner Linie bezüglich<lb/>
+<pb n="21-0907" facs="21_1974-07-18_0907.jpg"/>Konfrontation mit der ÖVP. Er erwartet aber, dass ich mich<lb/>
+wahrscheinlich wieder auf alle Fälle auf friedlicher Basis<lb/>
+einigen werde. <name type="person" ref="per:97668">Kreisky</name> deutete an, er möchte eigentlich eine<lb/>
+Konzentration in der Energiewirtschaft. Hier informierte ich<lb/>
+ihn, wenn auch nur flüchtig – da ja dafür keine Zeit vorhanden ist<lb/>
+dass mit der Überführung von Enns-Personal in die Donau ein<lb/>
+erster Schritt vorgenommen wird.</p><p xml:space="preserve">Mit <name type="person" ref="per:107938">Leodolter</name> und ihrem Sekretär <name type="person" ref="per:126899">Umek</name> besprach ich ausserhalb<lb/>
+der Sitzung die Notwendigkeit, die Genehmigungen für die Kern<lb break="no"/>kraftwerksbauten zu beschleunigen. Mein Vorschlag, man<lb/>
+sollte doch die deutschen Bestimmungen weitestgehend übernehmen,<lb/>
+fand nicht die Zustimmung insbesondere von <name type="person" ref="per:126899">Umek</name>. Er meinte,<lb/>
+dass man seinerzeit auch auf dem pharmazeutischen Sektor nicht<lb/>
+die deutschen Bestimmungen übernommen hat und dadurch die Conter<lb break="no"/>gan-Affäre bei uns nicht geben kann und wird. Das Gesundheits<lb break="no"/>ministerium will also wesentlich strengere Bestimmungen als<lb/>
+dies in der weltlichen Welt der Fall ist. Auch in diesem Fall<lb/>
+verlangte ich aber, dass man sich schnell entscheidet, weil<lb/>
+ansonsten wie dies jetzt in Zwentendorf geschieht, gebaut wird<lb/>
+und dann erst nachträglich die Genehmigung erfolgt. <name type="person" ref="per:107938">Leodolter</name><lb/>
+wird mit mir und ihren zuständigen Herren eine Besprechung ab<lb break="no"/>halten. Ich verlangte vor allem, weil wir neue Standorte für die<lb/>
+Kernkraftwerke suchen und uns sichern müssen, dass das Gesund<lb break="no"/>heitsministerium festlegt Kriterien, wo und wie gegebenen<lb break="no"/>falls solche Standorte entweder positiv beschrieben werden oder<lb/>
+zumindestens eine Negativ-Liste aufgestellt wird, wo man ver<lb break="no"/>bietet, entsprechende Kernkraftwerke zu errichten. Auch<lb/>
+darüber wird <name type="person" ref="per:107938">Leodolter</name> nachdenken und mir einen entsprechenden<lb/>
+Vorschlag baldigst zur Verfügung stellen.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97469">GEHART</name>: Unsere E-Wirtschaft soll entsprechend<lb/>
+Grundsätze uns übermitteln.</p></div>
+      </body>
+      <back>
+         <pb n="21_0899_01" facs="21_1974-07-18_0899-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 18.7.1974</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="21_0899_02" facs="21_1974-07-18_0899-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+   </text>
+</TEI>

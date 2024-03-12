@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstag, der  2. Dezember 1980</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band57_1980-12-02</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1980-12-02">Dienstag, 2. Dezember 1980</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-02-27">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="57-1496" facs="57_1980-12-02_1496.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Dienstag, 2. Dezember 1980<lb/>
+</p>
+            <p xml:space="preserve">Der Aufsichtsrat der ÖDK hat beschlossen, bis zur Klärung der Widmungs<lb break="no"/>bescheide und Baubescheide den Weiterbau von Voitsberg III zwar nicht<lb/>
+ganz einzustellen, aber doch wesentlich zu verlangsamen. Von den 3,4<lb/>
+Mrd. S, die jetzt präliminiert sind, sind 700 Mio. schon verbaut und<lb/>
+600 Mio in unmittelbarer Ausführung resp. bereits die Zulieferungen be<lb break="no"/>stellt. Es wird nichts storniert, sondern zögernd weitergebaut, um den<lb/>
+Verlust zu minimieren. Ich spreche sofort mit dem Präsident des Auf<lb break="no"/>sichtsrates LH-Stv. <name type="person" ref="per:97461">Frühbauer</name> in Kärnten. Dieser teilt mir mit, daß<lb/>
+<choice><choice><sic>die</sic><corr>in der</corr></choice></choice> Kärntner Bauordnung das vom Verwaltungsgerichtshof in der Steiermark<lb/>
+als unzulänglich klassifizierte Ediktalverfahren besser geregelt ist.<lb/>
+Zu klären gilt <choice><choice><sic>weiters, gerade</sic><corr>weiters der gerade?</corr></choice></choice> in der steirischen Bauordnung geregelten<lb/>
+Anrainerbegriff. Ich informiere <name type="person" ref="per:97461">Frühbauer</name>, daß ich einen Ministerrats<lb break="no"/>vortrag vorbereite, der von GD <name type="person" ref="per:97453">Fremuth</name> entworfen ist und von Dr. <name type="person" ref="per:110944">Zluwa</name><lb/>
+bestätigt wurde. Dort ist vorgesehen, daß ich den Landeshauptmann von<lb/>
+der Steiermark auffordere, unverzüglich eine Änderung der Bauordnung<lb/>
+vorzunehmen, damit die Bau- und Widmungsbescheide saniert werden können.<lb/>
+<name type="person" ref="per:97461">Frühbauer</name> ist mit dieser Vorgangsweise sehr einverstanden.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97453">Fremuth</name>, den ich ebenfalls von dieser Situation jetzt genau informiere,<lb/>
+teilt mir nur mit, daß in Salzburg und in Kärnten die Bauordnung den<lb/>
+Bedürfnissen des Verwaltungsgerichtshofes ebenfalls entspricht. Alle<lb/>
+anderen Bundesländer haben seines Wissens nach eine unzulängliche Bau<lb break="no"/>ordnung.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97453">Fremuth</name> teilt weiters mit, daß die Polen die Lieferung in die CSSR und<lb/>
+damit auch nach Österreich wieder aufgenommen haben.<lb/>
+</p>
+            <p xml:space="preserve">Das Fernsehen, Red. <name type="person" ref="per:127770">Flossmann</name>, interviewt mich betreffend des Filmför<lb break="no"/>derungsgesetzes. Sie will vor allem wissen, ob tatsächlich zwischen dem<lb/>
+Unterrichtsminister <name type="person" ref="per:113083">Sinowatz</name> und mir Differenzen bestanden haben. Ich<lb/>
+erkläre ihr, daß das Handelsministerium ausschließlich für kommerzielle<lb/>
+Filme zuständig wäre und daher der Wunsch<lb/>
+</p>
+            <p xml:space="preserve">BAND KAPUTT!!<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="57_1495_01" facs="57_1980-12-02_1495-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 2.12.1980</head>
+         </div>
+         <pb n="57_1495_02" facs="57_1980-12-02_1495-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

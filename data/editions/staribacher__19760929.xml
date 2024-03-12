@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittwoch, der 29. September 1976</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band32_1976-09-29</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1976-09-29">Mittwoch, 29. September 1976</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-02-05">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="32-1063" facs="32_1976-09-29_1063.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Mittwoch, 29. September 1976<lb/>
+</p>
+            <p xml:space="preserve">Der tunesische Staatssekretär im Verteidigungsministerium<lb/>
+<name type="person" ref="per:145307">Bennour</name> wird von österr. Militärs betreut und von drei hohen<lb/>
+Offizieren <choice><choice><sic>sehr</sic><corr>der? seiner?</corr></choice></choice> Wehrmacht<add/> begleitet. Er erzählte mir, dass sie<lb/>
+beabsichtigen, mit Österreich eine gemeinsame Munitionsproduktion<lb/>
+und gegebenenfalls auch leichte Waffenproduktion in Tunesien auf<lb break="no"/>nehmen. Auf eine Art von Kooperation, die sogar, davon bin ich<lb/>
+überzeugt, eher zustandekommen wird als eine wirtschaftliche.<lb/>
+Tunesien hat allerdings eine verhältnismässig sehr schwache<lb/>
+Wehrmacht gegenüber Algerien und ganz zu schweigen gegenüber Libyen.<lb/>
+<name type="person" ref="per:145307">Bennour</name> meinte, ein sozialistischen Staat wie Tunesien könnte<lb/>
+beispielgebend für die anderen afrikanischen Staaten sein, die<lb/>
+ebenfalls seiner Meinung nach militärmässig stärker zusammenarbeiten<lb/>
+werden. Als Übersetzer, da er französisch spricht, hat das österr.<lb/>
+Militär einen Offizier gehabt, der phantastisch Französisch kann und<lb/>
+mir nachher auf meine Frage mitteilte, er hätte eine vollfranzösische<lb/>
+Matura. <name type="person" ref="per:108224">Lütgendorf</name> hat wirklich eine ungeheure Chance auf manchmal nur<lb/>
+die kurze Zeit, nämlich nur die Pflichtwehrmachtszeit, auf ungeheure<lb/>
+Kapazitäten zurückzugreifen. Nicht nur fremdsprachige sondern auch<lb/>
+sonst best<add>[-ens]</add> ausgebildete Österreicher stehen ihm zur Verfügung. Die<lb/>
+sind heilfroh, wenn sie nicht Truppendienst machen müssen sondern<lb/>
+für Spezialarbeiten herangezogen werden. Aus diesem Grund hat auch<lb/>
+in der Stiftskaserne das Militär Grundsatzabteilungen bestückt mit<lb/>
+Pflichtdienern, die für alle denkbar möglichen Arbeiten herangezogen<lb/>
+werden. U.a. werden aus ökonomischen Büchern Kurzfassungen gemacht,<lb/>
+die gewissen Dienststellen aber auch Einzelpersonen zur Verfügung<lb/>
+gestellt werden.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name> UND <name type="person" ref="per:97819">PLESCH</name>: Wie weit können wir hier gewisse<lb/>
+Arbeiten machen lassen?<lb/>
+</p>
+            <p xml:space="preserve">Präs. <name type="person" ref="per:145308">Riemsdijk</name> von Philips, Eindhoven, bekam einen ungeheuer hohen<lb/>
+Orden. Er hat sich um den Ausbau der österr. Philips sehr verdient<lb/>
+gemacht und dieser Ordensgrad, den kaum ein Beamter erreichen kann,<lb/>
+und das sagt etwas, wird sicherlich dazu beitragen, dass er weiterhin<lb/>
+Österreich besonders protegiert. <name type="person" ref="per:145308">Riemsdijk</name> glaubt, dass das Grund<lb break="no"/>übel der Weltökonomie die Inflation ist. Interessant für mich war,<lb/>
+dass er nicht die Beschäftigungslage, nicht die Jugendarbeitslosigkeit,<lb/>
+die er allerdings dann auf mein Vorhalten nicht leugnete und schon<lb/>
+als bedenklich bezeichnete, an die Spitze stellte. Eindeutig ver<lb break="no"/><pb n="32-1064" facs="32_1976-09-29_1064.jpg"/>sicherte er mir, dass der soziale Friede mit ein wesentlicher<lb/>
+Entscheidungsgrund war, nach Österreich die neuen Produktion zu legen,<lb/>
+wie z.B. Farbfernsehröhren, Werk Lebring.<lb/>
+</p>
+            <p xml:space="preserve">Gen.Dir. <name type="person" ref="per:97337">Bauer</name> berichtete mir, dass er mit Sekt.Chef <name type="person" ref="per:107937">Frank</name><lb/>
+eine sehr harte, aber dann doch freundschaftlich endende Aussprache<lb/>
+gehabt hat. Er will, wie er sich ausdrückt, mit dem Handelsmini<lb break="no"/>sterium gut auskommen und wird deshalb alles tun, um <name type="person" ref="per:107937">Frank</name> mehr oder<lb/>
+minder zufriedenzustellen. <name type="person" ref="per:107937">Frank</name> steht auf dem sturen Standpunkt,<lb/>
+dass wenn ihm ein Gesetz die Möglichkeit gibt, das Unternehmen<lb/>
+zur Auskunftserteilung usw. zu veranlassen, dann nützt er dies.<lb/>
+So etwas war die ÖMV bis jetzt nicht gewöhnt. <name type="person" ref="per:97337">Bauers</name> System<lb/>
+bestand bis jetzt darin, unverbindliche Gespräche zu führen,<lb/>
+beispielsweise erklärt er, von den Investitionsmitteln für<lb/>
+Uran-Prospektion und Exploration 15 Mill. für Kupferbergbau<lb/>
+Mitterberg zur Verfügung zustellen. <name type="person" ref="per:107937">Frank</name> möchte aber eine genaue,<lb/>
+detaillierte und vor allem einmal wesentlich grössere Summe nicht<lb/>
+nur für Mitterberg, sondern für ganz Österreich vereinbaren. Ein<lb/>
+anderes Beispiel ist das Problem der Gasleitung WAG. Hier möchte<lb/>
+<name type="person" ref="per:107937">Frank</name> Zusicherungen wegen der über Deutschland führenden An<lb break="no"/>schlussleitungen für Westösterreich. Die ÖMV möchte hier immer<lb/>
+variabel und alle Möglichkeit offen haben, keine konkreten<lb/>
+Zusagen machen und keine konkreten Informationen geben. Das dritte<lb/>
+Beispiel ist Lannach. Dort wird jetzt ein 500.000 m³ Rohöl-<lb/>
+und Produktenlager errichtet. <name type="person" ref="per:97337">Bauer</name> erwartet eventuell Schwierig<lb break="no"/>keiten mit den örtlichen Naturschützern usw. Auch hier aber noch<lb/>
+keine konkreten Informationen sondern nur der Hinweis, das Handels<lb break="no"/>ministerium und ganz besonders ich sollen die ÖMV unterstützen.<lb/>
+Ich werde dies sicherlich tun, bin auch gar nicht persönlich<lb/>
+so interessiert, Detailinformationen zu bekommen. <name type="person" ref="per:107937">Frank</name> aber steht<lb/>
+glaube ich sogar zu recht auf dem Standpunkt, als Genehmigungs<lb break="no"/>behörde, wobei er dieses Wort sehr extrem auslegt, und alles mehr<lb/>
+oder minder in der Energiefrage genehmigen will, muss vorher,<lb/>
+d.h. also zeitgerecht und in allen Details informiert werden.<lb/>
+Und sogar Genehmigungen dort geben, wo die Rechtslage sehr um<lb break="no"/>stritten ist.<lb/>
+</p>
+            <p xml:space="preserve">LH <name type="person" ref="per:137200">Lechner</name>, Stellvertreter <name type="person" ref="per:113822">Haslauer</name> und <name type="person" ref="per:97994">Steinocher</name> verhandeln<lb/>
+mit den Repräsentanten von Mühlbach und <name type="person" ref="per:97668">Kreisky</name>, <name type="person" ref="per:97311">Androsch</name>, <name type="person" ref="per:97525">Häuser</name>,<lb/>
+<name type="person" ref="per:110923">Lanc</name> und mir sowie einigen Beamten über die Stillegung des Kupfer<lb break="no"/>bergbaues. <name type="person" ref="per:97668">Kreisky</name> schildert vorerst, was alles unternommen wurde<lb/>
+<pb n="32-1065" facs="32_1976-09-29_1065.jpg"/>um zu klären, ob der Kupferbergbau nicht doch noch rentabel<lb/>
+geführt werden könnte. <name type="person" ref="per:137200">Lechner</name> kam zu spät, hörte diesen Teil<lb/>
+nicht und replizierte gleich sehr demagogisch. Wenn die Bundes<lb break="no"/>regierung beschliessen sollte, dass Mühlbach geschlossen wird,<lb/>
+obwohl in diesem Raum, d.h. im Kanzleramt 1968 der Beschluss<lb/>
+gefasst wurde, Mühlbach nicht zu schliessen, dann müsse er dies<lb/>
+mehr oder minder mit Bedauern zur Kenntnis nehmen und er möchte<lb/>
+jetzt gleich die Folgen davon aufzählen. <name type="person" ref="per:97668">Kreisky</name> replizierte<lb/>
+sehr geschickt, wenn man demagogisch an dieses Problem heran<lb break="no"/>gehen wollte, dann würde er den Bergarbeitern sofort sagen, dass<lb/>
+man die Millionen und Abermillionen, die man benötigt, eventuell<lb/>
+aus der Förderung der Salzburger Festspiele vom Bund durch<lb/>
+ein Virement zur Verfügung stellen könne. Mich hat ganz be<lb break="no"/>sonders aufgeregt, dass <name type="person" ref="per:137200">Lechner</name> behauptete, die Belegschaft sei<lb/>
+verunsichert, weil man nicht genau wüsste, nach welchen Gesichts<lb break="no"/>punkten sie letzten Endes gekündigt und in andere Betriebe über<lb break="no"/>stellt würden und vor allem die Fremdenverkehrs-Projekte nach Ge<lb break="no"/>heimplänen vergeben werden. Ich attackierte deshalb <name type="person" ref="per:137200">Lechner</name> sehr<lb/>
+hart, er solle sehr konkret sofort sagen, um welche Geheimpläne<lb/>
+es sich dabei handelt. <name type="person" ref="per:137200">Lechner</name> bekam von <name type="person" ref="per:113822">Haslauer</name> ein Blattel<lb/>
+Papier zugeschoben und meinte dann, die Gemeinde Mühlbach<lb/>
+hätte der Gemeindevertretung Mitterberg scheinbar jedwede Unter<lb break="no"/>stützung vorenthalten resp. Pläne dort nicht akzeptiert,<lb/>
+weil alles Geld für das Schneeberg-Gebiet, das der Mühlbacher<lb/>
+Gemeinde näherliegt und aufgeschlossen werden soll, reservieren<lb/>
+möchte. <name type="person" ref="per:137200">Lechner</name> stellt es also so dar, dass dann nicht Einzel<lb break="no"/>betriebe, wohl aber die rote Gemeinde Mühlbach, ohne dass er<lb/>
+natürlich dies sagte, der schwarzen Gemeinde Mitterberg keine<lb/>
+Chancen geben möchte. <name type="person" ref="per:113822">Haslauer</name> hat die Wünsche der Landesregierung<lb/>
+im Detail mitgeteilt. Primär geht es darum, die Schliessung<lb/>
+so lange wir möglich hinauszuziehen, das <choice><choice><sic>lurgihydrometallurgische</sic><corr>hydrometallurgische?</corr></choice></choice><lb/>
+Verfahren weiterhin zu betreiben, die Uranprospektion zu be<lb break="no"/>ginnen, den Bergbau nur einmotten, den Fremdenverkehr – Seilbahn<lb/>
+und Lifte 60–80 Mill. für den Schneeberg, 50 Mill. für die<lb/>
+Erschliessung des Hochkeilgebietes bereitzustellen. Darüber<lb/>
+hinaus würden 25 Betriebe des Fremdenverkehrsgewerbes und Privat<lb break="no"/>zimmer 200 bis 250 Mill. S brauchen. An Ersatzbetrieben hat<lb/>
+das Land eine Wiener Plastikfirma, 30 Arbeiter als erste Etappe<lb/>
+100 Arbeiter dann im Juni 1977 eine Münchner Elektro-Klima<lb break="no"/>anlage mit 20 Arbeitern 1. Etappe und 50 Beschäftigten endgültig,<lb/>
+die in Mühlbach sich ansiedeln möchten. In Mitterberg, eine<lb/>
+<pb n="32-1066" facs="32_1976-09-29_1066.jpg"/>Salzburger Firma – Anlagen und Kräne mit 80–100 Beschäftigten<lb/>
+und eine weitere aus Köln. Das Hauptproblem aber ist, dass die<lb/>
+Hauer bis 80.– S pro Stunde verdienen und natürlich jetzt<lb/>
+kaum in neuen Betrieben auch nur annähernd diesen Lohn erhalten<lb/>
+werden. Der Sozialplan müsste nach Meinung <choice><choice><sic><name type="person" ref="per:113822">Haslacher</name></sic><corr>Haslauers</corr></choice></choice> wesentlich<lb/>
+besser gestaltet werden als der für die Fohnsdorfer. Die Firma<lb/>
+Armaturen Seidl käme nicht in Frage, weil diese erklärt hat,<lb/>
+sie möchte keine grundbücherlichen Belastungen auf ihrem neuen<lb/>
+Gebäude und Grundstücken in den neuen Betrieb, um gewisse<lb/>
+Kreditabsicherungsmöglichkeiten für das Stammhaus offen zu halten.<lb/>
+Wenn die Beschäftigten 38 nach der österr. Schacht- und Tief<lb break="no"/>bauunternehmen, 40 zur Sakog, 18 in Pension gehen, müsste es<lb/>
+möglich sein, die restlichen in Betrieben unterzubringen. Ein<lb/>
+Hauptproblem stellt die Frage der Schliessung oder der Einmottung<lb/>
+dar. Die ÖIAG, <name type="person" ref="per:97498">Grünwald</name>, meint, das Aufschliessen eines neuen Be<lb break="no"/>triebes käme billiger, als wenn man jetzt Jahre oder Jahrzehnte<lb/>
+lang eine gewisse Bauhafthaltung mit 17 Arbeitern und einigen<lb/>
+Angestellten jährlich 9 Mill. S betreibt. <name type="person" ref="per:97668">Kreisky</name> entschied dann,<lb/>
+man soll untersuchen, eine rasche und kostengünstige Wiederin<lb break="no"/>betriebnahme und die optimalste Lösung dann vorschlagen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97819">PLESCH</name>: <name type="person" ref="per:108609">Sterk</name> soll eine technisch vielleicht nicht<lb/>
+ganz einwandfreie Variation, die weniger kostet, suchen.<lb/>
+</p>
+            <p xml:space="preserve">Die Besprechung mit <name type="person" ref="per:118213">Avram</name> ergab, dass sie insbesondere über die<lb/>
+Kreditbedingungen genauere Informationen wünschen. Die Verhand<lb break="no"/>lungen für das Protokoll sind deshalb wieder ins Stocken geraten<lb/>
+und können nicht endgültig abgeschlossen werden. Ich hatte<lb/>
+nach Rücksprache mit <name type="person" ref="per:97668">Kreisky</name> und <name type="person" ref="per:97311">Androsch</name> dezidiert erklärt, dass<lb/>
+die 2 Mia. S Kredit für Exporte zur Verfügung gestellt werden,<lb/>
+die Bedingungen noch im Detail besprochen werden müssen. Ich<lb/>
+selbst erklärte immer wieder dezidiert, dafür nicht kompetent zu<lb/>
+sein und daher auch keine verbindlichen Zusagen machen zu können.<lb/>
+</p>
+            <p xml:space="preserve">Beim Bundespräsidenten wurden <name type="person" ref="per:97311">Androsch</name> als Vizekanzler und <name type="person" ref="per:97668">Kreisky</name><lb/>
+als Aussenminister, <name type="person" ref="per:107938">Leodolter</name> als Sozialminister und ich als<lb/>
+Ackerbauminister, wie ich selbst sagte, angelobt. <name type="person" ref="per:97668">Kreisky</name> wollte,<lb/>
+um von null Uhr, Freitag, bis zur endgültigen Angelobung der neuen<lb/>
+drei Minister um 10 Uhr nicht die alten Minister lassen, weil<lb/>
+ansonsten diese den Oktobergehalt bekommen müssten, niemand wird<lb/>
+allerdings dies verstehen, auch dann, wenn der Bundespräsident<lb/>
+<pb n="32-1067" facs="32_1976-09-29_1067.jpg"/>erklärte, er hätte eine diesbezügliche Aussendung bereits vorbereitet.<lb/>
+Tatsache ist aber, dass – wie mir der Kabinettsdirektor sagte –<lb/>
+nur der Gehalt von <name type="person" ref="per:97350">Bielka</name> erspart wird, denn <name type="person" ref="per:97525">Häuser</name> und <name type="person" ref="per:98055">Weihs</name><lb/>
+bekommen durch ihre langjährige Tätigkeit als Minister und<lb/>
+Abgeordnete als Pension beide zusammengerechnet dasselbe<lb/>
+wie als aktiver Minister. Trotzdem war die ganze Aktion glaube ich<lb/>
+vom Standpunkt der Sparsamkeit der Regierung ganz gut. Für mich<lb/>
+aber gab es die Gelegenheit, dort als Gag zu sagen, jetzt<lb/>
+habe ich den höchsten Politikergipfel erreicht, ich bin, wenn<lb/>
+auch nur auf 10 Stunden, Ackerbauminister.<lb/>
+</p>
+            <p xml:space="preserve">Im Managementklub, den die Zentralsparkasse protegiert, weil sie<lb/>
+dadurch hofft, Kunden zu bekommen, berichtete ich wie <name type="person" ref="per:98053">Wanke</name> mir<lb/>
+nachher mitteilte in altgewohnter schneller Art. Dieses Feuerwerk<lb/>
+hat angeblich sehr imponiert und ist mir eigentlich sehr leicht<lb/>
+gefallen. Was ich brauche, sind einige Ziffern, ich hatte noch un<lb break="no"/>veröffentlichte über die Lebenshaltungskosten September 7,1 % nur<lb/>
+die Exporterfolge August 44 % Steigerung, die Budgetziffern Defizit<lb/>
+43 Mia., d.h. also einige mit tatsächlichem Neuigkeitswert und<lb/>
+schon kann man natürlich etwas sehr aktuell und interessant gestalten.<lb/>
+In der Diskussion melden sich ein halbes Dutzend mit spezifischen<lb/>
+betrieblichen Problemen. Natürlich betrachteten sie diese ausschliess<lb break="no"/>lich vom Unternehmerstandpunkt. Meine Contra-Argumente waren daher<lb/>
+leicht zu finden, da ich mich ja niemals gegen den betriebswirt<lb break="no"/>schaftlichen Gesichtspunkt wendete, sondern nur den gesamtwirt<lb break="no"/>schaftlichen ergänzte. Dass die Regierung dann im konkreten Fall<lb/>
+die Entscheidung natürlich nicht nach den betriebswirtschaftlichen<lb/>
+für den Einzelunternehmer sondern gesamtwirtschaftlichen Gesichts<lb break="no"/>punkt die Entscheidung fällt, hat sogar dort zumindestens insofern<lb/>
+Verständnis gefunden, als nicht neuerdings dann dagegen polemi<lb break="no"/>siert wurde. Überhaupt komme ich immer mehr drauf, dass man Debatten<lb/>
+mit Gegnern so leichter führen kann, wenn man seine von seinem Stand<lb break="no"/>punkt absolut richtige konkrete Forderung, die natürlich immer betriebs<lb break="no"/>wirtschaftlich begründet ist, gesamtwirtschaftlich ergänzt, Man braucht<lb/>
+also gar nicht unbedingt erklären, dass seine Meinung falsch ist,<lb/>
+sondern eben nur den Entscheidungsgrund vom gesamtwirtschaftlichen<lb/>
+Standpunkt hat erörtert und erklärt. Mit dieser Methode kann ich<lb/>
+mich über die schwierigen Entscheidungen und Vorschläge anderer<lb/>
+Ressorts, die natürlich sei es vom Finanzministerium oder vom Verkehrs<lb break="no"/>ministerium schwere Belastungen der Unternehmer mit sich bringen,<lb/>
+hinweghelfen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="32_1062_05" facs="32_1976-09-29_1062-05.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 29.9.1976</head>
+         </div>
+         <pb n="32_1062_06" facs="32_1976-09-29_1062-06.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

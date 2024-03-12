@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der  9. November 1973</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band18_1973-11-09</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1973-11-09">Freitag, 9. November 1973</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-09-22">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band18/">
+      <body>
+         <pb n="18-1231" facs="18_1973-11-09_1231.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Freitag, 9. November 1973</p><p xml:space="preserve">Statthalter <name type="person" ref="per:97760">Müller</name>, der seinerzeitige Wirtschaftsreferent der<lb/>
+Vorarlberger Landesregierung kam überraschend, um mir über die<lb/>
+Ölsituation in Vorarlberg zu klagen. Seiner Meinung nach müßte<lb/>
+jetzt alles geschehen, um Vorarlberg einzudecken. Senator <name type="person" ref="per:126571">Bertsch</name><lb/>
+hat schon in den Vbg. Zeitungen mitgeteilt, er könnte Ölimporte<lb/>
+aus der Schweiz tätigen, wenn die Mehrwertsteuer oder die Mineral<lb break="no"/>ölsteuer gesenkt wird. <name type="person" ref="per:97760">Müller</name> selbst meinte, es müßte irgendetwas<lb/>
+geschehen, insbesondere plädierte er für die Bevorratung, selbst<lb/>
+dann, wenn auf jeden Liter ein gewisser Betrag von 10 oder 20 Groschen<lb/>
+gelegt werden müßte. Die Vorarlberger Landesregierung hat ein ge<lb break="no"/>wisses Lager, zumindestens finanziert sie Händler die größere Mengen<lb/>
+haben, allerdings nur auf dem Lebensmittelsektor. Nach meinem Dafür<lb break="no"/>halten hat <name type="person" ref="per:97760">Müller</name> nur eine Alibihandlung getätigt..Ähnlich wie ich<lb/>
+sie auch gelegentlich mache. Die beste Lösung ist, wenn ich im Zuge<lb/>
+der Preisregelung für Mineralölprodukte die Länder ermächtige, ge<lb break="no"/>gebenenfalls andere Produktpreise in dem Fall naütrlich höhere, fest<lb break="no"/>zusetzen. Dann kann Vorarlberg von mir aus jedweige Menge importieren<lb/>
+und hat einen höheren Preis.</p><p xml:space="preserve">Anmerkung für <name type="person" ref="per:98053">WANKE</name><lb/>
+Bitte mit <name type="person" ref="per:112956">Schwarz</name> die legistischen Vorarbeiten, d.h. den Verordnungs<lb break="no"/>entwurf dafür vorbereiten.</p><p xml:space="preserve">Anmerkung für <name type="person" ref="per:98040">WAIS</name><lb/>
+Durch Zufall hatte ich dann die Antwort unseres Pressedienstes auf<lb/>
+die Angriffe <name type="person" ref="per:126571">Bertsch</name> gesehen. In Hinkunft möchte ich vorher davon<lb/>
+Bescheid wissen.</p><p xml:space="preserve">In der Fraktion des Handelsausschusses kam ein eher nebensächliches,<lb/>
+aber doch typisches Problem zur Sprache. <name type="person" ref="per:112988">Sepp Wille</name> meinte, daß in<lb/>
+anderen Ausschüssen der Minister sofort immer fragt, was der einzelne<lb/>
+Abgeordnete an Getränken und sonstigen Wünschen hat. Alle aber auch<lb/>
+ich waren bass erstaunt, als wir von <name type="person" ref="per:112147">Robert Fischer</name> erfuhren, daß<lb/>
+dies meiestens der Klub bezahlt. Da ich nicht bereit bin die Klub<lb break="no"/>kasse für die anderen zu beanspruchen, wäre ich ohne weiteres bei<lb/>
+der Sitzung bereit gewwesen, auf Budgetkosten des Handelsministeriums<lb/>
+<pb n="18-1232" facs="18_1973-11-09_1232.jpg"/>die Konsumation zu bezahlen. <name type="person" ref="per:112147">Robert Fischer</name> aber meinte, es seien<lb/>
+doch zuviele, und es wäre gar keine Zeit mehr gewesen. <name type="person" ref="per:112147">Fischer</name> er<lb break="no"/>suchte mich übrigens,,für seine Frau, die in der Aussenhandels<lb break="no"/>stelle arbeitet, und vorallem auch für andere mit ihr zu besprechen.<lb/>
+Ich habe ihm dies zugesagt.</p><p xml:space="preserve">Anmerkung für <name type="person" ref="per:97543">HEINDL</name> und <name type="person" ref="per:98053">WANKE</name><lb/>
+Bitte die Detailvorschläge mit ihr diskutieren.</p><p xml:space="preserve">Im Handelsausschuß versuchte die ÖVP neuerdings die Pakettheorie<lb/>
+durchzuziehen. Der ÖAAB-Abgeordnete <name type="person" ref="per:134314">Schmitzer</name> behauptete sogar,<lb/>
+er hätte bei den Besprechungen mit <name type="person" ref="per:97525">Häuser</name> für ihr 5-Punkte-Programm<lb/>
+entsprechende Verwendungszusagen und Zusicherungen bekommen. Ich<lb/>
+kann mir dies nicht vorstellen, doch ist es mir vollkkmmen egal<lb/>
+wie die Verhandlungen in diesem Punkt weitergehen. Hier kann es<lb/>
+sich nur um eine Auffassungsdifferenz handeln, denn <name type="person" ref="per:97525">Häuser</name> hat mir<lb/>
+dezidiert erklärt er ist nicht bereit darauf zu verzichten, die<lb/>
+Beschäftigten in den Genossenschaften von der Landarbeiterkammer<lb/>
+und vom Landarbeitsrecht in die normale Sozialversicherung und ganz<lb/>
+besonders unter die Arbeiterkammer einzugliedern. <name type="person" ref="per:117103">Zittmayer</name> wieder<lb/>
+versuchte mir einzureden, daß der Bauernbund noch bezüglich der<lb/>
+steuerlichen Regelung hofft, daß bis zur Beschlußfassung im Plenum<lb/>
+der Finanzminister ihnen entgegenkommt. <name type="person" ref="per:97311">Androsch</name> hat mir vorher<lb/>
+gesagt er wäre bereitgewesen, mit ihnen auch noch persönlich zu<lb/>
+verhandeln, doch seien sie nicht gekommen. Wieweit dies stimmt<lb/>
+weiß ich nicht, vielleicht hat er ihnen auch nur eine solche<lb/>
+Andeutung gemacht und da er jetzt in Spital geht, sind die nächsten<lb/>
+10 Tage sowieso veroren. Für <name type="person" ref="per:97769">Mussil</name> sind dies alles ja nur Alibi<lb break="no"/>handlungen. Er ist fest davon überzeugt, daß kein Finanzminister<lb/>
+die Forderungen der Bauern erfüllen wird. Bei den Einzelwünschen<lb/>
+über Bodenverleger und daß die Bauern Reitpferde verleihen dürfen<lb/>
+usw. hatten wir uns natürlich dann auch noch geeinigt. Damit ist<lb/>
+jeder Punkt entweder mit der Handelskammer vorher schon oder im<lb/>
+Parlament mit den beiden Klubs vereinbart, so daß es für sie un<lb break="no"/>möglich wird, den Gesetzentwurf im Plenum abzulehnen. Der Vorbe<lb break="no"/>halt, sie werden es sich noch überlegen, ob sie endgültig zustimmen,<lb/>
+ist meiner Meinung nach auch wieder nur eine Alibihandlung gegenübet<lb/>
+<pb n="18-1233" facs="18_1973-11-09_1233.jpg"/>dem ÖAAB und dem österreichischen Bauernbund. <name type="person" ref="per:97917">Schleinzer</name> selbst hätte<lb/>
+sehr gerne gehabt, wenn es tatsächlich zu einer Konfrontation wegen<lb/>
+des Paktes und seiner Theorie gekommen wäre. Dies konnte ich aber<lb/>
+dadurch unterlaufen, daß eben alle Detailfragen einvernehmlich ge<lb break="no"/>regelt wurden und damit er natürlich mit dem großen Wunsch überbleibt.<lb/>
+Einige kamen zu mir und gratulierten sogar <name type="person" ref="per:97749">Mitterer</name> war dabei, der<lb/>
+meinte, er wäree selbst auch schon sehr knapp vor einer Lösung ge<lb break="no"/>standen. Ich habe bei dieser Gelegenheit, andere hörten zu, darauf<lb/>
+hingewiesen, daß ich durch die Bearbetung der Gewerbeordnung auf<lb/>
+<name type="person" ref="per:97584">Jagoda</name> aufmerksam wurde und dadurch mehr oder minder den richtigen<lb/>
+Mann bekommen habe. <name type="person" ref="per:97749">Mitterer</name> hätte mir dann anschließend noch den<lb/>
+Rat gegeben, ich hätte eben nicht nur auf <name type="person" ref="per:97502">Habl</name> hören sollen, der<lb/>
+mich ja indirekt über das Skriptum auf <name type="person" ref="per:97584">Jagoda</name> aufmerksam machte,<lb/>
+sondern auch auf <name type="person" ref="per:97524">Hauffe</name> hören müssen, der ja für ihn die Gewerbe<lb break="no"/>ordnung vorbereitete.</p><p xml:space="preserve">Anmerkung für <name type="person" ref="per:97646">KOPPE</name><lb/>
+Nachdem der Handelsausschuß jetzt beschlossen hat, haben wir grünes<lb/>
+Licht für unsere Propaganda. Bitte bespricht mit <name type="person" ref="per:97584">Jagoda</name> wie wir jetzt<lb/>
+vorgehen.</p><p xml:space="preserve">In der Direktoriumssitzung der österreichischen Fremdenverkehrswerbung<lb/>
+kam als wichtigster Punkt natürlich wieder die Geschäftsführerbe<lb break="no"/>stellung zutSprache. Hofrat <name type="person" ref="per:115027">Hlous</name> tat sich sehr schwer, da er auf<lb/>
+meine Anfrage zugeben mußte, daß <name type="person" ref="per:123822">Gaisbacher</name> den die Bundeskammer<lb/>
+und die Länder vorgesehen haben, ablehnt. Die stmk. Landesregierung<lb/>
+gibt ihn nicht frei. Er wollte unbedingt, daß wir eine neuerliche<lb/>
+Ausschreibung machen, einen wesentlich höheren Geschäftsführergehalt<lb/>
+vorsehen und meinte, es würde sich Geschäftsführerkongreßgesellschaft<lb/>
+oder <name type="person" ref="per:140353">Dexinger</name> dafür interessieren. Ich bezweifelte dies, meinte, man<lb/>
+sollte einmal unverbindlich vorfühlen und lehnte vorallem eine neuer<lb break="no"/>liche Ausschreibung entschieden ab. Ich wies darauf hin, daß obwohl<lb/>
+<name type="person" ref="per:114586">Zedek</name> dies jetzt bestreitet, daß er die 21.000,-- gesagt hat, er meinte<lb/>
+man müßte vielmehr einsetzen, doch diese Gehaltshöhe von der Handels<lb break="no"/>kammer gefordert wurde, daß man einen Geschäftsführer nur bestellen<lb/>
+sollte, daß man dafür Ausschreiben sollte, alles von mir erfüllt wurde<lb/>
+und jetzt weil eben die Leute, die sie gerne möchten sich nicht be<lb break="no"/>worben haben, ich jetzt neuerlich eine Ausschreibung machen müßte.</p><pb n="18-1234" facs="18_1973-11-09_1234.jpg"/><p xml:space="preserve">Mein Anbot, die Obmannstelle jederzeit zur Verfügung zu stellen,<lb/>
+wird von der Handelskammer, aber auch von den Ländern-Vertretern<lb/>
+scheinbar wirklich abgelehnt. Als neue Konstruktion könnte sich<lb/>
+ergeben, daß die Obmannstellvertreter repräsentativ mehr in Er<lb break="no"/>scheinen u treten. Ich wünsche und habe dies dezidiert erklärt,<lb/>
+eine strenge Trennung zwischen der Geschäftsführung und der Re<lb break="no"/>präsentation. Für Arbeit und die Geschäftsführung kommt glaube ich,<lb/>
+nur <name type="person" ref="per:111736">Zolles</name> in Frage. Für die Repräsentation kann und wird man<lb/>
+Lösungen finden.</p><p xml:space="preserve">Da ich zur Jubilarehrung nach Ortmann, wo ich <name type="person" ref="per:97879">Rösch</name> vertreten sollte,<lb/>
+zu führ kam, hatte ich noch eine 1/2 Stunde Zeit, um mit Ing. <name type="person" ref="per:116025">Bunzl</name><lb/>
+die <choice><choice><sic>Dhisueproduktion</sic><corr>Tissue-Produktion</corr></choice></choice> der Papierfabrik zu besichtigen.und über die<lb/>
+Konzentration der Papierindustrie Gespräch zu führen. <name type="person" ref="per:116025">Bunzl</name> ist mit<lb/>
+Laakirchen und Walli, die anderen beiden <choice><choice><sic>Disueproduzenten</sic><corr>Tissue-Produzenten</corr></choice></choice> in Ver<lb break="no"/>bindung und hofft, daß er eine Abgrenzung der Produktion und Auf<lb break="no"/>teilung erreichen kann. Er wird diesbezügliche endügltige Vorschläge<lb/>
+mit unserem Haus besprechen. <name type="person" ref="per:107939">Römer</name> war mit einigen Herren ja vor<lb/>
+längerer Zeit die Fabrik besichtigen und hat dort eineleitende Ge<lb break="no"/>spräche geführt. Auf diesem Sektor müßte man wahrscheinlich am<lb/>
+ehesten zur einem Schluß über die Struktur und Erzeugungsprogramm<lb/>
+der ÖPA kommen können.</p><p xml:space="preserve">Anmerkung für <name type="person" ref="per:98053">WANKE</name><lb/>
+Bitte Dr. <name type="person" ref="per:108746">Haffner</name> entsprechende Anregungen geben.</p><p xml:space="preserve">Bei der Jubiläumsfeier konnte ich dann auvh noch den Zentralbe<lb break="no"/>triebsratsobmann sprechen, der mir versicherte, daß in diesen<lb/>
+Betrieb ein Verhältnismäßig sehr gutes Klima herrscht und auch<lb/>
+ein gutes Einvernehmen. Auch ihm schlug ich vor, er möge sich,<lb/>
+wenn er Wünsche hat, jederzeit mit unserem Ministerium in Ver<lb break="no"/>bindung setzen.</p></div>
+      </body>
+      <back>
+         <pb n="18_1230_01" facs="18_1973-11-09_1230-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 9.11.1973</head>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+   </text>
+</TEI>

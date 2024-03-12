@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstag, der  5. März 1974</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band20_1974-03-05</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1974-03-05">Dienstag, 5. März 1974</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-11-17">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band20/">
+      <body>
+         <pb n="20-0296" facs="20_1974-03-05_0296.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Dienstag, 5. März 1974</p><p xml:space="preserve">Dir. <name type="person" ref="per:97333">Bandhauer</name>, Vizegouverneur <name type="person" ref="per:97453">Fremuth</name> und Sekt.Chef <name type="person" ref="per:107937">Frank</name> be<lb break="no"/>sprechen mit mir die neue Bestellung des Aufsichtsrates für die<lb/>
+Verbundgesellschaft. Der bisherigen Sektionschef der Energiesektion<lb/>
+Dr. <name type="person" ref="per:136608">Chech</name> ist mit l. 1. 1974 in Pension gegangen. Als sein Vorgänger<lb/>
+Sekt.Chef Dr. <name type="person" ref="per:141595">Fürst</name> aus dem Ministerium ausgeschieden ist, wurde<lb/>
+sein Aufsichtsratsposten nach seinem allerdings sehr baldigem<lb/>
+Ableben sofort von Dr. <name type="person" ref="per:136608">Chech</name> besetzt. In weiterer Folge wurde er<lb/>
+nur mit den Stimmen der ÖVP zum zweiten Vorsitzendenstellvertreter<lb/>
+gewählt. Ich lasse mich mit Präs. <name type="person" ref="per:112215">Weiss</name>, dem ehemaligen Energieminister<lb/>
+verbinden, der seinerzeit <name type="person" ref="per:136608">Chech</name> eingesetzt hat und erkläre ihm<lb/>
+in aller Freundschaft, er will ja mit mir gut kooperieren, dass<lb/>
+er dieses Problem lösen muss. Er sieht ein, dass Sekt.Chef <name type="person" ref="per:107937">Frank</name> in<lb/>
+den Aufsichtsrat kommen muss. Allerdings meint er, damit wird der<lb/>
+Proporz gestört. Ich erkläre rundwegs, dass die Sektionsleitung immer<lb/>
+ohne eine proporzmässigen Zuteilung im Aufsichtsrat vertreten war.<lb/>
+Da ich mich uninformiert stelle und mir die SPÖ und ÖVP-Mitglieder<lb/>
+nennen lasse, kann ich umso überraschter tun als Sektionschef<lb/>
+<name type="person" ref="per:126990">Neudörfer</name> von Finanzministerium als ein SPÖ-Mann gilt. <name type="person" ref="per:112215">Weiss</name> muss<lb/>
+zugeben, dass es sich hier um einen unabhängigen Fachmann handelt<lb/>
+und genau dasselbe verlange ich natürlich von den anderen beamteten<lb/>
+Vertretern. Präs. <name type="person" ref="per:112215">Weiss</name> wird ausserdem mit LH <name type="person" ref="per:112031">Maurer</name> sprechen,<lb/>
+damit wir in der Donau die notwendigen Vorstandsänderungen vornehmen<lb/>
+können. Ich bin fest entschlossen, auf gütiger Basis die Probleme<lb/>
+zu lösen, wenn es allerdings nicht gelingen sollte, werde ich auch<lb/>
+mit notwendiger Mehrheit unverzüglich die Änderung herbeiführen.<lb/>
+Ich erkläre den Vertretern <name type="person" ref="per:97333">Bandhauer</name>, <name type="person" ref="per:97453">Fremuth</name>, aber auch <name type="person" ref="per:107937">Frank</name>, dass<lb/>
+man schon glaube ich bemerkt hat, dass ich eine andere Art der<lb/>
+Geschäftsführung auch der Elektrizitätswirtschaft habe. Meine<lb/>
+Absicht war und ist, die Probleme im Detail zu kennen, sei es bei<lb/>
+der Preisbildung, sei es bei der Investitionspolitik, sei es bei<lb/>
+der Personalpolitik, und dann zu handeln. Ich glaube, dass diese<lb/>
+Methode auch auf diese drei entsprechend wirkt und dass man letzten<lb/>
+Endes in der gesamten Elektrizitätswirtschaft anerkennt. Zumindestesn<lb/>
+wurde mit dies bis jetzt so versichert.</p><p xml:space="preserve">In der Ministeratssitzung beschliessen wir jetzt endlich die neuen<lb/>
+10.- und 5.-Schilling-Münzen, wobei <name type="person" ref="per:97311">Androsch</name> mir schon vorher<lb/>
+zugesichert hat, nur mehr automatengerechte Neuauflagen zu machen.<lb/>
+Damit ist die wichtigste Forderung der Automatenbesitzer erfüllt.</p><pb n="20-0297" facs="20_1974-03-05_0297.jpg"/><p xml:space="preserve">Ich werde deshalb an alle bei mit intervenierenden Firmen einen<lb/>
+Brief schreiben und besonders auf diesen vollen Erfolg ihrer Inter<lb break="no"/>vention hinweisen.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97498">GRÜNWALD</name>: Mitteilungsschreiben an Dr. <name type="person" ref="per:134294">Zajicek</name>, Sektion<lb/>
+Handel, Bundeskammer, und an alle im Fern<lb break="no"/>schreiben angegebenen Automatenfirmen.</p><p xml:space="preserve"><name type="person" ref="per:113083">Sinowatz</name> soll vom Unterichtsminister in der CSSR eingeladen, am 13.3.<lb/>
+dorthin fahren, doch hat <name type="person" ref="per:97668">Kreisky</name> grösste Bedenken. Ein Hubschrauber<lb/>
+des österr. Bundesheeres wurde auf österreichischem Gebiet von einem<lb/>
+CSSR-Flieger abgedrängt. Der Flieger hat, vielleicht sogar zurecht,<lb/>
+angenommen, dass von Seite des Hubschraubers fotographische Aufnahme<lb/>
+getätigt werden und damit eine Grenzverletzung begangen. Da sich aber<lb/>
+der Hubschrauber auf österreichischem Gebiet befand, war das Vorgehen<lb/>
+eindeutig völkerrechtswidrig. Mit der CSSR gibt es wieder gespannte<lb/>
+Verhältnisse und insbesondere ist die Frage der Vermögensablöse wo<lb/>
+die Tschechen nur 700 Mill. S bieten und Österreich mindestens 1 Mia<lb/>
+verlangt, noch immer offen. Hoffentlich hat sich dieses Problem bis<lb/>
+zur Herbstmesse, wo der csl. Aussenhandelsminister kommen soll, be<lb break="no"/>reits gelöst.</p><p xml:space="preserve">Ich berichte über die Iran-Reise und erkläre noch einmal <name type="person" ref="per:97668">Kreisky</name>,<lb/>
+dass er nach Auffassung der iranischen Regierung im Oktober nach Teheran<lb/>
+kommen sollte. Der persischen Botschafter in Österreich <name type="person" ref="per:114913">Namdar</name> hat<lb/>
+das überall in Persien erzählt.</p><p xml:space="preserve">Nach dem Ministerrat mache ich <name type="person" ref="per:97668">Kreisky</name> darauf aufmerksam, dass ich<lb/>
+bei eventueller Umbesetzung in der Energiewirtschaft entsprechende<lb/>
+Schwierigkeiten haben könnte und dann es zu einer Auseinandersetzung<lb/>
+mit der ÖVP kommen könnte. Er ist mit meiner Vorgangsweise absolut<lb/>
+einverstanden. Auch seiner Meinung nach müsste man von der Proporz<lb break="no"/>bestimmung wegkommen.</p><p xml:space="preserve">Bei einer Vorsprache beim Herrn Bundespräsidenten berichte ich zuerst<lb/>
+von der Reise nach Teheran und dann von der beabsichtigten Reise nach<lb/>
+Moskau. <name type="person" ref="per:97607">Jonas</name> erinnert sich noch sehr genau über seine Reisen, er<lb break="no"/>sucht mich, alle grüssen zu lassen, kennt alle Details und interes<lb break="no"/>siert sich für alle Details. Er kämpft mit Schluckbeschwerden, Schnackerl<lb/>
+ist aber sonst in jeder Beziehung ganz der Alte. Pflichterfüllung, wie<lb/>
+man sie sonstwo kaum findet. Wir überziehen die Zeit beträchtlich, <name type="person" ref="per:97346">Benya</name><lb/>
+und <name type="person" ref="per:98066">Robert Weisz</name> warten bereits seit 20 Minuten. Ich frage, ob ich die<lb/>
+<pb n="20-0298" facs="20_1974-03-05_0298.jpg"/>Wiener Messe heute in seinem Namen und seinem Auftrag eröffnen darf,<lb/>
+was er mir gerne zugesteht. Ebenso geht er auf Grund seines Kalenders,<lb/>
+den er fast im Kopf hat, alle weiteren Verpflichtungen durch und er<lb break="no"/>sucht mich am 2. Mai in Ottensheim das Donaukraftwerke zu eröffnen und<lb/>
+am 22. Mai in Simmerung die 100-Jahr-Feier einer Firma, die er zugesagt<lb/>
+hat, für ihn durchzuführen. Ich ersuche ihn, wenn er irgendwelche Aufträge<lb/>
+für mich hat und ich irgendetwas für ihn erledigen kann, er mir dies<lb/>
+unverzüglich wissen lässt, ich werde selbstverständlich alle anderen<lb/>
+Verpflichtungen dann sofort absagen und zurückstellen, um für ihn<lb/>
+Zeit zu haben. Ich habe das Gefühl, dass über diese Aussprache und insbe<lb break="no"/>sondere über mein Angebot er sehr erfreut ist.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98072">WIESINGER</name>: Nach Rückkunft von Moskau bitte sofort mit<lb/>
+seinem Büro entsprechenden Berichterstattungs<lb break="no"/>termin vereinbaren.</p><p xml:space="preserve">Min.Rat <name type="person" ref="per:97426">Fälbl</name> und Dr. <name type="person" ref="per:114589">Canisius</name>, der Handelsdelegierte in Moskau, und<lb/>
+ich besprechen die Projekte und die Vorgangsweise der Gemischten Kommis<lb break="no"/>sion. Wir einigen uns sofort auf mein Prinzip, dass ich bei der Ankunft<lb/>
+ein in Russisch gehaltenes Papier <name type="person" ref="per:112951">Patolitschew</name> oder wer mich sonst am Flug<lb break="no"/>hafen abholt, geben werde, über das wir dann in der Gemischten Kommission<lb/>
+sehr konkret diskutieren wollten. An und für sich bin ich der Meinung,<lb/>
+dass diese Gemischten Kommission, wo keinerlei sehr konkrete Geschäfte<lb/>
+oft zur Debatte stehen, nicht alle Jahre regelmässig abgehalten werden<lb/>
+sollten, sondern dass wir hier flexibler vorgehen müssten. Ich habe<lb/>
+diesbezüglich auch mit Aussenminister <name type="person" ref="per:97632">Kirchschläger</name> gesprochen, der<lb/>
+allerdings meint, ich sollte ja nicht ein solches Problem von mir aus<lb/>
+bei <name type="person" ref="per:112951">Patolitschew</name> anschneiden. Es besteht sofort die Gefahr, dass die<lb/>
+SU darin einen hochpolitischen Akt sieht, wir uns vielleicht jetzt<lb/>
+mehr dem Westen den Amerikaner wieder annähern wollen, mit der SU<lb/>
+eingelaufene und vorgesehene Besprechungen nicht mehr abhalten wollen<lb/>
+und damit zu einer Klimaverschlechterung kommen könnten, die wahrlich<lb/>
+auch von mir nicht beabsichtigt ist. Ich kann und werde deshalb nur<lb/>
+versuchen, die Kommission so rationell so effektiv als möglich durch<lb break="no"/>zuziehen.</p><p xml:space="preserve">Bei der Verleihung des Staatspreises für Möbel hatte Komm.Rat <name type="person" ref="per:113630">Effenberg</name>,<lb/>
+der Industrievertreter einleitend gemeint, wir seien eine familiäre Zu<lb break="no"/>sammenkunft und ich nützte natürlich diese Einleitung, um dann sehr fami<lb break="no"/>liär und locker, wie mir alle versicherten sehr launisch, doch die<lb/>
+Bedeutung des Möbelhandels, der Industrie, des Tischlergewerbes und<lb/>
+<pb n="20-0299" facs="20_1974-03-05_0299.jpg"/>ganze besonders die Konjunkturentwicklung herauszustreichen. Obwohl<lb/>
+mir mein Magen anfangs grosse Schwierigkeiten machte, hat sich dann<lb/>
+herausgestellt, dass im Laufe des Rundganges und auch der nachfolgenden<lb/>
+Messe-Eröffnung eine wesentliche Besserung sich ergab. Es war mir deshalb<lb/>
+ein reines Vergnügen, der anwesenden ÖVP-Prominenz auseinanderzusetzen,<lb/>
+welche Wirtschaftserfolge wir gerade jetzt entgegen ihren Prognosen er<lb break="no"/>zielen konnten. <name type="person" ref="per:97917">Schleinzer</name> sass picksauer dort, <name type="person" ref="per:97749">Mitterer</name> sah – so wie<lb/>
+immer – weg und die anderen ÖVP-ler soweit sie Humor haben, haben viel<lb break="no"/>leicht innerlich gelacht, äusserlich aber sich sicherlich sehr geärgert.<lb/>
+<name type="person" ref="per:97346">Benya</name> hatte vorher mir gegenüber gemeint, wenn du Preise nennst, dann<lb/>
+langsam, damit sie es hören, wie es in anderen Staaten zugeht und <name type="person" ref="per:97879">Rösch</name><lb/>
+meinte zum Schluss, jetzt hätten wir nur noch das Lied der Arbeit<lb/>
+singen müssen und Freundschaft grüssen. Den Tip, die Regierungsarbeit<lb/>
+so herauszustreichen, hat mir <name type="person" ref="per:97646">Koppe</name> gegeben, ich glaube, er war sehr<lb/>
+wichtig und ich habe ihn in meiner Art glaube ich auch gut vertreten.<lb/>
+Da ich niemals in keiner einzigen Phase eine politische Bemerkung<lb/>
+machte, sondern immer nur von den schlechten Prognosen gesprochen haben,<lb/>
+die eben nicht eingetreten sind und das die Regierung handelt, weil sie<lb/>
+handeln muss, kann man mir sicherlich nicht vorwerfen, dass ich reine<lb/>
+Parteipropaganda gemacht habe, obwohl ich natürlich sehr mit<lb/>
+Absicht die Erfolge entsprechend herausgestellt habe. Unfair ist veil<lb break="no"/>leicht das Einzige, dass die ÖVP überhaupt nicht antworten kann.<lb/>
+aber gerade die ÖVP war in den letzten Monaten sowie die FPÖ zu mir auch<lb/>
+nicht gerade sehr fein. Meine grosse Masche war aber, dass ich immer<lb/>
+wieder darauf hinwies, dass alle diese Massnahmen insbesondere soweit<lb/>
+sie von mir verfügt wurden, im engsten Einvernehmen und mit Zustimmung<lb/>
+der Interessensvertretungen erfolgte. Ausserdem unterstrich ich, dass<lb/>
+<name type="person" ref="per:97607">Jonas</name> ja bei jeder Messe -Eröffnung die Sozialpartnerschaft herausgestrichen<lb/>
+hat und dass ist auch mit ein Erfolg dieser Sozialpartnerschaft oder<lb/>
+Wirtschaftspartnerschaft, dass Österreich diese Entwicklung nehmen<lb/>
+konnte. Vorher hatte ich bereits Gelegenheit mit Gen.Sekr. <name type="person" ref="per:97368">Brandstätter</name><lb/>
+und Landesrat <name type="person" ref="per:113056">Bierbaum</name> zwar getrennt aber für beide bestimmt die Milch<lb break="no"/>preisentwicklung zu besprechen. Ich erklärte, nachdem ich mich vorher mit<lb/>
+<name type="person" ref="per:112051">Singer</name> ins Einvernehmen gesetzt hatte und von ihm erfuhr, dass keinerlei<lb/>
+Verzögerungen durchgeführt wurden, <name type="person" ref="per:111737">Marsch</name> hat mir genau dasselbe bestätigt<lb/>
+wir vom Standpunkt der Preisbehörde alles unternehmen, um so schnell<lb/>
+wie möglich zu einem Ergebnis zu kommen. Leider war es nicht möglich<lb/>
+früher die Ergebnisse der buchführenden Gesellschaft für diese Milchbe<lb break="no"/>triebe zu erhalten, sodass eben leider das Verfahren so lange gedauert hat<lb/>
+<pb n="20-0300" facs="20_1974-03-05_0300.jpg"/><name type="person" ref="per:113056">Bierbaum</name> meinte, allerdings zurecht, dass man ja nicht ab 1. Jänner<lb/>
+rechnen könnte, sondern dass ein Minister auch die Tätigkeit seines<lb/>
+Vorgängers mitzuverantworten hat. Die Landwirtschaft hat schon vor<lb/>
+längere Zeit den Milchpreis im Landwirtschaftsministerium eingereicht<lb/>
+gehabt und erwartet deshalb eine Lösung. Diesbezügliche Besprechungen<lb/>
+mit <name type="person" ref="per:98112">Zöllner</name> ergaben, dass auch er bereit ist, eine Erzeugerpreiserhö<lb break="no"/>hung von 25 Groschen und eine Verbraucherpreiserhöhung von 50 Groschen<lb/>
+zu akzeptieren. Ich selbst hätte es am liebsten, wenn die Überprüfungen<lb/>
+bei den jetzt als typische Milchproduktionsbetriebe von der Buchführungs<lb break="no"/>gesellschaft herausgerechneten Zahlen sich ergäbe, dass der Milchpreis<lb/>
+rechnungsmässig z.B. nur um 18 Groschen oder 19 Groschen erhöht werden<lb/>
+müsste. In diesem Fall würde ich dann trotzdem erklären, es ist volks<lb break="no"/>wirtschaftlich gerechtfertigt, den Milcherzeugerpreis um sagen wir<lb/>
+25 Groschen zu erhöhen. In einem solchen Fall würde nämlich einmal<lb/>
+eben die volkswirtschaftliche Berechtigung nicht zu einem Abstrich<lb/>
+sondern zu einer Erholung führen, dies wäre für meine politische<lb/>
+aber vor allem einmal preispolitische Konzeption ungeheuer wichtig.<lb/>
+Das letzte Mal hat nach Auskunft der Arbeiterkammer die rechnungsmässige<lb/>
+Erhöhung des Milcherzeugerpreises nur 4 Groschen ausgemacht und <name type="person" ref="per:98055">Weihs</name><lb/>
+hat vorher aber bereits bestimmt gehabt, dass der Milchpreis um 15 Gro<lb break="no"/>schen erhöht wird. Dies ist und war meiner Meinung nach ein grosser<lb/>
+Fehler. Zuerst müsste es gelingen, Übereinstimmung über die Berechnungs<lb break="no"/>methode, über den rechnungsmässig errechneten Betrag zu erzielen, um<lb/>
+dann erst den volkswirtschafltich gerechtfertigten Preis festzulegen.<lb/>
+<name type="person" ref="per:97346">Benya</name> habe ich bei der Messe auch bereits aufmerksam gemacht, dass ich<lb/>
+jetzt dem Milchpreis sehr bald endgültig fixieren muss und er war<lb/>
+damit sehr einverstanden. <name type="person" ref="per:97346">Benya</name> hält nämlich gar nichts davon, wenn<lb/>
+man solche Probleme auf die lange Bank schiebt, weil dies nur zu<lb/>
+einer Verärgerung der Bauernvertreter führt.</p><p xml:space="preserve">Zur Wiener Frühjahrsmesse hätte ich auf Vorschlag des Botschafters<lb/>
+<name type="person" ref="per:97802">Otto</name> Minister <name type="person" ref="per:97966">Snuderl</name> aus Jugoslawien eingeladen. Telefongespräche<lb/>
+haben ergeben, dass er bereit war zu kommen. <name type="person" ref="per:97632">Kirchschläger</name>, hier sieht<lb/>
+man, welch feines Gefühl er hat und wie gut er Aussenpolitik versteht,<lb/>
+hat mir allerdings als ich ihm davon Mitteilung machte, gesagt,<lb/>
+damit ist noch nicht sicher, ob er wirklich kommt, es sei ohne weiteres<lb/>
+möglich, dass die Regierung ihm dieses verbietet. Nicht zuletzt wegen<lb/>
+des Sprachenstreites in Kärnten. Tatsächlich stellte sich dann im Laufe<lb/>
+des Nachmittags heraus, dass von jug. Seite und zwar letztlich erkennbar<lb/>
+eine diesbezügliche Absage eintraf. Ich werde deshalb bei der jetzigen<lb/>
+<pb n="20-0301" facs="20_1974-03-05_0301.jpg"/>Messe keinen ausländischen Minister haben, den ich betreuen könnte<lb/>
+und bei der nächsten, wo dann die 100. Messe stattfinden wird, also<lb/>
+eine Jubiläumsmesse, wahrscheinlich mehrere. Auch nicht gerade eine<lb/>
+glückliche Einteilung.</p><p xml:space="preserve">In der Bezirksausschussitzung diskutierten wir wieder einmal die<lb/>
+Politik der Wiener Gemeindeverwaltung insbesondere die rückwirkende<lb/>
+Strompreiserhöhung. Niemand kann natürlich verstehen, dass die Gemeinde<lb/>
+eben mit 1. Feber das Recht gehabt hat, die Preise zu erhöhen und jetzt<lb/>
+erst am 23. oder 22. Feber, das Datum weiss ich nicht genau, den Be<lb break="no"/>schluss im Wiener Gemeinderat durchführt und damit eigentlich natürlich<lb/>
+rückwirkend eine Preiserhöhung vornimmt. Überhaupt kommen jetzt immer<lb/>
+mehr die Gemeindeagenden in die Diskussion und werden immer härter<lb/>
+kritisiert. Genauso schlecht ging es aber auch dem Konsum, der<lb/>
+bekanntlicherweise bei uns auf der Landstrasse durchführt. Insbesondere<lb/>
+beklagen sich immer mehr Genossen, dass die kleinen Filialen ge<lb break="no"/>schlossen werden und damit die älteren Leute kaum mehr die Möglich<lb break="no"/>keit haben, sich zu versorgen. Ein Problem, das sicherlich auch<lb/>
+die Gemeindeverwaltung in kürzester Zeit wird lösen müssen.</p><p xml:space="preserve"/></div>
+      </body>
+      <back>
+         <pb n="20_0295_02" facs="20_1974-03-05_0295-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 5.3.1974</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="20_0301_01" facs="20_1974-03-05_0301-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesordnung 108. Ministerratssitzung, 5.3.1974</head>
+            <gap reason="sampling"/>
+            <pb n="20_0301_02" facs="20_1974-03-05_0301-02.jpg"/>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="20_0301_03" facs="20_1974-03-05_0301-03.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>hs. Notizen (TO Ministerratssitzung Rückseite)</head>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+   </text>
+</TEI>

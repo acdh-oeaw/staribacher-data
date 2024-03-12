@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstag, der 16. März 1982</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band64_1982-03-16</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1982-03-16">Dienstag, 16. März 1982</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-09-25">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="64-0328" facs="64_1982-03-16_0328.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Dienstag, 16. März 1982<lb/>
+</p>
+            <p xml:space="preserve">Beim Jour fixe in der Handelskammer schlug <name type="person" ref="per:97893">Sallinger</name> wieder vor, in den<lb/>
+Kreditaktionen der Bürges auch Betriebsmittel und nicht nur Investi<lb break="no"/>tionszuschüsse einzubeziehen. Der Gen.Sekr. des Wirtschaftsbundes NR<lb/>
+<name type="person" ref="per:118736">Schüssel</name> hat diesbezüglich mit SC <name type="person" ref="per:97584">Jagoda</name> Gespräche geführt. Ich selbst<lb/>
+erklärte sofort dies müßte der Finanzminister zustimmen, da es wahr<lb break="no"/>scheinlich dafür große zusätzliche Mittel in Zukunft bedeuten würde.<lb/>
+Ich könnte mir am ehesten vorstellen, daß die gemeinsame Kreditaktion<lb/>
+Handelskammer mit Bundesland und Handelsministerium die für die <choice><choice><sic>Kleinst<lb break="no"/>betriebe</sic><corr>?</corr></choice></choice> von Bedeutung ist, dafür am ehesten in Frage käme.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97584">JAGODA</name>: Bitte wie besprochen mit Finanzministerium Kontakt<lb/>
+aufnehmen.<lb/>
+</p>
+            <p xml:space="preserve">Das Artenschutzabkommen sollte am 27. April in Kraft treten, dafür sind<lb/>
+jetzt noch 2 Verordnungen vom Finanzministerium über die Waren die da<lb break="no"/>von betroffen sind und über die Zollämterdurchführung fällig. Darüber<lb/>
+hinaus müssen aber, da ja die Länder die Kompetenz für sich beansprucht<lb/>
+haben noch neun Landesgesetze zeitgerecht beschlossen werden. Die Han<lb break="no"/>delskammer sorgt sich daher für ihre Mitglieder, daß nicht zeitgerecht<lb/>
+die entsprechenden Informationen vorliegen werden.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Bitte MR <name type="person" ref="per:113091">Bachmayer</name> soll urgieren, damit es hier<lb/>
+weitergeht.<lb/>
+</p>
+            <p xml:space="preserve">Ich informierte insbesondere Gen.Sekr. <name type="person" ref="per:112978">Kehrer</name> über die Zuckerpreis<lb break="no"/>regelung und über die beabsichtigte Milchpreisregelung. Die Handels<lb break="no"/>kammer soll jetzt informativ mir ihre Vorstellungen mitteilen.<lb/>
+</p>
+            <p xml:space="preserve">Der GD der BP <name type="person" ref="per:97556">Hirnigel</name> hat in einem Fernsehinterview gemeint, es sollte<lb/>
+bei einer eventuellen Rohölpreissenkung durch die OPEC nicht der Benzin<lb break="no"/>preis gesenkt werden sondern die Mineralölsteuer erhöht werden. <name type="person" ref="per:112978">Kehrer</name><lb/>
+war davon sehr überrascht und meinte, <name type="person" ref="per:97556">Hirnigel</name> sei nicht der Sprecher<lb/>
+sondern GD <name type="person" ref="per:97337">Bauer</name> von der ÖMV.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:125291">MARTIN</name>: Bitte mit GD <name type="person" ref="per:97337">Bauer</name> verbinden.<lb/>
+</p>
+            <p xml:space="preserve">Ich informierte, während Staatssekretär <name type="person" ref="per:109808">Albrecht</name> mit Präs. <name type="person" ref="per:97893">Sallinger</name><lb/>
+über verschiedenste Probleme plauderte, Gen.Sekr. <name type="person" ref="per:112978">Kehrer</name> über die Idee<lb/>
+Staatssekretär <name type="person" ref="per:97343">Beil</name>, DDR über die gemeinsam zu errichtende Baugesellschaft.<lb/>
+</p>
+            <pb n="64-0329" facs="64_1982-03-16_0329.jpg"/>
+            <p xml:space="preserve">Ich hatte dann auch noch Gelegenheit den Sprecher der Bauindustrie<lb/>
+GD <name type="person" ref="per:114715">Herbeck</name> von der Porr AG darüber zu informieren.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:112978">Kehrer</name> erfuhr auch von mir, daß die Japan autotive Regelung mit 17 % An<lb break="no"/>teil beibehalten werden soll, damit die Semperit-Exporte nicht gefähr<lb break="no"/>det sind, zum Unterschied aber von der Vergangenheit soll in Hinkunft<lb/>
+nicht mehr ein aliquoter Zollnachlaß gegeben werden, wenn die 17 % nicht<lb/>
+erfüllt sind. Im vergangenen Jahr waren es nur 12 1/2 %.<lb/>
+</p>
+            <p xml:space="preserve">Aufgrund der Mitteilung der Fa. Rauch, daß sie vom Exportfonds bei<lb/>
+einem 3,8-Mio.-Ansuchen nur 500.000.-- Exportfinanzierung genehmigt<lb/>
+bekommen hat, diskutierten wir auch wieder die Möglichkeit der Verbesse<lb break="no"/>rung der Unterstützung der Klein- und Mittelbetriebe. <name type="person" ref="per:112978">Kehrer</name> übergab<lb/>
+mir 2 Informationsbroschüren, wo alle Unterstützungen aufgezählt sind.<lb/>
+Die Handelskammer baute den Exporteurberatungsdienst wesentlich aus. In<lb/>
+München ist jetzt eine Außenhandelsstelle errichtet worden, damit die<lb/>
+kleinen Leute insbesondere in der BRD mehr Information und Unterstützung<lb/>
+bekommen. In Mailand, Paris und Moskau wurde ein Dolmetschdienst einge<lb break="no"/>richtet. Zur Anbahnung wird den Unternehmern Übersetzung und Begleitung<lb/>
+beigestellt. Der Geschäftsführer der Fachgruppe Metallwarenindustrie<lb/>
+<name type="person" ref="per:149228">Teurer</name>, ehem. Handelsdelegierter in Deutschland, wird jetzt einen eigenen<lb/>
+Verein gründen um Marktforschung und Exporthilfe den Vereinsmitgliedern<lb/>
+zu geben.<lb/>
+</p>
+            <p xml:space="preserve">Um den Holzexport nach Irak wieder flott zu machen, soll den Irakern mit<lb/>
+dem BKA, Entwicklungshilfe eine Tischlerschule geschenkt werden. Der<lb/>
+Irak hat unsere Exporteure von der Liste gestrichen, weil die sowj.<lb/>
+Donauschiffahrt und die DDSG Holzexporte in den Irak verschlampt resp.<lb/>
+in <choice><choice><sic>Ismailier</sic><corr>?</corr></choice></choice> liegen gelassen hat.<lb/>
+</p>
+            <p xml:space="preserve">Vor der Ministerratssitzung hat mich Innenminister <name type="person" ref="per:110923">Lanc</name> informiert, daß<lb/>
+er vom 3. bis 6. April in den Irak fährt. BK <name type="person" ref="per:97668">Kreisky</name> hat ihm dafür Dr.<lb/>
+<name type="person" ref="per:134221">Lennkh</name> mitgegeben, sein Sicherheitsdirektor <name type="person" ref="per:1137704">Danzinger</name> fährt auch mit.<lb/>
+Er schlug vor, daß auch das Handelsministerium ihm einen informierten<lb/>
+Beamten mitgibt. Ich habe <name type="person" ref="per:110923">Lanc</name> erklärt, dazu sehe ich keine Möglichkeit,<lb/>
+weil die anfallenden Kosten von mir nicht übernommen werden können. Ich<lb/>
+versprach ihm eine vollständige umfangreiche Information und werde da<lb break="no"/>rüber hinaus den Handelsdelegierten ersuchen, daß er ihn ständig beglei<lb break="no"/>tet. Bei dieser Gelegenheit könnte <name type="person" ref="per:110923">Lanc</name> dann auch die Holzexportfrage<lb/>
+dort zur Sprache bringen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108322">MEISL</name> UND <name type="person" ref="per:108746">HAFFNER</name>: Bitte eine umfangreiche Dokumentation<lb/>
+und Information zusammenstellen. Nächstes J.F. HK setzen.<lb/>
+</p>
+            <pb n="64-0330" facs="64_1982-03-16_0330.jpg"/>
+            <p xml:space="preserve">In der Ministerratsvorbesprechung hat <name type="person" ref="per:97668">Kreisky</name> sofort <name type="person" ref="per:97356">Blecha</name> ersucht<lb/>
+über die Vorfälle WBO zu berichten. Dieser stellte fest, daß jetzt in<lb/>
+der Wochenpresse der Red. <name type="person" ref="per:1137706">Freihofner</name> versucht, den NÖ Landesparteisekre<lb break="no"/>tär <name type="person" ref="per:126976">Strache</name> und auch seinen Sekretär <name type="person" ref="per:1137708">Rudas</name> in die Affäre reinzuziehen.<lb/>
+<name type="person" ref="per:1137708">Rudas</name> hat überhaupt niemals mit der Sekretärin <name type="person" ref="per:1137523">Rauchwarters</name> Kontakt<lb/>
+gehabt, kennt sie nicht, hat auch mit ihr nie telefoniert. <name type="person" ref="per:126976">Strache</name> selbst<lb/>
+hat einmal mit ihr persönlich gesprochen und einmal telefoniert, hat<lb/>
+niemals etwas von Geld erwähnt, das Interesse und die Neugierde ergibt<lb/>
+sich aus seiner Funktion als Landessekretär und auch als Folge der Be<lb break="no"/>mühungen der ÖVP die Faber-Druckerei auch unter ihren Einflußbereich<lb/>
+zu bekommen. Der Wochenpresseredakteur <name type="person" ref="per:1137706">Freihofner</name> gehört derselben CV-<lb/>
+Gruppe an wie <name type="person" ref="per:1137707">Zimper</name> und LH <name type="person" ref="per:97703">Ludwig</name>. <name type="person" ref="per:97668">Kreisky</name> kritisiert, daß <name type="person" ref="per:126976">Strache</name> aus<lb/>
+blindem Eifer dies machte, er ist fest davon überzeugt, daß L.Sekr. <name type="person" ref="per:1137707">Zimper</name><lb/>
+von LH <name type="person" ref="per:97703">Ludwig</name> zu <choice><choice><sic>der</sic><corr>den?</corr></choice></choice> Faber-Geldtransaktionen ermächtigt war, man muß<lb/>
+viel mehr herausstreichen, daß hier das Geld der Siedler zu politischen<lb/>
+Geschäften mißbraucht wurde.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> kommt dann auf die Fessel-Meinungsumfrage zu sprechen, daß die<lb/>
+Jugend das Konferenzzentrum in Mehrheit ablehnt. Dies ist tendenziell<lb/>
+richtig, es müßte noch viel stärkere Aufklärungskampagne über die Be<lb break="no"/>schäftigungsfolgen dieses Konferenzzentrums gemacht werden.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> bespricht dann den <name type="person" ref="per:123182">Gaddafi</name>-Besuch, der dann noch durch das Eintref<lb break="no"/>fen von <name type="person" ref="per:108328">Pahr</name> direkt aus Washington ergänzt wird. Die Meldung, daß die<lb/>
+Amerikaner über den Besuch verärgert sind ist völlig falsch, natürlich<lb/>
+gibt es Auffassungsunterschiede über die Beurteilung des <name type="person" ref="per:123182">Gaddafi</name>-Besuches.<lb/>
+Der ÖVP Außenpolitische Sprecher war auch in Amerika drüben und hat<lb/>
+eine Hetzkampagne gegen die Regierung organisiert. Im State Departement<lb/>
+und einzelne Senatoren versuchte er die Politik <name type="person" ref="per:97668">Kreiskys</name> zu konterkarie<lb break="no"/>ren. Die Zitierung unseres Botschafters <name type="person" ref="per:1137705">Klestil</name> zu Außenminister-Stv.<lb/>
+<name type="person" ref="per:1137709">Stoessel</name> geht wahrscheinlich auch auf seinen Intervention zurück. <name type="person" ref="per:1137709">Stoessel</name><lb/>
+kennt <name type="person" ref="per:97668">Kreisky</name> schon aus der Zeit wo dieser noch in Moskau zugeteilter<lb/>
+US Diplomat war, er kennt ihn als einen ruhigen überlegten Diplomaten,<lb/>
+die einzige Hoffnung in der US-Administration. Der <name type="person" ref="per:123182">Gaddafi</name>-Besuch war<lb/>
+den Amerikanern nicht verheimlicht worden, sondern <name type="person" ref="per:97668">Kreisky</name> hätte sie<lb/>
+verständigen lassen und sie hätten ein gewisses Interesse daran gezeigt<lb/>
+ebenso sei den Saudis der Besuch mitgeteilt werden. <name type="person" ref="per:97668">Kreisky</name> hofft, daß<lb/>
+langfristig der <name type="person" ref="per:123182">Gaddafi</name>-Besuch sich in der Entspannung positiv auswirken<lb/>
+wird. Als erster Schritt sei es jetzt einmal geglückt, zwischen <name type="person" ref="per:97746">Dom Mintoff</name><lb/>
+aus Malta und <name type="person" ref="per:123182">Gaddafi</name> aus Libyen bei einer Zwischenlandung die Verein<lb break="no"/>barung zu treffen, daß die Streitfrage über die Ölgebiete Mittelmeer<lb/>
+<pb n="64-0331" facs="64_1982-03-16_0331.jpg"/>dem internationalen Gerichtshof überantwortet werden. Libyen hat ja<lb/>
+gegen Tunesien beim internationalen Gerichtshof eine diesbezügliche Klage<lb/>
+gewonnen. <name type="person" ref="per:97668">Kreisky</name> meint, er wird es zwar nicht in der Öffentlichkeit<lb/>
+sagen, aber die französische Regierung aber auch die Saudis haben <name type="person" ref="per:97668">Kreisky</name><lb/>
+beim <name type="person" ref="per:123182">Gaddafi</name>-Besuch etliche Male telefonisch informativ und intervenie<lb break="no"/>rend benützt. Streng vertraulich wäre noch zu bemerken, daß <name type="person" ref="per:97668">Kreisky</name><lb/>
+hofft, daß die Spannung an der ägyptisch-libyschen Grenze durch Gesprächs<lb break="no"/>vermittlung des Präs. <name type="person" ref="per:134051">Mubarak</name> gemildert werden könnte und dadurch in<lb/>
+dieser Region ein Spannungsfeld bereinigt werden kann. Im Nahen Osten<lb/>
+ist nach wie vor die israelische Attacke auf den Süden Libanons um diesen<lb/>
+<add>von</add> Palästinensern frei zu machen die größte Gefahr. Angeblich <choice><choice><sic>erwähnte</sic><corr>erwäge?</corr></choice></choice> man<lb/>
+sogar zu diesem Zweck eine Koalitionsregierung mit der Labour Party<lb/>
+zu machen.<lb/>
+</p>
+            <p xml:space="preserve">In den Zeitungen und ganz besonders im Fernsehen wird <name type="person" ref="per:97668">Kreiskys</name> Politik<lb/>
+immer vollkommen falsch dargestellt. Während seiner Krankheit hatte<lb/>
+er viel mehr Gelegenheit Fernsehen zu sehen. Ihn jetzt als den alten,<lb/>
+der z.B. im Falle <name type="person" ref="per:97311">Androsch</name> nur den verstoßenen Sohn seine politische<lb/>
+Karriere verhindern will, kritisierte <name type="person" ref="per:97668">Kreisky</name> besonders. Er hat dem<lb/>
+Moderator <name type="person" ref="per:140711">Rabl</name>, Schwiegersohn von Generalintendant <name type="person" ref="per:97326">Bacher</name>, vorgeworfen,<lb/>
+hier reine ÖVP-Politik zu betreiben. In keinem einzigen Satz wurde der<lb/>
+wirkliche Grund des Rückziehens von <name type="person" ref="per:97311">Androsch</name> aus der Politik nämlich<lb/>
+die Consultatio-Frage auch nur erwähnt. Auch gewisse soz. Redakteure<lb/>
+beim Fernsehen aber z.B. auch bei der VÖEST-Alpine, die angeblich er<lb break="no"/>klärten sie hätten kein Interesse am <name type="person" ref="per:123182">Gaddafi</name>-Besuch zeigt, welches Doppel<lb break="no"/>spiel hier getrieben wird.<lb/>
+</p>
+            <p xml:space="preserve">Der Ölpreis wird in Zukunft nicht sinken, dies könnten nur schwachsinni<lb break="no"/>ge österreichische Journalisten glauben. Der Ölimport daher aus Libyen<lb/>
+auch in Zukunft für Österreich interessant.<lb/>
+</p>
+            <p xml:space="preserve">Die Affäre der Neuen Heimat in Deutschland hätte katastrophale Folgen.<lb/>
+Die jetzt involvierten <name type="person" ref="per:142548">Vietor</name>, aber auch <name type="person" ref="per:1137710">Hesselbach</name> seien begabte Leute<lb/>
+gewesen, für die deutsche Partei und Gewerkschaft sei es unerträglich,<lb/>
+daß sich diese jetzt z.B. in Berlin wo die Häuserbesetzer der Partei<lb/>
+so zu schaffen gemacht haben, jetzt sich herausstellt Dutzende Wohnun<lb break="no"/>gen besitzen.<lb/>
+</p>
+            <p xml:space="preserve">Die Arbeitslosigkeit hat <name type="person" ref="per:111740">Dallinger</name> mitgeteilt ist jetzt bei Mitte März<lb/>
+um 13.000 wieder zurückgegangen. Die Bauarbeiter um 7.000. Dies obwohl<lb/>
+rundherum es wesentlich schlechter ausschaut und vor allem die amerika<lb break="no"/><pb n="64-0332" facs="64_1982-03-16_0332.jpg"/>nische Wirtschaftspolitik uns gar nichts hilft, weshalb Europa sich<lb/>
+mehr oder minder abschalten muß.<lb/>
+</p>
+            <p xml:space="preserve">Manche Leute verstehen nicht, daß er im Herbst vorigen Jahres mit <name type="person" ref="per:111325">Mock</name><lb/>
+nicht nur die Kontaktgespräche hatte sondern auch einen Konsens versucht<lb/>
+zu erreichen, das <name type="person" ref="per:111325">Mock</name> aufgewertet hat aber eine Lösung für die Sanie<lb break="no"/>rung der Länderbank und auch VÖEST-Alpine und VEW-Sanierung Zustimmung<lb/>
+der ÖVP im Parlament erreichte.<lb/>
+</p>
+            <p xml:space="preserve">Klubobmann <name type="person" ref="per:97444">Fischer</name> berichtet, daß jetzt das Haushaltsrecht mit dem Ver<lb break="no"/>fassungsdienst und dem Finanzminister abgestimmt ist und einfachgesetz<lb break="no"/>lich geregelt sein soll. Den letzte Entwurf werden die Minister bekommen<lb/>
+dann werde man im Parlament mit der ÖVP darüber verhandeln. <name type="person" ref="per:97444">Fischer</name><lb/>
+macht neuerdings aufmerksam, daß die Regierungsvorlagen die noch vor dem<lb/>
+Sommer im Nationalrat beschlossen werden sollten auch im Hinblick auf<lb/>
+die Einspruchsmöglichkeit der ÖVP im Bundesrat zeitgerecht eingebracht<lb/>
+werden müssen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR DIE SEKRETÄRE: Bitte zusammenstellen, was wir noch und<lb/>
+wann wir diese Vorlagen zeitgerecht einbringen müssen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:113083">Sinowatz</name> berichtet von Diskussionen mit Jungwählern, durch die Massenme<lb break="no"/>dien wird vermischt AKH, der rote, WBO, der schwarze Skandal. Im AKH ist<lb/>
+aber kein führender Politiker<add>[der]</add> SPÖ involviert. Bei WBO dagegen sehr wohl.<lb/>
+</p>
+            <p xml:space="preserve">Staatssekretär <name type="person" ref="per:123215">Fast</name> schlägt vor, man sollte die Lehrwerkstätten der VEW<lb/>
+die jetzt leer steht anmieten um zusätzliche Lehrlinge ausbilden zu<lb/>
+können.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97891">Salcher</name> berichtet, daß die Wochenpresse jetzt schreibt, die Saudi-Kredit<lb break="no"/>höhe 1 Mrd. $ über 5 Jahre nur und 14 % Zinsen. Tatsächlich ist die<lb/>
+erste Tranche nur 550 Mio. $. Die von der CA abgewickelt wird, die Zinsen<lb/>
+sind je nach Währungsland verschieden auf S 11 % auf DM 10 % und auf<lb/>
+sfr 8 %.<lb/>
+</p>
+            <p xml:space="preserve">Bei Niederösterreich-Konferenzen hat der Versuch die Besteuerung der<lb/>
+Vereine auf eine rechtlich einwandfreie Basis zu stellen starke Diskus<lb break="no"/>sion ausgelöst. Er hat etliche Verbesserungen zugesagt. Die Betriebs<lb break="no"/>prüfung, die bis jetzt durch die zentrale Körperschaftssteuerstelle er<lb break="no"/>folgte, jetzt an die Finanzämter übertragen, er glaubt die Dezentralisie<lb break="no"/>rung würde eine gerechtere und bessere Lösung bringen. Momentan hat er<lb/>
+alles gestoppt.<lb/>
+</p>
+            <pb n="64-0333" facs="64_1982-03-16_0333.jpg"/>
+            <p xml:space="preserve">Außenminister <name type="person" ref="per:108328">Pahr</name> hat dann wie schon oben beschrieben seinen Amerika<lb break="no"/>besuch dargelegt. Wirklich würden die Amerikaner nur ev. Waffenexporte<lb/>
+an Libyen hart treffen. Bis jetzt hat nur die Washington Post darüber<lb/>
+geschrieben und <choice><choice><sic>ihr</sic><corr>?</corr></choice></choice> den NR <name type="person" ref="per:111410">König</name> zitiert. <name type="person" ref="per:97668">Kreisky</name> verweist in einem<lb/>
+Nebensatz darauf, daß militärisches Material für 5 Mrd. S bei der SDP<lb/>
+sozusagen auf Halde liegt. <name type="person" ref="per:108328">Pahr</name> bemerkt strengst vertraulich, daß<lb/>
+Kürassier-Lieferungen leichter von den Amerikanern zuzumuten sei als Hand<lb break="no"/>feuerwaffen. <name type="person" ref="per:108328">Pahr</name> ist auch fest davon überzeugt, daß jetzt im Ost-West-<lb/>
+Konflikt zwischen SU und USA sehr enge Kontakte bestehen, und daß man<lb/>
+sich über die seinerzeitige Abgrenzung weitestgehend wieder geeinigt<lb/>
+hat. Durch den Tod <name type="person" ref="per:116351">Suslows</name> und die Umbesetzung erhofft man sich eine ge<lb break="no"/>wisse Entspannung. An einem <name type="person" ref="per:97668">Kreisky</name>-Besuch in Washington besteht großes<lb/>
+Interesse.<lb/>
+</p>
+            <p xml:space="preserve">Im Ministerrat selbst hat <name type="person" ref="per:97668">Kreisky</name> dann mich überraschenderweise ersucht<lb/>
+über die Wirtschaftsverhandlungen mit Libyen zu berichten da der schrif<lb break="no"/>tliche Bericht noch nicht vorgelegen ist. Dies konnte ich ja aus dem<lb/>
+Stehgreif und verwies insbesondere auf die Wünsche der Libyer zusätzli<lb break="no"/>che Ölmengen für weitere Projekte zu beziehen wenn die ÖMV dies nicht<lb/>
+kann, 1980 1 Mio. to, 1981 nur 500.000 to und auch heuer wieder wahr<lb break="no"/>scheinlich nur 500.000 to Bezug beabsichtigt, wird die Intertrading VÖEST-<lb/>
+Alpine dies versuchen abzuwickeln.<lb/>
+</p>
+            <p xml:space="preserve">In der ÖGB-Bundesfraktionssitzung hat <name type="person" ref="per:97668">Kreisky</name> dann ebenfalls über den<lb/>
+Arbeitslosigkeitsrückgang, Wiener Konferenzzentrum bei der UNO und<lb/>
+natürlich <name type="person" ref="per:123182">Gaddafi</name>-Besuch informiert. Neuerdings bekräftigte er, daß der<lb/>
+Wahltermin das Frühjahr 83 bleibt, trotz der Skandale die jetzt die<lb/>
+WBO und damit die ÖVP hart belasten. Er sieht in dieser Skandalisierung<lb/>
+der Politik durch die ÖVP keine besondere Wahlchance der SPÖ.<lb/>
+</p>
+            <p xml:space="preserve">In der Diskussion hat Zentralsekretär der Bauarbeiter <name type="person" ref="per:97741">Millendorfer</name> da<lb break="no"/>rauf verwiesen, daß jetzt die Landeshauptleute von Stmk., Sbg. und OÖ<lb/>
+noch immer nicht zu ihren Vorschlägen der Bauarbeiter Stellung genommen<lb/>
+haben. Die Bauwirtschaft würde sich sofort für das Sonderprogramm der<lb/>
+5000 Wohnungen aussprechen, wenn nicht nur die Genossenschaften dadurch<lb/>
+involviert wären. Die Bauarbeiter haben daher bei Finanzminister <name type="person" ref="per:97891">Salcher</name><lb/>
+angefragt, ob man nicht auch private Bauträger dafür heranziehen sollte.<lb/>
+In Wien hat man jetzt festgestellt, daß die Zuschläge für Bauvorhaben,<lb/>
+die früher 3 Monate gedauert haben, jetzt 6 bis 8 Monate dauern. Bauar<lb break="no"/>beiter wären mit einer Verländerung der Wohnungswirtschaft einverstan<lb break="no"/>den, wenn für Wien nicht der Bevölkerungsschlüssel 27 % sondern der Be<lb break="no"/><pb n="64-0334" facs="64_1982-03-16_0334.jpg"/>darf, das wären 38 % von den anderen Ländern akzeptiert wird. <choice><choice><sic>Vsz-Stv</sic><corr>?</corr></choice></choice>.<lb/>
+<name type="person" ref="per:112942">Braun</name> von den Privatangestellten berichtet dann über die ORF-Berichter<lb break="no"/>stattung und über die abgekarteten Spiele im Fernsehen. <name type="person" ref="per:97668">Kreisky</name> bemerk<lb break="no"/>te dann in seinem Schlußwort, daß er damit rechnet, daß jetzt <name type="person" ref="per:112942">Braun</name><lb/>
+im Hörer- und Seherbeirat aggressiver auftritt und die vollkommen unobjek<lb break="no"/>tive Darstellung dort aufzeigt.<lb/>
+</p>
+            <p xml:space="preserve">Über die Resolution für den nächsten Bundesvorstand gab es dann eine<lb/>
+harte Diskussion wegen des Passus der Urlaubsverlängerungsverhandlungen.<lb/>
+Der Vorsitzende AK-Präs. <name type="person" ref="per:97386">Czettel</name> erklärte namens der Metallarbeiter sie<lb/>
+könnten einer taxativen Aufzählung von 5-Wochen-Urlaubs-Verhandlungen mit<lb/>
+der Unternehmerseite nicht zustimmen. Mir unerklärlich war, daß der<lb/>
+sozialpolitische Referent des ÖGB, <name type="person" ref="per:145811">Maly</name>, unbedingt auf diese Formulierung<lb/>
+beharrte, weil angeblich schon auf dem Bundeskongreß dies konkret ausge<lb break="no"/>sprochen wurde. Ich erklärte wenn man alle Beschlüsse der Gewerkschaften<lb/>
+die schon auf Kongressen gefaßt wurden jetzt so wörtlich nimmt, dann<lb/>
+brauchen wir in den nächsten 100 Jahren nichts mehr beschließen bis wir<lb/>
+alles durchgesetzt haben. Mir erscheint viel dringender, daß man so wie<lb/>
+bisher immer Formulierungen findet, die letzten Endes alle Gewerkschaften<lb/>
+akzeptieren können, ansonsten die Zusammenarbeit im ÖGB für einzelne Ge<lb break="no"/>werkschaften unerträglich wäre. Selbstverständlich einigten wir uns dann<lb/>
+auf die endgültige Formulierung die den Metallarbeitern weitestgehend<lb/>
+entgegenkommt.<lb/>
+</p>
+            <p xml:space="preserve">Die Fa. <name type="person" ref="per:131196">Dohmen</name>, eine Maschinenhandelsfirma bekam sozusagen vor versammel<lb break="no"/>ter Mannschaft das Dekret zur Führung des Staatswappens. Schon bei der<lb/>
+Halleneröffnung im Industriegelände erfuhr ich, daß <name type="person" ref="per:131196">Dohmen</name> insbesondere<lb/>
+bulgarische Maschinen im größeren Umfang importiert. Auch jetzt hat mir<lb/>
+der Geschäftsführer mitgeteilt, laufen unter dem Strich die Geschäfte<lb/>
+ganz gut. Vereinzelt gibt es natürlich ungeheure Schwierigkeiten.<lb/>
+</p>
+            <p xml:space="preserve">Im Erzherzog Rainer wurde eine neue Brasseriebar eröffnet. Der Besitzer<lb/>
+<name type="person" ref="per:1137711">Nedomansky</name> erklärte freimütig, daß er für 4 Mio. aufgewendet hat. Dafür<lb/>
+bekam er einen 20-jährigen Kredit von der Bank und die Bürges hat ihm<lb/>
+auch zumindest für die vorgesehenen Jahre Zinsenzuschuß gewährt. Betriebs<lb break="no"/>wirtschaftlich ist wie mir MR <name type="person" ref="per:111367">Würzl</name> dann beim heimfahren erzählte 20<lb/>
+Jahre Abschreibungsdauer viel zu lange, wovon ich auch überzeugt bin.<lb/>
+Andererseits aber wieder kann er in kürzerem Zeitraum wahrscheinlich gar<lb/>
+nicht die entsprechenden Aufwendungen amortisieren.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Sektionsleitersitzung gab es natürlich eine umfangreiche und<lb/>
+heftige Diskussion über die Fragen des WBO-Skandals und reinziehen vom<lb/>
+<pb n="64-0335" facs="64_1982-03-16_0335.jpg"/>NÖ Landessekretär <name type="person" ref="per:126976">Strache</name>. Unser Pressereferent <name type="person" ref="per:123301">Vecsei</name>, der ungeheuer<lb/>
+auf Draht ist und sich politisch sehr interessiert und engagiert, kommt<lb/>
+immer wieder sofort mit den neuesten Informationen wodurch ich glaube<lb/>
+ich wirklich bestinformiert bin.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109808">ALBRECHT</name>: Wie können wir <name type="person" ref="per:123301">Vecsei</name> noch besser integrieren.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="64_0327_01" facs="64_1982-03-16_0327-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 16.3.1982</head>
+         </div>
+         <pb n="64_0327_02" facs="64_1982-03-16_0327-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+         <pb n="64_0335_01" facs="64_1982-03-16_0335-01.jpg"/>
+         <pb n="64_0335_02" facs="64_1982-03-16_0335-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesordnung 125. Ministerratssitzung, 18.3.1982</head>
+            <gap reason="sampling"/>
+            <pb n="64_0335_03" facs="64_1982-03-16_0335-03.jpg"/>
+         </div>
+         <pb n="64_0335_04" facs="64_1982-03-16_0335-04.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>hs. Notizen (TO Ministerratssitzung Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Montag, der 28. August 1978</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band44_1978-08-28</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1978-08-28">Montag, 28. August 1978</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2017-06-26">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="44-0914" facs="44_1978-08-28_0914.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Montag, 28. August 1978<lb/>
+</p>
+            <p xml:space="preserve">Beim Jour-fixe mit <name type="person" ref="per:97893">Sallinger</name> und <name type="person" ref="per:97769">Mussil</name> schnitt ich sofort die<lb/>
+Angriffe der Abg. <name type="person" ref="per:97572">Hubinek</name> wegen der unzulänglichen Frauenlohnpolitik<lb/>
+bei den Lebensmittelarbeitern und ihren Angriff auf mich persönlich<lb/>
+an. <name type="person" ref="per:97769">Mussil</name> meinte, <name type="person" ref="per:97893">Sallinger</name> müsste hier mit ihr einmal reden,<lb/>
+um klarzustellen, dass sich niemand in der Partei in die Lohnpolitik,<lb/>
+die die Handelskammer autonom betreiben will, einmischen dürfe.<lb/>
+Ihm war sofort klar, dass dies Konsequenzen haben wird. Ich hatte<lb/>
+ausdrücklich darauf verwiesen, dass ich ihnen die Angelegenheit<lb/>
+deshalb sage, damit sie nicht verwundert sind, eine Intervention<lb/>
+wollte ich in keiner Weise bei <name type="person" ref="per:97572">Hubinek</name> auslösen. Ich bin nämlich<lb/>
+davon überzeugt, dass dies keinerlei Wirkung hat. Die Handelskammer<lb/>
+kann sich innerhalb der ÖVP nicht mehr durchsetzen. <name type="person" ref="per:97893">Sallinger</name> war<lb/>
+sehr froh, dass ich durch keine Entgegnung oder durch eine Polemik<lb/>
+mit <name type="person" ref="per:97572">Hubinek</name> dieses Problem nur noch höher aufgeschaukelt hätte.<lb/>
+Beide bestätigten mir auch, dass die Angriffe gegen <name type="person" ref="per:97311">Androsch</name> wegen<lb/>
+seines Nebeneinkommens ungerechtfertigt sind. Sie haben sich daran<lb/>
+niemals beteiligt, was übrigens stimmt. <name type="person" ref="per:97893">Sallinger</name> ist auch nicht<lb/>
+bereit das Vermögens-Striptease mitzumachen. Nur wenn eine gesetz<lb break="no"/>liche Verpflichtung vorliegt, würde er dies tun. Die Privatsphäre<lb/>
+ist, wie er sagt, obwohl er sicherlich nichts zu verbergen hat,<lb/>
+aus der Politik heraus zu lassen. Eine Meinung, die <name type="person" ref="per:97346">Benya</name> und auch<lb/>
+ich auf alle Fälle teilen. Von beiden wurde übrigens die Horizonte-<lb/>
+Sendung von <name type="person" ref="per:113118">Tozzer</name>, von den sie behaupten, er sei ein Sozialist<lb/>
+oder uns zumindestens nahestehend, als skandalös bezeichnet. <name type="person" ref="per:97893">Sallinger</name><lb/>
+beschwerte sich ausserdem bei mir, dass in der Zeitung Der Selbständi<lb break="no"/>ge vom Freien Wirtschaftsverband die Handelskammer jetzt immer mehr<lb/>
+attackiert wird. Auf Seite 2 ist eine Karikatur von der UNO-City,<lb/>
+wo <name type="person" ref="per:111325">Mock</name>, <name type="person" ref="per:97893">Sallinger</name> und <name type="person" ref="per:97769">Mussil</name> sich sozusagen jetzt mit fremden Fe<lb break="no"/>dern schmücken und positiv zur UNO-City stehen. <name type="person" ref="per:97893">Sallinger</name> und<lb/>
+<name type="person" ref="per:97769">Mussil</name> können mit Recht allerdings geltend machen, dass sie sich<lb/>
+niemals gegen die UNO-City ausgesprochen haben. Noch viel mehr aber<lb/>
+ist der Aufmacher, wo die Handelskammer hart attackiert wird, Grund<lb/>
+von <name type="person" ref="per:97893">Sallingers</name> Beschwerde. Er hat sich seinerzeit gegen seine eigenen<lb/>
+Funktionäre stark gemacht und durchgesetzt, dass Nationalrat<lb/>
+<name type="person" ref="per:97757">Mühlbacher</name> im Präsidium kooptiert wurde. Er hat es jetzt mit den<lb/>
+eigenen Funktionären, insbesondere mit den Landeskammerpräsidenten,<lb/>
+die im deshalb hart attackieren, sehr schwer. Ich verspreche mit<lb/>
+<name type="person" ref="per:97757">Mühlbacher</name> zu reden.<lb/>
+</p>
+            <pb n="44-0915" facs="44_1978-08-28_0915.jpg"/>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:116030">NÄHSMANN</name>: Bitte mit <name type="person" ref="per:97757">Mühlbacher</name> verbinden.<lb/>
+</p>
+            <p xml:space="preserve">Bei dem Jugendfestival des Österreichischen Gewerkschaftsbundes,<lb/>
+wo <name type="person" ref="per:97668">Kreisky</name>, <name type="person" ref="per:98003">Taus</name> und <name type="person" ref="per:97515">Hanreich</name> über die Jugendbeschäftigung und ganz<lb/>
+besonders über die Lehrlingsausbildung sprachen, hat <name type="person" ref="per:97668">Kreisky</name> gesagt,<lb/>
+die Ausbildung ist für den kleineren Betrieb ein Geschäft, der<lb/>
+Lehrling wird also sozusagen nicht ausgebildet, sondern ausgenützt,<lb/>
+alles was erreicht wurde, hat die Regierung getan. Ich erkläre nur<lb/>
+sofort, sie sollen froh sein, dass wir die letzte Novelle gemeinsam<lb/>
+und noch zeitgerecht verabschiedet haben. Jetzt wäre dies wesent<lb break="no"/>lich schwieriger, vielleicht sogar unmöglich. Die Polemik allein<lb/>
+wird ja durch den neuen Ausbildungsplan der ÖVP neuerdings ange<lb break="no"/>heizt. <name type="person" ref="per:97769">Mussil</name> selbst muss zugeben, dass sehr wenig neue Gedanken<lb/>
+drinnen sind, weil wirklich in der letzten Novelle fast alles ver<lb break="no"/>wirklicht wurde. Ich verweise darauf, dass nur jetzt über die finanzi<lb break="no"/>ellen Zuschüsse resp. die darauf resultierende Leistung der Unter<lb break="no"/>nehmer, die die Gewerkschaftsjugend verlangt, in einem Fonds neuerdings<lb/>
+releviert wird. <name type="person" ref="per:97769">Mussil</name> ist darüber nicht sehr glücklich und meint,<lb/>
+ihn hat schon bei mir das letzte Mal sehr aufgeregt, als ich davon<lb/>
+sprach, dass die Novelle nur für diese Legislaturperiode gilt. Die<lb/>
+neue wird bestimmt eine weitere Novelle, wenn es nach mir geht,<lb/>
+sogar die Übertragung der ganzen Kompetenz sogar im Sozialministerium<lb/>
+bringen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Bitte den Plan verschaffen und durch <name type="person" ref="per:111722">Kinscher</name><lb/>
+analysieren lassen.<add>ei[n]geleitet</add><lb/>
+</p>
+            <p xml:space="preserve">Ich informiere die Handelskammer, dass jetzt auf dem Erdölpreis<lb break="no"/>sektor jetzt etwas geschehen wird müssen. Durch die Dollar-Relations<lb break="no"/>verbesserung und die Angriffe, die jetzt von allen Seiten kommen,<lb/>
+muss es eine gewisse Reaktion geben. Ich beabsichtigte unter gar<lb/>
+keinen Umständen den Benzinpreis zu senken, sodass nur das Ofenheizöl<lb/>
+übrig bleibt. <name type="person" ref="per:97769">Mussil</name> ist darüber sehr unglücklich, wird aber mit den<lb/>
+in Frage kommenden Firmen Gespräche führen. Mir war nur wichtig,<lb/>
+dass er die ganze Frage kennt, da die Preissenkungen ja in der Paritäti<lb break="no"/>schen Kommission vereinbart werden müssen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Bitte auch <name type="person" ref="per:112977">Neuhold</name> davon verständigen.<lb/>
+</p>
+            <p xml:space="preserve">Über meinen Bericht von der Einschau des Rechnungshofes wegen<lb/>
+<pb n="44-0916" facs="44_1978-08-28_0916.jpg"/>der Repräsentationsausgaben sind die beiden natürlich gar nicht<lb/>
+glücklich. Sie hatten allen Ernstes gehofft, eine Aussprache,<lb/>
+die sie mit <name type="person" ref="per:114610">Kandutsch</name> gehabt haben, hätte dazu geführt, dass das<lb/>
+Problem der Verrechnung von Ausgaben des Handelsministeriums bei<lb/>
+ausländischen Ministerbesuchen erledigt sei. Sie wollen neuerdings<lb/>
+mit Präs. <name type="person" ref="per:114610">Kandutsch</name> des Rechnungshofes noch einmal reden. Ich<lb/>
+halte so eine Aussprache für wenig zielführend und schlage ihnen<lb/>
+sofort vor, sie sollten jetzt doch auf mein System, das ich schon<lb/>
+seinerzeit ihnen vorgeschlagen habe, zurückkehren. Ich hatte ur<lb break="no"/>sprünglich schon immer verlangt, dass das Handelsministerium gar<lb/>
+nicht die Rechnungen bekommt und dann zur Refundierung der Handels<lb break="no"/>kammer schickt, sondern dass die Hotelrechnungen und sonstigen<lb/>
+Ausgaben sofort auf den Namen der Handelskammer ausgestellt werden.<lb/>
+Auch bei den Geschenken hatte ich seinerzeit vorgeschlagen, dass<lb/>
+nicht <name type="person" ref="per:97801">Ottahal</name> solche kauft, der übrigens meistens sowieso nur irgend<lb/>
+welche Silberschüsseln und Goldsouvenirs usw. gegeben hat, sondern<lb/>
+eben die Handelskammer mir in ihrem Namen und auf ihre Rechnung<lb/>
+zur Verfügung stellt und ich dann <choice><choice><sic>den ausländischen Minister</sic><corr>dem ausländischen Minister? den ausländischen Ministern?</corr></choice></choice> über<lb break="no"/>gebe. <name type="person" ref="per:97769">Mussil</name> meinte, in diesem Fall würden sie ein eigenes Konto<lb/>
+in ihrer Buchhaltung und ihrer Bilanz eröffnen, wo für Betreuung<lb/>
+ausländischer Minister im Interesse der österreichischen Wirt<lb break="no"/>schaft und durch den Handelsminister dies verzeichnet wird.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Bitte eine Aussprache mit <name type="person" ref="per:97722">Marhold</name> diesbezüglich<lb/>
+vereinbaren.<lb/>
+</p>
+            <p xml:space="preserve">Klubobmann <name type="person" ref="per:97807">Peter</name> hat der Handelskammer vorgeschlagen, scheinbar aus<lb/>
+einer Besichtigung in Sibirien, dass sich Österreich an dem Ausbau<lb/>
+der BAM, Baikal-Amur-Magistrale, der parallel laufenden Trans<lb break="no"/>sibirischen Eisenbahn beteiligen soll. Ich erörtere ihnen die ungeheuren<lb/>
+Schwierigkeiten, die es dort bei diesem Dammbau gibt und bin überzeugt,<lb/>
+dass Österreich keine Chance hat, irgendwelche Lieferungen dorthin<lb/>
+zu tätigen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte lass Dir von der sowjetischen Handels<lb break="no"/>kammer eventuelle Unterlagen dafür kommen.<lb/>
+</p>
+            <p xml:space="preserve">Beim Pressefrühstück berichtet <name type="person" ref="per:116031">Liebl</name> über die Fremdenverkehrs<lb break="no"/>ergebnisse im Juli minus 3.5%, Ausländer 4, Inländer 3% weniger<lb/>
+Übernachtungen, <name type="person" ref="per:114653">Schulmeister</name>, der grosses Interesse hat bei diesen<lb/>
+<pb n="44-0917" facs="44_1978-08-28_0917.jpg"/>Aussprachen immer dabei zu sein, MR <name type="person" ref="per:111367">Würzl</name> ist darüber gar nicht<lb/>
+glücklich, wird von mir natürlich sofort auf entsprechende An<lb break="no"/>fragen der Journalisten, wie es jetzt weitergehen wird, eingebunden.<lb/>
+Der Winter wird, wie auch ich prognostizierte, gut werden, insbe<lb break="no"/>sondere weil wir doch dort eine Art Oligopolstellung haben und der<lb/>
+Schweizer Franken weiter steigt und die Schweiz immer mehr für die<lb/>
+Deutschen ausfällt. Überrascht bin ich nach den Kursrelationen<lb/>
+<name type="person" ref="per:114653">Schulmeisters</name>. In seinem Modell wird Österreich dadurch, dass die<lb/>
+anderen Sommerfremdenverkehrsländer nicht mehr weiter abwerten,<lb/>
+relativ um 5% billiger. Dadurch wird nach seiner Prognose der Sommer<lb/>
+1979 gut, d.h mehr Übernachtungen verzeichnet werden können. Davon<lb/>
+war sogar ich überrascht.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: <name type="person" ref="per:114653">Schulmeister</name> soll dies unseren Fremdenverkehrs<lb break="no"/>leuten genau erklären und Du lass es dann auch watscheneinfach dar<lb break="no"/>stellen.</p>
+            <p xml:space="preserve">Da wir keine anderen Themen haben, berichte ich aus Anlass der<lb/>
+jetzt für das erste Halbjahr vorliegenden Mineralverbrauchsziffern<lb/>
+über die Energiesituation. In Superbenzin ist eine Steigerung, die<lb/>
+durch den geringen Rückgang von Normalbenzin nicht annähernd ausgegli<lb break="no"/>chen wird. Ebenso steigt der Heizölverbrauch in allen Sorten. Dazu<lb/>
+berichte ich noch, wurde im ersten Halbjahr von der Elektrizitäts<lb break="no"/>wirtschaft unbestritten errechnet, dass wir um 6% gegenüber dem<lb/>
+Vorjahr mehr verbrauchen. Die in den Vorschauen vorgesehenen und<lb/>
+daher auch in den Energieplan eingehenden 5.7% Zuwachsraten auf<lb/>
+lange Frist, die ja früher 7% betragen haben, dürften sich bewahr<lb break="no"/>heiten. Selbst wenn aber nur 5% Zuwachs ist, und damit muss ich rech<lb break="no"/>nen, wird es notwendig in 15 Jahren unsere gesamte Elektrizitäts<lb break="no"/>kapazität zu verdoppeln. An Hand dieser Energiesituation erörtere<lb/>
+ich auch meine Politik jetzt bei den Verhandlungen mit den Öl<lb break="no"/>firmen. Es kommt, was mich selbst überrascht, zwar zu einer Dis<lb break="no"/>kussion über die Energiesituation, nicht aber über Zwentendorf.<lb/>
+Anschliessend daran aber kommt die Redakteurin <name type="person" ref="per:116032">Freisinger</name> und will<lb/>
+von mir eine endgültige Stellungnahme zu dem Lagerprojekt Iran und<lb/>
+Ägypten. Angeblich, sagt sie, sei beschlossen worden, mit Iran alle<lb/>
+Verhandlungen abzubrechen. Dies, erkläre ich, stimmt nicht. Durch die<lb/>
+politische Situation im Iran aber bedingt und auch dass ja nicht<lb/>
+nur allein ein Staatsvertrag zwischen Teheran und Wien abgeschlossen<lb/>
+werden muss, sondern gleichlaufend damit und als wichtige Vor<lb break="no"/>aussetzung die Firmenvereinbarungen, wird also jetzt ganz besonders<lb/>
+<pb n="44-0918" facs="44_1978-08-28_0918.jpg"/>keine Aktivität entfaltet. Auch in Ägypten ist es notwendig, wie ich<lb/>
+sehr laut erkläre, sodass es auch die anderen alle hören, dass nicht<lb/>
+primär zuerst der Staatsvertrag zwischen Ägypten und Österreich<lb/>
+abgeschlossen wird, sondern primär zuerst die Firmen klar sein<lb/>
+müssen, wie sie mit ihren ägyptischen counterpart das Problem<lb/>
+der Lagerung und vor allem der Finanzierung endgültig geklärt haben.<lb/>
+Details kann ich nicht sagen und wie die Firmenverhandlungen weiter<lb break="no"/>gehen, wird sich zeigen.<lb/>
+</p>
+            <p xml:space="preserve">Der Vertreter der Gastwirte-Zeitung möchte von mir unbedingt eine<lb/>
+Stellungnahme zur Äusserung <name type="person" ref="per:97311">Androschs</name>, dass die Getränkepreise und<lb/>
+deren Besteuerung keine Rolle spielen, für die Hoteliers und Gast<lb break="no"/>wirte sei die Auslastung das Entscheidende. Was er will, ist ganz<lb/>
+klar, er will zu einer Polemik den Fall, d.h. die Äusserung von<lb/>
+<name type="person" ref="per:97311">Androsch</name> in Bad Aussee hochspielen. Auch hier erkläre ich so laut,<lb/>
+dass es jeder hört und damit auch der ORF mich nachher genau auch<lb/>
+wegen dieser Frage interviewt, dass die Auslastung das Wichtigste<lb/>
+bei den Fremdenverkehrsbetrieben ist. Dies ist unbestritten und daher<lb/>
+hat <name type="person" ref="per:97311">Androsch</name> in diesem Punkt recht. Was die hohen Getränkepreise be<lb break="no"/>trifft, so habe ich schon vor Jahren der Fremdenverkehrswirtschaft<lb/>
+vorgeschlagen, man soll durch Vereinfachung der Berechnung zu<lb/>
+einer arbeitssparenden Methode kommen, die vielleicht dann in<lb/>
+einem oder anderen Punkt auch eine gewisse Erleichterung für die<lb/>
+Hoteliers und Gaststätten bringt. Diesbezügliche Zusagen wurden<lb/>
+auch von <name type="person" ref="per:97311">Androsch</name> mir seinerzeit gemacht. Die Fremdenverkehrs<lb break="no"/>wirtschaft hat – obwohl <name type="person" ref="per:111367">Würzl</name> sich angeblich sehr darum bemüht hat –<lb/>
+dieses Angebot noch nicht befriedigend aufgenommen resp. durchge<lb break="no"/>rechnet. Die Getränkesteuer, erklärte ich, sei ausserdem eine Ge<lb break="no"/>meindeabgabe, die die Fremdenverkehrsgemeinden dringendst brauchen.<lb/>
+Wenn man auch jetzt immer wieder sagt, die müsste dann durch den<lb/>
+Finanzausgleich den Gemeinden ersetzt werden, so zeigt sich z.B.<lb/>
+jetzt bei der beabsichtigten Abschaffung der Lohnsummensteuer in<lb/>
+Deutschland, dass die davon betroffenen Gemeinden, obwohl sie dort<lb/>
+dies durch den Bund resp. den Ländern ersetzt bekommen sollen, dage<lb break="no"/>gen Sturm laufen. Ich bin überzeugt, auch in Österreich wäre eine<lb/>
+ähnliche Situation. An <name type="person" ref="per:97311">Androsch</name> seiner Stelle würde ich daher gar<lb/>
+nicht so gegen die Fremdenverkehrswirtschaft agieren, sondern sie<lb/>
+eher Fremdenverkehrsgemeinden, Fremdenverkehrsbetriebe gegenein<lb break="no"/>ander ausspielen.<lb/>
+</p>
+            <pb n="44-0919" facs="44_1978-08-28_0919.jpg"/>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte lass von <name type="person" ref="per:111367">Würzl</name> genau feststellen die<lb/>
+chronologische Anbote und Verhandlungen in diesem Punkt.<lb/>
+</p>
+            <p xml:space="preserve">Mit SChef <name type="person" ref="per:107937">Frank</name> und <name type="person" ref="per:107956">Satzinger</name> bespreche ich die offenen Energie<lb break="no"/>probleme. Ich mache ihm Vorwürfe wegen der von ihm geführten Be<lb break="no"/>sprechungen und jetzt sogar beabsichtigten Besuch der Schweiz,<lb/>
+ohne dass ich davon etwas wusste. Dadurch bin ich in der Schweiz<lb/>
+selbst bei einer Aussprache mit dem sozialistischen Nationalrat<lb/>
+resp. Landesrat in grosse Schwierigkeiten <choice><choice><sic>beraten</sic><corr>geraten</corr></choice></choice>. <name type="person" ref="per:107937">Frank</name> behauptet<lb/>
+allerdings, dass er keine konkreten Verhandlungen bis jetzt ge<lb break="no"/>führt hat resp. Treffen vereinbart hat. Jetzt soll er nur als Län<lb break="no"/>derprüfer der Internationalen Energieagentur in die Schweiz geschickt<lb/>
+werden und möchte vorher die Notstandsmassnahmen, die Lagerung in<lb/>
+Ägypten, die Beteiligung der Schweiz an dem ungarisch-burgenländi<lb break="no"/>schen Grenzkraftwerk bis zu 300 Megawatt, die Destillationsanlage<lb/>
+in Sennwald, an der sich eventuell auch die Vorarlberger betei<lb break="no"/>ligen könnten sowie auch die Zusammenarbeit zwischen Verbundplan<lb/>
+und der Schweizer Firma Kolumbus besprechen. Damit bin ich einver<lb break="no"/>standen. Noch grössere Vorwürfe muss ich ihm aber bezüglich der ge<lb break="no"/>ringen Koordinierung in der Verbundaufsichtsrat-Vorbesprechung machen.<lb/>
+<name type="person" ref="per:107937">Frank</name> hat das letzte Mal zum grossen Entsetzen unserer Fraktion<lb/>
+in der Aufsichtsratssitzung direkt den Bericht von GD <name type="person" ref="per:112014">Erbacher</name><lb/>
+hart attackiert. Natürlich ist dann im Protokoll alles aufge<lb break="no"/>zählt worden. Dieses Protokoll ist zwar vertraulich, wurde aber<lb/>
+selbstverständlich der Presse zugespielt und jetzt gibt es eine<lb/>
+ganz schöne Polemik, nicht nur <name type="person" ref="per:107937">Frank</name> gegen Verbundgesellschaft,<lb/>
+sondern auch <name type="person" ref="per:107937">Frank</name> gegen Handelsminister. NR <name type="person" ref="per:111723">Wiesinger</name> hat dies<lb/>
+sofort aufgegriffen und in einem offenen Brief neben vielen anderen<lb/>
+Fragen auch mich diesbezüglich angeschossen. <name type="person" ref="per:107937">Frank</name> behauptet, was ich<lb/>
+natürlich nicht einmal ich abnehme, er hätte sich in der Fraktion<lb/>
+nicht durchsetzen können, weil er dort gar nicht zu Wort kommt. Über<lb/>
+diese Aussprache verständige ich dann nachher auch <name type="person" ref="per:97333">Bandhauer</name> und ersuche<lb/>
+ihn, dass wenn sie irgendwelche Probleme mit <name type="person" ref="per:107937">Frank</name> haben, diese<lb/>
+nicht intern lösen können, sich dann halt gegebenenfalls an mich zu<lb/>
+wenden und ich mich als Vermittler einschalten werde.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>! Versuche Du auch hier ständig der Vermittler<lb/>
+und Beschwichtiger zu sein.<lb/>
+</p>
+            <p xml:space="preserve">Bezüglich des modifizierten Energieplanes einigen er uns, dass<lb/>
+<pb n="44-0920" facs="44_1978-08-28_0920.jpg"/>jetzt ein Entwurf vom Ministerium den Interessensvertretungen<lb/>
+und allen Beteiligten geschickt wird. Darin will <name type="person" ref="per:107937">Frank</name> unter allen<lb/>
+Umständen die 400 MW Gasturbinen und die 1000 MW neue Ölkraftwerke<lb/>
+eliminieren oder zumindestens wesentlich stark reduzieren. Ich teile<lb/>
+seine Meinung und hoffe, dass es gelingen wird einen Akkord mit der<lb/>
+Energie, insbesondere Elektrizitätswirtschaft zu erzielen. In Hin<lb break="no"/>kunft werden wir den Energieplan nicht mehr nach Jahreszahlen fest<lb break="no"/>legen, sondern eben nur schreiben die dritte Modifikation oder<lb/>
+Anpassung des Energieplanes.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Bitte schau dass wir spätestens im Herbst<lb/>
+mit dem neuen Energieplan herauskommen können.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:107937">Frank</name> berichtet auch, dass es ihm als Oberste Bergbehörde jetzt<lb/>
+geglückt ist, die Interimsabkommen mit den Erdölfirmen ÖMV und<lb/>
+RAG abzuschliessen. Da sie bis September befristet sind, werden<lb/>
+sie jetzt sofort verlängert werden müssen. Die Langzeitpläne mit<lb/>
+der ÖMV und die Wahrnehmung der Verträge, die in der Vergangenheit<lb/>
+an die Berghauptmannschaft von der OB delegiert wurde, wird aller<lb break="no"/>dings viele Streitpunkte mit den Ölfirmen ergeben. Hier werde ich<lb/>
+wahrscheinlich noch oft als Vermittler eingeschaltet werden. <name type="person" ref="per:107937">Frank</name> be<lb break="no"/>hauptet, und dies stimmt sicher, dass in der Vergangenheit man von<lb/>
+der Obersten Bergbehörde nur zu leichtfertig alle Kompetenzen ent<lb break="no"/>weder der Berghauptmannschaft delegiert hat oder sie gar nicht<lb/>
+wahrgenommen hat. Darüber hätte sich sogar die Finanzprokuratur im<lb/>
+Jahre 1977, als sie mit diesen Verträgen erstmals beschäftigt wurde,<lb/>
+dahingehend geäussert.<lb/>
+</p>
+            <p xml:space="preserve">Ich berichte <name type="person" ref="per:107937">Frank</name> über meine Zusammenkunft auf der Bielerhöhe<lb/>
+mit dem Vorstand der Illwerke. Diese haben den mir erstatteten münd<lb break="no"/>lichen Bericht über die Schiedsgerichtsverhandlungen als eine Zwischen<lb break="no"/>lösung und Zwischenbericht für die von ihnen verlangte endgültige Klä<lb break="no"/>rung der Illwerke-Politik in der Vergangenheit betrachtet. <name type="person" ref="per:107937">Frank</name><lb/>
+teilt meine Auffassung, dass nämlich wir auf alle Fälle, bevor wir in<lb/>
+diese schweren Anschuldigungen, dass das Treueverhältnis der öffent<lb break="no"/>lichen Verwalter und dann auch der Organe gegen die Republik ge<lb break="no"/>brochen wurde, näher untersuchen und aufgreifen, vorerst die Schieds<lb break="no"/>verhandlungen mit den deutschen RWE abgeschlossen werden müssen.<lb/>
+<name type="person" ref="per:107937">Frank</name> dürfte jetzt also nachträglich auch eingesehen haben, dass es<lb/>
+nicht zweckmässig wäre zu den jetzigen Zeitpunkt bereits die Staats<lb break="no"/><pb n="44-0921" facs="44_1978-08-28_0921.jpg"/>anwaltschaft einzuschalten. Dies wird meiner Meinung nach erst<lb/>
+notwendig sein, bis tatsächlich von seitens des Vorstandes der<lb/>
+endgültige Bericht vorgelegt werden kann. Dafür sind, davon<lb/>
+habe ich mich selbst überzeugen können, noch umfangreiche Studien<lb/>
+insbesondere des neuen Vorstandsdirektors <name type="person" ref="per:113021">Reich</name> notwendig. Dieser<lb/>
+hat sich ungeheuer in die Details eingearbeitet, macht entsprechende<lb/>
+Archivstudien auch in der Vorarlberger Landesregierung und deren<lb/>
+Beschlüsse und verspricht uns ein umfangreiches Elaborat zeitge<lb break="no"/>recht vorzulegen. Erst dann, gibt <name type="person" ref="per:107937">Frank</name> zu, können wir entsprechende<lb/>
+Beschlüsse fassen. Bezüglich der Ordensverleihung haben wir jetzt<lb/>
+eine gute Ausrede damit zuzuwarten, bis auch die von mir angeregten<lb/>
+Orden für die Malta-Kraftwerk-Errichtung verteilt werden.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name> UND <name type="person" ref="per:107956">SATZINGER</name>: Bitte die Malta-Auszeichnungs<lb break="no"/>verleihung veranlassen.<lb/>
+</p>
+            <p xml:space="preserve">Abg. <name type="person" ref="per:97543">Heindl</name> teilt mir mit, dass er jetzt bezüglich der Pro-Zwenten<lb break="no"/>dorf-Kampagne und insbesondere Propagandatätigkeit nach telefo<lb break="no"/>nischer Rücksprache mit mir in Riva del Sole den Auftrag gegeben<lb/>
+hat, die Plakatflächen zu mieten. <name type="person" ref="per:97333">Bandhauer</name> selbst ist der Meinung,<lb/>
+dass er äusserst vorsichtig vorgehen muss, weil ansonsten die<lb/>
+ÖVP-ler der Elektrizitätswirtschaft vielleicht abspringen würden.<lb/>
+Ich rufe ihn sofort an und stelle fest, dass <name type="person" ref="per:97543">Heindl</name> in meinem Auf<lb break="no"/>trag so gehandelt hat, denn die Elektrizitätswirtschaft würde es<lb/>
+uns dann vielleicht letzten Endes ankreiden, wenn wir für September/<lb/>
+Oktober keine Plakatflächen haben, obwohl behauptet wird, dass die<lb/>
+Atomgegner sich solche in grösserem Ausmass reserviert haben. <name type="person" ref="per:97333">Band<lb break="no"/>hauer</name> meint, es müsste jetzt endlich auch die Atomenergieindustrie<lb/>
+etwas zu dieser Aufklärungskampagne beitragen. Ich werde diesbezüglich<lb/>
+mit GD <name type="person" ref="per:98102">Wolfsberger</name> von Siemens sprechen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Bitte einen Termin mit <name type="person" ref="per:98102">Wolfsberger</name> vereinba<lb break="no"/>ren.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="44_0913_01" facs="44_1978-08-28_0913-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 28.8.1978</head>
+         </div>
+         <pb n="44_0913_02" facs="44_1978-08-28_0913-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

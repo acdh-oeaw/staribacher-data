@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Montag, der 25. Juni 1979</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band49_1979-06-25</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1979-06-25">Montag, 25. Juni 1979</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-08-26">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="49-0721" facs="49_1979-06-25_0721.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Montag, 25. Juni 1979<lb/>
+</p>
+            <p xml:space="preserve">Beim Jour fixe mit <name type="person" ref="per:97893">Sallinger</name> und <name type="person" ref="per:97769">Mussil</name> brachte ich sofort die<lb/>
+Diskussion auf die Energiesituation. Ich verlangte dass die Han<lb break="no"/>delskammer jetzt endlich einen Energieverantwortlichen versucht zu<lb/>
+finden, der entsprechendes politisches Gewicht hat. Die Ankündigung<lb/>
+von Gesundheitssprecher <name type="person" ref="per:111723">Wiesinger</name>, dass sich die sogenannten Be<lb break="no"/>reichssprecher jetzt immer treffen werden, um als eine Art Schatten<lb break="no"/>kabinett die Politik der ÖVP festzulegen bedeutet in meinen Augen,<lb/>
+dass in Hinkunft auch die Energiefrage dort weitestgehend präju<lb break="no"/>diziert wird. Freimütig sagte ich, mich stört es keinesfalls, wenn<lb/>
+Dr. <name type="person" ref="per:111410">König</name> jetzt diese Funktion übernimmt. Die Handelskammer soll sich<lb/>
+nur nicht wundern, dass es dann auf diesem Gebiet kaum gelingen<lb/>
+wird eine Konsenspolitik zu betreiben. Die Folgen einer Absenz<lb/>
+hat ja schon die Entwicklung der Kernenergiefrage gezeigt. <name type="person" ref="per:97769">Mussil</name><lb/>
+meinte abschwächend, auch unter <name type="person" ref="per:97917">Schleinzer</name> hätte es bereits einen<lb/>
+Elferausschuss gegeben, wo er als Wirtschaftssprecher stetes Woche<lb/>
+für Woche anwesend war und wo ähnlich einer Ministerratssitzung<lb/>
+alle Wirtschaftsfragen stets behandelt wurden und es nachher sogar<lb/>
+ein Pressegespräch über die Auffassung der ÖVP zu den einzelnen<lb/>
+Punkten gegeben hat. <name type="person" ref="per:97769">Mussil</name> überschätzt in diesem Fall ungeheuer<lb/>
+die Regierungssitzungen auf unserer Seite. Er würde sehr verwundert<lb/>
+sein, zu erfahren, dass es bei uns eine solche koordinierende Aus<lb break="no"/>sprache gar nicht gibt. Der Schlüssel des Erfolges von <name type="person" ref="per:140654">Kreisky</name> ist<lb/>
+nämlich, dass er überhaupt nicht mit mehreren Ministern gleich<lb break="no"/>zeitig Probleme bespricht, sondern die Ministerratsvorbesprechung<lb/>
+als Postsitzung führt und wenn es Fragen gibt, dann höchsten mit<lb/>
+dem Minister bilateral bespricht. Ausgenommen davon war – und ist<lb/>
+sicherlich auch jetzt wieder – der enge Kontakt mit Finanzminister<lb/>
+<name type="person" ref="per:97311">Androsch</name>.<lb/>
+</p>
+            <p xml:space="preserve">Ein zweites wichtiges Problem hat <name type="person" ref="per:97893">Sallinger</name> zur Sprache gebracht.<lb/>
+Er persönlich ist, wie er mir wieder versicherte, gegen das Anmieten<lb/>
+von dem Ausgleichsquartier für die Österreichische Fremdenverkehrs<lb break="no"/>werbung. 350.000 Schilling pro Monat muss Miete bezahlt werden, in<lb/>
+den 3 Jahren werden es 10 Mio. Schilling sein. Die Renovierung wird<lb/>
+seiner Meinung nach unbefriedigt verlaufen, denn man kann aus dem<lb/>
+Bankhaus in der Hohenstaufengasse von <name type="person" ref="per:117854">Wagner</name>, keinesfalls ein ver<lb break="no"/>nünftiges Bürogebäude machen. Seiner Vorstellung nach wäre es<lb/>
+zweckmässiger, wir würden jetzt sofort für die Österreichische Frem<lb break="no"/><pb n="49-0722" facs="49_1979-06-25_0722.jpg"/>denverkehrswerbung ein repräsentatives Haus kaufen. <name type="person" ref="per:97893">Sallinger</name><lb/>
+musste dann zugeben, dass solche Ideen an den Einspruch der Länder<lb/>
+bis jetzt gescheitert sind und ich bin überzeugt, auch in Hinkunft<lb/>
+scheitern werden. Letzten Endes stimmte er einer Anmietung zu, weil<lb/>
+er in Wirklichkeit auch keine andere Lösung hat. Sein Versuch mit den<lb/>
+Ländern in Kontakt zu kommen, insbesondere hat er mit Finanzreferent<lb/>
+<name type="person" ref="per:112216">Bassetti</name> von Tirol gesprochen, war nämlich ergebnislos. Dr. <name type="person" ref="per:111736">Zolles</name><lb/>
+und <name type="person" ref="per:114587">Kübler</name> waren sehr froh, dann beim Pressegespräch von mir diese<lb/>
+Entscheidung zu hören.<lb/>
+</p>
+            <p xml:space="preserve">Die Firma British Petrol möchte auch das Dekret zur Führung des<lb/>
+Staatswappens. <name type="person" ref="per:97893">Sallinger</name> bemerkte zurecht, dass wir uns die genau<lb/>
+überlegen müssen, ob wir den Ölmultis jetzt eine solche Auszeich<lb break="no"/>nung geben sollten. Dies bezieht sich weniger auf die jetzige<lb/>
+Energiesituation als im Prinzip natürlich jeder Multibetrieb<lb/>
+kommen wird und sagt, er ist auf seinem Gebiet führend. Ich war<lb/>
+sofort damit einverstanden, dass wir diese Frage auf längere Zeit<lb/>
+zurückstellen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Bitte auf Jour fixe AK setzen und mit <name type="person" ref="per:97584">Jagoda</name><lb/>
+besonders besprechen.<lb/>
+</p>
+            <p xml:space="preserve">In Tirol gibt es eine Kräuterdestillerie, Mitglied des Freien<lb/>
+Wirtschaftsverbandes, der ebenfalls wie <name type="person" ref="per:97893">Sallinger</name> sagt, das Dekret<lb/>
+zur Führung des Staatswappens wünscht. Die Firma hat 5 Verfahren<lb/>
+wegen Verstoss gegen das Lebensmittelgesetz. Ich habe sofort zuge<lb break="no"/>stimmt, dass wir abwarten müssen, wie diese Verfahren ausgehen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Bitte stelle den Tatbestand genau fest.<lb/>
+</p>
+            <p xml:space="preserve">Die Firma <choice><choice><sic>Burtscheker</sic><corr>Furtschegger?</corr></choice></choice>, Jagdwaffenerzeuger in Kufstein, hätte jetzt<lb/>
+die Möglichkeit eines grösseren Schwedenexportes. Seit 5.4. lauft<lb/>
+das Verfahren zur Führung des Staatswappens. Ich versprach den Fall<lb/>
+zu beschleunigen und genau zu prüfen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Bitte wie liegt die Angelegenheit?<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97893">Sallinger</name> fragte ob ich bereit wäre, Bundesrat <name type="person" ref="per:110995">Pisec</name> in die<lb/>
+grosse Gemischte Kommission mit der UdSSR aufzunehmen. Von der<lb/>
+Handelskammer ist <name type="person" ref="per:97893">Sallinger</name>, <name type="person" ref="per:97769">Mussil</name>, <name type="person" ref="per:97474">Gleissner</name> und <name type="person" ref="per:137384">Deuring</name> dele<lb break="no"/><pb n="49-0723" facs="49_1979-06-25_0723.jpg"/>giert. Als Ausweg und die andere Seite war sehr froh, weil sie<lb/>
+keine Lösung wusste, schlug ich vor, <name type="person" ref="per:110995">Pisec</name> sollte irgend jemand<lb/>
+der Vier vertreten, ich bin nämlich überzeugt, dass niemals alle<lb/>
+Vier anwesend sein werden.<lb/>
+</p>
+            <p xml:space="preserve">Der Präsident von Philips, <name type="person" ref="per:114410">Rodenburg</name>, soll einen grösseren Orden<lb/>
+bekommen. Die Unterlagen liegen seit September im Ministerium.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Wo steckt der Fall?<lb/>
+</p>
+            <p xml:space="preserve">Die Handelskammer war sehr befriedigt – und wie mir Sekretär Dr.<lb/>
+<name type="person" ref="per:114537">Oder</name> mitteilte – die Vorarlberger begeistert, dass es gelungen ist,<lb/>
+für Frau <name type="person" ref="per:127924">Schneider</name> mit 85 Jahren das Goldene Verdienstzeichen,<lb/>
+wie ich ruhig sagen kann, von der Bürokratie herauszureissen.<lb/>
+</p>
+            <p xml:space="preserve">Die Frage der Besetzung der Hauptwahlbehörde mit S.Chef <name type="person" ref="per:97584">Jagoda</name> würde<lb/>
+<name type="person" ref="per:97893">Sallinger</name> grosse Schwierigkeiten bereiten. Prinzipiell bestätigten sie<lb/>
+sind sie mit <name type="person" ref="per:97584">Jagoda</name> sehr einverstanden und schätzen ihn auch sehr.<lb/>
+Für sie ist es scheinbar nur untragbar, dass ein Roter, sozusagen<lb/>
+Vorsitzender der Hauptwahlbehörde wird. Ich versprach diesbezügliche<lb/>
+Gespräche mit <name type="person" ref="per:97584">Jagoda</name>, kündigte aber gleichzeitig an, dass alle Wahl<lb break="no"/>behördenbesetzungen uno actu gemacht werden müssen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Bitte dieses Problem mit <name type="person" ref="per:97584">Jagoda</name> und mir so<lb break="no"/>fort besprechen.<lb/>
+</p>
+            <p xml:space="preserve">Bitter beschwert haben sich die Kämmerer über die Ausschaltung der<lb/>
+Handelskammer im Begutachtungsverfahren bei der BÜRGES. Jetzt geht<lb/>
+das Handelsministerium bei den Verhandlungen sogar so weit, die<lb/>
+Begutachtung der Handelskammer zu verhindern. Ich verwies neuerdings<lb/>
+darauf, dass <name type="person" ref="per:97584">Jagoda</name> in Verhandlung mit den Handelskammervertretern<lb/>
+ist, um eine vernünftige, den gesetzlichen Anforderungen entsprechende<lb/>
+Lösung zu finden. Die Behauptung, dass die Handelskammer erpresst<lb/>
+werden soll als Kompensation dem Freien Wirtschaftsverband die Ma<lb break="no"/>gnetbänder mit den Adressen zu geben, habe ich nicht akzeptiert.<lb/>
+Strengst vertraulich hat man mir nämlich mitgeteilt, dass Zentral<lb break="no"/>sekretär <name type="person" ref="per:97892">Sallaberger</name> dies vom Handelsministerium verlangt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Bitte sofort in die Besprechung mit <name type="person" ref="per:97584">Jagoda</name><lb/>
+bringen.<lb/>
+</p>
+            <pb n="49-0724" facs="49_1979-06-25_0724.jpg"/>
+            <p xml:space="preserve">In der LKW-Transitsteuerlösung wurde vorgesehen, dass die aus<lb break="no"/>ländischen Frächter nur 50 bis maximal 100 Liter Diesel in Tanks<lb/>
+mitführen dürfen. Diese Bestimmung ist natürlich im Zuge der<lb/>
+krisenhaften Energiesituation äusserst unzweckmässig. <name type="person" ref="per:97769">Mussil</name> wird<lb/>
+sie beim Finanzminister zur Sprache bringen. Er wollte von mir auch<lb/>
+eine Zusicherung, dass ich jetzt die Dieselpreisfreigabe wieder<lb/>
+rückgängig machen soll. Ich verwies mit aller Deutlichkeit, dass<lb/>
+ich dies nicht beabsichtige. In diesem Fall meinte er, müsste ich<lb/>
+dann alle Ölprodukte aus der Preisregelung herausnehmen. Wir einig<lb break="no"/>ten uns sofort darauf, wenn die Arbeiterkammer und der Gewerkschafts<lb break="no"/>bund zustimmen würde, Superbenzin sowie Dieselkraftstoff im Hin<lb break="no"/>blick auf die kritische Entwicklung während der Sommermonate heraus<lb break="no"/>genommen werden sollte. Wichtig erschien auch nur <name type="person" ref="per:97769">Mussil</name>, dass wir<lb/>
+jetzt so schnell als möglich die Heizölfrage lösen, um im Winter<lb/>
+die Versorgung sicherzustellen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Bitte auf nächstes Jour fixe AK und ÖGB<lb/>
+setzen.<lb/>
+</p>
+            <p xml:space="preserve">Das Journalistenfrühstück stand ganz im Zeichen des Fremdenverkehrs.<lb/>
+Die Sommerprognosen zeigen, dass, wie wir durch Umfrage feststellen<lb/>
+konnten, eine seit langem endlich positive Entwicklung. Man rechnet<lb/>
+mit 1.1 % mehr Nächtigungen als im Vorjahr. Wenn ich bedenke, dass<lb/>
+das Wirtschaftsforschungsinstitut, Dr. <name type="person" ref="per:114653">Schulmeister</name>, 10 % prognosti<lb break="no"/>ziert hat, dann zeigt sich für mich klar und deutlich, dass sein<lb/>
+Modell nicht den tatsächlichen Entwicklungen gerecht wird. Dr. <name type="person" ref="per:115175">Norden</name><lb/>
+hat deshalb auch die Bemerkung gemacht, die österreichische Fremden<lb break="no"/>verkehrswirtschaft hat kein Vertrauen zu den Prognosen und spricht<lb/>
+sich daher dagegen aus. Dies kann nicht für unsere Umfrage, die<lb/>
+<name type="person" ref="per:111367">Würzl</name> bei den Gemeinden und bei Testbetrieben startet, gelten. Wir<lb/>
+werden diese daher auf alle Fälle fortsetzen. GD <name type="person" ref="per:113372">Wallner</name> von der<lb/>
+Spielbanken AG berichtet über Aktivitäten für den Fremdenverkehr<lb/>
+den diese Firma leistet. Jetzt kommt mit der Gemeinde Wien und der<lb/>
+Österreichischen Fremdenverkehrswerbung ein Prospekt in Arabisch<lb/>
+heraus. Aus diesen Ländern sind es bis jetzt nur 2 % der Besucher.<lb/>
+Wenn man aber bedenkt, wie viel Geld diese in Österreich verspielen,<lb/>
+dann ist es eine bedeutende Zielgruppe. Solange nicht Religions<lb break="no"/>fanatiker wie <name type="person" ref="per:109803">Khomeini</name> das Heft in anderen Ländern auch in die Hand<lb/>
+nehmen. <name type="person" ref="per:111736">Zolles</name> und <name type="person" ref="per:114587">Kübler</name> präsentierten die weiteren Aktivitäten<lb/>
+der Österreichischen Fremdenverkehrswerbung. Wichtig erschien mir,<lb/>
+<pb n="49-0725" facs="49_1979-06-25_0725.jpg"/>dass man nicht neue Zweigstellen errichtet hat, sondern spezielle<lb/>
+Fremdenverkehrsbeauftragte jetzt schafft, die, sei es im Nahen<lb/>
+Osten, sei es in europäischen Staaten, für Österreich entsprechende<lb/>
+Werbung durchführen. Die Errichtung einer Zweigstelle bedeutet<lb/>
+nämlich wesentlich höhere Kosten. Noch schwieriger als dieses<lb/>
+Problem ist dann wenn sie aufgelöst werden muss. Dies habe ich<lb/>
+persönlich bei der Zweigstelle in Mailand und in Manchester miter<lb break="no"/>lebt. Abgesehen vom Prestigeverlust ergeben sich dabei fast un<lb break="no"/>überwindliche Schwierigkeiten.<lb/>
+</p>
+            <p xml:space="preserve">Eine lange Diskussion nahm dann die Frage der weiteren Vorgangsweise<lb/>
+der Energiesparmassnahmen im Ministerkomitee ein. Natürlich interes<lb break="no"/>sierten sich die Zeitungen ganz besonders über die Meinungsumfragen<lb/>
+die jetzt gestartet werden. Die Zeitung "Die Wirtschaft" hat Fessel<lb/>
+mit einer entsprechenden Umfrage ebenfalls beauftragt. Dort spricht<lb/>
+sich die Mehrheit für einen autofreien Tag und nur 20 % für die Ra<lb break="no"/>tionierung von Benzin aus.<lb/>
+</p>
+            <p xml:space="preserve">Dr. <name type="person" ref="per:97722">Marhold</name> von der Budgetsektion und S.Chef <name type="person" ref="per:112949">Kazda</name> haben mir dezidiert<lb/>
+erklärt, eine Ausschreibung dieser Meinungsumfrage wäre unzweck<lb break="no"/>mässig und gar nicht nötig. Sowohl Fessel, jetzt durch die Umfrage<lb/>
+für Wirtschaft, als auch IFES durch die Umfrage für die Arbeiterkam<lb break="no"/>mer hätten auf diesem Gebiet Vorarbeiten geleistet und seien die<lb/>
+beiden einzigen Institute, die in Frage kämen. Ich erklärte ihnen<lb/>
+dezidiert, für dieses Problem seien die beiden ausschliesslich für<lb/>
+mich kompetent. Wenn beide erklären, eine Ausschreibung ist nicht<lb/>
+notwendig, dann sollen sie die notwendigen Schritte veranlassen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Bitte trachte so schnell als möglich die<lb/>
+Fragebogenbesprechung einzuberufen.<lb/>
+</p>
+            <p xml:space="preserve">Die 50-Jahr-Feier Eternit-Rohre im Industriezentrum Biedermannsdorf,<lb/>
+verlief erwartungsgemäss. <name type="person" ref="per:97755">Moser</name> und die Gäste waren schon 2 Stunden<lb/>
+früher dort und haben den Betrieb besichtigt. Die Ansprachen waren<lb/>
+ganz lustig, weil ich sofort auf die Vorredner <name type="person" ref="per:150593">Hatschek</name> und <name type="person" ref="per:97755">Moser</name> ein<lb break="no"/>gegangen bin und nicht vom Blatt heruntergelesen habe. Die Schmäh<lb/>
+lockern solche Jubiläumsreden doch entsprechend auf. Sie werden<lb/>
+von allen geschätzt und wie mir Frau <name type="person" ref="per:150594">Hatschek</name> versicherte, so<lb/>
+müsste man reden können, wie ich ihr sofort sagte, auch überschätzt.<lb/>
+Die Firma hat mit diesem neuen Rohrwerk, das sie 1966 hier eröffnete,<lb/>
+ihre alte Anlage in Vöcklabruck in der Zwischenzeit stillgelegt, die<lb/>
+<pb n="49-0726" facs="49_1979-06-25_0726.jpg"/>modernste und grösste Anlage. Selbstverständlich habe ich dann<lb/>
+nach den Ansprachen die Fabrik doch noch schnell besichtigt.<lb/>
+<name type="person" ref="per:150593">Hatschek</name> ersuchte <name type="person" ref="per:97755">Moser</name> weniger um zusätzliche Mittel für den<lb/>
+Wasserleitungsbau als die gleichmässige Verteilung über das ganze<lb/>
+Jahr. Ohne die Aufträge der Öffentlichen Hand würde die Firma schon<lb/>
+längst zugrunde gegangen sein, wie <name type="person" ref="per:150593">Hatschek</name> auch freimütig mit nach<lb break="no"/>her bekannte.<lb/>
+</p>
+            <p xml:space="preserve">Der jordanische Handelsminister kam zur UNIDO und, da ich schon in<lb/>
+der Nähe vom Flugfeld war, habe ich ihn auch abgeholt. Natürlich<lb/>
+war weder vorgesehen, dass er im Sondergastraum empfangen wird,<lb/>
+noch war interessanterweise die Polizei über sein Ankommen infor<lb break="no"/>miert. Überrascht war ich dann, dass man im Hilton grössten Wert<lb/>
+darauf legt, dass der Meldezettel ganz genau von ihm ausgefüllt ist.<lb/>
+Wie mir die Damen und Herren der Rezeption erklärten, verlangt dies<lb/>
+die Wiener Polizei. Die Besprechung mit ihm wird Architekt <name type="person" ref="per:113605">Lintl</name><lb/>
+mit <name type="person" ref="per:98072">Wiesinger</name> noch vereinbaren. Bei der Reinfahrt hat er mir aller<lb break="no"/>dings schon zugesichert, das Televisions-Center soll <name type="person" ref="per:113605">Lintl</name> auf<lb/>
+alle Fälle bekommen.<lb/>
+</p>
+            <p xml:space="preserve">Der Generaldirektor des israelischen Gewerkschaftsindustriekonzernes<lb/>
+Koor, <name type="person" ref="per:123173">Blumenthal</name>, war von mir zu einer Aussprache eingeladen. Über<lb break="no"/>rascht war ich, dass an die 30 Personen, Ministerium, Interessens<lb break="no"/>vertreter, Banken, Firmenvertreter usw. daran teilnahmen. Selbst<lb/>
+Präsident <name type="person" ref="per:97346">Benya</name> als Gewerkschaftspräsident ist erschienen. <name type="person" ref="per:123173">Blumenthal</name><lb/>
+selbst erörterte die umfassenden Aktivitäten der Firma KOOR. Natür<lb break="no"/>lich kam es dann zu keiner intensiven Diskussion, weil die einzelnen<lb/>
+Firmen und Banken usw. ihre Privatgespräche schon geführt hatten<lb/>
+oder noch führen werden und keinesfalls coram publico ihre Ideen<lb/>
+darlegen wollten. Nur Dr. <name type="person" ref="per:150595">Ullmann</name> von der ÖIAG hat einige, gerade<lb/>
+nicht sehr interessante und geistreiche Bemerkungen gemacht.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Bitte mit <name type="person" ref="per:97498">Grünwald</name> möchte ich beim nächsten<lb/>
+Jour fixe mit AK darüber sprechen.<lb/>
+</p>
+            <p xml:space="preserve">Der Getreidegipfel in der Handelskammer verlief, wie ich ihn erwar<lb break="no"/>tet habe. Ebenfalls an die 20 Teilnehmer, ein ewiges Gerede, was<lb/>
+nicht geht und kein konstruktiver Vorschlag, wie wir diese Frage in<lb/>
+absehbarer Zeit lösen können. Meine Anregung beim letzten Mal, es<lb/>
+soll sich ein kleines Expertenteam mit der Frage beschäftigten und<lb/>
+<pb n="49-0727" facs="49_1979-06-25_0727.jpg"/>so wie wir es seinerzeit bei <name type="person" ref="per:97852">Raab</name>/<name type="person" ref="per:97363">Böhm</name> getan haben, entsprechende<lb/>
+Vorschläge ausarbeiten, wurde nicht befolgt. Auch bei den Experten<lb/>
+waren über 1 Dutzend Vertreter. Auch dort konnte daher kein konstruk<lb break="no"/>tiver Vorschlag erarbeitet werden. Die Sitzung wurde neuerdings auf<lb/>
+Mittwoch vertagt und dann soll im Parlament im kleinsten Kreise<lb/>
+eine Entscheidung gefällt werden. Wie mir Präsident <name type="person" ref="per:97691">Lehner</name> anschliessend<lb/>
+vertraulich mitteilte, liegt es nur an Landesrat <name type="person" ref="per:113056">Bierbaum</name>, Präsident<lb/>
+der NÖ Landwirtschaftskammer, der hier grosse Schwierigkeiten macht.<lb/>
+<name type="person" ref="per:97691">Lehner</name> nimmt an, dass man mit 300 Mio. Schilling Verwertungsabgabe<lb/>
+auskommen müsste. Ich erinnerte ihm daran, dass, wenn es nicht bald<lb/>
+gelingt zu einer Lösung zu kommen, die Arbeiterkammer und auch<lb/>
+andere Institutionen im Zuge des Preisregelungsverfahren über den<lb/>
+Getreidepreis, das jetzt dringendst abgeschlossen werden muss,<lb/>
+einer für die Agrarier erträgliche Lösung nicht mehr zustimmen wird.<lb/>
+Dkfm. <name type="person" ref="per:112010">Blaha</name> hat mich unter anderem bereits jetzt verständigt, dass<lb/>
+die Arbeiterkammer nicht einverstanden ist, dass die Verwertungsab<lb break="no"/>gabe im Preis eingebaut wird. <name type="person" ref="per:112010">Blaha</name> befürchtet, dass dann jedwede<lb/>
+Erhöhung immer wieder zu Preiserhöhungen führen müsste. Natürlich<lb/>
+wäre auch mir lieber, ähnlich der Milchregelung seinerzeitige Milch<lb break="no"/>krisengroschen von den Agrariern selbst das Ausmass bestimmt wird und<lb/>
+dies eben von ihren Erzeugerpreis bezahlt wird, ohne dass es in der<lb/>
+Preisanordnung steht. MR <name type="person" ref="per:112011">Kurzel</name> soll aber erklärt haben, dass dies<lb/>
+ganz unmöglich bei Getreide geht, denn hier müsste es gesetzlich für<lb/>
+den Bauern verpflichtend vorgeschrieben werden.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Bitte auf AK Jour fixe setzen.<lb/>
+</p>
+            <p xml:space="preserve">Die Besprechung mit Präsident <name type="person" ref="per:97691">Lehner</name> und GD <name type="person" ref="per:97936">Seefranz</name> über die Raps-<lb/>
+und Sonnenblumenankaufsverträge verlief wie ich erwartet hatte. Im<lb/>
+heurigen Jahr hat Unilever namens der Ölindustrie erklärt, sie würden<lb/>
+10.000 Tonnen übernehmen. Tatsächlich wurde Raps nur mit 3.500 To<lb/>
+Soja mit 500 und Sonnenblumen mit 3.000 To angeliefert. Für Raps wurde<lb/>
+ein Preis von 6.30 Schilling vereinbart. Da ich mich nur für die<lb/>
+Mengenausweitung zuständig fühlte, habe ich nach kurzer Verhandlung<lb/>
+<name type="person" ref="per:97936">Seefranz</name> klargemacht, dass die heurige Zusage 10.000 To zu überneh<lb break="no"/>men nicht reduziert werden kann. Wenn auch tatsächlich weniger ange<lb break="no"/><pb n="49-0728" facs="49_1979-06-25_0728.jpg"/>liefert wurde, so war dies ein Vorteil der Ölindustrie. Wir<lb/>
+müssten bei den 10.000 Tonnen auch für das Wirtschaftsjahr 1979/80<lb/>
+bleiben. <name type="person" ref="per:97936">Seefranz</name> wird dies mit der Ölindustrie besprechen. Ich<lb/>
+glaube aber er ist überzeugt davon, dass er hier nichts reduzieren<lb/>
+kann. Umstritten war natürlich der Wunsch der Agrarier den Preis von<lb/>
+6.30 Schilling – um wie mir <name type="person" ref="per:97691">Lehner</name> vorher sagte – 50 Groschen zu er<lb break="no"/>höhen. <name type="person" ref="per:97936">Seefranz</name> meinte, die Sozialpartner würden nur 1.75 Weizen<lb break="no"/>preis akzeptieren. Da ich mich in die Preisverhandlungen gar<lb/>
+nicht einmischen wollte, habe ich vorher schon <name type="person" ref="per:97691">Lehner</name> und seinen<lb/>
+drei Begleitern – er traut sich scheinbar nie allein mehr Verhand<lb break="no"/>lungen führen – erklärt, ich werde an den Preisdiskussionen nicht<lb/>
+teilnehmen. Da es sich hier nicht um eine preisgeregelte Ware han<lb break="no"/>delt, habe ich gar nicht die Absicht, mich in der Preisdiskussion<lb/>
+weder für die eine noch für die andere Seite zu exponieren um dann<lb/>
+von Beiden, mehr oder minder dafür kritisiert zu werden. Diese<lb/>
+Vorgangsweise war auch deshalb wichtig, denn Dr. <name type="person" ref="per:123739">Korbl</name>, Präsidenten<lb break="no"/>konferenz meint, die beste Lösung wäre, den Mehrwertsteuersatz<lb/>
+für Öl zu erhöhen und die Einnahmen zweckgebunden dann für die Raps<lb break="no"/>produktion zur Verfügung zu stellen. Genau eine solche Vorgangs<lb break="no"/>weise müsste er aber mit dem Finanzminister vereinbaren und nicht<lb/>
+mit mir. Ich bin nicht bereit der Landwirtschaft hier die Kartoffel,<lb/>
+sprich hier besser die Ölfrüchte, aus dem Feuer zu holen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Bitte auf Jour fixe AK und ÖGB setzen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="49_0720_01" facs="49_1979-06-25_0720-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 25.6.1979</head>
+         </div>
+         <pb n="49_0720_02" facs="49_1979-06-25_0720-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

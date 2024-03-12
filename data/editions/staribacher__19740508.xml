@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittwoch, der  8. Mai 1974 bis Donnerstag, der  9. Mai 1974</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band20_1974-05-08</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date from="1974-05-08" to="1974-05-09">Mittwoch, 8. Mai 1974 bis Donnerstag, 9. Mai 1974</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-12-06">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band20/">
+      <body>
+         <pb n="20-0563" facs="20_1974-05-08_1974-05-09_0563.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">MINISTERTAGUNG GENF 8. und 9. Mai 1974.</p><p xml:space="preserve">Die Routinetagung in Genf war so wie meisten überflüssig.<lb/>
+<name type="person" ref="per:108322">Meisl</name> hat nach meiner Rückkehr ganz richtig gesagt wie haben<lb/>
+nur wieder einen Punkt für das Weißbuch gesammelt. In meinen<lb/>
+statements wurde selbstverständlich auf die italienische Maß<lb break="no"/>nahme verwiesen und erklärt, daß wir hoffen das so schnell<lb/>
+als möglich diese aufgehoben wird. In Wirklichkeit war auch<lb/>
+bei den Couloirgesprächen von allen Delegationen zu entnehmen,<lb/>
+daß keine daran denkt der wirklich gegen Italien irgend<lb break="no"/>welche Gegenmaßnahmen zu setzen. Wenn die Zahlungsbilanz in<lb/>
+Italien so schlecht ist muß man damit rechnen, daß der Staat<lb/>
+Maßnahmen ergreift. In Wirklichkeit geben alle anderen Staaten<lb/>
+zu, daß sie eigentlich dasselbe machen würden. In der Vergangen<lb break="no"/>heit hat auch Amerika, Großbritannien, Frankreich und ich weiß<lb/>
+nicht noch welche Staaten ähnliche Maßnahmen gesetzt, um<lb/>
+Zahlungsbilanzschwierigkeiten zu überbrücken . Man sprach<lb/>
+zwar nicht in der Sitzung aber ansonsten ziemlich offen<lb/>
+daß man auch von Dänemark eine solche Maßnahme erwartet.<lb/>
+Ausserhalb der offiziellen Sitzung gibt es dann das Minister<lb break="no"/>treffen wo früher nur der Botschafter und der Minister dabei<lb/>
+war, jetzt aber die Runde erweitert wurde und von jeden Ministerium<lb/>
+ein Vertreter, das heißt jeder Staat mit fast 5 Personen anwesend<lb/>
+ist. Nach einem Essen, dass erst um 9 Uhr begann wurde dann ab<lb/>
+10.30 Probleme erörtert die man nicht einmal in der offiziellen<lb/>
+Sitzung haben wollte . Das lustige dabei ist, daß man bei der<lb/>
+offiziellen Sitzung wo nichts gesprochen wird einen Passier<lb break="no"/>schein braucht und sehr streng kontrolliert wird. Bei der inoffi<lb break="no"/>ziellen Sitzung wo doch vielleicht ein oder anderes Problem<lb/>
+erörtert werden konnte, waren wir im Hotel De Rhone und in<lb/>
+dem Sitzungssaal ging nicht einmal die Türe zu schließen, sodaß<lb/>
+jederzeit draußen jemand hören hätte können. Die inoffizielle<lb/>
+Sitzung hatte als Tagesordnungspunkte vorgesehen auch über<lb/>
+Spanienbeitritt und über die politische Situation in Amerika<lb/>
+und europäische Staaten nach dem Tod des französischen Präsi<lb break="no"/>denten <name type="person" ref="per:134015">Pompidou</name> den Rücktritt <name type="person" ref="per:114110">Brandts</name> usw scheinbar eine<lb/>
+<choice><choice><sic>tour de horizonte</sic><corr>tour d'horizon</corr></choice></choice> zu starten. <name type="person" ref="per:97375">Brugger</name> als der Vorsitzende hat<lb/>
+aber nur 2 Punkte ausgerufen, nämlich die Oststaatenbeziehungen<lb/>
+und die OECD-Ministertagung wo es um die Rohstoffe und Energie<lb break="no"/>fragen geht. Auch hier eigentlich keinerlei neue Erkenntnisse,<lb/>
+ja nicht einmal irgendwelche vertrauliche Informationen. Alle<lb/>
+<pb n="20-0564" facs="20_1974-05-08_1974-05-09_0564.jpg"/>die Probleme und Stellungnahmen waren mehr oder minder schon<lb/>
+bekannt.</p><p xml:space="preserve">Die einzige Erkenntnis die ich aus dieser Tagung zog war,<lb/>
+daß ich in Hinkunft die Statements die ich in englisch halten<lb/>
+muß, wir wollen uns unbedingt einen Übersetzer ersparen, nach<lb/>
+anderen Gesichtspunkten aufbauen werde als bisher. Jetzt ist<lb/>
+es so, daß sich die Beamten zusammensetzen um zuerst in<lb/>
+deutsch, besser gesagt im beamtendeutsch ellenlange Sätze,<lb/>
+die meistens einen ganzen Absatz lang sind zu bauen. Dann<lb/>
+werden diese deutsch schon kaum verständlichen Sätze in eng<lb break="no"/>lisch übertragen. Daraus ergibt sich eine Nebensatzschachtelung<lb/>
+die für mich nicht zu bewältigen ist. Ich habe deshalb als ich<lb/>
+von <name type="person" ref="per:115656">Steiger</name> und <name type="person" ref="per:140412">Meier</name> erfuhr dass sie in ihrer Abteilung jetzt<lb/>
+einen Mann haben der 10 Jahre in Südafrika gelebt hat, erklärt<lb/>
+mit dem werde ich in Hinkunft die Statements im einzelnen<lb/>
+besprechen. Er müsste ein solches auf einem Niveau bauen<lb/>
+wie er mit <choice><choice><sic>Afrikans</sic><corr>Afrikaans?</corr></choice></choice> sprechen würde. Als ich zurückkam hatte<lb/>
+ich deshalb bei Anwesenheit von <name type="person" ref="per:108322">Meisl</name>, <name type="person" ref="per:111384">Weiser</name> gerufen,<lb/>
+ein junger ambitionierter Beamter, und mit ihm diese Frage<lb/>
+durchdiskutiert. Ich habe allerdings nur des Gags wegen<lb/>
+erklärt er müsse das nächste Statement in englisch ab<lb break="no"/>fassen. Richtig ist aber, daß ich das nächste Mal ein Statement<lb/>
+wünsche welches wirklich mit kurzen Sätzen dies ausdrückt<lb/>
+was man jetzt in ellenlangen Schachtelsätzen immer wieder<lb/>
+mir, sei es in GATT, in Tokio oder bei der EFTA runterlesen<lb/>
+lässt.</p><p xml:space="preserve">Anmerkung für <name type="person" ref="per:97377">BUKOWSKI</name>: Bitte trachte diesen Standpunkt allen<lb/>
+Ernstes den Kollegen klarzumachen. Ich<lb/>
+glaube daß auch in Englisch kurze Sätze<lb/>
+vielleicht nicht den Beamtenenglisch ent<lb break="no"/>spricht aber sicherlich sowie in Deutsch<lb/>
+moderner und aussagekräftiger sind.</p><p xml:space="preserve">SChef <name type="person" ref="per:97584">Jagoda</name> hat mit MR <name type="person" ref="per:140835">Degen</name> das neue Preisgesetz, d.h.die Novelle<lb/>
+zum Preisregelungsgesetz fertig gestellt. <name type="person" ref="per:140835">Degen</name> wäre eigentlich<lb/>
+gar nicht zuständig sonder die Rechtsfragen wurden auf ausdrücklichen<lb/>
+Wunsch <name type="person" ref="per:112011">Kurzel</name> in seiner Abteilung vorgenommen. <name type="person" ref="per:140835">Degen</name> hat deshalb<lb/>
+sofort angedeutet, daß er in ganz kurzer Zeit die so notwendige<lb/>
+Novelle erarbeiten musste. Sicherlich wurden in den Besprechungen<lb/>
+mit <name type="person" ref="per:97584">Jagoda</name> diese Frage auch diskutiert, denn eine Nebenbemerkung<lb/>
+von <name type="person" ref="per:140835">Degen</name> hat mir klar und deutlich gezeigt, daß er dies als eine<lb/>
+Fleißaufgabe und Sonderauftrag empfindet; richtig ist, daß er<lb/>
+<pb n="20-0565" facs="20_1974-05-08_1974-05-09_0565.jpg"/>im Innenministerium als Legist gegolten hat. Allerdings hat<lb/>
+<name type="person" ref="per:97879">Rösch</name> immer einen Spezialisten nämlich Dr. <name type="person" ref="per:146306">Freissler</name> die<lb/>
+Aufgaben übertragen gehabt. Eine Andeutung von <name type="person" ref="per:97584">Jagoda</name> zeigte<lb/>
+mir deutlich, daß <name type="person" ref="per:97584">Jagoda</name> mit der ganzen Situation noch sehr<lb/>
+unzufrieden ist. <name type="person" ref="per:97584">Jagoda</name> selbst hatte eine ungeheure Initiative<lb/>
+und möchte seine Abteilungen so in Schuss kriegen, daß er<lb/>
+ähnlich wie bei der Gewerbeordnung sich in jeder Beziehung<lb/>
+100 % ig auf die Mitarbeiter und vor allem auf das Ergebnis<lb/>
+verlassen kann. Da ich überzeugt hin, daß diese Novelle so wie<lb/>
+wir sie jetzt vorgeschlagen garantiert nicht Gesetz wird,<lb/>
+stört mich eventuelle Rechtliche Ungereimtheit gar nicht.<lb/>
+<name type="person" ref="per:97584">Jagoda</name> ist aber jetzt überzeugt, daß er alles ausgereimt hat und<lb/>
+dieser Gesetzentwurf absolut hieb- u. stichfest ist. Das Gesundheits<lb break="no"/>ministerium hat uns eine Stellungnahme übermittelt, wo sie in<lb/>
+ultimativer Form erklärt, wenn ihre Wünsche nicht genehmigt werden,<lb/>
+werden sie im Ministerrat nicht ihre Zustimmung geben. Ich habe<lb/>
+deshalb sofort mit <name type="person" ref="per:107938">Leodolter</name> gesprochen und sie darauf aufmerksam<lb/>
+gemacht, daß es eine gewiße Grundlinie gibt, die ich nicht ver<lb break="no"/>lassen kann. Das Gesundheitsministerium hat allen Ernstes die<lb/>
+Absicht gehabt, man möge ihre Kompetenz nämlich auf pharmazeutischen<lb/>
+Artikeln auschliesslich beim Gesundheitsministerium kompetenzmässig<lb/>
+belassen und unter keinen Umständen Landeshauptleuten Kompetenzen<lb/>
+übertragen, dies hat eine Zweiteilung gebracht welche von mir<lb/>
+nicht akzeptiert werden konnte. Die weitere Folge wäre nämlich<lb/>
+gewesen, daß dann die ÖVP erklärt hätte, wenn das Gesundheits<lb break="no"/>ministerium die gesamte Kompetenz haben will dann soll es auch<lb/>
+das Handelsministerium sich behalten und nicht versuchen, die<lb/>
+Landeshauptleute jetzt hier einzuschieben. Genau dies ist es<lb/>
+aber was wir hier dringendst brauchen um nicht zu letzt auch<lb/>
+die ÖVP in eine schwierigere Situation zu bringen. Ausserdem<lb/>
+ist es ja wirklich unmöglich, dass das Handelsministerium<lb/>
+alles exekutiert, von den Handelsspannen bis zu den kleinstem<lb/>
+unbedeutendsten Erzeuger wenn der eben seine Preise exorbitant<lb/>
+erhöht. Auch auf dem Gesundheitssektor gibt es sicherlich<lb/>
+Produkte, ich habe hier immer auf den berühmten Kramperltee<lb/>
+verwiesen der örtlich von Bedeutung sein kann, aber sicherlich<lb/>
+nicht in Wien genau so behandelt werden muß wie pharmazeutische<lb/>
+Markenartikel die sowieso im Gesundheitsministerium alle verbleiben,<lb/>
+<pb n="20-0566" facs="20_1974-05-08_1974-05-09_0566.jpg"/><name type="person" ref="per:107938">Leodolter</name> hat dies sofort eingesehen und ich habe sie ersucht<lb/>
+sie soll MR <name type="person" ref="per:146367">Hawlitschek</name> bitten daß er sich noch einmal mit<lb/>
+<name type="person" ref="per:97584">Jagoda</name> in Verbindung setzt um die offenen Fragen noch einmal zu<lb/>
+besprechen. Geändert kann nichts mehr werden, weil ich den<lb/>
+Entwurf schon fertig habe. Den Wunsch die Anlage A, d.h. die<lb/>
+Liste der preisgeregelten Waren zu vergrössern, das Gesund<lb break="no"/>heitsministerium denkt hier insbesondere an die immunbiologischen<lb/>
+Präparate . Sollte nur im NR bei den Verhandlungen vom Gesund<lb break="no"/>heitsministerium verlangt werden. Jetzt kann und will ich die<lb/>
+Anlage weder vergrößern noch verkleinern. <name type="person" ref="per:107938">Leodolter</name> war auch mit<lb/>
+dieser Vorgangsweise einverstanden.</p><p xml:space="preserve">Ing. <name type="person" ref="per:112947">Engelmayer</name> kam mit dem zweiten Personalvertreter vom<lb/>
+Patentamt wegen der offenen und strittigen Frage <name type="person" ref="per:113627">Kieslich</name>.<lb/>
+Aus der langen Debatte haben wir dann uns darauf geeinigt,<lb/>
+daß die Personalvertretung keinen Einwand hat daß <name type="person" ref="per:113627">Kieslich</name><lb/>
+ins Präsidium kommt, weiters einverstanden ist , daß er dort<lb/>
+Arbeiten zu verrichten hat, die <name type="person" ref="per:114994">Böhm</name> ihm noch entsprechend<lb/>
+zuteilen will. Die Personalvertretung wendet sich aber nur<lb/>
+dagegen daß er eingeschoben wird und dadurch den jetzigen<lb/>
+zweiten Mann <name type="person" ref="per:117025">Markwitz</name> von dem <name type="person" ref="per:112947">Engelmayer</name> auch behauptete<lb/>
+er ist der Kopf vom <name type="person" ref="per:114994">Böhm</name>, durch den Einschub einen Nachteil<lb/>
+erhält. Genau dasselbe gilt für den dritten Mann <name type="person" ref="per:134132">Löffler</name>.<lb/>
+den sie jetzt auch dazugebracht haben, dass er gegen den<lb/>
+Einschub protestiert. Unser Vorschlag <name type="person" ref="per:117025">Markwitz</name> ein Referat zu<lb/>
+geben um dadurch ihm dienstrechtlich gleichzustellen, lehnt<lb/>
+<name type="person" ref="per:117025">Markwitz</name> angeblich entschieden ab, da er bis jetzt immer gegen<lb/>
+die Referatsbildung aus personalpolitischer Sicht Stellung<lb/>
+genommen hat. Wir einigten uns darauf, daß zwischen der Per<lb break="no"/>sonalvertretung und mir strittig ist, wie die schon gegebene<lb/>
+Dienstanweisung die sie nicht bekämpfen, sondern nur die Folgen<lb/>
+dieser Dienstanweisung eventuell gemildert werden könnten.<lb/>
+Als einziger Ausweg wäre vielleicht eine neue Konstruktion wobei<lb/>
+selbstverständlich unsere politische Absicht daß <name type="person" ref="per:113627">Kieslich</name><lb/>
+alle Einstellungen und Versetzungen sehen muß,gewährleistet<lb/>
+werden müsste. Die Hauptschwierigkeit besteht aber darin, wie<lb/>
+wir dies erreichen ohne es expressis verbis auszudrücken.</p><pb n="20-0567" facs="20_1974-05-08_1974-05-09_0567.jpg"/><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97377">BUKOWSKI</name> UND <name type="person" ref="per:97543">HEINDL</name>: Hier müßten wir eine bessere<lb/>
+Konstruktion finden.</p><p xml:space="preserve">Die Dienstanweisung hat die Personalvertretung zur Kenntnis<lb/>
+genommen, wird nun durchgeführt da sie keine aufschiebende<lb/>
+Wirkung hat. <name type="person" ref="per:112947">Engelmayer</name> selbst hat eingesehen daß er hier kaum<lb/>
+mit mir verhandeln kann. Hier werde ich nicht nachgehen. Anderer<lb break="no"/>seits war er sehr bemüht darzulegen, daß er von mir als Gewerk<lb break="no"/>schafter erwarte daß die Personalvertretung das Gesetz natürlich<lb/>
+so extensiv wie möglich auslegt. Er war glaube ich sehr erstaunt<lb/>
+von mir zu hören, daß ich dies sogar von ihm erwarte. Was ich<lb/>
+nicht verhindern kann werde ich nicht bekämpfen. Da ist meine<lb/>
+Taktik immer, daß ich sofort auf die Linie einschwenke und dann<lb/>
+versuche mit anderen Methoden meinen Willen durchzusetzen. Nichts<lb/>
+ist sinnloser als gegen irgend etwas anzurennen was man sowieso<lb/>
+nicht verhindern kann. <name type="person" ref="per:112947">Engelmayer</name> wird deshalb wegen der Folgewirkungen<lb/>
+nicht aber aus der Sache selbst heraus die Dienstanweisung bekämpfen.<lb/>
+Damit ist ein weiterer Erfolg insofern erzielt, als wenn es im<lb/>
+Parlament zur Sprache kommt und für mich ist es klar, daß <name type="person" ref="per:139869">Engel<lb break="no"/>mayer</name> oder der ÖAAB dies wird machen, ich jederzeit darauf verweisen<lb/>
+kann, es ging gar nicht darum eine politische Aktion zu setzen.<lb/>
+Sehr interessant war eine diesbezügliche Bemerkung <name type="person" ref="per:112947">Engelmayers</name><lb/>
+über die seinerzeitige Einstellung <name type="person" ref="per:97584">Jagodas</name>. Er meinte, daß hier ,<lb/>
+als ich meine Verwunderung ausdrückte, <name type="person" ref="per:97915">Schipper</name> eine Weisung<lb/>
+wollte, eben er sich absichern wollte, in diesem Fall fiel auch von<lb/>
+<name type="person" ref="per:112947">Engelmayer</name> die Bemerkung politisch absichern. Er hat natür<lb break="no"/>lich dann im weiteren Gespräch dies sofort wieder abgeschwächt.<lb/>
+Überhaupt sind Aussprachen mit <name type="person" ref="per:112947">Engelmayer</name> sehr interessant, es<lb/>
+ist ein richtiges Florettfechten. Jeder weiß vom anderen was er<lb/>
+in Wirklichkeit beabsichtigt, keiner gibt aber klar und deutlich<lb/>
+zu erkennen wo der Angriff und wo der schwache Punkt liegt, sondern<lb/>
+jeder versucht um den heißen Brei solange herumzureden, bis er<lb/>
+entweder seine Meinung durchgesetzt hat, oder eben kapitulieren<lb/>
+muß. <name type="person" ref="per:112947">Engelmayer</name> hat mit Stolz darauf verwiesen, daß er bis jetzt<lb/>
+alle Beschwerden an die Zentralstelle noch gewonnen hat. Dies<lb/>
+wundert mich persönlich gar nicht, weil ich immer davon über<lb break="no"/>zeugt war, daß die Zusammensetzung im Bundeskanzleramt dieser<lb/>
+Personalaufsichtstelle oder wie sie heißt, eine Garantie dafür<lb/>
+ist, daß die Personalvertretung immer Recht bekommt. Wie man damit<lb/>
+allerdings eine richtige Personalpolitik im Ministerium machen soll,<lb/>
+hat man sich scheinbar als das Gesetz gemacht wurde und vor allem die<lb/>
+Kommission zusammengesetzt wurde, niemals den Kopf zerbrochen.</p></div>
+      </body>
+      
+   </text>
+</TEI>

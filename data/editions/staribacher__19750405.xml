@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der  5. April 1975</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band25_1975-04-05</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1975-04-05">Samstag, 5. April 1975</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-11-21">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="25-0409" facs="25_1975-04-05_0409.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Samstag, den 5. April 1975<lb/>
+</p>
+            <p xml:space="preserve">Die sozialistische Fraktion der Krankenkasse Wien hat mich zu<lb/>
+einem Referat eingeladen, da die Betriebsratswahlen jetzt wieder<lb/>
+beginnen. Ebenso hat mich dann Nachmittag die Bezirksorgani<lb break="no"/>sation Alsergrund zu ihrer Bezirkskonferenz eingeladen. In beiden<lb/>
+Fällen gab es, weil ich es ausdrücklich wünschte, nach meinem<lb/>
+Referat eine Diskussion, doch war sie im wahrsten Sinne des<lb/>
+Wortes harmlos. Nachmittags meinte ein Eisenbahner wir sollten<lb/>
+bei der Kernkraftwerkausbau äußert vorsichtig vorgehen. Alle<lb/>
+anderen Anfrage und Diskussionsbeiträge und es waren doch ein<lb/>
+Dutzend, waren weder kritisch noch gar aggressiv. Nicht beängsti<lb break="no"/>gend<add>[hs. unterwellt, Anm.]</add> die Ruhe in den Gewerkschaften, aber auch in der Partei.<lb/>
+Natürlich ist es wesentlich besser es gibt eine solche ruhige Ent<lb break="no"/>wicklung, als es brodelt in einer Organisation, doch bin ich mir<lb/>
+nie ganz sicher ob dies nicht eine Ruhe aus Resignation ist und<lb/>
+dies wäre das schlechteste.<lb/>
+</p>
+            <p xml:space="preserve">Bei den polnischen Essen der Botschaft für die Parlamentsdelegation<lb/>
+traf ich wie könnte es auch anders sein, S.Chef <name type="person" ref="per:107939">Römer</name> und MR <name type="person" ref="per:97426">Fälbl</name>.<lb/>
+Da ich neben den Botschafter zu sitzen kam, habe ich sofort auf<lb/>
+die zögernde Verhandlungstaktik der Polen, bzw. des Stromliefer<lb break="no"/>vertrages ihm angesprochen. <name type="person" ref="per:97616">Karski</name> meinte es käme jetzt eine<lb/>
+polnische Delegation nach Wien und er ist davon überzeugt, daß<lb/>
+noch vor dem Besuch <name type="person" ref="per:97632">Kirchschlägers</name>, spätestens aber bei seinem<lb/>
+Besuch die Unterschrift unter den Vertrag gegeben werden kann.<lb/>
+Auch das Leitungsproblem, d.h. der Übernahmepunkt der sowjetischen<lb/>
+und insbesondere aber der polnischen Stromlieferung könnte in<lb/>
+Kürze festgelegt werden. Dies erscheint wirklich dringendst not<lb break="no"/>wendig, da ich ihm neuerdings auseinandersetzte, daß nur ein Über<lb break="no"/>nahmepunkt wegen <choice><choice><sic>AGÜ</sic><corr>HGÜ</corr></choice></choice> möglich ist. Ich glaube dies sehen jetzt<lb/>
+alle bereits ein. <name type="person" ref="per:97616">Karski</name> ist ein ehrgeiziger Botschafter und<lb/>
+versucht deshalb soviel als möglich zwischen den beiden Staaten<lb break="no"/>minister Austausche zu organisieren. Er hat großes Interesse<lb/>
+gezeigt die Kapruner Kraftwerke zu sehen. Ich versprach ihm, wenn<lb/>
+ein polnischer Minister kommt und dies wünscht, wird es mir eine<lb/>
+große Freude sein, sie beide nach Kaprun zu begleiten.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97377">BUKOWSKI</name>: Bitte mit <name type="person" ref="per:97426">Fälbl</name> diesen polnischen Wunsch<lb/>
+besprechen.<lb/>
+</p>
+            <pb n="25-0410" facs="25_1975-04-05_0410.jpg"/>
+            <p xml:space="preserve">Abends sah ich nach längerer Zeit wieder einmal im Volkstheater<lb/>
+Sonderabonnement das Stück "Ein Hof voll Sonne". Dies handelt von<lb/>
+der unmittelbaren Nachkriegszeit in Italien. Eine Familie war<lb/>
+zerrissen, der eine Faschist, der andere Widerstandskämpfer,<lb/>
+Themen die lange zurückliegen. Wenn man da nicht ein ganz großer<lb/>
+Dichter ist, so verliert ein solches aktuelles Problem an Aussage<lb break="no"/>wert je länger der Zeitpunkt zurückliegt. Erlebniswert dieser<lb/>
+Periode geht Gott sei Dank verloren und es kann deshalb nur ein<lb/>
+Künstlerwert dann solches Stück retten. Wenn dann noch ein Eng<lb break="no"/>länder über Italiener schreibt und Wiener Italiener spielen, dann<lb/>
+ist es meiner Meinung nach fach unmöglich eine italienische<lb/>
+Atmosphäre wirklich einzufangen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="25_0408_01" facs="25_1975-04-05_0408-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 5.4.1975</head>
+         </div>
+         <pb n="25_0408_02" facs="25_1975-04-05_0408-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

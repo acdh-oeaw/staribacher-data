@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der 30. Oktober 1970</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band03_1970-10-30</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1970-10-30">Freitag, 30. Oktober 1970</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-04-25">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-02-27" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-02-27" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+  <text xml:base="http://192.168.0.9/staribacher/src/scans/Band03/">
+      <body>
+         <pb n="03-0715" facs="03_1970-10-30_0715.jpg"/>
+         <div type="entry">
+            <dateline>
+               <date when="1970-10-30">Freitag, 30. Oktober 1970</date>
+            </dateline>
+            <p xml:space="preserve">Da der NR seine unterbrochene Sitzung auch am Freitag fort<lb break="no"/>setzte, musste ich unverzüglich ins Parlament, da die Fragestunde<lb/>
+vom Vortag fortgesetzt wurde. Ich konnte deshalb den Kraftfahr<lb break="no"/>beirat nur eröffnen, ich entschuldigte mich, dass wir ihn so kurzfri<lb break="no"/>stig einberufen hatten. Wenn ich es geahnt hätte, wurde mir – bevor ich<lb/>
+weggehen konnte – von Seiten des Handelskammervertreters mitgeteilt,<lb/>
+dass er ganz entschieden dagegen protestiert, dass wir ihm so wenig<lb/>
+Zeit gegeben haben, diese umfangreiche Materie zu studieren. Ich<lb/>
+versprach, dass das nächste Mal ihnen wesentlich mehr Spielraum<lb/>
+und Zeitraum zur Verfügung gestellt wird.</p>
+            <p xml:space="preserve">Während der Parlamentssitzung hatte ich Gelegenheit, mit <name type="person">Wondrack</name><lb/>
+das Lebensmittelgesetz zu diskutieren. Der MR. <name type="person">Paral</name>, der es im<lb/>
+Sozialministerium bearbeitet und ein Genosse ist, wurde von ihr<lb/>
+herangezogen. Wir hatten <name type="person" ref="per:97646">Koppe</name> bereits mit dieser Aufgabe betraut.<lb/>
+Wir einigten uns verhältnismässig sehr schnell über die Kompetenz.<lb/>
+Ich konnte sogar <name type="person">Paral</name> überzeugen, dass jede politische Kombina<lb break="no"/>tion für eine Mitbestimmung des Handelsministeriums spricht. In<lb/>
+einer SPÖ-Alleinregierung wird der Handelsminister niemals Schwierig<lb break="no"/>keiten machen, wenn es darum geht, das Lebensmittelgesetz zweckmässig<lb/>
+anzuwenden durch Verordnungen eine wirkliche Kontrolle zu ermög<lb break="no"/>lichen. Wenn es sich um eine grosse Koalition handelt, dann wird,<lb/>
+damit diese grosse Koalition nicht auseinanderbricht, es notwendig<lb/>
+sein, dass entweder ein Einvernehmen mit dem Vertreter des Handels<lb break="no"/>ministeriums, der sicher der ÖVP angehört, herbeigeführt werden<lb/>
+müssen, oder man kann die Materie nicht regeln, dann hat man wenig<lb break="no"/>stens in der Öffentlichkeit die berechtigte Ausrede, dass der Han<lb break="no"/>delsminister dies blockiert, wie dies auch bereits in den vergan<lb break="no"/>genen Jahrzehnten der Fall gewesen ist. Wenn es sich um eine ÖVP-<lb/>
+Alleinregierung oder ÖVP- und FPÖ-Regierung handelt, dann ist<lb/>
+es ganz gut, wenn die Sozialisten nachweisen können, dass, wie dies<lb/>
+in den vergangenen vier Jahren der Fall war, das Handelsministerium<lb/>
+jedweden Fortschritt blockiert und das Sozialministerium sich nicht<lb/>
+durchsetzen kann. Wir einigten uns deshalb, dass die Kompetenz<lb/>
+des Handelsministeriums im Lebensmittelgesetz ausgeweitet werden<lb/>
+soll. Die grundsätzliche Teilung ist, daß für alle Lebensmittel<lb/>
+Verordnungsermächtiungen das Sozialministerium mit dem Handels<lb break="no"/>ministerium gemeinsam und in allen Fällen, wo es sich nicht um<lb/>
+<pb n="03-0716" facs="03_1970-10-30_0716.jpg"/>Lebensmitteln handelt, das Handelsministerium insbesondere<lb/>
+hinsichtlich der Täuschung und der Kennzeichnung zuständig ist.<lb/>
+Betreffend die Werbung wurde überhaupt nur festgelegt, dass es<lb/>
+ein Verbot geben sollte, dass mit Gesundheit Hinweise eine Werbung<lb/>
+geführt werden darf. Z.B. brauchen sie dieses Öl, es ist gesund.<lb/>
+Wenn <name type="person" ref="per:97524">Hauffe</name> zurückkommen wird von der Dienstreise und er sich sagen<lb/>
+wir über dieses Kompromiss intern aufregen sollte, wird ihm auf<lb/>
+alle Fälle mitgeteilt, dass ich eigentlich erwartet hätte, wie er<lb/>
+zugesagt hat, dass er auf die Dienstreise nach Berlin verzichtet.<lb/>
+Die 60-seitige Stellungnahme zum Lebensmittelgesetz – die er mir<lb/>
+jetzt bereits vorlegen wollte – werde ich natürlich überhaupt nicht<lb/>
+einmal lesen. Es wird seine Aufgabe dann sein, das erzielte Kompro<lb break="no"/>miss in Gesetzesform zu kleiden und in der Begutachtung eben vorzu<lb break="no"/>schlagen.</p>
+            <p xml:space="preserve">Da mir diese Arbeit viel wichtiger erschien, es bestand ja immerhin<lb/>
+die Gefahr, dass <name type="person" ref="per:97808">Petuely</name> sonst querschiesst, hatte ich die beabsichtig<lb break="no"/>ten Besuche bei den Banken und Sparkassen zum Weltspartag abgesagt.</p>
+            <p xml:space="preserve">Die Konstituierung des Konsumentenbeirates ergab, dass auch dort<lb/>
+der Termin zur Einberufung als zu kurz empfunden wurde und deshalb<lb/>
+z.B. Landtagsabgeordneter Dr. <name type="person" ref="per:97406">Ebert</name> von der Handelskammer sich ent<lb break="no"/>schuldigen liess. Auch hier müssen wir eine längere Einladefrist<lb/>
+immer der Bundeskammer geben, damit sie sich wirklich darauf einstellen<lb/>
+können und vor allem aber nicht die berechtigte Ausrede dann haben<lb/>
+dass sie zu kurz eingeladen wurden. Auf Vorschlag der Bundeskammer<lb/>
+wurde deshalb ein Jour fix, nämlich jeder letzte Donnerstag im<lb/>
+Monat gewählt, wo der Beirat immer zusammentreten sollte. Es gab<lb/>
+eigentlich eine einzige Diskussion, nämlich ob es zweckmässig ist,<lb/>
+die sieben Arbeitsausschüsse, die wir vorgesehen hatte, so zu er<lb break="no"/>richten. So z.B. hatten wir den Konsumentenschutzausschuss Dr. <name type="person" ref="per:133082">Auracher</name><lb/>
+und Dr. <name type="person" ref="per:112567">Christian</name> vorgesehen, der sich mit einer Durch<lb break="no"/>forstung aller Gesetze beschäftigen sollte, um alle Konsumenten<lb break="no"/>schutzbestimmungen einmal zu sammeln. Wir kamen dann überein,<lb/>
+dass er überhaupt die legistischen Vorarbeiten zu leisten hat, d.h.<lb/>
+dass er auch z.B. wie <name type="person">Szecsi</name> vorschlug, über die Gewährleistung<lb/>
+Überlegungen anstellen soll. Die Arbeitsausschüsse sollten womöglich<lb/>
+recht klein gehalten werden. Obwohl ich die ganze Konstruktion der<lb/>
+<pb n="03-0717" facs="03_1970-10-30_0717.jpg"/>Beiräte ähnlich denen des Wirtschafts- und Sozialbeirates errichten<lb/>
+will, hatte ich aber dennoch nicht vorgesehen, dass alle Beirats<lb break="no"/>mitglieder das Recht haben sollten, in die Ausschüsse direkt zu gehen<lb/>
+und mitzuarbeiten. Ich schlug deshalb vor, dass der Sekretär des<lb/>
+Konsumentenbeirates, Koll. <name type="person" ref="per:115020">Welser</name>, der mit einem Werksvertrag im<lb/>
+Ministerium beschäftigt werden sollte, übrigens ein sehr tüchtiger<lb/>
+Mann wie mir <name type="person" ref="per:97646">Koppe</name> sagt, allerdings kein Genosse, die Ausschüsse<lb/>
+alle betreut und damit auch imstande ist, dem Beirat immer einen<lb/>
+Tätigkeitsbericht über die Ausschüsse zu geben. <name type="person" ref="per:97646">Koppe</name> hatte nur<lb/>
+6 Ausschüsse vorgesehen, ich verlangte aber als 7. einen Ausschuss<lb/>
+gegen den unfairer Wettbewerb. Wir betitelten diesen Ausschuss dann<lb/>
+allerdings als Wettbewerbsausschuss und seine Aufgabe ist folgende:<lb/>
+Nach Mitteilung der Handelsbetriebe kommt es immer wieder zu diskri<lb break="no"/>minierenden Verteilungspraktiken der Grosshändler und vor allem auch<lb/>
+der Produzenten. So wird von Händlerkreisen behauptet, dass die<lb/>
+Brauereien z.B. das Bier nicht einheitlich mit Mengenrabatten an<lb/>
+die Grossabnehmer abgeben, sondern darüber hinaus ganze starke Sonder<lb break="no"/>preise für diese einzelnen Diskonter tatsächlich machen sollen.<lb/>
+Dies behauptet z.B. auch <name type="person" ref="per:97769">Mussil</name>. Die Brauereien bestreiten dies auf<lb/>
+das entschiedenste. Ich könnte mir daher sehr gut vorstellen, dass<lb/>
+dieser Wettbewerbsausschuss sich mit dieser Frage beschäftigt. Wir<lb/>
+werden nämlich in unserem Ministerium kaum ein Anti-Schleuderergesetz<lb/>
+wie es <name type="person" ref="per:97749">Mitterer</name> seinerzeit versprochen und dann aber auch nicht machen<lb/>
+konnte, vorlegen, sondern müssen aber zu erkennen, dass wir gegen diese<lb/>
+unfairen Wettbewerb doch beabsichtigen Massnahmen zu setzen. Bekannt<lb break="no"/>lich hat <name type="person" ref="per:97749">Mitterer</name>, solange er Abgeordneter war, dies immer wieder<lb/>
+von <name type="person" ref="per:97358">Bock</name> verlangt, aus der Aktenlage ergibt sich aber, dass keinerlei<lb/>
+konkrete Vorschläge gemacht werden konnten. Das einzige was man daraus<lb/>
+entnehmen kann, ist, dass <name type="person" ref="per:97358">Bock</name> sich sehr aufgeregt hat, dass <name type="person" ref="per:97749">Mitterer</name><lb/>
+immer wieder – ohne mit ihm Fühlung zu nehmen – diese unmöglidhe For<lb break="no"/>derung gestellt hat.</p>
+            <p xml:space="preserve">Bei der Vorbesprechung mit Sekt.Chef <name type="person" ref="per:107939">Römer</name>, Sekt.Chef <name type="person" ref="per:97867">Reiterer</name>, Min.R.<lb/>
+<name type="person" ref="per:97426">Fälbl</name>. MR <name type="person" ref="per:108322">Meisl</name> sowie Min.Rat <name type="person" ref="per:98075">Willenpart</name> und <name type="person" ref="per:98053">Wanke</name> ergab, dass über<lb/>
+die Ostpolitik doch weitestgehend Einvernehmen erzielt werden kann.<lb/>
+Die Osthandelspolitik ist deshalb auch notwendig, da wir uns ja<lb/>
+gegenüber dem Osten irgendwie politisch absichern müssen, damit wir<lb/>
+die EWG-Verhandlungen leichter führen können. Wenn wir gegenüber den<lb/>
+Oststaaten immer wieder dokumentieren, dass wir grosses Interesse<lb/>
+haben, den Osthandel auszubauen und zu verstärken, dann wird es auch<lb/>
+<pb n="03-0718" facs="03_1970-10-30_0718.jpg"/>gelingen, sie vielleicht in diesem Punkt gegen ihre Bedenken gegen<lb/>
+ein EWG-Arrangement zu neutralisieren. Die Liberalisierungslisten und<lb/>
+die Hard-Core-Fälle sowohl die Liste über die Globalkontingente konnte<lb/>
+ziemlich einvernehmlich festgelegt werden. <name type="person" ref="per:98053">Wanke</name> wird mit <name type="person" ref="per:97867">Reiterer</name> nur<lb/>
+noch Detailbesprechungen führen.</p>
+            <p xml:space="preserve">Die Handelskammer und die Industriellenvereinigung wollte unbedingt<lb/>
+eine Aussprache über unsere Grundsatzgruppe. Nach dem Wirtschaftsbund<lb break="no"/>treffen in Gastein hatte mir <name type="person" ref="per:97893">Sallinger</name> bereits angekündigt, dass es<lb/>
+so nicht weitergehen könne. An der Aussprache waren <name type="person" ref="per:97893">Sallinger</name>, <name type="person" ref="per:97769">Mussil</name>,<lb/>
+<name type="person" ref="per:126405">Klose</name> und Dr. <name type="person" ref="per:134810">Hofeneder</name> von der Industriesektion, sowie Dr. <name type="person" ref="per:97436">Fetzer</name> und<lb/>
+<name type="person" ref="per:97661">Kottulinsky</name> von der Industriellenvereinigung. Von uns war <name type="person" ref="per:108322">Meisl</name>, <name type="person" ref="per:98053">Wanke</name><lb/>
+und ich anwesend. Ich versuchte zuerst das Problem der Industriebranchen<lb break="no"/>referenten zur Sprache zu bringen und insbesondere sicherzustellen, dass<lb/>
+<name type="person" ref="per:97661">Kottulinsky</name> jetzt das vorgesehene Referat bei diesen neuen Industrie<lb break="no"/>branchenreferenten halten sollte und dürfte. <name type="person" ref="per:97769">Mussil</name> ging aber sofort<lb/>
+an das Hauptproblem, nämlich die Tätigkeit der Grundsatzgruppe. Seiner<lb/>
+Vorstellung nach müssten in dieser Grundsatzgruppe höchstens Grundsatz<lb break="no"/>diskussionen über den Umweltschutz, die Mitbestimmung und sonstige<lb/>
+grosszügige und über allen Dingen schwebende Probleme besprochen werden.<lb/>
+Brutal ausgedrückt würde ich sagen, es sollte über Blablas diskutiert<lb/>
+werden. Ich lehnte ein solches Vorgehen ganz entschieden ab und <name type="person" ref="per:108322">Meisl</name><lb/>
+erörterte an Hand der nächster Tagesordnung, was eigentlich zur Debatte<lb/>
+stehen sollte. Dies hat natürlich dann wieder eine Sturm der Entrüstung<lb/>
+ausgelöst, weil sowohl die Industriellenvereinigung als auch die Han<lb break="no"/>delskammer erklärten, dass sie keinen einzigen Mann besässen, der berech<lb break="no"/>tigt wäre, über solche Fragen zu diskutieren, ohne vorher Fühlung mit den<lb/>
+Funktionären aufgenommen zu haben. Ich gebe zu, dass sie zuerst wahr<lb break="no"/>scheinlich die Arbeit der Grundsatzgruppe überhaupt mit neidischem Blick<lb/>
+verfolgen, zumindestens jetzt, am Anfang war dies ja anders und aber<lb/>
+derzeit auch ausser dieser Konkurrenzinstitution vor allem Angst<lb/>
+hatten, dass ihre Funktionäre nicht zeitgerecht befragt werden können<lb/>
+und deshalb ihnen nachher entsprechende Schwierigkeiten bereiten<lb/>
+könnten. <name type="person" ref="per:108322">Meisl</name> verteidigte seine Grundsatzgruppe wirklich sehr energisch<lb/>
+und ganz geschickt. Ich unterstützte ihn besonders in dem Punkt, dass<lb/>
+ich erklärte, dass Ministerium müsste eben als ein Betrieb aufgefasst<lb/>
+werden und auch dort gibt es eine Stabsabteilung und eben Sektionen,<lb/>
+dies entspricht der STAF resp. der Linie, wie sie in der modernen Be<lb break="no"/><pb n="03-0719" facs="03_1970-10-30_0719.jpg"/>Betriebsführung heute überall verlangt wird. Ein Fehler war, dass von<lb/>
+den Sitzungen Protokolle gemacht wurden, wodurch sich die Bundeskammer<lb/>
+und die Industriellenvereinigung gebunden fühlt. Weiters waren wahr<lb break="no"/>scheinlich wirklich <name type="person" ref="per:126405">Klose</name> und <name type="person" ref="per:97661">Kottulinsky</name>, die beiden wurden mir seiner<lb break="no"/>zeit als Vertreter in die Grundsatzgruppe nominiert, überfordert, wenn<lb/>
+man sie zur Stellungsnahme z.B. über die Kartellfragen oder über die<lb/>
+EWG-Verhandlungen auffordert. Da <name type="person" ref="per:108322">Meisl</name> nicht bereit war, nachzugeben,<lb/>
+andererseits aber <name type="person" ref="per:97893">Sallinger</name> und <name type="person" ref="per:97769">Mussil</name> und auch <name type="person">Fetzer</name> ihn unbedingt um<lb break="no"/>stimmen wollten, versuchten sie es, dass sie ihm erklärten, er soll<lb/>
+nicht so beleidigt sein und es richtet sich ja gar nichts gegen ihn, sondern<lb/>
+es sei für sie eine prinzipielle Frage. Da auch ich nicht bereit war,<lb/>
+im Prinzip entgegenzukommen, wohl in förmlichen Äusserlichkeiten, wie<lb/>
+dass ich erklärte, wir werden kein Protokoll mehr führen, wir werden<lb/>
+nicht Stellungnahmen verlangen, wenn sie nicht imstande sind, die Ver<lb break="no"/>treter der BHK, Stellungnahmen abzugeben und sonstige Kleinigkeiten, hatten<lb/>
+sie letzten Endes nur das Anbot, sie werden sich das ganze Problem noch<lb/>
+einmal überlegen und wir werden die Sitzung entsprechend einmal fortsetzen.<lb/>
+Das einzige Entgegenkommen war, dass ich mich bereit erklärte, die Sitzung<lb/>
+für nächsten Dienstag auf 8 Tage zu verschieben, um ihnen Zeit zu geben,<lb/>
+das Problem noch einmal zu überdenken und uns dann entsprechende Vor<lb break="no"/>schläge zu unterbreiten. Nach der Sitzung meinte <name type="person" ref="per:98053">Wanke</name>, man könnte<lb/>
+ihnen insofern entgegenkommen, dass man anstelle der Besprechungen in<lb/>
+der Grundsatzgruppe interministerielle Besprechungen in den einzelnen<lb/>
+Sektionen macht, wo sie ja auf alle Fälle nicht nur anwesend sein wollen<lb/>
+sondern dort auch wie sie sagen, die Möglichkeit besteht, ihre Fachleute<lb/>
+zu den einzelnen Problemen zu delegieren und die Grundsatzgruppe würde<lb/>
+das Steuerungsorgan für diese interministeriellen Besprechungen sein.<lb/>
+<name type="person" ref="per:108322">Meisl</name> sieht in diesem Vorschlag und ich teile ihn einstweilen noch die<lb/>
+Gefahr, dass damit die kooperierende und koordinierende und informative<lb/>
+Tätigkeit der Gnundsatzgruppe verlorengehen würde. Andererseits aber<lb/>
+müssen wir Mittel und Wege finden, sowohl die Bundeskammer als auch die<lb/>
+Industriellenvereinigung bei der Stange zu halten .</p>
+            <p xml:space="preserve">Der Finanzminister und ich haben als Abschluss der betriebswirtschaftlichen<lb/>
+Woche einen Empfang vorbereitet. Deshalb <name type="person">war Androsch</name> und ich im Finanz<lb break="no"/>ministerium um 1/2 7 Uhr angetreten. <name type="person" ref="per:97311">Androsch</name> soll nachmittags ein<lb/>
+phantastisches Referat gehalten haben, wo er die Budgetproblematik<lb/>
+seinen Berufskollegen auseinandersetzte. Ich konnte in Erfahrung bringen,<lb/>
+dass die Berufskollegen von ihm ziemlich begeistert sind. Dies ist inso<lb break="no"/>fern sehr wichtig, als ja gerade in dieser Gruppe bei der letzten Wahl<lb/>
+ein sehr grosser Kampf zwischen dem jetzigen Präsidenten Dr. <name type="person" ref="per:114377">Fritsch</name><lb/>
+und der ÖVP – dem Wirtschaftsbundvertreter Dr. <name type="person">Neuner</name> stattgefunden hat.</p>
+            <pb n="03-0720" facs="03_1970-10-30_0720.jpg"/>
+            <p xml:space="preserve">Damals glaubte ja die ÖVP, dass sie ihren Präsidenten <name type="person" ref="per:122994">Ziegler</name>,<lb/>
+der ein Fachmann und anerkannter Mann in der Leitung dieser Wirt<lb break="no"/>schaftstreuhänder gewesen ist, ohne weiters wieder durchbringen könnte<lb/>
+und dann durch Neuner ablösen würde. In Wirklichkeit siegte die soge<lb break="no"/>nannte unabhängige Gruppe Dr. <name type="person" ref="per:114377">Fritsch</name> mit grossem Abstand und <name type="person">Neuner</name><lb/>
+soll angeblich wie uns bestätigt wird, jetzt bei seiner Berufskollegen<lb/>
+unten durch sein. Der Vizepräsident der Organisation wollte von mir eine<lb/>
+Zusage haben, dass ähnlich wie die Ärzte jetzt anstreben im Gebührenges<lb break="no"/>etz auch die Gebührenregelung der Wirtschaftstreuhänder einen Dynami<lb break="no"/>sierungsfaktor beinhalten sollte. Seiner Meinung nach ist es lächer<lb break="no"/>lich, wenn sie jetzt noch einen Satz von S 60.- pro Stunde, denn dies<lb/>
+führt nur dazu, dass sie nicht eine Stunde, sondern eben mehrere Stunden<lb/>
+verrechnen pro Stunde, um auf ihre Sätze zu kommen. <name type="person" ref="per:97311">Androsch</name> war bei<lb/>
+dieser Besprechung nicht anwesend, als ich es ganz entschieden abge<lb break="no"/>lehnt hatte, eine weitere Dynamisierung einzuführen. Er kam erst später<lb/>
+wieder hinzu und bestätigte meine Auffassung 100 %ig. Insbesondere war<lb/>
+interessant, dass Sekt.Chef <name type="person">Heilingsetzer</name>, der bei dieser Besprechung<lb/>
+anwesend war, auch gegen die Dynamisierung die grössten Bedenken hatte.<lb/>
+Er verteidigte nur die Dynamisierung der Renten, die gerade während<lb/>
+seiner Periode eingeführt oder vorbereitet wurden und er natürlich<lb/>
+die Ausrede hatte, zu sagen, dass dadurch ja auch da die Einnahmen ge<lb break="no"/>sichert sind, weil ja die Rentenausgaben nach den Einnahmen, nämlich die<lb/>
+Lohnhöhen errechnet werden sollen. Vom gesamtwirtschaftlichen Standpunkt<lb/>
+aber erklärte ich immer wieder wäre es notwendig, flexibel zu bleiben,<lb/>
+um gegebenenfalls der jeweiligen Konjunktursituation entsprechend einen<lb/>
+grösseren Betrag, oder wenn es die Situation halt erfordert, gegebenen<lb break="no"/>falls halt auch einen kleineren Aufwertungsfaktor spielen lassen zu<lb/>
+könne. Da sowohl <name type="person" ref="per:97311">Androsch</name> als auch ich bei <name type="person" ref="per:97789">Ockermüller</name> zu einem Empfang<lb/>
+eingeladen waren, wechselten wir unseren Besuch dort ab. Zu meiner<lb/>
+grössten Verwunderung musste ich feststellen, daß bei <name type="person" ref="per:97789">Ockermüller</name><lb/>
+wirklich alle Manager der Industrie und der Banken und des politischen<lb/>
+Lebens erschienen waren. Sie drängten sich dort in seiner Wohnung wie<lb/>
+Heringe und ich kann wirklich nicht verstehen, wieso sie noch ihre<lb/>
+Frauen zu diesem Spektakel auch mitgenommen hatten. Bei dieser Gelegenheit<lb/>
+entdeckte ich den Generaldirektor von der Unilever <name type="person" ref="per:141619">Seiffert</name>, wie er mit<lb/>
+<name type="person" ref="per:97769">Mussil</name> sehr eingehend diskutierte. Ich erklärte, ich wollte mich nur ver<lb break="no"/>abschieden, blieb aber dann doch ein bisschen stehen und konnte in Er<lb break="no"/>fahrung bringen, dass <name type="person" ref="per:141619">Seiffert</name> gerade versuchte, <name type="person" ref="per:97769">Mussil</name> davon zu über<lb break="no"/>zeugen, dass sie ja Umsatzsteuersenkung für Fette zustimmen sollten.<lb/>
+<name type="person" ref="per:97769">Mussil</name> selbst war nicht damit einverstanden, da er wie er erklärte,<lb/>
+die ÖVP an Bauernzusagen diesbezüglich gebunden sind. Ich werde sehen,<lb/>
+<pb n="03-0721" facs="03_1970-10-30_0721.jpg"/>ob er tatsächlich an dieser Bindung nach wie vor sich hält, wenn<lb/>
+dieses Problem jetzt im Parlament zur Abstimmung kommen wird. Nachdem<lb/>
+ich von dieser Party wieder zu den Wirtschaftstreuhändern zurück<lb break="no"/>gekehrt war, konnte ich mit dem Präsidenten der Organisation, <name type="person" ref="per:114377">Fritsch</name>,<lb/>
+auch über das Problem, das <name type="person">Thyll</name> mir aufgetragen hatte, sprechen. Be<lb break="no"/>kanntlicherweise wollte dieser Mann, dass die Wirtschaftstreuhänder<lb/>
+zu untersuchen hätten, wenn sie Material zur Auswertung bekommen, ob<lb/>
+dieses Material auch rechtmässig in den Besitz des Überbringens gelangt ist.<lb/>
+<name type="person" ref="per:114377">Fritsch</name> meinte, dies sei nicht möglich , eine Überprüfung über die Recht<lb break="no"/>mässigkeit komme derzeit und auch in Zukunft nicht in Frage, das ist auch<lb/>
+meine Meinung, ich habe mich aber damit einer Zusage entledigt, als ich<lb/>
+dieses Problem zur Sprache gebracht hatte. Ich hatte dann auch noch<lb/>
+Gelegenheit, mit <name type="person" ref="per:114128">Bosse</name>, dem Präsidenten des Statistischen Zentralamtes<lb/>
+zu sprechen und wir kamen überein, dass er insbesondere mit <name type="person" ref="per:108322">Meisl</name> jetzt<lb/>
+den engsten Kontakt halten wird und entsprechendes statistisches Material<lb/>
+das wir brauchen, jederzeit zur Verfügung halten wird, resp. gegebenenfalls<lb/>
+eigene Ausarbeitungen und Erhebungen für uns durchführen wird.</p>
+         </div>
+      </body>
+    
+  </text>
+</TEI>

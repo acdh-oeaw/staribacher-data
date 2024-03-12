@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der  7. Mai 1977</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band36_1977-05-07</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1977-05-07">Samstag, 7. Mai 1977</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-06-06">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="36-0542" facs="36_1977-05-07_0542.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Samstag, 7. Mai 1977<lb/>
+</p>
+            <p xml:space="preserve">Der ganze Tag war dem Landesparteitag Wien gewidmet.<lb/>
+Da <name type="person" ref="per:97668">Kreisky</name> erst mittags von Ägypten zurückkam, musste<lb/>
+eine Mittagspause eingeschaltet werden, die Wiener Or<lb break="no"/>ganisation musste dafür das Essen bereitstellen, was eine<lb/>
+ganz schöne Stange Geld kostet. Ich kam zum Landespartei<lb break="no"/>tag zu spät, weil ich noch den britischen Handelsminister<lb/>
+begleiten musste. Nachmittag war dann das Referat von<lb/>
+<name type="person" ref="per:97668">Kreisky</name> über die Aussenpolitik, von <name type="person" ref="per:97488">Gratz</name> und dem Präsidium<lb/>
+scheinbar als Höhepunkt des Landesparteitages gedacht. <name type="person" ref="per:97668">Kreisky</name><lb/>
+stellte einleitend gleich fest, er hätte bereits einmal als<lb/>
+junger Staatssekretär bei einer Wiener Konferenz über Aussen<lb break="no"/>politik sprechen können. Jetzt zweifelsohne am Gipfel seiner<lb/>
+aussenpolitischen Tätigkeit, er kam ja gerade von einer Ver<lb break="no"/>mittlungsmission aus dem Nahen Osten zurück, erwarteten<lb/>
+sich viele eine sensationelle Information. Diese ist für<lb/>
+mich verständlich, ausgeblieben. Selbst angebliche Be<lb break="no"/>merkungen, die ich in der Presse gelesen habe, wie "Mit <name type="person" ref="per:140554">Rabin</name><lb/>
+konnte man keinen Frieden mit den Arabern erwarten", dagegen<lb/>
+"<choice><choice><sic>mit</sic><corr>?</corr></choice></choice> dem hart verhandelnden <name type="person" ref="per:112984">Peres</name> wird dies eher gehen" hat er<lb/>
+bei der Konferenz nicht mehr gesagt. Jede sensationelle Mit<lb break="no"/>teilung ist also unterblieben, auch die Polemik, weder gegen<lb/>
+die ÖVP noch gegen irgendeine ausländische Gruppe war zu<lb/>
+verzeichnen. Mich persönlich interessiert Aussenpolitk<lb/>
+sehr wenig. Ich habe immer das Gefühl, dass dort ungeheuer<lb/>
+viel herumgeredet wird, wahrscheinlich auch herumgeredet<lb/>
+werden muss, ohne dass etwas konkretes ausgesagt wird, geschweige<lb/>
+denn registriert werden kann. Natürlich kann es durch Inter<lb break="no"/>vention, Information usw. zu einer wesentlich anderen Ent<lb break="no"/>wicklung kommen als dies ursprünglich beabsichtigt resp.<lb/>
+man erwartet hat. Da es in der Aussenpolitik genauso ist,<lb/>
+vielleicht sogar noch mehr als in der Innenpolitik persönliche<lb/>
+Beziehungen eine grosse Rolle spielen, dass andererseits aber<lb/>
+persönliche Bemerkungen viel stärker noch wirken können,<lb/>
+so sind es nicht immer nur Sachentscheidungen, die die<lb/>
+Aussenpolitik beeinflussen. Dies gilt für die grosse Aussen<lb break="no"/>politik wie z.B. das angeblich schlechte Verhältnis zwischen<lb/>
+<name type="person" ref="per:109804">Carter</name> und <name type="person" ref="per:114106">Schmidt</name> genauso wie wahrscheinlich zwischen<lb/>
+<pb n="36-0543" facs="36_1977-05-07_0543.jpg"/>israelischen Vertretern und <name type="person" ref="per:97668">Kreisky</name>. Mit <name type="person" ref="per:139785">Golda Meir</name> hatte<lb/>
+er grosse Schwierigkeiten, mit <name type="person" ref="per:140554">Rabin</name>, wenn die Zeitungs<lb break="no"/>meldungen stimmen und ich hoffe, dass es jetzt mit <name type="person" ref="per:112984">Peres</name>,<lb/>
+wenn er Ministerpräsident werden sollte, besser funktioniert.<lb/>
+Mit den Lieferungen für Steyr-Daimler-Puch nach Syrien<lb/>
+dürfte es nicht sehr zum besten stehen, denn sonst hätte<lb/>
+<name type="person" ref="per:97668">Kreisky</name> bestimmt eine entsprechende Bemerkung, wenn auch<lb/>
+nur in einem Nebensatz in seinem Referat gemacht. Ganz bewusst<lb/>
+hat er aber jedwede wirtschaftliche Seite sowohl was Syrien<lb/>
+als auch Ägypten betrifft, ausgeklammert. Die wirkliche<lb/>
+Situation werde ich leider sehr bald bei meinem Besuch in<lb/>
+Ägypten selbst feststellen können.<lb/>
+</p>
+            <p xml:space="preserve">Bei den Neuwahlen ist unsere Sekretärin LAbg. <name type="person" ref="per:112037">Tischler</name>, die<lb/>
+im Wahlkomitee sass, sofort zu mir gerannt gekommen und hat<lb/>
+erklärt, ich hätte nur 2 Streichungen, die anderen haben ich<lb/>
+weiss nicht 10 – 50 oder 60. Meine Erklärung dafür war und<lb/>
+dies halte ich tatsächlich aufrecht, dass ich den Delegierten<lb/>
+weder in negativer vielleicht auch gar nicht in positiver<lb/>
+Hinsicht aufgefallen bin. Manche mögen sich daraus weiss Gott<lb/>
+was ableiten, ich selbst lege darauf überhaupt keinen Wert.<lb/>
+Eine leichte Auseinandersetzung mit einem Bezirk und schon hat<lb/>
+man die Streichungen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="36_0541_01" facs="36_1977-05-07_0541-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 7.5.1977</head>
+         </div>
+      </back>
+   </text>
+</TEI>

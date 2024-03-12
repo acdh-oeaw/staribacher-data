@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der 12. September 1981</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band61_1981-09-12</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1981-09-12">Samstag, 12. September 1981</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-07-18">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="61-1140" facs="61_1981-09-12_1140.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Samstag, 12. September 1981<lb/>
+</p>
+            <p xml:space="preserve">Bei der Eröffnung der Wiener Messe hatte Dr. <name type="person" ref="per:113038">Reim</name> aus unsren Akten<lb/>
+hervorgekramt, daß ein kleiner Beamter des Handelsministeriums, <name type="person" ref="per:129358">Ernst</name><lb/>
+<name type="person" ref="per:129358">Lothar</name>, sich dafür sehr eingesetzt hat und wesentlich zum Entstehen der<lb/>
+Wr. Messe vor 60 Jahren beitrug. Für mich war das natürlich eine gute<lb/>
+Gelegenheit, diese Story auch bei meiner Messeansprache zu erzählen, um<lb/>
+nicht immer nur gegen den Präsidenten der Handelskammer <name type="person" ref="per:97893">Sallinger</name> zu<lb/>
+polemisieren. Dieser hatte übrigens diesmal erstmalig <name type="person" ref="per:97668">Kreisky</name> frontal<lb/>
+angegriffen, weil er bei einer Vertrauenspersonenkonferenz erklärt hat,<lb/>
+die Unternehmer, insbesondere Klein- und Mittelbetriebe, halten ja die<lb/>
+Arbeitskräfte nicht aus Liebe zu diesen, sondern weil sie eben, nicht<lb/>
+zuletzt auch durch die Regierungspolitik, doch gut beschäftigt sind.<lb/>
+Dies sei also keine Gnade der Unternehmer, und wer dies behaupte, vertre<lb break="no"/>te eine hirnrissige Idee. Letzteres hat <name type="person" ref="per:97893">Sallinger</name> zwar nicht in der<lb/>
+offiziellen Ansprache gesagt, aber mir anschließend besonders empört<lb/>
+mitgeteilt. Natürlich hatte ich, es blieb mir auch gar nichts anderes<lb/>
+übrig, <name type="person" ref="per:97668">Kreisky</name> verteidigt und gerade auf die Vollbeschäftigung und auf<lb/>
+die Unterstützung der Bundesregierung für Klein- und Mittelbetriebe<lb/>
+durch die BÜRGES-Aktion verwiesen. Ansonsten habe ich ihm humorvoll,<lb/>
+auf die <name type="person" ref="per:129358">Lothar</name>-Story eingehend,<add>[auf]</add> den später sehr bekannten, aus der<lb/>
+Emigration von Amerika zurückgekehrten, der auf<add>[dem]</add> Kunstgebiet dann sehr<lb/>
+bekannt wurde, angespielt und erklärt, daß die erste Messe vom damaligen<lb/>
+Handelsminister eröffnet wurde, so wie es in den Unterlagen stand, die<lb/>
+mir <name type="person" ref="per:113038">Reim</name> aufgeschrieben hatte. In der Ansprache des Bundespräsidenten<lb/>
+kam dann der große Gag, denn aus seinen Akten und der Presse, die <name type="person" ref="per:97632">Kirch<lb break="no"/>schläger</name> genau studiert hat, ging eindeutig hervor, daß der damalige<lb/>
+Bundespräsident <name type="person" ref="per:118669">Hainisch</name> tatsächlich die erste Messe eröffnete. Über<lb/>
+diese Richtigstellung waren <name type="person" ref="per:113038">Reim</name> und <name type="person" ref="per:107953">Buchauer</name> traurig und sogar ein<lb/>
+bißchen empört, ich fand sie dagegen ungeheuer lustig, denn <name type="person" ref="per:97632">Kirch<lb break="no"/>schläger</name> erntete das erste Mal Zwischenapplaus, und vor allem haben sich<lb/>
+alle Zuhörer durch diese Polemik köstlich amüsiert. Der neben mir<lb/>
+sitzende Kardinal <name type="person" ref="per:109820">König</name> meinte, <name type="person" ref="per:97985">Staribacher</name> ist immer humorvoll und<lb/>
+optimistisch. Was will man mehr an qualifizierter Beurteilung errei<lb break="no"/>chen.<lb/>
+</p>
+            <p xml:space="preserve">Selbstverständlich habe ich dann unverzüglich die ausländischen Ausstel<lb break="no"/>ler besucht. Diesmal hatte zwar die SU ihren Zweijahresrhythmus unter<lb break="no"/>brochen und sich wieder an der Herbstmesse, zumindestens jetzt wegen<lb/>
+der 60 Jubiläumsjahre, beteiligt.<lb/>
+</p>
+            <pb n="61-1141" facs="61_1981-09-12_1141.jpg"/>
+            <p xml:space="preserve">Begleitet wurde ich diesmal wieder von Vorstandsdir. <name type="person" ref="per:131198">Draxler</name>. Dieser<lb/>
+ist mit Jahresende gekündigt, bezieht eine Pension und sucht daher<lb/>
+eine für ihn adäquate, aber doch interessante Beschäftigung. Er besitzt<lb/>
+ungeheure Firmenkenntnisse und dürfte auch sehr tüchtig sein, weshalb<lb/>
+ich ihm sofort angeboten haben, wenn er auf eine höhere Bezahlung<lb/>
+keinen Wert liegt, er mit 1. Jänner sofort bei einer sehr miesen Be<lb break="no"/>zahlung, aber sicherlich interessanten Tätigkeit im Handelsministerium<lb/>
+beginnen könnte. Er ist zwar schon 55 Jahre alt, eine Pragmatisierung<lb/>
+kommt daher gar nicht infrage, doch braucht er dringend für seine<lb/>
+ASVG-Pension im nächsten Jahr irgendeine Beschäftigung.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Bitte alles entsprechend vorbereiten.<lb/>
+</p>
+            <p xml:space="preserve">Der tschechische Botschafter und Handelsrat <name type="person" ref="per:114725">Chrust</name> ersuchte mich, ob<lb/>
+es nicht doch eine Möglichkeit gibt, den langfristigen Vertrag heuer<lb/>
+noch zu unterschreiben. Dieser soll nämlich mit 1.1.82 wie vorgesehen<lb/>
+in Kraft treten. Ursprünglich war beabsichtigt, bei dem Staatsbesuch<lb/>
+von <name type="person" ref="per:127063">Husák</name>, sozusagen als materiellen Aufputz, diese Zeremonie feier<lb break="no"/>lichst in Wien zu begehen. Da jetzt der Staatsbesuch verschoben wurde,<lb/>
+erklärte ich mich sofort bereit, auf Wunsch der Tschechen entweder in<lb/>
+Prag, Brünn oder Bratislava die Unterzeichnung an einem Wochenende<lb/>
+vorzunehmen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:125291">MARTIN</name>: MR <name type="person" ref="per:97426">Fälbl</name> wird sich mit Ihnen ins Einvernehmen<lb/>
+setzen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="61_1139_01" facs="61_1981-09-12_1139-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 12.9.1981</head>
+         </div>
+      </back>
+   </text>
+</TEI>

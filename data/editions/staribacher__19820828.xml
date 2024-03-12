@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der 28. August 1982</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band66_1982-08-28</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1982-08-28">Samstag, 28. August 1982</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-11-05">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="66-1005" facs="66_1982-08-28_1005.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Samstag, 28. August 1982<lb/>
+</p>
+            <p xml:space="preserve">Im Rennerinstitut haben mehr als 1 Dutzend Experten von Bundeskanzler<lb break="no"/>amt, Kabinettschef <name type="person" ref="per:97678">Lacina</name>, bis über den Freien Wirtschaftsverband, <name type="person" ref="per:118956">Schmid<lb break="no"/>berger</name> und NR <name type="person" ref="per:114075">Schmidt</name>, mit Ministerienvertretern insbesondere des Finanz<lb break="no"/>ministeriums das Beschäftigungsprogramm noch einmal durchbesprochen. <choice><choice><sic>Die<lb/>
+ganze</sic><corr>Das Ganze?</corr></choice></choice> wird ein umfangreiches Buch, die Kapitel, die das Handelsministe<lb break="no"/>rium berühren, sind ebenfalls sehr umfangreich geworden. Wichtig erschien<lb/>
+mir aber mit Finanzminister <name type="person" ref="per:97891">Salcher</name> die Finanzierung endgültig abzu<lb break="no"/>sprechen. Bezüglich des Fernwärmekonzeptes hat <name type="person" ref="per:97891">Salcher</name> sich bereit er<lb break="no"/>klärt, außer den jetzt im Budget vorhandenen 25 Mio. S, die für Prämien<lb/>
+bis 5 Mio. S für die kleineren Projekte weiterbleiben sollen, eine Zinsen<lb break="no"/>zuschußaktion für 1 Mrd. ist 40 Mio. S im Handelsministeriumsbudget zu<lb/>
+geben. Davon sollen 2 1/2 % das Handelsministerium und 1 1/2 % das<lb/>
+Land für diese Fernwärmekonzepte zuschießen. Durch das Wohnungsverbesse<lb break="no"/>rungskonzept sollen für die Hausanschlüsse ebenfalls 20 Mio. zur Ver<lb break="no"/>fügung stehen, wenn das Land 10 Mio. zuschießt. Die Finanzierungszuschüsse<lb/>
+sollen nur bis zu einer Untergrenze <add>[von]</add> 6 % gewährt werden. Sollen die<lb/>
+Zinsen weiter sinken, dann würde sich der Bund und das Land entspre<lb break="no"/>chend geringere Zinsenzuschüsse geben müssen und daher Geld ersparen.<lb/>
+Diese Möglichkeit sehe ich derzeit nicht, überhaupt wird es sehr schwer<lb/>
+sein mit den Ländern zu einer Zuschußregelung zu kommen, gegebenenfalls<lb/>
+ist der Finanzminister dann seinerseits bereit 3 % für den Bund und 1<lb/>
+% für die Länder zu akzeptieren.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:131107">GROSSENDORFER</name>: Bitte vorsichtigst vorfühlen lassen, welche<lb/>
+Länder ev. bereit sind hier etwas zuzuzahlen.<lb/>
+</p>
+            <p xml:space="preserve">Bezüglich der Kraftwerksprojekte wurde von der E-Wirtschaft das Papier vor<lb break="no"/>gelegt, welches auch Osttirol, Hainburg und Dürnrohr und deren Schwie<lb break="no"/>rigkeiten im Detail beschreibt. Hier hat <name type="person" ref="per:97891">Salcher</name> vorgeschlagen, daß das<lb/>
+Gesundheitsministerium, <name type="person" ref="per:1137981">Bobek</name>, mit seinem Mann <name type="person" ref="per:1138100">Szopo</name> und <name type="person" ref="per:131107">Grossendorfer</name><lb/>
+die endgültige Formulierung festlegen sollen. Ich glaube, daß einiges<lb/>
+anders formuliert werden muß.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:131107">GROSSENDORFER</name>: Bitte Details mit mir noch besprechen.<lb/>
+</p>
+            <p xml:space="preserve">Bezüglich des Rohstoffkonzeptes ist <name type="person" ref="per:97891">Salcher</name> bereit mir von den 216 Mio.<lb/>
+Bergbauförderungen die 44 Mio. nicht zu streichen. Ebenso bleibt das<lb/>
+Lagerstättengesetz mit 4 Mio. in meinem Budget und die zweite Hälfte<lb/>
+bekommt <name type="person" ref="per:97442">Firnberg</name>. Die Idee des Wissenschaftsministeriums die gesamte<lb/>
+<pb n="66-1006" facs="66_1982-08-28_1006.jpg"/>Rohstofförderung über das Wissenschaftsbudget durchzuführen, lehnt <name type="person" ref="per:97891">Sal<lb break="no"/>cher</name> ab. Die Novelle zum Bergbauförderungsgesetz, wo neue Produkte dann<lb/>
+neben Kohle, Buntmetall und Stahlveredlern aufgenommen werden, akzeptiert<lb/>
+er.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:131107">GROSSENDORFER</name>: Bitte die notwendigen Arbeiten sofort<lb/>
+einleiten.<lb/>
+</p>
+            <p xml:space="preserve">Darüber hinaus wird das Finanzministerium 20 Mio. S in den Budgetverhand<lb break="no"/>lungen mir geben.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name> UND <name type="person" ref="per:131107">GROSSENDORFER</name>: Bitte alle Beträge zusammen<lb break="no"/>stellen lassen.<lb/>
+</p>
+            <p xml:space="preserve">Bezüglich der Unternehmungsgründung hat <name type="person" ref="per:97891">Salcher</name> abgelehnt, der Erhöhung<lb/>
+der Zweckbindung des Gewerbesteuerertrages von 7 1/2 % auf 10 % zuzustim<lb break="no"/>men. Diese hätte 120 Mio. S ausgemacht. <name type="person" ref="per:97891">Salcher</name> ist nun bereit im Kon<lb break="no"/>junkturausgleichsbudget eine entsprechende Post einzusetzen. Letzten<lb/>
+Endes einigten wir uns aber darauf, daß es notwendig ist, 10 Mio. S ins<lb/>
+ordentliche Budget und 90 Mio. S ins Konjunkturausgleichsbudget aufzu<lb break="no"/>nehmen. <name type="person" ref="per:97891">Salcher</name> will nur gewährleistet haben, daß erst dann das Finanz<lb break="no"/>ministerium zusätzliche Mittel dem Handelsministerium überweisen muß,<lb/>
+wenn die BÜRGES-Mittel, die ja heuer nicht ausgenützt werden, dann<lb/>
+erschöpft sind. <name type="person" ref="per:97891">Salcher</name> behauptet einmal mehr, daß bei der BÜRGES nicht<lb/>
+nach Richtlinien gemäße Kredite gegeben werden. Ich habe ihm wieder ge<lb break="no"/>sagt, er soll mir konkrete Beschwerdefälle sagen. <name type="person" ref="per:97891">Salcher</name> möchte aber<lb/>
+für diese Topunternehmensgründung eine eigene Gutachtenbindung. Dagegen<lb/>
+habe ich nichts einzuwenden. Ich werde SC <name type="person" ref="per:97584">Jagoda</name> als Aufsichtsrat der<lb/>
+BÜRGES, aber auch als den im Ministerium Verantwortlichen ersuchen, entspre<lb break="no"/>chende Formulierungen zu machen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97584">JAGODA</name>: Bitte besprechen wie wir konkret den <name type="person" ref="per:97891">Salcher</name>-<lb/>
+Wunsch erfüllen können.<lb/>
+</p>
+            <p xml:space="preserve">Da ich fest davon überzeugt bin, daß dieses umfangreiche Buch der ein<lb break="no"/>zelnen Kapitel über das Beschäftigungsprogramm niemand lesen wird, schlug<lb/>
+ich vor, daß wir eine entsprechende Kurzfassung für alle Kapitel machen.<lb/>
+Da auch diese, wie ich überzeugt bin, zu lange sein wird, sollte man für<lb/>
+die Presse einen Waschzettel mit höchstens 5 Zahlen vorbereiten. <name type="person" ref="per:97891">Salcher</name><lb/>
+war mit dieser Vorgangsweise sehr einverstanden. Überrascht war ich nur<lb/>
+dann zu lesen, daß die Kronen-Zeitung bereits meldete, bis zum Jahre 85<lb/>
+<pb n="66-1007" facs="66_1982-08-28_1007.jpg"/>werden 100 Mrd. S, wie <name type="person" ref="per:97891">Salcher</name> ihnen mitteilte, für die österreichische<lb/>
+Wirtschaft zur Verfügung gestellt. Ich kann nie verstehen, daß auf <choice><choice><sic>einze<lb/>
+anfragen</sic><corr>Einzelanfragen? einzelne Anfragen?</corr></choice></choice> immer wieder von <name type="person" ref="per:97668">Kreisky</name> und auch anderen Ministern einer einzelnen<lb/>
+Zeitung sozusagen eine solche Vorausinformation gegeben wird. Dies kann<lb/>
+nur dazu führen, daß die anderen darüber sehr verärgert und damit<lb/>
+automatisch eine negative Berichterstattung fast mit Sicherheit gewähr<lb break="no"/>leistet ist.<lb/>
+</p>
+            <p xml:space="preserve">Bei dem Presseempfang im Imperial für die Überreichung der Auszeichnung<lb/>
+an <name type="person" ref="per:1138101">Schwarzenegger</name> war der Saal bummvoll, So viele Fotos wurden noch nie<lb/>
+geschossen als bei dieser Gelegenheit. <name type="person" ref="per:1138101">Schwarzenegger</name> war wirklich sehr<lb/>
+erfreut über die Auszeichnung. Ich bin überzeugt davon, daß er in<lb/>
+Amerika drüben, wo er steirische Eiche genannt wird, weiterhin für Öster<lb break="no"/>reich entsprechende Propaganda machen wird. Dies ist auch der tiefere<lb/>
+Grund gewesen, warum die ÖFVW ihm eine solche Auszeichnung verliehen hat.<lb/>
+<name type="person" ref="per:1138101">Schwarzenegger</name> selbst will in Hinkunft auch Filmproduzent werden, in<lb/>
+diesem Fall rechnen wir damit, und er hat es auch nicht abgelehnt, daß er<lb/>
+vielleicht sogar in Österreich selbst einen Film drehen wird. Cine<lb/>
+Austria, eine Broschüre, die wir für die Filmproduzenten gemacht haben<lb/>
+und wo wir österreichische Filmmöglichkeiten aufzeigen, hat er nicht ge<lb break="no"/>kannt und wurde ihm von mir auch übergeben. <name type="person" ref="per:111736">Zolles</name> hätte dann noch als<lb/>
+Gag vorgeschlagen, daß ich mich von <name type="person" ref="per:1138101">Schwarzenegger</name> exklusiv für den<lb/>
+Kurier in die Höhe heben lasse, da ich genau eine solche Bevorzugung<lb/>
+einer Zeitung nicht möchte, darüber hinaus aber auch der Meinung bin, daß<lb/>
+dies doch zu weit geht, habe ich diesen Vorschlag entschieden abgelehnt.<lb/>
+Ich bin zwar bereit jeden Gag bezüglich österreichischer Fremdenverkehrs<lb break="no"/>werbung mitzumachen, doch muß sich dies in einem normalen Rahmen meiner<lb/>
+Aktivität bewegen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="66_1004_01" facs="66_1982-08-28_1004-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 28.8.1982</head>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Montag, der 26. März 1979</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band47_1979-03-26</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1979-03-26">Montag, 26. März 1979</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-07-17">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="47-0362" facs="47_1979-03-26_0362.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Montag, 26. März 1979<lb/>
+</p>
+            <p xml:space="preserve">Beim Jour-fixe mit Gen.Sekr. <name type="person" ref="per:97769">Mussil</name> allein versuche ich klarzu<lb break="no"/>stellen, wer in der Codexkommission Dr. <name type="person" ref="per:114655">Harmer</name> nachfolgt. Die Ar<lb break="no"/>beiterkammer und auch wir würden <name type="person" ref="per:126981">Riedl</name> von Manner vorschlagen.<lb/>
+Die Handelskammer hat noch immer die Idee eventuell den Zucker<lb break="no"/>bäckerinnungsmeister <name type="person" ref="per:145777">Stuller</name> zu nominieren. Bei dieser Gelegen<lb break="no"/>heit erfahre ich, dass es um die Nachfolge<add>[von]</add> <name type="person" ref="per:114655">Harmer</name> in der Länder<lb break="no"/>bank als Vizepräsident grosse Schwierigkeiten gibt. Sowohl <name type="person" ref="per:97769">Mussil</name><lb/>
+als <name type="person" ref="per:97749">Mitterer</name> und Wiener Präsident <name type="person" ref="per:107940">Dittrich</name> wurden Zusagen ge<lb break="no"/>macht. Ich bin gespannt, wer letzten Endes diesen Posten wirklich<lb/>
+antreten wird.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97769">Mussil</name> stellt sich vor, dass ich zur Kenntnis nehme, wenn die Öl<lb break="no"/>gesellschaften ihren Rabatt von 30 Groschen für Super aufheben.<lb/>
+Die Paritätische Kommission würde für Heizöl schwer 200 Schilling<lb/>
+draufgeben. Für Diesel wird kein Antrag von der Handelskammer kommen,<lb/>
+sodass die Preiskommission überhaupt nicht gefragt werden muss.<lb/>
+Die Ölindustrie möchte nur eine Zusicherung, dass nach dem 6. Mai<lb/>
+ihre Preisanträge zügig erledigt werden. Die Sozialpartner werden<lb/>
+am Dienstag verhandeln und ich stimme zu, dass man mich unmittelbar<lb/>
+nach ihrer Sitzung ruft, um dieses Paket zu finalisieren. In der<lb/>
+Ministerratsvorbesprechung verweise ich auf diesen Vorschlag.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> hat nur grosse Bedenken wenn man erklärt, dass nach den<lb/>
+Wahlen dann die Preise nachgezogen werden. Man soll für nach<lb/>
+die Wahlen überhaupt keinerlei Erwähnung tun. Ansonsten erklärt er<lb/>
+aber eindeutig, ich sollte dies machen, was ich unbedingt glaube<lb/>
+das richtig ist.<lb/>
+</p>
+            <p xml:space="preserve">Die arabischen Botschafter waren in der Handelskammer, um sich über<lb/>
+die Massenmedien, die stets negativ ihre Politik kommentieren, zu<lb/>
+beschweren. Bezüglich des Flugzeugprojektes Kfir haben sie nichts<lb/>
+gesagt. Wohl aber hat mich <name type="person" ref="per:97315">Apfalter</name> angerufen und mitgeteilt, dass<lb/>
+GD <name type="person" ref="per:111400">Malzacher</name> in Saudi-Arabien und die VÖEST-Vertreter in Libyen<lb/>
+darauf aufmerksam gemacht wurden, dass, wenn die Regierung sich<lb/>
+nicht eindeutig gegen diese Montage ausspricht, dann die öster<lb break="no"/>reichischen Waren boykottiert werden. Staatssekretär <name type="person" ref="per:110169">Nussbaumer</name> bringt<lb/>
+<pb n="47-0363" facs="47_1979-03-26_0363.jpg"/>auch in der Regierungsvorbesprechung dieses Problem, um womöglich<lb/>
+eine schriftliche Erklärung gegenüber den Arabern zu erreichen.<lb/>
+Dies lehnt <name type="person" ref="per:97668">Kreisky</name> – meiner Meinung nach zu Recht – ganz entschie<lb break="no"/>den ab. Die Sprachregelung, welche den Arabern auch von allen<lb/>
+Botschaften mitgeteilt werden sollen, lautet, das von einer Privat<lb break="no"/>firma beabsichtigte Projekt, in Österreich eine Montage zu errichten<lb/>
+und Staatsaufträge zu bekommen, gegebenenfalls den Kfir hier zu<lb/>
+erzeugen, ist gescheitert, da der Staat keinerlei Zusagen macht.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte auch unsere Abteilungen darüber ver<lb break="no"/>ständigen.<lb/>
+</p>
+            <p xml:space="preserve">Der Energiekonsumentenverband möchte als Gutachter für Wärmepumpen<lb/>
+herangezogen werden.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Bitte setze Dich mit diesen ins Einvernehmen.<lb/>
+</p>
+            <p xml:space="preserve">Die Pressekampagne Made in Austria kann nach Vorstellung der Handels<lb break="no"/>kammer erst nach den Wahlen gestattet werden. Nach einer Infor<lb break="no"/>mation vom WIFI fürchtet die ÖVP, insbesondere auch der Wirtschafts<lb break="no"/>bund, dass durch diese Aktion allein schon, weil Rot-weiss-rot,<lb/>
+damit stärker ins Blickfeld gerückt wird und mit dem Emblem der<lb/>
+österreichische Weg der SPÖ verwechselt werden könnte, der ÖVP zu<lb/>
+gefährlich ist. Da diese Entscheidung letzten Endes, Made-in-Austria-<lb/>
+Verein, selbst treffen muss, erkläre ich, mit den Vertretern darüber<lb/>
+zu sprechen. Nach dem gigantischen Wahlsieg von Sonntag, der übrigens<lb/>
+<name type="person" ref="per:97769">Mussil</name> sehr geschockt hat, streite ich wegen so Kleinigkeiten wirk<lb break="no"/>lich nicht mehr. Ich erkläre nur, dass ich diese Haltung nicht ver<lb break="no"/>stehe.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Bitte mit unseren Vereinsmitgliedern sprechen,<lb/>
+wie es jetzt weitergehen soll.<lb/>
+</p>
+            <p xml:space="preserve">Die Handelskammer möchte Ski unbedingt aus der Nettopreisverordnung<lb/>
+herausnehmen. <name type="person" ref="per:97769">Mussil</name> nimmt aber zur Kenntnis, dass im paritätischen<lb/>
+Kartellausschuss über eine Preisbindung zweiter Hand verhandelt<lb/>
+wird und akzeptiert die Verlängerung der Nettopreisverordnung nur<lb/>
+ohne Möbel.<lb/>
+</p>
+            <pb n="47-0364" facs="47_1979-03-26_0364.jpg"/>
+            <p xml:space="preserve">Der Rechnungshof hat auch der Handelskammer geschrieben, dass<lb/>
+sie die Repräsentationsaufwendungen an das Handelsministerium<lb/>
+en bloc überweisen sollen, damit es bei uns im Budget aufscheint.<lb/>
+<name type="person" ref="per:97769">Mussil</name> befürchtet darin eine grosse Aktion gegen die Aussenhandels<lb break="no"/>stellenregelung, d.h. den Handelskammereinfluss. Er ist sehr er<lb break="no"/>freut von mir zu hören, dass ich nicht die Absicht habe, den Wunsch<lb/>
+des Rechnungshofes in dieser Frage nachzukommen.<lb/>
+</p>
+            <p xml:space="preserve">Die Kreditinformationsbroschüre der Handelskammer und des Handels<lb break="no"/>ministeriums wurde bisher auf 170 Seiten in <choice><choice><sic>15.000 Auflagen</sic><corr>einer Auflage von 15.000 Stück</corr></choice></choice> zweimal<lb/>
+gedruckt. Jetzt möchte die Handelskammer auf unseren Vorschlag<lb/>
+diese Information ihren Nachrichten beilegen, wodurch die Auflage<lb/>
+290.000 Stück wäre und jeder Gewerbetreibende bekommt die 11 Inve<lb break="no"/>stitionsförderungsaktionen die beschrieben werden, würden 260.000<lb/>
+Schilling kosten und 130.000 Schilling der Postversand. Im Prinzip<lb/>
+ist er mit unserem Vorschlag einverstanden auch ein gemeinsames<lb/>
+Vorwort <name type="person" ref="per:97893">Sallinger</name>-<name type="person" ref="per:97985">Staribacher</name> zu akzeptieren. <name type="person" ref="per:109811">Burian</name> berichtet mir,<lb/>
+dass im Laufe des Tages es dann geglückt ist mit den Handelskammer<lb break="no"/>leuten zu einer einvernehmlichen Regelung zu kommen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97769">Mussil</name> beschwert sich, dass der Innovationspreis vom Handelsministerium<lb/>
+nur mit der Zentralsparkasse abgeschlossen wurde. Ich erkläre ihm<lb/>
+sofort, dass ich beim Vorstellen dieses Preises erwartet und er<lb break="no"/>sucht habe, man soll in anderen Kreditinstituten, von mir aus die<lb break="no"/>selben oder ähnliche Vorschläge dem Handelsministerium machen und<lb/>
+wir würden sofort ebenfalls mittun. <name type="person" ref="per:97769">Mussil</name> wird versuchen mit den<lb/>
+Kreditinstituten eine gemeinsame Sache zu besprechen und mir ent<lb break="no"/>sprechende Vorschläge machen. Ich erkläre sofort, dass ich vorher<lb/>
+den Gen.Dir. <name type="person" ref="per:98028">Vak</name> von der "Z" um seine Meinung ersuchen werde. Eine<lb/>
+telefonische Rückfrage ergab, dass Gen.Dir. <name type="person" ref="per:98028">Vak</name> an anderen Aktionen<lb/>
+mit der gesamten Kreditwirtschaft teilzunehmen, resp. solche Mög<lb break="no"/>lichkeiten zu besprechen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name> UND <name type="person" ref="per:108746">HAFFNER</name>: Lasst bitte feststellen, was <name type="person" ref="per:97769">Mussil</name><lb/>
+jetzt im Konkreten beabsichtigt.<lb/>
+</p>
+            <pb n="47-0365" facs="47_1979-03-26_0365.jpg"/>
+            <p xml:space="preserve">Das WIFI hat sich bei ihm beschwert, dass die BFI von Arbeits<lb break="no"/>marktförderungsmitteln wesentlich mehr bekommt als das WIFI.<lb/>
+Deshalb möchte sie unbedingt an den Aufteilungsschlüssel des Handels<lb break="no"/>ministeriums 4:1 zugunsten des WIFI festhalten. Ich erkläre, dass<lb/>
+man über die ganze Frage verhandeln muss. Vor den Wahlen glaube ich<lb/>
+allerdings wird kaum eine Änderung erfolgen können.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Bitte mit Sozialministerium Vorgangsweise<lb/>
+klären.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97769">Mussil</name> beschwert sich, dass in der BÜRGES Prokuren verteilt werden<lb/>
+sollen, ohne dass der Aufsichtsrat zustimmt. Der Geschäftsführer<lb/>
+<name type="person" ref="per:113824">Hönlinger</name> sollte in einem Notariatsakt überraschend zur Zustimmung<lb/>
+gezwungen worden sein. Dieser hat abgelehnt und <name type="person" ref="per:97769">Mussil</name> fragt, ob<lb/>
+jetzt mit Gewalt die Personalpolitik dort durchgeführt wird. Ich<lb/>
+erkläre sofort, dass <name type="person" ref="per:113824">Hönlinger</name> auch Personalagenden gesetzt hat,<lb/>
+ohne mit seinen anderen Geschäftsführer nur zu sprechen. Der Auf<lb break="no"/>sichtsrat soll – und muss sogar bestellt werden – um dem Vier-Augen-<lb/>
+Prinzip des Kreditwesengesetzes Rechnung zu tragen. <name type="person" ref="per:113824">Hönlinger</name> ist –<lb/>
+wie ich <name type="person" ref="per:97769">Mussil</name> erkläre – selbst bei seinen eigenen Leuten sehr um<lb break="no"/>stritten und ich würde empfehlen, so schnell als möglich die Sache<lb/>
+zu bereinigen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Bitte Aussprache zwischen Dir, <name type="person" ref="per:97584">Jagoda</name> und mir<lb/>
+vereinbaren.<lb/>
+</p>
+            <p xml:space="preserve">Die Ungarn haben sich auch bei der Handelskammer wegen der Zollbe<lb break="no"/>lastung § 6 beschwert. <name type="person" ref="per:97769">Mussil</name> meint, wir dürften dort keinesfalls<lb/>
+nachgeben, obwohl er letzten Endes doch auch einsieht, dass wir die<lb/>
+Diskriminierung auf die Dauer so werden nicht halten können. Bezüg<lb break="no"/>lich der Verrechnung von jetzt 30% auf Sojaschrot ist er auch sehr<lb/>
+erschüttert und vermutet, so wie ich auch, dass irgendeine Aktion<lb/>
+von gewissen, an verschiedensten Projekten interessierten Gruppen<lb/>
+dahinterstecken.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Überreichung des Staatswappens an die WÖV, wo alle Agrarspitzen<lb/>
+anwesend waren, komme ich anschliessend auch auf dieses Projekt zu<lb/>
+sprechen. Soweit die Agrarier dort Viehzüchter sind, hätten sie gar<lb/>
+<pb n="47-0366" facs="47_1979-03-26_0366.jpg"/>nichts dagegen, wenn der Käseexport in die USA mit der Vereinbarung<lb/>
+scheitern würde, damit die Fleischeinfuhren, die mit unserem Emmen<lb break="no"/>talerexport gekoppelt sind, nicht hereinlassen müssen. Präs. <name type="person" ref="per:97691">Lehner</name><lb/>
+aber gibt mir recht, dass wir primär jetzt diesen Käseexport<lb/>
+sichern müssen. MR <name type="person" ref="per:98075">Willenpart</name> fährt Mittwoch nach Genf und möchte<lb/>
+Weisung haben, wie er sich bei Wunsch der Amerikaner auch die Soja<lb break="no"/>schroteinfuhr, wo jetzt 30% verlangt werden, auf Null zu binden,<lb/>
+verhalten soll. Ich erkläre ihm sofort, dass, wenn der Vertreter der<lb/>
+Landwirtschaftskammer dort nicht zustimmen sollte, er eine dies<lb break="no"/>bezügliche Weisung dann von mir tatsächlich einholen muss. Ich<lb/>
+würde in so einem Fall sofort mit der Präsidentenkonferenz Kontakt<lb/>
+aufnehmen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte informiere den Arbeiterkammervertreter,<lb/>
+der auch nach Genf fährt.<lb/>
+</p>
+            <p xml:space="preserve">Beim Pressefrühstück referiert <name type="person" ref="per:97426">Fälbl</name> über Irak, <name type="person" ref="per:97584">Jagoda</name> über die<lb/>
+Konsumentenpolitik, wobei <name type="person" ref="per:97646">Koppe</name> und, was mir so wichtig erscheint,<lb/>
+<name type="person" ref="per:112563">Farnleitner</name> von der Handelskammer ergänzen. Dieser verweist darauf,<lb/>
+dass es natürlich hier differente Auffassungen gibt, aber solange<lb/>
+alles konsensual wie bisher abgehandelt wird, stimmt auch die Handels<lb break="no"/>kammer dieser Politik zu. Wenn man bedenkt, wie sehr sich diese<lb/>
+1971 gegen meine Politik gewehrt hat, so ist dies ein beachtlicher<lb/>
+Wandel, der wirklich nur durch den Konsens, den ich immer erzielen<lb/>
+konnte, ausgelöst war. Natürlich fragt <name type="person" ref="per:115174">Swietly</name>, wie es jetzt mit den<lb/>
+Nahversorgungsproblemen weitergeht. Zum Glück kann ich auf die<lb/>
+Arbeitsgruppe Strukturwandel im Handel verweisen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Achte darauf, dass dort ein bisschen zumindestens<lb/>
+geschieht.<lb/>
+</p>
+            <p xml:space="preserve">Direktor <name type="person" ref="per:149768">Neuhold</name> von der Österreichischen Produktionsgesellschaft<lb/>
+berichtet über die Altpapier, Glas und Textilsammlung. Neu für mich<lb/>
+ist nur, dass auch PKW, 2.100 Tonnen 1977 und jetzt 3.800 Tonnen<lb/>
+von der ÖPG erfasst werden. <name type="person" ref="per:111737">Marsch</name> berichtet über die Altölsammlung<lb/>
+die mit 1.1.1980 in Kraft tritt. Ich verweise darauf, dass ab diesem<lb/>
+Zeitpunkt wir wirklich auf die Einhaltung des Gesetzes unbedingt<lb/>
+drängen werden. Ich möchte keine Aktion scharf ankündigen, muss aber<lb/>
+doch an alle appellieren, jetzt schon Vorkehrungen zu treffen, damit<lb/>
+mit 1.1. tatsächlich das Altöl erfasst werden kann. Ansonsten ist<lb/>
+<pb n="47-0367" facs="47_1979-03-26_0367.jpg"/>beim Pressefrühstück keine Diskussion. Jetzt erscheint nicht<lb/>
+einmal mehr der Hörfunk für Statements für das Mittagsjournal.<lb/>
+</p>
+            <p xml:space="preserve">GD <name type="person" ref="per:114514">Hadwiger</name> von der Hirtenberger Patronenfabrik ersucht mich wegen<lb/>
+Ausfuhrmöglichkeiten von 10 Mio Zündhütchen nach Chile mit <name type="person" ref="per:108328">Pahr</name><lb/>
+zu sprechen. Das Aussenministerium ist dagegen. <name type="person" ref="per:114514">Hadwiger</name> ist mehr<lb/>
+oder minder mit der Regelung bezüglich der Granatenproduktion<lb/>
+zwischen Assmann und Hirtenberger einverstanden, weil <name type="person" ref="per:97879">Rösch</name> jetzt<lb/>
+einen grösseren Auftrag beiden vergeben hat und in Hinkunft nur<lb/>
+mehr ausgeschrieben wird. Dies wird der härteste Konkurrenzkampf zwi<lb break="no"/>schen diesen beiden Firmen.<lb/>
+</p>
+            <p xml:space="preserve">Der Vorstand der Verbund, <name type="person" ref="per:97333">Bandhauer</name> und <name type="person" ref="per:114747">Zach</name>, berichten mir, dass<lb/>
+sie mit der CSSR 150 MW für 1979/1980 abgeschlossen haben. Polen<lb/>
+wird ab 1. Oktober bis 31.3. ebenfalls 150 MW in Band liefern.<lb/>
+Hoffentlich werden die Durchleitungen und die CSSR Lieferungen<lb/>
+diesmal besser funktionieren als heuer im Winter, wobei die Tschechen<lb/>
+angeben, dass in die Weihnachtsfeiertage der Kälteeinbruch ihre<lb/>
+ganzen Anlagen hat erfrieren lassen, deshalb konnten sie keinen Strom<lb/>
+für sich genügend erzeugen.<lb/>
+</p>
+            <p xml:space="preserve">Mit den Italienern wurde über die 100 MW aus der Schweiz, also der<lb/>
+Dreier-Vertrag verhandelt. Hier gibt es wieder mit RWE Deutschland<lb/>
+Schwierigkeiten, da deren Leitungen zur Peagierung herangezogen<lb/>
+werden müssen. RWE verlangt 1 Pfennig = 7.5 Groschen. Obwohl sich<lb/>
+die Verbund sehr aufregt, stellen wir dann fest, dass auch die Ver<lb break="no"/>bund für österreichische Leitungen denselben Betrag verlangt. Die<lb/>
+ATEL wird die 100 MW aus dem Kernkraftwerk Gösgen über Deutschland<lb/>
+Österreich zur Verfügung stellen. Der Vertrag würde vorsehen, dass<lb/>
+wir 3 Jahre von der Schweiz beziehen, 1 Jahr dann nichts und ab dem<lb/>
+5. Jahr wir den Strom in Natur mit 5% Naturzins zurückgeben. Auch hier<lb/>
+gibt es Leitungsprobleme mit RWE.<lb/>
+</p>
+            <p xml:space="preserve">Die GKT wird in der nächsten Generalversammlung entweder die 430 MW<lb/>
+Ersatz beschliessen, oder die Verbund wird sozusagen dieses Projekt<lb/>
+ruhen lassen. Angeblich soll die STEWEAG jetzt auch die Absicht haben,<lb/>
+dass dieses Projekt in Kohle ausgeführt wird. Dadurch werden sich die<lb/>
+Investitionskosten um 10% verteuern und die Brennstoffkosten um 7%.<lb/>
+</p>
+            <pb n="47-0368" facs="47_1979-03-26_0368.jpg"/>
+            <p xml:space="preserve">Die <choice><choice><sic>Umwälzbelastung</sic><corr>Umweltbelastung?</corr></choice></choice> wird so gross, dass dann das Kernkraftwerk in<lb/>
+Zukunft gar nicht mehr in Betrieb genommen werden kann. Die Verbund<lb/>
+wird in diesem Fall auf St. Andrä I und jugoslawischer Kohle ausweichen.<lb/>
+Dort würde ein grösseres moderneres Kohlenkraftwerk entstehen.<lb/>
+</p>
+            <p xml:space="preserve">Direktor <name type="person" ref="per:114747">Zach</name> will mir unbedingt einreden, ich sollte Abstand nehmen,<lb/>
+dass die TIWAG oder das Land Tirol der TKW beitritt. Osttirol und<lb/>
+auch Westtirol sollte jetzt so schnell als möglich mit einer 50:50<lb/>
+Absprache eingebunden werden. Die Ges.m.b.H., mit Dirimierungsrecht der<lb/>
+Tiroler, wäre dabei nicht die einzige Lösung. Ich spreche mich nach<lb/>
+wie vor ganz entschieden dagegen aus, da Tirol mindestens so dringend<lb/>
+den Ausbau von Osttirol braucht wie wir. <name type="person" ref="per:98048">Wallnöfer</name> hat es in den Wahlen<lb/>
+einigemale versprochen und angedeutet. Hier kommt es darauf an, wer bei<lb/>
+Pokerspiel die besseren Nerven hat. Ausserdem möchte ich auf alle Fälle<lb/>
+den 6. Mai abwarten.<lb/>
+</p>
+            <p xml:space="preserve">Die Vertreter von Firma LÖWA, Dr. <name type="person" ref="per:114835">Konig</name> und der Rechtsanwalt Dr. <name type="person" ref="per:150041">Vogler</name><lb/>
+beschweren sich, dass die WIMO ihre 10 Filialen nicht <choice><choice><sic>dequel</sic><corr>tel quel?</corr></choice></choice> an LÖWA<lb/>
+verkaufen kann. Die Gemeinde Wien hat gegen 3 Filialen, wo sie Haus<lb break="no"/>besitzer ist, Einspruch erhoben. Mag.Direktor <name type="person" ref="per:123307">Bandion</name>, wo sie inter<lb break="no"/>venierten, hat ihnen zugesagt, dass sie einen Rechtsanspruch darauf<lb/>
+haben und sein Rechtsbüro wird es untersuchen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: <name type="person" ref="per:114739">Goldmann</name> soll vorsichtig recherchieren.<lb/>
+</p>
+            <p xml:space="preserve">Handelsrat <name type="person" ref="per:113078">Nikolaenko</name> kommt um die nächsten Gemischte sowj.-österr.<lb/>
+Kommission zu besprechen. Bei dieser Gelegenheit erinnere ich ihn<lb/>
+daran nach einer Rücksprache mit <name type="person" ref="per:97315">Apfalter</name>, dass die Kokslieferungen<lb/>
+80.000 im Vertrag, voriges Jahr nur 60.000 geliefert, heuer noch<lb/>
+nicht einmal begonnen haben. Die UdSSR hat grossen Koksmangel und<lb/>
+will jetzt den Jugoslawen Kokskohle liefern, damit diese dann Öster<lb break="no"/>reich die 50.000 Tonnen liefert. Ebenso ist die Lieferung von Ferro<lb break="no"/>chrom, 8.000 Tonnen im Vertrag, 120 nur angeboten, vollkommen<lb/>
+unzulänglich. <name type="person" ref="per:113078">Nikolaenko</name> hat bereits in Moskau ebenfalls interve<lb break="no"/>niert. Bezüglich der Montage von TAIGA erklärt er, dass jetzt 10.000<lb/>
+die UdSSR zurücknimmt. 4.000 sollen nach Grossbritannien gehen, 3.000<lb/>
+in Österreich verkauft werden und 2.000 nach Spanien exportiert.<lb/>
+Jetzt müsste dieser Vertrag möglich sein. Derzeit scheitert es aber<lb/>
+<pb n="47-0369" facs="47_1979-03-26_0369.jpg"/>noch an den Preis. Die UdSSR bekommen 46.000 Schilling, müssen<lb/>
+dafür noch 4% Zoll zahlen und die ÖAF verkauft um 136.000 Schilling<lb/>
+das Auto. Ich verspreche ihm, mir die Kalkulation anzusehen<lb/>
+und mit GD <name type="person" ref="per:97498">Grünwald</name> von der ÖIAG zu reden.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte <name type="person" ref="per:97498">Grünwald</name> soll eine Kalkulationsunter<lb break="no"/>lage mitbringen.<lb/>
+</p>
+            <p xml:space="preserve">Die Fraktion des Patentamtes, <name type="person" ref="per:97688">Leberl</name>, Vizepräsident <name type="person" ref="per:113625">Fichte</name> und<lb/>
+zwei Genossen erscheinen, um mir für die Personalvertretungs<lb break="no"/>wahlen im Herbst vorzuschlagen, dass sie ähnlich wie das Bundes<lb break="no"/>kanzleramt einen Kulturtag, das Bauten und das Landwirtschafts<lb break="no"/>ministerium gibt einen halben Kulturtag pro Jahr, fordern und<lb/>
+ich daher genehmigen sollte. Ich lehne eine solche Lösung ganz ent<lb break="no"/>schieden ab. <name type="person" ref="per:97688">Leberl</name> soll sich etwas besseres einfallen lassen,<lb/>
+was er in eigener Kompetenz ohne weiteres machen kann. Die Fraktion<lb/>
+möchte jetzt ähnlich wie das Finanzministerium bei der Mehrwert<lb break="no"/>steuer und das Justizministerium bei der Einführung des neuen Straf<lb break="no"/>rechtes eine Sonderprämie für die Arbeiten, die alle mit dem Studium<lb/>
+des neuen europäischen Patentübereinkommens und das PZD machen<lb/>
+müssen. Diesbezüglich verspreche ich mit Staatssekretär <name type="person" ref="per:112992">Löschnak</name><lb/>
+zu verhandeln. Vor der Ministerratsvorbesprechung einige ich mich<lb/>
+mit <name type="person" ref="per:112992">Löschnak</name> darauf, dass er sofort unsere Fraktion empfangen wird.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Bitte veranlasse dies.<lb/>
+</p>
+            <p xml:space="preserve">In der Ministerratsvorbesprechung berichtete <name type="person" ref="per:97356">Blecha</name> über die Quer<lb break="no"/>schnittsanalyse, gekoppelt mit einer Regressionsanalyse. Der Zuwachs<lb/>
+ist in Niederösterreich signifikant bei Jungwählern. In Salzburg<lb/>
+leider weniger. Dort war es die Angst um den Arbeitsplatz, die die<lb/>
+manuellen Arbeiter um 6% mehr SPÖ wählen liessen, wo der Landes<lb break="no"/>durchschnitt nur 3% war. <name type="person" ref="per:97668">Kreisky</name> meint, wenn man Klagenfurt abzieht,<lb/>
+wie ihm Landeshauptmann <name type="person" ref="per:98038">Wagner</name> mitgeteilt hat, hat die SPÖ dort<lb/>
+über 50% der Stimmen in den Gemeinden. In Klagenfurt wird die ÖVP<lb/>
+den Bürgermeister bekommen, weil sie die stimmenstärkste Partei ist.<lb/>
+Im Slowenengebiet haben wieder die Sozialisten gewonnen, selbst in<lb/>
+Eisenkappel. <name type="person" ref="per:97668">Kreisky</name> warnt aber trotzdem Schlüsse auf die Nationalrats<lb break="no"/>wahl zu ziehen. In Salzburg müssen z.B. von den 39% noch 5% dazuge<lb break="no"/>wonnen werden, um die seinerzeitigen 44% dort zu erreichen. Diese<lb/>
+pessimistische Meinung hat er nicht aus psychologischen Gründen,<lb/>
+<pb n="47-0370" facs="47_1979-03-26_0370.jpg"/>sondern ist davon überzeugt. Der <name type="person" ref="per:112569">Götz</name>-Effekt ist vorbei, er hat<lb/>
+seine Schlacht verloren. <name type="person" ref="per:98003">Taus</name> wird wild um sich schlagen mit den<lb/>
+Rangern und was ihnen sonst noch allen einfallen wird. <name type="person" ref="per:97311">Androsch</name><lb/>
+möchte dann über die Papiersituation reden, weil mehrere Ministerien<lb/>
+befasst sind. <name type="person" ref="per:97668">Kreisky</name> sagt, es muss eine eigene Ministerratssitzung<lb/>
+darüber stattfinden und das Handelsministerium soll ein Papier<lb/>
+vorbereiten.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte mit <name type="person" ref="per:98053">Wanke</name> und <name type="person" ref="per:97493">Gröger</name> sofort Sitzung bei<lb/>
+mir einberufen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97311">Androsch</name> wehrt sich gegen die Herabsetzung des Benzinzolls aus<lb/>
+Ungarn. Er wäre nur dann einverstanden, wenn ich die ÖMV und die<lb/>
+anderen Ölgesellschaften davon überzeugen könnte. Das er damit<lb/>
+nicht seinerzeitigen Vertrag, den wir unterschrieben haben, bricht.<lb/>
+</p>
+            <p xml:space="preserve">Bezüglich des § 15a, Länderverhandlung, soll ich <name type="person" ref="per:97668">Kreisky</name> einen<lb/>
+Brief vorbereiten, den er an <name type="person" ref="per:112031">Maurer</name> schicken will, damit die Ver<lb break="no"/>handlungen vorwärts gehen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: <name type="person" ref="per:110944">Zluwa</name> soll aufgrund der letzten Besprechung<lb/>
+ein diesbezügliches Urgenzschreiben an <name type="person" ref="per:112031">Maurer</name> entwerfen.<lb/>
+</p>
+            <p xml:space="preserve">Dass Ford nach Österreich kommt, steht gut, ein positiver Bericht wird<lb/>
+nach USA gehen. Wie die Spitze entscheidet, ist allerdings noch offen.<lb/>
+General Motors verhandelt jetzt intensiver mit Frankreich und Spanien.<lb/>
+</p>
+            <p xml:space="preserve">Die Betriebsräte des südlichen Niederösterreichs waren bei <name type="person" ref="per:97668">Kreisky</name> und<lb/>
+haben auf die schlechte Situation der einzelnen Betrieb, Semperit,<lb/>
+Bunzl &amp; Biach, Pottenstein Spinnerei und Kammgarn, Pottendorf Textil<lb break="no"/>werke, Brevillier Urban, Hirtenberger, Neustädter Pappenfabrik, VEW<lb/>
+Ternitz, <choice><choice><sic>Gromak</sic><corr>Kromag</corr></choice></choice> und <choice><choice><sic>Caro Enzersfeld</sic><corr>Enzesfeld-Caro</corr></choice></choice>, sowie Vereinigte Färbereien<lb/>
+Vöslau verwiesen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Was weiss die Industriesektion über diese<lb/>
+Probleme.<lb/>
+</p>
+            <p xml:space="preserve">Ich verwies auf die Energiesituation, ständiger Jänner-Mehrverbrauch<lb/>
+als im Vorjahr und <name type="person" ref="per:97668">Kreisky</name> war darüber nicht sehr glücklich. Mich<lb/>
+<pb n="47-0371" facs="47_1979-03-26_0371.jpg"/>hat er aber mehr oder minder ersucht, wir sollten die Absicht<lb/>
+der EVA, ein Symposium über Energiesparen zu machen, unterstützen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Setze Dich bitte mit <name type="person" ref="per:97469">Gehart</name> ins Einvernehmen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="47_0361_01" facs="47_1979-03-26_0361-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 26.3.1979</head>
+         </div>
+         <pb n="47_0361_02" facs="47_1979-03-26_0361-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

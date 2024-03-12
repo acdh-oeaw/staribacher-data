@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittwoch, der 31. Jänner 1979</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band46_1979-01-31</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1979-01-31">Mittwoch, 31. Januar 1979</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-07-21">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="46-0125" facs="46_1979-01-31_0125.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Mittwoch, 31. Jänner 1979<lb/>
+</p>
+            <p xml:space="preserve">Mit den Finanzausschuss-Genossen und vor allem denen des<lb/>
+Handelsausschusses wurde von Klubobmann <name type="person" ref="per:97444">Fischer</name> eine Energie<lb break="no"/>besprechung abgehalten. Ich erörterte die beabsichtigten Mass<lb break="no"/>nahmen, da der Initiativantrag von <name type="person" ref="per:97543">Kurt Heindl</name> im Unterausschuss<lb/>
+des Handelsausschusses liegt, besteht die Möglichkeit, dass<lb/>
+wie <name type="person" ref="per:97444">Heinz Fischer</name> immer sagt, Transportlokomotive anderes<lb/>
+Gesetzesformulierungen daran aufzuladen. Die im <name type="person" ref="per:97543">Heindl</name>-Entwurf<lb/>
+vorgesehenen gesetzlichen Möglichkeiten, nämlich Wärmeschutz<lb/>
+und Heizungsanlagen zu bestimmen und kontrollieren, werden von<lb/>
+der ÖVP kategorisch abgelehnt, da es sich hierum Gesetz mit<lb/>
+Verfassungsbestimmung handelt, besteht also keine Möglichkeit,<lb/>
+diesen Weg zu beschreiten. Die ÖVP hat noch die gute Aus<lb break="no"/>rede, über diese Probleme wird ja jetzt mit den Ländern wegen<lb/>
+eines 15 a) Staatsvertrages verhandelt. Mit Hilfe dieses Ge<lb break="no"/>setzentwurfes aber wollen wir jetzt eine Regelung bezüglich der<lb/>
+Freischwimmbäder anschliessen. Hier soll ein Verbot statuiert<lb/>
+werden, wenn das Schwimmbad nicht mit Solarheizung oder Wärme<lb break="no"/>pumpen oder Wärmerückgewinnung ausgestattet ist. Dies gilt für<lb/>
+die zukünftig zu bauenden aber auch für die jetzt bestehenden<lb/>
+soll überprüft werden, ob nicht doch Auflagen ähnlicher Art<lb/>
+gemacht werden können. Da im 10-Punkte-Programm der ÖVP ein<lb/>
+Punkt Verbot von Freischwimmbädern, wenn sie nicht Solar<lb break="no"/>heizung haben, enthalten ist, hoffen wir, dass die ÖVP mitgeht.<lb/>
+Denn auch dieser Gesetzentwurf hat eine Verfassungsbestimmung.<lb/>
+Ohne Verfassungsbestimmung daher eigentlich auf alle<lb/>
+Fälle möglich von uns zu beschliessen ist die Aufhebung der<lb/>
+Anschlusspflicht für Direktheizung und Klimaanlagen. Darüber<lb/>
+hinaus werden etliche Punkte vorgeschlagen, welche budgetäre Ver<lb break="no"/>besserungen vorsehen und wie z.B. für Fernheizungen 10 Mio. S<lb/>
+ein Entschliessungsantrag zu prüfen, ob Diesel für Wärmepumpen<lb/>
+nicht mineralölsteuerfrei gemacht werden kann, wie <name type="person" ref="per:97444">Heinz<lb/>
+Fischer</name> mit dem Finanzminister besprochen und vereinbart hat,<lb/>
+vorgeschlagen. In der Debatte stellte sich dann heraus,<lb/>
+dass die Abgeordneten, aber natürlich ganz besonders die zwei<lb/>
+Vertreter der Energieverwertungsagentur <name type="person" ref="per:113069">Weiser</name> und <name type="person" ref="per:114098">Fantl</name><lb/>
+nicht sehr zufrieden sind mit den Vorschlägen. <name type="person" ref="per:112988">Sepp Wille</name> meinte,<lb/>
+die ganze Konzeption der Energieversorgung müsste nicht so<lb/>
+angelegt werden, wieviel braucht der Konsument und vor allem<lb/>
+<pb n="46-0126" facs="46_1979-01-31_0126.jpg"/>die österr. Wirtschaft, sondern wieviel werden wir haben.<lb/>
+Auch <name type="person" ref="per:113069">Weiser</name> meinte, die Zielvorstellung müsste geändert werden.<lb/>
+Statt der jetzt vom Wirtschaftsforschungsinstitut errechneten<lb/>
+5,7 % Zuwachs an Elektrizität sollten wir dem Wifo die Ziel<lb break="no"/>vorstellung mit 2,5 % geben. Ich griff diesen Vorschlag sofort<lb/>
+auf, denn mir erscheint es wichtig, allen zu beweisen, welche<lb/>
+verheerende Konsequenz dies in der wirtschaftlichen Entwicklung<lb/>
+und vor allem einmal in dem Verbrauch haben wird.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Bitte sofort veranlassen, dass die<lb/>
+2,5-%-Variante gerechnet wird.<lb/>
+</p>
+            <p xml:space="preserve">Prof. <name type="person" ref="per:114139">Nowotny</name> machte den Vorschlag, man sollte die Tarife<lb/>
+entsprechend erhöhen, um den Verbrauch einzuschränken. Ebenso<lb/>
+müsste man bei den Kraftfahrzeugen zur tatsächlichen Verbrauchs<lb break="no"/>besteuerung kommen. Prof. <name type="person" ref="per:115683">Matzner</name> wollte, dass Anschlussver<lb break="no"/>weigerungen gegeben werden und gegebenenfalls Kontingentierungen<lb/>
+Platz greifen sollen. Wenn die EVUs durch weniger Abgabe von<lb/>
+Elektrizität, weil wir sie ihnen nicht ermöglichen, gegebenen<lb break="no"/>falls in betriebswirtschaftliche Verluste kommen, macht dies<lb/>
+weniger, volkswirtschaftlich ergibt sich durch den geringeren<lb/>
+Verbrauch ein Gewinn. Wenn, wie ich dann sofort erweiterte,<lb/>
+die EVUs der Versorgungspflicht enthoben, theoretisch keine<lb/>
+neuen Kraftwerke mehr bauen oder zumindestens nicht so viele<lb/>
+wie wir für die Verbrauchsdeckung benötigen, sozusagen dann<lb/>
+auf ihren alten Kraftwerken sitzenbleiben, dann wird sich ihre<lb/>
+betriebswirtschaftliche Situation nur verbessern. Die alten<lb/>
+abgeschriebenen Kraftwerke bringen Gewinn, nur durch den Neubau<lb/>
+kommen die Elektrizitätsversorungsunternehmungen stets in höhere<lb/>
+Kosten und brauchen immer mehr Geld. Gegen die beabsichtigte<lb/>
+Tariferhöhung oder Kontingentierung haben sich dann sowohl<lb/>
+der Arbeiterkammer-Vertreter <name type="person" ref="per:149776">Mauerer</name> als auch ÖGB-Vertreter<lb/>
+<name type="person" ref="per:113026">Tumpel</name> ganz entschieden ausgesprochen. Die Kontingentierung<lb/>
+von Elektrizität für Mindestmengen, die zum alten Preis gelie<lb break="no"/>fert werden, um dann für jede kWh, die mehr verbraucht wird,<lb/>
+einen höheren Preis zu verlangen, wehrt sich die AK in Wien<lb/>
+ganz entschieden. Im Prinzip wäre sie damit einverstanden,<lb/>
+da aber die Wiener 1.600 kWh pro Haushalt verbrauchen, die<lb/>
+Tiroler aber 3.500 ergibt sich, dass keine einheitliche Kontin<lb break="no"/>gentmenge festgelegt werden kann. Den Wienern will man<lb/>
+<pb n="46-0127" facs="46_1979-01-31_0127.jpg"/>andererseits aber nicht zumuten, dass sie weniger als die<lb/>
+Hälfte zu billigen oder derzeitigen Preisen verbrauchen dürfen<lb/>
+als die Tiroler. Die Installierung von entsprechenden Zählern<lb/>
+würde auch einen Milliardenaufwand brauchen, um in jedes<lb/>
+Spezialgerät oder entsprechende Mehrverbrauchsgeräte einzeln<lb/>
+einfassen zu können.<lb/>
+</p>
+            <p xml:space="preserve">Ich beabsichtige jetzt, um endlich diese Diskussion über den<lb/>
+Tarif alles regeln zu können, Preisgespräche neuerdings einzu<lb break="no"/>leiten. Es ist zwar mit der E-Wirtschaft vereinbart, dass<lb/>
+bis Jahresende keinerlei Preiserhöhungen durchgeführt werden,<lb/>
+doch sollte unsere Vorprüfungskommission mit Min.Rat <name type="person" ref="per:109811">Burian</name><lb/>
+an der Spitze alle die jetzt herumgeisternden Ideen neuerdings<lb/>
+prüfen. Ich bin fest davon überzeugt, dass es nicht möglich sein<lb/>
+wird, eine Vereinbarung auf Konsensbasis mit den Interessen<lb break="no"/>vertretungen und den EVUs zu schliessen. Trotzdem sollte man<lb/>
+aber die Untersuchungen sofort einleiten, um dem Angriff der EVA<lb/>
+und sonstiger Gruppen und Grüppchen mit hieb- und stichfesten<lb/>
+Ziffern entgegentreten zu können. Immer wieder musste ich<lb/>
+auch bei dieser Enquete feststellen, dass romantische Ansichten<lb/>
+leicht unter das Volks zu mischen sind, diese dann auch geglaubt<lb/>
+werden und in der Praxis sich eine Durchführung als unmöglich<lb/>
+herausstellt. Dr. <name type="person" ref="per:97627">Kienzl</name> hat nachgewiesen, dass in England<lb/>
+Elastizitätsberechnungen erstellt wurden, wo bei jährlichen<lb/>
+Preissteigerungsraten von oft über 50 % trotzdem die Elasti<lb break="no"/>zität sich fast nicht geändert hat und 0,1 bis plus 0,2 betragen<lb/>
+hat. Natürlich wurden diese Abgaben von <name type="person" ref="per:114139">Nowotny</name> und <name type="person" ref="per:115683">Matzner</name>,<lb/>
+also wenn ich so sagen darf, den Theoretikern auf den Univer<lb break="no"/>sitäten sofort als unzutreffend abgelehnt. Vielleicht ist es<lb/>
+auch zweckmässig, diese Wissenschaftler zu den praktischen<lb/>
+Gesprächen über die Tarifgestaltung heranzuziehen. Natürlich<lb/>
+müsste man dann auch noch ÖVP-Universitätsprofessoren bitten,<lb/>
+damit nicht uns sofort der parteipolitische Drive <add>[?]</add> vorgeworfen<lb/>
+wird.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: ??<lb/>
+</p>
+            <pb n="46-0128" facs="46_1979-01-31_0128.jpg"/>
+            <p xml:space="preserve"><name type="person" ref="per:113069">Weiser</name> behauptete bei der Enquete, dass die Aussagen von<lb/>
+mir, dass die Konsumenten zu wenig sparen, falsch ist. Nach<lb/>
+seinen Berechnungen, aufgebaut auf die Unterlagen des<lb/>
+Handelsministeriums, ist die Primärenergie von 4,6 auf<lb/>
+3,5 % Steigerung zurückgegangen. Durch den kalten Winter<lb/>
+im Jänner sei der Verbrauch bei Elektrizität mehr gestiegen,<lb/>
+aber auch hier in keinem Verhältnis zu den Aussentemperaturen,<lb/>
+hier gibt es so Kälteberechnungen, wonach nach seiner Meinung<lb/>
+um 30 % hätte der Verbrauch steigen müssen. Diese Relation<lb/>
+oder Korrelation besser, ist vollkommen falsch, doch hat sie<lb/>
+ihm niemand eindeutig widerlegt. Auch die Primärenergie-<lb/>
+Rückgänge im Jahre 1977 waren auch hauptsächlich darauf<lb/>
+zurückzuführen, weil die Konjunktur nicht den erwarteten<lb/>
+Aufschwung genommen hat, der Industrieverbrauch war wesentlich<lb/>
+geringer als die Prognose angenommen hat.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Bitte sofort eine diesbezügliche Auf<lb break="no"/>stellung machen lassen, damit ich sie <name type="person" ref="per:113069">Weiser</name> schicke.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:113069">Weiser</name> hat auf einen Hinweis <name type="person" ref="per:97543">Heindls</name>, was er behauptet, die<lb/>
+Verhandlungen mit den Ländern jetzt flott zumachen und<lb/>
+durchzuführen, lächerlich ist, denn bevor sein Verein noch<lb/>
+gegründet war, hat das Handelsministerium schon die Be<lb break="no"/>sprechungen mit den Ländervertretern geführt. Durch falsche<lb/>
+Angaben wird jetzt in den Zeitungen dies so dargestellt, als<lb/>
+ob das Handelsministerium nichts mache und alles die EVA.<lb/>
+<name type="person" ref="per:113069">Weiser</name> entgegnete, dass er bei seinem Start in der Presse<lb/>
+lächerlich gemacht wurde, weil niemand angenommen hat, dass<lb/>
+er etwas erreichen wird. Jetzt hat sich das Blatt gewendet,<lb/>
+man gewinnt zu EVA Vertrauen, wenn der Bericht des Energie<lb break="no"/>sparbeirates, der im Handelsministerium seit 1975 arbeitet,<lb/>
+umgesetzt wird, dann sei er damit sehr zufrieden. Was <name type="person" ref="per:113069">Weiser</name><lb/>
+dann wieder sehr geschickt machte, er griff einzelne Fälle<lb/>
+heraus. Er hat z.B. mit Städten verhandelt, ob sie nicht in<lb/>
+der Nacht das Licht ausschalten können. Dabei stellte sich<lb/>
+heraus, dass diese einen Pauschalvertrag mit den Elektri<lb break="no"/>zitätsversorgungsunternehmen hat und nicht daran denkt.<lb/>
+Die Möglichkeit, durch dunkle Strassen Unfälle oder Krimi<lb break="no"/>nalität zu fördern, lässt er vollkommen ausser Acht. Mit<lb/>
+Burgenlands Landesrat <name type="person" ref="per:98037">Vogl</name> hat er wegen einer besseren Ver<lb break="no"/>wertung von Erdgas verhandelt. In Neudörfl wollte er eine<lb/>
+<pb n="46-0129" facs="46_1979-01-31_0129.jpg"/>diesbezügliche Regelung schliessen. <name type="person" ref="per:98037">Vogl</name> hat aber ihm<lb/>
+glattweg erklärt, er ist interessiert, dass sein Gas ver<lb break="no"/>braucht wird, das er eben auch als BEWAG-Vorsitzenden so<lb/>
+verwendet, wie es ihm lukrativ erscheint. Alles meint <name type="person" ref="per:113069">Weiser</name><lb/>
+will jetzt leitungsgebundene Energie, ich sollte verordnen,<lb/>
+dass 25 % feste Brennstoffe verwendet werden müssen, damit<lb/>
+auch in Notzeiten eine gewisse Energieversorgung gegeben ist.<lb/>
+Ich habe <name type="person" ref="per:113069">Weiser</name> sofort gefragt, mit welcher gesetzlichen<lb/>
+Grundlage ich dies tun sollte und ob jemand verstehen würde,<lb/>
+wenn ich dekretiere, wer muss einen Kohlenofen oder eine<lb/>
+Holzheizung verwenden. Die Aussprache war sehr langwierig<lb/>
+und in Wirklichkeit für niemanden sehr fruchtbar. Die Abgeord<lb break="no"/>neten wollen, dass spektakuläre Massnahmen gesetzt werden,<lb/>
+Abg. <name type="person" ref="per:98010">Teschl</name> z.B. meinte, man müsste sich halt immer wieder<lb/>
+von der ÖVP ablehnen lassen, alle Gesetzesvorschläge, die wir<lb/>
+mit 2/3-Mehrheit machen müssten und die ÖVP niemals zustimmt.<lb/>
+Ich versuchte den Genossen klarzumachen, dass eine Politik<lb/>
+auch nicht darin bestehen kann, ständig im Parlament Niederlagen<lb/>
+zu erleiden.<lb/>
+</p>
+            <p xml:space="preserve">In der anschliessenden Pressekonferenz haben <name type="person" ref="per:97543">Heindl</name> und ich<lb/>
+über die acht Punkte, die in einem Papier festgehalten waren,<lb/>
+referiert, ein Interesse bestand dabei sehr wenig. Alles war<lb/>
+gespannt, was Klubobmann <name type="person" ref="per:97444">Fischer</name> zur Aufhebung der Arbeiter<lb break="no"/>kammernovelle zu sagen hat.<lb/>
+</p>
+            <p xml:space="preserve">Bei Siemens wurden die ersten Teile der Fernsehschaltzentrale<lb/>
+für die Olympiade 1980 dem sowj. Botschafter übergeben. Da<lb/>
+ich in dieser Urkunde auch genannt wurde, musste ich blitzartig<lb/>
+hinfahren, dem Botschafter die Hand schütteln und dann wieder blitz<lb break="no"/>artig ins Parlament zurück.<lb/>
+</p>
+            <p xml:space="preserve">Die grosse italienische Klimafirma-Fabrik Hiross hat in<lb/>
+Gross-Enzersdorf eine neue Lagerhalle und Betriebsstätte<lb/>
+und vor allem auch ihr Zentralbüro errichtet. Ursprünglich ein<lb/>
+Drei-Mann-Betrieb haben die beiden Geschäftsführer sehr geschickt<lb/>
+durch Übernahme von Generalvertretungen letzten Endes Hiross<lb/>
+vor ein paar Jahren bekommen. Jetzt haben sie 48 % des österr.<lb/>
+Anteils und weiten sich gigantisch aus. Wie mir der Präsident<lb/>
+<name type="person" ref="per:149777">Rossi</name> aus Italien erzählte, hat die Tatsache, dass wir in<lb/>
+<pb n="46-0130" facs="46_1979-01-31_0130.jpg"/>Österreich ein gutes soziales Klima haben und in Gross-<lb/>
+Enzersdorf mit Hilfe der Grenzlandförderung von NÖ und<lb/>
+vor allem einmal der Grundbeistellung durch die Gemeinde<lb/>
+die Firma, die Absicht, in Österreich mehr noch zu produzieren.<lb/>
+Derzeit wird für Klimakästen die für die Computer dringendst in<lb/>
+West- aber vor allem auch in den Oststaaten gebraucht werden,<lb/>
+nur assembliert. Trotzdem sind 60 Mann beschäftigt und ein<lb/>
+100-Mill.-Umsatz im vergangenen Jahr möglich gewesen.<lb/>
+Bei dieser Veranstaltung traf ich auch Dr. <name type="person" ref="per:114730">Sommerbauer</name> von der<lb/>
+Verbundgesellschaft. Er bestätigte mir, dass jetzt die Schulden<lb/>
+von Pro-Zwentendorf endgültig bezahlt werden können. Damit sind<lb/>
+die gegebenen Versprechungen von <name type="person" ref="per:97543">Heindl</name>, <name type="person" ref="per:97627">Kienzl</name> und mir end<lb break="no"/>gültig erfüllt. Wie der Nachfolgeverein, der jetzt unter<lb/>
+Führung von Prof. <name type="person" ref="per:118662">Klenner</name> steht, finanziell weiterkommt,<lb/>
+ist noch nicht endgültig besprochen. Hier wird es, fürchte ich,<lb/>
+grössere Schwierigkeiten mit der Finanzierung geben.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Nächstes Jour fixe mit <name type="person" ref="per:97627">Kienzl</name> bitte<lb/>
+besprechen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="46_0124_05" facs="46_1979-01-31_0124-05.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 31.1.1979</head>
+         </div>
+         <pb n="46_0124_06" facs="46_1979-01-31_0124-06.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

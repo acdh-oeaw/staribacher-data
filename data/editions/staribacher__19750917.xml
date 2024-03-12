@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittwoch, der 17. September 1975</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band27_1975-09-17</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1975-09-17">Mittwoch, 17. September 1975</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-01-03">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="27-1007" facs="27_1975-09-17_1007.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Mittwoch, 17. September 1975<lb/>
+</p>
+            <p xml:space="preserve">Die sozialistische Fraktion des Kongresses wurde zusammengerufen,<lb/>
+um das Problem der Vizepräsidentschaft von <name type="person" ref="per:113374">Gassner</name> zu besprechen.<lb/>
+<name type="person" ref="per:97346">Benya</name> ist der Meinung, dass in diese Funktion nur ein gewählter<lb/>
+Spitzenfunktionär kommen könnte, der sich schon in einer Gewerk<lb break="no"/>schaft und zwar in einem hohen Führungsgremium bewährt hat und be<lb break="no"/>kannt ist. Dasselbe gilt natürlich auch für einen entsprechend<lb/>
+hohen Sekretär einer Gewerkschaft, er denkt hier scheinbar an<lb/>
+Zentralsekretäre. Die Fraktion hatte ursprünglich besprochen lange<lb/>
+vor dem Kongress, dass die ÖVP, d.h. die christlichen Gewerkschafter<lb/>
+auf alle Fälle einen Vizepräsidenten haben soll, obwohl statutenmässig<lb/>
+natürlich darüber überhaupt nichts ausgesagt wird. Scheinbar betrachten<lb/>
+die christlichen Gewerkschafter dieses Verhalten und vor allem die lange<lb/>
+Tradition seit 45 es als selbstverständlich, dass sie einen Vize<lb break="no"/>präsidenten haben und dass er von ihnen ausschliesslich bestimmt und<lb/>
+vorgeschlagen wird. Die Meinung über diese Frage ist innerhalb der<lb/>
+sozialistischen Fraktion sehr geteilt. Natürlich hat <name type="person" ref="per:97346">Benya</name> mit seinem<lb/>
+ungeheuren Gewicht vorerst überhaupt glaube ich den grössten Teil der<lb/>
+Delegierten auf seiner Seite. In der Diskussion hat sich aber nur<lb/>
+<name type="person" ref="per:123305">Busta</name> ganz extrem deklariert und meinte, man könne den Sozialisten<lb/>
+nicht zumuten, dass sie für <name type="person" ref="per:113374">Gassner</name> stimmen. Da er der vorletzte Red<lb break="no"/>ner war und ich mich zuletzt gemeldet hatte, konnte ich sofort darauf<lb/>
+replizieren und sagen, niemand erwartet, dass wir für <name type="person" ref="per:113374">Gassner</name> stimmen.<lb/>
+Die Delegierten kennen ihn nicht, er gilt natürlich als der Politruck<lb/>
+und extreme ÖAAB-Mann, ist ja auch von der eigenen Fraktion nur sehr<lb/>
+knapp gewählt worden. Trotzdem trat ich unbedingt für Verhandlungen<lb/>
+ein. Insbesonders die öffentlichen Bediensteten, die Postgewerkschaft<lb/>
+und teilweise die Gemeindebediensteten würden von einem Ablehnen und<lb/>
+einer Kampfabstimmung, sei es bei der Auswahl des <name type="person" ref="per:113374">Gassner</name> aus dem<lb/>
+erwarteten Präsidiumssitz ihrer Gewerkschaft schwerwiegende Folgen<lb/>
+haben. Warum <name type="person" ref="per:97346">Benya</name> dieses Problem jetzt mit solcher Härte anschneidet,<lb/>
+weiss ich nicht. Manche meinen es sein Freundschaftsdienst für <name type="person" ref="per:122974">Alten<lb break="no"/>burger</name> und seine christliche Gewerkschaftsfraktion, die sich ja inner<lb break="no"/>halb der ÖVP nicht durchsetzen konnte. Andere Gewerkschaften aber<lb/>
+wie insbesondere die Arbeitergewerkschaften, Bau z.B, fürchten dass<lb/>
+wenn <name type="person" ref="per:140757">Klingler</name> kommt, dann zwei Angestellte, nämlich <name type="person" ref="per:111740">Dallinger</name> und<lb/>
+<name type="person" ref="per:140757">Klingler</name> im Präsidium vertreten sind und einen zu starken Überhang<lb/>
+haben. Das Ganze ist sehr unliebsam, wahrscheinlich wäre die ÖVP<lb/>
+besser beraten gewesen, hätte sie, wenn sie schon nicht auf <name type="person" ref="per:140757">Klingler</name><lb/>
+<pb n="27-1008" facs="27_1975-09-17_1008.jpg"/>und <name type="person" ref="per:113374">Gassner</name> sich mehrheitlich einigen konnte, so am besten <name type="person" ref="per:134290">Gasper<lb break="no"/>schitz</name> genommen. Doch dies ist glaube ich alles vorbei. Die einzige<lb/>
+Möglichkeit, die ich sehe, ist, dass eine Statutenänderung in Hinkunft<lb/>
+verhindert, dass ein nicht in Gewerkschaftskreisen bekannter und<lb/>
+schon bewährter Funktionär in Führungsgremien des Gewerkschaftsbundes<lb/>
+kommt und man diesmal für <name type="person" ref="per:113374">Gassner</name> mit den Stimmen der christlichen<lb/>
+Gewerkschaft nur wählen lässt. Die sozialistische Fraktion sich<lb/>
+also der Stimme enthält. Ob allerdings dieses Kompromiss durchgeht,<lb/>
+bezweifle ich. Welche politische Konsequenz aber der andere Weg hat<lb/>
+und wie er sich insbesondere für die weitere Entwicklung des Gewerkschafts<lb break="no"/>bundes auswirken wird, kann ich nicht sagen. Ich befürchte allerdings<lb/>
+das Schlimmste.<lb/>
+</p>
+            <p xml:space="preserve">Beim Kongress hielt <name type="person" ref="per:97525">Häuser</name> ein ausführliches Referat über die Sozial<lb break="no"/>politik und was er beabsichtigt. Es gab dann auch eine Diskussion den<lb/>
+ganzen Vormittag. Nachmittag wurde die Diskussion über den Tätigkeits<lb break="no"/>bericht fortgesetzt. Hier kommen natürlich alle Wünsche von den Dele<lb break="no"/>gierten in der Debatte vorgetragen und sind sehr verschieden. Was mir<lb/>
+am meisten auffällt ist, dass leider sehr sehr viele ihren Debatten<lb break="no"/>beitrag aufgesetzt haben und herunterlesen. Es kann vorkommen, dass wie<lb/>
+z.B. <name type="person" ref="per:97676">Tommy Lachs</name>, der übrigens frei sprach, seinen Tätigkeitsbericht,<lb/>
+wenn ich so sagen darf, gab und dann eine volkswirtschaftliche wichtige<lb/>
+Frage wie die Vermögensbildung anschnitt und der nächste Debattenredner<lb/>
+seine Sorge als Betriebsrat über die Absaugung in seinem Betrieb im<lb/>
+Kongress berichtete. Trotzdem verläuft er nicht nur sehr diszipliniert,<lb/>
+sondern was mich am meisten beeindruckt, sind die bis jetzt gemeldeten<lb/>
+über 50 Debattenredner für die Tätigkeitsberichte.<lb/>
+</p>
+            <p xml:space="preserve">Den Betriebsräten der Firma EPA, Sesselfabrik, wurde von ihrem Chef<lb/>
+mitgeteilt, dass der Betrieb anfangs des Jahres geschlossen wird.<lb/>
+Sie haben sich sofort an das Handelsministerium gewandt und sind dann<lb/>
+auch im Kongress aufgetaucht um mit dem Obmann <name type="person" ref="per:114046">Böck</name>, Zentralsekretär<lb/>
+<name type="person" ref="per:97741">Millendorfer</name> und mit <name type="person" ref="per:113038">Reim</name> und mir und ihrem Landessekretär das Problem<lb/>
+zu besprechen. Wir einigten uns, dass sie sofort ein Schreiben auf Grund<lb/>
+des neuen Arbeitsverfassungsgesetzes abschicken müssen, damit die Kündi<lb break="no"/>gung auf ein Monat verschoben wird. In der Zwischenzeit werde ich dann<lb/>
+wenn nötig, mit dem neuen Besitzer, dem Schwiegersohn, reden, der<lb/>
+angeblich von der Branche nichts versteht. Nicht ganz klar ist, ob er<lb/>
+den ganzen Betrieb wirklich schliessen will, oder sich nicht doch auf<lb/>
+eine Handelsfirma zurückziehen. Er beschwert sich jetzt über die grossen<lb/>
+Importe, gibt aber selbst zu, dass seine Aufträge jetzt mit 7 Millionen<lb/>
+<pb n="27-1009" facs="27_1975-09-17_1009.jpg"/>Schillinge steigend sind. Die harte Konkurrenz aus Deutschland und<lb/>
+insbesondere aus den Oststaaten zwingt ihn aber ungeheure hohe<lb/>
+Rabatte zu geben. Ausserdem meinte <name type="person" ref="per:97741">Millendorfer</name>, dass auch der Vertrag<lb/>
+den der Betriebsrat besonders für die Beschäftigten abgeschlossen hat,<lb/>
+ihn sehr belastet.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:113038">REIM</name>: Bitte versuche über den Inhalt des Betriebsvertrages<lb/>
+ein wenig zu erfahren.<lb/>
+</p>
+            <p xml:space="preserve">Beim Spatenstich der Firma Riedl auf den Trabrenngründen im 22. Bezirk<lb/>
+von der Wiener Betriebsansiedlungsgesellschaft, habe ich <name type="person" ref="per:97893">Sallinger</name><lb/>
+sofort aufmerksam gemacht, dass er gestern bei der Landeskammerange<lb break="no"/>lobung in der Steiermark vergessen hat nicht nur über die Export<lb break="no"/>steigerungen gegenüber den Oststaaten, sondern auch der Bundesrepublik<lb/>
+mit + 7 % hinzuweisen. Dies sagte ich ihm nicht weil mir dies wichtig<lb/>
+erschien, sondern um ihm zu zeigen, dass ich alle seine Ausführungen<lb/>
+genauest studiere, obwohl ich natürlich nur dies zufällig getan habe.<lb/>
+Er korrigierte sich wirklich bei dieser Rede wo allerdings ein ganz<lb/>
+kleiner Kreis dies hört. Stadtrat <name type="person" ref="per:109290">Mayr</name> vor mir, hat dann gemeint, aus<lb/>
+der <name type="person" ref="per:97893">Sallinger</name>-Rede geht hervor, dass doch eine grosse Differenz zwischen<lb/>
+ihnen beiden besteht. Die Stadtverwaltung ist nicht nur für die Unter<lb break="no"/>nehmer da, sondern auch für die Konsumenten und für die Arbeiter, die<lb/>
+ebenfalls zur Wirtschaft zu zählen sind. Natürlich blieb mir dann gar<lb/>
+nichts anderes übrig um <name type="person" ref="per:97893">Sallinger</name> meine Loyalität neuerdings zu bekunden<lb/>
+und <name type="person" ref="per:109290">Hans Mayr</name> nimmt mir dies als alter Freund sicher nicht übel, bei<lb/>
+meiner Ansprache dann zu sagen, hier sei vielleicht der Präsident<lb/>
+missverstanden worden, denn auch er sei natürlich der Meinung, dass<lb/>
+unter Wirtschaft alles zu verstehen ist und die Sozial- und Wirtschafts<lb break="no"/>partnerschaft dies ja am deutlichsten zeigt. Da es in dem Zelt eine<lb/>
+Affenhitze wie in der Sauna gehabt hat, haben wir uns alle sehr kurz<lb/>
+gefasst. Insbesondere ich als letzter Redner. Anstelle der Grundstein<lb break="no"/>legung hat der Betrieb eine Lehmplatte hingelegt und jeder musste<lb/>
+seine Hand draufdrücken, dies wird dann im Bauwerk eingebaut. Der<lb/>
+Kronen-Zeitung-Redakteur <name type="person" ref="per:141053">Schliesser</name>, der bei diesen Anlässen immer<lb/>
+dabei ist, sagte dann zu mir, jetzt sei mein Fingerabdruck polizei<lb break="no"/>bekannt. Ich erwiderte sofort, dass dies gar nicht nötig sei, weil<lb/>
+dies bereits im Jahre 1936 der Fall war.<lb/>
+</p>
+            <p xml:space="preserve">Die Passagendiskussion war ausgesprochen friedlich. Ich hatte vor Jahren<lb/>
+schon einmal in der Opernpassage diskutiert. Mein Stammplatz ist ja<lb/>
+<pb n="27-1010" facs="27_1975-09-17_1010.jpg"/>bekanntlicher Weise die Schnellbahnstation Landstrasse. Ich habe<lb/>
+den Eindruck, dass die ÖVP gar nicht irgendwelche besonders geschulte<lb/>
+Leute hinschickt, denn die Fragen die selbst aus ÖVP-Kreisen kamen,<lb/>
+ein junger Passant interessierte sich und diskutierte sehr lange mit<lb/>
+mir, waren wirklich leicht zu replizieren. Die Mehrheit der Bevölkerung<lb/>
+ist sogar bereit hier aktiv einzugreifen und man hat immer die Angst,<lb/>
+dass sie den Betreffenden mit Diskussionen und Fragen so eindecken,<lb/>
+dass der nur verschüchtert dann sehr bald das Weite sucht. Sehr gut<lb/>
+fand ich, dass anschliessend <name type="person" ref="per:141055">Löw</name> als maskierter Werkelmann dort<lb/>
+eine Parade von sich gab, wodurch keine weiteren Diskussionen mehr<lb/>
+beim Abgang entstehen, sondern dies eigentlich in die neue Nummer<lb/>
+übergeht.<lb/>
+</p>
+            <p xml:space="preserve">Beim Abschiedsempfang für <name type="person" ref="per:97377">Bukowski</name> kamen zu meiner grössten Verwunderung<lb/>
+auch sehr viele Spitzenleute des Aussenamtes der ÖVP. Was mich aber<lb/>
+am meisten überraschte, war, dass selbst <name type="person" ref="per:97893">Sallinger</name> und <name type="person" ref="per:97769">Mussil</name> neben<lb/>
+<name type="person" ref="per:97474">Gleissner</name> und einer ganzen Reihe von Kammerleuten erschienen. <name type="person" ref="per:97769">Mussil</name><lb/>
+beschwerte sich, dass bezüglich der Aufteilung von den Kommerzialräten<lb/>
+in OÖ der Freie Wirtschaftsverband so irrsinnige Forderungen stellt und<lb/>
+er dies darauf zurückführt, dass ich mich hier eingeschaltet habe.<lb/>
+<name type="person" ref="per:97893">Sallinger</name> meinte er sei vollkommen untragbar, dass von den 13 7 SPÖ-ler<lb/>
+und 6 ÖVP-ler nur zum Zug kommen sollen. Hier glaube ich handelt es sich<lb/>
+um ein reines Missverständnis. <name type="person" ref="per:97893">Sallinger</name> will dieses Problem beim<lb/>
+nächsten Jour fixe besprechen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97340">Bodo Beelitz</name> meldete sich bei mir und meinte, er möchte eine Aus<lb break="no"/>sprache einmal auf 3 Minuten. Selbstverständlich sagte ich sofort,<lb/>
+am besten ist es, er sagt mir gleich, was er wünscht. Er wollte sich<lb/>
+persönlich noch einmal in Erinnerung bringen, mir insbesondere seinen<lb/>
+Lebenslauf und seine Tätigkeit schriftlich übermitteln, damit ich<lb/>
+bei der Entscheidung über die Besetzung der Industriesektion auf ihn<lb/>
+zurückgreife. Ich liess ihm keinen Zweifel, dass er kaum Aussicht hat,<lb/>
+ich fragte ihn auch, warum er sich seinerzeit nicht beworben hat,<lb/>
+als wir ihn sehr wohl ins Handelsministerium übernehmen wollten.<lb/>
+Er meinte, damals hätte er keine Chancen gehabt, als 15-jähriger<lb/>
+Abteilungsleiter hier etwas anderes als auch wieder nur Abteilungs<lb break="no"/>leiter zu werden, weshalb er seinen jetzigen Posten vorgezogen hat.<lb/>
+</p>
+            <pb n="27-1011" facs="27_1975-09-17_1011.jpg"/>
+            <p xml:space="preserve">Min.Rat <name type="person" ref="per:115656">Steiger</name>, den ich über den Besuch von <name type="person" ref="per:97966">Snuderl</name> informierte,<lb/>
+meinte, ein Wunsch der Jugoslawen einen Handelsvertrag endlich<lb/>
+mit der EG abzuschliessen, sei irreal, weil ein solcher in der<lb/>
+EFTA nicht vorgesehen sei. Auch eine Absichtserklärung, wie ich jetzt<lb/>
+eventuell kompromissmässig vorschlug, hätte keine wie immer geartete<lb/>
+Wirkung sei daher sinnlos. <name type="person" ref="per:115656">Steiger</name> wird die Idee <name type="person" ref="per:97966">Snuderls</name> an die<lb/>
+Mission in Genf weitergeben und Auftrag, zu ergründen, was die anderen<lb/>
+Botschaften dazu sagen.<lb/>
+</p>
+            <p xml:space="preserve">Die Vorbesprechung mit <name type="person" ref="per:97915">Schipper</name>, <name type="person" ref="per:97722">Marhold</name> und seinem neuen B-Beamten<lb/>
+ergab, dass wir damit rechnen können, vom Finanzministerium die<lb/>
+notwendigen Aufstockung des Budgets von 15 Mill. für die ÖFVW<lb/>
+zu erhalten. Bezüglich der Kohle, Buntmetall, Bergbauförderung werden<lb/>
+wir uns wahrscheinlich wieder dahingehend einigen, dass wir im<lb/>
+BÜG dann die Überschreitungen unterbringen werden, die jetzt bereits<lb/>
+feststehen. Die Forderung für die Stärkefabrik in Gmünd will <name type="person" ref="per:97311">Androsch</name><lb/>
+im Agrarpaket verhandeln, was mir nur sehr recht ist. Auch in der<lb/>
+Frage der Bindung wird es keinerlei Schwierigkeiten geben. <name type="person" ref="per:97915">Schipper</name><lb/>
+berichtete mir dann anschliessend, dass auch beim Bautenminister es<lb/>
+möglich war, fast alles befriedigend zu lösen. Der Sekretär von <name type="person" ref="per:97755">Moser</name><lb/>
+aber, <name type="person" ref="per:112949">Kazda</name>, war scheinbar nicht dieser Meinung, als ich ihn abends beim<lb/>
+Empfang dann danach fragte. Die Situation bei den Budgetbesprechungen,<lb/>
+wie ich sie seit 5 Jahren erlebt habe, ist sehr typisch. Die Bürokratie<lb/>
+regelt sich weitestgehend, was sie dringend braucht und ganz besonders<lb/>
+<name type="person" ref="per:97722">Marhold</name> versteht es, sich hier als zentrale Figur zu etablieren. Er<lb/>
+Macht mit dem Finanzministerium ziemlich alles bis ins Detail aus,<lb/>
+weiss daher sehr genau, wie weit das Finanzministerium gehen kann<lb/>
+und wenn man daher so wie ich dem Finanzminister keine Schwierig<lb break="no"/>keiten machen will, so kann man mit diesen Budgetvereinbarungen einiger<lb break="no"/>massen durchkommen. Wenn man natürlich ein ehrgeiziger Minister ist,<lb/>
+und glaubt, man muss unbedingt zusätzliche Beträge bekommen, dass<lb/>
+glaube ich, gibt es nur Spannungen, erreichen tut man kaum etwas und<lb/>
+das Budget verträgt es ja wirklich nicht.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="27_1006_03" facs="27_1975-09-17_1006-03.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 17.9.1975</head>
+         </div>
+         <pb n="27_1006_04" facs="27_1975-09-17_1006-04.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

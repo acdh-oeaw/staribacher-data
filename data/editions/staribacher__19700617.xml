@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittwoch, der 17. Juni 1970</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Joseph Staribacher</collection>
+                  <idno type="signature">Band02_1970-06-17</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1970-06-17">Mittwoch, 17. Juni 1970</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-03-24">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-19" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-19" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+  <text xml:base="http://192.168.0.9/staribacher/src/scans/Band02/">
+      <body>
+         <pb n="02-0267" facs="02_1970-06-17_0267.jpg"/>
+         <div type="entry">
+            <dateline>
+               <date when="1970-06-17">Mittwoch, 17. Juni 1970</date>
+            </dateline>
+            <p xml:space="preserve">Am Montag hatte im Finanz- und Budgetausschuss der FPÖ<lb break="no"/>Abgeordnete <name type="person" ref="per:97807">Peter</name> den Antrag gestellt, die Witwenpension für die<lb/>
+öffentlich Bediensteten im Zuge des Pensionsanpassungsgesetzes<lb/>
+gleich auf 60 % zu erhöhen. Die Sozialisten erklärte, dass sie<lb/>
+derzeit nicht in der Lage wären, diesen Antrag zu unterstützen.<lb/>
+Die ÖVP aber hatte erklärt, sie würde dies erst entscheiden und<lb/>
+am Mittwoch im Plenum endgültig Stellung nehmen-. Zum Unterschied<lb/>
+von der Sozialistischen Partei, die 1966 als sie in die Opposition<lb/>
+ging, einen wichtigen grundsätzlichen Beschluss fasste nämlich<lb/>
+als grosse Oppositionspartei niemals die ÖVP zu unterstützen,<lb/>
+hatte die ÖVP scheinbar die Absicht, mit der FPÖ sehr deutlich<lb/>
+in solchen Fragen jetzt schon zu koalieren. <name type="person" ref="per:97769">Mussil</name>, der unmittel<lb break="no"/>bar aus dem Finanzausschuss zu uns zu einer Besprechung kam,<lb/>
+erklärte mir, dass er über diese Entwicklung sehr unglücklich<lb/>
+sei. Ich machte ihn noch aufmerksam, dass ich als Handelsminister<lb/>
+nicht genug warnen könnte, vor so einem Beschluss, erklärte aber<lb/>
+gleichzeitig als Gewerkschafter sei ich über diese Entwicklung<lb/>
+sehr glücklich.</p>
+            <p xml:space="preserve">Am Mittwoch versuchte die ÖVP aus taktischen Gründen zuerst un<lb break="no"/>klar zu lassen, ob sie dem Antrag beitreten würde, die FPÖ<lb break="no"/>Abgeordneten können mit ihren 5 Mandaten keinerlei Aktivität im Parlament<lb/>
+entwickeln. Die Sozialisten beschlossen deshalb in der ersten Sitzung<lb/>
+bereits eine dringliche Anfrage an den Sozialministerium, um zu<lb/>
+erfahren, wie die Sozialisten bei der Witwenpensionsfrage vorgehen<lb/>
+würden. Es entwickelte sich eine sehr heftige Diskussion, die aber<lb/>
+im Prinzip glaube ich klar und deutlich zeigte, dass die Sozia<lb break="no"/>listen in der Witwenpension seit eh und je diese Forderung auf<lb/>
+Erhöhung von 55 auf 60 % nicht nur gestellt hat, sondern auch jetzt<lb/>
+erfüllen werden. Dies aber nicht nur für die Witwen des öffentli<lb break="no"/>chen Dienstes, sondern auch selbstverständlich für die Witwen nach<lb/>
+dem ASVG, GSPVG und der Bauernpension. <name type="person" ref="per:97807">Peter</name>, der in der Zwischen<lb break="no"/>zeit die Zusicherung der ÖVP erhalten hatte, dass sie seinem An<lb break="no"/>trag beitreten würden, war glückselig und in seiner Rede strich<lb/>
+er besonders heraus, dass er sich hier nicht durch einen Sieg der<lb/>
+ÖVP oder FPÖ handelt, sondern ausschliesslich um einen Sieg der<lb/>
+Witwen. Nun nachdem auch die ÖVP eine dringliche Anfrage über die<lb/>
+<pb n="02-0268" facs="02_1970-06-17_0268.jpg"/>Rundfunkpolitik <name type="person" ref="per:97668">Kreiskys</name> und der Bundesregierung eingebracht hatte,<lb/>
+dieser Punkt in der zweiten Sitzung gegen Mitternacht zur Debatte<lb/>
+kam, war die SPÖ sehr geschickt und stellte durch den Abgeordneten<lb/>
+<name type="person" ref="per:98055">WEihs</name> den Antrag, dass nicht nur die Witwen sondern auch die Pen<lb break="no"/>sionen der Waisen erhöht werden müsste. Die ÖVP hatte darüber einen<lb/>
+unheimlichen Zorn und erklärte dieses Vorgehen sei unfair, da sie<lb/>
+erst jetzt von dieser Absicht erfahren hatte. In der vormittägigen An<lb break="no"/>frage hatte aber <name type="person">Ulbrich</name> und auch der Sozialminister <name type="person" ref="per:97525">Häuser</name> von der<lb/>
+Regierungsbank auf dieses Problem hingewiesen. Da Präsident <name type="person" ref="per:98043">Waldbrunner</name><lb/>
+der zu dieser Zeit den Vorsitz führte, vor der Abstimmung die Sitzung<lb/>
+unterbrochen hatte – er musste ja dem Antrag entsprechend erst ab<lb break="no"/>stimmungsmässig seine Unterlagen vorbereiten, – kam es zu einer erregte<lb/>
+Diskussion. Die Österreichische Volkspartei meinte , so könnte man<lb/>
+nicht verhandeln und das wäre unfair, und <name type="person" ref="per:97807">Peter</name> selbst war am meisten<lb/>
+aufgeregt. Denn wenn es zu der Abstimmung gekommen wäre, hätten alle<lb/>
+die ÖVP, die FPÖ mit ihrem Antrag überhaupt nichts gehabt, denn ent<lb break="no"/>weder sie hätten den weitergehenden Antrag der Sozialisten zugestimmt<lb/>
+oder sie hätten sich eben als Waisen feindlich demaskiert. Bei dem<lb/>
+vorhergehenden Tagesordnungspunkt über die Verlängerung der Wirt<lb break="no"/>schaftsgesetze hat die ÖVP namentliche Abstimmung über ihren Antrag<lb/>
+verlangt, der eine unbefristete Verlängerung des Marktordnungsgesetzes<lb/>
+vorgesehen hatte. <name type="person" ref="per:97668">Kreisky</name> war bei dieser Abstimmung – obwohl er die gan<lb/>
+ze Zeit im Parlament war – nicht hier. Als er jetzt kam, stellte sich<lb/>
+folgendes unfaire Verhalten der ÖVP heraus. Er hatte die beiden Vor<lb break="no"/>sitzenden des SALT-Gespräches zu sich zu einem Abendessen geladen<lb/>
+und <name type="person" ref="per:98091">Withalm</name> ausdrücklich gefragt, ob er weggehen könnte und <name type="person" ref="per:98091">Withalm</name><lb/>
+erklärte, ja es könnte sowieso nichts sein. In Wirklichkeit aber kommt<lb/>
+dann die namentliche Abstimmung und die ÖVP kann dokumentieren, dass<lb/>
+sie hier stärker ist mit der Freiheitlichen Partei, obwohl wenn <name type="person" ref="per:97668">Kreisky</name><lb/>
+anwesend gewesen wäre, ein anderes Verhältnis zustandegekommen wäre.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> verlangte deshalb jetzt, dass gar nichts mehr mit der ÖVP<lb/>
+verhandelt werden sollte, sondern das man abstimmen müsste. Laut Ge<lb break="no"/>schäftsordnung hätte dies auch geschehen müssen, da der Präsident be<lb break="no"/>reits erklärt hatte, es ist niemand mehr zu Worte gemeldet, bevor ich<lb/>
+die Abstimmung durchführen, unterbreche ich die Sitzung zur Vorbe<lb break="no"/>reitung, falls sich noch Unklarheiten hier ergeben. <name type="person" ref="per:97818">Pittermann</name> aber<lb/>
+begann mit <name type="person" ref="per:98091">Withalm</name> und <name type="person" ref="per:97807">Peter</name> – die beiden anderen Klubobmänner –<lb/>
+<pb n="02-0269" facs="02_1970-06-17_0269.jpg"/>Besprechung zu führen und erklärte, man sollte doch eventuell<lb/>
+einen gemeinsamen Antrag einbringen, dass die ganze Materie neuer<lb break="no"/>dings dem Finanzausschuss zugeleitet werden sollte, was auch dann<lb/>
+letzten Endes tatsächlich geschah. Ich glaube, dadurch wird es<lb/>
+eine Spannung in dieserFrage zwischen Regierung und Parlament ge<lb break="no"/>ben. <name type="person" ref="per:97668">Kreisky</name> hat mit Recht beim Unterbrechen der Sitzung darauf<lb/>
+hingewiesen, dass die ÖVP und die FPÖ sich dies hätten alles vorher<lb/>
+überlegen müssen, denn letzten Endes könnte doch, ohne dass die Re<lb break="no"/>gierung darüber gefragt werden, nicht ein solcher Antrag von ihnen<lb/>
+mit der FPÖ gemacht werden, denn die Regierung muss doch zumindesten<lb/>
+Gelegenheit haben, zu den Problemen Stellung zu nehmen und des<lb break="no"/>halb sei es doch mehr als selbstverständlich gewesen, dass am<lb/>
+Montag die sozialistische Fraktion im Finanz- und Budgetausschuss<lb/>
+nicht unverzüglich zustimmen konnte. Wenn aber die ÖVP glaubt,<lb/>
+dass sie uns mit den Freiheitlichen links überholen kann, dann<lb/>
+wird sie sich sehr täuschen. Vom gesamtwirtschaftlichen Stand<lb break="no"/>punkt aus gesehen, ist diese Methode bei der Budgetsituation, die<lb/>
+im Jahre 1971 und insbesondere 1972 zu erwarten ist, natürlich ver<lb break="no"/>heerend. Ich hatte deshalb als wir während andere Tagesordnungspunk<lb break="no"/>te mit <name type="person" ref="per:97893">Sallinger</name> und <name type="person" ref="per:97769">Mussil</name> eine Debatte führten über preisdämpfende<lb/>
+Massnahmen mit <name type="person" ref="per:97311">Androsch</name> gemeinsam ihnen erklärt, dass eine solche<lb/>
+Politik, die jetzt die ÖVP führt, letzten Endes für die Unternehmer<lb/>
+verheerend sein müsste, denn irgendwie sei es dann notwendig, neue<lb/>
+Steuerquellen zu erschliessen um den Staatshaushalt einigermassen<lb/>
+ausgleichen zu können. <name type="person" ref="per:97893">Sallinger</name> und <name type="person" ref="per:97769">Mussil</name> versicherten vor den<lb/>
+Beamten des Finanzministeriums, dass sie sich gegen die-se Politik<lb/>
+ganz entschieden gewahrt hätten und überrascht wurden, da am Diens<lb break="no"/>tag in ihrem Klub bis 6 Uhr abends noch klar war, dass der Antrag<lb/>
+der FPÖ nicht unterstützt wird..Sie hätten aber eine Wirtschafts<lb break="no"/>bundsitzung ausserhalb des Hauses gehabt und hätten dann in der<lb/>
+Nacht erfahren, dass der ÖVP-Klub doch den Antrag der FPÖ unter<lb break="no"/>stützen wird. Ich erwiderte unverzüglich,dassich diese Entschul<lb break="no"/>digung nicht gelten lasse, denn letzten Endes müssten sie als ver<lb break="no"/>antwortliche für die Wirtschaft in der ÖVP wissen, was in ihrem<lb/>
+Klub vorgeht und erklärte - insbesondere <name type="person" ref="per:97769">Mussil</name> – könnte sich dann nicht<lb/>
+salvieren. Ich gebrauchte sehr harte Worte, <name type="person" ref="per:97769">Mussil</name> steckte dies<lb/>
+alles ein. Als Handelsminister könnte ich diese unverantwortliche<lb/>
+<pb n="02-0270" facs="02_1970-06-17_0270.jpg"/>Politik gar nicht genug anprangern, als Gewerkschafter allerdings<lb/>
+könnte ich ihm nur sagen: Nur so weiter, denn unter diesen Umständen<lb/>
+würden wir nur auf kurze Sicht zumindestens nur profitieren können.<lb/>
+Ich bedenke hier – ich sagte ihm das nicht – dass hätte die SPÖ<lb/>
+diese Forderung in der Koalition z.B. gestellt und sie durchgesetzt,<lb/>
+dann hätte sie wahrscheinlich sowohl für die anderen Wünsche des<lb/>
+Wirtschaftsbundes schwere Zugeständnisse machen müssen. Diese Art<lb/>
+der Politik vom Parlament in den nächsten Monaten fortgesetzt wird,<lb/>
+dann muss es zu einer Budgetkatastrophe 1972 kommen, denn für 1971<lb/>
+wird die Budgetlage dadurch zwar sehr kritisch, aber kann noch eini<lb break="no"/>germassen gemeistert werden, für 1972 aber sich dafür hunderte Millionen<lb/>
+Schilling notwendig, die irgendwie aufgebracht werden müssen.</p>
+            <p xml:space="preserve">In der Diskussion, als die Sitzung unterbrochen war, sagte ich laut<lb/>
+und deutlich zu <name type="person" ref="per:97807">Peter</name>, ansonsten mische ich mich ja in die Dis<lb break="no"/>kussion überhaupt nicht ein: Es war halt nicht nur ein Triumph heute<lb/>
+für die Witwen ,sondern auch für die Waisen. <name type="person" ref="per:97807">Peter</name> allerdings rea<lb break="no"/>gierte darauf sehr sauer, und sagte: Ja früher wie ich noch im Finanz<lb break="no"/>und Budgetausschuss gewesen sei, da hätte man wirklich konkreter<lb/>
+und sachlicher gearbeitet als dies derzeit der Fall ist.</p>
+            <p xml:space="preserve"><name type="person" ref="per:98053">Wanke</name> kam mit der Post am Abend ins Parlament, brachte mir tatsächlich<lb/>
+eine Partei-Presseaussendung mit folgenden Wortlautes: Es besteht begründete<lb/>
+Hoffnung, dass einige hunderttausend Tonnen Koks aus der UdSSR zu<lb break="no"/>sätzlich geliefert werden könnten, um die bestehende Kokskrise zu<lb/>
+entschärfen , Verhandlungen mit russischen Vertretern seien im Gange<lb/>
+teilte Staatssekretär <name type="person" ref="per:98034">Veselsky</name> Dienstag bei einer Veranstaltung<lb/>
+des Forum Praterstern mit. Ich erklärte <name type="person" ref="per:98034">Veselsky</name> mit aller Deutlichkeit,<lb/>
+dass ich nicht wegen einer Kompetenzüberschreitung gegen ihn aber<lb/>
+wegen der unbegründeten Hoffnungen, die er hier den Konsumenten macht,<lb/>
+diese Vorgangsweise auf das entschiedendste verurteile. Ich sagte<lb/>
+ihm noch, setzte Dich sofort mit der AZ ins Einvernehmen, damit die<lb/>
+nicht womöglich diese Meldung auch tatsächlich bringt. Er tat dies<lb/>
+und wirklich hätte die AZ, wie er mir mitteilte, dies ganz gross<lb/>
+herausgebracht Ich.kann diese Politik von <name type="person" ref="per:98034">Veselsky</name> nicht verstehen,<lb/>
+der um eines Effektes willen in einer Versammlung Konsumenten Hoffnung<lb/>
+macht, die durch keinerlei tatsächliche Lieferung in dieser Grössen<lb break="no"/>ordnung von hunderttausenden Tonnen auch nur annähernd erfüllt wird.</p>
+            <pb n="02-0271" facs="02_1970-06-17_0271.jpg"/>
+            <p xml:space="preserve">Die Russen werden, wenn sie zur Vertragsunterzeichnung des Handels<lb break="no"/>vertrages nach Wien kommen, <name type="person">Batolitschew</name> wird vielleicht ja persön<lb break="no"/>lich kommen, ja höchstens 50.000 t Keks zursätzlich liefern. Der Hin<lb break="no"/>weis von <name type="person" ref="per:98034">Veselsky</name>, Du wirst schon dann in den Verhandlungen mehr krie<lb break="no"/>gen, halte ich für ausgesprochen dumm, denn bei den besten Anstrengungen<lb/>
+wird es nicht gelingen, hier die Russen zu wirklich hunderttausenden<lb/>
+Tonnen Kokslieferungen zu veranlassen. Ich glaube auch, so sollte und<lb/>
+kann man nicht Politik machen.</p>
+         </div>
+      </body>
+    
+  </text>
+</TEI>

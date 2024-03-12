@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittwoch, der 12. Dezember 1973</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band18_1973-12-12</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1973-12-12">Mittwoch, 12. Dezember 1973</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-08-25">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band18/">
+      <body>
+         <pb n="18-1428" facs="18_1973-12-12_1428.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Mittwoch, 12. Dezember 1973</p><p xml:space="preserve">Im Handelsausschuss wird über das Gesetz, wonach der Handelsmini<lb break="no"/>ster im Einvernehmen mit dem Verkehrsminister autofahrfreie<lb/>
+Tage beschliessen kann, durchdiskutiert. Noch niemals habe<lb/>
+ich erlebt, dass ausser bei der Gewerbeordnung soviele Abge<lb break="no"/>ordnete sich aktiv beteiligt haben. <name type="person" ref="per:97769">Mussil</name> gibt nach längerer<lb/>
+Diskussion selbst den Forderungen von Dr. <name type="person" ref="per:97543">Heindl</name> nach Einbezie<lb break="no"/>hung von Motorbooten und Privatflugzeugen nach. <name type="person" ref="per:97769">Mussil</name> wollte<lb/>
+allen Ernstes bis zum letzten Moment verhindern, dass diese<lb/>
+beiden Arten von Benzinverbrauchern ebenfalls einer Beschränkung<lb/>
+unterworfen werden können. Interessant war, dass <name type="person" ref="per:97769">Mussil</name>, <name type="person" ref="per:97893">Sallin<lb break="no"/>ger</name> und auch <name type="person" ref="per:97749">Mitterer</name> unbedingt wisssen wollten, ob diese Kom<lb break="no"/>petenz bei mir bleibt, da sie darin doch scheinbar eine Garantie<lb/>
+sehen, dass ich so wie bisher im engsten Einvernehmen mit den<lb/>
+Interessensvertretungen handeln werde.</p><p xml:space="preserve"><name type="person" ref="per:97749">Mitterer</name> teilt mir mit, dass er meinen Wunsch, in der Handelskammer<lb/>
+ein Referat zu halten, deshalb ablehnen musst, weil er selbst, als<lb/>
+er noch Sektionsobmann vom Handel war, <name type="person" ref="per:111742">Kamitz</name> zu einem Vortrag<lb/>
+eingeladen hatten und nachher von den Spitzenfunktionären der<lb/>
+Handelskammer deshalb schwer kritisiert wurde. Er sagt, es hat<lb/>
+einen richtigen Krach gegeben.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053"><sic>WANEK</sic></name>: Versuche doch einmal herauszubekommen, ob<lb/>
+nicht doch Minister früher in Handelskammer<lb break="no"/>vollversammlungen oder Fachgruppenvollversamm<lb break="no"/>lungen referiert haben.</p><p xml:space="preserve">Der Vizeministerpräsident <name type="person" ref="per:140274">Mitrega</name> erklärt sich bei der offi<lb break="no"/>ziellen Aussprache bereit, uns weitre 100.000 t Kohle zu liefern.<lb/>
+Der polnische Botschafter hat mich ersucht, ob der Vertreter der<lb/>
+Polkarbon <name type="person" ref="per:97880">Rosenstrauch</name> teilnehmen darf und da ich wusste, dass<lb/>
+dieser ein guter Freund von <name type="person" ref="per:140274">Mitrega</name> ist, habe ich selbstverständ<lb break="no"/>lich sofort zugesagt. Heizöllieferungen, die wir für unsere<lb/>
+Schmieröllieferungen verlangen, werden wir zwar bekommen, darüber<lb/>
+hinaus gehende Mengen aber kaum. Bezüglich Schwefel gibt <name type="person" ref="per:140274"><sic>MItrega</sic></name><lb/>
+zu, dass von 87.000 t 11.000 hängen. Die Eisenbahn wurde in<lb/>
+den letzten Jahren vernachlässigt und dies sei der Grund. <name type="person" ref="per:97880">Rosen<lb break="no"/>strauch</name> verrät mir aber abends, dass die Polen zu viele Exporte<lb/>
+<pb n="18-1429" facs="18_1973-12-12_1429.jpg"/>akzeptiert haben und jetzt bei der Auslieferungen auch von der<lb/>
+Produktion her Schwierigkeiten haben. <name type="person" ref="per:140274">Mitrega</name> regt auch an, dass<lb/>
+mit den von Österreich bei <name type="person" ref="per:97668">Kreisky</name> -Besuch entrierten Wunsch<lb/>
+dass polnische Bauunternehmer in Österreich Arbeiten verrichten<lb/>
+werden, und ich erkläre ganz offen, dass ich bereits in Polen, als<lb/>
+dieses Problem auftauchte, grosse Bedenken äusserte, weil die Bau<lb break="no"/>arbeitergewerkschaft dagegen ist und auch rechtlich die Notwendig<lb break="no"/>keit besteht, dass ein polnisches Unternehmen unter einem österr.<lb/>
+Unternehmen überhaupt erst in ERscheinung treten könnte. <name type="person" ref="per:140274">Mitrega</name><lb/>
+beschwert sich auch, dass bei Plozk die VÖEST 3 Monate einen Fehler<lb/>
+in der Detol-Anlage bei Reaktoren nicht repariert und deshalb<lb/>
+die Chemie bereits 3 Monate im Rückstand ist. Ich erkläre rund<lb break="no"/>weg, dass ich mir dies nicht vorstellen kann, aber mit der VÖEST<lb/>
+sofort Sprechen werde. Im Laufe des Tages und dann am Abends<lb/>
+bei der Barbara-Feier kann <name type="person" ref="per:126225">Rohner</name> und auch Gen.Dir. <name type="person" ref="per:97644">Koller</name> be<lb break="no"/>weisen, dass bereits nachdem der Schaden am 22. September gemel<lb break="no"/>det wurde, am 1. Oktober der Reparaturvorschlag an die Bauleitung<lb/>
+erfolgte. Schuld seinen die vom Lizenzgeber Polimex der amerika<lb break="no"/>nischen Firma <choice><choice><sic>Howtri</sic><corr>?</corr></choice></choice> gelieferten Konstruktionsunterlagen, doch<lb/>
+hätte die VÖEST sofort einen Spezialisten angeboten zur Schadens<lb break="no"/>behebung. <name type="person" ref="per:140274">Mitrega</name> ist überzeugt, dass der Fehler jetzt bei der<lb/>
+polnischen Seite liegt und er wird, wie er mir abends dann versicher<lb break="no"/>te, seinen Leuten heftig den Kopf waschen, wenn er zurückkommt.<lb/>
+Über die weitre Besprechung des 300 KW-Kraftwerkes in Polen<lb/>
+ist nachdem er mittags auch mit <name type="person" ref="per:112014">Erbacher</name> kurz gesprochen hat,<lb/>
+<name type="person" ref="per:140274">Mitrega</name> sehr enttäuscht. <name type="person" ref="per:112014">Erbacher</name> wies auf die Preisdifferenz hin<lb/>
+<name type="person" ref="per:140274">Mitrega</name> aber meint, die Energiekonzeption der Zukunft müsse man<lb/>
+so sehen, wie der Bundeskanzler hie seinem Besuch in Polen dies<lb/>
+dargelegt hat. Vorschlag <name type="person" ref="per:140274">Mitregas</name>, ein Kraftwerk in Österreich<lb/>
+auf Kohlenbasis zu errichten, hat <name type="person" ref="per:97668">Kreisky</name> sofort begeistert auf<lb break="no"/>genommen und erklärt, man sollte ein zweites noch bauen. Auch Präs.<lb/>
+<name type="person" ref="per:97581">Igler</name> von der Industriellenvereinigung hat abends, als er dieses<lb/>
+Projekt härte, sofort begeistert zugestimmt. Man ist allgemein jetzt<lb/>
+der Meinung, dass nicht zu fragen ist, was es kostet, sondern es<lb/>
+müssten Kraftwerk udm Kraftwerk errichtet werden und auf der<lb/>
+Kohlenbasis sind sie sicherer, wenn sie in Österreich stehen ,<lb/>
+als wenn Strom über die CSSR geleitet wird. Auch Präs. <name type="person" ref="per:98069"><sic>WErner</sic></name><lb/>
+von der ÖDK flüsterte mir, dass viel grössere Gefahr ist, den<lb/>
+Strom zu beziehen als Kohle. Bei einer Energieknappheit be<lb break="no"/>steht die immense Gefahr, dass de Strom auch aus einem gemeinsamen<lb/>
+<pb n="18-1430" facs="18_1973-12-12_1430.jpg"/>Kraftwerk in Polen nicht geliefert wird, kein Mensch kann prüfen,<lb/>
+ob ein Kraftwerk wirklich arbeitet oder nicht, die Kohle dagegen<lb/>
+kann man grössere Mengen sogar lagern in Österreich und die<lb/>
+Kohlenlieferung wird garantiert von den Überschüssen Polens<lb/>
+selbst bei Energieknappheit wahrscheinlich weiter geliefert.<lb/>
+WEnn an diesen Sicherheitsfaktor auch berücksichtigt, müsste man<lb/>
+doch überlegen, das zumindestens bei noch so billiger Transit<lb break="no"/>fracht für Kohle, die Tschechen verlangen 30.- S pro Waggon, der<lb/>
+Transport der Kohle mehr kosten muss als der Transport von<lb/>
+Elektrizität. Da <name type="person" ref="per:140274"><sic>MItrega</sic></name> bie den Verhandlungen in Polen zwischen<lb/>
+dem poln. Gen.Direktor Dr. <name type="person" ref="per:146300">Fischer</name> und Dr. <name type="person" ref="per:112014">Erbacher</name> mit dabei<lb/>
+sein will, habe ich <name type="person" ref="per:107937">Frank</name> auf die Abneigung gegen <name type="person" ref="per:112014">Erbacher</name> aufmerk<lb break="no"/>sam gemach,t damit dieser sich geschickter verhält. Ich fürchte son<lb/>
+dass wen <name type="person" ref="per:97591"><sic>Jarasewicz</sic></name>, der pol. Minsterpräsident auf Besuch kommt,<lb/>
+sofort bei <name type="person" ref="per:97668">Kreisky</name> entsprechende Beschwerden einlaufen werden. Momen<lb break="no"/>tan ist alles auf Energieausbau ausgerichtet und selbst vernünftige Ü<lb/>
+Überlegungen, man hat durch unsere Ausbau eine optimale Strom<lb break="no"/>versorgung vorgesehen, wird wahrscheinlich als Argument nicht<lb/>
+einmals beachtet, sondern höchstens kritisiert, dass man kein Ver<lb break="no"/>ständnis für die Lage hat. In Wriklichekti müsste man jetzt bereits<lb/>
+auch Überlegungen anstellen, welche Rückwirkungen auf die elektrische<lb/>
+Energie ein eventueller Beschäftigungsrückgang und Wirtschaftswachs<lb break="no"/>tumsrückgang hat. Ich galube nur,w enn man heute so einen Gedanken<lb/>
+äussern würde, wird man schon als Utopist verschrieen. Ich glaube<lb/>
+aber, dass es notwendig ist in unserer Energiekonzeption zumindeste<lb/>
+andeutungsweise auch auf diesen Umstand hinzuweisen.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97469">GEHART</name>: Bitte versuch, ob es objektive Daten dafür<lb/>
+gibt und baue sie vorsichtig in den Entwurf<lb/>
+ein.</p><p xml:space="preserve"><name type="person" ref="per:140274">Mitrega</name> hat mir nachher von dem Besuch bei <name type="person" ref="per:97668">Kreisky</name> mitgeteilt, dass<lb/>
+der Bundeskanzler die Energiefrage, wie er sich asudrückt, politisch<lb/>
+energetisch sieht. Ein STandpuntk, den auch er hat. Die Krise kommt<lb/>
+erst jetzt, <name type="person" ref="per:140274"><sic>MItrega</sic></name> hat es in Genf bei der ECE bereits vor längerer<lb break="no"/>Zeit prognostiziert, die Italiener haben ichn damals verlacht<lb break="no"/>und in der Presse geschrieben, die polnische Kohle will nur ihre<lb break="no"/>schönen Städte verschmutzen. Jetzt wünscht Italien 3 Mill. t<lb break="no"/>Kohle, die Polen gar nicht liefern kann und Italien hat zum<lb break="no"/>Schaden nur noch den Spott. Ich versuchte, <name type="person" ref="per:140274"><sic>MItrega</sic></name> zu erklären,<lb/>
+<pb n="18-1431" facs="18_1973-12-12_1431.jpg"/>dass welches Projekt immer zur Diskussion steht, die über<lb break="no"/>schüssige Energie Österreichs, wenn sie exportiert werden soll<lb/>
+preislich in Europa verkauft werden muss. Aus diesem Grund kann<lb/>
+man zwar sicherlich über die Preisansätze diskutieren, die Polen<lb/>
+haben vor der Krise 29,85 Groschen für die Kilowattstunde verlangt<lb/>
+und <name type="person" ref="per:112014">Erbacher</name> hat nur 21,5 Groschen Atomstrombasis geboten, aber<lb/>
+das Prinzip des Verkaufenkönnens muss aufrechterhalten bleiben.<lb/>
+Die beste Lösung wäre wahrscheinlich, Brennstoffkostenanteil<lb/>
+<choice><choice><sic>Corelation</sic><corr>Korrelation</corr></choice></choice> zu den Exporterlösen der KWh herzustellen.<lb/>
+Diese Idee habe ich <name type="person" ref="per:140274">Mitrega</name> noch nicht gesagt, weil cih dafür<lb/>
+keinerlei Ansatzpunkte oder grössenordnugnsmässige Berechnungen<lb/>
+kenne. A</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97469">GEHART</name>: WEnn es ein bisschen ruhiger wird, versuche<lb/>
+ob es solche Relationen in irgendwelchen<lb/>
+Verträgen gibt, zu erfahren.</p><p xml:space="preserve">Ein Herr <name type="person" ref="per:146919">Gordon</name>, Vorsitzender <choice><choice><sic>Naphtamontial-Compagnie</sic><corr>Naftamondial Company</corr></choice></choice> in<lb/>
+Vaduz, kam begleitet von Herrn <name type="person" ref="per:126228">Leopold Böhm</name>, Gesellschafter<lb/>
+der Fa. Schöps und einem Herrn <name type="person" ref="per:146920">Koron</name>, die bereits mit<lb/>
+<name type="person" ref="per:97543">Heindl</name> über Rohöl- und Produktenimporte gesprochen haben, er<lb break="no"/>klären mit dezidiert, dass sie bereit sind, 800.000 t Fertigprodukt<lb/>
+zu importieren. Er hätte auch auch eine sofort fällige Ladung<lb/>
+Rohöl von 80.000 t libysches Öl der ÖMV, Dir. <name type="person" ref="per:97671">Kreutler</name> angeboten,<lb/>
+die er zwischenzeitig aber bereits mit 13 Dollar fob verkauft<lb/>
+hat. Er ist, wie er sich bezeichnete, kein <choice><choice><sic>Brocker,</sic><corr>Broker</corr></choice></choice> d.h. ein<lb/>
+reiner Händler sondern nach processing. d.h er lässt lohnver<lb break="no"/>arbeiten. Mein Hinweis, dass die arabischen Staaten jetzt selbt<lb/>
+von der österr. nationalen Gesellschaft der ÖMV eine Bestätigung<lb/>
+verlangen, dass sie eine Raffinerie besitzen, sonst würden sie<lb/>
+nicht Rohöl geliefert bekommen, meint <name type="person" ref="per:146919">Gordon</name>, das kann schon<lb/>
+stimmen, er selbst aber sei so gut im arabischen Raum geschäftlich<lb/>
+verankert, dass er jetzt noch alle Forderungen, ob Schiffe zur<lb/>
+Verfügung stehen, wo das Öl verarbeitet wird usw. beantworten<lb/>
+kann un deshalb nach wie vor lieferfähig ist. In die jetzige<lb/>
+wirre Situation schalten sich die tollsten Geschäftsleute ein und<lb/>
+ich kann zumindestens nicht mehr unterscheidne, ob es sichnum<lb/>
+seriöse Angebote, um Zwischenhändler oder um onst wen geht. Ich<lb/>
+haben den Herren keinerlei Zusagen gemacht, sondern nur an die<lb/>
+ÖMV <name type="person" ref="per:97671"><sic>Keutler</sic></name> verwiesen.</p><pb n="18-1432" facs="18_1973-12-12_1432.jpg"/><p xml:space="preserve">Die Sitzung über die Einführung einer Bewirtschaftung auf Grund<lb/>
+des Rohstofflenkungsgesetze war wieder dadurch geprägt, dass<lb/>
+erstens die Ministerien recht viele Delegierte schickten,<lb/>
+dass die Länder sofort fragten, in wlcher Funktion sie hier sind<lb/>
+als Arbeitsausschuss Wirtschaft der WLV oder als Rohstofflen<lb break="no"/>kungsausschuss oder als was sonst und dass ich vor allem feststel<lb/>
+len musst,e, dass von unserem Haus mindestens ein Dutzend<lb/>
+Beamte aus den verschiedenen Abteilungen teilnehmen. Wenn dies<lb/>
+wenigstens zu einer entsprechenden Koordinierung führen würde,<lb/>
+hätte ich ja nichts dagegen, Dass aber letzten Endes dabei wahr<lb break="no"/>schenlich kaum irgendetwas herausschaut, weil es in einem so<lb/>
+grossen Kreis ja äusserst schwierig ist, diese diffiziele<lb/>
+Materie ernstlich durchzusprechen, steht für mich auch fest.<lb/>
+Der Erfolg, wenn eine womöglich als vertraulich zu behandelnde<lb/>
+Materie, nämlich Einführung einer Bewirtschaftung in so grossem<lb/>
+Kreis erörtert wird, muss sein, dass sofort die Zeitungen und<lb/>
+die Öffentlichkeit davon erfährt. Wie man unterdiesen Umständen<lb/>
+eine doch nur über die Nacht einzuführende Bewirtschaftung be<lb break="no"/>werkstelligen kann, ist mir schleierhaft. ANdererseits gibt<lb/>
+es sicherlich einzelne FRagen, die bei uns keiner kennt und dahe<lb/>
+nicht beabchten würde. Der Postvertreter z.B. teilte uns mit,<lb/>
+dass es 1.000 PKW und 500 Mopeds gibt, die die Postler im Privat<lb break="no"/>besitz haben, dh. ihre eigenen Fahrzeuge benützen und sie aber<lb/>
+für die Ausführung vn Briefen verwenden. INteressant war weiters<lb/>
+dass die Landesregierungsvertreter auf alle Fälle wünschten, das<lb/>
+die Bezirkshauptmannschaften allein für die Bewirtschaftung<lb/>
+zuständig sein sollten und deshalb die Bezugskarten nur büer<lb/>
+sie zur Verteilung gelangen sollten und keinesfalls über die<lb/>
+Gemeinden. In diesem FAll müssten sich in ländlichen Gebieten<lb/>
+veile Kraftfahrer an ihre Bezirkshauptmannschaft, die oft x Kilo<lb break="no"/>meter entfernt ist, wenden, was siherlich auch nicht die Zu<lb break="no"/>stimmung von Hunderttausenden von Kraftfahrern finden würde.<lb/>
+Die Zusatzmengen, die Ärzte und sonstige bevorrechtete<lb/>
+bekommen solltne, müssten nach Auffassung dieses Gremiums<lb/>
+auf alle Fälle über die Bezirkshauptmannschaften und keines<lb break="no"/>falls z.B. über die Ärztekammer erteilt werden.</p><p xml:space="preserve">Am Nachmittag diskutierten wir <name type="person" ref="per:107939">Römer</name>, <name type="person" ref="per:97493">Gröger</name>, <name type="person" ref="per:112946">Schleifer</name>, <name type="person" ref="per:97722">MArhold</name><lb/>
+<name type="person" ref="per:97543">Heindl</name>, <name type="person" ref="per:97377">Bukowski</name>, <name type="person" ref="per:98040">Wais</name> und ich, wie weit die Vorgangsweise<lb/>
+<pb n="18-1433" facs="18_1973-12-12_1433.jpg"/>zuerst auf Grund der autofreien Tage. Die einzige Versandmög<lb break="no"/>lichkeit wäre, die Haftpflichtversicherungen, die die<lb/>
+Adressen jedes einzelnen Kraftfahrers besitzen. Gen.Dir. <name type="person" ref="per:130208">Binder</name><lb/>
+von der Städtische Versicherung, den wir dann ersuchten zu<lb/>
+kommen, verriet, dass er eigentlich erwartete, dass ich ihn<lb/>
+auffordern würde, die Prämien durch eine eventeulle Einschrän<lb break="no"/>kung durch das Fahrverbot, die Unfallhäufigkeit sinkt und damit<lb/>
+die Prämien gesenkt werden können, von ihm zu verlangen. Dies<lb/>
+war ein guter STart um die Dienstleistung, dass die Versicherun<lb break="no"/>gen entsprechende Pickerln ausfinden würden, die sich der Kraft<lb break="no"/>fahrer selbst zwei Tage markiert, die er nicht habne will.<lb/>
+<name type="person" ref="per:97493">Gröger</name> und <name type="person" ref="per:116967"><sic>Düringer</sic></name> werden sich unmittelbar mit dem Computer<lb break="no"/>leuten der Städtischen und dann mit anderen Leuten der Versiche<lb break="no"/>rungen zusammensetzen und die technische Abwicklung besprechen.</p><p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> selbs drängt immer mehr auf Bewirtschaftung. Auch die<lb/>
+Oppositionsführer <name type="person" ref="per:97917">Schleinzer</name> und <name type="person" ref="per:97807">Peter</name>, aber auch der ÖAMTC hat<lb/>
+sich jetzt den ARBÖ-Forderungen angeschlossen. Ich glaube,dass<lb/>
+jetzt das Wichtigste wäre, um sich entsprehcned nüchtern<lb/>
+Überleugngen anstellen zu könne, alle Für und Wider einer<lb/>
+Bewirtschaftung von einem Fachmann zusammenstellen zu lassen.<lb/>
+<name type="person" ref="per:112946"><sic>Scleifer</sic></name> behauptet, dass bei seiner Besprechung über den<lb/>
+Verordnungsentwurf, den wir bei allen diesen Massnahmen immer<lb/>
+wieder brauchen und der legistisch allein mit dem Verfassungs<lb break="no"/>dienst und ich weiss nicht mit wem noch aller abgesprochen<lb/>
+werden muss, er das GEfühl hat, dass alle Kraftfahrverbände<lb/>
+und Interessensvertretungen mit den autofreien Tagen einver<lb break="no"/>standen sind. Als weitere Stufe halte ich auch für diese Vorgangs<lb break="no"/>weise für zweckmässig. auf längere Zeit und Sicht müssen wir<lb/>
+unbedingt eine entsprechende Vorbereitung für die Bewirtschaftung<lb/>
+bis ins Detail in den nächsten Tagen durchexerzieren. Vor allem<lb/>
+wenn der Versand über die Versicherung funktioniert, können wir<lb/>
+ihn dann auch auch zur Aussendung der Bezugsmarken über die Ver<lb break="no"/>sicherungen benützen. Ich höre jetz aber schon die Kritik, dass<lb/>
+wir mit den autofreien Tagen, die <name type="person" ref="per:97668">Kreisky</name> zwar mit der ARgumen<lb break="no"/>tation: Tu jetzt etwas, sofort akzeptierte, dann aber, wenn wir<lb/>
+wirklich die Bewirtschaftung einführen müssen, hart kritisiert<lb/>
+werden wird. Eine sinnlose Zwischenrufe wird es heissen. Der<lb/>
+einzige Vorteil von mir ist, dass dieser Vorschlag von der<lb/>
+Zentralstelle für Mineralölwirtschaft d.h. also von der Handels<lb break="no"/><pb n="18-1434" facs="18_1973-12-12_1434.jpg"/>kammer kommt, DAmit werde ich mich zwar nicht salvieren können<lb/>
+viele werden sagen, ich wieder unaktiv geblieben und habe gewar<lb break="no"/>tet, bis die Handelskammer einen Vorschlag macht, weil neimand<lb/>
+unsere administrativen Schwierigkeiten kennt oder auch nur ahnt.</p><p xml:space="preserve"><name type="person" ref="per:114658">Kahane</name> und <name type="person" ref="per:125819">Schröfl</name> sind gekommen um mir mitzuteilen, dass sie<lb/>
+mit <name type="person" ref="per:98055">Weihs</name> büer die Lieferung von Weizen gesprochen ahben, er ihnen<lb/>
+aber keine Mengen- und auch keine Preisgarantie geben könnte.<lb/>
+Sie haben deshalb mit der Agrarindustrie Dir. <name type="person" ref="per:111709">Wohlmeier</name>, Gespräche<lb/>
+aufgenommen und eine Studie angeregt, wo festgestellt werden<lb/>
+soll, ob eine Kooperation, d.h. ein Verbindung zwischen Agrar<lb break="no"/>industrie und Zitronensäure-Hersteller in Pernhofen durch eine<lb/>
+gemeinsame Weizenstärke-Produktion in Pernhofen im nächsten Jahr<lb/>
+aufgenommen werden sollte. <name type="person" ref="per:125819">Schröffel</name> meinte dann noch, ob er<lb/>
+nicht aus der Zuckerförderung Geld bekommen könnte, da wir<lb/>
+heuer von dem Budgetsatz von 30 Mill. nur 300.000 S verbrauchen.<lb/>
+Dies liegt daran, dass der Zuckerpreis derzeit hoch ist und des<lb break="no"/>halb das Zuckerförderungsgesetz nicht zum TRagen kommt. Ist<lb/>
+der Zuckerpreis aber tief, so importiert die Zitronensäurefabrik<lb/>
+sowieso den billigen Weltmarktpreis-Zucker und verarbeitet ihn<lb/>
+dann kommt wieder für sie das Zuckerförderungsgesetz auch nicht<lb/>
+in Frage. Ich habe <name type="person" ref="per:125819">Schröfl</name> darauf aufmerksam gemacht, dass die<lb/>
+Zuckerförderung damals nicht für die Zuckerindustrie oder gar<lb/>
+für die weiterverarbeitende Industrie geschaffen wurde, sondern<lb/>
+primär, um den österr. Rübenbauern eine gewisse Garantie zu<lb/>
+geben.</p></div>
+      </body>
+      <back>
+         <pb n="18_1427_03" facs="18_1973-12-12_1427-03.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 12.12.1973</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="18_1427_04" facs="18_1973-12-12_1427-04.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+   </text>
+</TEI>

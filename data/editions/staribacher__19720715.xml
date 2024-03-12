@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der 15. Juli 1972</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band12_1972-07-15</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1972-07-15">Samstag, 15. Juli 1972</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-10-23">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="12-0912" facs="12_1972-07-15_0912.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Samstag, 15. Juli 1972<lb/>
+</p>
+            <p xml:space="preserve">Von <name type="person" ref="per:97444">Heinzi Fischer</name> vom Klub erfuhr ich, dass <name type="person" ref="per:97668">Kreisky</name> mit <name type="person" ref="per:114142">Palme</name><lb/>
+einige Gespräche geführt hat und noch führen wird, um zu klären,<lb/>
+ob er bei der Unterzeichnung des Brüsseler Vertrages anwesend ist.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> selbst hat <name type="person" ref="per:97488">Gratz</name> beauftragt zu klären im Parlament,<lb/>
+was die ÖVP hier meint, wenn sie erklärt, dass sie dem Vertrag nicht<lb/>
+zustimmen wird. <name type="person" ref="per:97647">Koren</name> selbst hat sehr abfällig und abwertend fest<lb break="no"/>gehalten, dass die ÖVP wohl einige Wünsche bezüglich der Begleit<lb break="no"/>massnahmen hat, aber selbstverständlich den Vertrag letzten Endes<lb/>
+akzeptieren wird. <name type="person" ref="per:97444">Fischer</name> waren die Detailverhältnisse und Infor<lb break="no"/>mationen aus Brüssel nicht ganz klar und ich habe mich bemüht, sie ihm<lb/>
+vollkommen zu erklären. <name type="person" ref="per:97444">Fischer</name> teilt auch meine Meinung, dass die<lb/>
+ÖVP unter gar keinen Umständen den Vertrag ablehnen könnte, selbst<lb/>
+dann, wenn sie innerparteilich z.B. von der Landwirtschaft ganz<lb/>
+grossen Widerstand wegen der Nichtgenehmigung der Erstattung haben<lb/>
+sollten. Da die überwältigende Meinung der Bevölkerung pro EWG ist,<lb/>
+würde damit die ÖVP schon allein aus diesem Grund sich sehr schwer<lb/>
+tun, gegen den Vertrag zu stimmen. Darüber hinaus würde ja jedweder<lb/>
+wirtschaftliche Fehlschlag aufs Konto<add>[der?]</add> eben nicht möglichen Frei<lb break="no"/>handelszonenregelung mit der EG zurückgeführt werden und damit<lb/>
+die ÖVP immer wieder treffen.<lb/>
+</p>
+         </div>
+      </body>
+      
+   </text>
+</TEI>

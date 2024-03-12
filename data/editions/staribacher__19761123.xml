@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstag, der 23. November 1976</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller, Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band33_1976-11-23</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1976-11-23">Dienstag, 23. November 1976</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-02-21">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="33-1325" facs="33_1976-11-23_1325.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Mittwoch, 23. November 1976<lb/>
+</p>
+            <p xml:space="preserve">Der Wirtschaftsminister von <choice><choice><sic>Malavia</sic><corr>Malawi???</corr></choice></choice>, der Österreich auf Wunsch<lb/>
+der VÖEST besuchte, sollte mit mir eine Aussprache haben,<lb/>
+bevor er nach Brüssel weiterflog. Er war aber unpässlich, sodass nur<lb/>
+sein Vertreter aus dem Finanzministerium, <name type="person" ref="per:145838">Opinde</name>, erschien. Sie<lb/>
+bauen jetzt kleine Wasserkraftwerke, 2 mal 18 MW, um 20 Mill. $<lb/>
+und österr. Firmen hoffen, dabei zum Zug zu kommen. Ich bin<lb/>
+sehr pessimistisch, weil die Weltbank es finanziert und die<lb/>
+Ausschreibung sicherlich sehr hart wird.<lb/>
+</p>
+            <p xml:space="preserve">Viel besser und wesentlich anders ist es, in einem OPEC-Staat<lb/>
+wie z.B. Libyen Geschäfte machen zu können. Die Fa. <name type="person" ref="per:145836">Karner</name>,<lb/>
+ein Baumeister aus Mistelbach, hatte 14 Silos in der libyschen<lb/>
+Wüste gebaut, das Bauvolumen kostete 50 Mill. S. Der Wirtschafts<lb break="no"/>prüfer dieser Firma, <name type="person" ref="per:145837">Harrer</name>, ehemaliger Rechnungshofbeamter,<lb/>
+und <name type="person" ref="per:145836">Karner</name> erzählten mir, wie sie zu diesem Geschäft gekommen sind<lb/>
+und wie sie ihre Geschäftsverbindung da unten pflegen. 8 % Pro<lb break="no"/>vision auf ein Schweizer Konto zu überweisen, natürlich alles<lb/>
+strengst vertraulich, ständige Pflege der Gäste, wenn sie nach<lb/>
+Österreich kommen, trotz der Bauverzögerung und Schwierigkeiten<lb/>
+bei Abwicklung der bankmässigen Bezahlung, die Akkreditive werden<lb/>
+von der CA nicht als lupenrein bezeichnet, noch immer ein Gewinn<lb/>
+von 10 %, also in Wirklichkeit traumhaft für das Baugewerbe.<lb/>
+Mit Diktaturen lassen sich eben leichter Geschäfte machen. Aller<lb break="no"/>dings kann es dann aus irgendwelchen Gründen wesentlich schneller<lb/>
+wieder aus sein und man kann natürlich auch hängenbleiben. Er<lb/>
+wünschte eine Intervention bei der Österr. Kontrollbank, damit<lb/>
+diese entsprechende Haftungszusagen macht. Die Firmenvertreter<lb/>
+waren sicher sehr überrascht, als ich ihnen über ihr Geschäft<lb/>
+einiges erzählen konnte, weil ich in Libyen damals wegen der<lb/>
+Bauverzögerung von Seiten des Ministers für landwirtschaftliche<lb/>
+Entwicklung hart kritisiert wurde. Damals hatte ich schon unbekann<lb break="no"/>terweise die Firma vehement verteidigt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97819">PLESCH</name>: Was ist aus der zweiten unbekannten Firma<lb/>
+im zweiten Bezirk geworden?<lb/>
+</p>
+            <p xml:space="preserve">Vor dem Ministerrat erzählte mir <name type="person" ref="per:108224">Lütgendorf</name>, dass er nun seine<lb/>
+Augusta-Hubschrauber durch andere ersetzen muss. Das Volumen ist 450<lb/>
+Mill. S und man hat ihm hundertprozentige Kompensation von der<lb/>
+Firma in Italien versprochen. Stahl, Holz, ja sogar Rinder sollten<lb/>
+<pb n="33-1326" facs="33_1976-11-23_1326.jpg"/>abgenommen werden. Das letztere können sich <name type="person" ref="per:97511">Haiden</name> und ich<lb/>
+schwer vorstellen, weil die EG nach wie vor grösste Schwierigkeiten<lb/>
+bei Rinderexporten von Österreich macht. <name type="person" ref="per:97511">Haiden</name> berichtete im<lb/>
+Ministerrat dann über seine Agrarbesuche in Deutschland, Belgien<lb/>
+und bei der Kommission in Brüssel. Er ist sehr optimistisch, dass<lb/>
+er zu den 20.000 Stück GATT-Kontingent für Nutzvieh, wo die<lb/>
+EG im Briefwechsel 1972 weitere 10.000 zugesichert hat und auch<lb/>
+einhält, noch 5.000 bekommen könnte. 10.000 also insgesamt 40.000<lb/>
+hat er verlangt. Zu diesem Zweck wird er noch nach Rom und Paris<lb/>
+fahren. Die Dienstreisen spielten im Ministerrat wieder einmal<lb/>
+eine grosse Rolle und Diskussion. Tatsächlich hat das Innenmini<lb break="no"/>sterium für das Gesundheitsministerium und das Justizministerium<lb/>
+für eine Beamtendelegation in die Schweiz für das Finanzministerium<lb/>
+Dienstreisen abgetreten. Im Jahre 1977 werden 75 %-ige Beschränkung<lb/>
+von Reisen und von Teilnehmerzahlen bei diesen aufrechterhalten.<lb/>
+Das Ganze wurde aber zusätzlich noch auf die Reisekosten umgerechnet.<lb/>
+Insgesamt werden 80 Mill. S für Beamten und für Minister getrennt<lb/>
+zur Verfügung stehen. Der Betrag wurde um 10 % gekürzt, was de<lb/>
+facto aber dann höher ist, weil ja auch Flugpreise usw. steigen.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> appellierte an den Aussenminister, man sollte versuchen,<lb/>
+dass in den internationalen Organisationen nicht so viele Meetings<lb/>
+abgehalten werden. er wird auch in der OECD auf Verringerungen<lb/>
+drängen. Ich habe ihm sofort angeboten und ihn ersucht, er soll<lb/>
+beim Gipfel in der EFTA versuchen, diese zweimal jährlichen<lb/>
+Routinesitzungen auf 1-mal im Jahr zu verringern. Ich bemühe mich<lb/>
+vergeblich seit dem Regierungsantritt, diese einmal jährliche<lb/>
+Routinesitzung zu erreichen. Wenn notwendig, könnte er ja als<lb/>
+Beweis sagen, werden sogar Gipfelkonferenzen einberufen und ausser<lb break="no"/>ordentliche Sitzungen wären möglich usw. <name type="person" ref="per:108328">Pahr</name> flüsterte mir zu,<lb/>
+man wird zwar überall versuchen, aber nichts erreichen. Die<lb/>
+internationale Bürokratie sorgt dafür, dass immer mehr Sitzungen<lb/>
+abgehalten werden. Österreich soll auch nicht zuletzt auf Wunsch<lb/>
+<name type="person" ref="per:97668">Kreiskys</name> überall dabei sein, das Ergebnis sind dann immer mehr<lb/>
+Reisen zu den verschiedensten Organisationen, immer mehr<lb/>
+Sitzungen, auch wenn sie noch so sinnlos sind.<lb/>
+</p>
+            <p xml:space="preserve">Die Fraktion der E-Werks-Direktoren, eine Massenversammlung<lb/>
+von 2 Dutzend kamen sich bei mir beschweren, dass die Strompreis<lb break="no"/>verhandlungen wegen des intransigenten Verhaltens der Preis<lb break="no"/>kommission gescheitert sind. <name type="person" ref="per:113025">Horwath</name> vom Burgenland meinte,<lb/>
+100 Stunden hätten sie jetzt verhandelt und so liessen sie sich<lb/>
+nicht behandelt. Meine Antwort war, weglaufen war das Schlechteste,<lb/>
+<pb n="33-1327" facs="33_1976-11-23_1327.jpg"/>jetzt müssen sie doch wieder zurückkommen und werden halt<lb/>
+noch 10 Stunden oder mehr zusätzlich verhandeln müssen.<lb/>
+Man kann sich Verhandlungspartner nicht aussuchen. Von<lb/>
+Seiten der Arbeiterkammer war es sicherlich niet sehr ge<lb break="no"/>schickt, die überhöhten Personalkosten der Landesgesellschaften<lb/>
+zu versuchen, aus das Kalkulation herauszustreichen Natürlich<lb/>
+musste die OKA-Vertretung und die NEWAG zugeben, dass es sich<lb/>
+hier um politische Lohnzuckerln vor den Wahlen gehandelt hat.<lb/>
+Diese Ansätze habe ich in der Vergangenheit aber niemals auch<lb/>
+wenn sie noch so überhöht waren, kritisiert. Es gibt noch<lb/>
+andere Posten, die man leichter streichen kann und die nicht<lb/>
+gleich alle Arbeiter, ganz egal welcher politischen Partei<lb/>
+sie angehören, auf die Palme bringen, so wie wenn man ihnen<lb/>
+die Löhne scheinbar über die Kalkulationen kürzen oder das<lb/>
+Steigen verhindern will. <name type="person" ref="per:109811">Burian</name> hat sehr geschickt argumentiert<lb/>
+und ich bin überzeugt, wir werden eine Kompromisslösung zustande<lb break="no"/>bringen. Das Weglaufen war nur nicht sehr gut, weil dies ist<lb/>
+kein Argument, genauso wenig wie Schreien. Ich sagte ihnen<lb/>
+sofort, ich habe auch oft das Bedürfnis, beides zu tun und<lb/>
+muss mich zurückhalten.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Sitzung mit dem Verbundvorstand wurde von <name type="person" ref="per:112014">Erbacher</name><lb/>
+als Bundeslastverteiler berichtet, dass von Jänner bis incl.<lb/>
+Oktober die Elektrizität um 6,6 % gegenüber dem Vorjahr<lb/>
+zugenommen hat. Der Verband der E-Werke hat seinerzeit maximal<lb/>
+3–4 % geschätzt. Insbesondere die Industrie hat in den<lb/>
+ersten 9 Monaten, wo sie im Vorjahr noch minus 4,7 % fest<lb break="no"/>stellte, jetzt wieder um plus 4 % zugenommen.<lb/>
+</p>
+            <p xml:space="preserve">Altenwörth soll jetzt repariert werden, mit einem sogenannten<lb/>
+Doppler. Dieser Begriff kommt aus der Schusterei, wo eben<lb/>
+über die Risse des Generators ein Blech drübergepempert wird.<lb/>
+Das Ganze ist wirklich eine Schuster-Leistung.<lb/>
+</p>
+            <p xml:space="preserve">Das Kernkraftwerk Tullnerfeld, das jetzt ca. 7 Mia. S kostet,<lb/>
+kann lt. Mitteilung des Generaldirektors Dr. <name type="person" ref="per:145839">Bartl</name> von der KWU<lb/>
+erst im März 1978 in Betrieb gehen. Dieser neue Termin soll<lb/>
+jetzt verbindlich von der KWU mit Pönale garantiert werden,<lb/>
+soweit die Verzögerung in ihrer Verantwortung liegt. Wegen<lb/>
+der Aufklärungskampagne, die E-Wirtschaft fürchtet eine immer<lb/>
+<pb n="33-1328" facs="33_1976-11-23_1328.jpg"/>stärkere und härtere Attacke gegen die Atomkraftwerke wird sich<lb/>
+der Verband der E-Werke an <name type="person" ref="per:97668">Kreisky</name> wenden. Ich erklärte sofort,<lb/>
+dass diese Aufklärungskampagne ganz normal in meinen Augen<lb/>
+läuft und an der Fertigstellung des Kernkraftwerkes im Tullnerfeld<lb/>
+ja wahrscheinlich sogar an den weiteren Atomkraftwerken kaum<lb/>
+etwas ändern kann, solange wir keine andere Energie bekommen<lb/>
+können. Fraglich ist nur, wie die Wiederaufbereitung und die<lb/>
+Endlagerung gelöst wird. Der Vorstand der Verbund sicherte mir<lb/>
+zu, dass spätestens Mitte nächsten Jahres ein baureifes Projekt<lb/>
+für die Kompaktlagerung und die Endlagerung eingereicht wird.<lb/>
+Auch dies wird 2 Mia. S kosten. Wenn dieser Aufwand nur für das<lb/>
+eine Kernkraftwerk Tullnerfeld erfolgen müsste, dann würde der<lb/>
+Atomstrom ganz schön teuer werden.<lb/>
+</p>
+            <p xml:space="preserve">Ich informierte die Verbund über die letzte Besprechung mit<lb/>
+den csl. Vizeminister <name type="person" ref="per:132697">Strougal</name> wegen des Polen-Stromliefervertrages<lb/>
+und insbesondere Transportvertrages über die CSSR. Die Verbund<lb/>
+wird neuerlich an ihre Verhandlungspartner wegen der endgültigen<lb/>
+Textvereinbarung und Vertragsvorbereitung schreiben.<lb/>
+</p>
+            <p xml:space="preserve">Das Verwaltungsgebäude der Verbundgesellschaft am Hof kann einen<lb/>
+modernen Lastverteiler, der dringendst notwendig ist, nicht mehr<lb/>
+aufnehmen. Infolge Platzmangels können nur Batterien aufgestellt<lb/>
+werden, die eine dreistündige Notversorgung ermöglichen. Der<lb/>
+letzte grosse Zusammenbruch in Österreich hat aber 6 Stunden ge<lb break="no"/>dauert. Wenn dies in der Nacht erfolgt, kann nur schwer der<lb/>
+Lastverteilerbetrieb aufrechterhalten werden. Die Ausweitung<lb/>
+auf das <name type="person" ref="per:145840">Ferstl</name>-Haus ist deshalb nicht möglich, weil unter Denkmal<lb break="no"/>schutz <name type="person" ref="per:97442">Firnberg</name> solche Auflagen macht, dass es vollkommen unren<lb break="no"/>tabel wird. Zwei Standorte kommen deshalb in Frage: der Franz-<lb/>
+Josefs-Bahnhof und der Schweizergarten, wo die Porr AG einen<lb/>
+entsprechenden Baugrund hat. <name type="person" ref="per:114747">Zach</name> fragte mich, ob ich unbedingt<lb/>
+gegen die Verbauung über die Landstrasse, U-Bahn, d.h. also<lb/>
+gegen diese Platte bin. Als Mandatar vom 3. Bezirk erklärte<lb/>
+ich sofort, keineswegs, nur dürfte der Betrieb resp. der Bau<lb/>
+nicht teuer sein als anderswo. Die Verbund braucht 23.000 m³<lb/>
+rechnet 16.000 S Verbauung für den m³, insgesamt also 350 Mio<lb/>
+plus 400 Mill. mindestens Lastverteiler-Einrichtungen. Ich<lb/>
+sprach mich absolut gegen einen Verwaltungsprachtbau aus, weil<lb/>
+dafür nicht die Strompreise von mir jetzt in den 5 Jahren dreimal<lb/>
+erhöht wurden, in den 25 Jahren vorher bis 1970 hat es insgesamt<lb/>
+<pb n="33-1329" facs="33_1976-11-23_1329.jpg"/>nur 6 Preiserhöhungen gegeben. <name type="person" ref="per:109811">Burian</name> wies ganz richtig<lb/>
+darauf hin, dass im Preisbescheid <choice><choice><sic>andrücklich</sic><corr>ausdrücklich?</corr></choice></choice> immer steht,<lb/>
+dass dies zur Kostendeckung dient und keinesfalls zur Errichtung<lb/>
+von Verwaltungsgebäuden. Richtig ist, dass wegen des Lastverteilers<lb/>
+eine neue Lösung gefunden werden muss.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name>: Bitte halte dich wegen dieses Verwaltungs<lb break="no"/>gebäudes ständig auf dem laufenden und versuche das bestmögliche<lb/>
+Offert zu erfahren.<lb/>
+</p>
+            <p xml:space="preserve">Die 380-KV-Leitung von Kals nach Kaprun wird wegen der Lawinen<lb break="no"/>gefährdung und auch weil es 16 Mill. S mehr kostet, nicht so,<lb/>
+wie der Abteilungsleiter <name type="person" ref="per:114528">König</name> es ursprünglich wollte, oben auf<lb/>
+der Trasse geführt, sondern unten durch das Tal, wie die Verbund<lb break="no"/>gesellschaft vorgeschlagen hat. Hier gibt es ständige Strei<lb break="no"/>tigkeiten zwischen der genehmigenden Behörde – E-Sektion im<lb/>
+Handelsministerium – und den ansuchenden Gesellschaften. <name type="person" ref="per:114528">König</name><lb/>
+dürfte scheinbar wirklich zumindestens gelegentlich unmögliche<lb/>
+Standpunkte vertreten.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name>: Lass Dir einmal aus einem konkreten Anlasse<lb/>
+<name type="person" ref="per:114528">Königs</name> Politik erklären.<lb/>
+</p>
+            <p xml:space="preserve">Mit den Deutschen soll wegen der Illwerke jetzt nicht auf den<lb/>
+Speicherpreisen – über 1.– S pro kWh – sondern auf der energie<lb break="no"/>wirtschaftlichen Basis des Neuner-tarifes mit durchschnittlich<lb/>
+74 Groschen verhandelt werden. Von dem Neuner-Tarif wurden<lb/>
+allerdings die Transportkosten abgezogen und vor allem das Risiko<lb/>
+des deutschen Partners RGW, der ja nur aus einem Werk bezieht<lb/>
+und nicht wie beim Neuner-Tarif jeder <choice><choice><sic>Aubnahmer</sic><corr>Abnehmer?</corr></choice></choice> aus dem grossen<lb/>
+Verbundnetz berücksichtigt. Dadurch würde ihm der Strom nur<lb/>
+von derzeit 57 Groschen auf 74 Groschen erhöht werden. <name type="person" ref="per:112014">Erbacher</name><lb/>
+hofft, dass er morgen mit den deutschen Partnern auf dieser<lb/>
+Basis zu einem Gesprächsthema kommen kann, ohne dass das Schieds<lb break="no"/>gericht beansprucht werden muss. Für den Wälzbetrieb werden<lb/>
+30–100 Mill. S je nach Wasserlage aufgewendet. Das ergibt auch<lb/>
+37 Groschen Fixkosten plus Pumpleistung. Die Deutschen würden<lb/>
+auf alle Fälle nur über die 2/3, die sie beziehen, verhandeln.<lb/>
+Das Drittel, das heute dem Land zusteht, würde in Hinkunft an<lb/>
+das Verbundnetz geliefert werden und ist eine bessere Lösung,<lb/>
+weil es innerhalb der Verbund besser genützt werden kann als<lb/>
+in der Vergangenheit. Für die Vergangenheit aber müsste nach<lb/>
+<pb n="33-1330" facs="33_1976-11-23_1330.jpg"/>Berechnungen der Verbund 212 und mit Wälzbetrieb sogar<lb/>
+317 Mill. S von den Deutschen verlangt werden. Diese Zahl<lb/>
+ergibt sich, wenn man seit dem Vorbehalt 1970/71 zu den<lb/>
+Bilanzen, die optimale Rechnung anstellt. Sollten die Deutschen<lb/>
+für die Vergangenheit überhaupt nicht bereit sein, auch nur<lb/>
+einen Groschen anzuerkennen, dann müssten wir für diesen Fall<lb/>
+schon allein wegen des Rechnungshofes das Schiedsgericht anrufen.<lb/>
+Ich hoffe, dass es gelingen wird, zu einer einvernehmlichen<lb/>
+Regelung zu kommen. Die Schiedsgerichtslösung wäre nämlich<lb/>
+für uns gar nicht so glücklich, weil zwar unser Vertreter,<lb/>
+<name type="person" ref="per:97453">Fremuth</name>, sicher unsere Interessen gut vertreten würde, der<lb/>
+von Deutschland zu nominierende sicherlich aber dessen Interessen<lb/>
+ebenso, entscheiden würde dann ein Schweizer Bankenvertreter<lb/>
+der als dritter Schiedsrichter eingesetzt wird.<lb/>
+</p>
+            <p xml:space="preserve">Anschliessend sprach ich fraktionell mit <name type="person" ref="per:112014">Erbacher</name>, <name type="person" ref="per:97333">Bandhauer</name><lb/>
+und <name type="person" ref="per:107937">Frank</name> wegen der Vertragsverlängerung von <name type="person" ref="per:112012">Arthold</name>. <name type="person" ref="per:97333">Bandhauer</name><lb/>
+möchte natürlich am liebsten, dass wir ein halbes Jahr nur dessen<lb/>
+Vertrag verlängern, die ÖVP verlangt 1 1/2 Jahre. Unter vier<lb/>
+Augen hat mir dann <name type="person" ref="per:97333">Bandhauer</name> zugegeben, dass er auch mit einer<lb/>
+wesentlichen längeren Verlängerung als das Halbe Jahr einverstan<lb break="no"/>den ist, wenn es dadurch gelingt, die ÖVP zur Zustimmung zu<lb/>
+bringen, dass in Hinkunft nur mehr 3 Vorstandsmitglieder<lb/>
+der Verbund bleiben. <name type="person" ref="per:97333">Bandhauer</name> war auch sehr erschüttert, von<lb/>
+mir zu erfahren, dass unsere Landesvertreter zuerst gross<lb/>
+gesprochen haben, man soll hart bleiben, jetzt aber um ihre<lb/>
+eigenen Positionen zittern und unbedingt ein Kompromiss um<lb/>
+jeden Preis wünschen. Ich bin bereit, ein solches Kompromiss einzu<lb break="no"/>gehen, allerdings nicht um jeden Preis. Das Prinzip der Reduzierung<lb/>
+sei es Aufsichtsräte oder Vorstände, wo dies nur irgendwo mög<lb break="no"/>lich ist, muss durchgezogen werden. Gerade weil die Lohn<lb break="no"/>kosten ständig steigen, muss ich gegenüber der Belegschaft<lb/>
+dokumentieren, dass nicht nur bei ihnen in Hinkunft gespart<lb/>
+werden soll, sondern eben von oben begonnen wird.<lb/>
+</p>
+            <p xml:space="preserve">Die Fa. Schoeller und Co., ein Handelsbetrieb, hat 25 Jahre<lb/>
+Bestand ganz gross im Hilton gefeiert. Die Firmenvertreter<lb/>
+haben, nachdem ich sie dann doch besucht hatte, mir gegenüber<lb/>
+angedeutet, eigentlich hätten sie erwartet, dass ich dort eine<lb/>
+Festrede halte. Diese Bemerkung betrachtete ich als reinste<lb/>
+Demagogie, denn schliesslich haben sie ganz bewusst den Finanz<lb break="no"/>minister lange vorher schon zu dieser Feier eingeladen und<lb/>
+<pb n="33-1331" facs="33_1976-11-23_1331.jpg"/>ihn um eine Festrede ersucht. Um diese Kompetenz streite<lb/>
+ich mich wahrlich nicht um jemanden, ganz im Gegenteil,<lb/>
+ich bin sehr froh, wenn ich sie los werde.<lb/>
+</p>
+            <p xml:space="preserve">Im Rathaus traf ich beim Empfang für den <choice><choice><sic>Gewerkschaftsg</sic><corr>Gewerkschaftstag?</corr></choice></choice><lb/>
+der Gastarbeiter wie beabsichtigt <name type="person" ref="per:133077">Dan Gallin</name>, den Sekretär<lb/>
+der Internationalen Union der Lebensmittelarbeiter. Wir<lb/>
+sprachen über seine Schwierigkeiten mit den amerikanischen<lb/>
+Gewerkschaften. Er meinte, er hätte alles ausgeräumt und<lb/>
+sei nun voller Hoffnung, dass die Amerikaner bleiben. Dies<lb/>
+mag vielleicht für die Gruppe der Lebensmittelarbeiter gelten,<lb/>
+die amerikanischen Hotelier-Arbeiter und Gaststätten-Arbeiter<lb/>
+sind aber bereits aus der <choice><choice><sic>IOL</sic><corr>ILO?</corr></choice></choice> ausgetreten. die grössten Schwierig<lb break="no"/>keiten hat er derzeit mit der Bestrebung in Europa, die<lb/>
+europäischen EG-Mitgliedsländer-Gewerkschaften in der <choice><choice><sic>IOL</sic><corr>ILO?</corr></choice></choice><lb/>
+zu halten. Die europäischen EG-Mitglieder-Gewerkschaften<lb/>
+haben eine eigene Organisation gegründet, und die Engländer z.B.<lb/>
+haben sich bisher schon von der <choice><choice><sic>IOL</sic><corr>ILO?</corr></choice></choice> abgemeldet. Die internationalen<lb/>
+Organisationen der Freien Gewerkschaften bilden nun Industrie<lb break="no"/>gruppen, die regional auch immer eine grössere Bedeutung<lb/>
+erlangen und gegen die Internationalen Berufssekretariate<lb/>
+wie eben z.B. die der <choice><choice><sic>IOL</sic><corr>ILO?</corr></choice></choice>, d.h. für die Lebensmittelarbeiter<lb/>
+aber auch für die Metallarbeiter, Chemiearbeiter usw. eine<lb/>
+ungeheure Konkurrenz darstellen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98072">WIESINGER</name>: Bitte mich wegen dieser Frage mit<lb/>
+<name type="person" ref="per:113840">Ströer</name>, ÖGB, verbinden.<lb/>
+</p>
+            <p xml:space="preserve">Stadtrat <name type="person" ref="per:97786">Nittel</name>, der den Bürgermeister dort vertrat, erzählte<lb/>
+mir, weil ich ihn heftig attackierte, wieso es zu dieser<lb/>
+Aussendung kam, dass das Ladenschlussgesetz seiner Meinung nach<lb/>
+geändert gehört. Er habe der SK seinen Plan geschildert, dass<lb/>
+in Hinkunft ein Samstag im Monat gesperrt wird, die Angestellten<lb/>
+dadurch also ihren langersehnten Wunsch teilweise erfüllt<lb/>
+bekommen und dafür an einem Abend länger offen haben sollen.<lb/>
+Er war sehr verwundert, dass die SK nur einen Teil seines<lb/>
+Vorschlages brachte, nämlich, dass eben am Abend länger<lb/>
+offengehalten werden soll. Noch mehr überrascht war er, dass<lb/>
+die Angestellten angeblich seinen Vorschlag, da es sich dabei<lb/>
+um eine Änderung des Ladenschlussgesetzes handelt, ganz entschieden<lb/>
+ablehnen. Ich habe <name type="person" ref="per:97786">Nittel</name> vorgeschlagen, er soll, wenn er über<lb break="no"/><pb n="33-1332" facs="33_1976-11-23_1332.jpg"/>haupt irgendwelche Änderungen beabsichtigt, dies innerhalb<lb/>
+der derzeit bestehenden gesetzlichen Möglichkeiten versuchen.<lb/>
+Selbst hier wird er auf ärgsten Widerstand der Privatangestellten<lb break="no"/>gewerkschaft stossen. <name type="person" ref="per:97786">Nittel</name> wird jetzt nächsten Samstag in Maria<lb break="no"/>hilf einige Kaufhäuser besuchen und mit den Betriebsräten<lb/>
+sprechen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name>: Bitte versuche von <name type="person" ref="per:114557">Kulf</name>, BRO Gerngross,<lb/>
+herauszubekommen, wie dieser Besuch verlauft.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="33_1324_01" facs="33_1976-11-23_1324-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 23.11.1976</head>
+         </div>
+         <pb n="33_1324_02" facs="33_1976-11-23_1324-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+         <pb n="33_1332_01" facs="33_1976-11-23_1332-01.jpg"/>
+         <pb n="33_1332_02" facs="33_1976-11-23_1332-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesordnung 52. Ministerratssitzung, 23.11.1976</head>
+            <gap reason="sampling"/>
+            <pb n="33_1332_03" facs="33_1976-11-23_1332-03.jpg"/>
+         </div>
+         <pb n="33_1332_04" facs="33_1976-11-23_1332-04.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>hs. Notizen (TO Ministerratssitzung Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

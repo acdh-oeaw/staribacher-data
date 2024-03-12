@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sonntag, der 15. Februar 1976</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band29_1976-02-15</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1976-02-15">Sonntag, 15. Februar 1976</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-01-22">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="29-0199" facs="29_1976-02-15_0199.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Sonntag, 15. Feber 1976<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97627">Kienzl</name> will mit seiner Meinungsforschung eine Umfrage machen<lb/>
+über die bewältigte Vergangenheit. Mit ihm und <name type="person" ref="per:97444">Fischer</name> kam es<lb/>
+nun zu einem freundschaftlichen Streit über die Fragestellung<lb/>
+und das ideologische Problem. Faschismus damals und heute. Mir<lb/>
+unerklärlicher Weise riefen sie mich als Richter an. Wahr<lb break="no"/>scheinlich weil ich mich für Ideologie kaum interessiere. Meiner<lb/>
+Meinung nach urteilt die Bevölkerung ganz anders als beide erwarten.<lb/>
+Das Interesse für dieses Problem ist maximal in einer elitären<lb/>
+kleinen Schicht. <name type="person" ref="per:97668">Kreisky</name> hat nicht nur innerhalb unserer Partei,<lb/>
+sondern auch innerhalb der Bevölkerung einen so hohen Stellenwert<lb/>
+und so gute Erfolge weil er zwar immer von der Demokratisierung<lb/>
+spricht, in Wirklichkeit aber, sie erst aber gar nicht beabsichtigt,<lb/>
+aber de facto die Partei heute ziemlich autoritär geführt wird.<lb/>
+Die ÖVP hatte auch die grossen Erfolge unter <name type="person" ref="per:97852">Raab</name>, als auch der<lb/>
+eine ähnliche Parteiführung und selbst im Staat eine autoritären<lb/>
+Zug zeigte. Demokratien gibt es, das Korrektiv und dies bezieht<lb/>
+ja auch in Österreich, dass solche straffe Führungen nicht das<lb/>
+System ändern können. Ich bin nur überzeugt, dass dieses ideologische<lb/>
+Problem überhaupt Ideologie die Bevölkerung sehr wenig berührt.<lb/>
+Grundstimmung ist sicher in der Bevölkerung, dass sie froh ist<lb/>
+eine Demokratie zu haben, insbesondere für die Leute, die eine<lb/>
+Diktatur mitgemacht haben, dass aber bei irgendwelchen Schwierig<lb break="no"/>keiten - und die gibt es in einer Demokratie ständig – man dann sehr<lb/>
+gerne jemanden hätte, der dies beseitigt. Selbst wenn er dabei<lb/>
+autoritäre Züge entwickelt.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97444">Fischer</name> hat in der Nationalbank grosse Probleme mit dem Finanz<lb break="no"/>ministerium und <name type="person" ref="per:98034">Veselsky</name> wegen der Aufstockung der ERP-Fonds-Mittel.<lb/>
+1.5 Milliarden für ERP-Fonds, 500 Millionen für Investitionskredit<lb/>
+und dies alles mit nur möglichst billigsten Zinssätzen. Insbesondere<lb/>
+im ERP sieht er keine Möglichkeit 1 %-ige ERP-Fondsmittel zur Ver<lb break="no"/>fügung zu stellen, die <name type="person" ref="per:98034">Veselsky</name> für die Kohlenkredite braucht.<lb/>
+<name type="person" ref="per:97311">Androsch</name> hat jetzt schon entschieden dass es eventuell 3 - 5 %<lb/>
+sein können. Ein Zinssatz den auch die Nationalbank eher erfüllen<lb/>
+kann.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97444">Fischer</name> sieht schon die neue Energiekrise in den nächsten Jahren<lb/>
+auf uns zukommen. Bezüglich des Energiesicherungsgesetzes ist<lb/>
+<pb n="29-0200" facs="29_1976-02-15_0200.jpg"/><name type="person" ref="per:97444">Fischer</name> sehr einverstanden, dass wir im Klub die Trennung<lb/>
+zwischen Lagerung, eigenes Gesetz und Entwicklung der Energie<lb/>
+in in anderes eigenes Gesetz vorschlagen. Damit könnte das erste<lb/>
+Gesetz zu einer Einigung mit der ÖVP kommen, über den zweiten Ge<lb break="no"/>setzentwurf wird so lange verhandelt, bis geklärt ist ob Rohstoff<lb break="no"/>lenkung und Lastverteilung weiter beschlossen werden. Dann wird die<lb/>
+ÖVP verlangen, dass es in dieses Gesetz aufgenommen wird. Mehr denn<lb/>
+je bin ich überzeugt, dass wir Voitsberg III bauen müssen und<lb/>
+1 Jahr früher fertig sind als dies nach den jetzigen Aufbauplänen<lb/>
+1983 der Strom gebraucht wird. Die Finanzierung der Kohlenproduktion<lb/>
+wird so wie so das ganze Jahr heuer in Anspruch nehmen. <add>[Platz freigelassen, ev. fehlt hier ein Wort, Anm.]</add> dies<lb/>
+aber mit der Stillegung von <choice><choice><sic>Fohnsberg</sic><corr>Fohnsdorf</corr></choice></choice> muss die Kohlenproduktion in<lb/>
+Köflach bereits aufgenommen sein oder unmittelbar aufgenommen werden.<lb/>
+</p>
+         </div>
+      </body>
+      
+   </text>
+</TEI>

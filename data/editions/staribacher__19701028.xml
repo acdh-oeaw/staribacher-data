@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittwoch, der 28. Oktober 1970</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band03_1970-10-28</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1970-10-28">Mittwoch, 28. Oktober 1970</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-04-25">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-02-27" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+  <text xml:base="http://192.168.0.9/staribacher/src/scans/Band03/">
+      <body>
+         <pb n="03-0706" facs="03_1970-10-28_0706.jpg"/>
+         <div type="entry">
+            <dateline>
+               <date when="1970-10-28">Mittwoch, 28. Oktober 1970</date>
+            </dateline>
+            <p xml:space="preserve">Bei meiner Begrüssungsansprache des 3. internationalen Produktivi<lb break="no"/>tätskongresses konnte ich wieder einige Erfahrungen sammeln. Sekt.Rat<lb/>
+<name type="person" ref="per:97493">Gröger</name> hatte mir eine sehr inhaltsreiche Rede aufgesetzt, die wirklich<lb/>
+das Problem genau erfasst hat, das bei dem Kongress zur Diskussion steht.<lb/>
+Da ich aber in Wirklichkeit ausserstande bin, eine Rede herunterzulesen,<lb/>
+versuchte ich, aus diesen Unterlagen mit eigenen Worten die Gedanken<lb/>
+wiederzugeben. Dies könnte in Zukunft am besten so geschehen, dass<lb/>
+mit den grossen Typen der Schreibmaschine Schlagworte zusammengefasst<lb/>
+werden. Ich habe mir aus dem beiliegenden Text die wichtigsten Stellen<lb/>
+unterstrichen und sie dann mit eigenen Worten wiedergegeben. Sicherlich<lb/>
+werden vielleicht dadurch in der Satzbildung und grammatikalische Fehler ge<lb break="no"/>macht, aber dies ist nicht so wichtig, glaube ich, da die freie Rede<lb/>
+doch besser ankommt. Eine indirekte Bestätigung meiner Auffassung<lb/>
+erzielte ich damit, dass ein ausländischer Delegierter nachher zu mir<lb/>
+kam und sagte, ich hätte nicht nur sehr lieb sondern auch einige doch<lb/>
+neue Gesichtspunkte in diese Begrüssungsansprache gebracht. Ausserdem<lb/>
+liess mich <name type="person" ref="per:97563">Hofstetter</name> <add>[evtl. Falschidentifikation, Anm.]</add> wissen, dass ich angeblich sehr ruhig und über<lb break="no"/>legen und nicht so g'schusslert wie sonst diese Ansprache gehalten hatte.<lb/>
+Da beide Kritiker von mir nichts wollen, kann ich ihre Aussage vielleicht<lb/>
+wirklich als eine objektive Wertung betrachten. Ich glaube wir müssten<lb/>
+deshalb dieses System der Ansprachen und Reden weiter ausbauen.</p>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Wanke</name> behauptet, dass <name type="person" ref="per:97668">Kreisky</name> es vollkommen versteht, Reden, die er<lb/>
+sich aufsetzen lässt oder vielleicht auch selbst abdiktiert, hervorragend<lb/>
+zu bringen, ohne dass der Eindruck entsteht, dass er tatsächlich her<lb break="no"/>unterliest. Ich habe dies auch schon einige Male bemerkt. Bei der ersten<lb/>
+Lesung des Finanzgesetzes aber, hat er seine Rede fast vollkommen nur<lb/>
+heruntergelesen und ich glaube, es war ein sehr ungünstiger Eindruck<lb/>
+wie er letzten Endes entstanden ist. Ich persönlich versuchte ja<lb/>
+immer auch im Parlament niemals irgendwelche Unterlagen zum Herunter<lb break="no"/>lesen zu verwenden, sondern habe mir nur immer Notizen gemacht. Auch<lb/>
+bei der Fragestunde, wo ich jetzt als Minister Antwort geben muss, ver<lb break="no"/>wende ich die Unterlagen nur, um das Problem zu beherrschen, niemals<lb/>
+aber, um die Auskünfte der Abteilungen auch tatsächlich herunterzule<lb break="no"/>sen. Die Stenographen haben deshalb in den vergangenen Jahren schon<lb/>
+immer viel Arbeit gehabt, meine unvollständigen Sätze letzten Endes<lb/>
+<pb n="03-0707" facs="03_1970-10-28_0707.jpg"/>einigermassen stilgerecht zu beenden. Bei meinen Antwort in der<lb/>
+Fragestunde haben sie sicher genau dieselben Probleme.</p>
+            <p xml:space="preserve">Der ÖVP-Abgeordnete Ing. <name type="person" ref="per:134083">Helbich</name> wollte mit der Anfrage, wie gross<lb/>
+war die Auflage des von ihrem Ressort herausgegebenen Tätigkeitsbe<lb break="no"/>richtes 1969/70 auf eine Regierungsprogaganda schliessen, die die SPÖ<lb/>
+ja ablehnt. Er wollte deshalb mit Zusatzfragen erreichen, dass ich<lb/>
+diese Beträge, die 4.400 S ausgemacht haben, für das Wissenschafts<lb break="no"/>ressorts zur Verfügung stellen sollte. Bei dieser Gelegenheit konnte<lb/>
+ich ihm deshalb mitteilen, dass ich ihm ja den Tätigkeitsbericht<lb/>
+meines Amtsvorgängers vorgelegt habe und deshalb auch <name type="person" ref="per:97749">Mitterer</name> ersuchte<lb/>
+oder aufforderte, dass er die Pressekonferenz abhalten könnte. Da<lb/>
+dieser Tätigkeitsbericht in Wirklichkeit sehr unsystematisch und gar<lb/>
+nichtssagend ist, wollte ich ihn mit heurigem Jahr bereits einstellen.<lb/>
+Nun habe ich eine gute Gelegenheit, da ich Ing. <name type="person" ref="per:134083">Helbich</name> zusagte, die<lb/>
+4.400 S dem Wissenschaftsministerium zur Verfügung zu stellen, den<lb/>
+Tätigektisbericht für die Zukunft zu unterlassen. Ich werde deshalb<lb/>
+in einem Rundschreiben im Ministerium feststellen, dass ich auf<lb/>
+Wunsch der ÖVP-Fraktion des Nationalrates in Zukunft den Tätigkeits<lb break="no"/>bericht nicht mehr von den Abteilungen verlangen werde, weil kein Tä<lb break="no"/>tigkeitsbericht mehr im bisherigem Sinne gegeben wird.</p>
+            <p xml:space="preserve"><name type="person" ref="per:97627">Heinzi Kienzl</name> wollte mit <name type="person" ref="per:97311">Androsch</name> und mir über die Aktion 250 Mill. S<lb/>
+Kredite der Investitionskredit AG bei der ÖNB zur Refinanzierung ein<lb break="no"/>zureichen, besprechen. Bekanntlich hat sich <name type="person" ref="per:97769">Mussil</name> sehr dagegen ausge<lb break="no"/>sprochen, weil der Beamtenapparate gegen diese inflationistische Mepo<lb break="no"/>-Wechselfinanzierung ganz entschieden Stellung genommen hat. Ich konnte<lb/>
+aber in Erfahrung bringen, dass <name type="person" ref="per:98003">Taus</name>, bei der Betriebswirtschaftlichen<lb/>
+Woche hatte ich ja mit ihm anschliessend eine längere Besprechung, in<lb/>
+Wirklichkeit nur gegen die Investitionskredit AG nicht aber gegen die<lb/>
+Aktion eingenommen ist. <name type="person" ref="per:97627">Kienzl</name> wollte von <name type="person" ref="per:97311">Androsch</name> die Erklärung, dass<lb/>
+er oder womöglich die ganze Bundesregierung für diese Aktion sei und<lb/>
+darauf die ÖNB eben im Sinne des Nationalbankgesetzes positiv reagieren<lb/>
+müsste. Ich warnte vor einem solchen Vorgehen und erklärte ihm , dass<lb/>
+ich jetzt neuerdings mit <name type="person" ref="per:97769">Mussil</name> gesprochen hätte und <name type="person" ref="per:97769">Mussil</name> erst versu<lb break="no"/>chen würde, seine Denker davon zu überzeugen, dass sie einer solchen<lb/>
+Aktion im Sinne der Schlussfinanzierung der Investitionen der Industrie<lb/>
+zustimmen sollten. Solange dies nicht der Fall ist, könnte die Bundes<lb break="no"/>regierung diesen Plan nicht als den ihren bezeichnen, denn dies würde,<lb/>
+<pb n="03-0708" facs="03_1970-10-28_0708.jpg"/>wenn er abgelehnt würde von Seiten der ÖVP nur die Kampagne verstärken,<lb/>
+dass die Soz. Regierung inflationistische Finanzierungen durchführen will.<lb/>
+Wir einigten uns auf den Sprachbebrauch, dass <name type="person" ref="per:97627">Kienzl</name> dem ERP-Büro und in<lb/>
+der Nationalbank sagen könnte, dass gegen diese Idee von Seiten des Finanz<lb break="no"/>ministers und meiner Wenigkeit keine Bedenken bestehen würden, wenn sie<lb/>
+tatsächlich durchgeführt wird.</p>
+            <p xml:space="preserve">Der Freie Wirtschaftsverband hat eine Funktionärekonferenz im Haus der<lb/>
+Begegnung in der Königsgasse einberufen. Der Saal war gut gefüllt und<lb/>
+bei dem Eintritt sagte mir bereits ein Spitzenfunktionär des FWV und Vo<lb break="no"/>rstandsmitglied <name type="person" ref="per:146072">Balasz</name>, der am Fremdenverkehrskonzept bei uns mitgearbei<lb break="no"/>tet hatte, dass die Kaffeesieder sehr schlecht auf mich zu sprechen seien.<lb/>
+Sie sind über das Annocenausmass von Tchibo sehr erschüttert und empört.<lb/>
+Er glaubt allerdings, dass es nicht zweckmässig ist, wenn ich auf dieses<lb/>
+Problem zu sprechen käme. Ich hielt also mein Referat und kam aber natürlich<lb/>
+am Ende meines Referates ganz genau noch auf dieses Problem Tchibo<lb/>
+zu sprechen und erörterte die Vorgangsweise. Insbesondere wies ich darauf<lb/>
+hin, dass letzten Endes, bevor ich diese Entscheidung auf Grund des Ge<lb break="no"/>setzes zu treffen hatte, ich die Organisationen des Freien Wirtschaftsverbandes<lb/>
+aber auch des Wirtschaftsbundes und letzten Endes die offizielle Handels<lb break="no"/>kammer nicht nur gefragt hatte, sondern sogar mit ihnen Verhandlungen ge<lb break="no"/>führt hatte. Da sie auch keine bessere Lösung wussten, als zu warten,<lb/>
+konnte ich dieser Verschleppungstaktik, die bis jetzt im Ministerium ge<lb break="no"/>pflogen wurde, leider nicht zustimmen. Der Kafetier <name type="person">Waltersam</name> kam dann<lb/>
+in der Diskussion selbstverständlich auf dieses Problem zu sprechen. Bei<lb/>
+meinem Schlusswort entdeckte ich auf dem Rednerpult einen Brief: Sehr<lb/>
+geehrter Herr Minister. Ich fragte deshalb sofort, ob jemand diesen Brief<lb/>
+bei der Diskussion vielleicht absichtlich liegen liess, um ihn mir zu über<lb break="no"/>geben. Den Inhalt kannte ich ja noch nicht. <name type="person">Waltersam</name> erklärte, dass dies<lb/>
+sein Konzept gewesen ist und er es mir gerne zur Verfügung stellt. Ich<lb/>
+dankte ihm dafür und werde diesen Brief resp. dieses Redekonzept sehr<lb/>
+genau beantworten. Ich ging aber auch bei dieser Versammlung von unserer<lb/>
+generellen Linie nicht ab und habe sogar dort die Industriepolitik an<lb/>
+die Spitze gestellt und die Gewerbeordnugsreform verlangt. Ich teilte<lb/>
+mit, dass ich für alle Funktionäre des Freien Wirtschaftsverbandes u d<lb/>
+für alle Probleme zu sprechen bin, dass ich nur eines nicht zu akzeptie<lb break="no"/>ren bereit bin, einem Problem durch Nichtentscheidung aus dem Wege zu<lb/>
+gehen. Ich habe auf Grund der Gesetze zu entscheiden und werde auf Grund<lb/>
+der derzeitigen Gesetze solche Entscheidungen fällen. Ich werde mich be<lb break="no"/>mühen, andere Gesetze zu erreichen, aber auch dort werde ich dem<lb/>
+<pb n="03-0709" facs="03_1970-10-28_0709.jpg"/>modernen fortschrittlichen Geist zum Durchbruch zu verhelfen versuchen.<lb/>
+Ich wies bei dieser Gelegenheit darauf hin, dass wir unabhängig, ob die<lb/>
+ÖVP jetzt momentan die Gewerbefreiheit entdeckt hat, unser Wirtschafts<lb break="no"/>programm und auch das Zielprogramm des Freien Wirtschaftsverbandes zum<lb/>
+Durchbruch verhelfen müssten. Ich glaube deshalb, dass es notwendig sein<lb/>
+wird, dass wir in dem Konsumentenrat in Arbeitsgruppen aufgeteilt, die<lb/>
+Forderungen des Handels und insbesondere der Kleinhändler genau unter<lb break="no"/>suchen. Ich liess die Diskussionsteilnehmer in meinem Schlusswort nicht<lb/>
+im Unklaren, dass ich von einem sogenannten Antischleuderergesetz über<lb break="no"/>haupt nichts halte. Ich konnte ihnen beweisen, dass in dem Ministerium<lb/>
+bei mir überhaupt keine Vorarbeiten für ein solches Gesetz geleistet<lb/>
+wurden, die ein brauchbares Ergebnis zeitigen würden. Ich hatte ihnen<lb/>
+auch mitgeteilt, dass ich bei dem internationalen Kleinhandelskongress,<lb/>
+die von Kom.Rat <name type="person" ref="per:112013">Zach</name> angeregte Diskussion mit den ausländischen Dele<lb break="no"/>gierten geführt hatte. Bei dieser Diskussion konnte ich ja damals fest<lb break="no"/>stellen, dass man in Deutschland ja viel weiter sei und man uns prophe<lb break="no"/>zeite, dass auch in Österreich der Diskonter dann noch wesentlich stärker er<lb break="no"/>höht werden wird . Die Kleinhandelsbetriebe haben nur eine Chance, dass<lb/>
+sie überleben, wenn sie sich spezialisieren. Ich glaube, dass es zweckmäs<lb break="no"/>sig und zielführend wäre, eine Untersuchung über die Diskriminierung des<lb/>
+Handels durch die Produktionsbetriebe und vor allem durch die Grosshänd<lb break="no"/>ler anzustellen. Noch immer geistert in diesen Reihen die Meinung, dass<lb break="no"/>die Brauereien z.B. das Bier dem Diskonter, der die Flasche um 2.10<lb/>
+also unter dem Einstandspreis des Kleinhändlers verkauft, diese Flasche<lb/>
+entsprechend billig von den Brauereien geliefert bekommt. Ausser der<lb/>
+Mittelstandsuntersuchung, die jetzt der Wirtschafts- und Sozialbeirat<lb/>
+in Angriff nimmt, wäre es meiner Meinung nach höchste Zeit, dass wir<lb/>
+auch im Konsumentenforum Arbeitsgruppe festsetzen, um die tatsächlichen<lb/>
+Verhältnisse auf dem Verteilungs- und Distributionssektor endlich zu<lb/>
+erfassen.</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="03_0705_11" facs="03_1970-10-28_0705-11.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>TAgesprogramm, 28.10.1970</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="03_0709_01" facs="03_1970-10-28_0709-01.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Besuchsplan Parlament, 28./29.10.1970</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="03_0709_02" facs="03_1970-10-28_0709-02.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>hs. Notizen</head>
+            <gap reason="sampling"/>
+            <pb n="03_0709_03" facs="03_1970-10-28_0709-03.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="03_0709_04" facs="03_1970-10-28_0709-04.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="03_0709_05" facs="03_1970-10-28_0709-05.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="03_0709_06" facs="03_1970-10-28_0709-06.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="03_0709_07" facs="03_1970-10-28_0709-07.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="03_0709_08" facs="03_1970-10-28_0709-08.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="03_0709_09" facs="03_1970-10-28_0709-09.jpg"/>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+  </text>
+</TEI>

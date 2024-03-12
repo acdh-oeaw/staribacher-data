@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der 26. Oktober 1974</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band23_1974-10-26</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1974-10-26">Samstag, 26. Oktober 1974</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2017-02-16">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band23/">
+      <body>
+         <pb n="23-1291" facs="23_1974-10-26_1291.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Samstag, 26. Oktober 1974</p><p xml:space="preserve">Der Ministerrat und die Kranzniederlegung, fast würde ich<lb/>
+sagen, wie gehabt. Interessant war nur, daß <name type="person" ref="per:97668">Kreisky</name> die Fest<lb break="no"/>rede ohne schriftliche Unterlagen gehalten hat, trotzdem war<lb/>
+sie sehr interessant, weil er natürlich, nachdem das Fernsehen<lb/>
+anwesend war, damit rechnen konnte, daß ein Teil dieser Rede<lb/>
+im Fernsehen übertragen wird, natürlich genau dasselbe Problem<lb/>
+bei jeder freigesprochenen Rede, was wird dann das Fernsehen<lb/>
+übernehmen. Dies erscheint mir nämlich auch als ein ungelöstes<lb/>
+Problem, durch das freie Sprechen entsteht ein unmittelbar guter<lb/>
+Eindruck, aber was das Fernsehen nachher bringt, kann man über<lb break="no"/>haupt nicht beeinflussen. Hier wäre die Voraussetzung, daß eben<lb/>
+sich selbst oder irgendeine Vertrauensperson die Aufnahme ansieht<lb/>
+und dann erklärt, dies und dies Stück sollte man übertragen, dann<lb/>
+hieß es aber sofort, es wird manipuliert, obwohl es doch eigentlich<lb/>
+selbstverständlich ist, daß der Betreffende seine ihm wichtig<lb/>
+erscheinenden Stellen im Fernsehen übertragen bekommt und nicht<lb/>
+das, was der Moderator, der meistens die Rede erörtert und nach<lb break="no"/>her die Auszüge, die scheinbar der Redakteur bestimmt, übertragen<lb/>
+werden.</p><p xml:space="preserve">Der Fitmarsch, an dem ich mich diesmal, weil ich mich gar nicht<lb/>
+umziehen konnte und nachmittags nach Niederösterreich fahren<lb/>
+mußte, vom Praterstern zum Lusthaus mitmachte, war ein voller<lb/>
+Erfolg, trotzdem <name type="person" ref="per:109961">Staberl</name> sehr abfällig über diesen ganzen Fit<lb break="no"/>marsch spricht, er meint, die Leute sollten nicht das ganze Jahr<lb/>
+hindurch so viel fressen und saufen und dann einmal am National<lb break="no"/>feiertag ein bißchen Bewegung machen, beteiligten sich 10.000<lb/>
+daran, Junge, Alte, ja sogar Querschnittsgelähmte und Krüppel<lb/>
+fuhren mit ihren Rollstühlen mit. Für mich ist das immer wieder<lb/>
+ein Beweis, daß man die Menschen mit scheinbar ganz nebensächlichen<lb/>
+Aktivitäten beeinflussen kann. Hier wäre sicherlich noch ein<lb/>
+breites Feld der Betätigungsmöglichkeit auch für unsere Partei,<lb/>
+wenn man dies geschickt aufzieht und einen entsprechenden allge<lb break="no"/>meinen Rahmen findet. Auf der Landstraße ist uns dies einmal<lb/>
+mit dem Fiakerfuhrpark geglückt.</p><p xml:space="preserve">Anmerkung für <name type="person" ref="per:97646">KOPPE</name>: Vielleicht gibt es da noch ungeahnte Möglich<lb break="no"/>keiten für die Propagandisten.</p><pb n="23-1292" facs="23_1974-10-26_1292.jpg"/><p xml:space="preserve">Bei der Einweihung und Eröffnung der zweiten Betriebsstätte<lb/>
+von der Firma Welser in Gresten war interessanterweise nur<lb/>
+der Landeshauptmann-Stellvertreter <name type="person" ref="per:97389">Czettel</name> von Niederösterreich<lb/>
+anwesend. Die ÖVP war außer den Handelskammer- und Industriellen<lb break="no"/>vereinigungsvertretern, dort war <name type="person" ref="per:97581">Igler</name> und <name type="person" ref="per:97733">Mayer-Gunthof</name>, gekommen,<lb/>
+zwar vertreten, aber die Landesregierungs-ÖVP-Mitglieder hatten<lb/>
+sich angeblich entschuldigt, weil ich die Eröffnung der Halle vor<lb break="no"/>nahm, mir konnte es nur recht sein. <name type="person" ref="per:97581">Igler</name> lieferte mir die ent<lb break="no"/>sprechenden Stichworte, die Frau <name type="person" ref="per:115020">Welser</name>, die in Wirklichkeit die<lb/>
+Seele des Betriebs ist, hat in ihrer Natürlichkeit dort sogar<lb/>
+die ganze Familie, d.h. die neunte und zehnte Generation vor<lb break="no"/>gestellt, so daß ich bei meiner Festansprache genug Stoff hatte<lb/>
+und auch ununterbrochen Zwischenapplaus erntete. Der Bezirks<lb break="no"/>hauptmann hat in seiner Ansprache sogar darauf verwiesen, daß<lb/>
+Welser jetzt für die UNO-City einen großen Auftrag hat und die<lb/>
+Profile zu liefern, was mich veranlaßte zu sagen, darauf geh ich<lb/>
+zwar nicht ein, aber bei der Gelegenheit gleich <name type="person" ref="per:111325">Mock</name>, der eben<lb break="no"/>falls mit Frau anwesend war, ansprach.</p></div>
+      </body>
+      
+   </text>
+</TEI>

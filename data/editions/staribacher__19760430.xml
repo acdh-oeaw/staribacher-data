@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der 30. April 1976</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band30_1976-04-30</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1976-04-30">Freitag, 30. April 1976</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-01-06">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="30-0566" facs="30_1976-04-30_0566.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Freitag, den 30. April 1976<lb/>
+</p>
+            <p xml:space="preserve">Beim Referat in der Möbesschule mit Metallarbeitern aus ganz<lb/>
+Österreich und der anschliessenden Diskussion muss ich fest<lb break="no"/>stellen, dass eine gewisse Diskussionsmüdigkeit besteht. <name type="person" ref="per:97476">Gmoser</name><lb/>
+führt dies darauf zurück, dass bei den Metallarbeitern wenig Einfluss<lb/>
+darauf genommen wird, wie oft jemand in Kurse geht, wer in die Kurse<lb/>
+geht und kein System herrscht. Bei uns Lebensmittelarbeitern wird<lb/>
+vom Bildungssekretär <name type="person" ref="per:140390">Gludovatz</name> immer wieder versucht, eine gewisse<lb/>
+Systematik einzuhalten. Zuerst einen Grundlehrgang, dann eventuell<lb/>
+noch einen zweiten und dann schon aber Aufbaulehrgänge je nach der<lb/>
+Leistungskapazität der Betriebe und vor allem der Aufnahmefähigkeit<lb/>
+der Teilnehmer. <name type="person" ref="per:97476">Gmoser</name> ist auch über die fraktionelle Zusammensetzung<lb/>
+unzulänglich informiert. Er nimmt an, dass es sich um lauter Genossen<lb/>
+handelt, was ich natürlich in der Kürze der Zeit überhaupt nicht<lb/>
+feststellen kann.<lb/>
+</p>
+            <p xml:space="preserve">Beim Frühstück Landeshauptmann <name type="person" ref="per:113131">Niederls</name> in der Grazer Burg lerne<lb/>
+ich den neuen britischen Botschafter kennen. Wir unterhalten uns<lb/>
+über die britische Wirtschaft und ganz besonders, ob es dem neuen<lb/>
+Premier <name type="person" ref="per:140771">Callaghan</name> gelingt, die Gewerkschaften zu der erwarteten Mässi<lb break="no"/>gung zu bringen. Bei 15% Preissteigerung eine 3–4, höchsten 5%ige<lb/>
+Lohnerhöhung. Wenn die westeuropäische Konjunktur anhält, bin ich<lb/>
+überzeugt können zwar die Gewerkschaften dann zurückhaltende Politik<lb/>
+betreiben, die Betriebsräte werden in den Betrieben entsprechende<lb/>
+Lohnkorrekturen verlangen. Beim Mittagessen im Steirerhof lerne ich<lb/>
+auch die Frau des britischen Botschafters kennen. Sie erzählt mir<lb/>
+freimütig, dass die Beziehungen zwischen Grossbritannien und Öster<lb break="no"/>reich so gut sind, dass sich ihr Mann nach jeden Antrittsbesuch immer<lb/>
+wieder fast beklagt, dass es keine Probleme zu besprechen gibt. Diesen<lb/>
+Eindruck muss ich sagen. habe auch ich bekommen. Wie soll auch ein<lb/>
+Botschafter, der noch niemals in Österreich als Botschafter oder als<lb/>
+Botschaftsangehöriger tätig war, daher Detailprobleme beim besten<lb/>
+Willen nicht kennen kann, dann nicht nur einen Höflichkeitsbesuch ab<lb break="no"/>statten, sondern auch wirklich einige Probleme zur Sprache bringen.<lb/>
+Solche Besuche können daher nur protokollarisch enden, d.h. mit Höflichkeits<lb break="no"/>floskeln ausgefüllt sein. Ich bin sehr froh, dass ich mir diesen Protokollbe<lb break="no"/>such erspart habe.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Eröffnung der Grazer Messe hat <name type="person" ref="per:113131">Niederl</name> sein Konzept insofern ergänzt,<lb/>
+als<lb/>
+<pb n="30-0567" facs="30_1976-04-30_0567.jpg"/>er sich erinnert, dass die letzte Grazer-Messe vor den Wahlen war. Er frei<lb break="no"/>mütigst bekannte, damals als auch jetzt mich lieber als Privatperson empfangen<lb/>
+hätte. Er erklärte, dass sich dies aber nicht gegen mich richtet, sondern ganz<lb/>
+im Gegenteil er mir anstelle der Stress-Arbeit ein ruhiges beschauliches Pen<lb break="no"/>sionistendasein gönnen würde. Natürlich hatte ich hier einen guten Aufhänger für<lb/>
+meine Rede. Die ausländischen Botschafter bestätigen mir immer wieder und sagen<lb/>
+dies auch <name type="person" ref="per:113131">Niederl</name>, wie sehr sie sich auf die Messeeröffnung immer freuen, weil<lb/>
+es hier eine aktuelle Bezogenheit und ein richtiges Ping-Pong, d.h. hin und<lb/>
+her zwischen <name type="person" ref="per:113131">Niederl</name> und mir, vorher zwischen <name type="person" ref="per:126988">Krainer</name> und mir gegeben hat und<lb/>
+gibt. Beim Essen im Steirerhof hat dann <name type="person" ref="per:113131">Niederl</name> noch einmal gesprochen und der<lb/>
+neue Messepräsident Dr. <name type="person" ref="per:123821">Höller</name> meinte, ob auch nicht ich das Wort ergreifen möchte.<lb/>
+Ich erklärte rundwegs, dies wäre sehr unfair, denn hier soll der Landeshauptmann<lb/>
+wenigstens das letzte Wort haben.<lb/>
+</p>
+            <p xml:space="preserve">Bürgermeister <name type="person" ref="per:112569">Götz</name> hat bei seiner Ansprache behauptet, eine Grazer Firma hat<lb/>
+sich nicht zuletzt aus Umweltgründen auf Flüssiggas umgestellt. Jetzt sei dieser<lb/>
+Brennstoff sehr teuer und die Firma hätte grosse Schwierigkeiten. Angeblich hätte<lb/>
+ich der Firma dann nur ein Schreiben geschickt, wo ich ihr kaltblütig mitteilte,<lb/>
+dann solle sie sich eben wieder auf Heizöl umstellen. Wie <name type="person" ref="per:112569">Götz</name> dies vorgebracht<lb/>
+hat, musste der Eindruck entstehen, dass ich es mir sehr leicht gemacht habe.<lb/>
+Ich habe <name type="person" ref="per:112569">Götz</name> daher anschliessend sofort entsprechend gefragt, wie so er zu einer<lb/>
+solchen Behauptung kommt und er sagt, er hätte einen diesbezüglichen Brief von<lb/>
+mir gelesen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:114508">TIEBER</name>: Bitte stelle fest, eventuell Anfrage bei <name type="person" ref="per:112569">Götz</name>, um welchen<lb/>
+Betrieb es sich handelt und versuche den Schriftverkehr zu finden.<lb/>
+</p>
+            <p xml:space="preserve">Beim Messedurchgang hat mich dann der bulgarische Botschafter ersucht, dass ich<lb/>
+mit den VÖEST-Alpine-Leuten über den Besuch von Balkankar-Vertreter spreche. Dir.<lb/>
+<name type="person" ref="per:97729">Matthes</name> war informiert und ich habe ihn mit den bulgarischen Botschafter neuerdings<lb/>
+zusammengebracht um die Einzelheiten zu klären. Dieser hofft noch immer, dass<lb/>
+die VÖEST-Alpine die Hubstapler von Balkankar vertreten wird, oder sogar vielleicht<lb/>
+eine Kooperation mit ihnen macht. Ich gab mich da keiner Illusion bin, doch<lb/>
+musste ich mehr oder minder dem Wunsch des bulgarischen Botschafters erfüllen.<lb/>
+Weiters hofft er, dass es gelingt mit österreichischen Firmen auf dem Elektronik<lb break="no"/>sektor zu einer engen Zusammenarbeit zu kommen. Er stellt sich vor, man soll gewisse<lb/>
+Elemente und Bauteile die sie erzeugen in Kooperation mit österreichischen Firmen hier<lb/>
+einbauen. Ich versprach ihm nur, die entsprechenden österreichischen Firmen aus<lb break="no"/>findig zu machen, die dafür in Frage kämen.<lb/>
+</p>
+            <pb n="30-0568" facs="30_1976-04-30_0568.jpg"/>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name>: Die Handelskammer soll eine diesbezügliche Rundfrage ma<lb break="no"/>chen und uns dann unverzüglich mitteilen, damit wir den bulgarischen Botschaf<lb break="no"/>ter verständigen.<lb/>
+</p>
+            <p xml:space="preserve">Der Gen-Dir.der STEWEAG <name type="person" ref="per:114463">Altziebler</name> und der Landeshauptmann <name type="person" ref="per:113131">Niederl</name> wurden von<lb/>
+mir informiert, dass in Hinkunft kaum mehr die Möglichkeit bestehen wird in der<lb/>
+ÖDK steirische Aufsichtsräte zu haben. <name type="person" ref="per:113131">Niederl</name> meinte in der Hoffnung ich würde<lb/>
+den sozialistischen Vertreter <name type="person" ref="per:97935">Sebastian</name> nicht eliminieren, es müssten beide<lb/>
+steirischen Vertreter herausgezogen werden. Genau dies ist aber meine Absicht,<lb/>
+und <name type="person" ref="per:97935">Sebastian</name> ist im Prinzip damit einverstanden. <name type="person" ref="per:113131">Niederl</name> meinte dann zwar noch<lb/>
+sie würden durch Voitsberg III sich jetzt so stark wieder in der Drau engagieren,<lb/>
+dass auch ihr Kapitalanteil wesentlich grösser wird. <name type="person" ref="per:114463">Altziebler</name> hat mir dann sofort<lb/>
+erklärt, dass hier der Landeshauptmann irrt. Die STEWEAG wird sich daran beteiligen<lb/>
+aber nur in Form von Baukostenzuschüssen. Diese sind nämlich auch auf Grund der<lb/>
+Elektrizitätsförderung steuerlich absetzbar. Eine Kapitalbeteiligung kommt nicht<lb/>
+in Frage. Voraussetzung für eine richtig grosse Beteiligung an Voitsberg III<lb/>
+als erstes Angebot meinte <name type="person" ref="per:114463">Altziebler</name> würden wir 10% bekommen, wahrscheinlich kann<lb/>
+man wesentlich mehr erreichen, müsste die Herabsetzung der koordinierten Über<lb break="no"/>nahmemenge von Verbundstrom von 30% auf 25% sein. Die STEWEAG kann nicht Voitsberg III<lb/>
+Strom und dann noch gleichzeitig auch den vollen Koordinierungsprozentsatz er<lb break="no"/>füllen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:114508">TIEBER</name> UND <name type="person" ref="per:107937">FRANK</name>: Bitte <name type="person" ref="per:97333">Bandhauer</name> verständigen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:114463">Altziebler</name> wollte mir erklären, dass eine Zusammenfassung der Atomkraftwerke und<lb/>
+der Planungsgesellschaft in eine Gesellschaft nicht notwendig ist. Er meinte es gäbe<lb/>
+optimalere Lösungen der Zusammenarbeit. Ich ersuchte ihm, mir die entsprechenden<lb/>
+Unterlagen darzulegen, aber ganz besonders zuerst mit SChef <name type="person" ref="per:107937">Frank</name> dieses Problem<lb/>
+im einzelnen zu behandeln. Ich kann mir nicht vorstellen, dass es eine optimale<lb/>
+Lösung gibt, wo nicht doch alle Gesellschaften die jetzt existieren, in eine einzige<lb/>
+Gesellschaft zusammengeführt werden. <name type="person" ref="per:114463">Altziebler</name> meint, man könne sich je bei allen<lb/>
+den Aufsichtsrat ersparen, weil es sich um Ges.m.b.H., handelt. Die verschiedenen<lb/>
+Beteiligungsverhältnisse Stromabnahme durch die einzelnen Landesgesellschaften<lb/>
+erschweren nach Meinung <name type="person" ref="per:114463">Altzieblers</name> die Zusammenfassung in einer einzigen Atom<lb break="no"/>gesellschaft.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:114508">TIEBER</name>: <name type="person" ref="per:110944">Zluwa</name> soll dies genau untersuchen.<lb/>
+</p>
+            <pb n="30-0569" facs="30_1976-04-30_0569.jpg"/>
+            <p xml:space="preserve">Die Betriebsräte der Firma Bauer Voitsberg, aber vor allem Frau <name type="person" ref="per:142537">CIFER</name>, ihr<lb/>
+Mann liegt derzeit im Spital, wollten wegen des inhaftierten Ing. <name type="person" ref="per:142538">Zalar</name> in Kuba<lb/>
+mit mir sprechen. Dabei stellte sich sofort für mich heraus, dass ausser der Sorge<lb/>
+insbesondere der Belegschaft wegen der Enthaftung von <name type="person" ref="per:142538">Zalar</name>, Frau <name type="person" ref="per:142537">Cifer</name> erwartet,<lb/>
+dass sie die Geschäfte mit Kuba wird kaum zeitgerecht und in vollem Umfang ab<lb break="no"/>wickeln können. Sie meint, wenn die Belegschaft nicht mehr bereit ist dort zu<lb/>
+arbeiten, so wäre dies höhere Gewalt. Dadurch ergebe sich eine besonders kri<lb break="no"/>tische Situation gegenüber der Österreichischen Kontrollbank. <name type="person" ref="per:142537">Cifer</name> fürchtet<lb/>
+dass sich daraus Kredit- oder überhaupt Bezahlungsschwierigkeiten ergeben könnten.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name>: Bitte lass dieses Problem im Haus klären und insbesondere mit<lb/>
+der Kontrollbank besprechen. Anschliessend dann Antwortschreiben<lb/>
+an die Belegschaftsvertreter.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Eröffnung eines Werkstattgebäudes der Firma Uhl habe ich wieder feststellen<lb/>
+können, wie doch die Abhängigkeit der Arbeiter von ihren Unternehmern noch sehr<lb/>
+ungerechtfertigt sein kann. <name type="person" ref="per:142539">Uhl</name> beschäftigt in Theresienfeld fast ausschliesslich<lb/>
+burgenländische Bauarbeiter. Er hat zu diesem Zweck ein ganz nettes Sozialgebäude,<lb/>
+wie er sagt, errichtet. Im Vergleich zu anderen Unterbringungsmöglichkeiten für<lb/>
+Bauarbeiter handelt es sich hier wirklich um eine mustergültige Lösung. 4–6 Bau<lb break="no"/>arbeiter in einem Raum in einem modernen Haus. voll Stolz hat er alle Bauarbeiter<lb/>
+zurückgehalten, damit sie sozusagen beim Minister anwesend sind. Anschliessend gab<lb/>
+es dann für die Ehrengäste ein Riesenbuffet von der Werksküche hergestellt. Viele<lb/>
+hatten sich allerdings wegen der ungünstigen Zeit entschuldigt oder waren ganz<lb/>
+einfach nicht gekommen. So bliebe 2/3 der Tafel leer. Die Arbeiter aber mussten dort<lb/>
+warten. Was die dann aber bekommen haben, ist mir nicht ganz klar geworden. <name type="person" ref="per:142539">Uhl</name> selbst<lb/>
+hat erst in den 60er Jahren als Selbständiger begonnen und sich wirklich ein<lb/>
+kleines vermögen geschaffen. Auf dem Firmengelände eine herrliche Villa, dazu dann<lb/>
+noch ein entsprechend <choice><choice><sic>angesondertes</sic><corr>?</corr></choice></choice> eigenes Jagdhaus, wo er uns die erlegten<lb/>
+Bären und sonstigen exotischen Tiere zeigte. Eine Jagd jetzt in Burgenland, wo<lb/>
+er sich Montag bis Freitag immer aufhält. Seine Frau einen Pferdestall mit 5 Reit<lb break="no"/>pferde und ich weiss nicht was sonst noch alles. Er meinte mir gegenüber mit Stolz,<lb/>
+wieviele Dutzende Fahrzeuge er mit Spezialsprechfunk ausgestattet usw. hat. Auf der<lb/>
+einen Seite ist er wirklich ein sozialer Unternehmer, auf der anderen Seite aber,<lb/>
+obwohl Vertreter des Freien Wirtschaftsverbandes, ein richtiggehender Parvenü.<lb/>
+Mich persönlich hat schrecklich gestört, obwohl er angeblich, und daran zweifle ich<lb/>
+gar nicht, die Belegschaft mit Überstunden für die Anwesenheit während der Feier<lb/>
+entschädigen wird, dass diese armen Arbeiter nicht schon nach Hause fahren konnten.<lb/>
+Ich hätte eben seine Halle auch nur bei Anwesenheit von nur wenigen Ehrengästen<lb/>
+genau so gerne, ja in dem Fall sogar noch lieber, eröffnet.<lb/>
+</p>
+            <pb n="30-0570" facs="30_1976-04-30_0570.jpg"/>
+            <p xml:space="preserve">Beim Fackelzug in Neunkirchen meinte der Ortsobmann, es seien heuer wesentlich<lb/>
+mehr Teilnehmer als im vergangenen Jahr. Ich habe natürlich keine Vergleichs<lb break="no"/>möglichkeit, hatte aber den Eindruck, dass es sich wirklich um eine sehr lebhafte<lb/>
+und enthusiastische Veranstaltung handelte. Trotz der Kälte ist eine ge<lb break="no"/>wisse Stimmung aufgekommen. Vielleicht allerdings haben die Leute nur<lb/>
+applaudiert und gerufen, damit sie sich ein bisschen erwärmen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="30_0565_01" facs="30_1976-04-30_0565-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 30.4.1976</head>
+         </div>
+      </back>
+   </text>
+</TEI>

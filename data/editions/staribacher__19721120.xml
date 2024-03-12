@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Montag, der 20. November 1972</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band13_1972-11-20</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1972-11-20">Montag, 20. November 1972</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-11-05">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="13-1392" facs="13_1972-11-20_1392.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Montag, 20. November 1972<lb/>
+</p>
+            <p xml:space="preserve">Beim Jour fixe mit <name type="person" ref="per:97893">Sallinger</name>, wo nur er anwesend war, habe ich ihm<lb/>
+die Gretchen-Frage gestellt, ob er beim Stabilitätsabkommen mitwirken<lb/>
+wird oder nicht. Er selbst erklärte, dass er sehr wohl sich mit <name type="person" ref="per:97346">Benya</name><lb/>
+hier zusammensetzen wird, um einen Beitrag gegebenenfalls zu leisten.<lb/>
+Natürlich macht er sein Mitwirken insbesondere von einer Vereinbarung<lb/>
+mit <name type="person" ref="per:97346">Benya</name> abhängig. Er beschwerte sich mir gegenüber, dass das letzte<lb/>
+Mal <name type="person" ref="per:97311">Androsch</name> erklärt hat, dass wenn die Sozialpartner nicht mitmachen,<lb/>
+dann die Regierung allein dieses Stabilisierungsabkommen durchziehen<lb/>
+wird. Wichtig erscheint mir, dass er mit <name type="person" ref="per:97346">Benya</name> in diesem Fall ein Ge<lb break="no"/>spräch aufnimmt. Solange nämlich die Handelskammer mit dem ÖGB auch<lb/>
+wenn sie sehr negativ gegen das Stabilisierungsabkommen eingestellt ist,<lb/>
+Besprechungen führt, solange können wir damit rechnen, dass sie doch<lb/>
+in irgendeiner Weise gemeinsam beim Stabilisierungsabkommen mitwirken.<lb/>
+Gegen die Interessenvertretung kann ich mir beim besten Willen nicht<lb/>
+vorstellen, dass wir ein solches Abkommen durchziehen können. Da er<lb/>
+eine Auszeichnung von LH <name type="person" ref="per:114583">Kery</name> im Burgenland bekam, konnten wir nur<lb/>
+20 Minuten für unsere Probleme aufwenden. Er intervenierte für<lb/>
+<name type="person" ref="per:140221">Viktor Adler</name> aus Kitzbühel einen ERP-Kredit, <name type="person" ref="per:140222">Bucher</name> einen Zinsenzuschuss<lb/>
+vom Handelsministerium, Hausaktion<add>[hs. ergänzt: Zinsenzuschuß, Anm.]</add>, und <name type="person" ref="per:140223">Zoubek</name> einen Zinsenzuschuss von<lb/>
+der BÜRGES.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Bitte alle drei erledigen. Die Fa. <name type="person" ref="per:117633">Hrabak</name>, Reali<lb break="no"/>tätenhändler, will nun auch das Staatswappen führen. Ich habe seinerzeit<lb/>
+mit <name type="person" ref="per:97893">Sallinger</name> und <name type="person" ref="per:97769">Mussil</name> gesprochen und die Frage aufgeworfen, ob es<lb/>
+zweckmässig ist, dass wir <choice><choice><sic>Nicht-Produktionsbetriebe</sic><corr>nicht nur Produktionsbetriebe</corr></choice></choice> und Handelsbetriebe,<lb/>
+sondern eben Realitäten-, Hausverwalter usw. ein Staatswappen geben soll<lb break="no"/>ten. Ich neige eigentlich mehr der Meinung zu, dass dies nicht zweckmäs<lb break="no"/>sig ist. Wenn nicht schon in früheren Jahren eine entsprechende Auszeich<lb break="no"/>nung von solchen Firmen erfolgt ist, sollte ich glaube ich nicht damit<lb/>
+beginnen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97893">Sallinger</name> ist sehr erstaunt, dass trotz meiner Stellungnahme jetzt das<lb/>
+Haus immer wieder urgiert bei der Handelskammer Wien eine endgültige<lb/>
+positive Stellungnahme zu bekommen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Bitte die bisherige Vorgangsweise in dieser Bran<lb break="no"/>che zu überprüfen und keinesfalls mehr bei der Handelskammer Wien, wenn<lb/>
+dies negativ ausfällt, die Stellungnahme urgieren.<lb/>
+</p>
+            <pb n="13-1393" facs="13_1972-11-20_1393.jpg"/>
+            <p xml:space="preserve">Die Forderung von Präs. <name type="person" ref="per:140224">Thiele</name> und anderer Kärntner Genossen, <name type="person" ref="per:140225">Haslacher</name><lb/>
+zum Kommerzialrat zu machen, die bis jeztt von der Kärntner Handels<lb break="no"/>kammer auch von der Bundeshandelskammer abgelehnt wurde, will <name type="person" ref="per:97893">Sallinger</name><lb/>
+nun mit <name type="person" ref="per:97602">Jodlbauer</name> besprechen, der angeblich eine Aussprache mit ihm in<lb/>
+14 Tagen wegen Kommerzialratstiteln hat. Ich habe <name type="person" ref="per:97602">Jodlbauer</name> sofort bei<lb/>
+der Sitzung "Möbel-Wohnen", wo ich ihn getroffen haben, von dieser neuen<lb/>
+Wendung in Kommerzialratstitelfragen verständigt.<lb/>
+</p>
+            <p xml:space="preserve">Beim Pressefrühstück war die schriftliche Unterlage noch nicht fertig,<lb/>
+als wir die Sitzung begannen. Nachher kam ein ausführlicher Text von<lb/>
+5 Seiten. Ich glaube, dass solche ausführliche schriftliche Unterlagen<lb/>
+nicht sehr zielführend sind. Ich fürchte nämlich, dass die Journalisten<lb/>
+gar nicht die Zeit aufwenden, um dies alles zu lesen. Waschzettel müsste<lb/>
+ganz kurz gefasst sein, damit er womöglich sofort so in Druck gehen kann.<lb/>
+Ausführlichere schriftliche Darstellungen muss nämlich der Redakteur<lb/>
+umschreiben und da bin ich nicht ganz sicher, ob er sich diese Arbeit<lb/>
+macht. Besprechung und ergänzende Fragen sollen, wenn die schriftliche<lb/>
+Unterlage nicht ausreicht eben im Pressegespräch dann von Seiten des<lb/>
+Referenten oder gegebenenfalls von mir ergänzt werden. <name type="person" ref="per:97646">Koppe</name> hat an<lb break="no"/>schliessend an dieses Gespräch mit der Presse mir erklärt, dass ein<lb break="no"/>zelne Redakteure über die Aussage bei dieser Sitzung nicht sehr<lb/>
+glücklich waren, da sie sehr mager ausgefallen ist. Ich muss ihm<lb/>
+insoferne zustimmen, als ich überhaupt keinerlei Sensationen diesmal<lb/>
+anbieten konnte. Ich glaube, dass ich wirklich in Hinkunft bei aller<lb/>
+Loyalität gegenüber anderen Ministern doch bei solchen Besprechungen<lb/>
+Einzelheiten mitteilen müsste. Da ich dies aber keinesfalls selbst tun<lb/>
+will, müsste man organisieren, dass entsprechende Anfragen kommen. Wenn<lb/>
+ich nämlich gefragt werde, dann kann ich mich ja nicht auf den Stand<lb break="no"/>punkt: Mein Name ist Hase, ich weiss von nichts" zurückziehen.<lb/>
+<name type="person" ref="per:126284">Leherb</name>, der für die ÖFVW 4 Plakate entworfen hat, wird Mittwoch, den<lb/>
+29. November bei Piller die ersten Andrucke mit mir entnehmen. Da es<lb/>
+bei den Malern noch mehr als bei den Schauspielern einen ungeheuren<lb/>
+Konkurrenzkampf gibt, jeder möchte der grösste und der beste sein und<lb/>
+eine entsprechende Anerkennung durch den Staat erfahren, möchte <name type="person" ref="per:126284">Leherb</name>,<lb/>
+dass auch er vom Unterrichtsministerium entsprechend gefördert wird.<lb/>
+Es geht ihm dabei weniger um die finanzielle Seite obwohl die natürlich<lb/>
+bei dem sehr tüchtigen Geschäftsmann <name type="person" ref="per:126284">Leherb</name> auch eine Rolle spielt,<lb/>
+sondern um das Sozialprestige gegen seine Mitkonkurrenten. 1959 hat<lb/>
+nämlich <name type="person" ref="per:126284">Leherb</name> mit <name type="person" ref="per:113831">Hausner</name>, <name type="person" ref="per:135252">Hutter</name>, <name type="person" ref="per:140226">Lehmden</name>, <name type="person" ref="per:127116">Fuchs</name><add>[hs. ergänzt, Anm.]</add> die Schule des Wiener<lb/>
+<pb n="13-1394" facs="13_1972-11-20_1394.jpg"/>phantastischen Realismus gegründet, die <name type="person" ref="per:139697">Gütersloh</name> damals als<lb/>
+<choice><choice><sic>phantos magorica</sic><corr>?</corr></choice></choice> bezeichnete. Nun ist <name type="person" ref="per:126284">Leherb</name> aus dieser Gruppe<lb/>
+ausgeschieden und gerade jetzt haben im Museum des 20. Jahrhunderts<lb/>
+oder wie er sich ausdrückt im Zwanzger-Haus, 5 eine Ausstellung er<lb break="no"/>öffnet, die in einer Warenausstellung in Tokio gewesen ist. <name type="person" ref="per:126284">Leherb</name><lb/>
+betrachtet das als eine Konkurrenz gegen seine eben jetzt schon bekannt<lb/>
+werdende Plakative Leistung für Österreich. Ich konnte ihm natürlich<lb/>
+und wollte auch gar nicht irgendwelche konkreten Zusagen machen, doch<lb/>
+<name type="person" ref="per:97543">Heindl</name> hat ihm zugesichert, dass ich und auch er selbst seine Bemühungen<lb/>
+um mehr Anerkennung in der Bundesregierung, da <name type="person" ref="per:126284">Leherb</name> erklärt, für ihn<lb/>
+gibt es immer nur Beifall und sonst nichts, sich einsetzen werden.<lb/>
+Bei der Ministerratsvorbesprechung hat mir <name type="person" ref="per:113083">Sinowatz</name> zugesichert,<lb/>
+dass er zwar leider an dem Mittwoch-Abend nicht kommen kann, weil<lb/>
+er bereits eine Parteiveranstaltung im Burgenland hat, doch ist er<lb/>
+bereit, am nächsten Tag um 15 Uhr mit ihm zusammenzutreffen, sogar<lb/>
+ein Glas Wein mit ihm zu trinken und sich über die Probleme <name type="person" ref="per:126284">Leherb</name><lb/>
+sehr eingehend zu unterhalten.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Bitte, <name type="person" ref="per:126284">Leherb</name> doch mehr in der Richtung zu ver<lb break="no"/>ständigen und zu beeinflussen, dass <name type="person" ref="per:113083">Sinowatz</name> der dafür zuständige Mi<lb break="no"/>nister ist und nicht ich.<lb/>
+</p>
+            <p xml:space="preserve">Dr. <name type="person" ref="per:112950">Winterleitner</name> möchte, dass wir die restliche Vorträge aus der Umwelt<lb break="no"/>schutzreihe des Handelsministeriums ebenfalls drucken. Für die ersten<lb/>
+drei hat er von mir angeblich eine Druckgenehmigung bekommen und<lb/>
+jetzt wäre es gegenüber den anderen Vortragenden ungerecht, wenn<lb/>
+diese nicht ebenfalls in Druck erscheinen würden. Ich schlage ihm vor,<lb/>
+dass, nachdem vom Bohmann-Verlag 35.000 S dafür verlangt werden, dass<lb/>
+er mit 30.000 S versucht durchzukommen. Die finanzielle Bedeckung hat<lb/>
+ihm Sekt.Rat <name type="person" ref="per:97722">Marhold</name> zugesichert, ist gegeben. <name type="person" ref="per:112950">Winterleitner</name> macht<lb/>
+mich dann aufmerksam, dass eine neue Diskussionsreihe, ein ganzer<lb/>
+Tag soll im Gewerbeverein dazu dienen, die Beseitigung von Kunststoffen<lb/>
+im Müll gestartet wird. Die Kosten für diese Reihe wären nicht allzu<lb/>
+hoch, da die Deutschen ihre Vortragenden, auf Firmenkosten nach Wien<lb/>
+schicken. Doch ergibt sich immerhin eine finanzielle Belastung, ohne<lb/>
+dass ich jemals eine solche Zustimmung gegeben hätte, auch <name type="person" ref="per:97646">Koppe</name> hat<lb/>
+sich nicht daran erinnert, dass er ein solches Ansuchen jemals geneh<lb break="no"/>migt hätte. <name type="person" ref="per:112950">Winterleitner</name> und <name type="person" ref="per:125823">Hanisch</name> entwickeln hier eine Aktivität,<lb/>
+ohne eigentlich entsprechende Deckungen zu haben. Bei den Besprechungen<lb/>
+wurde mir von <name type="person" ref="per:112950">Winterleitner</name> versichert, sei das Gesundheitsministerium,<lb/>
+<pb n="13-1395" facs="13_1972-11-20_1395.jpg"/>welches ja jetzt primär für Umweltschutz zuständig ist, anwesend ge<lb break="no"/>wesen und hätte keinerlei Einwände gegen eine solche Vortrags<lb break="no"/>reihe des Handelsministerium gemacht.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Da wir für Initiative sehr dankbar sind und kaum<lb/>
+einen Einspruch gegen Massnahmen, wenn einzelne Referenten Initiativen<lb/>
+ergreifen, setzen, wollen, müsste doch vielleicht über <name type="person" ref="per:97722">Marhold</name> abgesi<lb break="no"/>chert werden, dass ein solcher Akt, bevor er dann die Zustimmung des<lb/>
+Präsidiums, Budgetsektion, findet, doch auch zuerst dem Ministerbüro<lb/>
+und mir vorgelegt wird. Auf solchem Wege können wir dann zumindestens<lb/>
+von Aktivitäten des Hauses erfahren.<lb/>
+</p>
+            <p xml:space="preserve">Für den Ausbau der Industriesektion wird <name type="person" ref="per:97493">Gröger</name> jetzt als Gruppen<lb break="no"/>leiter installiert. Er soll die Branchenreferate und die drei Abteilungen<lb/>
+Grundindustrie – <name type="person" ref="per:134830">Peschke</name>, Investitionsindustrie – <name type="person" ref="per:134935">Herger</name> – und traditio<lb break="no"/>nelle Konsumgüterindustrie – <name type="person" ref="per:114963">Dinzl</name> – zusammenfassen. <name type="person" ref="per:97493">Gröger</name> ist ein<lb/>
+junger tüchtiger Beamter, überspringt damit aber zwar nicht in seiner<lb/>
+Aufstiegslinie doch aber in seiner effektiven Stellung den älteren<lb/>
+ebenfalls tüchtigen Ministerialrat <name type="person" ref="per:114963">Dinzl</name>. Hier wird es sicherlich Schwie<lb break="no"/>rigkeiten geben und ich glaube deshalb auch dann, wenn meine Entscheidung<lb/>
+nicht unbedingt die Zustimmung von <name type="person" ref="per:114963">Dinzl</name> braucht, dass ich doch mit<lb/>
+dem unbedingt reden sollte und müsste. <name type="person" ref="per:97493">Gröger</name> selbst kann dies auf keinen<lb/>
+Fall tun. Die Nachfolge von Min.Rat <name type="person" ref="per:134830">Peschke</name> soll so gelöst werden,<lb/>
+dass wir dafür <name type="person" ref="per:108609">Sterk</name> von der OB abdelegieren. <name type="person" ref="per:108609">Sterk</name> selbst, mit dem ich<lb/>
+anschliessend gesprochen habe, meint, dass ihm dies als Fahnenflucht<lb/>
+von den Betrieben, die er nachher zu bearbeiten hat und vor allem<lb/>
+auch von seinen Kollegen in der OB ausgelegt werden würde. Er selbst<lb/>
+schlägt deshalb bis zur endgültigen Klärung der OB und der Energie<lb break="no"/>sektion vor, dass er eine Doppelbesetzung akzeptieren würde. Die Nach<lb break="no"/>folge <name type="person" ref="per:134830">Peschke</name> muss nämlich jetzt unverzüglich in Angriff genommen werden,<lb/>
+da <name type="person" ref="per:134830">Peschke</name> schon einige Male bei mir urgiert hat, wer nun sein Nach<lb break="no"/>folger wird, damit er ihn in die entsprechenden Agenden einweiht und<lb/>
+die Akten übergibt. Ich möchte über dieses Problem noch mit Sekt.Chef<lb/>
+<name type="person" ref="per:97915">Schipper</name>, der am Nachmittag nicht mehr anwesend ist sondern im BKA bei<lb/>
+einer Sitzung und mit dem Ing. <name type="person" ref="per:112947">Engelmayer</name> als Personalvertreter sprechen,<lb/>
+der allerdings auch wieder, da seine Frau im Spital liegt und er selbst<lb/>
+erkrankt ist, nicht zu erreichen ist. Selbst auf telefonischem Wege<lb/>
+ersucht eine Frauenstimme, Abstand zu nehmen, da er gerade Pulver ge<lb break="no"/>nommen hat und schläft.<lb/>
+</p>
+            <pb n="13-1396" facs="13_1972-11-20_1396.jpg"/>
+            <p xml:space="preserve">Die konstituierende Sitzung des Ausschusses "Möbel-Wohnen", der ich<lb/>
+so wie jeder konstituierenden Sitzung beiwohne, um erstens den<lb/>
+Mitwirkenden zu danken und zweitens die Vorsitzenden und Stellver<lb break="no"/>treter zu installieren, benütze ich, um gleichzeitig auch den Staats<lb break="no"/>preis, den ich verleihen will, als ersten Punkt auf die Tagesordnung zu<lb/>
+bringen. Ing. <name type="person" ref="per:139851">Zotter</name>, die die Sekretariatsarbeit für diesen Ausschuss<lb/>
+machen wird, hat mich ganz besonders deswegen ersucht. Komm.Rat <name type="person" ref="per:139966">Wein<lb break="no"/>berger</name>, der an und für sich dieser ganzen Tätigkeit sehr negativ –<lb/>
+wie mir mitgeteilt wird – gegenübersteht, ist von der Bundeskammer<lb/>
+als Vorsitzender vorgeschlagen. Sein Stellvertreter wird Hochschulprofes<lb break="no"/>sor <name type="person" ref="per:139968">Bieber</name> aus Graz sein. Arch. <name type="person" ref="per:140228">Mang</name> und <name type="person" ref="per:139968">Bieber</name> übernehmen die Ausar<lb break="no"/>beitung des Entwurfes eines Staatspreises, wobei sich gleich bei<lb/>
+der Diskussion die Schwierigkeiten ergeben, wo und wer an diesen<lb/>
+Staatspreisen teilnehmen soll und darf. <name type="person" ref="per:139851">Zotter</name> hat auf Grund der Vor<lb break="no"/>schläge alle Wünsche, die beim Konsumentenforum resp. bei unserer En<lb break="no"/>quete "Besser wohnen" vorgebracht wurden zusammengestellt und es ist<lb/>
+ein sehr umfangreiches Programm daraus geworden. Wenn der Arbeitsaus<lb break="no"/>schuss diese Fragen alle in Angriff nimmt, ist er für längere Zeit mit<lb/>
+Arbeit eingedeckt.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Ministerratsvorbesprechung berichtet <name type="person" ref="per:97525">Häuser</name>, dass er mit<lb/>
+<name type="person" ref="per:97668">Kreisky</name> und den Ärzten vereinbart hat, dass mindestens 10 Tage <name type="person" ref="per:97668">Kreisky</name><lb/>
+jetzt in Spitalsbehandlung resp. in ärztlicher Pflege bleibt. <name type="person" ref="per:97311">Androsch</name><lb/>
+und er hätten ihn gestern besucht und das Programm für die nächsten Tage<lb/>
+besprochen- <name type="person" ref="per:97525">Häuser</name> führt die Vorbesprechung nicht so straff und vor<lb/>
+allem nicht so wie <name type="person" ref="per:97668">Kreisky</name> fast in einem Monolog, wo er sich ja<lb/>
+erst selbst meistens die Meinung und die Stellungnahme zu entsprechenden<lb/>
+Gesetzentwürfen aber auch zu Anregungen, die er selbst gibt, bildet,<lb/>
+weshalb eine andere Vorbesprechung Platz greift als bisher. Dies ver<lb break="no"/>anlasst <name type="person" ref="per:115595">Reiter</name> mir nachher zu sagen, da sieht man den Unterschied, wenn<lb/>
+<name type="person" ref="per:97668">Kreisky</name> fehlt. Ich weiss nicht, welche Methode für eine Regierungs<lb break="no"/>führung zweckmässiger ist, sicher ist für mich nur, dass bei dieser<lb/>
+doch mehr diskussionsfreudigen Führung <name type="person" ref="per:97525">Häusers</name> die einzelnen Minister<lb/>
+aber vor allem auch die Staatssekretäre mehr zu Wort kommen. <name type="person" ref="per:97614">Karl</name> berich<lb break="no"/>tet z.B. über Aussprachen im familienpolitischen Beirat, wo die Kinder<lb break="no"/>freunde sowie die Arbeiterkammer jetzt ebenfalls eine Erhöhung der<lb/>
+Kinderbeihilfe von 20.- auf 30.- S verlangt haben. Bei der Bezirkskon<lb break="no"/>ferenz in Margareten treffe ich <name type="person" ref="per:126513">Hanke</name> von den Kinderfreunden und<lb/>
+mache ihn auf die Tatsache aufmerksam, dass wir sehr erstaunt sind,<lb/>
+dass die Kinderfreunde ebenfalls jetzt in diesem Forderungsprogramm<lb/>
+<pb n="13-1397" facs="13_1972-11-20_1397.jpg"/>der ÖVP und des familienpolitischen Beiratsmitgliedern der anderen<lb/>
+Seite eingestimmt haben. <name type="person" ref="per:126513">Hanke</name> meint, dass sie eben ausserstande sind<lb/>
+nur immer als Bremser zu erscheinen und dadurch immer übrig bleiben.<lb/>
+Ich gebe ihm allerdings zu bedenken, dass Forderungen, die man nicht<lb/>
+erfüllt bekommt, gerade nicht sehr positiv in den eigenen Reihen auf<lb break="no"/>genommen werden. <name type="person" ref="per:97525">Häuser</name> und <name type="person" ref="per:97488">Gratz</name> berichten, auch <name type="person" ref="per:97311">Androsch</name> ergänzt<lb/>
+der später kommt, dass am Mittwoch in der Haussitzung eine Regierungs<lb break="no"/>erklärung nämlich Bundeskanzler und Finanzminister zur Stabilisierung<lb/>
+und dem Programm erfolgen soll. Diese Regierungserklärung ist deshalb<lb/>
+notwendig, weil ansonsten garantiert die ÖVP eine dringliche Anfrage<lb/>
+in diesem Punkt gerichtet hätte. So glaubt zumindestens <name type="person" ref="per:97488">Gratz</name>. Mittwoch,<lb/>
+das musste man der ÖVP zugestehen, wird trotzdem um 22 Uhr Schluss<lb/>
+gemacht, nur Donnerstag ist unlimitiert, d.h. wir müssen die Tages<lb break="no"/>ordnung von Mittwoch und Donnerstag dann unbedingt erledigen, weil am<lb/>
+Freitag die Steuergesetze im NR zur Debatte stehen werden. Da <name type="person" ref="per:97668">Kreisky</name><lb/>
+und <name type="person" ref="per:114140">Libal</name> erkrankt sind, letzterer hat eine Angina pectoris, wird<lb/>
+absolute Anwesenheitspflicht festgelegt. <name type="person" ref="per:97311">Androsch</name> berichtet, dass<lb/>
+die Länder grundsätzliche Bereitschaft gezeigt haben, beim Stabilisie<lb break="no"/>rungsprogramm mitzuwirken, die Gemeinde Wien hat bereits auf alle Tarif-<lb/>
+und Gebührenerhöhungen verzichtet. In der Kreditpolitik hat die erste<lb/>
+Aussprache ergeben, dass bis Freitag die Kreditinstitute neuerdings<lb/>
+Verhandlungen wünschen, um dann das endgültige Ergebnis zu fixieren.<lb/>
+Nach Meinung <name type="person" ref="per:97311">Androschs</name> kommt es jetzt nur mehr darauf an, dass auf<lb/>
+dem Lohnsektor innerbetriebliches Stillhalten festgelegt wird und bei<lb/>
+den Preisen man für Zucker, Getreide, Treibstoffe und Elektrizität<lb/>
+eine gemeinsame Lösung findet, d.h. die Preiserhöhungen ein bisschen<lb/>
+hinausschiebt. Er selbst rechnet erst damit, dass in zwei bis drei<lb/>
+Jahren, wenn eine weltweite Beruhigung eingetreten ist, auch bei uns<lb/>
+erst eine entsprechende Entspannung auf dem Preissektor und Währungs<lb break="no"/>sektor erfolgen könnte. Im ORF hätte er, nachdem <name type="person" ref="per:97668">Kreisky</name> jetzt ausge<lb break="no"/>fallen ist, eine Etappenkorrektur besprochen und zwar sollte am<lb/>
+1.7.1973 und am 1.7.1974 eine etappenweise Erhöhung der Gebühren er<lb break="no"/>folgen. Dadurch könnte – mir nicht ganz erklärlich – der Lebenshaltungs<lb break="no"/>kostensteigerung von 0,6 auf 0,2 zurückgeschraubt werden. Zusicherungen<lb/>
+für den öffentlichen Dienst sollten nun nach Meinung von <name type="person" ref="per:97311">Androsch</name> eben<lb break="no"/>falls unter den Stopp fallen, dadurch würden die Lehrer maximal für<lb/>
+die Arbeit der Bücherverteilung 25 Mill. S bekommen. <name type="person" ref="per:113083">Sinowatz</name> ergänzt,<lb/>
+dass hier jeder Lehrer 450.- S für die Mehrleistung bekäme, dass von<lb/>
+den Pflicht-, Berufs- und Lehrerbildungsanstalten dies bereits akzep<lb break="no"/>tiert sei, doch die allgemeinbildenden höheren Schulen hätten dagegen<lb/>
+<pb n="13-1398" facs="13_1972-11-20_1398.jpg"/>protestiert. <name type="person" ref="per:97461">Frühbauer</name> weist darauf hin, dass mit der Flugsicherung<lb/>
+zwischen Bundeskanzleramt und Finanzminister seinem Haus eine Verein<lb break="no"/>barung getroffen wurde, die jetzt vom BKA endgültig abgefertigt werden<lb/>
+müsste, da ansonsten mit Kampfmassnahmen zu rechnen ist. Zur <name type="person" ref="per:97326">Bacher</name>-<lb/>
+Vereinbarung bemerkt <name type="person" ref="per:97727">Marsch</name>, dass im Aufsichtsrat seinerzeit mitgeteilt<lb/>
+wurde, dass jedwede Etappenkorrektur ein budgetäres Chaos und finan<lb break="no"/>zielle Krise auslösen müsste. Die Ziffern seien so knapp gehalten,<lb/>
+dass ein Abstrich nicht möglich ist. Er meint deshalb, wenn jetzt<lb/>
+<name type="person" ref="per:97326">Bacher</name> eine solche Lösung akzeptiert, ja sogar selbst vorschlägt, dass<lb/>
+er damit den Aufsichtsrat falsch informiert hat. Ausserdem frägt <name type="person" ref="per:97727">Marsch</name><lb/>
+an, dass man doch die Paritätische Kommission von unserer Seite verlangt<lb/>
+hat, dass eingeschaltet werden muss. Hier erklärt <name type="person" ref="per:97311">Androsch</name>, dass der<lb/>
+Weg so wäre, dass <name type="person" ref="per:97326">Bacher</name> einen Vorschlag an den Bundeskanzler als<lb/>
+Eigentümer macht, den dieser dann an die Paritätische Kommission weiter<lb break="no"/>leitet. <name type="person" ref="per:97632">Kirchschläger</name> berichtet, dass der Handelsdelegierte von der<lb/>
+DDR bei ihm war, um einen <name type="person" ref="per:98083">Winzer</name>-Brief, das ist ein Aussenminister-Brief<lb/>
+der DDR, zu überreichen. Die DDR erwartet jetzt die unmittelbar Aner<lb break="no"/>kennung und <name type="person" ref="per:97632">Kirchschläger</name> hat zugesagt, im Dezember einen Vertreter<lb/>
+des deutschen Aussenministeriums zu empfangen. Eine Anerkennung kommt<lb/>
+nach Meinung von <name type="person" ref="per:97632">Kirchschläger</name> erst nach Unterzeichnung der Verträge<lb/>
+in der BRD in Frage.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Wir können ohne weiteres jetzt Besprechungen mit<lb/>
+den DDR-Funktionären im Hause aufnehmen.<lb/>
+</p>
+            <p xml:space="preserve">Im Ministerrat nützt <name type="person" ref="per:98034">Veselsky</name> die lockere Führung von <name type="person" ref="per:97525">Häuser</name> und be<lb break="no"/>richtet sofort über die OECD-Inflationsstudie und den grossen Erfolg,<lb/>
+den Österreich dort erreichte. Er berichtet, dass der Gen.Sekr. <name type="person" ref="per:127901">Lennep</name><lb/>
+Österreich gratuliert hat. <name type="person" ref="per:97632">Kirchschläger</name> macht mir gegenüber die Be<lb break="no"/>merkung in "Le Monde" hätte er es anders gelesen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Bitte die "Le Monde" zu beschaffen.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Bezirkskonferenz von Margareten werde ich während der Dis<lb break="no"/>kussion, die sehr rege ist, nur von einem Mann, und zwar einem Vor<lb break="no"/>wärts-Arbeiter hart attackiert. Dort hat angeblich die Partei alle<lb/>
+Benefizien gestrichen und deshalb ist der Genosse sehr verärgert.<lb/>
+Als er endet, hört man vereinzelt Pfui-Rufe von den einzelnen Dele<lb break="no"/>gierten. Ansonsten bewundere ich wieder einmal mehr die Disziplin<lb/>
+unserer Genossen, die trotz härtester Attacken in den Dienststellen<lb/>
+und Büro und vor allem am Arbeitsplatz unerhörten Angriffen ausge<lb break="no"/>setzt sind und nicht die Gelegenheit nützen, um ein Regierungsmitglied<lb/>
+<pb n="13-1399" facs="13_1972-11-20_1399.jpg"/>sofort ebenfalls hart zu attackieren. Natürlich kommt mir hier die Ge<lb break="no"/>legenheit zugute, dass ich darauf hinweisen kann, dass auch im westdeut<lb break="no"/>schen Wahlkampf die CDU-CSU sehr hart die Regierung wegen der Preisent<lb break="no"/>wicklung genommen hat und trotzdem ein so schöner Erfolg der SPD erzielt<lb/>
+werden konnte. Für unsere Genossen ist dies tatsächlich eine grosse Hoff<lb break="no"/>nung und ich selbst gestehe ein, ich war ebenfalls über das Ergebnis sehr<lb/>
+erstaunt. Ich hätte selbst auch angenommen, dass die innerdeutsche Preis<lb break="no"/>entwicklung sich negativer für die Regierung auswirkt. Wahrscheinlich hat<lb/>
+dort aber die Erklärung, dass hundert Millionen DM von der Industrie der<lb/>
+Opposition geopfert wurden, um die SPD und die FDP zu bekämpfen, dazu<lb/>
+beigetragen, dass die Stimmung wegen der Preise sich mehr gegen die Unter<lb break="no"/>nehmer gerichtet hat als gegen die Regierung. Ich glaube nämlich, dass<lb/>
+das entschieden Wichtigste ist, eben den Angriff gegen die Unternehmer<lb/>
+und nicht gegen die Regierung in der Öffentlichkeit gerichtet wird.<lb/>
+Derzeit versteht es die ÖVP sehr geschickt, uns verantwortlich zu machen.<lb/>
+Bei meinem Konzept habe ich seit eh und je die Meinung vertreten, dass<lb/>
+wenn man in der Sozialpartnerschaftsebene zusammenarbeitet, wenn also<lb/>
+die Handelskammer die Massnahmen, die man jetzt auch mehr oder minder<lb/>
+akzeptiert, dass es dann sehr schwer ist für die ÖVP gegen die Regierung<lb/>
+allein die Attacke zu führen. Hier hat es die ÖVP furchtbar schwer, die<lb/>
+Regierung allein verantwortlich zu machen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="13_1391_01" facs="13_1972-11-20_1391-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 20.11.1972</head>
+         </div>
+         <pb n="13_1391_02" facs="13_1972-11-20_1391-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+         <pb n="13_1399_01" facs="13_1972-11-20_1399-01.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>hs. Notizen zu MR-TO</head>
+         </div>
+         <pb n="13_1399_02" facs="13_1972-11-20_1399-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesordnung, 49. Ministerratssitzung, 21.11.1972, Punkte 14 und 15</head>
+         </div>
+         <pb n="13_1399_03" facs="13_1972-11-20_1399-03.jpg"/>
+         <pb n="13_1399_04" facs="13_1972-11-20_1399-04.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesordnung, 49. Ministerratssitzung, 20.11.1972</head>
+         </div>
+         <pb n="13_1399_05" facs="13_1972-11-20_1399-05.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Nachtrag TO Ministerratssitzung, 20.11.1972</head>
+         </div>
+         <pb n="13_1399_06" facs="13_1972-11-20_1399-06.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>hs. Notizen (Nachtrag TO MR-Sitzung Rückseite)</head>
+         </div>
+         <pb n="13_1399_07" facs="13_1972-11-20_1399-07.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Typoskript Meisl betr. SL-Besprechung 21.11.1972</head>
+         </div>
+      </back>
+   </text>
+</TEI>

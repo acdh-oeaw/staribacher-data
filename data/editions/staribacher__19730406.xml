@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der  6. April 1973</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band15_1973-04-06</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1973-04-06">Freitag, 6. April 1973</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-10-18">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band15/">
+      <body>
+         <pb n="15-0450" facs="15_1973-04-06_0450.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Freitag, 6. April 1973</p><p xml:space="preserve">Die Fa. Schuh und Vhynalek werden derzeit von einzelnen Produzenten<lb/>
+wie Dunlop &amp; Heath nicht mehr beliefert. Der Vertreter der Sportarti<lb break="no"/>kelhändler <name type="person" ref="per:146180">Dobisch</name> hat mit Herrn <name type="person" ref="per:146278">Eybl</name> von Intersport bei einzelnen<lb/>
+Produzenten protestiert, weil sie unter den normal kalkulierten<lb/>
+Preisen verkaufen. Die Skiindustrie verlangt, dass bis 40 % Spannen<lb/>
+aufzuschlagen sind. Für Grossabnehmer, wie Schuh-Ski, die bis zu 20.000<lb/>
+Paar im Jahr verkaufen, bekommen sie Mengenrabatte. Wenn nun Schuh-Ski<lb/>
+diese durch Mengenrabatt verkürzten Fabriksabgabepreise 40 % auf<lb break="no"/>schlägt, liegt er noch immer unter dem Preis der von sonstigen Händlern<lb/>
+verlangt wird. Dobisch und andere Händler geben 10 % Rabatt von den<lb/>
+seinerzeitigen Listenpreisen. Lachs findet diese Vorgangsweise empö<lb break="no"/>rend und <name type="person" ref="per:97646">Koppe</name> wird dieses Problem im Wettbewerbsausschuss unter Vor<lb break="no"/>sitz von Dr. <name type="person" ref="per:97406">Ebert</name>, Handelskammer zur Sprache bringen. Herr <name type="person" ref="per:149338">Schuh</name><lb/>
+und <name type="person" ref="per:149112">Vyhnalek</name> haben dieses Problem mit <name type="person" ref="per:97406">Ebert</name> und <name type="person" ref="per:146180">Dobisch</name> besprochen,<lb/>
+ohne dass ein positives Ergebnis erzielt werden konnte.</p><p xml:space="preserve">Dr. <name type="person" ref="per:113372">Wallner</name> hat mit dem Besitzer von Weissen Rössl in Ybbs, Dr. <name type="person" ref="per:146320">Gevay</name><lb/>
+gesprochen, ihm aber keinerlei Zusagen wegen eines eventuellen Spiel<lb break="no"/>kasinos in Österreich gemacht. <name type="person" ref="per:113372">Wallner</name> erklärt, dass an den sogenannten<lb/>
+Touren in Österreich nicht zu denken ist. In anderen<lb/>
+Kasinos wird, wenn grössere Gruppen aus anderen Ländern arrangiert<lb/>
+werden, bis zu 30 % Transportkosten und 10 % Aufenthalt aus den<lb/>
+Einspielergebnissen getragen. Dies ist aber nur möglich, weil in<lb/>
+der Welt nur 30 % Steuerbelastung, in der BRD 80 und in Österreich<lb/>
+90 % beträgt. Deshalb kann aus den 10 %, die den österreichischen<lb/>
+Kasinos verbleiben, nicht so aufwendige Arrangements mit Reise<lb break="no"/>büros, Firmen oder Privaten, die entsprechende Spieler einfliegen,<lb/>
+getroffen werden. <name type="person" ref="per:113372">Wallner</name> hat <name type="person" ref="per:146320">Gevay</name> nicht im Unklaren gelassen,<lb/>
+dass er an der amerikanischen Finanzierungsgesellschaft nicht inter<lb break="no"/>essiert sei. Höchstens an Gästen, die nach Österreich spielen kommen.</p><p xml:space="preserve">Dr. <name type="person" ref="per:112216">Bassetti</name> von Tirol und Hofrat <name type="person" ref="per:146899">Kirchmeier</name>, der Wirtschaftsreferent<lb/>
+der Tiroler Landesregierung, Dr. <name type="person" ref="per:116012">Amon</name> von der HK OÖ und gleichzeitig<lb/>
+Geschäftsführer der oö. Gasgesellschaft, <name type="person" ref="per:146114">Bonjoti</name> und <name type="person" ref="per:149179">Rippl</name> von<lb/>
+Salzburg hatten bei der ÖMV – Gen. Dir. <name type="person" ref="per:97337">Bauer</name> und <name type="person" ref="per:97429">Feichtinger</name>, <name type="person" ref="per:97671">Kreut<lb break="no"/>ler</name> und einige Herren, die ich nicht kannte, eine Aussprache wegen<lb/>
+der Belieferung Westösterreichs mit Erdgas, resp. Russen- resp. Alge<lb break="no"/>riengas. <name type="person" ref="per:112216">Bassetti</name> verlangte eine Mitsprache beim Transport, aber<lb/>
+<pb n="15-0451" facs="15_1973-04-06_0451.jpg"/>auch bei der Preisgestaltung, den westlichen Ländern wäre es recht,<lb/>
+wenn die ÖMV als Oberverteiler fungieren würde. Sie anerkennen unter<lb/>
+gar keinen Umständen die Austro-Ferngas. <name type="person" ref="per:112216">Bassetti</name> erklärte, selbst<lb/>
+wenn ich ein Pipeline-Gesetz anstrebe, werden sie alles daransetzen<lb/>
+um ihre Rechte durchzusetzen, nachdem die Gasleitung von Monfalcone<lb/>
+nach Deutschland über ihr Gebiet gehen wird. Ich erklärte, dass man<lb/>
+erst sehr spät jetzt in Tirol aufgewacht ist, denn bei der TAL-Leitung,<lb/>
+d.h. der Ölleitung über das Tiroler Gebiet hat man sich nicht zur Wehr<lb/>
+gesetzt. Die Konzeption der jetzigen Regierung läuft aber bereits<lb/>
+darauf hinaus, dass sehr wohl die österreichische Strecke nur mit<lb/>
+österreichischem Einfluss kapitalmässig gebaut werden kann. Ich<lb/>
+erklärte mein Einverständnis, wenn beide Teile mich als Schiedsrichter<lb/>
+anrufen, zu versuchen, ein Kompromiss zu erzielen. <name type="person" ref="per:112216">Bassetti</name> ersuchte<lb/>
+mich zuletzt, dass ich mich für die Interessen dieser Länder einsetzen<lb/>
+sollte. Ich konnte nicht unterdrücken beim Abschied zu sagen, da<lb/>
+haben die Schwarzen untereinander kein Konzept, streiten und ein<lb/>
+Roter soll schlichten.</p><p xml:space="preserve">Am Abend hatte ich dann eine grosse Konferenz mit den Vertretern der<lb/>
+Austro-Ferngas, die mir mitteilen, dass sie am 4. April doch nun den<lb/>
+Vertrag über die Transportrechte mit der ÖMV und den ausländischen<lb/>
+Gesellschaften abgeschlossen haben. Sollte sich in Österreich Schwie<lb break="no"/>rigkeiten ergeben wegen des Transportes Algerien-Gas in den Wiener und<lb/>
+nö. Raum würden sie eine eigene Gasleitung bauen. Ich habe sofort<lb/>
+Gen.Dir. <name type="person">Gruber</name> erklärt, dass ich unter gar keinen Umständen eine<lb/>
+Parallel-Leitung zulassen würde. Ich appellierte an die Austro-<lb/>
+Ferngas, dass sie so schnell wie möglich zu einem Akkord mit den rest<lb break="no"/>lichen Bundesländern und der ÖMV käme.</p><p xml:space="preserve">Gen.Dir. <name type="person" ref="per:97337">Bauer</name>, <name type="person" ref="per:97429">Feichtinger</name>, <name type="person" ref="per:142434">Schmatzberger</name>, <name type="person" ref="per:126516">Masowsky</name> und <name type="person" ref="per:97671">Kreutler</name><lb/>
+kamen, um mit mir die Erdgasproblemation zu besprechen. Ich habe dann<lb/>
+beide Teile – Austro-Ferngas und ÖMV zusammengebracht und nach einer<lb/>
+Stunde heftigster und sehr harter Diskussion, die bis zu Ausdrücke:<lb/>
+Taschenspielertricks, ging, dann letzten Endes einen Akkord dahingehend<lb/>
+erzielt, dass unverzüglich die Fachleute sich zusammensetzen, um die<lb/>
+technischen Probleme zu besprechen. Sollte es nicht möglich sein, ein<lb/>
+Einvernehmen zu erzielen, werden sie mir berichten. Wenn es zu einem<lb/>
+Akkord kommt, werde ich auch einen entsprechenden gemeinsamen Bericht<lb/>
+erhalten.</p><pb n="15-0452" facs="15_1973-04-06_0452.jpg"/><p xml:space="preserve"><name type="person" ref="per:133082">Auracher</name> berichtet mir, dass es ihm gelungen ist mit der IIP in<lb/>
+Den Haag, die 5 Staaten repräsentiert, einen Vertrag abzuschliessen.<lb/>
+Auch in der BRD ist dies jetzt geschehen, offen ist daher nur<lb/>
+mehr Frankreich. <name type="person" ref="per:133082">Auracher</name> zweifelt nicht daran, dass es gelingen wird,<lb/>
+diesen Vertrag auch sehr bald unter Dach und Fach zu bringen. Alle<lb/>
+diese Verträge beinhalten die Wettbewerbsklausel, d.h. dass keiner<lb/>
+dieser Staaten die Ergebnisse an Dritte zur kommerziellen Auswertung<lb/>
+weitergeben. <name type="person" ref="per:133082">Auracher</name> ist fest davon überzeugt, dass er jetzt<lb/>
+unverzüglich die technischen Unterlagen, d.h. die Bänder oder Lochkarte<lb/>
+bekommen wird, um die Probeläufe starten zu können. Schwierigkeiten<lb/>
+wird es nur mit den USA geben, weil dort eine Datensperre an das<lb/>
+Ausland verfügt wurde.</p><p xml:space="preserve">Im Fremdenverkehrsdirektorium konnte ich mich mit der Ausschreibung<lb/>
+für den Geschäftsführer nicht durchsetzen. Die Ländervertreter, Hofrat<lb/>
+<name type="person" ref="per:115027">Hlous</name> <add>[evtl. Falschidentifikation, Anm.]</add>, aber auch Dr. <name type="person" ref="per:114586">Zedek</name> von der Handelskammer, erklärte, dass sie<lb/>
+erst in einer Wochen, d.h. nach einer Besprechung der Ländervertreter<lb/>
+ihre Zustimmung geben könnten. Die Länder haben sich bereits sechs<lb/>
+auf Kommerzialrat <name type="person" ref="per:97459">Fröhlich</name> als Geschäftsführer geeinigt und wünschen<lb/>
+scheinbar keine Ausschreibung. Da mehrere Interessenten aber vorhanden<lb/>
+sind, werde ich versuchen, auf Alle Fälle eine Ausschreibung durchzu<lb break="no"/>setzen.</p><p xml:space="preserve">Neben einer Reihe von wichtigeren und unwichtigeren Beschlüssen wurde<lb/>
+mir dann aber klar, dass die Generalversammlung mit der Budgetbe<lb break="no"/>stätigung, d.h. Beschlussfassung einberufen wurde, obwohl die Länder<lb break="no"/>vertreter nicht bereit waren, diesen Beschluss auch zu fassen. Erst<lb/>
+am nächsten Tag würden die Finanzreferenten sich endgültig entscheiden,<lb/>
+ob sie bereit sind, die Aufstockung auf das Fremdenverkehrsbudget, Summe<lb/>
+120 Mill., zu akzeptieren. Der Bund hat bereits beschlossen, die Auf<lb break="no"/>stockung durchzuführen, die Handelskammer zögert, da sie erst den Be<lb break="no"/>schluss der Ländervertreter braucht. Die Finanzreferenten haben aber da<lb/>
+Fremdenverkehrsdirektoren oder auch den Fremdenverkehrslandesräten keine<lb/>
+solche Ermächtigung gegeben. Ich setzte den Geschäftsführer <name type="person" ref="per:97684">Langer-Hansel</name><lb/>
+auseinander, dass wir unter gar keinen Umständen eine Generalver<lb break="no"/>sammlung ohne eine positiven Budgetbeschluss machen dürfen. Wenn<lb/>
+nämlich die Generalversammlung beschlossen hat, dass wir nicht das<lb/>
+Budget im vorgesehenen Ausmass genehmigt bekommen, dann müssen wir<lb/>
+unverzüglich alle Aktionen abstoppen, resp. einschränken. Dr. <name type="person" ref="per:111736">Zolles</name><lb/>
+meinte, er müsste dann bereits den einzelnen Zweigstellen entspre<lb break="no"/><pb n="15-0453" facs="15_1973-04-06_0453.jpg"/>chende Weisung geben, dass sie unverzüglich reduzierte Budgetansätze<lb/>
+zur Anwendung bringen. Da anzunehmen ist, dass wir doch in weiterer<lb/>
+Folge die erhöhte Budgetziffer durchsetzen, schlug ich vor, dass wir<lb/>
+unter allen Umständen, wenn der Sprecher der Landesregierungen, LR <name type="person" ref="per:98037">Vogl</name><lb/>
+vom Burgenland, nicht Montag die Zustimmung gibt, auf alle Fälle die<lb/>
+Generalversammlung verschieben.</p></div>
+      </body>
+      <back>
+         <pb n="15_0449_01" facs="15_1973-04-06_0449-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 6.4.1973</head>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+   </text>
+</TEI>

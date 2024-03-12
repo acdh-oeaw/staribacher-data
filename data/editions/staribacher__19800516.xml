@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der 16. Mai 1980</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band54_1980-05-16</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date from="1980-05-16" to="1980-05-18">Freitag, 16. Mai 1980 bis Sonntag, 18. Mai 1980</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2017-11-14">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="54-0615" facs="54_1980-05-16_1980-05-18_0615.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Freitag, 16. Mai 1980, u. Sonntag, 18. Mai 1980<lb/>
+</p>
+            <p xml:space="preserve">Die Importeure und gleichzeitig Zuckerexporteure für die Zucker<lb break="no"/>industrie, <name type="person" ref="per:58381">Fritz Mauthner</name> und der Obmann der Zuckerindustrie <name type="person" ref="per:111718">Skene</name><lb/>
+beschwerten sich über die ungerechtfertigte Forderung und Vertrags<lb break="no"/>verletzung der Fa. Kundl. Diese Sandoz-Tochter, Penicillinerzeu<lb break="no"/>gung, hat einen Zuckerabnahmevertrag nicht eingehalten und will<lb/>
+die Übernahme rausschieben, obwohl der Abschlußpreis äußerst gün<lb break="no"/>stig ist. In der Zwischenzeit ist der Weltmarktzuckerpreis auf<lb/>
+S 6,50 gestiegen und wird wahrscheinlich noch bis zu 1 S teurer<lb/>
+werden. Auch mit dem Zitronensäureerzeuger <name type="person" ref="per:114658">Kahane</name> gibt es ähnliche<lb/>
+Schwierigkeiten. Dessen Rechtsanwalt Dr. <name type="person" ref="per:125819">Schröfl</name> wollte einen<lb/>
+3-Jahresvertrag für eine größere Menge Zucker, jeweils zu den<lb/>
+Weltmarktpreisen, allerdings max. S 4,10. Ich habe die Zucker<lb break="no"/>industrie ersucht, sie soll mir jetzt eine genaue Darstellung<lb/>
+schicken, ich werde versuchen, mit beiden Firmen und der Zucker<lb break="no"/>industrie vielleicht doch noch zu einem Arrangement zu kommen. In<lb/>
+diesem Zuckerwirtschaftsjahr werden in die Sowjetunion 5.000, nach<lb/>
+Rumänien 5.000, nach Polen 10.000, nach Italien 15.000, nach<lb/>
+Deutschland 12.000, nach Norwegen 20.000, dies sogar in Kilosäcken<lb/>
+verpackt, exportiert werden. Die Verarbeitungsindustrie wird 32.000<lb/>
+t benötigen. Insgesamt wird der Export von 51.000 im vorigen<lb/>
+Zuckerwirtschaftsjahr jetzt auf 62.000 steigen. Da wir als Ex<lb break="no"/>portland 80.000 t Rohzucker Exportquote haben, dies entspricht<lb/>
+72.000 Weißzucker, müssen wir in diesem und womöglich noch im<lb/>
+nächsten Wirtschaftsjahr mehr exportieren, um diese Quote auch<lb/>
+tatsächlich wieder zugesprochen zu bekommen. Die Polen haben für<lb/>
+den Zucker S 5,60 bezahlt, allerdings mit Coca-Cola vereinbart,<lb/>
+damit sie ihr Getränk in Polen verkaufen können, diese Zuckermenge<lb/>
+bis Dezember dieser Organisation wieder zurückzugeben, da sie aus<lb/>
+ihrer eigenen Produktion genug Zucker hoffen heuer zu erhalten.<lb/>
+Die Polen wollen alles auf Kredit, was die Zuckerindustrie ablehnt.<lb/>
+</p>
+            <p xml:space="preserve">Die Vertreter des Papierverbandes Dr. <name type="person" ref="per:111754">Steurer</name>, aber auch die Fir<lb break="no"/>menvertreter <name type="person" ref="per:114976">Heinzel</name>, Laakirchen, und <name type="person" ref="per:125820">Salzer</name> brauchen dringend die<lb/>
+ihnen vom Finanzminister zugesagte Zinsstützung für ihre Kapital<lb break="no"/>transfers. Insgesamt würde dies 480 Mio S ausmachen. Natürlich<lb/>
+könnte dieser Betrag gegebenenfalls durch Richtlinienänderung<lb/>
+<pb n="54-0616" facs="54_1980-05-16_1980-05-18_0616.jpg"/>von den noch offenen 1,7 Mrd. S, zweite Papierzinsstützungsaktion,<lb/>
+bezahlt werden. Diese Mittel werden aber meiner Meinung nach pri<lb break="no"/>mär für Investitionen und noch vor Kapitaltransfers benötigt.<lb/>
+Gerade wenn die Konzentration bei den neuen Firmengruppen nach<lb/>
+Verkauf von Bunzl erfolgt, wird man dort größere Investitionen<lb/>
+tätigen müssen. Dies habe ich klar und deutlich der Papierindu<lb break="no"/>strie gesagt. In der vorletzten Ministerratssitzung wurde auf<lb/>
+Antrag vom Vizekanzler sogar ein Beschluß gefaßt, daß diese<lb/>
+Transaktion aus der Zinsenzuschußaktion der Bundesregierung zu<lb/>
+bezahlen ist.<lb/>
+</p>
+            <p xml:space="preserve">Ich habe bei dem Festessen mit Staatssekretär <name type="person" ref="per:110169">Nußbaumer</name> drüber<lb/>
+gesprochen, dieser ist bereit, wenn er jetzt den endgültigen Be<lb break="no"/>schluß vom Ministerrat bekommt, durch eine Änderung der Richt<lb break="no"/>linien bei der Zinsenzuschußaktion, Bundesregierung, eine ent<lb break="no"/>sprechende Finanzierung jetzt endgültig durchzuführen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte sofort <name type="person" ref="per:111754">Steurer</name> verständigen.<lb/>
+</p>
+            <p xml:space="preserve">GD <name type="person" ref="per:125821">Krischai</name>, Fa. Esso, wollte mir nur darlegen, daß obwohl die<lb/>
+Mutterfirma vom Iran-Öl jetzt auf Saudi-Öl umsteigen konnte und von<lb/>
+Aramco entsprechende Mengen bezieht, die sie auch der österreichi<lb break="no"/>schen Tochter liefert, trotzdem im ersten Quartal 3,8 Mio S Ver<lb break="no"/>lust hat. Im ersten Quartal 79 hatte sie noch 10 Mio Gewinn. Dies<lb/>
+ist darauf zurückzuführen, daß nur 25 % ihres Benzinverbrauches<lb/>
+aus eigenem Rohöl bei der ÖMV verarbeitet werden, 17 % bekommt<lb/>
+sie von der ÖMV geliefert, den Rest, mehr als die Hälfte, muß sie<lb/>
+vom Spot-Markt importieren und dafür sehr hohe Preise bezahlen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Bitte Energiesektion davon verständigen.<lb/>
+</p>
+            <p xml:space="preserve">Die erste Sitzung über die Wirtschaftliche Landesverteidigung<lb/>
+mit den Wehrsprechern der 3 Parteien verlief, wie ich es mir<lb/>
+vorgestellt hatte. Durch das Zusammentragen aller Unterlagen, die<lb/>
+im Laufe des Jahrzehntes bei der Wirtschaftlichen Landesverteidigung<lb/>
+besprochen wurden, ergab sich ein ganzes Konvolut von Material.<lb/>
+Der Freiheitliche Wehrsprecher <name type="person" ref="per:125822">Josseck</name> war so überrascht, daß er<lb/>
+<pb n="54-0617" facs="54_1980-05-16_1980-05-18_0617.jpg"/>meinte, er wird jetzt sofort auch im Nationalrat öffentlich be<lb break="no"/>kennen, daß er seine Meinung korrigieren muß, es sei hier nichts<lb/>
+geschehen. <name type="person" ref="per:97419">Ermacora</name> von der ÖVP war hier schon vorsichtig und<lb/>
+meinte, er wird das Konvolut studieren und bei der nächsten Sitzung<lb/>
+feststellen, was hier geschehen ist. Der sozialistische Wehrspre<lb break="no"/>cher <name type="person" ref="per:97752">Mondl</name> wollte insbes. einen Operationskalender und war mit<lb/>
+den Unterlagen auch sehr zufrieden. Ich erörterte einleitend, daß<lb/>
+die personelle Änderung seit 70 das Entscheidende ist. Früher<lb/>
+hat es zwar einen Generalbevollmächtigten, der direkt dem Minister<lb/>
+unterstellt war, nämlich MR <name type="person" ref="per:125823">Hanisch</name>, gegeben, der allerdings, da<lb/>
+er außerhalb eines Sektionsverbandes operierte, im luftleeren<lb/>
+Raum sich befand. Diese Stelle wurde ja deshalb nur geschaffen,<lb/>
+um <name type="person" ref="per:125823">Hanisch</name>, der Sektionschef werden wollte und dies nicht erreich<lb break="no"/>te, hierarchisch zu befriedigen. Sachlich war die Herauslösung ein<lb/>
+Wahnsinn. Insbesondere verwies ich aber dann auf die Kompetenzab<lb break="no"/>grenzung und auf die derzeit unbefriedigende gesetzliche Ermäch<lb break="no"/>tigung des Handelsministeriums. Im Versorgungssicherungsgesetz<lb/>
+wurde nun ein neuer Weg beschritten, die Länder und die Interessens<lb break="no"/>vertretungen haben diesem Entwurf zugestimmt, ich hoffe daher, daß<lb/>
+er auch im Parlament angenommen wird. Weniger gut sieht es mit<lb/>
+dem Energiesicherungsgesetz aus.<lb/>
+</p>
+            <p xml:space="preserve">Der ÖVP-Wehrsprecher <name type="person" ref="per:97419">Ermacora</name> meinte, die Kooperation mit den<lb/>
+Ländern und Sozialpartnern sei zweckmäßig, er würde aber vorschla<lb break="no"/>gen, daß man auch private Organisationen als dritte noch heran<lb break="no"/>zieht. Dies habe ich ihm sofort zugesagt und um entsprechende Vor<lb break="no"/>schläge gebeten.<lb/>
+</p>
+            <p xml:space="preserve">Was die Frage der Gesetzwerdung betrifft, schlug <name type="person" ref="per:97419">Ermacora</name> vor,<lb/>
+es sollten die Wehrsprecher an den Ausschußberatungen teilnehmen<lb/>
+können. Damit war ich nicht nur sofort einverstanden, sondern<lb/>
+habe auch ebenfalls beim Essen mit Klubobmann <name type="person" ref="per:97444">Fischer</name> über diesen<lb/>
+Vorschlag gesprochen. <name type="person" ref="per:97444">Fischer</name> wird ihm im nächsten Präsidium<lb/>
+vortragen. Er hätte keine Bedenken, daß die Wehrsprecher an den<lb/>
+Ausschußsitzungen teilnehmen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107953">BUCHAUER</name>: Bitte die Wehrsprecher über <name type="person" ref="per:97444">Fischers</name><lb/>
+Einstellung sofort informieren.<lb/>
+</p>
+            <pb n="54-0618" facs="54_1980-05-16_1980-05-18_0618.jpg"/>
+            <p xml:space="preserve">Der Vertreter des Bundeskanzleramtes und für die Landesverteidi<lb break="no"/>gung zuständige Sektionsrat <name type="person" ref="per:125824">Bayer</name> hat vorgeschlagen, bis zur<lb/>
+nächsten Sitzung sollte die Kompetenz für die einzelnen Maßnahmen<lb/>
+zugeordnet werden, womit ich sehr einverstanden bin. Weniger be<lb break="no"/>geistert war ich, daß man jetzt neben dem im Gesetz vorgesehenen<lb/>
+Krisen-, Neutralitäts- u. Verteidigungsfall jetzt 5 Bedarfsfälle<lb/>
+neu geschaffen hat. Vom relativen Frieden bis zum absoluten Atom<lb break="no"/>krieg. Für diese Einteilung erklärte ich mich nicht zuständig,<lb/>
+außerdem verspreche ich mir davon überhaupt nichts Neues. Was<lb/>
+ein Ministerium braucht, ist gegebenenfalls eine gute gesetzli<lb break="no"/>che Ermächtigung und einen notwendigen Behördenapparat, der diese<lb/>
+Gesetze dann auch exekutieren kann. Beides ist derzeit nicht der<lb/>
+Fall und wird auch wahrscheinlich in Zukunft kaum befriedigt zu<lb/>
+erreichen sein. Der Vorschlag des ÖVP-Wehrsprechers <name type="person" ref="per:97419">Ermacora</name>, um<lb/>
+eine gesetzliche Maßnahme durchzusetzen, sollte man auf die 5<lb/>
+Bedrohungsfälle oder 3 Anlaßfälle ein jeweils den Gegebenheiten<lb/>
+entsprechendes Gesetz vorbereiten, um damit sozusagen in der<lb/>
+Schublade für alle Fälle gerüstet zu sein, könnte er sich noch<lb/>
+durch einen Parteienpakt vereinbart vorstellen. Auch mit dieser<lb/>
+Idee konnte ich mich nicht anfreunden und meinte, dies wird sicher<lb break="no"/>lich das Parlament beschließen. Daß wir dutzende von Gesetzen für<lb/>
+den jeweiligen Bedarfsfall vorbereitet haben, bringt ja noch<lb/>
+lange keine Lösung. Die wirkliche Frage wird sein, wieviel Geld<lb/>
+mir zur Verfügung steht und welchen Behördenapparat ich mit den<lb/>
+Ländern und Interessensvertretungen, denn die werden ja die<lb/>
+Exekution im Bedarfsfall durchführen müssen, jetzt bereits vor<lb break="no"/>bereitend aufgestellt werden können. Da sich aber die Wirtschaft<lb/>
+und damit auch die kriegswirtschaftliche Situation für den Be<lb break="no"/>darfsfall jeweils ändert, kann man zukunftsweisend meiner Meinung<lb/>
+nach überhaupt nichts jetzt schon beschließen und durchführen,<lb/>
+das nicht ungeheuer viel Geld kostet und dann eigentlich sinnlos<lb/>
+gewesen ist. Typisches Beispiel dafür wäre die Lebensmittelbe<lb break="no"/>wirtschaftung und Bevorratung. Die gedruckten Marken sind sinn<lb break="no"/>los, die Großmärkte, Diskonter usw. könnten sie kaum einlösen<lb/>
+und abrechnen, wahrscheinlich wird man hier mit Chips arbeiten<lb/>
+müssen, das Anlegen von riesigen Vorräten hätte in der Vergangen<lb break="no"/>heit viel Geld gekostet und<add>[ist]</add> durch die erhöhte Agrarproduktion<lb/>
+von jetzt vollkommen sinnlos geworden. In der Landwirtschaft brau<lb break="no"/><pb n="54-0619" facs="54_1980-05-16_1980-05-18_0619.jpg"/>chen wir derzeit nicht eine Bevorratung. Alle Ernten sind weit<lb/>
+über den Bedarf hinaus, könnten daher in Krisenzeiten bis zur<lb/>
+nächsten Ernte jeweils die Bedürfnisse weit decken, wichtig für<lb/>
+die Landwirtschaft ist es vielmehr, daß die Produktionskraft auf<lb break="no"/>recht erhalten werden kann. Was die Landwirtschaft braucht, sind<lb/>
+Düngemittel, Energie und im Kriegsfall entsprechende Arbeitskräf<lb break="no"/>te garantiert.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107953">BUCHAUER</name>: Hat man diese Fälle auch einmal theoretisch<lb/>
+</p>
+            <p xml:space="preserve">durchgespielt?<add>geschieht derzeit[,] Plesch. versprach Inf.</add><lb/>
+</p>
+            <p xml:space="preserve">LH <name type="person" ref="per:98048">Wallnöfer</name> und sein Landesamtsdirektor <name type="person" ref="per:116100">Kathrein</name> wollten mit<lb/>
+ihrer Vorsprache, wie nicht anders erwartet, eine Zustimmung zu<lb/>
+einer 50:50 Bau- und Betriebsgesellschaft. Zuerst wurde noch<lb/>
+über das Problem der Gegner der Osttiroler Kraftwerksgruppe ge<lb break="no"/>sprochen, die Ökologiegutachten sehen vor, daß die Variante 3<lb/>
+die beste ist, dabei will <name type="person" ref="per:98048">Wallnöfer</name> bleiben. Über die Ersatzwas<lb break="no"/>sermengen im Defereggental über die Möglichkeit, das Innergschlöß<lb/>
+unberührt zu lassen und dann unterhalb aufzufangen und in ein<lb/>
+Pumpwerk einzuleiten, wird erst untersucht. <name type="person" ref="per:98048">Wallnöfer</name> hat vorge<lb break="no"/>schlagen, wir sollten wegen der 50 % Lösung uns so schnell als<lb/>
+möglich einigen, damit die Bauarbeiten begonnen werden konnten.<lb/>
+Sollte ich mich dazu nicht entschließen können, wäre er gerne<lb/>
+bereit 3 Richter als Schiedsrichter anzurufen, die feststellen<lb/>
+sollen, ob dieser 50 % Vertrag zwischen Land und Bund nicht nur<lb/>
+dem Verstaatlichungsgesetz entspricht, sondern auch der seiner<lb break="no"/>zeitigen Vereinbarung über die Osttiroler Studiengesellschaft, die<lb/>
+ebenfalls 50 % Land und 50 % Verbundgesellschaft vorsieht. Ich<lb/>
+erklärte sofort, daß dies eine falsche Betrachtung sei. Tirol,<lb/>
+insbes. <name type="person" ref="per:98048">Wallnöfer</name> ist es geglückt, in der Vergangenheit eine<lb/>
+Sonderstellung zu erreichen. Westtirol wurde z.B. als Großkraft<lb break="no"/>werk, das eindeutig dem Verbund zugeordnet ist, ausgeklammert und<lb/>
+der TIWAG übertragen. Daraus leitet jetzt der Landeshauptmann<lb/>
+auch für Osttirol die selbe Situation ab. Dies kann von mir nicht<lb/>
+akzeptiert werden. Als Folgewirkung dieser Politik kommt jetzt<lb/>
+Salzburg und wünscht ebenfalls eine 50 zu 50 Regelung, ja sogar<lb/>
+noch mehr für den Ausbau der Salzach, weil es sich dort angeblich<lb/>
+<pb n="54-0620" facs="54_1980-05-16_1980-05-18_0620.jpg"/>nicht um ein Großkraftwerk handelt. Sein Parteifreund <name type="person" ref="per:113822">Haslauer</name><lb/>
+erklärt sogar, in der Vergangenheit hätte Salzburg auch Kaprun<lb/>
+bauen müssen und nicht die Tauernkraftwerke (TKW). Der nächste<lb/>
+Schritt ist, daß dann Niederösterreich für den weiteren Ausbau<lb/>
+der Donau, ja selbst Wien für die Donaustufe in Wien, eine ent<lb break="no"/>sprechende 50-50-Regelung verlangen könnte. <name type="person" ref="per:98048">Wallnöfer</name> konnte ge<lb break="no"/>gen diese Argumentation kaum etwas vorbringen, er pocht nur auf<lb/>
+den jetzigen Vertrag und vor allem auf die vergangenen Regelungen.<lb/>
+<name type="person" ref="per:98048">Wallnöfer</name> schlug vor, ich sollte mir das ganze Problem noch ein<lb break="no"/>mal überlegen, was ich ihm selbstverständlich zusagte. <name type="person" ref="per:98048">Wallnöfer</name><lb/>
+ist unter Zeitdruck. Ich habe Zeit, die Spitzenenergie in Ost<lb break="no"/>tirol brauchen wir nicht so dringend. Wenn <name type="person" ref="per:98048">Wallnöfer</name> eine Lösung<lb/>
+haben will, wird er nachgehen müssen. Ich habe den Gesundheits<lb break="no"/>minister <name type="person" ref="per:97891">Salcher</name> vorher schon gebeten, er soll mich dann für die<lb/>
+Feier im Belvedere abholen, wodurch er die letzten Verhandlungs<lb break="no"/>minuten noch selbst miterlebte. Mit <name type="person" ref="per:97891">Salcher</name> stimme ich vollkommen<lb/>
+überein, daß die von mir vorgeschlagene Politik vom Bundesstand<lb break="no"/>punkt die einzig richtige ist. Natürlich kann er als Tiroler<lb/>
+dies nicht öffentlich sagen. Dies wünsche ich und erwarte ich<lb/>
+auch gar nicht von ihm.<lb/>
+</p>
+            <p xml:space="preserve">Beim Festakt im Belvedere hat <name type="person" ref="per:108330">Gromyko</name>, obwohl dort eine simul<lb break="no"/>tane Übersetzung in Französisch, Englisch und Russisch vorge<lb break="no"/>sehen war, seinen eigenen Übersetzer mitgebracht. Entweder ein<lb/>
+Organisationsfehler oder, was ich eher annehme, die Selbstverständ<lb break="no"/>lichkeit, daß er sich von seinem eigenen Übersetzer nur bedienen<lb/>
+läßt. Die Rede von ihm, aber insbesondere die auch vom amerikani<lb break="no"/>schen Außenminister <name type="person" ref="per:125563">Muskie</name>, übrigens seine erste Auslandsrede<lb/>
+als neuer Secretary of State, war auf der einen Seite sehr be<lb break="no"/>stimmt, auf der anderen Seite aber doch zu einem Gespräch offen.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> hat ein ungeheures Glück. Als wir diese Jubiläumsfeier<lb/>
+vor Monaten besprochen haben, war die Frage, ob die Außenminister<lb/>
+überhaupt nach Österreich kommen würden. Damals hatte niemand<lb/>
+eine Ahnung, daß es zu einem so kritischen weltpolitischen Zeit<lb break="no"/>punkt ein außenpolitisches Ereignis sein wird, wenn sich die<lb/>
+Sowjets und der neue Außenminister der Vereinigten Staaten tref<lb break="no"/>fen werden. Mit diesem Treffen ist allein vom touristischen<lb/>
+Standpunkt weltweit wieder einmal Österreich in aller Munde ge<lb break="no"/><pb n="54-0621" facs="54_1980-05-16_1980-05-18_0621.jpg"/>wesen. Wenn früher oder später die Entspannung und die Verhand<lb break="no"/>lungen darüber wieder begonnen werden, wird man auch immer wieder<lb/>
+sagen und dies ist in Österreich bei der Staatsvertragsfeier zu<lb break="no"/>stande gebracht worden. <name type="person" ref="per:97668">Kreisky</name> wird dann als Vermittler einmal<lb/>
+mehr ebenfalls wieder in aller Munde sein.<lb/>
+</p>
+            <p xml:space="preserve">Nach dem Festessen beim Bundespräsidenten habe ich mit Klubobmann<lb/>
+<name type="person" ref="per:97444">Fischer</name> auch neuerdings die Frage über die Verhandlungsmodalitäten<lb/>
+der Wirtschaftsgesetze besprochen. Ich habe <name type="person" ref="per:97444">Fischer</name> klar gemacht,<lb/>
+daß <name type="person" ref="per:97511">Haiden</name> vor allem seine Agrarwünsche durchbringen muß. Da die<lb/>
+ÖVP dann immer wieder versuchen wird, als Kompensation für ihre<lb/>
+Agrarwünsche, die konträr dessen von <name type="person" ref="per:97511">Haiden</name> sind, zu erklären, sie<lb/>
+ist bereit, dann die Wünsche des Handelsministeriums zu verhan<lb break="no"/>deln, lege ich auf diese Taktik überhaupt keinen Wert. <name type="person" ref="per:97444">Fischer</name><lb/>
+hat zur Kenntnis genommen, daß selbst wenn die Wirtschaftsgesetze,<lb/>
+so wie sie jetzt auf unserem Sektor bestehen, verlängert werden,<lb/>
+ich damit mehr oder minder mich abfinden würde. Sollte es zu gar<lb/>
+keiner Einigung kommen und die Wirtschaftsgesetze alle ablaufen,<lb/>
+sehe auch ich darin keine allzu großen oder unüberwindbaren<lb/>
+Schwierigkeiten. Für die internationalen Verpflichtungen würde<lb/>
+ich dann unverzüglich ein ganz kleines Gesetz neu einbringen, die<lb/>
+nationalen Probleme wie Bundeslastverteiler usw. müßten eben<lb/>
+ohne gesetzliche Grundlage geregelt werden.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: <name type="person" ref="per:110944">Zluwa</name> soll ein solches Gedankenmodell<lb/>
+entwickeln.<lb/>
+</p>
+            <p xml:space="preserve">Sonntag, 18. Mai 1980<lb/>
+</p>
+            <p xml:space="preserve">Der flauste Wahlkampf, uninteressanteste Wahltag und der größte<lb/>
+Triumph des Kandidaten <name type="person" ref="per:97632">Kirchschläger</name> mit 80 % der abgegebenen<lb/>
+Stimmen gewählt zu werden. Alle Prognosen waren falsch, niemand<lb/>
+dachte, daß so wenig weiße Stimmzettel abgegeben werden und nie<lb break="no"/>mand dachte vor allem, daß <name type="person" ref="per:116417">Burger</name> doch 130.000 Stimmen bekommt.<lb/>
+<name type="person" ref="per:97490">Gredler</name> war nicht im Stande die nationalen Stimmen auf sich zu<lb/>
+vereinen, die Rechtsradikalen, vor allem aber die alten Nazis<lb/>
+haben ihm mißtraut und wenden sich natürlich, wenn man logisch<lb/>
+<pb n="54-0622" facs="54_1980-05-16_1980-05-18_0622.jpg"/>denkt, dem wirklich radikalen Vertreter zu. <name type="person" ref="per:97668">Kreisky</name> hat in einem<lb/>
+Fernsehinterview, daß natürlich dann nicht gesendet wurde, ich<lb/>
+hatte es zufälligerweise in der Löwelstraße mitgehört, die Bemer<lb break="no"/>kung gemacht, an diesem Wahlsieg <name type="person" ref="per:116417">Burgers</name> sind alle die daran<lb/>
+schuld, die ihn so bekannt machten, er selbst hätte auch in sei<lb break="no"/>ner Jugend immer den Fehler gemacht, den Gegner durch ständige<lb/>
+Attacken und durch ständiges Beschäftigen mit ihm sozusagen in<lb/>
+aller Munde zu bringen. Ob dies tatsächlich zutrifft, bezweifle<lb/>
+ich. Da teile ich schon eher die Meinung von <name type="person" ref="per:117164">Gehmacher</name>, IFES,<lb/>
+der sagt, das Motto der Rechtsradikalen war, jetzt dürfen wir<lb/>
+endlich wieder einmal und haben einen Kandidaten. IFES selbst<lb/>
+hat ihn scheinbar auch schwer unterschätzt, denn sie haben nicht<lb/>
+einmal eine einzige Umfrage darüber gestartet. Jedermann hat<lb/>
+scheinbar angenommen, er kriegt höchstens ein paar tausend Stim<lb break="no"/>men. Theoretisch würde er mit den 3,2 % Stimmenanteil bei den<lb/>
+nächsten Nationalratswahlen das Grundmandat bekommen und in den<lb/>
+Nationalrat einziehen. Dieser Entwicklung werden jetzt alle Parteien<lb/>
+besonderes Augenmerk zuwenden.<lb/>
+</p>
+            <p xml:space="preserve">Stadtrat <name type="person" ref="per:109290">Mayr</name> hat mir beim traditionellen Treffen beim Bürger<lb break="no"/>meister <name type="person" ref="per:97488">Gratz</name> die Frage vorgelegt, wie ich die Finanzierung der<lb/>
+Fernwärme durchführen werde. Die Gemeinde Wien hat in der ersten<lb/>
+Kraft-Wärme-Kopplung von Simmering durch mangelndes Fernwärmenetz<lb/>
+nur 20 % genützt. Mein Hinweis, daß er wahrscheinlich eine An<lb break="no"/>schlußpflicht statuieren muß, kann von ihm aus Kostengründen nicht<lb/>
+akzeptiert werden. Die Gemeinde hat keine Mittel, um die Fernwärme<lb/>
+zu finanzieren und müßte daher alles auf die Mieter überwälzen.<lb/>
+Dies getraut er sich nicht einmal bei den Gemeindebauten, geschwei<lb break="no"/>ge denn bei Substandard-Wohnungen. Sein Vorschlag war daher, man<lb/>
+sollte über den Elektrizitätspreis eine Prämie einheben, daß die<lb break="no"/>ser angehoben wird, vor allem aber den westlichen Bundesländern<lb/>
+Tirol und Vorarlberg durch einen einheitlichen Elektrizitätspreis<lb/>
+von der Preisbehörde die Differenz abgeschöpft wird. Diese Mit<lb break="no"/>tel könnten dann für den Ausbau der Fernwärme zur Verfügung stehen.<lb/>
+Ich habe ihm sofort gesagt, daß ein einheitlicher Elektrizitäts<lb break="no"/>preis, selbst in der Zeit, wo ich noch in der Arbeiterkammer tä<lb break="no"/>tig war, an dem Widerstand der westlichen Länder, dort aber ganz<lb/>
+<pb n="54-0623" facs="54_1980-05-16_1980-05-18_0623.jpg"/>besonders auch der Arbeiterkammern und der Gewerkschaftsver<lb break="no"/>treter gescheitert ist. Ich kann mir beim besten Willen nicht<lb/>
+vorstellen, daß man einen einheitlichen Elektrizitätspreis schafft<lb/>
+und dann dem Westen sozusagen die Preisdifferenz abschöpft, um<lb/>
+sie zum Ausbau der Fernwärme, sprich dem Osten zur Verfügung zu<lb/>
+stellen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Bitte nächstes Jour fixe AK und ÖGB<lb/>
+setzen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="54_0614_01" facs="54_1980-05-16_0614-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 16.5.1980</head>
+         </div>
+         <pb n="54_0614_02" facs="54_1980-05-16_0614-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

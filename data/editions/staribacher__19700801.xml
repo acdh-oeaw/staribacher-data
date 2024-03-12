@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der  1. August 1970</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band02_1970-08-01</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1970-08-01">Samstag, 1. August 1970</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-04-04">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-19" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-19" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+  <text xml:base="http://192.168.0.9/staribacher/src/scans/Band02/">
+      <body>
+         <pb n="02-0438" facs="02_1970-08-01_0438.jpg"/>
+         <div type="entry">
+            <dateline>
+               <date when="1970-08-01">Samstag, 1. August 1970</date>
+            </dateline>
+            <p xml:space="preserve">Bei der Eröffnung der Dornbirner Messe hatte ich Gelegenheit,<lb/>
+mit Bürgermeister Dipl.Ing. <name type="person">Mayer</name> von Bregenz, ein Genosse, der<lb/>
+gemeinsam mit der FPÖ vor ein paar Wochen zum Bürgermeister ge<lb break="no"/>wählt wurde, zu sprechen. <name type="person">Mayer</name> selbst sagte mir, dass am Abend<lb/>
+nach den Bregenzer Festspielen die Vertreter der Festspielgemeinde<lb/>
+mit mir gerne im Weissen Kreuz reden wollten, um eine entsprechende<lb/>
+Subvention für ihren Kongress im Festpielhaus von meinem Ressort<lb/>
+zu bekommen. Laut Mitteilung hätte <name type="person" ref="per:97749">Mitterer</name> vor Jahren bereits<lb/>
+sehr konkrete Zusagen gemacht. Ich selbst musste ihn enttäuschen,<lb/>
+indem ich ihm erklärte, dass es dafür in meinem Budget derzeit<lb/>
+überhaupt keine Mittel gibt und ich auch schwer mir vorstellen kann,<lb/>
+dass wir grössere Mitteln für das Jahr 1972 bereitstellen könnten.<lb/>
+Bei einem ERP-Kredit dagegen – nachdem sich die Festspielgemeinde<lb/>
+eine GesmbH beilegen wird - die den Bau durchzuführen hat – könnte<lb/>
+ich mir sehr gut vorstellen. Die Eröffnung der Dornbirner Messe<lb/>
+war insofern sehr interessant, als nicht nur Präsident <name type="person" ref="per:115707">Rhomberg</name>, sond<lb/>
+dern auch <name type="person" ref="per:97733">Mayer-Gunthof</name> das Wort ergriff und einige Wünsche an den<lb/>
+anwesenden Handelsminister überbrachte. Ausserdem redete der Bür<lb break="no"/>germeister von Dornbirn, Dr. <name type="person" ref="per:97360">Bohle</name>, und der Organisator der Hand<lb break="no"/>werksausstellung, Dipl.Ing. <name type="person" ref="per:115022">Ahamer</name>. Ich hatte dadurch einige gute<lb/>
+Aufhänger z.B. bezeichnete mich der Bürgermeister als den Oberbe<lb break="no"/>fehlhaber, <name type="person" ref="per:97733">Mayer-Gunthof</name> meinte, ich müsste ein Christkind sein,<lb/>
+sodass ich auf Grund dieser vorhergehenden Reden sehr aktuell<lb/>
+und ich hoffe auch witzig darauf antworten konnte. Trotzdem hatte<lb/>
+ich selbstverständlich die von mir vorgenommene Kritik an der<lb/>
+restriktiven amerikanischen Importpolitik für Textilien festge<lb break="no"/>halten und besonders herausgestrichen. Da ich den Landeshauptmann<lb/>
+<name type="person">Kessler</name> vor der Ansprache schon versichert hatte, ich würde auf<lb/>
+seinen Brief und seine Wünsche, die er dort geäussert hatte,<lb/>
+eingehen und bei der Rede dann doch infolge der fortgeschritttenen<lb/>
+Zeit und auch weil ich wirklich darauf vergessen habe, nicht mehr<lb/>
+eingegangen bin, ersuchte mich der Landeshauptmann, bei dem ge<lb break="no"/>meinsamen Mittagessen der Gemeinde Dornbirn, dies nachzuholen.<lb/>
+Ich war dazu gerne bereit und versicherte ihm und den Anwesenden,<lb/>
+dass die Bundesregierung nicht die Absicht hatte, die Kompetenzen .<lb/>
+der Länder zu beschneiden. Was das Fremdenverkehrskonzept betrifft,<lb/>
+das <name type="person" ref="per:97749">Mitterer</name> noch ausarbeiten liess und das eine gewisse Kompe<lb break="no"/>tenzübertragung von den Ländern an den Bund vorgesehen hat, konnte<lb/>
+<pb n="02-0439" facs="02_1970-08-01_0439.jpg"/>ich ihm und den Anwesenden versichern, dass ich ganz im Gegenteil<lb/>
+eine Reorganisation der Fremdenverkehrswerbung, die von den Bun<lb break="no"/>desländern immer mehr gefordert wird, tatsächlich immer im Auge<lb/>
+habe und in kürzestes Zeit in Angriff genommen werden wird.</p>
+            <p xml:space="preserve">Eine anschliessende Pressekonferenz, die sehr gut vorbereitet warm<lb/>
+es waren fast an die 30 Journalisten anwesend, und die vor allem<lb/>
+Journalisten umfasste, die wirklich Detailkenntnisse von den einzelnen<lb/>
+Sachgebieten mitbrachten, war für mich sehr lehrreich. Ich glaube,<lb/>
+ich hatte mich auf dem heiklen Parkett Vorarlbergs insoferne ganz<lb/>
+gut benommen, als ich einerseits darauf hinwies, dass mir vollkommen i<lb/>
+klar ist, wie kritisch man in Vorarlberg alle die Äusserungen von<lb/>
+Innerösterreich beachtet. Auf eine Nebenbemerkung konnte ich ja<lb/>
+auf die Erfahrungen anderer Politiker wie z.B. <name type="person" ref="per:97845">Probst</name> mit Fussach,<lb/>
+<name type="person" ref="per:98091">Withalm</name> mit der Politikerbesteuerung und <name type="person" ref="per:97346">Benya</name> mit der Zusammenar<lb break="no"/>beit der Wirtschaftspartner gemacht hat, hinweisen. Z.B. wollte man<lb/>
+von mir unbedingt wissen, ob sieh schon die Händlerkreise von<lb/>
+Vorarlberg mit mir ins Einvernehmen gesetzt hatten, bezüglich einer<lb/>
+Aufstockung der Grenze für die zollfreie Einfuhr von Reiseartikeln.<lb/>
+Ich erwiderte, es wäre nicht Vorarlberg und die Alemanen wäre-n nicht<lb/>
+so tüchtig, wenn sie nicht schon Gelegenheit genommen hätten und ich<lb/>
+auch mit dem verantwortlichen Obmann der Sektion Handel diesbezügliche<lb/>
+Besprechungen während der Messe schon geführt hätte. Ich konnte al<lb break="no"/>lerdings, oder versuchte es zumindestens, die Vorschläge restriktive<lb/>
+Massnahmen zu ergreifen, entkräften, sondern wies im Gegenteil<lb/>
+darauf hin, dass ich eher Vorschläge von Seiten der Handelskreise<lb/>
+erwarte, wo man eine Reziprozität mit der Schweiz erreichen sollte.<lb/>
+Derzeit ist es angeblich so, dass in der Schweiz wirklich kontrol<lb break="no"/>liert wird, ob ein Schweizer 24 Stunden im Ausland gewesen ist, be<lb break="no"/>vor er Waren zollfrei als Reiseandenken mitnehmen kann. Ich selbst<lb/>
+erklärte bei der Pressekonferenz, dass es mir eigentlich unmöglich<lb/>
+erscheint, als Fremdenverkehrsland hier eine rigorise Kontrolle<lb/>
+durchzuführen und dass man doch eher versuchen müsste, liberaler<lb/>
+in dieser Frage vorzugehen. Ich verwies darauf, dass sogar die<lb/>
+Absicht besteht, die 650 S-Grenze zu erhöhen. Die Ausführungen wurden<lb/>
+– ausser wahrscheinlich von den Journalisten , die den Handel ver<lb break="no"/>treten – sehr positiv aufgenommen und da ich mich nicht nur auf<lb/>
+solche Einzelfragen sondern auf jedwede Frage eine ausführliche Aus –<lb/>
+kunft gegeben hatte, sagte mir zum Schluss ein Vertreter vom<lb/>
+<pb n="02-0440" facs="02_1970-08-01_0440.jpg"/>Rundfunk, der ein Interview mit mir aufgenommen hatte, er gehöre<lb/>
+zwar nicht meiner Partei an, sondern im Gegenteil, der ÖVP, aber<lb/>
+er müsse anerkennen, dass dies die beste Pressekonferenz gewesen<lb/>
+ist, die jemals in Vorarlberg abgehalten wurde. Ich halte diese<lb/>
+Bemerkung nicht als Eigenlob fest, sondern nur als Bestätigung<lb/>
+meiner Meinung, dass wir in Vorarlberg zwar auch seine Überzeugung<lb/>
+kann den Vertretern darlegen, nur dass man dies halt so vorsichtig<lb/>
+unddiplomatisch mache muss und vor allem man doch mit dem Wiener<lb/>
+Schmäh, dass man nicht ausrutscht. Ich hoffe zumindestens, dass<lb/>
+mir das geglückt ist.</p>
+            <p xml:space="preserve">Die Besprechung mit den Industriellen von der Textilbranche war<lb/>
+äusserst instruktiv und ich glaube auch für mich insofern erfolg.<lb/>
+reich, als es mir gelang, das Eis, das selbstverständlich zwischen<lb/>
+den Vertretern, die mich noch nicht kennen und mir doch gebrochen<lb/>
+werden konnte. Da ich mir ziemlich viel Detailinformationen ver<lb break="no"/>schafft hatte und auch ziffernmässig glaube ich ganz gut beschla<lb break="no"/>gen war, so entstand der Eindruck, dass hier nicht der Minister<lb/>
+kam, um sich lästige Bittsteller anzuhören, sondern dassich schon<lb/>
+entsprechend vorbereitet mit ihnen diskutieren und argumentieren<lb/>
+wollte. Dabei hatte ich gleich einleitend festgehalten, dass ich<lb/>
+es mir nicht als Aufgabe und Zielschnur gesteckt hatte,immer meine<lb/>
+Meinung den anderen auszuzwingen, aber genau wenig natürlich sie<lb/>
+von mir erwarten dürften, dass ich ihnen zu Ohr rede und gar nichts<lb/>
+anderes sage, als sie von mir hören wollen, sondern dass ich im<lb/>
+Gegenteil meine Auffassung zu den einzelnen Punkten mit ihnen eben<lb/>
+diskutieren wollte. Da Min.Rat <name type="person" ref="per:136790">Wagner</name> von der Messeabteilung immer<lb/>
+anwesend war, wird es ja wahrscheinlich einen diesbezüglichen Akten<lb break="no"/>vermerk machen. Es ist vielleicht zweckmässig, diesen Aktenvermerk<lb/>
+an den Rundlauf an die dafür in Frage kommenden Stellen zu geben,<lb/>
+um meine Auffassung, die ich dort dokumentiert hatte, auch im<lb/>
+Hause bekanntzumachen.</p>
+            <p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:97543">Heindl</name>: Bitte, dies veranlassen.</p>
+            <p xml:space="preserve">Da von der ÖVP dabei auch der NR Dr. <name type="person">Plenk</name>, ein Industriellenver<lb break="no"/>treter Vorarlbergs anwesend war, benutzte ich gleich die Gelegenheit<lb/>
+daarauf hinzuweisen, dass doch in der Preispolitik wir uns der Dema<lb break="no"/>gogie des ÖAAB nicht beugen werden und dass es ganz sinnlos ist,<lb/>
+zu glauben, dass man uns links überholen könne. <name type="person">Plenk</name> stimmte mir<lb/>
+zu und bezeichnete z.B. die Diskussion vom Milchgipfel über das<lb/>
+<pb n="02-0441" facs="02_1970-08-01_0441.jpg"/>Margarinepreisproblem und die Unilever-Gewinne als ausge<lb break="no"/>sprochen unsinnig. Zum Schluss sagte noch der Präsident der<lb/>
+Handelskammer Vorarlberg, er hatte sich sehr gefreut, dass<lb/>
+ich gekommen wäre und erw ürde mich auch in die Handelskammer<lb/>
+einladen, was mich zur Bemerkung veranlasste, ich würde dies<lb/>
+sehr gerne annehmen und auch erwarten, aber in NÖ, wo mich die<lb/>
+Handelskammer eingeladen hat, hat <name type="person" ref="per:97769">Mussil</name> mich leider wieder aus<lb break="no"/>geladen. Ich hoffte, dass ich mit dieser Bemerkung die alemani<lb break="no"/>sche Sturheit angeregt habe und sie mich wirklich zu einer Voll<lb break="no"/>versammlung der HK einladen werden.</p>
+         </div>
+      </body>
+    
+  </text>
+</TEI>

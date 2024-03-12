@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstag, der 14. Juli 1970</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band02_1970-07-14</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1970-07-14">Dienstag, 14. Juli 1970</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-03-30">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-19" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+  <text xml:base="http://192.168.0.9/staribacher/src/scans/Band02/">
+      <body>
+         <pb n="02-0361" facs="02_1970-07-14_0361.jpg"/>
+         <div type="entry">
+            <dateline>
+               <date when="1970-07-14">Dienstag, 14. Juli 1970</date>
+            </dateline>
+            <p xml:space="preserve">Der jug. Botschafter <name type="person">Vosnjak</name> hatte eine Vorsprache und<lb/>
+drei Punkte.: Der Aussenhandelsminister <name type="person">Pablewics</name> möchte zur<lb/>
+Wiener Messe zu einem Gegenbesuch kommen, bevor der Gemischte<lb/>
+Ausschuss wieder tagt. Zweitens der Warenaustausch entwickelt<lb/>
+sich für Jugoslawien sehr ungünstig. Betrug der Export 45 Mio $<lb/>
+gegen einen Import von 90 Mio $ im Jahre 1969. In den ersten<lb/>
+drei Monaten ist der Export 10 Mio $ und der Import 25 Mio $,<lb/>
+d.h. wenn dieser Trend weitergeht, wird Jugoslawien beim Export<lb/>
+stagnieren, aber fast um 100 Mio $ Importe hereinnehmen. Meine<lb/>
+Erwiderung, dass unsere landwirtschaftliche Produktion derzeit so<lb/>
+stark ist, dass z.B. nicht einmal mehr Mais importiert werden kann,<lb/>
+wurde mit Bedauern zur Kenntnis genommen. Der Hinweis, dass wir<lb/>
+insbesondere mit Invisibles, d.h. durch den Fremdenverkehr den<lb/>
+Jugoslawen grosse Erleichterungen verschaffen, wurde dahingehend<lb/>
+erwidert, dass auch Jugoslawien einen starken Fremdenverkehr nach<lb/>
+Österreich aufzuweisen hat, insbesondere auch Ausflüge und im<lb/>
+Winter Skifahrer. Derzeit sollten nach Berechnungen der jug. Natio<lb break="no"/>nalbank ca. 9 Mio $ nach Österreich geflossen sein.<lb/>
+<name type="person" ref="per:97867">Reiterer</name> wies darauf hin, dass zu dieser schlechten Warenaustausch<lb break="no"/>situation auch dazu beiträgt, dass seit dem 1. Oktober 1969 kein<lb/>
+Handelsrat mehr in der Botschaft sei. <name type="person">Slatkovics</name>, der vorige Han<lb break="no"/>delsrat, sei – wie der Botschaftermitteilt – nach Indien zu einer jug.<lb/>
+Firma gegangen , weil er dort um 100 % mehr verdient als im Staats<lb break="no"/>dienst. Für die konkreten Geschäften sei ja auch die jug. Handels.<lb/>
+kammer zuständig und er bestätigt neuerdings, dass unser Aussenhan<lb break="no"/>delsstellenleiter in Belgrad, Herr <name type="person">Draschitz</name>, sehr tüchtig sei.<lb/>
+Trotzdem war er für diesen verstekcten Angriff <name type="person" ref="per:97867">Reiterers</name> sehr<lb/>
+dankbar,weil er dies jetzt nach Jugoslawien melden könnte und er<lb/>
+selbst immer versucht, so schnell wie möglich einen entsprechenden<lb/>
+Ersatz für <name type="person">Saltkovics</name> zu bekommen. Drittens sollte ein Regional<lb break="no"/>abkommen, das ja von Landeshauptmann <name type="person" ref="per:97664">Krainer</name> immer wieder ge<lb break="no"/>wünscht wird, zwischen der Südsteiermark und Jug. Region abge<lb break="no"/>schlossen werden. Bei einem Besuch <name type="person" ref="per:97607">Jonas</name> hätte ihm <name type="person" ref="per:114093">Waldheim</name> auch<lb/>
+volle Unterstützung zugestanden. <name type="person" ref="per:97749">Mitterer</name> dagegen hätte eine Er<lb break="no"/>leichterung bestimmter Artikel in Aussicht gestellt. <name type="person" ref="per:97632">Kirchschläger</name>,<lb/>
+bei dem auch schon einmal interveniert wurde, war sehr zurückhaltend<lb/>
+und auch ich sagte nur zu, dass ich verstehen könnte, das Jugoslawien<lb/>
+<pb n="02-0362" facs="02_1970-07-14_0362.jpg"/>dieses Problem im Herbst eneuerdings zur Sprache bringt. Eine wirk<lb break="no"/>liches Regionalabkommen kann meiner Meinung ja gar nicht ge<lb break="no"/>schlossen werden, da wir damit gegen das GATT verstossen würden.<lb/>
+Wenn es wirklich der jug. Druck sehr stark sein sollte, bliebe<lb/>
+uns als einzige Möglichkeit übrig, für spezifische jug.<lb/>
+Produkte Zollermässigungen zu gewähren, die wir dann natürlich<lb/>
+gattweit auf alle anderen Staaten auszudehnen hätten.</p>
+            <p xml:space="preserve">ANMERKUNG: Bitte entsprechende Notiz fotokopiert an <name type="person" ref="per:97632">Kirchschläger</name>.</p>
+            <p xml:space="preserve">Im Ministerrat wurde die Tagesordnung ganz normal abgewickelt, wobei<lb/>
+interessanterweise auch der Antrag, dass <name type="person" ref="per:97851">Pultar</name> auf Kosten des Käse<lb break="no"/>verbandes nach Amerika fahrt, passierte, in der Vorbesprechung hatte<lb/>
+ich darauf hingewiesen, dass dies doch eigentlich sehr ungewöhnlich<lb/>
+ist, dass ein Staatsvertreter auf Kosten einer Privatfirma nach<lb/>
+Amerika reist. Im Hause hat dies ebenfalls grosse Verwunderung<lb/>
+ausgelöst, aber andererseits wurde die Feststellenung gebracht, dass<lb/>
+eben in der Landwirtschaft seit 25 Jahren andere Sitten herrschen.<lb/>
+Zu meiner grössten Verwunderung hat im Ministerrat, ohne dass wir<lb/>
+dies in der Vorbesprechung im Einzelnen diskutiert haben, <name type="person" ref="per:97668">Kreisky</name><lb/>
+auf das grosse Kompetenzgesetz, das nun geschaffen werden soll, hin<lb break="no"/>gewiesen und verlangt, dass dies auch zu Protokoll genommen wird.<lb/>
+In diesem grossen Kompetenzgesetz ist vorzusorgen, dass das<lb/>
+Handelsministerium zu einem Wirtschaftsministerium ausgebaut werden<lb/>
+wird. Die bilateralen Besprechungen werden in der nächsten Zeit<lb/>
+nach einer grundsätzlichen Debatte in der Ministerratsvorbesprechung<lb/>
+durchgeführt werden. Er verlangte dann, dass ich diese Erklärung<lb/>
+auch im Rundfunk als Ergebnis der Ministerratssitzung öffentlich er<lb break="no"/>klären sollte. Die Sektionschefsrunde, wo ich ebenfalls über den<lb/>
+Ministerrat berichtete, zeigte mir neuerdings, dass eine Koordi<lb break="no"/>nation zwischen den einzelnen Sektionen noch immer nicht im ge<lb break="no"/>wünschten Umfang stattfindet. Ich komme immer mehr zur Überzeugung,<lb/>
+dass das Ministerium oder eine Ministeriumführung gar nicht das ent<lb break="no"/>scheidende ist, hier kann man durch Ministerbüros oder Grundsatz<lb break="no"/>abteilungen versuchen, einen neuen Führurgsstil zu entwickeln. Was<lb/>
+aber fast unmöglich ist, ist die Königreiche der Sektionen irgend<lb break="no"/>wie zu integrieren. Dabei geht diese Selbständigkeit nicht nur so<lb/>
+weit, dass jede Sektion ihr eigenes Sektionsleitung hat mit ihrem<lb/>
+eigenen Büro, sondern dass in Wirklichkeit jede Sektion ängstlich<lb/>
+<pb n="02-0363" facs="02_1970-07-14_0363.jpg"/>bemüht ist, nur ihre Kompetenz zu erhalten und sich gar z.B. besonders<lb/>
+anstrengt, neue Arbeiten zu kriegen, sondern ein jeder ist auf sein<lb/>
+Arbeitsgebiet so eingefahren, dass er nur diese und ausschliesslich<lb/>
+diese erledigen will. Meinem Dafürhalten nach müsste sich doch das Han<lb break="no"/>delsministerium ganz besonders anstrengen, wirklich in den wirtschaft<lb break="no"/>lichen Fragen entsprechend mitreden zu können. In Wirklichkeit – habe ich<lb/>
+den Eindruck – kommt es ihnen primär aber darauf an, nach uassen hin<lb/>
+eine entsprechende Kompetenz zu haben, ohne den materiellen Wert einer<lb/>
+neuen Kompetenz richtig zu erfassen zu können. Z.B. ist es <name type="person" ref="per:97311">Androsch</name><lb/>
+und mir vollkommen unerklärlich, warum die beiden Ministerien, d.h. die<lb/>
+Bürokratie auf der einen Seite das Finanzministerium, Min.Rat <name type="person" ref="per:97715">Manhart</name>,<lb/>
+und auf der anderen Seite bei uns das Handelsministerium, Min.Rat <name type="person" ref="per:98075">Willen<lb break="no"/>part</name> einen heftigen Krieg darüber führen, wer für die Nicht-GATT-Staaten<lb/>
+die Zollermässigungen antragsgemäss im Ministerrat einzubringen hat. Ich<lb/>
+hatte mich mit <name type="person" ref="per:97311">Androsch</name> jetzt dehingehend geeinigt, dass formell das<lb/>
+Finanzministerium dafür zuständig sei, materiell aber alles nicht nur<lb/>
+im engsten Einvernehmen mit uns sondern auch nach unseren Grundsätzen<lb/>
+vom Finanzministerium durchgeführt werden muss. Wir kamen überein, dass<lb/>
+die beiden Minsterialvertreter und Zuziehung eines Verfassungsdienstmannes<lb/>
+solange zusammen verhandelt sollen, bis sie in diesem Sinne einen ent<lb break="no"/>sprechenden Gesetzentwurf vorbereitet haben.</p>
+            <p xml:space="preserve">Bei einer Besprechung am Nachmittag über die Kokspreisverhandlung hatte<lb/>
+ich auch Gelegenheit, Min.Rat <name type="person" ref="per:112946">Schleifer</name> über seine Personalvertretung zu<lb/>
+sprechen. <name type="person" ref="per:112946">Schleifer</name> selbst hat mir ja in seinem letzten ÖAAB-Heft "bei<lb/>
+uns" einen entsprechenden Brief gewidmet. Ich war darüber gar nicht erbost,<lb/>
+sondern teilte ihm mit, dass er mit einer Antwort von mir zu rechnen hätte,<lb/>
+was ihn sehr freute und er beteuerte mit bei dieser Gelegenheit neuerdings<lb/>
+seine Loyalität und die seiner Mitarbeiter,des ganzen Hauses.. Ich erklärte<lb/>
+dass ich gar keinen Grund hätte, an dieser Loyalität zu zweifeln und er<lb/>
+kam neuerdings auf die Zeitungsmitteilung zu sprechen, die wie er mit<lb/>
+Recht sagte, nur aus dem Ministerbüro hat kommen können. Ich hatte des<lb break="no"/>halb, nachdem nur Dkfm . <name type="person" ref="per:111737">Marsch</name> bei dieser Besprechung anwesend war,<lb/>
+sofort <name type="person" ref="per:97543">Heindl</name> und <name type="person" ref="per:97646">Koppe</name> dazu berufen und <name type="person" ref="per:112946">Schleifer</name> erklärte neuerdings,<lb/>
+dass er mir gegenüber allein – weil er derselbe Jahrgang und er ist ein<lb/>
+Häfenbruder und ich bin ein Häfebruder – er selbst war unter den Nazis<lb/>
+von 40 – 43 eingesperrt - sodass er sagte, er hätte für mich wirklich<lb/>
+eine sehr grosse Sympathie persönlicher Art, natürlich würden wir politisch<lb/>
+nie übereinstimmen. Auf diese Äusserung hin versuchte ich das Gespräch dahi<lb/>
+<pb n="02-0364" facs="02_1970-07-14_0364.jpg"/>gehend zu lenken, wie dieses beginnende Misstrauen abgebaut<lb/>
+werden kann. <name type="person" ref="per:112946">Schleifer</name> behauptet, dass nicht die Leute uns gegen<lb break="no"/>über ein Misstrauen zum Ausdruck bringen, sondern sich bei ihnen<lb/>
+jetzt ein Misstrauen aufbaut, dass sie bei uns vermuten. Er kam<lb/>
+auf die Grundsatzabteilung zu sprechen, die allerdings ja meistens<lb/>
+aus hauseigenen Leute gebildet wurde, die aber von den Sektionen<lb/>
+als die <choice><choice><sic>Gorilla</sic><corr>Guerilla?</corr></choice></choice>-Abteilung bezeichnet wird, wie er uns mitteilt.<lb/>
+Er hat vollstes Verständnis dafür, dass diese andere Arbeitmethode,<lb/>
+die ich im Ministerium einführen will, zweckmässiger sein kann<lb/>
+Er sagt nur, dass dies sehr lange dauern wird und dann nicht einzel<lb break="no"/>ne Schnitzer erfolgen dürften. Z.B. hat die Grundsatzabteilung für<lb/>
+die jetzt zur Diskussionstehenden Gesetzentwürfe,die<lb/>
+ressortmässig allerdings gar nicht bei uns sind, wie Preisrege<lb break="no"/>lung, Preistreiberei, Lastenverteilergesetz, selbstverständlich<lb/>
+gewusst, welchen Plan sie einhalten müssten, damit diese Gesetzes<lb/>
+zeitgerecht mit Ende des Jahres beschlossen sind. Trotzdem hatten<lb/>
+sie von der Grundsatzabteilung einen Vermerk bekommen, wie die einzel<lb break="no"/>nen Punkte und die einzelnen Termine genau festgehalten wurden.<lb/>
+Darin sehen die Sektionen eine gewisse Bevormundung, die entsprechend<lb/>
+abgelehnt wird. Ich glaube, dass hier wirklich die Grundsatzabteilung<lb/>
+mit mehr psychologischem Einfühlungsvermögen vorgehen muss, aller<lb break="no"/>dings in der Sache natürlich entsprechend hart bleiben muss, wenn<lb/>
+wir eine neue Arbeitsmethode entwicklen, dann muss diese durchge<lb break="no"/>führt werden und ich habe in der Arbeiterkammer genau dieselben<lb/>
+Schwierigkeiten am Anfang gehabt. Allerdings sind in der Arbeiter<lb break="no"/>kammer sehr viele einsichtige Leute gesessen, die mitgetan haben<lb/>
+und dazu beigetragen haben, dass der Widerstand, der insbesondere<lb/>
+von Leuten gekommen ist, die eben nicht diese neue Arbeitsmethode<lb/>
+annehmen wollten, leicht überwunden werden konnten, im Miniterium<lb/>
+wird uns das viel schwerer gelingen.</p>
+            <p xml:space="preserve">Anschliessend an diese Aussprache ersuchte ich <name type="person" ref="per:97646">Koppe</name>, da er ja als<lb/>
+Psychologe und als Meinungsforscher und P.R.-Mann dafür der best<lb/>
+ausgebildetste ist, sofort sich zu überlegen, wie wir diese auf<lb break="no"/>tauchenden Schwierigkeiten im Hause überwinden.</p>
+            <pb n="02-0365" facs="02_1970-07-14_0365.jpg"/>
+            <p xml:space="preserve">Bei einem Empfang am Abend bei Spar, wobei ich nicht einmal<lb/>
+wusst, um was es sich gehandelt hat, im Schwarzenbergplalais<lb/>
+konnte ich feststellen, dass ich in Zukunft besser darauf vorbe<lb break="no"/>reiten sollte. Nicht dass ich in Schwierigkeiten gekommen wäre<lb/>
+und dort bei der Ansprache, die ich zu halten hätte, nicht sofort<lb/>
+entsprechende antworten konnte, auf de Vorwürfe, die der deutsche<lb/>
+SPAR-Vertreter gegenüber der österreichischen Einfuhrpolitik<lb/>
+undVerteilerpolitik vorgebracht hat. Sondern, da ich erklärt<lb/>
+hatte, ich würde mich nur sehr kurze Zeit dort aufhalten, bin also<lb/>
+nach meiner Ansprache an die Journalisten und einer kurzen Dis<lb break="no"/>kussion wieder weggegangen, denn ich stehe auf dem Standpunkt, wenn<lb/>
+ein Minister sagt, er hat keine Zeit, dann kann er auch nicht<lb/>
+beim Buffett bleiben, sondern das entscheidende war, dass ich daher<lb/>
+die Gelegenheit versäumt hatte, mit den Leuten dort aus Deutschland<lb/>
+zu diskutieren und ich hätte, wenn ich gewusst hätte, dass diese<lb/>
+Leute dort sind, mir wesentlich mehr Zeit genommen. Nebenbei bemerkt,<lb/>
+die deutsche Landwirtschaftsvertretung, die für Propaganda ca. 100 Mio<lb/>
+DM zur Verfügung hat, war mit entsprechenden Spitzenkräften erschie<lb break="no"/>nen und selbstverständlich waren auch die österreichischen landwirt<lb break="no"/>schaftlichen Vertreter anwesend. Sekt.Chef <name type="person" ref="per:97851">Pultar</name>, <name type="person" ref="per:97368">Brandstätter</name>,<lb/>
+<name type="person" ref="per:123739">Korbl</name> von der Präsidentenkonferenz und von der BHK LAbg.<lb/>
+Obmann der Handelskammer in der Konsumenteninformation.</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="02_0365_01" facs="02_1970-07-14_0365-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesordnung 13. Ministerratssitzung, 14.7.1970</head>
+            <gap reason="sampling"/>
+            <pb n="02_0365_02" facs="02_1970-07-14_0365-02.jpg"/>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+  </text>
+</TEI>

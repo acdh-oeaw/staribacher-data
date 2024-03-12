@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittwoch, der 11. Juni 1975</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band26_1975-06-11</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1975-06-11">Mittwoch, 11. Juni 1975</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-12-10">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="26-0711" facs="26_1975-06-11_0711.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Mittwoch, 11. Juni 1975<lb/>
+</p>
+            <p xml:space="preserve">Der sowjetische Handelsrat <name type="person" ref="per:113078">Nikolaenko</name> kam im Auftrag von <name type="person" ref="per:112951">Patolitschew</name><lb/>
+um mitzuteilen, dass die SU bereit ist, die in ihrer Option gelegenen<lb/>
+500 Mill. m³ Gas ab 1978 zu liefern und machte dies sehr dramatisch und<lb/>
+erklärte, dass die sowj. Regierung auf Bericht des Herrn Minister <name type="person" ref="per:112951">Patoli<lb break="no"/>tschew</name> dem Wunsch <name type="person" ref="per:97668">Kreiskys</name> und <name type="person" ref="per:97985">Staribachers</name> entsprechend diese Gasliefe<lb break="no"/>rung beschlossen habe. Dadurch wird die 1,5 Mia. erster Gasvertrag plus<lb/>
+500 Mill. ab 1978 um weitere 500 Mill. aufgestockt. Gleichzeitig kauft<lb/>
+die SU Röhren zu den 200.000 t bis 1978 weitere 100.000 dazu und dann<lb/>
+ab 1978 einen langfristigen 10–15 Jahre mit 100.000 t jährliche Lie<lb break="no"/>ferung. Die VÖEST, Gen.Dir. <name type="person" ref="per:97644">Koller</name>, war wegen der Tunesier gerade bei<lb/>
+mir, ist über dieses Geschäft sehr erfreut. <name type="person" ref="per:113078">Nikolaenko</name> drängte darauf,<lb/>
+dass auch <choice><choice><sic>Erdfeldrohre</sic><corr>Erdölfeldrohre?</corr></choice></choice> <choice><choice><sic>Cassing</sic><corr>Casing?</corr></choice></choice> geliefert werden oder zumindestens die<lb/>
+Regierung sich verpflichtet, dies wohlwollend zu prüfen. Die VÖEST hat<lb/>
+aber keine Möglichkeit für diese Röhren zu erzeugen und müsste ein<lb/>
+eigenes Röhrenwerk errichten. Mit Mannesmann hat <name type="person" ref="per:97644">Koller</name> vor längerer<lb/>
+Zeit schon Kontakt aufgenommen, da es eine Lizenz braucht. Das Röhren<lb break="no"/>kartell lehnt aber eine Ausweitung der Röhrenkapazität ab. Da die<lb/>
+VÖEST ausschliesslich dann vom sowjetischen Bezug abhängen würde, getraut<lb/>
+sich sich so etwas nicht in Angriff zu nehmen. Ich teile übrigens diese<lb/>
+Meinung - <name type="person" ref="per:97668">Kreisky</name> ist aber die Meinung, die VÖEST hat wieder einmal hier<lb/>
+mit den Deutschen ihre alte Koalitionspolitik gemacht, nach seiner Auf<lb break="no"/>fassung wäre die VÖEST imstande, ein Röhrenwerk zu errichten und mehr<lb/>
+oder minder gegen das Röhrenkartell anzukämpfen. Ich habe ihm erklärt,<lb/>
+dass ich diese Meinung nicht teile. Nach Mitteilung von <name type="person" ref="per:97644">Koller</name> gibt<lb/>
+es eine Lösung, dass wenn die Sowjets einverstanden sind, die VÖEST<lb/>
+an Mannesmann Knüppel liefert und diese dann aus den Knüppeln 80.000 t<lb/>
+<choice><choice><sic>Cassings</sic><corr>Casings?</corr></choice></choice> pro Jahr produziert. Die Investitionen in diesem Fall sind für<lb/>
+die VÖEST grösser, 2,5 Mia. S gegen nur ca. 1,5 Mia., wenn sie ein Röhren<lb break="no"/>werk errichtet, doch könnte sie diese Produktion nach der Alpine in<lb/>
+die Steiermark geben und Knüppel gegebenenfalls auch anders abwalzen,<lb/>
+wenn dieses Geschäft einmal zum Erliegen kommt.<lb/>
+</p>
+            <p xml:space="preserve">Die Tunesier haben ein Interesse an einer Giesserei, sie haben von den<lb/>
+Japanern eine errichtet bekommen, die aber angeblich nicht funktioniert.<lb/>
+Die VÖEST ist bereit, ihnen eine hinzustellen, das Know-how ist kein<lb/>
+Problem, da sie in Liezen und anderen europäischen Orten VÖEST-Giessereien<lb/>
+in guter Qualität bereits gibt, wenn sie gleichzeitig auch einen Hoch<lb break="no"/>ofen auf <choice><choice><sic>Erzschwammbasis</sic><corr>Erzschlammbasis?</corr></choice></choice> errichten kann. Interessant war für mich,<lb/>
+<pb n="26-0712" facs="26_1975-06-11_0712.jpg"/>dass <name type="person" ref="per:97644">Koller</name> diese Detailinformationen mir nicht geben konnte, obwohl<lb/>
+er sich zwischendurch informiert hat, sondern dass <name type="person" ref="per:97426">Fälbl</name> dies aus einer<lb/>
+Besprechung in meinem Auftrag von irgendeinem Referenten der VÖEST<lb/>
+erfuhr. Die VÖEST schickt auch jetzt ein Team nach Tunesien, um die<lb/>
+Fragen zu besprechen. Ein weiteres Interesse von den Tunesiern ist eine<lb/>
+Düngemittelfabrik sowie eine Raffinerie mit 4,5 Mill. t Kapazität.<lb/>
+Gen.Dir. <name type="person" ref="per:97337">Bauer</name>, der bei der Aussprache mit den Tunesier als Präsident<lb/>
+der tunesisch-österreichischen Handelskammer anwesend war, verpflichtete<lb/>
+sich ein kleines Team von Fachleuten mit der VÖEST nach entsprechender<lb/>
+Vorbereitung nach Tunesien zu schicken. Im nächsten Fünfjahresplan<lb/>
+hat Tunesien die Absicht, eine Bahn von Tunis nach Tripolis zu bauen.<lb/>
+Auch daran wäre Österreich interessiert mitzuarbeiten, insbesondere<lb/>
+Waggons zu liefern. <name type="person" ref="per:97668">Kreisky</name> meinte, dass die SGP daran grosses Inter<lb break="no"/>esse haben müsse, beklagt sich aber, dass weder die Handelsdelegierten<lb/>
+geschweige denn die österreichischen Firmen initiativ sind. Diese<lb/>
+Bemerkungen macht er insbesondere im Hinblick auf den Besuch des<lb/>
+ägyptischen Wiederaufbauministers <name type="person" ref="per:140592">Osman</name>, der aber sicherlich sehr über<lb break="no"/>rascht von mir zu hören, nachdem er gestern festgelegt wurde, dass er<lb/>
+kommt, bereits zu hören, dass ich mit der VÖEST und Porr die entspre<lb break="no"/>chenden Vorbereitungsarbeiten schon in Angriff genommen habe. Er<lb/>
+überschätzt nur die Funktion, die Politiker in dem Fall er selbst oder<lb/>
+ich in einem so einem Fall ausüben können. wenn es nach ihm ginge, müss<lb break="no"/>ten die Firmen sofort alles akzeptieren, auch dann, wenn es gewisse<lb/>
+unkalkulierbare Risken gibt. Die Porr AG, Ing. <name type="person" ref="per:98095">Witzmann</name>, ist an einem<lb/>
+Auftrag Tunnel unter dem Suez-Kanal sehr interessiert. In Persien hat<lb/>
+sie wegen der hohen 30 %-igen Inflationsrate und den verstopften Häfen<lb/>
+und den scheinbar anderen Firmen kaum eine Chance, ihre Beitätigkeit<lb/>
+fortzusetzen. Ihr Wunsch ist deshalb, in Ägypten Bauten zu übernehmen.<lb/>
+Da das Projekt aber viel zu gross ist, wird sie sofort eine Arbeits<lb break="no"/>gemeinschaft gründen. Die VÖEST wieder hat deutsche Baufirmen für dieses<lb/>
+Tunnelprojekt, wenn es in Stahl ausgeführt wird. Dagegen habe ich mich<lb/>
+ausgesprochen und <name type="person" ref="per:97668">Kreisky</name> selbst war fast wütend, dass die VÖEST immer<lb/>
+wieder mit deutschen Firmen kooperiert. Ich glaube, dass <name type="person" ref="per:97668">Kreisky</name> sich<lb/>
+dies alles viel leicht vorstellt, als es dann in der Praxis möglich<lb/>
+ist durchzuführen. Wahrscheinlich wenn man von der Aussenpolitik kommt<lb/>
+wo man immer nur die grossen Probleme und Linien verfolgt und wenn man<lb/>
+Lösungen macht, die in grossen Verträgen ihren Niederschlag finden,<lb/>
+ist man dann sehr unzufrieden, wenn man die Details eines Geschäftes<lb/>
+dann berücksichtigen muss. Ich glaube die Schwierigkeiten der Firmen<lb/>
+<pb n="26-0713" facs="26_1975-06-11_0713.jpg"/>zu kennen und bin deshalb mit der Methode <name type="person" ref="per:97668">Kreisky</name> überhaupt nicht ein<lb break="no"/>verstanden. Ich bin daher auch nicht bereit, ihm bei seinen Beschwerden<lb/>
+rechtzugeben.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97584">Jagoda</name> und <name type="person" ref="per:111367">Würzl</name> vereinbaren mit mir, dass doch das alternative Prämien<lb break="no"/>system bei der BÜRGES eingeführt wird. Bei einem Budget von 31 Mill. S<lb/>
+für die Stammaktion haben wir heuer 29 Mill. S Vorbelastung durch die<lb/>
+Einführung der Prämie müssten für 16,5 Mill. noch dazulegen, um mit<lb/>
+45 rund das Auslangen zu finden. Im nächsten Jahr würde sich die Vor<lb break="no"/>belastung auf 19 Mill. reduzieren und 32 Mill. S insgesamt also<lb/>
+51,5 ungefähr benötigt werden. Dann aber fällt die Anforderung an das<lb/>
+Handelsministeriumsbudget rapid ab. Da ich nicht glaube, dass sich<lb/>
+viele für die Prämie entschliessen, obwohl sie hier statt 200.000 S<lb/>
+die Obergrenze auf 250.000 durch die 25.000 S Prämien, die wir bezahlen<lb/>
+erhöhen würde. Gem.Rat <name type="person" ref="per:97892">Sallaberger</name>, FWV, ist mit dieser Lösung, wie<lb/>
+er mir dann mitteilt sehr einverstanden.<lb/>
+</p>
+            <p xml:space="preserve">Die Eröffnung der Sitzung der Gemischten Kommission mit der EG<lb/>
+ist ein rein formeller Akt. Trotzdem bin ich dem gerne nachgekommen,<lb/>
+um Botschafter <name type="person" ref="per:97867">Reiterer</name> aufzuwerten, er ist immerhin imstande den<lb/>
+Minister zu bringen und andererseits Aktivität vorzutäuschen. Die<lb/>
+Kommission hat nämlich normalerweise keine Möglichkeit, aus dem Brüsse<lb break="no"/>ler Hauptquartier herauszukommen. Natürlich wünscht auch die Bürokratie<lb/>
+dort Auslandsreisen zu machen. Aufgefallen ist mir, dass die Kommission<lb/>
+sich meistens aus sehr jungen Beamten der verschiedensten Länder<lb/>
+zusammensetzt.<lb/>
+</p>
+            <p xml:space="preserve">In krassem Gegensatz dazu nämlich unsere Aktivität in der EG stand dann<lb/>
+die Debatte im Parlament über den Integrationsbericht. Die Redner wurden<lb/>
+wesentlich zusammengestrichen und insbesondere Kammerpräsident <name type="person" ref="per:97487">Graf</name> vom<lb/>
+Burgenland ersuchte mich, ob ich unbedingt zu dem Thema reden würde,<lb/>
+sie haben schon ihre Listen wesentlich reduziert. Da <name type="person" ref="per:97686">Lanner</name> mich<lb/>
+nicht angriff sondern nur mit <name type="person" ref="per:98055">Weihs</name> wegen der Exporte von Rindern<lb/>
+diskutierte hat diese sich zwar gemeldet, aber ich habe wieder einmal<lb/>
+geschwiegen. Dies fällt mir allerdings sehr leicht, weil ich diese<lb/>
+Debatten von der Regierungsbank geführt nicht viel abgewinnen kann.<lb/>
+In diesem Fall ist es ein riesiges Plus bei allen Abgeordneten, wenn<lb/>
+man nicht spricht. In der Öffentlichkeit wird dies glaube ich sowieso<lb/>
+nicht bemerkt. <name type="person" ref="per:97686">Lanner</name> möchte nun, dass wir eine grössere Aktivität<lb/>
+<pb n="26-0714" facs="26_1975-06-11_0714.jpg"/>nicht nur bei den Agrarprodukten sondern auch beim Zollabbau und<lb/>
+heim Evolutionsparagraphen entwickeln. Er gibt sich natürlich einer<lb/>
+Illusion hin, resp. möchte halt irgendwelche positiven Vorschläge<lb/>
+auch bei dem Integrationsbericht von seiten der Opposition machen.<lb/>
+Er kennt die Probleme aber sehr genau und weiss, dass wir eben kaum<lb/>
+Chancen haben. Obwohl auch <name type="person" ref="per:97668">Kreisky</name> immer wieder glaubt und hinweist,<lb/>
+wir müssten in den Europäischen Gemeinschaften eine neue Runde ähnlich<lb/>
+den <name type="person" ref="per:97686">Lanner</name>'schen Vorschlägen starten. Wer den schweren bürokratischen<lb/>
+Apparat der EG kennt, zweifelt mit Recht an diesen Möglichkeiten.<lb/>
+Dazu kommt noch, dass die Probleme der EG heute ganz anderer Natur<lb/>
+sind und sie grosse Schwierigkeiten innerhalb ihrer Staatsgemeinschaft<lb/>
+haben. Wenn nicht von aussen ein grosser Druck auf die europäischen<lb/>
+Staaten eine Änderung der EG-Politik erzwingt, von Österreichs Wunsch<lb/>
+allein wird sie sich kaum beeinflussen lassen. Natürlich ist eine solche<lb/>
+Änderung einmal möglich und <name type="person" ref="per:97668">Kreisky</name> aber auch <name type="person" ref="per:97686">Lanner</name> werden dann sagen,<lb/>
+das haben sie ja vorausgesehen und deshalb schon vor langer Zeit die<lb/>
+Änderung gewünscht.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97563">Hofstetter</name> teilt mit, dass die Besprechung, die er mit <name type="person" ref="per:97769">Mussil</name> über das<lb/>
+Berufsförderungsinstitut gehabt hat, gescheitert ist. <name type="person" ref="per:97769">Mussil</name> hat sich<lb/>
+bei seinen Leuten nicht durchsetzen können, die Handelskammer wird also<lb/>
+nicht beitreten. <name type="person" ref="per:97563">Hofstetter</name> schlägt vor, wir sollten jetzt den Berufsaus<lb break="no"/>bildungsbeirat einberufen, das Handelsministerium dort entsprechende Vor<lb break="no"/>schläge über Ausbildungsfragen verlangen und dann der Arbeitsgemeinschaft<lb/>
+eine solche ist <name type="person" ref="per:97769">Mussil</name> bereit mit dem Berufsförderungsinstitut und schein<lb break="no"/>bar den Wifis und sonstigen Institutionen der Handelskammer durchzuführen,<lb/>
+entsprechende Aufträge übertragen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97865">Reisinger</name> berichtet, dass die Austria Ferngas jetzt neuerliche Besprechungen<lb/>
+wegen algerischer Gasbezüge führt. Die Algerier haben das europäische<lb/>
+Konsortium verpflichtet, jetzt endlich zu einem Abschluss zu kommen. Die<lb/>
+europäischen Teilnehmer haben nun erklärt, dass wenn Österreich nicht<lb/>
+mitmacht, Pönaleverpflichtungen dann erfüllt werden müssten. Durch<lb/>
+die Anschaffung der Tanker ergibt sich jetzt bereits eine Belastung<lb/>
+der Austria Ferngas. Die Besprechungen mit dem Finanzminister laufen nun<lb/>
+dahin, wie er als neues Mitglied der Austria Ferngas auch die entspre<lb break="no"/>chende Verlustabdeckung durchführt. Die Algerier haben die Absicht, Gas<lb/>
+jetzt gegen Kasse wie man so schön jetzt sagt – cash – zu verkaufen. Das<lb/>
+<pb n="26-0715" facs="26_1975-06-11_0715.jpg"/>Gas würde sich auf 1.22 S pro m³ Entnahmepreis Österreichische Leitung<lb/>
+stellen. Berechnet wurde dies von einem <choice><choice><sic>britishteminal units</sic><corr>British thermal units?</corr></choice></choice> Preis<lb/>
+1.40 $ fob Algerien. Das europäische Konsortium bietet 1.20 $. Die<lb/>
+Algerier möchten gleichzeitig einen Minimumpreis von 1.09 $, die Europäer<lb/>
+bieten 90 Cents. Über die Preisansätze wird man sich einigen können. Die<lb/>
+Frage ist nur, wie finanziert man die Anlagen, die Algerien bauen<lb/>
+lässt. Austria Ferngas braucht für seine Beteiligung unbedingt eine<lb/>
+Bürgschaft. Das seinerzeitige Bürgschaftsgesetz müsste auf die neuen<lb/>
+Vertragsmodalitäten geändert werden. Gott sei Dank ist dafür das<lb/>
+Finanzministerium zuständig. <name type="person" ref="per:97865">Reisinger</name> wird diesbezügliche Besprechungen<lb/>
+mit <name type="person" ref="per:97311">Androsch</name> in nächster Zeit führen. Ich kann mir sehr gut vorstellen,<lb/>
+wie die Arbeit in dem Finanzministerium eine gigantische Belastung des<lb/>
+Ministers ist. Die Bürokratie soll zwar sehr gut sein, sicherlich<lb/>
+nicht so wie man meistens glaubt, aber trotzdem ist es äusserst schwie<lb break="no"/>rig, diese verschiedensten Gebiete und Probleme doch in irgendeiner<lb/>
+Weise zu beeinflussen, vom Lösen ganz zu schweigen. Wenn bei uns<lb/>
+im Handelsministerium irgendwo Aktivitäten entfaltet werden, so schlägt<lb/>
+sich dies nicht gleich in Geldmittel nieder. Anders im Finanzministerium.<lb/>
+Was immer er macht, es gibt entweder Belastungen oder Änderungen in der<lb/>
+Geld- und Finanzpolitik. Ich kann mir sehr gut vorstellen, dass man dann<lb/>
+automatisch in Situationen hineinkommt, die einem fast über den Kopf<lb/>
+wachsen. Die einzelnen Ressorts verlangen nur, die einzelnen Projekte<lb/>
+kosten nur, die einzelnen Gruppen wollen nur Ermässigungen und dies<lb/>
+geht so einigermassen gut, wenn die Wirtschaft sich kontinuierlich<lb/>
+aufwärts entwickelt und entsprechende Mehreinnahmen fliessen. Reisst aber<lb/>
+diese Entwicklung ab, ja ändert sie nur einigermassen sichtbar den Auf<lb break="no"/>wärtstrend, dann muss es zur katastrophalen Entwicklung kommen. Da<lb/>
+sie ja alle finanziellen Massnahmen nicht sofort auswirken sondern im<lb/>
+positiven und im negativen Sinne erst nach einiger Zeit sichtbar werden,<lb/>
+kann es zu bösen Überraschungen kommen. Wer dafür die Verantwortung<lb/>
+trägt, ist wirklich nur zu bedauern.<lb/>
+</p>
+            <p xml:space="preserve">In der Paritätischen Kommission musste ich den Vorsitz führen, da <name type="person" ref="per:97668">Kreis<lb break="no"/>ky</name> wegen der Stahlfusionen sich im Plenum aufhalten wollte. Die<lb/>
+Arbeit der Paritätischen Kommission ist heute verhältnismässig uninter<lb break="no"/>essant, weil die Probleme schon beiden Präsidentenbesprechungen nicht<lb/>
+nur ausdiskutiert sondern in den meisten Fällen sogar auch irgendwie<lb/>
+gelöst werden. Trotzdem kommt es vor, wie z.B. dieses Mal, dass man<lb/>
+sich über die Auswirkungen der Lohnerhöhung für die Molkereiarbeiter<lb/>
+nicht einig ist. Die Bundeskammer verlangt immer wieder, dass eine<lb/>
+<pb n="26-0716" facs="26_1975-06-11_0716.jpg"/>Bemerkung ihrerseits im Protokoll aufgenommen wird, dass es nur<lb/>
+Zug um Zug d.h. Lohnerhöhungen mit sofortiger Preisauswirkung<lb/>
+berechnet wird. Diese Formulierung hat die Arbeitnehmerseite vor<lb/>
+längerer Zeit schon akzeptiert. Trotzdem entspann sich fast immer<lb/>
+wieder darüber eine Diskussion. Nach einem Dutzend Wortmeldungen<lb/>
+hat sich de Situation so versteift und verschlechtert, dass ich mich<lb/>
+einschalten musste. Ich erklärte rundwegs, wie wir dies seit 25 Jah<lb break="no"/>ren handhaben, jede Gruppe beharrt auf ihrem Standpunkt. Die Arbeiter<lb break="no"/>kammer, dass der Vertrag vorher unterzeichnet werden muss, die Handels<lb break="no"/>kammer, dass die Lohnerhöhung, die sie vertraglich unterzeichnen,<lb/>
+in den Preis einkalkuliert sein muss. Dies geschieht dann so, dass<lb/>
+dies zum selben Zeitpunkt von den verschiedensten Parteien – Lebens<lb break="no"/>mittelarbeitergewerkschaft den Lohn, Preisunterausschuss oder Preis<lb break="no"/>kommission den Preis – gleichzeitig beschliesst und unterfertigt.<lb/>
+Theoretisch lässt sich dies also sehr schwer analysieren und letzten<lb/>
+Endes beschliessen, in der Praxis ist dies aber verhältnismässig ein<lb break="no"/>fach. Da sich an diesem System nichts ändern darf und soll, erklärte<lb/>
+ich rundweg, dass auch diesmal wieder so vorgegangen wird, alle<lb/>
+damit einverstanden sind und deshalb der Punkt beschlossen und<lb/>
+keine weitere Debatte mehr zu führen ist. Alle lachten, alle<lb/>
+waren froh, dass sie nicht mehr weiter diskutieren mussten und alle<lb/>
+haben ihr Gesicht gewahrt. Eine Erfahrung, die ich immer wieder<lb/>
+machen kann ist, dass man bei einem gewissen Punkt der Verhandlungs<lb break="no"/>führung eingreifen muss und dann noch selbstherrlich entscheiden,<lb/>
+obwohl dies mir gar nicht liegt, damit nicht die Verhandlungen oft<lb/>
+wegen eines nichtigen Grundes dann platzen. Perfekt hat dieses<lb/>
+System in meinen Augen <name type="person" ref="per:97852">Raab</name> gehandhabt.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="26_0710_05" facs="26_1975-06-11_0710-05.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 11.6.1975</head>
+         </div>
+      </back>
+   </text>
+</TEI>

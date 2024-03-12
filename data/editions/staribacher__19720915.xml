@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der 15. September 1972</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band12_1972-09-15</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1972-09-15">Freitag, 15. September 1972</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-10-22">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="12-1103" facs="12_1972-09-15_1103.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Freitag, 15. September 1972<lb/>
+</p>
+            <p xml:space="preserve">Regierungsrat <name type="person" ref="per:111699">Puffler</name> hat einen Redakteur <name type="person" ref="per:140164">Hauptmann</name> mir ge<lb break="no"/>schickt, der ein Interview über EWG und Gewerbeordnung haben<lb/>
+wollte. Zu meiner größten Verwunderung hat er sich nur zum<lb/>
+Schluß ganz wenig um das große Kompetenzgesetz erkundigt. In<lb/>
+Wirklichkeit wollte er wissen, ob eine Familie Lacina aus<lb/>
+Nairobi, angeblich sehr reich, in Österreich Geschäfte abwickeln<lb/>
+könnte. Da er sich am nächsten Tag nach Nairobi begab, war<lb/>
+für mich ganz klar, daß er in Wirklichkeit nur nachweisen wollte,<lb/>
+gegenüber dieser Familie, daß er sich. einsetzte und sogar mit<lb/>
+dem zuständigen Minister ein Gespräch darüber geführt hat. Dies<lb/>
+wäre gar nicht aufzeichnungswürdig, wenn nicht <name type="person" ref="per:111699">Puffler</name>, als ich<lb/>
+ihm dies mitgeteilte hatte, erklärte, das kann er sich gar nicht<lb/>
+vorstellen, denn bis jetzt war Redakteur Hauptmann ein Offizier<lb/>
+alter Schule, makellos in seinem Auftreten, was ich feststellen<lb/>
+konnte, niemals auf solche Tricks verfallen.<lb/>
+</p>
+            <p xml:space="preserve">Frau MR. <name type="person" ref="per:116995">Wildauer</name> von der OB, Stellvertreterin von Abteilungs<lb break="no"/>leiter <name type="person" ref="per:139515">Dworak</name>, hat die Personal- und Organisationsfrage der <choice><choice><sic>Berg<lb break="no"/>bauhptmannschaften</sic><corr>Berghauptmannschaften</corr></choice></choice> zu behandeln. In Salzburg will nun die OB<lb/>
+seit längerer Zeit bereits einen weiteren Dipl.Ing. einstellen.<lb/>
+So wie in Klagenfurt, wo man mir vor etlichen Monaten einen zweit<lb break="no"/>zugeteilten einreden wollte, habe ich auch für Salzburg dieser<lb/>
+Aufnahme nicht zugestimmt. <name type="person" ref="per:97467">Gasser</name> versuchte das einigemale, ist<lb/>
+aber bei mir bis jetzt immer auf Ablehnung gestoßen, weil ich<lb/>
+einen Reorganisationsplan der Berghauptmannschaften verlangt habe.<lb/>
+In Wirklichkeit müßten wir auch die OB reorganisieren, was ich<lb/>
+vielleicht im Zuge dieser Diskussion ergeben wird. MR. <name type="person" ref="per:116995">Wildauer</name><lb/>
+kam deshalb ohne den Vorgesetzten <choice><choice><sic>mitzugenehmen</sic><corr>mitzunehmen?</corr></choice></choice>, um, wie sie sagte,<lb/>
+jetzt endlich einmal ein klares Bild zu bekommen und gleichzeitig<lb/>
+aber mit mir die Probleme zu besprechen. Ich war von dieser Idee<lb/>
+so begeistert, daß ich nach einer 3/4-stündigen Aussprache, ich<lb/>
+glaube auch zur Überraschung von Frau MR. <name type="person" ref="per:116995">Wildauer</name>, nachmittags<lb/>
+die Aussprache fortsetze. <name type="person" ref="per:116995">Wildauer</name> erzählte mit, daß die Berg<lb break="no"/>hauptmannschaften von SChef <name type="person" ref="per:140165">Kern</name> den 1. Leiter der OB nach dem Motto<lb/>
+klein aber fein, aufgebaut wurde. <name type="person" ref="per:140165">Kern</name> hat damals Nazis eingestellt,<lb/>
+hat sich um die politischen Probleme nicht gekümmert, sondern war<lb/>
+<pb n="12-1104" facs="12_1972-09-15_1104.jpg"/>bestrebt, die OB zu einer mächtigen Organisation zu machen.<lb/>
+Dies kann ich bestätigen, denn ich weiß, daß Sekretär <name type="person" ref="per:140167">Rauscher</name><lb/>
+von der Arbeiterkammer eine richtige Achtung vor dieser Institution<lb/>
+gehabt hat Nach <name type="person" ref="per:140165">Kern</name> hat man den Berghauptmann von Leoben, <name type="person" ref="per:97467">Gasser</name>,<lb/>
+nach Wien berufen und seit der Zeit, ohne daß <name type="person" ref="per:116995">Wildauer</name> dies sagte,<lb/>
+weiß man kaum, wie die Politik aussieht. <name type="person" ref="per:97467">Gasser</name> hat letzten ange<lb break="no"/>deutet, daß ein Mann etliche tausend Schilling als Judaslohn be<lb break="no"/>kommen hat, um die Reorganisation der Berghauptmannschaften,<lb/>
+Material der Verwaltungsreformkommission zu geben. <name type="person" ref="per:116995">Wildauer</name> be<lb break="no"/>stätigt mir, daß dies ein gewisser <name type="person" ref="per:140166">Neumer</name> von der OB gewesen ist,<lb/>
+der dann wegen Spionage für die CSSR auch verurteilt wurde. Auf<lb/>
+<name type="person" ref="per:140166">Neumer</name> geht zurück, daß er die Berghauptmannschaften I und II in<lb/>
+Wien zusammengelegt werden konnten. Damals ist allerdings eine<lb/>
+personalpolitisch einmalige Situation gewesen. Die beiden Berg<lb break="no"/>hauptleute gingen in Pension, die nachrückenden hatten kein Doppel<lb break="no"/>studium oder waren dafür auch gar nicht im Stande diese Funktion<lb/>
+auszuüben, Dipl.Ing. <name type="person" ref="per:112191">Mayer</name> z. B. wurde ins Ministerium versetzt,<lb/>
+so daß dann tatsächlich ein einziger Berghauptmann in die Berg<lb break="no"/>hauptmannschaft vom Ministerium dorthin geschickt wurde. <name type="person" ref="per:116995">Wildauer</name><lb/>
+erkennt und muß zugeben, daß die Berghauptmannschaft in Klagenfurt<lb/>
+kaum noch eine Funktion hat. Derzeit ist sie hauptsächlich mit der<lb/>
+Liquidierung des Bergbaues im Lavanttal beschäftigt. Der Berghaupt<lb break="no"/>mann geht Ende 1973 in Pension und der zweitzugeteilte soll selbst<lb/>
+nach ihrem Vorschlag als Tirol wieder nach Innsbruck rückversetzt<lb/>
+werden. Allerdings steht dort der Berghauptmann <name type="person" ref="per:117029">Merlin</name>, der sich<lb/>
+in Tirol überhaupt nicht durchsetzen konnte, der, wie sie selbst<lb/>
+sagt, gerne wieder als Kärntner nach Klagenfurt zurückginge.<lb/>
+<name type="person" ref="per:117029">Merlin</name> ist ein Unglücksrabe, trifft immer die falsche Entscheidung,<lb/>
+ist aber sonst ein loyaler Beamten, der es nach besten Wissen<lb/>
+seine Arbeit verrichtet. Dieses menschliche Problem wird noch da<lb break="no"/>durch verschärft, daß <name type="person" ref="per:117029">Merlin</name> in Innsbruck eine Dienstwohnung hat,<lb/>
+die in ein paar Jahren, wenn er in Pension geht, räumen muß. Über<lb break="no"/>siedelt er nun nach Klagenfurt, wird er ebenfalls wieder in eine<lb/>
+Dienstwohnung einziehen, wo er ebenfalls nach der Pensionierung<lb/>
+diese räumen muß. Meine Idee war nun, wenn man <name type="person" ref="per:117029">Merlin</name> nach Klagen<lb break="no"/>furt versetzt und ihm die Dienstwohnung gibt, daß er vielleicht<lb/>
+vorzeitig in Pension geht.<lb/>
+</p>
+            <pb n="12-1105" facs="12_1972-09-15_1105.jpg"/>
+            <p xml:space="preserve">Anmerkung für <name type="person" ref="per:97543">HEINDL</name><lb/>
+Bitte prüfe ob so etwas überhaupt möglich ist.<lb/>
+</p>
+            <p xml:space="preserve">Die Konzentration der Berghauptmannschaften muß meiner Meinung<lb/>
+nach weiter fortgesetzt werden und gibt jetzt eine einmalige Ge<lb break="no"/>legenheit, nachdem die VÖEST und Alpine beschlossen haben in Leoben<lb/>
+ihre Aktivitäten und Direktionen hinzusetzen. Ich werde deshalb<lb/>
+solange versuchen die Aufnahmen von jedweden Personen in die Berg<lb break="no"/>hauptmannschaften zu sperren, bis nicht ein Reorganisationsplan<lb/>
+tatsächlich von der OB im Einvernehmen mit der Personalvertretung<lb/>
+mir vorgelegt wird. Ich muß allerdings Frau MR. <name type="person" ref="per:116995">Wildauer</name> zugute<lb/>
+halten, daß sie außerstande ist, dies allein zu machen. Sie selbst<lb/>
+sagt, daß in der OB niemand eigentlich koordinierend eine Entschei<lb break="no"/>dung trifft. SR. <name type="person" ref="per:112190">Mock</name> meinte, wir könnten erst dann über die Re<lb break="no"/>organisation der Berghauptmannschaften reden, bis das neue Berg<lb break="no"/>gesetz in Kraft ist und man weiß, welche Funktionen sie in Hinkunft<lb/>
+auszuüben haben. MR. <name type="person" ref="per:110981">Pelzl</name>, OBergpolizei<add>[?]</add>, meint wieder, es müßte<lb/>
+doch bei einem Unfall so schnell wie möglich der Berghauptmann<lb/>
+zur Stelle sein, weshalb eine Zentralisierung nicht zweckmäßig ist,<lb/>
+Mein Argument, daß zum Unfall die Feuerwehr und die Rettung kommen<lb/>
+muß und nicht der Berghauptmann, damit er nachher das Protokoll<lb/>
+aufnimmt, kann allerdings kaum entkräftet werden. Wenn sich ein<lb/>
+Konzept abzeichnet, wäre ich daher mit den einzelnen Abteilungs<lb break="no"/>leitern, womöglich dann gemeinsam mit einer Abteilungsleiterbe<lb break="no"/>sprechung über dieses Konzept eingehend diskutieren. Vorher <choice><choice><sic>haber</sic><corr>aber?</corr></choice></choice><lb/>
+wollte ich und habe dies <name type="person" ref="per:116995">Wildauer</name> klar und deutlich zu erkennen<lb/>
+gegeben, daß man mir schon entsprechendes Konzept vorlegt. Zu<lb/>
+diesem Berufe habe ich auch den Berghauptleuten vorgeschlagen, sie<lb/>
+sollen sich über diese Probleme den Kopf zerbrechen.<lb/>
+</p>
+            <p xml:space="preserve">Anmerkung für <name type="person" ref="per:98053">WANKE</name><lb/>
+Lasse bitte feststellen, wie viele Bergbaue in jeder<lb/>
+Berghauptmannschaft <choice><choice><sic>betraut</sic><corr>betreut</corr></choice></choice> werden.<lb/>
+</p>
+            <p xml:space="preserve">Aus dieser Diskussion habe ich entnommen und folgende Lehre gezogen:<lb/>
+Wenn eine Sektion schwach geführt wird, dann kann man auch als<lb/>
+zuständiger Minister verhältnismäßig viel reinpfuschen. Wenn eine<lb/>
+starke Sektionsleitung vorhanden ist, dann braucht man dies nicht<lb/>
+<pb n="12-1106" facs="12_1972-09-15_1106.jpg"/>und würde sich dies auch der Sektionsleiter auch gar nicht ge<lb break="no"/>fallen lassen. Vom Standpunkt des Ministers wäre deshalb ziel<lb break="no"/>führend einen schwachen Sektionsleiter zu haben. Genau das Gegen<lb break="no"/>teil möchte ich aber, denn letzten Endes ist es mir viel lieber<lb/>
+man hat einen starken Sektionsleiter der die Sektion in Ordnung<lb/>
+hat und auch weiß was er will und ein Konzept mit der entsprechen<lb/>
+den Reorganisationsmöglichkeiten immer parat hat, als man hat<lb/>
+einen schwachen, der nicht im Stande ist, die Probleme zu erkennen.<lb/>
+Dies gilt genauso für Abteilungsleiter.<lb/>
+</p>
+            <p xml:space="preserve">Die ersten ablaufenden Besprechungen über das Europa-Institut<lb/>
+gingen gut über die Bühne. Da das Ministerbüro in Wirklichkeit<lb/>
+den zukünftigen Vorstand des Vereines bilden wird, war die einzige<lb/>
+Gefahr, daß <name type="person" ref="per:97867">Reiterer</name>, das Feigenblatt in dieser Organisation,<lb/>
+vielleicht andere Ideen und vor allem Wünsche hat. Auch hier hat<lb/>
+sich wiedereinmal gezeigt, daß er entweder überhaupt keine zu<lb break="no"/>sätzlichen Ideen hat, oder diese zumindestens nicht sagt. Seine<lb/>
+Ergänzungen, die er zum Programm, das <name type="person" ref="per:98053">Wanke</name> vorlegte und <name type="person" ref="per:97646">Koppe</name><lb/>
+insbesondere organisatorisch und propagandistisch ergänzte, be<lb break="no"/>stand in unbedeutenden Wünschen z.B. meinte er, es wäre doch ziel<lb break="no"/>führend, wenn man in späterer Folge nicht nur den österreichischen<lb/>
+EWG-Vertrag dokumentiert und vor allem herausgibt, sondern es wäre<lb/>
+<choice><choice><sic>Vedooh</sic><corr>doch?</corr></choice></choice> auch sehr interessant, wenn man die anderen Verträge der<lb/>
+österreichischen Bevölkerung und Öffentlichkeit zugänglich machen<lb/>
+würde. Ich bin überzeugt, daß er noch immer nicht erfaßt hat, um<lb/>
+was es bei diesem Europa-Institut wirklich geht. Wenn wir nicht<lb/>
+ungeheuer schnell mit den Arbeiten des Institutes in die Öffent<lb break="no"/>lichkeit treten besteht nämlich die größte Gefahr, daß sich andere<lb/>
+Stellen dieser Aufgabe bemächtigen. Nicht auf eine Perfektion<lb/>
+kommt es an, die ihm wahrscheinlich vorschwebt, sondern auf die<lb/>
+Aktualität und vor allem auf die politische Einflußmöglichkeit durch<lb/>
+Kommentare, Informations- und Schulungskurse, usw. Ich glaube, daß<lb/>
+die Vereinsleitung aufpassen muß, daß sie sich nicht nur Ergänzungs<lb break="no"/>anträge und vor allem durch entsprechend verzögernde Wenn und Aber<lb/>
+usw. von diesen Grundsätzen abbringen läßt. Das Prinzip muß sein,<lb/>
+lieber den Vertrag, lieber das Kommentar, lieber die Aufklärung,<lb/>
+lieber die Schulung auch dann, wenn sie nicht vollständig und per<lb break="no"/>fekt ist, so schnell wie möglich zu vollenden, als tüftelnd alle<lb/>
+Wenn und Aber zu berücksichtigen und zu spät zu kommen.<lb/>
+</p>
+            <pb n="12-1107" facs="12_1972-09-15_1107.jpg"/>
+            <p xml:space="preserve">Anmerkung für <name type="person" ref="per:98053">WANKE</name> und <name type="person" ref="per:97646">KOPPE</name><lb/>
+Auf diesen Grundsatz gegenüber <name type="person" ref="per:97867">Reiterer</name> unbedingt bestehen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="12_1102_01" facs="12_1972-09-15_1102-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 15.9.1972</head>
+         </div>
+      </back>
+   </text>
+</TEI>

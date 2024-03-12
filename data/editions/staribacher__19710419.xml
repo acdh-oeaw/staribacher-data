@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Montag, der 19. April 1971</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band05_1971-04-19</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1971-04-19">Montag, 19. April 1971</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-08-01">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="05-0470" facs="05_1971-04-19_0470.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Montag, 19. April 1971<lb/>
+</p>
+            <p xml:space="preserve">Bei der Eröffnungssitzung des Kongresses der Internationalen<lb/>
+Handelskammer (IHK) konnte ich glaube ich mein ganzes Ministerium<lb/>
+dort begrüssen. Es wäre wirklich interessant festzustellen, wer<lb/>
+aller von der Handelskammer vorgeschlagen wurde, an dieser Eröffnungs<lb break="no"/>sitzung teilzunehmen. Z.B. habe ich Sekt.Chef <name type="person" ref="per:97584">Jagoda</name> nicht entdeckt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: Wenn es nicht allzu grosse Mühe macht, sollte man<lb/>
+von der BHK, Dr. <name type="person" ref="per:113031">Melis</name>, versuchen, die Grundsätze zu erfahren, nach wel<lb break="no"/>chen eingeladen wurde. Ich weiss, dass die Veranstalter grosse Schwie<lb break="no"/>rigkeiten hatten, da sie natürlich auch immer wieder ans Protokoll ge<lb break="no"/>bunden sind.<lb/>
+</p>
+            <p xml:space="preserve">Am meisten freut es mich, dass ein ganz grosser Protokollfehler gesche<lb break="no"/>hen ist. Der Bundespräsident sitzt auf der Bühne auf seinem eigenen<lb/>
+Stuhl, das ist üblich und wurde auch so durchgeführt, Nur der Platz<lb/>
+neben mir war eigentlich – wie ich angenommen hatte – für den Bun<lb break="no"/>despräsidenten reserviert. Zu meiner grössten Verwunderung sass dann<lb/>
+der Kabinettsdirektor <name type="person" ref="per:137079">Trescher</name> an dieser Stelle. Er meinte zwar sofort,<lb/>
+bitte, Herr Minister resp. der Aussenminister, der neben mir sass,<lb/>
+sollte sich sofort auf seinen Sessel setzen und er wäre in eine<lb/>
+rückwärtige Reihe gehen. Ich lehnte dies ganz entschieden ab, da ich<lb/>
+mich freute und es ja auch überall erzählte, dass ich für Protokoll<lb break="no"/>fehler direkt süchtig bin aber in positivem Sinne, indem ich nämlich<lb/>
+beweisen will, dass hier immer wieder Fehler geschehen und dass es<lb/>
+daher zielführend ist, die ganze Protokollfrage wirklich neu durch<lb break="no"/>zudenken. Zu meiner grössten Verwunderung konnte ich nachher bei dem<lb/>
+Empfang, wo dem Bundespräsidenten die ausländischen Delegationslei<lb break="no"/>tungen vorgestellt wurden, erfahren, Dr. <name type="person" ref="per:114537">Oder</name>, der Sekretär von<lb/>
+Präs. <name type="person" ref="per:97893">Sallinger</name>, klärte mich darüber auf, dass der Kabinettsdirektor<lb/>
+verlangt hatte, dass dieser Sitz für ihn reserviert werden muss.<lb/>
+Da auch <name type="person" ref="per:97893">Sallinger</name> über dieses Problem lauthals mit mir diskutierte<lb/>
+und <name type="person" ref="per:137079">Trescher</name> ganz in der Nähe stand, musste er die Diskussion eigent<lb break="no"/>lich mit anhören. Ich selbst erwähnte in keiner Phase, dass er mir<lb/>
+gesagt hätte, dass er sich gerne auf einen anderen Platz setzen wolle.<lb/>
+Das Lustigste war aber, dass wir bei einem Konzertstück nach der Er<lb break="no"/>öffnung des Bundespräsidenten, <choice><choice><sic>uzw</sic><corr>?</corr></choice></choice>. der Feuerwerk-Fanfare von <name type="person" ref="per:137104">Händel</name>,<lb/>
+ebenfalls alle aufstanden. <name type="person" ref="per:97632">Kirchschläger</name> bemerkte sarkastisch, jetzt<lb/>
+<pb n="05-0471" facs="05_1971-04-19_0471.jpg"/>stehen wir auch schon bei einem Feuerwehrmarsch auf.<lb/>
+</p>
+            <p xml:space="preserve">Die Spediteurvertreter waren die Gruppe, die innerhalb der Bundes<lb break="no"/>kammer scheinbar den linken Flügel bildet und auch bei der seiner<lb break="no"/>zeitigen Vorsprache beim Bundeskanzler bei der Dieselpreiserhöhung die<lb/>
+Führenden waren, <name type="person" ref="per:137113">Römer</name> und Herr <name type="person" ref="per:137114">Sigmund</name> kamen, um mir ein Konzept<lb/>
+zu überreichen. Es war vollkommen formlos, wogegen ich mich überhaupt<lb/>
+nicht wehre, sondern ich erklärte sofort, dass ich diese Art der Unter<lb break="no"/>redung sehr begrüsse. Im Prinzip lief diese Punktation darauf hinaus,<lb/>
+dass sie ein engeres Einvernehmen mit der ÖBB wollten und irgendwie den<lb/>
+Tarif- und Konkurrenzkampf zwischen den Spediteuren und der ÖBB beenden<lb/>
+sollten. Sie stellten sich vor, dass die Tarife in Hinkunft zwischen<lb/>
+den beiden Gruppen ÖBB und Fuhrwerker abgesprochen werden soll, festge<lb break="no"/>legt werden soll und dann auch tatsächlich geprüft werden soll, ob<lb/>
+die Tarife eingehalten werden. Sie hatten allerdings dieses Forderungs<lb break="no"/>programm auf Kosten der verladenden Wirtschaft erstellt. <name type="person" ref="per:134300">Metzner</name> erklärte<lb/>
+sofort, dass zu prüfen sei durch den Verfassungsdienst, ob überhaupt<lb/>
+eine solche Kommission möglich wäre. Da wir die Sitzung früher begon<lb break="no"/>nen hatten, war der Syndikus der Sektion Verkehr, Dr. <name type="person" ref="per:134842">Ebner</name>, später er<lb break="no"/>schienen. Zu meiner grössten Verwunderung musste ich feststellen, dass<lb/>
+er diese Punktation gar nicht kannte, sondern dass die Herren sie ihm<lb/>
+erst jetzt übergaben. Er erklärte zwar, dass sie im grundsätzlichen<lb/>
+ja mit den Auffassungen der Sektion übereinstimmen und deshalb nur<lb/>
+kleinere Korrekturen notwendig wären. <name type="person" ref="per:134842">Ebner</name> bestätigte mir, was bereits<lb/>
+<name type="person" ref="per:97461">Frühbauer</name> mir einige Male erzählte, dass die Sektion Verkehr in der<lb/>
+BHK derzeit schon ununterbrochen versucht, mit der ÖBB ein besseres<lb/>
+Verhältnis zu erlangen. Ich glaube, dass die beiden einig sind, dass<lb/>
+auf Kosten der verladenden Wirtschaft, eben z.B. des Werkverkehrs,<lb/>
+sie sich sehr leicht einigen und finden könnten. Schon allein aus<lb/>
+dieser Vorgangsweise kann ich verstehen, dass die BHK grösste Bedenken<lb/>
+hat, dass die ganze Strassenverkehrskompetenz zu <name type="person" ref="per:97461">Frühbauer</name> ins Verkehrs<lb break="no"/>ministerium kommt.<lb/>
+</p>
+            <p xml:space="preserve">Bei dem Besuch des bereits auf der Brandstätte liegenden General<lb break="no"/>sekretärs <name type="person" ref="per:97769">Mussil</name>, unter Anwesenheit von <name type="person" ref="per:97893">Sallinger</name>, brachte <name type="person" ref="per:97769">Mussil</name><lb/>
+auch sofort die Sprache auf das Kompetenzgesetz. Er meinte, dass<lb/>
+es unverantwortlich sei, dass ich tatsächlich trotz seiner Warnung<lb/>
+die Strassenkompetenzen incl. des Werkverkehrs an das Verkehrs<lb break="no"/>ministerium abgetreten habe. Ich erwiderte nur das alte Argument,<lb/>
+dass die Kompetenzbereinigung dazu führen muss, dass ein Minister<lb/>
+<pb n="05-0472" facs="05_1971-04-19_0472.jpg"/>womöglich für die wirtschaftlich abgegrenzte Kompetenz zustän<lb break="no"/>dig sein sollte. Ich hoffte aber, dass <name type="person" ref="per:97461">Frühbauer</name> nicht wirklich<lb/>
+den Intentionen der Sektion Verkehr und der ÖBB allzu sehr nach<lb break="no"/>gibt. <name type="person" ref="per:97769">Mussil</name> kritisierte auch sehr stark, dass wir durch den<lb/>
+neuen Aufbau der Ministerien die seit Jahrhunderten bestehenden<lb/>
+Aufbau der Sektionen mit ihren hierarchischen Gliederungen durch<lb/>
+Ministerbüros und sonstige ad hoc zu schaffende Ausschüsse – wie<lb/>
+er sich ausdrückte – verwässern wollen. Er meinte, dass ein<lb/>
+Politruk von Kammersekretären wie in meinem Ministerium als<lb/>
+Ministerbüro in Hinkunft in der ganzen Verwaltung die Sektions<lb break="no"/>chefs entmachten wird. Bei dieser Gelegenheit fragte die beiden<lb/>
+auch, warum ich <name type="person" ref="per:97867">Reiterer</name> nicht nach Russland mitnehmen möchte.<lb/>
+Ich erklärte ihnen, dass <name type="person" ref="per:97867">Reiterer</name> immer wieder erklärt, dass<lb/>
+er soviel zu tun hat, dass er z.B. nicht einmal dazu gekommen<lb/>
+ist, die Negativlisten für den Osthandel auszuarbeiten, resp.<lb/>
+ausarbeiten zu lassen. Das Argument, dass ich nicht der Minister<lb/>
+sei, der sich von einem Kranz von Sektionschefs umgeben wird,<lb/>
+und der vor allem aus kostensparenden Gründen es nur für ziel<lb break="no"/>führend erachtet, wenn die Beamten fahren, die mit der Materie<lb/>
+unmittelbar zu tun haben, löste als einzige Reaktion aus, dass<lb/>
+sie erklärten, dann würden sie <name type="person" ref="per:97867">Reiterer</name> die Fahrt bezahlen. Da<lb/>
+in Österreich auch der Sektionschef <name type="person" ref="per:112953">Manschulo</name> anwesend war, stehen<lb/>
+sie auf dem Standpunkt, <name type="person" ref="per:97867">Reiterer</name> müsste unbedingt auch daran<lb/>
+teilnehmen. Als sie allerdings dann erfuhren, dass ich bereits<lb/>
+seit 6 Monaten auf die Osthandels-Negativliste warte, die ich<lb/>
+letzten Endes ja mit ihnen gemeinsam besprochen hatte, dass wir<lb/>
+diese machen würden, waren sie, glaube ich, davon überzeugt, dass<lb/>
+es sich hier um eine Entscheidung handelt, um <name type="person" ref="per:97867">Reiterer</name> zu strafen.<lb/>
+Ich habe zwar an diese Möglichkeit nie wirklich gedacht, aber<lb/>
+wenn sich jetzt herauskristallisiert, dass jetzt dies einer der<lb/>
+Gründe ist, warum <name type="person" ref="per:97867">Reiterer</name> nicht mitfährt, habe ich eigentlich<lb/>
+auch nichts dagegen. <name type="person" ref="per:97893">Sallinger</name> regte sich sehr auf, dass in einem<lb/>
+Film über <name type="person" ref="per:97346">Benya</name> als Sozialpartner der einige Industriellenvereini<lb break="no"/>gungspräsident <name type="person" ref="per:97733">Mayer-Gunthof</name> zu Wort gekommen ist. Er bestätigte<lb/>
+mir zwar sofort, dass <name type="person" ref="per:97346">Benya</name> sicher damit gar nichts zu tun hat<lb/>
+und <name type="person" ref="per:97769">Mussil</name> meinte, sie müssten halt einmal mit <name type="person" ref="per:116209">Zilk</name> über diese<lb/>
+Frage ernstlich diskutieren. Seiner Auffassung nach beginnt der<lb/>
+Rundfunk und das Fernsehen hier insofern Politik zu machen, als<lb/>
+sie die Bestrebungen von <name type="person" ref="per:97668">Kreisky</name> unterstützen, wonach die Indu<lb break="no"/>striellenvereinigung besonders herausgearbeitet werden soll.<lb/>
+</p>
+            <pb n="05-0473" facs="05_1971-04-19_0473.jpg"/>
+            <p xml:space="preserve">Die Arbeiterkammer hat die Berufsbildung für Erwachsene in einer<lb/>
+Arbeitsgemeinschaft, die unter ihrer Führung steht, eingeleitet.<lb/>
+Ein <choice><choice><sic>Symposiun</sic><corr>Symposion; Symposium</corr></choice></choice> auf der Hungerburg soll die Organisationskonstruktion<lb/>
+diskutieren. Die Bundeshandelskammer wehrt sich nun sehr dagegen,<lb/>
+dass hier einseitig von der Arbeiterkammer, resp. vom BFI eine<lb/>
+solche Aktion gestartet wird. Ich glaube, dass es zielführend sein<lb/>
+müsste, hier von Seiten der Arbeiterkammer und der ÖGB mit der<lb/>
+Handelskammer eine gemeinsame Konstruktion zu versuchen. Ebenso hat<lb/>
+die Arbeiterkammer seinerzeit noch ein Berufsforschungsinstitut<lb/>
+beabsichtigt, das gemeinsam mit der Handelskammer erstellt werden<lb/>
+sollte. Nun hat die Arbeiterkammer Wien allein ein Berufspädago<lb break="no"/>gisches Institut in Gründung. Auch hier möchte die Handelskammer<lb/>
+womöglich gemeinsam vorgehen. Auch bei der Zusammenführung des ÖPZ<lb/>
+und des ÖKW geht es momentan hart auf hart. Die Handelskammer wäre<lb/>
+bereit, paritätische Vertretungen sofort in der gemeinsam zu grün<lb break="no"/>denden Organisationsform. wo das ÖPZ und das Kuratorium für Wirt<lb break="no"/>schaftlichkeit sich zusammenschliessen sollten.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: Bitte, diesen Fragenkomplex für die nächste<lb/>
+Besprechung mit Präsident <name type="person" ref="per:97570">Hrdlitschka</name> vorbereiten.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97769">Mussil</name> erklärte mir, dass sie zwar keinen einstimmigen Beschluss<lb/>
+bezüglich des Pipelinegesetzes zustandebringen werden, dass sie aber<lb/>
+eine Präsidialentscheidung herbeiführen werden. In dieser Präsidial<lb break="no"/>entscheidung werden sie eine Trennung der Pipeline zwischen Öl und<lb/>
+Gas wünschen. Bei dem Öl-Pipeline.Gesetz möchten sie aber verankert<lb/>
+haben, dass die bisherigen erworbenen Rechte der TAL nicht angetastet<lb/>
+werden dürfen. Ich ersuchte ihn, dass er doch versuchen sollte, die<lb/>
+Stellungnahme der ÖMV zu verstehen, die jetzt eine solche Stellung<lb break="no"/>nahme nicht brauchen kann. Sie verhandelt derzeit mit der TAL über<lb/>
+Erhöhung ihrer Durchsatzmengen von 6 Mill. auf 10 Mill. und vor allem<lb/>
+mit den Italienern über die Errichtung einer Gasleitung. Gen.Dir. <name type="person" ref="per:133372">Bauer</name>,<lb/>
+der auch von ihnen als ein Schlaucherl bezeichnet wird, möchte diese<lb/>
+Verhandlungen über die Runden bringen, bevor die Pipelinefrage und<lb/>
+das Pipelinegesetz konkret diskutiert wird.<lb/>
+</p>
+            <pb n="05-0474" facs="05_1971-04-19_0474.jpg"/>
+            <p xml:space="preserve">Mein Vorschlag, die Gewerbeordnung aus dem politischen Streit<lb/>
+herauszuhalten, fand begeisterte Zustimmung. Sie bestätigten mir,<lb/>
+dass es zielführend war, die Gewerbeordnung nicht vor der Bundes<lb break="no"/>präsidentenwahl in die Öffentlichkeit zu bringen. Sie meinten, dass<lb/>
+dies auch in meinem Interesse richtig war, da sich ansonsten in der<lb/>
+Polemik nur eine Verhärtung der Standpunkte ergeben hätte. Nach<lb/>
+der Bundespräsidentenwahl werden sie mir mitteilen, ob und inwieweit<lb/>
+sie imstande sind, den Gewerbeordnungsentwurf gemeinsam zu präsentieren.<lb/>
+Mein Vorschlag, dass man gegebenenfalls über die Wirtschaftsjournalisten<lb/>
+es gibt eine solche Vereinigung bei <name type="person" ref="per:133317">Horst Knapp</name>, also ohne eine grosse<lb/>
+Pressekonferenz diesen Entwurf in der Öffentlichkeit präsentieren könnte.<lb/>
+wurde positiv aufgenommen. Die Frage – wie <name type="person" ref="per:97769">Mussil</name> sich ausdrückte – ist<lb/>
+nur, ob sie dies politisch durchstehen. Die Bauern kämpfen jetzt schon<lb/>
+innerhalb ihrer Partei sehr gegen die Wirtschaft, da sie auf dem Stand<lb break="no"/>punkt stehen, wir packeln viel zu viel und sie allein müssen den<lb/>
+Kampf gegen diese Regierung führen. <name type="person" ref="per:97769">Mussil</name> meinte, wenn eine gemeinsame<lb/>
+Präsentation nicht möglich wäre, so könnten wir den Weg dahingehend<lb/>
+nehmen, dass wir ein gemeinsamen Kommunique über die Gewerbeordnung,<lb/>
+d.h. über die Übergabe der Gewerbeordnung an eine Delegation bei<lb/>
+mir im Ministerium oder wie ich vorgeschlagen habe bei einer Vorstands<lb break="no"/>sitzung resp. Präsidiumssitzung in der Handelskammer herausgeben.<lb/>
+Diese sehr abgeschwächte Form würde allerdings nur dann zum Tragen<lb/>
+kommen, wenn er aus politischen Gründen ausserstande wäre, eine wirklich<lb/>
+gemeinsame Präsentation nicht verantworten zu können. Bei dieser Gelegen<lb break="no"/>heit erfuhr ich, dass man innerhalb der ÖVP die Mär laufen lässt,<lb/>
+dass zwischen <name type="person" ref="per:97372">Broda</name> und mir in dieser Frage ein grosser Gegensatz ist,<lb/>
+da die Landwirtschaft auf alle Fälle ihre Genossenschaftswünsche durch<lb break="no"/>bringt bei <name type="person" ref="per:97372">Broda</name> und er sich deshalb in einen Gegensatz zu meinem<lb/>
+Intentionen bezüglich des Einbaues der Genossenschaften in die Gewerbe<lb break="no"/>ordnung befindet. Ich beruhigte die beiden und stellte ausdrücklich<lb/>
+fest, dass zwischen <name type="person" ref="per:98055">Weihs</name>, Landwirtschaftsminister, <name type="person" ref="per:97372">Broda</name>, Justizminister,<lb/>
+<name type="person" ref="per:97311">Androsch</name>, Finanzminister, und mir ein vollkommenes Einvernehmen in dieser<lb/>
+Frage bestände. Derzeit seien im Entwurf unverändert alle Genossenschaf<lb break="no"/>ten der Gewerbeordnung zu unterwerfen, in Verhandlungen aber bin<lb/>
+ich bereit, für die nicht auf ausgesprochenen Gewinn und damit Konkurren<lb break="no"/>zierungen abzielenden Genossenschaften, wie z.B. Sennerei-Genossenschaften,<lb/>
+Almweide-Genossenschaften, Zuchtstier-Genossenschaften, auf eine Unter<lb break="no"/>werfung unter die Gewerbeordnung zu verzichten. Strittig sei noch, dass<lb/>
+die Landwirtschaftsvertreter, ich erwähnte, dass <name type="person" ref="per:114630">Rasser</name> und <name type="person" ref="per:136824">Reinthaler</name><lb/>
+<pb n="05-0475" facs="05_1971-04-19_0475.jpg"/>bei mir waren, noch die Molkereigenossenschaften ebenfalls aus<lb break="no"/>genommen haben möchten. Ich hätte aber in diesem Punkt noch<lb/>
+keinerlei Zusage gemacht. Da <name type="person" ref="per:97769">Mussil</name> wieder auf die Benachteiligung<lb/>
+der gewerblichen Betriebe bei den Förderungsmassnahmen des Land<lb break="no"/>wirtschaftsministerium zu sprechen kam, erinnerte ich mich und<lb/>
+sagte zum dritten Mal, dass er mir versprochen hatte, er würde<lb/>
+mir konkrete Projekte, die von seiten der gewerblichen Wirt<lb break="no"/>schaft beim Landwirtschaftsministerium eingereicht wurden und abge<lb break="no"/>lehnt wurden, mir endgültig mitteilen, damit ich bei <name type="person" ref="per:98055">Weihs</name> inter<lb break="no"/>venieren könnte. Bis jetzt habe ich keinen einzigen Vorschlag,<lb/>
+resp. Beschwerde erhalten. <name type="person" ref="per:97769">Mussil</name> erwähnte auch, dass die Landwirt<lb break="no"/>schaft derzeit wieder eine grosse Kampagne startet, wo sie gegen<lb/>
+das Kartellgesetz verstossen, ihre Bauern verpflichtet bei den Ge<lb break="no"/>nossenschaften einzukaufen resp. ihre Produkte über diese Genossen<lb break="no"/>schaften zu verkaufen. Der ideologischen Verbrämung der Bauerntreue<lb/>
+gegenüber ihren Genossenschaften wird hier ein kartellmässig ver<lb break="no"/>botener Druck auf die Mitglieder der Genossenschaften ausgeübt.<lb/>
+In diesem Fall verlangte ich entsprechende Unterlagen, die mir <name type="person" ref="per:97769">Mussil</name><lb/>
+zusicherte. Auf der einen Seite kann ich bei solchen Aussprachen<lb/>
+immer wieder feststellen, dass die ÖVP über den Kampf der Bauern<lb/>
+gegen die Regierung glaube ich teilweise sehr zufrieden ist, auf<lb/>
+der anderen Seite aber gerade <name type="person" ref="per:97893">Sallinger</name> und <name type="person" ref="per:97769">Mussil</name> todfroh sind,<lb/>
+dass wir eine anderes Verhältnis haben. Ich selbst frage mich aber<lb/>
+oft, ob es zielführend ist, dass ich auf dem schon seit 25 Jahren<lb/>
+eingeschlagenen Weg der Wirtschafts- und Sozialpartnerschaft mit<lb/>
+der Bundeskammer ein so enges Verhältnis habe, während andere mit<lb/>
+den eigenen Interessensvertretungen hart kämpfen müssen. Ich könnte<lb/>
+mir allerdings einen anderen Weg kaum vorstellen, da ich letzten<lb/>
+Endes überzeugt bin, dass unser Weg, der auch für die Regierung<lb/>
+zielführendere ist.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="05_0469_01" facs="05_1971-04-19_0469-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 19.4.1971</head>
+         </div>
+      </back>
+   </text>
+</TEI>

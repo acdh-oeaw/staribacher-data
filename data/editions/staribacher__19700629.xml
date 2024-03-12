@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Montag, der 29. Juni 1970</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band02_1970-06-29</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1970-06-29">Montag, 29. Juni 1970</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-03-29">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-19" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-19" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+  <text xml:base="http://192.168.0.9/staribacher/src/scans/Band02/">
+      <body>
+         <pb n="02-0312" facs="02_1970-06-29_0312.jpg"/>
+         <div type="entry">
+            <dateline>
+               <date when="1970-06-29">Montag, 29. Juni 1970</date>
+            </dateline>
+            <p xml:space="preserve">Im Sparkassenhauptverband hatte ich in einem Referat Gelegenheit,<lb/>
+über die triste Situation der Bürges zu sprechen. Ich schilderte<lb/>
+die finanziellen Probleme und wies insbesondere darauf hin, dass<lb/>
+mein Vorgänger <name type="person" ref="per:97749">Mitterer</name> doch noch im letzten Moment aus diesen die<lb/>
+Konsequenzen gezogen hatte und die Bürges angewiesen hatte, für die<lb/>
+Alt-Bürges und für die Fremdenverkehrssonderkreditaktion keinerlei<lb/>
+neue Anträge mehr anzunehmen, zu genehmigen. <name type="person" ref="per:97893">Sallinger</name> bemerkte<lb/>
+anschliessend bei einem Essen für den Generalsekretär der internati<lb break="no"/>onalen Handelskammer, dass ich ja doch der grösste Gauner sei, weil<lb/>
+ich zwar sehr geschickt den <name type="person" ref="per:97749">Mitterer</name> herausgestrichen hatte in seiner<lb/>
+Verantwortung, aber in Wirklichkeit ihm alles in die Schuhe geschoben<lb/>
+hatte. Auf meine Frage, ob ich irgendetwas falsch berichtet hätte,<lb/>
+sagte er: Nein, das ist ja das Schlimme, dass alles stimmt.</p>
+            <p xml:space="preserve">Die anschliessende Pressekonferenz des Sparkassenverbandes zeigte<lb/>
+deutlich, dass überhaupt die Leute, die dort hingekommen waren, an<lb/>
+Fragen gar nicht interessiert waren, dass sie sich sozusagen mit der<lb/>
+Materie gar nicht beschäftigt hatten, vielleicht auch gar nicht wollten,<lb/>
+sondern das Wichtigste scheinbar das gemeinsame Essen war.</p>
+            <p xml:space="preserve">Bei dem Essen mit dem Generalsekretär <name type="person">Head</name> von der internationalen<lb/>
+Handelskammer konnte ich ein Gespräch aufschnappen, das <name type="person" ref="per:97893">Sallinger</name> mit<lb/>
+<name type="person" ref="per:97925">Philipp Schoeller</name> führte, wo er ihm zusagte, dass er sich auch im<lb/>
+Wirtschaftsbund dafür einsetzt, dass <name type="person" ref="per:97925">Philipp Schoeller</name> jetzt scheinbar<lb/>
+die Wiener Handelskammer-Obmann-Stelle bekommen sollte. Dies würde<lb/>
+ein sehr schwerer Schlag für <name type="person" ref="per:97749">Mitterer</name> sein, weil dieser hofft, dass<lb/>
+er die Obmannstelle der Wiener Handelskammer bekommen wird.</p>
+            <p xml:space="preserve">Da ich bei dem Kaffee aber gleichzeitig mit dem Generalsekretär, der<lb/>
+englisch sprach, verhandelte, ist es möglich, dass dieser Gesprächs<lb break="no"/>fetzen nicht genau wiedergegeben ist.</p>
+            <p xml:space="preserve">Bei der Vorstandssitzung für die Wirtschaftstreuhänder, diese Organisati<lb/>
+tion untersteht ebenfalls dem Handelsministerium, hatte ichnGelegen<lb break="no"/>heit alle Funktionäre dieser Wirtschaftsgruppe kennenzulernen. Sie<lb/>
+<pb n="02-0313" facs="02_1970-06-29_0313.jpg"/>übermittelten mir eine Resolution, die sie gefasst, und wo sie sich<lb/>
+ihre Vorbehaltsaufgabe neuerdings bestätigten. Das heisst, dass sie<lb/>
+sich ganz entschieden gegen alle Firmen oder Institutitionen wendeten,<lb/>
+die mit elektronischen Datenverarbeitungen, wie sie sagen, in ihre Hand<lb break="no"/>werk pfuschen. Ich wies diese Resolution der Sache nach weniger, aber dem<lb/>
+Ton nach zurück und sagte, wenn sie auf diese Art und Weise verhandeln,<lb/>
+werden sie kaum zu einem Ergebnis kommen und meiner Meinung nach müssten<lb/>
+sie so schnell wie möglich mit der Bundeskammer zu einer Lösung kommen,<lb/>
+da es nur so möglich ist, dieses leidige Problem aus der Welt zu schaffen.<lb/>
+Sie bedankten sich, dass überhaupt ein Minister bis jetzt um sie gekümmert<lb/>
+hat und ersuchten mich, sie bei der Handelskammer zu akkreditieren. Ich<lb/>
+hatte anschliessend sofort mich telefonisch mit <name type="person" ref="per:97893">Sallinger</name> ins Einvernehmen<lb/>
+gesetzt, der bereit war, den Wirtschaftstreuhändern eine Chance zu geben,<lb/>
+und vor allem, der selbstverständlich gesagt hat, er würde mit ihnen<lb/>
+Gespräche beginnen.</p>
+            <p xml:space="preserve">ANMERKUNG: Bitte, sofort den Präsident der Wirtschaftstreuhänder verstän<lb break="no"/>digen, dass er unverzüglich mit Präsident <name type="person" ref="per:97893">Sallinger</name> sich über<lb/>
+einen Termin einer Vorsprache einigen soll.</p>
+            <p xml:space="preserve">Der Leiter der russischen Handelsvertragsverhandlungen, <name type="person" ref="per:112953">Manschulo</name>,<lb/>
+wurde von <name type="person" ref="per:97867">Reiterer</name> mir vorgestellt und ich hatte Gelegenheit, nicht<lb/>
+nur diesen kennenzulernen, sondern gleichzeitig auch meine Bitte aus<lb break="no"/>zusprechen, dass sich die Russen beühen mögen, zusätzlichen Koks nach<lb/>
+Österreich zu bringen. Ich wies darauf hin, dass ich dies bereits dem<lb/>
+Botschafter und dem Handelsrat <name type="person">Karmasin</name>, der ebenfalls bei dieser Aus<lb break="no"/>sprache dabei war, vor Monaten vorgetragen hatte. <name type="person" ref="per:112953">Manschulo</name> wies darauf<lb/>
+hin, dass die Russen nicht imstande sein werden, zusätzliche Koksmengen<lb/>
+zu liefern, dass er aber selbstverstädnlich diesen Wunsch insbesondere<lb/>
+dem Aussenhandelsminister, der im Juli zur Vertragsunterzeichnung nach<lb/>
+Wien kommen wird, neuerdings vortragen wird. Ich hoffe, dass es gelingen<lb/>
+wird, diesen russischen Handelsvertrag über die Bühne zu bringen, <name type="person" ref="per:97867">Reiterer</name><lb/>
+erzählte bei der ersten Phase auch von den ungeheuren Schwierigkeiten,<lb/>
+die sich entgegenstellen, ich habe den Eindruck, dass er hier sehr stark<lb/>
+dramatisiert.</p>
+            <pb n="02-0314" facs="02_1970-06-29_0314.jpg"/>
+            <p xml:space="preserve">Bei der Ministerratsvorbesprechung ersuchte <name type="person" ref="per:97668">Kreisky</name>, dass alle<lb/>
+Gesetze, die in die Begutachtung gehen und sich mit Jugendfragen<lb/>
+beschäftigen, auf Grund unserer Jugenddiskussion dem Bundesjugend<lb break="no"/>ring zur Begutachtung zugeschickt werden sollen. <name type="person" ref="per:98034">Veselsky</name> schlug vor,<lb/>
+da die Länder eine permanente Raumordnungskonferenz einrichten wollen,<lb/>
+dass die Bundesregierung hier doch die Initiative ergreifen sollte,<lb/>
+und ein Ministerkomitee über eine Raumplanung und einen Raumplanung<lb break="no"/>sbeirat einrichten sollte. Er meinte, allerdings, man sollte damit<lb/>
+nicht die Länderwünsche unterfahren. In den seinerzeitigen <name type="person" ref="per:97634">Klaus<lb break="no"/>-Regierung</name> hat es ein solches Ministerkomitee gegeben, das aus dem<lb/>
+Bundeskanzler, Vizekanzler, Sozialminister, Land<lb break="no"/>u.Forstwirtschaftsminister, Bautenminister, Verteidigungsminister und Verkehrsminister<lb/>
+bestanden hat. Interessant ist für uns, dass darin nicht das Handels<lb break="no"/>ministerium vertreten war. Kreisky meinte, dass es unzweckmässig ist,<lb/>
+wenn so viele Minister bereits ein Komitee bilden, das in wirklich<lb/>
+ja fast die ganze Bundesregierung ist, nachdem auch selbstverständ<lb break="no"/>lich das Handelsministerium in dieser Institution vertreten sein<lb/>
+müsste und auch das Unterrichtsministerium und das Innenministerium<lb/>
+sein Interesse angemeldet hatte, sodass die Regierung übereinkam,<lb/>
+kein eigenes Komitee zu bilden, sondern als Ganzes sich diesen Fra<lb break="no"/>gen zu widmen. Allerdings war vollkommene Unklarheit, wer eigentlich<lb/>
+bis jetzt auf diesem Sektor gearbeitet hatte und <name type="person" ref="per:98034">Veselsky</name> konnte hier<lb/>
+keine befriedigende Auskunft geben, resp. hatte dieses Problem mit<lb/>
+den zuständigen Stellen , wie <name type="person" ref="per:97356">Blecha</name> usw., überhaupt nicht vorbe<lb break="no"/>sprochen, sodass <name type="person" ref="per:97668">Kreisky</name> erklärte, die ganze Sache wird zurückgestellt.<lb/>
+<name type="person" ref="per:97488">Gratz</name> wies darauf hin, dass es einige Probleme gibt, die doch die<lb/>
+Bundesregierung inAngriff nehmen sollte, die sich insbesondere auf<lb/>
+eine Verwaltungsvereinfachung beziehen könnten. Er müsste z.B., wenn<lb/>
+er Lehrer aus Berufsbildenden Schulen einstellen will, natürlich<lb/>
+auf Arbeiter zurückgreifen, die mindestens 40 Jahre alt sind, weil<lb/>
+sie doch aus der Praxis heraus die notwendigen Erfahrungen als Fach<lb break="no"/>arbeiter und Fachlehrer damit gesammelt haben müssten. Dies erfordert<lb/>
+nun, dass die Ansuchen um Vordienstzeitenanrechnung bei dem BKA<lb/>
+eingebracht werden müssen und dort mindestens ein halbes Jahr oder<lb/>
+länger bis zur endgültigen Genehmigung verweilen. Endergebnis ist,<lb/>
+dass die Landesschulräte diesen Leuten mindestens 1.000 5 selbst<lb/>
+<pb n="02-0315" facs="02_1970-06-29_0315.jpg"/>aus irgendwelchen Fonds zahlen müssen, weil sie ansonsten nicht<lb/>
+bereit sind, einen so,grossen Verlust ihres Einkommens hinzunehmen.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> wird noch mit <name type="person" ref="per:135724">Markowitz</name>, dem Personalreferent reden, um eine<lb/>
+eventeuelle Verkürzung des Weges und die Bestätigung mit Hilfe<lb/>
+von Schimmel-Briefen, wie sie derzeit geschieht, zu vereinfachen.<lb/>
+Der Finanzminister hat Subventionslisten von den Ministerien ange<lb break="no"/>fordert. Dort in diesem Erlass, der an die Buchhaltungen gegangen ist,<lb/>
+hat er genau aufgegliedert, wie diese Subventionslisten zu erstellen<lb/>
+sind. Interessant ist für mich, dass ich darüber noch keinerleit<lb/>
+Mitteilunge bekommen hatte, <name type="person" ref="per:97488">Gratz</name> selbst beschwerte sich insbesondere,<lb/>
+dass der Bundeskanzler ebenfalls solche Listen schon verlangt hat<lb/>
+und der Finanzminister auch und dass er davon nichts gewusst hat,<lb/>
+das müste doch über ihn an die Buchhaltungen geleitet werden. Für<lb/>
+mich ist interessant, dass ich überhaupt von diesen ganzen Anfragen<lb/>
+des Bundeskanzlers und des Finanzministers keinerlei Mitteilung be<lb break="no"/>kommen hatte.</p>
+            <p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:97543">Heindl</name>: Bitte, sofort überprüfen, wieso dies möglich<lb/>
+ist, ohne dass wir etwas davon erfahren.</p>
+            <p xml:space="preserve"><name type="person" ref="per:97818">Pittermann</name> teilte mit, dass im Unterausschuss das kleine Kompetenz<lb break="no"/>gesetz jetzt verhandelt werden wird und abgeschlossen, und dass aber<lb/>
+dann sofort im Verfassungsausschuss der endgültige Text zur Verfügung<lb/>
+stehen muss. Von <name type="person" ref="per:97442">Firnberg</name> wurde erklärt, dass dies technisch bereits<lb/>
+alles vorbereitet sei. Die ÖVP stellt sich nun auf den selben Stand –<lb/>
+punkt wie die Sozialisten als sie in der Opposition waren, d.h. sie<lb/>
+verlangen die notwendigen Gesetzesanträge entsprechend auch dann wenn<lb/>
+sie nur abgezogen sind in vollkommener Weise für alle Abgeordneten<lb/>
+und nicht wie das bis jetzt beim BKA geschieht, in fünf Exemplaren<lb/>
+mit dem Hinweis, es wird sowieso in der Staatsdruckerei gedruckt werden.</p>
+            <p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:97543">Heindl</name>: Bitte, Vorsorge treffen, dass unsererseits<lb/>
+dieser Vorgang eingehalten wird und nicht der Fehler passiert,<lb/>
+dass wir aus formalen Gründen dann weil die ganzen Gesetze in<lb/>
+l65-facher Ausfertigung nicht dem Parlament vorliegen, in grosse<lb/>
+Schwierigkeiten kommen.</p>
+            <pb n="02-0316" facs="02_1970-06-29_0316.jpg"/>
+            <p xml:space="preserve">Bezüglich der Steuerfreiheit der Überstunden berichtete <name type="person" ref="per:97311">Androsch</name>,<lb/>
+dass er mit dem Sprcher der Fraktion des ÖGB, <name type="person" ref="per:97563">Hofstetter</name>, darüber<lb/>
+einig sei, dass er alle Unterlagen bekommt und bei der ersten Lesung<lb/>
+über den Antrag <name type="person" ref="per:97807">Peter</name> und <name type="person">Graf</name> gewappnet zu sein und gleich die<lb/>
+Regierungsmeinung zu vertreten. <name type="person" ref="per:97818">Pittermann</name> nämlich hat immer wieder<lb/>
+darauf hingewiesen, dass seiner Meinung nach diese Frage vor der<lb/>
+Mittwochsitzung vollkommen geklärt werden muss. Es wird sich allerdings<lb/>
+wie <name type="person" ref="per:97311">Androsch</name> darauf hinwies, die Gewerkschaftsfraktion am Dienstag<lb/>
+damit beschäftigen. Und <name type="person" ref="per:97818">Pittermann</name> nähme gegen seinen Vorschlag des<lb break="no"/>halb negative Haltung ein, weil er selbst nur eine Erhöhung des derzeitigen<lb/>
+Überstundenzuschlagsfreibetrages von 260.- auf sagen wir 520.- S plä<lb break="no"/>diert. Der zweite Vorschlag, wonach mit einem festen Steuersatz die Über<lb break="no"/>stunden und die Überstundenzuschläge z.B. 5 % von <name type="person" ref="per:97311">Androsch</name> vorgeschlagen,<lb/>
+verrechnet werden, ist auch verworfen worden. Derzeit ist die Absicht,<lb/>
+ein Drittel der Überstunden und den Zuschlag maximal 150.- 5 pro Woche<lb/>
+neu zu regeln. Für die qualifizierten Überstunden, wie Nacht-, Sonn- und<lb/>
+Feiertagszuschläge, sollten im Punkt 18 eingebaut werden.</p>
+            <p xml:space="preserve">Die Präsidialkonferenz hat sich mit der weiteren Vorgangsweise im Parlament<lb/>
+beschäftigt und ist zur einhelligen Auffassung gekommen, dass erstens am<lb/>
+1. und dann in der nächsten Woche am Mittwoch, Donnerstag noch ein<lb/>
+Parlament stattfindet. <name type="person" ref="per:98091">Withalm</name> hat dem zugestimmt und es wird die<lb/>
+Tagesordnung wie besprochen an diesen drei Tagen abgewickelt werden.<lb/>
+Gleichzeitig aber werden die mündlichen Anfragen, d.h. die Fragestunden<lb/>
+entfallen. Es besteht daher unsere Verpflichtung, diese mündlichen An<lb break="no"/>fragen innerhalb von 8 Wochen schriftlich zu beantworten. Bezüglich des<lb/>
+Wahltages hat <name type="person" ref="per:98091">Withalm</name> vorgeschlagen, den 4. Oktober. <name type="person" ref="per:97807">Peter</name> hat dem letzten<lb/>
+Endes zugestimmt, da er gesagt hat, da nun <name type="person" ref="per:98091">Withalm</name> der Regierung und<lb/>
+der kleinen Oppositionspartei in der Frage der weiteren Parlemtentsitzun<lb break="no"/>gen so weit entgegengekommen ist, stimmt er jetzt für den 4. Oktober.<lb/>
+Die Frage, ob wir diesen Termin jetzt als Regierung vorschlagen sollten,<lb/>
+wurde abgelehnt, das die Regierung erst ein Gesetz zur Durchführung der<lb/>
+Nachwahlen braucht. Weiters wurde die Frage aufgeworfen, wieweit in den<lb/>
+Ministerien die Sicherheitsbeauftragten notwendig sind. Ich erfuhr auch<lb/>
+auf diese Art und Weise, das erste Mal, dass es solche Sicherheitsbeauf<lb break="no"/>tragte in dem Ministerium gibt.</p>
+            <p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:97543">Heindl</name>: Unverzüglich feststellen, wer das bei uns ist und<lb/>
+was der Betreffende für Aufgaben hat.</p>
+            <pb n="02-0317" facs="02_1970-06-29_0317.jpg"/>
+            <p xml:space="preserve"><name type="person" ref="per:97461">Frühbauer</name> berichtete, dass der ÖAMTC durchgesetzt hat, zu seinem<lb/>
+75-jährigen Bestehen für ihn eine Briefmarke herausgegeben wird.<lb/>
+Er fragte an. ob er dies tun sollte, ich setzte mich sofort dafür<lb/>
+ein und sagte, man müsste halt dann genauso für den ARBÖ bei einem<lb/>
+Jubiläumsjahr eine solche Briefmarke herausgeben, aber ich würde<lb/>
+es als einen sehr grossen Fehler betrachten, wenn wir hier restriktiv<lb/>
+vorgehen würden, insbesondere wenn wir uns mit dieser so mächtigen<lb/>
+Organisation wegen einer Briefmarke einen Krieg anfangen würde.<lb/>
+Der Landesverteidigungsausschuss, der sich aus 12 ÖVP- und 12 SPÖ<lb break="no"/>Vertretern zusammensetzt, wird den Antrag <name type="person" ref="per:97356">Blecha</name> auf Herabsetzung<lb/>
+der Dienstzeit auf 6 Monate ablehnen. <name type="person" ref="per:97807">Peter</name> wollte, dass dieser An<lb break="no"/>trag vom Landesverteidigungsausschuss verabschiedet wird und ins<lb/>
+Haus zur endgültigen Beschlussfassung kommen sollte, dies aber wird von<lb/>
+<name type="person" ref="per:98091">Withalm</name> abgelehnt. Die Antwort auf eine Frage, die sich mit dem Problem<lb/>
+der Kleinbauern und der Bergbauern und anderen Raumfragen für die<lb/>
+ländlichen Gebiete beschäftigt und an alle Minister gegangen ist,<lb/>
+wird von <name type="person" ref="per:98055">Weihs</name> beantwortet werden.</p>
+            <p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:97543">Heindl</name>: Bitte, die entsprechenden Abstimmungen mit<lb/>
+dem Landwirtschaftsminister herstellen.</p>
+            <p xml:space="preserve">Eine kleine Besprechungsrunde von <name type="person" ref="per:97668">Kreisky</name>, <name type="person" ref="per:98055">Weihs</name>, <name type="person" ref="per:97311">Androsch</name>, <name type="person" ref="per:98034">Veselsky</name><lb/>
+und mir, stellte fest, dass die Milchsituation immer kritischer wird,<lb/>
+das Land- und Forstwirtschaftsministerium würde für heuer 320<lb/>
+Mio mehr und für 1970/71 500 -600 Mio mehr Budgetmittel brauchen,<lb/>
+die <name type="person" ref="per:97311">Androsch</name> keinesfalls zur Verfügung stellen kann. Es wird des<lb break="no"/>halb eine diesbezügliche Besprechung in der nächsten Wochen noch<lb/>
+zwischen uns durchgeführt werden.</p>
+            <p xml:space="preserve">Bei der österr.-amerikanischen Handelskammer hatte ich Gelegenheit<lb/>
+mit den Öl-Bossen zu reden und habe sie darauf aufmerksam gemacht,<lb/>
+dass ich dringendst ihre Mitteilung brauche, was ihr Verhandlungs<lb break="no"/>komitee, das sie gegründet hatten, bezüglich der Versorgung mit<lb/>
+Heizöl und anderen Ölprodukten für den Winter erarbeitet haben.<lb/>
+Sie sagten mir eine diesbezügliche Unterlage in kürzester Frist zu.<lb/>
+Ebenso urgierte ich die notwendigen Public Relation-Arbeiten für<lb/>
+Lannach.</p>
+         </div>
+      </body>
+    
+  </text>
+</TEI>

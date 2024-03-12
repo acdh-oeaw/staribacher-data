@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Donnerstag, der 12. Mai 1977</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band36_1977-05-12</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1977-05-12">Donnerstag, 12. Mai 1977</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-06-06">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="36-0568" facs="36_1977-05-12_0568.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Donnerstag, 12. Mai 1977<lb/>
+</p>
+            <p xml:space="preserve">Mit Bundesrat <name type="person" ref="per:97375">Brugger</name> wurde von der schweizerisch-österreichischen<lb/>
+Handelskammer eine Podiumsdiskussion veranstaltet, was<add>[haben]</add> die Schweiz<lb/>
+und Österreich gemeinsam und was trennt sie. Ich musste als<lb/>
+erster sprechen und schilderte die gemeinsamen wirtschaftspolitischen<lb/>
+Entwicklungen. <name type="person" ref="per:97375">Brugger</name> als zweiter Referent hielt sich weniger<lb/>
+an das gestellte Thema sondern entwickelte seine wirtschafts<lb break="no"/>politischen Vorstellungen. Gemeinsam hatten wir, dass Schweiz und<lb/>
+Österreich eine gute Beschäftigungslage hat, Arbeitslosigkeit bei<lb/>
+uns 47.000 in der Schweiz 14.000, nur um ein Beispiel zu sagen,<lb/>
+weltweit die besten Ergebnisse. Natürlich wies ich insbesondere<lb/>
+darauf hin, dass unsere Ausgangslage nach dem zweiten Weltkrieg<lb/>
+wesentlich verschieden war. Die reiche Schweiz, ohne Kriegs<lb break="no"/>zerstörung, das arme Österreich, mit gewissem Stolz konnte ich<lb/>
+schon darauf hinweisen, dass wir jetzt sehr viel aufgeholt haben.<lb/>
+Wirklich grosse Differenzen gibt es eigentlich nur in der Zahlungs<lb break="no"/>bilanz. Die Schweiz 8,6 Mia. sfr. Überschuss, wir 22 Mia. S Defizit.<lb/>
+Bei den Lebenshaltungskosten wir 7,3 %, die Schweiz 1 %. Beim<lb/>
+Bruttonationalprodukt aber die Schweiz 75 minus 7,6, wir minus 2.<lb/>
+1976 aber bereits wir ein Plus von 5,2, die Schweiz noch immer<lb/>
+ein Minus von 1 %. Für das Jahr 1977 erwartet die Schweiz nur<lb/>
+1 % Wachstum, wir dagegen 4,5 %. Bedingt ist diese schlechte<lb/>
+Entwicklung der Produktion durch den Ausfall von 340.000 Arbeits<lb break="no"/>plätzen, davon 200.000 Italiener, die überhaupt rückgewandert sind.<lb/>
+<name type="person" ref="per:97375">Brugger</name> erzählte mir, dass er grosse Angst gehabt hat, wie sie<lb/>
+diese Gastarbeiter nach Italien zurückbringen werden. Er fürchtete,<lb/>
+dass sie durch richtiggehendes Ausweisen diese überschüssigen<lb/>
+Fremdarbeiter loswerden müssten. Als die Italiener aber bemerkten,<lb/>
+wie die Konjunktursituation auch in der Schweiz ist, sollen sie<lb/>
+angeblich selbst nach Italien zurückgekehrt sein. In Italien sind<lb/>
+sie als Facharbeiter dann sehr gefragt, verdrängen dort allerdings<lb/>
+Italiener von ihren angestammten Plätzen, doch mit den Ersparnissen<lb/>
+in der Schweiz können sie mit den harten Schweizer Franken ent<lb break="no"/>sprechend lang und günstig in Italien leben. Ich hätte eigentlich<lb/>
+erwartet, da ja die Schweizer Ergebnisse doch günstiger sind und<lb/>
+vor allem die Podiumsdiskutanten, Staatssekretär <name type="person" ref="per:97815">Pisa</name> ist vom<lb/>
+Wirtschaftsbundverlag, <name type="person" ref="per:97479">Graber</name> Wirtschaftskorrespondent der<lb/>
+Neuen Zürcher Zeitung, Prof. <name type="person" ref="per:133317">Horst Knapp</name> und von soz. Seite nur<lb/>
+AZ-Redakteur <name type="person" ref="per:132606">Romé</name>, ich in der Diskussion wesentlich härter<lb/>
+attackiert werde. Der Vorsitzende Präs. <name type="person" ref="per:146664">Schneider</name> von der Schweizer<lb/>
+österr. Handelskammer hat aber, wie <name type="person" ref="per:97479">Graber</name> sagt, angeblich<lb/>
+<pb n="36-0569" facs="36_1977-05-12_0569.jpg"/>kalmierend gewirkt. Er wies deshalb auf den föderalen Aufbau<lb/>
+der Schweiz und den doch verhältnismässig zentralistischen<lb/>
+Österreichs hin, strich dann besonders heraus, dass die<lb/>
+Schweizer Nationalbank vollkommen unabhängig ist und z.B. nur<lb/>
+eine restriktive Geldmengenpolitik von 5 – 6 % Zuwachs macht.<lb/>
+Die ÖNB ist hier wesentlich von der Regierung abhängiger, was<lb/>
+man meiner Meinung nach so nicht sagen kann, wohl aber, dass<lb/>
+auch in der ÖNB die Vollbeschäftigung Priorität 1 hat und<lb/>
+daher ca. doppelt so viel Geldmenge geschöpft wurde. <name type="person" ref="per:97815">Pisa</name><lb/>
+meinte, wenn es einen Währungsverbund gibt, ich erwähnte den<lb/>
+harten Schilling neben dem Schweizer Franken und der DM, dann<lb/>
+müsste es auch einen notwendigen Stabilitätsverbund geben. Die<lb/>
+Schweiz, hat <name type="person" ref="per:97375">Brugger</name> erklärt, hat den Schweizer Franken <choice><choice><sic>gemanagt</sic><corr>managed?</corr></choice></choice><lb/>
+Floating, d.h. auch kein reines sauberes Floating betrieben.<lb/>
+Da sie ihre Staatsschuld tief halten, jetzt wollen sie gar die<lb/>
+Steuerausgaben limitieren auf den Bruttonationalproduktzuwachs<lb/>
+so haben wir hier schon eine starke Differenz. <name type="person" ref="per:132606">Romé</name> meinte,<lb/>
+die Schweizer Unternehmer passen sich schneller an, weil<lb/>
+<name type="person" ref="per:97375">Brugger</name> erklärt hat, der Staat betreibt keine Strukturpolitik<lb/>
+und stellt keine Leitbilder auf, weiss aber, dass er auf dem<lb/>
+Bausektor und ganz besonders auf dem Uhrensektor Massnahmen<lb/>
+setzen sollte und sogar zumindestens Studien finanzierte, damit<lb/>
+die Innovationen und Strukturänderungen dort ohne Staatseinfluss<lb/>
+verbessert werden. <name type="person" ref="per:132606">Romé</name> meinte dann, die Uhrenindustrie der Schweiz<lb/>
+hätte jetzt die zweite Generation Quarzuhren bereits in der Pro<lb break="no"/>duktion, den Übergang hätten sie verschlafen, sie hätten daher<lb/>
+aber jetzt sehr schnell geschaltet. Prof. <name type="person" ref="per:133317">Knapp</name> meinte einleitend<lb/>
+man sollte diese masochistische Unterlegenheit Österreichs nicht<lb/>
+immer so herausstreichen. Natürlich hat der Schweizer Franken um<lb/>
+57 % aufgewertet, der österr. Schilling um 31 % im Verhältnis<lb/>
+zu den anderen Abwertungswährungen. Die Verbraucherpreise seien<lb/>
+aber in einem Zeitraum von 1970 bis jetzt in der Schweiz um 6,3<lb/>
+bei uns um 7,3 gestiegen, wenn man die Mieten herauslässt so pro Jahr<lb/>
+5,9 : 6,1. Die Schweiz muss aber jetzt noch die Mehrwertsteuer<lb/>
+einführen, <name type="person" ref="per:97375">Brugger</name> nimmt an, dass sie 2,5 % Verbraucherpreis<lb break="no"/>erhöhungen bringen wird und einen neuen Lebenshaltungskostenindex<lb/>
+erstellen, der aber dort interessanterweise eine 2 %-ige Verteuerung<lb/>
+bringen sollte. Für mich waren zum Schluss dann nur zwei Bemerkungen<lb/>
+<name type="person" ref="per:97375">Bruggers</name> interessant. Erstens bedankte er sich öffentlich für<lb/>
+die Unterstützung Österreichs in den internationalen Gremien, auch<lb/>
+<pb n="36-0570" facs="36_1977-05-12_0570.jpg"/>in der EFTA für die Schweizer Ideen, d.h. unserer gemeinsamen<lb/>
+Wirtschaftspolitik und gemeinsamem Auftreten. Sein Credo war<lb/>
+aber, wir müssen alles tun, damit dieser verdammte Wirtschafts<lb break="no"/>protektionismus der Dreissigerjahre nicht wieder kommt. Auch dann,<lb/>
+wenn wir weltweit in einer Rezession waren und wahrscheinlich<lb/>
+wieder eine kommen könnte. Mein Amtsvorgänger <name type="person" ref="per:97749">Mitterer</name> ist nachher<lb/>
+beim Empfang, zufällig war ich dabei, mit <name type="person" ref="per:133317">Knapp</name> zusammengestossen,<lb/>
+weil er meinte, nur <name type="person" ref="per:97479">Graber</name> hätte die Wahrheit gesagt und <name type="person" ref="per:133317">Knapp</name> wieder<lb/>
+einmal beschönigt. Er könne nur als Unternehmervertreter sagen,<lb/>
+wie glücklich es jetzt in der Schweiz ist und wie schlecht in<lb/>
+Österreich. <name type="person" ref="per:133317">Knapp</name> meinte, er möchte beileibe jetzt nicht Schweizer<lb/>
+Unternehmer sein, da man dort nicht einmal noch <choice><choice><sic>der</sic><corr>das?</corr></choice></choice> Niveau 1974 er<lb break="no"/>reicht hat. Da wird in Österreich bessere Politik gemacht. Ich<lb/>
+war über diesen heftigen Streit selbst sehr verwundert. <name type="person" ref="per:97375">Brugger</name><lb/>
+erzählte mir schon bei der Fahrt vom Flughafen, ihr grösstes<lb/>
+Problem, nämlich die Bankaffäre der Kreditanstalt. Ohne dass der<lb/>
+Verwaltungsrat auch nur eine Ahnung davon hat, ja nicht einmal<lb/>
+eine Art Staatskommissär, den <name type="person" ref="per:97375">Brugger</name> sehr genau kennt und der<lb/>
+die Bank zu überwachen hat, wusste davon etwas, wurden in der ita<lb break="no"/>lienischen Schweiz Grundstücktransaktionen gemacht. Es ist jetzt<lb/>
+zu untersuchen, wie weit der gesamte Vorstand davon informiert war<lb/>
+und natürlich auf alle Fälle dafür Verantwortung trägt. Am meisten<lb/>
+hat es <name type="person" ref="per:97375">Brugger</name> gewundert, dass diese Geschichte keinen Run auf den<lb/>
+Schweizer Franken auslöste, da nicht einmal die Aktien der<lb/>
+Bank gefallen sind. Ich kann mir dies nur so erklären, dass ähnlich<lb/>
+wie in Österreich, durch den Wohlstand aber noch viel mehr<lb/>
+durch die Überzeugung der Bevölkerung, die Regierung wird das<lb/>
+schon irgendwie in Ordnung bringen, die Masse<add>[hs. korrigiert, Anm.]</add> weniger heftig reagiert<lb/>
+als dies in der Zwischenkriegszeit der Fall war.<lb/>
+</p>
+            <p xml:space="preserve">Die EFTA-Ministerratssitzung hatte nur drei Punkte, Verhandlungsmandat<lb/>
+für Spanien – Beitritt zur EFTA, übereinstimmend wurde festgehalten,<lb/>
+dass so schnell wie möglich auf der Basis der Ergebnisse von der<lb/>
+EG-Kommission mit Spanien 1970 ausgemachten Präferenzlösung auch<lb/>
+eine solche mit Spanien und der EFTA gefunden werden soll. Als<lb/>
+zweiter Punkt war die Frage Griechenlands, wo Gen.Sekr. <name type="person" ref="per:115599">Müller</name><lb/>
+jetzt nach Athen fahren wird, um dort zu sondieren, wie wir ebenfalls<lb/>
+auch dort eine ähnliche Lösung wie mit Spanien erreichen oder zumindest<lb/>
+anstreben könnten. Der dritte Punkt war, ob wir noch im Frühjahr unsere<lb/>
+halbjährliche Ministerratssitzung in Genf machen sollten oder wie<lb/>
+ich insbesondere plädierte, erst im Herbst die Tagung in Genf<lb/>
+<pb n="36-0571" facs="36_1977-05-12_0571.jpg"/>zu veranstalten ist.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98072">WIESINGER</name>: Bitte Oktober-Termin eintragen.<lb/>
+</p>
+            <p xml:space="preserve">Min.Rat <name type="person" ref="per:115656">Steiger</name> hatte mir vor der Sitzung berichtet, dass die<lb/>
+Delegationsleiter der Beamten am Vorabend bis spät in die Nacht<lb/>
+über die Textierung des Verhandlungsmandates diskutierten. Schein<lb break="no"/>bar gibt es in vielen anderen Staaten, so wie bei uns auch den<lb/>
+Wunsch z.B. der Handelskammer aber noch viel mehr der Landwirt<lb break="no"/>schaftskammer, man sollte bei den neuen Verhandlungen mit Spanien<lb/>
+trachten, bessere Ergebnisse zu erzielen. Die Präsidentenkonferenz<lb/>
+hat allen Ernstes vorgeschlagen, es sollten jetzt die bilateralen<lb/>
+Abmachungen mit Spanien gekündigt werden, damit eine bessere<lb/>
+Verhandlungsposition am Anfang für Österreich geschaffen wird.<lb/>
+Man muss sich nur vorstellen, dem faschistischen Spanien hat man<lb/>
+schon vor längerer Zeit Konzessionen gemacht und dem zur Demokratie<lb/>
+zurückgefundenen werden jetzt diese Konzessionen entzogen. Aussen<lb break="no"/>minister <name type="person" ref="per:108328">Pahr</name> und ich lehnen eine solche Vorgangsweise ganz entschieden<lb/>
+ab.<lb/>
+</p>
+            <p xml:space="preserve">Überhaupt musste ich feststellen, dass im Parlament gerade die Ver<lb break="no"/>treter der Landwirtschaft beim Integrationsbericht sich mehr denn<lb/>
+je schäbig benommen haben. Ich hatte <name type="person" ref="per:97511">Haiden</name> ersucht, weil wir<lb/>
+diese EFTA-Ministersitzung hatten, für mich auf der Regierungsbank<lb/>
+zu sitzen. Gen.Sekr. <name type="person" ref="per:97686">Lanner</name> hat gleich, wie man mir abends<lb/>
+dann als ich ins Parlament kam, erzählte, mich attackiert, dass<lb/>
+ich an Essen teilnehme, statt hier im Parlament zu sitzen.<lb/>
+<name type="person" ref="per:97369">Brandstätter</name>, der Agrarsprecher und auch <name type="person" ref="per:112149">Gorton</name> dann vom<lb/>
+Wirtschaftsbund stimmten dann angeblich in dasselbe Horn. Vor<lb break="no"/>mittags als ich anstelle des Empfanges im Parlament war, war<lb/>
+leider noch immer nicht der Integrationsberichts-Tagesordnungspunkt<lb/>
+aufgerufen. Dieser kam genau zu dem Zeitpunkt dran, als die EFTA-<lb/>
+Ministerratssitzung war. <name type="person" ref="per:97511">Haiden</name> hat mich zwar, wie <name type="person" ref="per:97543">Heindl</name> mir<lb/>
+mitteilt, bestens entschuldigt, er meinte, wer den asketischen <name type="person" ref="per:97985">Stari<lb break="no"/>bacher</name> kennt, weiss, dass er Besprechungen hat und nicht dem Essen<lb/>
+frönt, wie dies die ÖVP-Opposition behauptet hat. Ich informierte<lb/>
+nachmittags Gen.Sekr. <name type="person" ref="per:97769">Mussil</name> über das Ergebnis der EFTA-Minister<lb break="no"/>sitzung und zufällig kam Klubobmann <name type="person" ref="per:97647">Koren</name> vorbei. Er meinte, ent<lb break="no"/>schuldigend, auch wir hätten ja ständig nach dem Minister gerufen,<lb/>
+wenn es um seine Tagesordnungspunkte ging und er nicht auf der Regierungs<lb break="no"/>bank sass. Indirekt distanzierte er sich aber, indem er meinte, er per<lb break="no"/>sönlich hätte ja kein Wort dazu gesagt. Der Angriff <name type="person" ref="per:97686">Lanners</name> ist<lb/>
+<pb n="36-0572" facs="36_1977-05-12_0572.jpg"/>mir insofern fast unerklärlich, denn vor nicht allzu langer<lb/>
+Zeit meinte er, ihm tut es so leid, dass wir jetzt sachlich<lb/>
+keine Differenzen mehr auszutragen haben und er mich daher<lb/>
+sehr gerne einmal persönlich in meinem Ministerium besuchen<lb/>
+will. Ich habe mir vorgenommen, nach Vorliegen des stenographischen<lb/>
+Protokolls auf die Angriffe Briefe den Abgeordneten zu schreiben.<lb/>
+</p>
+            <p xml:space="preserve">Der Bundespräsident gab einen Empfang für die Ministerpräsidenten<lb/>
+und Aussen- und Handelsminister sowie die entsprechenden Botschafter.<lb/>
+Alle sind von der Hofburg sehr beeindruckt. Ich kann gar nicht<lb/>
+verstehen, dass erst in der zweiten Republik und dies nach längerer<lb/>
+Diskussion die Entscheidung gefallen ist, die Amtsräume des Bundes<lb break="no"/>präsidenten in die Hofburg zu verlegen.<lb/>
+</p>
+            <p xml:space="preserve">NR <name type="person" ref="per:98010">Teschl</name> hat mir dann im Parlament am Abend noch einmal nahegelegt,<lb/>
+mich positiv für das Sulfatzellstoffprojekt der Welser Papier<lb break="no"/>fabrik auszusprechen. Ich erklärte ihm, dass ich weder eine<lb/>
+positive noch eine negative Meinung dazu habe, solange nicht fest<lb break="no"/>steht, wie die Finanzierung erfolgt und vor allem wie dieses<lb/>
+Projekt Welser, also <name type="person" ref="per:146619">Landegger</name> allein, oder gemeinsam ein Projekt mit<lb/>
+der Neusiedler – <name type="person" ref="per:114599">Turnauer</name> – endgültig von den beiden Unternehmern<lb/>
+entschieden ist. <name type="person" ref="per:98010">Teschl</name> meint, die Finanzierung könnte weder durch<lb/>
+den ERP-Fonds noch durch den Wasserwirtschaftsfonds geschweige<lb/>
+denn durch einen Zinsenzuschuss des Handelsministerium zustande<lb/>
+kommen. <name type="person" ref="per:98010">Teschl</name> schwebt vor, es soll eine Bundeshaftung für dieses<lb/>
+Projekt ausgesprochen werden. Meiner Meinung nach ist dies eine<lb/>
+vollkommen unmögliche Lösung, denn ich kann mir nicht vorstellen,<lb/>
+dass der Finanzminister für ein privates Projekt einer Einzelfirma<lb/>
+eine Bundeshaftung übernimmt. Ich habe <name type="person" ref="per:98010">Teschl</name> gebeten, er soll sich<lb/>
+mit Sekt.Chef <name type="person" ref="per:98053">Wanke</name> ins Einvernehmen setzen, damit wir nach ent<lb break="no"/>sprechender Vorbereitung eine Ad-hoc-Kommission dafür einberufen.<lb/>
+<name type="person" ref="per:98010">Teschl</name> hat mit Bundeskanzler <name type="person" ref="per:97668">Kreisky</name> über dieses Problem gesprochen<lb/>
+und dieser hat abgelehnt, auf die nächste Tagung der Industriekommission<lb/>
+ein Sulfatprojekt zu setzen, da er diese ausschliesslich mit dem Austro-<lb/>
+Porsche beschäftigen möchte.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97819">PLESCH</name> UND <name type="person" ref="per:98053">WANKE</name>: Bitte die Einzelheiten mit <name type="person" ref="per:98010">Teschl</name><lb/>
+noch besprechen.<lb/>
+</p>
+            <p xml:space="preserve">Die Opernaufführung Troubadour mit <name type="person" ref="per:118217">Karajan</name> hat alle Teilnehmer<lb/>
+insbesondere die Ausländer sehr beeindruckt. Einige kamen nachher<lb/>
+zu mir und fragten, ob es wirklich wahr ist, dass die Staatstheater<lb/>
+ein höheres Defizit haben als das Budget des Aussenamtes.<lb/>
+</p>
+            <pb n="36-0573" facs="36_1977-05-12_0573.jpg"/>
+            <p xml:space="preserve">Aussenminister <name type="person" ref="per:108328">Pahr</name> dürfte hier ein bisschen auf die bekannte<lb/>
+Weise Propaganda für unsere Kulturleistungen gemacht haben.<lb/>
+Da <name type="person" ref="per:118217">Karajan</name> die besten Sänger der Welt für seine Aufführungen<lb/>
+verpflichtet, ist – wie mir <name type="person" ref="per:136288">Jungbluth</name> mitgeteilt hat – dieser<lb/>
+Abend um 400.000 S teurer gekommen als ein normaler, der auch<lb/>
+ca. die Hälfte nämlich nur 400.000 S kostet. Interessant ist aber,<lb/>
+dass das Einspielergebnis an diesem Abend 800.000 S, so dass eigentlich<lb/>
+nur das normale Defizit, eben fast soviel wie das Budget des<lb/>
+Handelsministeriums und mehr als das des Aussenministeriums aus<lb break="no"/>macht. Nach der Opernaufführung gab es bei allen anderen Ministern<lb/>
+scheinbar üblich und daher auch vom Bundeskanzler so gepflogen,<lb/>
+ein Souper im Bristol, das – wie könnte es anders sein – bis 1/2 1 Uhr<lb/>
+dauerte. Für die Ausländer sicherlich ein gelungener Tag, für <name type="person" ref="per:97668">Kreisky</name>,<lb/>
+da ja doch alle gekommen sind und sicherlich er sich dann mit seinen<lb/>
+Ideen wird durchsetzen, ein voller Erfolg.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="36_0567_01" facs="36_1977-05-12_0567-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 12.5.1977</head>
+         </div>
+         <pb n="36_0567_02" facs="36_1977-05-12_0567-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

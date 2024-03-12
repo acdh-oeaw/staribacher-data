@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittwoch, der  9. Juni 1982</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band65_1982-06-09</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1982-06-09">Mittwoch, 9. Juni 1982</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-10-21">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="65-0666" facs="65_1982-06-09_0666.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Mittwoch, 9. Juni 1982<lb/>
+</p>
+            <p xml:space="preserve">Herr <name type="person" ref="per:114658">Kahane</name> flog mit der Lauda Air nach Mailand und hat in Zeltweg unterbro<lb break="no"/>chen, weil er auch bei der Sulfatzellstoffanlage Pöls dabei sein wollte. Er<lb/>
+kennt die Besitzer von Burgos von Italien sehr gut. Vielleicht weil er<lb/>
+am Militärflughafen Zeltweg viel leichter zwischenlanden kann, hieß es,<lb/>
+daß auch ich an diesem Flug teilnehme, was ich allerdings und selbst<lb/>
+mein Büro erst am letzten Tag erfuhr. <name type="person" ref="per:114658">Kahane</name> gilt als der unternehme<lb break="no"/>rische Ezzesgeber vom Bundeskanzler. Er selbst bezeichnet sich nur als<lb/>
+ein Freund von <name type="person" ref="per:97668">Kreisky</name>, dem er immer verpflichtet sein wird, der <add>[von]</add> ihm<lb/>
+aber nur nach besten Wissen und Gewissen beraten wird. Am Flug sprachen<lb/>
+wir neuerdings über die Möglichkeit, wie er an der Grenze zu der CSSR<lb/>
+in Bernhofen seine jetzt 30.000 to Zitronen reproduzierende Fabrik<lb/>
+mit österreichischem Zucker als Rohstoff versorgen kann und <choice><choice><sic>wir</sic><corr>er?</corr></choice></choice> vor<lb/>
+allem das jetzt vom Landwirtschaftsminister von ihm verlangte Wasser<lb break="no"/>reinigungssystem überhaupt finanzieren kann. <name type="person" ref="per:114658">Kahane</name> wird an <name type="person" ref="per:97511">Haiden</name><lb/>
+einen Brief schreiben, um dort genau festzulegen, daß er außerstande ist,<lb/>
+die jetzt beabsichtigten zusätzlichen Auflagen zu erfüllen. Dabei geht<lb/>
+es weniger um die hohen Investitionskosten, als um die dann sich jähr<lb break="no"/>lich erhöhenden Betriebskosten für diese Wasserreinigung. <name type="person" ref="per:114658">Kahane</name> gibt<lb/>
+zu, daß etwas geschehen muß, da unterhalb der Thaya am tschechischen<lb/>
+Gebiet ein Erholungsraum mit entsprechender Bademöglichkeit gebaut<lb/>
+wurde. Die Tschechen verlangen nun eine wesentliche Reinigung der Ab<lb break="no"/>wässer, die in die Thaya fließen. Ich habe <name type="person" ref="per:114658">Kahane</name> zugesagt, daß wenn<lb/>
+er es wünscht, ich mit dem tschechischen Außenhandelsminister <name type="person" ref="per:133292">Urban</name><lb/>
+spreche, der ja bis zu seiner Berufung Industrieminister war, daher<lb/>
+sicherlich für Industrieprojekte und Probleme mehr Verständnis hat als<lb/>
+irgendein anderer.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte beim nächsten Besuch <add>[von]</add> <name type="person" ref="per:133292">Urban</name> mich erinnern.<lb/>
+</p>
+            <p xml:space="preserve">Die Zitronensäurefabrik führt noch immer ca. 40.000 to Zucker ein, den<lb/>
+sie zur Erzeugung der 30.000 Zitronensäureprodukte braucht. Wenn die<lb/>
+Zuckerindustrie bereit wäre <name type="person" ref="per:114658">Kahane</name> um einem erträglichen Preis, er<lb/>
+nannte 3,50 S pro kg Zucker, würde er sofort langfristige Verträge machen<lb/>
+und den Zuckerrübenbauern 8.000 ha zusätzliche Produktionsmöglichkeit<lb/>
+einräumen. <name type="person" ref="per:114658">Kahane</name> meint, er hat Verständnis, daß die Zuckerindustrie<lb/>
+dies nicht kann, weil ansonsten die AK verlangen würde, daß auch der<lb/>
+Konsumentenzuckerpreis wesentlich gesenkt wird. Ich konnte ihm sofort<lb/>
+erwidern, daß die AK bereit war, für den Exportzucker sehr wohl eine<lb/>
+<pb n="65-0667" facs="65_1982-06-09_0667.jpg"/>eigene Fixkostenlösung zu akzeptieren, daher nicht das Hindernis ist.<lb/>
+In Wirklichkeit kann er sich mit Herrn <name type="person" ref="per:58381">Mauthner</name>, der die Zuckerexporte<lb/>
+für die Zuckerindustrie abwickelt, nicht einigen. Beide, wie <name type="person" ref="per:114658">Kahane</name><lb/>
+selbst zugibt, können miteinander nicht sprechen. Eine Vermittlung<lb/>
+von mir wurde aber ebenfalls abgelehnt. <name type="person" ref="per:58381">Mauthner</name> hat z.B. erst unlängst<lb/>
+wieder den Inlandszucker um 4,80 S angeboten, den er zum selben Zeit<lb break="no"/>punkt nach Tunesien um 4.50 S exportierte. <name type="person" ref="per:114658">Kahane</name> meint, mit der Zucker<lb break="no"/>industrie, insbesondere dem Obmann <name type="person" ref="per:111718">Skene</name>, könnte man eher sprechen. Der<lb break="no"/>zeit importiert er aus Polen, Ungarn, Italien Melasse und hat große<lb/>
+Schwierigkeiten für den inländischen Zitronensäureanteil die Inlands<lb break="no"/>abschöpfungen immer zu vereinbaren und abzurechnen, der Inlandsanteil<lb/>
+macht dabei nur einige Prozente aus. Ich habe ihm versprochen, daß ich<lb/>
+auf alle Fälle mit dem Obmann der Zuckerindustrie sprechen werde, da<lb/>
+ich es für einen Unsinn finde, daß wir als Zuckerüberschußland exportie<lb break="no"/>ren und gleichzeitig also dann doch immerhin 40.000 to Zuckeräquiva<lb break="no"/>lent eingeführt werden.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:125291">MARTIN</name>: Bitte mit <name type="person" ref="per:111718">Skene</name> verbinden.<lb/>
+</p>
+            <p xml:space="preserve">In Pöls war die ganze Belegschaft und ich hatte das Gefühl, selbst der<lb/>
+ganze Ort bei der Grundsteinlegung. Schulkinder waren Fähnchen schwin<lb break="no"/>gend dabei, nachher gab es dann auch in der Hauptschule ein Festzelt<lb/>
+mit Würstel und Bier, sodaß wirklich auch von dieser Seite ein Grund<lb/>
+zu feiern bestand.<lb/>
+</p>
+            <p xml:space="preserve">Ansprachen hielt der italienische Besitzer und gleichzeitig Vorstands<lb break="no"/>mitglied <name type="person" ref="per:115578">Bonelli</name>, außer der Reihe denn vorgesehen war der Vorsitzende<lb/>
+des Aufsichtsrates <name type="person" ref="per:113827">Adler</name>, der aber, ich weiß nicht aus welchen Gründen,<lb/>
+eine furchtbar heißere Stimme hatte. Außer der Reihe sprach dann auch<lb/>
+noch LH-Stv. <name type="person" ref="per:124045">Gross</name>, denn die Landesregierung war durch den ehem. Vor<lb break="no"/>sitzenden der Präsidentenkonferenz für die Holzfragen <name type="person" ref="per:113058">Koiner</name> und<lb/>
+jetzigen Landesrat vertreten. Die härteste Ansprache hielt aber der<lb/>
+Betriebsratsobmann. Dieser verwies darauf, daß alle immer gegen dieses<lb/>
+Projekt waren, daß man Pöls also ohne weiteres hätte zugrunde gehen<lb/>
+lassen und daß selbst jetzt noch ständig Angriffe zu verzeichnen sind.<lb/>
+Für Pöls ist es aber eine Existenzfrage, daß jetzt endlich diese Inve<lb break="no"/>stitionen durchgeführt werden und damit eine garantierte Produktion<lb/>
+von Sulfatzellstoff erfolgen wird, den man zumindestens 1/3 im Inland<lb/>
+braucht, da wir über 100.000 to Sulfatzellstoff einführen. Nach<lb/>
+Schätzung des Papierverbandes werden davon 60.000 jetzt durch Pöls im<lb/>
+Inland erzeugt werden können, der Rest ist Spezialsulfatzellstoff, den<lb/>
+<pb n="65-0668" facs="65_1982-06-09_0668.jpg"/>wir gar nicht erzeugen können. Da die Kapazität auf 200.000 ausgelegt<lb/>
+ist, wird jetzt nach Italien exportiert werden, wo ihn die Papierfabriken<lb/>
+von Burgos dringend brauchen. Ich selbst ging dann auch auf die stän<lb break="no"/>digen Angriffe gegen dieses Projekt in meiner Rede ein. Insbesondere<lb/>
+erwähnte ich, daß noch im Morgenjournal ein Gutachten des Wirtschafts<lb break="no"/>forschers <name type="person" ref="per:123388">Aiginger</name> mit betont negativer Stellungnahme neuerdings inter<lb break="no"/>viewt wurde.<lb/>
+</p>
+            <p xml:space="preserve">Da die VÖEST-Alpine mit 60 Mio. S Kapitalanteil sich beteiligt, dort aber<lb/>
+insbesondere für ca. 2 1/2 Mrd. S die Anlage errichten wird, waren viele<lb/>
+Herren der VÖEST und vor allem GD <name type="person" ref="per:97315">Apfalter</name> auch anwesend. In einer<lb/>
+Pressekonferenz, die wir mit den italienischen Besitzern, die ich<lb/>
+extra dazu eingeladen habe, und <name type="person" ref="per:97315">Apfalter</name> abhielen, wurde von den Presse<lb break="no"/>vertretern immer wieder dasselbe gefragt, was auch bis jetzt nur nega<lb break="no"/>tives immer im Umlauf stand. Wie sehr wird die Belastung der Umwelt<lb/>
+sein, in welchem Ausmaß beteiligen sich die Italiener, kann die not<lb break="no"/>wendige Holzmenge aufgetrieben werden, alles wurde sehr positiv beant<lb break="no"/>wortet, ich bin nur sehr gespannt, was die Zeitungen dann schreiben wer<lb break="no"/>den.<lb/>
+</p>
+            <p xml:space="preserve">Mit <name type="person" ref="per:97315">Apfalter</name> besprach ich auch die Liefermöglichkeit der Sowjets<lb/>
+für die <choice><choice><sic>50.0000</sic><corr>50.000? 500.000?</corr></choice></choice> to oxidierte Pellets, <name type="person" ref="per:97315">Apfalter</name> meint, man müsse erst<lb/>
+prüfen, ob sie dies in ihrem Stahlprozeß überhaupt beimischen können.<lb/>
+Ich habe <name type="person" ref="per:97315">Apfalter</name> vorgeschlagen, er sollte ein paar Waggons bestellen,<lb/>
+damit man den Sowjets zeigt, daß man ernstlich eine entsprechende Über<lb break="no"/>prüfung vornimmt. Scheinbar gibt es technische Schwierigkeiten diese<lb/>
+Mengen im Hochofenprozeß einzusetzen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:111737">MARSCH</name> UND <name type="person" ref="per:108746">HAFFNER</name>: Bitte mit <add>[der]</add> VÖEST entsprechenden Kontakt<lb/>
+halten, damit bis zur nächsten Gemischten Kommission im September ein Be<lb break="no"/>richt vorliegt.<lb/>
+</p>
+            <p xml:space="preserve">NR <name type="person" ref="per:114677">Schlager</name> ersuchte mich, ich sollte unbedingt drauf drängen, daß<lb/>
+die Fa. Agusta Hubschrauber liefern kann, da sie, wie mir <name type="person" ref="per:97879">Rösch</name> ver<lb break="no"/>traulichst mitgeteilt hat, dann einen Motorenauftrag an Bauknecht<lb/>
+gibt. Diese Kompensation wurde auch das letzte Mal abgeschlossen und hat<lb/>
+für 1 1/2 Jahre angeblich die Bauknecht in Spielberg ausgelastet.<lb/>
+<name type="person" ref="per:114677">Schlager</name> schlägt vor, daß man gegebenenfalls Hubschrauber für den<lb/>
+Katastropheneinsatz kauft. Im Katastrophenfonds soll 1 Mrd. S liegen, die<lb/>
+man jederzeit dafür heranziehen könnte. <name type="person" ref="per:114677">Schlager</name> sagt, er kennt sich<lb/>
+<pb n="65-0669" facs="65_1982-06-09_0669.jpg"/>hier genau aus, weil er die Abrechnung entsprechend prüft resp.<lb/>
+genau kennt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:111737">MARSCH</name>: Bitte diesen Vorschlag sofort prüfen.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Fa. Koflach in Köflach war die ganze Belegschaft dann zur Staats<lb break="no"/>wappenverleihung zusammengerufen. Zuerst hatte ich zwar im Eilzugs<lb break="no"/>tempo die Fabrik besichtigt. Die Zeiteinteilung stimmte nämlich hint'<lb/>
+und vorne wieder einmal nicht. Von Pöls übers Gaberl nach Köflach<lb/>
+dauert länger, als scheinbar angenommen, von Köflach dann wieder über<lb/>
+Gaberl zurück nach St. Lambrecht war die Zeit auch zu kurz bemessen.<lb/>
+Ganz klar war mir überhaupt nicht, warum ich hin- und herfahren mußte.<lb/>
+</p>
+            <p xml:space="preserve">Die Köflacher sind mit der Schuhfabrik sehr zufrieden, insbesondere<lb/>
+hat der Bürgermeister auf die tüchtigen Manager, Dir. Dipl.Ing. <name type="person" ref="per:145573">Jeindl</name>,<lb/>
+der den Betrieb für die <name type="person" ref="per:149479">Hatschek</name>-Gruppe führt, hat wirklich die<lb/>
+größte Skischuhfabrik daraus gemacht. Da der Betrieb, bevor ihn<lb/>
+<name type="person" ref="per:149479">Hatschek</name> kaufte vor 4 Jahren, durch Amerikaner, Schweden usw. immer<lb/>
+tiefer in die roten Zahlen gekommen ist und sonst zusperren hätte müssen,<lb/>
+ist natürlich jedermann mit der jetzigen Besitzerlösung sehr einver<lb break="no"/>standen. Gegründet wurde die Fabrik, nomen est omen, von einem gewissen<lb/>
+<name type="person" ref="per:145572">Herunter</name>, er hat wirklich den Betrieb dann in den 70-er Jahren herun<lb break="no"/>tergewirtschaftet. Aber auch Volvo, <name type="person" ref="per:116110">Denzel</name>, hat sich dafür sehr einge<lb break="no"/>setzt, konnte den Betrieb dann nicht mehr retten. Jetzt gehen diese<lb/>
+Skischuhe hauptsächlich nach Japan und andere außereuropäische, aber<lb/>
+insbesondere europäische Staaten. Der Besitzer Dipl.Ing. <name type="person" ref="per:149479">Hatschek</name><lb/>
+hat in seiner Rede dann darauf hingewiesen, daß er jetzt zum fünften<lb/>
+Mal von mir für seinen Firmen das Staatswappen bekommt. Natürlich<lb/>
+ging ich dann auf diese Tatsache besonders ein und machte so, als wie<lb/>
+wenn das in meinen Aufzeichnungen verzeichnet gewesen wäre. Ich hätte<lb/>
+mich aber wirklich sehr gewundert, wenn dies jemand in meinem Hause be<lb break="no"/>merkt hätte.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Fa. Leitner habe ich dann diesen Familienbetrieb, der 1956 ge<lb break="no"/>gründet wurde und dessen Alleininhaber <name type="person" ref="per:1137940">Hans Leitner</name> auch mit seinen<lb/>
+4 Kindern den Betrieb eigentlich managt, besonders auf die Leistung des<lb/>
+<name type="person" ref="per:1137940">Leitner</name> verwiesen. Er ist nicht nur der Gründer sondern auch jetzt<lb/>
+noch die Seele des Betriebes. Kammeramtsdirektor <name type="person" ref="per:1137941">Dorfer</name> von der Handels<lb break="no"/>kammer Steiermark erzählte in seiner Rede, daß wer immer mit <name type="person" ref="per:1137940">Leitner</name><lb/>
+zusammen- und wo immer <name type="person" ref="per:1137940">Leitner</name> hinkommt, dieser an allen vergnüglichen<lb/>
+<pb n="65-0670" facs="65_1982-06-09_0670.jpg"/>Veranstaltungen nicht teilnimmt, sondern er entweder in seinem Hotel<lb break="no"/>zimmer sitzt und kalkuliert und neue Projekte überlegt oder irgendwel<lb break="no"/>che Berichtigungen vornimmt, um zu sehen, welche moderneren Produktions<lb break="no"/>methoden oder neue Stile es in der Möbelerzeugung gibt. Er hat daher<lb/>
+den Betrieb von einem Beschäftigten 1956 auf 175 Beschäftigte mit 20<lb/>
+Lehrlingen aufgebracht. Daß er in diesem ansonsten beschäftigungsarmen<lb/>
+Gebiet Unternehmer ist, brauche ich nicht besonders zu sagen.<lb/>
+</p>
+            <p xml:space="preserve">Von Stift St. Lambrecht war auch der Abt <name type="person" ref="per:1137942">Strohmaier</name>, dessen Vorgänger ja<lb/>
+zum Bischof von Linz gewählt wurde, anwesend. Ich ersuchte ihn, ob ich<lb/>
+nicht auch dann das Stift besichtigen könnte, was ihn sehr gefreut<lb/>
+hat. Er hat mich persönlich geführt und ich war eigentlich überrascht,<lb/>
+wie viele wirklich interessante Kunstschätze es dort gibt. Das Stift<lb/>
+lebt größtenteils vom Waldbesitz, der zuständige Oberförster hat sich<lb/>
+bei mir sehr beklagt, daß die Holzpreise jetzt so verfallen und dafür<lb/>
+interessanterweise ebenfalls die tschechischen Importe verantwortlich<lb/>
+gemacht werden. Zum Glück konnte ich ihm mitteilen, daß ich jetzt im<lb/>
+Handelsministerium mich persönlich mit allen davon Betroffenen, und ich<lb/>
+zählte die ganze letzte Sitzungsteilnehmerliste auf, sehr eingehend<lb/>
+mit diesem Problem beschäftige. Darüber war man sehr überrascht, nie<lb break="no"/>mand erwartet, daß ich mich in solche Details einmische. Daß es ein<lb/>
+reiner Zufall war, daß es gerade vor ein paar Tagen diese Sitzung auf<lb/>
+meine Initiative stattgefunden hat, brauchte ich ja nicht unbedingt<lb/>
+zu sagen. Konkrete Vorschläge was wir also unternehmen sollten konnte<lb/>
+man mir allerdings dort auch nicht machen. Durch die Stiftsbesichti<lb break="no"/>gung war ich dann wieder einigermaßen versöhnt, daß wir den ganzen Tag<lb/>
+vorher in der Steiermark hin und hergefahren sind. Hätte ich nämlich<lb/>
+die wie es logisch gewesen wäre, Auszeichnung in St. Lambrecht unmittel<lb break="no"/>bar nach Pöls gemacht und wäre dann über das Gaberl nach Köflach gefah<lb break="no"/>ren und dann von dort nach Wien zurück, wäre ich zwar garantiert vor<lb/>
+10.00 Uhr in Wien gewesen, hätte dann aber sicherlich nicht das Stift<lb/>
+gesehen, denn dafür war in dem Zeitplan keine Zeit. Trotzdem möchte<lb/>
+ich in Hinkunft bei der Vereinbarung von diesen auswärtigen Reisen<lb/>
+auch informiert werden, damit ich vielleicht den einen oder anderen Vor<lb break="no"/>schlag zweckmäßigerweise unterbringe.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:125291">MARTIN</name>: Bitte bei diesen Zeiteinteilungen mich zu infor<lb break="no"/>mieren.</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="65_0665_05" facs="65_1982-06-09_0665-05.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 3.6.1982</head>
+         </div>
+      </back>
+   </text>
+</TEI>

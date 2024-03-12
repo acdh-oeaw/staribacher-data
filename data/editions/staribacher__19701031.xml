@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der 31. Oktober 1970</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Joseph Staribacher</collection>
+                  <idno type="signature">Band03_1970-10-31</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1970-10-31">Samstag, 31. Oktober 1970</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-04-25">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-02-27" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-02-27" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+  <text xml:base="http://192.168.0.9/staribacher/src/scans/Band03/">
+      <body>
+         <pb n="03-0722" facs="03_1970-10-31_0722.jpg"/>
+         <div type="entry">
+            <dateline>
+               <date when="1970-10-31">Samstag, 31. Oktober 1970</date>
+            </dateline>
+            <p xml:space="preserve">Die Vorstandsfraktion des Arbeiterkammertages in Wien beschäftigte<lb/>
+sich mit der Resolution, die die nächste Vollversammlung beschliessen<lb/>
+soll. Bei dieser Gelegenheit konnte ich feststellen, dass der ÖAAB ver<lb break="no"/>sucht, ganz konkrete Forderungspunkte in die Resolution unterzubringen<lb/>
+Da ich die erste Formulierung des ÖAAB nicht kenne, konnte ich nur bei<lb/>
+der verabredeten Formulierung meine Bedenken geltend machen. z.B. der<lb/>
+Satz: Ein sehr wesentliches Anliegen der Vollversammlung stellt auch<lb/>
+die Sicherstellung der notwendigen Investitionen der Verstaatlichten<lb/>
+Industrie dar. Es müsste Vorsorge getroffen werden, dass dafür aus<lb break="no"/>reichende Mittel zur Verfügung stehen, – kann so verstanden werden,<lb/>
+dass im Budget wieder die ÖIAG die Mittel zur Aufstockung des Kapi<lb break="no"/>tals bei den einzelnen Gesellschaften bereitgestellt wird. Diese<lb/>
+Forderung wird sicherlich auch vom ÖAAB in den Verstaatlichten Betrie<lb break="no"/>ben aufgestellt werden. Da <name type="person" ref="per:97311">Androsch</name> aber kein Geld hat und auch<lb/>
+andererseits die ÖIAG in Zukunft die Finanzierung in eigener Regie<lb/>
+durchführen soll, kann eine solche Resolution nur gegen die Regierung<lb/>
+ausgelegt werden. Andererseits wieder hat der LAAB ganz entschieden<lb/>
+dagegen ausgesprochen, dass in der SPÖ- Entwurf vorgesehen war, die<lb/>
+Vollversammlung begrüsst daher die bisherigen Initiativen der Bundes<lb break="no"/>regierung zur Verbesserung verschiedener Wirtschaftsgesetze, so<lb/>
+etwa des Preistreibereigesetzes, des Preisregelungsgesetzes und das<lb/>
+Gesetz gegen den unlauteren Wettbewerb und erwartet, dass diese im<lb/>
+NR einer positiven Erledigung zugeführt werden. Wenn der ÖAAB dieser<lb/>
+Forderung zugestimmt hätte, die übrigens seit Jahrzehnten immer von<lb/>
+den Arbeiterkammern und dem Gewerkschaftsbund aufgestellt wurde,<lb/>
+dann hätte es eine zweckmässige Unterstützung der Parlamentfraktion<lb/>
+der SPÖ bedeutet. Ich bin neugierig, ob es unsere Genossen in der<lb/>
+Arbeiterkammer gelingt, den ÖAAB zu einer Resolution zu bewegen,<lb/>
+die in irgendeiner Weise aussagekräftig ist und doch noch einstimmig<lb/>
+gefasst werden kann. Wenn die Voraussetzung, um eine solche Resolution<lb/>
+in der Öffentlichkeit politischen Kampf verwenden zu können ist, wenn<lb/>
+eine solche Resolution einstimmig mit allen Fraktionen gegebenenfalls<lb/>
+gegen die Stimme der KPÖ oder bei Stimmenthaltung der KPÖ gefasst<lb/>
+wird.</p>
+            <p xml:space="preserve">Da sich die Fraktionssitzung länger dahinzog, traf ich beim Weggehen<lb/>
+<name type="person" ref="per:97398">Drennig</name>, der mit folgende Mitteilung machte. Er kannte den Vortrag<lb/>
+von <name type="person" ref="per:98003">Taus</name> in der Betriebswirtschaftlichen Woche, wahrscheinlich hat<lb/>
+er ihn ja sogar ausgearbeitet und auch die Stellungnahme zu den<lb/>
+<pb n="03-0723" facs="03_1970-10-31_0723.jpg"/>300 Mill. S Investitionsprojekt Investitionskredit AG, die über die<lb/>
+Nationalbank finanziert werden soll. Er bestätigte mit, dass innerhalb<lb/>
+der ÖVP von einzelnen Bankfachleuten die Meinung auch vertreten wird,<lb/>
+man sollte diese Schlussfinanzierung der Industrie über diesen Weg<lb/>
+versuchen. Allerdings sprach er sich – wie sein Chef – ganz entschieden<lb/>
+dagegen aus, dass die Investitionskredit AG allein diese Finanzierungs<lb break="no"/>möglichkeit eingeräumt bekommen soll. Bei dieser Gelegenheit konnte ich<lb/>
+in Erfahrung bringen, dass <name type="person" ref="per:98003">Taus</name> darauf reflektierte, in die Credit<lb break="no"/>anstalt als Generaldirektor zu kommen. Die ÖAAB-Fraktion innerhalb der<lb/>
+ÖVP war aber zu schwach, und es wird nun Dr. <name type="person" ref="per:122965">Treichl</name>, der im Apparat<lb/>
+der CA aufgewachsen ist, diesen Posten einnehmen. <name type="person" ref="per:97398">Drennig</name> ist ein ganz<lb/>
+gewiegten und tüchtiger junger Mann und ich könnte mir sehr gut vorstellen,<lb/>
+dass er einmal der Taus-Nachfolger wird, er meint allerdings, dass dies<lb/>
+noch zu früh ist, auch dann wenn <name type="person" ref="per:98003">Taus</name> wirklich in die CA abgeschwommen<lb/>
+wäre. <name type="person" ref="per:97398">Drennig</name> versprach mir aber ziffernmässige Unterlagen für die End<lb break="no"/>finanzierung der Industrie und ich bin neugierig, ob und in welchem Aus<lb break="no"/>mass er sie uns zur Verfügung stellen wird. Auf alle Fälle wäre es<lb/>
+zweckmässig, wenn wir interfraktionell dieses Problem besprechen, ihn<lb/>
+jedenfalls zu den Besprechungen heranziehen. Er ist letzten Endes auch<lb/>
+als Vertreter des nö. Bürgschaftsfonds ein bedeutender Mann auf dem<lb/>
+Sektor, der für uns Fremdenverkehr- und Gewerbeförderung von grosser<lb/>
+Bedeutung ist.</p>
+            <p xml:space="preserve">Bei meinem Referat vor den Bauarbeitern wurde auch meine Fernsehaufzeich<lb break="no"/>nung der Bauarbeiterfraktion mit einem Videorekorder durchgeführt. Die<lb/>
+Bauarbeiter verwendet verhältnismässig sehr viel Geld für neue Einrichtung<lb/>
+nicht nur ihrer Heime, sondern auch vor allem für die technische Ausrüstung<lb/>
+ihrer Gruppe. Ich glaube, zwar dass es vorerst notwendig wäre, dass auch<lb/>
+der Interviewer sich entsprechend schult, aber im grossen und ganzen halte<lb/>
+ich einen solchen Videorekorder, der imstande ist, bei den einzelnen<lb/>
+Bauarbeiterversammlung dann gespielt zu werden, für sehr zweckmässig.</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97646">KOPPE</name>: Sollten wir nicht versuchen, diese Videorekorder<lb/>
+besser einzusetzen, und vor allem durch Schulung der Interviewer<lb/>
+ein wirklich lebhafteres Programm zu erstellen.</p>
+            <p xml:space="preserve">Der Betriebsrat der Hohenauer Zuckerfabrik hatte mich ersucht, ich sollte<lb/>
+unbedingt ihr Werk besichtigen. Da er nächstes Jahr Betriebsratwahlen<lb/>
+hat, brauchte er dringend meine Anwesenheit. Ich bin zwar nicht davon<lb/>
+überzeugt gewesen, aber habe ihm dann letzten Endes doch zugesagt, dem<lb/>
+Betrieb zu besichtigen. In diesem Fall meldeten sich sofort dann die<lb/>
+<pb n="03-0724" facs="03_1970-10-31_0724.jpg"/>Besitzer, <name type="person" ref="per:136114">Strakosch</name> und <name type="person">Habich</name> , und luden mich als Handelsminister ganz<lb/>
+offiziell zu dieser Betriebsbesichtigung ein. Dies war deshalb vom<lb/>
+grossen Vorteil, da der Rundfunk ebenfalls anwesend sein wollte. Das<lb/>
+Interview, welches der Reporter sofort von <name type="person">Habich</name> und von mir verlangte,<lb/>
+war über das Problem des Zuckerpreises. Ich konnte mich sehr gut ausreden<lb/>
+da ich bei der 100 Jahr-Feier vor 3 Jahren nicht anwesend sein konnte,<lb/>
+und versprochen hatte, bei der erstbesten Gelegenheit, die Fabrik zu be<lb break="no"/>suchen und dies sei jetzt der Fall. Der Dr. <name type="person">Habich</name> dagegen wurde ununter<lb break="no"/>brochen gefragt, was sich die Industrie nun vorstellt und sagte zum Schluss<lb/>
+doch zwischen 8 und 16 % würde sich maximal der Antrag der Zuckerindustrie<lb/>
+bewegen. Bei einer abschhiessenden Besprechung, an der nur Dr. <name type="person">Strakos</name>, der<lb/>
+Besitzer der Hohenauer Zuckerfabrik und Dr. <name type="person" ref="per:117100">Habig</name>, ein Mitbesitzer und<lb/>
+entfernter Verwandter der Familie <name type="person">Strakos</name>, und ich teilnahmen wurde tat<lb break="no"/>sächlich von ihnen das Ersuchen gestellt, ich sollte ihren Zuckerpreis<lb break="no"/>antrag entsprechend unterstützen. Ich ließ sie nicht im Zweifel, daß der<lb/>
+jetzige Zeitpunkt der denkbar schlechteste sei. Es stimmt zwar, daß<lb/>
+ihre Kosten entsprechend erhöht wurden, so unter anderem eine neuerliche<lb/>
+Lohnerhöhung vor der Kampagne. Außerdem mußten sie für den Kokspreis fast<lb/>
+den doppelten Ansatz als im Vorjahr in Kalkulation stellen. Auch bei<lb/>
+Öl sind sie derzeit noch mit Mobil in Verhandlungen, die um 16 % einen<lb/>
+höheren Preis verlangt als im Vorjahr. Trotzdem glaube ich, daß in der<lb/>
+jetzigen Phase eine Zuckerpreiserhöhung kaum möglich sein wird. Ich ver<lb break="no"/>wies darauf, daß die Bundesregierung daransetzt um die Margarinepreis<lb break="no"/>erhöhung zu verhindern. Sollte die ÖVP wider Erwarten dieser Umsatzsteuer<lb break="no"/>senkung für Margarine und Öle nicht zustimmen, dann würde eine Belastung<lb/>
+auf diesem Sektor unumgänglich sein. Ich könnte mir dann nicht gut vor<lb break="no"/>stellen, daß gleichzeitig auch noch eine Zuckerpreiserhöhung genehmigt<lb/>
+würde. Der Zuckerpreis ist in seinen Hauptsorten noch immer preisgeregelt<lb/>
+und deshalb ist eine Zustimmung der Preisbehörde erforderlich. Außerdem<lb/>
+wird Zucker derzeit in einem Ausmaß produziert wie er überhaupt nicht im<lb/>
+Konsum verwendet werden kann. Tatsache ist, daß derzeit bei Beginn der<lb/>
+Kampagne 80.000 t Zucker noch aus der vorhergehenden Kampagne lagern und<lb/>
+der Verbrauch maximal mit 270.000 t angenommen wird und die heurige Ernte<lb/>
+wird wahrscheinlich mindestens diese 270.000 t bringen. Ich schlug deshalb<lb/>
+den beiden Herren vor, sie sollten sich den Kopf zerbrechen wie man den<lb/>
+überschüssigen Zucker so schnell wie möglich im Inland durch entsprechende<lb/>
+Abgabe an bevorzugte Verbraucher wie Bauern zum silagieren oder weiterver<lb break="no"/>arbeitende Industrie für die Süßwarenerzeugung wegbringen könnte. Insbe<lb break="no"/>sondere der Präsident der Zuckerindustrie, Dr. <name type="person" ref="per:117100">Habig</name>, wehrte sich gegen<lb/>
+die Idee einen zweiten Zuckerpreis offiziell zu installieren, da er die<lb/>
+<pb n="03-0725" facs="03_1970-10-31_0725.jpg"/>Angst hat, daß damit der offizielle Zuckerpreis auch für den<lb/>
+Konsumenten ins Wanken gerät. Vor Jahren sind die Bauern an ihn<lb/>
+herangetreten und haben gesagt, sie wären bereit zur Silagierung<lb/>
+als Silagemittel Zucker zu verwenden, wenn dieser ungefähr 400,- S<lb/>
+pro Zentner zu haben sei. Die Zuckerfabriken haben darauf im<lb/>
+Vorjahr von den ca. 47,- S pro Meter-Zentner für die Rübe 12,- S<lb/>
+von der plus-plus-Rübe die für Silagezucker verwendet wurde abge<lb break="no"/>zogen. Für die anderen plus-plus-Rüben wurden nur 6,- S pro Meter<lb break="no"/>Zentner in Abzug gebracht. Dadurch glauben die Zuckerfabriken, daß<lb/>
+sie den Silagezucker tatsächlich um diesen Preis abgeben können.<lb/>
+Die Kalkulation sieht nun folgendermaßen aus: 400,- S Silagezucker<lb/>
+franko Verbraucher, 20,- S abzüglich Fracht ist 380,- S; die Kosten<lb/>
+für die Fabrik 140,- S = 240,- S minus 30,- S Transport Rübe zur<lb/>
+Fabrik verbleibt für den Bauern 210,- S, dies ist bei 7 x 30,- S<lb/>
+für die Rübe 210,- S Einstandspreis für die Bauern als Verrechnungs<lb break="no"/>ansatz. Die Zuckerindustrie hat nun dieser Silageproduktion und dem<lb/>
+zweiten Zuckerpreis zugestimmt, wenn sie von der Preisbehörde den<lb/>
+schriftlichen Bescheid kriegt, daß dieser Zucker nicht ihrer<lb/>
+normalen Kalkulation angerechnet wird, das heißt, daß man nicht<lb/>
+diese Zuckermenge als Divisor verwendet, wenn es gilt die anlaufen<lb break="no"/>den Kosten zu errechnen. Präsident <name type="person" ref="per:97691">Lehner</name> von der Präsidentenkonfe<lb break="no"/>renz der Landwirtschaftskammern hat mich vor längerer Zeit wissen<lb/>
+lassen, daß diese Angelegenheit als erledigt zu betrachten ist. Zu<lb/>
+meiner größten Verwunderung hat <name type="person" ref="per:117100">Habig</name> mir aber mitgeteilt, daß er<lb/>
+auf eine schriftliche Mitteilung – um nicht zu sagen auf einen<lb/>
+Bescheid – der Preisbehörde noch immer wartet und solange nicht<lb/>
+bereit ist Silagezucker im größeren Ausmaß zu erzeugen. Seiner<lb/>
+Meinung nach, und insbesondere Dr. <name type="person">Strakos'</name> Meinung nach, könnte<lb/>
+aber hier ein wesentlicher Absatzmarkt gewonnen werden. Man schätzt<lb/>
+daß dies bis zu 80.000 t Zucker gehen könnte, derzeit ist nur<lb/>
+maximal 10.000 t geplant. Ich schlug den beiden Herren vor, sie<lb/>
+sollten innerhalb ihrer Organisation einen konkreten Plan für<lb/>
+weitere Absatzmaßnahmen ausarbeiten, den dann über die Interessens<lb break="no"/>vertretunggan die Regierung herantragen und ich bin überzeugt<lb/>
+davon, daß wir gemeinsam ein solches Arrangement beschließen<lb/>
+könnten, wenn in der Paritätischen Kommission die Bundesregierung<lb/>
+zu einem solchen Arrangement aufgefordert wird Stellung zu nehmen.<lb/>
+Dadurch hätte die Zuckerindustrie die größte Gewähr, daß auch dann,<lb/>
+wenn eine andere Bundesregierung einmal sein würde die Interessens<lb break="no"/>vertretungen nach wie vor die Linie vertreten müßten, die sie<lb/>
+<pb n="03-0726" facs="03_1970-10-31_0726.jpg"/>jetzt dann mit der Bundesregierung gemeinsam beschlossen haben.<lb/>
+Die Angst der Zuckerindustrie, daß ein für die Zucker verarbeitende<lb/>
+oder für die Landwirtschaft verbilligter Preis, letzten Endes alle<lb/>
+anderen Abnehmer auf den Plan ruft, ist zweifelsohne richtig, muß<lb/>
+aber im Interesse des Zuckerabsatzes unter Verhinderung einer Preis<lb break="no"/>steigerung aufgegeben werden.</p>
+            <p xml:space="preserve">Bei einem Österreich-Gespräch in Gänserndorf am Abend, wo – wie mir<lb/>
+der Bürgermeister versicherte – nur lauter Genossen anwesend waren,<lb/>
+wurden zwei Minister, ein Nationalrat, der Präsident des nieder<lb break="no"/>österreichischen Landtagklubs und der Bürgermeister bemüht. Hier<lb/>
+müßte eine ökonomischere Einteilung Platz greifen.</p>
+         </div>
+      </body>
+    
+  </text>
+</TEI>

@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Montag, der 12. April 1976</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band30_1976-04-12</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1976-04-12">Montag, 12. April 1976</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-01-15">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="30-0496" facs="30_1976-04-12_0496.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Montag, 12. April 1976<lb/>
+</p>
+            <p xml:space="preserve">Frau <name type="person" ref="per:143961">Sadat</name> wollte unbedingt eine gewirkte Herrenunterwäsche<lb break="no"/>fabrik besichtigen. Unser Protokoll, MR <name type="person" ref="per:123358">Samsinger</name>, war ausser<lb break="no"/>stande, irgendetwas dazu zu sagen. Ich rief deshalb sofort<lb/>
+die Handelskammer Dr. <name type="person" ref="per:143962">Pichler</name> im Büro <name type="person" ref="per:97893">Sallinger</name> an und schlug der<lb/>
+Handelskammer vor, man soll Ersatzbetriebe nennen. Herrenunter<lb break="no"/>wäsche wird in Vorarlberg erzeugt und der <choice><choice><sic>näheste</sic><corr>nächstgelegene</corr></choice></choice> Betrieb ist<lb/>
+in Stegersbach, Burgenland. Wie wir dann mitgeteilt wurde, hat die<lb/>
+Handelskammer sofort erklärt, sie stellt gegebenenfalls einen Hub<lb break="no"/>schrauber zur Verfügung, wenn tatsächlich Frau <name type="person" ref="per:143961">Sadat</name> so weit fliegen<lb/>
+will. Natürlich lehnte sie das ab und begnügte sich dann mit Licona<lb/>
+einer Bekleidungsfirma in Wien. Mit Recht sagte die Sekretärin<lb/>
+von MR <name type="person" ref="per:97801">Ottahal</name>, die ich um 3/4 9 Uhr anrief. Sagen sie es mir gleich<lb/>
+ich kann es ja selber machen, ansonsten bekomme ich ja auch nur von<lb/>
+<name type="person" ref="per:123358">Samsinger</name> den Auftrag alles zu erledigen. Das ganze Behördensystem<lb/>
+ist längst reformbedürftig, am meisten aber das Protokoll.<lb/>
+</p>
+            <p xml:space="preserve">Der Bürgermeister von Enns ruft mich an und fragt was jetzt<lb/>
+endlich mit den 2 Mio. Exportkredit für die Gablonzer geschehen ist,<lb/>
+der Ende April abläuft. Ich hatte seinerzeit sicherlich jemanden<lb/>
+im Büro ersucht, dass man diesen Fall der Verlängerung sofort<lb/>
+in Angriff nehmen soll. Zum Glück konnte ich jetzt von der Öster<lb break="no"/>reichischen Kontrollbank, Dr. <name type="person" ref="per:111755">Castellez</name>, erreichen, der sich mit dem<lb/>
+Dir. <name type="person" ref="per:141709">Nemecek</name> von der Gablonzer ins Einvernehmen setzen wird und<lb/>
+denen irgendwie helfen resp. Ratschläge geben wird.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG AN ALLE: Wer hat damals die Gablonzer bei meinem Ennsbesuch<lb/>
+behandelt.<lb/>
+</p>
+            <p xml:space="preserve">Min.Rat <name type="person" ref="per:112011">Kurzel</name> und <name type="person" ref="per:112051">Singer</name> berichten mir, dass die Internationalen<lb/>
+den Bescheid über den Raffinerieabgabepreis zurückgeschickt haben.<lb/>
+Sie erklären, sie hätten keinen-Antrag gestellt, bräuchten keinen<lb/>
+Raffinerieabgabepreisbescheid, weil sie keine eigene Raffinerie haben<lb/>
+Ausserdem müssen sie noch Handelsfunktionen noch zusätzlich erfül<lb break="no"/>len, womit der Raffinerieabgabepreis nur für die ÖMV und niemals<lb/>
+für sie bindend sein kann. <name type="person" ref="per:112011">Kurzel</name> steht allerdings auf dem Standpunkt<lb/>
+den Bescheid haben sie bekommen, ordnungsgemäss die Übernahme be<lb break="no"/>stätigt und damit sei er rechtsgültig. Er wird aber mit den Firmen<lb/>
+weitere Verhandlungen führen.<lb/>
+</p>
+            <pb n="30-0497" facs="30_1976-04-12_0497.jpg"/>
+            <p xml:space="preserve">Betreffend des burgenländischen Elektrizitätspreisantrages<lb/>
+der erst am 26.2.76 eingereicht wurde und wo <name type="person" ref="per:112011">Kurzel</name> und vor allem<lb/>
+<name type="person" ref="per:109811">Burian</name> glauben, es wäre zweckmässig ihnen 3% zu geben, mache ich<lb/>
+auf die Beispielfolgen und ganz besonders aber auf den internen<lb/>
+Widerstand der Sozialpartner aufmerksam. Hätte Burgenland diesen<lb/>
+Antrag im 74er oder 75er Jahr gestellt, hätte man wahrscheinlich<lb/>
+ihn damals ohne grosse Schwierigkeiten erledigt.Jetzt aber nach dem<lb/>
+1. März sofort jetzt mit 1. Juli eine weitere Erhöhung und dann mit<lb/>
+1. Jänner die dritte Erhöhung zu genehmigen, halte ich persönlich<lb/>
+auch für sehr problematisch.<lb/>
+</p>
+            <p xml:space="preserve">Minister <name type="person" ref="per:98055">Weihs</name> möchte jetzt endlich den Akt über die Magermilch<lb break="no"/>pulverbeimischung bei Futtermittel. Dadurch kann er 8.000 Tonnen<lb/>
+unterbringen, wenn wir die Rezepturen der Futtermittelwerke ändern.<lb/>
+Er teilt mir mit, dass 1973 sogar angeblich auf unseren Vorschlag<lb/>
+eine solche Vorgangsweise schon einmal gewählt wurde. Damals hätte<lb/>
+das Handelsministerium keine rechtlichen Bedenken gehabt. Jetzt<lb/>
+hat die Bürokratie bei uns wieder einmal entdeckt, dass dies<lb/>
+rechtlich nicht möglich ist. <name type="person" ref="per:97819">Plesch</name> hat aber jetzt eine For<lb break="no"/>mulierung mit der Abteilung ausgemacht, wonach festgestellt wird, dass<lb/>
+die rechtliche Verantwortung beim Landwirtschaftsministerium liegt,<lb/>
+wir aber trotzdem zustimmen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97819">PLESCH</name>: Prüfe, ob tatsächlich wir einmal schon einer<lb/>
+Regelung zugestimmt haben.<lb/>
+</p>
+            <p xml:space="preserve">Beim Journalistenfrühstück berichtet <name type="person" ref="per:113824">Hönlinger</name> und <name type="person" ref="per:113825">Steyrer</name> über<lb/>
+die Herabsetzung der BÜRGES-Zinsen von 9 3/4 auf 9%. <name type="person" ref="per:113825">Steyrer</name><lb/>
+aber bringt gleichzeitig aber einen Tätigkeitsbericht und stellt fest<lb/>
+dass in dem I.Quartal eine Verdoppelung der Ansuchen festzustellen<lb/>
+ist. Am meisten freut mich aber, dass jetzt bei der Alt-BÜRGES<lb/>
+560 Fälle mit 90 Mio Zinsenzuschuss und immerhin 245 Fälle mit 40 Mio.<lb/>
+Prämien in Anspruch genommen wurden. Ich mache die Zeitungen noch<lb/>
+einmal darauf aufmerksam, wie interessant und einfach Prämien abzuwik<lb break="no"/>keln sind gegenüber von Zinsenzuschuss. Die idealste Lösung wäre,<lb/>
+wenn es tatsächlich gelänge alle anderen Aktionen ebenfalls sowie<lb/>
+die Komfortzimmeraktion und jetzt teilweise die Alt-BURGES auf<lb/>
+Prämien umzustellen. Dies gibt einen viel stärkeren Incentive<lb/>
+und hat scheinbar doch für die Firmen nicht die steuerlichen<lb/>
+schlechten Wirkungen wie sie mir geschildert wurden.<lb/>
+</p>
+            <pb n="30-0498" facs="30_1976-04-12_0498.jpg"/>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: Diese Finanzierungsart sollte man auch in<lb/>
+unsere Industriekommissionsüberlegungen einbeziehen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:116119">Walz</name> berichtete über seine Studie der Beseitigung von Autowracks.<lb/>
+Für mich ist dies ein Gesamtkomplex, wo auch Altöl und Altreifen<lb/>
+dann mehr oder minder geregelt werden müssen. Natürlich kam<lb/>
+sofort die Frage ob dies eine weitere Belastung für den Autofahrer<lb/>
+bedeutet, weil in der Studie auch eine Möglichkeit erwähnt wurde,<lb/>
+dass der Autofahrer eine Kaution beim Kauf vom Auto erlegen muss,<lb/>
+die er dann, wenn er die Bestätigung bringt, dass das Autowrack<lb/>
+entsorgt ist, wieder zurückbekommt. Hier gibt es eine ungeheure<lb/>
+Möglichkeit des Schwindelns, weshalb ich schon aus diesem Grund<lb/>
+dieser Variante keine Chance gebe. Darüber hinaus habe ich natürlich<lb/>
+sofort erklärt, dass noch keinerlei Entscheidung gefallen ist<lb/>
+und dass keinesfalls der Autofahrer jetzt mit neuerlichen Belastun<lb break="no"/>gen beunruhigt werden soll. Studien auf allen 3 Gebieten sind jetzt<lb/>
+mehr als genug gemacht, jetzt wird es höchste Zeit dass wir eine<lb/>
+gesetzliche Regelung für Wracks, Öl und Reifen finden, die auch<lb/>
+gleichzeitig die Organisation, die aufgebaut werden muss, regelt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: Bitte diesen Gesetzentwurf oder wenn mehrere<lb/>
+notwendig, diese in absehbarer Zeit jetzt vorlegen.<lb/>
+</p>
+            <p xml:space="preserve">Die ägyptischen Verhandlungen wurden von <name type="person" ref="per:108322">Meisl</name> berichtet und es<lb/>
+wurden eigentlich gar keine detaillierten Fragen gestellt, die ich<lb/>
+eigentlich erwartet habe. Da ich Abends dann mit <name type="person" ref="per:140592">Osman</name> auf Wunsch<lb/>
+des Fernsehens ein Doppelinterview, d.h. ein Pressegespräch führen<lb/>
+musste, konnte ich dort die Detailinformationen dann mitteilen.<lb/>
+</p>
+            <p xml:space="preserve">Das Mittagessen vom Aussenminister für den niederländischen<lb/>
+Aussenminister <name type="person" ref="per:143978">Stoel</name> war wieder einmal für meine schlechte Infor<lb break="no"/>mation typisch. <name type="person" ref="per:97350">Bielka</name> meinte, ich würde <name type="person" ref="per:143978">Stoel</name> kennen, da wie ich<lb/>
+dann später feststellte, dieser der sozialistischen Partei angehört.<lb/>
+Ich vermute dies zumindestens, weil <name type="person" ref="per:97845">Probst</name> mit ihm per Du war, ich<lb/>
+kam zwar neben dem Aussenminister zu sitzen, habe aber natürlich<lb/>
+über Wirtschaftsfragen mit ihm gesprochen. Mein rechter Nachbar<lb/>
+dagegen war ein Beamter, der längere Zeit an der Wiener niederl.<lb/>
+Botschaft war. Er erzählte mir zwei interessante Probleme in den<lb/>
+Niederlanden. Ein altes Sprichwort sagt, von links hört man nichts<lb/>
+<pb n="30-0499" facs="30_1976-04-12_0499.jpg"/>schlechtes gern, mit anderen Worten, selbst wenn bei der Lockheed-<lb/>
+Affaire was herauskommt, möchte man in der Bevölkerung davon nichts<lb/>
+wissen, sondern irgendwie dies vertuschen oder eben wegen Alter<lb/>
+sowieso in den nächsten Jahren in Pension schicken. Der zweite und<lb/>
+wichtigere Punkt war, dass die internationalen Konzerne in den Nie<lb break="no"/>derlanden hart attackiert werden. Zum Mittagessen waren der Direktor<lb/>
+der Unilever und von Philips geladen und mit ihnen unterhielt ich<lb/>
+mich über dieses Problem. Sie bestätigten den niederländischen<lb/>
+hohen Staatsbeamten, der jetzt in Den Haag im Aussenministerium ar<lb break="no"/>beitet, dass wir in Österreich hier eine andere Situation haben. Dies<lb/>
+nicht zuletzt deshalb, weil ich mich um eine objektive Geschäfts<lb break="no"/>führung des Ministeriums bemühe. Ich unterscheide, und dies erklärte<lb/>
+ich neuerdings, weder schlechte noch brave Unternehmer, ganz egal<lb/>
+ob sie <del>den</del> Multis oder ob sie österreichische Kapitalisten sind,<lb/>
+nicht nach ihrer Gesellschaftsform, sondern eben nach ihrem Ver<lb break="no"/>halten der österreichischen Regierung und der gesamten Bevölkerung<lb/>
+gegenüber. Beide Generaldirektoren bestätigten mir, dass diese Ein<lb break="no"/>stellung viel dazu beiträgt, dass die Mutterhäuser in Österreich<lb/>
+sehr gerne deshalb sich ausdehnen und expandieren und zusätzliche<lb/>
+Investitionen tätigen. Einmal mehr bestätigt sich meine Theorie dass<lb/>
+sich Wohlverhalten und gegenseitige Achtung ohne dass man Grund<lb break="no"/>sätze aufgeben muss, sehr wesentlich zur wirtschaftlichen Ver<lb break="no"/>besserung beitragen können.<lb/>
+</p>
+            <p xml:space="preserve">Die Besprechungen der Verbunddirektoren und der Betriebsräte aller<lb/>
+betroffenen Sondergesellschaften wegen Herabsetzung der Aufsichts<lb break="no"/>ratsmitglieder war zwar fraktionell, deswegen aber auch nicht sehr<lb/>
+einheitlich. Alle geben zu, dass wir die Aufsichtsräte reduzieren<lb/>
+können, sollen, ja sogar müssen. Leider wurde so viel Zeit ver<lb break="no"/>säumt, dass wir jetzt knapp vor der Ausschreibung der Hauptver<lb break="no"/>sammlungen nicht mehr zu einer Absprache mit der ÖVP und den Ländern<lb/>
+kommen können. Da ich aber unter gar keinen Umständen eine Gewalt<lb break="no"/>lösung möchte, hat <name type="person" ref="per:97333">Bandhauer</name> vorgeschlagen, man soll die derzeitigen<lb/>
+Aufsichtsräte automatisch verlängern. Man könne dann immer noch im<lb/>
+Juni oder Juli eine Hauptversammlung einberufen, wo man dann für<lb/>
+alle Sondergesellschaften in jeder einzelnen Hauptversammlung eine<lb/>
+entsprechende Reduktion vornimmt. Eine solche Vorgangsweise er<lb break="no"/>scheint mir nicht sehr zielführend. Vor allem musste ich feststellen,<lb/>
+dass die Kärntner nicht bereit waren, <name type="person" ref="per:98069">Erich Werner</name> noch einmal sein<lb/>
+Mandat auch nur kurzfristig zu verlängern. Ich halte es auch wirklich<lb/>
+<pb n="30-0500" facs="30_1976-04-12_0500.jpg"/>für sehr unzweckmässig. Aus diesem Grund soll jetzt geklärt<lb/>
+werden, wie weit <name type="person" ref="per:97461">Frühbauer</name>, der neue Präsident der Draukraftwerke<lb/>
+mit der anderen Seite schon Gespräche geführt hat, damit wir<lb/>
+auf alle Fälle, wenn schon nicht von 16 auf 11, so doch auf 14 den<lb/>
+Aufsichtsrat reduzieren. <name type="person" ref="per:98069">Werner</name> als SPÖ-Mann würde ausscheiden und<lb/>
+es bliebe dann der ÖVP überlassen, wem sie wegnimmt. Bei der Drau<lb/>
+wurde jahrelang nach 70 das Aufsichtsratsverhältnis mit 8 ÖVP-lern zu<lb/>
+7 SPÖ-lern akzeptiert. Erst durch die Zuwahl von Dr. <name type="person" ref="per:98040">Wais</name> aus meinem<lb/>
+Büro ist es geglückt ein Verhältnis 8:8 zu erreichen. Der Be<lb break="no"/>triebsrat <name type="person" ref="per:114714">Inthal</name>, aber auch sicherlich die Kärntner Partei verlangt<lb/>
+nun, dass auch im Aufsichtsrat die politischen Verhältnisse<lb/>
+wie sie derzeit herrschen, berücksichtigt werden. Damit ist klar.<lb/>
+das sie das Verhältnis, wenn es zu 11 Aufsichtsräten kommen sollte<lb/>
+wie <name type="person" ref="per:107937">Frank</name> vorschlägt, 6:5 für uns sein müsste. Da ist es aber not<lb break="no"/>wendig entsprechende Verhandlungen zu führen. Ich erklärte mich<lb/>
+mit jeder Lösung einverstanden, die keinen Krach auslöst. Mir ist<lb/>
+nur unerklärlich wie man so lange hat entsprechende Vorbesprechungen<lb/>
+Konferenzen, Betriebsräteaussprachen usw. geführt, ohne dass man<lb/>
+zeitgerecht fertig wurde.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:114508">TIEBER</name>: In Hinkunft auch den Terminkalender berück<lb break="no"/>sichtigen.</p>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> wollte vor der Aussprache mit <name type="person" ref="per:112568">Sadat</name> eine Vorbesprechung.<lb/>
+Staatssekretär <name type="person" ref="per:97511">Haiden</name> ist wegen dieser Sitzung extra von Tirol he<lb break="no"/>reingefahren. <name type="person" ref="per:97668">Kreisky</name> hat dann zwar keine Beamten, nicht einmal<lb/>
+<name type="person" ref="per:123732">Schober</name> vom Aussenamt, der sich in Vertretung von <name type="person" ref="per:97350">Bielka</name> meldete, zuge<lb break="no"/>zogen, wohl aber Gen.Dir. <name type="person" ref="per:97518">Haschek</name> und keine sonstigen Beamten.Kreisky<lb/>
+berichtete, dass er mit <name type="person" ref="per:112568">Sadat</name> besprochen hat, alles zu tun, damit<lb/>
+er entsprechende Unterstützung auch von Österreich bekommt. Ihm ist<lb/>
+es, wie <name type="person" ref="per:97668">Kreisky</name> sich ausdrückte, gelungen, <name type="person" ref="per:112568">Sadat</name> zu überzeugen,<lb/>
+dass er auch für die Bevölkerung sofort entsprechende Konsumgüter<lb/>
+beschaffen muss. Ähnlich wie in Polen will <name type="person" ref="per:97668">Kreisky</name> damit Überschuss<lb break="no"/>güter von Österreich dorthin exportieren. <name type="person" ref="per:97511">Haiden</name> erklärte sofort<lb/>
+er könne entsprechende Milchpulverlieferungen veranlassen. Die<lb/>
+Frage ist für mich immer nur, wer bezahlt es. Wir haben selbst<lb break="no"/>verständlich auch die Möglichkeit Getreide und Zucker zu exportieren.<lb/>
+Für Vieh und Fleisch glaubte ich, nur die Preise würden so ungünstig,<lb/>
+dass grosse Stützungen notwendig sind. Die Ägypter kaufen nämlich<lb/>
+ansonsten mit amerikanischer Unterstützung südamerikanisches<lb/>
+<pb n="30-0501" facs="30_1976-04-12_0501.jpg"/>Paketfleisch, d.h. Gefrierfleisch grösstenteils zur Verarbeitung<lb/>
+was eigentlich wesentlich billiger ist, als Österreichisches.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> meinte, 3.5 Mia. Schilling würde jetzt Ägypten von Kuwait<lb break="no"/>fonds, der ähnlich wie der ERP-Fonds bei uns als Entwicklungsfond aufge<lb break="no"/>baut werden sollte. Die Ägypter rechnen also fest damit, dass auch<lb/>
+Österreich sich mit einer Hilfslieferung beteiligt. Die Amerikaner<lb/>
+haben ihm 250 Mio Dollar zugesagt und auch die Deutschen werden<lb/>
+nach der Wahl entsprechende Beiträge leisten. Die Franzosen spezia<lb break="no"/>lisieren sich auf Waffenlieferungen. Österreich müsste nun in der<lb/>
+ägyptisch-österreichischen Gesellschaft 50 Mio Dollar Counterpart<lb/>
+bringen. <name type="person" ref="per:97668">Kreisky</name> meinte, da müsse man noch überlegen, ob die<lb/>
+Banken oder auch Gesellschaften, insbesondere die ÖIAG sich daran<lb/>
+beteiligen soll. <name type="person" ref="per:97668">Kreisky</name> war sehr erstaunt von <name type="person" ref="per:97518">Haschek</name> zu hören,<lb/>
+dass die Ägypter 1,8 Mia. Schilling bereits abgeschlossen haben<lb/>
+und daraus Obligo entstanden sind. 2,6 Mia. Schilling würden vier<lb/>
+Verträge ausmachen, die in absehbarer Zeit abgeschlossen werden.<lb/>
+Unter anderem das Tunnelprojekt mit 750 Mio. Weiters sind jetzt<lb/>
+in Besprechungen 4,6 Mia. Schilling-Verträge. Insgesamt würden<add>[?]</add> also<lb/>
+über 9 Mia. Schilling Kredite an Ägypten gewährt werden. <name type="person" ref="per:97668">Kreisky</name><lb/>
+meint nun, hier müsste <name type="person" ref="per:97518">Haschek</name> versuchen, dass auch die Ägypter<lb/>
+wesentliches dazu beitragen. Ich selbst kann nur immer wieder unter<lb break="no"/>streichen, dass ich mich mit der Finanzierung nie beschäftigt habe<lb/>
+und nie beschäftigen werde. Dies ist reine Kompetenz des Finanzminis<lb break="no"/>ters, der darauf grössten Wert legt. Schön langsam müsste er sich<lb/>
+nämlich den Kopf zerbrechen, wie die Kredite, die wir jetzt mit Staats<lb break="no"/>garantie den Osten, aber jetzt auch dann Ägypten geben, jemals zu<lb break="no"/>rückbezahlt werden. Ich bin fest davon überzeugt, dass früher oder<lb/>
+späte die Garantien fällig werden. Dann muss im Budget entsprechend<lb/>
+zur Abdeckung vorgesorgt werden.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Besprechung hat <name type="person" ref="per:112568">Sadat</name> gebeten, man soll jetzt bilaterale<lb/>
+ägyptisch-österreichische Probleme erörtern. Ägypten befindet sich<lb/>
+in einer Krise. <name type="person" ref="per:112568">Sadat</name> hat 6 arabische Länder besucht, bevor er<lb/>
+nach Europa ging.Diese haben ihm jetzt einen Entwicklungsfond für<lb/>
+5 Jahre versprochen. Daran beteiligen wird sich Saudi-Arabien.<lb/>
+die Golfstaaten, Kuweit, Katar und Bahrain. Mit der Gemischten<lb/>
+Gesellschaft mit jeweils 50 Mio Dollar ägyptischer und 50 Mio Dollar<lb/>
+österreichischerseits könnte Österreich das Tor zu Europa sein.<lb/>
+Er möchte unter allen Umständen, dass Österreich viel stärker in<lb/>
+Erscheinung tritt als bis jetzt. Die Projekte ägyptischerseits haben<lb/>
+folgende Priorität: Erstens Agrarprodukte, um die Bevölkerung besser<lb/>
+<pb n="30-0502" facs="30_1976-04-12_0502.jpg"/>zu versorgen, zweitens alle Notwendigkeiten, die sich durch die Ver<lb break="no"/>tragskündigung mit der UdSSR ergeben und drittens Wiederaufbau<lb/>
+Infrastruktur, Siedlungen und Städte und ganz besonders der Tunnel.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> erwiderte zu Punkt 1, dass wir dort wo eine quasi öffent<lb break="no"/>liche Bewirtschaftung erfolgt helfen könnten. Er forderte <name type="person" ref="per:97511">Haiden</name> auf<lb/>
+zu berichten. Dieser meinte, ausser Milchpulver käme doch auch noch<lb/>
+Getreide und Zucker sowie Rindfleisch und Schlachtrinder in Be<lb break="no"/>tracht. <name type="person" ref="per:97668">Kreisky</name> meinte beim letzteren, sofort meinen Einwand, wenn<lb/>
+dies preislich einigermassen geht. <name type="person" ref="per:97511">Haiden</name> erwähnte dann noch die<lb/>
+Musterfarm und empfahl auch noch eine Besamungsstation. Schnitt<lb break="no"/>holzexporte könnten die Staatsforste direkt mit Ägypten abschliessen<lb/>
+Auf diesen Vorschlag ist allerdings gar niemand eingegangen. Zum<lb/>
+Punkt 2, Kündigung des Freundschaftsvertrages mit der UdSSR und<lb/>
+dadurch halbfertige Anlagen meinte <name type="person" ref="per:97668">Kreisky</name>, man würde eine Delegation<lb/>
+österreichischer Fachleute schicken. Zu Punkt 3, Wiederaufbau und<lb/>
+Infrastruktur, sei am weitesten fortgeschritten und er ersuchte mich<lb/>
+die Projekte zu erläutern. <name type="person" ref="per:112568">Sadat</name> wies immer wieder darauf hin,<lb/>
+dass wir schnell im Einzelfall das Projekt abwickeln sollten. So<lb/>
+fragte er <name type="person" ref="per:140592">Osman</name>, warum der Tunnel noch immer nicht im Auftrag ge<lb break="no"/>geben ist. <name type="person" ref="per:140592">Osman</name> erklärte, er müsse die internationale Jury fragen,<lb/>
+da sich 7 Länder beworben haben, Österreich aber jetzt an der Spitze<lb/>
+liegt. <name type="person" ref="per:112568">Sadat</name> meinte so schnell als möglich beginnen. Vizepr. <name type="person" ref="per:112982">Sultan</name><lb/>
+verwies auch auf die Möglichkeit einer Kooperation und joint venture<lb/>
+bezüglich Elektroausrüstungen wie Kabel, Schalter usw. Ich erklärte,<lb/>
+dass wir dieses Projekt Samstag zum ersten mal gehört haben und dass<lb/>
+wir jetzt die Firmen davon verständigen werden. <name type="person" ref="per:113383">Zaki</name>, unser Über<lb break="no"/>setzer, hörte, wie <name type="person" ref="per:112568">Sadat</name> und <name type="person" ref="per:112982">Sultan</name> dann sprachen und meinten auch<lb/>
+Jugoslawien hätte sich bereiterklärt, für diese Kooperationen und<lb/>
+joint venture sehr interessiert, die werden aber jetzt zurückge<lb break="no"/>stellt, wenn Österreich dies macht.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97819">PLESCH</name>: Bitte über Fachreferat und ganz besonders<lb/>
+<name type="person" ref="per:108322">Meisl</name><add>-&gt; WAIS</add> die entsprechenden Schritte sofort unternehmen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> erörterte die neue ägyptisch-österreichische Gesellschaft<lb/>
+Er meinte, dies müsse eine Relaisstation sein, die eine bankähnliche<lb/>
+Institution ist, die aber auch Planung und Vermittlung von Plänen<lb/>
+und vor allem aber auch die Verwirklichung der Projekte durch<lb/>
+diese Gesellschaft garantieren soll. <name type="person" ref="per:112568">Sadat</name> betonte neuerdings<lb/>
+die 50 Mio. Dollar würden die Ägypter sofort zur Verfügung stellen<lb/>
+<pb n="30-0503" facs="30_1976-04-12_0503.jpg"/>und sie wären bereit allen Überfluss an Produkten, die wir haben<lb/>
+sofort abzunehmen.<lb/>
+</p>
+            <p xml:space="preserve">Anschliessend sollten <name type="person" ref="per:112568">Sadat</name> und <name type="person" ref="per:97668">Kreisky</name> eine Pressekonferenz und<lb/>
+insbesondere eine Fernsehübertragung machen. Beide kamen dann<lb/>
+aber, als sie beim Fernsehen, wo <name type="person" ref="per:140592">Osman</name> und ich bereits sassen,<lb/>
+vorüberkamen, und erklärten übereinstimmend, dieses Geschäft sollen<lb/>
+die Beiden machen. Ich konnte natürlich nur über die Projekte<lb/>
+die im einzelnen von mir auch bei der Sitzung bereits erör<lb break="no"/>tert wurden globale Informationen geben und habe ganz besonders auf<lb/>
+die Idee <name type="person" ref="per:97668">Kreiskys</name> mit der Gemischten Gesellschaft, die die Finan<lb break="no"/>zierung durchführen müsste, verwiesen. Was mir unerklärlich ist,<lb/>
+wie die finanzielle Abwicklung in Hinkunft stattfinden soll. Die<lb/>
+Ägypter werden teils Kredite, die sie von den arabischen Staaten<lb/>
+haben einsetzen, grösstenteils aber damit rechnen, dass wir ihnen<lb/>
+die entsprechende finanzielle Hilfe gewähren. Die Rückzahlung oder<lb/>
+wie <name type="person" ref="per:97518">Haschek</name> zwar falsch, aber treffend sagt, der Cashflow muss<lb/>
+erst mit Ägypten mit ihm vereinbart werden. Da sich Dr. <name type="person" ref="per:113383">Zaki</name>, unser<lb/>
+Übersetzer und, wie ich glaube, auch<add>[ein]</add> äusserst guter, ökonomisch ge<lb break="no"/>bildeter Mann mit besten Beziehungen zu Ägypten, für diese Gemischte<lb/>
+Gesellschaft interessiert, werde ich versuchen ihn näher mit<lb/>
+<name type="person" ref="per:97518">Haschek</name> in Kontakt zu bringen. Die beste Lösung wäre, wenn er ge<lb break="no"/>meinsam mit <name type="person" ref="per:97518">Haschek</name> nach Ägypten fahren könnte.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108322">MEISL</name>: Bitte um Ihre Vorstellungen.<lb/>
+</p>
+            <p xml:space="preserve">Abends war mit 3 Lagen vorgesehen, die Ägypter in die so gewünschte<lb/>
+Oper zu bringen. Zu meiner grössten Verwunderung ist dann weder<lb/>
+<name type="person" ref="per:112982">Sultan</name>, noch <name type="person" ref="per:140592">Osman</name> mit seiner Frau, noch <name type="person" ref="per:142068">Chafei</name> gekommen. Die<lb/>
+Ägypter teilten mir dann mit, sie müssten bei <name type="person" ref="per:112568">Sadat</name> bleiben, weil<lb/>
+dieser eine Besprechung mit ägyptischen Journalisten überraschend<lb/>
+einberufen hatte. Vielleicht war der grosse Fehler, dass nicht<lb/>
+gleichzeitig auch von uns die Frau <name type="person" ref="per:112568">Sadat</name> für die Oper eingeladen<lb/>
+wurde. Dabei war sowieso ein grosser Fehler passiert. Die Opern<lb break="no"/>karten wurden dem ägyptischen Protokoll von MR <name type="person" ref="per:97801">Ottahal</name> übergeben,<lb/>
+der wusste nichts von den Vereinbarungen und den Wünschen der<lb/>
+Wirtschaftsminister und wollte die Karten dann nach irgendwelchen<lb/>
+Protokollgesichtspunkten verteilen. Im Endeffekt wäre es aller<lb break="no"/><pb n="30-0504" facs="30_1976-04-12_0504.jpg"/>dings ganz egal gewesen, weil die Minister und Staatssekretäre,<lb/>
+die ich eingeladen hatte und die kommen wollten, sowieso nicht kommen<lb/>
+konnten. Mit Ägyptern ist es wirklich schwer irgendwelche Verein<lb break="no"/>barungen zu treffen. Alles wird dort scheinbar immer improvisiert.<lb/>
+Ich habe nichts gegen Improvisation, im Gegenteil ich<lb/>
+handhabe dieses System auch meistens. Voraussetzung dafür ist nur, dass auch<lb/>
+beim Improvisieren ein gewisses System herrscht. Dies habe ich bei den Ägyptern<lb/>
+grösstenteils vermisst. Sowohl bei meinem Besuch als auch bei der Anwesenheit<lb/>
+von 3 Ministern, die ich jetzt schon Gelegenheit gehabt habe, manche sogar<lb/>
+schon zwei-mal in Österreich zu empfangen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="30_0495_01" facs="30_1976-04-12_0495-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 12.4.1976</head>
+         </div>
+         <pb n="30_0495_02" facs="30_1976-04-12_0495-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

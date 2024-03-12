@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Montag, der  5. Oktober 1970</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Joseph Staribacher</collection>
+                  <idno type="signature">Band03_1970-10-05</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1970-10-05">Montag, 5. Oktober 1970</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-04-21">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-02-27" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+  <text xml:base="http://192.168.0.9/staribacher/src/scans/Band03/">
+      <body>
+         <pb n="03-0609" facs="03_1970-10-05_0609.jpg"/>
+         <div type="entry">
+            <dateline>
+               <date when="1970-10-05">Montag. 5. Oktober 1970</date>
+            </dateline>
+            <p xml:space="preserve">Der Kreditschutzverband 1870 feierte sein 100-jähriges Bestehen<lb/>
+und gleichzeitig den zweiten internationalen Kongress. Ich wurde<lb/>
+aufgefordert, eine Ansprache neben <name type="person" ref="per:97372">Broda</name> zu halten, die Festansprache<lb/>
+hielt der Bundespräsident. Der Finanzminister, welcher ebenfalls ein<lb break="no"/>geladen war, hatte sich gleichfalls auch eine Rede vorbereitet und<lb/>
+zu seiner grössten Verwunderung war er in der Tagesordnung nicht als<lb/>
+Redner aufgenommen. Die Organisatoren wollten ihn noch irgendwo ein<lb break="no"/>schieben, aber er sagte mit Recht, das kommt nicht in Frage. Ich hatte<lb/>
+mir seine Rede angesehen und erklärte sofort, da ich ja sowieso meine<lb/>
+als freisprechend nur skizzenhaft festgelegt hatte, dass ich den grös<lb break="no"/>sten Teil davon in meine Rede einbauen würde. <name type="person" ref="per:97311">Androsch</name> sagte, dass er<lb/>
+ja diese nicht selbst gemacht, sondern von der Abteilung übernommen<lb/>
+hatte, doch stehe ich auf dem Standpunkt, es war zweifelsohne ein<lb/>
+grosser organisatorischer Fehler von Seiten des Kreditschutzverband<lb/>
+weshalb ich vielleicht sogar zu seinem Trost einen Teil seiner <lb/>
+Rede übernahm. Ich glaube, ich sollte es mir überhaupt leichter m<lb break="no"/>achen und bei solchen festlichen Veranstaltungen die Rede einfach<lb/>
+herunterlesen, wie das alle anderen auch machen. Erstens verspricht<lb/>
+man sich nicht und hat eine richtige Satzstellung und zweitens<lb/>
+gibt dies vielleicht sogar für <name type="person" ref="per:97646">Koppe Fritzl</name> viel weniger Arbeit<lb/>
+als jetzt mir die Rede im einzelnen durchzusprechen.</p>
+            <p xml:space="preserve">Da <lb/>
+im Ministerrat am Dienstag zwei wichtige Sozialgesetze beschlossen <lb/>
+werden, nämlich vom BM f. Justiz das Angestelltengesetz, welches <lb/>
+die Abfertigung vorsieht bei Frühpension für die weiblichen Dienst<lb break="no"/>nehmer auch bei Eheschliessung und Geburt eines Kindes, wie vom<lb/>
+Sozialministerium, dass die Überstundenzuschläge mit 50 % fest<lb break="no"/>legen, suchte ich <name type="person" ref="per:97769">Mussil</name> resp. <name type="person" ref="per:97893">Sallinger</name> zu erreichen. <name type="person" ref="per:97893">Sallinger</name><lb/>
+konnte aber nicht einmal telefonisch erreicht werden, nur <name type="person" ref="per:97769">Mussil</name><lb/>
+rief mich dann an und ich sagte ihm, die Tagesordnung. Er selbst mein<lb break="no"/>te sofort, dagegen müsste ich im Ministerrat Einspruch erheben, d.h.<lb/>
+wenn ich wirklich dagegen wäre, könnten diese Gesetze nicht die<lb/>
+Regierung passieren. Ich erklärte ihm sofort, dass ich dies unter gar<lb/>
+keinen Umständen machen würde, er selbst, bin ich überzeugt, hat es<lb/>
+auch nicht ernst gemeint, sondern wird nur im Parlament dann sicherlich<lb/>
+mich wegen dieser Haltung angreifen. Da wir diese Gesetze im Hause<lb/>
+nicht einmal – soferne die Begutachtung abgeschlossen haben und<lb/>
+wir die Stellungnahmen ja nicht an das Justiz- bzw. Sozialmini<lb break="no"/>sterium weitergeleitet haben, wird auch dieser Tatbestand von ihm<lb/>
+<pb n="03-0610" facs="03_1970-10-05_0610.jpg"/>wenn er ihn bemerkt, verwendet werden im Parlament. Ich glaube, dass<lb/>
+es sehr zweckmässig ist, dass ich unbedingt versuchte, mit ihm Kontakt<lb/>
+aufzunehmen, sonst hätte er dies als einen illoyalen Akt betrachtet.<lb/>
+Bei der Gelegenheit schlug ich ihm gleich vor, wir müssten uns einen<lb/>
+jour fix machen, denn ansonsten besteht die Gefahr, dass er doch über<lb/>
+wichtige Fragen nicht informiert ist.</p>
+            <p xml:space="preserve">Mit Senatsrat <name type="person" ref="per:97584">Jagoda</name> hatte ich die erste persönliche Aussprache. <name type="person" ref="per:97543">Heindl</name><lb/>
+hatte ja vorgefühlt, ob er bereit wäre, gegebenenfalls die Sektion von<lb/>
+<name type="person">Habel</name>, der heuer in Pension geht, zu übernehmen. Er erklärte unumwunden,<lb/>
+dass ihn die Aufgabe sehr interessiert, aber er doch auf alle Fälle<lb/>
+keinen finanziellen Nachteil erleiden möchte. <name type="person" ref="per:97543">Heindl</name> wird nun mit den<lb/>
+entsprechenden Stellen, das ist die Gewerkschaft, aber vor allem auch<lb/>
+das Bundeskanzleramt, Fühlung aufnehmen, damit die Vorbereitungen so<lb/>
+getroffen werden können, dass er frühestmöglich ins Ministerium kommen<lb/>
+kann. Für <name type="person">Habel</name> habe ich vorgesehen, dass wir ihm einen Werksvertrag<lb/>
+geben, damit er sein Lebenswerk, die Gewerbeordnung, vielleicht doch<lb/>
+noch zu einem positiven Abschluss führen kann. Ich nützte die Be<lb break="no"/>sprechung am Abend, um <name type="person" ref="per:97668">Kreisky</name> von meinem Vorhaben zu informieren und<lb/>
+auch von <name type="person" ref="per:97963">Slavik</name> die Zustimmung zu bekommen. Beide waren damit einver<lb break="no"/>standen, <name type="person" ref="per:97668">Kreisky</name> meinte nur, eine Ausschreibung käme nicht inFrage,<lb/>
+da doch dann die anderen Minister zu sehr präjudiziert bei Berufungen<lb/>
+wären.</p>
+            <p xml:space="preserve">Bei der Ministeratsvorbesprechung kam <name type="person" ref="per:97668">Kreisky</name> insbesondere auf die Pro<lb break="no"/>blematik der Wehrzeitverkürzung zu sprechen. <name type="person">Gailbreight</name> hat ein<lb/>
+Buch über Generäle geschrieben, er konnte es nur nicht finden, da sein<lb/>
+Sohn es ihm entwendet hat, wo er die Generäle als eine berufliche Defor<lb break="no"/>mationsgruppe bezeichnet. Nach seiner Meinung wird es zu einer harten<lb/>
+Auseinandersetzung mit der Berufsmilitärs kommen, aber er steht auf<lb/>
+dem Standpunkt und auch ich muss jetzt sagen, das ist jetzt dringend<lb/>
+notwendig, einmal festzustellen, dass auch Generäle nichts anderes sind<lb/>
+als weisungsgebundene Beamte wie die anderen Sektionschefs und Ministe<lb break="no"/>rialräte in den Ministerien. Die Gesetzesänderung, die <name type="person">Freihsler</name> vorge<lb break="no"/>sehen hat, wird so vorbereitet, dass es am 13.11. nach Passierung des<lb/>
+Landesverteidigungsrates im Nationalrat eingebracht wird. Die Idee der<lb/>
+Neutralistätsschutztruppe, die erst nach den Wahlen aufgetaucht ist<lb/>
+und jetzt fast die Heeresreform ummöglich macht, weil eben angeblich<lb/>
+10 – 12.000 Soldaten jederzeit einsatzbereit sein müssen, ist eine sehr<lb/>
+unglückliche.</p>
+            <pb n="03-0611" facs="03_1970-10-05_0611.jpg"/>
+            <p xml:space="preserve">Wenn nämlich die Einsatznotwendigkeit wirklich in der Ausbildungszeit<lb/>
+kommt, dann müsste halt wie dies bereits bei der Hochwasserkatastrophe<lb/>
+in Kärnten und wie dies bei der Tschechenkrise der Fall gewesen ist,<lb/>
+gegebenenfalls allerdings derzeit kontra lege der Bundespräsident<lb/>
+ersucht werden, die Heeresleistung um jeweils 14 Tage oder 3 Wochen<lb/>
+zu verlängern, damit dann neue Truppenteile von schon abgerüsteten Ein<lb break="no"/>heiten wieder mobilisiert werden könnten. Die Hauptschwierigkeit liegt<lb/>
+nach Meinung <name type="person" ref="per:97879">Rösch</name> darin, dass der grösste Teil der Offiziere inm höc<lb break="no"/>hsten Generalstab vollkommen unfähige Leute sind. Scheinbar stehen diese<lb/>
+auf dem Standpunkt, die politische Entscheidung interessiert sie nicht<lb/>
+sie müssten jetzt unter allen Umständen ihr Konzept durchsetzen. Die<lb/>
+Hauptschwierigkeit besteht derzeit darin, das Kaderpersonal einiger<lb break="no"/>massen zu halten, von einem Aufbau und Ausbau kann sowieso keine Rede<lb/>
+sein. Sie glauben nun, dass eine entsprechend hohe Bezahlung dies<lb/>
+ermöglichen würde. Dagegen muss aber die Regierung schon aus gewerkschafts<lb/>
+paktischen und personalpolitischen Sicht gegenüber den anderen Bundes<lb break="no"/>bediensteten grösste Vorsicht an den Tag legen. Letzten Endes sind die<lb/>
+Längerdienenden keine besonders hoch qualifizierten Leute, sondern<lb/>
+meistens doch Bauernburschen oder Hilfsarbeiter, die eben auf dem<lb/>
+Standpunkt stehen, na geh ich halt zum Militär. Wenn diese nun ent<lb break="no"/>sprechend besser bezahlt werden als z.B. vielleicht Gendarmerie-, Poli<lb break="no"/>zeieinheiten oder auch womöglich noch die Lehrer, dann kann man sich<lb/>
+vorstellen, was das auf die einzelnen anderen Gruppen für Rückwirkungen<lb/>
+haben müsste.</p>
+            <p xml:space="preserve">Spät abends fragte ich noch <name type="person" ref="per:97668">Kreisky</name> und <name type="person" ref="per:97879">Rösch</name>, was es mit der Behauptung<lb/>
+dass wir der Nato gegenüber verpflichtet wären, 10.000 Mann stets ein<lb break="no"/>satzbereit halten zu müssen, für eine Bewandtnis hätte. Sowohl <name type="person" ref="per:97879">Rösch</name><lb/>
+als <name type="person" ref="per:97668">Kreisky</name> erklärten, dass eine solche Verpflichtung nicht existiert,<lb/>
+sondern in der Koalitionszeit die damaligen Heeresminister, ich glaube<lb/>
+es war <name type="person" ref="per:97917">Schleinzer</name>, das Konzept hatten, gegebenenfalls bei der engsten<lb/>
+Stelle Österreichs, das ist bei Zell am See, eine Verteidigungslinie auf<lb break="no"/>zubauen, die dann von den Nato-Kräften ebenfalls gehalten werden würde,<lb/>
+wenn es zu einem Angriff aus dem Osten käme. Dieses Wehrkonzept wurde<lb/>
+von den Sozialisten auf das Entschiedenste seit eh und je bekämpft<lb/>
+und es wurde eben festgehalten, dass Österreich an den Grenzen zu<lb/>
+verteidigen ist. Auf alle Fälle hat die schwierige Situation mit den<lb/>
+Offizieren dazu geführt, dass unser Freund <name type="person">Freihsler</name> jetzt einen der<lb break="no"/>artigen gesundheitlichen Zustand erreicht hat, dass es sich in Spital<lb break="no"/>pflege begeben muss. Da er zuckerkrank ist, bedarf er nicht nur einer<lb/>
+<pb n="03-0612" facs="03_1970-10-05_0612.jpg"/>Durchuntersuchung sondern muss auch sich einstellen lassen. Dies<lb/>
+erklärte <name type="person" ref="per:97668">Kreisky</name> bei der Ministerratsvorbesprechung. Der Sekretär<lb/>
+von <name type="person">Freihsler</name> allerdings teilte <name type="person" ref="per:97543">Heindl</name> mit, dass er in einem derart<lb/>
+körperlich und psychischen Zustand ist, dass er nach seiner Meinung<lb/>
+gar nicht mehr wird aktiv in Erscheinung treten.</p>
+            <p xml:space="preserve">Die Tagesordnung für den Ministerrat beinhaltet auch einen Bericht von<lb/>
+<name type="person" ref="per:97442">Firnberg</name>, wonach sie ein Verbot für Entlehnung bestimmter Museal<lb break="no"/>objekte listenmässig von der Bundesregierung beschliessen lassen will.<lb/>
+<name type="person" ref="per:97372">Broda</name> steht auf dem Standpunkt, dass dies keine Kompetenz der Bundes<lb break="no"/>regierung sei und <name type="person" ref="per:97668">Kreisky</name> schloss sich dem an. Bezüglich des Berichtes<lb/>
+von <name type="person" ref="per:97461">Frühbauer</name> über Beistellung von Bundesmitteln für den Anteil der<lb/>
+österreichischen Elektrizitätswirtschaft – Verbundgesellschaft am<lb/>
+ersten österreichischen Kernkraftwerk vorsah, dass 1972 100 Mill.<lb/>
+1973 150, 1974 150 und 1975 200 Mill. Kapitalaufstockung durchgeführt<lb/>
+werden sollte, wurde beschlossen, diesen Antrag zurückzuziehen. Die<lb/>
+Bundesregierung soll sich aus zwei Gründen nicht bereits jetzt binden.<lb/>
+<name type="person" ref="per:97311">Androsch</name> meint, dass dann die Verhandlungen zwischen Verbundgesellschaft<lb/>
+und Ranshofen kaum zu einem positiven Ergebnis kommen würden. Ranshofen<lb/>
+braucht für seine Aluminiumerzeugung einen wesentlich geringeren Strom<lb break="no"/>preis als derzeit mit 19,75 Groschen pro Kwh bezahlen muss. Ich, aber auch<lb/>
+<name type="person" ref="per:97311">Androsch</name> wehrten sich dann, da es zweckmässig ist, mit 600 Megawatt über<lb break="no"/>haupt das Kernkraftwerk zu errichten. Für ein grösseres Kernkraftwerk<lb/>
+ergeben sich zwei grosse Schwierigkeiten. Erstens ist die Bedarfsplanung<lb/>
+nur auf 600 MW ausgerichtet und zweitens wird bei einem ca. 2 -monatigen<lb/>
+Stillstand pro Jahr die Ersatzlieferung dann fast unlösbar, wenn es<lb/>
+sich um eine noch grössere Einheit handelt. Trotzdem glaube ich sollten<lb/>
+hier noch entsprechende Möglichkeiten in Erwägung gezogen werden, bevor<lb/>
+man endgültig das 600 MW-Projekt verwirklicht. Die ÖVP-Alleinregierung<lb/>
+hat nur eine schriftliche Mitteilung von <name type="person">Weiss</name> über eine Verwendungszusage<lb/>
+der Verbundgesellschaft gegeben. Auch <name type="person" ref="per:97461">Frühbauer</name> wird nur in einem<lb/>
+Brief an die Verbundgesellschaft ebenfalls die Kapitalaufstockung im<lb/>
+Prinzip zusagen.</p>
+            <p xml:space="preserve">Sekt.Chef. <name type="person" ref="per:97601">Jiresch</name> wollte wissen, ob die Bundesregierung zum Nationalfeier<lb break="no"/>tag zu Gedenkgottesdiensten auffordern wird. <name type="person" ref="per:97668">Kreisky</name> meinte, dies sei<lb/>
+unzweckmässig, aber wenn es zu Gedenkgottesdiensten käme, dann würde die<lb/>
+Bundesregierung selbstverständlich geschlossen daran teilnehmen.</p>
+            <pb n="03-0613" facs="03_1970-10-05_0613.jpg"/>
+            <p xml:space="preserve">Eine historische Kommission sollte die Dreissigerjahre endlich vom<lb/>
+Parteienhader befreit untersuchen, um festzustellen, wie die geschicht<lb break="no"/>liche Entwicklung damals wirklich gewesen ist. Zu diesem Zweck wird<lb/>
+die Bundesregierung 250.000 S einer Stiftung geben, wenn die Kunschak-<lb/>
+Stiftung 50.000 und die Körnerstiftung ebenfalls 50.000 zu dieser<lb/>
+historischen Arbeit beischiesst. Seinerzeit hat die Bundesregierung<lb/>
+in der Koalitionszeit eine Untersuchung der Widerstandsbewegung in<lb/>
+der Nazi-Zeit subventioniert und verlangt, die allerdings von der<lb/>
+Volkspartei in den vergangenen vier Jahren gestoppt wurde.</p>
+            <p xml:space="preserve"><name type="person" ref="per:97488">Gratz</name> wollte gerne den Opernball liberalisieren und den Frackzwang <lb break="no"/>dadurch aufheben, dass er nur Abendkleidung vorschreibt. Ich brüllte<lb/>
+sofort heraus, wer am Opernball gehen will, soll ruhig Frack tragen,<lb/>
+wenn ich gehen würde, ginge ich höchstens mit einem schwarzen Anzug.<lb/>
+Ich glaube, die Entscheidung, die dann fiel, ist richtig, der Opern<lb break="no"/>ball ist eine so exklusive Veranstaltung, dass wer immer daran teil<lb break="no"/>nehmen will, müsste auch Frack tragen und es sollte keine wie immer<lb/>
+geartete Änderung dort versucht werden.</p>
+            <p xml:space="preserve">Der russische Botschafter <name type="person">Bozderob</name> hatte beim Aussenminister wegen<lb/>
+des sudetendeutschen Tages in Klosterneuburg schärfsten Protest ein<lb break="no"/>gelegt und erklärt, die Sowjetunion würde sich überlegen, ob in Zukunft<lb/>
+internationale Kongresse in Österreich durchgeführt werden. Ebenso sprach<lb/>
+er sich ganz entschieden gegen die Demonstration, wonach Juden aus der<lb/>
+Sowjetunion auswandern sollten, aus. Er beschwerte sich insbesondere<lb/>
+dass bedeutende Persönlichkeiten, wie z.B. <name type="person" ref="per:97346">Benya</name>, <name type="person" ref="per:97845">Probst</name> und viele<lb/>
+andere den Aufruf unterschrieben hatten. Die Bundesregierung stellte<lb/>
+eindeutig fest, dass wir uns zwar als Bundesregierung an solchen<lb/>
+Aktionen nicht beteiligen werden, dass aber jeder einzelnen Staats<lb break="no"/>bürger in Österreich das Recht hat, seine Meinung auszudrücken und<lb/>
+wir uns von niemandem auch nur die geringste Vorschrift machen lassen.<lb/>
+Im UNO-Trakt Österreich in den Sicherheitsrat aufzustellen. könnte<lb/>
+eine sehr positive Lösung erreicht werden. Da ja nicht zu rechnen ist,<lb/>
+dass bei der ersten Kandidatur der Staat gleich durchkommt, so beweist<lb/>
+er, wenn er dann seine Kandidatur zurückzieht, erstens eine entsprechen<lb/>
+de Solidarität der westlichen Gruppe gegenüber, dies wurde auch aner<lb break="no"/>kannt, und zweitens, dass sich gewisse Staaten das nächsten Mal dann<lb/>
+für ihn besonders einsetzen werden. Dies ist derzeit Frankreich, die</p>
+            <p xml:space="preserve">Türkei, Italien, Belgien und Spanien.</p>
+            <pb n="03-0614" facs="03_1970-10-05_0614.jpg"/>
+            <p xml:space="preserve"><name type="person" ref="per:97525">Häuser</name> wollte wissen, ob alle Bundesministerien, den ÖVP-<lb/>
+Pressedienst, der 600 S pro Monat kostet, abbestellt hatten. Wir kamen<lb/>
+allerdings überein, dass jeder einzelne Minister dies nach seinem<lb/>
+eigenen Ermessen tun sollte. <name type="person" ref="per:97311">Androsch</name> verlangte, dass endlich jetzt<lb/>
+bei den Buchhaltungen die Ausgaben über die Öffentlichkeiten in den<lb/>
+Details festgestellt werden müssten. Nach seinen bisherigen Unterlagen<lb/>
+erscheint es z.B. immer wieder interessant, wer die entsprechenden Auf<lb break="no"/>träge bekommen hat. Angeblich waren in einzelnen Ministerien ausschliess<lb break="no"/>lich die Druckerei <name type="person">Wimmer</name>, die <name type="person" ref="per:97714">Maleta</name> gehört, an dieser Öffentlichkeits<lb break="no"/>arbeit beteiligt.</p>
+            <p xml:space="preserve">Bei der abendlichen Besprechung zwischen Regierungsmitgliedern und Ge<lb break="no"/>werkschaftsfraktionspitzenfunktionäre kam selbstverständlich das Problem<lb/>
+des Reststimmenmandates zur Debatte. Nicht wer dieses Mandat bekommen<lb/>
+sollte, sondern ob wir dieses Mandat überhaupt erhalten können. <name type="person" ref="per:97525">Häuser<lb/>
+Rudi</name> hat eine Berechnung aufgestellt, wonach wir mit grösster Wahr<lb break="no"/>scheinlichkeit ein solches Mandat nicht bekommen werden. Ich selbst<lb/>
+konnte dann als <name type="person" ref="per:97879">Rösch</name> die Reststimmenmandatsaufteilung vom letzten Mal<lb/>
+zur Verfügung stellte, dass die grosse Gefahr besteht, dass wir wirklich<lb/>
+dieses Reststimmenmandat nicht bekommen. <name type="person" ref="per:97668">Kreisky</name> sagte in seiner launigen<lb/>
+Art, es ist halt so, <name type="person" ref="per:97985">Staribacher</name> ist wirklich der Unker vom Dienst, ich<lb/>
+selbst sage immer dann der U V D weil ich immer das Negative besonders<lb/>
+herausstreiche. Ich selbst stehe allerdings auf dem Standpunkt, besser<lb/>
+auf das Schlechteste gefasst zu sein und dann angenehm überrascht zu<lb/>
+werden. Die Hoffnung, dass wir dieses Reststimmenmandat doch behalten,<lb/>
+besteht nur darin, dass das letzte Mal im März die Wahlkartenwähler<lb/>
+die Skifahrer gewesen sind und dass es diesmal die Ausgesiedelten und<lb/>
+Umgesiedelten sind, die Wahlkarten sich genommen haben und dass wir<lb/>
+doch hoffen können, dass hier ein grösserer perzentueller Ansatz als<lb/>
+dies das letzte Mal der Fall war, sozialistisch wählen werden, rsp.<lb/>
+die Freiheitlichen nicht die grosse organisatorische Kraft gehabt haben,<lb/>
+ihre potentiellen Wähler als Wahlkartenwähler tatsächlich zu mobili<lb break="no"/>sieren.</p>
+         </div>
+      </body>
+      <back>
+         <pb n="03_0608_01" facs="03_1970-10-05_0608-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 5.10.1970</head>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+  </text>
+</TEI>

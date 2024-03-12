@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstag, der 13. Mai 1980</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band54_1980-05-13</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1980-05-13">Dienstag, 13. Mai 1980</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2017-11-13">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="54-0599" facs="54_1980-05-13_0599.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Dienstag, 13. Mai 1980<lb/>
+</p>
+            <p xml:space="preserve">Der ARBÖ hat wieder 3 Autos voll ARBÖ-Österreich-Prospekten<lb/>
+mit Landkarten und Gemeindepropaganda in die BRD geschickt.<lb/>
+Da das Handelsministerium dazu grössere Subventionen gibt,<lb/>
+ersuchen sie mich immer, diese Aktion feierlich zu eröffnen.<lb/>
+Bei dieser Gelegenheit erfuhr ich, dass das ARBÖ-Reise<lb break="no"/>büro sich sehr gut entwickelt. Heuer rechnen sie bereits mit<lb/>
+40 Mio S Umsatz.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Warum soll unsere Subvention erst im Herbst<lb/>
+für die Atlanten gegeben werden?<lb/>
+</p>
+            <p xml:space="preserve">Vor dem Ministerrat hat mich Sozialminister <name type="person" ref="per:98063">Weissenberg</name> wegen des<lb/>
+Zuschusses der ÖFVW von 30.000 S für seinen Empfang in Genf gefragt,<lb/>
+ob wir diesen Betrag bezahlen können. Ich habe dies, nachdem<lb/>
+Dr. <name type="person" ref="per:111736">Zolles</name> der ÖFVW mir erklärte, der Rechnungshof würde dies<lb/>
+sofort beanstanden, entschieden abgelehnt. Auch der Aussenminister<lb/>
+<name type="person" ref="per:108328">Pahr</name> erklärte sich ausserstande, diesen Empfang zu finanzieren.<lb/>
+Als Vorsitzender der ILO muss aber einen Empfang für die 2–3.000<lb/>
+Teilnehmer <name type="person" ref="per:98063">Weissenberg</name> auf alle Fälle geben. Gibt die ÖFVW keinen<lb/>
+Zuschuss, wird der Empfang nur im üblichen Rahmen gehalten. Solche<lb/>
+Empfänge hat <name type="person" ref="per:98063">Weissenberg</name> zu Dutzenden erlebt, er erinnert sich<lb/>
+sehr genau, dass wenn z.B. die Spanier dort ihren Wein kredenzten,<lb/>
+alle Delegierten masslos beeindruckt waren. Sollte die ÖFVW<lb/>
+keinen Beitrag leisten können, können auch keine Österreich-Plakate<lb/>
+affichiert werden.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte noch einmal mit <name type="person" ref="per:111736">Zolles</name> und mir be<lb break="no"/>sprechen.<lb/>
+</p>
+            <p xml:space="preserve">Im Ministerrat berichtet <name type="person" ref="per:97668">Kreisky</name>, dass die beste Dokumentation über<lb/>
+die Entstehung des Staatsvertrages jetzt in Form eines Buches<lb/>
+von <name type="person" ref="per:125562">Gerald Stourzh</name> vom Bundespräsident herausgegeben wird. Dieses Buch<lb/>
+soll bei den Feiern präsentiert werden und soll in grösserer<lb/>
+Anzahl aufliegen.<lb/>
+</p>
+            <p xml:space="preserve">Bei den Staatsvertragsfeiern wird sich ein von vielen unmöglich<lb/>
+gehaltenes grosses Treffen der Aussenminister in Wien ergeben.<lb/>
+Die Sowjetunion ist über diese Treffpunkt-Möglichkeit sehr erfreut<lb/>
+und geht mit gutem Gefühl in die Besprechung. Der sowjetische<lb/>
+Aussenminister <name type="person" ref="per:108330">Gromyko</name> aber ist noch unbeweglicher wie <name type="person" ref="per:125564">Molotow</name>.<lb/>
+Der neue amerikanische Aussenminister <name type="person" ref="per:125563">Muskie</name> kommt aus dem linken<lb/>
+<pb n="54-0600" facs="54_1980-05-13_0600.jpg"/>demokratischen Lager und wird erstmals dadurch mit vielen Aussen<lb break="no"/>ministern neben <name type="person" ref="per:108330">Gromyko</name> zusammentreffen. <name type="person" ref="per:125563">Muskie</name> wird, so hofft<lb/>
+<name type="person" ref="per:97668">Kreisky</name>, sich gegen den amerikanischen Sicherheitsberater des<lb/>
+Präsidenten <name type="person" ref="per:109804">Carter</name>, <name type="person" ref="per:120650">Brzezinski</name>, hoffentlich durchsetzen können.<lb/>
+<name type="person" ref="per:120650">Brzezinski</name> hat in Wirklichkeit <name type="person" ref="per:124056">Vance</name> gestürzt, da er diesem verbot,<lb/>
+nach Wien zu fahren. <name type="person" ref="per:120650">Brzezinski</name> ist eine echte Gefahr.<lb/>
+</p>
+            <p xml:space="preserve">Der Brief <name type="person" ref="per:97743">Minkowitschs</name>, der sich auf die Verhandlungen der Wirtschafts<lb break="no"/>gesetze bezieht, wird von <name type="person" ref="per:97668">Kreisky</name> beantwortet. Der erste an ihn<lb/>
+gerichtete offene Brief dagegen bleibt unbeantwortet.<lb/>
+</p>
+            <p xml:space="preserve">Klubobmann <name type="person" ref="per:97444">Fischer</name> hat mich telefonisch gefragt, wie diese Wirt<lb break="no"/>schaftsgesetz-Verhandlungen ablaufen sollen. <name type="person" ref="per:97444">Fischer</name> wird jetzt<lb/>
+mit Klubobmann <name type="person" ref="per:111325">Mock</name> und <name type="person" ref="per:97807">Peter</name> über die Programmfolge und die Zeit<lb break="no"/>einteilung sprechen. Er wollte wissen, ob er auch wegen der von<lb/>
+mir eingebrachten Gesetze einen entsprechenden Druck ausüben müsste<lb/>
+resp. ob ich besondere Wünsche hätte. Ich erklärte ihm sofort, dass<lb/>
+ich mit <name type="person" ref="per:97511">Haiden</name> vereinbart habe, so wie in der Vergangenheit dem<lb/>
+Landwirtschaftsminister entsprechende Unterstützung derart zu<lb/>
+geben, dass alle meine Wünsche zurückgestellt werden könne, wenn<lb/>
+<name type="person" ref="per:97511">Haiden</name> dadurch im Stande ist, seine notwendigen Marktordnungs<lb break="no"/>reformen durchzusetzen. Kleine Änderungen wird die ÖVP wahrscheinlich<lb/>
+beim Preisgesetz, Energiesicherung usw. zugestehen. Sollte dies<lb/>
+aber auch nicht der Fall sein, müssten von meinem Standpunkt aus<lb/>
+deswegen die Verhandlungen nicht scheitern. Anders dagegen muss<lb/>
+<name type="person" ref="per:97511">Haiden</name> für seine Wünsch eintreten. Sollte es dort zu keinem Zuge<lb break="no"/>ständnis kommen, dann glaubt <name type="person" ref="per:97511">Haiden</name>, müsste man eventuell die<lb/>
+ganzen Verhandlungen platzen lassen. Ich erklärte <name type="person" ref="per:97444">Fischer</name> dezidiert,<lb/>
+dass ich mit jeder Vorgangsweise einverstanden bin und keinerlei<lb/>
+besondere Prioritäten habe. Auch auf Platzen der Verhandlungen<lb/>
+bin ich vorbereitet. Ich glaube nicht, ja ich bin sogar fest<lb/>
+davon überzeugt, dass sich die ÖVP sich dies aber nicht leisten<lb/>
+kann und wird.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> fragte an, wer nun <name type="person" ref="per:107937">Frank</name>-Nachfolger bezüglich der Energie<lb break="no"/>sparkommission im Bundesdienst werden wird. Ich erklärte sofort,<lb/>
+dies könnte erst nach Installierung des neuen Sektionschefs<lb/>
+der Energiesektion entschieden werden.<lb/>
+</p>
+            <pb n="54-0601" facs="54_1980-05-13_0601.jpg"/>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> möchte, dass alle Grossbauvorhaben in Österreich filmisch<lb/>
+zusammengefasst werden.<lb/>
+</p>
+            <p xml:space="preserve">Die Minderheitsvertreter der Kroaten und Slowenen beschweren sich<lb/>
+über die Nichtdurchführung dieses Staatsvertrags-Artikels und<lb/>
+machen jetzt grössere Schwierigkeiten. Dies Ganze führt <name type="person" ref="per:97668">Kreisky</name><lb/>
+nur darauf zurück, dass der Kärntner Heimatdienst so intransigent ist<lb/>
+und die 3 Kärntner Parteien sich von dessen Politik nicht eindeutig<lb/>
+distanzieren. Der einzige, der dies tut, ist LH <name type="person" ref="per:98038">Wagner</name> persönlich<lb/>
+und fährt damit sehr gut<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:98063">Weissenberg</name> frägt an, ob nun die Eumig dergestalt saniert werden<lb/>
+könnte, dass NÖ, Steiermark und Vorarlberg, wo sich ein Eumig-Be<lb break="no"/>trieb befindet, je 100 Mio S Subvention gibt, wenn auch der Bund<lb/>
+solche 100 Mio zur Verfügung stellt und gleichzeitig der FGG,<lb/>
+also der Finanzierungsgesellschaft 300 Mill. S Kredit gewährt.<lb/>
+<name type="person" ref="per:98063">Weissenberg</name> könnte einen solchen Bundeszuschuss aus der Arbeits<lb break="no"/>marktförderung nicht mehr bezahlen, da er heuer bereits hunderte<lb/>
+Millionen bei diesen Aktionen Defizit haben wird.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97311">Androsch</name> erklärt, dass er keine zusätzliche Mittel aufbringen könnte.<lb/>
+Die Eumig muss jetzt von der Länderbank entsprechend geregelt werden.<lb/>
+Die Bilanz 1979 677 Mill. Defizit bei einem Umsatz von 1,2 Mia. S,<lb/>
+die Schulden betragen 2 Mia bis 2,4 Mia., 300 Mill. sind ao. Ab<lb break="no"/>schreibungen, die sich bereits auf Aufwertungsrückführung ergeben,<lb/>
+die seinerzeit bereits seit 1974 zu hoch angesetzt wurden. Der<lb/>
+Fohnsdorf-Betrieb soll einen Gewinn machen. Die Prüfungsgesell<lb break="no"/>schaft McKinsey hat jetzt ultimativ die Länderbank aufgefordert,<lb/>
+bis Ende Mai eine Sanierung durchzuführen, ansonsten legt sie<lb/>
+ihren Auftrag zurück. Eumig selbst hat noch einen gesunden Kern,<lb/>
+die Länderbank muss durchgreifen, damit die beiden Geschäftsführer<lb/>
+<name type="person" ref="per:98035">Vockenhuber</name> und <name type="person" ref="per:125801">Hauser</name> ihre Verfügungsgewalt verlieren. Bis 2.600<lb/>
+Beschäftigte wird man maximal bei Eumig auch in Zukunft be<lb break="no"/>schäftigen, Kooperationen mit Siemens und Bosch sind möglich.<lb/>
+Wenn die Länderbank jetzt nicht endlich die Sanierung einleitet,<lb/>
+sprich die Geschäftsführer entfernt, gibt es nichts anderes als<lb/>
+einen Konkurs der Fa. Eumig, mit dem Konkursmasseverwaltung könnte<lb/>
+man dann die notwendigen weiteren Verhandlungen führen, die Über<lb break="no"/>schuldung beträgt mindestens 300 Mill. S.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Min.Rat <name type="person" ref="per:97493">Gröger</name> soll auch wegen des AGFA-Pro<lb break="no"/>jektes äusserst vorsichtig verhandeln.<lb/>
+</p>
+            <pb n="54-0602" facs="54_1980-05-13_0602.jpg"/>
+            <p xml:space="preserve">Bei der 28. Auszeichnung und Ausstellung "Schönste Bücher" hat<lb/>
+der Vorsteher <name type="person" ref="per:114524">Schwabl</name> auf die Gefahr der Verlage und damit indirekt<lb/>
+dann auch der Druckereien verwiesen, wenn es nicht beim festen<lb/>
+Ladenpreis bleibt. Die Branche fürchtet derzeit nichts so sehr<lb/>
+als die Diskonter.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Für das nächste Jahr möchte ich entsprechen<lb break="no"/>de Unterlagen über diesen Punkt.<lb/>
+</p>
+            <p xml:space="preserve">Die AUA wollte mir unbedingt ihr neues Bürogebäude zeigen, wes<lb break="no"/>halb mich <name type="person" ref="per:115677">Koholzer</name>, der AUA-Arzt, ersuchte, seine Ordination<lb/>
+darin zu besichtigen. Der wirkliche Grund war, dass Dir. <name type="person" ref="per:115043">Heschgl</name> sich<lb/>
+mit Recht bei mir beschwerte, dass für den österr. Fremdenver<lb break="no"/>kehrstag von Min.Rat <name type="person" ref="per:111367">Würzl</name> und Komm.Rat <name type="person" ref="per:109291">Scheiner</name> eine Studie<lb/>
+über Luftfahrpolitik ausgearbeitet und dem Fremdenverkehrstag<lb/>
+vorgelegt werden soll. Darin wurden nicht nur die AUA-Interessen<lb/>
+nicht berücksichtigt, sondern auch die AUA-Mitglieder der<lb/>
+Arbeitsgruppe nicht einmal um deren Stellungnahme ersucht.<lb/>
+Ich habe Min.Rat <name type="person" ref="per:111367">Würzl</name> sofort ersucht, er muss die Gegen<lb break="no"/>schrift von der AUA, die ich von <name type="person" ref="per:115043">Heschgl</name> gefordert habe, eben<lb break="no"/>falls in die Besprechungen beim Fremdenverkehrstag entsprechend<lb/>
+berücksichtigen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Warum kam die AUA nicht in das Kuratorium<lb/>
+des ÖFVW?<lb/>
+</p>
+            <p xml:space="preserve">Das Fernsehen interessiert sich nach wie vor nur für ein<lb/>
+Problem und das ist Benzinpreis. Nachdem jetzt keine Preiserhöhung<lb/>
+in nächster Zeit zu erwarten war, wünscht der ORF scheinbar nichts<lb/>
+anderes als jetzt über eine Benzinpreisfrage die Debatte fortzu<lb break="no"/>führen.<lb/>
+</p>
+            <p xml:space="preserve">Mit Botschafter <name type="person" ref="per:114156">Hinteregger</name> besprach ich die Gemischte Kommission<lb/>
+in Moskau, interessant war, von ihm zu erfahren, dass die SU<lb/>
+innerhalb des Gosplanes bezüglich der Formulierung wegen des<lb/>
+neu abzuschliessenden langfristigen Abkommens noch keine Ent<lb break="no"/>scheidung getroffen hat. Die sowj. Seite kann daher eine end<lb break="no"/>gültige Formulierung noch nicht vorschlagen. Dies stört bei<lb/>
+den Verhandlungen aber weniger, denn im Verhandlungsprotokoll<lb/>
+wird sowieso nur festgehalten, dass das langfristige Abkommen<lb/>
+in Bearbeitung ist. Fraglich war, wie die Sowjets die Abwicklung<lb/>
+der Tagung der Gemischten Kommission insbesondere bezüglich der<lb/>
+Teilnahme und Reden der Firmenvertreter wünschen. Ich habe <name type="person" ref="per:114156">Hinter<lb break="no"/>egger</name> dezidiert erklärt, dass wir uns in jeder Beziehung<lb/>
+<pb n="54-0603" facs="54_1980-05-13_0603.jpg"/>dem sowjetischen Wunsch anpassen werden. Da ja <name type="person" ref="per:112951">Patolitschew</name> selbst<lb/>
+an diesen Verhandlungen teilnimmt, liegt es ganz in seinem Er<lb break="no"/>messen, wie lange und zu welchen Punkten er selbst anwesend<lb/>
+sein will.<lb/>
+</p>
+            <p xml:space="preserve">Der österr. Botschafter in Bonn, <name type="person" ref="per:116681">Pein</name>, will unbedingt, dass ich<lb/>
+nach dem Besuch in Lübeck zu ihm nach Bonn fahre. Dies könnte<lb/>
+nur im äussersten Notfall geschehen, wenn die Deutsche Handels<lb break="no"/>kammer nicht zweckmässigerweise eine Rückreise im Osten der<lb/>
+Bundesrepublik organisiert. Von Lübeck nach Wien über Bonn ist<lb/>
+ein verhältnismässig weiter Weg.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Kläre bitte jetzt endlich, was die Deutschen<lb/>
+wirklich wollen.<lb/>
+</p>
+            <p xml:space="preserve">In der ÖGB-Bundesfraktion berichtete <name type="person" ref="per:97668">Kreisky</name> über das Aussen<lb break="no"/>ministertreffen in Wien. Besonders verwies aber dann aber noch<lb/>
+auf die iranische kritische Situation mit Amerika und ganz besonders<lb/>
+auch auf die innenpolitischen Schwierigkeiten in Ägypten.<lb/>
+Der Ministerpräsident <name type="person" ref="per:125802">Chalil</name>, mit dem er gut zusammengearbeitet<lb/>
+hat und den er auch sehr gut kennt, wird jetzt durch seinen<lb/>
+Stellvertreter, einen Militär, ersetzt. Die Massnahmen, die <name type="person" ref="per:112985">Begin</name><lb/>
+jetzt in Israel setzt, tragen auch nicht zur Entspannung in dieser<lb/>
+Zone bei, ganz im Gegenteil.<lb/>
+</p>
+            <p xml:space="preserve">Über die Innenpolitik erwähnte er nur die Krisenpunkte, Eumig,<lb/>
+VEW, Papierlösung, insbesondere meinte er, es wird die Diskussion<lb/>
+im Herbst zu führen sein, wegen der Lösung der Bankenkonzernbetrie<lb break="no"/>be. Hier müsste eine Zusammenführung erfolgen, um die Konkurrenz<lb/>
+österr. Firmen auf Auslandsmärkten zu vermindern. GM wurde von<lb/>
+ihm neuerdings erwähnt, insbesondere die Zulieferungsmöglichkeiten,<lb/>
+jetzt z.B. schon für den Giesserei-Betrieb in Herzogenburg, eine<lb/>
+wichtige Vereinbarung, wodurch dieser schwache und kranke<lb/>
+Betrieb saniert wird, das Ganze geht auf das Austro-Porsche-Projekt,<lb/>
+welches nur 2 Mill. S Kosten verursacht hat und damit die grösste<lb/>
+Umwegrentabilität erbrachte durch die Zuliefermöglichkeiten und<lb/>
+jetzt durch GM und BMW, Steyr-Produktion, sich als richtige Politik<lb/>
+gezeigt hat.<lb/>
+</p>
+            <pb n="54-0604" facs="54_1980-05-13_0604.jpg"/>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> kündigte auch an, dass jetzt insbesondere über das Budget<lb break="no"/>problem in der Regierung verhandelt werden muss. Die Banken-Konzern<lb break="no"/>betriebe mussten Dividenden zahlen und dies ging auf Kosten der<lb/>
+Investitionen, eine wesentlich andere Politik als sie die ver<lb break="no"/>staatlichte Industrie macht, die heute durch die Investitions<lb break="no"/>politik besser dasteht. Überhaupt wird über diese Banken-Konzern<lb break="no"/>betriebe von Gen.Dir. <name type="person" ref="per:122965">Treichl</name> entsprechende Politik betrieben.<lb/>
+So hat der jetzt in der Industriellenvereinigung den pensionierten<lb/>
+ITT-Direktor <name type="person" ref="per:125803">Mayer</name> als Industriellen-Präsident durchgeboxt. Dieser<lb/>
+ist für <name type="person" ref="per:97668">Kreisky</name> klar nur ein Statthalter für <name type="person" ref="per:122965">Treichl</name>, der diesen<lb/>
+Posten einmal anstrebt.<lb/>
+</p>
+            <p xml:space="preserve">Bezüglich der Grünen berichtete <name type="person" ref="per:97668">Kreisky</name>, dass in Baden-Württemberg<lb/>
+der SPD-Vorsitzende <name type="person" ref="per:125804">Eppler</name> eine schwere Niederlage erlitten hat,<lb/>
+weil er sich gegen die Kernkraft ausgesprochen hat und sich als<lb/>
+Grüner präsentieren wollte. Genauso ging es jetzt in Nordrhein-<lb/>
+Westfalen dem FDP-Innenminister <name type="person" ref="per:125805">Hirsch</name>, der eine ähnliche Politik<lb/>
+wie <name type="person" ref="per:125804">Eppler</name> machte. Man muss versuchen, die Grünen in der eigenen<lb/>
+Partei zu gewinnen, diese müsste man auch, wenn irgend möglich, in der<lb/>
+Partei halten, die Bevölkerung aber, die sich für die Grünen ent<lb break="no"/>scheidet, glaubt den echten Grünen dann mehr, als wenn Politiker<lb/>
+sich nur als Grüne gebärden. Hoffentlich berücksichtigt dies auch<lb/>
+<name type="person" ref="per:97668">Kreisky</name> in der österr. Politik. Ich teile nämlich vollkommen die<lb/>
+Meinung, dass man Wandlungen einzelner Persönlichkeiten in diesem<lb/>
+Punkt nicht der Öffentlichkeit glaubhaft verkaufen kann.<lb/>
+</p>
+            <p xml:space="preserve">Die beiden Jugend-Delegierten Obmann <name type="person" ref="per:125806">Sturmer</name> und Jugendsekretär<lb/>
+<name type="person" ref="per:112979">Verzetnitsch</name> berichteten über die Aktionen und die Situation<lb/>
+der Gewerkschaftsjugend. Interessant für mich war zu erfahren, dass<lb/>
+aus der Arbeitsmarktverwaltung 1.350.– S für das erste Lehrjahr,<lb/>
+940.– für das zweite und 855.– S pro Monat für das dritte Lehrjahr<lb/>
+schon heute de facto bezahlt werden. 50 % Empfänger sind weibliche<lb/>
+Lehrlinge. Das Sozialministerium hat deshalb mit Recht darauf<lb/>
+verwiesen, dass die Vereinbarung mit GM nur den bisherigen Gepflogen<lb break="no"/>heiten der Sonderaktion des Sozialministeriums entspricht.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte lass feststellen, wo und wieviele Lehrlin<lb break="no"/>ge diese Zuschüsse bekommen und welchen Betrag er in Summe ausmacht.<lb/>
+</p>
+            <pb n="54-0605" facs="54_1980-05-13_0605.jpg"/>
+            <p xml:space="preserve">Der Geschäftsführer <name type="person" ref="per:125808">Blindhof</name> und BRO <name type="person" ref="per:125809">Bender</name> der Fa. Beton<lb/>
+und Mounier<add>[?]</add> ersuchten mich um Intervention bei der ÖMV. Seinerzeit<lb/>
+hatte ich in Innsbruck dazu beigetragen, dass diese Firma sich<lb/>
+von der deutschen Mutter lösen konnte und von der Länderbank ent<lb break="no"/>sprechend ausgestattet heute mir 400 Beschäftigten weiter existieren<lb/>
+kann. Die Delegation behauptete sogar, sie verdanken dies alles mir.<lb/>
+Jetzt haben sie offene Rechnung von 24 Mill. S gegen die ÖMV, diese<lb/>
+allerdings erklärt, die Bauausführung war schlampig und Pönale sei<lb/>
+fällig, weshalb sie ihre Forderung auf 7,8 Mill. reduziert haben.<lb/>
+Auch hier glaube ich, würde Beton und Mounier entsprechend noch nach<lb break="no"/>lassen, wenn es zu einem aussergerichtlichen Ausgleich kommen kann.<lb/>
+Min.Rat <name type="person" ref="per:97493">Gröger</name> wird sich dafür einsetzen.<lb/>
+</p>
+            <p xml:space="preserve">Der argentinische Botschafter <name type="person" ref="per:115013">Pulit</name> beschwerte sich bitter bei mir<lb/>
+und gab mir alle Unterlagen wegen der verweigerten Einfuhr von<lb/>
+500 kg Rindfleisch aus Argentinien für ein Fest, das er für<lb/>
+die argentinische Fussballmannschaft durchführen will. Ich fürchte,<lb/>
+dass dies auch auf den Besuch des Ministers <name type="person" ref="per:125807">Martinez</name>, der nach<lb/>
+Pfingsten kommt, sich sehr ungünstig auswirkt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bis zu diesem Zeitpunkt muss eine plausible<lb/>
+Erklärung des Veterinärdienstes vorliegen.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Sektionsleitersitzung auf der Landstrasse wurde nicht nur der<lb/>
+Wahlsonntag besprochen, sondern auch dann der Landstrasser Kirtag, dieser<lb/>
+wird 150–200.000 S kosten, allein das Feuerwerk 60–80.000 S.<lb/>
+<name type="person" ref="per:97543">Heindl</name> ersuchte mich, ich sollte mit ORF, <name type="person" ref="per:97672">Kreuzer</name>, wegen Aufnahmen<lb/>
+Gespräche führen.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Geburtstagsfeier von <name type="person" ref="per:110923">Lanc</name> habe ich <name type="person" ref="per:97672">Kreuzer</name> getroffen und<lb/>
+dieser sagte mir zu, er würde selbstverständlich dieses Spektakel<lb/>
+ins Programm aufnehmen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Bitte Details mit <name type="person" ref="per:97672">Kreuzers</name> Leuten besprechen.<lb/>
+</p>
+            <p xml:space="preserve">Bei dieser Gelegenheit habe ich mit <name type="person" ref="per:97672">Kreuzer</name> über unsere gemeinsame<lb/>
+Vergangenheit gesprochen. <name type="person" ref="per:97672">Kreuzer</name> ist heute noch sehr beeindruckt<lb/>
+von der damals in der Oppositionszeit, wie er glaubt von mir, ich<lb/>
+aber sofort feststelle von dem Arbeiterkammer-Team geführten Analysen,<lb/>
+wie es weitergehen soll. Wir hatten damals im Annental eine<lb/>
+von mir organisierte und auch geleitete Diskussion mit Ideologen<lb/>
+<pb n="54-0606" facs="54_1980-05-13_0606.jpg"/>wie <name type="person" ref="per:97777">Nenning</name> oder Politologen wie <name type="person" ref="per:97672">Kreuzer</name>. <name type="person" ref="per:97777">Nenning</name> wollte damals eine<lb/>
+Ideologie-Strategie entwickeln, für ihn war es notwendig, am<lb/>
+Parteitag ideologisch durchzusetzen, dass wenn die SPÖ noch einmal<lb/>
+verliert, dies für ihre Gesundung ganz gut ist. Wir in der Ar<lb break="no"/>beiterkammer hatten damals aber ein Papier entwickelt, wo alle<lb/>
+Pro- und Kontra-Punkte einer Opposition oder Koalition gegenüber<lb break="no"/>stellten und dadurch zumindestens für diese Annental-Tagung<lb/>
+eine wirkliche Entscheidungshilfe lieferten. <name type="person" ref="per:97672">Kreuzer</name> war davon<lb/>
+furchtbar beeindruckt. Ich habe <name type="person" ref="per:97672">Kreuzer</name> einmal mehr aufgefordert,<lb/>
+er soll die Zeit, wo er Chefredakteur der Arbeiterzeitung war<lb/>
+und wo er ganz genau die Parteigeschichte verfolgen konnte, diese<lb/>
+unbedingt niederschreiben. Er hat es mir zugesagt. Ich schreibe<lb/>
+dies besonders deshalb nieder, um ihn an dieses Versprechen, das<lb/>
+ich schon etliche Male seit dem Jahr 1970 gefordert habe, jetzt<lb/>
+endlich auch schriftlich festgehalten ist und er sich vielleicht<lb/>
+daran hält.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Bitte ihm diesen Tagebuch-Text zuspielen.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Geburtstagsfeier von <name type="person" ref="per:98063">Weissenberg</name> wurde, wie könnte es anders<lb/>
+sein, über die SJ, wo <name type="person" ref="per:98063">Weissenberg</name> <choice><choice><sic>an</sic><corr>als?</corr></choice></choice> nö. Landesobmann eine ähnliche<lb/>
+Rolle spielte wie ich einige Zeit früher als Wiener Landesobmann,<lb/>
+diskutiert. <name type="person" ref="per:98063">Weissenberg</name> wurde nur nicht so unrühmlich angewählt,<lb/>
+wie dies mir in Wien erging. Damals waren es die Linken, <name type="person" ref="per:97354">Pauli Blau</name>,<lb/>
+<name type="person" ref="per:97552">Hindels</name>, mein Schwager <name type="person" ref="per:114117">Mayerhofer</name> und andere, die <name type="person" ref="per:113043">Hubert Pfoch</name> zum<lb/>
+Wiener Obmann wünschten und dann auch durchsetzten, weil ich zu weit<lb/>
+rechts stand. Meine damaligen Argumentation war ja, das weiss ich,<lb/>
+denn wenn ich mich umdrehe, stehe ich schon neben <name type="person" ref="per:125810">Kunschak</name>, dem<lb/>
+christlichen Gewerkschaftsführer. Damals hat es mich sicherlich er<lb break="no"/>schüttert, so abgewählt zu werden, nachher war ich sehr glücklich, denn<lb/>
+ich hätte ich ansonsten mein Studium nicht beendet, vielleicht wäre<lb/>
+ich damals aber auch viel stärker in die Politik hineingestiegen<lb/>
+und weniger in der Arbeiterkammer mich doch einigermassen zu<lb/>
+einem angeblichen Fachmann entwickelt. So dienen Geburtstagsfeiern<lb/>
+dazu, um Jugenderinnerungen auszutauschen und festzustellen, wie<lb/>
+sich doch alles ganz anders entwickelt hat, als man damals glaubte.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="54_0598_01" facs="54_1980-05-13_0598-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 13.5.1980</head>
+         </div>
+         <pb n="54_0598_02" facs="54_1980-05-13_0598-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+         <pb n="54_0606_01" facs="54_1980-05-13_0606-01.jpg"/>
+         <pb n="54_0606_02" facs="54_1980-05-13_0606-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesordnung 42. Ministerratssitzung, 13.5.1980</head>
+         </div>
+      </back>
+   </text>
+</TEI>

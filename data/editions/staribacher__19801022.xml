@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittwoch, der 22. Oktober 1980</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band57_1980-10-22</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1980-10-22">Mittwoch, 22. Oktober 1980</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-02-06">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="57-1315" facs="57_1980-10-22_1315.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Mittwoch, 22. Oktober 1980<lb/>
+</p>
+            <p xml:space="preserve">Im Klub berichtete Klubobmann <name type="person" ref="per:97444">Fischer</name>, daß <name type="person" ref="per:126223">Tull</name> jetzt aus der Partei<lb/>
+ausgetreten ist und als wilder Abgeordneter weiter bleibt. Dadurch<lb/>
+ist es notwendig, seine Posten zu besetzen. Obmann des Finanzausschus<lb break="no"/>ses wird <name type="person" ref="per:97757">Mühlbacher</name>, Präsident des Freien Wirtschaftsverbandes. Gleich<lb break="no"/>zeitig kommt <name type="person" ref="per:98010">Teschl</name> in den Finanzausschuß, der auch der Steuerkommission<lb/>
+des Gewerkschaftsbundes angehört. Anstelle des Sozialministers <name type="person" ref="per:111740">Dallin<lb break="no"/>ger</name> wird <name type="person" ref="per:112942">Braun</name> ebenfalls in den Finanzausschuß delegiert.<lb/>
+</p>
+            <p xml:space="preserve">Die Abgeordnete Dr. <name type="person" ref="per:114119">Seda</name> ist zur Verabschiedung noch einmal in den Klub<lb/>
+gekommen. Durch ihr Ausscheiden können die Kärntner den AK-Direktor<lb/>
+<name type="person" ref="per:127073">Kottek</name> in den Nationalrat entsenden.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:110923">Lanc</name> berichtet über die Zivildienernovelle, <name type="person" ref="per:111740">Dallinger</name> wird aufgefor<lb break="no"/>dert über die Rentenerhöhung zu referieren. In der Tagesordnung<lb/>
+stehen auch zwei erste Lesungen, das eine Schulgesetznovelle von der<lb/>
+SPÖ eingebracht und von der ÖVP eben der Pensionserhöhungsantrag.<lb/>
+<name type="person" ref="per:111740">Dallinger</name> berichtet, daß die 5,1 % einstimmig vom Rentenbeirat be<lb break="no"/>schlossen wurden, 4 1/2 Mrd. S dem Bund kosten werden. Darüber hinaus<lb/>
+hat aber die sozialistische Seite, vorbereitet durch den verstorbenen<lb/>
+Sozialminister <name type="person" ref="per:98063">Weißenberg</name> und vor allem budgetmäßig abgedeckt und<lb/>
+mit Finanzminister <name type="person" ref="per:97311">Androsch</name> besprochen, die Ausgleichszulagenempfän<lb break="no"/>ger um 6 % erhöht. Der Antrag <name type="person" ref="per:125293">Schwimmers</name> würde nur noch 49 S mehr dem<lb/>
+Ausgleichszulagenempfänger bringen, für Verheiratete sogar 6,4 %, wo<lb/>
+der <name type="person" ref="per:125293">Schwimmer</name>-Antrag 51 S mehr bringen würde. Bei den kleinen Einkommen<lb/>
+ist dies aber natürlich schon eine noch zusätzliche wesentliche per<lb break="no"/>zentuelle Erhöhung. Die von den Sozialisten vorgeschlagenen Erhöhun<lb break="no"/>gen machen immerhin 142 Mio S Mehrbelastung für den Finanzminister<lb/>
+aus. In der Diskussion dann im Haus hat der sozialpolitische Sprecher<lb/>
+<name type="person" ref="per:97926">Schranz</name> darauf verwiesen, daß die ÖVP nicht nur während ihrer 4-jähri<lb break="no"/>gen Alleinregierungszeit wesentlich geringere Erhöhungen gemacht hat,<lb/>
+daß die Sozialisten seit 1970 jedes Jahr fast mehr, manchmal sogar<lb/>
+2 mal im Jahr höhere Pensionserhöhungen gerade für die Ausgleichszu<lb break="no"/>lagenempfänger beschlossen haben. <name type="person" ref="per:111740">Dallinger</name> hat dann von der Regie<lb break="no"/>rungsbank, wie er sagt, zum ersten Mal zuerst seines Vorgängers <name type="person" ref="per:98063">Weißen<lb break="no"/>berg</name> gedacht und dann der ÖVP-Seite eine Zusammenarbeit angeboten.<lb/>
+Dies gilt insbesondere für die Partnerschaftspension und insbesondere<lb/>
+auch für die verstärkte Mitbestimmung, die ja <name type="person" ref="per:111740">Dallinger</name> unbedingt<lb/>
+durchziehen möchte. Diese Vorgangsweise war sehr geschickt, obwohl ich<lb/>
+<pb n="57-1316" facs="57_1980-10-22_1316.jpg"/>felsenfest davon überzeugt bin, daß es hier zu keiner Zusammenarbeit<lb/>
+kommen wird. Die ÖVP wird selbstverständlich weiter lizitieren. Ich<lb/>
+bin sehr gespannt, wie sich der ÖAAB nur bei der Mitbestimmungsfrage<lb/>
+verhalten wird. <name type="person" ref="per:97668">Kreisky</name> berichtet dann noch im Klub über die Leobner<lb/>
+Tagung und über die wirtschaftspolitische Situation. Auch hier kam<lb/>
+er auf die Wünsche des GD <name type="person" ref="per:122965">Treichl</name> von der CA zu sprechen, daß für<lb/>
+Niklasdorf jetzt der Staat für die Frühpensionierung der dort zu Ent<lb break="no"/>lassenden aufkommen müßte und daß er dies ganz entschieden abgelehnt<lb/>
+hat. Die privaten Unternehmen müssen eben in einem Sozialplan, wenn<lb/>
+sie Leute in die Frühpension schicken wollen, sowie die ÖIAG für die<lb/>
+Edelstahlleute selbst aufkommen.<lb/>
+</p>
+            <p xml:space="preserve">Mit Präs. <name type="person" ref="per:97386">Czettel</name> von der AK und Vizepräs. <name type="person" ref="per:112942">Braun</name> besprach ich das<lb/>
+Ausscheiden des Zentralsekretärs <name type="person" ref="per:97357">Blümel</name> aus der Vorstandsfunktion und<lb/>
+gleichzeitig dann auch aus der AK. Beide bedauerten dies sehr, haben<lb/>
+aber eingesehen, daß nachdem es der ausschließliche Wunsch von <name type="person" ref="per:97357">Blümel</name><lb/>
+selbst ist, das Vorstandsmandat selbstverständlich dem Getränkesekretär<lb/>
+<name type="person" ref="per:126872">Macho</name> zugesichert wird.<lb/>
+</p>
+            <p xml:space="preserve">Der Abg. <name type="person" ref="per:123320">Grabher-Meyer</name> von den Freiheitlichen hatte mir Anfang des Mo<lb break="no"/>nats einen Brief geschickt wegen einer Meisterprüfungsnachsicht für ei<lb break="no"/>nen Fotografen in Vorarlberg. Dieser hatte bei der Buchhaltung versagt,<lb/>
+ist jetzt schon ein so großer Betrieb, daß er sich sogar einen Steuer<lb break="no"/>berater unbedingt halten muß, war, wie der Abgeordnete mir sagte, vor<lb break="no"/>her ein ÖVP-Mann und fotografiert jetzt für die Freiheitlichen und<lb/>
+ist auch ihr Funktionär. Deshalb wird er vom Land sehr benachteiligt.<lb/>
+Die HK hat der Nachsicht zugestimmt, das Land lehnt ab. Unsere Akten<lb break="no"/>lage ergibt aber, daß vorerst das Land noch zu weiteren Erhebungen he<lb break="no"/>rangezogen werden muß. Durch Zufall habe ich den Antwortbrief zur<lb/>
+Unterschrift bekommen und ihn dann persönlich gleich überbracht. Die<lb/>
+FPÖ-Fraktion war sehr überrascht über die schnelle Erledigung.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97584">JAGODA</name>: Bitte mir über den weiteren Vorgang immer be<lb break="no"/>richten.</p>
+            <p xml:space="preserve">Der zweite Präsident des Nationalrates <name type="person" ref="per:97743">Minkowitsch</name> intervenierte für<lb/>
+ein Staatswappen <name type="person" ref="per:127074">Guido Bach</name>, Großfeldsiedlung in Wien, <choice><choice><sic>Metallarbei<lb break="no"/>terbetrieb</sic><corr>Metallverarbeitungsbetrieb</corr></choice></choice>, der Eisengitter erzeugt und als Kleinstbetrieb sogar expor<lb break="no"/>tiert. Um ein spanisches Geschäft zu bekommen, hat <name type="person" ref="per:127074">Bach</name> sogar in 3 Mo<lb break="no"/>naten Spanisch gelernt.<lb/>
+</p>
+            <pb n="57-1317" facs="57_1980-10-22_1317.jpg"/>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Wie steht der Fall?<lb/>
+</p>
+            <p xml:space="preserve">Die Budgetrede des Finanzministers war darauf aufgebaut, und er hat<lb/>
+einleitend dies auch gleich gesagt, die 25 Mrd. S Defizitgrenze zu<lb/>
+halten. Geschickt spricht er jetzt immer nur von einem Nettodefizit<lb/>
+von 25 Mrd. Daß die Massenmedien dann von 50 Mrd. S Bruttodefizit be<lb break="no"/>richteten, war für mich selbstverständlich, hat aber etliche soziali<lb break="no"/>stische Abgeordnete sehr aufgeregt. An die Spitze stellte er daher den<lb/>
+Dank, da diese 25 Mrd. S eingehalten werden konnten, an den Steuerzah<lb break="no"/>ler, der die Mittel aufbringt, aber auch an die Regierungskollegen, die<lb/>
+so viel Verständnis für diese neue restriktive Budgetpolitik haben.<lb/>
+Außer seiner 5 1/4-stündigen Rede hat er dann noch eine zweite ergänzen<lb break="no"/>de beigelegt, wo viele Details noch dargelegt wurden und vor allem<lb/>
+ein umfangreiches statistisches Material aufwendig auf Karton gedruckt,<lb/>
+alles sehr beeindruckend.<lb/>
+</p>
+            <p xml:space="preserve">Der gabunische Industrieminister hat im Hotel Hilton ein Mittagessen<lb/>
+gehabt, das allerdings, wie ich dann feststellen konnte, von der UNIDO<lb/>
+bezahlt wurde. Die UNIDO hatte auch den Generalsekretär, seinen Stell<lb break="no"/>vertreter und noch andere Mitarbeiter delegiert. Ich war sozusagen<lb/>
+nur der Aufputz, neben mir war nur noch der VÖEST-Vertreter <name type="person" ref="per:111006">Graf<lb/>
+Pallfy</name><add>evtl. Falschidentifikation</add>. Dieser berichtete mir, daß er mit den Gabunern Projekte abge<lb break="no"/>sprochen hatte und vor allem aber über den Wunsch der Gabuner durch<lb/>
+know how-Verträge und ev. Kooperation nicht nur die Anlagen zu lie<lb break="no"/>fern, sondern auch den Betrieb dort sicherzustellen. Den Gabunern<lb/>
+schwebt Ähnliches vor wie die gemeinsame Fabrik in Kamerun, wo mehrere<lb/>
+europäische Länder beteiligt sind. Konkret wurden keinerlei Geschäfte<lb/>
+aber abgeschlossen.<lb/>
+</p>
+            <p xml:space="preserve">In der Paritätischen Kommission mußte ich den Vorsitz führen und die<lb/>
+Tagesordnung wurde schnell und normal abgewickelt. Zum Schluß berich<lb break="no"/>tete ich noch über die Einstellung des amtlichen Preisverfahrens für<lb/>
+Kaffee, da sich ja die Sozialpartner geeinigt hatten. Überraschend<lb/>
+war dann noch, daß Landwirtschaftsminister <name type="person" ref="per:97511">Haiden</name> mitteilte, daß eine<lb/>
+Einigung in der Vieh- und Fleischkommission nicht erzielt werden konnte<lb/>
+und diese eigentlich derzeit nicht arbeitsfähig ist. In der Vergangen<lb break="no"/>heit wurden durch die Vieh- und Fleischkommission Anträge für Importe<lb/>
+meistens sehr spät freigegeben, um den inländischen Bauern zu stützen<lb/>
+und höhere Preise dadurch zu erreichen. Jetzt aber ist es überhaupt<lb/>
+nicht mehr möglich einen Kompromiß zu erzielen. Zum Import stehen<lb/>
+<pb n="57-1318" facs="57_1980-10-22_1318.jpg"/>stehen 5000 t Verarbeitungsfleisch an, gleichzeitig wollen die Bauern<lb/>
+Export für Lebendrinder und Rindfleisch und für 500 t ägyptische<lb/>
+Hilfslieferung konnte ebenfalls keine Einigung erzielt werden. Man<lb/>
+erwartet, daß der Landwirtschaftsminister eine Weisung gibt. Dies geht<lb/>
+aber aufgrund des Gesetzes nicht, denn Weisungen können nur erfolgen,<lb/>
+wenn entweder gesetzwidrige Maßnahmen gesetzt wurden oder die Versor<lb break="no"/>gung gefährdet ist. Bei dem Überschuß, der aber an hochwertigen Rin<lb break="no"/>dern bei uns in Österreich besteht, die allerdings zur Verarbeitung<lb/>
+nicht kommen sollten, weil sie zu teuer sind, besteht auf alle Fälle<lb/>
+keine Versorgungsgefährdung. Wenn 5000 t Verarbeitungsfleisch herein<lb break="no"/>kommen, können ja die Lebendvieh- und Rindfleischexporte sofort geneh<lb break="no"/>migt werden. GS <name type="person" ref="per:97563">Hofstetter</name> appellierte an die in der Viehkommission<lb/>
+sitzenden Interessensvertreter, die übrigens genau die selben sind,<lb/>
+die auch ja die Paritätische Kommission beschicken. Präs. <name type="person" ref="per:113056">Bierbaum</name><lb/>
+meinte, es sollten schnell Gespräche geführt werden, denn die Märkte<lb/>
+laufen, wie er sich ausgedrückt hat. Mit anderen Worten, die Exporte<lb/>
+sind für Lebendvieh dringend notwendig. Gleichzeitig muß halt aber<lb/>
+auch die Landwirtschaft den Verarbeitungsimporten zustimmen. Dkfm.<lb/>
+<name type="person" ref="per:112010">Blaha</name> von der AK stellte mit Recht fest, hier handelt es sich nicht<lb/>
+um Differenzen zwischen Konsumenten und Bauern, sondern primär zwi<lb break="no"/>schen Verarbeitungsbetrieben und Bauern.<lb/>
+</p>
+            <p xml:space="preserve">Interessant war dann noch eine Diskussion über die zukünftige Schwei<lb break="no"/>nesituation. Präs. <name type="person" ref="per:113056">Bierbaum</name> hat festgestellt, die Schweinemisere<lb/>
+sei beendet. Die Bauern wünschen aber, daß die Abschöpfung, die von<lb/>
+den Schweinen in dem nächsten Jahr zu erwarten ist, für die Schweine<lb break="no"/>exporte reserviert werden soll. Sie wünschen also, wenn man so sagen<lb/>
+kann, ein Schachtelsystem, Abschöpfung von Schweinen für Exporte von<lb/>
+Schweinen reservieren. Dagegen hat sich <name type="person" ref="per:97511">Haiden</name> mit Recht ausgesprochen,<lb/>
+denn er stellte fest, daß in diesem Fall die Hühnerabschöpfung dann<lb/>
+für die Hühnerproduktion verwendet werden müßte, was niemand wünscht<lb/>
+und schon gar nicht anstrebt. Selbsttragende Systeme können niemals<lb/>
+für einzelne Produkte sein, anzustreben wäre allerdings für die ge<lb break="no"/>samten Fleischexporte ein selbsttragendes System, das heißt, es<lb/>
+müßten noch höhere Importabschöpfungen erfolgen. Dies würde aber zu<lb/>
+so großer Belastung der Konsumenten führen, daß dies auch wieder nicht<lb/>
+möglich ist. <name type="person" ref="per:97511">Haiden</name> hat es wirklich mit den Landwirtschaftsvertretern<lb/>
+sehr schwer.<lb/>
+</p>
+            <p xml:space="preserve">In der Energiesektion am Schwarzenbergplatz hat der Energielenkungs<lb break="no"/><pb n="57-1319" facs="57_1980-10-22_1319.jpg"/>beirat, der alle Jahre einberufen wurde und aber jetzt 2 Jahre schon<lb/>
+nicht mehr tagte, sich über den Probelauf der IEA unterhalten.<lb/>
+<name type="person" ref="per:126992">Schandel</name> hat sehr beeindruckend referiert, wie dieser Probelauf jetzt<lb/>
+durchgeführt wird und wie Österreich dabei mitwirkt. Zur Einsparung<lb/>
+wurde vorgeschlagen, zwei freie Tage, angebliche Ersparnis 4,2 % pro<lb/>
+Tag und weitere Geschwindigkeitsbeschränkungen, Einsparung 3 %, insge<lb break="no"/>samt also mehr als die von der IEA geforderten 10 % Einsparung. Das<lb/>
+Ganze ist aber wirklich eine rein theoretische Arbeit, die nur dazu<lb/>
+dient, um zu sehen, ob überhaupt die Kommunikation funktioniert und<lb/>
+die theoretischen Rechnungen dann auch wenigstens eben in der Theorie<lb/>
+durchgerechnet werden. In der Praxis, erklärte ich gleich freimütig,<lb/>
+wollte ich dies nicht gerade erleben. Darüber hinaus aber habe ich<lb/>
+angekündigt, daß ich die Industrie- und Energiesektion ersucht habe,<lb/>
+man möge dann durchexerzieren, wie die österreichische Durchführung<lb/>
+dieses IEA-Beschlusses funktionieren könnte. Die Länder habe ich gleich<lb break="no"/>zeitig aufgefordert, daran mitzuwirken. Wenn es nämlich wirklich zu<lb/>
+einer Bewirtschaftung von Benzin kommen sollte, wird ja die Durchfüh<lb break="no"/>rung ausschließlich bei den Ländern liegen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Bitte beachte, daß dies dann auch tatsächlich<lb/>
+bei der Länderbesprechung erfolgt.<lb/>
+</p>
+            <p xml:space="preserve">Die Fachverbandsvorsitzenden, der Obmann KR <name type="person" ref="per:116977">Elias</name> und sein Stellver<lb break="no"/>treter <name type="person" ref="per:126387">Liegle</name>, 83 Jahre schon alt, sind jetzt endgültig ausgeschieden.<lb/>
+Dazu hat der Fachverband einen Heurigenabend gegeben. Da ich mit<lb/>
+<name type="person" ref="per:116977">Elias</name> durch 10 Jahre die Damenmodewoche gemeinsam eröffnet habe und<lb/>
+gerade diese Damenmodewoche aber jetzt, seitdem sie die Wiener Messe<lb/>
+organisiert, einen furchtbaren Niederbruch erlitten hat, beabsichtigte<lb/>
+ich diesen Heurigen zu besuchen und über dieses Problem mit den Unter<lb break="no"/>nehmervertretern zu sprechen. Sie bestätigten mir, was Staatssekretär<lb/>
+<name type="person" ref="per:109808">Albrecht</name>, die ja heuer die sogenannte internationale Modewoche er<lb break="no"/>öffnet hat, auch feststellte, es war eine Katastrophe. Niemand konnte<lb/>
+mir allerdings sagen, wie man dies ändern kann, eher wurde empfohlen<lb/>
+diese ganze Messeveranstaltung einzustellen. Da meine Frau in der<lb/>
+Kriegszeit 5 Jahre bei der Firma Liegle dienstverpflichtet war, bezeich<lb break="no"/>net sie der ausscheidende KR als seine älteste Mitarbeiterin. Manchmal<lb/>
+habe ich das Gefühl, daß <name type="person" ref="per:126387">Liegle</name>, insbesondere auch sein Sohn, nicht nur,<lb/>
+weil ich Minister bin, sondern weil damals diese Uniformfabrik ja<lb/>
+sehr auf Erzeugung sozusagen Auftragserfüllung ausgerichtet war, jetzt<lb/>
+umso mehr zeigen wollen, wie sehr sie sozial eingestellt sind. U.a.<lb/>
+hat <name type="person" ref="per:126387">Liegle</name> von seinem Sohn als Geburtstagsgeschenk alle Kollektivverträ<lb break="no"/><pb n="57-1320" facs="57_1980-10-22_1320.jpg"/>ge, die er in der zweiten Republik abgeschlossen hat, in einem Buch<lb/>
+gebunden bekommen. Die soziale Seite wird jetzt sehr stark herausge<lb break="no"/>strichen, meine Frau als Schneidermeisterin besonders gewürdigt.<lb/>
+</p>
+            <p xml:space="preserve">Da ich vorher durch eine falsche Information in einem anderen Raum<lb/>
+zum Präsidentenempfang der HK-Delegierten aus Ostasien geraten bin, wo<lb/>
+ich auch viele Beamte des Handelsministeriums, aber auch vom Außenamt<lb/>
+und Finanzministerium getroffen habe, hatte ich dann den Präsident<lb/>
+<name type="person" ref="per:97893">Sallinger</name> ebenfalls zu der Fachverbandsfeier rübergenommen. Dieser<lb/>
+erklärte nach meiner Ansprache dann, daß es ihn sehr freut, daß dieser<lb/>
+Fachverband jetzt diese schöne Abschiedsfeier gemacht hat, wo er durch<lb/>
+Zufall reingekommen ist, um, wie er sich ausdrückte, meine Frau zu be<lb break="no"/>grüßen. <name type="person" ref="per:97893">Sallinger</name> erwähnt immer wieder, er bedauert zutiefst, daß<lb/>
+meine Frau als Schneidermeisterin nicht arbeitet. Er ist sehr stolz,<lb/>
+daß sie eine Meisterin ist, die übrigens auch tatsächlich ja, wenn auch<lb/>
+nur sehr kurze Zeit, einen Betrieb <choice><choice><sic>führt</sic><corr>geführt hat</corr></choice></choice>. Betrieb kann man dies aber<lb/>
+wirklich nur im Sinne der Gewerbeordnung nennen, denn sie war ein<lb/>
+Einmannbetrieb mit einem Lehrmädchen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="57_1314_06" facs="57_1980-10-22_1314-06.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 22.10.1980</head>
+         </div>
+         <pb n="57_1314_07" facs="57_1980-10-22_1314-07.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

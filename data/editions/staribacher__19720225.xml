@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der 25. Februar 1972</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band09_1972-02-25</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1972-02-25">Freitag, 25. Februar 1972</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-09-13">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="09-0262" facs="09_1972-02-25_0262.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Freitag, 25. Februar 1972<lb/>
+</p>
+            <p xml:space="preserve">Der österreichische Botschafter <name type="person" ref="per:139514">Wolf</name> in Argentinien hat in<lb/>
+einer Diskussion mit <name type="person" ref="per:108322">Meisl</name> und mir zugeben müssen, daß die Vertretungs<lb break="no"/>behörden in Lateinamerika kaum etwas erreichen können. Sowohl die Bot<lb break="no"/>schaften als auch die Außenhandelsstellen haben keine oder nur geringe<lb/>
+Möglichkeiten den Export in diese Länder wesentlich zu verbessern. Wohl hat<lb/>
+im Vorjahr der Export nach Argentinien von 225 Mio. auf 300 Mio. zugenom<lb break="no"/>men, obwohl sich der Außenhandelsstellenleiter sehr bemüht hat, hat er dazu<lb/>
+wesentlich nichts beitragen können. Die großen Firmen haben einen eigenen<lb/>
+Vertreter und Böhler, Reifer, Plasser &amp; Theurer könnten ihre Exporte auch<lb/>
+ohne die Botschaft resp. die Außenhandelsstellenleiter in diesem beschei<lb break="no"/>denen Umfang aufrecht erhalten. Man spricht zwar immer, daß im ganzen süd<lb break="no"/>amerikanischen Raum eine große Exportzukunft liegt, doch niemand kann<lb/>
+auch <choice><choice><sic>dur</sic><corr>?</corr></choice></choice> bescheiden die entsprechenden Erfolge erzielen. In der ersten<lb/>
+Republik hat es eine einzige Vertretungsbehörde in ganz Lateinamerika<lb/>
+gegeben, dies ging auf die Sparmaßnahmen der Völkerbundanordnung zurück.<lb/>
+Ich glaube nicht, daß es sinnvoll wäre alle Vertretungsbehörden aufzulassen<lb/>
+und einen einzigen zu errichten, doch glaube ich, daß wir uns den Kopf<lb/>
+zerbrechen sollten, ob wir nicht eine andere Organisationsform finden<lb/>
+können.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Werksbesichtigung der Rohölgewinnungs AG in Zistersdorf war sowohl<lb/>
+der Leiter der Bergbehörde, <name type="person" ref="per:97467">Gasser</name>, als sein Stellvertreter <name type="person" ref="per:139515">Dworak</name>, als<lb/>
+der Referent <name type="person" ref="per:112191">Mayer</name> und der örtliche Berghauptmann <name type="person" ref="per:139516">Bornsholm</name> anwesend. Be<lb break="no"/>zirkshauptmann, Bürgermeister und noch ein halbes Dutzend von anderen<lb/>
+Honoratioren war ebenfalls. Es war Aufwand nur deshalb weil ein Minister<lb/>
+einige Worte und Auszeichnungen an Werksangehörige übergibt. Ich habe<lb/>
+Zistersdorf aus zwei Gründen besucht. Erstens ist dort wirklich die erste<lb/>
+Lagerstätte, wo in der 1. Republik Öl gefunden wurde und zweites ist dies<lb/>
+der Betrieb, wo die RAG die finanziellen Mittel herausgepumpt hat, um in<lb/>
+Oberösterreich die Aufschließungsarbeiten zu finanzieren. Jetzt produziert<lb/>
+die RAG neben der ÖMV 14 % der österreichischen Erdölproduktion und einen<lb/>
+17 %igen Anteil an dem österr. Gaserzeugung. Da ich schon einige Male<lb/>
+in der ÖMV gewesen bin, war es mir vor allem wichtig zu dokumentieren, daß<lb/>
+ich auch einen privaten Betrieb, die RAG setzt sich aus Shell, und Mobil zu<lb break="no"/>sammen, genau dieselbe Aufmerksamkeit widme. Gen.Dir. Dr.<lb/>
+</p>
+            <pb n="09-0263" facs="09_1972-02-25_0263.jpg"/>
+            <p xml:space="preserve"><name type="person" ref="per:139517">Diwald</name> hat auch anerkannt, daß ich wirklich objektiv zwischen den Ge<lb break="no"/>sellschaften vermittle resp. mich nicht einer einseitigen Bevorzugung<lb/>
+der ÖMV zuschulden kommen lasse. Das Menschenaufgebot wäre allerdings<lb/>
+nicht notwendig gewesen.<lb/>
+</p>
+            <p xml:space="preserve">Anmerkung für <name type="person" ref="per:97543">HEINDL</name><lb/>
+Prüfe, ob die auch noch <choice><choice><sic>alles</sic><corr>alle?</corr></choice></choice> Tagesdiäten verrechnen, dann könnte ich<lb/>
+mir nämlich erklären, warum wir mit den Inlandsreiseansätzen nicht aus<lb break="no"/>kommen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:114658">Kahane</name> und Vizepräs. des Aufsichtsrates Dr. <name type="person" ref="per:125819">Schröfl</name> berichteten mir<lb/>
+daß sie mit der Zuckerindustrie zu keinem Einvernehmen über eine<lb/>
+Lieferung an die Zitronensäureproduktion gekommen sind. Zuerst wollte<lb/>
+die Zuckerindustrie überhaupt nichts liefern und dann hat sie sich<lb/>
+bereit erklärt, 1.000 t zur Verfügung zu stellen. Dr. <name type="person" ref="per:125819">Schröfl</name> hat mit<lb/>
+den Rübenbauern-Vertretern <name type="person" ref="per:137884">Weihs</name> verhandelt, da er einen festen Kontrakt<lb/>
+mit den Rübenbauern abschließen möchte. 5.000 t Zucker, das ist ungefähr<lb/>
+1/3 des Bedarfes, würden sie in einem 3-Jahresvertrag in Rübe, d.s. ca.<lb/>
+35.000 t Rüben, übernehmen. Diese Rüben möchten sie dann entweder den österr.<lb/>
+Zuckerfabriken oder den ungar. oder tschechischen anbieten und in Lohn ver<lb break="no"/>arbeiten lassen. <name type="person" ref="per:137884">Weihs</name> hat natürlich sofort abgelehnt und erklärt, die<lb/>
+Rübenbauern und die Zuckerindustrie seien eine geschlossene Einheit.<lb/>
+Ein solches Geschäft komme deshalb nicht in Frage.<lb/>
+</p>
+            <p xml:space="preserve">Dir. <name type="person" ref="per:97412">Egger</name> von Vorwärts und <name type="person" ref="per:137117">Holzbach</name> von Waldheim-Eberle berichten mir,<lb/>
+daß sie mich als Schiedsrichter ablehnen. Sie kommen extra, um mir zu sagen,<lb/>
+daß sich dies nicht gegen mich richtet. Die Papierindustrie hat in dem Streit<lb/>
+über die Roto-Papierpreise vorgeschlagen, die Paritätische Kommission, d.h.<lb/>
+den Bundeskanzler, mich als Handelsminister oder <name type="person" ref="per:97570">Hrdlitschka</name> in seiner<lb/>
+Funktion als Präsident der Arbeiterkammer. Die Druckereien lehnen alle<lb/>
+drei ab, weil sie auf dem Standpunkt stehen, es müsse nur ein Sachver<lb break="no"/>ständiger prüfen, ob die Vertragsvoraussetzungen eingetreten sind. <name type="person" ref="per:137117">Holz<lb break="no"/>bach</name> warnt noch mit Recht, wenn ich entscheide, könnte dann eine<lb/>
+Zeitung in irgend einer Weise einmal für mich schreiben, dann hieße<lb/>
+es ich hätte sie bestochen, mit diesem Papierpreis. Schreiben sie kontra,<lb/>
+dann würde man sagen, weil ich ihnen nicht entsprechend entgegengekommen<lb/>
+in. Tatsache ist, daß der Vertrag, der bis 1975 lauft, vorsieht, daß alle<lb/>
+<pb n="09-0264" facs="09_1972-02-25_0264.jpg"/>1/2 Jahre die Preise überprüft werden. Die Preise richten sich nach<lb/>
+den schwedischen Preisen in der BRD. Diese Preise sind nun bereits vor<lb/>
+einem 1/2 Jahr entsprechend reduziert werden, doch hat man damals durch<lb/>
+die floating-Situation bedingt, von Seiten der Druckereien verzichtet,<lb/>
+den Papierpreis genau durchzurechnen. Jetzt aber verlangen sie eine<lb/>
+mindestens 8 %ige Reduzierung. Die ÖPA hat aber errechnet, daß nur 4,5 %<lb/>
+möglich sind. Ein Sachverständiger sollte nun in der BRD eine genaue<lb/>
+Überprüfung vornehmen. Die ÖPA – <name type="person" ref="per:138743">Mairhuber</name>, <name type="person" ref="per:139518">Raab</name> und <name type="person" ref="per:139519">Geier</name> haben be<lb break="no"/>reits zugestanden, daß der Rotationspapierpreis von 450,–– S die Tonne<lb/>
+auf 430,–– S gesenkt werden kann. Der Streit geht noch über einen soge<lb break="no"/>nannten Währungsabschlag um 1,50 DM. Die S 12,–– sollen derzeit nicht abge<lb break="no"/>rechnet werden vom Preis, aber bei der nächsten Preiserhöhung kompensiert<lb/>
+werden. Die ÖPA lehnt dies entschieden ab. Wenn die ÖPA nicht heute den<lb/>
+Vertrag hätte, würden wahrscheinlich die österreichischen Druckereien<lb/>
+das Ratio-Papier von Deutschland beziehen. Weltmühle, die größte deutsche<lb/>
+Papierfabrik hat angeblich Waldheim-Eberle franko Haus das Roto-Papier<lb/>
+mit 416,–– die t angeboten. <name type="person" ref="per:137117">Holzbach</name> teilt mir auch mit, daß die ÖPA<lb/>
+nun mit einigen Dutzend Papiersorten zur Paritätischen Kommission gehen<lb/>
+wird, um Preiserhöhungen zu erreichen. Er meinte, daß dies ganz sinnlos<lb/>
+ist, weil sie am Markt diese Preiserhöhung nie erzielen werden.<lb/>
+</p>
+            <p xml:space="preserve">Anmerkung für <name type="person" ref="per:98053">WANKE</name><lb/>
+</p>
+            <p xml:space="preserve">Bitte <name type="person" ref="per:108746">Haffner</name> verständigen und Antrag anfordern.<lb/>
+</p>
+            <p xml:space="preserve">Nach welchen Gesichtspunkten unser Tagesprogramm entweder in Druckschrift,<lb/>
+d.h. damit automatisch das ganze Haus, oder in Handschrift, nur für mich<lb/>
+die einzelnen Versammlungen klassifiziert, ist mir ein Rätsel. Das Re<lb break="no"/>ferat bei den soz. Betriebsarbeitsgemeinschaft der Wiener Gebietskranken<lb break="no"/>kasse war genau so viel oder wenig politisch als wie die gemeinsam Ver<lb break="no"/>anstaltung mit <name type="person" ref="per:114511">Fritz Muliar</name> in Enzersdorf. <name type="person" ref="per:114511">Muliar</name> ist dort neu angesiedelt<lb/>
+und hat sich, was ich ihm hoch anrechne, für die Gemeinderatswahl zur Ver<lb break="no"/>fügung gestellt. Als sehr bekannter Schauspieler und ich würde fast sagen<lb/>
+Volksschauspieler, der eine große Masse beeinflussen kann, hat er natürlich<lb/>
+dafür gesorgt, daß der Stadtsaal schön voll war. Leider bin ich zu spät<lb/>
+gekommen und habe sein Referat nicht gehört, ich weiß, daß er aber in<lb/>
+solchen politischen Veranstaltung viel weniger Schmäh macht, als wie eine<lb/>
+<pb n="09-0265" facs="09_1972-02-25_0265.jpg"/>wirklich ernste politische Analyse von seiner Warte, die meistens auch<lb/>
+die meisten Menschen als ihre betrachten, bringt. Umso leichter kann ich<lb/>
+dann im politischen Referat aufgelockert durch einige Schmähs, wirklich<lb/>
+ein bisschen <name type="person" ref="per:114511">Muliar</name>-Stil reinbringen. Die Benzinpreiserhöhung erklärte<lb/>
+ich auch gleich, daß wir den Bleigehalt vom Benzin herabgesetzt haben und<lb/>
+wenn deshalb eine oder andere Frau auf die Waage gestiegen ist und jetzt<lb/>
+weniger wiegt, so liegt dies daran, daß sie weniger Blei eingeatmet hat.<lb/>
+So blöde Schmäh, die man eben von einem Minister kaum erwartet, kommen<lb/>
+beim Publikum irrsinnig gut an. Vielleicht wäre es überhaupt zweckmäßig,<lb/>
+wenn ich mit <name type="person" ref="per:114511">Muliar</name> öfters auftreten würde. Mir vorher ein entsprechendes<lb/>
+Konzept auf dieser Linie festzulegen. Hier wäre wirklich eine Art Doppel<lb break="no"/>conference, wie ich sie improvisiere, entsprechend vorbereitet am zweck<lb break="no"/>mäßigsten.<lb/>
+</p>
+            <p xml:space="preserve">Anmerkung für <name type="person" ref="per:97646">KOPPE</name><lb/>
+Bitte überlege, ob wir so etwas für die nächsten Propagandareisen vor<lb break="no"/>bereiten sollen.<lb/>
+</p>
+            <p xml:space="preserve">Vollkommen unerklärlich ist mir, daß am Tagesprogramm für den letzten<lb/>
+Punkt Abendessen im St.-Johannes-Club in die Klammer geschrieben wurde:<lb/>
+opinion leaders. Wenn dies im Haus bekannt wird, muß es bedeuten, daß<lb/>
+ich genau deshalb dort hingehe, um diese Leute zu beeinflussen. Natürlich<lb/>
+weiß dies ein jeder, daß dies meine Absicht ist, aber müssen dies doch<lb/>
+nicht schwarz auf weiß niederschreiben. In diesem St.-Johannes-Club,<lb/>
+Prof. <name type="person" ref="per:114057">Mittag</name>, der bei uns den Werbungs-Ausschuß führt, hat mich dazu<lb/>
+animiert. In den Räumen ist auch der Jockey-Club, d.h. es ist ein feiner<lb/>
+privater Klub, wo sogar privat gekocht wird. Mit den 19 anwesenden Ge<lb break="no"/>neraldirektoren und sonstigen Vertretern der Wirtschaft hatte ich eine<lb/>
+interessante Diskussion. Beabsichtigt war dies<add>[bis]</add> 21:15, gedauert hat es<lb/>
+bis 23:15 und ich hätte wahrscheinlich noch stundenlang dortbleiben können.<lb/>
+Zuletzt entwickelte sich aber die Diskussion von Wirtschaftsfragen immer<lb/>
+mehr in ideologische und ich habe deshalb größten Wert darauf gelegt, diese<lb/>
+Diskussion durch eine Entschuldigung, nachdem ich ja bereits um 21:15<lb/>
+erklärte, ich müsse gehen, um 23:15 dann wirklich zu verlassen. Letzten<lb/>
+Fragen bewegten sich dann schon ein ein Gebiet, wo ich nicht sehr sattel<lb break="no"/>fest bin. Bestrebungen der schwedischen Sozialdemokratie mit ihrem Gleich<lb break="no"/>heitsgrundsatz stoßt natürlich auf größten Widerstand bei diesen elitären<lb/>
+Schichten. Die Frage war, ob wir dies auch in Österreich einführen wollen<lb/>
+<pb n="09-0266" facs="09_1972-02-25_0266.jpg"/>und ob wir der Meinung sind, daß diese elitäre Managerschichte wegkommen<lb/>
+müßte. Meine Ausflucht bestand darin, daß ich erklärte, daß der Wohlstand<lb/>
+in Schweden noch nicht dazu geführt hat, um die Freiheitsprinzipien,<lb/>
+die wir doch alle anstreben, zu erfüllen und deshalb wahrscheinlich ein<lb/>
+so starkes Verlangen über das Gleichheitsprinzip nun vielleicht unser<lb/>
+Freiheitsideal eher zu erreichen. Ansonsten war die Diskussion sehr<lb/>
+interessant, da ja auch Landwirte, d.h. Gutsbesitzer und vor allem aber<lb/>
+Papierindustrielle und sonstige Manager anwesend waren. Auf Grund einer<lb/>
+25 jährigen Vergangenheit und Tätigkeit mit diesen Problemen konnte ich<lb/>
+mit Details, Informationen, aber auch Kenntnissen aufwarten, die sicher<lb break="no"/>lich gut angekommen sind. Wie lange ich allerdings noch von dieser Ver<lb break="no"/>gangenheit und Kenntnissen leben werde, kann ich mir derzeit noch nicht<lb/>
+ausreichen. Sicher wird aber einmal, und dies vielleicht sehr bald, die<lb/>
+Zeit kommen, wo ich diese Spezialkenntnisse nicht mehr besitzen werde.<lb/>
+Ob ich dann mit dem <choice><choice><sic>schähn</sic><corr>?</corr></choice></choice>, den ich jetzt natürlich jetzt in jede Dis<lb break="no"/>kussion einflechte, leben kann, bezweifle ich. Bei der Verabschiedung<lb/>
+erfuhr ich dann, daß auch <name type="person" ref="per:97668">Kreisky</name> und <name type="person" ref="per:97311">Androsch</name> bei ihnen geladen waren.<lb/>
+Interessant wäre, ob auch in der Klaus-Regierung so viele Minister bei<lb/>
+ihnen gewesen sind.<lb/>
+</p>
+            <p xml:space="preserve">Anmerkung für <name type="person" ref="per:97646">KOPPE</name><lb/>
+Vielleicht kann dies <name type="person" ref="per:115020">Welser</name> über <name type="person" ref="per:114057">Mittag</name> herausbekommen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="09_0261_01" facs="09_1972-02-25_0261-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 25.2.1972</head>
+         </div>
+      </back>
+   </text>
+</TEI>

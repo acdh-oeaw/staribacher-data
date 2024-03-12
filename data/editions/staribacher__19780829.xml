@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstag, der 29. August 1978</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band44_1978-08-29</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1978-08-29">Dienstag, 29. August 1978</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2017-06-26">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="44-0922" facs="44_1978-08-29_0922.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Dienstag, 29. August 1978<lb/>
+</p>
+            <p xml:space="preserve">Der jugoslawische Botschaftsrat <name type="person" ref="per:116026">Soskic</name> verabschiedet sich<lb/>
+und stellte seinen Nachfolger vor. Leider steht auf meinem<lb/>
+Programm nicht sein Name, daher weiss ich von ihm überhaupt nichts.<lb/>
+Bei dieser Gelegenheit wird von <name type="person" ref="per:116026">Soskic</name> wieder das alte Problem<lb/>
+einer speziellen Vereinbarung resp. Vertrages zwischen Slowenien<lb/>
+und Kroatien und Kärnten und Steiermark ähnlich dem Accordino<lb/>
+angeschnitten. Zu meiner grössten Verwunderung teilte er mir<lb/>
+mit, dass im Handelsministerium und auch in der Handelskammer<lb/>
+ihm gesagt wurde, dass sich die Situation jetzt verbessert hätte<lb/>
+und die Möglichkeit eines solchen Abschlusses wesentlich leichter<lb/>
+gegeben ist. Da mir aber bekannt ist, dass aus Verfassungsgründen<lb/>
+eine ähnliche Regelung wie im Accordino vollkommen unmöglich ist,<lb/>
+frage ich, wer ihm eine solche Hoffnung gemacht hat. Das Accordino<lb/>
+wurde unter Ausserachtlassung der Verfassungssituation unmittel<lb break="no"/>bar nach dem zweiten Weltkrieg aus aussenpolitischen Gründen, mehr<lb/>
+aber noch aus innenpolitischen Tiroler Gründen geschlossen und<lb/>
+eine Wiederholung erscheint jedermann heute unmöglich. Das Accordino<lb/>
+spielt auch im Zuge der Integration und des EG-Vertrages eine<lb/>
+immer unbedeutendere Rolle. Aus verfassungs- und wirtschaftspoliti<lb break="no"/>schen Gründen erscheint deshalb der Wunsch dieser Bundesländer<lb/>
+und Jugoslawien vollkommen unmöglich hin zu erfüllen. Die einzige<lb/>
+Möglichkeit besteht darin, dass Vereinbarungen, ja vielleicht so<lb break="no"/>gar Verträge geschlossen werden, die deklaratorischer Natur sind<lb/>
+und wo man auf die Möglichkeit einer engeren wirtschaftlichen Zu<lb break="no"/>sammenarbeit hinweist. Eine solche Vereinbarung bringt nichts, ist<lb/>
+rein optisch, vielleicht aber aus dem Grund, um Jugoslawien zu<lb/>
+zeigen, dass man trotz des Sprachenstreites an einer besseren Zu<lb break="no"/>sammenarbeit interessiert ist, von aussenpolitischer Bedeutung. Dies<lb/>
+hatte ich auch seinerzeit dem jetzt nicht mehr im Amt befindlichen<lb/>
+Aussenhandelsminister <name type="person" ref="per:114527">Ludviger</name> gesagt. Ich will mit den beiden auch<lb/>
+das Problem der Rotation, alle drei Jahre wechseln dort die<lb/>
+Minister und die Spitzenführungsgremien der der anderen Organisationen<lb/>
+diskutieren, doch gehen beide auf dieses Problem erst gar nicht<lb/>
+ein.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte lass prüfen, wieso und wer diese Aus<lb break="no"/>kunft wegen Accordino-ähnlichem Vertrag gegeben hat und was wir wirk<lb break="no"/>lich optimal mit Jugoslawien an optischen Verträgen anbieten können.<lb/>
+</p>
+            <pb n="44-0923" facs="44_1978-08-29_0923.jpg"/>
+            <p xml:space="preserve">SChef <name type="person" ref="per:112949">Kazda</name> teilt mir mit, dass <name type="person" ref="per:112948">Degischer</name> jetzt doch endlich<lb/>
+sein Ziel geschafft hat und in den Verwaltungsgerichtshof als Richter<lb/>
+kommt. Aus der Abteilung <name type="person" ref="per:112956">Schwarz</name> ist dann ein zweiter wirklich<lb/>
+guter Mann <choice><choice><sic>nach</sic><corr>zu</corr></choice></choice> <name type="person" ref="per:113622">Wiesmüller</name> abgewandert. <name type="person" ref="per:112956">Schwarz</name> hat <name type="person" ref="per:112949">Kazda</name> dezidiert<lb/>
+erklärt, er denke nicht daran, scheinbar selbst wenn er eine<lb/>
+Gruppe bekommt, zu <name type="person" ref="per:98053">Wanke</name> in die Industriesektion zu gehen. Ich<lb/>
+vereinbare mit <name type="person" ref="per:112949">Kazda</name>, wir müssen daher unsere ganze Personalpolitik<lb/>
+in dieser Frage mit den Betroffenen neuerdings besprechen. Ich<lb/>
+werde bei der nächsten Sektionsleitersitzung neben dem Budget<lb/>
+Personalfragen primär besprechen müssen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG AN ALLE: Bitte für die nächste Sektionsleitersitzung<lb/>
+jetzt bereits alle Themen auf eine Tagesordnung zusammenschreiben.<lb/>
+</p>
+            <p xml:space="preserve">Der ORF-Hörfunk, Dr. <name type="person" ref="per:116027">Kattinger</name>, macht mit mir ein Interview und<lb/>
+erklärt freimütig, er kann es erst am nächsten Tag senden,<lb/>
+da am Montag er von unserem Pressefrühstück etwas gebracht hat<lb/>
+und seiner Meinung nach es unmöglich ist, wenn alle Tage derselbe<lb/>
+Minister zu hören ist. Ich teile diese Meinung vollkommen. Mir ist<lb/>
+nur aufgefallen, dass scheinbar der ORF auch nur wenig konkretes<lb/>
+Informationsmaterial besitzt, weshalb er, wenn man so sagen darf,<lb/>
+auf Konserve aufnimmt. Dringendst notwendig erscheint deshalb, dass<lb/>
+wir eine Informationspolitik betreiben, wie dies früher geschehen<lb/>
+ist, wo genau temperiert dem Fernsehen und Rundfunk, noch immer<lb/>
+das wichtigste Glied in den Massenmedien, zeitgerecht entsprechende<lb/>
+Informationen angeboten werden. Wir müssen jetzt endlich die Per<lb break="no"/>sonalfrage <name type="person" ref="per:111699">Puffler</name> lösen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Bitte mit <name type="person" ref="per:97543">Heindl</name> Termin ausmachen.<lb/>
+</p>
+            <p xml:space="preserve">MR <name type="person" ref="per:109811">Burian</name>, der Aufsichtsrat des Handelsministeriums in den Ill-Werken,<lb/>
+wird von mir über die Aussprache mit Dr. <name type="person" ref="per:113021">Reich</name> und <name type="person" ref="per:113016">Peter</name> auf der<lb/>
+Bielerhöhe genau informiert. <name type="person" ref="per:109811">Burian</name> selbst hat auf Grund des<lb/>
+jetzigen Schiedsverfahrens und damit gelieferten Unterlagen in einer<lb/>
+Aktennotiz mir gegenüber die Meinung vertreten, es müsste der Rech<lb break="no"/>nungshof und vielleicht auch sogar die Finanzprokuratur aufge<lb break="no"/>fordert werden, die Vorgänge unter der öffentlichen Verwaltung,<lb/>
+aber dann auch unter den Organen bis zu meiner Kompetenzübernahme,<lb/>
+d.h. die Zeit, wo im Verkehrsministerium die Energie ressortierte,<lb/>
+<pb n="44-0924" facs="44_1978-08-29_0924.jpg"/>genau geprüft werden. <name type="person" ref="per:113021">Reich</name> hat als Direktor ungeheure Detail<lb break="no"/>arbeit bezüglich der Ergründung dieser Zeit und des Verhält<lb break="no"/>nisses der österreichischen Vorstände zu den Deutschen Organen<lb/>
+genau untersucht resp. führt noch genaueste Untersuchungen. Der<lb/>
+Auftrag, den ich dem Vorstand, wie ich das erste Mal von diesem Ver<lb break="no"/>gehen gehört habe, gegeben habe, nämlich alles Material genauest<lb/>
+zu prüfen und dann einen entsprechenden Bericht vorzulegen, kann<lb/>
+erst nach Abschluss des Schiedsgerichtsverfahrens, damit dieses nicht<lb/>
+gefährdet wird, endgültig abgeschlossen werden. <name type="person" ref="per:109811">Burian</name> teilt diese<lb/>
+Auffassung – er hat sie auch stets vertreten – und schlägt deshalb<lb/>
+vor, dass ich den mündlichen Bericht, den ich in der Bielerhöhe<lb/>
+bekommen habe und den ich jetzt, nachdem ich ihm gestern bereits<lb/>
+<name type="person" ref="per:107937">Frank</name> erzählte, ihm ebenfalls mitteile in Form eines Aktenvermerkes<lb/>
+in den Akt, der die ganze Angelegenheit betrifft, einbauen wird.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Bitte lass Dir den Akt dann – bevor er<lb/>
+bei <name type="person" ref="per:109811">Burian</name> dann weiterbearbeitet wird – vorlegen, damit wir dar<lb break="no"/>über sprechen können.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Budget-Vorbesprechung des Handelsministeriums für das<lb/>
+nächste Jahr mit <name type="person" ref="per:112949">Kazda</name>, <name type="person" ref="per:109811">Burian</name> und <name type="person" ref="per:97722">Marhold</name> kann ich einleitend mit<lb/>
+Befriedigung feststellen, dass das System, wie ich es seit dem<lb/>
+Jahr 1970 handhabe, natürlich für das nächste Jahr angewendet wird.<lb/>
+<name type="person" ref="per:97722">Marhold</name> hat mit <name type="person" ref="per:110130">Kaber</name> alles bis in die letzten Details nicht nur<lb/>
+besprochen, sondern, ich glaube, auch abgestimmt. Die offenen Fragen,<lb/>
+die <name type="person" ref="per:109811">Burian</name> vor einiger Zeit meinte, müssten noch zwischen den<lb/>
+Ministern geklärt werden, haben sich so wie in der Vergangenheit<lb/>
+auch immer als gar keine Ministerlösungen herausgestellt. Darüber<lb/>
+bin ich sehr froh, denn ich hätte gerade jetzt bei dem nächstjährigen,<lb/>
+sehr kritischen Budget nicht gerne mit dem Finanzminister über<lb/>
+Erhöhungen in meinem Ressort diskutiert. Durch das Entgegenkommen,<lb/>
+das <name type="person" ref="per:97722">Marhold</name>, auch Wünsche des Finanzministers, z.B. Übernahme von<lb/>
+Subventionen, Brucknerhaus-Ausstellung, Reitverein, Bad Aussee,<lb/>
+Staatsopernbesuch in Amerika usw. hat <name type="person" ref="per:110130">Kaber</name> selbst dann, wenn bei uns<lb/>
+im Haus oder selbst bei mir Bedenken für einzelne Fragen aufgetaucht<lb/>
+sind, das Finanzministerium immer dafür gewonnen, den finanziellen<lb/>
+Ausgleich dafür zu bekommen. Darüber hinaus ist durch seriöse<lb/>
+Unterlagen das Finanzministerium wirklich überzeugt, dass die<lb/>
+Budgetgebarung bei uns nach den von der Regierung gefassten Richt<lb break="no"/>linien abgewickelt wird. Ich bin über diese Situation und Ent<lb break="no"/>wicklung sehr zufrieden. Nichts wäre mir unangenehmer gewesen,<lb/>
+<pb n="44-0925" facs="44_1978-08-29_0925.jpg"/>als gerade für das nächstjährige Budget mit dem Finanzminister<lb/>
+grössere Differenzen zu haben. Er soll nie sagen können, dass<lb/>
+durch die Budgetpolitik des Handelsministers sich sein Defizit<lb/>
+resp. seine schwierige Budgetsituation mitergeben hat. Ich<lb/>
+weiss nicht, wie ich an seiner Stelle gehandelt hätte. Ich bin<lb/>
+nur – wieder einmal möchte ich dies erwähnen – froh, dass ich<lb/>
+nicht dieses Ressort, gegen das ich mich immer mit aller Ent<lb break="no"/>schiedenheit gewehrt habe, bekommen habe. Meine Konzeption wäre<lb/>
+nämlich auch nicht aufgegangen. Als alter Deficit-Spending-Mann<lb/>
+hätte ich wahrscheinlich eine ähnliche Politik gemacht, um die<lb/>
+Wirtschaft so einigermassen auf Touren zu halten. Durch die<lb/>
+harte Schillingpolitik aber und die scheinbar daraus resultierende<lb/>
+relative grosse Stabilität im Preisniveau, wäre allerdings mein<lb/>
+Inflationskonzept nicht aufgegangen. Damit wäre ich in einem ungeheuren<lb/>
+Dilemma gesteckt. Wie <name type="person" ref="per:97311">Androsch</name> resp. <name type="person" ref="per:97668">Kreisky</name> dies lösen wird, bin<lb/>
+ich schon sehr gespannt.<lb/>
+</p>
+            <p xml:space="preserve">Botschafter <name type="person" ref="per:114156">Hinteregger</name> geht jetzt von Madrid nach Moskau, wo er<lb/>
+schon vor 20 Jahren in der Botschaft gearbeitet hat. Da er sowohl<lb/>
+spanisch als auch russisch beherrscht, hat er diesen Posten resp.<lb/>
+wird er diesen Posten optimal erfüllen. Er bestätigt mir neuerdings,<lb/>
+dass es selbst im Westen notwendig ist die Landessprache zu kennen,<lb/>
+um wirklich entsprechende Kontakte knüpfen zu können und damit<lb/>
+nicht nur von den Informationen auf den Cocktailpartys der einzelnen<lb/>
+Botschaften immer angewiesen zu sein. <name type="person" ref="per:114156">Hinteregger</name> wird sich ganz<lb/>
+besonders der wirtschaftlichen aussenhandelspolitischen Situation<lb/>
+widmen. Wir unterhalten uns über die Einzelprobleme. Leider ist<lb/>
+weder <name type="person" ref="per:108322">Meisl</name> noch <name type="person" ref="per:97426">Fälbl</name> anwesend. <name type="person" ref="per:114156">Hinteregger</name> wird aber noch eine<lb/>
+Round-Table-Konferenz, wie es alle ausgehenden Botschafter von<lb/>
+uns als Service angeboten bekommen, mit <name type="person" ref="per:108322">Meisl</name> besprechen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG ANS SEKRETARIAT: Bitte in Hinkunft bei dem Tagesprogramm-<lb/>
+Erstellen die davon betroffenen Beamten ebenfalls für den Zeitpunkt<lb/>
+bereitstellen lassen.<lb/>
+</p>
+            <p xml:space="preserve">Gen.Dir. <name type="person" ref="per:97337">Bauer</name> und <name type="person" ref="per:97429">Feichtinger</name> von der ÖMV sind zu meiner grössten<lb/>
+Überraschung bereit dem Gewerkschaftsbund und vor allem auch mir<lb/>
+gewisse Preiskonzessionen zuzugestehen. Sie wollen aber nicht einmal<lb/>
+formell mit der Arbeiterkammer verhandeln. Sie erklären, sie haben<lb/>
+<pb n="44-0926" facs="44_1978-08-29_0926.jpg"/>immer das Gefühl dort als Angeklagte behandelt zu werden, ob<lb break="no"/>wohl sie mit Kooperationsbereitschaft zu Kompromissverhand<lb break="no"/>lungen hingehen. Nur mühsam gelingt es mir, sie davon zu über<lb break="no"/>zeugen, dass sie auf alle Fälle neben dem Gewerkschaftsbund<lb/>
+auch mit der Arbeiterkammer als gesetzliche Interessensver<lb break="no"/>tretung und vor allem auch in der Preisbehörde alleinige Ver<lb break="no"/>tretungsstelle der Konsumenten verhandeln müssen. Ihr Angebot<lb/>
+wird genauso wie mir gegenüber darin bestehen, für Heizöl extra<lb/>
+leicht, wo der amtliche Preis 3.20 Schilling festgelegt wurde,<lb/>
+einen 20 Groschen freiwilligen Rabatt zu geben. Das System wäre<lb/>
+dasselbe, wie sie es bei den Benzinen handhaben. Bei Diesel mit<lb/>
+6.10 Schilling amtliche Preisregelung und auch tatsächlich auch<lb/>
+an den Tankstellen verlangten, wollen sie keine wie immer geartete<lb/>
+Konzession machen. Ebenso teilen sie meine Meinung, dass es ganz<lb/>
+unzweckmässig wäre, den Benzinpreis, der sowieso durch die Rabatte<lb/>
+unterboten wird, jetzt amtlich zu senken. Ich verlange nach wie vor,<lb/>
+dass auch der Heizöl-Schwer-Preis, der mit 1.350 Schilling die Tonne<lb/>
+von der Paritätischen Kommission festgelegt wurde, ebenfalls ent<lb break="no"/>sprechend rabattiert werden muss. Die ÖMV wird jetzt mit den Inter<lb break="no"/>nationalen interne Verhandlungen aufnehmen, damit, so wie dies auch<lb/>
+beim letzten Mal der Fall war, ein gemeinsames Anbot auf Grund<lb/>
+meines Appells und der Forderung der Arbeiterkammer mir vorge<lb break="no"/>schlagen werden kann.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Bitte auf nächstes Jour fixe AK, ÖGB<lb/>
+setzen.<lb/>
+</p>
+            <p xml:space="preserve">Gen.Dir. <name type="person" ref="per:98102">Wolfsberger</name> von Siemens wird von mir informiert über die<lb/>
+Bescheidpolitik des Gesundheitsministeriums. Nicht zuletzt auf<lb/>
+Drängen der GKT, dass sie endlich wissen möchten, welche Forderungen<lb/>
+die Aufsichtsbehörde für die Inbetriebnahme des Kraftwerke Zwenten<lb break="no"/>dorf setzen wird, wurde beim letzten Bescheid über die Genehmigung<lb/>
+des Kompaktlagers nach der Rechtsmittelbelehrung ein Hinweis<lb/>
+aufgenommen, der eben die Lagerpunkte festlegt. Sowohl über<lb/>
+die Zwischenlagerung als über die Endlagerung werden erstmals<lb/>
+schriftliche Formulierungen in einem Bescheid aufgenommen. <name type="person" ref="per:98102">Wolfs<lb break="no"/>berger</name> sieht das weniger kritisch als ich, da er meint, obwohl<lb/>
+es nicht in dem Bescheid drinnen steht, man könnte diese geologischen<lb/>
+Lager auch selbstverständlich im Ausland auf Grund dieser Formulie<lb break="no"/>rung errichten. Dann wäre der Forderungspunkt Standort erfüllt.<lb/>
+</p>
+            <pb n="44-0927" facs="44_1978-08-29_0927.jpg"/>
+            <p xml:space="preserve">Ich bin überzeugt, hier wird es noch grosse Schwierigkeiten<lb/>
+geben.<lb/>
+</p>
+            <p xml:space="preserve">Bezüglich der finanziellen Unterstützung der Aufklärungskam<lb break="no"/>pagne erklärt sich <name type="person" ref="per:98102">Wolfsberger</name> mir gegenüber sofort bereit, die<lb/>
+Plakatierungskosten durch die Industrie zu übernehmen. <name type="person" ref="per:97543">Heindl</name><lb/>
+hat vollkommen richtig entschieden, wie mir <name type="person" ref="per:98102">Wolfsberger</name> bestätigt,<lb/>
+als er darauf bestand, dass die Plakatierungsflächen reserviert<lb/>
+werden müssen. Die Plakataktion soll angeblich nur 1.5 Mio Schilling<lb/>
+ausmachen, was ich allerdings bezweifle. <name type="person" ref="per:98102">Wolfsberger</name> möchte am<lb/>
+liebsten diese Aktion über das Atomforum abwickeln, ich empfehle<lb/>
+ihm dafür aber eher die Organisation Pro Zwentendorf heranzu<lb break="no"/>ziehen. <name type="person" ref="per:98102">Wolfsberger</name> ist damit ebenfalls einverstanden und wird dies<lb/>
+noch mit <name type="person" ref="per:97333">Bandhauer</name> im Detail besprechen.<lb/>
+</p>
+            <p xml:space="preserve">Mit <name type="person" ref="per:97333">Bandhauer</name>, <name type="person" ref="per:97543">Heindl</name>, <name type="person" ref="per:107956">Satzinger</name> bespreche ich in der SPÖ Land<lb break="no"/>strasse die Zeitungskampagne und Plakataktion. <name type="person" ref="per:97333">Bandhauer</name> hat<lb/>
+grosse Bedenken, ob die Druckkostenbeiträge für Extrablatt,<lb/>
+66.000 Schilling, Der Selbständige, 2 Seiten, ebenfalls 66.000<lb/>
+Schilling, Heute, 75.000 Schilling und bei Forum, wo <name type="person" ref="per:114732">Müller</name> vom<lb/>
+Atomforum resp. Pro Zwentendorf, <name type="person" ref="per:97777">Nenning</name> selbst, aber auch <name type="person" ref="per:97354">Blau</name><lb/>
+schreiben wird, neben den Tageszeitungsannoncen nicht von ÖVP-<lb/>
+Elektrizitätsmanagern dann als Grund genommen wird, um von der ge<lb break="no"/>meinsamen Aktion abzuspringen. <name type="person" ref="per:97543">Heindl</name> argumentiert, dass er alle<lb/>
+diese Probleme grösstenteils auf Wunsch der Elektrizitätswirt<lb break="no"/>schaft, GD <name type="person" ref="per:112014">Erbacher</name>, oder auch des mit der Durchführung betrauten<lb/>
+ÖVP-Vertreters eingehend besprochen hat. <name type="person" ref="per:97543">Heindl</name> ist verärgert, wie<lb/>
+er mir nachher unter 4 Augen mitteilt, weil er sich die ganze Zeit<lb/>
+den Kopf zerbricht, sich dafür einsetzt, dass die Kampagne ent<lb break="no"/>sprechend läuft, sich wirklich, wie man so sagt, zerspragelt und dann<lb/>
+bei den eigenen Genossen so grosse Schwierigkeiten hat. Anderer<lb break="no"/>seits ist <name type="person" ref="per:97333">Bandhauer</name> ehrlich bestrebt Lösungen zu finden, die innerhalb<lb/>
+der Elektrizitätswirtschaft keine Schwierigkeiten oder zumindes<lb break="no"/>tens nur geringfügige Schwierigkeiten bereiten. Das Hauptproblem<lb/>
+besteht meiner Meinung nach darin, dass z.B. <name type="person" ref="per:116029">Dorn</name> von der SPÖ,<lb/>
+Zentralsekretariat, allen Ernstes glaubt, man kann bei einer solchen<lb/>
+Aktion gleich gewisse pressepolitische Fragen lösen und Finanzierung<lb/>
+vornehmen und in einer Überheblichkeit, womöglich noch im Befehlston<lb/>
+glaubt, jedermann dazu zwingen zu können. Einmal mehr stelle ich<lb/>
+fest, dass immer wieder durch ungeschicktes Verhandeln, oft auch<lb/>
+<pb n="44-0928" facs="44_1978-08-29_0928.jpg"/>durch persönliche Mißverständnisse bedeutende Fragen und<lb/>
+Lösungen dadurch gefährdet werden. Da ich weiss, dass dies auch<lb/>
+in der grossen Politik – und zwar nicht nur in Österreich –<lb/>
+auch nicht anders ist, beginne ich manchmal wirklich zu zweifeln,<lb/>
+ob die Sachentscheidung, die Sachlösung, die Sachfrage das Ent<lb break="no"/>scheidende ist oder nicht doch vielleicht nur die persönliche<lb/>
+Aversion oder persönlicher guter Kontakt der Leute, die sie<lb/>
+durchzuführen haben.<lb/>
+</p>
+            <p xml:space="preserve">Im Präsidium von der Landstrasse kann ich feststellen, dass<lb/>
+wirklich während meiner Urlaubszeit ungeheuer viel geschehen ist<lb/>
+und dass dieses Team <name type="person" ref="per:97543">Heindl</name>, <name type="person" ref="per:97892">Sallaberger</name>, <name type="person" ref="per:114998">Sevcik</name> mit der Sekretärin<lb/>
+<name type="person" ref="per:112037">Tischler</name> zusammen und natürlich auch noch anderen viel geleistet hat.<lb/>
+In der Sektionsleitersitzung, wo es früher auch kritische Bemerkungen<lb/>
+gegeben hat, wie denn eigentlich der Wahlkampf wird abgewickelt<lb/>
+werden, sind deshalb diese Vorurteile beseitigt und die Kritiken<lb/>
+verstummt. Auch mein politischer Bericht wird nur harmlosest dis<lb break="no"/>kutiert. Dies ist aber, glaube ich, darauf zurückzuführen, dass <name type="person" ref="per:97543">Heindl</name><lb/>
+während meiner Abwesenheit bereits über Fragen Grundstücke der<lb/>
+Gemeinde, <name type="person" ref="per:97311">Androsch</name>, ÖVP-Kampagne usw. berichtet hat, wie er mir be<lb break="no"/>reits vorher erzählte. Wenn dies nicht der Fall gewesen wäre,<lb/>
+wäre ich über die Friedhofsruhe zu diesen Punkten in unserem Be<lb break="no"/>zirk sehr beunruhigt.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="44_0921_01" facs="44_1978-08-29_0921-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 29.8.1978</head>
+         </div>
+         <pb n="44_0921_02" facs="44_1978-08-29_0921-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

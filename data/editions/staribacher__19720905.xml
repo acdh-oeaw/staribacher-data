@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstag, der  5. September 1972</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band12_1972-09-05</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1972-09-05">Dienstag, 5. September 1972</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-10-23">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="12-1049" facs="12_1972-09-05_1049.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Dienstag 5. September 1972<lb/>
+</p>
+            <p xml:space="preserve">In der Ministerratsvorbesprechung hält <name type="person" ref="per:97668">Kreisky</name> fest, daß wir bei<lb/>
+der Regierungsklausur versuchen sollten, für die einzelnen Regierungs<lb break="no"/>ressorts fertige Konzepte zu erstellen. Die Regierung müßte auch,<lb/>
+wenn jetzt die Nationalrat entsprechenden großen Auseinandersetzungen<lb/>
+kommen, EG-Verhandlungen, Steuerreform, usw. mit neuen Konzepten in<lb/>
+der Presse in Erscheinung treten. Alle Zeitungen werden sich gegen die<lb/>
+Regierung richten. Auch die Kronenzeitung. Der Kurier insbesondere<lb/>
+macht jetzt schon kleine Sachen groß auf, während er ungemein wichtige<lb/>
+Probleme ganz einfach negiert. Trotzdem liegt die SP in der Meinungs<lb break="no"/>umfrage nicht schlecht. Der <choice><choice><sic>Pentwegeneffekt</sic><corr>Bandwagon-Effekt</corr></choice></choice> ist weggefallen und wir<lb/>
+haben noch immer den Stand vor dem 10. Oktober 1971. Die VP will bei<lb/>
+den EG-Begleitmaßnahmen Verhandlungen als Druckmittel die Ablehnung<lb/>
+des Vertrages ausspielen, obwohl sie genau weiß, daß sie dies nicht<lb/>
+kann und daher auch von uns nicht ernst genommen wird. Sie wird des<lb break="no"/>halb der Regierung Machthunger vorwerfen und insbesondere <name type="person" ref="per:98091">Withalm</name> wird<lb/>
+sich als Mahner der Demokratie aufspielen und in Erscheinung treten.<lb/>
+Die Reden <name type="person" ref="per:98091">Withalms</name> im Nationalrat in der Zeit 1966–70 verweisen, wo<lb/>
+er einigemale erklärt hat, geben sie sich keiner Illusion hin, wir<lb/>
+haben die Mehrheit und wir werden so beschließen wie wir es wünschen.<lb/>
+Jetzt kann deshalb der ÖVP keine großen Konzessionen gemacht werden.<lb/>
+Insbesondere gilt dies für die Erstattungsregelung. Wenn sie heute bei<lb/>
+Zucker eine Erstattung bekäme, müßte dann ebenso die österreichische<lb/>
+Regierung für Papier, Textilien und Schuhe, Gießereien usw. vorsorgen.<lb/>
+Die FPÖ wieder wollen einen Erfolg und dazu besteht überhaupt keine<lb/>
+Notwendigkeit, da die Verträge 2/3-Mehrheit bedürfen, sind die Stimmen<lb/>
+der Freiheitlichen wertlos. Außerdem hat sich bei der Politikerbesteuerung<lb/>
+gezeigt, daß die Freiheitlichen nicht einheitlich auftreten. Die jungen<lb/>
+Nationalräte dieser Partei wollten bedingungslose Oppositionen gegen<lb/>
+die Regierung.<lb/>
+</p>
+            <p xml:space="preserve">Die Handelskammer Wien hat einen Brief an <name type="person" ref="per:97668">Kreisky</name> gerichtet, wo sie<lb/>
+sich ganz entschieden dagegen ausspricht, daß die Überwachung der<lb/>
+UNIDO-Bauten ein Monopol für die Ziviltechniker werden soll. Wie dies<lb/>
+Bundesingenieurkammer <name type="person" ref="per:97761">Müller-Hartburg</name> verlangt. Dieser hat sich vorge<lb break="no"/><pb n="12-1050" facs="12_1972-09-05_1050.jpg"/>stellt, daß für jeden Auftrag ein Prüfungsingenieur eingesetzt<lb/>
+wird. <name type="person" ref="per:97311">Androsch</name> hat errechnet, daß sich damit die Kosten um 70 bis<lb/>
+80 Mio S verteuern würden. Außerdem wäre dies ein ungeheures Präjudiz<lb/>
+für alle Staatsaufträge.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97461">Frühbauer</name> verweist darauf, daß bereits jetzt im Zuge der Mehrwertsteuer<lb/>
+die Entlastung festlegen muß, um die internationalen Verpflichtungen<lb/>
+der Tarifverlautbarung Rechnung tragen zu können. Er hat zwei Variationen,<lb/>
+entweder er geht mit der Entlastung von 6 % in den Hauptausschuß und<lb/>
+legt neue Tarife fest, oder er macht einen Ausnahmstarif wo er festhält,<lb/>
+daß alle Tarife für den Güterverkehr um 6 % gesenkt werden. Da er die<lb/>
+alten Investitionen nicht berücksichtigt, ergibt sich kein größere<lb/>
+Absenkung durch die 16 %-ige Mehrwertsteuer würden die Tarife dann de<lb/>
+facto um fast 10 % steigen. Auf alle Fälle haben seine Tarife, da sie<lb/>
+weder preisgeregelt sind, noch überhaupt Höchstkalkulationen erstellt<lb/>
+werden können in unserem Entlastungskatalog des Handelsministeriums<lb/>
+nichts verloren. Es könnten nur dann so wie bei preisgeregleten Waren<lb/>
+resp. bei Waren die der Preisregelung durch Festlegung der Preise nicht<lb/>
+unterliegen im Entlastungskatalog Vervollständigung aber<lb/>
+ohne rechtliche Wirkung aufgenommen werden. <name type="person" ref="per:97461">Frühbauer</name> wird sich noch<lb/>
+entscheiden, welche Variante er wählt.<lb/>
+</p>
+            <p xml:space="preserve">Anmerkung für <name type="person" ref="per:98053">WANKE</name>:<lb/>
+Mit <name type="person" ref="per:111737">Marsch</name> habe ich vereinbart, daß der richtige Referent vom Ver<lb break="no"/>kehrsministerium zu unserer gemeinsamen Sitzung eingeladen wird.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:108224">Lütgendorf</name> muß das Tageskostgeld von S 20,–– ab 1. Oktober auf S 24,––<lb/>
+erhöhen, weil bereits jetzt im Juli bereits S 23,87 ausgegeben werden<lb/>
+muß, um die Quantität und die Kalorienanzahl die vorgesehen sind, zu<lb/>
+erreichen. Für die Verwaltungen wird es immer schwieriger mit den<lb/>
+Ansätzen das Auslangen zu finden. <name type="person" ref="per:108224">Lütgendorf</name> will für die übernächste<lb/>
+Sitzung des Verteidigungsrates eine Studie über das Berufsheer aus<lb break="no"/>arbeiten lassen.<lb/>
+</p>
+            <p xml:space="preserve">Im Ministerrat berichtet <name type="person" ref="per:97668">Kreisky</name> über seinen Aufenthalt in der<lb/>
+Olympiastadt München. Dankte insbesondere unseren Teilnehmern. <name type="person" ref="per:97668">Kreisky</name><lb/>
+meint, daß es ein großer Fehler war, die Olympiade nicht nach Wien zu<lb/>
+nehmen, denn München hat sich jetzt um 20 Jahre früher zu der Weltstadt<lb/>
+<pb n="12-1051" facs="12_1972-09-05_1051.jpg"/>entwickelt. Natürlich kosten solche notwendige Bauten irrsinniges<lb/>
+Geld, aber sie beschleunigen den Fortschritt einer Stadt. <name type="person" ref="per:97668">Kreisky</name><lb/>
+weist darauf hin, daß z. B. Brüssel ebenfalls, als es die Weltaus<lb break="no"/>stellung bekommen hat, die Voraussetzungen dafür geschaffen hat, um<lb/>
+jetzt bei der EG als die Hauptstadt fungieren zu können. Wenn die<lb/>
+nächste Weltausstellung nach Europa wieder kommt und die Konkurrenz<lb/>
+zwischen Hamburg und Wien möglich ist, dann sollte sich Wien auf<lb/>
+alle<add>[Fälle?]</add> intensivst darum bewerben. Es ist wahrscheinlich, daß man nicht<lb/>
+nach der Olympiade in der BRD auch die Weltausstellung Hamburg zu<lb break="no"/>sprechen wird. Er selbst meint, daß trotz der großen Belastungen fin<lb break="no"/>anzieller Art doch dann Wien mit Unterstützung der Bundesregierung<lb/>
+um die Durchführung bewerben sollte.<lb/>
+</p>
+            <p xml:space="preserve">In der Dienstbesprechung erwähne ich die Budgetgespräche und insbesondere<lb/>
+unsere Anträge zum 2. BÜG. Am Nachmittag kann ich dann bereits fest<lb break="no"/>stellen, daß SR <name type="person" ref="per:97722">Marhold</name> vom Finanzministerium die Mitteilung bringt,<lb/>
+daß alle unsere Anträge genehmigt werden. <add>[Name fehlt, Anm.]</add>...... und er sind sehr<lb/>
+überrascht, daß dies gelungen ist. Ich habe bereits bei der Dienstbe<lb break="no"/>sprechung darauf hingewiesen, daß wir unsere seinerzeitigen Anträge<lb/>
+ohne die <choice><choice><sic>Bücks</sic><corr>BÜGs (= Budgetüberschreitungsgesetze)</corr></choice></choice> als mit den Abteilungen und Sektionen als<lb/>
+abgesprochen und als von diesen positiv zur Kenntnis genommen betrachten<lb/>
+können. Dies ist deshalb notwendig, damit nicht innerhalb unseres<lb/>
+Hauses dann die Mär entsteht, daß durch dieses neue Budget 1973 die<lb/>
+Aktivitäten des Handelsministeriums behindert werden. <name type="person" ref="per:97722">Marhold</name> möchte<lb/>
+die 20 Mio., die wir als 2. BÜG für die Komfortzimmeraktion angesprochen<lb/>
+haben auch hauptsächlich dafür verwenden ev. Anträge innerhalb der<lb/>
+Hausaktion für den Fremdenverkehr Deckungsmittel daraus bereitzustellen.<lb/>
+Ich erkläre rundweg, daß die Komfortzimmeraktion die Priorität hat<lb/>
+die Abteilung 22, MR <name type="person" ref="per:134296">Poppinger</name> müssen sich mit ihrer Hausaktion ent<lb break="no"/>sprechend einschränken. Da letzten Endes jeder weitere Zuschlag nur<lb/>
+eine weitere Belastung für die nächsten 5 Jahre bedeutet.<lb/>
+</p>
+            <p xml:space="preserve">Botschafter <name type="person" ref="per:135642">Leitner</name> hat <name type="person" ref="per:98053">Wanke</name> und mir erklärt, daß er sich <choice><choice><sic>in heute 8</sic><corr>?</corr></choice></choice><lb/>
+gebeten habe sich zu überlegen, ob er ein Kommentar zu den EG-Verhandlun<lb break="no"/>gen rausgeben möchte, negativ entschieden. Er erklärte, daß er die De<lb break="no"/>tailkenntnisse nicht besitzt und daß er natürlich bereit wäre, bei<lb/>
+einem solchem Werk mitzuarbeiten. Ich habe ihn überhaupt nicht<lb/>
+<pb n="12-1052" facs="12_1972-09-05_1052.jpg"/>weiter gedrängt, sondern diese Entscheidung zur Kenntis genommen. Un<lb break="no"/>mittelbar daran hat er auch angeschlossen, wie es überhaupt jetzt mit<lb/>
+ihm weitergehen wird. Er fühle sich sehr unsicher. Ich selbst<lb/>
+habe ihm keinerlei Zusicherungen gemacht, daß ich beabsichtige, diesen<lb/>
+Posten in Brüssel nur mit ihm zu besetzen. Ich habe wohl <name type="person" ref="per:97632">Kirchschläger</name><lb/>
+sofort nach seiner Aussprache in Luxemburg sofort verständigt, daß ich<lb/>
+von einer falschen Voraussetzung ausgegangen<add>[?]</add> bin und daß er<lb/>
+nur dann von Brüssel weg will, wenn er einen entsprechenden Posten be<lb break="no"/>kommt. Er glaubt nun, daß eine solche Möglichkeit nicht mehr existiert<lb/>
+und würde sich daher ganz entschieden mit allen ihm zur Verfügung<lb/>
+stehenden Mitteln dagegen wehren, wenn er von Brüssel abberufen wird.<lb/>
+Ich erklärte, daß dies ein Problem des Aussenministeriums ist, worauf<lb/>
+ich keinen Einfluß nehmen könnte und auch nicht wollte. Ich habe nur<lb/>
+immer erklärt, daß im Haus selbst der Wunsch existiert, natürlich die<lb/>
+Brüsseler Mission, die eigentlich dem Handelsministerium untersteht,<lb/>
+auch durch Handelsministeriumsleute zu besetzen. Ich stellte auch sofort<lb/>
+richtig, daß das Gerücht, wonach <name type="person" ref="per:98053">Wanke</name> auf diesen Posten kommen sollte,<lb/>
+absolut unbegründet ist. Ich lud <name type="person" ref="per:135642">Leitner</name> für die Integrationsausschuß-<lb/>
+und die Nationalratsbeschlußfassung am Dienstag bis Donnerstag nächster<lb/>
+Woche ein.<lb/>
+</p>
+            <p xml:space="preserve">Für unser Kommentar zu den EG-Verträgen hat sich MR <name type="person" ref="per:126251">Hausberger</name> zur Ver<lb break="no"/>fügung gestellt, der sich auf Urlaub befindet und mich ebenfalls be<lb break="no"/>grüßte. Da er nächste Woche schon nach Brüssel zurück müßte, habe ich<lb/>
+ihn ersucht, er möge in Wien verbleiben, um ebenfalls an der Nationalrats<lb break="no"/>debatte teilnehmen zu können. <name type="person" ref="per:126251">Hausberger</name> hat sich darüber sehr gefreut,<lb/>
+weil seine Frau gerne noch länger in Wien weilt. Ich habe <name type="person" ref="per:126251">Hausberger</name> auch<lb/>
+versprochen, daß wir in seiner Personalangelegenheit, soweit ich irgend<lb break="no"/>wie nur Möglichkeiten dazu habe, ihn unterstützen. Ich glaube, wir<lb/>
+sollten Leute, die mit uns kooperieren und <name type="person" ref="per:126251">Hausberger</name> hat sich<lb/>
+in den ganzen Jahren gegenüber der Arbeitnehmerseite sehr loyal ver<lb break="no"/>halten und insbesondere in der letzten Zeit sehr aktiv mit uns gearbeitet<lb/>
+ohne seine politische andere Einstellung zu verbergen. Durch so kleine<lb/>
+Freuden und insbesondere durch eine wohlwollende Unterstützung aus<lb break="no"/>zeichnen.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Dienstbesprechung habe ich auch <name type="person" ref="per:97915">Schipper</name> ersucht, er möge mir<lb/>
+einen Vorschlag unterbreiten, wie und in welchem Umfang wir unsere<lb/>
+Mission in Brüssel insbesondere unsere Schreibkräfte durch eine Prämie<lb/>
+<pb n="12-1053" facs="12_1972-09-05_1053.jpg"/>auszeichnen können.<lb/>
+</p>
+            <p xml:space="preserve">Anmerkung für <name type="person" ref="per:97543">HEINDL</name>:<lb/>
+Vielleicht kannst Du für <name type="person" ref="per:126251">Hausberger</name> und insbesondere für die Prämien<lb break="no"/>frage eine entsprechende Lösung finden.<lb/>
+</p>
+            <p xml:space="preserve">Gen.Dir. <name type="person" ref="per:140168">Rohan</name>, British Leyland Austria, will die Autopreise nicht er<lb break="no"/>höhen. Die 12.000 Wagen die er jährlich importiert, kamen bis<lb/>
+jetzt von England. Nun hat das Mutterwerk beschlossen, daß diese Wagen<lb/>
+aus Seneffe, einem belg. Assemblingwerk geliefert werden. Dadurch würde<lb/>
+zwar eine Zollsenkung bei dem Interimsabkommen eintreten, vorher aber,<lb/>
+da es aus einer EFTA-Zone nun in eine EWG-Zone übergeht eine 20 %-ige<lb/>
+Zollerhöhung Platz greifen. Es gibt nun eine Zollbestimmung, daß bis zu<lb/>
+15 % EG-Anteil in eigener Zollsatz von ca. 0,4 % auf den Wert zur<lb/>
+Anrechnung, aber British Leyland möchte auch diesen Zollsatz nicht be<lb break="no"/>zahlen, um die Autopreise nicht zu erhöhen. Da der Autoreferent nicht<lb/>
+anwesend war ersuchte ich nach einigen Bemühungen MR <name type="person" ref="per:112946">Schleifer</name> dieses<lb/>
+Problem zu übergeben. Ich habe diesen Sachverhalt noch nie gehört.<lb/>
+<name type="person" ref="per:112946">Schleifer</name> hat überhaupt keine Ahnung und berief sich darauf, daß SR<lb/>
+<name type="person" ref="per:127126">Hönel</name> dies bearbeitet hat.<lb/>
+</p>
+            <p xml:space="preserve">Anmerkung für <name type="person" ref="per:98053">WANKE</name>:<lb/>
+Bitte eine Sachverhaltsdarstellung nach einiger Zeit verlangen und<lb/>
+insbesondere klären, wie weit <name type="person" ref="per:112946">Schleifer</name> die Firma unterstützt hat.<lb/>
+</p>
+            <p xml:space="preserve">Die Parteienverhandlungen über das EG-Begleitprogramm brachten nur<lb/>
+eine Festlegung der einzelnen Standpunkte. <name type="person" ref="per:97311">Androsch</name> erklärt durch<lb/>
+die Anhebung der vorzeitigen Abschreibung von 20 auf 25 % und für<lb/>
+die Arbeiterwohnbauten auf 50 % sowie die Einbeziehung der der <choice><choice><sic>Um<lb break="no"/>wälzinvestitionen</sic><corr>Umweltinvestitionen?</corr></choice></choice> die <choice><choice><sic>fortschrittliche AFA</sic><corr>vorzeitige AfA?</corr></choice></choice> im Einkommensteuerentwurf<lb/>
+sowie die Erhöhung der Investitionsrücklage von 20 auf 25 % und deren<lb/>
+Verwendungsfrist von 3 auf 4 Jahre alle steuerlichen Voraussetzungen<lb/>
+geschaffen zu haben. Im Punkt 2, Verlängerung des Strukturverbesserungs<lb break="no"/>gesetzes, das am 31. Dezember 1973 ausläuft, sieht er keine Notwendigkeit<lb/>
+da die wichtigsten Bestimmungen, in die Stammgesetze aufgenommen<lb/>
+werden. P. 3) Die Begünstigung von österr. Investitionen im Ausland<lb/>
+ist seiner Meinung nach eine Fehlüberlegung. Die ausl. Investitionen<lb/>
+<pb n="12-1054" facs="12_1972-09-05_1054.jpg"/>sind, soweit diese negative Bilanz ergeben, bei den Mutterwerken mit<lb/>
+einer Teilwert abzusetzen. Wenn die Auslandsinvestitionen eine positive<lb/>
+Bilanz erbringen, dann besteht keine ökonomische Notwendigkeit und<lb/>
+Berechtigung, eine zusätzliche Steuerbegünstigung zu geben.<lb/>
+P. 4) Die Ausgleichsabgabegesetze werden eingebracht und die Erstattungs<lb break="no"/>regelung kommt nicht in Frage.<lb/>
+P. 5) Die mehrjährige Verlängerung der befristeten Wirtschaftsgesetzes<lb/>
+wird für 2 Jahre in Aussicht genommen, bei gleichzeitigem Beginn der<lb/>
+Verhandlungen im Frühjahr nächsten Jahres.<lb/>
+P. 6) Milch und Molkereiprodukte – Absatzsicherung teilt <name type="person" ref="per:98055">Weihs</name> mit,<lb/>
+daß 4.000 t Vollmilchpulver und 1.500 Butter Ende August nach GB ex<lb break="no"/>portiert wurden. Derzeit wird an einem Mindestpreisabkommen gearbeitet<lb/>
+und unmittelbar nach Abschluß der Verträge die Verhandlungen mit Brüssel<lb/>
+aufgenommen.<lb/>
+P. 7) Die Qualitätskontrolle für Obst, Gemüse wird eingeführt, derzeit<lb/>
+ist Äpfel und Birnen, sowie Eier stehend und Gurken, Tomaten u. Salat,<lb/>
+Zitrusfrüchte, Pflaumen und Pfirsiche werden die Verordnungen in Kürze<lb/>
+zur Begutachtung ausgeschickt.<lb/>
+P. 8) erklärt <name type="person" ref="per:97525">Häuser</name>, daß der Beirat für die Arbeitsmarktförderung 1971<lb/>
+ein Konzept erstellt hat. Die individuelle Umschulung sei gesichert, eben<lb break="no"/>so die Farben zur Arbeitsplätzen. Betriebszuwendungen mit Zinsenzuschüs<lb break="no"/>sen und Darlehen könnten ebenfalls gegeben werden. Der gewünschte<lb/>
+Bericht wird seit 1966 im Form des Sozialberichtes dem Nationalrat zuge<lb break="no"/>leitet. 1972 sind 400 Mio. dafür zur Verfügung gestanden. 1973 werden es<lb/>
+500 Mio. sein. <name type="person" ref="per:97893">Sallinger</name> und <name type="person" ref="per:97769">Mussil</name> ergänzen auf Wunsch <name type="person" ref="per:97917">Schleinzers</name> das<lb/>
+Forderungsprogramm und weisen darauf hin, daß für Papier eine entspre<lb break="no"/>chende Regelung gefunden werden muß, ebenso für die Salzfolgeprodukte.<lb/>
+Die österr. Industrie hätte dafür 310 S + Fracht zu zahlen. Im Unter<lb break="no"/>schied von der <sic>....Industrie</sic>, die nicht einmal die Hälfte davon auslegen<lb/>
+muß. Die Handelskammer wendet sich auch dagegen, daß die de<lb break="no"/>gressive AfA verboten werden soll. Diese wurde seinerzeit von<lb/>
+<name type="person" ref="per:111742">Kamitz</name> noch eingeführt, als man sich in der Koalition über eine vor<lb break="no"/>zeitige AFA-Verlängerung nicht einigen konnte. <name type="person" ref="per:97311">Androsch</name> weist mit Recht<lb/>
+darauf hin, daß Österreich und deshalb will er die degressive APA ver<lb break="no"/>bieten, die vorzeitige AFA eingeführt hat. Da <name type="person" ref="per:97917">Schleinzer</name>, als er sein<lb/>
+Programm vortrug, darauf hinweisen, daß auch ich über ein europareifes<lb/>
+Programm gesprochen habe, stelle ich richtig, daß ich damit nur gemeint<lb/>
+hatte, daß die Bundesregierung schon alles unternommen hat, um diese<lb/>
+<pb n="12-1055" facs="12_1972-09-05_1055.jpg"/>Europareife zu erreichen. <name type="person" ref="per:97769">Mussil</name> weist darauf hin, daß die Verschuldung<lb/>
+der österr. Wirtschaft von 53 % auf 60 % gewachsen ist. Da das Eigen<lb break="no"/>kapital in der BRD um 75 % höher liegt als in Österreich. Weiters daß<lb/>
+die Produktivität in der BRD um 38 % höher liegt, wenn man die kauf<lb break="no"/>kraftmäßigen Vergleichsstellen um 25 % zumindestens höher liegt als<lb/>
+in Österreich. Ich glaube daß es notwendig sein wird für die Behauptung<lb/>
+daß wir bereits ein europareifes Programm vorgelegt haben und insbesondere<lb/>
+die Argumente von <name type="person" ref="per:97769">Mussil</name> ziffernmäßig zu <choice><choice><sic>entgehen</sic><corr>entgegnen?</corr></choice></choice>, eine entsprechende<lb/>
+Aufstellung von uns gemacht werden sollte, wo wir dies stichwortartig<lb/>
+und ziffernmäßig belegt aufzählen sollen.<lb/>
+</p>
+            <p xml:space="preserve">Anmerkung für <name type="person" ref="per:98053">WANKE</name>:<lb/>
+Bitte eine diesbezügliche Arbeit unverzüglich veranlassen. Die Ver<lb break="no"/>handlungen werden am Freitag fortgesetzt.<lb/>
+</p>
+            <p xml:space="preserve">Zwischendurch werden die vornehmlich berührten Minister die ent<lb break="no"/>sprechenden Besprechungen führen. Ich selbst brauche nur über die<lb/>
+Erstattung und Abschöpfungsfrage am Freitag um 10.00 mit <name type="person" ref="per:97311">Androsch</name><lb/>
+und <name type="person" ref="per:98055">Weihs</name> im BKA sein, bevor um 11.00 dann die Besprechungen im<lb/>
+großen Komitee fortgesetzt werden.<lb/>
+</p>
+            <p xml:space="preserve">Die Reden bei den Messeeröffnungen liegen mir überhaupt nicht.<lb/>
+Wenn ich mit einem so einem Widerwillen an eine Arbeit<lb/>
+gehe, dann fällt natürlich das Resultat entsprechend aus. Zum Glück<lb/>
+durch die jetzt eingeführten Wochentagsabenderöffnungen überhaupt kein<lb/>
+Fernsehen mehr dort. Bei dem anschließenden Empfang hatte ich Gelegen<lb break="no"/>heit mit <name type="person" ref="per:97836">Porges</name> über die Überschneidung der Termine zu sprechen. Die<lb/>
+Wiener Messe ist sehr erschüttert, da <name type="person" ref="per:97607">Jonas</name> ihnen mitgeteilt hat, daß<lb/>
+bei der Welser Messeeröffnung <name type="person" ref="per:115673">Neuhauser</name> sehr hart die Wiener attackiert<lb/>
+hat wegen der Terminüberschneidungen. <name type="person" ref="per:115673">Neuhauser</name> hat sogar auch ein<lb/>
+Messegesetz verlangt. Ich selbst kann mir nicht vorstellen, daß ein<lb/>
+Messegesetz wirklich positives bringen könnte und habe deshalb keine<lb/>
+Neigung gezeigt, ein solches wirklich zu machen. Ich habe <name type="person" ref="per:97836">Porges</name> nur<lb/>
+darauf aufmerksam gemacht, daß er sich derzeit mit der Frankfurter Messe<lb/>
+mit der Leipziger Messe und der Welser Messe überschneidet. <name type="person" ref="per:97836">Porges</name><lb/>
+selbst meint, das spiele für die Wiener Messe überhaupt keine Rolle,<lb/>
+meint aber, daß im nächsten Jahr die Konsummesse mit der Wiener Messe<lb/>
+zusammenfallen würde und diese Kollision könnte von größter Bedeutung<lb/>
+<pb n="12-1056" facs="12_1972-09-05_1056.jpg"/>und Schaden sein. Ich glaube, daß in Hinkunft überhaupt diese allge<lb break="no"/>meinen Messen auch dann, wenn sie heute als Mehrbranchenmesse bezeichnet<lb/>
+wird, keine Chancen haben werden. Ich nehme eher an, daß man in Aus<lb break="no"/>stellungszentren wie die Wiener Messe in der Rotunde geschaffen hat,<lb/>
+kontinuierlich Woche für Woche durch alle Sparten hindurch immer Einzel<lb break="no"/>messen veranstalten wird. Natürlich ist dies gerade für die Lebens<lb break="no"/>mittelbranche von verheerender Bedeutung. Zur Fressmesse allein, wie<lb/>
+zur AIDA im Vorjahr, kommen dann leider nicht die Massen, die ansonsten<lb/>
+doch bereit sind, das Messegeschäft für die Lebensmittelaussteller zu<lb/>
+einem guten Erfolg zu bringen. Abgesehen von dieser Sparte glaube ich<lb/>
+wünschen aber alle in Wirklichkeit Spezialmessen. Nur ganz kleine<lb/>
+Gruppen werden bereits sein sich mit ähnlichen Branchen sich zusammen<lb break="no"/>zuschließen.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Messeröffnung berichtete ich <name type="person" ref="per:97632">Kirchschläger</name> über die Aussprache<lb/>
+mit <name type="person" ref="per:135642">Leitner</name>. Er meinte, wir sollen ihm jetzt eine Zeit auf alle Fälle<lb/>
+schmoren lassen, bevor wir uns dann neuerdings mit dem Problem dann<lb/>
+beschäftigen. Er hätte für ihn momentan keinen Posten, würde sich aber<lb/>
+bemühen, eine Lösung zu finden. Da ich ihm noch nicht berichten konnte,<lb/>
+ob <name type="person" ref="per:97867">Reiterer</name> überhaupt die Brüsseler Mission übernehmen will, meinte er,<lb/>
+er hätte geglaubt, daß <name type="person" ref="per:97867">Reiterer</name> ganz besonders drängt dorthin zu kommen.<lb/>
+Allerdings stimmte mir <name type="person" ref="per:97632">Kirchschläger</name> sofort zu, daß sie wahrscheinlich<lb/>
+untereinander über dieses Problem gesprochen haben, auch dann, wenn<lb/>
+ich <name type="person" ref="per:97867">Reiterer</name> bis jetzt offiziell überhaupt noch nichts von diesem Plan<lb/>
+gesagt habe. <name type="person" ref="per:97632">Kirchschläger</name> teilt vollkommen unsere Auffassung, daß vor<lb break="no"/>erst von <name type="person" ref="per:97867">Reiterer</name> eine positive Zusage über <name type="person" ref="per:97543">Heindl</name> vorliegen muß, bevor<lb/>
+ich ihm überhaupt ein solches Angebot stelle. In diesem Falle werde<lb/>
+ich vorher mit <name type="person" ref="per:97632">Kirchschläger</name> und natürlich auch mit <name type="person" ref="per:97668">Kreisky</name> dieses<lb/>
+Problem eingehend besprechen. Ich bin überzeugt, daß mich <name type="person" ref="per:97632">Kirchschläger</name><lb/>
+in dieser Frage 100 %-ig unterstützen wird, wenn ich auch die Meinung von<lb/>
+<name type="person" ref="per:98053">Wanke</name> teile, daß das Aussenamt auf alle Fälle versuchen wird, diesen<lb/>
+Posten für sich zu behalten. Es besteht damit die eminente Gefahr, daß<lb/>
+sie <name type="person" ref="per:135642">Leitner</name> überhaupt keinen Posten anbieten, um bei ihm sozusagen eine<lb/>
+Abberufung umlaufen zu lassen. Ich bin sehr gespannt, wie <name type="person" ref="per:97867">Reiterer</name><lb/>
+reagieren wird.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="12_1048_02" facs="12_1972-09-05_1048-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 5.9.1972</head>
+         </div>
+         <pb n="12_1048_03" facs="12_1972-09-05_1048-03.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notiz (Tagesprogramm Rückseite)</head>
+         </div>
+         <pb n="12_1056_01" facs="12_1972-09-05_1056-01.jpg"/>
+         <pb n="12_1056_02" facs="12_1972-09-05_1056-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesordnung 38. Ministerratssitzung, 5.9.1972</head>
+            <gap reason="sampling"/>
+            <pb n="12_1056_03" facs="12_1972-09-05_1056-03.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="12_1056_04" facs="12_1972-09-05_1056-04.jpg"/>
+         </div>
+         <pb n="12_1056_05" facs="12_1972-09-05_1056-05.jpg"/>
+         <pb n="12_1056_06" facs="12_1972-09-05_1056-06.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>SL-Besprechung, 5.9.1972</head>
+            <gap reason="sampling"/>
+            <pb n="12_1056_07" facs="12_1972-09-05_1056-07.jpg"/>
+         </div>
+      </back>
+   </text>
+</TEI>

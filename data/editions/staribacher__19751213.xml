@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der 13. Dezember 1975</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band28_1975-12-13</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1975-12-13">Samstag, 13. Dezember 1975</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-12-12">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="28-1474" facs="28_1975-12-13_1474.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Samstag, 13. Dezember 1975<lb/>
+</p>
+            <p xml:space="preserve">Bei der Weihnachtsfeier des SK Handelsministeriums hat mir <name type="person" ref="per:140260">Kneissler</name><lb/>
+geklagt, dass eine neue Hausordnung kommt. Dort ist vorgesehen, dass<lb/>
+um 10 Uhr das Haus gesperrt wird und niemand mehr anwesend sein<lb/>
+darf. Dadurch würde der Schachklub und der Kegelklub, wenn er<lb/>
+Meisterschaften durchführte, diese abbrechen müssen. Ausserdem ist<lb/>
+vorgesehen, dass auch auf der Kegelbahn kein Alkohol mehr aus<lb break="no"/>geschenkt werden darf. <name type="person" ref="per:140260">Kneissler</name> ersuchte mich, ich sollte gegebenenfalls<lb/>
+bei <name type="person" ref="per:97755">Moser</name> intervenieren, wenn tatsächlich so strenge Bestimmungen<lb/>
+in die Hausordnung aufgenommen werden.<lb/>
+</p>
+            <p xml:space="preserve">Beim Empfang des Bürgermeisters 30 Jahre neu erstandener Wiener Ge<lb break="no"/>meinderat wurden auch die ehemaligen Gemeinderäte eingeladen. Dadurch<lb/>
+traf ich Gen.Dir. in Pension <name type="person" ref="per:98095">Witzmann</name> von der Porr AG. Ich setzte ihm<lb/>
+neuerdings auseinander, warum meiner Meinung nach die Verbundgesell<lb break="no"/>schaft nicht auf das Anbot von Porr, auf der Platte Bahnhof Land<lb break="no"/>strasse ein Gebäude zu errichten, eingehen kann. <name type="person" ref="per:98095">Witzmann</name> bestreitet,<lb/>
+dass die Instrumente des Lastverteilers nicht vollkommen ruhig ge<lb break="no"/>lagert werden könnten, gibt aber zu, dass die Kosten für dieses Ge<lb break="no"/>bäude sehr hoch sein werden. Er anerkennt die wesentlich billigere<lb/>
+Variante Aspanggründe und vor allem aber meinen Vorschlag an die<lb/>
+Peripherie zu gehen als die billigste Lösung.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97757">Mühlbacher</name> und <name type="person" ref="per:97602">Jodlbauer</name> haben nächste Woche eine Aussprache mit<lb/>
+den Tankstellenbesitzern und sind sehr erfreut von mir zu hören,<lb/>
+dass die Tankstellen unter gar keinen Umständen die 10-Gr.-Mehrwert<lb break="no"/>steuererhöhung von ihrer Spanne tragen müssen.<lb/>
+</p>
+            <p xml:space="preserve">Der ARBÖ hat im Rathaus seine Stützpunktleiter zu einem Abendessen<lb/>
+eingeladen und <name type="person" ref="per:97411">Effenberger</name> resp. <name type="person" ref="per:97372">Broda</name> ersuchen mich, hinunterzu<lb break="no"/>kommen. Dort habe ich Gelegenheit, mit den Genossen, die sich dafür<lb/>
+interessieren, das Benzinproblem zu diskutieren. Die Belastungen<lb/>
+für den Kraftfahrer sehen hier ganz anders aus als z.B. am Vor<lb break="no"/>tag mit den Jour-fixe-Besprechung AK und ÖBB. <name type="person" ref="per:97346">Benya</name> stösst dann<lb/>
+auch zu dieser Versammlung und meint, 1.– S wird die gesamte Preis<lb break="no"/>erhöhung je doch nicht ausmachen. Ich erkläre sofort, das hängt<lb/>
+ausschliesslich von der Höhe der Mineralölsteuer ab. Wenn 50 gr<lb/>
+Erhöhung dann noch die Lagerhaltung dazukommt, wird es sehr schwer<lb/>
+<pb n="28-1475" facs="28_1975-12-13_1475.jpg"/>sein, bei dem jetzigen Preisantrag plus dieser neuen zusätzlichen<lb/>
+Kosten unter 1.– S zu kommen. Der ARBÖ hat jetzt grosse Schwierig<lb break="no"/>keiten, weil der ÖAMTC alle Erhöhungen frontal angreift. Dies beginnt<lb/>
+bei der KFZ-Steuer, Mineralölsteuer, Haftpflichtversicherung und<lb/>
+sonstigen Belastungen der Kraftfahrer. In der Haftpflichtversicherung<lb/>
+soll jetzt 7,9 % genehmigt werden, ohne das-s jetzt die genaue Über<lb break="no"/>prüfung der Sicherungen erfolgen soll. <name type="person" ref="per:97346">Benya</name> hat eben vorgeschlagen,<lb/>
+1 % müsste heruntergesetzt werden, wenn eine Zustimmung erfolgt,<lb/>
+ohne dass eben eine genaue Prüfung durchgeführt wurde. <name type="person" ref="per:97346">Benya</name> weist be<lb break="no"/>sonders darauf hin, dass die Verwaltungskosten allein durch die<lb/>
+Akquisition der Haftpflichtversicherung sehr teuer ist. Er vergisst,<lb/>
+dass die Verwaltungskosten mit 23 % limitiert sind, ganz egal, ob<lb/>
+sie jetzt schon 28 oder 29 Prozent betragen. Das Auto ist eine heilige<lb/>
+Kuh, insbesondere für den Mann, jede Belastung ist deshalb sehr kritisch<lb/>
+Als ich noch für die Kraftfahrzeugversicherung zuständig war, habe ich<lb/>
+immer versucht, den ÖAMTC einzubinden. <name type="person" ref="per:97411">Effenberger</name> meint, weder <name type="person" ref="per:110923">Lanc</name><lb/>
+noch <name type="person" ref="per:97311">Androsch</name> verfolgen eine solche Politik. Ich überlege mir, wie<lb/>
+weit ich bei der Benzinpreiserhöhung den ÖAMTC neutralisieren könnte.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:114508">TIEBER</name>: Wie können wir ÖAMTC und ARBÖ einschalten,<lb/>
+informieren oder ich weiss sonst nicht was?<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="28_1473_01" facs="28_1975-12-13_1473-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 13.12.1975</head>
+         </div>
+      </back>
+   </text>
+</TEI>

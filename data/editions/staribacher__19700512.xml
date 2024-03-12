@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstag, der 12. Mai 1970</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Joseph Staribacher</collection>
+                  <idno type="signature">Band01_1970-05-12</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1970-05-12">Dienstag, 12. Mai 1970</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-04-18">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-02-27" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+  <text xml:base="http://192.168.0.9/staribacher/src/scans/Band01/">
+      <body>
+         <pb n="01-0093" facs="01_1970-05-12_0093.jpg"/>
+         <div type="entry">
+            <dateline>
+               <date when="1970-05-12">Dienstag, den 12. Mai</date>
+            </dateline>
+            <p xml:space="preserve">Der Forschungsförderungsfonds hielt eine Sitzung ab und ich habe<lb/>
+mich dort angemeldet um die Arbeit des Fonds im Konkreten kennen<lb break="no"/>zulernen. Die Unternehmervertreter benützten die Gelegenheit und<lb/>
+insbesondere Präsident <name type="person" ref="per:114655">Harmer</name>, der mich begrüßte, wies darauf hin<lb/>
+daß es dringend notwendig wäre, daß dieser Fonds nach wie vor dem<lb/>
+Bundesministerium für Handel, Gewerbe und Industrie unterstehen<lb/>
+sollte. Prof. <name type="person" ref="per:97821">Plöckinger</name>, von den Böhler-Werken, erklärte aller<lb break="no"/>dings gleichzeitig, daß sie auf einer Tagung übereingekommen sind<lb/>
+die Forschungs-Forschungsteam aufzustellen, das heißt daß eigentlich<lb/>
+auch in der Forschung eine Planung vorgenommen werden müßte. Ich<lb/>
+benützte daher diese Aussage um darauf hinzuweisen, daß das neue<lb/>
+Wissenschaftsministerium diese Forschungs-Forschungstätigkeit eben<lb/>
+anregen und eine entsprechende Koordinierung durchführen sollte.<lb/>
+Dr. <name type="person" ref="per:97895">Salzbrunn</name> vom WIFI (Wirtschaftsförderungsinstitut der Bundes<lb break="no"/>handelskammer) erklärte, daß es ein beklemmendes Gefühl für ihn<lb/>
+sei, daß sie jetzt transferiert werden sollten. Er meinte, jedes<lb/>
+Ministerium würde seinen Schrebergarten behalten, nur das Handels<lb break="no"/>ministerium würde ihn an das Wissenschaftsministerium abtreten.<lb/>
+Er selbst würde von dieser Transferierung sehr betroffen sein und<lb/>
+die Bundeskammer würde entweder alles verlangen das in das Ministe<lb break="no"/>rium kommen sollte oder nichts. Ich konnte dagegen argumentieren,<lb/>
+daß gerade Generalsekretär <name type="person" ref="per:97769"><sic>Musil</sic></name> auf dem Standpunkt steht, wenn<lb/>
+schon ein Übel passiert dann soll das kleinere Übel passieren, das<lb/>
+heißt der Forschungsförderungsfonds sollte ins Wissenschaftsministe<lb break="no"/>rium eingebracht werden, aber nicht auch noch die Forschung vom<lb/>
+Bautenministerium. Da <name type="person" ref="per:97673">Krinburg</name> erklärte, daß dies jetzt die gewerb<lb break="no"/>liche Forschung trotz dem eigenen Forschungsfonds sehr schlecht<lb/>
+bestellt ist – nach seinen Aufstellungen ergibt das, daß das<lb/>
+Unterrichtsministerium ca. 25 % für die wissenschaftliche Forschung<lb/>
+kriegt, das Bautenministerium 11 %, das Land- und Forstwirtschafts<lb break="no"/>ministerium 7 % und die gewerbliche Forschung nur 5 % – erklärt sich,<lb/>
+daß nach seiner Meinung eine Schlechterstellung der gewerblichen<lb/>
+Forschung nicht mehr möglich ist. Ich versicherte den Herren, daß<lb/>
+die finanzielle Sicherhheit für den Forschungsfonds der gewerblichen<lb/>
+Wirtschaft gesichert ist, weil der Finanzminister bereits zuge<lb break="no"/>sagt hat, daß auf alle Fälle zwei Ansätze, der für die wissenschaft<lb break="no"/>liche Forschung und der für die gewerbliche Forschung getrennt sein<lb/>
+<pb n="01-0094" facs="01_1970-05-12_0094.jpg"/>wird, auch im zukünftigen Budget bestehen werden und daß daher<lb/>
+ein Virement auch nicht möglich ist. Da mir die Frau Minister<lb/>
+<name type="person" ref="per:97442">Firnberg</name> bei der gestrigen Aussprache gesagt hat, daß sie – wenn<lb/>
+ihr Gesetz durchgeht – (das heißt, wenn ein Gesetz durchgeht , dass<lb/>
+sie ein eigenes Wisschenschaftsministerium mit kooperierenden und<lb/>
+koordinierenden Tätigkeit bekommen kann, gegebenenfalls auf den<lb/>
+Forschungsfonds der gewerblichen Wirtschaft verzichtet, habe ich<lb/>
+mich dort sehr vorsichtig verhalten, und keine endgültige Stellung<lb/>
+abgegeben, sondern nur immer darauf hingewiesen, dass eine Lösung<lb/>
+gefunden wird werden, die alle befriedigen wird. Nach der Minister<lb break="no"/>ratssitzung, die überhaupt keine besonderen Ereignisse zu verzeichnen<lb/>
+hatte, besuchte ich die Arbeitsgruppe Industriepolitik vom Wirt<lb break="no"/>schafts- und Sozialbeirat. <name type="person" ref="per:97661">Kottulinsky</name> erklärte, es ist das erste<lb/>
+Mal, dass ein aktiver Minister sich für die konkrete Arbeit inter<lb break="no"/>essiert u d ich ersuchte denAusschuss nur, so schnell wie möglich<lb/>
+seine Arbeiten abzuschliessen, damit auf diesenErgebnissen bei uns<lb/>
+im Ministerium die Industriepolitik fortgesetzt werden kann.</p>
+            <p xml:space="preserve">Bei dem nachmittätigen Bericht an die Sektionsleitungen vom Minister<lb break="no"/>rat wurde mir auch die Stellungnahme zum Gesetzentwurf über das<lb/>
+Forschungs- und Wissenschaftsministerium vorgelegt. Ich erklärte,</p>
+            <p xml:space="preserve">dass ich mir diesen Gesetzentwurf im einzelnen sehr genau ansehen<lb/>
+werde und habe vor allem <name type="person" ref="per:98053">Wanke</name> ersucht, mit Frau Minister <name type="person" ref="per:97442">Firnberg</name><lb/>
+Kontakt aufzunehmen. Wie er mir mitteilte, war sie über die Stellung<lb break="no"/>nahme nicht begeistert, aber sie hat kein effektives Veto dagegen<lb/>
+eingelegt. Wir werden daher die Politik weiterverfolgen, durch<lb/>
+weitestgehendes Entgegenkommen der Bundeshandelskammer zu versuchen,<lb/>
+die Zustimmung zum Gesetzentwurf über das Kompetenzänderungsgesetz<lb/>
+zu erlagen. Die Bundeskammer hat in einer Aussendung der Regierung<lb/>
+vorgeworfen, dass sie bezüglich der Gewerberechtsreform noch keinen<lb/>
+entgültigen Entwurf vorgelegt hat.Schuhmeier von der Presse wollte<lb/>
+eine Stellungnahme des Ministeriums dazu haben. ich habe ihm eine<lb/>
+solche Erklärung abgegeben, dass ich versuchen,werde, unter allen<lb/>
+Umständen das Einvernehmen mit den beteiligten Stellung, d.i. die<lb/>
+Bundeskammer und die Landwirtschaftskammer, herbeizuführen,da an<lb/>
+diesem Gegensatz ja bekanntlich die Gewerberechtsnovelle der ÖVP-Allein<lb break="no"/>regierung gescheitert ist. Interessanterweise reagiert also die Presse<lb/>
+auf eine Bundeshandelkammeraussendung sofort, währenddem die soziali<lb break="no"/>stische Korrespondenz dies scheints überhuapt nicht zur Kenntnis</p>
+            <p xml:space="preserve">genommen hat, zumindestesn wurde das Ministerium von der SK nicht<lb/>
+<pb n="01-0095" facs="01_1970-05-12_0095.jpg"/>gefragt. Bei der Besprechung mit der Wiener Landesleitung des<lb/>
+Freien Wirtschaftsverbandes ergab sich das alte Bild, dass sich<lb/>
+die Genossen scheinbar von mir erwarten, dass ich eine Politik<lb/>
+mache, die ausschliesslich den Lebensmittelkleinhandel vor unlauteren<lb/>
+Methoden wie sie es bezeichnen schützt unddass wir alles daransetzen<lb/>
+sollten, damit westdeutsches Kapital über die grossen Diskonter und<lb/>
+Filialbetriebe nicht nach Österreich hereinkommt. Ich habe den Ge<lb break="no"/>nossen dort erklärt, dass ich mich im Rahmen ihres Zielprogrammes<lb/>
+bewegen werrde, dass ich aber die Wünsche, die dort konkret vorge<lb break="no"/>bracht wurden, sehr genau prüfen werde, aber kaum erfüllen könnte.<lb/>
+Z.B. sieht das neue Berufsausbildungsgesetz, das nach jahrenlangen<lb/>
+Verhandlungen von der ÖVP-Regierung endlich beschlossen wurde, vor,<lb/>
+dass auch Kleidermacher, bevor sie einen Lehrling aufnehmen, in<lb/>
+Werkstättenbesichtigungen festgestellt wird, ob sie die Voraussetzun<lb break="no"/>gen für eine Lehrlingsausbildung haben. Dies meinte der Vertreter<lb/>
+stosse auf grosse Schwierigkeiten und man sollte hier eine Novelle<lb/>
+versuchen. Ein anderer meinte, dass die Paritätische Kommission inso<lb break="no"/>fern vermenschlicht werden könnte, als der Unternehmer gemeinsam mit<lb/>
+dem Betriebsrat dort erscheint, um seine Preisforderungen leichter<lb/>
+durchsetzen zu können, also unter Mitbestimmung versteht er, dass<lb/>
+eben auch die Betriebsräte, die hier die Interessen der Unternehmens<lb/>
+genauso vertreten wie die Unternehmervertreter,eben zu den Besprechun<lb break="no"/>gen herangezogen werden sollte. Sollte wir hier eine neue Politik<lb/>
+beschreiten wollen, werden wir uns sehr bemühen müssen, diese Genossen<lb/>
+zu überzeugen, dass sie in den hergekommenen Art nicht möglich sein<lb/>
+wird und dass wir doch übergeordneten Ziele über die Einzelinteressen<lb/>
+von Gruppen und insbesondere von Wirtschaftssektoren, die kaum lebens<lb break="no"/>fähig sind, stellen werden müssen.</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="01_0095_01" facs="01_1970-05-12_0095-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesordnung 4. Ministerratssitzung, 12.5.1970</head>
+            <gap reason="sampling"/>
+            <pb n="01_0095_02" facs="01_1970-05-12_0095-02.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="01_0095_03" facs="01_1970-05-12_0095-03.jpg"/>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="01_0095_04" facs="01_1970-05-12_0095-04.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Beilage Präsidium Handelsminister betr. rechtzeitige Materialvorlage</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="01_0095_05" facs="01_1970-05-12_0095-05.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Beilage Präsidium Handelsminister betr. termingemäße Anmeldung der TO-Punkte</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="01_0095_06" facs="01_1970-05-12_0095-06.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>"Mitteilungen und Resolutionen" betr. staatsbürgerschaftliche Erziehung und Vietnam-Krieg</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="01_0095_07" facs="01_1970-05-12_0095-07.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Information für den Herrn BM betr. TOP 8</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="01_0095_08" facs="01_1970-05-12_0095-08.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Information für den Herrn BM betr. TOP 16</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="01_0095_09" facs="01_1970-05-12_0095-09.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Information für den Herrn BM betr. Patentkonferenz</head>
+            <gap reason="sampling"/>
+            <pb n="01_0095_10" facs="01_1970-05-12_0095-10.jpg"/>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="01_0095_11" facs="01_1970-05-12_0095-11.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Information für den Herrn BM betr. TOP 7</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="01_0095_12" facs="01_1970-05-12_0095-12.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Information für den Herrn BM betr. TOP 9</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="01_0095_13" facs="01_1970-05-12_0095-13.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Information für den Herrn BM betr. TOP 19</head>
+            <gap reason="sampling"/>
+            <pb n="01_0095_14" facs="01_1970-05-12_0095-14.jpg"/>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="01_0095_15" facs="01_1970-05-12_0095-15.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Information für den Herrn BM betr. TOP 12</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="01_0095_16" facs="01_1970-05-12_0095-16.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Information für den Herrn BM betr. TOP 7</head>
+            <gap reason="sampling"/>
+            <pb n="01_0095_17" facs="01_1970-05-12_0095-17.jpg"/>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="01_0095_18" facs="01_1970-05-12_0095-18.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Beilage betr. Gehaltsüberleitungsgesetz-Novelle 1970</head>
+            <gap reason="sampling"/>
+            <pb n="01_0095_19" facs="01_1970-05-12_0095-19.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="01_0095_20" facs="01_1970-05-12_0095-20.jpg"/>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="01_0095_21" facs="01_1970-05-12_0095-21.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Schreiben Rechnungshofpräsident an BK</head>
+            <gap reason="sampling"/>
+            <pb n="01_0095_22" facs="01_1970-05-12_0095-22.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="01_0095_23" facs="01_1970-05-12_0095-23.jpg"/>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+  </text>
+</TEI>

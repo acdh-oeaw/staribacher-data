@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der 16. März 1973</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band15_1973-03-16</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1973-03-16">Freitag, 16. März 1973</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-10-13">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band15/">
+      <body>
+         <pb n="15-0336" facs="15_1973-03-16_0336.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Freitag, 16. März 1973</p><p xml:space="preserve">Dr. <name type="person" ref="per:114586">Zedek</name> entschuldigte <name type="person" ref="per:135640">Lissbauer</name> und legte ein Programm für die<lb/>
+nächsten Fremdenverkehrsaktivitäten, die die Handelskammer von mir<lb/>
+wünscht, vor. Insbesondere kommt es ihnen darauf an, die 24 Mill. S<lb/>
+Restkredit ERP-Finanzierung so schnell wie möglich auszubezahlen.<lb/>
+Darüberhinaus werden steuerliche Wünsche ähnlich der FOrderung der<lb/>
+Hoteliervereinigung vorgetragen. Ich habe überhaupt den Eindrukc,<lb/>
+dassdas Präsidium der Hoteleiervereinigung und die Sektion Fremden<lb break="no"/>verkehr in der Handelskammer in einem gewissen Konkurrenzverhältnis<lb/>
+jetzt auch mir gegenüber auftreten will. Das Präsidium der Hotelier<lb break="no"/>vereinigung hat vor einiger Zeit sich entschlossen, mit mir engeren<lb/>
+Kontakt zu halten und hat des halb vorgesprochen und ein ganzes Bündel<lb/>
+vonWünschen vorgetragen. <name type="person" ref="per:135640">Lissbauer</name> aber insbesondere Dr. <name type="person" ref="per:114586">Zedek</name> hat<lb/>
+vor etlichen MOnaten schon erkannt, dass von ihrem STandpunkt aus ge<lb break="no"/>sehen, ein Kontakt mit mir notwendig ist. Deshalb ist <name type="person" ref="per:135640">Lissbauer</name> immer<lb/>
+nach einer Sektionsleitungssitzung bei mir erschienen, um Wünsche vorzu<lb break="no"/>tragen. Meistens wurde sogar eine schriftliche UNterlage überreicht.<lb/>
+in Form eines aid memoire. Diese Wünsche waren nicht direkt an mcih<lb/>
+mit einem BRief oder mit einer konkreten ANschrift gerichte,t wohl aber<lb/>
+wurden sie sehr geschickt immer wieder bei VOrsprachen vorgebracht.<lb/>
+Mich wundert nur, dass man nicht in einem späteren Zeitpunkt dann auf<lb/>
+die Nichterfüllung dieser Forderungen zurückkommt und mich heftiger<lb/>
+attackiert. Hier glaube hilft sehr viel, dass <name type="person" ref="per:111367">Würzl</name> einen guten Kontakt<lb/>
+mit <name type="person" ref="per:114586">Zedek</name> hat und sehr viel wahrscheinlich abbiegen kann. <name type="person" ref="per:111367">Würzl</name><lb/>
+war auch bei der Aussprache sowie <name type="person" ref="per:97543">Heindl</name> anwesend auch <name type="person" ref="per:97584">Jagoda</name>, der sich<lb/>
+als Sektionsleiter bis jetzt sehr zurückhält, nahm an der BEsprechung te<lb/>
+teil. <name type="person" ref="per:97584">Jagoda</name> geht hier glaube ich sehr systematisch aber vorsichtig vor.<lb/>
+Da er derzeit mit der Gewerbeordnung vollauf beschäftigt ist, versucht<lb/>
+er nur einen gewissen Überblick über die Aktivitäten seiner Sektion<lb/>
+zu bekommen. Zu <name type="person" ref="per:111367">Würzl</name> hat er volles Vertrauen und dieser hat tatsäch<lb break="no"/>lich bis jetzt sehr kooperiert. Zur Apartmenthäuser-Studie, welche<lb/>
+die Handelskammer ausarbeiten lässt, resp. ausarbeiten lassen wollte,<lb/>
+hatte ich ihm ein Pouvoir bis 100.000 S gegeben , Auch nach Interven<lb break="no"/>tion von <name type="person" ref="per:97769">Mussil</name> und anderen habe ich immer wieder erklärt, dass wir<lb/>
+nicht emhr als 100.000 S geben können. <name type="person" ref="per:114586">Zedek</name> hat uns nun mitgeteilt,<lb/>
+dass unter diesen Umständen auf die Ausarbeitung der Studie verzichtet<lb/>
+wird und nur die Zusammenfassung des jetzt vorliegenden Materials<lb/>
+d.h. ein rechtlicher Überblick heruaskommen soll. ICh glaube noch immer<lb/>
+dass das Entscheidende für eine kooperative ZUsammenarbeit das Nicht-Des<lb/>
+avoieren der Mitarbeiter ist.</p><pb n="15-0337" facs="15_1973-03-16_0337.jpg"/><p xml:space="preserve">Ich nützte die Gelegenheit, um gleich <name type="person" ref="per:114586">Zedek</name> die entsprechenden Schritte<lb/>
+für die BEstellung des Geschäftsführers in der ÖFVW zu erörtern. Ich<lb/>
+wies bewusst darauf hin, dass ursprünglich von der Handelskammer vor<lb break="no"/>geschlagen wurde und die Ländervertreter hatten dem zugestimmt, dass<lb/>
+Dr. <name type="person" ref="per:134295">Patzak</name> aus New York der neue Geschäftsführer werden sollte. <name type="person" ref="per:114586">Zedek</name><lb/>
+selbst hat ja vorgeschlagen, man soll ihn zeitgerecht in die Zentrale<lb/>
+holen, damit er eingeschult werden kann. Ich war deshalb damit einver<lb break="no"/>standen, weil wir dadurch feststellen konnten, wieweit sich <name type="person" ref="per:134295">Patzak</name><lb/>
+als Geschäftsführer eignet. Zu meiner grössten VErwunderung wurde<lb/>
+dann vom Präsidenten der Handelskammer ganz entschieden die Berufung<lb/>
+<name type="person" ref="per:134295">Patzaks</name> abgelehnt und ein neuer Kandidat der Aussenhandelsstellenleiter<lb/>
+<name type="person" ref="per:127903">Lukas</name> präsentiert. Jetzt kommt von Seiten der Handelskammer ein wei<lb break="no"/>terer Bewerber – <name type="person" ref="per:97459">Fröhlich</name>. Unter diesen Umständen bleibt gar nichts<lb/>
+anderes übrig, als eben eine <choice><choice><sic>jobdiscription</sic><corr>job description</corr></choice></choice> abzufassen, das nächste<lb/>
+Direktorium wird einen diesbezüglichen Beschluss fassen und dann<lb/>
+unter mehreren Bewerbern dann den besten auszuwählen. Wir besprechen un<lb/>
+<name type="person" ref="per:97584">Jagoda</name> drängte darauf, dass diese Ausschreibung unbedingt in der Wiener<lb/>
+Zeitung verlautbart werden sollte. <name type="person" ref="per:114586">Zedek</name> war mit der Vorgangsweiseein<lb break="no"/>verstanden.</p><p xml:space="preserve">Die Wirtschaftskommission wurde, nachdem sie vor Monaten schon beschlos<lb break="no"/>sen wurde, erstmalig zu eienr Arbeitssitzung einberufen. Sie war aber<lb/>
+nicht annähernd vollzählig. -<name type="person" ref="per:97668">Kreisky</name> <name type="person" ref="per:97311">Androsch</name> <name type="person" ref="per:97879">Rösch</name> <name type="person" ref="per:98034">Veselsky</name> und ich<lb/>
+waren von der Regierung neben <name type="person" ref="per:98043">Waldbrunner</name>, <name type="person" ref="per:97346">Benya</name>, <name type="person" ref="per:97563">Hofstetter</name>, <name type="person" ref="per:98066">Robert<lb/>
+Weisz</name> <name type="person" ref="per:97505">Haberl</name> von den Genossenschaften, <name type="person" ref="per:97757">Mühlbacher</name> FWV. <name type="person" ref="per:97668">Kreisky</name><lb/>
+schildert die Politische Situation der Währungssituation und meint<lb/>
+dass die Journalisten alle dafür sind aber doch kritisieren, insbe<lb break="no"/>sondere dass es zu keiner Einigung gekommen ist. <name type="person" ref="per:97668">Kreisky</name> meint auch,<lb/>
+es müsste die zweite Phase der Stabilisierungspolitik jetzt vorbe<lb break="no"/>reitet werden. Der Export beruht nicht nur auf der Industrie sondern<lb/>
+auch auf Mittel- und Kleingewerbebetrieben. Der Kampf um die Märkte<lb/>
+wird härter werden und man müsste sie unterstützen. Deshalb gehört<lb/>
+die Stabilisierungspolitik motiviert abr die Bauwirtschaft müsste man<lb/>
+weiter steuern. <name type="person" ref="per:98043">Waldbrunner</name> meinte, man sollte die beiden Probleme Wäh<lb break="no"/>rung und Stabilisierung getrennt diskutieren. <name type="person" ref="per:97311">Androsch</name>, der sich zu<lb/>
+Wort gemeldet hatte, ersucht, dass er beides gemeinsam behandeln dürfe.<lb/>
+Die Preise seien im ersten Halbjahr mit 7,8 % höher aber gegenüber den<lb/>
+anderen europäischen Preissteigerungsraten nicht wesentlich höher.<lb/>
+Für das ganze Jahr 1973 hofft er doch auf 7,5 % zu kommen, weil er<lb/>
+in der zweiten Hälfte eine entsprechende Senkung annimmt. Hier geht<lb/>
+<pb n="15-0338" facs="15_1973-03-16_0338.jpg"/><name type="person" ref="per:97311">Androsch</name> aber von der falschen VOraussetzung aus, dass doch viele<lb/>
+Preise insbesondere die Lebensmittelpreise unverändert bleiben werden,<lb/>
+obwohl mit Preiserhöhungen allein schon durch Lohnbewegungen zu rechnen<lb/>
+ist. Den Export benötigen wirdnicht zuletzt auch für die Beschäftigung.<lb/>
+Der Fremdenverkehr, das zweite Bein, wie er sich immer ausdrückt, müsste<lb/>
+durch quantitative und qualitative Differnezierung und auch für den Inländer<lb break="no"/>verkehr entsprechend unterstützt werden. Ich von neugierig, wie weit er<lb/>
+seine seinerzeitigen Zusagen bezüglich des 10-jährigen Fremdenverkehrs<lb break="no"/>konzeptes einhaltne kann und wird. Ich habe <name type="person" ref="per:111367">Würzl</name> ersucht, er möge bei<lb/>
+den Verhandlungen jetzt auf Beamtenebene auf die Einhaltung dieser Verspre<lb break="no"/>chungen drängen. Hier haben wir nämlich ohnedass wir erst die ERkenntnisse<lb/>
+des Finanzministerium abwarten mussten bereits für den Inländerfremdenver<lb break="no"/>kehr die wichtigste Aktion nämlich die Komfortzimmeraktion gestattet.<lb/>
+Alle diese AKtionen sind ja nicht so ausgerichtet, dass sie nur für den Aus<lb break="no"/>länder entscheidend sind, sondern gerade die Komfortzimmeraktion hat ja<lb/>
+für den Inländer die grössere BEdeutung. Da es sich ja meistens um ältere<lb/>
+Häuser handelt. In der Landwirtschaft schlägt er vor, müsste man ähnlich<lb/>
+der Schweiz pro ha eine gewisse Einkommensgarantie geben in Form eines<lb/>
+direkten Zuschusses. Über die Produktion, d.h. über den ERlös von Milch<lb/>
+tierischen oder pflanzlichen Produkten könnten dann die Leistungseinkommen<lb/>
+geregelt werden. In der Bauwirtschaft meinte er zu <name type="person" ref="per:97755">Moser</name>, müsse man die<lb/>
+Bremse nach wie vor insbesondere was die Ausschreibungen betrifft, einhal<lb break="no"/>ten. Für mich war verwunderlich, wie <name type="person" ref="per:97311">Androsch</name> ohne mit den REssortministern<lb/>
+vorher Detailabsprachen zu führen, Konzepte entwickelt. Ich fürchte, damit<lb/>
+wird er sich keine Freunde schaffen. Auf dem Währungssektor meinte er, dass<lb/>
+die EFTA-Staaten jetzt in Genf zusammenkommen werden, um gegebenenfalls<lb/>
+gegenüber der Europäischen Gemeinschaft für das gemeinsame Währungskonzept<lb/>
+als Gegenforerung gewisse Wünsche anmelden sollten. Er dachte hier an<lb/>
+die Verkürzung für sensible Produkte und für gewisse landwirtschaftliche<lb/>
+Produkte, wo ein Entgegenkommen notwendig wäre. <name type="person" ref="per:97668">Kreisky</name> hat dann darauf<lb/>
+hiNgewiesen, dass er nicht glaubt, dass bei den sensiblen Produkten in<lb/>
+der EWG etwas zu erreichen sei, hier stehen viel zu viele Pressure-groups<lb/>
+und Interessenswünsche dahinter, sondern er meint, man sollte eine<lb/>
+Zollrunde vorziehehn.</p><p xml:space="preserve">Auf dem Kreditsektor gibt es derzeit grosse Liquiditätsschwierigkeiten.<lb/>
+Für Ultimo-Gelder wird über 10 % bezahlt. Der Anleihekalender für das<lb/>
+zweite Halbjahr ist noch immer offen, es konnte keine Einigung erzielt<lb/>
+werden. Durch die Liquditätsenge bedingt, fürchtet er, dass ein grauer<lb/>
+Kreditmarkt entsteht, dass nämlich die grosen Unternehmungen nicht mehr</p><p xml:space="preserve">über die Banken und damit die Einflussmöglichkeit über die ÖNB sondern<lb/>
+<pb n="15-0339" facs="15_1973-03-16_0339.jpg"/>eben gleich direkt ihre Kreditbedürfnisse befriedigen. Die Plafondierung<lb/>
+soll gelockert werden, insbesondere für den sozialen Wohnbau. Er spricht<lb/>
+sich aber ganz entschieden gegen die Zweitwohnung und gegen Apartment<lb break="no"/>häuser aus. Sagt allerdings nicht wie und was hier geschehen sollte.<lb/>
+<name type="person" ref="per:97755">Moser</name> äusserst sich zumindestens während meiner Anwesenheit auch zu<lb/>
+diesem Problem nicht. Die Bausparkassen sollten ermächtigt werden,<lb/>
+auch für die Genossenschaften Finanzierungshilfe zu geben, indem der<lb/>
+Plafond, der derzeit 1,5 Mill. S beträgt, erhöht wird. Soweit der Bund<lb/>
+REstriktionen auf der Bauseite macht, steigen sofort die Länder und die<lb/>
+Gemeinden ein. Deshalb sollte eine Kommission prüfen, wie der Baumarkt<lb/>
+sich etnwickelt. Beim Budget bleibt der restriktive Vollzug, nur für die<lb/>
+ÖBB, die Post und für dne Schulbau müsste man Lockerungen herbei<lb break="no"/>führen. Wenn auch die Budgetbindung im Prinzip bleibt, sollen bei der<lb/>
+Vollziehung Erleichterungen geschaffen werden. Zum Beispiel verweist er<lb/>
+darauf, dass <name type="person" ref="per:97879">Rösch</name> schon allein die Benzinposten dringendst braucht, sons<lb/>
+könnten die entsprechenden Gendarmerie- und Polizeieinheiten gar nicht<lb/>
+mehr fahren. Die Preise im Stabilsierungsabkommen würden jetzt kommen,<lb/>
+obwohl eine gewisse Zurückhaltung insbesindere bei den Ländern und<lb/>
+Gemeinden notwendig wäre. Er wendet sich ganz besonders gegen die beab<lb break="no"/>sichtigte Strassenbahnerhöhung. Dagegenmeldet dann <name type="person" ref="per:97346">Benya</name> die grössten BEd<lb/>
+denken an, weil wir ja seinerzeit bei der Mehrwertsteuereinführung<lb/>
+die Tarife der Strassenbahn nicht erhöhen liessen und deshalb Wien sehr<lb/>
+wohl Mitte des Jahres eine Korrektur durchführen könnte und wird.<lb/>
+Der Getreidepreis wird im Sommer einer Regelung zugeführt werden müssen<lb/>
+Das Wirtschaftspartnerübereinkommen hätte er mit <name type="person" ref="per:97346">Benya</name> bereits besprochen<lb/>
+sollte grösstmögichst weitergeführt werden <name type="person" ref="per:97346">Benya</name> stellt dazu fest, dass<lb/>
+das Stabilisierungsabkommen nicht verlängert wird, wohl aber werden<lb/>
+sow ie visher die Gewerkschaften nach 15 – 16 Monaten erst antreten<lb/>
+und <name type="person" ref="per:97346">Benya</name> selbst meint, dass es zweckmässig ist, wenn <name type="person" ref="per:97668">Kreisky</name> und<lb/>
+<name type="person" ref="per:97311">Androsch</name> in der Fraktion ihr Programm darlegen, damit nicht einzelne<lb/>
+durch überhöhte Wünsche und Forderung auf dem Lohnsektor die Politik<lb/>
+der Regierung konterkarieren. Zur Kreditsituation teilt <name type="person" ref="per:97346">Benya</name> mit<lb/>
+dass ihm jetzt die Sozialversicherungsträger mitgeteilt haben, dass die<lb/>
+Unternehmer in grösserer Anzahl und vor allem auch die grossen Unter<lb break="no"/>nehmungen die Sozialversicherungsbeiträge schuldig bleiben. <name type="person" ref="per:98043">Waldbrunner</name><lb/>
+weist darauf hin, dass insbesondere die genossenschaftliche Zentralbank<lb/>
+und die Girozentrale, zwei Institute, die von prononzierten ÖVP-lern<lb/>
+geführt wurdn. im Dezember und Jänner eine starke Illiquidität hätten.<lb/>
+Nur die Wechseldiskont und sonstige UNterstützung der OeNB konnten sie<lb/>
+überhaupt über die Runde gebracht werden. Sie halten sich aber nicht an<lb/>
+die Kreditbeschränkungen und deshalb muss die Genossenschaftliche Zentral<lb/>
+<pb n="15-0340" facs="15_1973-03-16_0340.jpg"/>bank die von ÖVP-Kassier <name type="person" ref="per:127907">Klauhs</name> über 10 Mill. S und die Girozentrale,<lb/>
+geführt von Staatssekretär <name type="person" ref="per:98003">Taus</name> fast 10 Mill. S Pönnale für die Nichtein<lb break="no"/>haltung der VOrschriften an die ÖNB pro Monat bezahlen. In der Zwi<lb break="no"/>schenzeit hat sich die Genossenschaftliche Zentralbank nicht zuletzt<lb/>
+durch den Einfluss Dr. <name type="person" ref="per:114630">Rasser</name> an die Kreditrestriktionen angepasst. Nur di<lb/>
+die Girozentrale hat im Feber, wo alle andere anderen INstitute bereits<lb/>
+die Kreditrestriktionen auf 3 % zurückgeführt haben, mit 9,5 % noch<lb/>
+ungeheuer expandiert. <name type="person" ref="per:98003">Taus</name> hat darüber hinaus Annoncen in die Zeitung<lb/>
+gegeben, dass die Industriefinanzierung durch ihn gesichert wird. Diese<lb/>
+9,5 % Kreditexpansion steht die Zentralsparkasse mit + 2 %, BAWAG<lb/>
+mit null, die Länderbank sogar mit einer ERsparnis von -2 und die<lb/>
+Creditanstalt mit + 2 gegenüber. <name type="person" ref="per:98043">Waldbrunner</name> weist auch ganz besonders<lb/>
+darauf hin, dass alle REssorts darauf achten müssen, dass die Eigen<lb break="no"/>finanzierungsanteile der Länder und Gemeinden tatsächlich aus Eigen<lb break="no"/>finanzmitteln kommen und nicht ebenfalls durch Kreditoperationen be<lb break="no"/>schafft werden. Die grosse GEfahr sieht aber <name type="person" ref="per:98043">Waldbrunner</name> darin, dass<lb/>
+wenn einzelne Unternehmungen ganz besonders <name type="person" ref="per:98003">Taus</name> jetzt seine eigene Politik<lb/>
+macht, die gesamte Regierungspolitik konterkariert wird. <name type="person" ref="per:97668">Kreisky</name> erklärt,<lb/>
+dass <name type="person" ref="per:97311">Androsch</name> und er sich <name type="person" ref="per:98003">Taus</name> vorladen werden um ihm dieses Verhalten<lb/>
+vorzuwerfen. <name type="person" ref="per:97668">Kreisky</name> meint dann auch noch, auf dem Landwirtschafts<lb break="no"/>sektor müsste man eine entsprechende neue Politik einleiten. Er drückt<lb/>
+dies so aus, dass bekannt ist, dass er mit dem Landwirtschaftsminister<lb/>
+hier verschiedene Auffassungen hat, glaubt aber, dass die Bauerneinkommen<lb/>
+ähnlich wie in der Schweiz, die dieses System wieder von Schweden nach<lb/>
+dem zweiten Weltkrieg übernommen haben, nämlich eben durch direkte<lb/>
+Subventionen jedem Bauern ergänzt resp. geändert werden müsste. Die Bauern<lb/>
+erhalten aber verhältnismässig viel Geld jetzt über Kinderbeihilfe,<lb/>
+Schülerbücher und -freifahrt und bekommen dadruch ein gesellschaftliches<lb/>
+Einkommen, welches sie früher nicht hatten. Hier müssten entsprechnede<lb/>
+Indikatoren gefunden werden. Überhaupt möchte <name type="person" ref="per:97668">Kreisky</name>, dass versucht<lb/>
+wird, ähnlich wie er das seinerzeit beim Pensionistenindex gemacht hat,<lb/>
+dass man aus dem Verbraucherpreisindex langlebige Wirtschaftsgüter<lb/>
+wie z.B. Autos, hruaslöst, um ähnliche einen Index zu errehcnen, der<lb/>
+dann wirklich nur die lebensmotwendigeren Produkte umfasst. IHm schwebt<lb/>
+scheinbar vor, so wie bei den Saisonprodukten einen Index mit Saisonproduk<lb break="no"/>ten und ohne diese. Einen Index mit langlebigen, gehobenen Wirtschafts<lb break="no"/>gütern und einen ohne. Da er ja dem Stat. Zentralamt vorsteht, wollte<lb/>
+er primär die Meinung der Gewerkschafter zu diesem Wunsch kennenlernen.<lb/>
+Er glaubt nämlich, dass dies Schweiirigkeiten bringen wird. Da ich jetzt<lb/>
+<pb n="15-0341" facs="15_1973-03-16_0341.jpg"/>zu diesem Zeitpunkt weggehen musste, habe ich die Diskussion nicht<lb/>
+mehr weiter verfolgen können. Ich glaube, dass es sich hier nur um<lb/>
+einen grossen AUffassungsirrtum handelt. WEnn man nämlich die langlebigen<lb/>
+Wirtschaftsgüter aus dem Index herauslöst und sozusagen nur noch die le<lb/>
+lebensnotwendigen Produkte drinnenlässt , wird keinesfalls die ge<lb break="no"/>wünschte Senkung des Indexes zu verzeichnen sein. Ich fürchte sogar<lb/>
+eher das Gegenteil.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: BItte mit <name type="person" ref="per:133326">Krämer</name> einen Termin vereinbaren,<lb/>
+damit er dieses Problem nicht nur theoretisch<lb/>
+besprchen, sondern auch eine praktische Durch<lb break="no"/>rechnung veranlassen.</p><p xml:space="preserve">Bei der Besprechung machte mich <name type="person" ref="per:97755">Moser</name> aufmerksam, dass er jetzt er<lb break="no"/>fahren hat, dass man im Bauzentrum über unsere Studie zuerst ein<lb break="no"/>mal einen Beschluss gefasst hat, dass der Vorsitzende 5.000 S pro<lb/>
+Monat bekommt. <name type="person" ref="per:97755">Moser</name> hat das Protokoll dieser Sitzungen und hat natür<lb break="no"/>lich mit gewisser BErechtigung dies heftigst kritisiert. Ich glaube<lb/>
+überhaupt, dass es sehr unzweckmässig war, diese Studie, die uns schon<lb/>
+so viel Kummer mit der Handelskammer und der Gewerkschaft bereitet hat,<lb/>
+ohNe dass ich sie mit <name type="person" ref="per:97755">Moser</name> im Detail vorbepsorchen habe, dem Bauzen<lb break="no"/>trum über die Bauindustrie zu geben. Damit glaube ich fühlt sich<lb/>
+<name type="person" ref="per:97755">Moser</name> mit Recht in seinem Bereich eingegriffen und dann kommen noch<lb/>
+die nicht gerade sehr- glücklichen Beschlüsse, nämlich die Auf<lb break="no"/>teilung des Geldes für die einzelnen Funktionäre zustande. Der Hin<lb break="no"/>weis von <name type="person" ref="per:97493">Gröger</name>, das ja in der ganzen Besprechung immer ein VErtreter<lb/>
+des Bautenministeriums anwesend war, ist genausowenig zielführend,<lb/>
+wie der Hinweis, dass auch früher die Arbeiterkammer und die Innung<lb/>
+selbst vertreten gewesen sind. IChglaube, dass hier wirklich aus den<lb/>
+verschiedensten GRünden, sei es Kompetenzen, sei es Nichtmitwirkung<lb/>
+von Interessensvertretungen, die Studie unter einem sehr unglücklichen<lb/>
+Stern steht.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: Ich glaube, hier müsste man sehr genau kontrollie<lb break="no"/>ren, wie die Studie weiter durchgeüfhrt wird.</p><p xml:space="preserve">Bei den OPEC-Ministern habe ich den Wunsch der ÖMV erfüllt und mit<lb/>
+Irak und Libyen die entsprechenden Gespräche über eine Kooperation<lb/>
+zwischender ÖMV und den dortigen Ölgesellschaften und ganz besonders<lb/>
+über die Möglichkeiten der weiteren Einschaltung von verstaatlichten<lb/>
+Betrieben zwecks Lieferung von Waren für die zu übernehmenden Ölmengen<lb/>
+geführt.</p><pb n="15-0342" facs="15_1973-03-16_0342.jpg"/><p xml:space="preserve">Die ÖMV, Gen.Dir. <name type="person" ref="per:97337">Bauer</name> und <name type="person" ref="per:97671">Kreutler</name>, waren mit diesem Ergebnis, wie<lb/>
+sie mir ausdrückten, sehr zufrieden. Da <name type="person" ref="per:114990">Wessely</name> jetzt kaum mehr etwas<lb/>
+zu übersetzen hat, ich stottere hatlt irgendwie, beginnt er sich jetzt<lb/>
+bereits in die Diskussion einzuschalten. Ich habe nicht nur nichts<lb/>
+dagegen sondern bin sehr froh, weil ich dadurch doch einigermassen ent<lb break="no"/>lastet werde und nicht immer das Gespräch allein führen muss. Dies ist<lb/>
+auch eine gewisse Auflockerung der Hierarchie und insbesondere der<lb/>
+strengen Funktionteilung zwischen Übersetzer und gleichberecthigtem<lb/>
+Mitglied einer Diskussionsrunde. Ich kann mir lebhaftest vorstellen,<lb/>
+wie auf eine solche Aktivität mein Amtsvorgänger, insbesondere aber<lb/>
+<name type="person" ref="per:97358">Bock</name> reagiert hätte. Der Gen.Sekr. Der OPEC hat mir mitgeteilt, dass<lb/>
+er vor längerer ZEit bereits versucht hat, bei Bundeskanzler <name type="person" ref="per:97668">Kreisky</name><lb/>
+einen Termin zu bekommen, um Probleme zu besprechen. Ich habe ihm ver<lb break="no"/>sprochen mit dem Kanzler über diese Terminvereinbarung zu reden.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: BItte veranlasse, dass das Büro – <name type="person" ref="per:115595">Reiter</name> – einen<lb/>
+diesbezüglichenTermin mit Gen.Sekr. <name type="person" ref="per:97625">Khene</name> der OPEC vereinbart, bei dieser<lb/>
+Gelegenheit bräuchte er nichts anderes als eben darauf hinweisen, dass<lb/>
+immer beabsichtigt war, einen solchen Termin zu<lb/>
+vereinbarenn, ich ihn da<lb break="no"/>her jetzt nur noch erinnert habe.</p><p xml:space="preserve">Der Botschafter von Uruguay, der nicht bereit war, <name type="person" ref="per:97543">Heindl</name> sein Kommen<lb/>
+zu erklären, er wies darauf hin, dass es sich um eine private Angelegen<lb break="no"/>heit andelt, wollte gar nichts anderes, als dass ich ihn unterstütze,<lb/>
+dass so bald wie möglich in Montevideo eine Botschaft Österreichs errich<lb break="no"/>tet wird. Er hat diesbezügliche Verhandlungen mit <name type="person" ref="per:97632">Kirchschläger</name> schon<lb/>
+geführt und der hat ihm mitgeteilt, jetzt müsste zuerst an der Elfenbein<lb break="no"/>küste und dann in Zaire eine Botschaft errichtet werden, dann könnte erst<lb/>
+daran gedacht werden, in Montevideo eine zu errichten. Derzeit wird<lb/>
+Uruguay von Buenos Aires aus betreut. Dieser Zustand ist nach Meinung<lb/>
+des Botschafters <name type="person" ref="per:148973">Barreiro</name> nicht zielführend. Wie sehr der Verkehr zwischen<lb/>
+den beiden Ländern noch verbessert werden kann, zeigt dass nachdem<lb/>
+die Veterinärkommission in Uruguay war, jetzt bereits mehr Fleisch und<lb/>
+Fleischextrakt aus Uruguay bezogen wird, als pro Kopf gerechnet nach<lb/>
+Frankreich. Angeblich sollen es 20.000 kg sein, die derzeit von Uruguay na<lb/>
+nach Österreich expertiert werden. Ich habe nATÜRLICH WIE IMMER KEINE<lb/>
+Zusagen gemacht sondern nur erklärt, ich werde dies mit <name type="person" ref="per:97632">Kirchschläger</name> be<lb break="no"/>sprechen.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: BItte stelle fest, was <name type="person" ref="per:114156">Hinteregger</name>, d.h. das BMAA<lb/>
+dazu sagt.</p><p xml:space="preserve"/></div>
+      </body>
+      <back>
+         <pb n="15_0335_01" facs="15_1973-03-16_0335-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 16.3.1973</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="15_0335_02" facs="15_1973-03-16_0335-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="15_0342_01" facs="15_1973-03-16_0342-01.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>TB Koppe, 17.3.1973</head>
+            <gap reason="sampling"/>
+            <pb n="15_0342_02" facs="15_1973-03-16_0342-02.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="15_0342_03" facs="15_1973-03-16_0342-03.jpg"/>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+   </text>
+</TEI>

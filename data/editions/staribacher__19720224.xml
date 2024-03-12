@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Donnerstag, der 24. Februar 1972</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band09_1972-02-24</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1972-02-24">Donnerstag, 24. Februar 1972</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-09-13">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="09-0257" facs="09_1972-02-24_0257.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Donnerstag 24. Feber 1972<lb/>
+</p>
+            <p xml:space="preserve">Der erste von <name type="person" ref="per:97953">Sima</name> gewünschte offizielle Besuch in Kärnten war<lb/>
+eigentlich eine nutzlose Zeitverschwendung. <name type="person" ref="per:97953">Sima</name> hat sich zweifels<lb break="no"/>ohne in den vergangenen Jahrzehnten um den Fremdenverkehr<add>[in]</add> Kärnten<lb/>
+sehr bemüht und auch einige Ideen entwickelt. Kärnten hat nun einen<lb/>
+Fremdenverkehrsdirektor <name type="person" ref="per:139524">Stelzer</name>, der der ÖVP angehört und der von<lb/>
+ihm natürlich ausgeschaltet wird. Er hat nun nach der letzten Wahl<lb/>
+1970 im Landtag und der Regierung durchgesetzt, dass das Fremdenver<lb break="no"/>kehrsreferat mit dem Gemeindereferat zusammengelegt wird. Dadurch<lb/>
+ist der Vorstand der beiden Abteilungen Dr. <name type="person" ref="per:139525">Kapeller</name>, ein Genosse,<lb/>
+jetzt für den Fremdenverkehr zuständig. Um der ÖVP aber einen ge<lb break="no"/>wissen Einfluss zu geben, hat er nicht die <choice><choice><sic>Landesfremdenverkehrssuprach</sic><corr>Landesfremdenverkehrsaussprache?</corr></choice></choice><lb/>
+der einzelnen Bundesländer mit seinem Landesfremdenverkehrsdirektor<lb/>
+sondern beschickt z.B. die ÖFVW mit dem Präsidenten des Landesfrem<lb break="no"/>denverkehrsverbandes LAbg.<add>[der]</add> ÖVP <name type="person" ref="per:111399">Knafl</name>. <name type="person" ref="per:97953">Sima</name> will nun z.B. in das<lb/>
+Kuratorium, das den österreichischen Fremdenverkehr koordinieren und<lb/>
+neue Ideen z.B. besprechen soll, ebenfalls beschicken. Dort wurden<lb/>
+von den Landesfremdenverkehrsdirektoren in Salzburg <name type="person" ref="per:134323">Manzano</name>, der<lb/>
+auch weil sein jetzt letztes Jahr jetzt ist, zum Vorsitzenden ge<lb break="no"/>wählt wurde, von der Steiermark <name type="person" ref="per:123822">Gaisbacher</name> und der Tiroler Fremden<lb break="no"/>verkehrsdirektor namhaft gemacht. <name type="person" ref="per:97953">Sima</name> hat in einer Vorbesprechung<lb/>
+mir auseinandergesetzt, dass er dringendst eine Vertretung in diesem<lb/>
+Kuratorium erreichen möchte. Ich konnte ihm keinerlei Zusagen machen<lb/>
+und da er letzten Endes die Fremdenverkehrsdirektoren, d.h. die<lb/>
+Länder selbst bestimmten, wen sie delegieren. Sicher ist eines, dass<lb/>
+wir allerdings auf eine Rotation drängen können, die das auch in der<lb/>
+ÖFVW der Fall ist. Da wir drei soz. geführte Bundesländer haben,<lb/>
+müsste es möglich sein, wenn drei Vertreter sind, dass mindestens<lb/>
+immer ein SPÖ-Vertreter in diesem Kuratorium wirkt. <name type="person" ref="per:97953">Sima</name> wird dies<lb/>
+bei der nächsten Landeshauptleutebesprechung aufs Tapet bringen. ich<lb/>
+selbst habe mich verpflichtet, dieses Problem mit <name type="person" ref="per:135640">Lissbauer</name> und <name type="person" ref="per:114586">Zedek</name><lb/>
+zu besprechen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Bitte eine solche Besprechung vereinbaren.<lb/>
+</p>
+            <p xml:space="preserve">In der Vorbesprechung, die fraktionell geführt wurde, hatte ich be<lb break="no"/>reits den Eindruck, dass er souverän, ohne die anderen fast zu Wort<lb/>
+<pb n="09-0258" facs="09_1972-02-24_0258.jpg"/>kommen zu lassen resp. die trauten sich gar nicht reden, die<lb/>
+ganze Verhandlungsführung an sich riss. Eine Diskussion ist dort<lb/>
+scheinbar nur sehr bescheiden und wenn überhaupt, dann nur sicherlich<lb/>
+in seinem Sinne möglich. Bei der offiziellen Besprechung nachher<lb/>
+war es nicht viel anders, von der Gegenseite war eigentlich nur<lb/>
+der Obmann für Fremdenverkehr <name type="person" ref="per:139526">Werzer</name> in der Handelskammer Kärnten<lb/>
+und der Sekretär dieser Organisation Dr. <name type="person" ref="per:139527">Pogatschnig</name> gekommen.<lb/>
+Ausserdem hat er noch den Geschäftsführer von Rhein, der sich um<lb/>
+die wirtschaftliche Förderung Kärntens bemühen sollte, der gleich<lb break="no"/>zeitig auch Vertreter der Industriesektion in der Handelskammer<lb/>
+ist eingeladen. Als vierter was der Schuldirektor der Hotel- und Gast<lb break="no"/>gewerbefachschule in Villach der vom Land bestellt wurde. Die Schule<lb/>
+zahlt in diesem Fall, auch das Land, und das Wifi hat glaube ich gar<lb/>
+nicht dazu beigetragen, der <name type="person" ref="per:97953">Sima</name> die Unterlagen für seine steuer<lb break="no"/>liche Forderung zusammengestellt hat. Diese Mann hat 1945 den Dienst<lb/>
+quittieren müssen, wie mir <name type="person" ref="per:97953">Sima</name> bei der Vorstellung gleich erklärte,<lb/>
+dann ein Wirtschaftstreuhänderbüro mit 30 Beschäftigten aufgerichtet,<lb/>
+das er derzeit auch noch betreibt.<lb/>
+</p>
+            <p xml:space="preserve">Betreffend der Zielvorstellungen <name type="person" ref="per:97953">Simas</name> konnte sehr bald eine Über<lb break="no"/>einstimmung zwischen und erzielt werden. Da er <choice><choice><sic>gefahr</sic><corr>die Gefahr</corr></choice></choice> der Appartement<lb break="no"/>häuser ganz genau erkannt ist, will er nun über die Bauordnungen und<lb/>
+Flächenwidmungspläne einen entsprechenden Einfluss ausüben. Derzeit<lb/>
+ist es nämlich so, dass ausschliesslich die Bürgermeister die Geneh<lb break="no"/>migung für solche Appartementhäuser aussprechen können. Auf Grund<lb/>
+des Gemeindeverfassungsgesetzes ist die zweite Instanz der Gemeinde<lb break="no"/>vorstand, der sich natürlich auch in den meisten Fällen der Mei<lb break="no"/>nung des Bürgermeisters, d.h. in den meisten Fällen sogar des Ge<lb break="no"/>meindesekretärs, der ja dahintersteckt und die Arbeit leistet,<lb/>
+anschliesst. Dadurch kann es zur Gründung von Appartementhäusern<lb/>
+kommen, die man gar nicht beabsichtigt und die wirklich vom Fremden<lb break="no"/>verkehrsstandpunkt äusserst unzweckmässig sind. Der Ausdruck<lb/>
+Kapitalruinen", den <name type="person" ref="per:97953">Sima</name> in seiner Rundfunkansprache gewählt hat,<lb/>
+hat er von der grossen deutschen Reisebürovereinigung Fee über<lb break="no"/>nommen, die auf der Gerlitzen einige solche Appartementhäuser er<lb break="no"/>richtet haben. Was <name type="person" ref="per:97953">Sima</name> erreichen möchte, ist, dass ein gewisser<lb/>
+Zwang zur Vermietung dieser Appartementhäuser geschaffen wird.<lb/>
+Kontrahierungszwang ist wie <name type="person" ref="per:111367">Würzl</name> richtig sagt, nicht möglich,<lb/>
+doch wird in der Gewerbeordnung vorgesehen, dass auch jede Vermie<lb break="no"/>tung als gewerbliche Tätigkeit zu verstehen ist. Dadurch würden<lb/>
+<pb n="09-0259" facs="09_1972-02-24_0259.jpg"/>nicht nur die Hotels und Gastgewerbebetriebe sondern auch Apparte<lb break="no"/>menthäuser darunter fallen.<lb/>
+</p>
+            <p xml:space="preserve">Die Förderung wurde von <name type="person" ref="per:97953">Sima</name> für die Privatzimmer, die mich aller<lb break="no"/>dings nichts angehen, und für die Pensionen und kleineren Betriebe<lb/>
+als ausreichend empfunden. Wo er nun einen gewissen Mangel sieht<lb/>
+und da hat er vollkommen recht, ist die grossen Hotels, die niemand<lb/>
+mehr eigentlich bauen will und wo zu wenig Unterstützung gegeben<lb/>
+wird. Ich erörterte ihm die Absicht, dass der Finanzminister und ich<lb/>
+die Ansuchen beim ERP-Fonds, die wir nicht befriedigen können, durch<lb/>
+eine Sonderaktion, heuer maximal 150 Mill. und in dem nächsten<lb/>
+Jahr dann die weiteren 2–300 Mill. ausfinanzieren wollen. Er er<lb break="no"/>suchte, da diese Aktion annähernd dem entspricht, was er unter Hotel<lb break="no"/>aktion seinerzeit gestartet hat, dass wir diese auch Hotelaktion nennen<lb/>
+sollen. Damit würde eine Forderungsprogramm von ihm erfüllt werden.<lb/>
+Da wir diese Fälle über die Hotel- und Treuhand AG abwickeln, glaube<lb/>
+ich, kann man mit guter Begründung wirklich dies "Hotelaktion"<lb/>
+nennen, obwohl auch andere Betriebe, die eben bei ERP angesucht ha<lb break="no"/>ben, ausfinanziert werden. Ich glaube aber, mit dieser Forderung hätte<lb/>
+ich seinen Herzenswunsch erfüllt und sicherlich ein gutes Klima für die<lb/>
+Zukunft hergestellt. Wenn der Finanzminister sich nicht ausdrücklich<lb/>
+dagegen ausspricht, sollen wir in Hinkunft nur mehr von der Hotel<lb break="no"/>aktion sprechen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97953">Sima</name> wollte unbedingt – ähnlich wie er dies mit <name type="person" ref="per:97755">Moser</name> getan hat –<lb/>
+wie er selbst ausführte, den Fachminister für seine steuerlichen<lb/>
+Wünsche gewinnen, damit wir gemeinsam bei <name type="person" ref="per:97311">Androsch</name> diesen unhaltbaren<lb/>
+Zustand – wie er meint – beenden. Derzeit ist richtig, dass der Ver<lb break="no"/>waltungsgerichtshof einige Male entschieden hat, dass Heizungsanlagen,<lb/>
+Liftanlagen, alle Nasseinheiten zu den Gebäuden hinzugerechnet werden,<lb/>
+das heisst als unbeweglich zu betrachten sind. Dies Bedeutet, dass<lb/>
+die Abschreibung für diese Ausrüstung sehr langfristig ist. Tat<lb break="no"/>sächlich veralten sie sehr schnell und müssen viel früher ersetzt<lb/>
+werden. <name type="person" ref="per:97953">Sima</name> hat deshalb einen ganzen Forderungskatalog für steuer<lb break="no"/>liche Besserstellung der Hotels und Gastgewerbebetriebe an <name type="person" ref="per:97311">Androsch</name><lb/>
+gerichtet. <name type="person" ref="per:97311">Androsch</name> hat über <name type="person" ref="per:97668">Kreisky</name> diese Forderung kategorisch ab<lb break="no"/>gelehnt. Ich selbst habe deshalb <name type="person" ref="per:97953">Sima</name> klar und deutlich zu verstehen<lb/>
+gegeben, dass ich nicht bereit bin, mit ihm gemeinsam gegen <name type="person" ref="per:97311">Androsch</name><lb/>
+in diesem Fall zu Polemisieren. Ich erklärte ihm auch in der Sitzung<lb/>
+<pb n="09-0260" facs="09_1972-02-24_0260.jpg"/>dass er dieses Problem ausschliesslich mit <name type="person" ref="per:97311">Androsch</name> allein be<lb break="no"/>handeln muss. Die Regierung bildet eine geschlossene Einheit und<lb/>
+es ist unmöglich, dass ein Ressortminister einem anderen in seinem<lb/>
+unmittelbaren Verwaltungs- und Kompetenzbereich hineinredet.<lb/>
+Wenn <name type="person" ref="per:97311">Androsch</name> bereit ist, ihm in dieser Frage entgegenzukommen,<lb/>
+was ich allerdings kaum annehme, dann muss er diese Verhandlungen<lb/>
+allein ohne meine Unterstützung führen.<lb/>
+</p>
+            <p xml:space="preserve">Ich hatte eigentlich angenommen, dass die Teilnehmer dieser Tagung<lb/>
+sich in einer rechtlichen Diskussion an der Aussprache beteiligen<lb/>
+werden. Zu diesem Zweck hatte ich mit dem Arbeiterkammervertreter,<lb/>
+der junge neue Kollege Dr. <name type="person" ref="per:139528">Baska</name>, hat nämlich bei einer Besprechung<lb/>
+in der Arbeiterkammer früh morgens einen sehr guten Eindruck auf mich<lb/>
+gemacht. Er hat auch ein umfangreiches Elaborat ausgearbeitet, wel<lb break="no"/>ches die Zustimmung des Kammeramtsdirektors und auch des Präsidenten<lb/>
+gefunden hat. <name type="person" ref="per:97953">Sima</name> ist mit dem Mann sehr zufrieden und sagt, die Ar<lb break="no"/>beiterkammer hat sich jetzt überhaupt in den letzten Jahren erst<lb/>
+für den Fremdenverkehr interessiert. Da der seinerzeitige Präsident<lb/>
+<name type="person" ref="per:139529">Scheiber</name> kein Freund von <name type="person" ref="per:97953">Sima</name> war, versuchte er natürlich jetzt wo<lb/>
+sein Freund <name type="person" ref="per:136691">Stecher</name> jetzt Präsident ist, besonders die neue Kammer<lb break="no"/>führung herauszustreichen. Sicher ist eines, dass der neue volkswirt<lb break="no"/>schaftliche Referent sehr agil und wesentlich besser ist als sein<lb/>
+Vorgänger. <name type="person" ref="per:97543">Heindl</name> glaubt nun, dass er diesen Mann anstelle des<lb/>
+Gewerkschaftsobmannes <name type="person" ref="per:139530">Seiler</name> für das Kuratorium oder zumindestens<lb/>
+als dessen Stellvertreter durchbringen kann. In diesem Fall wäre<lb/>
+<name type="person" ref="per:97953">Sima</name> ebenfalls sehr zufrieden und würde dies als Vertretung Kärntens<lb/>
+in dem Kuratorium betrachten.<lb/>
+</p>
+            <p xml:space="preserve">Anmerkung für <name type="person" ref="per:97543">Heindl</name>: Versuche dies aber äusserst vorsichtig, sonst<lb/>
+kannst Du den Gewerkschaftsbund furchtbar verärgern.<lb/>
+</p>
+            <p xml:space="preserve">Kammeramtsdirektor der Arbeiterkammer <name type="person" ref="per:127073">Kottek</name> ist Präsident des Auf<lb break="no"/>sichtsrates der BBU. Die Genossen, insbesondere das Vorstandsmitglied<lb/>
+<name type="person" ref="per:97929">Schützelhofer</name>, sind mit Recht über den ÖVP-Vorstandsmann, der in der<lb/>
+Ära <name type="person" ref="per:97634">Klaus</name> hineingewählt wurde, Dr. <name type="person" ref="per:139531">Maier</name> sehr ungehalten. Er hat<lb/>
+einen Artikel in der Presse lanciert, dass es der BBU jetzt sehr<lb/>
+gut geht. Derselbe <name type="person" ref="per:139531">Maier</name> hat allerdings als er in Schlaining ge<lb break="no"/>wesen ist, erklärt, es müsste dieser Bergbau im Burgenland bereits<lb break="no"/><pb n="09-0261" facs="09_1972-02-24_0261.jpg"/>heuer gesperrt werden. In beiden Fällen waren dies Eigenmächtig<lb break="no"/>keiten, die dem Unternehmen nur geschadet haben. Ich erklärte<lb/>
+<name type="person" ref="per:127073">Kottek</name>, dass wir beabsichtigen, die Bergbauförderung auch für<lb/>
+den Buntmetallbergbau von 9,8 Mill. auf 15 Mill. zu erhöhen.<lb/>
+wenn er mit dem Vorstand bei mir vorspricht, würde ich dann er<lb break="no"/>klären, dass durch die gute Situation, wie es der Artikel ja<lb/>
+darstellt, keine Möglichkeit besteht, der BBU eine Bergbauförde<lb break="no"/>rung zukommen zu lassen. Obwohl wir die Bergbauförderungsmittel auf<lb break="no"/>stocken.<lb/>
+</p>
+         </div>
+      </body>
+      
+   </text>
+</TEI>

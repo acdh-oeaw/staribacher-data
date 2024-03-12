@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittwoch, der  3. Oktober 1973</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band17_1973-10-03</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1973-10-03">Mittwoch, 3. Oktober 1973</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-09-21">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band17/">
+      <body>
+         <pb n="17-1077" facs="17_1973-10-03_1077.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Mittwoch, 3. Oktober 1973</p><p xml:space="preserve">Min.Rat <name type="person" ref="per:107937">Frank</name>, <name type="person" ref="per:97467">Gasser</name>, <name type="person" ref="per:112191">Mayer</name>, <name type="person" ref="per:108609">Sterk</name>, <name type="person" ref="per:97469">Gehart</name> bestätigen mir, dass es<lb/>
+möglich sein müsste, bis Ende November, Anfang Dezember die Konzep<lb break="no"/>tion des Energiekonzeptes fertig zu haben. Dadurch, dass von der ÖMV<lb/>
+Doz. <name type="person" ref="per:140493">Romig</name> und <name type="person" ref="per:97671">Kreutler</name> die Gas- und Flüssigenergie, Bundeslastverteiler<lb/>
+und von der Verbundgesellschaft die elektrische Energie, da vom einzigen<lb/>
+Ministerienvertreter nämlich die Kohle vorgelegt werden wird, müsste<lb/>
+es gelingen, zeitgerecht den ersten Entwurf über die Runden zu bringen.<lb/>
+Interessant ist, dass <name type="person" ref="per:107937">Frank</name> mitteilt, dass auch das Elektrizitätsministe<lb break="no"/>rium einen entsprechenden Entwurf ausgearbeitet hat, von dem <name type="person" ref="per:107937">Frank</name><lb/>
+allerdings meint, er ist nicht zu verwenden und wird umgearbeitet.<lb/>
+<name type="person" ref="per:108609">Sterk</name> dürfte der einzige gewesen sein, der immerhin imstande war, als<lb/>
+Ministeriumvertreter für Kohle ein entsprechende Konzept vorzulegen<lb/>
+wobei er dieses jetzt mit den Unternehmen abstimmt und mit Sicher<lb break="no"/>heit angenommen werden kann, dass die Unternehmer dieser ins Detail<lb/>
+gehenden Information zustimmen werden. Das Wirtschaftsforschungs<lb break="no"/>institut wird über die Prognose einen diesbezüglichen Vorschlag vorbe<lb break="no"/>reiten und Dipl.Ing. <name type="person" ref="per:146472">Hönigmann</name> von der Verbund einen Entwurf der inter<lb break="no"/>nationalen Energielage. <name type="person" ref="per:107937">Frank</name> hat auch die Akademie für Wissenschaften,<lb/>
+das Wirtschaftforschungsinstitut und den Landverteiler mobilisiert,<lb/>
+um eine Arbeit über die Methoden der Energieprognose vorzulegen. Beim<lb/>
+letzten Energiekonzept, das die ÖVP veröffentlicht hat, wurde von<lb/>
+<name type="person" ref="per:97775">Nemschak</name> abgelehnt die Details der Methode der Energieprognose in die<lb/>
+Arbeit aufzunehmen. Da hier gewisse Schwächen existieren, wollte er<lb/>
+nur das Ergebnis aber nicht wie man zu diesem Ergebnis kommt publi<lb break="no"/>zieren. Ich habe <name type="person" ref="per:107937">Frank</name> bereits vor längerer Zeit klar und deutlich<lb/>
+gesagt, dass wir alle Schwächen, die ein Energieplan hat, in dem Plan<lb/>
+selbst aufzeigen müssen. Vor allem wird der mit 1. Jänner zu konsti<lb break="no"/>tuierende Energiebeirat nur alle Schwächen öffentlich diskutieren.<lb/>
+Das wirkliche Problem liegt aber meiner MEINUNG NACH GANZ WO ANDERS!<lb/>
+Das wird letzten Endes meine Arbeit sein in ganz kleinem Kreis zuerst<lb/>
+fraktionell und dann natürlich auch mit der Gegenseite und den Inter<lb break="no"/>essensvertretungen auszudiskutieren, z.B. Wenn die ÖMV auf Propylen<lb/>
+und Äthylen-Produktion einsteigt, braucht sie 5 Mill. t Rohöl. Dies<lb/>
+gibt dann 3 Mill. t Heizöl, die irgendwie, nicht nur im Energieplan<lb/>
+sondern was noch viel wichtiger ist, in der Praxis fest vereinbart ab<lb break="no"/>gesetzt werden muss. Wenn die elektrische Energie diese Ölmengen auf<lb break="no"/>nimmt und in kalorischen Kraftwerken verarbeitet, sehe ich fast keine<lb/>
+Möglichkeit, unsere Kohle im weststeirischen Gebiet verstromen zu können,<lb/>
+<pb n="17-1078" facs="17_1973-10-03_1078.jpg"/>Der Ölpreis unterliegt irrsinnigen Schwankungen, der Kohle<lb break="no"/>preis wird eine ständige Aufwärtsentwicklung mitmachen, wie werden<lb/>
+wir also die Preisrelationen untereinander so gestalten, dass wir<lb/>
+eine kontinuierliche Absatzlage für Öl oder Kohle erzielen können.<lb/>
+Wenn wir dann im Energiekonzept oder was noch viel wichtiger ist<lb/>
+bei den endgültigen Verhandlungen zwischen den einzelnene Energie<lb break="no"/>abnehmern einen entsprechenden Plan durchgesetzt haben und dies ver<lb break="no"/>traglich gebunden ist, werden wir dann tatsächlich die optimale Lö<lb break="no"/>sung auch für die Zukunft gefunden haben. Über diese Probleme wird es<lb/>
+notwendig sein, zu entscheiden. Hoffentlich treffen wird das<lb/>
+Richtige, denn ich fürchte, aus dem Energiekonzept werden wir maximal<lb/>
+einen Anhaltungspunkt, sicherlich aber nicht eine bindende Aussage<lb/>
+haben können.</p><p xml:space="preserve">Min.Rat <name type="person" ref="per:112191">Mayer</name> hat anschliessend mit Sekt.Leiter <name type="person" ref="per:97467">Gasser</name> sich bei mir<lb/>
+bitter über Min.Rat <name type="person" ref="per:116995">Wildauer</name> beschwert. <name type="person" ref="per:112191">Mayer</name> hat , als <name type="person" ref="per:97467">Gasser</name> ab<lb break="no"/>wesend war, selbstlos zugestimmt, dass <name type="person" ref="per:112190">Mock</name> seine Sekretärin bekommt.<lb/>
+Dadurch wurde das Personalgefüge der OB ein bisschen durcheinander<lb break="no"/>gerüttelt. Dies hat Min.Rat <name type="person" ref="per:116995">Wildauer</name>, eine angeblich sehr aggressive<lb/>
+Berlinerin, veranlasst zu sagen, dass er sich unakademisch verhal<lb break="no"/>ten hat. Seit der Zeit, sagt Min.Rat <name type="person" ref="per:112191">Mayer</name>, heisst er nicht der<lb/>
+Öl-Mayer, sondern der Proletenmayer. Dadurch fühlt er sich in seiner<lb/>
+Ehre gekränkt, <name type="person" ref="per:97467">Gasser</name> selbst wird versuchen, dieses Problem aus der<lb/>
+Welt zu schaffen und meint mit Recht, dass dies kaum ein Diszipli<lb break="no"/>narfall sein könnte. Ich selbst habe nur <name type="person" ref="per:112191">Mayer</name> bestätigt, dass er in<lb/>
+einmaliger Art und Weise sich in der Sache verhalten hat und wirklich<lb/>
+jetzt einen diesbezüglich unqualifizierten Angriff nicht verdient.<lb/>
+Dabei erinnere ich mich, dass <name type="person" ref="per:97647">Koren</name> seinerzeit auf der Universität<lb/>
+da er wusste, dass ich als Stein- und Offsetdrucker und vor allem<lb/>
+einmal als Sozialist nach meiner Kriegsverwundung studieren durfte,<lb/>
+von ihm als emanzipierter Proletarier bezeichnet und auch behandelt<lb/>
+wurde. Mich hat das damals nicht gestört, sondern ganz im Gegenteil<lb/>
+ich war darauf stolz. <name type="person" ref="per:97647">Koren</name> hatte dies allerdings nicht bösartig<lb/>
+gemeint, sondern nur auch schon in seiner damaligen zynischen Art<lb/>
+und Weise geglaubt, einen guten Gag gefunden zu haben. Die nach<lb break="no"/>träglich beste Genugtuung haben ich dann erfahren, als er selbst schon<lb/>
+Politiker der ÖVP auf seine proletarische Abkunft, sein Vater war<lb/>
+Eisenbahner, hingewiesen hat.</p><pb n="17-1079" facs="17_1973-10-03_1079.jpg"/><p xml:space="preserve"><name type="person" ref="per:98087">Wirlandner</name> setzt mir auseinander, dass die Investitionskredit,<lb/>
+wo er Vorstandsmitglied ist, im nächsten Jahr in eine pein<lb break="no"/>liche oder besser gesagt schwierige Situation kommt. Fast<lb/>
+1,9 Mia S-Ansuchen liegen vor. Die Liste, die mir seinerzeit<lb/>
+<name type="person" ref="per:98011">Teufenstein</name> nur gezeigt hat, übergibt er mir selbstverständlich.<lb/>
+Er selbst hat diese Ansuchen schon vorsortiert und meint, dass<lb/>
+er von diesen 1,9 Mia maximal 600 Mill. herausstreichen könnte.<lb/>
+Um nun diesen Betrag von 1,3 Mia aufzubringen, müssten sie ausser<lb/>
+den 400 Mill. Rückläufen und den 300 Mill. Anleihen, die ihm<lb/>
+schon zugesichert sind, noch um 400 Mill. Auslandsgelder aufnehmen<lb/>
+und 100 Mill. müssten die Bankinstitute, die ja an der Invest<lb break="no"/>kredit beteiligt sind, durch Kassenscheine und Obligationen zur<lb/>
+Verfügung stellen. Dadurch könnte er 1,2 Mia maximal Investitionen<lb/>
+im nächsten Jahr finanzieren. Er fürchtet, und dies mit Recht,<lb/>
+dass der Finanzminister diese Kreditoperationen nicht so restlos<lb/>
+genehmigen wird. Die wirkliche Sanierung, der Investitionskredit AG<lb/>
+könnte ja nur auf zweifache Art erfolgen. Nach längeren Verhand<lb break="no"/>lungen wurde das Kapital der Investitionskredit von 200 Mill. durch<lb/>
+die Aufnahme der In-Kredit von der Nationalbank um 100 Mill. auf<lb/>
+300 Mill. erhöht. Wenn nun die Investitionskredit mit der Kommunal<lb break="no"/>kredit AG zusammengelegt wird, die ungefähr ein Kapital von 50 –<lb/>
+60 Mill. hat, würde sich das Kapital auf 350 bis 360 Mill. S erhöhen<lb/>
+Da aber die Investitionskredit und die Kommunalkredit jeweils<lb/>
+400 Mill. ERP-Mitteln hat, würden dann 800 Mill. S zur Verfügung<lb/>
+stehen, womit eine grössere Tätigkeit der I-Kredit garantiert<lb/>
+wäre. Ich habe erklärt, dass dieser Plan meiner Meinung nach<lb/>
+sinnvoll ist, aber wahrscheinlich schon allein daran scheitert,<lb/>
+dass <name type="person" ref="per:97311">Androsch</name> kaum ihn akzeptieren wird und darüber hinaus <name type="person" ref="per:97668">Kreisky</name><lb/>
+ein aktiver Mitarbeiter in der Kommunalkredit AG sich dagegen<lb/>
+aussprechen wird. <name type="person" ref="per:97668">Kreisky</name> hat seinerzeit mit <name type="person" ref="per:98091">Withalm</name> auch in der<lb/>
+Oppositionszeit in der Kommunalkredit doch den Gemeinden entspre<lb break="no"/>chende Unterstützung gewährt und er wird auf dieses politische<lb/>
+Instrument, allerdings auch <name type="person" ref="per:98091">Withalm</name>, kaum verzichten wollen. Der<lb/>
+zweite Sanierungsplan wäre noch besser. Die ÖNB hat heute ERP-<lb/>
+Wechsel für 5,4 Mia S als sogenannter Eigenblock. Diese Wechsel<lb/>
+könnten dem Bund abgetreten werden, der Bund müsste dann Bundesschuld<lb/>
+bei der Nationalbank erhöhen und der Bund selbst könnte treuhändisch<lb/>
+dieses Wechselmaterial der I-Kredit übertragen. Dann hätte die<lb/>
+Investitionsbank einen ungeheuren starken Kapitalstock und wäre<lb/>
+eine wirkliche Investitionsbank. Derzeit ist ihre Bilanzsumme<lb/>
+<pb n="17-1080" facs="17_1973-10-03_1080.jpg"/>2,4 Mia S und erhöht sich pro Jahr um maximal 400 Mill., was natür<lb break="no"/>lich viel zu gering ist. Da die I-Kredit aber keinerlei Einlagen<lb/>
+besitzt, damit auch durch die Kreditrestriktion in eine ganz<lb/>
+besondere Schwierigkeit gelangt, hat sie keine Expansionsmöglichkeit<lb/>
+wie die anderen Banken, Sparkassen, Raiffeisenkassen, usw., die<lb/>
+Direkteinlagen beziehen. <name type="person" ref="per:98087">Wirlandner</name> und <name type="person" ref="per:98011">Teifenstein</name> werden bis 1975<lb/>
+noch aktiv bleiben, ob bis dorthin ein so grosses Konzept durchgesetzt<lb/>
+wird, liegt aber primär am Finanzminister und <name type="person" ref="per:97668">Kreisky</name>. Ich habe<lb/>
+<name type="person" ref="per:98087">Wirlandner</name> gleich freimütig gesagt, dass ich darauf keinen Einfluss<lb/>
+habe, wir wohl seinerzeit im Wirtschaftsprogramm, aber auch<lb/>
+im Beirat entsprechende Vorschläge gemacht haben, die aber jetzt<lb/>
+scheinbar nicht verwirklicht, resp. durchgeführt werden. Wenn <name type="person" ref="per:97311">Androsch</name><lb/>
+einen solchen grossen Plan verfolgen wollte, gegen den sich natürlich<lb/>
+das ERP-Büro, gegen den sich die Banken stellen, gegen die sich vor<lb/>
+allem einmal sicherlich seine Finanzbürokratie in der Himmelpfortgasse<lb/>
+stellen wird, so müsste er auf die seinerzeitigen Studien der Wirt<lb break="no"/>schaftskommission aber noch viel mehr des Beirates zurückgreifen, weil<lb/>
+er dann sagen könnte, dies war eine Forderung aller Interessensvertre<lb break="no"/>tungen Österreichs. Da aber <name type="person" ref="per:97311">Androsch</name> ja nur in den seltensten Fällen<lb/>
+in der letzten Zeit glaube ich überhaupt nicht mehr mit den Inter<lb break="no"/>essensvertretungen zu so grosser Reorganisation sich verbünden<lb/>
+möchte, sehe ich für die Durchführung eines solchen Projektes derzeit<lb/>
+keine allzu grosse Chance.</p><p xml:space="preserve">Min.Rat a.d. <name type="person">Peschke</name>, hat mit <name type="person" ref="per:97729">Matthes</name> von der VÖEST seinen Wunsch,<lb/>
+Vertreter bei der OECD bei der Stahlindustrie zu werden, besprochen<lb/>
+<name type="person" ref="per:97729">Matthes</name> hat es von meiner Zustimmung abhängig gemacht. Ich habe<lb/>
+<name type="person" ref="per:97729">Matthes</name> und <name type="person">Koller</name> bei der Unterzeichnung einer Zellulose-Anlage<lb/>
+für die CSSR, d.h. Slowakei getroffen und <name type="person" ref="per:97729">Matthes</name> darauf aufmerksam<lb/>
+gemacht, dass ich nichts dagegen einzuwenden habe, wenn die Stahlindu<lb break="no"/>strie tatsächlich über den Fachverband <name type="person">Peschke</name> an stelle des derzeit<lb/>
+schon sehr alten ehemaligen Stahldirektor vorschlägt. Die Tschechen<lb/>
+waren sehr erfreut, dass ich zu dieser Vertragsunterzeichnung gekommen<lb/>
+bin und ganz besonders vor längerer Zeit ja dazu schon einen Minister<lb/>
+aus der CSSR eingeladen habe. Dies war ein Wunsch der VÖEST, das<lb/>
+Essen ging aber auf ihre Kosten, es waren ungeheuer viele Leute auch<lb/>
+geladen, nur der csl. Botschafter meinte, trotz der unglückseligen<lb/>
+Grenzzwischenfälle gehen Gott sei Dank die Geschäfte weiter. Die<lb/>
+CSSR hat nicht zuletzt vielleicht, um zu beweisen, dass sie die Ge<lb break="no"/>schäftsverbindungen nach wie vor aufrechterhalten will, heuer schon<lb/>
+für 1 Mia S Investitionen getätigt, wie der csl Handelsrat mit gegen<lb break="no"/>über bemerkte.</p></div>
+      </body>
+      <back>
+         <pb n="17_1076_03" facs="17_1973-10-03_1076-03.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 3.10.1973</head>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+   </text>
+</TEI>

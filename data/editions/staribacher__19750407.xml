@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Montag, der  7. April 1975</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band25_1975-04-07</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1975-04-07">Montag, 7. April 1975</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-11-21">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="25-0412" facs="25_1975-04-07_0412.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Montag, den 7. April 1975<lb/>
+</p>
+            <p xml:space="preserve">Mit der Fettindustrie wurden die Lohnvereinbarungen abge<lb break="no"/>schlossen, doch ist der Streit wer die Versammlungsstunden<lb/>
+wo nicht gearbeitet wurde zahlen soll, noch immer offen.<lb/>
+Die Belegschaft insbesondere bei Unilever steht auf dem unver<lb break="no"/>rückbaren Standpunkt, daß dies der Unternehmer zu bezahlen hat.<lb/>
+Gen.Dir. <name type="person" ref="per:97936">Seefranz</name>, der zuerst erklärte, er wird sich bei der Fett<lb break="no"/>industrie, deren Obmann er ist, einsetzen, daß für die Zusicherung,<lb/>
+daß in Hinkunft eine Friedenspflicht besteht, die Bezahlung er<lb break="no"/>folgen soll. Jetzt zahlen die anderen Unternehmungen und Unilever<lb/>
+hofft noch immer eine bessere Regelung mit Stundenbegrenzungen<lb/>
+usw. erzielen zu können. Dagegen ist sogar der Fachverband Sekre<lb break="no"/>tär <name type="person" ref="per:130457">Riegler</name>. Dir. <name type="person" ref="per:113084">Büttner</name> von Unilever hat mich angerufen um mich<lb/>
+zu informieren, obwohl ich hier kaum mehr anbieten kann, als eben<lb/>
+einen Ausschuß in Hinkunft einzusetzen der die Friedenspflicht<lb/>
+zu wahren hätte, wie wir dies auch bei der Brauereiindustrie ge<lb break="no"/>macht haben.<lb/>
+</p>
+            <p xml:space="preserve">Beim Journalistenfrühstück hatten wir drei gewichtige Themen<lb/>
+Accordino, Elektrizitätswirtschaftsgesetz und Berggesetz, da die<lb/>
+Journalisten ausgesprochen müde waren. Keine Anfragen, fast keine<lb/>
+Diskussion.<lb/>
+</p>
+            <p xml:space="preserve">Die Neusiedler AG, Gen.Dir. <name type="person" ref="per:140482">Holdt</name> und sein Techniker, sowie von<lb/>
+Laakirchen der Besitzer <name type="person" ref="per:114976">Heinzel</name> erklären <name type="person" ref="per:97493">Gröger</name>, <name type="person" ref="per:108746">Haffner</name>, <name type="person" ref="per:113038">Reim</name> und<lb/>
+mir ihr neues Sulfatzelluloseprojekt, was sie errichten wollen.<lb/>
+Kematen mit 24.000 Tonnen Sulfitzellulose soll stillgelegt werden,<lb/>
+dies gehört der Neusiedler, außerdem nehmen sie an, daß Offenbach<lb/>
+25.000 Tonnen sowie Rechberg als auch Villach von <choice><choice><sic>Börrigat</sic><corr>Borregaard</corr></choice></choice><lb/>
+in Hinkunft stillgelegt werden. Die 100.000 Tonnen Import sollen<lb/>
+ebenfalls durch inländische Sulfatproduktion ersetzt werden. Die<lb/>
+Holzmengen wären im Einzugsgebiet der neuen Fabrik vorhanden,<lb/>
+die Finanzierung werden sie selbst durchführen, keine Mittel vom<lb/>
+Ministerium und schon gar keine vom Wasserwirtschaftsfonds<lb/>
+brauchen. Die Produktion kann jetzt umweltfreundlicher durch<lb break="no"/>geführt werden und man behauptet sogar, daß die Geruchsbelästigung<lb/>
+wie in Frantschach und Nettigsdorf in einem Umkreis von 7 km nicht<lb/>
+mehr zu bemerken ist. Für mich ist nur die Frage klar, daß niemand<lb/>
+beabsichtigt seine Zelluloseproduktion einzustellen, sondern ganz<lb/>
+im Gegenteil jeder nur vergrößern will und dafür wird nicht genug<lb/>
+<pb n="25-0413" facs="25_1975-04-07_0413.jpg"/>Holz vorhanden sein.<lb/>
+</p>
+            <p xml:space="preserve">In der Ministerklausur hat <name type="person" ref="per:97668">Kreisky</name> zuerst über die wirtschafts<lb break="no"/>politische Situation gesprochen weil er ja die Redakteure zeit<lb break="no"/>gerecht informieren wollte. Amerika erlebt nach seiner Auffassung<lb/>
+keine Rezession, sondern bereits eine Depression. Die Definition<lb/>
+sieht er darin, daß eben die Quantität, langfristige schlechte<lb/>
+Wirtschaftsperioden in eine Qualität, eben in die Depression<lb/>
+umschlägt. Die Sozialisten trauten Europa ja sogar weltweit nur zu<lb/>
+Sozialpolitik betreiben zu können und nur die österreichische<lb/>
+sozialistische Partei hat sich mit dem Wirtschaftsprogramm vorbe<lb break="no"/>reitet und mit der jetzigen Regierungstätigkeit quali- und<lb/>
+klassifiziert. Es gibt aber trotzdem es viele sozialistisch ge<lb break="no"/>führte oder zumindestens von Sozialisten beeinflußte Regierung<lb/>
+gibt, keine europäische sozialistische Wirtschaftspolitik. Bei<lb/>
+Zustandekommen der Europäischen Gemeinschaft hat sich Österreich,<lb/>
+die Schweiz und Schweden beim Meinungsaustausch die Plattform ge<lb break="no"/>schaffen, daß sie jetzt <choice><choice><sic>Angement</sic><corr>Arrangement?</corr></choice></choice> mit der EG erreichen konnte.<lb/>
+Jetzt macht <name type="person" ref="per:97311">Androsch</name> etwas ähnliches, allerdings nur in deutsch<lb break="no"/>sprachiger Österreich, Schweiz und Deutschland auf dem Währungs<lb break="no"/>sektor. <name type="person" ref="per:97668">Kreisky</name> meint nun es müßte ein Meinungsaustausch für<lb/>
+Ölfragen, 4.-Weltprobleme, Währungsprobleme zwischen den neutralen<lb/>
+Staaten so wie seinerzeit bei der EG erfolgen. Studien die er<lb/>
+insbesondere bei <name type="person" ref="per:115580">Otto Bauer</name> über Rationalisierung, Fehlrationali<lb break="no"/>sierung gemacht hat, überzeugen ihn, daß wir jetzt dieselbe Situation<lb/>
+haben. An Stelle Rationalisierung braucht man nur Investition<lb/>
+setzen und dieselbe Situation bestand 1926. Damals war ebenfalls<lb/>
+der Krisenansatz und wurde nur durch die Rationalisierungskonjunktur<lb/>
+überdeckt. Bis sie 1929 dann ausgebrochen ist. Die Wirtschaft<lb/>
+will jetzt Investitionen um jeden Preis, er glaubt es wäre dringend<lb/>
+notwendig das Investitionsbedürfnis mit der Handelskammer festzu<lb break="no"/>stellen und ersucht mich diese Arbeiten zu leisten.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:97469">GEHART</name> und <name type="person" ref="per:98053">WANKE</name>: Branchenreferat und Grundsatzgruppe<lb/>
+und insbesondere Handelskammer, Fachverbände sofort eine solche<lb/>
+Arbeit einleiten.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97311">Androsch</name> erörtert dann sein Finanzkonzept. Mit den 5 Milliarden<lb/>
+der zwei BÜG im Vorjahr wurde die Bauwirtschaft weiter beschäftigt<lb/>
+<pb n="25-0414" facs="25_1975-04-07_0414.jpg"/>d.h. mit anderen Wirtschaftszweigen 30.000 Beschäftigte zusätzlich<lb/>
+in Arbeit gehalten.Jetzt möchte er von der Stabilisierungsquote<lb/>
+zwei Drittel freigeben und zwar für die ÖBB Elektrifizierung und<lb/>
+Fahrzeuge 800 Millionen, für Hochbauten 800 Millionen für die<lb/>
+Autobahn Süd und Wien 200 Millionen und für den Wasserwirtschafts<lb break="no"/>fonds 200 Millionen, Fahrzeuge für das Bundesheer Bereitschafts<lb break="no"/>truppe 109 Millionen, Forstwirtschaft 5 Millionen, ÖBB 20 Millionen.<lb/>
+Für die Anschaffung Bereitschaftstruppe Textilindustrie mit 80<lb/>
+Millionen, insgesamt ca. 2 Milliarden 240 Millionen. Außerdem hebt<lb/>
+er die Bindungen jetzt wo die Stabilisierungsquote eingeführt wird<lb/>
+zu 100 % und die anderen zu 50 % auf, d.h. es sind nur mehr 10 %<lb/>
+Anlagen und 5 % Aufwendungen gebunden. Dies ergibt weitere 4.5<lb/>
+Milliarden Schilling, so daß 6.7 Milliarden Schilling sofort<lb/>
+frei werden. Er stimmt auch zu, daß die Auflösung von Rücklagen,<lb/>
+die insbesondere der Bautenminister im Vorjahr hat errichten<lb/>
+müssen, auch sofort aufgelöst werden, Mit den Ländern und Gemeinden<lb/>
+wird er Verhandlungen führen, daß sie ebenfalls so vorgehen und<lb/>
+wird die Rückhaltung aus dem Finanzausgleich aufheben. Ebenso<lb/>
+die Restringierung der Bausparkassen.<lb/>
+</p>
+            <p xml:space="preserve">Auf dem ERP-Sektor hofft er, daß die Notenbankreserve mit 290 Millio<lb break="no"/>nen plus die 400 Millionen die 1973/74 gesperrt waren und die<lb/>
+650 Millionen die 74/75 gesperrt waren, sowie ein Vorgriff auf<lb/>
+1975/76 insgesamt 1,5 Milliarden mit 5 % ergeben. Da die Kredit<lb break="no"/>apparate weitere 1.5 Milliarden mit 10 % zur Verfügung, der jetzige<lb/>
+Marktzinsfuß war 11.2, ergibt sich für diese 3 Milliarden ein<lb/>
+Durchschnittszinssatz von 7.5 %. Darüber sollen 50 Millionen für<lb/>
+Zinsenzuschuß auf ERP, eine weitere Milliarde locker machen,<lb/>
+was bedeutet, daß der Kreditapparat die Mittel zur Verfügung<lb/>
+stellen muß, zuzüglich einer weiteren Milliarde, die er als<lb/>
+50 %-igen Anteil auch wieder zum 10 % Zusatz zur Verfügung stellt,<lb/>
+sodaß ebenfalls hier eine 7.5 %-ige Mischung zustande kommt und<lb/>
+insgesamt damit aus ERP 5 Milliarden zur Verfügung stehen. Sollte<lb/>
+die amerikanische Regierung, <name type="person" ref="per:97668">Kreisky</name> hat einen diesbezüglichen<lb/>
+Brief bereits an den Botschafter geschickt, nicht zustimmen, daß<lb/>
+ERP-Mittel zur Zinsenstützung herangezogen werden, so soll aus<lb/>
+dem ERP-Risikofond, der 500 Millionen hat, dafür herangezogen<lb/>
+werden. Angeblich existieren ERP-Anträge für 3 Milliarden Schilling.<lb/>
+</p>
+            <pb n="25-0415" facs="25_1975-04-07_0415.jpg"/>
+            <p xml:space="preserve">Ich fragte an ob hier auch für den Fremdenverkehr Mittel<lb/>
+abgezweigt werden, was <name type="person" ref="per:97311">Androsch</name> sofort bejahte, ich bin allerdings<lb/>
+nicht ganz sicher ob ich wirklich daraus Mittel bekommen werde.<lb/>
+Im weiteren Verlauf erklärte er auch für den Fremdenverkehr<lb/>
+stünden statt 261 Millionen 322 Millionen zur Verfügung und es<lb/>
+wären die Richtlinien zu ändern. Hier hat er gar keine neuen<lb/>
+Mittel zur Verfügung gestellt, sondern nur auf die heurigen Budget<lb break="no"/>ziffern verwiesen. In der Öffentlichkeit kann er immer wieder die<lb break="no"/>selben schon beschlossenen Ausgaben neu herausstreichen, um<lb/>
+anders auszudrücken. neu verkaufen. Ich gebe <choice><choice><sic>mir</sic><corr>mich</corr></choice></choice> nur keiner<lb/>
+Illusion hin, daß ich allzuviele neue Mittel bekommen werde.<lb/>
+</p>
+            <p xml:space="preserve">Für die Exportförderung meinte er seien durch die Investitions<lb break="no"/>lösung Sockelbetrag die Zinsen um 1 % gesenkt werden. Jetzt wird er<lb/>
+soferne der Produktionszeitraum länger als 1 Jahr dauert, also<lb/>
+für Voith, Zuckermann usw. diesen Produktionszeitraum ebenfalls<lb/>
+in die Exportfinanzierung einbeziehen, genau so wie die Teil<lb break="no"/>lieferungen. Mit der Österreichischen Nationalbank hat er ver<lb break="no"/>handelt und es ist anzunehmen, daß der Refinanzierungsrahmen<lb/>
+von 3 Milliarden auf 4 Milliarden erhöht wird. Die drei Herren<lb/>
+sagte er bräuchten dazu noch die Zustimmung des Generalrates. Das<lb/>
+Strukturverbesserungsgesetz möchte er auf 2 Jahre verlängern.<lb/>
+mit Ausnahme des Artikel 2, wo die Kapitalgesellschaften in Per<lb break="no"/>sonalgesellschaften verwandelt werden können. Er schlug dann auch<lb/>
+als Maßnahme vor wir sollten die BÜRGES-Grenze von 200.000 auf<lb/>
+300.000 erhöhen. Dagegen habe ich mich sofort zur Wehr gesetzt.<lb/>
+Ich erklärte ich hätte keine Mittel dafür und <name type="person" ref="per:97311">Androsch</name> hat zu<lb break="no"/>gegeben, daß dies 10 Millionen mehr kosten würde, die er aber<lb/>
+nicht bereit war mir zu geben. <name type="person" ref="per:97311">Androsch</name> behauptete er hätte mit<lb/>
+<name type="person" ref="per:97757">Mühlbacher</name> geredet und der lege größten Wert darauf auf diese<lb/>
+Erhöhung. Trotzdem war ich nicht bereit zuzustimmen, daß durch die<lb/>
+Erhöhung auf 300.000 Schilling meine Mittel frühzeitig er<lb break="no"/>schöpft sind und wir genau dieselbe Situation dann haben wie<lb/>
+wir 1970 die Aktion übernommen haben wo sie gesperrt war. Da die<lb/>
+jetzigen Mittel alle aufgebraucht werden sehe ich keine Möglich<lb break="no"/>keit eine Verbesserung einzuführen, die letzten Endes dann nur zu<lb/>
+einem Stau von Anträgen führt. Nach längerer Debatte wo <name type="person" ref="per:97668">Kreisky</name><lb/>
+dann letzten Endes sich auch für meine Auffassung entschied, ich<lb/>
+war fest entschlossen unter gar keinen Umständen nachzugeben,<lb/>
+ließ <name type="person" ref="per:97311">Androsch</name> dann diese Zusage, die er schon irgend jemand<lb/>
+<pb n="25-0416" facs="25_1975-04-07_0416.jpg"/>scheinbar gemacht hat, fallen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:97469">Gehart</name>: Versuche bitte sofort mit <name type="person" ref="per:111367">Würzl</name> büromäßig<lb/>
+und beamtenmäßig zu klären ob wir vom ERP eine kleine Erhöhung<lb/>
+für unsere Fremdenverkehrsquote bekommen können.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Erklärung für die Journalisten, wo <name type="person" ref="per:97668">Kreisky</name> und <name type="person" ref="per:97311">Androsch</name><lb/>
+hinausgingen, hat mich <name type="person" ref="per:97668">Kreisky</name> dann auch zu meiner größten Über<lb break="no"/>raschung dazugerufen. Ich hatte zwar nichts zu sagen und mische<lb/>
+mich selbstverständlich auch nicht in die Agenden von jemandem<lb/>
+anderen rein. Finanzen ist <name type="person" ref="per:97311">Androsch</name>, ERP ist <name type="person" ref="per:97668">Kreisky</name> selbst. Die<lb/>
+Frage ob der Fremdenverkehr jetzt etwas bekommt, sagte ich sofort<lb/>
+wird noch im Detail verhandelt, da eine Aufteilung noch nicht er<lb break="no"/>folgt ist. <name type="person" ref="per:97668">Kreisky</name> selbst schwebt ja vor, daß sich die betroffenen<lb/>
+Minister in den nächsten Tagen zusammensetzen. Da <name type="person" ref="per:97311">Androsch</name> das<lb/>
+ganze ERP-Verfahren nicht jetzt so umständlich abwickeln will<lb/>
+wie es bis jetzt geschieht, sondern durch Sofortmaßnahmen inner<lb break="no"/>halb von 6 Wochen die zusätzlichen Beträge bereits zugeschlagen<lb/>
+werden sollen. Wie dies funktionieren kann ist mir ein vollkommenes<lb/>
+Rätsel, weil <name type="person" ref="per:98034">Veselsky</name> mir flüsterte es gibt überhaupt nur ca. 400<lb/>
+Millionen die zusätzlich zur Verfügung gestellt werden können,<lb/>
+die schon zum größten Teil begutachtet sind und in Wirklichkeit<lb/>
+schon im normalem Verfahren abgewickelt werden. Eine Anfrage<lb/>
+von <name type="person" ref="per:133398">Mahr</name> Kronenzeitung ob dadurch die 2.5 %-ige Wachstumsrate<lb/>
+wieder nach oben revidiert werden kann, erklärte ich rundwegs<lb/>
+könnte man jetzt noch nicht sagen. <name type="person" ref="per:130518">Dibold</name> fragte mich welchen<lb/>
+Effekt die ganze Aktion haben wird und ich erklärte die Pferde<lb/>
+werden zur Tränke geführt, ob sie saufen, bleibt ihnen überlassen,<lb/>
+wie <name type="person" ref="per:114461">Keynes</name> schon vor Jahrzehnten richtig feststellte. Optisch<lb/>
+und propagandistisch ist dies ein ganz gewaltiger Stoß, ich<lb/>
+habe ihn in dieser Größenordnung nicht erwartet. Mit der Aufhebung<lb/>
+der Stabilisierungsquote die 2.2 Milliarden muß <name type="person" ref="per:97311">Androsch</name> in den<lb/>
+Nationalrat, da sich das Defizit um diesen Betrag vergrößert.<lb/>
+Ich bin auch überzeugt, daß <name type="person" ref="per:97668">Kreisky</name> nicht zuletzt aus propagandisti<lb break="no"/>schen Gründen diese fast 13 Milliarden Schillinge von <name type="person" ref="per:97311">Androsch</name><lb/>
+verlangte. Daß es sich hier um einen wirklichen Konjunkturanstoß<lb/>
+handelt steht fest. Auch dann wenn jetzt sicherlich die<lb/>
+ÖVP bei genauer Nachrechnung entsprechend kritisieren wird. Sie<lb/>
+bleibt auf alle Fälle optisch und propagandistisch in einer<lb/>
+schlechten Position. Jeder erwartet, daß der Staat jetzt etwas macht<lb/>
+<pb n="25-0417" facs="25_1975-04-07_0417.jpg"/>daß man sich selbst über die eventuellen Schwierigkeiten die<lb/>
+durch die ERP-Verwaltung Amerikaner kommen könnte, die einer<lb/>
+Zinsstützung nicht zustimmen, dann eben einen anderen Weg findet<lb/>
+diese zu finanzieren, eben da hat <name type="person" ref="per:97668">Kreisky</name> recht, wir sind in<lb/>
+einer besseren Situation als die anderen Staaten. Diese müssen<lb/>
+die Arbeiter wieder in die Fabriken bringen, bei uns sind sie<lb/>
+in die Fabriken, müssen nur beschäftigt werden. Was <name type="person" ref="per:97668">Kreisky</name> be<lb break="no"/>fürchtet und dies nicht zu Unrecht ist, daß wenn sich die Auf<lb break="no"/>tragslage nicht verbessert, die Betriebe beginnen die gehorteten<lb/>
+Arbeitskräfte freizusetzen.<lb/>
+</p>
+            <p xml:space="preserve">Über mein Memorandum wegen der Zurückstellung des Kernkraftwerkes<lb/>
+Stein meinte <name type="person" ref="per:97668">Kreisky</name> nur, daß sich jetzt die Atomgegner gegen eine<lb/>
+Abstimmung wehren, weil sie den übermächtigen Einfluß der In<lb break="no"/>dustrie fürchten. Er selbst hat jetzt ebenfalls seine Meinung<lb/>
+insoferne geändert, als er erklärte die Sicherheit sei eben noch<lb/>
+nicht geklärt, aber er selbst sei nicht gegen die Atomkraftwerke,<lb/>
+sondern möchte sie nur freimütig auf breitester Basis mit Jeder<lb break="no"/>mann diskutieren.<lb/>
+</p>
+            <p xml:space="preserve">Die Diskussion über das Voitsberg-Köflacher Krisenrevier ergab,<lb/>
+daß in Wirklichkeit er fürchtet dort nicht nur Zukunftsprojekte<lb/>
+sondern eben auch konkrete Vorschläge, womöglich mit sofortigem<lb/>
+Baubeginn den Arbeitern dort sagen zu müssen. <name type="person" ref="per:97525">Häuser</name> erörterte<lb/>
+die Arbeitsmarktsituation, 1074 Arbeitslose im März gegen 444 im<lb/>
+Vorjahr. 195 Metallarbeiter, 118 Bauarbeiter, 91 Glasarbeiter,<lb/>
+95 Bekleidungsarbeiter, nur mehr 94 offenen Stellen gegen 191<lb/>
+im Vorjahr. Früher waren aus diesem Bezirk hunderte ausgependelt<lb/>
+nach Graz, jetzt sind sie nicht mehr bereit dies zu tun. 50 kann<lb/>
+er jetzt mit Schlosser und Schweißer umschulen und 70 sind in<lb/>
+die Sonderunterstützung gegangen. Derzeit sind eben nur 80 bereit<lb/>
+auszupendeln. Die Beschäftigungslage in der Glasindustrie ist<lb/>
+sehr kritisch, man erwartet, daß nach der Hannover-Messe ein<lb/>
+besserer Auftrag kommt. Wir diskutierten wieder die langsame<lb/>
+Liquidierung Ausgleich, Konkurs usw. bei Junior-Werken. <name type="person" ref="per:97372">Broda</name> über<lb break="no"/>nimmt es hier so wie bei Merino zusehen ob es beschleunigt werden<lb/>
+kann resp. welche Möglichkeiten es sonst gibt. <name type="person" ref="per:97668">Kreisky</name> möchte, daß<lb/>
+der Bergbau sofort beginnt, der Abbau ist erst in 3 Jahren möglich<lb/>
+<pb n="25-0418" facs="25_1975-04-07_0418.jpg"/>doch müßte die ganze Vorbereitung insbesondere Wegräumung von<lb/>
+überdeckter Kohle in Angriff genommen werden. Dafür erklärte ich<lb/>
+braucht die GKB 100 Millionen Schilling pro Jahr, die sie eben aus<lb/>
+dem zinsverbilligten ERP-Kredit bekommen soll. Für die laufenden<lb/>
+Aufwendungen BÜG 182 Millionen gibt <name type="person" ref="per:97311">Androsch</name> seine Zustimmung und<lb/>
+meint zwischen 150 und 200 Millionen auf meine Anfrage. Für Vieh<lb/>
+müßte er über 500 Millionen zur Verfügung stellen, da 460 Millionen<lb/>
+<name type="person" ref="per:98055">Weihs</name> 1974 bekommen hat und davon noch 80 Millionen Schulden in<lb/>
+dieses Jahr herübernehmen mußte. <name type="person" ref="per:97311">Androsch</name> will ihm 400 Millionen<lb/>
+nur geben. Wegen der Kraftwerksbauten ersuche ich <name type="person" ref="per:97311">Androsch</name> er soll<lb/>
+endlich für den Ausbau der Donaukraftwerke die zugesagten Mehr<lb break="no"/>zweckbeträge flüssig machen. Er meint ebenso wie auch ich dies den<lb/>
+Donau-Leuten gesagt habe, man hat immer eine Lösung gefunden und an<lb/>
+dem wird es nicht scheitern.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:97469">GEHART</name>: Bitte versuche büromäßig <name type="person" ref="per:110922">Vranitzky</name> zu<lb/>
+informieren und Beschlüsse vorzubereiten.<lb/>
+</p>
+            <p xml:space="preserve">Mit <name type="person" ref="per:110923">Lanc</name> spreche ich wegen der holländischen Charterflüge und er<lb/>
+erklärt, daß das Verkehrsministerium immer bereit war letzten Endes<lb/>
+die Zustimmung zu geben. Nachdem er sich allerdings dann bei seinen<lb/>
+Beamten erkundigt hat, meint er, daß gegen diese Charterflüge auch<lb/>
+die KLM Einwände hat. Ich komme mit <name type="person" ref="per:110923">Lanc</name> überein, daß es höchste<lb/>
+Zeit ist, daß sich seine Beamten und unsere zusammensetzen um eine<lb/>
+Regelung zu erzielen, damit man den Auslandsstellen die notwendige<lb/>
+Weisung und Information geben kann.<lb/>
+</p>
+            <p xml:space="preserve">ANMKERUNG für <name type="person" ref="per:98040">WAIS</name>: Bitte sofort Verhandlungen mit Sekretariat<lb/>
+Verkehrsminister und auf Beamtenebene aufnehmen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97311">Androsch</name> frägt dann ob wir nicht die Milchpreisforderung und Ge<lb break="no"/>treidepreisforderung der Bauern zurückstellen können. Ich erkläre,<lb/>
+daß ich mich sehr bemühen werde, daß Getreide nicht kommt, da<lb/>
+ja letzten Endes auch dadurch auch durch den höheren Futtermittel<lb break="no"/>preis die Viehbauern belastet werden, daß ich aber keine Möglich<lb break="no"/>keit sehe, den Milchpreis bis nach den Oktober zurückzustellen.<lb/>
+<name type="person" ref="per:98055">Weihs</name> sagt sofort, daß dies ganz unmöglich ist, und möchte nur<lb/>
+noch vorher seine Butteraktion mit anfangs Juni 3.5 Tonnen um<lb/>
+14 Schilling verbilligt abgeben können, bevor der neue Milchpreis<lb/>
+in Kraft tritt. Ich versichere, daß ich sehr wohl sehr hart sein<lb/>
+<pb n="25-0419" facs="25_1975-04-07_0419.jpg"/>würde, wenn ich nicht genau wüßte, daß die Regierung letzten<lb/>
+Endes umfällt. <name type="person" ref="per:97668">Kreisky</name> meint dann ein wenig spöttisch, ich sei<lb/>
+der harte Mann und die Regierung weich, was allerdings wenn ich<lb/>
+an die letzten Preisverhandlungen mit den Agrariern denke, absolut<lb/>
+zutrifft, wo er immer dann noch bereit war ein bißchen zuzulegen.<lb/>
+Dies mache ich ihm nicht zum Vorwurf, da ich wahrscheinlich auch<lb/>
+nicht anders handeln könnte wenn ich an seiner Stelle wäre und<lb/>
+die Bauern sich dann letzten Endes auch noch an ihn wenden. Der<lb break="no"/>zeit erklärte ich, müßte ich versuchen, daß die Milchpreisforderung<lb/>
+von 74 Groschen auf 10 bis 20 Groschen reduziert werden kann.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97372">Broda</name> möchte die freischaffenden Schriftsteller durch einen<lb/>
+Buchgroschen der momentan nicht eingeführt werden kann für ent<lb break="no"/>liehene Bücher und die Musiker mit bis 10 % Preiserhöhung für die<lb/>
+<add>[Platz freigelassen, Wort fehlt, Anm.]</add>? usw. ihre Einnahmen insbesondere eine Altersversorgung<lb/>
+sichern. Da die gesetzliche Möglichkeit derzeit nicht besteht sollen<lb/>
+10 Millionen Schillinge aus dem Budget für diese Altersversorgung<lb/>
+zur Verfügung gestellt werden. Ich wehre mich nur wie auch <name type="person" ref="per:97372">Broda</name><lb/>
+erklärt die Arbeiterkammer sowie die gesamte Industrie gegen eine<lb/>
+weitere Belastung der Wiedergabegeräte. <name type="person" ref="per:97668">Kreisky</name> ist nicht bereit<lb/>
+ihm die 10 Millionen Schilling aus dem Budget jetzt schon zuzusagen.<lb/>
+</p>
+            <p xml:space="preserve">Als letztes kommt dann das Problem der Wahlplattform zur Sprache,<lb/>
+wo <name type="person" ref="per:97668">Kreisky</name> meinte, wir müßten eine eigene Aussage positiv zusammen<lb break="no"/>stellen. Der kurze Text den er sich zuerst vorgestellt hat geht nicht<lb/>
+weil man ersten die Probleme und Argumente nicht so darstellen kann,<lb/>
+daß sie instruktiv und eindrucksvoll sind und weil man zweitens<lb/>
+die Zukunft dann nicht mehr explizieren kann. Er schlägt deshalb<lb/>
+drei Versionen vor. Erstens einen Kurzbericht, zweitens ausführ<lb break="no"/>liches Programm, ca. 10 Seiten jedes Ministerium und dann die<lb/>
+drittens Detailprogramme die nur wenn sich jemand dafür interessiert<lb/>
+ihm zur Verfügung gestellt werden sollen. Ich habe sowohl die Kurz<lb break="no"/>fassungen <name type="person" ref="per:115595">Reiter</name>, <name type="person" ref="per:133397">Brantl</name> und <name type="person" ref="per:97356">Blecha</name> zur Verfügung gestellt<lb/>
+und die mittlere Fassung, die <name type="person" ref="per:98053">Wanke</name> für <name type="person" ref="per:140485">Bopp</name> gemacht hat, eben<lb break="no"/>falls <name type="person" ref="per:115595">Reiter</name> gegeben.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:98053">WANKE</name>: Ich glaube, daß wir die Kurzfassung kaum<lb/>
+ändern müssen, vielleicht noch ein bißchen ergänzen, wohl aber<lb/>
+<choice><choice><sic>das ausführliche</sic><corr>beim ausführlichen</corr></choice></choice> Programm 10 Seiten noch ändern müssen, da wir<lb/>
+auf die bisherigen Leistungen aufbauend die nächsten 4 Jahre<lb/>
+umschreiben sollen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="25_0411_01" facs="25_1975-04-07_0411-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 7.4.1975</head>
+         </div>
+         <pb n="25_0411_02" facs="25_1975-04-07_0411-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

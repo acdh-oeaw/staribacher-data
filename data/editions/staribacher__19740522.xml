@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittwoch, der 22. Mai 1974</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band21_1974-05-22</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1974-05-22">Mittwoch, 22. Mai 1974</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-12-27">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band21/">
+      <body>
+         <pb n="21-0628" facs="21_1974-05-22_0628.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Mittwoch, 22. Mai 1974</p><p xml:space="preserve">Die dritte Sitzung des Energiebeirates war ein bisschen gehalt<lb break="no"/>voller als die ersten zwei. Das Wirtschaftsforschungsinstitut<lb/>
+hat seine Prognosen vorgelegt, interessanterweise gab es darüber<lb/>
+fast keine Diskussion. Hätte ich nicht aus Versehen MR <name type="person" ref="per:140870">Exner</name><lb/>
+das Wort gegeben, wäre dazu überhaupt keine Bemerkung gefallen.<lb/>
+Interessant war, daß auch Ing. <name type="person" ref="per:97762">Musil</name> gar nicht anwesend war.<lb/>
+SChef <name type="person" ref="per:107937">Frank</name> steht zwar auf dem Standpunkt, daß die Unterlagen<lb/>
+und die Methode so optimal ist, daß wir kaum eine bessere finden<lb/>
+können. Er glaubt, daß wir auch international damit reüssieren<lb/>
+können. Der Energiebeirat entwickelt sich nurmehr zu einem<lb/>
+Beschlußgremium. Nicht daß ich dies bedauern würde, ganz im<lb/>
+Gegenteil, doch hätte ich mir schon erwartet, daß tatsächlich<lb/>
+dort aktiver gearbeitet wird. Nur <name type="person" ref="per:118709">Wagensonner</name> Tiwag-Vertreter<lb/>
+hat dort verlangt, man möge ihm die Unterlagen geben bevor<lb/>
+man hier dann über die Detailberichte und dann wahrscheinlich<lb/>
+in letzter Instanz auch über den Energieplan beschliesst.<lb/>
+Interessant war dann nur, daß nicht einmal die drei Arbeitskreise<lb/>
+die wir das letzte Mal eingesetzt haben, arbeiten können weil<lb/>
+nicht einmal noch die Nominierung der Interessensvertretungen<lb/>
+erfolgte. Die Handelskammer hat große Schwierigkeiten, scheinbar<lb/>
+hat <name type="person" ref="per:97769">Mussil</name> die Absicht, daß nicht die einzelnen Fachverbände<lb/>
+geschweige denn, die einzelnen Firmen ihre Delegierten in<lb/>
+Arbeitsgruppen schicken, sonder möchte daß dies nur Beamte<lb/>
+seines Hauses werden, die dann die entsprechende Koordination<lb/>
+mit den einzelnen Firmen und Fachverbänden durchführen sollten.<lb/>
+Mich stört dieses Problem gar nicht, denn solange das Verschulden<lb/>
+doch größtenteils bei der Handelskammer liegt, daß nichts weiter<lb/>
+geht, kann ich umsoweniger von der Opposition im Parlament<lb/>
+attackiert werden.</p><p xml:space="preserve">Anschliessend an die Sitzung hat MR <name type="person" ref="per:140870">Exner</name> und Sekretär <name type="person" ref="per:114386">Glück</name><lb/>
+von der Metallarbeitergewerkschaft mit mir wegen der Besetzung<lb/>
+des Aufsichtsrates in der Verbund gesprochen. An Stelle des<lb/>
+SChef <name type="person" ref="per:136608">Czech</name> der auf alle Fälle ausscheidet, dies habe ich bereits<lb/>
+Präsidenten <name type="person" ref="per:112215">Weiss</name> von der Verbund und gleichzeitig ÖVP Vertreter<lb/>
+mitgeteilt, den Nationalrat Dr. <name type="person" ref="per:111410">König</name> entsenden. Da es sich hier<lb/>
+um ein Behördenmandat handelt auf daß die ÖVP scheinbar mit<lb/>
+Gewalt Anspruch erheben möchte, nachdem der letzte eben ein<lb/>
+Schwarzer war wird es hier schwere Auseinandersetzungen geben.</p><pb n="21-0629" facs="21_1974-05-22_0629.jpg"/><p xml:space="preserve">Ich erklärte den beiden, daß ich nicht beabsichtige <name type="person" ref="per:111410">König</name><lb/>
+dorthin zu senden , andererseits aber auch ihre Idee, gegebenenfalls<lb/>
+<name type="person" ref="per:136608">Czech</name> zu lassen, nicht akzeptiere. Ich habe die Details mit den<lb/>
+beiden nicht besprochen doch glaube ich, daß wir hier schrittweise<lb/>
+vorgehen müssen. Jetzt muss das Problem Enns-Donau in Ordnung ge<lb break="no"/>bracht werden, dann wäre die Verbundfrage zu klären. Ich fürchte<lb/>
+allerdings, daß selbstverständlich die ÖVP versuchen wird, wenn<lb/>
+ich mit dem Präsidenten <name type="person" ref="per:112215">Weiss</name> verhandeln werde, daß ganze als<lb/>
+eine Paketlösung zu betrachten.</p><p xml:space="preserve">Anmerkung für <name type="person" ref="per:97469">GEHART</name> u. <name type="person" ref="per:107937">FRANK</name>: Bitte alle Vorbereitungen zu treffen,<lb/>
+damit wir nach den NÖ Wahlen innerhalb der Fallfrist noch entscheiden<lb/>
+können.</p><p xml:space="preserve">Die internationalen Konzerne machen jetzt Goodwilltours in der<lb/>
+ganzen Welt. Der Vizepräsident der Mobil-Oil <name type="person" ref="per:140872">Schmidt</name> ist mit<lb/>
+Generaldirektor <name type="person" ref="per:137936">Russbach</name> und anderen Herren gekommen um mir zu<lb/>
+sagen, daß ihrer Meinung nach die Internationalen noch eine große<lb/>
+Aufgabe haben. Mobil wird in den nächsten Jahren 700 Millionen<lb/>
+Dollar investieren um neue Energiequellen zu schließen. Für mich<lb/>
+interessant war nur, daß sie tatsächlich in ganz große Kohle<lb break="no"/>vorräte sich jetzt eingekauft haben um doch aus der Kohle, Gas- u.<lb/>
+Benzin zu gewinnen. Wie mir <name type="person" ref="per:137936">Russbach</name> mitteilt, waren sie auch im<lb/>
+Vortag beim Bundeskanzler, vielleicht war dies ein großer Fehler<lb/>
+von ihrem Standpunkt. <name type="person" ref="per:115595">Reiter</name> hat mich nämlich verständigt, daß<lb/>
+am Freitag eine Sitzung mit den internationalen Ölgesellschaften<lb/>
+stattfinden soll. <name type="person" ref="per:97311">Androsch</name> hat dann gemeint, es wäre hier die<lb/>
+Möglichkeit, daß der Ölpreis jetzt entsprechend herabgesetzt wird<lb/>
+um als erste Reaktion auf die vielen Aufwertungen auf den günstigen<lb/>
+Wechselkurs in Form von verbilligten Heizöl in der Öffentlichkeit<lb/>
+Erfolge der Regierungspolitik zu dokumentieren. Ich bin neugierig,<lb/>
+was bei dieser ganzen Besprechung herauskommt, vorerst habe ich<lb/>
+mich geärgert, daß wieder hier ohne daß man sich einen Plan zurecht<lb/>
+gelegt hat, ganz einfach rumfuhrwerkt.</p><p xml:space="preserve"><name type="person" ref="per:116926">Enzmann</name> von der Simmering-Graz-Pauker möchte, daß ich den<lb/>
+Ölminister von Nigeria einlade. Die ÖMV und die SGP hofft, daß sie<lb/>
+dort dann einen Raffineriebau von 4-5 Millionen beteiligt werden<lb/>
+könnte. Ursprünglich war geplant, daß bei einer OPEC-Sitzung wir<lb/>
+mit dem Ölminister Kontakt aufnehmen, er ist aber das letzte Mal<lb/>
+nicht gekommen. Ich habe <name type="person" ref="per:116926">Enzmann</name> gesagt, daß ich , wenn sie<lb/>
+unbedingt darauf bestehen, bereit bin, den Minister natürlich<lb/>
+auf ihre Kosten einzuladen.</p><pb n="21-0630" facs="21_1974-05-22_0630.jpg"/><p xml:space="preserve">Ergebnis erwarte ich mir allerdings kein besonderes.</p><p xml:space="preserve">Die SGP möchte auch daß wir unbedingt jetzt wegen Nordkorea<lb/>
+weitere Schritte unternehmen, mein Hinweis, daß andere Firmen<lb/>
+wieder dafür sind, daß wir gar nichts tun, um die Südkoreaner<lb/>
+wo z.B. die Voest grössere Geschäfte macht, nicht allzusehr<lb/>
+zu verärgern, hat <name type="person" ref="per:116926">Enzmann</name> Verständnis entgegengebracht. Ich<lb/>
+sagte ihm. daß die nordkoreanische Anerkennung sowieso jetzt<lb/>
+schrittweise erfolgen wird.</p><p xml:space="preserve">Präsident <name type="person" ref="per:97743">Minkowitsch</name> wollte mit mir unter vier Augen reden<lb/>
+um mir mitzuteilen, er erwartet daß der Getreidepreis nicht<lb/>
+vor den NÖ Wahlen, d.h. dem 8. Juni, festgesetzt wird. Da ich<lb/>
+selbst, wenn ich dies wollte, gar nicht imstande wäre das<lb/>
+gesamte Problem in so kurzer Zeit zu lösen, konnte ich ihm<lb/>
+ohne weiters erklären, daß ich kaum annehme, daß es tatsächlich<lb/>
+früher zu einem endgültigen Abschluß kommt. Er denkt natürlich<lb/>
+nur an den Getreidepreis, ich muß aber daran denken, daß ja<lb/>
+auch die Verbraucherpreise zu den festgesetzten Terminen dann<lb/>
+gleichzeitig fixiert werden müssen. Ich erläuterte ihm, daß,<lb/>
+wenn eine Getreidepreiserhöhung kommt, es sich nur um Erhöhung<lb/>
+des Pril und besonders Qualitätsweizen kommen müsste, und keines<lb/>
+falls um die Erhöhung des Weizens der in den Futtersektor geht.<lb/>
+<name type="person" ref="per:97743">Minkowitsch</name> lehnt eine Zweiteilung des Weizenpreises, d.h. Futter-<lb/>
+und Brotgetreide ab. Ebenso erwartet er, daß gleichzeitig der<lb/>
+Roggenpreis erhöht wird. Er befürchtet keine Überproduktion und<lb/>
+meint im Vorjahr sei nur ein exzeptionell günstiges Jahr gewesen,<lb/>
+das sich nie mehr wiederholt. Diese Meinung teile ich keineswegs.<lb/>
+<name type="person" ref="per:97743">Minkowitsch</name> war sehr einverstanden, daß wir jetzt auf zwei<lb/>
+Methoden nach dem Verrechnungsschema und aber auch nach den<lb/>
+Ergebnissen der Buchführungsgesellschaft uns Unterlagen ver<lb break="no"/>schaffen. Er sieht darin insoferne einen Erfolg, als er befürchtet<lb/>
+hat, daß wir wieder ausschließlich nur nach den Buchführungser<lb break="no"/>gebnissen vorgehen werden, da aber die Ergebnisse der Landesbuch<lb break="no"/>führungsgesellschaft zumindestens nach den ersten Unterlagen als<lb/>
+vollkommen unzulänglich gelten müssten, sehe ich keinen Grund eine<lb/>
+zweite Methode eben auch wieder zur Berechnung heranzuziehen.</p><pb n="21-0631" facs="21_1974-05-22_0631.jpg"/><p xml:space="preserve">Da ich die Kooperationsverhandlungen zwischen Bulgarien und<lb/>
+Österreich in meinem Ministerium nicht einmal begrüssen konnte,<lb/>
+hatte ich vor dem Abschluß und der Unterzeichnung einen Sprung<lb/>
+im Pallavicini die Delegation begrüßt. Nach der Unterzeichnung<lb/>
+bin ich sofort weggegangen, obwohl man dort sehr gerne gesehen<lb/>
+hätte, wenn ich beim Abendessen geblieben wäre. Ich wollte aber<lb/>
+unter gar keinen Umständen auf so tiefen Niveau in Erscheinung<lb/>
+treten, womöglich an einem Essen teilnehmen das von der Handels<lb break="no"/>kammer glaube ich, gegeben wurde weil ich damit ein zu großes<lb/>
+Interesse dieser ganzen bulgarisch-österreichischen ständigen<lb/>
+und auch mit anderen Oststaaten ständigen Kommissionen eine<lb/>
+viel zu große Bedeutung beimessen würde. Ausserdem waren dort<lb/>
+mindestens eh 40 Leute. Am meisten überraschte mich, daß der<lb/>
+bulgarische Handelsrat mir erklärte, die nächste gemischte<lb/>
+Kommission würde in Sofia sein und er hätte hinunter telegrafiert,<lb/>
+daß dafür der September-Oktober in Frage käme.</p><p xml:space="preserve">Anmerkung für <name type="person" ref="per:97377">BUKOWSKI</name>: Wie sieht dieser Zeitplan dort aus ?<lb/>
+und mit wem hat er gesprochen ?</p></div>
+      </body>
+      <back>
+         <pb n="21_0627_05" facs="21_1974-05-22_0627-05.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 22.5.1974</head>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+   </text>
+</TEI>

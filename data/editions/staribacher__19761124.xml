@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittwoch, der 24. November 1976</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band33_1976-11-24</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1976-11-24">Mittwoch, 24. November 1976</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-02-20">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="33-1333" facs="33_1976-11-24_1333.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Mittwoch, 24. November 1976<lb/>
+</p>
+            <p xml:space="preserve">Ing. <name type="person" ref="per:117164">Gehmacher</name> vom IFES nennt als Mindestbetrag müsse für die<lb/>
+Erhebung für Nahversorgung und Ladenschluss 600.000 S aufgewendet<lb/>
+werden. Er möchte dies auf alle Fälle nicht allein, sondern mit<lb/>
+Fessel gemeinsam machen. Die Arbeit soll aber genau zwischen beiden<lb/>
+Instituten abgegrenzt werden. Fessel soll Meinungsumfragen primär<lb/>
+durchführen, während IFES Analysen sowie Einkaufszeiterhebungen usw.<lb/>
+machen würde. IFES hat bereits Untersuchungen, die sich mit Teil<lb break="no"/>problemen beschäftigen, durchgeführt. <name type="person" ref="per:117164">Gehmacher</name>, der mit Stolz sich<lb/>
+als stiller "Linker" bezeichnet, ist einer unserer besten Soziologen,<lb/>
+der wirklich Probleme erkennt und analysiert. Typisch z.B. seine<lb/>
+Erklärung, warum wir in immer stärkerem Masse bei der Jugend als<lb/>
+Regierungspartei Wähler verlieren müssen: Diese Jugend hat eine<lb/>
+Jugendkultur entwickelt, die sich ganz stark kontrastiert gegen<lb/>
+die Erwachsenen, insbesondere das Establishment. Die neue Linke, die<lb/>
+jetzt 30 Jahre alt ist und älter, wird von der Jugend als "alte<lb/>
+Trotteln" bezeichnet, die kaum mehr einen Einfluss auf sie hat.<lb/>
+Die Jugend ist daher ideologisch heimatlos. Die Jugend der ÖVP<lb/>
+insbesondere aber hat zumindestens Opposition gegen <name type="person" ref="per:97668">Kreisky</name> und<lb/>
+die Regierung und sagt etwas dagegen, deshalb ziehen sie diese<lb/>
+bis zu einem gewissen Grade diese 18- bis 20-Jährigen an, die sich<lb/>
+als Wechselwähler oder sogar als Wahlenthaltung dann bei jeder<lb/>
+Wahl niederschlagen würden. Derzeit eben bei den Meinungs<lb break="no"/>erhebungen. Die Parteijugend hat überhaupt keine Chance, diese<lb/>
+Gruppen zu erfassen oder Parteijugendvertreter der Regierungspartei<lb/>
+die Chance sie anzusprechen. Die einzige Möglichkeit sieht<lb/>
+<name type="person" ref="per:117164">Gehmacher</name> darin, dass man der Jugend Aktivitäten ermöglicht. Nicht<lb/>
+Heime und Sportplätze bauen, sondern selbst bauen lassen, mit geringer<lb/>
+materieller Unterstützung. Nicht der Jugend Organisationsformen<lb/>
+aufzwingen wollen, sondern nur die Chance ihnen geben, solche zu<lb/>
+gründen. Das typische Beispiel davon ist <name type="person" ref="per:97356">Blechas</name> Mittelschulver<lb break="no"/>treter. Typisch ist dann der Wandel, dass wenn dann diese Jugend<lb break="no"/>lichen älter werden, sehr wohl dann die Leistungen der Regierung<lb/>
+anerkennen und eben ab 25 dann sozialistisch wählen, was sie vor<lb break="no"/>her ganz entschieden abgelehnt haben.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:114508">TIEBER</name>: Versuche, ob <name type="person" ref="per:117164">Gehmacher</name> nicht in irgendeiner<lb/>
+Form als Linker mit uns zusammenarbeiten möchte.<lb/>
+</p>
+            <pb n="33-1334" facs="33_1976-11-24_1334.jpg"/>
+            <p xml:space="preserve">Die Routine-Sitzung des Konsumentenbeirates war diesmal inter<lb break="no"/>essanterweise nicht nur stärker besucht, sondern diskutierte<lb/>
+auch die Probleme und Berichte der einzelnen Arbeitsgruppen.<lb/>
+<name type="person" ref="per:97584">Jagoda</name> meinte allerdings zu mir, dass <name type="person" ref="per:112051">Singer</name> mit seiner Gruppe<lb/>
+sehr gut personell dotiert ist und kaum Aktivitäten entwickelt.<lb/>
+U.a. sitzen in der Paritätischen Kommission resp. beschäftigen<lb/>
+sich damit 3 Vertreter, obwohl mit Recht <name type="person" ref="per:114161">Salomon</name> dies allein<lb/>
+ohne weiteres schaffen würde. <name type="person" ref="per:97584">Jagoda</name> wird jetzt in Zukunft<lb/>
+versuchen, Personal- und Besetzungsänderungen durchzuführen.<lb/>
+Eine wirkliche zweckmässige Einsatzpolitik der einzelnen Beschäftig<lb break="no"/>ten kann nämlich nur über den Sektionschef und Sektionsleiter er<lb break="no"/>folgen. Generelle Appelle oder gar zentral von oben geleitet, sei<lb/>
+es Präsidium oder Ministerbüro, muss scheitern. Hier haben wir<lb/>
+die grosse Chance, dass jetzt vielleicht doch die Sektionschefs<lb/>
+intern selbst einmal im Sektionsbereich gewisse Änderungen durch<lb break="no"/>führen. Ich kann mir sehr gut vorstellen, dass ein Sektionsleiter<lb/>
+dabei auf grosse Schwierigkeiten und Widerstände stösst. Hier<lb/>
+könnten wir ihn indirekt unterstützen, dass er sich nicht nur<lb/>
+durch den Minister gedeckt fühlt, sondern vielleicht sogar gelegent<lb break="no"/>lich die Ausrede gebraucht, dass von oben dies angeordnet wurde.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97819">PLESCH</name>: Besprich bei konkreten Fällen eine solche<lb/>
+Politik mit den einzelnen Sektionsleitern und mir.<lb/>
+</p>
+            <p xml:space="preserve">Im Konsumentenbeirat hat für das Konsumentenschutzgesetz Dr. <name type="person" ref="per:140510">Keller</name><lb/>
+vom Justizministerium dezidiert erklärt, dass er jetzt einen Ge<lb break="no"/>setzentwurf im Dezember fertigstellen wird und dann in die Begut<lb break="no"/>achtung schickt. Da seit Juni in diesem Arbeitsausschuss nichts<lb/>
+mehr geleistet wurde, ist er nicht mehr bereit, zuzuwarten. Als<lb/>
+Kompromiss, ohne dass er es sagte, hat er den Ausschuss zwar jetzt<lb/>
+vollkommen ausgeschaltet, wird aber den Gesetzentwurf auch<lb/>
+ihnen zuleiten, damit darüber diskutiert werden kann. Die Handels<lb break="no"/>kammer wird also vor eine vollendete Tatsache gestellt. Natürlich<lb/>
+ist die Handelskammer und deren Vertreter dies nicht gewohnt.<lb/>
+Im Handelsministerium versuchen wir immer die Materie bis zuletzt<lb/>
+mit ihnen abzuklären und einvernehmliche Lösungen zu suchen. Die<lb/>
+unterschiedliche Behandlung zwischen Justizministerium und<lb/>
+Handelsministerium kommt beim Konsumentenschutzgesetz krass<lb/>
+zum Ausdruck. Dies ist mir sehr recht, sie sollen nur sehen, dass es<lb/>
+auch anders geht.<lb/>
+ANMERKUNG FÜR <name type="person" ref="per:114508">TIEBER</name>: Überrascht war ich, dass es auch mit<add>[dem]</add> ÖGB<lb/>
+Differenzen geben soll.<lb/>
+</p>
+            <pb n="33-1335" facs="33_1976-11-24_1335.jpg"/>
+            <p xml:space="preserve">Präs. <name type="person" ref="per:114655">Harmer</name> und Sekretär <name type="person" ref="per:130457">Riegler</name> vom Fachverband der Nahrungs-<lb/>
+und Genussmittelindustrie, <name type="person" ref="per:97357">Blümel</name> und ich besprachen die weitere Vor<lb break="no"/>gangsweise für den Rahmenkollektivvertrag der Lebensmittelarbeiter.<lb/>
+Zwei Jahre wird jetzt bereits verhandelt und das Verhandlungskomitee der<lb/>
+Unternehmer ist nicht bereit, entsprechende Zugeständnisse zu machen.<lb/>
+Nach <name type="person" ref="per:97357">Blümels</name> Aufstellung sind noch 11 Punkte offen, <name type="person" ref="per:114655">Harmer</name> erklärt,<lb/>
+er könne nicht noch weitere Zugeständnisse machen. Die Unternehmer<lb/>
+seien in der derzeitigen Wirtschaftslage, aber auch für die Zukunft<lb/>
+weiteren Belastungen nicht mehr zugänglich. Insbesondere über 4 Punkte:<lb/>
+die Schichtzulage-Regelung, Entgeltdefinition für den 13. und 14.<lb/>
+– die Gewerkschaft verlangt den tatsächlich bezahlten Lohn und nicht<lb/>
+den Grundwochenlohn resp. Monatslohn – den Teilungsfaktor des Monatslohnes<lb/>
+und vor allem die Abfertigung sind strittig. <name type="person" ref="per:114655">Harmer</name> meint, hier könnten<lb/>
+keine wie immer gearteten Zusagen mehr gemacht werden, weder von ihm noch<lb/>
+von einer anderen Unternehmergruppe oder Verhandlungskomitee. Nach<lb/>
+längerer Diskussion gibt <name type="person" ref="per:114655">Harmer</name> dann allerdings zu, dass man eventuell<lb/>
+über die Abfertigungserhöhung sprechen könnte, nachdem ich ihm vor<lb/>
+Augen führe, dass früher oder später die gesetzliche Regelung noch<lb/>
+in dieser Legislaturperiode kommen soll und wird. <name type="person" ref="per:98063">Weissenberg</name> hat<lb/>
+dies ja bereits angekündigt. Die absolute Ablehnung der Forderung<lb/>
+erscheint mir deshalb doch nur als taktischer Versuch, die Ver<lb break="no"/>handlungen noch weiter hinauszuzögern. Das Verhandlungskomitee wird<lb/>
+von uns ersucht, die endgültige Formulierung der gesamten zweiten Novelle<lb/>
+des Rahmenkollektivvertrages durchzuführen und über die offenen<lb/>
+Probleme, die von 11 auf vielleicht nicht einmal die Hälfte zusammen<lb break="no"/>schrumpfen sollen, dann noch einmal Verhandlungskomitees in kleinerem<lb/>
+Kreis unter Beiziehung von <name type="person" ref="per:114655">Harmer</name> und mir zu lösen zu versuchen.<lb/>
+<name type="person" ref="per:114655">Harmer</name> selbst erklärt gleich freimütig, er könne heute nicht mehr ent<lb break="no"/>scheiden, sondern hier müsse er sogar die Bundeshandelskammer zuziehen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:114655">Harmer</name> und <name type="person" ref="per:130457">Riegler</name> beschweren sich besonders bei mir, dass die Molkerei<lb break="no"/>arbeiter mit ihrer Forderung, 1000.– S Lohnerhöhung gleichmässig für<lb/>
+alle pro Monat und die Kollektivvertragsänderungen nach Berechnungen<lb/>
+der landwirtschaftlichen Genossenschaften 33 % Belastung bedeuten würde.<lb/>
+<name type="person" ref="per:130457">Riegler</name> selbst hat die Forderungen, die jetzt bereits im Rahmenkollek<lb break="no"/>tivvertrag verhandelt und vielleicht teilweise beschlossen werden, aus<lb break="no"/>geschieden, weil er mit Recht meint, doppelt könne man sie nicht zählen.<lb/>
+Auch in diesem Fall ergibt sich noch eine 23 %-ige Belastung der Unter<lb break="no"/>nehmer. Tatsache ist ohne dass ich es den beiden gegenüber zugebe,<lb/>
+<pb n="33-1336" facs="33_1976-11-24_1336.jpg"/>dass die Molkereiarbeiter, insbesondere der Sekretär <name type="person" ref="per:114535">Staudinger</name>,<lb/>
+wieder einmal mehr alle ihre ursprünglichen Forderungen, die sie<lb/>
+schon jahrelang, um nicht zu sagen, jahrzehntelang durchsetzen wollen,<lb/>
+in das Forderungspaket aufgenommen haben. Warum er dies macht, ist<lb/>
+mir nicht ganz klar. Die Ausrede, die ich sofort überall gebrauchte<lb/>
+und die teilweise stimmt, ist dass wir in der Molkerei insbesondere<lb/>
+in genossenschaftlichen Betrieben mit weniger Beschäftigten eine<lb/>
+stärkere ÖAAB-Fraktion haben. Diese wird aus politischen Gründen<lb/>
+auf der einen Seite immer viel fordern und auf der anderen Seite<lb/>
+dann erklären, die sozialistische Führung der Gewerkschaft hat ihre<lb/>
+berechtigten Forderungen nicht einmal angemeldet. Jetzt liegt das<lb/>
+ganze Paket am Tisch und wenn die Genossenschaftsvertreter ablehnen,<lb/>
+so können sie sich nicht mehr dann in unserer Gewerkschaft politische<lb/>
+entsprechende die Schuld ausschliesslich auf uns schieben, wie dies<lb/>
+selbst die christlichen Molkerei-Arbeiter gerne tun würden. Da sie<lb/>
+vom ÖAAB natürlich stark beeinflusst sind.<lb/>
+</p>
+            <p xml:space="preserve">Gen.Dir. <name type="person" ref="per:114409">Koning</name>, Philips, hat zwei Probleme, die Verschärfung des GesmbH-<lb/>
+Gesetzes insbesondere die Publikationspflicht würde Philips hart<lb/>
+treffen, <name type="person" ref="per:114409">Koning</name> ist sich vollkommen klar, dass er alle Informationen<lb/>
+in Hinkunft den Interessensvertretungen und auch den Ministerien<lb/>
+geben soll und wird. Er fürchtet nur, dass wenn eine allgemeine Ver<lb break="no"/>lautbarung wie beim Aktiengesetz erfolgen soll, dann auch die Konkurrenz<lb/>
+auch ganz besonders aber die ausländischen Philips-Leitungen erfahren,<lb/>
+wieviel in Österreich von Philips-Zentrale investiert wurde usw.<lb/>
+Durch diese Mitteilung würde – so seine Behauptung – der starke Trend<lb/>
+jetzt so viel in Österreich zu investieren, gehemmt werden. Er hat<lb/>
+mit <name type="person" ref="per:97372">Broda</name> dieses Problem auch besprochen und vorgeschlagen, dass alle<lb/>
+Informationen beim Handelsgericht zu deponieren sind und dort nur<lb/>
+die Zeitungen und Massenmedien kein Einsichtsrecht haben sollen, sehr<lb/>
+wohl aber die Interessensvertretungen und Behörden. Das zweite Problem<lb/>
+ist die Belastung von grossen Unternehmungen wie z.B. VÖEST und Philips<lb/>
+mit über 1 Mia. Vermögen durch die Vermögenssteuer. Da dies, wie er<lb/>
+selbst einsieht, nicht mehr zu ändern ist, möchte er für das Delkredere<lb/>
+der Exporte z.B. Absatzmöglichkeiten bei der Steuerberechnung. In beiden<lb/>
+Fällen habe ich ihm keine Z-sagen gemacht, ausser dass ich dieses Problem<lb/>
+beim nächsten Jour fixe mit AK und ÖGB besprechen werde, ob und inwieweit<lb/>
+es eine Lösung gibt. Die Geschäftslage bei Philips ist noch befriedigend,<lb/>
+obwohl natürlich auch nach Produkten verschieden. Gegenüber anderen<lb/>
+Ländern aber hat er in Österreich eine wesentlich bessere Entwicklung<lb/>
+zu verzeichnen. Die Audio-Fabrikate, wie er sie nennt, haben in<lb/>
+<pb n="33-1337" facs="33_1976-11-24_1337.jpg"/>Österreich 500 Neubeschäftigte, in Belgien dagegen im Philips<lb break="no"/>werk 900 Entlassungen zu verzeichnen. Hier haben, ohne dass er<lb/>
+es besonders erwähnt, nicht nur der soziale Frieden sondern auch<lb/>
+die Betreuung und ganz besonders die Auszeichnung mit österr.<lb/>
+Orden von Philips-Spitzenleuten in Waidhofen dazu beigetragen.<lb/>
+Seit Jahren schlage ich schon immer vor, auch bei anderen Unter<lb break="no"/>nehmungen durch entsprechende Ordensauszeichnungen von ausländischen<lb/>
+Konzernspitzen sie für Österreich einzunehmen und dadurch ent<lb break="no"/>sprechende zusätzliche Arbeitsplätze durch Investitionen zu<lb/>
+schaffen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name> UND <name type="person" ref="per:97819">PLESCH</name>: Was ist mit einem Orden für die<lb/>
+Extraktionsanlage der UNILEVER?<lb/>
+</p>
+            <p xml:space="preserve">Die Weinbautreibenden mit Präs. <name type="person" ref="per:114721">Maus</name>, dem Geschäftsführer und einer<lb/>
+Delegation sprachen wegen der Weinsituation und insbesondere wegen<lb/>
+der EG-Verhandlungen über die Anerkennung österr. Qualitätsweine<lb/>
+bei mir vor. Die Situation am Weinsektor ist typisch österreichisch,<lb/>
+aber gar nicht erfreulich. Um eine Überproduktion zu verhindern,<lb/>
+wurde vor Jahren von den Ländern, die dafür zuständig sind, Aus<lb break="no"/>pflanzungsverbote, d.h. Vermehrung der Anbauflächen beschlossen.<lb/>
+Diese Gesetze werden in den Ländern aber überhaupt nicht eingehalten,<lb/>
+das Ergebnis ist, dass von 47.000 ha die Anbaufläche auf<lb/>
+64.000 ha gestiegen ist. Dementsprechend natürlich der Ertrag.<lb/>
+Vom Vorjahr lagern noch 1,8 Mill. hl und 2,7 Mill. ist die offizielle<lb/>
+Ernte. Nach Dunkelziffern beträgt sie wesentlich mehr. Wie wir<lb/>
+heuer und nächstes Jahr die 4,5 Mill. hl absetzen, ist vollkommen<lb/>
+schleierhaft. Den Weinbauern tun jede 1.000 hl, die wir mehr<lb/>
+importieren, weh und sie wehren sich daher gegen das Accordino<lb/>
+wo im Vorjahr statt 51.000 54.000 hl vereinbart wurden. Dazu kommen<lb/>
+noch die 160.000 Liter allgemeines Kontingent, wovon allerdings die<lb/>
+Hälfte bei der EG gesichert ist. Tatsächlich aber wurden in den<lb/>
+letzten Jahren, weil die Weinbauern erklärte, billige Verschnitt<lb break="no"/>weine könnten sie nicht zur Verfügung stellen, wesentliche Mengen<lb/>
+importiert. Die Importsumme geht bis über 700.000 hl. Jetzt<lb/>
+wünschen sie, dass womöglich die Importe wesentlich reduziert<lb/>
+werden, was uns natürlich mit der französischen, algerischen und<lb/>
+sonstigen Weinen aus dem Ostblock grosse Schwierigkeiten bereiten<lb/>
+wird. Wichtig erscheint, und das haben der Vertreter vom Handels<lb break="no"/>ministerium in Brüssel, <name type="person" ref="per:131469">Komaz</name>, und <name type="person" ref="per:114800">Michitsch</name> bestätigt, die EG jetzt<lb/>
+grosse Schwierigkeiten gemacht wegen der Verordnungsregelung betref<lb break="no"/>fend die österr. Weine, insbesondere wegen des Alkoholgehaltes.<lb/>
+</p>
+            <pb n="33-1338" facs="33_1976-11-24_1338.jpg"/>
+            <p xml:space="preserve">Selbstverständlich konnte ich der Delegation versprechen,<lb/>
+dass wir alles daransetzen werden, um ihre Wünsche in<lb/>
+Brüssel durchzusetzen. Die Delegation incl. d. NR <name type="person" ref="per:112981">Hietl</name><lb/>
+von der ÖVP hat zugegeben, dass es jetzt unvergleichlich<lb/>
+schwieriger ist mit der EG zu verhandeln, als dies bei<lb/>
+Abschluss des Vertrages 1973 noch möglich war.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97819">PLESCH</name>: Wir sollten über diesen Punkt einmal<lb/>
+im Pressefrühstück berichten lassen.<lb/>
+</p>
+            <p xml:space="preserve">Botschafter <name type="person" ref="per:116681">Pein</name> teilt mir mit, dass <name type="person" ref="per:97490">Gredler</name> von Bonn jetzt<lb/>
+abgezogen wird und interessanterweise nicht einen Heimatposten<lb/>
+antritt, sondern sofort wieder nach Peking geschickt wird.<lb/>
+<name type="person" ref="per:116681">Pein</name> interessiert sich für den Bonner Posten und meint, dass<lb/>
+insbesondere die deutsch-österreichischen Wirtschaftsbeziehun<lb break="no"/>gen dort stärker berücksichtigt gehören, weshalb er auch die<lb/>
+Unterstützung für diese Kandidatur durch das Handelsministerium<lb/>
+wünscht. Ich versprach ihm, mit Aussenminister <name type="person" ref="per:108328">Pahr</name> darüber<lb/>
+zu reden.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98072">WIESINGER</name>: Nächste Ministerratsvorbesprechung<lb/>
+seine Unterlage mitgeben.<lb/>
+</p>
+            <p xml:space="preserve">Im Kautsky-Kreis wünschte man nach längerer Zeit, dass ich<lb/>
+wieder einmal eine tour d'horizon über die Wirtschafts<lb break="no"/>probleme des Handelsministeriums gebe. Der Vortrag von mir<lb/>
+war wenig systematisch, hat aber einige heisse Eisen, wie<lb/>
+z.B. Atomenergieversorgung, berührt. Für Diskussion ist in<lb/>
+diesem Kreis immer gesorgt. Von all der kollegialen Kritik,<lb/>
+die mich dort überhaupt nicht stört sondern ganz im Gegenteil<lb/>
+freut, angefangen von der Problematik, was ist links und wo<lb/>
+stehe ich, und diese und jene Fehler, die ich gemacht habe,<lb/>
+war NR <name type="person" ref="per:112988">Wille's</name> Beitrag für mich am interessantesten. <name type="person" ref="per:112988">Wille</name><lb/>
+meint mit Recht, warum machst Du so schlechte Propaganda<lb/>
+und schädigst Dich selbst, indem Du für die Atomenergie<lb/>
+so eintrittst. Die E-Unternehmungen, vor allem aber die<lb/>
+Industrie, die den Strom braucht, rührt sich nicht. Lass diese<lb/>
+darum kämpfen. Diese Überlegung ist sicherlich sehr inter<lb break="no"/>essant, nur hilft sie mir insofern wenig, wenn der Strom<lb/>
+einmal nicht zur Verfügung steht, und wir Netzzusammenbrüche,<lb/>
+<pb n="33-1339" facs="33_1976-11-24_1339.jpg"/>aus welchen Gründen immer, bekommen würden, wird man nicht sagen,<lb/>
+da kann man nichts machen, wir haben eben den Atomstrom 740 MW<lb/>
+jetzt im Juli bereits seit Juli im Betrieb hätten sein sollen,<lb/>
+bekommen, sondern man wird ganz einfach sagen, der dafür zuständige<lb/>
+Minister hat nicht entsprechend vorgesorgt. Die Verantwortung kann<lb/>
+ich mir selbst durch noch so einen geschickten Propaganda-Feldzug<lb/>
+nicht vom Halse schaffen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="33_1332_05" facs="33_1976-11-24_1332-05.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 24.11.1976</head>
+         </div>
+         <pb n="33_1332_06" facs="33_1976-11-24_1332-06.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

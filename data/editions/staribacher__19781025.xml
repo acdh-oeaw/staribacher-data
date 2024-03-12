@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittwoch, der 25. Oktober 1978</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band45_1978-10-25</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1978-10-25">Mittwoch, 25. Oktober 1978</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2017-07-20">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="45-1246" facs="45_1978-10-25_1246-03-D.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Mittwoch, den 25. Oktober 1978<lb/>
+</p>
+            <p xml:space="preserve">Bei der Klubtagung berichtete Klubobmann <name type="person" ref="per:97444">Fischer</name> über die nächste<lb/>
+Arbeit, das Hauptproblem wird die Budgetdebatte. Die Österreichische<lb/>
+Volkspartei hat den Fehler gemacht, ein alternatives Budget vor<lb break="no"/>zulegen. Seinerzeit hatte die SPÖ dieselbe Absicht, nur hat damals<lb/>
+<name type="person" ref="per:98043">Waldbrunner</name> sich ganz entschieden dagegen ausgesprochen, weshalb<lb/>
+auch dann mit konkreten Zahlen ein eigenes Alternativbudget unter<lb break="no"/>blieb. Immer nur hatte man verbale Aussagen gemacht. Die ÖVP<lb/>
+glaubt nun, wenn sie gleichzeitig ein Budgetkonzept vorlegt, wo<lb/>
+sie gegen die Repräsentationskosten, gegen die Ausgabe der Bundes<lb break="no"/>theater, Schulbücher und selbst Beamtenabbau fordert, damit ihr<lb/>
+Auslangen finden können. Selbst wenn sie die Repräsentations<lb break="no"/>kosten auf Null reduziert, die Bundestheater sperrt, 5.000 Beamte<lb/>
+sofort abbaut und dann sie trotzdem nicht das Budget nach ihren<lb/>
+Gesichtspunkten reduzieren, denn gleichzeitig verlangt die Ab<lb break="no"/>geordnete <name type="person" ref="per:97572">Hubinek</name> 1.000 S Familiengehalt, kostet 2 1/2 Mrd S,<lb/>
+ist gegen den Stützungsabbau, 750 Mio S, möchte die 30,– S Wohnungs<lb break="no"/>beihilfe auf 60,– S erhöhen, 800 Mio S, so daß sich nach proximativen<lb/>
+Berechnungen ein Fehlbetrag von 12 1/2 Mrd S, wenn man all die<lb/>
+Forderungen, die gleichzeitig eben von der ÖVP zusammenrechnet,<lb/>
+ergibt.<lb/>
+</p>
+            <p xml:space="preserve">Die notwendigen gesetzlichen Änderungen bezüglich Privilegien<lb break="no"/>abbau werden erst nach genauer Untersuchung vorgelegt werden.<lb/>
+Die Immunität muß aufgegliedert werden in eine parlamentarische,<lb/>
+die Verfolgungshindernisse gegen die Regierung resp. gegebenen<lb break="no"/>falls den Polizeiminister und insbesondere die politische Immunität.<lb/>
+Das Abgeschafftwerden wird ist Immunitätsschutz, der eigentlich<lb/>
+nicht eine Schutzregelung der Demokratie ist, sondern gegebenen<lb break="no"/>falls des Einzelnen, wenn er sich z.B. gegen die Kraftfahrver<lb break="no"/>ordnung verstößt. In diesem Fall sollte er keine Immunität ge<lb break="no"/>nießen. Bezüglich der Unvereinbarkeit wird man abwarten, was<lb/>
+Minister <name type="person" ref="per:108328">Pahr</name> mit seiner Kommission vorschlägt, genau dasselbe<lb/>
+gilt für die Privilegien-Kommission, die jetzt sich mit der<lb/>
+Steuerprivilegien der Abgeordneten neuerdings befaßt.<lb/>
+</p>
+            <pb n="45-1246" facs="45_1978-10-25_1246-04-D.jpg"/>
+            <p xml:space="preserve">Da <name type="person" ref="per:97372">Broda</name> nicht anwesend war, hat <name type="person" ref="per:97444">Fischer</name> ganz besonders auf die<lb/>
+Aktivitäten des Justizausschusses verwiesen. Das Mediengesetz<lb/>
+sollte jetzt fertiggestellt werden, doch muß man insbesondere<lb/>
+den § 14, welcher den Rechtsschutz des Privat- und Familien<lb break="no"/>leben betrifft, besonders beachten. Hier wird es auch wahrschein<lb break="no"/>lich den größten Widerstand von seiten der Journalisten und damit<lb/>
+der Massenmedien geben. Diese wollen im Mediengesetz nämlich<lb/>
+primär ihren größeren Schutz haben, sind aber nicht bereit, auch<lb/>
+für die anderen eine wirklich größere Schutzsphäre zu errichten.<lb/>
+Das Konsumentenschutzgesetz sollte in keinen Unterausschuß kommen,<lb/>
+sondern gegebenenfalls durch Fristsetzung im Handelsausschuß<lb/>
+noch heuer beschlossen werden können. Offen ist auch noch das<lb/>
+Ges.m.b.H.-Gesetz und Änderung über die Bewährungshilfe. Die<lb/>
+Wiener verlangen jetzt ein neues Bodenbeschaffungsgesetz, wonach<lb/>
+ein Eintrittsrecht der Gemeinde vorgesehen werden soll. Das jetzige<lb/>
+bestehende gibt der Gemeinde eine gewisse Möglichkeit, wenn sie<lb/>
+an das Land um eine diesbezügliche Genehmigung herantritt. In<lb/>
+Salzburg hat sich nun gezeigt, daß das Land Salzburg, sprich<lb/>
+<name type="person" ref="per:113822">Haslauer</name> nicht bereit ist, dem Antrag der Gemeinde Salzburg zu<lb/>
+entsprechen. Auch hier müßte eine Änderung Platz greifen.<lb/>
+</p>
+            <p xml:space="preserve">Zum Schluß ging er noch auf den Bundesparteiobmann <name type="person" ref="per:98003">Taus</name> bezüglich<lb/>
+seiner Aussage, er würde sich heute die Volksabstimmung über<lb break="no"/>legen, ein. Im März 77 hat <name type="person" ref="per:98003">Taus</name> dies das erstmal selbst ge<lb break="no"/>fordert, im Nationalrat hat er sich noch sehr stark dafür ge<lb break="no"/>macht. Jetzt dürfte er als neue Linie die Volksabstimmung in<lb/>
+dieser Frage als unsinnig hinstellen, was bedeutet, daß weitere<lb/>
+Nicht-Wähler daraus resultiert werden. Bezüglich des Vorwurfes<lb/>
+<name type="person" ref="per:97668">Kreisky</name> als Verfassungsbrecher ist festzustellen, daß der Bundes<lb break="no"/>präsident das bundesverfassungsmäßige Zustandekommen bestätigt.<lb/>
+Daß überhaupt niemand berechtigt ist, dann eine Verfassungs<lb break="no"/>widrigkeit festzustellen als der Verfassungsgerichtshof. Dieser<lb/>
+hebt aber bei jeder Regierung bis jetzt ca 3 bis 5 Gesetze<lb/>
+pro Jahr auf, es liegt also daher auch dann, wenn ein Gesetz<lb/>
+vom Verfassungsgerichtshof aufgehoben wird, ebenfalls kein<lb/>
+Verfassungsbruch vor, sondern es wurde eben die Fassung falsch<lb/>
+ausgelegt.<lb/>
+</p>
+            <pb n="45-1246" facs="45_1978-10-25_1246-05-D.jpg"/>
+            <p xml:space="preserve">In der Debatte kam zumindestens durch Abgeordneten <name type="person" ref="per:112988">Wille</name> neuer<lb break="no"/>dings das Problem Kernkraftwerk zur Sprache. <name type="person" ref="per:97543">Heindl</name> mußte darauf<lb/>
+ebenfalls <name type="person" ref="per:112988">Wille</name> wieder antworten und feststellen, daß man sich<lb/>
+jetzt nicht mehr über Details auseinandersetzen soll, sondern<lb/>
+daß es um die großen prinzipiellen und politischen Fragen geht.<lb/>
+<name type="person" ref="per:112988">Wille</name> selbst ist Mitglied der Reaktorsicherheitskonferenz und<lb/>
+wird, davon bin ich überzeugt, mit den anderen Wissenschaftlern<lb/>
+gemeinsam dem Gesundheitsministerium und letzten Endes dann natür<lb break="no"/>lich auch dem Handelsministerium große Schwierigkeiten bereiten.<lb/>
+Trotzdem glaube ich, daß die Reaktorsicherheitskonferenz gut<lb/>
+ist, weil letzten Endes die Bevölkerung, auch wenn die Volksab<lb break="no"/>stimmung positiv ausgehen wird, immer wieder vor die Frage ge<lb break="no"/>stellt wird, wie weit die Sicherheitsbestimmungen eingehalten<lb/>
+sind und wie weit die Sicherheitsbestimmungen ausreichen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Lasse bitte die gesetzliche Grundlage<lb/>
+der Reaktorsicherheitskommission zusammenstellen.<lb/>
+</p>
+            <p xml:space="preserve">Die Müller- und Bäcker-Delegation, die beim Tag des Brotes bei<lb/>
+mir vorsprach, verwies darauf, daß die Exportbemühungen, aber<lb/>
+auch die Inlandsverbilligung von Mehl für Exportwaren der Süß<lb break="no"/>warenindustrie nicht so funktioniert, wie es eigentlich sollte.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97819">PLESCH</name>: Bitte, laß mir jetzt eine Zusammenstellung<lb/>
+auch ziffernmäßig machen.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Unterzeichnung der Gemischten Kommission auf Beamtenebene<lb/>
+zwischen Jugoslawien und Österreich hat mich der Staatssekretär<lb/>
+<name type="person" ref="per:117980">Blacevic</name> neuerdings daran erinnert, daß ein Besuch Jugoslawiens<lb/>
+längst überfällig ist. Ich habe ihn auf die mögliche Zusammen<lb break="no"/>kunft mit seinem Außenhandelsminister <name type="person" ref="per:117981">Rotar</name> im November ver<lb break="no"/>wiesen. Die Jugoslawen haben jetzt große Kommissionen und Enqueten<lb/>
+über Energie, Ökologie, heuer Holzverarbeitung, chemische Industrie,<lb/>
+Transport, Donaufragen und im nächsten Jahr über Tourismus vor.<lb/>
+Ich bin nicht der Meinung, daß sich Österreich daran besonders<lb/>
+beteiligen sollte, weil kaum für uns etwas herauskommt.<lb/>
+</p>
+            <pb n="45-1246" facs="45_1978-10-25_1246-06-D.jpg"/>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Laß Dir mal über die ganzen Jugoslawien-<lb/>
+Verbindungen berichten.<lb/>
+</p>
+            <p xml:space="preserve">Die Österreichische Fremdenverkehrswerbung hat jetzt die Vorbe<lb break="no"/>reitungsarbeit für die Aktion "Bergerlebnis" abgeschlossen. Es hat<lb/>
+zwar über ein Jahr gedauert, die Vorbereitungen sind aber wirk<lb break="no"/>lich sehr umfangreich. Ich war darüber positiv beeindruckt, an<lb/>
+dieser Präsentation insbesondere auch die Vertreter der Handels<lb break="no"/>kammer, Gast- und Schankgewerbe, Fremdenverkehr usw. teilnahmen,<lb/>
+sehe ich die große Möglichkeit mit dieser Organisation doch eine<lb/>
+gewisse Aktivität zu entfalten, die wir gerade im nächsten Jahr<lb/>
+dringend brauchen. Vom Fremdenverkehrsstandpunkt könnte viel<lb break="no"/>leicht etwas herausschauen, vom politischen Standpunkt ist mir<lb/>
+jetzt jede gemeinsame Aktion im Wahljahr umso wertvoller. Ich<lb/>
+fürchte nämlich, daß durch die härtere Wahlkampfführung auf<lb/>
+beiden Seiten die Schwierigkeit der Kooperation im nächsten Jahr<lb/>
+gigantisch steigen wird. Für einen durchschlagenden Erfolg der<lb/>
+Aktion "Bergerlebnis" wird, wie ich den Teilnehmern auch aus<lb break="no"/>einandersetzte, es aber notwendig sein, daß die Industrie hier<lb/>
+mehr mitmacht. Solange Schifahren nur eine Angelegenheit einer<lb/>
+kleinen Minderheit war und dort nur die kleinsten Betriebe sich<lb/>
+mit der Schi-Erzeugung und Ausrüstungsfragen, gab es ja damals<lb/>
+überhaupt keine Beschäftigten, konnte es kein Massensport werden.<lb/>
+Erst als die Industrie darin eine große Produktionsmöglichkeit<lb/>
+sah und sich darauf stürzte, kam es dann zu derart propagan<lb break="no"/>distisch wichtigen Entwicklung. Österreich ist eine Nation von<lb/>
+Schifahrer. Wenn uns beim Bergwandern ein Bruchteil dessen ge<lb break="no"/>lingt, so ist die Aktion "Bergerlebnis" ein voller Erfolg.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97819">PLESCH</name>: Die Industriesektion soll diesbezügliche<lb/>
+Aktivitäten entfalten.<lb/>
+</p>
+            <p xml:space="preserve">Die Firma Dietzel beschäftigt derzeit 400 Arbeiter und Angestellte<lb/>
+bei einem Umsatz von 250 Millionen, 20 % Export und einer In<lb break="no"/>vestition von 50 Mio S. Seit ihrer Übersiedlung von Margareten<lb/>
+in die Haidequerstraße hat sie die Produktion von 3.000 über<lb/>
+derzeit 8.000 auf 10.000 erhöhen, dadurch wird er weitere<lb/>
+150 Beschäftigte einstellen können.<lb/>
+</p>
+            <pb n="45-1246" facs="45_1978-10-25_1246-07-D.jpg"/>
+            <p xml:space="preserve">Die Elektrizitätsgesellschaften in ÖVP-Ländern kriegen jetzt<lb/>
+scheinbar die Weisung jedwede Aktivität für Pro-Zwentendorf<lb/>
+einzustellen. Ich habe mit <name type="person" ref="per:97333">Bandhauer</name> vereinbart, daß wir nächste<lb/>
+Woche noch eine Besprechung haben, damit ich versuche keine Kontra-<lb/>
+Aktivität aufkommen zu lassen. <name type="person" ref="per:97333">Bandhauer</name> wird Gen.Dir. <name type="person" ref="per:114463">Altziebler</name><lb/>
+und Gen.Dir. <name type="person" ref="per:98068">Wenzl</name> und falls noch andere <choice><choice><sic>ausspringen</sic><corr>abspringen</corr></choice></choice>, auch diese<lb/>
+zu mir einladen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Bitte besprich die Details mit <name type="person" ref="per:97333">Bandhauer</name><lb/>
+und stelle den Teilnehmerkreis fest.<add>wurde abgeblasen!</add><lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97627">Kienzl</name> hat jetzt eine Erhebung seiner Sozialwissenschaftlichen<lb/>
+Studiengesellschaft über Kernfragen vom 8.–19. Oktober, 2.300<lb/>
+wurden gefragt, 64 % wollen daran teilnehmen, 17 % lehnen eine<lb/>
+Teilnahme an der Volksabstimmung ab, 5 % sind nicht wahlberechtigt,<lb/>
+von den 14 % "weiß nicht" sind 11 % Männer und 16 % Frauen. Nach<lb/>
+dem Ergebnissen seiner Erhebungen, die ich aber eigentlich als<lb/>
+zu optimistisch betrachte, sind 72 % Pro, 28 % Kontra. Von den<lb/>
+Pro-Stimmen 59 % männlich und 49 % sind weiblich, von den Kontra-<lb/>
+Stimmen 27 % männlich und 30 % weiblich. Nach <name type="person" ref="per:97627">Kienzls</name> Meinung<lb/>
+müßte deshalb ein ungeheuer großer Wahlerfolg für Pro-Zwentendorf<lb/>
+sich ergeben, was ihn am meisten erschüttert ist, daß die Frage<lb/>
+"Auf wessen Urteil geben sie was?" <name type="person" ref="per:97668">Kreisky</name> nur 29 % erreicht,<lb/>
+<name type="person" ref="per:97346">Benya</name> 17 %, <name type="person" ref="per:98003">Taus</name> 10 %, <name type="person" ref="per:97893">Sallinger</name> 6 % und <name type="person" ref="per:112569">Götz</name> 4 %. Mehr als 50 %<lb/>
+sagen entweder keinen Politiker oder "ich weiß nicht". Ebenso ist<lb/>
+die Frage verheerend beantwortet worden, welchen Institutionen<lb/>
+sie vertrauen, der Regierung 29 %, dem Parlament 14 %, den Sozi<lb break="no"/>alisten 12 %, den Volksparteilern 9 %, den Landeshauptleuten 7 %,<lb/>
+den Bürgermeistern und der Kirche je 5 % und den Freiheitlichen<lb/>
+3 %. <name type="person" ref="per:97627">Kienzls</name> Meinung ist die Fachleute-Beantwortung wesentlich<lb/>
+positiv, den Kernkraftwerktechnikern 63 %, den Erdbebenfachleuten<lb/>
+31 %, den Ärzten 29, den Biologen und Geologen jeweils 26, den<lb/>
+Wirtschaftsforschern und den Zukunftsforschern jeweils 19 %, die<lb/>
+Frage der <choice><choice><sic>Parteireferenzen</sic><corr>Parteipräferenzen</corr></choice></choice> antworteten die Sozialisten 42, Volks<lb break="no"/>partei 28, Freiheitliche 6, Kommunisten 1 und keine 23 %. Von<lb/>
+den Sozialisten wollen 77 % Inbetriebnehmen, 14 Nein, von den<lb/>
+<sic>Volksparteien</sic> 32 %, 47 Nein, von den Freiheitlichen 34 %, 44 Nein,<lb/>
+und von den Kommunisten 27 %, 53 % Nein, von denen, die keiner Partei<lb/>
+<pb n="45-1246" facs="45_1978-10-25_1246-08-D.jpg"/>eine Präferenz geben, sind 46 % nicht engagiert. 29 % aber sagen<lb/>
+Nein. Diese Meinungsumfrage ist entgegen meiner bisherigen Auf<lb break="no"/>fassung so günstig, daß ich es fast gar nicht glauben kann. Ich<lb/>
+rechne<add>[nicht]</add> mit 64 % Teilnahme, sondern höchstens über 50 % und schon<lb/>
+gar nicht mit 70 % Pro-Stimmen, dies wäre nicht nur ein Traum<lb break="no"/>ergebnis, sondern für die weitere politische Entwicklung äußerst ent<lb break="no"/>scheidend.</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="45_1246_01" facs="45_1978-10-25_1246-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 25.10.1978</head>
+         </div>
+         <pb n="45_1246_02" facs="45_1978-10-25_1246-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

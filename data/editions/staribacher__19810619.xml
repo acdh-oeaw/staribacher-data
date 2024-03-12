@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der 19. Juni 1981 bis Sonntag, der 21. Juni 1981</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band60_1981-06-19</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date from="1981-06-19" to="1981-06-21">Freitag, 19. Juni 1981 bis Sonntag, 21. Juni 1981</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-06-25">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="60-0772" facs="60_1981-06-19_1981-06-21_0772.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Freitag, 19. Juni 1981 bis Sonntag, 21. Juni 1981<lb/>
+</p>
+            <p xml:space="preserve">Die Ölsaatenbesprechung führte diesmal wieder nicht zu einem Abschluß.<lb/>
+Festgehalten wurde, daß nicht 10.000 t Raps, sondern wahrscheinlich nur<lb/>
+9.000 t Raps heurige Ernte zu verkraften <choice><choice><sic>ist</sic><corr>sind</corr></choice></choice>. Pro Finanzminister standen<lb/>
+25 Mio. S für Stützungen zur Verfügung. Die Raps-Gemeinschaft der Industrie<lb/>
+erklärte sich bereit, 1.000 t zu übernehmen, was ungefähr 5 Mio. Stützung<lb/>
+ausmacht. Den Rest auf die 40 bis 45 Mio. müßte die Margarineindustrie<lb/>
+übernehmen. Der Unilever-Vertreter, Dkfm. <name type="person" ref="per:133322">Trischler</name>, konnte keinerlei Zu<lb break="no"/>sagen machen. Die AK erklärte, daß in der letzten Margarinepreisver<lb break="no"/>handlung 25 Mio. S im Preisunterausschuß, der Margarineindustrie durch die<lb/>
+Erhöhung des Zolls von 18 % auf 22 % als Sockelbetrag mehr oder minder<lb/>
+eingebaut wurde. Die Margarineindustrie erklärt jetzt aber, daß sie durch<lb/>
+die Erhöhung der Produktionskosten, zweimalige Lohnbewegung, Dollarauf<lb break="no"/>wertung diesen Betrag nicht mehr zur Verfügung hat. Bei einer Sitzungs<lb break="no"/>unterbrechung hat der Obmann der Arbeitsgemeinschaft Raps, <name type="person" ref="per:133323">Hirsch</name>, den<lb/>
+Unilever-Vertreter bekniet, er soll diese für <choice><choice><sic>ihm</sic><corr>ihn?</corr></choice></choice> bis maximal 15 Mio. S<lb/>
+übernehmen. Ich habe übernommen, mit der AK und<add>[dem]</add> ÖGB die Kostenfrage zu<lb/>
+besprechen.<lb/>
+</p>
+            <p xml:space="preserve">Beim Jour fixe mit AK und ÖGB erörterte ich dieses Problem. Die AK ist<lb/>
+bereit, in Preisverhandlungen und Überprüfung der Margarinesituation<lb/>
+einzutreten.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte mit GD <name type="person" ref="per:97936">Seefranz</name> verbinden.<add>erledigt Martin</add><lb/>
+</p>
+            <p xml:space="preserve">Dr. <name type="person" ref="per:97543">Heindl</name> berichtet über eine Aussprache mit dem Energiesprecher der<lb/>
+ÖVP, <name type="person" ref="per:111410">König</name>. Die sozialistische Parlamentsfraktion für Energiefragen er<lb break="no"/>wartet, daß das Handelsministerium in die Gewerbeordnungsnovelle die Er<lb break="no"/>gebnisse der Landeshauptleuteabkommen Art. 15 a aufnimmt. Die sozialistische<lb/>
+Fraktion, insbesondere eher<add>[Heindl?, Anm.]</add> als Energiesprecher, sieht zur Lösung dieser<lb/>
+Frage auch nur diesen Weg. Sollte die ÖVP aber dann im Laufe der Herbst<lb break="no"/>verhandlungen entsprechende Zugeständnisse über die Fernwärme, die Öl<lb break="no"/>substitution im Energielenkungsgesetz machen, dann könnte man als letzten<lb/>
+Ausweg <choice><choice><sic>von</sic><corr>aus</corr></choice></choice> der Novelle zur Gewerbeordnung den Energieteil Art. 15 a<lb/>
+Landeshauptleutevereinbarung herausnehmen und in das Energiesicherungs<lb break="no"/>gesetz einbauen. Prinzipiell ist <name type="person" ref="per:97543">Heindl</name> aber derselben Meinung wie auch<lb/>
+ich, daß dies ein wesentlich schlechterer Schritt ist, in der ganzen<lb/>
+Energiefrage weiterzukommen, als nicht doch zu versuchen, einfach-gesetz<lb break="no"/>liche Regelungen in Zukunft in die Gewerbeordnung einzubauen.<lb/>
+</p>
+            <pb n="60-0773" facs="60_1981-06-19_1981-06-21_0773.jpg"/>
+            <p xml:space="preserve">Bezüglich Beimischungszwang Biosprit zu Benzin wird von der Enquete<lb/>
+des Landeshauptmann <name type="person" ref="per:97703">Ludwig</name> berichtet. Dieser hätte vorgeschlagen, man<lb/>
+solle bis 20 % jetzt schon in Aussicht nehmen und sofort entsprechende<lb/>
+Schritte setzen. Energiesprecher <name type="person" ref="per:111410">König</name> hat dem Handelsministeriums-Ver<lb break="no"/>treter MR <name type="person" ref="per:114624">Obermair</name> unter vier Augen gesagt, man könne auch dafür die<lb/>
+Mineralölsteuer erhöhen, um Biosprit entsprechend zu subventionieren<lb/>
+zu können. Die AK und der ÖGB sprechen sich nach wie vor gegen dieses<lb/>
+Projekt entschieden aus. Sie erklären sich nur bereit, eine Verordnung<lb/>
+für einen Beimischungszwang dann zuzustimmen, wenn gleichzeitig be<lb break="no"/>stimmt wird, zu welchen Preisen und welche Menge maximal beigemischt<lb/>
+werden dürfte.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Mit dem Handelministeriums-Vertreter zur inter<lb break="no"/>ministeriellen Besprechung im Verkehrsministerium möchte ich sprechen.<lb/>
+</p>
+            <p xml:space="preserve">Die Mineralölindustrie hat für die Mineralölproduktepreiserhöhung dem<lb/>
+ORF, <name type="person" ref="per:133324">Adler</name><add>[?]</add>, einen indirekten Preis genannt, den sie erwartet. Da in Deutsch<lb break="no"/>land und in der Schweiz die Preise um ca. 40 Groschen höher sind, wird<lb/>
+mit einer ähnlichen Erhöhung Ende Juni gerechnet, dies sollte nur die<lb/>
+erste Etappe sein. Die AK und der ÖGB, so habe ich zumindestens das<lb/>
+Gefühl, wären zu höheren Preiszugeständnissen bereit.<lb/>
+</p>
+            <p xml:space="preserve">Dies ergibt auch eine Diskussion über den Elektrizitätspreis. Der ÖGB<lb/>
+insbesondere hat festgestellt, daß im Juli und August in den Index gegen<lb break="no"/>über dem Vorjahr eine kleine Masch<add>[?]</add> noch belastbar erscheint. Für Septem<lb break="no"/>ber hat das WIFO, <name type="person" ref="per:131086">Kramer</name>, eine 8 %ige Indexerhöhung errechnet. <name type="person" ref="per:98112">Zöllner</name><lb/>
+vertritt die Meinung, daß man deshalb Juli-August weniger belasten sollte,<lb/>
+im Oktober kann die Verbundgesellschaft Strompreiserhöhungen genehmigen.<lb/>
+Die Verlautbarung erfolgt dann erst in der Mitte November, wo schon die<lb/>
+großen Lohnbewegungen der Metallarbeiter und sonstiger großen Gruppen<lb/>
+abgeschlossen sind. Über dieses Problem wird noch weiter verhandelt.<lb/>
+Einigung besteht nur, daß jetzt für Wien und NÖ von 119,6 auf 127 Groschen<add>[pro]</add><lb/>
+KWh erhöht wird. Dies ist ca. eine 5,8 %ige Erhöhung. Der HSV wird von<lb/>
+9 Groschen auf 5 Groschen Preisdifferenz abgesenkt. Eine Akkordierung ist<lb/>
+deshalb, wie der ÖGB zustimmen würde, für die Landesgesellschaften die<lb/>
+bessere Lösung, für die AK aber mit Recht deshalb unakzeptabel, weil z.B.<lb/>
+die Steiermark jetzt eine 18 %ige Erhöhung eingereicht hat, obwohl nach<lb/>
+übereinstimmender Meinung nicht annähernd weder die 50 % noch 60 %<lb/>
+Akkordierung, wie der Gewerkschaftsbund zustimmen würde, geschweige denn<lb/>
+<pb n="60-0774" facs="60_1981-06-19_1981-06-21_0774.jpg"/>die 80 % Akkordierung, wie die Elektrizitätswirtschaft verlangt, vertretbar<lb/>
+ist.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: MR <name type="person" ref="per:109811">Burian</name> soll unverzüglich über die Preisver<lb break="no"/>handlungen bezweckend Akkordierung berichten.<lb/>
+</p>
+            <p xml:space="preserve">Bezüglich der Hinterlegung der Allgemeinen Geschäftsbedingung einigten<lb/>
+sich Sts. <name type="person" ref="per:109808">Albrecht</name> und SC <name type="person" ref="per:97584">Jagoda</name> mit den Vertretern der AK, daß diese<lb/>
+beim VKI hinterlegt werden sollten. Voraussetzung dafür ist, daß jetzt<lb/>
+in die Begutachtung der Gewerbeordnungs-Novelle überhaupt die Hinter<lb break="no"/>legung der Allgemeinen Geschäftsbedingungen aufgenommen wird. <choice><choice><sic>Der</sic><corr>Den?</corr></choice></choice> Ab<lb break="no"/>tausch, AK wird über das Ergebnis der Anzeigen aufgrund der Gewerbeord<lb break="no"/>nung durch die Behörde verständigt, gegen Verzicht auf Hinterlegung<lb/>
+Allgemeiner Geschäftsbedingungen, lehnt die AK ab. Sie ist fest davon<lb/>
+überzeugt, daß sie die Anzeigen-Ergebnisverständigung auf alle Fälle<lb/>
+bekommt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR SC <name type="person" ref="per:97584">JAGODA</name> UND <name type="person" ref="per:109811">BURIAN</name>: In die Begutachtung VKI-Vorschlag<lb/>
+als Kompromiß darstellen.<lb/>
+</p>
+            <p xml:space="preserve">Die AK regt an, daß für das Pölser Sulfatprojekt die Banken, insbesondere<lb/>
+die Raiffeisenkassa, sich stärker beteiligen <choice><choice><sic>soll</sic><corr>sollen</corr></choice></choice>. Die Girozentrale und<lb/>
+die Zentralsparkassa haben sich schon ganz zurückgezogen, die Raika will<lb/>
+sich mit 40 Mio. S beteiligen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Über die Entwicklung muß man uns laufend in<lb break="no"/>formieren.</p>
+            <p xml:space="preserve">Über die einzuschlagende Taktik betreffend der Wirtschaftsgesetzverhand<lb break="no"/>lungen im nächsten Jahr besteht zwischen Landwirtschaftsminister <name type="person" ref="per:97511">Haiden</name><lb/>
+und mir eine verschiedene Auffassung. <name type="person" ref="per:97511">Haiden</name> fürchtet, daß er ohne eine<lb/>
+milchwirtschaftliche Marktordnung nicht durchkommt. <name type="person" ref="per:97511">Haiden</name> ist deshalb<lb/>
+auch fest entschlossen, den ÖVP-Bauern entsprechende Zugeständnisse zu<lb/>
+machen, damit diese Wirtschaftsgesetze letzten Endes doch vom Parlament<lb/>
+wieder verabschiedet werden. Ich vertrete genau den gegenteiligen Stand<lb break="no"/>punkt. Wenn wir in die Verhandlungen eintreten, mit der Absicht, die<lb/>
+Wirtschaftsgesetze zu verlängern, dann haben wir von vornherein schon eine<lb/>
+schlechte Verhandlungsausgangsposition. Ich kann mir nicht vorstellen, daß<lb/>
+es tatsächlich zu einem Zusammenbruch des Marktes respektive der gesamten<lb/>
+Bewirtschaftungsmöglichkeiten, die sowieso nur unzulänglich gehandhabt<lb/>
+<pb n="60-0775" facs="60_1981-06-19_1981-06-21_0775.jpg"/>werden, kommt, wenn tatsächlich die Wirtschaftsgesetze nächstes Jahr<lb/>
+auslaufen sollten. Vom Standpunkt der Lebens- u. Genußmittelarbeiter,<lb/>
+muß ich zugeben, sind wir an einer Verlängerung der Marktordnungen,<lb/>
+so wie <name type="person" ref="per:97511">Haiden</name> auch, interessiert. Die entscheidende Frage wird für mich<lb/>
+sein, ob der ÖGB und die AK bei den zukünftigen Verhandlungen sich<lb/>
+wieder kleine Vorteile, wie z.B. das letzte Mal den Obmann-Stellver<lb break="no"/>treter in den Fonds, rausschlägt, oder ob nicht doch auch von diesen<lb/>
+Organisationen das Risiko eines Auslaufens dieser Wirtschaftsgesetze<lb/>
+mit übernommen wird.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97627">Kienzl</name> berichtet, daß jetzt Berechnungen beim Verbraucherpreisindex<lb/>
+ergeben haben, daß die 7 % Erhöhung auf 2,25 % auf Dollarerhöhung und<lb/>
+Rohstoffverteuerung und 1,8 % auf die Hochzinsbelastung zurückzuführen<lb/>
+ist. Die AK-Statistiker <name type="person" ref="per:133326">Krämer</name> kann jetzt nicht mehr die Vorberechnungen,<lb/>
+bevor der Monatsindex erstellt wird, so exakt durchführen, weil in den<lb/>
+letzten Jahren der Anteil von Wien am Verbraucherpreisindex von 46 % auf<lb/>
+30 % zurückgegangen ist. In den Länderkammern aber werden die diffi<lb break="no"/>zilen Erhebungen, die die AK-Wien durchführt, nicht gemacht.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Bitte mit <name type="person" ref="per:133326">Krämer</name> trotzdem Kontakt halten und die<lb/>
+Vorinformationen einholen.<lb/>
+</p>
+            <p xml:space="preserve">Dr. <name type="person" ref="per:97627">Kienzl</name> berichtet auch, daß das Leistungsbilanzdefizit sich von<lb/>
+20 Mrd. des Vorjahres auf wahrscheinlich 15 Mrd. nur senken wird.<lb/>
+Trotz der günstigen Einnahmen aus dem Fremdenverkehr ist durch die<lb/>
+Verschlechterung der terms of trade nur mit diesem verhältnismäßig<lb/>
+unzulänglichen Ergebnis zu rechnen.<lb/>
+</p>
+            <p xml:space="preserve">Bezüglich der Diskussion Vorverlegung von Wahlen wird mir <name type="person" ref="per:97627">Kienzl</name> die<lb/>
+Unterlagen zur Verfügung stellen, aus denen eindeutig herausgeht, daß<lb/>
+die SPÖ immer mit wesentlich größeren Sympathieergebnissen rechnen<add>[kann?]</add>,<lb/>
+wenn sie im Frühjahr wählt, als im Herbst. Eine Vorverlegung auf Herbst<lb/>
+82 erscheint deshalb als unzweckmäßig. Ich persönlich glaube auch nicht,<lb/>
+daß <name type="person" ref="per:97668">Kreisky</name> so etwas beabsichtigt. Das letzte Mal sind wir von den<lb/>
+Herbst-Wahlen auf Frühjahrs-Wahlen nicht zuletzt deshalb übergestiegen,<lb/>
+weil die Wiener Partei, aber auch die Landesparteien, eindeutig erklärten,<lb/>
+sie könnten bei Oktober-Wahlen erst Mitte September mit einer Wahl<lb break="no"/>Agitation beginnen.<lb/>
+</p>
+            <pb n="60-0776" facs="60_1981-06-19_1981-06-21_0776.jpg"/>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Bitte von SWS <name type="person" ref="per:97627">Kienzl</name> die Wahlanalysen verlangen.<lb/>
+</p>
+            <p xml:space="preserve">Der zypr. Handelsminister <name type="person" ref="per:133328">Kittis</name> hat beim Arbeitsessen klar und deut<lb break="no"/>lich gemacht, daß das zweigeteilte Zypern doch einen größeren Handels<lb break="no"/>austausch mit Österreich wünscht. Derzeit ist Österreich interessiert,<lb/>
+einige Projekte in Zypern unterzubringen. Die Firmenvertreter waren alle<lb/>
+anwesend. Zypern selbst kann in Wirklichkeit ja nur etliche Agrarpro<lb break="no"/>dukte, Gemüse, Obst, Erdäpfel, insbesondere aber z.B. Cherry-Wein und<lb/>
+Citrus-Früchte liefern. Letztere sind ja vollkommen einfuhrfrei, bei<lb/>
+Cherry-Wein könnte es sicherlich zyprischer <choice><choice><sic>den</sic><corr>dem</corr></choice></choice> spanischen oder<lb/>
+portugiesischen hier einen geringen Marktanteil abnehmen. Voraussetzung<lb/>
+ist, ob tatsächlich österr. Importeure für größere Importe aus Zypern<lb/>
+gewonnen werden können. Eine Beteiligung an der Messe erscheint <name type="person" ref="per:133328">Kittis</name><lb/>
+zweckmäßig. Mineralien könnten insbesondere auch in Zypern entsprechend<lb/>
+erschlossen werden. Das wirkliche Problem, erscheint mir, ist aber der<lb/>
+Mangel von Importeuren respektive Handelshäusern in Österreich, die sich<lb/>
+hier als Direktbezieher einschalten könnten.<lb/>
+</p>
+            <p xml:space="preserve">Der chilenische Botschafter <name type="person" ref="per:133329">Rodriguez</name> konnte mir die Schwierigkeiten,<lb/>
+die sich durch Panzerlieferungen an Argentinien ergeben, erörtern.<lb/>
+Argentinien hat sich einem Richtspruch, wonach die drei Inseln, um die<lb/>
+es jetzt geht, zu Chile gehören, des Jahres 1952 nicht unterworfen. Im<lb/>
+Vertrag von 1902 wurde vereinbart, daß es, wenn es zu Grenzstreitigkeiten<lb/>
+kommt, Schiedssprüche von fünf englischen Richtern auf dem Internationalen<lb/>
+Gerichtshof in Den Haag entscheiden sollen. Chile anerkennt diese Richt<lb break="no"/>sprüche, Argentinien verweigert es. Jetzt wurde der Papst als Schieds<lb break="no"/>richter angerufen. Chile ist damit einverstanden, Argentinien hat bis<lb/>
+jetzt nicht geantwortet. Jetzt liefert Österreich als neutrales Land an<lb/>
+eine der Streitparteien Panzer, während Chile von Lieferungen ausge<lb break="no"/>schlossen wird. <name type="person" ref="per:133329">Rodriguez</name> ist nicht der Meinung, daß die Chilenen wahr<lb break="no"/>scheinlich, wenn Österreich auch Panzer Chile anbieten würde, diese so<lb break="no"/>fort jetzt kaufen würden. <name type="person" ref="per:133329">Rodriguez</name> meint nur, ein neutraler Staat muß<lb/>
+beiden Streitteilen dieselbe Möglichkeit einräumen. Da diese ganze An<lb break="no"/>gelegenheit beim Außenministerium ressortiert, das Handelsministerium<lb/>
+nicht einmal in der Kommission, welche die Waffenexporte genehmigt, ver<lb break="no"/>treten ist, hat <name type="person" ref="per:133329">Rodriguez</name> selbst zugegeben, daß ich dafür nicht zu<lb break="no"/>ständig bin. Er wollte, wie er erklärte, auch mich nur informieren, daß<lb/>
+diese Entscheidung für den chilenisch-österr. Außenhandel nicht günstig<lb/>
+ist.<lb/>
+</p>
+            <pb n="60-0777" facs="60_1981-06-19_1981-06-21_0777.jpg"/>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte das Außenministerium verständigen lassen.<lb/>
+</p>
+            <p xml:space="preserve">Herr <name type="person" ref="per:117119">Klein</name>, der mir dann im Laufe der Stunden, wahrscheinlich aus Ver<lb break="no"/>zweiflung und aus Hoffnung, mich besser einspannen zu können, das Du-<lb/>
+Wort angeboten hat, macht eine Fernsehsendung "Ehrlich währt am längsten".<lb/>
+Darin braucht er einen Richter, der entscheidet, und hat an mich gedacht.<lb/>
+Ich hatte, als ich leichtsinnigerweise zusagte, angenommen, daß dies<lb/>
+eine Frage von kurzen Aufnahmen ist und die ganze Angelegenheit in<lb/>
+höchstens ein, zwei Stunden erledigt ist. Die Pilotsendung allein er<lb break="no"/>streckte sich aber über zwei Tage. Ich selbst wurde für vier Uhr einge<lb break="no"/>laden, und um halb zwölf war es dann zu Ende. <name type="person" ref="per:117119">Klein</name> selbst ist fest davon<lb/>
+überzeugt, daß diese Sendung ein großer Erfolg wird, die Pilotsendung<lb/>
+wird zwar überhaupt nicht gesendet, sondern nur den ORF-Verantwortlichen<lb/>
+vorgeführt. Angeblich soll es dann wesentlich schneller<add>[gehen?]</add>, wenn die erste<lb/>
+Sendung im Studio am Rosenhügel gedreht wird, weil dort mehrere Kameras<lb/>
+bessere technische Einrichtungen u.s.w. zur Verfügung stehen, als wie<lb/>
+bei <choice><choice><sic>den</sic><corr>der?</corr></choice></choice> Spitzbuben Pawlatschenbühne von <name type="person" ref="per:117119">Klein</name>. Für mich war es ganz<lb/>
+interessant, einmal eine solche Künstlerschaft zu erleben. Außer dem<lb/>
+Humoristen <name type="person" ref="per:133331">Heinzel</name> und dem Moderator <name type="person" ref="per:133332">Wotruba</name> waren die Mitwirkenden alles<lb/>
+Angestellte von der Fa. Klein. Ich weiß nicht wie er die entlohnt, ich<lb/>
+kann mir ohne weiteres vorstellen, daß er denen einredet, sie werden im<lb/>
+Fernsehen einmal alle eine große Rolle spielen können, sich dann bei<lb/>
+diesem Quiz selbst bewundern, und daher wirken alle um des Gottes Lohn<lb/>
+willen mit. Wie ich mich in Zukunft aus dieser Schlinge, die ich mir<lb/>
+selbst um den Hals gelegt habe, herausziehe, weiß ich noch nicht.<lb/>
+</p>
+            <p xml:space="preserve">Der Burgenland-Tag am Samstag hatte gewisse Vor- u. gewisse Nachteile.<lb/>
+Der Vorteil war, daß ich eine Zusage, auf der Burg Schlaining ein<lb/>
+Referat über Fremdenverkehr zu halten, mit einem Burgenbesuch gleich<lb/>
+kombinieren konnte. Unwahrscheinlich, wie viel das Land oder sonstige<lb/>
+Mäzene in die Rekonstruktion der Burgen stecken. In Lockenhaus hat<lb/>
+GD <name type="person" ref="per:113025">Horwath</name> von der BEWAG die Rolle des Geldaufreißers übernommen. Ins<lb break="no"/>gesamt wurden dort bereits 16 Mio. S investiert. Die Burg Schlaining hat<lb/>
+jetzt das Land von dem Handelsminister a.D. DDDr. <name type="person" ref="per:133333">Illig</name> gekauft, den<lb/>
+Rittersaal jetzt um 800.000 S renoviert. Dieser war mit hunderten Leuten<lb/>
+voll besetzt. Es ergab sich dann auch eine rege Diskussion über die<lb/>
+FV-Politik. Das südliche und Mittelburgenland ist noch wesentlich benach<lb break="no"/>teiligt. Weltweit ist das Burgenland und der<add>[mit dem]</add> Neusiedler See identisch.<lb/>
+Im mittleren und südlichen Burgenland gibt es gute Erholungsmöglichkeiten,<lb/>
+ähnlich der Oststeiermark. Dort haben allerdings die Wiener Pensionisten<lb/>
+<pb n="60-0778" facs="60_1981-06-19_1981-06-21_0778.jpg"/>den oststeirischen Fremdenverkehr angekurbelt. Im südlichen Burgenland<lb/>
+und Mittelburgenland dagegen gibt es sehr wenig Unterbringungsmöglich<lb break="no"/>keiten. Kritik wurde an der Fremdenverkehrspolitik in der sehr lebhaften<lb/>
+Diskussion niemals geübt. Einzig und allein die Hochzinspolitik ermög<lb break="no"/>licht derzeit kaum, einen Hotelbetrieb sich finanzieren zu können.<lb/>
+</p>
+            <p xml:space="preserve">Die Kobersburg bildete dann den Abschluß, wo ein Lustspiel von <name type="person" ref="per:133334">Ödon<lb/>
+von Horváth</name>, sehr geschickt inszeniert, reichlich Beifall fand. Außer<lb/>
+Vizekanzler <name type="person" ref="per:113083">Sinowatz</name> waren noch Minister <name type="person" ref="per:111740">Dallinger</name> und <name type="person" ref="per:97879">Rösch</name>, neben LH<lb/>
+<name type="person" ref="per:114583">Kery</name> und der halben Landesregierung anwesend. Den anschließenden Empfang<lb/>
+hatte ich gestrichen, da wir erstens sehr froren und zweitens man sowie<lb break="no"/>so von Kobersdorf sehr lange bis Wien zurückfährt.<lb/>
+</p>
+            <p xml:space="preserve">Das Referat beim österr. Arbeitsbauernbund am Sonntag Vormittag brachte<lb/>
+für mich eine interessante Erkenntnis. Leider war, wie ich erwartet habe,<lb/>
+der Bundesvorstand schon sehr dezimiert, die Verbleibenden diskutierten<lb/>
+dann aber mit mir die Agrarpolitik, die allgemein zumindestens beim<lb/>
+Arbeitsbauernbund große Anerkennung findet. Angeblich sind auch die<lb/>
+österr. Bauern bereit, die positive Agrarpolitik anzuerkennen, nur der<lb/>
+Österr. Bauernbund lehnt nach wie vor ganz entschieden die Politik <name type="person" ref="per:97511">Haidens</name><lb/>
+ab. Ich erörterte all die Fragen, die der Sekr. d. Bauernbundes, <name type="person" ref="per:133335">Schelko</name>,<lb/>
+mir schriftlich mitgeteilt hat, ich konnte alle anwesenden von der<lb/>
+Richtigkeit unserer Entscheidungen überzeugen. Mein Versuch aber, durch<lb/>
+entsprechende vorsichtige Andeutung, man könnte doch die Marktordnungs<lb break="no"/>gesetze auslaufen lassen, stieß sofort allgemein und bei allen Diskussions<lb break="no"/>teilnehmern auf den entschiedensten Widerstand. Für mich war einmal<lb/>
+mehr deutlich, daß die Bauern sich ganz auf Marktordnung und den Schutz<lb/>
+daraus eingestellt haben. Landwirtschaftsminister <name type="person" ref="per:97511">Haiden</name> handelt daher<lb/>
+absolut im Sinne der Arbeitsbauern, wenn er nach wie vor die Aufrecht<lb break="no"/>erhaltung der Marktordnungen verlangt.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="60_0771_01" facs="60_1981-06-19_1981-06-21_0771-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 19.6.1981</head>
+         </div>
+         <pb n="60_0771_02" facs="60_1981-06-19_1981-06-21_0771-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+         <pb n="60_0771_03" facs="60_1981-06-19_1981-06-21_0771-03.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 20.6.1981</head>
+         </div>
+         <pb n="60_0771_04" facs="60_1981-06-19_1981-06-21_0771-04.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 21.6.1981</head>
+         </div>
+      </back>
+   </text>
+</TEI>

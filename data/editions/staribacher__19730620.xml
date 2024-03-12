@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittwoch, der 20. Juni 1973</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band16_1973-06-20</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1973-06-20">Mittwoch, 20. Juni 1973</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-09-28">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band16/">
+      <body>
+         <pb n="16-0726" facs="16_1973-06-20_0726.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Mittwoch, 20. Juni 1973</p><p xml:space="preserve"><name type="person" ref="per:97761">Müller-Hartburg</name>, der Präsident der Ingenieure, kam ungeheuer aufge<lb break="no"/>laden , da er sich erhofft hat, dass in der Gewerbeordnung die Rechte<lb/>
+der Baumeister auf Planung eingeschräkt werden. Statt dessen möchte<lb/>
+die Handelskammer den Technischen Büros Planungsrechte geben. 1967<lb/>
+wurden – wie <name type="person" ref="per:97761">Müller-Hartburg</name> sich ausdrückte – die Technischen Büros<lb/>
+abgeschafft und jetzt sollen sie neu entstehen. <name type="person" ref="per:97584">Jagoda</name> het die Ver<lb break="no"/>handlungen so geschickt geführt, dass <name type="person" ref="per:97761">Müller-Hartburg</name> meinen Vorschlag<lb/>
+akzeptierte und ihn als eine gute Lösung empfand, eine Arbeitsgruppe<lb/>
+<name type="person" ref="per:97584">Jagoda</name>, Min.Rat <name type="person" ref="per:146595">Jaschek</name> vom Bautenministerium, der sachlich dafür<lb/>
+zuständig ist einzusetzen, um das Ziviltechnikergesetz zu novellieren.<lb/>
+Moser hat dies den Ziviltechnikern schon lange versprochen, doch<lb/>
+Min.Rat <name type="person" ref="per:146595">Jaschek</name> soll ungeheuer unbeweglich sein. Ich habe <name type="person" ref="per:97755">Moser</name><lb/>
+von dieser Arbeitsgruppe informiert und er war mit der Vorgangsweise<lb/>
+eivnerstanden.</p><p xml:space="preserve">Durch ZUfall habe ich auf der Strasse Dr. <name type="person" ref="per:112567">Christian</name> von der Handels<lb break="no"/>kammer getroffen und ihn im Auto mitgenommen und bei dieser Gelegen<lb break="no"/>heit über die Vorsprache <name type="person" ref="per:97761">Müller-Hartburgs</name> folgenden Vorschlag unter<lb break="no"/>breitet: Ich möchte dn jetzigen Status quo aufrechterhalten, dies<lb/>
+erscheint <name type="person" ref="per:97584">Jagoda</name> auch als die beste Lösung. <name type="person" ref="per:112567">Chistian</name> hat mir gestanden,<lb/>
+dass sie den Technischen Büros schon Zusagen gemacht habn. Er wird<lb/>
+dieses Problem mit <name type="person" ref="per:97769">Mussil</name> besprechen. <name type="person" ref="per:97757">Mühlbacher</name>, bei dem <name type="person" ref="per:97761">Müller-Hart<lb break="no"/>burg</name> auch vorgesprochen hat, ist der Meinung <name type="person" ref="per:97584">Jagodas</name>. Die SPÖ wird also<lb/>
+auf dem jetzigen Status quo beharren.</p><p xml:space="preserve">Prok. <name type="person" ref="per:97718">Marek</name> von der ELIN, wie er selbst sagte, leider in Anwesenheit<lb/>
+von Min.Rat <name type="person" ref="per:110035">Thun</name>, ein langjähriger Gewerkschafter und Genosse, wollte<lb/>
+für das Institut für Schweisstechnik eine Subvention. Er meinte, die<lb/>
+schwarze Organisation <choice><choice><sic>Hofrat</sic><corr>Kommerzialrat</corr></choice></choice> <name type="person" ref="per:146319">Geiger</name>, schweisstechnische Zentralanstalt<lb/>
+bekommt überall Geld und er keines. Ich erklärte rundweg, dass die<lb/>
+politische BEnachteilung insofern ein Ende haben iwrd, als wirt<lb/>
+auch für die schweisstechnische Zentralanstalt keinerlie Subvention<lb/>
+mehr geben können.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Wir müssten feststellen, wo aus parteipolitischen<lb/>
+Gründen eine parteipolitische Organisation etwas<lb/>
+bekommt und die andere nicht und dann zumindestens<lb/>
+der schwarzen Organisation auch nichts geben.</p><p xml:space="preserve">Die Delegation von NÖ über die Benachteiligung der Gewerbebetriebe<lb/>
+<pb n="16-0727" facs="16_1973-06-20_0727.jpg"/>bei der Maul- und Klauenseuche war um 3 Uhr nicht erschienen, um<lb/>
+1/2 4 Uhr habe ich dann die Delegation durch einen reinen Zufall<lb/>
+beim Ausgang des Parlaments getroffen, wo man mir erklärt, man<lb/>
+bedauert zutiefst, dass ich bei der Vorsprache der Delegation beim<lb/>
+Finanzminister und Gesundheitsminister nicht anwesend war. Ich er<lb break="no"/>rkärte, dass ich im Saal gesessen bin und man mich nicht geholt hat.<lb/>
+Aus meinem Terminzettel ging nicht hervor, dass dies eine gemeinsame<lb/>
+Sitzung mit Finanzminister und Gesundheitsminister ist. Es wurde dort<lb/>
+besproche, Vizepräsident vom Freien Wirtschaftsverband, dürfte der<lb/>
+Wortführer gewesen sein, Erhebungen anzustellen und der Finanzminister<lb/>
+sei bereit, für 20 – 30 Mill. S ähnlich für die Bauern auch für die Ge<lb break="no"/>werbetreibenden Subvention zur VErfügung zu stellen.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: In HInkunft muss klargestellt werden, wer die<lb/>
+Sitzungen einberuft und wieviel Minister daran<lb/>
+teilnehmen und wo die Sitzungen sind, damit nicht<lb/>
+aus technischem VErsehen ein solches Ausschalten<lb/>
+Platz greift.</p><p xml:space="preserve">Eine Parteibesprechung, an der <name type="person" ref="per:97879">Rösch</name> teilgenommen hat, hat beschlossen,<lb/>
+einen Unterausschuss über die Fassung des Preisbestimmungsgesetzes ein<lb break="no"/>zusetzen. <name type="person" ref="per:97311">Androsch</name> hat mir mitgeteilt, dass nächsten Donnerstag eine<lb/>
+solche Aussprache in seinem Ministerium stattfinden wird. Da soviel ich<lb/>
+mich erinnern kann dieser Zeitpunkt aber mit einer Aussprache der bulg.<lb/>
+Minister blockiert ist, werde ich Dkfm. <name type="person" ref="per:111737">Marsch</name> schicken. <name type="person" ref="per:97879">Rösch</name> hat unter<lb/>
+vier Augen mir gesagt, ich sollte nicht so angerührt sein, ich bestritt di<lb/>
+dies, ohne ihm im konkreten auseinanderzusetzen, dass ich daüfrt allen<lb/>
+GRund hätte, Richtig ist, dsss die Preisregelung noch immer bie <name type="person" ref="per:97879">Rösch</name><lb/>
+ressortiert, dass aber fürs Preisbestimmungsgesetz eigentlich das<lb/>
+Handelsministerium zuständig ist. WEnn ich jetzt akzeptiere, dass über<lb/>
+dieses Gesetz in Gremien gesprochen wird, ohne dass ich anwesend bin,<lb/>
+so ausschliesslich um des lieben Friednes willen, auf lange Sicht<lb/>
+gesehen, insbesondere nach Inkrafttreten des neuen Kompetenzgesetzes<lb/>
+werde ich mir genau überlegen müssen, wie wir in dieser Frage weiterhin<lb/>
+vorgehen. Da ich nicht die Absicht habe und es auch gar nicht könnte,<lb/>
+ohne wahrscheinlich einen grösseren Krach heraufzubeschwören, mich von<lb/>
+den Ergebnissen, wie <name type="person" ref="per:97668">Kreisky</name> sich ausdrücjte, des "Kuhhandels" mich zu<lb/>
+distanzieren, so bleibt mir derzeit nichts andees übrig als abzuwarten,<lb/>
+was aus den Besprechungen herauskommt und auf längere Sicht daraus Konsequen<lb/>
+zu ziehen.</p><pb n="16-0728" facs="16_1973-06-20_0728.jpg"/><p xml:space="preserve"><name type="person" ref="per:97769">Mussil</name> wollte unedingt mit mir unter vier Augen sprechen und hatte<lb/>
+einen einzigen PUnkt: die Zollermässigung für Kooperationslieferungen<lb/>
+wird von der Handelskammer auf das entschiedenste abgelehtn. Er hatte<lb/>
+einen diesbezüglichen Aktenvermerk von <name type="person" ref="per:97474">Gleissner</name> und meinte, wir müsste<lb/>
+nach seiner Rückkehr aus Polen über dieses Problem eingehenddisku<lb break="no"/>tieren. Ich habe mich dazu insoferne geäussert, als ich erklärte,<lb/>
+dass ein Teil der Firmen, die von der Kooperation betroffen sind, sehr<lb/>
+wohl für eine Zollermässigung eintreten. Dass aber natürlich der<lb/>
+überwiegende Teil, der eben mit den Oststaaten keinerlei Kontakte<lb/>
+und Lieferungen hat, sehr wohl den jetzigen Status aufrechterhalten<lb/>
+will. Hier kann ich entnehmen, wie nachteilig sich jetzt die Inakti<lb break="no"/>vität unserer Grundsatzgruppe auswirkt. Durch die Umstellung von<lb/>
+Ministerien, die Berufung von Min.Rat <name type="person" ref="per:108322">Meisl</name> zum Sektionsleiter, die<lb/>
+beabsichtigte Bestellung von <name type="person" ref="per:98053">Wanke</name> zum Grundsatzgruppenleiter hat<lb/>
+eine gewisse INaktivität ausgelöst. Solange <name type="person" ref="per:98053">Wanke</name> nicht endgültig für<lb/>
+die Grundsatzgruppe zuständig ist und womöglich ein Dekret in der<lb/>
+Hand hat, wird die derzeit labile Situation uns in vielen Fragen<lb/>
+Schwierigkeiten bringen. Das Zollermässigungsproblem gehört nämlich<lb/>
+längst mit den Interessensvertretungen durchdiskutiert. Wenn nämlich<lb/>
+ein Problem auftaucht, so ist es gar keine Frage, dass die Handels<lb break="no"/>kammer innerhalb ihrer Organisation sehr wohl eine disbezügliche<lb/>
+Lösung versucht, meistens ist sie negativ, da ja die ERhaltung des<lb/>
+Status quo immer das leichteteste ist und wir haben eigentlich keine<lb/>
+diesbezüglichen Gegenvorschläge, die auf breiterer Basis eben in der<lb/>
+Grundsatzabteilung erstellt worden wäre. Dieser Zustand muss so<lb/>
+schenll wie möglich abgeändert werden.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Bitte alles daransetzen,um die Grundsatzgruppe<lb/>
+so schnell wie möglich dekretmässig <name type="person" ref="per:98053">Wanke</name> zu<lb/>
+übetragen.</p><p xml:space="preserve">Im Parlament wurde nach einer umfangreichen Diskussion über die<lb/>
+Erklärung <name type="person" ref="per:97311">Androsch</name> zur Stabilität eine ungeheure Verzögerung des<lb/>
+Tagesablaufes erreicht. Die Gesetze über die Integration insbesondere<lb/>
+das EGKS-Gesetz ging dann verhältnismässig schnell über die Bühne<lb/>
+nur Bauernbunddirektor <name type="person" ref="per:97686">Lanner</name> hat wieder die schwache Seite unserer<lb/>
+agrarpolitschen Zusagen attackiert. Beim Vollmilchpulver-Export nach<lb/>
+England konnte ich ihn insoferne beruhigen als ich ihm erklärt,<lb/>
+dass die Engländer hie diesem Export und beim Papierexport uns nicht<lb/>
+entgegenkommen, wir als zweiten Schirtt dann die Erhlhugn der Whisky-<lb/>
+Zölle ins Auge fassen würden. Dies wird zwar auch nicht den Export<lb/>
+<pb n="16-0729" facs="16_1973-06-20_0729.jpg"/>von Vollmilchpulver in Grossbritannien erleichtern, wohl aber<lb/>
+gibt sie vielleicht der Landwirtschaft die BEfriedigung, dass mit allen<lb/>
+MItteln versucht wurde, sie zu unterstützen. Die härteste Attacke<lb/>
+ritt <name type="person" ref="per:97686">Lanner</name>, indem er erklärte, es sei die Qualitätsklassenverordnung<lb/>
+für Trauben und Zitrusfrüchte sowie für Paradeiser, Salat und Gurken<lb/>
+für das Jahr 1972 von <name type="person" ref="per:98055">Weihs</name> bereits zugesagt worden. Bis jetzt sei<lb/>
+keine einzige erlassen. Hier hat sich die Anwesenheit von Min.Beamten<lb/>
+gut ausgewirkt, denn sie konnten zwischenzeitig das Landwirtschafts<lb break="no"/>ministerium fragen, was wirklich geschehen ist. Tatsächlich ist fast<lb/>
+nichts geschehen, denn bis jetzt wurde nur Weintrauben und Zitrus<lb break="no"/>früchte in die Begutachtung geschickt. Zum Glück hat der Verfassungs<lb break="no"/>dienst aus mir unerklärlichen Gründne verlangt, dass Weintrauben und<lb/>
+Zitrusfrüchte in keine Verordnung kommen und ich konnte auf Grund<lb/>
+dieses BEispiels die Schwierigkeiten bei der Erlassung dieser Verordnung<lb/>
+vorspiegeln. Ausserdem wies ich darauf hin, dass mit den Qualitätsklassen<lb break="no"/>verordnungen die die Landwirtschaft so heftig jetzt velrangt, nicht auch<lb/>
+der GEdanke mitspielen darf, damit eine nichtzolltarifarische Hemmung<lb/>
+einzubauen. Der neue Klubobmann <name type="person" ref="per:98066">Robert Weisz</name> hat mich ersucht, bei<lb/>
+der Antwort sehr kurz und konziliant zu sein, damit die Diskussion nicht<lb/>
+übergebührlich lange firtgesetzt wird. Ich habe mich selbstverständlich<lb/>
+an diesen Vorschlag, der aucvh meiner Auffassung einer Ministertätigkeit<lb/>
+im Plenum entspricht, gehalten. Da aber die Frau Wissenschaftsminister<lb/>
+bei ihren Tagesordnungspunkten sehr lange replizierte und vor allem<lb/>
+einmal wie <name type="person" ref="per:98066">Weisz</name> und andere sich asudrückten, agressiv war, hat sich<lb/>
+die Diskussion über ihre PUnkte wesentlich länger erstreckt, als vorge<lb break="no"/>sehen war. Da aber heute noch unbedingt die Sozialpolitischen Gesetze<lb/>
+beschlossen werden mussten, sie müssen mit 1.7. in Kraft treten, ergab<lb/>
+sich die kuriose Situation, dass für diese Gesetze dann viele Redner<lb/>
+gestrichen wurden und die das Wort nahmen sich äusserst kurz und knapp<lb/>
+ausdrückten. Dadurch war es möglich, vor Ende des 17-Uhr-Schluss auch<lb/>
+noch den sozialpolitischen Block zu beschliessen. Die anderen umfang<lb break="no"/>reichen Tagesordnungspunkte kommen bei der nächsten Sitzung im Juli zur<lb/>
+Verhandlung. Verständlich betrachtet jeder Minister seine Materie<lb/>
+als wichtig. Einzelne Minister aber sich der Meinung, die müssen unbe<lb break="no"/>dingt durch entsrechend langwierige Erklärungen und Repliken ihren<lb/>
+STandpunkt dem Hohen Hause auseaindersetzen. Die Opposition interesiert<lb/>
+das normelerweise gar nicht, das Fernsehen weiss ich nicht, wie weit die<lb/>
+eine solche Polemik überhaupt bringt, die eigenen Genossen aber haben<lb/>
+dafür überhaupt kein Verständnis. Ich bezweifel aber sehr, ob sich die<lb/>
+Selbstdisziplin hier bezahlt macht. Ich glaube, dass hier der Gurnd<lb break="no"/>satz gilt, der überhaupt in der Politik Geltung hat, nämlich: Wer<lb/>
+<pb n="16-0730" facs="16_1973-06-20_0730.jpg"/>brutal genug ist, seine unmittelbaren Interessen entsprechend durch<lb break="no"/>zusetzen, d.h. überhaupt die Spitze seiner Aktivitäten zu stellen und<lb/>
+auf die anderen womöglich keine Rücksichti nimmt, hat zumindetens in<lb/>
+der Öffentlichkeit denVorteil für sich, in ERscheinung zutreten.<lb/>
+Loyales Verhalten gegneüber anderen kann und wir von der Öffentlichkeit<lb/>
+wenn überhaupt bemerkt, als Schwäche aufgefasst. Meistens aber geht es<lb/>
+unter, was in diesem Fall sogar noch als günstig zu bezeichnen ist.<lb/>
+Kommt es aber andereseits zur Konfrontation wird sofort vom Gegner<lb/>
+abr wahrscheinlich auch von den Massenmedien festgestellt, dass es hier<lb/>
+grosse Gegensätze gibt. Ein Zustand, der politisch noch schlechter ist<lb/>
+als wenn gewisse differente Auffassungen verschweigt und sich durch<lb/>
+geschicktes taktisches VErhalten darüber hinwegschwindelt.<lb/>
+Solange mich niemand vom Gegenteil überzeugt, werde ich auf alle Fälle<lb/>
+diese Linie weiter einschlagen.</p><p xml:space="preserve">Beim Abendessen im Sacher hat mich <name type="person" ref="per:97668">Kreisky</name> um 1 2 Uhr ersucht, ob<lb/>
+ich nicht nächsten Tag bereit sei, den Senegalesischen Präsidenten<lb/>
+aufmdas Flugfeld zu begleiten. Ich habe dies natürlich zugesagt,<lb/>
+denn 7 Uhr Abfahrt ist für mich kein Problem. Spöttisch meinte ich, ich<lb/>
+würde hatl das schwarze Gewand, das ich Montag früh angezogen habe und<lb/>
+bis Mittwoch nachts trug, noch am mnächsten Morgen ebemfalls anziehen.<lb/>
+Sehr erstaunt war ich aber, als am nächsten Morgen beim Abholen<lb/>
+des Präsidenten <name type="person" ref="per:97668">Kreisky</name> gar nicht erschien, sondern Vizekanzler <name type="person" ref="per:97525">Häuser</name> ge<lb break="no"/>schickt hat. <name type="person" ref="per:97525">Häuser</name> erklärt, er sei der Frühaufsteher vom Dienst. <name type="person" ref="per:97632">Kirch<lb break="no"/>schläger</name> war auch erschienen, nur hat er sich entschuldigt, dass er<lb/>
+nicth aufs Flugfeld fahren kann, weil er zur Fronleichnamsprozession<lb/>
+gehen muss. Er meinte, er könne unmöglich nur zur Prozession erscheinen<lb/>
+sondern für ihnsei es selbstverständlich, dass er am vorhergehenden Hoch<lb break="no"/>amt daran teilnimmt. Der senegal. Präsident wäre auch sehr gerne noch nach<lb/>
+Moskau gefahren, doch hat er keine Einladung erhalten. <name type="person" ref="per:97632">Kirchschläger</name> führt<lb/>
+darauf zurück, dass er in seinen Tischreden dann immer wieder heraus<lb break="no"/>gestrichen hat, der Sozialismus von rechten aber auch linken, <name type="person" ref="per:114602">Marx</name> und<lb/>
+<name type="person" ref="per:123197">Lenin</name> bis zum Chinesen <name type="person">Mao</name> reicht. Diese chinesische Linie, di er<lb/>
+besonder herausstrich, dürfte mit einer der GRümde sein, warum die<lb/>
+Russen abereine Einladung nicht ausgesprochen haben. Natürlich wird bei<lb/>
+solchen Staatsempfängen auch Politik gemacht, d.h. dass klar und deutlich<lb/>
+zum Ausdruck kommt. in welche GRuppierung der betreffende Staat sich be<lb break="no"/>findet, resp. in welche GRuppierung er hineinwill oder aus welcher<lb/>
+GRuppierung er herauswill, doch trifft dies sicherlich nicht für<lb/>
+einen neutralen Kleinstaat wie Österreich zu. Hier bringt ein solcher<lb/>
+<pb n="16-0731" facs="16_1973-06-20_0731.jpg"/>Staatsbesuch eigentlich nichts als Kosten, die in keinem VErhältnis<lb/>
+zum Erfolg resp. überhaupt zum Ergebnis stehen. Da es sich um den<lb/>
+ersten Staatsbesuch aus einem afrikanischen Land gehandelt hat, wurde er<lb/>
+mit allem Pomp, der auch anderen europäischen Staatsoberhäuptern zustehen<lb/>
+würde, abgewickelt. Selbst die Kanonenschüsse fehlten nicht. Ich fürchte, dass<lb/>
+aber die geringe Anwesenheit von Ministern und des Bundeskanzlers vor allem<lb/>
+aber auch durch Krankheit bedingt des Bundespräsidenten wahrscheinlich<lb/>
+Präs. <name type="person" ref="per:149273">Senghor</name> nicht sehr befriedigt hat. Ich habe aber keinerlei konktrete<lb/>
+Mitteilungen. Mir erscheint es viel wichtiger, sich um die Gäste persönlich<lb/>
+mehr zu kümmern.</p><p xml:space="preserve">Um den jug. Unterstaatssekretär neuerdings mein besondes Intessse zu bekunden,<lb/>
+habe ich auch an den spät abends stattfindenden Schlussbesprechungen der<lb/>
+Gemischten Kommission teilgenommen. Ich war nicht sehr überrascht, dass von<lb/>
+österr. SEite nur mehr die Beamten des Ministeriums und der Handelskammer<lb/>
+anwesend waren. Die Delegation war also sehr zusammengeschrumpft. Der jug.<lb/>
+Vorsitzende verisherte mir, dass er mit der Besprechung und dem Ergebnis<lb/>
+sehr zufrieden sei. Die Unterschrift des Protokolls kann erst am Freitag<lb/>
+erfolgen, weil die endgültige Formuleriugn und Übersetzung und REinschrift<lb/>
+dlänger dauert als vorgesehen. Der Vorsitzende war sehr einverstanden, dass<lb/>
+als Gegenzeichnet der Sekt.Leiter <name type="person" ref="per:108322">Meisl</name> fungieren wird. Ich überlege, und<lb/>
+wenn meine Zeit es erlaubt, bin ich bereit, selbst bei dieser Unterzeich<lb break="no"/>nung anwesend zu sein, um den Schniter, den Botschafter <name type="person" ref="per:97802">Otto</name> eingeleitet hat,<lb/>
+wieder auszugleichen. Ich habe übrigend im Imperial <name type="person" ref="per:97632">Kirchschläger</name> von dieser<lb/>
+peinlich Situation Mitteilung gemacht.</p></div>
+      </body>
+      <back>
+         <pb n="16_0725_01" facs="16_1973-06-20_0725-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 20.6.1973</head>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+   </text>
+</TEI>

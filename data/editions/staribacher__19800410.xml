@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Donnerstag, der 10. April 1980</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band54_1980-04-10</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1980-04-10">Donnerstag, 10. April 1980</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2017-10-17">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="54-0429" facs="54_1980-04-10_0429.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Donnerstag, 10. April 1980<lb/>
+</p>
+            <p xml:space="preserve">Gesandter Dr. <name type="person" ref="per:97377">Bukowski</name> von Sofia erzählt, daß der Vizeminister<lb/>
+<name type="person" ref="per:119260">Vutev</name>, der vor einiger Zeit in Österreich war, um die bulgarischen<lb/>
+Wünsche hier durchzustoßen, in Sofia berichtete, es laufe alles<lb/>
+sehr gut. Ich habe <name type="person" ref="per:97377">Bukowski</name> sofort gesagt, daß davon keine Rede<lb/>
+sein kann. Die Tabakregie ist nicht bereit, die ungeheuren Mengen<lb/>
+von Bulgar-Tabak zu kaufen, die Bulgaren, habe ich den Verdacht,<lb/>
+möchten jetzt entsprechende Kaufzusagen von der Österreichischen<lb/>
+Tabakregie oder, noch besser, von der österreichischen Regierung<lb/>
+haben, dann behaupten sie, würden sie das große Pumpspeicherwerk<lb/>
+<choice><choice><sic>Tschedda</sic><corr>Peschtera?</corr></choice></choice> an österreichische Firmen vergeben. Die Firma Voith, GD<lb/>
+<name type="person" ref="per:97780">Nenning</name>, hat bereits in Sofia entsprechende Preisnachlässe getä<lb break="no"/>tigt und ist nach Auffassung der Bulgaren noch immer zu teuer.<lb/>
+Die Japaner sind wesentlich billiger. Die Bulgaren wollen daher<lb/>
+nur die Tabaklieferungszusagen, um dann bei anderen Geschäften zu<lb/>
+erklären, Österreich ist ja bereit, größere Mengen Tabak abzuneh<lb break="no"/>men.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte mit Tabakregie wegen der Übernahms<lb break="no"/>möglichkeiten sprechen.<lb/>
+</p>
+            <p xml:space="preserve">Der neue amerikanische Botschafter <name type="person" ref="per:123483">Kaiser</name> kam mit seinem Ge<lb break="no"/>schäftsträger oder Handelsattache <name type="person" ref="per:123485">Ambeck</name>, um sich vorzustellen.<lb/>
+<name type="person" ref="per:123483">Kaiser</name>, stellte sich heraus, ist ein Freund des ehemaligen ameri<lb break="no"/>kanischen Gewerkschaftspräsidenten AFL-CIO, <name type="person" ref="per:123484">Meany</name>, er kannte auch<lb/>
+die anderen Gewerkschaften, Brauerei Schlechter<add>[?]</add> usw. Mit ihm<lb/>
+müßten wir einen guten Kontakt aufgrund seiner Vergangenheit haben.<lb/>
+Er war 3 Jahre in Ungarn, als er dort wegging, sagte man ihm, daß<lb/>
+ist das erste Mal, daß Budapest einen Kaiser nach Österreich<lb/>
+schickt. Er bestätigte mir, daß die Politik Österreichs gegenüber<lb/>
+Ungarn richtig ist. Die Ungarn sind für jede Annäherung dankbar,<lb/>
+denn gerade von den Gewerkschaften geht eine gewisse Demokrati<lb break="no"/>sierungspolitik aus. Die ungarischen Gewerkschaften haben mit Öster<lb break="no"/>reich den besten Kontakt zu den westlichen Ländern. Dies gilt auch,<lb/>
+wie ich feststellen konnte, für die Lebensmittelarbeitergewerkschaft.<lb/>
+</p>
+            <pb n="54-0430" facs="54_1980-04-10_0430.jpg"/>
+            <p xml:space="preserve">Der Landeshauptmannstellvertreter <name type="person" ref="per:110148">Moritz</name> hat angerufen und klarge<lb break="no"/>stellt, daß er nicht die Meinung des Landeshauptmann <name type="person" ref="per:113822">Haslauer</name><lb/>
+teilt. Er sieht vollkommen ein, daß die überspitzten Forderungen<lb/>
+von <name type="person" ref="per:113822">Haslauer</name>, daß jetzt die SAFE die Salzach ausbauen soll und die<lb/>
+TKW nur zur Bauleistung herangezogen werden und vielleicht in der<lb/>
+einen oder andern Frage unbefriedigt beteiligt werden, nicht akzep<lb break="no"/>tieren kann. Er möchte aber keine Konfrontation, im Salzburgplan<lb/>
+der SPÖ wurde nämlich festgehalten, daß ein Gesamtkonzept zu er<lb break="no"/>stellen ist und daß die SAFE und die TKW, also diese beiden Gesell<lb break="no"/>schaften, eng kooperieren sollen. Ich habe <name type="person" ref="per:110148">Moritz</name> nicht im Unkla<lb break="no"/>ren gelassen, daß eine schlechtere Lösung, als sie die Direktoren<lb/>
+der TKW mit 50 zu 50 durch einen Vorvertrag festgelegt haben, nicht<lb/>
+akzeptieren würde. Selbst diese 50 zu 50 Lösung findet nicht meine<lb/>
+Zustimmung. Nur auf dieser Basis aber könnte gegebenenfalls ein<lb/>
+Kompromiß erzielt werden. <name type="person" ref="per:110148">Moritz</name> wird mit <name type="person" ref="per:113822">Haslauer</name> sprechen, da<lb/>
+er glaubt, dieser wird kaum auf meine Vorschläge einsteigen. Ich<lb/>
+hoffe, daß es den Salzburger Genossen gelingt, doch noch ein er<lb break="no"/>trägliches Kompromiß zu finden. Sollte es einigermaßen befriedi<lb break="no"/>gend sein, würde ich diesen Kompromiß nicht entgegentreten.<lb/>
+</p>
+            <p xml:space="preserve">Die Fa. Schretzmayer in Spillern, der größte Kalenderproduzent<lb/>
+Österreichs, hat sich aus kleinsten Anfängen zu einem beachtlichen<lb/>
+Betrieb mit 75 Beschäftigten und 45 Mio S Umsatz entwickelt.<lb/>
+Der Firmeninhaber <name type="person" ref="per:123529">Schretzmayer</name> war früher bei der Staatsdruckerei<lb/>
+unmittelbar nach Rückkehr aus der Gefangenschaft tätig, später ging<lb/>
+er in Vorwärts, wo er auch, nach seiner Erzählung dann, unbefriedigt<lb/>
+war. Er hat dann als Kalenderverkäufer begonnen und dann schön<lb/>
+langsam mit der Kalenderproduktion, zuerst durch Aufpicken durch<lb/>
+Deckblätter und jetzt bis zu der modernst eingerichteten Druckerei,<lb/>
+sich weiterentwickelt. Ich habe dort tatsächlich nicht Druckma<lb break="no"/>schinen, wohl aber Klebeautomaten, Falzmaschinen usw. gesehen, die<lb/>
+Unika sind. Das er auf dieses Werk sehr stolz ist, ist verständlich.<lb/>
+Der Vizebürgermeister von Spillern, einer roten Gemeinde, hat mir<lb/>
+dann erzählt, wie durch ungeschickte Politik dieser Mann, der sich<lb/>
+zuerst als Sozialist bekannt hat, als ÖVP-Mann in der Gemeinde<lb/>
+mitwirkte und jetzt sich aus der Politik zurückgezogen hat, sehr<lb/>
+tüchtig, sogar einigermaßen sozial und jetzt ein reiner Geschäfts<lb break="no"/>mann geworden ist. Die Gewerkschaft der graphischen Arbeiter war<lb/>
+<pb n="54-0431" facs="54_1980-04-10_0431.jpg"/>ebenfalls anwesend und ist mit seiner Leistung zufrieden.<lb/>
+</p>
+            <p xml:space="preserve">Ing. <name type="person" ref="per:116110">Denzel</name> hat die Werkzeugfabrik der Junior-Werke in der Steier<lb break="no"/>mark für eine Volvo-Versuchsanstalt und teilweise Produktion von<lb/>
+einzelnen Teilen gekauft. Dort hat er jetzt S 9,5 Mio. investiert.<lb/>
+U.a. muß er Geräte ankaufen, wie sie auch das List-Institut in<lb/>
+Graz besitzt. Dies sind Motorbremsen usw. Er hat um einen ERP-<lb/>
+Kredit für S 5 Mio. angesucht und leider nicht bekommen. Für Meß<lb break="no"/>einrichtungen müßte er jetzt weitere S 2 Mio investieren. Wir,<lb/>
+Min.Rat <name type="person" ref="per:97493">Gröger</name> hat ihm zugesagt, er wird ihm in jeder Beziehung<lb/>
+jetzt zweckmäßig beraten und wird auch mit der Arbeitsmarktver<lb break="no"/>waltung sprechen, um ihm mit entsprechender finanzieller Hilfe über<lb/>
+die schwierige Situation hinwegzubringen.<lb/>
+</p>
+            <p xml:space="preserve">Min.Rat <name type="person" ref="per:97493">Gröger</name> fragte mich dann unter 4 Augen, und er meinte, die<lb break="no"/>ses Gespräch wird nirgends sonst erwähnt, was er jetzt tun soll.<lb/>
+Er interessiert sich sowohl für die Industriesektion als auch für<lb/>
+die Tätigkeit im Verbundkonzern als der erfahrene Bewirtschafter<lb/>
+und Lenker. Da mir der neue Generaldirektor <name type="person" ref="per:97453">Fremuth</name> gleich nach<lb/>
+seinem Amtsantritt mitteilte, daß er als Bundeslastverteiler ein<lb/>
+unbefriedigendes Verteilungs- und Versorgungssystem vorgefunden<lb/>
+hat, muß dort in dieser Beziehung wesentlich reorganisiert werden.<lb/>
+Zu diesem Zweck braucht <name type="person" ref="per:97453">Fremuth</name> einen entsprechenden Fachmann und<lb/>
+wäre an <name type="person" ref="per:97493">Gröger</name> interessiert. Das Handelsministerium müßte ihm<lb/>
+dann eine Nebenbeschäftigungsgenehmigung geben. Ich habe <name type="person" ref="per:97493">Gröger</name><lb/>
+erklärt, er muß diese Entscheidung allein treffen. Ich habe gegen<lb/>
+seine bisherige Tätigkeit nichts einzuwenden und weiß ihn auch ent<lb break="no"/>sprechend zu schätzen.<lb/>
+</p>
+            <p xml:space="preserve">Der neue Obmann der Personalvertretung im Handelsministerium<lb/>
+<name type="person" ref="per:112989">Herold</name> kam sich vorstellen und wollte auch unter 4 Augen mir ver<lb break="no"/>sichern, daß er hofft, daß die Differenzen, die es früher gegeben<lb/>
+hat, insbes. vor der letzten Wahl mit dem Ing. <name type="person" ref="per:112947">Engelmayer</name>, nicht<lb/>
+weiter von mir der Personalvertretung angelastet werden. Ich habe<lb/>
+sofort erklärt, er bekommt den gewünschten Vertrauensvorschuß von<lb/>
+mir und ich denke nicht daran, sozusagen für meiner Meinung nach<lb/>
+unzweckmäßige Angriffe von <name type="person" ref="per:112947">Engelmayer</name> ihn jetzt verantwortlich<lb/>
+<pb n="54-0432" facs="54_1980-04-10_0432.jpg"/>zu machen. In Wirklichkeit wollte er diese 4-Augen-Aussprache,<lb/>
+weil er neuerdings wegen <name type="person" ref="per:97493">Gröger</name> intervenierte. Ich habe ihm klar<lb/>
+und deutlich gesagt, daß ich, so wie das letzte Mal, wo er als<lb/>
+Fraktionssprecher des ÖAAB gekommen ist, nicht bereit bin, der<lb/>
+Kommission vorzugreifen. Er meint, ich bräuchte nur der Kommission<lb/>
+mitteilen, daß ich <name type="person" ref="per:97493">Gröger</name> als Sektionschef wünsche. Dann würde<lb/>
+es sofort einen einhelligen Beschluß geben. Dies habe ich ihm<lb/>
+erklärt, kommt nicht in Frage, denn die Kommission wird die jetzt<lb/>
+vorliegenden 5 Anträge genau prüfen und dann mir sicherlich einen<lb/>
+Vorschlag machen. Diesen werde ich dann, wie ich dies immer ge<lb break="no"/>tan habe, bestätigen. Seit ich 1970 in das Ministerium gekommen<lb/>
+bin, habe ich, bevor eine Ausschreibungskommission vorgeschrieben<lb/>
+war, schon eine solche ähnliche Konstruktion gewählt. Ich habe<lb/>
+stets die Vorschläge, die <choice><choice><sic>wir</sic><corr>mir?</corr></choice></choice> damals der Präsidialist <name type="person" ref="per:97915">Schipper</name> ge<lb break="no"/>macht hat, immer akzeptiert. Ich warte daher ab, was die Kommission<lb/>
+mir vorschlägt.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Lebensmittelarbeiterzentralvorstandssitzung gab es wegen<lb/>
+der Sozialpolitik und ganz besonders wegen der öffentlichen Dis<lb break="no"/>kussion über Lohnerhöhungen in diesem Jahr eine berechtigte Kri<lb break="no"/>tik. Wir werden uns von irgendwelchen Aussagen, wo immer sie auch<lb/>
+herkommen, nicht beeinflussen lassen. Wir haben eine selbständige<lb/>
+Lohnpolitik gemacht und werden diese auch fortsetzen. In der<lb/>
+Sozialpolitik sind wir sowieso von den Beschlüssen des Gewerk<lb break="no"/>schaftsbundes abhängig. In der Lohn- und Kollektivvertragspolitik<lb/>
+bleiben wir sicherlich autonom.<lb/>
+</p>
+            <p xml:space="preserve">Die Internationale Modewoche, die zum ersten Mal von der Messe<lb/>
+organisiert war, war ein folgendes Zeitdesaster. Die Redner und<lb/>
+auch die Teilnehmer wurden für 8.30 Uhr eingeladen. Da das Fern<lb break="no"/>sehen angeblich für ZIB 2, 10 vor 10, live übertragen wollte,<lb/>
+hätte <choice><choice><sic>mach</sic><corr>man?</corr></choice></choice> dort 1 1/2 Stunden warten müssen, dagegen hat insbe<lb break="no"/>sondere Frau Vizebürgermeister <name type="person" ref="per:97899">Sandner</name> heftigst demonstriert. Das<lb/>
+Fernsehen erklärte, es könnte keine MAZ, das heißt Aufzeichnung<lb/>
+machen und beharrte scheinbar anfangs, daß tatsächlich die Leute<lb/>
+dort 1 1/2 Stunden rumgestanden wären, bis dann die Eröffnungs<lb break="no"/>ansprachen gekommen wären. Eröffnungsansprachen wären sowieso<lb/>
+<pb n="54-0433" facs="54_1980-04-10_0433.jpg"/>nicht übertragen worden, sondern nur dann die Modeschau. Letzten<lb/>
+Endes ging es dann aber doch mit 3/4-stündiger Verspätung los.<lb/>
+Das Fernsehen hat dann scheinbar doch eine MAZ aufgezeichnet.<lb/>
+Präsident <name type="person" ref="per:97893">Sallinger</name> hat mir bei dieser Gelegenheit mitgeteilt, er<lb/>
+rechnet fest, daß <name type="person" ref="per:97769">Mussil</name> jetzt Präsident des Aufsichtsrates der<lb/>
+Verbundgesellschaft wird. Ich habe ihm erklärt, ich werde jetzt<lb/>
+eine Aussprache mit <name type="person" ref="per:97769">Mussil</name> haben, die Ablehnung der Betriebsräte,<lb/>
+aber auch weiterer Kreise der sozialistischen Fraktion hoffe ich<lb/>
+durch eine Kompromißlösung beseitigen zu können. Ich würde größten<lb/>
+Wert darauf legen, daß <name type="person" ref="per:97769">Mussil</name> einstimmig als Präsident gewählt wird.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Wann wurde der Aussprachetermin mit <name type="person" ref="per:97769">Mussil</name><lb/>
+endlich vereinbart.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="54_0428_01" facs="54_1980-04-10_0428-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 10.4.1980</head>
+         </div>
+         <pb n="54_0428_02" facs="54_1980-04-10_0428-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

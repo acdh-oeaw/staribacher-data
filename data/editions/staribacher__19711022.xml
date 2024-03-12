@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der 22. Oktober 1971</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band08_1971-10-22</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1971-10-22">Freitag, 22. Oktober 1971</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-09-11">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="08-1229" facs="08_1971-10-22_1229.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Freitag, 22. Oktober 1971.<lb/>
+</p>
+            <p xml:space="preserve">Landesrat <name type="person" ref="per:98037">Vogl</name>, Stadtrat <name type="person" ref="per:97772">Nekula</name> und Gen.Direktor <name type="person" ref="per:97865">Reisinger</name> <choice><choice><sic>sollen</sic><corr>wollen?</corr></choice></choice><lb/>
+für ihre Länder grössere Erdgasmengen. Die ÖMV verhandelt derzeit<lb/>
+mit der Sowjetunion um grössere Erdgasmengen für Österreich zu<lb/>
+erreichen. Die genannten befürchten nun, dass die ÖMV nicht ihre<lb/>
+ganze Verhandlungskraft einsetzt, um wirklich grössere Mengen<lb/>
+zu bekommen. Sie vermuten, dass die ÖMV Interesse daran hat,<lb/>
+dass ihre Öl- und Gasmengen aus dem Inland günstig verkauft werden<lb/>
+können und deshalb nicht mit allem Nachdruck die Erhöhung der<lb/>
+Gasmengenlieferung aus der SU verlangt. Ich widersprach dieser<lb/>
+Idee, denn ich weiss, dass die SU derzeit ausserstande ist, zu<lb/>
+den 1 1/2 Mia. m³ noch 3 Mia. im nächsten Jahrzehnt zu liefern. <name type="person" ref="per:97865">Rei<lb break="no"/>singer</name> erklärt, dass die SU derzeit für 28 Mia. m³ eingestellt ist.<lb/>
+10 Mia. Italien, 7 Mia. die BRD, 7 Mia. DDR, 3 Mia. Österreich, 1 Mia.<lb/>
+Brennergas für die Kompressorenstationen. Von einem Gespräch mit<lb/>
+den csl. Vertretern hätte er erfahren, dass die SU 40 Mia. bereitstel<lb break="no"/>len würde, davon 12 Mia. für die BRD, 10 Mia. Italien, 7 Mia. DDR,<lb/>
+6 Mia. CSSR, 2 1/2 Mia. Frankreich, 3 Mia. Österreich und 1 Mia. Brenner<lb break="no"/>gas Kompressoren. Die Ruhrgas hat ihre ursprünglich 4 Mia. jetzt<lb/>
+auf 7 Mia. erhöht. Darüber hinaus gibt es noch eine Firma Brigitta,<lb/>
+die zusätzlich Gas nach Westdeutschland bringen will und die bereit<lb/>
+wäre, eine Gleitklausel zu akzeptieren, wo die Russen ihre Preis<lb/>
+nach Energieabgabepreisen berechnen könnten. Wenn diese Auffassungen<lb/>
+stimmen, dann glaubt <name type="person" ref="per:97865">Reisinger</name> könnte man auch für Österreich eine<lb/>
+grössere Gasmenge bekommen. Die Landesgesellschaften sind glaube<lb/>
+ich noch immer sehr misstrauisch, weil es uns gelungen ist, die<lb/>
+<choice><choice><sic>Austro-Ferngas</sic><corr>Austria Ferngas</corr></choice></choice> von den Verhandlungen mit der SU auszuschalten.<lb/>
+</p>
+            <pb n="08-1230" facs="08_1971-10-22_1230.jpg"/>
+            <p xml:space="preserve">Ursprünglich hätten die Länder nämlich jede Einzelne Gesellschaft<lb/>
+oder die <choice><choice><sic>Austroferngas</sic><corr>Austria Ferngas</corr></choice></choice> für alle mit der SU verhandelt und das Endergebnis<lb/>
+wäre garantiert gewesen, dass dann die Sowjets unsere Gesellschaften<lb/>
+gegenseitig ausgespielt hätten. Ich versuchte, wenn die Landesgesell<lb break="no"/>schaften bemerken sollten, dass die ÖMV tatsächlich nicht alles daran<lb break="no"/>setzt, um grössere Mengen sowj. Erdgases zu bekommen, dann müssten sie<lb/>
+mir dies sofort mitteilen, und konkrete Unterlagen liefern, denn in<lb/>
+diesem Falle würde ich das Alleinvertretungsrecht der ÖMV streitig<lb/>
+machen. Wir haben nämlich auch vom aussenhandelspolitischen Ge<lb break="no"/>sichtspunkt grösstes Interesse daran, jede Erdgasmenge und Ölmenge<lb/>
+aus der SU, die einigermassen preiswert ist, zu erwerben. Die Genannten<lb/>
+waren mit dieser Vorgangsweise sehr einverstanden und insbesondere<lb/>
+sehr befriedigt, als sie den Bescheid-Entwurf lasen, der der ÖMV<lb/>
+die Betriebsgenehmigung für das italienische Erdgas-Durchleitungs<lb break="no"/>projekt lesen liess.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Bitte, mit unbedingt den Tagesablauf der Sitzung<lb/>
+mit der sowj. Arbeitsgruppe der Gemischten Kommission über Erdgas stän<lb break="no"/>dig zu berichten, ich muss an einem Teil dieser Sitzungen unbedingt teil<lb break="no"/>nehmen.</p>
+            <p xml:space="preserve"><add>Mit</add> Stadtrat <name type="person" ref="per:97772">Nekula</name> und <name type="person" ref="per:97865">Reisinger</name> besprach ich dann ihre zukünftige Preis<lb break="no"/>politik. In der Zeitung wurde nämlich mitgeteilt, welche Preiser<lb break="no"/>höhungen die einzelnen Stadtwerke beabsichtigen. Durch die Umstellung<lb/>
+von Gas auf Megakalorien, die seinerzeit mit 1000 Kalorien = 20,43<lb/>
+Groschen festgelegt wurden, dies entspricht einem Satz von 96 Groschen<lb/>
+pro m³, sind die Gaswerke befriedigt und werden keinerlei Preiserhöhungen<lb/>
+verlangen. Auf dem Elektrizitätssektor mit derzeit 61 Groschen kWh<lb/>
+will die Elektrizitätsgesellschaft aber nachdem sie 35,1 % Fremdstrom<lb/>
+bezieht, eine wesentliche Preiserhöhung in der Grössenordnung von<lb/>
+ca. 20 %. Die E-Wirtschaft <choice><choice><sic>haber</sic><corr>hat?</corr></choice></choice> aber auch in Wien einen Gewinn von<lb/>
+300 Mill. pro Jahr, braucht allerdings, wie <name type="person" ref="per:97865">Reisinger</name> sich ausdrückte,<lb/>
+viel Eigenkapital um den Ausbau der Energie und insbesondere der<lb/>
+Übertragungseinrichtungen zu gewährleisten. Ich wies darauf hin, dass<lb/>
+die Voraussetzung eines Preisantrages und der Ge<lb break="no"/>nehmigung nicht kalkulatorische Wünsche sind, sondern nur auf Grund<lb/>
+der Kostenlagen eine solche erfolgen kann. Wichtig ist, dass durch<lb/>
+diese Preisbestimmung Betriebe, die mit Fremdkapital arbeiten. besser<lb/>
+dran sind, dort wird die Verzinsung des Fremdkapitals, auch wenn es<lb/>
+8 oder 9 % beträgt, als Ausgabeposten anerkannt. Wir dagegen mit<lb/>
+<pb n="08-1231" facs="08_1971-10-22_1231.jpg"/>Eigenkapital gearbeitet, so wird ein maximaler Ansatz von 2 % Verzinsung<lb/>
+akzeptiert. Ich wies darauf hin, dass die Energiepreisfrage derzeit<lb/>
+noch bei <name type="person" ref="per:97461">Frühbauer</name> liegt und sie – wenn sie Glück haben – vielleicht<lb/>
+dort früher ihre Preise genehmigt bekommen als bis in einem meinem<lb/>
+Ministerium alle Preisagenden und Energieagenden konzentriert sind.<lb/>
+Bei der Strassenbahn wollen sie einen sogenannten Schock-Tarif<lb/>
+einführen. Derzeit erlöst bei einem Verkaufspreis von 5.- S für<lb/>
+die Fahrt die Strassenbahn nur 2.39 S im Durchschnitt. Im internatio<lb break="no"/>nalen Massstab sind die Tarif aber 7.– - 7.50 pro Fahrt. Sie wollen des<lb break="no"/>halb als Schock-Tarif von 5.– auf 7.– S die Preise erhöhen, um<lb/>
+das Defizit von 644 Mill. S einigermassen abzudecken. Die Sozial<lb break="no"/>tarife, die derzeit eine Ermässigung um 50 % haben, sollen dann<lb/>
+ebenfalls auf 40 % Ermässigung gesenkt werden. <name type="person" ref="per:97772">Nekula</name> meint, dass<lb/>
+in einer Hochkonjunktur nicht ein Sozialtarifabschlag von 50 %<lb/>
+machen kann, der in einer Krisenzeit, in den 29er-Jahren oder 30er-<lb/>
+Jahren vielleicht berechtigt war. Um die Konsumenten d.h. die Fahr<lb break="no"/>gäste zum Kauf der Vorverkaufsfahrscheine zu bewegen, soll der Vor<lb break="no"/>verkaufsfahrschein, wie er sich sagt, wesentlich ermässigt werden.<lb/>
+In Wirklichkeit aber will er den derzeitigen Preis von 4.– S auf<lb/>
+5.50 S erhöhen. Richtig ist, dass sich dadurch der absolute Abstand,<lb/>
+der derzeit einen Schilling beträgt, sich auf 1,50 S erhöhen würde.<lb/>
+Gleichzeitig aber ist dies kein besonderer Anreiz, der Schaffner-<lb/>
+Fahrschein würde sich nämlich um 20 % erhöhen, während der Vorver<lb break="no"/>kaufsfahrschein, wenn er von 4.– auf 5.50 S geht, um 33 % sich er<lb break="no"/>höhen würde. Ich glaube überhaupt, dass die Überlegungen <name type="person" ref="per:97772">Nekulas</name><lb/>
+falsch sind. Vor allem meint er, man müsste jetzt sehr schnell<lb/>
+die Tarife erhöhen, denn im Jahre 1973 seine schon wieder Wahlen<lb/>
+und deshalb könne man vor dem Wahlen so etwas nicht machen, aber<lb/>
+jetzt sei der richtige Zeitpunkt. Bei der Gemeinde herrscht noch immer<lb/>
+das System, vor Wahlen nichts zu machen, aber nach den Wahlen<lb/>
+dann unverzüglich entsprechende Preiserhöhungen oder ungünstige Ge<lb break="no"/>setze zu erlassen. Ich glaube, dass das Image der Gemeindeverwaltung<lb/>
+damit systematisch und schön langsam ruiniert wird. Viel zielführender<lb/>
+müsste es sein, kontinuierliche Massnahmen zu setzen, ob sie angenehm<lb/>
+oder unangenehm sind. Die Politik, die sich nur auf Wahlen ausrichtet<lb/>
+muss früher oder später Schiffbruch erleiden. Schliesslich wird in<lb/>
+einer Demokratie, wo man Gemeinderat, Landtagswahlen, Nationalrats<lb break="no"/>wahlen, Bundespräsidentenwahlen, Betriebsratswahlen, Gewerkschafts<lb break="no"/>wahlen, Arbeiterkammerwahlen, Handelskammerwahlen, Landwirtschafts<lb break="no"/><pb n="08-1232" facs="08_1971-10-22_1232.jpg"/>kammerwahlen und ich weiss nicht was Gott noch für welche Wahlen<lb/>
+hat, niemals einen richtigen Zeitpunkt finden, wo man sagen kann,<lb/>
+jetzt können wir die ganzen unangenehmen Sachen machen. Die einzige<lb/>
+Lösung sehe ich darin, dass man versucht, unabhängige Organisations<lb break="no"/>formen wie z.B. selbständige Unternehmungen usw. zu finden, die<lb/>
+nach wirtschaftlichen Gesichtspunkten vorgehen und die man dann, nach<lb break="no"/>dem sie garantiert höhere Forderungen stellen, als dies begründet ist,<lb/>
+von staatlicher, oder Landes- oder Gemeinderahmen entsprechend kontrol<lb break="no"/>liert und drückt.<lb/>
+</p>
+            <p xml:space="preserve">Ich habe diese Taktik bei der KFZ-Haftpflichtversicherung versucht<lb/>
+und glaube auch mit Erfolg gespielt und ich werde dies auch bei der<lb/>
+Benzinpreisfrage tun. Ich habe bereits jetzt die indirekte Zusicherung<lb/>
+der Arbeiterkammer, mit einer Benzinpreiserhöhung von 25 Groschen<lb/>
+einverstanden wäre. <name type="person" ref="per:114598">Hruby</name> zumindestens, der Vertreter der Arbeiter<lb break="no"/>kammer, hat mir die ausdrücklich erklärt, obwohl <name type="person" ref="per:98112">Zöllner</name> meinte,<lb/>
+er sollte sich nicht so hinauflizitieren. <name type="person" ref="per:98112">Zöllner</name> selbst ist aber<lb/>
+auch überzeugt, dass wir mindestens 20 Groschen bezahlen müssen. Wenn<lb/>
+es mir nun gelingt, auch die Kraftfahrverbände davon zu überzeugen,<lb/>
+dann bleibt mir nur mehr die Aufgabe, die Benzinunternehmungen, d.h.<lb/>
+die ÖMV und die internationalen Gesellschaften damit zu konfron<lb break="no"/>tieren und letzten Endes ihre Zustimmung zu erreichen. Bei der Ge<lb break="no"/>meinde Wien würde ich den Stadtwerken einen kostendeckenden Tarif<lb/>
+ausarbeiten lassen, diesen dann durch eine Indiskretion oder viel<lb break="no"/>leicht sogar ganz offiziell der Öffentlichkeit mitteilen, um dann<lb/>
+als Gemeindevertretung zu erklären, dass ich mit Verhandlungen und<lb/>
+jetzt würde ich ebenso mit den Interessenvertretungen und mit allen<lb/>
+erdenklichen und unerdenklichen Stellen Besprechungen aufnehmen, um<lb/>
+dann zu einem Kompromiss zu gelangen, das alle als richtig empfinden<lb/>
+würden. Gleichzeitig aber mit einer solchen Preispolitik wäre es not<lb break="no"/>wendig, eine gewisse Verbesserung auch anzubieten. Ich halte es<lb/>
+eben für notwendig, dass man, wenn man eine Belastung der Konsumenten<lb/>
+schon in Aussicht stellen muss, dann auch gleichzeitig entsprechende<lb/>
+Verbesserungen damit verbinden sollte. Ich habe es nie verstanden,<lb/>
+dass die Gemeindeverwaltung zwischendurch doch gewisse Erleichterungen<lb/>
+gewisse Linienführungen im Interesse der Fahrgäste ändert und nicht<lb/>
+gleichzeitig zuwartet, bis sie entsprechende allgemeine Erhöhungen<lb/>
+durchführen muss, oder diese Erhöhungen zu diesem Zeitpunkt gleich<lb/>
+auszumachen.<lb/>
+</p>
+            <pb n="08-1233" facs="08_1971-10-22_1233.jpg"/>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> war leicht erkrankt und deshalb hat <name type="person" ref="per:97311">Androsch</name>, <name type="person" ref="per:98034">Veselsky</name> und<lb/>
+ich allein die oberösterreichischen Genossen empfangen und mit<lb/>
+ihnen die Probleme besprochen. <name type="person" ref="per:134509">Demuth</name> hatte eine Vorbesprechung mit<lb/>
+<name type="person" ref="per:97311">Androsch</name> über die EBG, d.h. die Elektrobau Linz, wo scheinbar – ich<lb/>
+kam gerade zum Schluss dazu – <name type="person" ref="per:134509">Demuth</name> <name type="person" ref="per:97311">Androsch</name> auseinandersetzte, er<lb/>
+möchte einen Aufsichtsrat jetzt bestellen, damit die Gesellschaft<lb/>
+aus der öffentlichen Verwaltung herauskommt und dann die Aufsichts<lb break="no"/>organe, Aufsichtsrat und Vorstand insbesondere entsprechende Vor<lb break="no"/>schläge ausarbeiten. Bei der Besprechung mit den Genossen der EBG<lb/>
+meinte dann <name type="person" ref="per:134509">Demuth</name>, er möchte meine Zeit nicht so sehr in Anspruch neh<lb break="no"/>men und ich bräuchte doch nicht anwesend sein. <name type="person" ref="per:97311">Androsch</name> stellte mir<lb/>
+dies vollkommen frei, doch unter diesen Umständen zog ich es vor, die<lb/>
+Sitzung zu verlassen. Ich nehme an, dass <name type="person" ref="per:134509">Demuth</name> befürchtet hat, ich<lb/>
+würde gegen die Ideen Stellung nehmen. Zur Sprache während<lb/>
+meiner Anwesenheit kam erstens SAKOG. Die Gesellschaft hat mit 650 Be<lb break="no"/>schäftigten voriges Jahr 7,9 Mill. S Bergbauförderung bekommen, hat<lb/>
+1971 8,2 Mill. in Aussicht und ein Bugdetüberschreitungsgesetz, welches<lb/>
+ihnen noch 10 Mill. S Bergbauförderung bringen wird. Die Verluste<lb/>
+betragen aber im Jahre 1970 bereits 22 Mill. und durch den Schwemm<lb break="no"/>sandeinbruch werden sie sich noch wesentlich vergrössern. Sie wollen<lb/>
+deshalb ähnlich wie gestern die WTK-Betriebsräte 20 S pro Tonne<lb/>
+Bergbauförderung zugesichert. Ausserdem möchten sie eine Kapital<lb break="no"/>aufstockung, da das Eigenkapital nur 28 Mill. S beträgt. Eine Kapi<lb break="no"/>talaufstockung in Höhe von 10 Mill. S würde für den Bund 4 Mill.,<lb/>
+OÖ 3,8, Salzburg 1,6 <choice><choice><sic>%</sic><corr>?</corr></choice></choice> und den Rest der privaten, Firma Stern &amp;<lb/>
+Hafferl bedeuten. Darüber hinaus wünschen sie noch eine Entschuldungs<lb break="no"/>aktion der ERP-Kredite, wo sie 100 Mill. S erhalten haben und 35,6<lb/>
+bis jetzt getilgt sind. 40 Mio. S haben sie für diesen ERP-Kredit<lb/>
+Zinsen zahlen müssen und 3,4 Mill. Wechselstempel. Ähnlich wie<lb/>
+das bei Tauchen, Grünbach und Mühlbach der Fall war, wünschen sie<lb/>
+nun eine schuldenbefreiende Tilgung, d.h. der Bund müsste ihnen diese<lb/>
+ERP-Schulden <choice><choice><sic>ertreten</sic><corr>?</corr></choice></choice>, da nämlich eine Streichung der ERP-Schuld<lb/>
+nicht möglich ist. Der Umsatz von SAKOG beträgt derzeit 100 Mill. S,<lb/>
+wobei 400.000 t gefördert werden. 100.000 t gehen in den Hausbrand und<lb/>
+40.000 zur ÖBB, 840.000 Grobkohle. Von der Feinkohle gehen 170.000<lb/>
+nach Riedersbach ins OKA-Kraftwerk und 90.000 ins Fernheizwerk nach<lb/>
+Salzburg. Riedersbach wurde seinerzeit mit 50 MW errichtet, hat<lb/>
+350 Mill. S Investitionen der OKA gekostet und ist natürlich viel<lb/>
+zu klein und arbeitet derzeit nur deshalb aktiv, weil die OKA für<lb/>
+diese Kohle 51.– S 10^6 Wärmeeinheiten bezahlt, in Wirklichkeit aber,<lb/>
+<pb n="08-1234" facs="08_1971-10-22_1234.jpg"/>wenn man noch die Abschläge dazurechnet, nur 49.– S. Die OKA<lb/>
+ist nun bereit, wie Direktor <name type="person" ref="per:137890">Karlhuber</name> und <name type="person" ref="per:137891">Stipanitz</name> ausführten,<lb/>
+den Preis für die SAKOG-Kohle von 49.–, d.h. 51.– offiziell auf<lb/>
+68 zu erhöhen. 68.– S ist derzeit der Preis für die WTK. Tatsächlich<lb/>
+bekommt die WTK aber nur 64.– S und würde bei einer 15 %-igen Er<lb break="no"/>höhung des Strompreises auf Grund der Gleitklausel 78.– S 10^6 Wärme<lb break="no"/>einheiten bekommen, d.h. mit anderen Worten, dass sie dann erst den<lb/>
+Preis erhält, den die ÖDK jetzt bereits der GKB bezahlt. Da die<lb/>
+OKA heuer 30 EVU übernehmen muss, hat sie eine angespannte finanzielle<lb/>
+Lage und wird wahrscheinlich im Jahre 1971 passiv gebaren. Bei der<lb/>
+Wolfsegg-Traunthaler wurde mit den Betriebsräten besprochen, dass<lb/>
+die Kohlengrube <choice><choice><sic>Gittnei</sic><corr>Gittmaiern?</corr></choice></choice><add>[mit]</add> 98 Beschäftigten und Hinterschlagen mit 239<lb/>
+Beschäftigten zur Stillegung vorgesehen sind und wahrscheinlich auch<lb/>
+in der nächsten Zeit stillgelegt werden sollten. Durch die Stillegung<lb/>
+der Sortieranlage können weitere 60 Beschäftigte eingespart werden,<lb/>
+wenn es zu einem Abschluss auf diesem Sektor kommt. In diesem Fall<lb/>
+müsste dann die OKA die gesamte Kohle, die noch in Wolfsegg-Traunthal<lb/>
+gefördert werden, als Stromkohle abnehmen. Auf alle Fälle aber ist eine<lb/>
+Reorganisation des aufgeblähten Verwaltungsapparates dingend notwendig.<lb/>
+Selbst <name type="person" ref="per:134509">Demuth</name> musste zugeben, dass sich die WTK nicht derzeit 3 Direk<lb break="no"/>tionen, eine in Linz, eine in Thomasroith und eine in Ampflwang leisten<lb/>
+können. Die WTK hat ausserdem jetzt die Idee, dass sie sich, wenn<lb/>
+der Staat ihr das Geld gibt, finanziell an anderen Firmen beteiligt.<lb/>
+U.a. wird die GFM in Ampflwang einen Betrieb errichten. 50 % der<lb/>
+Aktien könnten nun von der <name type="person" ref="per:137894">Ottitzky</name>, das ist der verstorbene Besitzer,<lb/>
+erworben werden. für 150 Mill. S sind Amerikaner angeblich bereit,<lb/>
+dieses Aktienpaket zu kaufen. Die VÖEST hätte nun auch grosses Inter<lb break="no"/>esse und möchte 35 % und 15 % glaubt die WTK deshalb für sich ver<lb break="no"/>langen zu können, weil die Investitionen, die sie in Ampflwang macht,<lb/>
+dazu führen würde, dass sie dann auch kapitalmässig an der Gesell<lb break="no"/>schaft beteiligt ist. <name type="person" ref="per:97311">Androsch</name> erwiderte sofort, dass dies gar keinen<lb/>
+Sinn hat, denn sie würden doch für diese 15 % ein verhältnismässig<lb/>
+hohes Agio zahlen müssen und dadurch zu einer Berechnung resp. Verzinsung<lb/>
+ihres Anteils kommen, der weit unter dem Sparzinssatz von 3,5 % liegt.<lb/>
+Da meint er, ist es doch besser, sie legen, wenn sie ein Geld haben,<lb/>
+dies gleich auf die Sparkasse und können damit mehr erwirtschaften,<lb/>
+als wenn sie sich an einem Kauf beteiligen. Natürlich wird <name type="person" ref="per:97315">Apfalter</name><lb/>
+sehr interessiert daran sein, jemanden noch mitzunehmen, denn er<lb/>
+<pb n="08-1235" facs="08_1971-10-22_1235.jpg"/>kann dann mit 35 % Anteil genau dasselbe erreichen, was er sonst<lb/>
+bei 50 % Anteil auch nur erreichen könnte. Die WTK dürfte primär<lb/>
+daran interessiert sein, sich an anderen Firmen zu beteiligen,<lb/>
+um insbesondere ihren grossen Verwaltungsapparat aufrechterhalten<lb/>
+zu können. Wir kamen überein, dass über diese Kohlenprobleme unver<lb break="no"/>züglich ein Komitee eingesetzt werden soll, welches ent<lb break="no"/>sprechende Vorschläge betreffend die Kapitalaufstockung, die Entschul<lb break="no"/>dungsaktion, aber auch die Stillegung der Betriebe und vor allem<lb/>
+auch der Preisgestaltung der Kohle für die Stromerzeugung uns ent<lb break="no"/>sprechend konkrete Vorschläge unterbreiten soll.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: Bitte ohne den politischen Background <name type="person" ref="per:108609">Sterk</name> ent<lb break="no"/>sprechend zu informieren und zu veranlassen, dass er ein solches Ela<lb break="no"/>borat unverzüglich im Einvernehmen mit dem Finanzministerium, aber<lb/>
+auch der Gewerkschaft und den Grubengesellschaften ausarbeitet.<lb/>
+</p>
+            <p xml:space="preserve">Von der Gewerkschaft war <name type="person" ref="per:111741">Sekanina</name> anwesend, der sich insbesondere<lb/>
+gegen meine Stillegungsandeutungen ausgesprochen hat. Ich glaube,<lb/>
+dass diese Stellungnahme aber nur deshalb erfolgte, weil eben<lb/>
+Betriebsräte anwesend waren. Ich habe nämlich bei den Besprechungen<lb/>
+mit den Betriebsräten am Vortag bereits erkennen können, dass die<lb/>
+auf eine Reorganisation des Verwaltungsapparates positiv reagieren<lb/>
+würden und dass vor allem aber einmal, wenn es zu einer Verlängerung<lb/>
+der vorzeitigen Pensionsmöglichkeit für die Bergarbeiter kommt,<lb/>
+bereit wären, einem Übergang zur Stillegung so schnell wie möglich zu<lb/>
+finden.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Bitte mit Sozialministerium klären, dass eine<lb/>
+solche Verlängerung unbedingt durchgeführt wird. Allerdings wird es<lb/>
+zielführend sein, den Bergarbeiter heute wissen zu lassen, dass sie<lb/>
+schnell wie möglich von diesem Gesetz Gebrauch machen sollten, falls<lb/>
+doch nicht eine Verlängerung ins Auge gefasst wird.<lb/>
+Andererseits aber müsste eine solche Verlängerung tatsächlich vom <choice><choice><sic>SM</sic><corr>Sozialministerium</corr></choice></choice><lb/>
+bereits vorbereitet werden.<lb/>
+</p>
+            <p xml:space="preserve">Bei Ranshofen möchte die Landesregierung d.h. die Genossen in OÖ vor<lb/>
+allem eine endgültige Klärung, ob die Elektrolyse in Angriff ge<lb break="no"/>nommen wird. Tatsächlich ist es so, dass jetzt bereits fertige Werke<lb/>
+in der Welt nicht in Produktion gehen können, weil eine derartige<lb/>
+<pb n="08-1236" facs="08_1971-10-22_1236.jpg"/>Überkapazität besteht. Es wurde nun von <name type="person" ref="per:98034">Veselsky</name> eine Kommission<lb/>
+eingesetzt, die ab 1. Oktober arbeitet und sich aus zwei Arbeitern,<lb/>
+zwei Angestellten und vier Prokuristen von Ranshofen zusammensetzt.<lb/>
+Die Überkapazität in der Welt wird eine Produktionsaufnahme von<lb/>
+zusätzlicher Aluminiumgewinnung in vier Jahren in optimistischem<lb/>
+Fall, in pessimistischem Fall erst in 10 Jahren ermöglichen. Alle<lb/>
+sind deshalb froh, dass wir noch nicht diese Elektrolyse begonnen<lb/>
+haben oder gar vielleicht fertig sind. Darüber hinaus aber muss Ranshofen<lb/>
+auf Grund des Vertrages jetzt für 20 Megawatt nicht 19,75 Groschen be<lb break="no"/>zahlen und ab November wird sich dieser Preis auf 32.5 Groschen er<lb break="no"/>höhen. Hier handelt es sich um einen Notklauselvertrag und es kann<lb/>
+deshalb niemand sich dagegen aussprechen. <name type="person" ref="per:97311">Androsch</name> meinte allerdings,<lb/>
+dass aus politischen Gründen es zielführend wäre, dass man in Ranshofen<lb/>
+vorsichtiger vorgeht, denn bei den letzten Ergebnissen hat insbesondere<lb/>
+im Bezirk Braunau die Kommunisten sehr gut abgeschnitten.<lb/>
+</p>
+            <p xml:space="preserve">Bei Erdgas möchte die OÖ. Ferngasgesellschaft die derzeit nur 250 Mio.<lb/>
+m³, die sie von der RAG resp. von der ÖSW übernimmt, eine grössere<lb/>
+Menge von der ÖMV zukaufen. Der Bedarf wird derzeit auf 5 Mio. m³ ge<lb break="no"/>schätzt. Die ÖMV hat nun, obwohl sie wie Direktor <name type="person" ref="per:137890">Karlhuber</name> mir<lb/>
+sagte, der Niogas um 45.– S angeboten hat, der ÖSW, den Stickstoff<lb break="no"/>werken, nur um 54.– S das Gas zur Verfügung stellen wollen. Dieser<lb/>
+Preis ist zu hoch und deshalb möchte die OÖ. Ferngasgesellschaft,<lb/>
+dass sie mit der ÖMV nicht nur verhandeln könnte<lb/>
+sondern dass wir uns auch positiv einschalten.<lb/>
+</p>
+            <p xml:space="preserve">Auf Intervention von Landwirtschaftskammerpräsidenten <name type="person" ref="per:97691">Lehner</name> hat<lb/>
+sich der Direktor der Unilever <name type="person" ref="per:97936">Seefranz</name> bei <name type="person" ref="per:98055">Weihs</name> gemeldet und<lb/>
+hat mich auch ersucht, zu dieser Besprechung zu kommen. <name type="person" ref="per:97936">Seefranz</name><lb/>
+erklärte, dass sie den Rahmenpreis von derzeit 5.20 auf 5.70<lb/>
+mit 1. Jänner erhöhen müssen. Rama wird derzeit 16.000 t erzeugt<lb/>
+und Thea 14.000 t. Die neue Margarinesorte, feine Thea, die 4.70<lb/>
+gegenüber 3.70 der normalen Thea kostet, wird nun einen Teil der<lb/>
+Rama-Produktion und einen Teil der Thea-Produktion an sich ziehen.<lb/>
+Insgesamt nimmt man an, dass sich in Hinkunft Rama und feine Thea<lb/>
+ungefähr den Markt dritteln werden. d.h. jeweils 10.000 t abgesetzt<lb/>
+werden können. Die durch eine Gesundheitswerbung, da sie nur von<lb/>
+Sonnenblumenkernen erzeugt wird, neue Margarinesorte Vita hat<lb/>
+erst 1.300 t und maximal 4 % des Umsatzes. Darüber hinaus muss die<lb/>
+Unilever mit 1. Jänner auch ihre Speiseölpreise nachziehen.<lb/>
+</p>
+            <pb n="08-1237" facs="08_1971-10-22_1237.jpg"/>
+            <p xml:space="preserve">Alle anderen Speiseölproduzenten haben ihre Preise um 17 % erhöht,<lb/>
+dies hat nämlich der Kostenindex ausgewiesen. Bona selbst ist mit 22.– S<lb/>
+pro kg unverändert geblieben und soll auf 24.– S pro kg erhöht werden.<lb/>
+Die hauptsächlichste Begründung liegt in den erhöhten Rohstoffpreisen<lb/>
+die 1965 als der Bona-Preis fixiert wurde, 220.– $ je t betragen haben<lb/>
+und nun auf 388 $ je t gestiegen ist. Bei der Konsumgenossenschaft<lb/>
+konnte ich aber nachweisen, dass Bona mit 3-l-Flaschen und 44.–<lb/>
+verkauft wird. Da nun der kg-Preis dadurch 3 l Öl sind 2.70 kg 50.–<lb/>
+S nur beträgt, müssen ganz beträchtliche Spannenmöglichkeiten hier<lb/>
+existieren, <name type="person" ref="per:97936">Seefranz</name> gab zu, dass die Handelsspanne vor der Umsatz<lb break="no"/>steuer 20 % beträgt und dass darüber hinaus die Unilever ca. 1,5 Mio.<lb/>
+S im Vorjahr für Aktionen zur Verfügung gestellt hat, wo die Diskonter<lb/>
+2–3 % zusätzlichen Rabatt bekommen haben. <name type="person" ref="per:97936">Seefranz</name> wollte von<lb/>
+mir eine Zusicherung haben, dass wenn sie mit 1.1. diese Preise erhö<lb break="no"/>hen, wir dagegen nichts einwenden werden. Ich selbst für meine Per<lb break="no"/>son erklärte, dass ich derzeit noch nicht zuständig bin, dass ich<lb/>
+ihm aber bereits vor Monaten erklärt habe, er müsse sich an die Pari<lb break="no"/>tätische Kommission wenden, dort würde er seine entsprechenden Zu<lb break="no"/>stimmungen oder Abschläge von seinen Wünschen bekommen. Wir selbst<lb/>
+oder ich persönlich habe ihm keine wie immer geartete Zusage ge<lb break="no"/>macht. <name type="person" ref="per:98055">Weihs</name> selbst meinte nur während der Diskussion, wenn es zu<lb/>
+Rohstoffpreiserhöungen in dem angeführten Ausmass kommt, dann könnte<lb/>
+man auch eine entsprechende Verbraucherpreiserhöhung nicht verhindern.<lb/>
+Ich selbst habe das Gefühl, dass <name type="person" ref="per:98055">Weihs</name> natürlich im Interesse auch<lb/>
+der Landwirtschaft und der Bauern ganz gerne sieht, wenn sich<lb/>
+die Kunstfettpreise und die Ölpreise ein bisschen erhöhen. Dies<lb/>
+gilt insbesondere auch deshalb, weil er ja doch das neue Rapsabkommen<lb/>
+unter Dach und Fach bringen möchte. Mein Einwand, dass in Wirklich<lb break="no"/>keit nur 3 grosse Rapsproduzenten nämlich die Gemeinde Wien, Liechten<lb break="no"/>stein und dann in der Steiermark eine grössere Firma ein Drittel des<lb/>
+Rapsabsatzes darstellen hat <name type="person" ref="per:98055">Weihs</name> nicht gelten lassen, da er auf<lb/>
+dem Standpunkt steht, man müsse auch im Interesse einer eventuellen<lb/>
+Ölknappheit auf dem Weltmarkt infolge von kriegerischen Ereignissen<lb/>
+oder gespannter Lage eine heimische Fettproduktion auch auf dem<lb/>
+Pflanzenfettsektor aufrechterhalten. Ich teile diese Meinung keines<lb break="no"/>falls.<lb/>
+</p>
+            <pb n="08-1238" facs="08_1971-10-22_1238.jpg"/>
+            <p xml:space="preserve">Das Fernsehen dreht einen neuen Stundenfilm über die Filmförderung. Zu<lb/>
+diesem Behufe musste ich einige Statements abgeben und konnte erfahren,<lb/>
+dass das Fernsehen wirklich dieses Problem ganz gross angeht. Zum<lb/>
+Glück habe ich in den vergangenen Monaten ich sehr entscheidende Ver<lb break="no"/>handlungen mit der Produktion, dem Vertrieb, aber auch mit den Lichtspiel<lb break="no"/>theatern geführt und wir können, obwohl ein Gesetz bis jetzt noch nicht<lb/>
+ausgearbeitet haben, doch auf eine gewisse Tätigkeit hinweisen. Ich glaube,<lb/>
+dass es wirklich jetzt dringend wird, wenn <name type="person" ref="per:136709">Pellech</name> in Pension geht,<lb/>
+dass wir einen Mann finden, der dann sehr aktiv und ambitioniert die ge<lb break="no"/>samte <choice><choice><sic>Filmproblemation</sic><corr>Filmproblematik/Filmproduktion?</corr></choice></choice> und Filmförderung in meinem Ministerium in die<lb/>
+Hand nimmt. Ob es gelingt, den Senatsrat <name type="person" ref="per:137896">Schrems</name> dafür zu gewin<lb break="no"/>nen, ist noch fraglich, <name type="person" ref="per:137896">Schrems</name> selbst hat mitgeteilt, dass er dem Prä<lb break="no"/>sidium in der Gemeinde eine Projekt unterbreitet hat, das er als Ver<lb break="no"/>bindungsmann zu den offiziellen Stellen in Erscheinung treten möchte<lb/>
+und deshalb eine diesbezüglichen Auftrag bekommen sollte. Ich weiss<lb/>
+nicht, ob eine solcher Idealauftrag von Seiten der Magistratsdirektion<lb/>
+zu erhalten ist. Dies wäre nämlich die Traum-Hacke – wie man bei uns<lb/>
+sagen würde. Er könnte hier, ohne dass er Verantwortung für konkrete<lb/>
+Entscheidungen trägt, mit Gott und der Welt Kontakt halten, damit<lb/>
+natürlich entsprechende Reisen verbinden und letzten Endes gar nichts<lb/>
+anderes tun, als Public-Relations-Arbeit zu verrichten. Darüber hinaus<lb/>
+würde er aber auch Informationen bei sich sammeln können und eine<lb/>
+ungeheure Informationsquelle darstellen, die natürlich einen entsprechenden<lb/>
+Machtausfluss dann bedeuten würde. Ich könnte mir nicht vorstellen,<lb/>
+dass wenn er jetzt schon kaltgestellt wurde, dann auf diesem Umweg<lb/>
+die entsprechende Position in der Rathausverwaltung erreichen könnte.<lb/>
+Ich nehme deshalb an, dass das Präsidium oder der Bürgermeister oder<lb/>
+der Stadtsenat oder der Amtsrat besser gesagt, der fraktionelle alle diese<lb/>
+Probleme vorberät, niemals eine solche Zustimmung geben wird. In diesem<lb/>
+Fall wäre er dann bereit, zu uns zu kommen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Ich glaube, es wäre zielführend, bei <name type="person" ref="per:97582">Jacobi</name> zu fragen,<lb/>
+ob und inwieweit eine Möglichkeit für seine Absicht überhaupt im Stadtsenat<lb/>
+besteht.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="08_1228_01" facs="08_1971-10-22_1228-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 22.10.1971</head>
+         </div>
+         <pb n="08_1228_02" facs="08_1971-10-22_1228-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

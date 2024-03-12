@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der 25. Mai 1974 bis Sonntag, der 26. Mai 1974</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band21_1974-05-25</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date from="1974-05-25" to="1974-05-26">Samstag, 25. Mai 1974 bis Sonntag, 26. Mai 1974</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-12-27">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band21/">
+      <body>
+         <pb n="21-0639" facs="21_1974-05-25_1974-05-26_0639.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Samstag, 25. Mai 1974 und Sonntag, 26. Mai 1974</p><p xml:space="preserve">Die zwei Tage hat mich das nö. Sekretariat für den Wahlkampf<lb/>
+eingeteilt, obwohl Wiener Konferenz gewesen ist. Zuerst hiess<lb/>
+es, alle Minister sind im Einsatz, dann konnte ich feststellen,<lb/>
+dass <name type="person" ref="per:110923">Lanc</name>, <name type="person" ref="per:98034">Veselsky</name> und <name type="person" ref="per:97311">Androsch</name> z.B. bei der Konferenz anwesend waren<lb/>
+wie der ORF-Reportage entnehmen konnte. NR <name type="person" ref="per:97809">Pfeifer</name> hat mir dann<lb/>
+auch gestanden, wieso ich doch noch im Hollabrunner Gebiet zum Ein<lb break="no"/>satz kam. Das nö. Sekretariat hatte erklärt, er hätte sowieso an einem<lb/>
+Nachmittag <name type="person" ref="per:98055">Weihs</name> und es stünde niemand anderer zur Verfügung. <name type="person" ref="per:97809">Pfeifer</name><lb/>
+als Bezirksobmann hat sich dagegen heftigst ausgesprochen und verlangte,<lb/>
+dass an den Orten der tschechischen Grenze ein Minister zur Verfügung<lb/>
+stehen müsste und hat mich vorgeschlagen. Scheinbar haben die Nieder<lb break="no"/>österreicher angenommen, dass ich sowieso bereit bin, alles zu ak<lb break="no"/>zeptieren und zugesagt. <name type="person" ref="per:97809">Pfeifer</name> entschuldigte sich dann bei mir, ob<lb break="no"/>wohl dafür wirklich gar kein Grund vorhanden war. Auf der Wiener Kon<lb break="no"/>ferenz bin ich sicherlich weniger abgegangen als ich den Genossen in<lb/>
+den kleinen Orten an Grenzgebiet vielleicht doch das Gefühl geben konnte<lb/>
+dass sie nicht auf verlorenem Posten stehen. Zwischen zwei Versammlungen<lb/>
+hörte ich zufällig im Radio am Samstag eine Reportage vom nö. Wahl<lb break="no"/>kampf Landeshauptmann <name type="person" ref="per:112031">Maurer</name>. Der hat in sehr primitiver Art und<lb/>
+ungeheuer demagogisch in dem er erklärte, <name type="person" ref="per:97668">Kreisky</name> hat noch nie etwas<lb/>
+gearbeitet, kommt von einem Diplomaten, sollte einmal einen Schrauben<lb break="no"/>schlüssel in die Hand nehmen, so wie er ein ständiger Arbeiter war,<lb/>
+<name type="person" ref="per:97668">Kreisky</name> sehr diffamiert. Obwohl ich wahrlich kein <name type="person" ref="per:97668">Kreisky-Fan</name> bin,<lb/>
+fühle ich mich doch verpflichtet, darauf zu reagieren. Die beste Ge<lb break="no"/>legenheit hat es dann am Sonntag in Amaliendorf gegeben, wo mir zuge<lb break="no"/>flüstert wurde, der Rundfunk schneidet mit. Ob etwas und was ge<lb break="no"/>bracht wird, weiss ich nicht, dass von einem Landeshauptmann, dem eigent<lb break="no"/>lich sowieso nichts passieren kann, so niveaulos polemisiert wird,<lb/>
+hätte ich nicht angenommen. Wird <name type="person" ref="per:112031">Maurer</name> vielleicht auch nervös, weil er<lb/>
+fürchtet, dass die von der ÖVP erwartete grosse Niederlage der SPÖ<lb/>
+in NÖ nicht eintritt ?</p><p xml:space="preserve"><name type="person" ref="per:127177">Papacek</name> wundert sich immer wieder, daß die Routen und die Versammlungen<lb/>
+scheinbar nach einem System erstellt werden, das nicht logisch aufge<lb break="no"/>baut ist. Ich glaube, das gilt aber wirklich nur von der Fahrtroute.<lb/>
+Man fährt immer ganz unlogisch verschiedene Strecken doppelt und<lb/>
+passiert Versammlungsorte, die man nachher wieder anfahren muss. In<lb/>
+Wirklichkeit glaube ich, liegt das Problem darin, dass nach den ört<lb break="no"/><pb n="21-0640" facs="21_1974-05-25_1974-05-26_0640.jpg"/>lichen Gegebenheiten nur zu einem gewissen Zeitpunkt eine Versamm<lb break="no"/>lung möglich ist, z.B. eben nach Kirchenschluss oder weil Pensionisten<lb/>
+gerade um diese Zeit dort zusammenkommen, sodass eben diese örtlichen<lb/>
+Gegebenheiten mit einem logischen Plan nicht erfasst werden können.<lb/>
+Mir persönlich ist es auch vollkommen gleichgültig, wo ich eingesetzt<lb/>
+werde und wie ich eingesetzt werde. Die nö. Wahlhelferinnen, die mit <lb/>
+einem Lautsprecherwagen mitgefahren sind, haben mir dann allerdings er<lb break="no"/>zählt, dass das nö. Sekretariat mit dem Zentralsekretariat <name type="person" ref="per:126976">Strache</name> und<lb/>
+seine Leute, jeden Ministereinsatz absprechen und abstimmen müssen.<lb/>
+Dies zweifelsohne zur Koordinierung, könnte aber in Wirklichkeit eine<lb/>
+Überorganisation sein. Da ich die Details aber nicht kenne, mich<lb/>
+damit auch gar nicht beschäftigen möchte, ist mir auch dies vollkommen<lb/>
+egal. Dr. <name type="person" ref="per:98040">Wais</name> wollte unbedingt einen nö. Wahlkampf miterleben. und<lb/>
+hat sich aufgeschwungen verhältnismässig zeitig früh schon mitzufahren.<lb/>
+Dies war glaube ich sein grösstes Opfer. Wichtig ist nur, dass jetzt<lb/>
+die Einzelintervenionen, die im Laufe so einer Wahlkampagne an einem<lb/>
+herangetragen werden, in irgendeiner Weise vor den Wahlen noch einer<lb/>
+Bearbeitung und Erledigung zugeführt werden. Meistens handelt es sich<lb/>
+um Intervenienten, die gar nicht unserer Partei angehören. Wenn man<lb/>
+eine Erledigung ihrer Wünsche ohne viel Protektionismus durchführen<lb/>
+kann, soll man dies unbedingt tun. Wenn ein abschlägiger Bescheid not<lb break="no"/>wendig ist, dann soll man auch diesen begründet ihnen mitteilen. Ich<lb/>
+glaube, es gibt nichts schlechteres als gar nichts zu veranlassen oder<lb/>
+die Angelegenheit irgendwohin schicken und sagen, es wird schon etwas<lb/>
+daraus werden. Gerade in den kleinsten Dörfern sind solche Interventienten<lb/>
+nachher die Leute, die erzählen, dass sie nicht nur mit einem Minister<lb/>
+gesprochen haben, ihr Anliegen vorgebracht haben, sondern dass man<lb/>
+sogar in kürzester Zeit etwas gehört hat. Verhältnismässig kommen<lb/>
+interessanterweise zu mir sehr wenig Interventienten. Einerseits bin<lb/>
+ich darüber nicht ungehalten, andererseits aber zeigt sich für mich,<lb/>
+dass nur ein verschwindender fast unbedeutender Prozentsatz glaubt,<lb/>
+dass ihm jemand helfen kann. Ich hoffe und nehme nicht an, dass die Be<lb break="no"/>völkerung so schüchtern ist, dass sie sich an einen Minister nicht<lb/>
+heranwagen. Vielleicht ist dies aber doch der Hauptgrund. Dann aller<lb break="no"/>dings ist es um unsere Demokratie noch schlecht bestellt.</p></div>
+      </body>
+      
+   </text>
+</TEI>

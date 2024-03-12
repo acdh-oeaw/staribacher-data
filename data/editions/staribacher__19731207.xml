@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der  7. Dezember 1973</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band18_1973-12-07</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1973-12-07">Freitag, 7. Dezember 1973</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-08-23">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band18/">
+      <body>
+         <pb n="18-1406" facs="18_1973-12-07_1406.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Freitag, 7. Dezember 1973</p><p xml:space="preserve">BRO <name type="person" ref="per:136629">Vogel</name>, der Vertreter der Parteifreien im Bundesvorstand<lb/>
+im ÖGB, ist wie ich jetzt erfahre auch Einkäufer von Öl.<lb/>
+Die ÖAMAG, die meistens aus Italien über freie Händler bezogen<lb/>
+hat, braucht in Radenthein 5.500, in Hochfilzen 1.600 t im Monat.<lb/>
+Jetzt muss sie bereits 1.448 S für die Tonne bezahlen. <name type="person" ref="per:107936"><sic>ELsinger</sic></name><lb/>
+nimmt sich des FAlles an und versucht, die restlichen 1.000 t<lb/>
+die noch geb raucht werden über die Zentralstelle zu vermitteln.</p><p xml:space="preserve">Botschafter <name type="person" ref="per:97577">Humes</name> und Handelsrat <name type="person" ref="per:146075">Barbach</name> kommen angeblich wegen de<lb/>
+Energiesituation. Im Gespräch stellt sich dann heraus, dass sie<lb/>
+in Wirklichkeit wegen des zweiten Kernkraftwerkes für die Fa.<lb/>
+Westinghouse &amp; General-Electric intervenieren. Das letzte Mal<lb/>
+hat Westinghouse keine Chance gehabt, mitzubieten ,hat jetzt<lb/>
+um als österreichische Firma zu gelten, ein Büro errichtet und<lb/>
+<name type="person" ref="per:97577">Humes</name> verweist darauf, dass die Jugoslawen jetzt ein Kernkraft<lb break="no"/>werk um 220 Mill. $ gekauft haben. Westinghouse aber auch alle<lb/>
+anderen Konkurrenten, die nicht zum Zuge gekommen sind, möchten,<lb/>
+dass das zweite Kernkraftwerk in der Ausschreibung gespalten<lb/>
+wird in den Atomteil und den konventionellen Teil. Sie würden<lb/>
+sich dann nur für den Atomteil interessieren und den konventionel<lb break="no"/>len Teil mit Österr. Firmen – wenn überhaupt gemeinsam – anbieten.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97377">BUKOWSKI</name> UND <name type="person" ref="per:97469">GEHART</name>: Da mehr oder minder alle aus<lb break="no"/>ländischen Firmen über ihre Botschaften interve<lb break="no"/>nieren werden, bitte genau ergründen, wie die Vor<lb break="no"/>gangsweise sein wird.<lb/>
+<choice><choice><sic>ndisc</sic><corr>?</corr></choice></choice></p><p xml:space="preserve">In Washington-Spokane findet die EXPO 74 unter dem Thema Umwelt<lb break="no"/>schutz statt. <name type="person" ref="per:97577">Humes</name> hat mit <name type="person" ref="per:98097">Wodak</name>, <name type="person" ref="per:97632">Kirchschläger</name>, <name type="person" ref="per:97893">Sallinger</name>,<lb/>
+<name type="person" ref="per:115655">Mautner-Markhof</name> <add>[evtl. Falschidentifikation, Anm.]</add> bereits über die Beteiligung gesprochen. Sie<lb/>
+würde 30.000 $ Miete betragen in einer Gegend stattfinden, die<lb/>
+der österreichischen entspricht und deshab wahrscheinlich viele<lb/>
+Touristen nach Österreich bringen.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97377">BUKOWSKI</name>: Vormerken für nächsten jour fixe und<lb/>
+bitte auch die ÖFVW interpellieren.</p><pb n="18-1407" facs="18_1973-12-07_1407.jpg"/><p xml:space="preserve">In der Fraktion vom AK-Vorstand kam ich gerade zurecht, als<lb/>
+<name type="person" ref="per:98112">Zöllner</name> über die Brotpreisentwicklung referierte. <name type="person" ref="per:136623">Hedrich</name> von<lb/>
+den Privatangestellten und <name type="person" ref="per:97357">Blümel</name> von den Lebensmittelarbeitern<lb/>
+erörterten die Beweggründe, ohne sich natürlich für eien höheren<lb/>
+Preis einzusetzen, warum die Gewerkschaften mit der Stellungnahme<lb/>
+von <name type="person" ref="per:98112">Zöllner</name> d.h. der AK nicht einverstanden sind. <name type="person" ref="per:98112">Zöllner</name> hat meistens<lb/>
+in der Sache recht, übertreibt aber die Gegenforderungen, spitzt<lb/>
+sie extrem zu und stösst dabei natürlich auf Widerstand, nicht<lb/>
+auf der Unternehmerseite sondern auch auf der Arbeitnehmerseite.<lb/>
+Ich habe schon öfters mit ihm geredet, um ihm ein bisschen zuzu<lb break="no"/>reden, er möge ein bisschen elastischer vorgehen. Er kann es sich<lb/>
+nicht gleichzetiig mit allen verderben. Früher oder später geben<lb/>
+die Funktionäre ja dann doch nach, er gilt als der wilde<lb/>
+Mann und hat nur eine einzige Genugtuung, dass er sich dann sagen<lb/>
+kann, nicht er hat nachgegeben, sondern die anderen.</p><p xml:space="preserve"><name type="person" ref="per:97357">Blümel</name> geht allein zu den Bäckern verhandeln, weil unser Ver<lb break="no"/>handlungskomitee erklärt, es aht seine Arbeit abgeschlossen und<lb/>
+nicht mehr weiter reden will. Die Industrie schlägt ihm vor,<lb/>
+das Volkslaibchen nur um 5 Groschen zu erhöhen, es handelt sich hier<lb/>
+um ein geschliffenes Gebäck, die Semmeln um 15, den Laib um<lb/>
+50 und den Wecken um 70 Groschen. Da <name type="person" ref="per:97357">Blümel</name> über Preise nie ver<lb break="no"/>handelt hat und auch jetzt nicth beabsichtigt, dies zu tun, erklärt<lb/>
+er sich nur bereit, diesen Preiswunsch Landwirtschaftsminister <name type="person" ref="per:98055">Weihs</name><lb/>
+und mir mitzuteilen. Das Problem liegt für die Brot- und Gebäck<lb break="no"/>preisfestsetzung ganz wo anders. Wie Ing. <name type="person" ref="per:136623">Hedrich</name> von der Privat<lb break="no"/>angestelltengewerkschaft vom Betriebsrat erfahren hat, kann die<lb/>
+VNI, ehemalige Ankerbrot, die Lohn- und Gehaltserhöhung, die 45 Mill.<lb/>
+S betragen wird, nur zum Teil auf Brot und Gebäck überwälzen,<lb/>
+was für die freien Waren, das sind Weichwaren, Brösel, Weissbrot<lb/>
+usw. noch 33 Mill S Lohnkosten überwälzt werden müssten. Dies würde<lb/>
+eine 16 %ige Erhöhung dieser Produkte bedeuten, die aber der Markt<lb/>
+nicht bringt. Die VNI kann in Zukunft nur existieren, wenn das<lb/>
+Bäckereiarbeitergesetz endlich verschwindet, Schichtbetrieb einge<lb break="no"/>führt werden kann und dies in der neu zu erbauenden Fabrik im Süden<lb/>
+Wiens.</p><p xml:space="preserve">Die Sitzung der Fondskoordinierung beim BK war wie ich zugeben<lb/>
+muss, von <name type="person" ref="per:98034">Veselsky</name> mangelhaft vorbereitet. Er legte eine Aufstellung<lb/>
+vor, die <name type="person" ref="per:97469">Gehart</name> nachher sofort als einen Teil eines Minister<lb break="no"/><pb n="18-1408" facs="18_1973-12-07_1408.jpg"/>ratsvortrages vor einem halben Jahr identifizierte. Zum Glück<lb/>
+schaut sich <name type="person" ref="per:97668"><sic>Kreiyky</sic></name> diese Details nie an sondern verlangte sofort<lb/>
+dass bis zum 7. Dezember 18 Uhr, wo eine Wirtschafts<lb break="no"/>kommission ergänzt durch <name type="person" ref="per:98087">Wirlandner</name>, <name type="person" ref="per:111755">Kastellez</name>, <name type="person" ref="per:114084">Schramke</name> usw.<lb/>
+über ein vorzulegendes Papier endgültig entscheiden sollte.<lb/>
+<name type="person" ref="per:97469"><sic>GEhart</sic></name> hat durch die Verhandlungen einheitliche Formblätter, Ver<lb break="no"/>einfachung der Einreichung undso weiter zum GLück so gute Vorar<lb break="no"/>beit geleistet, dass er und <name type="person" ref="per:110922">Vranitzky</name> sicherlich bis zu diesem<lb/>
+Tag ein brauchbares Papier vorlegen können.</p><p xml:space="preserve">ANMERKUNG MIT <name type="person" ref="per:97469">GEHART</name>: Bitte mit <name type="person" ref="per:110922">Vranitzky</name> noch eine Kurzfassung<lb/>
+des Buches Kreditbedingungen welches das ü<lb/>
+Handelsministerium und die Bundeskammer heraus<lb break="no"/>gibt, in das Papier einarbeiten und womöglich<lb/>
+die Volumen bestimmen</p><p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> möchte auch im Frühjahr, dass die Ökonomische Versammlung<lb/>
+die Arbeiten der Arbeitsgruppen vorgelegt bekommt und womöglich Be<lb break="no"/>schlüsse fasst. Er dürfte <name type="person" ref="per:97627"><sic>Kienzels</sic></name> Papier gesehen ahben, welches<lb/>
+nachmittags im Kautsky-Kreis diskutiert wird und fragt, ob hier eine<lb/>
+gegenökonomische Versammlung entstehen sollte. Die Herren der<lb/>
+Nationalbank machen es sich sehr leicht, behauptet <name type="person" ref="per:97668">Kreisky</name>, und<lb/>
+zieht insbesondere gegen <name type="person" ref="per:97873">Rieger</name>, der sich gegen die Elektrolyse<lb/>
+infolge Strommangels ausspricht. Ich gehe auf Details nicht ein,<lb/>
+erkläre aber rundwegs, dass <name type="person" ref="per:97627">Kienzl</name> zurecht im Kautsky-Kreis die<lb/>
+Probleme entsprechend diskutiert.</p><p xml:space="preserve">Bei <name type="person" ref="per:110923">Lanc</name> sind alle Vertreter der E-Werke, d.h. mit ihrem Verband<lb/>
+der E-Werke erschienen, um wegen des Strompreisantrages zu urgie<lb break="no"/>ren. Sie sind sehr erfreut, dass beide Minister – der noch zustän<lb break="no"/>dige und in Zukunft zuständige – erschienen sind und hoffen auf ein<lb/>
+beschleunigtes Verfahren. Insbesondere fragen sie, ob tatsächlich<lb/>
+mit dem Verfahren zugewartet werden soll, bis die Landesregierungen<lb/>
+den Preisantrag der E-Gesellschaften akzeptiert, resp. dem Ver<lb break="no"/>kehrsministerium die Bestätigung zugeschickt haben gewartet werden<lb/>
+soll. <name type="person" ref="per:110923">Lanc</name> hat mir in einer Vorbesprechung unter vier Augen mit<lb break="no"/>geteilt, dass seine Beamten ihm erklärt hätten, bis Juni nächsten<lb/>
+Jahres würden sie mit der Überprüfung zu tun haben. Die E-Werke<lb/>
+erwarten aber, dass es womöglich noch im Dezember zur Beschluss<lb break="no"/>fassung kommt. Ich setzte den Vertretern auseinander, dass sie<lb/>
+nicht sehr gut beraten waren, als sie die Anträge einzeln<lb/>
+<pb n="18-1409" facs="18_1973-12-07_1409.jpg"/>gestellt haben, weil dadurch die Überprüfung, auch wenn sie<lb/>
+noch so kursorisch gemacht wird, längere Zeit in ANspruch<lb/>
+nehmen wird. Wenn sie das Verfahren vereinfachen wollen, müssten<lb/>
+sie mir eine schriftliche Erklärung geben, wonach sie ein<lb/>
+alle Landesgesellschaften umfassendes generelles Preisver<lb break="no"/>fahren und letzten Endes auch Preisfestsetzung, ähnlich z.B.<lb/>
+der Zuckerindustrie und gleichzeitig aber auch auf die Rechts<lb break="no"/>mittel dann verzichten, wenn der Verband das Ergebnis akzep<lb break="no"/>tiert. Die E-Werke erwarten meine schnelle Erledigung und ich<lb/>
+sage ihnen eine eheste zu, obwohl mir vollkommne klar<lb/>
+ist, dass auch ihnen dass es heuer nicht mehr sein aknn<lb/>
+und grosser Anstrenungen bedarf, wenn wir es im Frühjahr nächsten<lb/>
+Jahres über die Runde bringen. Hauptgrund der Preiserhöhung<lb/>
+wäre eine 18 – 20 %-ige Kollektivvertragslohnerhöhung bei einer<lb/>
+30 %-igen Lohntangente schon mindestens 5 % Preissteigerung.<lb/>
+Dazu die Baukostensteigerung von 30 % und jetzt auch noch die<lb/>
+Heizölverteuerung. Gen.Dir. <name type="person" ref="per:97496">Gruber</name> meint beim Abschied, ob alle<lb/>
+Landeshauptleute angeschrieben wurden und dass er in Verantwortung<lb/>
+gegenüber seiner Gesellschaft auf eine Klaglos-Stellung nicht<lb/>
+verzichten könnte. Ich erkläre ihm rundweg, dass dann keine<lb/>
+Chance besteht, dass ich ein vereinfachtes Verfahren akzeptieren<lb/>
+könnte, auch ich den Preis mehr oder minder verantworten muss,<lb/>
+ich muss mit den Interessensvertretungen klar werden, <name type="person" ref="per:97668">Kreisky</name><lb/>
+selbst hat mich als ich ihm erklärte, ich möchte ein schnelles<lb/>
+Verfahren durchführen, sofort an den ÖGB verwiesen, was ich<lb/>
+natürlich noch niemandem sagte, und er muss hatl in seinem<lb/>
+Aufsichtsrat sich die entsprechenden Ermächtigungen dann zu<lb/>
+einem Abschluss holen, womit er auch seiner Verantwortung ent<lb break="no"/>sprechend aber gesetzlich gedeckt ist, zu akzeptieren.</p><p xml:space="preserve">Die Vorbesprechung mit der ÖMV, <name type="person" ref="per:97337">Bauer</name>, <name type="person" ref="per:97429">Feichtinger</name>, <name type="person" ref="per:97738"><sic>Meszarosch</sic></name><lb/>
+<name type="person" ref="per:97671">Kreutler</name> ergibt, dass sie die Gelegenheit nützen wollen, um<lb/>
+<name type="person" ref="per:97668">Kreisky</name> auf die schwierige Situation hinzuweisen, die sie<lb/>
+insbesondere dadurch ahben, dass Rohölmengen, die sie in Libyen<lb/>
+und Irak erwartet haben und auch teilwseise fest geschlossen<lb/>
+haben, jetzt wieder fraglich sind, vor allem aber die Preise<lb/>
+vollkommen offen sind. <name type="person" ref="per:97668">Kreisky</name> hat ihnen zugesagt, mit <name type="person" ref="per:97746"><sic>Donmintoff</sic></name><lb/>
+dem maltesischen Ministerpräsidenten zu sprechen, der gute<lb/>
+Beziehungen zu <name type="person" ref="per:123182"><sic>Kadafi</sic></name> hat. Auf diese Aussprache setzen sie grosse<lb/>
+<pb n="18-1410" facs="18_1973-12-07_1410.jpg"/>Hoffnungen. Wenn die Aufstellungen der ÖMV stimmen, werden<lb/>
+sie im nächsten Jahr fast dieselbe MEnge Produkte mit den<lb/>
+Internationalen gemeinsam auf den Markt bringen. DIes ergäbe,<lb/>
+dass wir in Wirklihckeit gar keine Verknappung hätten.<lb/>
+Stimmen aber die Mengen, die die ÖMV annimmt ? das ist die<lb/>
+Frage.</p></div>
+      </body>
+      <back>
+         <pb n="18_1405_01" facs="18_1973-12-07_1405-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 7.12.1973</head>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+   </text>
+</TEI>

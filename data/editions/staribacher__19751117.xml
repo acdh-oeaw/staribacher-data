@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Montag, der 17. November 1975</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band28_1975-11-17</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1975-11-17">Montag, 17. November 1975</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-01-08">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="28-1315" facs="28_1975-11-17_1315.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Montag, 17. November 1975<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97769">Mussil</name> begrüße ich beim Jour fixe als Untertaktierer, er ver<lb break="no"/>steht sofort, daß ich damit nur humorvoll seine letzte Presse<lb break="no"/>konferenz, wo er mich als Obertaktierer bezeichnet hat, meine.<lb/>
+Ich bringe auch das Gespräch auf die von ihm kritisierten Reprä<lb break="no"/>sentationsessen der Regierung, die ja in Hinkunft auch, wie er meint<lb/>
+sozusagen von den Ministern selbst bezahlt werden müssen. Da ich<lb/>
+mich überhaupt nie erinnern kann, daß ich jemals ein privates<lb/>
+Essen mit jemand gehabt habe trifft mich diese Kritik überhaupt<lb/>
+nicht. Ich könnte ihm sogar entgegnen, daß er es gewesen ist, der<lb/>
+mich immer wieder aufgefordert hat, ich sollte höhere Repräsentations<lb break="no"/>budgetansätze verlangen, weil ich mit den 500.000 Schilling, die<lb/>
+seit 1970 unverändert sind, niemals das Auslangen finden kann, be<lb break="no"/>sonders im Hinblick auf die gestiegenen Verpflichtungen ausländi<lb break="no"/>scher Minister, die ich ständig jetzt auch im Interesse der Handels<lb break="no"/>kammer einlade. <name type="person" ref="per:97769">Mussil</name> erkennt dieses Dilemma sehr genau. Wegen der<lb/>
+weiteren Leistungen der Handelskammer zu seinen ungeheuren gestiegenen<lb/>
+Aktivitäten aus der Außenhandelsumlage verspricht er nach Rück<lb break="no"/>kehr des Präsidenten <name type="person" ref="per:97893">Sallinger</name> vom Spital sofort die Besprechungen<lb/>
+wegen eines positiven Abschlusses zu führen. Ich verweise darauf,<lb/>
+daß ich den beiden tschechischen Ministern kurzfristig zwei<lb/>
+Kameras von Eumig schenkte, die ich sozusagen der Handelskammer<lb/>
+nicht verrechnen werde. <name type="person" ref="per:97769">Mussil</name> hat ja keine Ahnung, daß wir doch<lb/>
+gewisse Geschenke in Reserve haben. Was ich ihn allerdings nicht<lb/>
+sage, daß auch ich gar nicht wußte, wie viele Geschenke wir noch<lb/>
+in Reserve haben und <name type="person" ref="per:98072">Wiesinger</name> und <name type="person" ref="per:97469">Gehart</name> genauso überrascht waren<lb/>
+als sie den Nachlaß von <name type="person" ref="per:97377">Bukowski</name> übernahmen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97769">Mussil</name> frägt an, ob ich tatsächlich ein Junktim zwischen der Preis<lb break="no"/>erhöhung für Mineralölprodukte und den Energiesicherungsgesetz her<lb break="no"/>stellen werde. Ich lasse ihn nicht in Zweifel, daß es nur eine<lb/>
+einzige Preiserhöhung geben kann und dort selbstverständlich auch<lb/>
+die Kosten für die Lagerhaltung miteingebaut werden. Die Abgabe wäre<lb/>
+in so einem Fall natürlich die einfachste Kalkulationspost, wird<lb/>
+aber von mir nicht angestrebt. <name type="person" ref="per:97769">Mussil</name> meint, die Zinsen für die<lb/>
+Österreichischen Nationalbank-Wechsel, die mit 5 % seinerzeit von dieser<lb/>
+vorgeschlagen wurden, müßten einkalkuliert werden sowie die sonstige<lb/>
+Kosten. Am besten wäre die Lösung 200 Millionen Schillinge ungefähr<lb/>
+<pb n="28-1316" facs="28_1975-11-17_1316.jpg"/>jährlich aus dem Budget dafür zur Verfügung zu stellen. Das<lb/>
+könnte sogar einfach-gesetzlich erfolgen. Die anderen Bestimmungen<lb/>
+des Energieagenturvertrages könnten, soweit es Lenkungsvorschriften<lb/>
+betrifft, ganz einfach ins Rohstofflenkungsgesetz übernommen werden.<lb/>
+Dies würde dann alle paar Jahre immer wieder zur Verlängerung not<lb break="no"/>wendig werden, da die Wirtschaftsgesetze ja niemals unbefristet<lb/>
+beschlossen wurden und sicherlich auch nicht werden. Genau eine<lb/>
+solche Vorgangsweise lehne ich auf das Entschiedenste ab. Ich<lb/>
+wünsche im Gegenteil, daß alle Energie betreffenden und notwendigen<lb/>
+Lenkungsmaßnahmen in ein Gesetz zusammengefaßt werden, eben das<lb/>
+Energiesicherungsgesetz und dort unbefristet beschlossen werden<lb/>
+müssen. Über den Inhalt, ja sogar vor allem über die Bezeichnung<lb/>
+dieses Gesetzes, kann man mit mir in jeder Beziehung reden.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97769">Mussil</name> kann noch immer nicht glauben, daß ich das neue Preisgesetz<lb/>
+bereits in die Begutachtung geschickt habe. Er meint, daß damit ein<lb/>
+Poker eröffnet ist, wie auch bereits im Vorjahr. Ich protestiere<lb/>
+ganz entschieden, daß damit gepokert wird, sondern erkläre ausdrück<lb break="no"/>lich, daß eine befriedigende, unbefristete Lösung anders nicht zu<lb/>
+erzielen ist, als über die einfachgesetzliche Regelung.<lb/>
+</p>
+            <p xml:space="preserve">Die Umweltschutzbeiratsstudie, die bei der letzten Paritätischen<lb/>
+Kommission von seiten <name type="person" ref="per:97346">Benyas</name> zur Sprache gebracht wurde und die jetzt<lb/>
+auf Drängen der Konsumentenseite endlich verabschiedet werden soll,<lb/>
+hat wie mir <name type="person" ref="per:97769">Mussil</name> mitteilt, einige so kritische Punkte, daß er<lb/>
+kaum dem zustimmen kann. Erstens soll die Bundeskompetenz für<lb/>
+Umweltschutzfragen verlangt werden. Zweitens soll nicht nur<lb/>
+die Emission, sondern auch die Immission erfaßt werden. Drittens<lb/>
+seien Umweltschutzverfahren auch bei bestehenden Betrieben vorge<lb break="no"/>sehen mit weiteren großen Belastungen für die Betriebe. Viertens<lb/>
+soll Bürgerinitiative bei schon 500 Betroffenen möglich sein.<lb/>
+Die Arbeiterkammer verlangt sogar 200 Betroffene. Diese Popular<lb break="no"/>klage würde ungeheure Verfahren auslösen. Derzeit hat jeder Anrainer<lb/>
+einen Schutz wenn er in seinem subjektiven Recht verletzt ist. In<lb/>
+Zukunft fürchtet <name type="person" ref="per:97769">Mussil</name>, daß natürlich eine Quelle von Verfahren<lb/>
+beim Umweltschutzministerium anhängig würde. Er meint das Handels<lb break="no"/>ministerium müßte sich dagegen auch aussprechen, weil es eindeutig<lb/>
+in die Kompetenz der Gewerbebehörde eingreifen würde. Ich erkläre<lb/>
+<name type="person" ref="per:97769">Mussil</name>, daß S.Chef <name type="person" ref="per:97584">Jagoda</name> bereit vor Monaten die Gespräche wegen<lb/>
+<pb n="28-1317" facs="28_1975-11-17_1317.jpg"/>einer vernünftigen Lösung mit dem Umweltschutzministerium auf<lb break="no"/>genommen hat. Auch im Handelsministerium hat niemand Interesse<lb/>
+daran, daß die Betriebe nicht mehr arbeiten könnten, oder gar viel<lb break="no"/>leicht mehrere Verfahren gleichlautend bei uns Betriebsanlagen<lb break="no"/>genehmigung, im Umweltschutzministerium Umweltschutzgenehmigungen,<lb/>
+abgehandelt werden sollten.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97769">Mussil</name> urgiert neuerdings bei mir was mit <name type="person" ref="per:140583">Falkner</name>, Rettenbachgletscher,<lb/>
+nun endgültig geschieht.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:98072">WIESINGER</name>: Bitte mich ständig auf dem Laufenden zu<lb/>
+halten und mit <name type="person" ref="per:111367">Würzl</name> entsprechende Vereinbarung treffen.<lb/>
+</p>
+            <p xml:space="preserve">In der Ladenschlußfrage hat die kammerinterne Begutachtung ergeben,<lb/>
+daß nichts geändert werden soll.Nur Kärnten und Steiermark wünscht<lb/>
+eine Ermächtigung für den Landeshauptmann den zweiten Sperrhalbtag<lb/>
+festzusetzen. Dagegen wehren sich aber wieder die westlichen Bundes<lb break="no"/>länder. <name type="person" ref="per:97769">Mussil</name> muß zugeben, daß meine Taktik seit 1970 richtig war<lb/>
+und jetzt voll aufgeht. Nichts ändern, weil die davon Betroffenen<lb/>
+sich doch nicht einigen könnten, jede Entscheidung damit eine Gruppe<lb/>
+vor dem Kopf stoßen würde und sich das jetzige System ganz gut ein<lb break="no"/>geführt hat.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:98040">WAIS</name>: Im Konsumentenbeirat Arbeitsausschuß keine<lb/>
+Initiative entfalten, doch gelegentlich das Ergebnis dieser kam<lb break="no"/>merinternen Umfrage erwähnen, damit es im Protokoll aufscheint.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97769">Mussil</name> möchte mich davon überzeugen, daß die Wettbewerbsgesetze<lb/>
+von der ÖVP jetzt als Initiativantrag eingebracht werden müssen.<lb/>
+NR <name type="person" ref="per:97437">Fiedler</name>, der neue Vizepräsident der Handelskammer Wien, wird<lb/>
+hier aktiv werden. Ich gebe meiner Verwunderung Ausdruck, weil wir<lb/>
+doch vorgesehen haben im Wettbewerbsausschuß des Beirates darüber<lb/>
+Sachgespräche zu führen. <name type="person" ref="per:97769">Mussil</name> meint, er hätte nicht verhindern<lb/>
+können, daß diese Materie wieder ins Parlament kommt, da er auf<lb/>
+dem Standpunkt steht, zwischen <name type="person" ref="per:97676">Lachs</name> Gewerkschaftsbund und der<lb/>
+Handelskammer sei in der vorigen Legislaturperiode eine Verein<lb break="no"/>barung erzielt werden. Erst im letzten Moment hätte <name type="person" ref="per:113033">Hartig</name> mit<lb/>
+<name type="person" ref="per:97505">Haberl</name> gesprochen, womit das ganze Projekt dann zu Fall gebracht<lb/>
+wurde. <name type="person" ref="per:97676">Lachs</name> wünscht also den Kontrahierungszwang, <name type="person" ref="per:97543">Heindl</name> Ausstattungs<lb break="no"/>richtlinien, <name type="person" ref="per:117875">Peltzmann</name> eine Lokalbedarfsprüfung, <name type="person" ref="per:112996">Staudinger</name> und<lb/>
+Gegenspieler von <name type="person" ref="per:97437">Fiedler</name>, der die A&amp;O-Läden, d.h. also alle Ketten<lb/>
+<pb n="28-1318" facs="28_1975-11-17_1318.jpg"/>besonders vertritt, ist in vielen Punkten anderer Ansicht.<lb/>
+Die Marktmacht der Abnehmer müßte aber auch berücksichtigt werden.<lb/>
+Ich kann zwar nicht verhindern, daß der Initiativantrag jetzt von<lb/>
+der ÖVP eingebracht wird, wenn aber ein sachliches Ergebnis he<lb break="no"/>rauskommen soll, muß auch von unserer Seite eine entsprechende<lb/>
+Initiative gesetzt werden. Betreffend die Nahversorgung hoffe<lb/>
+ich, daß sehr bald vom <name type="person" ref="per:97757">Mühlbacher</name>-Ausschuß entsprechende Vor<lb break="no"/>schläge kommen, die ich allerdings, bevor ich dann einen Initiativ<lb break="no"/>antrag oder eine Regierungsvorlage einbringe, meiner Meinung nach<lb/>
+zweckmäßig im Beirat diskutiert werden sollen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:98040">WAIS</name>: Bitte das ganze Problem dringendst zu be<lb break="no"/>handeln.<lb/>
+</p>
+            <p xml:space="preserve">Die Gaspreiserhöhung von 9.7 für Wien bringe ich <name type="person" ref="per:97769">Mussil</name> zur<lb/>
+Kenntnis. Ich verweise darauf, daß 12.5 % Einstandspreiskosten<lb break="no"/>erhöhung darin enthalten sind. Die Handelskammer hat immer wieder<lb/>
+verlangt die Regelung der Erzeugergaspreise von ÖMV und RAG in der<lb/>
+Paritätischen Kommission, wofür ich sehr bin und die jetzt end<lb break="no"/>gültig abgeschlossen werden muß. <name type="person" ref="per:97769">Mussil</name> sieht dies ein und spricht<lb/>
+daher zu meiner größten Verwunderung kein einziges Wort gegen<lb/>
+diese Gaspreiserhöhung der Gemeinde. Bezüglich des Strompreises<lb/>
+kündige ich nur die Preiserhöhung an, ohne mich auch nur im ent<lb break="no"/>ferntesten über das Ausmaß zu äußern. Auch hier gibt <name type="person" ref="per:97769">Mussil</name><lb/>
+keine Stellungnahme ab.<lb/>
+</p>
+            <p xml:space="preserve">Wir unterhalten uns dann auch noch über den Kurier, ein Problem<lb/>
+das die Industriellenvereinigung trifft und das natürlich eine ge<lb break="no"/>wisse Schadenfreude bei der Handelskammer feststellen läßt. Dies<lb/>
+gilt nicht nur allein bei <name type="person" ref="per:97769">Mussil</name>, sondern beim Empfang bei den<lb/>
+Ungarn am Abend macht auch Vizepräsident <name type="person" ref="per:136642">Förster</name> und Generalsekre<lb break="no"/>tärstellvertreter <name type="person" ref="per:116699">Walkolbinger</name> gegenüber dem Industriellenvertreter<lb/>
+<name type="person" ref="per:97725">Marquet</name> einige höhnische Bemerkungen bezüglich der Pressepolitik der<lb/>
+Industriellenvereinigung. Im besonderen beziehen sich natürlich<lb/>
+auf den Trend-Artikel. In der Pressepolitik, ganz besonders aber<lb/>
+in der Hausse des Kuriers um 400 Millionen Schilling hat sich der<lb/>
+ehemalige Nationalrat <name type="person" ref="per:134083">Helbich</name>, der am Kurier schon immer beteiligt<lb/>
+war, der ehemalige Geschäftsführer der Industriellenvereinigung<lb/>
+<name type="person" ref="per:97436">Fetzer</name> mit seinem Wirtschaftsprüferbüro und ganz besonders <name type="person" ref="per:123315">Krejci</name>,<lb/>
+der für die Massenmedien verantwortlich ist, eingesetzt. Auch der<lb/>
+derzeitige Geschäftsführer <name type="person" ref="per:116418">Lenhardt</name> war ja früher in der Industriellen<lb break="no"/><pb n="28-1319" facs="28_1975-11-17_1319.jpg"/>vereinigung tätig und ein Freund <name type="person" ref="per:123315">Krejcis</name>, bis sie sich zerstritten<lb/>
+haben. Jetzt soll es wieder besser sein. Die hunderten von größeren<lb/>
+und kleineren Industriellen und Gewerbebetrieben, die sich daran be<lb break="no"/>teiligt haben, werden, wie ich schon lange prophezeit habe und jetzt<lb/>
+<name type="person" ref="per:97769">Mussil</name> wieder erkläre, ihr eingeschossenes Kapital bald los sein.<lb/>
+Ich bin sehr gespannt wie es dann, wenn neueres Kapital gebraucht<lb/>
+wird, weitergehen wird. <name type="person" ref="per:97769">Mussil</name> glaube ich ist froh, daß er<lb/>
+damit nichts zu tun hat.<lb/>
+</p>
+            <p xml:space="preserve">Beim Journalistenfrühstück steht nur das in die Begutachtung ge<lb break="no"/>schickte Preisgesetz zur Debatte. Natürlich stürzt sich alles<lb/>
+darauf, wie dieses Gesetz funktionieren soll. Da ich ja dort wirk<lb break="no"/>lich nur den Letztverbraucherpreis bestimmen kann, muß ich mir<lb/>
+innerlich zugeben, ohne das natürlich zu sagen, daß es ein sehr<lb/>
+unvollständiges Preisgesetz ist. Ich erkläre deshalb sofort, daß<lb/>
+es nicht ein schärferes oder wenig scharfes, sondern eben ein ganz<lb/>
+anderes Preisgesetz ist, als das bisherige. Ich werde es nur als Rute<lb/>
+um Fenster verwenden. Wieweit ich dann die Preise festsetze und sie<lb/>
+an die Länder delegiere, wird in jeden Einzelfall zu entscheiden<lb/>
+sein. Ein weiterer Schwachpunkt in diesem Entwurf ist, daß wir zwar<lb/>
+eine Übergangsbestimmung haben, daß alle Verordnungen aufrecht<lb/>
+bleiben soweit sie nicht dem Gesetz widersprechen. Das heißt, daß<lb/>
+wir theoretisch dann nur mehr die Verbraucherpreise für die Lebens<lb break="no"/>mittel, soweit sie jetzt preisgeregelt sind weiter belassen werden,<lb/>
+die Erzeuger und Zwischenstufen aber dann nicht mehr preisgeregelt<lb/>
+sein können. Das kommt mir zugute und ich verweise natürlich sofort<lb/>
+darauf, daß die Handelskammer mir den Vorwurf macht, daß ich die<lb/>
+preisgesetzlichen Möglichkeiten gar nicht ausgenützt habe. Damit<lb/>
+kann ich glaube ich glaubwürdig beweisen, daß ich auch in Hinkunft<lb/>
+nicht mit den einfachgesetzlichen Regelungen die ich dann habe, sofort<lb/>
+alle Letztverbraucherpreise festsetzen werde. Ich verweise ganz be<lb break="no"/>sonders darauf, daß ich die ortsüblichen Preise genau beobachten<lb/>
+würde und nur wenn diese wesentlich überschritten werden, wenn es<lb/>
+also zu Preisexzessen, wie ich mich ausdrücke, kommen sollte, dann<lb/>
+würde ich entsprechend eingreifen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:97584">Jagoda</name> und <name type="person" ref="per:98040">WAIS</name>: Wieweit gibt es Schwierigkeiten um für<lb/>
+einen einzelnen Betrieb den Preis festzusetzen.<lb/>
+</p>
+            <pb n="28-1320" facs="28_1975-11-17_1320.jpg"/>
+            <p xml:space="preserve">Zur Eröffnung der ungarischen Wirtschaftstage hat mir <name type="person" ref="per:112973">Hillebrandt</name><lb/>
+eine vollkommen unzulängliche Unterlage geschickt. Man hat in<lb/>
+Wirklichkeit gar nichts anderes getan als die an und für sich<lb/>
+fast nichtssagenden Fakten zusammengestellt. Welche Wirtschafts<lb break="no"/>verträge wir mit den Ungarn haben, wie sich die Außenhandels<lb break="no"/>ziffern entwickelt haben und ein wenig, welche Probleme es ganz all<lb break="no"/>gemein gibt. Ich habe deshalb <name type="person" ref="per:108322">Meisl</name> angerufen, der die Unterlage gar<lb/>
+nicht gesehen hat, und auch <name type="person" ref="per:113038">Reim</name> erklärt, daß ich damit gar nichts<lb/>
+anfangen kann. <name type="person" ref="per:113038">Reim</name> ist dann Gott sei Dank mitgefahren und hat ge<lb break="no"/>sehen, wie ich dort auf Grund des Programmes improvisiert, aber<lb/>
+immerhin doch einige Aussagen machen konnte. Insbesondere verwies<lb/>
+ich auf die Bedeutung, auf das ungeheuer gestreute und sehr ins Detail<lb/>
+gehende Programm, was ich sehr begrüßte, auf die Entwicklung die<lb/>
+ich jetzt erwarte. <name type="person" ref="per:108322">Meisl</name>, <name type="person" ref="per:112973">Hillebrandt</name> und viele andere Beamte<lb/>
+waren anwesend. Manche werden sich denken, da schau her, was der<lb/>
+alles zu sagen hat. Keiner denkt sicherlich wie ist er zu diesen<lb/>
+Überlegungen gekommen. Die Vorbereitungen für solche Anlässe sind<lb/>
+in unserem Ministerium wirklich ein Jammer. Das niemand in dem<lb/>
+Haus dazu etwas zu sagen hat, ist erschütternd. Man hat sich<lb/>
+scheinbar angewöhnt, daß der Minister mit Improvisieren sich sowieso<lb/>
+irgendwie hilft, warum soll man sich deshalb anstrengen.<lb/>
+</p>
+            <p xml:space="preserve">Die ungarischen Vertreter haben darauf verwiesen, daß sie nicht<lb/>
+nur eine Kooperation in der Produktion mit 80 Vereinbarungen liegt<lb/>
+Ungarn in Österreich sowieso an der Spitze, sondern auch im Handel<lb/>
+und im Vertrieb eine Kooperation wünschen. Was uns allerdings<lb/>
+mit Ungarn wirklich fehlt, ist ein großes Kooperationsabkommen<lb/>
+mit einigen Betrieben. Da in Ungarn, wie ich dort erfuhr, 50 Groß<lb break="no"/>betriebe 50 % des Produktionsanteils und 60 % der Exportsumme be<lb break="no"/>streiten, müßte es doch gelingen mit ein oder zwei dieser Groß<lb break="no"/>betriebe wirklich eine große Kooperation zustande zu bringen.<lb/>
+Da im 5. Fünfjahresplan, der nächstes Jahr beginnt, weniger industriel<lb break="no"/>le Neubauten und mehr Rekonstruktionsinvestitionen vorgesehen sind,<lb/>
+müßte es sogar möglich sein, auch auf diesem Gebiet stärker in<lb/>
+Erscheinung zu treten. Das Hauptproblem wird natürlich, mit was die<lb/>
+Ungarn diese Kooperation bezahlen wollen. Derzeit entwickelt sich<lb/>
+wieder ein verhältnismäßig sehr starker Export, der das Vorjahr<lb/>
+fast erreichen wird und ein weiters sehr gedrückter Import. Wie<lb/>
+ich bei meinen Ausführungen verwies, haben wir den Ungarn alle<lb/>
+Möglichkeiten in Österreich jetzt eröffnet, sie können sie aber<lb/>
+<pb n="28-1321" facs="28_1975-11-17_1321.jpg"/>scheinbar nicht nützen. Die ungarische Seite behauptet, wie ich<lb/>
+auch nachher und abends bei den Gesprächen feststellen konnte, daß<lb/>
+das Hauptproblem die zollmäßige Belastung gegenüber den EWG-<lb/>
+Staaten ist, die ungarische Waren in Österreich konkurrenzunfähig<lb/>
+machen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:98053">WANKE</name>: Wir müssen hier einen Ausweg aus diesem Dilemma<lb/>
+finden, sonst treibt man uns immer mehr zu Abkommen, wie auch Finn<lb break="no"/>land es mit den Oststaaten beschlossen hat.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:58381">Mauthner</name> möchte einen weiteren Zuckerexport von 25.000 Tonnen. Er<lb/>
+hat noch eine Möglichkeit diese Menge den Ungarn mit 6.20 – 6.80<lb/>
+Schilling zu verkaufen. Die Vereinbarung mit der Arbeiterkammer<lb/>
+und Gewerkschaftsbund war, daß 390.000 Tonnen im Inland verbleiben<lb/>
+müssen. Die Produktion soll nach letzten Hochrechnungen 472.000 Ton<lb break="no"/>nen betragen. <name type="person" ref="per:58381">Mauthner</name> bezweifelt, daß tatsächlich nur 60.000 ha<lb/>
+angebaut wurden. Bei 31.5 Millionen Doppelzentner Rübe würde näm<lb break="no"/>lich ein Ertrag ? von 530 Meterzentner sein gegenüber den europäischen<lb/>
+Gemeinschaften von 415. Daraus schließt <name type="person" ref="per:58381">Mauthner</name>, und ich teile diese<lb/>
+Meinung, daß mehr als 60.000 ha angebaut wurden. Ich erkläre mich<lb/>
+bereit mit der Arbeiterkammer zu reden, damit nicht bei den 25.000<lb/>
+Tonnen neuen Exportantrag Schwierigkeiten entstehen. Ich rufe an<lb break="no"/>schließend <name type="person" ref="per:112010">Blaha</name> an, der mir erstens bestätigt, daß wir richtig<lb/>
+seinerzeit 390.000 Tonnen ausgemacht haben, die im Inland bleiben sol<lb break="no"/>len, daß er persönlich daher auch für diesen Export eintritt. Er<lb/>
+erwartet aber große Schwierigkeiten von seiten des Gewerkschafts<lb break="no"/>bundes. <name type="person" ref="per:97346">Benya</name> möchte unter allen Umständen eine Zuckerpreissenkung<lb/>
+jetzt erzwingen und deshalb einem Zuckerexport nicht zustimmen.<lb/>
+Was wir allerdings mit diesen riesigen Mengen von Zucker machen<lb/>
+sollen, ist mir ein Rätsel.<lb/>
+</p>
+            <p xml:space="preserve">In der Ministerratsvorbesprechung berichtet <name type="person" ref="per:97668">Kreisky</name> über seinen<lb/>
+Eindruck von Deutschland. Die CSU und CDU sind sehr zerstritten,<lb/>
+so daß er fest überzeugt ist, daß die SPD- und FDP-Koalition<lb/>
+die <choice><choice><sic>letzten</sic><corr>nächsten</corr></choice></choice> Wahlen gewinnt. Diese Meinung teile ich zwar nicht,<lb/>
+es sei denn die wirtschaftliche Entwicklung in Deutschland bessert<lb/>
+sich wirklich so schnell und so nachhaltig, daß die Deutschen die<lb/>
+doch immerhin beträchtlichen Arbeitslosenziffern und den sonstigen<lb/>
+Rückschlag sofort vergessen. <name type="person" ref="per:97668">Kreisky</name> meint er war auch überrascht<lb/>
+über den akkordierten Optimismus. Dieses Wort akkordierter Optimismus<lb/>
+sollte ausdrücken, daß eben keinerlei konkrete Anzeichen vorliegen<lb/>
+wie <name type="person" ref="per:97668">Kreisky</name> meint, aber sie übereingekommen sind nicht zuletzt<lb/>
+<pb n="28-1322" facs="28_1975-11-17_1322.jpg"/>auch beim Gipfelgespräch in Rambouillet, dieses wesentlicher<lb/>
+optimistischer aussieht, als die Daten es zuließen. Interessanter<lb break="no"/>weise wurde auch ich nach der Ministerratssitzung von einem Reporter<lb/>
+gefragt, ob ich meinen Optimismus aufrecht erhalte. Die UNO-Wirt<lb break="no"/>schaftskommission hat nämlich festgestellt, daß einige europäische<lb/>
+Staaten, darunter auch Österreich noch nicht am Tiefpunkt der<lb/>
+Rezession angelangt sind. Ich persönlich sehe keinen Grund meinen<lb/>
+Optimismus zu ändern. Ich erkläre überall im nächsten Jahr wird<lb/>
+sich ja bestätigen ob ich Recht habe oder nicht.<lb/>
+</p>
+            <p xml:space="preserve">Zur Regierungserklärungsdebatte hat sich <name type="person" ref="per:97668">Kreisky</name> deshalb nicht ge<lb break="no"/>meldet, weil die Oppositionsparteien, insbesondere die ÖVP sich<lb/>
+beschwerten, daß auf jeden Kontraredner ein Proredner kommt.<lb/>
+Hätte sich nun <name type="person" ref="per:97668">Kreisky</name> und andere gemeldet, dann wären unsere<lb/>
+Redner nicht mehr zum Zuge gekommen, denn ein Minister verdrängt<lb/>
+automatisch, wie ich auch zu meiner Überraschung feststellte, sofort<lb/>
+den nächsten Debattenredner. <name type="person" ref="per:97668">Kreisky</name> meinte aber es war sehr gut,<lb/>
+daß ich dort mich zu Wort gemeldet habe.<lb/>
+</p>
+            <p xml:space="preserve">Die Gast- und Schankgewerbebetriebe und Vereinigungen, wahrschein<lb break="no"/>lich auch die Hoteliervereinigung hat bei <name type="person" ref="per:97668">Kreisky</name> heftigst protestiert<lb/>
+gegen die Streichung der Arbeitsessen als Spesen. Scheinbar ver<lb break="no"/>langten sie auch gleichzeitig, daß die Regierung ebenfalls in<lb/>
+Hinkunft nicht mehr spesenmäßig dies verrechnen dürfe, da <name type="person" ref="per:97668">Kreisky</name><lb/>
+meinte, das sei zu überlegen. Mich trifft das persönlich über<lb break="no"/>haupt nicht, doch bin ich sehr gespannt, wie dies dann andere in<lb/>
+Hinkunft halten werden.<lb/>
+</p>
+            <p xml:space="preserve">Rechtsanwalt <name type="person" ref="per:141674">Scholz</name> hat sich mit einem Patent an <name type="person" ref="per:97668">Kreisky</name> gewendet<lb/>
+wonach in Österreich die Ölsuche eindeutig Ölfunde ergeben würde.<lb/>
+Die Unterlagen werde ich in der nächsten Zeit bekommen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:98072">WIESINGER</name>: Bitte mir dieses Schreiben sofort vorlegen.<lb/>
+</p>
+            <p xml:space="preserve">Die Hirtenberger Patronenfabrik fürchtet, daß jetzt 40 Millionen<lb/>
+Platzpatronen an die Firma <name type="person" ref="per:113833">Assmann</name> vergeben werden. <name type="person" ref="per:108224">Lütgendorf</name> erklärt,<lb/>
+daß Hirtenberg aber ebenfalls einen Teil dieses Auftrages bekommen<lb/>
+wird, denn er selbst hat vorgesorgt, daß 1974 die Hirtenberger<lb/>
+130 Millionen Schilling Umsatz gemacht haben und sogar 10 Millionen<lb/>
+Schilling Nettogewinn dabei herausschaute.<lb/>
+</p>
+            <pb n="28-1323" facs="28_1975-11-17_1323.jpg"/>
+            <p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:113038">REIM</name>: Was weiß unser Haus über die Militäraufträge.<lb/>
+</p>
+            <p xml:space="preserve">Der Personalausschuß hat vom Bundeskanzler verlangt in Dietrich<lb break="no"/>stein eine Wählerversammlung um 9.15 Uhr abhalten zu dürfen. Jetzt<lb/>
+stellt sich heraus, daß dort nicht eine Versammlung, sondern eine<lb/>
+Modevorführung und sonstiges Unterhaltungsprogramm über 1 Stunde<lb/>
+laufen wird. <name type="person" ref="per:98003">Taus</name> soll dann angeblich nur 10 Minuten referieren.<lb/>
+Im Bundeskanzleramt hat man scheinbar zugesagt, daß gewisse Wahl<lb break="no"/>veranstaltungen während der Arbeitszeit abgehalten werden können.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:97469">GEHART</name>: Wie wurde dieses Problem bei uns gelöst resp.<lb/>
+welche Wünsche gab es dafür.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:110944">Zluwa</name> und <name type="person" ref="per:111706">Müller</name> sagten mir gegenüber keinerlei Wünsche bezüg<lb break="no"/>lich ihrer Aktivitäten. Wichtig ist nur, daß die Personalfragen<lb/>
+in Hinkunft von uns zweckmäßiger gelöst werden.<lb/>
+</p>
+            <p xml:space="preserve">Im Ministerrat bringt <name type="person" ref="per:97311">Androsch</name> nur wieder die schon seit Jahren<lb/>
+gehandhabte Regelung, daß Anschaffungen über Aufwandskredite<lb/>
+über 7.000 Schilling ab sofort die Zustimmung des Finanzministers<lb/>
+bedürfen. Da sich dies alle Jahre wiederholt, bin ich überzeugt, daß<lb/>
+die Ministerien, soweit es sich um unzweckmäßige Ausgaben handelt,<lb/>
+bereits jetzt alle Anschaffungen über 7.000 Schilling, die even<lb break="no"/>tuell das Finanzministerium nicht genehmigen würden, sicherlich<lb/>
+schon getätigt haben.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:110923">Lanc</name> erzählt mir nachher, daß er in Bulgarien von einigen österrei<lb break="no"/>chischen Firmen aufgefordert wurde ihre Wünsche dort zu deponieren.<lb/>
+Dies dürfte sich hauptsächlich auf Verkehrsmittel beziehen. Er<lb/>
+hat nun nach seiner Rückkehr 4 Ministerialräte in seinem Ministerium<lb/>
+beauftragt in ständigem Kontakt jetzt zu klären, was die Bulgaren<lb/>
+tatsächlich mit den österreichischen Firmen vorhaben und möchte<lb/>
+mich dann über die Einzelheiten informieren. Ich empfehle ihm sofort,<lb/>
+daß sich seine Ministerialräte mit Ministerialrat <name type="person" ref="per:97426">Fälbl</name>, der<lb/>
+Bulgarien bearbeitet, ins Einvernehmen setzen sollen. Ich bin<lb/>
+sehr überrascht, aber noch mehr gespannt, was aus diesen Einzel<lb break="no"/>kontakten der Firmen mit den Ministerialräten des Verkehrsministerium<lb/>
+rauskommen wird und soll.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97350">Bielka</name> fragt mich unter vier Augen, wieweit ich einen Überblick habe<lb/>
+was in den arabischen Staaten jetzt an konkreten Projekten abge<lb break="no"/><pb n="28-1324" facs="28_1975-11-17_1324.jpg"/>wickelt wird. Ich selbst gebe sofort zu, daß ich da so wenig<lb/>
+weiß als wahrscheinlich er auch. <name type="person" ref="per:97350">Bielka</name> meint noch, daß auch<lb/>
+noch über die verstaatlichte Industrie kaum etwas zu erfahren ist,<lb/>
+weil <name type="person" ref="per:97468">Gatscha</name> hier seine Geheimpolitik betreibt. Ich glaube aller<lb break="no"/>dings, daß auch <name type="person" ref="per:97468">Gatscha</name> verhältnismäßig nichts weiß, außer über<lb/>
+Berichte die er dann im Aufsichtsrat bekommt. Dann ist das Geschäft<lb/>
+aber meistens schon entweder abschlußreif oder vielleicht gar schon<lb/>
+vorbei. Ich verspreche <name type="person" ref="per:97350">Bielka</name>, ich werde mich bemühen, ihm so schnell<lb/>
+als möglich einen Überblick resp. eine Übersicht zur Verfügung zu<lb/>
+stellen. Ich selbst wäre übrigens auch sehr interessiert, wenn wir<lb/>
+hier eine konkrete Aufstellung bekommen könnten.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:97469">GEHART</name> und <name type="person" ref="per:108322">MEISL</name>: Bitte unverzüglich über die laufen<lb break="no"/>den großen Projekte des Nahen Ostens und der arabischen Staaten ei<lb break="no"/>ne gesammelte Information erstellen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="28_1314_01" facs="28_1975-11-17_1314-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 17.11.1975</head>
+         </div>
+         <pb n="28_1314_02" facs="28_1975-11-17_1314-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+         <pb n="28_1324_01" facs="28_1975-11-17_1324-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesordnung 4. Ministerratssitzung, 17.11.1975</head>
+         </div>
+         <pb n="28_1324_02" facs="28_1975-11-17_1324-02.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>hs. Notizen (TO Ministerratssitzung Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

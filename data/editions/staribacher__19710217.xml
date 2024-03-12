@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittwoch, der 17. Februar 1971</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band04_1971-02-17</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1971-02-17">Mittwoch, 17. Februar 1971</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-07-24">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="04-0207" facs="04_1971-02-17_0207.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Mittwoch, 17. Feber 1971<lb/>
+</p>
+            <p xml:space="preserve">Wichtigstes Ereignis: <name type="person" ref="per:97469">Gehart Fritz</name> seine Frau hat ein längst über<lb break="no"/>fälliges Töchterlein bekommen. Er war merklich nervös bis jetzt<lb/>
+und dies konnte ich sogar feststellen, als das Material für die<lb/>
+Fragestunde vorbereitet wurde. In der Sektionsleiterbesprechung er<lb break="no"/>suchte ich deshalb neuerdings, dass mir die Sektionen nicht irrsinnig<lb/>
+lange Epistel schreiben, sondern dass ich ausschliesslich stichwort<lb break="no"/>artig die Probleme dargestellt haben will. Insbesondere brauche ich<lb/>
+nur die Tatsache und das Ziffernmaterial. Wenn ich mich mit diesem<lb/>
+Anfragebeantwortungsentwurf, der zeitgerecht allerdings dem Büro<lb/>
+zugeleitet werden muss, nicht auskenne, werde ich sowieso den be<lb break="no"/>treffenden Referenten zu einem Informationsgespräch zu mir bitten.<lb/>
+</p>
+            <p xml:space="preserve">Im Parlament haben sich die Sicherheitsmassnahmen so ausgewirkt,<lb/>
+dass man jetzt nicht einmal mehr mit seinem eigenen Sekretär im<lb/>
+Couloir arbeiten kann. Die Anordnung ist meiner Meinung nach ganz<lb/>
+sinnlos, denn wenn jemand ein Attentat auf einen Abgeordneten vor<lb/>
+hat, dann muss er nicht gerade im Couloir oder im Sitzungssaal<lb/>
+ein solches verüben. Innerhalb des Hauses aber kann er sich ohne<lb/>
+weiteres mit Hilfe eines Besuchsscheines bewegen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:123163">Flemmer</name> war vom Moskau zurückgekommen und hatte dort für seine Firma<lb/>
+Briko die neuen Kokspreise verhandelt. Er teilte mir mit, dass es<lb/>
+ihm gelungen ist, den Donez-Koks mit 203.10 am Wiener Platz mit den<lb/>
+Russen zu vereinbaren. Dies bedeutet eine Reduktion des 50-$-Preises<lb/>
+auf 43,88 $. Der Linzer Hüttenkoks wird sich seiner Meinung nach,<lb/>
+wenn der Antrag so wie Linz ihn stellt genehmigt wird, auf 201.80 S<lb/>
+= 45.94 $ stellen. Der Preis für die BRD – also Ruhr AG-Koks – würde<lb/>
+130 DM derzeit + 8 % für die Lohnerhöhungen – Die Lohnerhöhungen wurden<lb/>
+in der BRD mit 15 % abgeschlossen + Erhöhungen der DM-Fracht von 27.20<lb/>
+auf 28.– sich auf ca. 47 $ umgerechnet stellen. Ich erklärte, dass<lb/>
+ich diesen Preis als noch zu hoch betrachte, denn im Vorjahr wurde der<lb/>
+Donez-Koks um 35 $ im Durchschnitt an die Gaskoks – <name type="person" ref="per:134309">Löw</name> geliefert. Es<lb/>
+war dies am Anfang ein Preis von 27.– $, der sich dann bis zum Jahres<lb break="no"/>ende auf 43 $ erhöht hat. <name type="person" ref="per:123163">Flemmer</name> erklärte, dass solange die Regierung,<lb/>
+d.h. ich nicht einen höheren Kokspreis für Linz genehmige – derzeit<lb/>
+beträgt er bekanntlich 167.20 S pro mq, stehen alle Importeure – wie<lb/>
+er es ausgedrückt hat – im Eck.<lb/>
+</p>
+            <pb n="04-0208" facs="04_1971-02-17_0208.jpg"/>
+            <p xml:space="preserve">Mit <name type="person" ref="per:97555">Hintermayer</name> von der Verbund, <name type="person" ref="per:97461">Frühbauer</name> als Energieminister,<lb/>
+<name type="person" ref="per:98034">Veselsky</name>, hatte ich eine Aussprache wegen Angeboten des Kernkraft<lb break="no"/>werkprojektes und wegen der Strompreise für die Aluminiumwerke<lb/>
+in Ranshofen. Die Behauptung, dass der Strom aus den Donaukraft<lb break="no"/>werken billiger kommt, ist nicht aufrechtzuerhalten. Die gesamte<lb/>
+Bausumme wird 4,3 Milliarden Schilling betragen und 24,5 Groschen<lb/>
+für die kWh, ohne Eigenkapital. Die Kernkraftangebote sind derzeit<lb/>
+so, dass die ASEA wahrscheinlich ausscheiden muss, da nicht sicher<lb/>
+ist, ob sie, überhaupt ihre Kernkraftproduktion auf lange Sicht<lb/>
+fortsetzen wird. Die Westinghouse-Gruppe hat sich nicht bereit er<lb break="no"/>klärt, die österreichischen Sicherheitsbestimmungen zu akzeptieren.<lb/>
+Nur mehr als dritter und letzter Anbieter bleibt die Siemens-Elin-<lb/>
+Gruppe, die sich zur KWU zusammengeschlossen haben und wo ein<lb/>
+Siedewasserreaktor für 684 kW also die doppelte Leistung vom<lb/>
+Donaukraftwerk, auf 5,2 Milliarden Schilling zu stehen kommt.<lb/>
+Mit den Brennstoffkosten würde die kWh im ersten Jahr 22,8 und<lb/>
+im 20. Jahr 18,7 betragen. Richtig ist allerdings, dass das techni<lb break="no"/>sche Risiko für einen Stillstand des Werkes bei Atomkraftstrom natür<lb break="no"/>lich wesentlich grösser, unendlich grösser ist als bei den Donaukraft<lb break="no"/>werken. <name type="person" ref="per:97555">Hintermayer</name> weist auch noch darauf hin, dass die Anbieter be<lb break="no"/>züglich des Atomkraftwerkes nicht bereit waren, eine Garantie<lb/>
+über eine längere Produktion als im ersten Jahr von 4.400 Stunden<lb/>
+und im zweiten und dritten Jahr von 4.800 Stunden zu übernehmen.<lb/>
+Ab dem vierten Jahr wird überhaupt keine Garantie mehr geleistet.<lb/>
+Da nun aber der Bedarf mindestens für 5.800 Stunden für den Winter<lb/>
+und die Übergangszeit angenommen wird, so ergibt sich hier ein<lb/>
+weiteres Risiko. Dies ist allerdings eine reine Geldfrage, denn<lb/>
+nach <name type="person" ref="per:97555">Hintermayers</name> Auskunft würde selbst wenn das Atomkraftwerk<lb/>
+überhaupt nicht gebaut wird, in den nächsten Jahren keinerlei<lb/>
+Knappheitsproblem entstehen. Mit Hilfe der zwar alten Dampf<lb break="no"/>kraftwerke könnte er jederzeit den Spitzenstrombedarf befriedigen.<lb/>
+Allerdings werden die neuen Kraftwerke, wie z.B. Korneuburg<lb/>
+nur 2.000 Kalorien für die kWh an Brennstoff benötigen, während<lb/>
+die alten Werke bis zu 3.000 Kalorien pro kWh brauchen. Die Öl<lb break="no"/>kraftwerke würden bei der Produktion ca. auf denselben kWh-Preis<lb/>
+nämlich 22.8 Groschen pro kWh kalkulieren. Das Hauptproblem<lb/>
+sicher aber <name type="person" ref="per:97461">Frühbauer</name> darin, dass die Landesgesellschaften jetzt<lb/>
+sehr verärgert sind. Erstens glaube sie, dass die Verbund, resp.<lb/>
+die Bundesregierung, das seinerzeitige Arrangement zwischen Ver<lb break="no"/>bundgesellschaft und Landesgesellschaften über die Koordinierung<lb/>
+<pb n="04-0209" facs="04_1971-02-17_0209.jpg"/>wieder in die Luft sprengen wollen. Damals hatte sich der Bund verpflich<lb break="no"/>tet, die Verbundgesellschaft dazu zu zwingen und er hat es dann auch<lb/>
+getan, dass er 50:50 mit den Landesgesellschaften ein Gemeinschafts<lb break="no"/>kraftwerk errichtet. Dieses Gemeinschaftskraftwerk soll eben das Atom<lb break="no"/>kraftwerk werden. Dadurch haben sich die Länder dann zu Koordinations<lb break="no"/>abkommen bereiterklärt. In diesen Koordinationsabkommen wurde bestimmt,<lb/>
+dass jede Gesellschaft einen gewissen Verbundstrom in Zukunft auf alle<lb/>
+Fälle abnehmen wird. Die Verbundgesellschaft hat dann wieder den Landes<lb break="no"/>gesellschaften Gebietsschutz gegeben, d.h. die Verteilung bleibt jetzt<lb/>
+(des Stromes) auf alle Fälle bei den Landesgesellschaften. Ausgenommen<lb/>
+sind nur die bereits bestehenden grossen chemischen Werke, die einen<lb/>
+entsprechend verbilligten Strom von der Verbund direkt beziehen, resp.<lb/>
+die Grossindustrie wie die ÖMV, die Alpine, die ÖBB und Schoeller-Bleck<lb break="no"/>mann, die VÖEST bezieht über die OKA, Böhler bezieht über die STEWEAG<lb/>
+aber ist auch noch als Grossindustrie zu rechnen. Ein weiterer Beschluss<lb/>
+der Koordinationsabkommen war, dass die Strompreisregelung nur bei<lb/>
+einvernehmlich beantragt werden kann. Das Ganze wurde ausserdem noch<lb/>
+mit einem Ausbauprogramm für die nächsten 5 Jahre verbunden und soll<lb/>
+immer wieder ergänzt werden. Wenn die Länder ihre Drohung wahrmachen,<lb/>
+dass sie aus dem Koordinierungsabkommen aussteigen, bedeutet dies den<lb/>
+Krieg zwischen Verbund und Ländern. Deshalb wird <name type="person" ref="per:97461">Frühbauer</name> versuchen,<lb/>
+zuerst fraktionell, dann aber mit den Landesvertretern gemeinsam eine<lb/>
+Lösung zu erreichen. Beabsichtigt ist, gegebenenfalls die ganze Problema<lb break="no"/>tik der Errichtung des Kernkraftwerkes auf zwei Jahre, wenn es geht,<lb/>
+hinauszuschieben und Altenwörth vorzuziehen. Wenn Ottensheim im März 1973<lb/>
+spätestens fertig ist, dann müssten die grossen Baumaschinen und die<lb/>
+ganzen Baustäbe wieder eingemottet werden, um dann in einem späteren<lb/>
+Zeitpunkt mit Altenwörth erst zu beginnen. Wenn man sich mit den Landes<lb break="no"/>gesellschaften einigen kann, dann könnte unmittelbar an März 1973 sofort<lb/>
+Altenwörth angeschlossen werden. Vielleicht wird dies sogar schon früher<lb/>
+möglich sein, da Ottensheim infolge des milden Winters einen guten Bau<lb break="no"/>fortschritt hat. Betreffend des Strompreises für Aluminium, der bekannt<lb break="no"/>lich 19.75 derzeit beträgt, die Alu-Werke wünschen aber 16,5 Groschen<lb/>
+habe ich -ohne Einzelberechnungen anzustellen – vorgeschlagen, es sollte<lb/>
+sich <name type="person" ref="per:97555">Hintermayer</name> am besten mit ca. 18 Groschen pro kWh abfinden. <name type="person" ref="per:97555">Hintermayer</name> war dafür nicht zu haben, andererseits aber erklärte <name type="person" ref="per:98034">Veselsky</name>,<lb/>
+dass auch er nicht bereit ist, die 18 Groschen gegenüber den Alu-Werken<lb/>
+zu vertreten. Ranshofen hat mit 16,5 Groschen gerechnet und er glaubt,<lb/>
+dies sei der höchste Preis, der von ihnen bezahlt werden kann. Ich frage<lb/>
+mich allerdings, wer dann die Differenz bezahlen soll. <name type="person" ref="per:97311">Androsch</name> hat mit<lb/>
+<pb n="04-0210" facs="04_1971-02-17_0210.jpg"/>Recht bereits seinerzeit bei den ersten Besprechungen ganz ent<lb break="no"/>schieden abgelehnt.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97337">Bauer</name>, den ich durch Zufall im Parlament traf, teilte mir mit,<lb/>
+dass jetzt die Koordinierung innerhalb der ÖVP viel besser funktio<lb break="no"/>niert als in der Zeit der Alleinregierung. Sie hätten sich z.B.<lb/>
+jetzt über ein neues Lebensmittelgesetz – Entwurf geeinigt, dieser<lb/>
+würde in einiger Zeit sogar in einer Pressekonferenz vorgelegt werden.<lb/>
+Es handelt sich um einen sehr modernen Entwurf, der zeigt, dass sich<lb/>
+der ÖAAB innerhalb der ÖVP durchsetzt. Ich informierte unverzüglich<lb/>
+<name type="person" ref="per:97525">Häuser</name>, ohne natürlich meinen Informanten namentlich zu nennen.<lb/>
+<name type="person" ref="per:97525">Häuser</name> selbst glaubt allerdings nicht an diese Mitteilung.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="04_0206_05" facs="04_1971-02-17_0206-05.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 17.2.1971</head>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstag, der  1. Juli 1980</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band55_1980-07-01</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1980-07-01">Dienstag, 1. Juli 1980</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2017-12-06">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="55-0831" facs="55_1980-07-01_0831.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Dienstag, 1. Juli 1980<lb/>
+</p>
+            <p xml:space="preserve">Die Vertreter der Brotindustrie wollten von der LUGA eine Zusiche<lb break="no"/>rung, bei der nächsten Lohnrunde besser behandelt zu werden als<lb/>
+das Gewerbe. Eine solche Zusage konnte niemand und wollte vor allem<lb/>
+niemand von der Gewerkschaft machen. Die Arbeiter der Brotindustrie,<lb/>
+die voll beschäftigt sind, können und würden nicht verstehen, daß<lb/>
+sie weniger bekommen als die Arbeiter in den Gewerbebetrieben. Die<lb/>
+Industrie hat in der Vergangenheit natürlich eine größere Lohnlei<lb break="no"/>stung erbringen müssen. Durch die gesetzliche Regelung der Abfer<lb break="no"/>tigung, durch die Lohnfortzahlungsregelung usw. werden die Gewerbe<lb break="no"/>betriebe jetzt den Industriebetrieben gleichgezogen. Von mir als<lb/>
+Handelsminister wollten sie vor allem eine stärkere Kontrolle der<lb/>
+Importwaren bei Kuchen und Toastbrot. Ich ersuchte sie über den<lb/>
+Fachverband und die Handelskammer entsprechende Vorschläge zu er<lb break="no"/>statten.<lb/>
+</p>
+            <p xml:space="preserve">Der Vizepräsident des kubanischen Staatskomitees für wirtschaft<lb break="no"/>liche Zusammenarbeit ist auf einer Europatour und besprach mit<lb/>
+seiner Delegation und mir und den Herren meines Ministeriums die<lb/>
+einzelnen Projekt. 20 % ihrer Zuckeranbaufläche sind durch Bakte<lb break="no"/>rienbefall geschädigt und muß jetzt neu gepflanzt werden, ebenso<lb/>
+eine ähnliche Situation gibt es bei Tabakpflanzen. Bei der Schweine<lb break="no"/>produktion haben sie jetzt die afrikanische Krankheit. Ohne das<lb/>
+er es direkt aussprach, verdächtigt er aber die Amerikaner, trotzdem<lb/>
+wollen sie eine ganze Reihe von Großprojekten wie z.B. eine Strang<lb break="no"/>gußanlage planen. Die Sowjets sollen das Stahlwerk ausbauen. Koks<lb/>
+müssen sie importieren, Erze müssen sie importieren. Mein Einwand,<lb/>
+daß sie wahrscheinlich Stahlhäute am Weltmarkt wesentlich billiger<lb/>
+kaufen können, als sie je produzieren könnten, veranlaßt ihn nur<lb/>
+zu sagen, es wird alles noch genau geprüft. Bezüglich der Bewässe<lb break="no"/>rungsanlage von der Fa. Bauer wird er mit Ing. <name type="person" ref="per:115651">Cifer</name> zusammenkommen<lb/>
+und joint venture bezüglich der Sprinkler und Röhren, die in Kuba<lb/>
+erzeugt werden sollten, und Pumpen und Motorpumpen, die man aus<lb/>
+Österreich importieren möchte. Insbesondere nach Irak, Albanien,<lb/>
+Libyen seien Liefermöglichkeiten dieser zu gründenden Firma, eben<lb break="no"/>so nach Angola und Mosambik. Im letzteren Staat soll Bauer große<lb/>
+<pb n="55-0832" facs="55_1980-07-01_0832.jpg"/>Schwierigkeiten haben. Die Kubaner haben dort in 39 Ländern jetzt<lb/>
+15.000 Techniker, wahrscheinlich größtenteils Militärfachleute, die<lb/>
+aber für diese Projekte zur Verfügung stehen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte <name type="person" ref="per:115651">Cifer</name> insbes. über die Mosambik-<lb/>
+Bemerkungen von <name type="person" ref="per:98075">Willenpart</name> verständigen lassen.<lb/>
+</p>
+            <p xml:space="preserve">Konkret war nur die Mitteilung, daß die VÖEST-Alpine jetzt mit<lb/>
+Belgiern und Niederländern zwei mal 350 MW Elektrizitätswerke<lb/>
+für 3 Mrd. S bekommen hat. Der Gegenkonkurrent Waagner-Biro hat<lb/>
+den Auftrag nicht erhalten.<lb/>
+</p>
+            <p xml:space="preserve">Mit <choice><choice><sic>der</sic><corr>dem?</corr></choice></choice> Verständigen für VÖEST-Alpine bin ich heute aber sehr vor<lb break="no"/>sichtig, denn aus der Tschechoslowakei wurde mir mitgeteilt, aller<lb break="no"/>dings über 7 Ecken, daß<add>[das]</add> Projekt Paskov jetzt<add>[Andritz]</add> zugeschlagen wurde. Die<lb break="no"/>ses Großprojekt mit 3,8 Mrd. S haben bei uns die VÖEST-Alpine und die<lb/>
+Andritzer als Gegenkonkurrent angeboten. Aus einem Übermittlungs<lb break="no"/>fehler hatte ich angenommen, die VÖEST-Alpine hätte diesen Zuschlag<lb/>
+bekommen und habe sofort <name type="person" ref="per:97315">Apfalter</name> verständigt. Er was sehr erfreut<lb/>
+dies von mir zu hören, da er aus Prag von seinen Leuten keine Mit<lb break="no"/>teilung hatte. Umso enttäuschender muß es gewesen sein, als sich<lb/>
+dann herausstellte, nicht die VÖEST-Alpine, sondern Andritz hat den<lb/>
+Zuschlag bekommen. Andritz behauptet zwar, daß die daran beteilig<lb break="no"/>ten Franzosen nur 20 % des Auftrages als Sublieferanten kriegen,<lb/>
+die VÖEST-Alpine behauptet einen wesentlich höheren Prozentsatz.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte verständige <name type="person" ref="per:97315">Apfalter</name>-Sekretär vor<lb break="no"/>sichtig über die kubanische Mitteilung.<lb/>
+</p>
+            <p xml:space="preserve">Im Klub war <name type="person" ref="per:109808">Albrecht</name>, die den ersten Teil zusammenschreibt. <name type="person" ref="per:97668">Kreisky</name><lb/>
+selbst hat nur die Bemerkung einleitend gemacht, daß die Quellen<lb break="no"/>steuer nicht etwas Endgültiges ist, sondern man sich noch zusammen<lb break="no"/>setzen wird, um das Problem zu besprechen. Man dürfte sich nur<lb/>
+nicht nervös machen lassen. Die SPÖ wird jetzt als Skandalpartei<lb/>
+hingestellt und dagegen muß man sich wehren. Die Kernkraftwerk-<lb/>
+Diskussion wird im Nationalrat abzuführen sein, solange der Nati<lb break="no"/>onalrat nichts anderes beschlossen hat, wird und ist die Regierung<lb/>
+an das Verbotsgesetz gebunden und darf nichts machen. Das Volks<lb break="no"/><pb n="55-0833" facs="55_1980-07-01_0833.jpg"/>begehren, von dem er nicht weiß, wie es ausgeht, muß jetzt rasch<lb/>
+über die Bühne gehen. Die Außenpolitik war auch sehr kurz, er meinte<lb/>
+nur, <name type="person" ref="per:126232">Reagan</name> sei ein vollkommen ahnungsloser Präsident, hätte aber<lb/>
+die größte Wahrscheinlichkeit gewählt zu werden. Bundeskanzler<lb/>
+<name type="person" ref="per:114106">Schmidt</name> tragt jetzt in Europa und die Europäer als Ganzes eine<lb/>
+maximale Verantwortung.<lb/>
+</p>
+            <p xml:space="preserve">In der Diskussion gab es trotzdem mehrere Anfragen wegen der Quel<lb break="no"/>lensteuer und Kritik, daß es zu dieser Entwicklung gekommen ist.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> meinte im Schlußwort, der Absturz der SPÖ bei den Meinungs<lb break="no"/>umfragen hat sich durch den AKH-Skandal ergeben. Er erinnert an<lb/>
+die schlechte Stimmung der SPÖ 1 Jahr vor den 79-er Wahlen und<lb/>
+trotzdem ist der größte Wahlsieg im Mai erreicht worden. Das Bundes<lb break="no"/>budget muß jetzt saniert werden, weil wir brauchen für die nächste<lb/>
+zu erwartende Rezession größere Geldmittel für die Beschäftigungs<lb break="no"/>politik. Die jetzt notwendige Umstrukturierung muß finanziert wer<lb break="no"/>den können.<lb/>
+</p>
+            <p xml:space="preserve">In der Ministerratsvorbesprechung wurde über dieses Problem kein<lb/>
+Wort gesagt. <name type="person" ref="per:97668">Kreisky</name> fragte vielmehr die anderen Minister, was sie<lb/>
+zur Tagesordnung zu sagen haben. Da meine Unterlagen verschwunden<lb/>
+sind, kann ich ausnahmsweise keine Detailaufzeichnungen machen. Im<lb/>
+Ministerrat, erinnere ich mich nur, wurde dann die Zinsregelung<lb/>
+vom Zinsenzuschuß der Regierungsaktion und der Papierindustrie<lb/>
+von mir eingebracht, beschlossen. Hier gibt es einen Unterschied.<lb/>
+Beiden Aktionen ist gemeinsam, daß jetzt nicht von den Kosten der<lb/>
+Bundesanleihe plus einen Zuschlag, sondern nur mehr von der Normal<lb break="no"/>verzinsung auszugehen ist, im Bundeskanzleramt werden dafür dann<lb/>
+für die Regierungsaktion 3/4 % zugeschlagen, bei uns in der Papier<lb break="no"/>industrie nur 1/2 %. Ich bin sehr gespannt, wie sich das in Zukunft<lb/>
+auswirken wird.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:111737">MARSCH</name> UND <name type="person" ref="per:108746">HAFFNER</name>: Bitte diese Entwicklung genau<lb/>
+beachten.<lb/>
+</p>
+            <p xml:space="preserve">Im Parlament hat mir der Präsident des Aufsichtsrates der ÖDK, <name type="person" ref="per:97461">Früh<lb break="no"/>bauer</name>, mitgeteilt, daß die Kölnbreinsprerre einen 2 cm Riß hat. Die<lb/>
+Vorstandsmitglieder müssen jetzt den Urlaub mit ihm abbesprechen und<lb/>
+er hat vorgeschlagen, daß für Flugreisen in Europa nur die<lb/>
+<pb n="55-0834" facs="55_1980-07-01_0834.jpg"/>economy class wie die Regierungsmitglieder verrechnet wird.<lb/>
+Er erwartet, daß auch bei allen anderen Elektrizitätsgesellschaften<lb/>
+dasselbe geschieht.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Bitte nächstes Jour fixe <name type="person" ref="per:97453">Fremuth</name> setzen.<lb/>
+</p>
+            <p xml:space="preserve">Die Sanierung der Staumauer wird nach Meinung <name type="person" ref="per:97461">Frühbauers</name> hunderte<lb/>
+Mio. S kosten. Mir wurde diese Frage wesentlich problemloser und<lb/>
+billiger dargestellt. Ich werde daher unbedingt im Juli die Köln<lb break="no"/>breinsperre besichtigen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Bitte alle Unterlagen zusammenstellen<lb/>
+lassen.<lb/>
+</p>
+            <p xml:space="preserve">Die Fa. Legart<add>[?]</add> wird in Heidenreichstein eine Emailfabrik errichten<lb/>
+und 30 Beschäftigte als erste Stufe unterbringen. Voraussetzung<lb/>
+dafür ist, daß die Investitionen mit 20 Mio. S und ein Betriebs<lb break="no"/>mittelkredit von 8 Mio. bereitgestellt werden. Ein verlorener Zu<lb break="no"/>schuß von 7 Mio. wird dafür erwartet. 100.000,–– pro Beschäftigten<lb/>
+könnten sie aus der Grenzlandförderung bekommen, das wären 3 Mio.<lb/>
+MR <name type="person" ref="per:97493">Gröger</name> ist überzeugt, daß man von NÖ noch einen größeren ver<lb break="no"/>lorenen Zuschuß bekommen könnte. Gegebenenfalls kann auch aus der<lb/>
+Arbeitsmarktverwaltung für die Umschulung etwas geleistet werden.<lb/>
+Wir haben uns im Handelsministerium verpflichtet, für die Fa. Legart<lb/>
+jetzt eine interministerielle Besprechung abzuhalten, wo alle an<lb/>
+dieser Betriebsansiedlung Interessierten zusammengerufen werden.<lb/>
+Ich habe den Firmenvertretern und dem BRO erklärt, wir würden als<lb/>
+Anwälte für dieses Projekt im Sinne unserer Devise "Service für<lb/>
+die Wirtschaft" auftreten. Die Vertreter waren über unsere unbüro<lb break="no"/>kratische Art der Behandlung sehr begeistert. Hoffentlich gelingt<lb/>
+es uns für dieses Projekt die notwendigen Mittel aufzubringen.<lb/>
+Natürlich werden alle Verhandlungen, die ich jetzt führe, immer<lb/>
+wieder von den Zuschüssen für General Motors beeinflußt. Die Firmen<lb/>
+könnten und können nicht verstehen, daß sie weniger kriegen sollen<lb/>
+als dieser amerikanische Gigant.<lb/>
+</p>
+            <p xml:space="preserve">Die Ausstellung neues Wohnen von einer Architektengruppe insbes.<lb/>
+unter Führung v. Architekt <name type="person" ref="per:122326">Mang</name> und seiner Frau im Gewerbemuseum<lb/>
+wurde von <name type="person" ref="per:109808">Albrecht</name> und mir besucht. <name type="person" ref="per:122326">Mang</name> ist über diese Anteilnahme<lb/>
+<pb n="55-0835" facs="55_1980-07-01_0835.jpg"/>sehr erfreut. <name type="person" ref="per:109808">Albrecht</name> versuchte ihn für die Arbeitsgruppe des<lb/>
+Konsumentenbeirates "Schöner wohnen" zu gewinnen. <name type="person" ref="per:109808">Albrecht</name> ist<lb/>
+auch in dieser Beziehung eine Bereicherung für das Handelsministe<lb break="no"/>rium, niemand hat bis jetzt, und am allerwenigsten ich, die notwendi<lb break="no"/>ge Zeit und Lust gehabt, sich mit den Architekten, die ja so halbe<lb/>
+Künstler sind, in all diesen Fragen zusammenzusetzen, auseinander<lb break="no"/>zusetzen und sie dann letzten Endes doch für die Idee des Handels<lb break="no"/>ministeriums zu gewinnen. Die Ausstellung ist durch ihre Schlicht<lb break="no"/>heit wirklich beeindruckend. Überrascht war ich zu erfahren, daß<lb/>
+schon 6000 Besucher zu verzeichnen sind. Wohnen dürfte daher immer<lb/>
+noch ein hit für die jüngeren Leute sein.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109808">ALBRECHT</name>: Diese Tendenz sollte man wirklich mehr<lb/>
+nützen.<lb/>
+</p>
+            <p xml:space="preserve">Der Landesproduktenhandel, KR <name type="person" ref="per:114081">Bruck</name>, und Dir. <name type="person" ref="per:126380">Engleitner</name> von der Ge<lb break="no"/>nossenschaft wollten von mir eine Zusage wegen der Getreideaufkauf<lb break="no"/>spannen. Nach ihren Berechnungen ist die kostendeckende Spanne<lb/>
+28,23 S, für Roggen haben sie derzeit S 14,70 und für Weizen S 17,80<lb/>
+pro Meterzentner. Ich hatte ihnen keinerlei Zusagen gemacht, da<lb/>
+ich der Preiskommission nicht vorgreifen möchte. MR <name type="person" ref="per:112011">Kurzel</name> als Vor<lb break="no"/>sitzender, erklärte ich ihnen, hat einen schwierigen Stand. Auf der<lb/>
+einen Seite wollen die Landwirte immer mehr für den Erzeugerpreis,<lb/>
+als letzten Endes die Kommission genehmigen kann, und andererseits<lb/>
+die Konsumentenvertreter weniger Brotpreis und Mehlpreiserhöhung,<lb/>
+als die Kalkulationswünsche der Unternehmer ergeben. Mit Recht<lb/>
+konnte ich darauf verweisen, daß immerhin in den 10 Jahren meiner<lb/>
+Tätigkeit im Handelsministerium auch für diese Handelsstufe mehr<lb/>
+geschehen ist als bei meinen Vorgängern. Dies habe ich frech be<lb break="no"/>hauptet und interessanterweise gar keinen Widerspruch, sondern so<lb break="no"/>gar Zustimmung erhalten. Das einzige, für das ich mich verpflichtete,<lb/>
+war mit Minister <name type="person" ref="per:97511">Haiden</name> über die 30.000 t Gerste Ägypten-Export aus<lb/>
+der Hilfslieferung zu sprechen und über die 1/4 % Zinsenvergütung,<lb/>
+die ihnen bei der letzten Regelung gestrichen wurde. Mit Minister<lb/>
+<name type="person" ref="per:97511">Haiden</name> habe ich dieses Gespräch dann geführt und er hat erklärt,<lb/>
+diese Probleme mit ihnen zu besprechen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: <name type="person" ref="per:112011">Kurzel</name> über das Ergebnis der Aussprache<lb/>
+bitte informieren.<lb/>
+</p>
+            <pb n="55-0836" facs="55_1980-07-01_0836.jpg"/>
+            <p xml:space="preserve">Im Parlament stand zuerst der Bericht des außenpolitischen Aus<lb break="no"/>schusses zur Debatte. Unterbrochen wurde die Sitzung um 4 Uhr<lb/>
+mit einer dringlichen Anfrage an <name type="person" ref="per:97668">Kreisky</name> und <name type="person" ref="per:97311">Androsch</name> wegen der<lb/>
+Quellensteuer. Dieselbe Anfrage hatte die ÖVP ja bereits im Bundes<lb break="no"/>rat gestellt. Die Debatte war äußerst hart. Unsere Debattenredner<lb/>
+hatten es sehr schwer. Jeder einzelne wurde immer wieder durch<lb/>
+Zwischenrufe unterbrochen: Sind sie auf der Seite <name type="person" ref="per:97311">Androschs</name> oder<lb/>
+auf der Seite <name type="person" ref="per:97668">Kreiskys</name>? Liefern sie diesem oder jenem mehr Argumen<lb break="no"/>te? Für oder gegen? Die richtige Meinung <name type="person" ref="per:97668">Kreiskys</name>, daß man in<lb/>
+einer Demokratie doch über alles debattieren könnte und auch in<lb/>
+einer Partei sollte, ist nur bedingt richtig. Weder die Öffentlich<lb break="no"/>keit, geschweige denn die Parteigenossen in den Organisationen, lie<lb break="no"/>ben eine solche Debatte innerhalb der Regierung, noch wünschen sie<lb/>
+so eine Debatte.<lb/>
+</p>
+            <p xml:space="preserve">Die nach der Dringlichen fortgesetzte außenpolitische Debatte mit<lb/>
+weiteren 7 Rednern dauerte dann natürlich entsprechend lang. Zuletzt<lb/>
+stand dann noch der Bericht über den Mühlenfonds auf der Tagesordnung,<lb/>
+zu dem dann der ÖVP-Abgeordnete <name type="person" ref="per:112149">Gorton</name> noch das Wort ergriff. Er<lb/>
+appellierte neuerdings an mich, die Exportvermahlung weiter zu för<lb break="no"/>dern.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Die Kollegin der Industriesektion soll eine<lb/>
+diesbezügliche Information zusammenstellen.<lb/>
+</p>
+            <p xml:space="preserve">Das wirklich Schlimme an der Auseinandersetzung <name type="person" ref="per:97668">Kreisky</name>-<name type="person" ref="per:97311">Androsch</name><lb/>
+ist, daß natürlich unzählige Gerüchte rumschwirren und alle mög<lb break="no"/>lichen und unmöglichen Kombinationen rumerzählt werden. In den<lb/>
+letzten Jahren wurde gerade in den Sommermonaten immer irgendein<lb/>
+Problem von den Massenmedien hochgespielt und dann über die Massen<lb break="no"/>medien auch verhandelt resp. diskutiert. Dies hat schon unserer<lb/>
+Partei nicht sehr gut getan. Diese Auseinandersetzung aber, wenn<lb/>
+es jetzt nicht vor dem Sommer zu einer Lösung kommt, wird noch<lb/>
+furchtbarer werden. Ich glaube, das ganze Problem muß sehr schnell<lb/>
+gelöst werden, sollte nicht ein größerer Schaden entstehen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="55_0830_01" facs="55_1980-07-01_0830-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 1.7.1980</head>
+         </div>
+         <pb n="55_0830_02" facs="55_1980-07-01_0830-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+         <pb n="55_0836_01" facs="55_1980-07-01_0836-01.jpg"/>
+         <pb n="55_0836_02" facs="55_1980-07-01_0836-02.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Typoskript "Parlamentsklub 1. Juli 1980 9.00 Uhr"</head>
+            <gap reason="sampling"/>
+            <pb n="55_0836_03" facs="55_1980-07-01_0836-03.jpg"/>
+         </div>
+         <pb n="55_0836_04" facs="55_1980-07-01_0836-04.jpg"/>
+         <pb n="55_0836_05" facs="55_1980-07-01_0836-05.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesordnung 49. Ministerratssitzung, 1.7.1980</head>
+         </div>
+      </back>
+   </text>
+</TEI>

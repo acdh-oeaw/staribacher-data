@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstag, der  8. November 1977</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band39_1977-11-08</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1977-11-08">Dienstag, 8. November 1977</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-06-27">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="39-1267" facs="39_1977-11-08_1267.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Dienstag, 8. November 1977<lb/>
+</p>
+            <p xml:space="preserve">Prof. <name type="person" ref="per:127923">Bär</name> von den Bregenzer Festspielen frägt an, ob <name type="person" ref="per:113626">Ortmann</name><lb/>
+im Kuratorium der Bregenzer Festspiele weiter verbleibt. Ich<lb/>
+sehe keine Veranlassung dies zu ändern, da <name type="person" ref="per:113626">Ortmann</name> freige<lb break="no"/>sprochen ist und auch die Disziplinaruntersuchung mir keinen<lb/>
+gegenteiligen Vorschlag gemacht hat. In den früheren Jahren<lb/>
+wurde im August bereits die Subvention Fremdenverkehrswerbung<lb/>
+der Bregenzer Festspiele bereits Prof. <name type="person" ref="per:127923">Bär</name> mitgeteilt, heuer hat<lb/>
+er bis jetzt nichts erfahren. <name type="person" ref="per:131199">Kristinus</name>, bei dem ich mich er<lb break="no"/>kundige, erklärte, dies liegt bereits wochenlang im Büro. Diese<lb/>
+Auskunft ist insoferne unrichtig, als <name type="person" ref="per:97819">Plesch</name> mir nachweist,<lb/>
+dass kein diesbezüglicher Akt bei ihm liegt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97819">PLESCH</name>: Bitte die Subventionsansuchen alle so<lb/>
+schnell als möglich jetzt für das Jahr 1977 erledigen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:127923">Bär</name> ersucht mich, mit dem Österr. Fernsehen, Intendant <name type="person" ref="per:139833">Weis</name><lb/>
+wegen Übertragung des ORF und des Südwestfunks zu reden.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98072">WIESINGER</name>: Bitte mit <name type="person" ref="per:139833">Weis</name> verbinden.<lb/>
+</p>
+            <p xml:space="preserve">Dr. <name type="person" ref="per:146163">Lester</name> von der ÖSPAG bekommt das Goldene Verdienstkreuz und ist<lb/>
+darüber sehr gerührt. Der Fachverbandsvertreter der mit ist, be<lb break="no"/>stätigt, dass aus Wilhelmsburger Keramik nur <name type="person" ref="per:146163">Lester</name> diesen Auf<lb break="no"/>schwung und die sichere Beschäftigung von tausenden Arbeitern<lb/>
+garantiert. Da <name type="person" ref="per:146163">Lester</name> die Ordensklassen nicht kennt, glaubt er<lb/>
+allen Ernstes eine gigantische Auszeichnung bekommen zu haben.<lb/>
+Wenn ich mir die Leistung der Beamten vorstelle, die diesen Ordens<lb break="no"/>grad bekommen und die von <name type="person" ref="per:146163">Lester</name>, bekomme ich einmal mehr bestä<lb break="no"/>tigt, welche Ungerechtigkeit in der ganzen Ordensverleihung liegt.<lb/>
+</p>
+            <p xml:space="preserve">Vor dem Ministerrat spreche ich mit <name type="person" ref="per:97511">Haiden</name> über die Milchpreis<lb break="no"/>umänderung durch die beabsichtigte Kontingentierung. <name type="person" ref="per:97819">Plesch</name> hat<lb/>
+angenommen, dass die Konsumenten mit 50 – 60 Groschen belastet<lb/>
+werden. In Wirklichkeit wird durch Wegfall des Krisengroschens<lb/>
+der Bauer um 35 Groschen mehr bekommen und durch Verteilungs<lb break="no"/>änderung der Stützung zwar diese von 52 auf 66 Groschen steigen,<lb/>
+also weitere 14 Groschen den Bauern zufliessen, doch wird daraus –<lb/>
+so <name type="person" ref="per:97511">Haiden</name> – der Konsument nicht belastet. Die zu übernehmende Menge<lb/>
+<pb n="39-1268" facs="39_1977-11-08_1268.jpg"/>hat der Finanzminister zugestimmt kann nicht 105, sondern sogar<lb/>
+110 % sein. Die Bauern verlangen 118. Wenn wir sie nicht bezahlen,<lb/>
+dann fürchte ich, wird der Finanzminister trotz der Kontingen<lb break="no"/>tierung noch <choice><choice><sic>grösse</sic><corr>große/größere?</corr></choice></choice> Mittel aus dem Budget bereitstellen müssen.<lb/>
+Dazu käme theoretisch noch der 40-Groschen-Preiserhöhungsantrag<lb/>
+für den Erzeuger, den die Landwirtschaftskammer eingebracht hat.<lb/>
+Wenn die Kontingentierung mit Jahresanfang beginnt wird der Bauer<lb/>
+eine gewisse Einkommenserhöhung durch den Wegfall des Krisen<lb break="no"/>groschens und Stützungsumschichtung bekommen. Wir können des<lb break="no"/>halb die Erzeugermilchpreiserhöhung sicherlich einige Monate<lb/>
+hinausschieben.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97819">PLESCH</name>: Bitte <name type="person" ref="per:112010">Blaha</name>, Arbeiterkammer, seine Rechnung<lb/>
+verlangen.<lb/>
+</p>
+            <p xml:space="preserve">Im Ministerrat hat der Landwirtschaftsminister neuerdings ur<lb break="no"/>giert, ob in der Delegation nach der DDR auch wieder der Land<lb break="no"/>wirtschaftsvertreter mitgesendet werden kann. Ich habe in dieser<lb/>
+Frage kapituliert und alle Antragswünsche, auch des Finanz<lb break="no"/>ministers wegen Vertreter der Österreichischen Nationalbank<lb/>
+zugestimmt. Eine Einsparung auf diesem Gebiet kann meiner Meinung<lb/>
+nach nur so erreicht werden, dass die ganzen Kommissionen sich<lb/>
+nicht alle Jahre, sondern als nächsten Schritt alle zwei Jahre<lb/>
+treffen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte aufs nächste Jour fixe Arbeiterkammer<lb/>
+setzen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> bespricht die Zusammenstellung über die Dienstreisen.<lb/>
+Das Verteidigungsministerium hat durch die Abnahmereisen seiner<lb/>
+Beamten im ersten Halbjahr das Budget überzogen, wird aber im<lb/>
+Jahr unter der Budgetziffer bleiben. Im Unterrichtsministerium<lb/>
+sind es nur eine einzige Stelle, die von der Sparmassnahme über<lb break="no"/>haupt nicht scheinbar berührt ist und stark überzogen hat.<lb/>
+<name type="person" ref="per:113083">Sinowatz</name> wird dies ändern.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> wünscht eine Aufstellung der Reisen der Handelskammer<lb/>
+auf Grund des Aussenhandelsförderungsbeitragsgesetzes. Ins<lb break="no"/>besonders soll in Libyen eine riesige Delegation ganz sinnlos<lb/>
+gewesen sein. Ich werde deshalb von der Handelskammer unverzüglich<lb/>
+schriftlich eine solche Aufstellung für das heurige Jahr bis<lb/>
+<pb n="39-1269" facs="39_1977-11-08_1269.jpg"/>Ende Oktober über die Abteilung verlangen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte veranlasse sofort, dass ein diesbezüg<lb break="no"/>liches Schreiben der Abteilung und nicht von mir persönlich an die<lb/>
+Handelskammer gerichtet wird.<lb/>
+</p>
+            <p xml:space="preserve">Dr. <name type="person" ref="per:97469">Gehart</name> zeigt mir einen Brief des <name type="person" ref="per:98075">Willenpart</name><add>[hs. korrigiert, Anm.]</add> an ihn vom 4.11.<lb/>
+27.219.6/15/II/7, wo angeblich Schwierigkeiten sind, dem Wunsch<lb/>
+<name type="person" ref="per:97668">Kreiskys</name> entsprechend den indischen sozialdemokratischen<lb/>
+Politiker <name type="person" ref="per:117622">Fernandes</name> einzuladen. Ich kann mir sehr gut vorstellen,<lb/>
+dass dies ein auslösendes Moment war, weshalb <name type="person" ref="per:97668">Kreisky</name> jetzt<lb/>
+eine Aufstellung der Reisen der Handelskammer wünscht.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Wieso habe ich diesen Brief nicht gesehen?<lb/>
+</p>
+            <p xml:space="preserve">Bei dem Gespräch mit den Aussenhandelsstellenleitern Nord- und Nord<lb break="no"/>westeuropa hat der Vorsitzende <name type="person" ref="per:98075">Willenpart</name> die Sprachregelung<lb/>
+wegen Erhöhung der §-6-Zölle bekanntgegeben. Da es sich um<lb/>
+eine autonome Zollermässigung gehandelt hat, kann jetzt autonom<lb/>
+auch die Aufhebung ohneweiters erfolgen. Zu meiner grössten Ver<lb break="no"/>wunderung hat sich <name type="person" ref="per:97474">Gleissner</name> gemeldet und hat erklärt, die<lb/>
+Handelsdelegierten wurden durch Rundschreiben darauf aufmerksam<lb/>
+gemacht, dass diese Formulierung übernommen wird. Die Handels<lb break="no"/>kammer stellt aber neuerdings fest, dass sie dieser Erhöhung<lb/>
+nicht zugestimmt hat. Ich verlangte sofort, dass MR <name type="person" ref="per:113091">Bachmayer</name>,<lb/>
+der die Rechtsabteilung der Aussenhandelssektion leitet gerufen<lb/>
+wird. Er setzte Dr. <name type="person" ref="per:97474">Gleissner</name> auseinander, dass sein Vertreter<lb/>
+Dr. <name type="person" ref="per:116015">Ertl</name> und Dr. <name type="person" ref="per:116039">Lederleitner</name>, der die Zölle seit eh und je bear<lb break="no"/>beitet, bei der Aussprache dezidiert erklärte, sie könnten keine<lb/>
+Stellung dazu abgeben, da sie einen Präsidialbeschluss dazu<lb/>
+brauchen und das Präsidium erst am 16.11. zusammentritt. Soferne<lb/>
+Einwände kamen, wie z.B. gegen die Fahrräder aus der CSSR wurde<lb/>
+sofort diesen Einwand Rechnung getragen. Ich erklärte <name type="person" ref="per:97474">Gleissner</name>,<lb/>
+hätte man damals die Blue Jeans, das ist nämlich die zweite Post<lb/>
+die von der Handelskammer konkret beanstandet wird, vorgebracht<lb/>
+wäre selbstverständlich auch diese aus der Erhöhung ausgenommen<lb/>
+worden. Die Handelskammer hat aber gar keine andere Absicht gehabt<lb/>
+als, wie ich mit aller Deutlichkeit feststelle, eine neue Politik<lb/>
+einzuleiten, nämlich nicht mehr zu diskutieren und koordinieren,<lb/>
+sondern auf Konfrontationskurs zu gehen. Ich nehme dies zur Kennt<lb break="no"/><pb n="39-1270" facs="39_1977-11-08_1270.jpg"/>nis, stelle fest, dass es eine ungeheure Sache ist, jetzt hier<lb/>
+zu erklären, dass die Handelsdelegierten die Sprachregelung<lb/>
+übernehmen. Für mich ist dies so selbstverständlich wie nur etwas,<lb/>
+dass Handelsdelegierte, die die österreichischen Interessen im<lb/>
+Ausland zu vertreten haben, selbstverständlich die offizielle<lb/>
+Version, nur diese des Handelsministerium zu übernehmen haben.<lb/>
+Wenn die Handelskammer dies besonders unterstreicht, dann zeigt<lb/>
+sich für mich, welche Konfrontationsabsicht hier dahinter steckt.<lb/>
+Ich habe dies mit aller Deutlichkeit insbesondere in Anwesenheit<lb/>
+insbesondere des Generalsekretär-Stellvertreter <name type="person" ref="per:116699">Walkolbinger</name><lb/>
+gesagt. Da <name type="person" ref="per:97668">Kreisky</name> jetzt – aus welchen Gründen weiss ich nicht –<lb/>
+auf Konfrontationskurs mit der Handelskammer geht, kann es mir<lb/>
+nur recht sein, die entsprechende Schuld der Handelskammer für<lb/>
+diese Politik auch herauszustreichen. MR <name type="person" ref="per:113091">Bachmayer</name> hat sich<lb/>
+deutlich sichtbar bei dieser Aussprache geärgert. Er hatte von<lb/>
+mir Pleinpouvoir, mit der Handelskammer und der Arbeiterkammer<lb/>
+sowie der Landwirtschaftskammer zu einer Einigung zu kommen, hat<lb/>
+sich auch sehr bemüht, meinte mir gegenüber 3 Ministerien und 2<lb/>
+Interessenvertretungen hätten letzten Endes zugestimmt und ihm sei<lb/>
+es unerklärlich, dass die Handelskammer einen solchen Standpunkt<lb/>
+eingenommen hat. Mir ist es nicht unerklärlich, denn die Handels<lb break="no"/>kammer will in diesem Fall auf alle Fälle jetzt in Hinkunft die<lb/>
+Politik der Österreichischen Volkspartei stärker unterstützen.<lb/>
+Dazu muss sie sich jetzt schön langsam einer neuen Taktik zu<lb break="no"/>wenden. Vielleicht gelingt es <name type="person" ref="per:97893">Sallinger</name> diesen Kurs zu ändern,<lb/>
+der, Krach, den ich mit <name type="person" ref="per:97769">Mussil</name> darüber gehabt habe, zeigt mir aber<lb/>
+den neuen Kurs teilweise an, und die erste Aussprache, die ich<lb/>
+darüber mit <name type="person" ref="per:97474">Gleissner</name> führte bestätigte mir meine Vermutung. Ich<lb/>
+zweifle nicht, dass die Handelskammer es sehr schwer hat, die<lb/>
+Koordinierung zwischen Handel, insbesondere Importhandel und der<lb/>
+Produktion herzustellen. Liebend gerne versucht sie deshalb mir<lb/>
+den schwarzen Peter zuzuschieben, weil sie dadurch aus dem Dilemma<lb/>
+Koordinierung herauskommt. Da bei dieser Aussprache MR <name type="person" ref="per:115656">Steiger</name>,<lb/>
+<name type="person" ref="per:114800">Michitsch</name> und auch andere noch anwesend waren, die die Frage der<lb/>
+Strumpfhosen-Mindestpreisverordnung genau kannten, habe ich auch<lb/>
+dieses Problem zur Sprache gebracht. <name type="person" ref="per:97474">Gleissner</name> hat sofort zu<lb break="no"/>rückgezogen und meinte, hier wäre sowohl vom Handelsministerium<lb/>
+als auch von mir persönlich alles geschehen was notwendig war<lb/>
+und was die Handelskammer auch immer zur Kenntnis genommen hat.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte verlange von <name type="person" ref="per:115656">Steiger</name> auf Grund unserer<lb/>
+<pb n="39-1271" facs="39_1977-11-08_1271.jpg"/>gestrigen Aussprache ein Schreiben, welches<lb/>
+ich an Dr. <name type="person" ref="per:97474">Gleissner</name> in der Angelegenheit<lb/>
+Strumpfhosen richten möchte, wo ich den Sach<lb break="no"/>verhalt genau darstelle.<lb/>
+</p>
+            <p xml:space="preserve">Im Wirtschaftlichen Ministerkomitee, wo <name type="person" ref="per:114075">Schmidt</name>, Gewerkschafts<lb break="no"/>bund, <name type="person" ref="per:97678">Lacina</name>, Arbeiterkammer, sowie <name type="person" ref="per:114084">Peter Schramke</name><add>[hs. ergänzt, Anm.]</add>, der Direktor<lb/>
+der Kommunalkredit AG, zugezogen war, hat <name type="person" ref="per:97668">Kreisky</name> zur Arbeits<lb break="no"/>platzsicherung und Investitionstätigkeit der Regierung in der<lb/>
+Vergangenheit gemeint, wir hätten eine Unterlassungssünde be<lb break="no"/>gangen, nämlich zu wenig publiziert und zu wenige quantifiziert.<lb/>
+Dies soll jetzt sofort nachgeholt werden, damit man sieht<lb/>
+was diese Regierung gemacht hat um die Arbeitsplätze zu sichern,<lb/>
+während die ÖVP nur ein Arbeitsplatzsicherungsprogramm jetzt<lb/>
+vorgelegt hat. Da <name type="person" ref="per:97668">Kreisky</name> nach wie vor der Meinung ist, dass<lb/>
+es zu einer schweren Krise kommt, die Bau- und Eisen- und Stahl<lb break="no"/>produktion wird in Deutschland, wie <name type="person" ref="per:114075">Schmidt</name> sich ausdrückt,<lb/>
+innerhalb zwei Jahren zusammenbrechen, der neue Wirtschaftsminister<lb/>
+<name type="person" ref="per:111707">Lambsdorff</name> hat <name type="person" ref="per:108328">Pahr</name> gegenüber bereits angekündigt, dass Deutschland<lb/>
+Importrestriktionen erwägt, müssten alle Vorkehrungen getroffen<lb/>
+werden, um entweder neue Wege zu gehen oder alte Wege in neuer<lb/>
+Form. Dies ist nur möglich, wenn die Österreichische Nationalbank<lb/>
+zustimmt, die derzeit aber eine Politik verfolgt, wie in der<lb/>
+Ersten Republik Dr. <name type="person" ref="per:110982">Kienböck</name> mit dem Alpendollar. Damals hatten<lb/>
+wir die härteste Währung, dafür aber 600.000 Arbeitslose. Der<lb/>
+einzige Mann der in der Nationalbank hier die Regierungsinteressen<lb/>
+vertritt ist <name type="person" ref="per:98043">Waldbrunner</name>, der momentan schwer erkrankt ist und<lb/>
+zeitweise ausfällt. <name type="person" ref="per:98043">Waldbrunner</name> war es auch, der seinerzeit in<lb/>
+der Koalition noch ein 10-Mia.-Investitionsprogramm für die Ver<lb break="no"/>staatlichte Industrie durchgesetzt hat. Als erster Punkt meinte<lb/>
+<name type="person" ref="per:97668">Kreisky</name> müsste jetzt der Staat wieder eine sinnvolle öffentliche<lb/>
+Investition einleiten. Sinnvoll deshalb, weil wir jetzt z.B.<lb/>
+Schulen die in NÖ gebaut wurden zum Verkauf anbieten müssen, weil<lb/>
+es keine Kinder mehr in diesem Gebiet gibt. <name type="person" ref="per:97311">Androsch</name> verwies darauf<lb/>
+dass im Oktober wir einen Regierungsbeschluss gefasst haben, wo<lb break="no"/>nach ein Programm mit 500 Mia. Schilling für die Jahre 1977-86<lb/>
+beschlossen wurden. <name type="person" ref="per:97668">Kreisky</name> war darüber sehr überrascht – auch<lb/>
+ich habe mich nicht mehr daran erinnert – doch wurden damals ins<lb break="no"/>besondere die Investitionen, die das Bautenministerium und das<lb/>
+Verkehrsministerium hat, sowie auch alle anderen öffentlichen<lb/>
+Investitionen zusammengeschrieben und die ergeben leicht eine<lb/>
+solche gigantische Ziffer als Basisprogramm. <name type="person" ref="per:97668">Kreisky</name> kündigt<lb/>
+an, wenn die ÖVP-Landeshauptleute die Spitalsfinanzierung nicht<lb/>
+<pb n="39-1272" facs="39_1977-11-08_1272.jpg"/>akzeptieren, die ganzen Mittel dem Wasserwirtschaftsfonds<lb/>
+zugeleitet werden. Als zweiten Punkt soll jetzt die Aufstockung<lb/>
+der Investitionen bei der Verstaatlichten Industrie geklärt werden.<lb/>
+Die VÖEST braucht 7 – 10 Mia., <name type="person" ref="per:97470">Geist</name> möchte, dass die ÖIAG einen<lb/>
+Kreditrahmen von 6 Mia. aufnimmt und dann die entsprechenden Zu<lb break="no"/>teilungen an die einzelnen Betriebe vornimmt. Dies wäre nach<lb/>
+<name type="person" ref="per:97668">Kreisky</name> auch die Aufgabe einer Holding und nicht nur allein<lb/>
+wie jetzt eine teure Registrierstelle. Die Zinsenbelastung aus<lb/>
+diesem Kredit sollte aus den Dividenden der einzelnen Werke<lb/>
+kommen. Dir. <name type="person" ref="per:97498">Grünwald</name> spricht sich gegen eine solche Finanzierung<lb/>
+aus und möchte eine Kapitalzufuhr durch den Staat wie dies in<lb/>
+Italien und in Frankreich ebenfalls üblich ist. <name type="person" ref="per:97668">Kreisky</name> neigt<lb/>
+mehr dem Geist-Plan zu, da er auf dem Standpunkt steht, es muss<lb/>
+ein inneren Ausgleich innerhalb der Verstaatlichten Betriebe er<lb break="no"/>folgen. Eine sogenannte Solidarhaftung müsste dabei sein und die<lb/>
+ÖMV, die in Geld schwimmt und nicht weiss was sie damit anfangen<lb/>
+soll, muss eben Mittel für die Stahlindustrie bereitstellen, resp.<lb/>
+abzweigen. Als dritter Punkt ist die Investitionstätigkeit für<lb/>
+die sonstige Wirtschaft zu regeln. ERP-Mittel sind zu wenig hier.<lb/>
+Derzeit aber werden selbst die wenigen nicht gebraucht.Es besteht<lb/>
+eine ausgesprochene Investitionsunlust. Ausserdem arbeitet der<lb/>
+ERP-Fonds viel zu langsam. <name type="person" ref="per:97311">Androsch</name> behauptete sogar beim Fremdenver<lb break="no"/>kehr werden heuer nicht einmal die Mittel gebraucht, die er mit<lb/>
+den Budgetüberschreitungsgesetz zur Verfügung gestellt hat. Ich<lb/>
+widersprach sofort, meinte, ich werde ihm aktenmässig nachweisen,<lb/>
+dass die Verzögerung der ERP-Zuteilung bei dem ERP-Büro resp.<lb/>
+beim Finanzministerium liegt. <name type="person" ref="per:97668">Kreisky</name> hat dann auch die <name type="person" ref="per:98003">Taus</name>-Idee,<lb/>
+Importsubstitutionen zu finanzieren und zu subventionieren als<lb/>
+sehr teuer und unmöglich ganz entschieden abgelehnt. <name type="person" ref="per:97668">Kreisky</name><lb/>
+warnte vor allem mal vor einem Protektionismus und griff ganz beson<lb break="no"/>ders die Zollerhöhung des Finanzministeriums – ohne dass er es<lb/>
+sagte – an, weil damit der Osthandel benachteiligt wird. Bei <name type="person" ref="per:97668">Kreisky</name><lb/>
+war nämlich der bulgarische Botschafter und hat namens seines Landes<lb/>
+dagegen protestiert. Diese Arbeitsgruppe soll nun Staatssekretär<lb/>
+<name type="person" ref="per:110169">Nussbaumer</name>, Investition für die Gesamtwirtschaft<add>?</add> leiten.<lb/>
+Als vierter Punkt wurde die Handelspolitik von <name type="person" ref="per:97668">Kreisky</name> erwähnt,<lb/>
+wobei er insbesondere auf die unfähigen Handelsdelegierten in den<lb/>
+meisten Staaten verwies, die nicht imstande sind, den Exportzu<lb break="no"/>wachsrückgang zu verhindern. Insbesondere müsste man der UdSSR<lb/>
+klarmachen, dass sie in Österreich wesentlich mehr Produkte jetzt<lb/>
+<pb n="39-1273" facs="39_1977-11-08_1273.jpg"/>bei dieser aktiven Zahlungsbilanz ihr gegenüber kaufen<lb/>
+müsste. <name type="person" ref="per:97311">Androsch</name> fragte an, wie jetzt eine weitere Polen<lb break="no"/>finanzierung von 2 Mia. von <name type="person" ref="per:97668">Kreisky</name> beurteilt wird, nachdem<lb/>
+die Polen jetzt Verhandlungen über weitere 800 Megawatt, mittlere<lb/>
+LKW-Produktion und Kohlenpipeline anbieten. Dafür möchten sie<lb/>
+jetzt, lange also bevor überhaupt Klarheit herrscht ob wir diese<lb/>
+Projekte machen können, von der Durchführung ganz zu schweigen,<lb/>
+bereits wieder 2 Mia. Kredit. <name type="person" ref="per:97668">Kreisky</name> erklärte dezidiert, für<lb/>
+weitere Kreditaufstockung bestehe keinerlei Risiko – er sagte<lb/>
+im wahrsten Sinne des Wortes, das Risiko ist Null – denn die<lb/>
+UdSSR wird niemals zulassen, dass Polen eine Rate nicht zurück<lb break="no"/>zahlen könnte. Die UdSSR wird also bei Schwierigkeiten Polens für<lb/>
+sie einspringen. <name type="person" ref="per:97668">Kreisky</name> fragte <name type="person" ref="per:97311">Androsch</name> dann ob er auch der Meinung<lb/>
+sei, man sollte eine arabische Bank in Österreich gründen lassen,<lb/>
+was <name type="person" ref="per:97311">Androsch</name> bejahte und <choice><choice><sic>auch</sic><corr>auf</corr></choice></choice> Saudi-Arabien hinwies. <name type="person" ref="per:97668">Kreisky</name><lb/>
+möchte dagegen mehr Kuwait und Abu Dhabi heranziehen. Bezüglich<lb/>
+der Zahlungsunfähigkeit Nordkoreas dies sei eine Folge der<lb/>
+Kriegspolitik des Präsidenten Kim. Nur aus diesem Grunde hat die<lb/>
+UdSSR das Obligo für Nordkorea nicht erfüllt und auch die Chinesen<lb/>
+sind nicht bereit diese Kriegspolitik Nordkoreas zu unterstützen.<lb/>
+Dies sei der Grund der Zahlungsunfähigkeit. Bei allen anderen<lb/>
+Oststaaten besteht diese Gefahr nicht. Bezüglich der Energiepolitik<lb/>
+muss mehr auf das Sparen hingearbeitet werden und ausserdem<lb/>
+sollen alle möglichen Projekte sofort in Angriff genommen werden,<lb/>
+weil sich diese unter allen Umständen in Zukunft als rentabel erwei<lb break="no"/>sen werden. Ich verwies darauf, dass es jetzt endlich notwendig<lb/>
+ist die Genehmigung für die Brennstäbeeinfuhr zu geben. Wenn dies<lb/>
+nicht geschieht dann wird das erste Mal die Behörde wegen der<lb/>
+Verzögerung schuldig. <name type="person" ref="per:97668">Kreisky</name> liess sich zu meiner grössten Ver<lb break="no"/>wunderung ausnahmsweise den Transport genau erklären.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name>: Bitte einen genauen Zeitplan mit dem notwen<lb break="no"/>digen Genehmigungsverfahren von <name type="person" ref="per:107937">Frank</name> verlangen, damit ich ihn mit<lb/>
+<name type="person" ref="per:107938">Leodolter</name> endgültig vereinbaren kann.<lb/>
+</p>
+            <p xml:space="preserve">Als Finanzierungsinstrument für die Entwicklungshilfe und um<lb/>
+Aufträge aus Entwicklungsländern zu bekommen, soll die Idee eines<lb/>
+entsprechenden Institutes weiter verfolgt werden. In Ergänzung<lb/>
+zur arabischen Bank wäre gerade Wien als Sitz der OPEC und der<lb/>
+UNIDO eine solche Institution von grösster Bedeutung. 40 Mia.<lb/>
+Dollar haben der Osten Kredite, 110 Mia. aber die Entwicklungs<lb break="no"/><pb n="39-1274" facs="39_1977-11-08_1274.jpg"/>länder. 80 % davon allerdings Mexiko, Brasilien, Philippinen<lb/>
+und zwei andere. Als letzter wichtiger Punkt wurde dann noch<lb/>
+die Ölmühle erwähnt und das Sulfatzellstoffprojekt. Was immer<lb/>
+geschieht an der Finanzierung noch kein grosses Projekt gescheitert<lb/>
+ist, sollen jetzt alle Voraussetzungen - <name type="person" ref="per:97511">Haiden</name> ersuchte mich ich<lb/>
+sollte hier initiativ und federführend sein - in Angriff genommen<lb/>
+werden.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name> UND <name type="person" ref="per:97819">PLESCH</name>: Bitte die Projekte jetzt weiter<lb break="no"/>treiben, damit entsprechende Ministerratsvorträge gemacht werden<lb/>
+können.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97468">Gatscha</name> hat zur Finanzierung aller Projekte vorgeschlagen, man<lb/>
+soll, so wie dies auch das letzte Mal geschehen ist, ERP-Mittel<lb/>
+für Zinsenzuschüsse heranziehen. Dies widerspricht nach Auf<lb break="no"/>fassung einiger Juristen eindeutig den Vertrag mit den Amerikanern<lb/>
+eine Änderung des Vertrages kommt aber nicht in Frage erklärte<lb/>
+<name type="person" ref="per:97668">Kreisky</name>, sondern da wollen wir ihn genauso wie das letzte Mal<lb/>
+eben so interpretieren und die Amerikaner haben dagegen nicht<lb/>
+protestiert.<lb/>
+</p>
+            <p xml:space="preserve">Die Sektionsleitersitzung entwickelt sich jetzt routinemässig<lb/>
+und dient in Wirklichkeit mehr zum Nachweis dem Bundeskanzler<lb break="no"/>amt auf Grund des Ministeriengesetzes der Tätigkeit des Handels<lb break="no"/>ministeriums.</p>
+            <p xml:space="preserve">Der neue bulg. Botschafter <name type="person" ref="per:113027">Georgiew</name> hat wegen der §-6-Zölle<lb/>
+protestiert. Er wollte für Bulgarien eine Ausnahmeregelung,<lb/>
+da Bulgarien in unserem Handel sehr passiv ist. Eine solche<lb/>
+Unterscheidung geht aber nicht, da die Meistbegünstigung Zoll<lb break="no"/>genehmigungen von allen verlangt und die UdSSR z.B. sofort<lb/>
+heftigst dagegen protestieren würde. In den ersten 3 Quartalen<lb/>
+wurden für 15 Mio. Dollar Obst und Gemüse eingeführt. Unsere<lb/>
+Statistik zeigt auch, dass von 156 Mio. auf 198 Mio. Schilling die<lb/>
+Einfuhr in den ersten 3 Quartalen gestiegen ist. Überhaupt war<lb/>
+es möglich den Import von 331 Mio auf 451 zu erhöhen, während<lb/>
+der Export nur von 577 auf 673 gestiegen ist. Dies ist allerdings –<lb/>
+ich sagte es nicht ausdrücklich – darauf zurückzuführen, dass die<lb/>
+zu erwartende Beizanlage, die jetzt die Firma Ruthner bereit wäre<lb/>
+<pb n="39-1275" facs="39_1977-11-08_1275.jpg"/>mit 210 Mio. Schilling abzuschliessen - als die Bulgaren 220 geboten<lb/>
+haben – hat <name type="person" ref="per:113066">Ruthner</name> abgelehnt, wahrscheinlich nicht zustande<lb/>
+kommt.<lb/>
+</p>
+            <p xml:space="preserve">Vom Volkswagenwerk ruft der Vorstandsdirektor <name type="person" ref="per:111752">Münzner</name> an<lb/>
+und teilt mir mit, das Vorstand hätte gerade beschlossen<lb/>
+nicht nur von Österreich Teile zu beziehen, sondern sich auch<lb/>
+an österreichischen Firmen durch Kooperation oder Joint venture<lb/>
+zu beteiligen. In Frage kämen nur arbeitsintensive und nicht zu<lb/>
+sperrige Produkte. Er könne sich vorstellen, dass Kunststoff,<lb/>
+Gummi oder Batterien dafür in Frage kämen. Er erwartet vom<lb/>
+Handelsministerium entsprechende Vorschläge.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: Bitte unverzüglich einen Brief mit Vor<lb break="no"/>schlägen an <name type="person" ref="per:111752">Münzner</name> schicken.<lb/>
+</p>
+            <p xml:space="preserve">Der Handelsdelegierte von Grossbritannien <name type="person" ref="per:139535">Kuncar</name> teilt mir<lb/>
+mit, dass British Leyland ebenfalls bereit wäre grössere Zuliefer<lb break="no"/>abnahmen zu machen. Er hält einen Brief von mir an Minister <name type="person" ref="per:146608">Dell</name>,<lb/>
+der im Vorjahr in Österreich auf meine Einladung war, für zweck<lb break="no"/>mässig.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name> UND <name type="person" ref="per:97819">PLESCH</name>: Bitte einen solchen Brief vor<lb break="no"/>bereiten lassen.<lb/>
+</p>
+            <p xml:space="preserve">Die Zeitschrift REGAL und der Klub 3M haben für drei Firmen, die<lb/>
+Innovationen im Handel vorbereiten und durchführen, 3 Goldene<lb/>
+Waagen gespendet. Erstmalig wurde dieser Preis verteilt und man<lb/>
+hat mich eingeladen, dort ebenfalls einige Worte zu sagen. Normaler<lb break="no"/>weise sagte ich bin ich programmiert als letzter zu sprechen und<lb/>
+dadurch auf die ganzen Vorredner einzugehen. Wenn ich diesmal als<lb/>
+erster reden muss, so möchte ich herausstreichen, dass ich die<lb/>
+Funktion des Handels nicht unterschätze, dass es freies Unternehmer<lb break="no"/>tum auch im Handel geben muss, dass ich aber doch mit Präs. <name type="person" ref="per:121793">Fuchs</name>,<lb/>
+dem Obmann der Sektion Handel, der übrigens dann eine blendende<lb/>
+Rede hielt, gar nicht aggressiv war, nur in dem Ausmass wie wir die<lb/>
+Reorganisation des Handels durchführen sollten, verschiedener<lb/>
+Meinung bin. <name type="person" ref="per:117982">Schuhmayer</name>, dem Redakteur von REGAL, der sehr be<lb break="no"/>geistert war, dass ich mich ihm zur Verfügung stellte, habe ich<lb/>
+dann vorgeschlagen, er soll eine grössere Enquete, womöglich im<lb/>
+Rahmen der Handelskammer einberufen und ich bin gerne bereit,<lb/>
+<pb n="39-1276" facs="39_1977-11-08_1276.jpg"/>dann dort hinzukommen, um Rede und Antwort zu stehen.<lb/>
+</p>
+            <p xml:space="preserve">Im Bezirk gab es eine längere Diskussion auf mein Referat<lb/>
+insbesondere wegen der Gastarbeiter. Für mich verwunderlich ist,<lb/>
+dass die grösste sozialpolitische, d.h. familienpolitische Maß<lb break="no"/>nahme, nämlich Abschaffung der Steuerabsetzbeträge und dafür<lb/>
+Erhöhung der Kinderbeihilfen, die für die Kleinstverdiener eine<lb/>
+gigantische und soziale Lösung ist, nicht die Zustimmung aller<lb/>
+unserer Genossen findet. Die Aversion einzelner gegen die Gast<lb break="no"/>arbeiter ist so stark, dass man ganz einfach erklärt, dies trifft<lb/>
+ja doch nur die Gastarbeiter und hilft dem österreichischen Arbei<lb break="no"/>ter nicht. Ich habe mich verpflichtet, das nächste Mal eine Statistik<lb/>
+vorzulegen wo festgestellt wird, wieviel Gastarbeiterkinder die<lb/>
+Kinderbeihilfe bekommen und wieviel Österreicher. Eine solche<lb/>
+Aufstellung müsste es meiner Meinung nach geben, vielleicht ist<lb/>
+es auch möglich eine Aufstellung zu bekommen, wo man genauer<lb/>
+festhält, wieviel Kinderbezieher jetzt in den Genuss dieser 880,--<lb/>
+Schilling für das erste Kind, d.h. der vollen Kinderbeihilfe<lb/>
+kommen können.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name>: Bitte von Staatssekretär <name type="person" ref="per:97614">Karl</name> eine solche<lb/>
+Aufstellung verlangen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="39_1266_01" facs="39_1977-11-08_1266-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 8.11.1977</head>
+         </div>
+         <pb n="39_1266_02" facs="39_1977-11-08_1266-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+         <pb n="39_1276_01" facs="39_1977-11-08_1276-01.jpg"/>
+         <pb n="39_1276_02" facs="39_1977-11-08_1276-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesordnung 94. Ministerratssitzung, 8.11.1977</head>
+         </div>
+      </back>
+   </text>
+</TEI>

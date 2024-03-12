@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstag, der 28. November 1978</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band45_1978-11-28</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1978-11-28">Dienstag, 28. November 1978</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2017-07-26">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="45-1385" facs="45_1978-11-28_1385.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Dienstag, 28. November 1978<lb/>
+</p>
+            <p xml:space="preserve">Die Fraktion der sozialistischen Beamten im Handelsministerium<lb/>
+unter Führung von <name type="person" ref="per:111706">Gustav Müller</name>, Dr. <name type="person" ref="per:116120">Hille</name>, <name type="person" ref="per:118311">Grodicky-Keller</name>, also<lb/>
+zwei Frauen, und <name type="person" ref="per:114499">Krehlik</name> hatten bei mir vorgesprochen, um sich zu<lb/>
+beschweren, dass viel zu wenig Genossen in Abteilungsleiterposten<lb/>
+usw. berufen werden. Ich machte ihnen mit aller Deutlichkeit klar,<lb/>
+dass unsere Personalpolitik seit 1970 darauf gerichtet war, gute Leute<lb/>
+von uns sehr wohl in Positionen zu bringen. Voraussetzung dafür aber<lb/>
+ist, dass er wirklich der Bestqualifizierte für diesen Posten ist.<lb/>
+Ich hätte nicht die Möglichkeit gehabt, wenn ich ausschliesslich<lb/>
+nach dem Gesichtspunkt gegangen wäre, dass jemand Genosse ist, muss<lb/>
+er in eine entsprechende Position gebracht werden, eine, wie ich<lb/>
+glaube, auch sehr erfolgreiche parteipolitische Personalpolitik zu<lb/>
+betreiben, wenn ich nur nach dem Parteibuch gegangen wäre. Dies<lb/>
+lehne ich kategorisch ab. Ich hätte unter allen Umständen grösste<lb/>
+Schwierigkeiten im Parlament gehabt, wenn ich mich oft nach den Vor<lb break="no"/>schlägen der Partei gerichtet hätte. Bei mir ist und bleibt die<lb/>
+wichtigste Voraussetzung, dass der Bewerber qualifiziert ist. SChef<lb/>
+<name type="person" ref="per:112949">Kazda</name> hat dann im einzelnen seine Personalentscheidungen seit diesem<lb/>
+Jahr erklärt und auch klargemacht, dass sehr wohl – wenn der anderen<lb/>
+Seite Zugeständnisse gemacht wurden – dann entsprechende Vorschläge,<lb/>
+die für uns von Bedeutung sind, durchgesetzt werden konnten. Selbst<lb/>
+<name type="person" ref="per:116120">Hille</name> musste zugeben, dass eben der Ministerialkanzleidirektor<lb/>
+von grösster Wichtigkeit ist. Konkret ging es um die Besetzung der<lb/>
+Abteilung <name type="person" ref="per:110035">Thun-Hohenstein</name> und <name type="person" ref="per:114662">Bodenstein</name>. Auch hier wird der beste<lb/>
+Bewerber zum Zuge kommen. <name type="person" ref="per:112949">Kazda</name> hat dann anschliessend mit den Kolle<lb break="no"/>ginnen und Kollegen noch entsprechende Aussprache geführt und, wie<lb/>
+er mir nachher berichtete, weitestgehendes Verständnis gefunden. Viel<lb break="no"/>leicht liegt es daran, dass wir zu wenig Kontakt mit der Fraktion<lb/>
+haben, insbesondere gilt dies, glaube ich, auch für <name type="person" ref="per:112949">Kazda</name>. Neuerdings<lb/>
+wurde auch wieder urgiert, dass die Abteilung <name type="person" ref="per:114402">Fellner</name> dringend Leute<lb/>
+braucht, weil der Genosse <name type="person" ref="per:118312">Wallowitsch</name> jetzt beim Militär bleiben<lb/>
+will, um seine Dienstzeit voll abzuleisten, gleichzeitig auch zwei<lb/>
+andere zur Dienstprüfung abgestellt wurden. Mir erscheint diese Ein<lb break="no"/>teilung der Abteilung – für die letzten Endes <name type="person" ref="per:114402">Fellner</name> selbst ver<lb break="no"/>antwortlich ist – unerklärlich. <name type="person" ref="per:118312">Wallowitsch</name> – hat mir SChef <name type="person" ref="per:98053">Wanke</name><lb/>
+mitgeteilt – <choice><choice><sic>war</sic><corr>hatte</corr></choice></choice> beabsichtigt, vom Militär freizubekommen, damit er<lb/>
+<name type="person" ref="per:114402">Fellner</name> unterstützt. Jetzt hat er aber den Plan umgestossen und<lb/>
+<pb n="45-1386" facs="45_1978-11-28_1386.jpg"/>bleibt unbedingt beim Militär, weil er einen guten Kanzleiposten<lb/>
+hat. <name type="person" ref="per:98053">Wanke</name> berichtete mir vorher zu recht, dass wir ihm, wenn er<lb/>
+tatsächlich die Militärdienstzeit dann noch hatte zusätzlich abdienen<lb/>
+müssen, aufgrund der Tätigkeiten der Wirtschaftlichen Landesver<lb break="no"/>teidigung viel besser hätte noch eingesetzt werden können. Trotz<lb break="no"/>dem lehnte <name type="person" ref="per:118312">Wallowitsch</name> ab. Abgesehen davon, dass nicht dann gleich<lb break="no"/>zeitig hätten 2 zu Dienstprüfungen abgestellt werden müssen, wird man<lb/>
+sich halt jetzt ein wenig einschränken müssen. Früher einmal hatte<lb/>
+die Sektion Industrie überhaupt keine Branchenreferenten, daher<lb/>
+auch nicht so viele Beamte und es ist irgendwie auch gegangen. Diese<lb/>
+Zeit wird man überbrücken können.<lb/>
+</p>
+            <p xml:space="preserve">Sekretär <name type="person" ref="per:116109">Ettl</name> von der Textilgewerkschaft interveniert bei mir, ob<lb/>
+man nicht Frau <name type="person" ref="per:118314">Heger</name>, die eine textilchemische Ausbildung mit sehr<lb/>
+gutem Maturaabschluss hinter sich hat, anstellen könnte. Er hat auf<lb break="no"/>grund von Zusagen, die ihm vom Haus gemacht wurden, diese Kollegin,<lb/>
+die übrigens der Partei nicht angehört, nicht nur empfohlen sich zu<lb/>
+bewerben, sondern auch <choice><choice><sic>weitesgehendst</sic><corr>weitestgehend; weitgehendst</corr></choice></choice> auch Hoffnungen gemacht. Sie<lb/>
+ist die Tochter eines Professors. <name type="person" ref="per:112949">Kazda</name> wird sich den Fall anschauen.<lb/>
+Ich selbst wünsche, dass Zusagen so weit wie möglich eingehalten werden.<lb/>
+Man sollte halt nur bei Zusagen vorsichtiger sein.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:116109">Ettl</name> berichtet mir auch bei dieser Gelegenheit, dass beschlossen wurde,<lb/>
+Vöslau stillzulegen. Dies bedeutet, 600 Arbeitsplätze gehen verloren,<lb/>
+200 sind übrigens über 50 Jahre alt und daher äusserst schwer, selbst<lb/>
+im Raume Wien und Umgebung, zu vermitteln. In Heidenreichstein werden<lb/>
+ebenfalls 100 freigesetzt, in Micheldorf ebenfalls 100. Die Strumpf<lb break="no"/>hosenproduktion in Heidenreichstein bleibt aufrecht. <name type="person" ref="per:116109">Ettl</name> führt das<lb/>
+auch darauf zurück, dass <name type="person" ref="per:97668">Kreisky</name> bei der Fraktion der Gewerkschaft<lb/>
+der Privatangestellten die Mitteilung machte, dass die Privatpleiten<lb/>
+vom Staat nicht finanziert werden können. Meiner Meinung nach findet<lb/>
+sich eben niemand, der zu den 160 Mio Schilling, die Bundeshaftung<lb/>
+jetzt fällig werden, noch weitere hunderte Millionen Schilling hinein<lb break="no"/>steckt in einen Betrieb, der scheinbar nicht zu sanieren ist.<lb/>
+</p>
+            <p xml:space="preserve">Auch im Parlament gab es bei der Budgetdebatte natürlich immer wieder<lb/>
+das Problem der Arbeitsplatzsicherung. Interessant ist, dass die<lb/>
+ÖVP zwar das Budget heftig kritisiert und ablehnt, weil es ein so<lb/>
+hohes Defizit hat, die Ausgaben müssten wesentlich reduziert werden,<lb/>
+<pb n="45-1387" facs="45_1978-11-28_1387.jpg"/>da man ja die Einnahmen sogar durch Steuersenkungen ebenfalls<lb/>
+herabsetzen möchte, das Defizit wäre darüber hinaus noch zu verrin<lb break="no"/>gern, gleichzeitig aber z.B. der Abg. <name type="person" ref="per:118315">Burger</name>, Betriebsrat bei<lb/>
+VÖEST Alpine für die verstaatlichten Betriebe, insbesondere für<lb/>
+VOEST Alpine Budgetmittel verlangt.<lb/>
+</p>
+            <p xml:space="preserve">MR <name type="person" ref="per:114549">Konvicka</name> vom Rechnungshof, der für das Handelsministerium<lb/>
+zuständig ist, hat jetzt alle Berghauptmannschaften geprüft und<lb/>
+berichtet mir, dass die Vorgangsweise, aber vor allem die Aus<lb break="no"/>lastung in den einzelnen Berghauptmannschaften unterschiedlich<lb/>
+sei. Seiner Meinung nach müsste eine Reorganisation der Berghaupt<lb break="no"/>mannschaften erfolgen. Ich erkläre ihm in Anwesenheit von MR <name type="person" ref="per:108609">Sterk</name><lb/>
+als den für die Oberste Bergbehörde Zuständigen, dass wir seinen Be<lb break="no"/>richt genau studieren werden, der übrigens erst Mitte nächsten Jahres<lb/>
+kommen wird. Auf der einen Seite wird man die Reformvorschläge, die<lb/>
+ja letzten Endes aus diesem Bericht <choice><choice><sic>ressortieren</sic><corr>resultieren?</corr></choice></choice> werden, sehr genau<lb/>
+prüfen, auf der anderen Seite aber wird gerade die Berghauptmann<lb break="no"/>schaft durch unsere neuen Aktivitäten für Rohstoffsicherung und<lb/>
+Durchführung des Lagerstättengesetzes mit zusätzlichen Aufgaben zu<lb/>
+betrauen sein. Bei der Stillegung von Berghauptmannschaften, weil sie<lb/>
+jetzt sehr wenig Bergberechtigungen haben, die noch aktiv ausgeführt<lb/>
+werden, stosst man allerdings auf den heftigsten Widerstand der ent<lb break="no"/>sprechenden Landeshauptleute. Einige haben bei mir schon vorbeugend<lb/>
+ihre Bedenken gegen jedwede Änderung vorgebracht. Dies gilt für Tirol<lb/>
+genauso wie für Kärnten. Sicher erscheint mir nur eines, dass am<lb/>
+meisten 2 Berghauptmannschaften in der Steiermark kritisiert werden.<lb/>
+Typisch bei der Berichterstattung des Rechnungshofes war für mich<lb/>
+seine Kritik an den Schürfrechten. Diese betragen 14 Schilling und<lb/>
+werden sogar 2 mal im Jahr mit 7 Schilling eingehoben. Natürlich könnte<lb/>
+man hier eine wesentliche Vereinfachung machen. <name type="person" ref="per:114549">Konvicka</name> meinte so<lb break="no"/>gar, man könnte sie wesentlich erhöhen. Er setzte diese Abgabe im Ver<lb break="no"/>gleich zum Antragstempel mit 70 Schilling plus 30 Schilling Gebühren –<lb/>
+strittig ist noch, ob nicht noch eine Verleihgebühr von 400 Schil<lb break="no"/>ling fällig ist, dadurch natürlich die Schürfrechte als vollkommen<lb/>
+unzulänglich dargestellt werden. Wenn man aber bedenkt, dass es Be<lb break="no"/>triebe gibt, die tausende von Schürfrechten haben, sieht die finan<lb break="no"/>zielle Belastung schon anders aus. Trotzdem hat MR <name type="person" ref="per:108609">Sterk</name> zugesichert,<lb/>
+auch dieses Problem einer genauen Prüfung zu unterziehen.<lb/>
+</p>
+            <pb n="45-1388" facs="45_1978-11-28_1388.jpg"/>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Vielleicht kann man die ganze Frage über<lb/>
+das Finanzministerium über Computer abrechnen.<lb/>
+</p>
+            <p xml:space="preserve">Der neue schwedische Energieminister <name type="person" ref="per:118320">Tham</name> hat auf dem Weg nach Paris<lb/>
+bei uns einen Besuch abgestattet. Die kleinste Partei – nämlich<lb/>
+die Liberalen – stellt jetzt eine alleinige Regierungsmannschaft.<lb/>
+Bösartige Zungen behaupten sogar, damit haben sie alle ihre Mit<lb break="no"/>glieder in der Regierung. Die liberale Partei hat in der Kernkraft<lb break="no"/>werkfrage einen Mittelweg beschritten. In Schweden gibt es umfang<lb break="no"/>reiches Material für die Möglichkeit der Umrüstung von Kernkraft<lb break="no"/>werken in kalorische Kraftwerke. Auch dort waren die Ergebnisse, wie<lb/>
+er mir mitteilte, eindeutig negativ. Die Kosten sind wesentlich höher<lb/>
+wenn man ein Kernkraftwerk umrüsten würde, als wenn man gleich ein<lb/>
+neues kalorisches anderswo baut. Der Botschafter wird uns das Material<lb/>
+zur Verfügung stellen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Bitte dieses Material sofort dann der Kern<lb break="no"/>kraftwerksgesellschaft übermitteln, die es dringender braucht als die<lb/>
+Behörde.<lb/>
+</p>
+            <p xml:space="preserve">Direktor <name type="person" ref="per:118321">Walz</name> von der "Z" kam mit dem Betriebsratsobmann, Baumeister<lb/>
+<name type="person" ref="per:118322">Heinzl</name> von der UNION-Bau. Dieser beschwerte sich über die Tiefstpreis<lb break="no"/>politik, u.a. haben die Tauernkraftwerke nicht ihnen, sondern einer Firma<lb/>
+Zyplin Hausberger<add>[?]</add> den Zuschlag zugeteilt, da diese wesentlich<lb/>
+billiger angeboten haben. Er betrachtet die beiden Firmen als aus<lb break="no"/>ländische, die durch den Dollarverfall eine Fräse, die einge<lb break="no"/>setzt werden muss, obwohl sie sie neu anschaffen mussten, als Leistung<lb/>
+wesentlich billiger anbieten konnten als die UNION-Bau eine fast<lb/>
+schon abgeschriebene Fräse. Seiner Meinung nach sei es auch möglich<lb/>
+auf Drittmärkten, insbesonders in Arabien, noch gute Geschäfte zu<lb/>
+machen. Konkrete Vorschläge konnte er aber keine bringen. <name type="person" ref="per:118321">Walz</name> hat<lb/>
+daher scheinbar diese Vorsprache mit ihm bei mir nur gemacht, um einem<lb/>
+Bedürfnis der "Z" oder des Betriebsratsobmann Rechnung zu tragen. Da<lb/>
+die UNION-Bau eine Tochtergesellschaft der CA ist, fragte ich mich,<lb/>
+wie überhaupt die "Z" hier in diesem Kontakt gekommen ist. <name type="person" ref="per:118322">Heinzl</name><lb/>
+hat sich über das Management sehr beklagt und meinte, dieses ist so<lb/>
+<pb n="45-1389" facs="45_1978-11-28_1389.jpg"/>unbeweglich und hat überhaupt keine Aktivitäten entfaltet, um<lb/>
+die Arbeitsplätze zu sichern. Ich kann in der jetzigen kritischen<lb/>
+Phase in der Bauwirtschaft der Betriebsräte verstehen. Angeblich<lb/>
+wird die Gewerkschaft der Bauarbeiter ein entsprechendes Programm<lb/>
+vorlegen, damit die Arbeitsplätze gesichert werden. Auch dort – bin<lb/>
+ich überzeugt – wird es sich nur um allgemeine Forderungen handeln<lb/>
+und um keine konkreten, durchgerechneten und auch finanzierbaren Pro<lb break="no"/>jekte. Bei vollem Verständnis für die Sorge, die sich auch Betriebsräte<lb/>
+um das Wohl und Weh einer Firma machen, glaube ich dennoch, dass es<lb/>
+schlecht ist, wenn die Betriebsräte Direktionsarbeit, d.h. Manage<lb break="no"/>menttätigkeit entfalten, während die Direktoren oder Manager wo<lb break="no"/>möglich die sozialpolitischen Forderungen der Arbeiter vertreten.<lb/>
+Manchmal habe ich aber den Eindruck, dass dies in gewissen Branchen<lb/>
+geschieht.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97819">PLESCH</name>: Das Branchenreferat soll sich erkundigen, was<lb/>
+bei der Bauarbeitergewerkschaft wirklich beabsichtigt ist.<lb/>
+</p>
+            <p xml:space="preserve">Der österreichische Botschafter in Nigeria, Dr. <name type="person" ref="per:118323">Leifer</name>, intervenierte<lb/>
+bei mir, damit Austroplan für die Studie Werkzeugmaschinenindustrie<lb/>
+eine Entwicklungshilfe für 4 Mio Schilling bekommt. 50% würde sogar<lb/>
+vielleicht die Handelskammer dazuzahlen. Austroplan würde als Consul<lb break="no"/>ting-Firma dann entsprechend eingeschaltet werden und das Ganze würde<lb/>
+40 Mio Schilling kosten. Ich habe <name type="person" ref="per:118323">Leifer</name> vorgeschlagen, man soll<lb/>
+denselben Weg gehen, der schon einige Male von mir praktiziert wurde.<lb/>
+Die grossen Firmen bekommen für feasibility-Studie oder für sonstige<lb/>
+Aktivitäten Entwicklungshilfe sozusagen vorgestreckt. Wenn es zu den<lb/>
+Auftrag kommt, müssen die Firmen dann diese Entwicklungshilfe dem<lb/>
+Staat wieder zurückzahlen. Wenn es nicht zu den Auftrag kommt, dann<lb/>
+haben sie natürlich nur entsprechend grosse Aufwände gehabt und<lb/>
+da soll die Entwicklungshilfe ihnen einen gewissen Teil davon er<lb break="no"/>setzen.<lb/>
+</p>
+            <p xml:space="preserve">Ein zweites Projekt ist die Austriaconsult, <name type="person" ref="per:118326">Sobotka</name>, die die Aufgabe<lb/>
+hat, das Nachrichtensystem, welches 2 Mia Naira Investitionen gekostet<lb/>
+hat, zu prüfen, weil es jetzt nicht funktioniert. Auch hier wären<lb/>
+gewisse Unterstützungen notwendig. Das grosse Stahlprojekt der VÖEST<lb/>
+in Warri mit 1,7 Mia Schilling könnte jetzt zum Tragen kommen, denn<lb/>
+die Franzosen haben jetzt zugestimmt, dass am EURO-Markt eine entspre<lb break="no"/><pb n="45-1390" facs="45_1978-11-28_1390.jpg"/>chende projektgebundene Anleihe aufgelegt werden kann. <name type="person" ref="per:118323">Leifer</name><lb/>
+teilt mit, dass er jetzt in Lagos durch die Einladung des nigeria<lb break="no"/>nischen Industrieministers nach Österreich ein sehr gutes Entree hat.<lb/>
+Angeblich ist noch kein einziger Minister bei den Nationalfeiertagen<lb/>
+bei irgendeiner Botschaft gewesen, nur der Industrieminister jetzt<lb/>
+beim österreichischen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: <name type="person" ref="per:108322">Meisl</name>, der bei der Besprechung anwesend war,<lb/>
+soll sich mit <name type="person" ref="per:97468">Gatscha</name> ins Einvernehmen setzen.<lb/>
+</p>
+            <p xml:space="preserve">Die Tierschutzvertreter "Blaue Kreis" wollten, dass wir jetzt ent<lb break="no"/>sprechende gesetzliche Massnahmen treffen, um ihre Schützlinge bes<lb break="no"/>ser schützen zu können. Dr. <name type="person" ref="per:114516">Buchmann</name>, der sich als Hundebesitzer und<lb/>
+Tierfreund zu erkennen gab, er wollte sogar Veterinär studieren und<lb/>
+hat seine Frau über einen Hund kennengelernt, erörterte mit den Ver<lb break="no"/>tretern die Möglichkeit, die wir haben. Seiner Meinung nach kommt ein<lb/>
+Befähigungsnachweis, wie sie ihn verlangten, nicht infrage, denn dies<lb/>
+ist überhaupt nicht zielführend. Die einzige Möglichkeit besteht<lb/>
+Ausübungsregeln festzulegen. Die ganze Materie ist bei <name type="person" ref="per:114516">Buchmann</name> wirk<lb break="no"/>lich in guten Händen.<lb/>
+</p>
+            <p xml:space="preserve">Der Importeur und Exporteur <name type="person" ref="per:58381">Fritz Mauthner</name> erörtert mir die Mög<lb break="no"/>lichkeiten, wie man österreichischen Weizen in die Schweiz expor<lb break="no"/>tieren könnte. Die eidgenössische Getreideverwaltung legt immer<lb/>
+20–30.000 Tonnen Qualitätsweizen in Reserve. Darüber hinaus gibt es<lb/>
+für Staatshandelsländer noch die Möglichkeit Pflichtbezüge zuge<lb break="no"/>wiesen zu bekommen. Die Reservehaltung erfolgt durch die Finanz<lb break="no"/>verwaltung, die Pflichtbezüge aber durch das Volkswirtschaftsdeparte<lb break="no"/>ment. Ungarn hätte neben 20.000 Tonnen Mais 20.000 To Weizen zu<lb/>
+280 sfr exportieren können, Jugoslawien 20.000 Tonnen Mais, Rumänien<lb/>
+ebenfalls. Österreich könnte, da es ja beim Import als Staatshandels<lb break="no"/>land gilt, durch Konstruktion auch zu einer Einhand<add>[?]</add> bezüglich des<lb/>
+Exportes und damit staatshandelsähnlichen Charakter in die Schweiz<lb/>
+konstruiert werden. Dadurch könnten wir in die Pflichtbezüge<lb/>
+einbezogen werden. Für die freien Bezüge sieht <name type="person" ref="per:58381">Mauthner</name> keine Mög<lb break="no"/>lichkeit, denn dort wird von den Europäischen Gemeinschaften so<lb/>
+stark subventioniert, dass ein Export nicht in Frage kommt.<lb/>
+</p>
+            <pb n="45-1391" facs="45_1978-11-28_1391.jpg"/>
+            <p xml:space="preserve"><name type="person" ref="per:58381">Mauthner</name> hat auch den Wunsch, es müsste bezüglich der Zuckerexporte<lb/>
+in den Preis eine Verbraucherbelastung von 30 Mio Schilling einge<lb break="no"/>baut werden. Im nächsten Jahr wird <name type="person" ref="per:58381">Mauthner</name> neben 20.000 Tonnen Ex<lb break="no"/>port und 18.000 Veredlung, die er bereits abgeschlossen hat, noch<lb/>
+15 bis 20.000 exportieren können. Die Zuckerindustrie sieht sich<lb/>
+nur ausserstande, obwohl er gute Exportpreise erlöst, die auf<lb break="no"/>laufenden Defizite zu tragen. <name type="person" ref="per:58381">Mauthner</name> ist es angeblich geglückt,<lb/>
+bei einem Zuckerpreis von 2.900 bis 3.000 Schilling die Tonne jetzt<lb/>
+mit Pepsi-Cola auf 3.200 Schilling abzuschliessen. Heuer wurde keine<lb/>
+Exportrübe geerntet, weil keine angebaut wurde. Die Rübe hat aber<lb/>
+überhaupt kein Mascherl, sondern es handelt sich eben nur um die<lb/>
+Verrechnungsmöglichkeit. Die Bauern werden, obwohl nur 1,9 Mio<lb/>
+Tonnen Rübe zur Verfügung steht, durch hohe Digestion von 17 bis<lb/>
+18% doch 320.000 Tonnen Zucker ernten, die den Inlandsverbrauch<lb/>
+überschreiten. Dazu kommen noch 80.000 Tonnen Lager aus der vorjährigen<lb/>
+Ernte, sodass Zucker in grossem Masse zur Verfügung steht, nur die<lb/>
+Preisansätze resp. Verrechnungen nicht stimmen, weil die Bauern eben<lb/>
+erklären, für die Rübe müssten sie den vollen Preis bekommen, da es<lb/>
+sich nicht um Exportrübe handelt. <name type="person" ref="per:58381">Mauthner</name> meint, für das nächste<lb/>
+Jahr müsste man mindestens für 5.000 ha Exportrübe vorsorgen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97819">PLESCH</name>: Bitte lass Dir diese Konzeption genau erklären.<lb/>
+</p>
+            <p xml:space="preserve">Prof. <name type="person" ref="per:118343">Löw</name>, ein Maler, war jetzt in London und hat sich dort mit einigen<lb/>
+interessierten, auch englischen Freunden <name type="person" ref="per:97668">Kreisky's</name> unterhalten, ob<lb/>
+wir nicht ein Österreich-Haus errichten sollten. Genau, was ich vor<lb/>
+Jahren schon vorgeschlagen habe, nämlich, dass alle Österreich-<lb/>
+Aktivitäten von der Botschaft über die Fremdenverkehrswerbung, Handels<lb break="no"/>vertretung bis zur AUA womöglich in einem Österreich-Center zusammen<lb break="no"/>gefasst werden sollen, möchte auch Löw. Darüber hinaus möchte er dort<lb/>
+noch private Aktivitäten wie Heurigen, Kaffeehaus, Friseur usw. mit<lb/>
+typisch österreichischem Charme errichten. Ich versprach ihm, dass<add>[sich]</add><lb/>
+die Österreichische Fremdenverkehrswerbung mit ihm ins Einvernehmen<lb/>
+setzen wird.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte veranlasse, dass jemand mit <name type="person" ref="per:118343">Löw</name> darüber<lb/>
+spricht.<lb/>
+</p>
+            <pb n="45-1392" facs="45_1978-11-28_1392.jpg"/>
+            <p xml:space="preserve"><name type="person" ref="per:97468">Gatscha</name> berichtete mir, dass er mit der Entwicklungshilfe von<lb/>
+140 Mio Schilling nicht alle Wünsche befriedigen kann. Unter<lb/>
+anderem wurde ihm mitgeteilt, im Sudan hätte ich zugesagt, dass<lb/>
+20 Mio Schilling Entwicklungshilfe für Getreidelager, die die<lb/>
+Firma Haid errichten könnte, zur Verfügung gestellt werden, 4 Mio<lb/>
+Geschenk und 16 Mio Schilling billige Kredite. Ich erklärte ihm<lb/>
+sofort, dass ich keinesfalls eine solche konkrete Zusage gemacht<lb/>
+habe, wohl ist es aber richtig, dass, wie ich im Sudan war,<lb/>
+diese Regierung schon auf mehr Unterstützung durch Österreich<lb/>
+rechnet. Die Firma Haid möchte aber ein solche Geschäft machen<lb/>
+und hat deshalb den sudanesischen Minister durch mich eingeladen.<lb/>
+Interveniert dagegen habe ich für die Gambier. Dort sollte man<lb/>
+diese 2 x 10 Kw Kraftwerke unbedingt errichten. Die Simmering-Graz-<lb/>
+Pauker bräuchte dazu nur eine Zinsenzuschussverbilligung. <name type="person" ref="per:97468">Gatscha</name><lb/>
+steht diesem Projekt sehr positiv gegenüber, nicht zuletzt weil<lb/>
+auch der Bundespräsident interveniert hat. Die 4 Mio Schilling Ent<lb break="no"/>wicklungshilfe für Austroplan soll – <name type="person" ref="per:97468">Gatscha</name> ist damit sehr einver<lb break="no"/>standen – nach meinem System abgewickelt werden.<lb/>
+</p>
+            <p xml:space="preserve">Die Elin – <name type="person" ref="per:97468">Gatscha</name> ist dort Aufsichtsrat – wird jetzt von Körting<lb/>
+in Fehring die 80 Beschäftigten mit den ganzen Betrieb übernehmen<lb/>
+und Printplatten erzeugen.<lb/>
+</p>
+            <p xml:space="preserve">Die Firma Sugana kann für die Arbeitsplatzvermehrung die 10 Mio<lb/>
+Schilling Kredit deshalb nicht bekommen, weil sie für dieses<lb/>
+Projekt bereits einen Zinsenzuschuss von NÖ erhalten hat. Ich<lb/>
+erkläre <name type="person" ref="per:97468">Gatscha</name>, dass insbesondere daran der Österreichische Ge<lb break="no"/>werkschaftsbund interessiert war, weil auf dessen Intervention<lb/>
+Sugana die neue Produktion aufnehmen möchte.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97819">PLESCH</name>: Bitte <name type="person" ref="per:114075">Schmidt</name>, ÖGB, verständigen.<lb/>
+</p>
+            <p xml:space="preserve">Auf der Landstrasse wird jetzt jeden vierten Dienstag die Fraktion<lb/>
+der Bezirksräte sich ausschliesslich mit Bezirksproblemen beschäftigen.<lb/>
+<name type="person" ref="per:97543">Heindl</name> und ich waren zwar dann 2 Stunden anwesend, ich wollte aber dazu<lb/>
+überhaupt nichts referieren, sondern nur zuhören. Dies war aber<lb/>
+selbst beim ersten Mal nicht möglich, denn die Gewerkschaftsfrak<lb break="no"/>tion, der Sprecher <name type="person" ref="per:114116">Kapaun</name>, hat auf die alte Tradition verwiesen, dass<lb/>
+<pb n="45-1393" facs="45_1978-11-28_1393.jpg"/>auch bei dem Klub der Mandatare stets ein politischer Bericht<lb/>
+gegeben wurde. Bei diesem Bericht, den ich dann selbstverständlich<lb/>
+gab – und insbesondere anschliessende Diskussion – konnte ich ein<lb break="no"/>mal mehr feststellen, dass das Problem <name type="person" ref="per:97326">Bacher</name>-Bestellung noch immer<lb/>
+unsere Funktionäre am meisten bewegt. Dort ist es, glaube ich, auch<lb/>
+weniger, dass <name type="person" ref="per:97326">Bacher</name> früher oder später endgültig bestellt wird,<lb/>
+sondern, dass es eine Disziplinlosigkeit innerhalb des Kura<lb break="no"/>toriums gegeben hat, die eine solche provisorische Bestellung überhaupt<lb/>
+erst möglich gemacht hat. Alle Funktionäre verlangten entsprechende<lb/>
+disziplinäre Massnahmen gegen die Leute, die <name type="person" ref="per:97326">Bacher</name> überhaupt erst<lb/>
+die provisorische Bestellung und jetzt vielleicht dann sogar noch die<lb/>
+endgültige ermöglicht haben. Auf der einen Seite bin ich sehr froh,<lb/>
+dass auf der Landstrasse wirklich noch eiserne Disziplin herrscht.<lb/>
+Auf der anderen Seite aber wird es immer schwieriger diesen Genossen<lb/>
+zu erklären, dass es eben nicht überall so ist.<lb/>
+</p>
+            <p xml:space="preserve">Auf meine Einladung ist der spanische Botschafter in Wien zu<lb/>
+mir gekommen und ich habe ihm dezidiert erklärt, dass ich über die<lb/>
+spanische Haltung bezüglich des EFTA-Vertrages mit Österreich er<lb break="no"/>schüttert bin. Österreich hat als erstes die bilateralen Gespräche<lb/>
+mit Spanien geführt, dort wurde für Schokolade-Exporte Österreichs<lb/>
+nach Spanien keine Konzession verlangt, obwohl andere Wünsche Spaniens<lb/>
+und Österreichs auf Bindungen und Zollsenkungen befriedigend gelöst<lb/>
+wurden. Der nächste Verhandlungspartner war die Schweiz, welche eine<lb/>
+25 %-ige Senkung des Schokoladezolles erreichte und dafür entspre<lb break="no"/>chende Konzessionen machen musste. Die weiteren Verhandlungen mit<lb/>
+Finnland, Norwegen und Schweden führten dann ebenfalls zu den Konzes<lb break="no"/>sionen für Schokoladezollermässigungen, ohne dass dafür entsprechende<lb/>
+Gegenkonzessionen gemacht werden mussten. Nur Österreich würde jetzt<lb/>
+nach Abschluss aller bilateralen Verhandlungen keine Zollermäs<lb break="no"/>sigung für Schokoladeexporte nach Spanien bekommen. In diesem<lb/>
+Falle müsste ich es mir überlegen, ob ich einen solchen Vertrag<lb/>
+überhaupt der Regierung empfehlen kann, da sowohl die Gewerkschaft<lb/>
+der Lebens- und Genussmittelarbeiter als auch der Fachverband für<lb/>
+Nahrungs- und Genussmittel und damit auch die Bundeskammer mir die<lb/>
+grössten Vorwürfe machen werden. Der spanische Botschafter erklärte,<lb/>
+er versteht das Ganze nicht, es muss sich hier um einen technischen<lb/>
+Irrtum handeln, der selbstverständlich unseren Vereinbarungen und<lb/>
+Bemühungen nicht entspricht. Er anerkannte die Pionierleistung<lb/>
+<pb n="45-1394" facs="45_1978-11-28_1394.jpg"/>Österreichs bei dem Zustandekommen dieses Vertrages und wird<lb/>
+sofort in Madrid entsprechend intervenieren. Abschliessend<lb/>
+meinte er, eher würde er seinen Posten in Wien aufgeben,<lb/>
+als mich so zu enttäuschen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="45_1384_05" facs="45_1978-11-28_1384-05.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 28.11.1978</head>
+         </div>
+         <pb n="45_1384_06" facs="45_1978-11-28_1384-06.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

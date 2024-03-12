@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstag, der  7. Jänner 1975</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band24_1975-01-07</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1975-01-07">Dienstag, 7. Januar 1975</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-11-15">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="24-0006" facs="24_1975-01-07_0006.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Dienstag, den 7. Jänner 1975<lb/>
+</p>
+            <p xml:space="preserve">Landeshauptmannstellvertreter <name type="person" ref="per:97461">Frühbauer</name> hat angerufen, weil<lb/>
+die Sektion V die Kärntner Landesregierung ermächtigt hat,<lb/>
+eine 110-KV-Leitung in Kärnten zu kommissionieren und zu ge<lb break="no"/>nehmigen. Nach seiner Information hat die Sektion V jetzt die<lb/>
+Delegierung widerrufen, obwohl er schon mit 20. Jänner eine<lb/>
+Verhandlung ausgeschrieben hat. Ich habe ihm sofort, ohne die<lb/>
+Details zu kennen erklärt, daß die Kompetenz sicherlich bei<lb/>
+uns liegt und er meinte nur, seine Juristen sind anderer Mei<lb break="no"/>nung. Ich versprach ihm mit <name type="person" ref="per:107937">Frank</name> zu klären, wie wir eine<lb/>
+Lösung finden können. <name type="person" ref="per:107937">Frank</name> hat mir dann eindeutig mitgeteilt,<lb/>
+daß sie Kärnten zuerst delegiert haben, weil dies eine saubere<lb/>
+Lösung sei. Kärnten hätte drauf erklärt sie hätten die Kompetenz,<lb/>
+worauf sie die Delegierung wieder zurückgenommen haben. Damit<lb/>
+würde der Rechtsstreit jetzt um die Kompetenz entfachen. Ich er<lb break="no"/>suchte <name type="person" ref="per:107937">Frank</name> nachdem die Verhandlung bereits ausgeschrieben ist,<lb/>
+ob es nicht zweckmäßig ist, die Verhandlung auf alle Fälle am<lb/>
+20. Jänner durchzuführen, vielleicht zu erklären, daß die Landes<lb break="no"/>regierung in unserem Auftrag durchzuführen hätte. <name type="person" ref="per:107937">Frank</name> ver<lb break="no"/>sprach mir, ohne daß die Verhandlung abgesetzt werden muß, eine<lb/>
+für beide Seiten erträgliche Lösung.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:97469">GEHART</name>: Bitte interessiere Dich für den Fall und<lb/>
+halte mich auf dem Laufenden.<lb/>
+</p>
+            <p xml:space="preserve">Gen.Dir. <name type="person" ref="per:97496">Gruber</name> von der NEWAG und NIOGAS hat angerufen, weil er<lb/>
+jetzt wegen der Festsetzung von Gaspreisen für seine Gesell<lb break="no"/>schaft sehr beunruhigt ist. Ich habe ihm sofort einen Termin<lb/>
+gegeben und er ist dann mit Dir. <name type="person" ref="per:117202">Stock</name>, Ing. <name type="person" ref="per:114585">Schmidt</name><add>[ev. Falschidentifikation]</add>, der auch<lb/>
+in der Austro-Ferngas sitzt, zu einer Besprechung mit <name type="person" ref="per:112011">Kurzel</name>,<lb/>
+<name type="person" ref="per:109811">Burian</name>, <name type="person" ref="per:98040">Wais</name> erschienen. Die NIOGAS hat zugegeben, daß sie bis<lb/>
+zu 120 % den Gaspreis erhöhen mußte, weil sie jetzt ein Preis<lb break="no"/>band erstellt hat, das noch unter dem Konkurrenzprodukt Öl<lb/>
+liegt, aber doch für den Großteil der Gasabnehmer eine wesent<lb break="no"/>liche Verteuerung bringt. Einige, wieviel hat sie uns nicht<lb/>
+sagen können, hätten eine Gaspreissenkung bekommen. Tatsache ist,<lb/>
+daß sie mit 80 % der Gasabnehmer angeblich einig sind, nur 20 %,<lb/>
+darunter aber so wichtige Industriezweige wie die Glasindustrie<lb/>
+oder die Zementindustrie seien noch offen. Mein Hinweis, daß ich<lb/>
+<pb n="24-0007" facs="24_1975-01-07_0007.jpg"/>sogar von der Tullner Zuckerfabrik, Dr. <name type="person" ref="per:117098">Vogler</name>, ein Parteifreund<lb/>
+von <name type="person" ref="per:97496">Gruber</name>, über die Methode der Neupreis muß akzeptiert werden,<lb/>
+sonst liefern wir kein Gas mit 1. Jänner, sehr empört hat, zeigt<lb/>
+mit welcher Härte die NIOGAS vorgegangen ist. Angeblich be<lb break="no"/>hauptet <name type="person" ref="per:97496">Gruber</name>, hätten sie mit der Handelskammer, Sektion In<lb break="no"/>dustrie, <name type="person" ref="per:97925">Schoeller</name>, diesbezügliche Besprechungen geführt und diese<lb/>
+wäre mit einer Gaspreiserhöhung, wie sie es jetzt durchgeführt<lb/>
+haben, d.h. eine wesentliche Erhöhung, aber dafür ein nicht mehr<lb/>
+so breites Preisband, sondern ein wesentlich schmäleres, einver<lb break="no"/>standen gewesen. Wir einigten uns daß die NIOGAS unverzüglich<lb/>
+Unterlagen Dr. <name type="person" ref="per:112011">Kurzel</name> schicken wird resp. <name type="person" ref="per:109811">Burian</name>, der ja die Vor<lb break="no"/>prüfung zu führen hat, um dann auf Grund der Unterlagen mit den<lb/>
+Interessenvertretungen die Verhandlungen zu beginnen. Sollten<lb/>
+die Interessensvertretungen einverstanden sein, daß sie so wie<lb/>
+das letzte Mal die NIOGAS in der Paritätischen Kommission die<lb/>
+Genehmigung für die Erhöhung bekommt, dann würden wir auf eine<lb/>
+Preisregelung verzichten. Wenn dies nicht der Fall ist, dann<lb/>
+mußten sie damit rechnen, daß wir einen Gaspreis für die NIOGAS<lb/>
+festlegen. In diesem Fall meinte Gen.Dir. <name type="person" ref="per:97496">Gruber</name>, daß einige<lb/>
+Probleme wie z.B. die Abgrenzung zu anderen Ländern, die Fest<lb break="no"/>setzung des Gaspreises auch für die ÖMV die Ausnahmegenehmigungen<lb/>
+die dann nicht mehr für gasintensive und gefährdete Betriebe wie<lb/>
+Glas usw. genehmigt werden könnten, neue Probleme aufwerfen würden.<lb/>
+</p>
+            <p xml:space="preserve">Ich informierte die Austria-Ferngas, Vertreter der NIOGAS, d.h.<lb/>
+Gen.Dir. <name type="person" ref="per:97496">Gruber</name> und insbesondere Ing. <name type="person" ref="per:114585">Schmidt</name>, über die Algeriengas<lb break="no"/>bezugsmöglichkeit und insbesondere meinen Brief, den ich an den<lb/>
+algerischen Minister geschrieben habe. <name type="person" ref="per:97496">Gruber</name> hat davon gewußt,<lb/>
+den Brief allerdings im Wortlaut nicht gekannt. Ich habe <name type="person" ref="per:98040">Wais</name><lb/>
+sofort ersucht, man soll eine diesbezügliche Abschrift an die<lb/>
+Austria-Ferngas schicken. <name type="person" ref="per:114585">Schmidt</name> ist davon überzeugt, daß die<lb/>
+Algerier auch bereit sind über eine neue Finanzierung wegen<lb/>
+des Algeriengases zu verhandeln. Derzeit halten nur noch die<lb/>
+Belgier an der alten Finanzierung fest, weil sie glauben da<lb break="no"/>durch einen tieferen Gaspreis in Hinkunft zu haben. <name type="person" ref="per:114585">Schmidt</name> wird<lb/>
+das Ministerium am Laufenden halten.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:97469">GEHART</name>: Bitte den Kontakt auch mit der Austria-<lb/>
+Ferngas so zu gestalten, daß wir über die laufenden Entwicklun<lb break="no"/>gen informiert werden.<lb/>
+</p>
+            <pb n="24-0008" facs="24_1975-01-07_0008.jpg"/>
+            <p xml:space="preserve">Dr. <name type="person" ref="per:113038">Reim</name>, der ebenfalls anwesend war meinte nachher, daß <name type="person" ref="per:97496">Gruber</name><lb/>
+auf ihn einen guten Eindruck gemacht hatte und daß er sich<lb/>
+interessiere was ich dazu denke. <name type="person" ref="per:97496">Gruber</name> ist ein sehr geschickter<lb/>
+Politiker und auch zweifelsohne ein Fachmann. Nicht zuletzt hat<lb/>
+er sich ja einen guten Freund von mir, <name type="person" ref="per:140284">Romuald Riedl</name> aus der<lb/>
+Arbeiterkammer und christlichen Gewerkschafter in den Vorstand<lb/>
+geholt, weil er mit den Saustall von der NEWAG und NIOGAS, d.h.<lb/>
+das Erbe <name type="person" ref="per:134289">Müllners</name>, aufräumen wollte und auch wahrscheinlich<lb/>
+größtenteils aufgeräumt hat. Die Arbeiterkammer, Dr. <name type="person" ref="per:98112">Zöllner</name>,<lb/>
+die ich, da ja von Arbeitnehmerseite, wie ich <name type="person" ref="per:97496">Gruber</name> erklärte,<lb/>
+die Beschwerden ebenfalls laut wurden informierte, meinte daß<lb/>
+man sich die Preiserhöhungen genau ansehen muß. Im Gefolge der<lb/>
+NIOGAS möchte jetzt auch die burgenländische BEGAS kommen und<lb/>
+wahrscheinlich eine ähnliche Preiserhöhungsmethode einführen.<lb/>
+Ich fürchte nur daß die Kuh in beiden Gesellschaften schon<lb/>
+aus dem Stall ist und wir es sehr schwer haben werden sie<lb/>
+wieder einzufangen. <name type="person" ref="per:112011">Kurzel</name>, den ich vor der Sitzung fragte<lb/>
+wieso er so spät erst dieses Problem ins Rollen brachte,<lb/>
+obwohl ich ihn ja schon vor längerer Zeit ersuchte er möge sich<lb/>
+über die Gastarife der Gesellschaften kümmern, sagte, er hätte<lb/>
+bereits am 28. Oktober den Landespreisbehörden bei einer Preis<lb break="no"/>referententagung die Forderung überreicht ihm eine Übersicht<lb/>
+über die Gastarife in den einzelnen Ländern zu geben. Bis jetzt<lb/>
+sei allerdings überhaupt nichts abgeliefert worden.<lb/>
+</p>
+            <p xml:space="preserve">MR <name type="person" ref="per:111367">Würzl</name> berichtet daß auch seiner Auffassung nach die Weihnachts<lb break="no"/>fremdenverkehrs-Saison äußerst gut war. Er stimmt mir zu daß<lb/>
+wir bezüglich der Lawinenunglücke eine Aktivität entfalten müssen.<lb/>
+Hier kann es zu entsprechenden größeren Rückschlägen im Aus<lb break="no"/>länderfremdenverkehr kommen, wenn in Deutschland durch die<lb/>
+Illustrierten und vielleicht sogar noch durch Fernsehsendungen<lb/>
+usw. Österreich ein Image das gefährdetste Wintersportland be<lb break="no"/>kommt. Er wird dies Problem beim Kuratorium für den Fremdenver<lb break="no"/>kehr zur Sprache bringen und dann mit Hilfe der österreichischen<lb/>
+Fremdenverkehrswerbung in Deutschland eine Gegenkampagne ver<lb break="no"/>suchen. <add>sollte viell. vorher sofort [?] durch Pressekampagne etwas gemacht werden? [Paraphe Reim]</add><lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97377">Bukowski</name> teilt mir mit, daß sich <name type="person" ref="per:97469">Gehart</name> jetzt doch dafür interes<lb break="no"/>siert im Rahmen des Sekretariats, jetzt heißt es ja Kabinett,<lb/>
+eine entsprechende Funktion zu übernehmen. Ich bin damit ein<lb break="no"/><pb n="24-0009" facs="24_1975-01-07_0009.jpg"/>verstanden, ärgere, mich aber ein wenig daß wir erst jetzt,<lb/>
+nachdem die Geschäftseinteilung bereits vereinbart und in<lb/>
+Ausarbeitung ist, sofort wieder eine Korrektur vornehmen müssen.<lb/>
+<name type="person" ref="per:97377">Bukowski</name> gelingt es mit <name type="person" ref="per:113627">Kieslich</name>, daß wir doch noch in die Ge<lb break="no"/>schäftseinteilung die Zweitzuteilung von <name type="person" ref="per:97469">Gehart</name> durchführen kön<lb break="no"/>nen. Es hätte einen sehr schlechten Eindruck gemacht, wenn wir<lb/>
+nachdem die Geschäftseinteilung, womöglich ins Haus gekommen wäre<lb/>
+nachher eine Präsidialerinnerung oder eine Korrektur der Ge<lb break="no"/>schäftseinteilung sofort wieder vorgenommen hätten um <name type="person" ref="per:97469">Gehart</name><lb/>
+als Kabinettsmitglied auszuweisen. <name type="person" ref="per:113038">Reim</name> will sich einarbeiten<lb/>
+und meint, er müsse sich jetzt an meine Fersen heften, womit ich<lb/>
+sehr einverstanden bin. Trotzdem wird es notwendig sein daß<lb/>
+innerhalb kürzester Zeit alle Mitglieder des Kabinetts sich eine<lb/>
+Arbeitsteilung zurecht legen. Wenn ich nämlich Besprechungen<lb/>
+im kleineren Kreis halte ist es unzweckmäßig, daß dann zwei,<lb/>
+drei oder vielleicht gar vier Kabinettsmitglieder ebenfalls<lb/>
+daran teilnehmen. Hier müssen wir ein System finden, wo eben<lb/>
+nur der unmittelbar Betroffene teilnimmt, um dann die anderen<lb/>
+zu informieren. Darüber hinaus gilt nach wie vor mein Ersuchen,<lb/>
+daß auch über wichtige Besprechungen oder, was noch viel wichtiger<lb/>
+ist, über Eindrücke jedermann verpflichtet wäre Tagebuchaufzeich<lb break="no"/>nungen zu machen. Leider sind alle diese Appelle bis jetzt ver<lb break="no"/>geblich verhallt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:97377">BUKOWSKI</name>: Bitte eine <choice><choice><sic>Bürobesprechen</sic><corr>Bürobesprechung</corr></choice></choice>, jetzt Kabi<lb break="no"/>nettsbesprechung festlegen, um diese Probleme zu bereinigen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97584">Jagoda</name> berichtet mir, daß bei der Reinschrift im Preisregelungs<lb break="no"/>gesetz ein Satz ausgefallen ist der jetzt die Übernahme des<lb/>
+Preisbestimmungsgesetzes für sinnlos erscheinen läßt. Nach der<lb/>
+jetzigen, im Nationalrat beschlossenen Fassung müßte der Unter<lb break="no"/>nehmer alle Zölle und Ausgleichsabgaben vom Preis absetzen.<lb/>
+Natürlich war es so wie bisher nur notwendig daß er die Zoll<lb break="no"/>senkungen und Ausgleichsabgabensenkungen die im Zuge der EG-<lb/>
+Verhandlungen festgelegt wurden entsprechend weitergibt. <name type="person" ref="per:97584">Jagoda</name><lb/>
+hilft sich jetzt mit einem Durchführungserlaß wo er auf die<lb/>
+Strafbestimmungen hinweist, wo klar und deutlich nur von dieser<lb/>
+Differenz die Rede ist. Das ganze ist furchtbar blamabel, der<lb/>
+Fehler ist dadurch passiert daß dies genau gelesen wurde, dann<lb/>
+aber doch in der letzten Phase nicht mehr korrigiert. MR <name type="person" ref="per:112956">Schwarz</name><lb/>
+hat mir mitgeteilt er hätte vorgeschlagen, man sollte das Ganze<lb/>
+<pb n="24-0010" facs="24_1975-01-07_0010.jpg"/>noch einmal durchlesen, doch wäre man dann davon abgekommen.<lb/>
+<name type="person" ref="per:112051">Singer</name> hätte übernommen daß dies alles in Ordnung gehen wird.<lb/>
+Der Gesetzesauftrag würde jetzt klar und deutlich sein, daß<lb/>
+alle Zölle und Ausgleichsabgaben aus den Kalkulationen zu ent<lb break="no"/>fernen sind. Wenn also jemand klagt, dann müßten wir tatsächlich<lb/>
+so vorgehen. Ich fürchte deshalb daß die Handelskammer, die dies<lb/>
+auch jetzt weiß, eine legistische Korrektur verlangen wird.<lb/>
+Dadurch kommt das Ganze ins Parlament und wir sind die Bla<lb break="no"/>mierten. Daß so etwas passieren konnte, ist mir rätselhaft.<lb/>
+<name type="person" ref="per:113038">Reim</name> meint es hätte ja auch die ÖVP dem zugestimmt und damit<lb/>
+trage auch sie die Mitverantwortung. Das hilft mir gar nichts.<lb/>
+Die Blamierten sind auf alle Fälle wir, d.h. das Handelsministerium<lb/>
+und in dem Fall natürlich der verantwortliche Minister. Momentan<lb/>
+weiß ich noch nicht wie wir hier aus der Patsche herauskommen.<lb/>
+Da es sich um einen Abänderungsantrag des Parlamentes handelt<lb/>
+wäre es zweckmäßig und glaube ich auch für mich optisch günstiger<lb/>
+wenn das Parlament eine diesbezügliche Initiative entfaltet. Ich<lb/>
+werde mit <name type="person" ref="per:97444">Heinz Fischer</name> über dieses Problem mich eingehend be<lb break="no"/>raten, wenn die erste Reaktion der Handelskammer vorliegt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:98040">WAIS</name>: Bitte laß Dich sofort von <name type="person" ref="per:97584">Jagoda</name> über die<lb/>
+einzelnen Schritte der Handelskammer resp. ÖVP informieren.<lb/>
+</p>
+            <p xml:space="preserve">Bezüglich der Exportbeschränkung von Süßwaren, d.h. zuckerhaltige<lb/>
+Exportwaren die nicht Umgehungsmischungen sind, hat die Be<lb break="no"/>sprechung zwischen den Interessensvertretungen und meinem Haus,<lb/>
+die am 2. Jänner bereits begonnen wurde, ergeben, daß die Handels<lb break="no"/>kammer dem nicht zustimmt. Sie sieht zwar ein daß eine solche<lb/>
+Regelung notwendig ist und ist auch bereit sachlich zur Ver<lb break="no"/>ordnung Stellung zu nehmen, lehnt aber weil sie die Kontingen<lb break="no"/>tierung abgelehnt hat auch eine diesbezügliche Exportbeschränkung<lb/>
+ab. Die Arbeiterkammer war zuerst einverstanden, nur hat <name type="person" ref="per:98112">Zöllner</name><lb/>
+dann <name type="person" ref="per:117893">Krywult</name> wieder zurückgepfiffen und meinte man müßte auch<lb/>
+bei den Exporten eine 80 %-ige Kontingentierung bezogen auf 1973<lb/>
+verfügen. Ich konnte ihn dann davon überzeugen, daß wir doch<lb/>
+wegen diesen Fall nicht neuerdings mit der Handelskammer und<lb/>
+der Exportindustrie eine Differenz haben sollten und er hat sich<lb/>
+bereit-erklärt indem er erklärte dies sei kein Kriegsfall für<lb/>
+ihn, wenn wir also die Verordnung jetzt ohne diese 80 % fest<lb break="no"/>legen. Ich bin über die ganze Entwicklung nicht sehr glücklich.<lb/>
+</p>
+            <pb n="24-0011" facs="24_1975-01-07_0011.jpg"/>
+            <p xml:space="preserve">Diese Verordnung muß ins Bundesgesetzblatt gehen, wird neuer<lb break="no"/>dings die Unternehmer beunruhigen und wahrscheinlich auch von<lb/>
+der Handelskammer entsprechend unterstützt, aufwiegeln. Natür<lb break="no"/>lich können die Unternehmer jede Menge von Süßwaren exportieren<lb/>
+wenn sie so wie in der Vergangenheit sich zusätzlichen Zucker<lb/>
+vom Weltmarkt kaufen. Diese Exportbeschränkung ist ja nur not<lb break="no"/>wendig weil eben gewisse Inlandszuckermengen nur zur Verfügung<lb/>
+stehen und damit insbesondere zuerst der Konsum gedeckt werden<lb/>
+muß. Wie ich ja dann am Abend in der Bezirksausschußsitzung<lb/>
+erfahren mußte, kommt es immer wieder zu Verknappungen in den<lb/>
+Kleinhandelsläden. Es gibt zwar Zucker aber es ist das Zucker<lb break="no"/>regal immer in kürzester Zeit leer und niemand weiß eigentlich,<lb/>
+wie die Zuckerversorgung jetzt wirklich klappt. Wenn wir die<lb/>
+Landesbehörden anfragen wie sich in ihren Ländern die Verteilung<lb/>
+auswirkt, resp. ob und inwieweit die Versorgung gesichert ist<lb/>
+so werden wir wahrscheinlich ein umfangreiches Erhebungssystem<lb/>
+auslösen und damit eine neuerliche Beunruhigung bei den Unter<lb break="no"/>nehmern und letzten Endes auch bei den Konsumenten erreichen.<lb/>
+Da die Zeitungen jetzt momentan darüber schweigen, dürfte es<lb/>
+doch im Großen und Ganzen zu keinen schwierigen Situationen<lb/>
+bei den Einzelhandelsgeschäften kommen. Andererseits schließt<lb/>
+jetzt bereits die Fachpresse, daß sie Erhebungen auf Grund der<lb/>
+landwirtschaftlichen Anordnung 135 des Lebensmittelbewirtschaf<lb break="no"/>tungsgesetzes den Großhändler Meldeverpflichtungen auflegen, die<lb/>
+durch die Spannen überhaupt nicht gedeckt sind. Ich fürchte,<lb/>
+daß wir die Zuckerlagermeldungen sehr spät und wahrscheinlich<lb/>
+sogar unvollkommen bekommen werden. Wenn wir dann nicht zumin<lb break="no"/>destens stichprobenartige Kontrollen machen, wird sich herum<lb break="no"/>sprechen daß sich kein Mensch um die Informationen kümmert und<lb/>
+die nächsten Erhebungen dann überhaupt nur mehr irgendwelche<lb/>
+Hausnummern beinhalten. Bewirtschaften kann man eben nur in<lb/>
+Kriegszeiten, oder wenn zumindestens die Handelskammer mitspielt.<lb/>
+Ich habe <name type="person" ref="per:98112">Zöllner</name> klar und deutlich zu verstehen gegeben, daß wir<lb/>
+von der Arbeiterkammer mehr oder minder eine Zustimmung erwarten<lb/>
+um eine wirklich bessere Lösung für den Zucker zu finden, als<lb/>
+dies derzeit der Fall ist.<lb/>
+</p>
+            <pb n="24-0012" facs="24_1975-01-07_0012.jpg"/>
+            <p xml:space="preserve">In der Gewerkschaft besprach ich die Kritik von <name type="person" ref="per:97563">Hofstetter</name><lb/>
+wegen der Lohnerhöhungen für die Gewürzindustrie, die im<lb/>
+Durchschnitt 21 % beträgt. Hier handelt es sich um eine Gruppe,<lb/>
+wie ich bereits <name type="person" ref="per:97563">Hofstetter</name> sofort mitteilte als er mich anrief,<lb/>
+die in Frauenlöhnen insbesondere sehr stark zurückgeblieben ist.<lb/>
+Wenn die Unternehmer selbst bereit waren solche Lohnerhöhungen<lb/>
+zu akzeptieren so erklärt dies schon die Tatsache daß eben tat<lb break="no"/>sächlich es sich hier um ein Nachziehverfahren handelt. Ich habe<lb/>
+die Gruppe Müller und Bäcker darauf aufmerksam gemacht daß jetzt<lb/>
+in der nächsten Zeit, weil wir den Brot-und Mehlpreis unbedingt noch<lb/>
+im Jänner regeln müssen, auch mit Verhandlungen auf diesem Sektor<lb/>
+gerechnet werden kann. <name type="person" ref="per:112011">Kurzel</name> hat zwar erst für 15. Jänner die Vor<lb break="no"/>besprechung einberufen, ich bin überzeugt aber daß es wahrscheinlich<lb/>
+jetzt schlagartig zu entsprechenden Besprechungen kommen muß.<lb/>
+Der Finanzminister ist nicht bereit und hat finanziell keine Mög<lb break="no"/>lichkeit im Jahre 1975 die Getreidepreisdifferenz zu bezahlen.<lb/>
+Als ich vor Monaten die Industrie und das Gewerbe auf diese Tat<lb break="no"/>sache aufmerksam gemacht habe, hat mich die Arbeiterkammer<lb/>
+hart attackiert und <name type="person" ref="per:97925">Schoeller</name> von der Sektion Industrie soviel ich<lb/>
+mich erinnern kann sogar noch erklärt, sie sehen keine Veranlas<lb break="no"/>sung die Preise zu erhöhen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:98040">WAIS</name>: Bitte diese Äußerung, die ich in der Zeitung<lb/>
+gelesen habe, beschaffen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="24_0005_05" facs="24_1975-01-07_0005-05.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 7.1.1975</head>
+         </div>
+      </back>
+   </text>
+</TEI>

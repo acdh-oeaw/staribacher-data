@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der 30. Jänner 1981</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band58_1981-01-30</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1981-01-30">Freitag, 30. Januar 1981</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-03-29">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="58-0140" facs="58_1981-01-30_0140.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Freitag, 30. Jänner 1981<lb/>
+</p>
+            <p xml:space="preserve">Die Aussprache mit LH-Stellv. <name type="person" ref="per:115067">Grünzweig</name> von NÖ und Dir. <name type="person" ref="per:114580">Kobilka</name><lb/>
+v. d. DoKW, Donaukraftwerke, betreffend der Naßbauweise für die<lb/>
+Kraftwerksstufen Greifenstein und Hainburg ergab die eindeutige<lb/>
+Entscheidung, daß trotz des Wunsches vieler Aulandschaftsschützer<lb/>
+nur die Trockenbauweise in Frage kommt. Alle anderen Varianten<lb/>
+würden entweder mehr landschaftszerstörend sein und natürlich vor<lb/>
+allem längere Bauzeit und um etliche Mrd. S mehr kosten. <name type="person" ref="per:114580">Kobilka</name><lb/>
+hat <name type="person" ref="per:115067">Grünzweig</name> auch überzeugt, daß eine große Diskussion mit allen<lb/>
+Umweltschützern derzeit überhaupt nicht zielführend wäre. Er ist<lb/>
+fest davon überzeugt, daß in den Genehmigungsverfahren die einzel<lb break="no"/>nen Wünsche der Umweltschützer, die ja keine einheitliche Meinung<lb/>
+vertreten, durch ihre Aufsplitterung und durch das Erfüllen der<lb/>
+meisten Forderungen auf unterster Ebene weitestgehend aufgefangen<lb/>
+werden können.<lb/>
+</p>
+            <p xml:space="preserve">Das Gesundheitsministerium hat einen <name type="person" ref="per:107926">Konrad-Lorenz</name>-Preis für<lb/>
+100.000 S dotiert und ausgeschrieben, über Schutz des Auwaldes<lb/>
+durch die Kraftwerksbauten, wie mich <name type="person" ref="per:114580">Kobilka</name> aufmerksam machte.<lb/>
+Eine Aussprache mit dem neuen Gesundheitsminister <name type="person" ref="per:117200">Steyrer</name> und<lb/>
+vor <choice><choice><sic>allemal</sic><corr>allem einmal</corr></choice></choice> dem SC <name type="person" ref="per:111378">Pindur</name> erörterte mir den Hintergrund dieses<lb/>
+Preises. Prof. <name type="person" ref="per:107926">Lorenz</name>, Nobelpreisträger, um den sich auch die<lb/>
+Österr. Volkspartei, der grüne Flügel, Dr. <name type="person" ref="per:109293">Busek</name>, usw. bemühte,<lb/>
+sollte durch diesen 100.000-S-Preis neutralisiert werden. Von<lb/>
+<name type="person" ref="per:107926">Lorenz</name> stammt dann der Projektvorschlag, eben den Schutz des<lb/>
+Auwaldes durch die Donaukraftwerksstufen, die heuer erstmals zur<lb/>
+Ausschreibung gelangt. <name type="person" ref="per:107926">Lorenz</name>, wie er von mir immer respektlos<lb/>
+als Ganselprofessor bezeichnet wird, hat jetzt die Möglichkeit,<lb/>
+mit diesem Preis alle seine Umweltschutzprojekte durch Studien<lb/>
+finanzieren zu können. <name type="person" ref="per:117200">Steyrer</name> ist fest davon überzeugt, daß ihn<lb/>
+dies im Genehmigungsverfahren und in seiner Tätigkeit als neuer<lb/>
+Gesundheitsminister nicht hemmen wird. Er glaubt im Gegenteil,<lb/>
+daß er durch die Neutralisierung und Konzentration auf einige<lb/>
+konkrete Projekte diese Umweltschutzgruppen mehr an sich binden<lb/>
+kann. Ich selbst befürchte nur, daß diese Gruppen ihm noch mehr<lb/>
+Schwierigkeiten bereiten werden. <name type="person" ref="per:117200">Steyrer</name> selbst sieht primär seine<lb/>
+Aufgabe als Gesundheitsminister in der Umweltschutzaktivität.<lb/>
+</p>
+            <pb n="58-0141" facs="58_1981-01-30_0141.jpg"/>
+            <p xml:space="preserve">Da er ein lieber Freund von mir ist, glaubt er, daß er mich immer<lb/>
+mehr dahingehend unterstützen muß, meine Naturfreunde verborgene<lb/>
+Haltung durch seine klaren Forderungen auch indirekt unterstützen<lb/>
+zu müssen. Ich hatte <name type="person" ref="per:117200">Steyrer</name> wieder versucht klarzumachen, daß in<lb/>
+allen Belangen des Natur- u. Umweltschutzes meiner Meinung nach es<lb/>
+zweckmäßig war, die Sachzwänge eindeutig klarzustellen und dann<lb/>
+eine endgültige Fixierung des Natur- u. Umweltschutzes, was den Um<lb break="no"/>fang der Projekte betrifft, festzulegen. Ich könnte mir sehr gut<lb/>
+vorstellen, daß man den Donauausbau schon allein aus Transport<lb break="no"/>gründen und Verpflichtung gegenüber der internationalen Wasser<lb break="no"/>straße, Europakahn, sowie die Abgrenzung des Naturschutz, National<lb break="no"/>park Hohe Tauern, als auch den Ausbau der anderen Flüsse genau<lb/>
+abgrenzt. Der Rest sollte dann durch Gesetz schon jetzt eindeutig<lb/>
+geschützt werden. Solange man nicht so pragmatisch vorgeht, sondern<lb/>
+immer wieder erklärt, man muß allumfassende Lösungen suchen, be<lb break="no"/>fürchte ich, wird Schritt für Schritt es zu einer immer größeren<lb/>
+Zerstörung des Landschaftsraumes und der Natur in Österreich kom<lb break="no"/>men.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:125291">MARTIN</name>: Bitte mit <name type="person" ref="per:115067">Grünzweig</name> und <name type="person" ref="per:114580">Kobilka</name> verbinden.<lb/>
+</p>
+            <p xml:space="preserve">Die Aussprache mit den Betriebsräten der Brauerei AG mit Ausnahme<lb/>
+der Schwechater zeigte mir eindeutig, daß hier die Fusion<lb/>
+dieser beiden großen Brauereien-Konzerne, eben Brau AG und Schwecha<lb break="no"/>ter, weder kapitalmäßig, geschweige denn betriebsratsvertretungs<lb break="no"/>mäßig gelöst ist. Ich bin überzeugt, daß die Unternehmensleitungen<lb/>
+genauso Schwierigkeiten und Streitigkeiten haben wie wir auf der<lb/>
+Betriebsratsebene. Dort bemerkt man es nur nicht so und vor allem<lb/>
+wird dies dort nicht vor Gericht abgehandelt. Ich versuchte mit<lb/>
+Engelszungen den Brauerei Betriebsräten insbes. dem ZBRO <name type="person" ref="per:113132">Suko</name><lb/>
+klarzumachen, daß es unbedingt zu einem gemeinsamen Zentralbe<lb break="no"/>triebsrat kommen muß, die Idee der Brauerei-Leute, man läßt gnaden<lb break="no"/>halber eine Anzahl von Betriebsräten im Zentralbetriebsrat der<lb/>
+Brauerei AG den Schwechatern und bestimmt womöglich, wen sie ent<lb break="no"/>senden dürfen, ist irrig. Die Kollegen haben eingesehen, daß ich<lb/>
+unbedingt mit Schwechat ein ähnliches Gespräch führen soll, um eine<lb/>
+Vermittlung zu starten, damit nicht die Prozeßierung vor den<lb/>
+Einigungsämtern über Anerkennung der Betriebsräte fortgesetzt wird.<lb/>
+</p>
+            <p xml:space="preserve">Der Masseverwalter von Kneissl verständigte mich, daß eine Ausspra<lb break="no"/>che mit LH <name type="person" ref="per:98048">Wallnöfer</name> ergeben hat, daß nun endlich, nicht zuletzt<lb/>
+<pb n="58-0142" facs="58_1981-01-30_0142.jpg"/>durch meine ständige Intervention, der Masseverwalter Dr. <name type="person" ref="per:127774">Purtscher</name><lb/>
+meinte sogar durch meinen diktatorischen Druck, jetzt Tirol die<lb/>
+10 Mio. S für die Auffanggesellschaft bereitstellt. Eine Rücksprache<lb/>
+von mir mit dem CA- Vorstandsmitglied <name type="person" ref="per:116951">Schneider</name> ergab, daß auch dort<lb/>
+diese 10 Mio. S Höchstgrenze bereitgestellt werden. Damit konnte<lb/>
+ich endgültig gegenüber der Auffanggesellschaft, <name type="person" ref="per:127880">Glauer</name>, mein Ver<lb break="no"/>sprechen, vor Weihnachten gegeben, finalisieren. Die Gesellschaft<lb/>
+hat in München offiziell verkündet, daß sie jetzt die Produktion<lb/>
+Anfang Februar sofort aufnehmen wird und Kneissl daher Tirol<lb/>
+erhalten bleibt. LH <name type="person" ref="per:98048">Wallnöfer</name> hat ja bei der ersten Sitzung, die<lb/>
+er in Wien führte, schon erklärt, das ist für Tirol wie der Mer<lb break="no"/>cedes-Stern, er meinte damit das dreizackige Symbol von Kneissl.<lb/>
+</p>
+            <p xml:space="preserve">In der Steiermark gibt es eine Fertighausproduktion mit einer der<lb/>
+modernsten Fertigungshallen der Fa. Sturia. Bis jetzt hat diese neue<lb/>
+Firma allerdings nur 150 Häuser für wohlhabende Inlandsabnehmer<lb/>
+und vor allemal für den Export nach Deutschland gefertigt. Die<lb/>
+Italiener haben jetzt für das Erdbebengebiet 50.000 Häuser ausge<lb break="no"/>schrieben. Die Firma könnte 1.500 Häuser in 4 Monate fertigen.<lb/>
+Diese würden allerdings nicht so aufwendig ausgestattet sein. Die<lb/>
+Firmenvertreter ersuchten um Intervention bei den italienischen<lb/>
+Stellen. Dies wird von seiten des Handelsministeriums über die<lb/>
+Botschaft erfolgen. Darüber hinaus habe ich die Vertreter mit Frau<lb/>
+Staatssekr. <name type="person" ref="per:97614">Karl</name> zusammengebracht, denn diese wird nach einer<lb/>
+telefonischen Rücksprache mit mir alle Details der Österreich-Hilfe<lb/>
+erklären. Die österr. Bundesregierung selbst vergibt ja keinerlei<lb/>
+Aufträge für die Italienhilfe. Die Verdoppelung der abgegebenen<lb/>
+Spenden, also, wenn man so will, der Regierungszuschuß, wird auch<lb/>
+an österr. Hilfsstellen gegeben. So bekommt einen fast 10 Mio. S<lb/>
+Betrag das Österr. Rote Kreuz. Da die Italiener auch von uns Fertig<lb break="no"/>bauhäuser oder sonstige feste Unterkünfte verlangen, erscheint es<lb/>
+mir zweckmäßig, wenn sich die Firma auch um österr. Aufträge be<lb break="no"/>müht. Wenn erst ein paar also als Referenz errichtet sind, kann man<lb/>
+wahrscheinlich leichter von italienischen Stellen dann bei Preis<lb break="no"/>wertigkeit die italienischen Aufträge erhalten.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Laß Dir über die weitere Vorgangsweise<lb/>
+berichten.<lb/>
+</p>
+            <p xml:space="preserve">Der Sekretär der Nahrungs- u. Genußmittelindustrie <name type="person" ref="per:130457">Riegler</name> geht<lb/>
+in die Pension und der Fachverband ersuchte alle Sekretäre der<lb/>
+<pb n="58-0143" facs="58_1981-01-30_0143.jpg"/>Lebensmittelarbeiter ein gemeinsames Abendessen zu besuchen. Ich<lb/>
+hatte <name type="person" ref="per:130457">Riegler</name> gratuliert und ihm in seiner Pension alles Gute<lb/>
+gewünscht. Während seiner aktiven Zeit bin ich mit ihm gut ausge<lb break="no"/>kommen, was allerdings als Handelsminister gegen einen Unternehmer<lb break="no"/>verband nicht schwierig ist, die Sekretäre der Lebensmittelarbeiter,<lb/>
+insbes. Zentralsekretär <name type="person" ref="per:97357">Blümel</name>, haben sich in der Vergangenheit oft<lb/>
+über ihn geärgert. Natürlich wird bei so einer Feier dann das Ne<lb break="no"/>gative vergessen, man weiß übrigens nie, wie sich sein Nachfolger<lb/>
+entwickeln wird.<lb/>
+</p>
+            <p xml:space="preserve">Da ich bei dieser Gelegenheit den Obmann der Nahrungs- u. Genuß<lb break="no"/>mittelindustrie und den Sekretär des Verbandes Dr. <name type="person" ref="per:112564">Smolka</name> traf,<lb/>
+besprach ich gleich die Liefermöglichkeiten der österr. Industrie<lb/>
+an die Fa. Hofer. Meine Vermittlungsaktivität wird auch hier lobend<lb/>
+anerkannt. Die Hauptschwierigkeit, zu einer Vereinbarung mit der<lb/>
+Fa. Hofer, zu kommen ist nach wie vor der ungenügende Preis, den<lb/>
+diese Firma für österr. Produkte nur bereit ist zu bezahlen. Der<lb/>
+Obmann des Verbandes <name type="person" ref="per:127086">Petrich</name> ? der gleichzeitig auch Eigentümer<lb/>
+und Geschäftsführer der Inzersdorfer ist, hat aber am Beispiel der<lb/>
+Teigwareneinfuhr gezeigt, daß sie beim besten Willen nicht die<lb/>
+durch entsprechende Stützung äußerst billigen Teigwarenpreise aus<lb/>
+Italien oder selbst aus der BRD halten könnten.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR SC <name type="person" ref="per:111737">MARSCH</name> UND <name type="person" ref="per:108746">HAFFNER</name>: Wie weit ist die listenmäßige<lb/>
+Zusammenstellung der Einzelanbote an Hofer.<lb/>
+</p>
+            <p xml:space="preserve">Ein Schwager von mir mit einer typisch österr. Vergangenheit wurde<lb/>
+im Krematorium verbrannt. Als Jude und Sudetendeutscher in der<lb/>
+ersten Monarchie geboren und in der CSSR aufgewachsen, emigrierte<lb/>
+er dann nach Österreich, England, Frankreich und kam zuletzt wieder<lb/>
+nach Österreich zurück. Zum erstenmal erlebt ich bei so einem<lb/>
+Begräbnis eine Freimaurerzeremonie. Die Ansprachen seiner Logen<lb break="no"/>brüder, einer kam sogar von seiner ursprünglichen Loge aus London,<lb/>
+<choice><choice><sic>um</sic><corr>und</corr></choice></choice> das Ritual, jeder legt einen grünen Zweig auf seinen Sarg, vor<lb/>
+allem aber der Inhalt der Reden waren für mich sehr beeindruckend.<lb/>
+Selbstverständlich wurde von <name type="person" ref="per:127102">Mozart</name>, der ja auch Freimaurer war,<lb/>
+aus der Zauberflöte, in diesen heiligen Hallen kennt man die Rache<lb/>
+nicht, vorgetragen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="58_0139_01" facs="58_1981-01-30_0139-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 30.1.1981</head>
+         </div>
+      </back>
+   </text>
+</TEI>

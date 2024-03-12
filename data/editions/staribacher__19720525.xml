@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Donnerstag, der 25. Mai 1972</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band11_1972-05-25</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1972-05-25">Donnerstag, 25. Mai 1972</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-10-10">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="11-0648" facs="11_1972-05-25_0648.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Donnerstag, 25. Mai 1972<lb/>
+</p>
+            <p xml:space="preserve">Die Alpine mit der VÖEST haben Austro-Mineral gegründet. Diese<lb/>
+Gesellschaft soll die Mineralvorkommen Gesellschaft erschliessen<lb/>
+und vor allem aber mit ausländischen Firmen gemeinsam oder sogar<lb/>
+allein in aussereuropäischen Ländern entsprechende Mineralvorkomm<lb break="no"/>nisse für Österreich sichern. Dr. <name type="person" ref="per:97782">Neubauer</name>, der Geschäftsführer<lb/>
+dieser Gesellschaft, mit <name type="person" ref="per:97423">Fabricius</name> von der Alpine wollten mich<lb/>
+davon überzeugen, dass es notwendig wäre, im Bergbauförderungsge<lb break="no"/>setz eine diesbezügliche Klausel aufzunehmen, wonach die Tätigkeit<lb/>
+dieser Gesellschaft ebenfalls gefördert werden kann. Die Austro-<lb/>
+Mineral hat nun verstanden, vom Forschungsförderungsfonds 1 Mill. S<lb/>
+und von der ÖIAG 400.000 S für ein Projekt nämlich Untersuchung<lb/>
+über die Mineralvorkommnisse sowie über die Abbauwürdigkeit bis<lb/>
+zum Jahre 2000 eine Studie anzufertigen, erhalten. Ich habe sie<lb/>
+beglückwünscht, denn ich habe mir eigentlich nicht vorgestellt,<lb/>
+dass so leicht und eigentlich vielleicht sogar ziellos Geld zu<lb/>
+bekommen ist. <name type="person" ref="per:97782">Neubauer</name> wollte mir einreden, dass es eine Jahrtau<lb break="no"/>sende alte Tradition des Bergwesens gibt, dass die österr. Minerale<lb/>
+früher oder später erschöpft sein werden und dass man deshalb über<lb/>
+Austro-Mineral vorsorgen müsste, dass diese Tradition erhalten<lb/>
+bleiben kann. Ihm schwebt vor, dass Österreich sich auf der Welt<lb/>
+die Rohstoffe jetzt schon sichert und gemeinsam mit anderen Ge<lb break="no"/>sellschaften einen Abbau vornimmt. <name type="person" ref="per:97423">Fabricius</name> kam insbesondere<lb/>
+auf die Studie der Massachusetts Institute of Technology zu<lb/>
+sprechen, die bekanntlich jetzt errechnet hat, dass in kürzester<lb/>
+Zeit die Bevölkerung durch Bevölkerungszuwachs, Umweltknappheit,<lb/>
+Rohstoffmangel nicht in ihrer Entwicklung gehemmt sondern wahrschein<lb break="no"/>lich selbst sich zugrunde richtet. Ich will den Aussagen dieses<lb/>
+Instituts, die ich ihm einzelnen noch nicht kenne, nicht eine ge<lb break="no"/>wisse Beweiskraft absprechen, doch im Prinzip hat <name type="person" ref="per:139962">Malthus</name> bereits im<lb/>
+vorigen Jahrhundert festgestellt, dass die europäische und die<lb/>
+gesamte Weltbevölkerung durch das <name type="person" ref="per:139962">Malthus</name>'sche Gesetz mehr oder minder<lb/>
+zugrunde gehen muß. Die tatsächliche Entwicklung hat ihm nicht<lb/>
+Recht gegeben.<lb/>
+</p>
+            <pb n="11-0649" facs="11_1972-05-25_0649.jpg"/>
+            <p xml:space="preserve">Anmerkung für <name type="person" ref="per:98053">WANKE</name><lb/>
+Bitte diese Studie oder zumindestens eine Kurzfassung in Deutsch<lb/>
+beschaffen.<lb/>
+</p>
+            <p xml:space="preserve">Ich zerstörte vielleicht die Illusionen den Vorsprechenden,<lb/>
+habe aber keinen Zweifel gelassen, daß ich keine Chance sehe,<lb/>
+im neuen Bergbauförderungsgesetz ihre Wünsche unterbringen zu<lb/>
+können. Das neue Bergbauförderungsgesetz wird sicherlich auch<lb/>
+befristet sein und in den nächsten 5 Jahren werden wir unsere<lb/>
+ganze finanzielle Kraft aufwenden müssen, um die unrentablen<lb/>
+Betriebe stillzulegen und die schon bekannten Mineralvorkommnisse<lb/>
+zu erschließen. Die Gründer von Austromineral haben sich doch<lb/>
+sicherlich entsprechende Vorstellungen über die Finanzierung<lb/>
+der Gesellschaft gemacht, ohne daß sie an eine Staatssubvention<lb/>
+gedacht haben.<lb/>
+</p>
+            <p xml:space="preserve">Die Stillegung von Fohnsdorf wird jetzt von der Muttergesellschaft<lb/>
+der Alpine selbst als dringendst bezeichnet. Das Sozialministerium<lb/>
+hat Umschulungskurse angesetzt und es haben sich jetzt einmal 40<lb/>
+Bergarbeiter gemeldet. Damit zeigt sich, daß in Hinkunft in kürzester<lb/>
+Zeit die Schlüsselpositionen nicht mehr besetzt werden können.<lb/>
+resp. Schlüsselpositionen von Bergarbeitern erlassen werden. Die<lb/>
+Umgeschulten werden garantiert nach Zeltweg zur Alpine oder zu<lb/>
+einem anderen Betrieb abwandern. Die Betriebsleitung hat verhin<lb break="no"/>dert, daß die 40 Mann jetzt bereits zur Umschulung gehen können,<lb/>
+weil sie ansonsten schon den Urlaubsbetrieb gar nicht mehr auf<lb break="no"/>recht erhalten könnten. Wenn erst die ersten Häuser resp. Hallen<lb/>
+in dem Gebiet gebaut werden, ist meiner Meinung nach die Schließung<lb/>
+nicht mehr aufzuhalten. Die Alpine hat damit ihr Arbeitskraftre<lb break="no"/>servoir, das sie meiner Meinung jahrzehntelang still gehortet hat,<lb/>
+verloren.<lb/>
+</p>
+            <p xml:space="preserve">Vor dem Parteivorstand hat <name type="person" ref="per:97346">Benya</name> noch mit anderen Gewerkschaftern<lb/>
+über die Streiklage bei Wiener Holzbetrieben gesprochen. Die Be<lb break="no"/>triebsräte einiger Firmen haben erklärt, daß sie mit dem getätigten<lb/>
+Abschluß nicht einverstanden sind und verlangen, daß nicht die<lb/>
+Istlohnerhöhung Prozente auf die Löhne aufgeschlagen werden, sondern<lb/>
+daß auch die Istlöhne die Kollektivvertragslohnprozente bezahlt<lb/>
+<pb n="11-0650" facs="11_1972-05-25_0650.jpg"/>werden müssen. Die gesamte Gewerkschaftsspitze Bau-Holz ist<lb/>
+derzeit in Düsseldorf und die anwesenden Sekretäre waren nicht<lb/>
+im Stande, oder wollten sich nicht gegen die Betriebsräte und<lb/>
+gegen die Belegschaft stellen. <name type="person" ref="per:97346">Benya</name> meinte, wenn dies Schule<lb/>
+macht, daß entsprechende Abschlüsse von den Betrieben nicht mehr<lb/>
+akzeptiert werden, dann muß es zu einer Entwicklung wie in England<lb/>
+kommen. Er hat sehr hart gesprochen, daß dadurch die Regierungs<lb break="no"/>politik und damit die nächsten Wahlen werden und die Niederlage<lb/>
+bereits für ihn feststehen würde.<lb/>
+</p>
+            <p xml:space="preserve">Im Parteivorstand berichtete <name type="person" ref="per:97727">Marsch</name>, das erweiterte Präsidium wird<lb/>
+aus <name type="person" ref="per:97346">Benya</name> und <name type="person" ref="per:98066">Weisz</name> für die Gewerkschaften, <name type="person" ref="per:137885">Demuth</name> für die Frauen,<lb/>
+den Zentralsekretär <name type="person" ref="per:97727">Marsch</name>, den geschäftsführenden Klubobmann<lb/>
+<name type="person" ref="per:97488">Gratz</name> und den Kassier <name type="person" ref="per:114604">Hillinger</name> ergänzt. Im Aufsichtsrat von<lb/>
+Schoeller-Bleckmann wird anstelle <name type="person" ref="per:139964">Löffler</name> <name type="person" ref="per:97498">Grünwald</name> nominiert.<lb/>
+Für die Schiffswerft Linz und für die DDSG wird <name type="person" ref="per:97668">Kreisky</name> ermächtigt<lb/>
+im Einvernehmen mit den Landesobleuten von Wien und Niederösterreich<lb/>
+<name type="person" ref="per:97461">Frühbauer</name> eine entsprechende nominelle Änderung durchzuführen.<lb/>
+<name type="person" ref="per:97384">Czernetz</name> berichtet über die Soz. Internationale. Das Büro hat<lb/>
+wieder einmal in England getagt. Dem Büro gehören derzeit an<lb/>
+Österreich, Belgien, GB, Kanada, Niederlande, Frankreich,<lb/>
+die SPD, Israel, zwei italienische Parteien, Japan, Australien<lb/>
+und Neuseeland abwechselnd. Da sie weit entfernt sind und kaum<lb/>
+an den Sitzungen teilnehmen ebenso Singapur. Die Dänen, Finnland<lb/>
+und Schweden, Polen ist mit einem Exilvertreter, Irland hat zwei<lb/>
+Gruppen – 1 katholische und eine protestantische. Chile wird nicht<lb/>
+durch die Partei <name type="person" ref="per:114478">Allendes</name> vertreten, sondern eine kleine radikal-<lb/>
+sozialistische. Venezuela hat einen Beobachter so wie die zwei<lb/>
+indischen Parteien. Unbedeutende soz. Partei der USA hat sich<lb/>
+mit einer zweiten soz.-demokratischen Föderation zusammenge<lb break="no"/>schlossen. Beide sind allerdings jetzt eine verschwindende Gruppe<lb/>
+und deshalb wurden sie von den anderen Mitgliedern suspendiert,<lb/>
+obwohl dies unlogisch ist, da zuerst eine noch kleinere Partei<lb/>
+nämlich die Sozialistische Partei USA sogar Mitglied war. Diesem<lb/>
+Bericht von <name type="person" ref="per:97384">Czernetz</name> konnte ich entnehmen, daß natürlich alle<lb/>
+interessiert sind, in die Vorstände vorzurücken, damit sie Ge<lb break="no"/>legenheit haben, wahrscheinlich an den Sitzungen und Tagungen<lb/>
+teilzunehmen. Das Hauptproblem nämlich eine mächtige Internationale<lb/>
+<pb n="11-0651" facs="11_1972-05-25_0651.jpg"/>aufzubauen, wird dadurch nicht gelöst, sondern nur Reisemöglich<lb break="no"/>keiten geschaffen. Dieses Problem kenne ich ja von der Internationale<lb/>
+der Lebensmittelarbeiter.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> berichtet über den <name type="person" ref="per:127591">Nixon</name>-Besuch, den er als liberalen<lb/>
+bezeichnet und insbesondere über den <name type="person" ref="per:114110">Brandt</name>-Besuch. Die deutsche<lb/>
+Regierung wird ohne Budget weiterregieren, da sie Neuwahlen als<lb/>
+Regierung bestreiten will. Die DDR wird, wie mit <name type="person" ref="per:114110">Brandt</name> besprochen,<lb/>
+anerkannt, wenn die UNO beide deutschen Staaten aufnimmt. Dies<lb/>
+wird wahrscheinlich im Herbst oder Winter der Fall sein. Aner<lb break="no"/>kennung der DDR ist für Österreich bedeutend wichtiger, da 30.000<lb/>
+Österreicher dort wohnen, als z. B. Vietnam. Die Schweiz hat<lb/>
+Nordvietnam anerkannt und bis jetzt nicht einmal eine Antwort<lb/>
+erhalten. Richtschnur Österreichs wird nach wie vor sein, wenn<lb/>
+jemand UNO-Mitglied ist, ist dies Völkerrechtssubjekt und damit<lb/>
+automatisch von uns anzuerkennen.<lb/>
+</p>
+            <p xml:space="preserve">Salzburger Erzeugnisse haben natürlich einen Großteil der Diskussion<lb/>
+und auch des Referates von <name type="person" ref="per:97668">Kreisky</name> ausgemacht. <name type="person" ref="per:97668">Kreisky</name> hat aller<lb break="no"/>dings erklärt, daß in einer sozialistischen Partei jeder seine<lb/>
+eigene Meinung kundtun könne und solange nicht ein Beschluß gefaßt<lb/>
+wäre, herrsche volle Freiheit für jeden Einzelnen. Sicher hat ins<lb break="no"/>besondere er sich in der Diskussion, alle die die Resolution unter<lb break="no"/>schrieben haben, hart attackiert wurden, insbesondere von den westl.<lb/>
+Bundesländervertretern, die kameradschaftliche Lösung des Partei<lb break="no"/>vorsitzenden hingewiesen. Die Salzburger haben nur im Oktober Ge<lb break="no"/>meinderatswahlen und sind deshalb überempfindlich und fürchten durch<lb/>
+die Ausschreitungen auf einen entsprechenden Rückschlag. Ich habe<lb/>
+das Gefühl, daß sie sich hier mehr um eine Alibibehauptung handelt,<lb/>
+als wenn sie irgendwie verlieren, dann sagen können, schuld seien<lb/>
+die entsprechenden Demonstrationen und die Genossen, die die<lb/>
+Vietnampolitik bekämpfen.<lb/>
+</p>
+            <p xml:space="preserve">Betreffend der EWG-Verhandlungen meinte <name type="person" ref="per:97668">Kreisky</name>, es würde an den<lb/>
+Abschluß kommen. Der Osten keinerlei Schwierigkeiten machen, aber<lb/>
+insbesondere die Erpressung der österreichischen Bauern <name type="person" ref="per:97893">Sallinger</name><lb/>
+und <name type="person" ref="per:97769">Mussil</name> jetzt unterstützen, auf eine Erstattungsregelung von<lb/>
+<pb n="11-0652" facs="11_1972-05-25_0652.jpg"/>uns ganz entschieden zurückgewiesen werden müssen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:111325">Mock</name> sei für eine temporäre Preisregelung und deshalb hätte <name type="person" ref="per:97668">Kreisky</name><lb/>
+ihm einen Brief geschrieben, wo er eine Besprechung über diese<lb/>
+legislativen Maßnahmen mit ihm anregt. Bis jetzt hat <name type="person" ref="per:111325">Mock</name> noch<lb/>
+nicht geantwortet.<lb/>
+</p>
+            <p xml:space="preserve">In der Verstaatlichten-Frage hat Prof. <name type="person" ref="per:114939">Kastner</name> gebeten, einen<lb/>
+neuen Entwurf auszuarbeiten. Seinerzeit hat <name type="person" ref="per:114939">Kastner</name>, wie er sagt,<lb/>
+auf Wunsch des Eigentümers <name type="person" ref="per:97634">Klaus</name> einen diesbezüglichen Gesellschafts<lb break="no"/>vertrag resp. Gesetzentwurf konstruiert. Jetzt wird er einen Novelle<lb/>
+vorbereiten, daß die Hauptversammlung vom Eigentümer auch einberufen<lb/>
+werden kann. Derzeit geht es nämlich nur, wenn der Aufsichtsrat<lb/>
+dies beschließt. Die Zusammenarbeit zwischen ÖMV und ÖSW funktioniert<lb/>
+und die Tochter hat eine 25 %-ige Umsatzsteigerung. Auch das Pro<lb break="no"/>blem der Werftenzusammenlegung Linz und Korneuburg wird funktionieren.<lb/>
+Schwierigkeiten macht nur noch die große Lösung auf dem Stahl– und<lb/>
+Eisensektor und hier besteht nur noch zwei Jahre Zeit.<lb/>
+</p>
+            <p xml:space="preserve">Die Mehrwertsteuerfrage wurde im erweiterten Präsidium beschlossen,<lb/>
+soll so wie aus der parlamentarischen Verhandlungen herauskommt,<lb/>
+auch dann die Unterstützung der Partei haben. 1970 wurden Budget<lb break="no"/>absprachen mit der FPÖ geführt und dort wurde bereits vereinbart,<lb/>
+daß die Mehrwertsteuer mit 1.1.1973 eingeführt werden soll. Es<lb/>
+werden deshalb mit der FPÖ Besprechungen aufgenommen, wobei man<lb/>
+annimmt, daß sie bei einigen Zugeständnissen, Einzelheiten wurden<lb/>
+nicht mehr mitgeteilt, doch der Mehrwertsteuer zustimmen werden.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97311">Androsch</name> ergänzte, daß nur einige Probleme offen sind, die aber<lb/>
+auch jetzt in der letzten Zeit gelöst werden konnten. 1. Mieten:<lb/>
+Eine unechte Befreiung wird abgelehnt, ansonsten bei Bauten und<lb/>
+Reparaturen keinen Vorsteuerabzug<add>[?]</add> mehr verrechnen könnten und<lb/>
+damit die Mieten stark belastet werden. Es wurde deshalb um die<lb/>
+Altmieten bezüglich Zinsstock des § 7, gibt es ja ein 1/2 Dtzd.<lb/>
+Formen, allzu sehr belastet werden, wird ein halber Steuersatz<lb/>
+eingeführt.<lb/>
+</p>
+            <pb n="11-0653" facs="11_1972-05-25_0653.jpg"/>
+            <p xml:space="preserve">2. Die Weinbauern, die im Entwurf 16 % vorgesehen bekommen haben,<lb/>
+werden bis zu einem Einheitswert, wo alle Selbstvermarkter darunter<lb/>
+fallen, mit 8 % verrechnet. Aus der seinerzeitigen Wein<lb break="no"/>steuerstatistik weiß man, daß ungefähr 1/3 nicht zu erfassen ist.<lb/>
+Die Weinpreise seien seit 1968, wo sie 3,50 – 4.20 gekostet haben<lb/>
+und derzeit auf 6,80 – 8,–– Liter Fasswein erhöht wurden. Damals<lb/>
+und heute nur sehr schwer steuerlich erfaßt. Wird ca. 7 Milliarden<lb/>
+Schilling Entlastung bekommen. Derzeit haben sie 1 1/2 % Überkompen<lb break="no"/>sation und zwar durch die pauschalierte Exportvergütung. In 1 1/2<lb/>
+Milliarden Überkompensation sind ca. 25 % der gesamten Exportrück<lb break="no"/>vergütung. Durch eine Formel<add>[?]</add>, wo der Exportumsatz zum Gesamtum<lb break="no"/>satz unter Entlastungskoeffizient für die Altumsatzsteuer entsprechend<lb/>
+reguliert werden, wird der Industrie eine Erleichterung gegeben.<lb/>
+Die Investitionssteuer soll von 12 auf 6 % und im 2. Jahr von 9<lb/>
+auf 6 % verringert werden für Betriebe, die stark exportorientiert<lb/>
+sind<add>Punkt 3. fehlt, Anm.</add>.<lb/>
+</p>
+            <p xml:space="preserve">4. Treibstoffe. Hier appelliert er für die volle Anrechnung des 16 %-igen<lb/>
+Steuersatzes auf die Treibstoffpreise inkl. der Mineralölsteuer.<lb/>
+Jede andere Lösung würde 6 - 800 Mio. Einnahme bedeuten, die zw.<lb/>
+Bund und Länder geteilt werden müßte. 1971 waren 194 Neuzulassungen<lb/>
+und man hat angenommen, daß es sich hier um einen Nachholbedarf<lb/>
+nach Wegfall der 10 %-igen Sondersteuer handelt. 1972 im 1. Quartal<lb/>
+wurde genau dieselbe Zulassung festgestellt. Für die Arbeiter kommt<lb/>
+es zur Entlastung durch Erhöhung des Kraftfahrzeugpauschales. Die<lb/>
+Höhe konnte er aber noch nicht mitteilen.<lb/>
+</p>
+            <p xml:space="preserve">5. Die Gebrauchtwagen werden mit dem vollen Steuersatz belastet,<lb/>
+da hier nur einzelne Firmeninteressen eine entsprechende Reduktion<lb/>
+verlangen.<lb/>
+</p>
+            <p xml:space="preserve">6. Eine Straßenbenützungsgebühr soll eingeführt werden. Derzeit ist<lb/>
+die Beförderungssteuerelement aber auch eine Fernverkehrssteuer<lb/>
+ordnungspolitisches Element beinhaltet. Würde dies wegfallen, dann<lb/>
+würde die ÖBB mit mindestens 400 Mio. Umsatz Verlust zu<lb/>
+rechnen. Da die Beförderungssteuer in die Mehrwertsteuer eingebaut<lb/>
+wird, müßte eine andere Gebühr eingeführt werden, da ansonsten Frächter,<lb/>
+die in 3. Ländern fahren, dort die Steuer bezahlen müßten, weil keine<lb/>
+Retorsionsmaßnahmen<add>[?]</add> mehr bestehen würden. Derzeit ist es so, wenn<lb/>
+österreichische Firmen woanders von der Beförderungssteuer befreit<lb/>
+sind auch diese Länder dann in Österreich eben die Steuerbefreiung<lb/>
+<pb n="11-0654" facs="11_1972-05-25_0654.jpg"/>zugestanden bekommen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97488">Gratz</name> wies in der Diskussion darauf hin, daß man dieses Problem<lb/>
+durchstehen müsse. Es wären insgesamt 84 Ausnahmewünsche ange<lb break="no"/>meldet worden und man kann daher keinem einzlenen Rechnung tragen.<lb/>
+Der Vorsitzende des Unterausschusses <name type="person" ref="per:126223">Tull</name> war auch dafür, daß<lb/>
+man Härte aufbringen müßte, auch dann wenn die entsprechenden<lb/>
+Autofahrer aufschreien werden. <name type="person" ref="per:97372">Broda</name> für den ARBÖ hat bereits<lb/>
+kapituliert. <name type="person" ref="per:97563">Hofstetter</name> meldete doch Bedenken an und schlug<lb/>
+vor, ob man nicht die Mehrwertsteuer auf einen Teil des Mineral<lb break="no"/>ölpreises, ohne der Mineralölsteuer erlassen könnte.<lb/>
+</p>
+            <p xml:space="preserve">Zu dem Gespräch mit Redakteur <name type="person" ref="per:139965">Dryer</name> mußte ich in das Ministerium<lb/>
+fahren, konnte ich die entsprechenden Schlußworte resp. die Be<lb break="no"/>schlüsse nicht mehr miterleben.<lb/>
+</p>
+            <p xml:space="preserve">Anmerkung fürs BÜRO<lb/>
+In Hinkunft nach dem Parteivorstand nur sehr spät, wenn überhaupt<lb/>
+noch, Besprechungen ansetzen.<lb/>
+</p>
+            <p xml:space="preserve">Konferenz der soz. Gewerkschafter, wo ich anwesend war, obwohl<lb/>
+ein soz. politisches Thema zur Debatte stand, <name type="person" ref="per:97525">Häuser</name> referierte<lb/>
+die 29. ASVG-Novelle, war ich sehr interessiert, die Reaktion<lb/>
+der wiener Vertrauenspersonen zu hören. Er wartete, daß dort zu<lb break="no"/>mindestens unter dem Punkt allfälligen oder sogar schon beim<lb/>
+Referat entsprechende Angriffe auf unsere Wirtschaftspolitik<lb/>
+insbesondere die Preissteigerung erfolgen würde. Auch die 29.<lb/>
+ASVG-Novelle gewisse Belastungen durch Erhöhung der Höchstbei<lb break="no"/>tragsgrenze von 4.800 sowie durch die Erhöhung des Perzentsatzes<lb/>
+des Gattenversicherungsbeitrages entstehen würden, glaubte ich,<lb/>
+daß in diesem Punkt härter attackiert werden wird. Zu meiner<lb/>
+größten Verwunderung war kaum eine Kritik zu hören. Ich stehe<lb/>
+vor einem Phänomen. Die Arbeiterschaft oder zumindestens die<lb/>
+Funktionäre sind so diszipliniert, daß sie selbst Belastungen,<lb/>
+die in nächster Zeit neuerdings zu erwarten sind, mit der Ge<lb break="no"/>lassenheit ertragen. Entweder sie haben bereits kapituliert<lb/>
+und sagen es ist sowieso dagegen nichts zu machen, oder sie<lb/>
+<pb n="11-0655" facs="11_1972-05-25_0655.jpg"/>wollen sich mit der Parteiführung oder Gewerkschaftsführung<lb/>
+nicht zerstreiten. oder sie wollen ihre Ruhe haben und so schnell<lb/>
+wie möglich nach Hause kommen. Letzteren Fall könnte ich noch<lb/>
+verstehen, da einige während der Konferenz verschwinden, was<lb/>
+sie auch getan haben, aber die anderen, die geblieben sind und<lb/>
+insbesondere die die Kritik üben wollten, hätten hier wirklich<lb/>
+ein reichliches Betätigungsfeld gehabt. Scheinbar stimmt auch<lb/>
+die von mir vertretene Theorie, daß, wenn es der Arbeiterschaft<lb/>
+und der gesamten Bevölkerung durch einen Wirtschaftsaufschwung<lb/>
+besser geht, ist sie bereit unangenehme Erscheinungen, wie eben<lb/>
+z. B. Preis- u. Tarifsteigerungen und Abgabenerhöhungen zu<lb/>
+akzeptieren. Sicherlich wird sie schimpfen, sicherlich wird sie<lb/>
+irgendwie ihrem Unmut Platz machen, aber doch nicht in einer<lb/>
+Form oder einem Ausmaß, das beängstigend wäre. Hier paßt nun<lb/>
+ein Zitat, welches<add>[ich mit]</add> meinen spärlichen Lateinkenntnissen noch<lb/>
+immer weiß. "<choice><choice><sic>Kosqetanten</sic><corr>Quo usque tandem?</corr></choice></choice>", und ich sehr überrascht, daß wir dieses<lb/>
+<choice><choice><sic>Lieb</sic><corr>?</corr></choice></choice> über die Runden brachten.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="11_0647_01" facs="11_1972-05-25_0647-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 25.5.1972</head>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Montag, der 15. Oktober 1973</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band18_1973-10-15</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1973-10-15">Montag, 15. Oktober 1973</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-09-07">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band18/">
+      <body>
+         <pb n="18-1128" facs="18_1973-10-15_1128.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Montag, 15. Oktober 1973</p><p xml:space="preserve">Beim Journalistenfrühstück hatte ich Gelegenheit, über die von der<lb/>
+ÖMV vorgelegten Ziffern zu referieren. Vorher hatte ich bereits mit<lb/>
+den internationalen Gesellschaften vereinbart, dass sie uns jetzt<lb/>
+entsprechende Lagerstandsmeldungen nur zur Information des Ministeriums<lb/>
+geben sollten. Ebenso ersuchte ich die ÖMV Dir. <name type="person" ref="per:97671">Kreutler</name> die ent<lb break="no"/>sprechenden Ziffern jetzt täglich oder zumindestens wöchentlich jetzt<lb/>
+zu melden. Min.Rat <name type="person" ref="per:107937">Frank</name> wird das Notwendige veranlassen. Mir erscheint<lb/>
+es dringend notwendig, dass wir laufend die entsprechenden Ziffern<lb/>
+zur Hand haben, damit uns nicht wieder ein solches Debakel passiert<lb/>
+wie in der vergangenen Woche. Niemand hatte eigentlich verlässliche<lb/>
+Ziffern gehabt, <name type="person" ref="per:97671">Kreutler</name> selbst war in Libyen und konnte deshalb<lb/>
+auf die ÖMV nicht den notwendigen Einfluss nehmen. Seiner Berechnung<lb/>
+nach wäre es nicht notwendig gewesen, eine solche drastische Kürzung<lb/>
+wie z.B. am Heizölsektor vorgenommen wurde, durchzuführen. Der Erd<lb break="no"/>öldienst hat berichtet, dass man um 60 % gekürzt hat, eine solche<lb/>
+Kürzung wurde mit mir nie vereinbart und dies noch rückwirkend mit<lb/>
+1. Oktober. Dadurch kann es vorgenommen sein, dass tatsächlich<lb/>
+einzelne Tankstellen überhaupt kein Heizöl extra leicht, bekommen<lb/>
+haben. Wenn wir entsprechendes Ziffernmaterial über die An- und Auslie<lb break="no"/>ferung haben, könnten wir uns ein besseres Bild machen. <name type="person" ref="per:107937">Frank</name> hat mir<lb/>
+vorgeschlagen, dass dieses statistische Material nur von <name type="person" ref="per:107936">Elsinger</name><lb/>
+aufgearbeitet werden könnte.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">Heindl</name>: Bitte die entsprechenden personellen Verände<lb break="no"/>rungen veranlassen. Ich möchte <name type="person" ref="per:107936">Elsinger</name> selbst um<lb/>
+diese neue Arbeit ersuchen.</p><p xml:space="preserve">Auf Grund der Erfahrung, die wir jetzt in den letzten Tagen mit der<lb/>
+Entwicklung auf dem Erdölsektor gehabt haben, erscheint es mir<lb/>
+zweckmässig, dass wir nicht zuletzt auch wegen der im Vergleich [?] hohen<lb/>
+Kürzung, die gar nicht beabsichtigt war, nach Normalisierung eine<lb/>
+kritische Besprechung aller Massnahmen mit der ÖMV und in weiterer<lb/>
+Folge auch mit den internationalen Gesellschaften durchführen sollten.<lb/>
+Ich glaube, dass man aus Fehlern lernen soll, Fehler sind geschehen<lb/>
+auch von uns und es wäre zweckmässig durch Absprachen in Hinkunft sol<lb break="no"/>che Fehler zu vermeiden.</p><p xml:space="preserve">Bei der Eröffnung der betriebswirtschaftlichen Woche hatte ich Gelegen<lb break="no"/>heit, in aller Öffentlichkeit über die Benzin- und Ölversorgung zu<lb/>
+<pb n="18-1129" facs="18_1973-10-15_1129.jpg"/>referieren. Die ÖMV hat mir zwar schlüssig nachgewiesen, dass wir<lb/>
+für <choice><choice><sic>8</sic><corr>9?</corr></choice></choice> Wochen entsprechnede Vorräte jedenfalls haben, doch möchte<lb/>
+ich diese Ziffer noch nicht in der Öffentlichkeit bekanntgeben. Es<lb/>
+ist immerhin möglich, dass in den nächsten Tagen Äbderungen Platz<lb/>
+greifen und dann müssteich wieder korrigieren. Ich glabue, deshalb<lb/>
+ist es zweckmässig und ich habe auch nur von den derzeitigen Lager<lb break="no"/>verhältnissen bei der Betriebswirtschaftlichen Woche gesprochne,<lb/>
+für die Zukunft nur erklären, dass wir bessere und längere Lager als<lb/>
+andere westeuropäische Länder haben. Den vertreten vom Fernsehen und<lb/>
+Rundfunk, die sowohl bei der Pressebesprechung als auch bei der<lb/>
+Betriebswirtschaftlichen Woche anwesend waren, habe ich deutlich ge<lb break="no"/>macht, dass sie doch auf alle Fälle in Hinkunft, wenn sie etnspre<lb break="no"/>chende Aufnahmen und Kommentare von leerstehenden Tankstellen und<lb/>
+mangelnder Vorsorge usw. bringen, auch den verantwortlichen Minister<lb/>
+fragen sollten. wenn sie dann letzten Endes zu einer anderen Über<lb break="no"/>zeugung kommen und meinen, dass meine Angaben nicht stimmen, habe ich<lb/>
+gar nichts dagegen, wenn sie sie kritisch beleuchten und sogar andere<lb/>
+Schlüsse zieehen als die Regierung gerne hätte. Aber fragen müssten<lb/>
+sie eigentlich auf alle Fääälle, um sich selbst ein objektives Bild<lb/>
+machen zu können.</p><p xml:space="preserve">Präsident <name type="person" ref="per:97581">Igler</name> hat über die Probleme der Industrie, ganz besonders<lb/>
+der österreichischen im Zusammenhang mit der Integration ein Referat<lb/>
+gehalten. Konkrete Einzelheiten hat er nicht angeshcnitten, sondern<lb/>
+mehr vom philosophischen und politischen GEsichtspunkt das Problem<lb/>
+der Industrie in westeuropäischem Raum und über die – wie er sich ausdrc<lb/>
+drückte – politische Kompetenzverlagerung. Seine Schlussfolgerungen<lb/>
+waren, dass erstens eine Förderung der Exportoffensive durch Export<lb break="no"/>stützpunkte, wie es die Firma Hörbinger heute in den verschiedenen<lb/>
+Staaten macht, nötwenidig wäre. Zweitens eine personelle Zusammenarbeit<lb/>
+zwischen Wirtschaft, Staat, Industriebetrieben und Interessensvertre<lb break="no"/>tungen , drittens in der Steuerpolitik eine Ermöglichung der Substanz<lb break="no"/>erhaltung durch mehr Rücklagen und entsprechende Abschreibungen und<lb/>
+viertens eine steuerpolitische Möglichkeit, Fusionen durchzuführen,<lb/>
+insbesondere auf die regionalen Differenziertheiten.</p><p xml:space="preserve">Die interministerielle Sitzung über das Rohstofflenkungsgesetz war<lb/>
+leider bei meiner Rückkunft schon zu Ende.Römer hat nur mehr das<lb/>
+Formulierungskomitee, d.h. den Verfassungsdienst und Herren des<lb/>
+Hauses mit den Interessensvertretungen bei sich. Da ich befürchtete,<lb/>
+<pb n="18-1130" facs="18_1973-10-15_1130.jpg"/>dass in die Formulierung des Rohstofflenkungsgesetzes nicht aufgenommen<lb/>
+wird die Tatsache, dass ich ja keinerlei Bewirtschaftung durchführen<lb/>
+kann, sondern dies die Landesregierungen machen müssen, verlangte ich eine<lb/>
+klare Formulierung vom Verfassungsdienst, der diese Delegation an die<lb/>
+Landesregierungen d.h. Landeshauptleute deckt. Gleichzeitig konnte ich<lb/>
+der Landwirtschaftskammer einreden, dass die natürlich eine Kontrolle<lb/>
+durch die Bezirkshauptmannschaften wünscht, damit ihre Bauern zu dem<lb/>
+Diesel- resp. Ölmengen kommen. Der Handelskammer wieder konnte ich<lb/>
+plausibel machen, dass sie selbst die Durchführung der Bewirtschaftung<lb/>
+durch ihre Interessensorganisationen erwartet. Da in der Formulierung<lb/>
+bei der Novelle dies so dezidiert nicht zum Ausdruck kommt, haben<lb/>
+wir in den erläutenden Bemerkungen die Hinweise der Interessensvertretun<lb break="no"/>gen aufgenommen. Ich bin sehr neugierig, wie es im Parlament weitergehen<lb/>
+wird.</p><p xml:space="preserve">Mit Gen.Dir. <name type="person" ref="per:97865">Reisinger</name> und Dr. <name type="person" ref="per:97738">Meszaros</name> sowie <name type="person" ref="per:97469">Gehart</name> unterhielt ich mich<lb/>
+über die ausgearbeitete Studie betreffend ÖMV und Austro-Ferngas. <name type="person" ref="per:97738">Meszaros</name><lb/>
+hat mir wieder bestätigt, dass er ein Ausgehen des Bundes oder der ÖMV<lb/>
+in die Austro-Ferngas oder umgekehrt für ganz unmöglich hält. Sein<lb/>
+Kompromiss, dass er mit <name type="person" ref="per:97865">Reisinger</name> gefunden hat, stellt eine maximale<lb/>
+Lösung dar. Er möchte und auch <name type="person" ref="per:97865">Reisinger</name> hat dies dezidiert erklärt,<lb/>
+dass über dieses Elaborat derzeit mit niemandem anderen gesprochen<lb/>
+wird. Sie wollen jetzt abwarten, wie <name type="person" ref="per:97668">Kreisky</name> seine Idee, dass der<lb/>
+Bund bei diesen Geschäft in irgendeiner Form berücksichtigt wird,<lb/>
+verwirklicht oder eben nicht verwirklicht und dann mit ihren<lb/>
+jeweiligen Auftragsgebern das heisst <name type="person" ref="per:97865">Reisinger</name> mit der Austro-Ferngas<lb/>
+und <name type="person" ref="per:97738">Meszaros</name> mit der ÖMV dann Besprechungen führt, damit ich letzten<lb/>
+Endes als Vermittler wenn es zu nichts anderem kommt, auftreten könnte.<lb/>
+<name type="person" ref="per:97865">Reisinger</name> und <name type="person" ref="per:97738">Meszaros</name> sind überzeugt, dass der Staat in dem Fall <name type="person" ref="per:97311">Androsch</name><lb/>
+in Vertretung von <name type="person" ref="per:97668">Kreisky</name> und in Durchführung der Exportförderung gar<lb/>
+nicht anders kann, als die Konzeption mit Algerien-Gas zu akzeptieren.</p><p xml:space="preserve">Mit Sekt.Rat <name type="person" ref="per:112956">Schwarz</name> und Dr. <name type="person" ref="per:97646">Koppe</name> wurde die Lebensmittelkennzeichnungs<lb break="no"/>verordnung endgültig fixiert. Margarine, die <name type="person" ref="per:107938">Leodolter</name> bei mir urgiert<lb/>
+hat, kann nach Auffassung <name type="person" ref="per:112956">Schwarz</name> nicht in das Gesetz aufgenommen<lb/>
+werden, weil es ein eigenes Margarine-Gesetz gibt. In diesem Gesetz<lb/>
+ist allerdings das Aufbrauchs- oder Produktionsdatum nicht vorge<lb break="no"/>sehen. Ich habe deshalb entschieden, dass man auf alle Fälle, selbst dann<lb/>
+wenn eine Problem in zwei Gesetzen geregelt ist, die entsprechende<lb/>
+Bestimmung, Margarine in die Lebensmittelkennzeichnung aufnehmen muss.</p><pb n="18-1131" facs="18_1973-10-15_1131.jpg"/><p xml:space="preserve">Betreffend der Deklaration für Feinbackwaren und vor allem einmal<lb/>
+auch der Verpackung, habe ich vorgeschlagen, dass wir eine Kompromiss<lb break="no"/>lösung anstreben sollten. Bezüglich der Folien-Verpackung könnte ich<lb/>
+mir vorstellen, dass wir sie ebenso in dem Erlass dann entsprechend<lb/>
+ausführlich bestimmen.</p><p xml:space="preserve">In der Ministerratsvorbesprechung hat <name type="person" ref="per:97525">Häuser</name>, da <name type="person" ref="per:97668">Kreisky</name> erkrankt ist,<lb/>
+sofort den Ministern, die zum Ministerrat etwas zu sagen haben, das<lb/>
+Wort gegeben. <name type="person" ref="per:97311">Androsch</name> hat mitgeteilt, dass das 2. BÜG, das morgen zur<lb/>
+Debatte steht, noch durch 15 Mill. S für die GKB ergänzt werden soll.<lb/>
+Dadurch würde der Kreditrahmen, der 30 Mill. beträgt und bis Jahres<lb break="no"/>ende aufgebraucht ist, keine Möglichkeit mehr geben für die Bezahlung<lb/>
+der Jänner-Löhne. Darum hat er sich entschlossen, noch 15 Mill. dazu<lb break="no"/>zugeben. Ich hätte und wollte ihn davon überzeugen, dass 20 Mill, diesen<lb/>
+Betrag hatten wir beim BÜG beantragt, alle Probleme zumindestens für<lb/>
+die GKB bis März auf der Welt schaffen würden. Er meinte aber, aus<lb/>
+finanziellen Gründen könnte er nur 15 Mill. S geben. Dadurch haben wir<lb/>
+von unserem seinerzeitigen Antrag von 140 Mill. immerhin 35 Mill. durch<lb break="no"/>gesetzt.</p><p xml:space="preserve"><name type="person" ref="per:98055">Weihs</name> berichtet, dass er in einer Präsidialsitzung von <name type="person" ref="per:97647">Koren</name> nur schwer<lb/>
+Termine zusätzlich bekommen kann. 23. erwartet die ÖVP eine Erklä<lb break="no"/>rung der Regierung über die Schönau-Affaire. <name type="person" ref="per:98055">Weihs</name> meint, die müsste man<lb/>
+geben, sonst erhielte man sofort eine dringliche Anfrage. Am 8. November<lb/>
+wird eine neue Parlamentssitzung zusätzlich eingeschaltet. Am 9. November<lb/>
+wird im Nationalrat die Gewerbeordnung abgehandelt. Der Handelsausschuss<lb/>
+wurde für 25. Oktober vorgesehen. Das Rohstofflenkungsgesetz kann am<lb/>
+23. eingebracht werden und die ÖVP wollte wissen, ob wir eine schnelle<lb/>
+Behandlung oder eine Blitzbehandlung wünschen. Gegen diese Blitzbehand<lb break="no"/>lung hat sowohl <name type="person" ref="per:97525">Häuser</name> als auch <name type="person" ref="per:97372">Broda</name> grösste Bedenken. Ich selbst habe<lb/>
+sie nicht verlangt, da ich jetzt noch gar nicht weiss, ob wir im November<lb/>
+überhaupt noch interessiert sind, an einer schnellen Erledigung oder<lb/>
+ob wir dies ganz normal über die Bühne gehen lassen können. Wenn eine<lb/>
+Blitzbehandlung erfolgt müsste auch der Bundesrat extra wegen des<lb/>
+Rohstofflenkungsgesetzes einberufen werden. Ob wir eine Blitzerledigung wün<lb break="no"/>schen können wir auch in der nächsten Zeit noch entscheiden. Ich berichte<lb break="no"/>te dann auf Aufforderung einiger Minister über die Benzin- und Ölsituation.<lb/>
+Ich habe gleichzeitig darauf hingewiesen, dass ich die Preiserhöhung für<lb/>
+Jänner 1974 unmittelbar nach den Wahlen vorziehen werde, um die Möglichkeit<lb/>
+<pb n="18-1132" facs="18_1973-10-15_1132.jpg"/>für Importe von verteuertem Benzin und Dieselöl zu schaffen.</p><p xml:space="preserve"><name type="person" ref="per:108223">Lausecker</name> berichtet über die Kommission des Ministeriengesetzes.<lb/>
+Bis 1.1.1974 kann nur das Problem der Auskunftspflicht gegen<lb/>
+Private unter Wahrung der Amtsgeheimnisse geklärt werden. Die anderen<lb/>
+Fragen, glaubt <name type="person" ref="per:108223">Lausecker</name> , kann er maximal bis 1. März 1974 lösen.<lb/>
+Die Geschäftseinteilung ist lt. Gesetzesauftrag ja erst mit<lb/>
+1. Jänner 1975 durchzuführen. Ich selbst habe sofort erklärt,<lb/>
+dass wir bis 1.1.1975 auf gar keinen Fall zuwarten können, weil da<lb break="no"/>durch wir in die Vorwahlzeit der Nationalratswahlen kommen werden.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> hat seinerzeit ja auch bestimmt, dass mit 1. Jänner 1974<lb/>
+alles erledigt sein muss, was <name type="person" ref="per:108223">Lausecker</name> allerdings als vollkommen<lb/>
+unmöglich bezeichnet.</p><p xml:space="preserve">In dem von mir vorgelegten Rohstofflenkungsgesetz-Entwurf wird<lb/>
+insbesondere die Formulierung " oder aus Gründen der Staatssicher<lb break="no"/>heit" wegen der Wahl und de damit zu erwartenden Aufregung innerhalb<lb/>
+der Bevölkerung kritisiert. Da aber <name type="person" ref="per:108224">Lütgendorf</name> insbesondere auf den<lb/>
+Bedarf des Militärs, <name type="person" ref="per:97879">Rösch</name> auf die der Gendarmerie und <name type="person" ref="per:110923">Lanc</name> auf<lb/>
+die von Post und Bahn hinweist, einigen wir uns auf die Formu<lb break="no"/>lierung "zur Versorgung der Bevölkerung und sonstiger Bedarfsträger"<lb/>
+In den Erläuternden Bemerkungen sollen auch die jüngsten Entwicklungen<lb/>
+im Nahen Osten herausfallen. Interessant ist dass wenn <name type="person" ref="per:97668">Kreisky</name> bei<lb/>
+den Ministerratssitzungen und Vorbesprechungen nicht anwesend ist,<lb/>
+dann die einzelnen Minister wesentlich mehr von ihren Problemen<lb/>
+referieren resp. gefragt werden. Ich selbst habe nicht die Absicht<lb/>
+bei Anwesenheit <name type="person" ref="per:97668">Kreiskys</name> zu schweigen und nachher umso mehr zu er<lb break="no"/>zählen. Ich halte an meinem Prinzip auf alle Fälle fest, nur dann<lb/>
+das Wort zu nehmen, wenn ich dazu aufgefordert werde.</p><p xml:space="preserve">Die Passagendiskussion und dann auch am Abend die Veranstaltung der<lb/>
+Privatangestelltengewerkschaft in der Mag. Landstrasse, war so<lb/>
+ruhig verlaufen, dass es für mich wieder fast beängstigend ist.<lb/>
+Keine harte Angriffe, keine Kritik, vereinzelte Ansätze von rein<lb/>
+fachlichen Wünschen und Anregungen, vielleicht in dem einen oder<lb/>
+anderen Fall noch eine ein bisschen schärfere Formulierung aber<lb/>
+alles in sehr urbanen und friedlichen Formen. Nach den Veranstaltungen<lb/>
+zu schliessen, müsste das Rennen schon gelaufen sein. Ich habe aber<lb/>
+noch immer die Erfahrung von 1966 in den Knochen, wo auch unsere<lb/>
+Veranstaltungen gut besucht waren, es verhältnismässig wenig<lb/>
+<pb n="18-1133" facs="18_1973-10-15_1133.jpg"/>Kritik gegeben hat und wir dann die Wahl verheerend verloren haben.<lb/>
+Ich bin übezeugt, dass es diesmal nicht so sein wird, trotzdem<lb/>
+hätte ich aber gerne weentlich merh BEwegung in unseren Aktivitäten<lb/>
+von Seiten der Zuhörer. Ich kann nur hoffen, dass es sihc nicht um<lb/>
+Resignation handelt.</p></div>
+      </body>
+      <back>
+         <pb n="18_1127_01" facs="18_1973-10-15_1127-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 15.10.1973</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="18_1127_02" facs="18_1973-10-15_1127-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Donnerstag, der 14. Mai 1970</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Joseph Staribacher</collection>
+                  <idno type="signature">Band01_1970-05-14</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1970-05-14">Donnerstag, 14. Mai 1970</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-04-18">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-02-27" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-02-27" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+  <text xml:base="http://192.168.0.9/staribacher/src/scans/Band01/">
+      <body>
+         <pb n="01-0105" facs="01_1970-05-14_0105.jpg"/>
+         <div type="entry">
+            <dateline>
+               <date when="1970-05-14">Donnerstag, 14. Mai</date>
+            </dateline>
+            <p xml:space="preserve">Bei der ersten Aussprache mit unserem Budgetreferenten<lb/>
+stellte sich heraus, dass unser ganzes Budget in Wirk<lb break="no"/>lichkeit auf die Zinssubventionen aufgehen würde. Wir<lb/>
+müssen uns also genau überlegen, ob wir diese Politik<lb/>
+nicht unverzüglich abbrechen und die Gelegenheit dazu wäre,<lb/>
+dass wir keinen einvernehmlichen Vorschlag über Richtlinien<lb/>
+auf Grund des Gewerbestrukturverbesserungsgesetzes für die<lb/>
+Zinszuschüsse bekommen haben. <name type="person" ref="per:97678">Lacina</name> hat mir einen Bericht<lb/>
+gegeben, dass die Beiratsempfehlungen noch immer so gehandhabt<lb/>
+werden wie bis vor der neuen Regierung, d.h. dass auch<lb/>
+Betriebe, die vollkommen uninteressant sind, wie z.B. Wein<lb break="no"/>händler und Produktenhändler nach wie vor in der Beirats<lb break="no"/>empfehlung positiv abschneiden. Inbesondere weil der MR <name type="person">Wohl<lb break="no"/>gemuth</name> seine Stellungnahme bis jetzt in demselben Sinne ab<lb break="no"/>gibt. Ich verlangte deshalb in Anwesenheit von Sekt.Chef <name type="person" ref="per:97915">Schipper</name><lb/>
+einen Bericht über die Sitzung, wo er interessanterweise eigent<lb break="no"/>lich das Gegenteil mir mitteilte. Ich werde deshalb einen<lb/>
+schriftlichen Bericht heute von ihm verlangen.</p>
+            <p xml:space="preserve">Die Pressekonferenz, wo <name type="person" ref="per:97668">Kreisky</name> den zweiten Teil der Regierung<lb/>
+der Presse zur Verfügung stellte, verlief für uns glaube ich<lb/>
+ganz gut. Nur hat es sehr wenig Sinn, wenn so viele Minister<lb/>
+gleichzeitig eine Pressekonferenz abhalten, weil ersten so<lb/>
+viel positives Material unbedingt untergehen muss, die Presse<lb/>
+kann ja kaum darüber berichten und zweitens weil dann noch<lb/>
+immer die Möglichkeit besteht, unangenehme Details herauszu<lb break="no"/>picken, die ja auf alle Fälle bei diesen noch so guten<lb/>
+geschlagenen Pressekonferenzen zutagetreten und sie ganz gross<lb/>
+anfzumachen. So hatte der Pressedienst der Österreichischen<lb/>
+Volkspartei in der nächsten Morgensendung Gelegenheit sowohl<lb/>
+<name type="person" ref="per:97311">Androsch</name> eins auszuwischen, indem sie mitteilten, dass <name type="person" ref="per:97668">Kreisky</name><lb/>
+in Wirklichkeit einen jungen Mann ohne Erfahrung nach Deutsch<lb break="no"/>land mitnehmen musste, damit er endlich Finanzleute kennenlernt,<lb/>
+<pb n="01-0106" facs="01_1970-05-14_0106.jpg"/>zum Unterschied von <name type="person" ref="per:97647">Koren</name>, der also schon als Professor die<lb/>
+ganze Welt gekannt hat, das ist natürlich eine glatte Ver<lb break="no"/>leumdung, denn <name type="person" ref="per:97647">Koren</name> war als Politiker viel weniger bekannt<lb/>
+und viel weniger verankert als dies <name type="person" ref="per:97311">Androsch</name> ist. Oder in<lb/>
+zweiter Linie dann erklärte, Handelsminister <name type="person" ref="per:97985">Staribacher</name><lb/>
+hat erklärt, dass die Preise sehtr stark steigen und ins<lb break="no"/>besondere sie wesentlich höher seien als zur Zeit der ÖVP<lb break="no"/>Alleinregierung. In Wirklichkeit ist der Aprilindex noch immer<lb/>
+eine Folge der Regierungspolitik <name type="person" ref="per:97634">Klaus</name>, denn erst nach längerer<lb/>
+Zeit kann eine neue Antipriespolitik wirksam werden. Ich glaube<lb/>
+daher, es wirdin Zukunft zweckmässig sein, wenn jeder Minister<lb/>
+eine eigene Pressekonferenz gibt, damit er die Chance hat,<lb/>
+dort seine Ideen klarer und deutlicher dazulegen, weil mehr<lb/>
+Zeit zur Verfügung steht und weil und das ist das Wichtigste<lb/>
+die Zeitungen, die einigermassen objektiv berichten, dann für<lb/>
+diese Sache mehr Raum zur Verfügung haben.</p>
+            <p xml:space="preserve">Nachmittags hatte <name type="person" ref="per:97668">Kreisky</name> im Klub eine Sitzung für das Problem<lb/>
+Fusion ÖMV-ÖSW eingeladen. Es waren fast 50 Personen anwesend<lb/>
+woraus sich schon die Tatsache ergibt, dass kaum eine konkrete<lb/>
+und zielführende Diskussion geführt werden konnte. Ich selbst<lb/>
+hatte nur ca. 1 Stunde Zeit und musste das Schauspiel miter<lb break="no"/>leben, dass vernünftige Leute, mit denen man früher unter<lb/>
+vier Augen oder im kleinen Kreis dieses Problem sachlich dis<lb break="no"/>kutiert wurde dann unter Anwesenheit von ihren <choice><choice><sic>preasure group</sic><corr>pressure group</corr></choice></choice> members<lb/>
+oder ihren Organisationen dann natürlich auf die alte Taktik<lb/>
+einschwenkten, es sollte so wenig wie möglich am jetztigen Zu<lb break="no"/>stand, d.h. am Zustand vor der Fusion geschehen. Bei der Be<lb break="no"/>sprechung (fraktionelle) mit unseren Vertretern in unseren<lb/>
+Fremdenverkehrsstellen und Fremdenverkehrswerbung ergab, dass<lb/>
+ich Recht hatte mit der Vermutung, dass <name type="person" ref="per:97684"><sic>Langer-Hansl</sic></name> und Wirk<lb break="no"/>lichkeit nur ein grosser Schwadrant ist, der bis jetzt imstande<lb/>
+war, viel Geld für seine Zentralstelle in der Hohenstaufengasse<lb/>
+zu verwenden, sämtliche Landesfremdenverkehrsreferenten sind<lb/>
+deshalb der Meinung, dass <name type="person" ref="per:97684"><sic>Langerhansl</sic></name> für diesen Posten nicht qual<lb break="no"/>ifiziert sei. Da sein Vertrag Mitte des nächsten Jahres abläuft,<lb/>
+er hat eine dreijährige Verlängerung bekommen, so wird man sich<lb/>
+<pb n="01-0107" facs="01_1970-05-14_0107.jpg"/>bis dorthin mit ihm abfinden müssen. Ich werde aber auf alle<lb/>
+Fälle versuchen, meine Forderung, d.h. das genaue Finanzierungs<lb break="no"/>konzept und die Ausgaben im Detail noch zu sehen, bei ihm<lb/>
+durchsetzen. Was er bis jetzt geliefert hat, war nichts anderes<lb/>
+als ein unzulängliches, von ihm meistens irgendwo gehaltenen<lb/>
+oder nicht gehaltenes Referat, er will also scheinbar die wirkliche<lb/>
+finanzielle Gestion der Fremdenverkehrswerbung mir nicht geben<lb/>
+oder er hat überhaupt noch nicht begriffen, dass ich nur über<lb/>
+das Ziffernmaterial in Zukunft mit ihm diskutieren will.<lb/>
+Die Idee von <name type="person" ref="per:97684"><sic>Langerhansl</sic></name>, immer nur mehr Geld zu verlangen,<lb/>
+kommt ja auch darin zum Ausdruck, dass er allen Ernstes glaubt,<lb/>
+wir werden sein Budget von 70 Mio auf 85 Mio S erhöhen. Es wird<lb/>
+also mit ihm bei der nächsten Arbeitsausschussitzung, die meine<lb/>
+erste in dieser Institution sein wird, harte Auseinandersetzungen<lb/>
+geben.</p>
+            <p xml:space="preserve">Da mich die Industriellenvereinigung zu ihrer Jahresversammlung<lb/>
+eingeladen hatte, und gleichzeitig belgische Journalisten vom<lb/>
+Bundespressedienst bei mir angesagt waren, ersuchte ich diese<lb/>
+auf einen kurzen Zeitraum zumindestens zu verschieben, damit<lb/>
+ich bei der Eröffnung dieser Jahresversammlung anwesend sein<lb/>
+konnte. Dies ist <name type="person" ref="per:97646">Koppe Fritzl</name> auch geglückt und ich hatte des<lb break="no"/>halb Gelegenheit, bei der Indusriellenvereinigung bei der Jahres<lb break="no"/>versammlung offiziell anwesend zu sein. Leider musste ich<lb/>
+weggehen als <name type="person" ref="per:97775">Nemschak</name> sein Referat über die Industriepolitik<lb/>
+in Österreich halten konnte, ich hatte mit ihm aber noch verein<lb break="no"/>bart, da ich mich vorher selbstverständlich bei ihm entschul<lb break="no"/>digte, dass er dieses Referat uns zur Verfügung stellen wird .</p>
+            <p xml:space="preserve">Im Klub erhielt ich auch die ersten Anfragen, die ich bei der<lb/>
+nächsten Fragestunde an mich gerichtet werden würden. Insbesondere<lb/>
+fiel auf, dass <name type="person" ref="per:97749">Mitterer</name> als nach unserem Ministerbüro, deren Be<lb break="no"/>setzung fragte. Vormittags teilte mit <name type="person" ref="per:97543">Heindl</name> mit, dass <name type="person" ref="per:114994">Böhm</name>, unser<lb/>
+Personalreferent im Auftrag des Bundeskanzleramtes über die Kosten<lb/>
+<pb n="01-0108" facs="01_1970-05-14_0108.jpg"/>und Zusammensetzung des Ministerbüros eine Antwort geben musste.<lb/>
+Ich setzte mich sofort mit <name type="person" ref="per:98034">Veselsky</name> in Verbindung und erklärte<lb/>
+ihm , was dies für ein Unsinn sei, solche Fragen über den offi<lb break="no"/>ziellen Apparat an die Minister zu stellen. Er hätte doch Ge<lb break="no"/>legenheit gehabt, unmittelbar die einzelnen Minister zu fragen.<lb/>
+Ich weiss alos nicht, inwieweit diese Anfrage jetzt auf Material<lb/>
+sich stützen wird, das offiziell vom Bundeskanzleramt von den<lb/>
+einzelnen Ressorts angefordert wird. Die Anfrage an und für<lb/>
+sich kommt für uns nicht ungelegen. Ich habe ja auch bei der<lb/>
+Pressekonferenz bereits auf die Unorganisierung in meinem<lb/>
+Ministerium hingewiesen. Da wir keine einzige Person ver<lb break="no"/>setzt haben, glaube ich werden wir bei dieser Aktion gut ab<lb break="no"/>schneiden.</p>
+            <p xml:space="preserve">Abends gab die Industriellenverinigung ein Sommerfest und ich<lb/>
+hatte dort Gelegenheit mit <name type="person" ref="per:98091">Withalm</name>, <name type="person" ref="per:97647">Koren</name>, <name type="person" ref="per:97769">Mussil</name>, <name type="person" ref="per:97815">Pisa</name> und<lb/>
+<name type="person" ref="per:97665">Kranzelmaier</name> an einem Tisch zu sitzen. Ich versuchte selbstver<lb break="no"/>ständlich mit wie sie selbst zugaben mit meinem Wiener Schmäh<lb/>
+zuerst die Gesellschaft entsprechend zu unterhalten. Ich hoffte<lb/>
+aber doch, einige Details von ihnen zu erfahren. Tatsache ist,<lb/>
+dass <name type="person" ref="per:98091">Withalm</name> mir einreden wollte, dass ich ein unangenehmes<lb/>
+Gefühl haben müsste, mit so wenigen Mandaten in die nächsten<lb/>
+Haussitzungen zu gehen. Meine Antwort war, das ist ganz das<lb/>
+Gegenteil der Fall ist, denn mit 83 Mandaten würde es wahrschein<lb break="no"/>lich grössere Komplikationen geben als mit 81, denn es würde<lb/>
+jetzt eben die Österreichische Volkspartei nicht sagen können,</p>
+            <p xml:space="preserve">sondern die ÖVP müsste jetzt ganz klipp und klar zu jedem Ge<lb break="no"/>setzentwurf Stellung nehmen. Sie wird daher innerhalb der Öffent<lb break="no"/>lichkeit immer wieder zu vertreten haben, warum sie das eine<lb/>
+Gesetz annimmt und den anderen Gesetzentwurf ablehnt.<lb/>
+<name type="person" ref="per:98091">Withalm</name> war über diese meine Haltung sehr erstaunt. Er glaubte<lb/>
+scheinbar, mich mit der geringen Mandatsanzahl der Sozialisten<lb/>
+ins Bockshorn jagen zu können. Auf die Frage, wieweit und wie<lb/>
+lange wir denn überhaupt glauben würden, dass diese Regierung<lb/>
+<pb n="01-0109" facs="01_1970-05-14_0109.jpg"/>Bestand hätte, erklärte ich ihm mit meinem guten Bonmot, wie<lb/>
+ich gegenüber <name type="person" ref="per:97769">Mussil</name> und <name type="person" ref="per:97893">Sallinger</name> ausgeführt hatte. Damals<lb/>
+und heute wurde ich ja immer wieder gefragt, wie ich denn dann<lb/>
+einmal wieder in meine Funktionen zurückkehren könnte, nachdem<lb/>
+ich ja jetzt mehr oder minder Unternehmervertreter sei. Meine<lb/>
+Argumente dagegen sind: Ich werde jetzt nachdem ich 50 bin<lb/>
+20 Jahre im Handelsministerium sein und dann bin ich sowieso –<lb/>
+1990 – pensionsreif und würde deshalb keine Probleme mit<lb/>
+meiner alten Organisation haben. Die Taktik, die ich dabei<lb/>
+verfolgte, war, ihnen zu zeigen, dass wir uns auf eine lange<lb/>
+Regierungszeit vorbereitet haben und auch erwarten, dass wir diese<lb/>
+durchführen können. Nach Auffassung der Tischrunde würden wir<lb/>
+scheinbar nur ganz kurze Zeit im Amt sein. Allerdings konnte<lb/>
+ich feststellen, dass <name type="person" ref="per:97714">Maleta</name>, der später kurz zu unserem Tisch<lb/>
+kam, alle recht herzlich begrüsste, dass aber eine sehr starke<lb/>
+Spannung zwischen dem Wirtschaftsbund und <name type="person" ref="per:97714">Maleta</name> besteht.<lb/>
+Von der Präsidentenkonferenz war auch Dr. <name type="person" ref="per:97691">Lehner</name> am Tisch, der<lb/>
+erst jetzt zum Vorsitzenden dieser Organisation gewählt wurde.<lb/>
+Er erzählte mir, dass er nach wie vor an dem seinerzeit mit<lb/>
+uns besprochenen Konzept festhalten will, d.h. den ersten Futter<lb break="no"/>preis erhöhen, um die Relation zwischen Futterweizen und Gerste<lb/>
+zu verbessern, vor allem die grossen Menge von Füll- zu Futter<lb break="no"/>weizen abwerten und dadurch aus der Überschussproduktion herauszu<lb break="no"/>kommen. Ich bin neugierig, wie weit er diesen Plan, der zweifels<lb break="no"/>ohne sehr venünftig ist, in seinen eigenen Organisationen durch<lb break="no"/>stehen wird. Ich werde selbstverständlich <name type="person" ref="per:97796">Öllinger</name>, wenn er<lb/>
+wieder im Amt ist, von dieser Aussprache verständigen.<lb/>
+<name type="person" ref="per:97647">Koren</name> machte sich ernstlich Sorgen für uns, ob wir denn am 22.10.<lb/>
+das Budget für 1971 zustandebringen werden. Dies war von ihm<lb/>
+nicht gespielt, er sagte mir, er glaube, dass für ihn diese<lb/>
+Periode die schwierigste gewesen Wäre. Ich versicherte ihm,<lb/>
+<name type="person" ref="per:97311">Androsch</name> würde ein absolut perfektes und zweckmässiges Budget<lb/>
+vor dem 22.10. dem Hause zuleiten. Betreffend meiner Erkundigungen<lb/>
+ob er im Schattenkabinett Finanz- oder Handelsminister sein würde,<lb/>
+meinte er lächelnd, vielleicht beidees und bei <name type="person" ref="per:98091">Withalm</name> aber<lb/>
+ergab sich dann die Diskussion, dass er derzeit nicht beab<lb break="no"/>sichtige, ein Schattenkabinett zu errichten. Wie weit natürlich<lb/>
+<pb n="01-0110" facs="01_1970-05-14_0110.jpg"/>diese Aussagen dort überhaupt einen Wert haben, oder ob sie nur<lb/>
+aus taktischen Gründen mir mitgeteilt wurden, kann ich natür<lb break="no"/>lich im jetzigen Zeitpunkt nocht beurteilen, das wird aber die<lb/>
+nächste Zeit klar und deutlich zeigen. Von einigen Stellen wurde<lb/>
+ich bei dieser Gelegenheit gefragt, ob es richtig sei, dass<lb/>
+die Fusion der ÖMV und ÖSW heute nachmittag durch Beschluss<lb/>
+der Sozialistischen Partei rückgängig gemacht werden sollte.<lb/>
+Da ich bis zum Schluss der Sitzung nicht anwesend war, konnte ich<lb/>
+mit ruhigem Gewissen sagen, ich war nur kurze Zeit bei diesen<lb/>
+Besprechungen dabei und weiss nicht, die endgültige Beschluss<lb break="no"/>fassung. Für die endgültige Beschlussfassung ist ja auf alle<lb/>
+Fälle ein Parteivorstandsbeschluss notwendig, erklärte aber<lb/>
+gleich überall, dass es der demokratischen Gepflogenheit der<lb/>
+sozialistischen Partei nur entsprechen würde, dass sie jetzt<lb/>
+wo eine Möglichkeit besteht, den seinerzeitigen diktatorischen<lb/>
+Beschluss in der ÖIG rückgängig machen würde, um zweckmässigere<lb/>
+demokratische zustandegekommene Lösungen herbeizuführen.</p>
+         </div>
+      </body>
+    
+  </text>
+</TEI>

@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Montag, der  8. März 1982</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band64_1982-03-08</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1982-03-08">Montag, 8. März 1982</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-09-25">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="64-0284" facs="64_1982-03-08_0284.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Montag, 8. März 1982<lb/>
+</p>
+            <p xml:space="preserve">Oberbürgermeister <name type="person" ref="per:130197">Wolfram</name> aus Recklinghausen, gleichzeitig auch<lb/>
+in der deutschen SDP Energiesprecher, kommt auf einen kurzen<lb/>
+Privatbesuch nach Österreich. Sein Sohn heiratet eine Österreicherin,<lb/>
+er nützt die Gelegenheit um mir die Fortschreibung des Wirtschafts<lb break="no"/>ministerium vom Energiebericht und gleichzeitig auch die Anträge an<lb/>
+den Parteitag in München Energiefragen betreffend zu übergeben.<lb/>
+Die SPD hat mit den Kernkraftwerkproblemen kaum sich durchgerungen,<lb/>
+drei Blocks Biblis-Lingen fortzusetzen, entstehen durch die Anträge<lb/>
+zum Aprilparteitag neue Probleme. Er weiß nicht, wie es dort weiter<lb break="no"/>gehen wird, <name type="person" ref="per:125804">Eppler</name> und <name type="person" ref="per:140762">Vogel</name> sind in der Antragsprüfungskommission.<lb/>
+Größte Schwierigkeiten macht der SNR 200, d.h. der Schnelle Brüter<lb/>
+in Kalkar, dort soll die Elektrizität 1 Mrd. DM sich beteiligen, diese<lb/>
+verlangt aber, daß der Parlamentsvorbehalt aufgehoben wird. Dieser<lb/>
+sieht vor, daß zwar gebaut werden darf, aber derzeit noch keine Be<lb break="no"/>triebsgenehmigung gegeben wird. Ähnlich liegt die Situation bei dem<lb/>
+Hochtemperatur-Reaktor in Schmehausen. Die Anträge zum Parteitag<lb/>
+sehen ein zweijähriges Moratorium vor, d.h. wieder ein Zurückstellen<lb/>
+des Kernkraftwerksausbaues.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:130197">Wolfram</name> fragt mich auch, ob tatsächlich Bundeskanzler <name type="person" ref="per:114106">Schmidt</name><lb/>
+<name type="person" ref="per:97668">Kreisky</name> versprochen hat, den Rhein-Main-Donau-Kanal weiter zu<lb/>
+bauen. Ich kann ihm nur berichten, was <name type="person" ref="per:97668">Kreisky</name> in der Regierungs<lb break="no"/>vorbesprechung diesbezüglich etliche Male bekräftigt hat, nämlich,<lb/>
+daß <name type="person" ref="per:114106">Schmidt</name> eine solche Zusage gegeben hätte, ohne sie natürlich<lb/>
+schriftlich oder gar im Detail zu formulieren. <name type="person" ref="per:130197">Wolfram</name> ist natür<lb break="no"/>lich auch brennendst daran interessiert, über den Gesundheitszustand<lb/>
+<name type="person" ref="per:97668">Kreiskys</name> Informationen zu bekommen. Ich erkläre ihm sofort, daß auch<lb/>
+ich nicht mehr weiß, als in den Zeitungen bei uns zu lesen ist.<lb/>
+</p>
+            <p xml:space="preserve">Deutschland hat jetzt auch große Kohlenvorräte, trotzdem war <name type="person" ref="per:130197">Wolfram</name><lb/>
+mit etlichen Energieleuten in Australien, um dort gegebenenfalls<lb/>
+Kohle einzukaufen. Interessant, würde die Deutschen nicht stören,<lb/>
+daß die australische Regierung bei allen gemeinsamen Firmen Joint<lb/>
+venture oder Kooperationen 51 % für die Australier bei Kohle und<lb/>
+75 % bei Uran, Bergbaubetrieben verlangt. Kohle und andere Rohstoffe<lb/>
+gibt es in größter Menge in bester Qualität. Das Hauptproblem ist<lb/>
+der Ausbau des Kohlenhafens in <choice><choice><sic>Deporé</sic><corr>?</corr></choice></choice>. Die Deutschen schreckt auch<lb/>
+die Streiksituation. Jetzt erst waren wieder große Streiks, weil<lb/>
+wie in England, Abgrenzungen zwischen einzelnen Berufsgruppen<lb/>
+<pb n="64-0285" facs="64_1982-03-08_0285.jpg"/>die Ursache waren. Da es in Australien 280 Gewerkschaften gibt, die<lb/>
+sich gegenseitig stark konkurrenzieren, sind ähnliche Zustände wie<lb/>
+in Großbritannien. <name type="person" ref="per:130197">Wolfram</name> meinte, die Australier wären glücklich,<lb/>
+wenn sie deutsche Gewerkschaftsverhältnisse hätten.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:131107">GROSSENDORFER</name>: Jour fixe <name type="person" ref="per:97453">Fremuth</name> setzen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:130197">Wolfram</name> erkundigt sich auch, wie es mit der Aluminium-Dosen-Produktion<lb/>
+weitergehen wird. Die deutsche Firma in Recklinghausen <choice><choice><sic>Geral Kreiser</sic><corr>Gerro Kaiser?</corr></choice></choice><lb/>
+ist an dem Projekt von den Vereinigten Metallwerken in Berndorf be<lb break="no"/>teiligt. Der Besitzer, <name type="person" ref="per:1137641">Heuninger</name> möchte gerne mit mir Kontakt aufnehmen.<lb/>
+Ich hätte eigentlich erwartet, daß <name type="person" ref="per:130197">Wolfram</name> gegen die Errichtung dieser<lb/>
+Alu-Fabrik, die ja letzten Endes den deutschen Dosenexport nach Öster<lb break="no"/>reich reduzieren wird, protestieren wird.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: <name type="person" ref="per:1137641">Heuninger</name> wird sich bei mir melden. Bitte sofort<lb/>
+Termin geben.<lb/>
+</p>
+            <p xml:space="preserve">Natürlich kam auch die politische Situation der SPD zur Sprache.<lb/>
+<name type="person" ref="per:130197">Wolfram</name> ist sehr pessimistisch, die Partei hat sich dort total zer<lb break="no"/>stritten, Bundeskanzler <name type="person" ref="per:114106">Schmidt</name> ist weitestgehend isoliert, die eben<lb/>
+am Sonntag abgehaltenen Wahlen in Schleswig-Holstein haben ja wieder<lb/>
+5 % Verluste der SPD gebracht. Auch mit den Spenden-Affären ist die<lb/>
+SPD, obwohl alle Parteien betroffen sind, am meisten moralisch be<lb break="no"/>lastet. Er hofft, daß die Verfahren wie das Hornberger Schießen<lb/>
+ausgehen werden, doch gibt es darüber verheerende Aufzeichnungen bei<lb/>
+der Staatsanwaltschaft. Ich kann mir eigentlich nicht vorstellen, daß<lb/>
+es dadurch zu einer Nichtanklage der Partei-Verantwortlichen insbe<lb break="no"/>sondere, des Finanzministers <name type="person" ref="per:130526">Matthöfer</name> und des Wirtschaftsministers<lb/>
+<name type="person" ref="per:111707">Graf Lambsdorff</name> kommt.<lb/>
+</p>
+            <p xml:space="preserve">Im Pressefrühstück berichtet die Bausparkasse über ihren Ideenwett<lb break="no"/>bewerb "Energiesparen im Haushalt", 73 Einsendungen mit 300 Ideen.<lb/>
+Die Jury hat eine neue Kachelofen-Konstruktion als ersten Preis,<lb/>
+eine Pferdemist-Biomasseproduktion als zweiten Preis und als dritten<lb/>
+Preis eine Alternativenergie-Kollektoren-Solaranlage gereiht. Darüber<lb/>
+gab es dann noch Vorschläge über Wärmerückgewinnung und über Heizkessel<lb/>
+und Brennerbetreuung usw. Der Univ.-Prof. <name type="person" ref="per:1137642">Faninger</name>, Vorsitzender der<lb/>
+Jury, meinte allerdings, daß bei den letzten beiden Themen man in<lb/>
+Hinkunft mehr auf die Rauchgasabkühlung für die Energierückgewinnung<lb/>
+achten muß. Zu starke Energierückgewinnung kann dann auch zu schwersten<lb/>
+<pb n="64-0286" facs="64_1982-03-08_0286.jpg"/>Rauchgasvergiftungen und Umweltbelastungen kommen, weil dann der<lb/>
+Abzug des Rauchgases nicht mehr gewährleistet ist.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:131107">GROSSENDORFER</name>: Die Energiesektion soll diesen neuen<lb/>
+Gesichtspunkten mehr Augenmerk zuwenden.<lb/>
+</p>
+            <p xml:space="preserve">Dipl.Ing. <name type="person" ref="per:1137626">Rokita</name> hat dann seine Bioenergie aus Mais über Mastvieh<lb break="no"/>haltung ohne Trocknung vorgelegt. Diese möchte er zum Ersparnis der<lb/>
+Transportkosten im landwirtschaftlichen Produktionsbetrieb selbst<lb/>
+errichten. Er erhoffte sich, daß eine Fallstudie endlich jetzt sein<lb/>
+theoretisches Projekt auch beweisen kann. Ich versprach ihm, mit<lb/>
+Landwirtschaftsminister <name type="person" ref="per:97511">Haiden</name> über seinen Wunsch zu sprechen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:131107">GROSSENDORFER</name>: Bitte das Landwirtschaftsministerium<lb/>
+auch darüber verständigen.<lb/>
+</p>
+            <p xml:space="preserve">Zu den Energieproblemen traf sich gut, daß ich den Schüler <name type="person" ref="per:1137643">Roman<lb/>
+Spatt</name> aus Linz mit seiner Mutter eingeladen habe. Dieser berichtete,<lb/>
+daß zum Energiesparen sein Vater ihm im Monat 20 S gibt, wenn er das<lb/>
+Licht, das die Familie insbesondere aber auch seine Frau immer wieder<lb/>
+brennen gelassen hat, abdreht. Wenn er darauf vergißt, so wird ihm<lb/>
+1 S abgezogen. Im Monat kommt er auf ca. 17 S. Mutter und Sohn waren<lb/>
+über die Einladung sehr überrascht, auch das Pressefrühstück dürfte<lb/>
+ihnen ganz gut gefallen haben. Zum Glück habe ich dann vom Presse<lb break="no"/>leiter Mag. <name type="person" ref="per:117023">Pein</name>, noch zeitgerecht erfahren, daß man sie nur nach<lb break="no"/>mittags in ein Elektrizitätsunternehmen geführt hätte und nicht<lb/>
+weiter betreut. Ich sofort veranlaßt, daß er wenigstens mit ihnen<lb/>
+essen geht.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte so eine miese Betreuung darf nicht mehr<lb/>
+vorkommen.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Wiener Messe wird das österr. Wanderrad vorgeführt. <name type="person" ref="per:97559">Norbert<lb/>
+Hofbauer</name> von der ÖFVW gab mir die Unterlagen über die Aktion "Radl<lb break="no"/>bares Österreich". Ich war selbst überrascht, wie viele tausende<lb/>
+Kilometer wir schon Radfahrwege haben, die auch gekennzeichnet sind.<lb/>
+<name type="person" ref="per:125282">Rottensteiner</name> sprach über die Radproduktion in Österreich. Bis jetzt<lb/>
+waren es drei Fabriken, jetzt in Hinkunft kommt noch die vierte<lb/>
+Triumph in Köflach dazu. Puch-Werke, die ihr Spezialwanderrad vorge<lb break="no"/>stellt hatten, über 4.000,-- S, daher verhältnismäßig teuer, hat<lb/>
+jetzt weitere Produktionsverluste hinnehmen müssen.<lb/>
+</p>
+            <pb n="64-0287" facs="64_1982-03-08_0287.jpg"/>
+            <p xml:space="preserve">Über das Recycling, d.h. Rohstoffrückgewinnung berichtete Dipl.Ing.<lb/>
+<name type="person" ref="per:133635">Wernsperger</name>, insbesondere über die neue Aktion in Arnoldstein, das<lb/>
+Akkumulatorenblei und sonstige Abfälle wieder zurückzugewinnen.<lb/>
+Dipl.Ing. <name type="person" ref="per:1137644">Möseneder</name> von der VÖEST-Alpine über die neuen Produktions<lb break="no"/>zweige in Eisenerz, <choice><choice><sic>Akklomamor</sic><corr>Agglo-Marmor?</corr></choice></choice> aus dem Abbraum 15 to bei 3 to Erz<lb break="no"/>gewinnung soll jetzt durch 5 % Polyester Harzzusatz künstlicher<lb/>
+Marmor erzeugt werden, den bisher nur die Italiener erzeugten und<lb/>
+nach Österreich 500.000 m² exportierten. Jetzt will die VÖEST-Alpine<lb/>
+die Hälfte davon, d.s. 10.000 m² pro Tag in Österreich erzeugen.<lb/>
+Derzeit sind 25 beschäftigt, in Hinkunft werden es dann bei Voll<lb break="no"/>auslastung 50 sein. Die Hauptschwierigkeit ist aber, wie sie den<lb/>
+Markt erobern können, wo jetzt echter Marmor unter dem Kunstmarmor<lb/>
+angeboten wird.<lb/>
+</p>
+            <p xml:space="preserve">Mein Zimmer war mit Leuten gesteckt voll, wenn man allerdings die<lb/>
+Situation genau kennt, dann wußte man, daß nur ganz wenige Journa<lb break="no"/>listen darunter waren. Alles andere Referenten oder zumindestens<lb/>
+Zuhörer vom Haus. Fr. Sts. <name type="person" ref="per:109808">Albrecht</name> konnte die Pressekonferenz nicht<lb/>
+führen, weil so noch immer, so lange sie für die Wiener Frauen ver<lb break="no"/>antwortlich ist, im Wiener Präsidium anwesend sein muß. Dies wird<lb/>
+sich mit Ende März ändern.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:125291">MARTIN</name>: Bitte den Jour-fixe-Termin für die HK dann<lb/>
+wieder auf Montag vorverlegen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> hatte mich überraschend zu einer Textilsitzung ins BKA<lb/>
+gerufen. Dort war von der Textilarbeitergewerkschaft Bundesrat<lb/>
+<name type="person" ref="per:115611">Steinle</name>, sein Zentralsekretär <name type="person" ref="per:116109">Ettl</name>, vom ÖGB <name type="person" ref="per:113026">Tumpel</name> und ein Genosse<lb/>
+<name type="person" ref="per:1137645">Schneider</name> erschienen, den ich noch nicht kannte. Die Textilarbeiter<lb break="no"/>gewerkschaft hat ein Projekt ausgearbeitet, wonach die in Westöster<lb break="no"/>reich in Tirol und Vorarlberg gefährdeten Betriebe, Herburger<lb/>
+und Rhomberg, Jenny und Schindler und RTW in Reutte saniert werden<lb/>
+könnten, ausgearbeitet. Herburger und Rhomberg greift aber<lb/>
+über Heidenreichstein auch nach Niederösterreich, auch Ganahl ist davon<lb/>
+stark betroffen, obwohl das letzte Mal der CA-GD <name type="person" ref="per:97311">Androsch</name> behauptet hat,<lb/>
+die kämen eigentlich für eine Sanierung nicht in Frage. Damit wieder<lb/>
+aber im Burgenland Altmann und Gloriette. Insgesamt sind 3.200<lb/>
+Beschäftigte betroffen, tausend müßten ihren Arbeitsplatz auf alle<lb/>
+Fälle verlieren. Dies Sanierungswerk kann aber nur gelingen, wenn<lb/>
+der Bund entsprechende Mittel bereitstellt. Finanzminister <name type="person" ref="per:97891">Salcher</name><lb/>
+kam ein wenig später, so daß <name type="person" ref="per:97668">Kreisky</name> schon von der Gewerkschaft die<lb/>
+<pb n="64-0288" facs="64_1982-03-08_0288.jpg"/>entsprechenden Vorschläge bekommen hat. Im Prinzip wären 250 Mio. S<lb/>
+vom Bund erforderlich. Da noch gar nicht feststeht, ob die Unter<lb break="no"/>nehmer überhaupt bereit sind, mitzutun, müssen die Gewerkschaften<lb/>
+dies jetzt klären. Nach Überlegungen der Textilarbeitergewerkschaft<lb/>
+würde, käme es zu keiner Sanierung, die öffentliche Hand mit Ar<lb break="no"/>beitslosengeldern 120 Mio. S belastet. <name type="person" ref="per:97668">Kreisky</name> schlug vor, man sollte<lb/>
+versuchen, daß die vier Länder, Tirol hat sich zu 20 Mio. S bereit<lb/>
+erklärt, die anderen noch nicht, 35 Mio. S aufbringen, 50 Mio. S sollten<lb/>
+die beiden Banken, Länderbank und Kreditanstalt zur Verfügung stellen,<lb/>
+so blieben für den Bund 165 Mio. S. Er meinte, da man nicht genau<lb/>
+weiß, ob die Banken mittun und das man das Geld ja nicht den Privaten<lb/>
+geben kann, eine Beteiligungsgesellschaft zu errichten. Dies könnte<lb/>
+ja der weitere Schritt werden. Als erstes muß aber jetzt, da ja mit<lb/>
+Ende März die finanziellen Überbrückungsmaßnahmen zu Ende gehen, eine<lb/>
+sofortige Entscheidung über weitere Hilfe beschlossen werden. Finanz<lb break="no"/>minister <name type="person" ref="per:97891">Salcher</name> sagte, er befürchtet, daß die CA, wie schon bei der<lb/>
+Credex-Sanierung nicht daran interessiert ist, weil sie ja mit ent<lb break="no"/>sprechenden Kreditsicherungen angeblich gut heraussteigt. Er befürchtet,<lb/>
+daß er eine Weisung an die Hauptversammlung geben muß, damit <name type="person" ref="per:97311">Androsch</name><lb/>
+akzeptiert. Immer mehr muß ich feststellen, daß sich das Verhältnis<lb/>
+zwischen Banken, insbesondere GD <name type="person" ref="per:97311">Androsch</name> und <name type="person" ref="per:97668">Kreisky</name> mehr zuspitzt.<lb/>
+Hier steht der nächste Krach, glaube ich, schon sehr bald ins Haus.<lb/>
+</p>
+            <p xml:space="preserve">Im Wiener Vorstand gab es eine Änderung, als der neue Wiener JG-Ver<lb break="no"/>treter <name type="person" ref="per:1137646">Häupl</name> <name type="person" ref="per:114124">Schwarz</name> ablöst. Bei dieser Gelegenheit wurde bekannt,<lb/>
+daß die Zentralpartei beabsichtigt, die beiden Sekretariate, Wiener<lb/>
+und Zentrale JG zusammenzulegen. Dagegen spricht sich nicht nur die<lb/>
+JG aus, sondern auch <name type="person" ref="per:97488">Gratz</name>, als Wr. Parteiobmann hat er Angst, die Wr.<lb/>
+JG wäre dann nur ein Ableger der Zentrale.<lb/>
+</p>
+            <p xml:space="preserve">Die Gehaltsverhandlungen in Wien werden genauso akzeptiert wie die<lb/>
+Zentrale. Diese wieder lehnt sich größtenteils an den ÖGB an. Dort<lb/>
+wurde nach 13 Monaten 6,2 % die unteren mit 7,2 % erhöht, die Zentral<lb break="no"/>partei hat nur 5,9 % erhöht, von 5,6 bis 6,2, weil die Partei<lb/>
+interessanterweise, obwohl sie weniger Geld hat höhere Gehälter seit eh<lb/>
+und je zahlte, als die Gewerkschaft.<lb/>
+</p>
+            <p xml:space="preserve">Da mehr Zeit diesmal zur Verfügung stand, <choice><choice><sic>erspannte</sic><corr>?</corr></choice></choice> sich über die<lb/>
+Mietrechtsregelung<add>[hs. korrigiert, Anm.]</add> eine rege Diskussion. Jetzt wird in der Partei über<lb break="no"/>all über die zu erwartenden Zinssteigerungen diskutiert. Im Detail<lb/>
+<pb n="64-0289" facs="64_1982-03-08_0289.jpg"/>konnte ich feststellen, kennen wir uns alle nicht genau aus. Unter<lb/>
+anderen hatte das letzte Mal Wohnungsstadtrat <name type="person" ref="per:114540">Hatzl</name> berichtet, daß<lb/>
+die Gemeinde Wien auf die Möglichkeit, 20 % der Investition als<lb/>
+Hausbesitzer einzubehalten, verzichtet. Alle hatten damit gerechnet,<lb/>
+daß damit der Erhaltungsbeitrag gestärkt wird. Jetzt wollte Stadtrat<lb/>
+<name type="person" ref="per:109290">Mayr</name> mir und den anderen einreden, daß diese 20 % zur Hauptmietzins<lb break="no"/>reserve kommen sollen. Die Gemeindebauten haben alle eine negative<lb/>
+Hauptmietzinsreserve, da der Hauptmietzins in Hinkunft nicht 7 Jahre<lb/>
+sondern 10 Jahre für Reparaturen reserviert bleiben muß und er jetzt<lb/>
+schon negativ ist, d.h. entsprechende Schulden der Häuser an die<lb/>
+Gemeinde vorliegen, wollte er jeden einzelnen Mieter über seinen<lb/>
+Schuldenstand informieren. Dagegen sprachen wir uns alle entschieden<lb/>
+aus. Dies hätte bedeutet, daß eine weitere Schockwelle durch die<lb/>
+Gemeindemieter geht, wenn sie erfahren, daß sie so und so viele<lb/>
+100.000 S schuldig sind. Über diese Mietenfrage wird noch viel<lb/>
+zu diskutieren sein. Die <choice><choice><sic>Miete</sic><corr>Mitte</corr></choice></choice> März durchgeführte Erhöhung wird<lb/>
+dann trotzdem noch schockartig auf die Mieter wirken, da sich ja<lb/>
+in Wirklichkeit keiner einen Begriff macht, wie viel sein Mietzins<lb/>
+erhöht wird.<lb/>
+</p>
+            <p xml:space="preserve">Im Wiener Ausschuß hielt dann <name type="person" ref="per:97488">Gratz</name> einen kurzen politischen Bericht.<lb/>
+Erstens stellte er gegen den neuen Gen.Sekr. d. ÖVP <name type="person" ref="per:128688">Graff</name> fest, daß durch<lb/>
+Nichtbauen des Konferenzzentrums keinesfalls 20.000 Wohnungen gebaut<lb/>
+werden könnten, sondern wesentlich weniger, Wien braucht aber das<lb/>
+Konferenzzentrum.Über den Wohnbaubeginn in Wien hat sich die ÖVP ent<lb break="no"/>larvt, da sie gegen das Regierungssofortprogramm 5.000 Wohnungen<lb/>
+im Bundesrat stimmte. Wien bekommt davon 28 %. Gleichzeitig hat sie<lb/>
+auch die Altstadtsanierung mit 1 Mrd. abgelehnt, davon bekommt Wien<lb/>
+350 Mio., d.h. 35 %.<lb/>
+</p>
+            <p xml:space="preserve">Als zweiten Punkt erwähnte <name type="person" ref="per:97488">Gratz</name>, daß er jetzt über das Jugend<lb break="no"/>einstellungsgesetz auch bei der Eröffnung der Wiener Messe sprechen<lb/>
+wird, er meinte, sonst ist er immer nur verbindlicher Redner zwischen<lb/>
+HK-Präs. <name type="person" ref="per:97893">Sallinger</name> und mir, diesmal wird er aber die Wirtschaft an<lb/>
+ihre Zusicherung in den 50er-Jahren erinnern, damals war es eine<lb/>
+ähnliche Situation, die Gewerkschaftsjugend hat eine Fortbildungs<lb break="no"/>schule, d.h. Lehrlingsausbildung in eigenen Schulen verlangt und<lb/>
+die Unternehmer erklärten, daß sei ihre Verpflichtung und der werden<lb/>
+sie nachkommen. Daran wird sie <name type="person" ref="per:97488">Gratz</name> erinnern. An der Diskussion be<lb break="no"/>teiligt ganz besonders der ehemalige Leiter von Jugend am Werk und<lb/>
+<pb n="64-0290" facs="64_1982-03-08_0290.jpg"/>der Fortbildungsschule <name type="person" ref="per:114547">Gawlik</name>. Er sieht, daß jetzt nicht alle<lb/>
+Jugendlichen unterkommen können, eine konzertierte Aktion der<lb/>
+Unternehmer. Er erwähnte das Waagner-Biro, Wr. Brückenbau, Fiat<lb/>
+und viele andere die Lehrwerkstätten auflassen. Natürlich sah<lb/>
+ich mich veranlaßt, dagegen aufzutreten, denn ich glaube nicht,<lb/>
+daß es sich hier wirklich um eine konzertierte Aktion handelt.<lb/>
+Ich konnte darauf verweisen, daß die Auflassung von Großbetrieben<lb/>
+verstaatl. oder privat, die ja letzten Endes wieder verstaatlichten<lb/>
+Banken gehören ausschließlich aus Kostengründen erfolgt. Lehrlinge<lb/>
+kosten nun einmal viel Geld. Sicherlich ist es gut angelegt, denn<lb/>
+was wir brauchen sind Facharbeiter. Ich habe auch gar nichts dagegen,<lb/>
+daß <name type="person" ref="per:97488">Gratz</name> bei der Messe die Unternehmer daran erinnert, obwohl diese<lb/>
+dagegen schärfstens protestieren werden, wie dies auch schon in der<lb/>
+Vergangenheit geschehen ist.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Was ist mit meiner seinerzeitigen Bemerkung<lb/>
+über die beabsichtigte Lehrlingsausbildungs-Aussprache geschehen.<lb/>
+</p>
+            <p xml:space="preserve">Die Wiener Partei wird jetzt eine Frühjahrskampagne starten, unter<lb/>
+der Devise "Für Wien". Glücklich ist dieser Titel nicht, denn er<lb/>
+erinnert natürlich an die ÖVP-Aktion "Pro Wien". In Plakaten soll<lb/>
+jetzt in rot immer gedruckt werden, was wir für Wien tun und in<lb/>
+schwarz, was die ÖVP gegen Wien tut, z.B. also der seinerzeitige<lb/>
+Ablehnungsbeschluß für die Errichtung der Donauinsel usw. Ich bin<lb/>
+sehr gespannt, was unsere Funktionäre und vor allem unsere Mitglieder<lb/>
+über diese neue Kampagne sagen werden. Das man keinen anderen Titel<lb/>
+als "Pro Wien" übersetzt also "Für Wien" gefunden hat, finde ich für<lb/>
+traurig.<lb/>
+</p>
+            <p xml:space="preserve">Unsere Bezirkssekretärin GR <name type="person" ref="per:112037">Tischler</name> verständigte mich, daß bei dem<lb/>
+Sekretäreseminar im Renner-Institut etliche Genossen sich darüber<lb/>
+beschwerten, daß ich in Gemeinden komme, wo dann schwarze Vizebürger<lb break="no"/>meister oft zur Auszeichnung eingeladen werden, nur sie nicht. Dies<lb/>
+ist in Fischamend passiert, als ich das Staatswappen der Fa. <name type="person" ref="per:111716">Löw-Beer</name><lb/>
+gegeben habe. Der Bürgermeister <name type="person" ref="per:1137653">Besin</name> und Ortsparteiobmann beschwert<lb/>
+sich bitter beim Bezirkssekretär <name type="person" ref="per:1137654">Oberhauser</name> darüber. Außerdem soll<lb/>
+es noch andere Fälle gegeben haben. Zentralsekretär <name type="person" ref="per:97727">Marsch</name> bemerkte<lb/>
+dazu, dies sei auch ihm bekannt. Mir ist diese Kritik vollkommen<lb/>
+unverständlich, weil ich mich gerade immer bemühe, wenn sozialistische<lb/>
+<pb n="64-0291" facs="64_1982-03-08_0291.jpg"/>Vizebürgermeister nicht eingeladen werden, diese in irgend einer<lb/>
+Weise einzuschleusen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Wie ist dies möglich?<lb/>
+</p>
+            <p xml:space="preserve">Da es sich in dem einen Brief klar und deutlich um eine Fehlleistung des<lb/>
+Sekretariats von mir handelt, die Fischamender Genossen aber, wenn<lb/>
+sie Zeitung austragen müssen, nicht vergessen werden, darf in Hin<lb break="no"/>kunft so etwas nicht passieren. Ich habe schon etliche Male ersucht<lb/>
+und habe eigentlich gehofft, daß dies auch durchgeführt wird, wenn ich<lb/>
+irgendwohin fahre, ist die zuständige Landespartei zu verständigen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:125291">MARTIN</name> UND <name type="person" ref="per:136485">RENNER</name>: Ich muß sie in Hinkunft dafür leider<lb/>
+verantwortlich machen. Bitte diesem Ersuchen unter allen Umständen<lb/>
+Rechnung tragen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="64_0283_01" facs="64_1982-03-08_0283-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 8.3.1982</head>
+         </div>
+      </back>
+   </text>
+</TEI>

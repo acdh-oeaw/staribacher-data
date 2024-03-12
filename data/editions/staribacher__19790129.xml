@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Montag, der 29. Jänner 1979</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band46_1979-01-29</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1979-01-29">Montag, 29. Januar 1979</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-07-21">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="46-0108" facs="46_1979-01-29_0108.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Montag, 29. Jänner 1979<lb/>
+</p>
+            <p xml:space="preserve">Beim Jour fixe empfängt mich sofort <name type="person" ref="per:97769">Mussil</name>, um den Beleidigten<lb/>
+zu spielen, weil jetzt das Handelsministerium Verbotsgesetze<lb/>
+zur Energieeinsparung wie z.B. Freischwimmbäder ohne Sonnen<lb break="no"/>beheizung oder Aufhebung der Verpflichtung von Direktanschlüssen<lb/>
+für Vollklimatisierungen erlassen will. Meine Hinweise, den<lb/>
+Handelskammervertretern bei der Bürges-Beiratssitzungen haben<lb/>
+also schon die erwünschten Wirkungen gehabt. <name type="person" ref="per:97893">Sallinger</name> befürchtet,<lb/>
+dass ebenfalls vor den Wahlen jetzt noch die unmöglichsten Ge<lb break="no"/>setze vorgelegt oder durchgepeitscht werden. Ich verweise auf die<lb/>
+Forderungen der ÖVP und insbesondere auf die Vorschläge von<lb/>
+Energiesprecher <name type="person" ref="per:111410">König</name>. Für die gewerbliche Wirtschaft ist<lb/>
+vor allem jedes Verbotsgesetz unangenehm. Am unangenehmsten<lb/>
+aber die Abfertigungsausdehnung auf die Arbeiter. Um den Kleinen<lb/>
+die Bezahlung zu ermöglichen, schlage ich vor, man soll ähnlich<lb/>
+wie beim Lohnfortzahlungsproblem einen Fonds installieren.<lb/>
+Dies ist nach Meinung von <name type="person" ref="per:97769">Mussil</name> nicht zielführend, weil die<lb/>
+Fondslösung Durchstechungsmöglichkeiten eröffnet. Ausserdem<lb/>
+ist selbst beim Lohnfortzahlungsfonds der Kleinbetrieb benach<lb break="no"/>teiligt. Jetzt soll diesen mit 400.000 S die Grossbetriebe subven<lb break="no"/>tionieren, deshalb wurde in der letzten Novelle vorgesehen, dass<lb/>
+den Grossbetrieben ab 10 Beschäftigten, man geht von einer ge<lb break="no"/>wissen Lohnsumme aus, die Sozialversicherung nicht mehr bezahlt<lb/>
+wird. Diese muss der Grossbetrieb aus der eigenen Tasche bezahlen,<lb/>
+wie mir <name type="person" ref="per:98063">Weissenberg</name> am Abend vor der Ministerratsvorbesprechung<lb/>
+erklärt. Ich informiere <name type="person" ref="per:98063">Weissenberg</name> nämlich von der Aussprache<lb/>
+mit der Handelskammer, gleichzeitig erzähle ich ihm, dass jetzt<lb/>
+vereinzelt Unternehmen, und das wird sich sicherlich verstärken,<lb/>
+Protestschreiben an das Handelsministerium, d.h. an mich per<lb break="no"/>sönlich richten und verlangen, ich sollte mich gegen die Ab<lb break="no"/>fertigungsregelung aussprechen. Wir vereinbaren, dass ich im<lb/>
+Antwortschreiben darauf verweisen werde, dass ich mit den<lb/>
+Sozialminister gesprochen habe und dieser noch eine Aussprache<lb/>
+mit den Sozialpartnern erwartet.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Bitte in diesem Sinne Antwortschreiben<lb/>
+vorbereiten lassen.<lb/>
+</p>
+            <pb n="46-0109" facs="46_1979-01-29_0109.jpg"/>
+            <p xml:space="preserve"><name type="person" ref="per:97893">Sallinger</name> und <name type="person" ref="per:97769">Mussil</name> haben einen Bericht von Dr. <name type="person" ref="per:97474">Gleissner</name>,<lb/>
+obwohl sie dies nicht zugeben, dass er von ihm stammt, über<lb/>
+die beabsichtigte Montage von israelischen Kampfflugzeugen<lb/>
+Kfir in Österreich. Die Handelskammer befürchtet, dass die<lb/>
+arabischen Staaten jetzt entsprechende Aufträge, die sie sonst<lb/>
+nach Österreich zu geben beabsichtigten, stornieren werden.<lb/>
+Dies gilt jetzt vor allem für das grosse Flugplatzprojekt im<lb/>
+Irak, der Bagdader Flughafen soll für 12,5 Mia. S ausgebaut<lb/>
+werden, die Firma Universale liegt an zweiter Stelle mit einem<lb/>
+ganz kleinen höheren Preis als die Franzosen. Die Handelskammer<lb/>
+wird diesbezüglich mit Aussenminister <name type="person" ref="per:108328">Pahr</name> sprechen.<lb/>
+Meine Erklärung und mein Standpunkt ist, hier handelt es sich<lb/>
+um eine frühzeitige Indiskretion, denn derzeit wollen nur<lb/>
+drei Privatfirmen eine solche Flugzeugfirma in Wiener Neustadt<lb/>
+gründen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Das ganze Projekt von Aussenhandels- und<lb/>
+Industriesektion prüfen lassen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97893">Sallinger</name> ist bereit, die Enquete der Patentanwälte Europas eben<lb break="no"/>falls so wie ich zu begrüssen.<lb/>
+</p>
+            <p xml:space="preserve">Für Tirol soll jetzt als Reihenfolge <name type="person" ref="per:116957">Menardi</name> seine Auszeichnung<lb/>
+bekommen, dann der Hotelier <name type="person" ref="per:149385">Moser</name> in Alpbach die Genehmigung<lb/>
+zur Führung des Staatswappens und als letzter dann <name type="person" ref="per:140584">Falkner</name> in<lb/>
+Sölden, der sehr gute Bekannte um nicht zu sagen Freund von<lb/>
+<name type="person" ref="per:97893">Sallinger</name> und <name type="person" ref="per:97769">Mussil</name>.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Bitte erkundige Dich wie weit <name type="person" ref="per:149385">Moser</name> und<lb/>
+<name type="person" ref="per:140584">Falkner</name> sind.<lb/>
+</p>
+            <p xml:space="preserve">Ich kündige die verpflichtende Produktdeklaration für Backrohr,<lb/>
+Geschirr, Spülmaschinen und Waschmaschinen der Handelskammer an,<lb/>
+verweise aber darauf, dass dies im Einvernehmen mit dem Fach<lb break="no"/>verband geschieht.<lb/>
+</p>
+            <p xml:space="preserve">Beim Journalistenfrühstück berichtet Min.Rat <name type="person" ref="per:108609">Sterk</name> über das<lb/>
+Rohstoffkonzept. In der Diskussion wird nur gefragt, was in<lb/>
+Kärnten und in der Steiermark an Aktivitäten zu erwarten ist.<lb/>
+In der Kreuzeckgruppe sollen die Vererzung und in der Reisseck<lb break="no"/>gruppe die Mineralisatoren festgestellt werden. In Kärnten könnte<lb/>
+insbesondere dann eine Mineralrohproduktion aufgezogen werden,<lb/>
+<pb n="46-0110" facs="46_1979-01-29_0110.jpg"/>aufgezogen werden, die jetzt ausschliesslich aus Italien importiert<lb/>
+wird. Auch in den Schladminger Tauern soll unter Aussparung von<lb/>
+den Klafferkesseln Aktivität entfaltet werden. Insbesondere nachdem<lb/>
+jetzt feststeht, dass die Uran-Abbaumassnahmen in Forstau eingestellt<lb/>
+werden. Die Lagerstätte ist dort Viel zu gering, um einen Abbau<lb/>
+zu ermöglichen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:108609">Sterk</name> berichtet auch über das neue Bergbauförderungsgesetz. Seit<lb/>
+1965 wurden über 2 Mia. S aufgewendet, allerdings hauptsächlich zur<lb/>
+Defizitverminderung der Kohlen- und Kupferbergbaubetriebe. In Hin<lb break="no"/>kunft werden alle Buntmetalle und Veredler durch die Bergbauförderung<lb/>
+erfasst und es soll sich hier wirklich dann um eine Förderung der<lb/>
+Prospektion und der Exploration handeln und nicht mehr ausschliess<lb break="no"/>lich um Defizitdeckung. In der Diskussion kommt natürlich sofort<lb/>
+die Kohlengrubenschliessung zur Sprache. <name type="person" ref="per:111697">Horn</name> von der Volksstimme<lb/>
+meint, es wäre doch zweckmässig, statt neue Kohlenstätten zu suchen,<lb/>
+die alten einmal auszubauen und nicht vor der Auskohlung schon zu<lb/>
+schliessen. Ich versuche ihm klarzumachen, dass wir in Südburgenland und<lb/>
+in Weilhartsforst, OÖ, von der SAKOG entsprechende Kohlenstätten<lb/>
+haben, die wahrscheinlich rentabel grösstenteils im Tagbau abge<lb break="no"/>baut werden können. Auch in NÖ, Riegersburg, sowie in Kärnten wird<lb/>
+weiter geforscht. Rentable Kohlenbergbaue werden von uns eröffnet,<lb/>
+unrentable müssen leider geschlossen werden.<lb/>
+</p>
+            <p xml:space="preserve">Ich berichte über die Mineralölverbrauchsziffern von November<lb/>
+und dass auch jetzt in den ersten 27 Tagen im Jänner der Elektrizi<lb break="no"/>tätsverbrauch noch immer um 11,8 % über dem Vorjahr liegt. Dies<lb/>
+verbinde ich mit einem Appell, mit Energie zu sparen. Durch die<lb/>
+gute Speicherfüllung im vorigen Herbst mit Anfang Oktober hatten<lb/>
+wie 1,1 Mia. kWh Reserve, jetzt sind wir auf fast der Hälfte herunten,<lb/>
+konnten wir alle Anforderungen erfüllen und werden wahrscheinlich<lb/>
+auch bis März durchkommen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:111736">Zolles</name> berichtete über die Austro-Tourist-Börse ATB, wonach heuer<lb/>
+220 Aussteller gegenüber früher 180 erwartet werden. Insgesamt<lb/>
+wurden 300 Reisebüros und sonstige ausländische Veranstalter einge<lb break="no"/>laden. Der Redakteur Dr. <name type="person" ref="per:115175">Norden</name>, der eigentlich vor Jahren diese<lb/>
+Börse geschaffen hat, wird von mir lobend erwähnt und ihm für<lb/>
+diese Idee gedankt. Damals hat er sie in Tatzmannsdorf, Bgld., zum<lb/>
+<pb n="46-0111" facs="46_1979-01-29_0111.jpg"/>ersten Mal veranstaltet, jetzt hat es die ÖFVW übernommen<lb/>
+und ganz gross ausgebaut. Zu meinem Dank hat er kein einziges<lb/>
+Wort gesagt, sondern nur gefragt, wer die Kosten für die<lb/>
+Einladungen, auch deren Ehefrauen, bezahlt und wie hoch sie sind.<lb/>
+<name type="person" ref="per:111736">Zolles</name> musste zugeben, dass es notwendig ist, von grossen Veran<lb break="no"/>staltern selbstverständlich auch die Aufenthaltskosten deren<lb/>
+Ehefrauen zu übernehmen. Insgesamt kostet es netto der ÖFVW<lb/>
+ca. 1 Mio. S. Dass es sich für die Aussteller lohnen muss, ergibt<lb/>
+sich daraus, dass 269 Wiederholer festgestellt werden konnten.<lb/>
+Bei einem Angebot von 467 ist dies eine befriedigende Quote.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: <name type="person" ref="per:111736">Zolles</name> soll prüfen, ob tatsächlich diese<lb/>
+1 Mio. S aufgewendet werden muss.<lb/>
+</p>
+            <p xml:space="preserve">Bei der internen Besprechung über Energiesparmassnahmen mit<lb/>
+<name type="person" ref="per:107937">Frank</name>, <name type="person" ref="per:110944">Zluwa</name>, <name type="person" ref="per:97543">Heindl</name>, Klubobmann <name type="person" ref="per:97444">Fischer</name>, <name type="person" ref="per:117674">Ostleitner</name> vom Klub,<lb/>
+<name type="person" ref="per:107956">Satzinger</name> dränge ich darauf, auch <name type="person" ref="per:97584">Jagoda</name> zuzuziehen. <name type="person" ref="per:110944">Zluwa</name><lb/>
+möchte nämlich die Gewerbeordnung novellieren, um den Unternehmer<lb/>
+bei seinen Betriebsanlagen auf Energiesparen prüfen zu können.<lb/>
+<name type="person" ref="per:97584">Jagoda</name> hat dagegen grosse Bedenken, ich selbst bin auch der Meinung,<lb/>
+wir sollten abwarten, was hie den Länderbesprechungen herauskommt.<lb/>
+Dort ist ja vorgesehen, dass die Landeshauptleute im Staatsvertrag<lb/>
+mit uns zugestehen, dass wir die Heizanlagen sowohl von Betrieben<lb/>
+als auch von Privaten prüfen können. <name type="person" ref="per:97543">Heindl</name> möchte überhaupt<lb/>
+eine Bestimmung ähnlich wie bei der Kehrordnung für die Rauch<lb break="no"/>fangkehrer, dass auch die Installateure eine Kontrollverpflichtung<lb/>
+bekommen. Ich fürchte, dass dies dann genauso ausartet wie die<lb/>
+Kehrordnungen, dort ist zwar vorgesehen, dass der Rauchfangkehrer<lb/>
+immer alles genau prüft und kehrt, in Wirklichkeit aber kassiert<lb/>
+er nur von der Hausfrau, die froh ist, wenn er gar nicht in<lb/>
+die Wohnung hineinkommt. Die entsprechenden Gesetzesentwürfe<lb/>
+werden von <name type="person" ref="per:110944">Zluwa</name> für die Mittwoch-Sitzung im Parlament vorbereitet.<lb/>
+<name type="person" ref="per:97543">Heindl</name> kündigt an, er wird dort den Prof. <name type="person" ref="per:113069">Weiser</name> (EVA) wegen der<lb/>
+unqualifizierten Angriffe im Kurier hart attackieren. Ich bin<lb/>
+nicht ganz seiner Meinung, obwohl ich mich auch über die Artikel<lb/>
+sehr ärgere, da <name type="person" ref="per:113069">Weiser</name> sicherlich erklären wird, er hat damit<lb/>
+nicht zu tun. Vor der Ministerratsvorbesprechung verweise ich<lb/>
+auf die Artikelserie bei dem Pressesekretär <name type="person" ref="per:114464">Kunz</name> und dem Kabinett<lb break="no"/>chef <name type="person" ref="per:97469">Gehart</name>, beide sind der Meinung, dass <name type="person" ref="per:122296">Payrleitner</name> selbst<lb break="no"/><pb n="46-0112" facs="46_1979-01-29_0112.jpg"/>verständlich auf Veranlassung von <name type="person" ref="per:113069">Weiser</name> oder zumindestens<lb/>
+mit dessen Wissen, diese Artikelserie startet. Ich kündige an,<lb/>
+dass ich mir auf die Dauer und jetzt auch Bautenminister <name type="person" ref="per:97755">Moser</name><lb/>
+diese Vorgangsweise nicht gefallen lassen kann. <name type="person" ref="per:97755">Moser</name> hat seinen<lb/>
+Pressesekretär beauftragt, entsprechende Massnahmen zu setzen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Kläre bitte, was das Bautenministerium im<lb/>
+Detail wirklich macht.<lb/>
+</p>
+            <p xml:space="preserve">Der neue Gen.Sekr. der OPEC <name type="person" ref="per:149771">Ortiz</name> aus <choice><choice><sic>Kuwait</sic><corr>Ecuador?</corr></choice></choice> macht nur seinen<lb/>
+Antrittsbesuch. Bei dieser Gelegenheit kann ich feststellen,<lb/>
+dass die 120 Beschäftigten im neuen Domizil auf der Donaulände<lb/>
+auskommen, da die Spezialfonds von der OPEC jetzt ein eigenes<lb/>
+Quartier beziehen. <name type="person" ref="per:149771">Ortiz</name> ist mit dem Aufenthalt in Wien<lb/>
+so wie er auch sagt seine ganze Organisation sehr zufrieden.<lb/>
+</p>
+            <p xml:space="preserve">50 Hauptschüler der Hauptschule Innermanzing haben durch den<lb/>
+Direktor und den Bürgermeister den Wunsch geäussert, das Handels<lb break="no"/>ministerium zu besuchen. Ich bin fest davon überzeugt, dass es<lb/>
+ausschliesslich die Idee vom Direktor war, den ich einmal bei<lb/>
+einer parteipolitischen Veranstaltung in der Gegend, auch in<lb/>
+seiner Schule besucht habe. Dort habe ich auf dessen Wunsch<lb/>
+eventuell einmal mich in Wien zu besuchen sofort akzeptiert.<lb/>
+Die Schüler sind aber nicht wie vorgesehen um 3 Uhr sondern<lb/>
+schon um 1/4 3 Uhr gekommen. Ich konnte daher nicht warten,<lb/>
+bis der Bürgermeister und der Direktor ebenfalls zeitgerecht<lb/>
+dann eingetroffen sind, sondern habe vorher mich bereits<lb/>
+nachdem die Schüler mit Krapfen und Coca Cola bewirtet wurden,<lb/>
+mit ihnen unterhalten. Kein einziger Schüler hat gefragt, ein<lb/>
+Lehrer hat nur ersucht, ich soll über die Tätigkeit des Handels<lb break="no"/>ministeriums ein wenig berichten.<lb/>
+</p>
+            <p xml:space="preserve">Anstelle von Dr. <name type="person" ref="per:114910">Pöchhacker</name>, PORR AG, ist sein Vertreter <name type="person" ref="per:149772">Bleimauer</name><lb/>
+erschienen, um wegen der Nachtragsforderungen an die ÖDK<lb/>
+wegen der <choice><choice><sic>Kolbreinsperre</sic><corr>Kölnbreinsperre?</corr></choice></choice> mit mir neuerdings zu reden. Der Auftrag<lb/>
+hat 1,220 Mia. betragen, die Abrechnung hat ergeben, dass mit<lb/>
+1,169 Mia. S das Auslangen gefunden werden konnte. Dazu kommen<lb/>
+jetzt Nachträge von 24 Mio., die schon genehmigt sind, davon<lb/>
+<pb n="46-0113" facs="46_1979-01-29_0113.jpg"/>allerdings 19 Mio. S sogenannten Forcierungskosten, weil die<lb/>
+Baufirmen den Bau schneller beendet haben als vorgesehen. Hier<lb/>
+hat mit aber bereits GD <name type="person" ref="per:97526">Hautzenberg</name> mitgeteilt, dass sie diese<lb/>
+besseren da schneller Fertigstellungserlöse sowieso schon mit<lb/>
+Porr resp. der Arge geteilt haben. Eine weitere Zuzahlung kommt<lb/>
+nach Meinung der ÖDK kaum mehr in Frage. Die Porr wird jetzt mit<lb/>
+der ÖDK neuerdings Verhandlungen beginnen. Ich selbst erklärte<lb/>
+dezidiert, ich kann und will mich als Energieminister<lb/>
+nicht einschalten.<lb/>
+</p>
+            <p xml:space="preserve">Vor der Ministerratssitzung hat <name type="person" ref="per:97668">Kreisky</name> mit <name type="person" ref="per:98063">Weissenberg</name>, <name type="person" ref="per:110169">Nussbaumer</name><lb/>
+und mir die Antwort an den GM-Brief wegen der drei grossen<lb/>
+Fabriken, die sie beabsichtigen zu errichten, besprochen. Zuerst<lb/>
+meinte <name type="person" ref="per:97668">Kreisky</name>, man könnte nur ein einziges Projekt positiv empfeh<lb break="no"/>len und zu denselben Konditionen wie Ford GM anbieten. Dabei dachte<lb/>
+er primär an Judenburg und an die Motorenfabrik. Investitions<lb break="no"/>aufwand 3,6 Mia. S und 1.400 Beschäftigte. Die steirische Landes<lb break="no"/>regierung hat seinerzeit 600 Mio. S angeboten. Die Kärntner wollen<lb/>
+150 Mio., allerdings für 8.000 Beschäftigte. Diese glaubt <name type="person" ref="per:98063">Weissenberg</name>,<lb/>
+könnten sie gar nicht aufbringen. Ich teile diese Meinung nicht,<lb/>
+denn die Kärntner haben gerade im Winter reichlich Arbeitskräfte.<lb/>
+Nur im Sommer für den Fremdenverkehr sind, wenn tatsächlich 8.000<lb/>
+Beschäftigte mit einem Projekt verbunden wären, die Notwendigkeit<lb/>
+im Sommer Gastarbeiter aus Jugoslawien kurzfristig hereinzulassen.<lb/>
+Im weiteren Verfolg hat dann <name type="person" ref="per:97668">Kreisky</name> aber alle drei Projekte<lb/>
+goutiert. Das Blech- und Presswerk sollte im Ennser Hafen von der<lb/>
+VÖEST errichtet werden, erster Aufwand 9 Mia., zweite Etappe<lb/>
+5,7 Mia., dazu ein Fahrzeugmontagewerk in Judenburg 6,5 Mia. S mit<lb/>
+7.000 Beschäftigten, für Villach soll dann das Motorenwerk mit<lb/>
+1.400 Beschäftigten beabsichtigt sein. Ford hat vom Bund 23 %<lb/>
+und von der Gemeinde Wien ca. 14 %, also 37 % Geschenk bekommen.<lb/>
+Auch GM soll ein Drittel Geschenk und ein Drittel Zinsenzuschüsse<lb/>
+nach der Methode Aichfeld-Murboden gegeben werden. <name type="person" ref="per:97668">Kreisky</name> hat<lb/>
+dann noch mit <name type="person" ref="per:112058">Sternbach</name> von Ford, Österreich, gesprochen, und<lb/>
+diesem mitgeteilt, zwei oder drei Projekte könnte Österreich<lb/>
+leicht übernehmen. <name type="person" ref="per:110169">Nussbaumer</name> wird einen diesbezüglichen Brief<lb/>
+verfasssen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: <name type="person" ref="per:98053">Wanke</name> soll mit <name type="person" ref="per:110169">Nussbaumer</name> Kontakt aufnehmen.<lb/>
+</p>
+            <pb n="46-0114" facs="46_1979-01-29_0114.jpg"/>
+            <p xml:space="preserve">Die Fa. Eisert ist jetzt in einem Konkurs, Dr. <name type="person" ref="per:149773">Dachs</name>, der Verwalter<lb/>
+wird eine Auffanggesellschaft sofort genehmigen. Dafür in Frage<lb/>
+kommen die Tabakwerke oder Fa. Smolka, Tyrolia-Bindungen. Ein<lb/>
+dritter Interessent, Koloman Handler, Liesing, 450 Beschäftigte,<lb/>
+Ringbuchmechaniken, soll an den Arbeitsplätzen der 150 Be<lb break="no"/>schäftigten interessiert sein.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Was weiss unsere Industriesektion?<lb/>
+</p>
+            <p xml:space="preserve">In der Ministerratsvorbesprechung beschwerte sich <name type="person" ref="per:97668">Kreisky</name> furchtbar,<lb/>
+dass die Verwaltungsakademie für Aufstiegskurse nur Leute nimmt,<lb/>
+die zwei Jahre eine A-wertige Tätigkeit ausgeübt haben. Deshalb<lb/>
+sind bis jetzt nur 24 Kursteilnehmer gewesen. Derzeit sind<lb/>
+nur 2 von dem Wirtschaftsfach und vier Juristen gemeldet. Der<lb/>
+Kurs kann daher gar nicht durchgeführt werden. <name type="person" ref="per:97668">Kreisky</name> möchte,<lb/>
+dass unverzüglich aus dem Gesetz diese Bestimmung der zweijährigen<lb/>
+A-Tätigkeit herauskommt. <name type="person" ref="per:108223">Lausecker</name> erklärt, das war seinerzeit auf<lb/>
+Protest der Hochschulen als Kompromiss aufgenommen worden.<lb/>
+</p>
+            <p xml:space="preserve">Die Filmförderung, ein gewisser <name type="person" ref="per:149774">Janacek</name>, wird nach wie vor hart<lb/>
+kritisiert, <name type="person" ref="per:97668">Kreisky</name> ist der Meinung jetzt ist es nur noch möglich,<lb/>
+einen Entwurf in die Begutachtung zu geben, wie <name type="person" ref="per:113083">Sinowatz</name> mitteilt,<lb/>
+da die ÖVP eine gemeinsame Lösung sicher nicht akzeptierte.<lb/>
+Initiativanträge, siehe Ortstafel und AK-Novelle, waren aber<lb/>
+niemals eine günstige Lösung, nach Meinung von <name type="person" ref="per:97668">Kreisky</name>.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97346">Benya</name> berichtet über die Sozialversicherungsnominierung, die mit<lb/>
+der ÖVP jetzt ausgemacht wurde. <name type="person" ref="per:97444">Fischer</name> erklärt, gleichzeitig verlangt<lb/>
+aber die ÖVP jetzt Wahlen in die Sozialversicherung.<lb/>
+</p>
+            <p xml:space="preserve">Gen.Sekr. <name type="person" ref="per:114093">Waldheim</name> beschwert sich, dass jetzt weniger Beamte<lb/>
+von Österreich in die Vereinten Nationen kommen wollen. Dort<lb/>
+bekommen sie keine Wohnungszulage, haben auch nicht die Möglichkeit,<lb/>
+die Autos billigst zu importieren und andere Privilegien, die sonst<lb/>
+bei der österr. Botschaft in Washington gewährt werden. <name type="person" ref="per:112992">Löschnak</name><lb/>
+verweist darauf, dass sie doch immer aber wesentlich besser<lb/>
+bezahlt sind als die österr. Beamten in Österreich. <name type="person" ref="per:108328">Pahr</name> meint,<lb/>
+man sollte aber bezüglich der Wohnungszulagen den Wunsch von <name type="person" ref="per:114093">Waldheim</name><lb/>
+erfüllen.<lb/>
+</p>
+            <pb n="46-0115" facs="46_1979-01-29_0115.jpg"/>
+            <p xml:space="preserve">Der Botschafter in der Schweiz, <name type="person" ref="per:112627">Thalberg</name>, hat sich<lb/>
+in einem Brief bitter beklagt, dass die Schweiz keine Kom<lb break="no"/>pensationslieferung für ihre Waffenkäufe tätigen. <name type="person" ref="per:97668">Kreisky</name><lb/>
+meint, dies müssten <name type="person" ref="per:97879">Rösch</name> und <name type="person" ref="per:97985">Staribacher</name> lösen, der Brief<lb/>
+sei uninteressant.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97356">Blecha</name> wird aufgefordert, über die letzte Meinungsumfrage, die<lb/>
+mit 25. Jänner abgeschlossen wurde, zu berichten. Danach ist<lb/>
+der Anteil der soz. Stimmen von 44 im Dezember auf 43 zurückge<lb break="no"/>gangen. Die ÖVP ist mit 39 gleichgeblieben, die Freiheitlichen<lb/>
+haben von 4 wieder auf 6 Prozent aufgeholt. Unentschiedene sind<lb/>
+von 13 auf 11 % zurückgegangen. Dies SPÖ schneidet noch immer<lb/>
+bei den Jugendlichen unter 30 Jahren schlecht ab. Erstmals haben<lb/>
+wir sogar keine Mehrheit mehr in Österreich in dieser Altersgruppe<lb/>
+40 % Sozialisten, 41 % Volkspartei bei den Männern.<lb/>
+Bei den Frauen bleiben wir immer mit 46 % gegenüber 38 ÖVP<lb/>
+unverändert. Dies ist wirklich unsere stabilste Wählergruppe.<lb/>
+Der Einbruch ist in Wien erfolgt. Dort haben sich viele Unent<lb break="no"/>schiedene für die Volkspartei entschieden, schlecht steht es<lb/>
+vor allem einmal in Salzburg, Tirol und Vorarlberg. Fragen nach<lb/>
+den Programmen der Sozialisten werden gut beantwortet, sie<lb/>
+entsprechen den Befragten auch zweimal mehr als die der Volks<lb break="no"/>partei. Grosse Angst bricht aber bei den Fragen der Energiever<lb break="no"/>knappung in den Achtzigerjahren – 2/3 – dem Ansteigen der<lb/>
+Kriminalität und Verstärkung der Krankheiten durch ungesundes<lb/>
+Leben. Mehr als die Hälfte sagen, dies könnte keine Partei<lb/>
+lösen, auch nicht die sozialistische. Die Arbeitsmarktfrage, ins<lb break="no"/>besondere die Arbeitslosigkeit wird aber erklärt, bei einem<lb/>
+Fünftel, kann die SPÖ besser lösen, die Inflationsbekämpfung 20 %.<lb/>
+Die ÖVP schneidet in diesen beiden Fällen schlecht ab. <name type="person" ref="per:97668">Kreisky</name><lb/>
+liegt noch immer mit 2,54 äusserst günstig, <name type="person" ref="per:98003">Taus</name> pendelt jetzt<lb/>
+bei Null und <name type="person" ref="per:112569">Götz</name> liegt noch immer im Minus. Dies dürfte auch<lb/>
+der Grund sein, warum die Freiheitlichen jetzt eine Meinungsumfrage<lb/>
+von August 1978 präsentieren, wo in Graz angeblich 430 interviewt<lb/>
+wurden. Dort hat natürlich <name type="person" ref="per:112569">Götz</name> besser abgeschnitten. 54 %<lb/>
+wünschen sich noch immer <name type="person" ref="per:97668">Kreisky</name> als Bundeskanzler. Hier ist auch<lb/>
+ein höchster Prozentsatz bei Jugendlichen mit 55 % festzustellen.<lb/>
+Die nächsten Altersschichten fallen dann ab auf 52 % und über<lb/>
+55 Jahren sind wieder 55 % für <name type="person" ref="per:97668">Kreisky</name> als Bundeskanzler.<lb/>
+</p>
+            <pb n="46-0116" facs="46_1979-01-29_0116.jpg"/>
+            <p xml:space="preserve">Erstmals wurde auch festgestellt, dass die SPÖ-Alleinregierung<lb/>
+mehr Präferenz hat als eine grosse Koalition. Dies ist für<lb/>
+mich ganz klar und logisch. Wenn <name type="person" ref="per:97668">Kreisky</name> einen so hohen<lb/>
+Stellenwert als Bundeskanzler hat, dann wird selbstverständlich<lb/>
+seine Aussage, er wünscht oder würde nur mehr bei einer SPÖ-<lb/>
+Alleinregierung den Kanzlerschaft übernehmen, automatisch<lb/>
+dass sich viele daher von der grossen Koalition weg und zur<lb/>
+Alleinregierung wenden. Nach wie glaube ich gilt meine Theorie,<lb/>
+diese Wahlschlacht ist nur zu schlagen und zu gewinnen, wenn<lb/>
+es gelingt, die Konfrontation hie <name type="person" ref="per:97668">Kreisky</name> hie <name type="person" ref="per:98003">Taus</name> - <name type="person" ref="per:112569">Götz</name> der<lb/>
+Bevölkerung klar ins Bewusstsein zu bringen, wenn es unserer<lb/>
+Propaganda gelingt, diese stark vereinfacht und zugespitzte<lb/>
+Frage bis zum 6. Mai durchzuziehen und sie im Bewusstsein der<lb/>
+Bevölkerung zu verankern, dann kann <name type="person" ref="per:97668">Kreisky</name> mit seinem ungeheuren<lb/>
+Image noch einmal das Rennen machen. In meinen Augen, ich hatte<lb/>
+es immer so beurteilt, ist dies möglich, aber sehr unwahrschein<lb break="no"/>lich.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="46_0107_01" facs="46_1979-01-29_0107-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 29.1.1979</head>
+         </div>
+         <pb n="46_0107_02" facs="46_1979-01-29_0107-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

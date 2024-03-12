@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstag, der 30. März 1982</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band64_1982-03-30</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1982-03-30">Dienstag, 30. März 1982</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-09-25">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="64-0385" facs="64_1982-03-30_0385.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Dienstag, 30. März 1982<lb/>
+</p>
+            <p xml:space="preserve">Der Besitzer der Ankerbrotfabrik Dr. <name type="person" ref="per:117012">Schuster</name> hat mit Sekr. <name type="person" ref="per:112945">Hölles<lb break="no"/>berger</name> von der LUGA und dem Referenten des Handelsministeriums Mag.<lb/>
+<name type="person" ref="per:133371">Mandl</name> die Sanierungsbemühungen der Ankerbrotfabrik besprochen. Er<lb/>
+will keine Arbeiter und Angestellten abbauen, den natürlichen Abgang<lb/>
+aber nicht mehr ersetzen, seine große Belastung sind die 124 Mio. S<lb/>
+Verlustvortrag. <name type="person" ref="per:133371">Mandl</name> berichtete, daß die FGG das Sanierungskonzept<lb/>
+jetzt prüft. Das Sozialministerium wird wahrscheinlich Arbeitsmarkt<lb break="no"/>förderungsmittel AFM zuschießen. <name type="person" ref="per:117012">Schuster</name> hat auch mit den Bezirks<lb break="no"/>vorsteher <name type="person" ref="per:111702">Deutsch</name> von Favoriten, ehem. BRO der Ankerbrotfabrik, und dem<lb/>
+Bez.Obmann der SPÖ Favoriten, NR <name type="person" ref="per:112942">Braun</name>, aber in der Funktion als Privat<lb break="no"/>angestelltenobmann, bezüglich eines Stillhaltens bei der nächsten Lohn<lb break="no"/>bewegung im Juli gesprochen. Eine solche Lösung halte ich persönlich<lb/>
+für nicht möglich. Die LUGA und die Verhandlungskomitees haben bis<lb/>
+jetzt stets solche Wünsche durch Lohnverzicht eine Betriebssanierung<lb/>
+herbeizuführen abgelehnt.<lb/>
+</p>
+            <p xml:space="preserve">Bezüglich der Produktionsmöglichkeiten von Toastbrot, Schnittbrot<lb/>
+und Brösel, die insbesondere die Fa. Hofer sofort bei einer jeden Fa<lb break="no"/>brik, daher auch bei Anker bestellen würde, ergibt sich, daß nur bei<lb/>
+Schnitt und Toastbrot eine Möglichkeit dann besteht, wenn das Land<lb break="no"/>wirtschaftsministerium bzw. der Getreidewirtschaftsfonds, ähnlich<lb/>
+wie er dies bei der Vermahlung von Getreide für Mehl, das in den Ex<lb break="no"/>port geht, auch vorsieht, daß die Getreidesubvention 1 S pro kg unge<lb break="no"/>fähr für die Abstützung dieser Produkte zur Verfügung stellt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: <name type="person" ref="per:133371">Mandl</name> soll diese Probleme mit Landwirtschafts<lb break="no"/>ministerium und GAF besprechen.<lb/>
+</p>
+            <p xml:space="preserve">Verbund-GD <name type="person" ref="per:97453">Fremuth</name> berichtet mir von seiner Rumänienverhandlung, die<lb/>
+zuerst so günstig aussehende Lagerung von Atommüll in Rumänien zeigt<lb/>
+sich jetzt als wesentlich ungünstiger als angekündigt. Die Rumänen<lb/>
+haben aufgrund ihrer jetzt in Kanada gekauften Kernkraftwerke erst in<lb/>
+15 Jahren Zwischenlagerprobleme, bei diesem Reaktortyp entsteht übri<lb break="no"/>gens nicht ein so hochgiftiger und radioaktiver Abfall wie bei uns<lb/>
+in Österreich mit dem Siedewasserreaktor, seine Verhandlungspartner<lb/>
+werden dieses Problem in die rumänische Regierung bringen, ich ersuchte<lb/>
+<name type="person" ref="per:97453">Fremuth</name> um einen genauen detaillierten Bericht, weil ich annehme, daß<lb/>
+wir dies bei der nächsten Gemischten Kommission in Bukarest zwar nicht<lb/>
+bei der offiziellen Sitzung, aber sicherlich außerhalb besprechen werden.<lb/>
+</p>
+            <pb n="64-0386" facs="64_1982-03-30_0386.jpg"/>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:131107">GROSSENDORFER</name>: Der Begleiter <name type="person" ref="per:97453">Fremuths</name> wird uns eine<lb/>
+detaillierte Information schicken.<lb/>
+</p>
+            <p xml:space="preserve">BR <name type="person" ref="per:110995">Pisec</name> teilt mir mit, daß der Leiter der sowjetischen Gasexportver<lb break="no"/>handlungen <name type="person" ref="per:115018">Baranowski</name> über die Reduzierung des Gasbezuges sehr unglück<lb break="no"/>lich ist, ursprünglich waren ja doch 3–5 Mrd. m³ Import vorgesehen,<lb/>
+jetzt, konnte ich heute in der Presse lesen, sollen es nur 1,3 Mrd. mit<lb/>
+1 Mrd. Option sein. Auch die Italiener hätten ihre Bezugsgröße von<lb/>
+10 Mrd. auf 8 Mrd. reduziert. <name type="person" ref="per:115018">Baranowski</name> will angeblich sehr gerne mit<lb/>
+mir Gespräche führen, ÖMV-GD <name type="person" ref="per:97337">Bauer</name> hat erst für Donnerstag ein Gespräch<lb/>
+mit ihm und mir vereinbart. Ich erkläre <name type="person" ref="per:110995">Pisec</name> sofort, ich bin zu<lb/>
+jeder Zeit gesprächsbereit. GD <name type="person" ref="per:97337">Bauer</name> ist wenig kooperationsbereit, denn<lb/>
+wieder einmal muß ich aus der Presse erfahren, wie er die Verhandlungen<lb/>
+und mit welchen Ergebnissen er diese mit den Russen führt. Red. <name type="person" ref="per:116032">Frei<lb break="no"/>singer</name> ist sehr tüchtig und hat die Menge, ja sogar den Preis, ca. 3 S,<lb/>
+wie auch derzeit die Deutschen vereinbart haben, herausgebracht.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:131107">GROSSENDORFER</name>: Versuche über Dir. <name type="person" ref="per:114585">Schmidt</name>, <choice><choice><sic>ÖFG</sic><corr>Austria-Ferngas</corr></choice></choice>, Details<lb/>
+zu erfahren.<lb/>
+</p>
+            <p xml:space="preserve">Vor der Ministerratsvorbesprechung habe ich mit Landwirtschaftsminister<lb/>
+<name type="person" ref="per:97511">Haiden</name> über die Abänderungswünsche der Handelsministeriumsbeamten gespro<lb break="no"/>chen und ihm auch die Informationen, die ich bekommen habe, schriftlich<lb/>
+gegeben. Über diese wird er im Landwirtschaftsausschuß im Parlament<lb/>
+verhandeln. Er ist sehr froh, daß ich nicht alle in die schriftliche<lb/>
+Begutachtung aufgenommen habe, weil ansonsten im Parlament die Opposi<lb break="no"/>tionspartei sicherlich ihm entsprechende Vorwürfe gemacht hätte. Ob<lb/>
+tatsächlich verfassungsmäßig sein Entwurf nicht ganz gedeckt ist, ob<lb/>
+wirklich 24 Stunden Handelgeschäftssperren bei einem Krisenfall zur<lb/>
+Verteilung der Lebensmittelmarken ausreicht, ob wirklich eine Mitkom<lb break="no"/>petenz des Handelsministeriums notwendig ist, bin ich persönlich gar<lb/>
+nicht überzeugt. Ich habe aber auch gar nichts dagegen, wenn dann im<lb/>
+Ausschuß diese Wünsche vom Handelsministerium besprochen werden.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Bitte sich dann bei der Klubsitzung diese Gesetze<lb/>
+einschalten.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97511">Haiden</name> ersuchte mich auch um Unterstützung des Getreidekohlenkompensa<lb break="no"/>tionsgeschäftes mit Jugoslawien, er hat mir einen diesbezüglichen<lb/>
+Brief geschrieben.<lb/>
+</p>
+            <pb n="64-0387" facs="64_1982-03-30_0387.jpg"/>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Wo ist er? <add>1.IV. eingel.</add><lb/>
+</p>
+            <p xml:space="preserve">Mit <name type="person" ref="per:97511">Haiden</name> und <name type="person" ref="per:111741">Sekanina</name> besprach ich die Schwierigkeiten der Industrie<lb/>
+bei den jetzigen zur Debatte stehenden Schwefelemissionsgesetzen.<lb/>
+<name type="person" ref="per:97511">Haiden</name> möchte aufgrund des Forstgesetzes jetzt endlich nach 5 Jahren<lb/>
+eine Durchführungsverordnung für die Schwefelemission machen. <name type="person" ref="per:111741">Sekanina</name><lb/>
+hat in der Durchführung des Dampfkesselemissionsgesetzes ähnliche Ab<lb break="no"/>sichten. Wir einigten uns darauf, daß wir in der nächsten Zeit darüber<lb/>
+Ministergespräche führen werden. Ich selbst erklärte, daß ich mit<lb/>
+langfristigen Lösungen einverstanden bin, kurzfristig aber darauf doch<lb/>
+Bedacht nehmen muß, daß nicht Betriebe wie z.B. die Elektrizitätswirt<lb break="no"/>schaft, Voitsberg I, St. Andrä I, durch diese Verordnungen sofort<lb/>
+stillgelegt werden müssen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte mir über die Forstgesetzdurchführung mir<lb/>
+eine Information vom Haus machen lassen.<lb/>
+</p>
+            <p xml:space="preserve">Finanzminister <name type="person" ref="per:97891">Salcher</name> informierte ich, daß jetzt von mir alle Wünsche<lb/>
+bezüglich einer Fernwärmesubvention durch das Budget abgelehnt wurden.<lb/>
+Ich schlug <name type="person" ref="per:97891">Salcher</name> nur vor, man sollte über weitere steuerliche Ab<lb break="no"/>setzmöglichkeiten betreffend Ausbau der Fernwärme Verhandlungen führen.<lb/>
+Er war damit sofort einverstanden.<lb/>
+</p>
+            <p xml:space="preserve">In der Ministerratsvorbesprechung begann <name type="person" ref="per:97668">Kreisky</name> sehr verärgert über<lb/>
+eine Österreichbeilage der Herald Tribune. Dort hat der österreichische<lb/>
+Journalist <name type="person" ref="per:123344">Barazon</name>, auch Chefredakteur der von der Fa. <choice><choice><sic>Meindl</sic><corr>Meinl?</corr></choice></choice> gehalte<lb break="no"/>nen Zeitschrift "Volkswirt", einen Artikel geschrieben, der Österreich<lb/>
+schlecht macht. Der OECD-Bericht, der wesentlich positiver ist, wurde<lb/>
+nicht erwähnt, dafür aber eine Graphik über OECD-Durchschnitt und<lb/>
+Österreichs Bruttoinlandsprodukt auch gezeigt, die das Gegenteil<lb/>
+dessen demonstriert, was im Artikel herauskommt. Am meisten hat <name type="person" ref="per:130192">Kreisky</name><lb/>
+aber aufgeregt, daß diese Beilage von österreichischen Annoncen der<lb/>
+Banken, aber auch von verstaatlichten Betrieben finanziert wird. <name type="person" ref="per:97668">Kreisky</name>,<lb/>
+aber auch <name type="person" ref="per:97891">Salcher</name> vermuten dahinter eine Politik. <name type="person" ref="per:97891">Salcher</name> selbst aber<lb/>
+wird in dem Artikel als der bezeichnet, der nach <name type="person" ref="per:97311">Androsch</name> sozusagen<lb/>
+den Linkskurs in die Regierungspolitik bringt. Die Betriebe, aber auch<lb/>
+die Banken, die diese Beilage durch ihre Annoncen finanzieren, wollen<lb/>
+dann gleichzeitig auch als österreichische Unternehmungen Kredite be<lb break="no"/>kommen. <name type="person" ref="per:97668">Kreisky</name> ärgerte sich auch darüber, daß immer wieder österrei<lb break="no"/>chische Journalisten im Ausland, auch der Presseredakteur <name type="person" ref="per:97479">Graber</name> in<lb/>
+der Zürcher Zeitung irgendetwas negatives schreibt und dann die ande<lb break="no"/><pb n="64-0388" facs="64_1982-03-30_0388.jpg"/>ren bürgerlichen Zeitungen in Österreich die Zürcher Zeitung rück<lb break="no"/>zitieren. In einer Beilage, die von Annoncen bezahlt war, habe ich aller<lb break="no"/>dings wirklich auch noch nirgendwo in einem anderen Land eine negative<lb/>
+Information gelesen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97891">Salcher</name> bemerkte dazu, daß ursprünglich Staatssekretär <name type="person" ref="per:97937">Seidel</name> von Herald<lb/>
+Tribune aufgefordert wurde den Artikel zu schreiben, den letzten Endes<lb/>
+dann aber doch <name type="person" ref="per:123344">Barazon</name> bekommen hat. Er sieht auch darin eine persön<lb break="no"/>liche Kampagne, die Wochenpresse berichtete z.B., daß er mit teuren<lb/>
+Zinsen jetzt von 14 % den arabischen Kredit ausgemacht hat, das über<lb break="no"/>haupt nicht stimmt, in der Kronen-Zeitung bemerkte <name type="person" ref="per:116965">Gnam</name> in einer Glosse,<lb/>
+daß nicht nur <name type="person" ref="per:111723">Wiesinger</name> diese besoffene Geschichte im Nachtclub Eva<lb/>
+gehabt hat, sondern auch ein hoher Tiroler Politiker, der jetzt in<lb/>
+der Regierung sitzt, also direkt auf ihn gemünzt war. <name type="person" ref="per:97891">Salcher</name> stellte<lb/>
+klar, daß er einmal bei einem Ball der Exekutive vor etlichen Jahren<lb/>
+von einem stadtbekannten Raufer attackiert und verletzt wurde, wofür<lb/>
+er auch durch Gericht entsprechend bestraft wurde. <name type="person" ref="per:97668">Kreisky</name> sieht darin<lb/>
+eine Kampagne, um den Finanzministernachfolger <add>[von]</add> <name type="person" ref="per:97311">Androsch</name>, eben <name type="person" ref="per:97891">Salcher</name>,<lb/>
+jetzt madig zu machen.<lb/>
+</p>
+            <p xml:space="preserve">Die Kärntner Volkszeitung, das ÖVP-Landesorgan, ist pleite. Gewerkschafts<lb break="no"/>obmann der Journalisten <name type="person" ref="per:97777">Nenning</name> hat sich an ihn gewandt, aber auch der<lb/>
+Parteiobmann <name type="person" ref="per:111325">Mock</name>, ob es nicht eine Möglichkeit gäbe, die Parteizei<lb break="no"/>tungen entsprechend zu fördern. <name type="person" ref="per:97668">Kreisky</name> ist im Prinzip einverstanden,<lb/>
+wenn es gelingt eine zusätzliche, nur für die kleinen Zeitungen, Ände<lb break="no"/>rung der derzeitig ungerechten Zeitungsförderung herbeizuführen. Not<lb break="no"/>wendig ist, daß dafür ein einstimmiger Beschluß im Parlament zustande<lb/>
+käme. Auch der Landesparteiobmann der ÖVP in Kärnten, <name type="person" ref="per:111399">Knafl</name>, hat sich<lb/>
+an Sozialminister <name type="person" ref="per:111740">Dallinger</name> gewendet, weil durch die Einstellung<lb/>
+dieser Zeitung 44 Drucker in der Kärntner Druckerei Carinthia arbeits<lb break="no"/>platzgefährdet sind. Klubobmann <name type="person" ref="per:97444">Fischer</name> meint, wenn man jetzt über<lb/>
+eine weitere Zeitungsfinanzierung spricht, dann müsse man die Idee des<lb/>
+Bundesrates, ebenfalls eine Fraktionsfinanzierung <add>[zu]</add> übernehmen, ablehnen.<lb/>
+Die vorgesehene Kürzung der Parteifinanzierung für heuer wurde einver<lb break="no"/>nehmlich <choice><choice><sic>aller</sic><corr>von allen</corr></choice></choice> Parteien im Parlament jetzt rückgängig gemacht.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> fragt dann auch, wer die österreichischen Bankenvertreter sein<lb/>
+werden, die in der Besprechung am 3.–5. Mai in Paris über die <choice><choice><sic>Detro<lb break="no"/>banken</sic><corr>Depotbanken?</corr></choice></choice> dabei sein werden. Er kommt auch neuerdings auf das Konferenz<lb break="no"/>zentrum zu sprechen und meint die Aktion Bundesländer Schülerbesuch<lb/>
+in Wien immerhin 50.000 im Jahr sollten auch die UNO-City-Besichti<lb break="no"/><pb n="64-0389" facs="64_1982-03-30_0389.jpg"/>gung mit einbauen. Er hat den Bundespräsidenten als dieser krank<lb/>
+war bei einer Aussprache mit steirischen Mittelschülern vertreten.<lb/>
+Diese sofort in Takt gesetzt und dann zur UNO führen lassen, wie er<lb/>
+von dem Lehrer erfahren hat war dies sehr beeindruckend. <name type="person" ref="per:113083">Sinowatz</name><lb/>
+wird dieses Problem innerhalb seines Ressorts noch im Detail mit Wien<lb/>
+besprechen.<lb/>
+</p>
+            <p xml:space="preserve">Bei der internationalen Schule in Wien gibt es von der Gemeinde Wien<lb/>
+angeblich Baubewilligungsschwierigkeiten. <name type="person" ref="per:108328">Pahr</name> und <name type="person" ref="per:113083">Sinowatz</name> werden<lb/>
+für <name type="person" ref="per:97668">Kreisky</name> einen Briefentwurf an die Gemeinde machen.<lb/>
+</p>
+            <p xml:space="preserve">Die Schweiz will jetzt Schulflugzeuge nach Österreich verkaufen, <name type="person" ref="per:97668">Krei<lb break="no"/>sky</name> fragt, ob die entsprechende Kompensation, die die Schweizer bei<lb/>
+ihren Rüstungseinkäufen als selbstverständlich voraussetzen in Öster<lb break="no"/>reich durchgeführt wird, <name type="person" ref="per:97879">Rösch</name> berichtet, daß die Pilatus derzeit<lb/>
+zwar zur Diskussion stehen, aber als zu teuer wahrscheinlich nicht in<lb/>
+Frage kommen. Sollte aber ein Rüstungskauf erfolgen, dann erklärte<lb/>
+<name type="person" ref="per:97879">Rösch</name> wird immer die absolute Kompensation von ihm verlangt. Dies<lb/>
+kann ich tatsächlich auch nur bestätigen.<lb/>
+</p>
+            <p xml:space="preserve">Zum Spatenstich des algerischen Eisenbahnbaus wird <name type="person" ref="per:108223">Lausecker</name> ersucht,<lb/>
+daran teilzunehmen.<lb/>
+</p>
+            <p xml:space="preserve">Jetzt ist über die 25 Jahre Staatsvertragsdiskussion 5 Bände erschienen.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> wird sie den Regierungsmitgliedern zusenden. In Diskussion<lb/>
+steht noch, ob Trost entsprechenden Film über den Staatsvertrag produ<lb break="no"/>zieren soll.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name>, der zwar in der Vergangenheit immer gesagt hat, man muß in<lb/>
+der AZ immer wieder über gewisse Probleme berichten, meinte, am Sonntag<lb/>
+wäre die AZ mit WBO-Affäre zu sehr überladen gewesen. Der neue Gen.-<lb/>
+Sekr. <name type="person" ref="per:128688">Graff</name> will jetzt als Saubermann dastehen, dadurch kommt er mit<lb/>
+den Landesorganisationen, insbesondere der <add>[von]</add> Niederösterreich, in eine<lb/>
+ausgesprochene Konfliktsituation. Auch im Burgenland hat es bei dem<lb/>
+Parteitag der ÖVP schon deutliche Seitenhiebe auf die Bundesparteilei<lb break="no"/>tung, insbesondere natürlich <name type="person" ref="per:128688">Graff</name> gegeben. Was <name type="person" ref="per:97668">Kreisky</name> beängstigt, ist<lb/>
+aber, daß in der Vergangenheit die SPÖ eindeutig als die Partei der<lb/>
+Sauberkeit gegolten hat. Von der ÖVP hat man immer angenommen, daß sie<lb/>
+unrechtmäßige Geschäfte mehr oder minder duldet. Derzeit ist aber auch<lb/>
+das SPÖ-Image schon angekratzt und zwar durch die Medienpropaganda.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> meint, es müsse die primäre Aufgabe jetzt sein, dieses ehem.<lb/>
+</p>
+            <pb n="64-0390" facs="64_1982-03-30_0390.jpg"/>
+            <p xml:space="preserve">SPÖ-Image wiederherzustellen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97511">Haiden</name> fragt an, ob jetzt am Karfreitag bis Mittag gearbeitet werden<lb/>
+muß, wie ein Erlaß des BKA feststellt. Da scheinbar alle Ministerien<lb/>
+gegenteilige Lösungen mit ihren Personalvertretern vereinbart haben,<lb/>
+wird darüber überhaupt nicht diskutiert und auch keinerlei Beschluß<lb/>
+gefaßt. Staatssekretär <name type="person" ref="per:97937">Seidel</name> berichtet über die Eröffnung der Pott<lb break="no"/>aschefabrik in Jordanien. Von einem Gesamtinvestitionsvolumen von<lb/>
+500 Mio. $ hat immerhin die VÖEST-Alpine 100 Mio. $ Aufträge davon be<lb break="no"/>kommen. Er meint, Österreich ist in Jordanien sehr bekannt. Der Kron<lb break="no"/>prinz <name type="person" ref="per:113381">Hassan</name> geht sogar mit einem von <name type="person" ref="per:97668">Kreisky</name> geschenkten Hubertusman<lb break="no"/>tel und macht auch dadurch entsprechende Propaganda für Österreich.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> bemerkt, nur im Jänner und im Februar werden von den OPEC-<lb/>
+Ländern mehr Waren aus Österreich gekauft, wir haben also zum Unter<lb break="no"/>schied von den vorhergehenden Jahren jetzt sogar einen Handelsbilanz<lb break="no"/>überschuß, sind also hoch aktiv.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte Jänner, Februar Ziffern sofort zusammen<lb break="no"/>stellen lassen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:110923">Lanc</name> berichtet, daß er jetzt nach Paris zu einem Innenministertreffen<lb/>
+fährt und anschließend dann in den Irak. Dort besteht auch ein legi<lb break="no"/>times Interesse, denn die Sicherheit der tausend beschäftigten Öster<lb break="no"/>reicher dort müsse auf höchster Ebene besprochen werden. Immerhin<lb/>
+sei es durch Kurden zu einer Führung von österreichischen Facharbeitern<lb/>
+gekommen.<lb/>
+</p>
+            <p xml:space="preserve">Gesundheitsminister <name type="person" ref="per:117200">Steyrer</name> informierte, daß er auch im April eine<lb/>
+österreichische Woche, Ausstellung insbesondere<add>[von?]</add> Spitalslieferungen, er<lb break="no"/>öffnen wird.<lb/>
+</p>
+            <p xml:space="preserve">Im Ministerrat ersuchte dann Außenminister <name type="person" ref="per:108328">Pahr</name> um Genehmigung, daß<lb/>
+ca. 60 Ordensverleihungen an Jugoslawen während des Staatsbesuches<lb/>
+von Bundespräsident <name type="person" ref="per:97632">Kirchschläger</name> erfolgen werden. Die Vorschläge der<lb/>
+Jugoslawen liegen aber derzeit namentlich noch nicht vor. Die von<lb/>
+ihm und mir durchgeführte Begleitung wurde bereits angemeldet. Auch<lb/>
+die anderen Minister <name type="person" ref="per:117200">Steyrer</name>, <name type="person" ref="per:110923">Lanc</name> und <name type="person" ref="per:108223">Lausecker</name> berichteten über ihre<lb/>
+Auslandsreisen und auch in der Ministerratstagesordnung <add>waren von</add> 42 Punkten<lb/>
+<del>waren</del> 20 Dienstreisepunkte. Manchmal kommt mir diese Tätigkeit wie<lb/>
+ein Reisebüro vor.<lb/>
+</p>
+            <pb n="64-0391" facs="64_1982-03-30_0391.jpg"/>
+            <p xml:space="preserve"><name type="person" ref="per:97891">Salcher</name> berichtete über zwei Münzen, eine 500-S- und eine 20-S-Münze,<lb/>
+die auf 250 Jahre <name type="person" ref="per:98646">Haydn</name> Bezug nimmt. Interessant war, daß er auch<lb/>
+wieder die Budgeterstellungsrichtlinien 83 beschließen ließ. Da diese<lb/>
+wie in den vorhergehenden Jahren kaum einen konkreten Einfluß auf<lb/>
+die wirklichen Budgetverhandlungen dann im Herbst haben, werden diese<lb/>
+interessanterweise immer ohne auch nur einer Wortmeldung zur Kenntnis<lb/>
+genommen. Ich kann mir sehr gut vorstellen, wie über diese Budgeter<lb break="no"/>stellungsrichtlinien ansonsten in einer Koalitionsregierung gestritten<lb/>
+wird.<lb/>
+</p>
+            <p xml:space="preserve">Vor der Sektionsleitersitzung wurde der neue Terminalanschluß im Hause<lb/>
+besichtigt. Damit hat das Handelsministerium direkten Zugriff zu allen<lb/>
+wirtschaftlichen Informationen. Ich fürchte nur, daß diese kaum, um<lb/>
+nicht zu sagen, fast gar nicht benützt werden. Auf alle Fälle bin ich<lb/>
+sehr froh, daß dort wenigstens ein Referent sitzt, der die entspre<lb break="no"/>chenden Unterlagen zumindestens gelegentlich abberufen wird.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Was kostet uns nicht die Gerätleihe, sondern die<lb/>
+ganze Angelegenheit, auch unser Personal gerechnet.<lb/>
+</p>
+            <p xml:space="preserve">Die Ausgaben für In und Auslandsreisen mit ca. 15 % liegen im ersten<lb/>
+Quartal sehr günstig, die Repräsentationskosten mit 20 % gegenüber 7,8<lb/>
+im Vorjahr wesentlich höher. Die Überstunden sind im ersten Quartal<lb/>
+mit 32 % höher, als sie sein dürften, obwohl die einzelnen Sektionen<lb/>
+die 10 %-ig vorgesehene Einsparung durchgeführt haben.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Ich glaube wir müssen eine entsprechende Pla<lb break="no"/>nung noch besprechen.<lb/>
+</p>
+            <p xml:space="preserve">In Personalangelegenheiten wurden die Wünsche der Sektionen weitestge<lb break="no"/>hend erfüllt, die Hauptprobleme liegen darin, daß insbesondere die<lb/>
+Sektion <name type="person" ref="per:97584">Jagoda</name> keine tüchtigen Juristen als Nachwuchsbeamte bekommen<lb/>
+kann.<lb/>
+</p>
+            <p xml:space="preserve">Aufgrund des Brandes im Regierungsgebäude wurde jetzt verfügt, daß<lb/>
+Brandschutzwarte eingesetzt werden. Die Formulierung dürfte aber im<lb/>
+Bautenministerium so schlecht sein, daß der Eindruck entsteht, es wer<lb break="no"/>den jetzt Stockwerkszuständige für Alarmanlagenbetätigung geschaffen,<lb/>
+sozusagen wenn es brennt, darf man nicht den Feuerlöscher oder die<lb/>
+Alarmanlage benützen, sondern muß zuerst den Brandschutzwart verstän<lb break="no"/><pb n="64-0392" facs="64_1982-03-30_0392.jpg"/>digen. Dies wäre doch wieder eine kabaretthafte Leistung gewesen.<lb/>
+</p>
+            <p xml:space="preserve">Bezüglich der Erstellung des Regierungsprogrammes für den Herbst, um<lb/>
+insbesondere die Winterarbeitslosigkeit im nächsten Jahr zu verhindern,<lb/>
+wird vom Handelsministerium, Dr. <name type="person" ref="per:107953">Buchauer</name>, Leiter der Grundsatzabteilung,<lb/>
+sofort mit dem Finanzministerium, im Büro bearbeitet das <name type="person" ref="per:1137757">Liebich</name>, Kon<lb break="no"/>takt aufnehmen. <name type="person" ref="per:107953">Buchauer</name> wollte von den Sektionen womöglich jetzt<lb/>
+schon konkrete Vorschläge, dies halte ich für derzeit unzweckmäßig,<lb/>
+zuerst muß über die Grundsatzkonzeption Einvernehmen bestehen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107953">BUCHAUER</name>: Bitte wenn das Grundsatzpapier oder zumindestens<lb/>
+die Punktation, ja selbst die Inhaltsangabe fertig ist, mir sofort vor<lb break="no"/>legen, damit ich mit <name type="person" ref="per:97891">Salcher</name> sprechen kann.<lb/>
+</p>
+            <p xml:space="preserve">Die Wirtschaftsgesetze werden, soweit sie das Handelsministerium be<lb break="no"/>treffen, alle bis Anfang Mai im Parlament vorliegen. Bezüglich der Be<lb break="no"/>richterstattung beim Mühlenbericht, aber auch beim Integrationsbericht,<lb/>
+er beruht nur auf einer Entschließung des Nationalrates, aber insbeson<lb break="no"/>dere dann beim Energiebericht, der beruht auf einem Gesetzesauftrag, <add>[wird?]</add><lb/>
+versucht von der einjährigen Berichterstattung zur zweijährigen, wobei<lb/>
+mindestens 2 Berichte in einer Legislaturperiode gegeben werden müssen,<lb/>
+umzubauen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte mir alle Gesetzesstellen und Entschlie<lb break="no"/>ßungen diesen Punkt betreffend zusammenstellen lassen.<lb/>
+</p>
+            <p xml:space="preserve">Zur Exportförderungsbesprechung zu SC <name type="person" ref="per:108322">Meisl</name> ist Dr. <name type="person" ref="per:97474">Gleißner</name> von der<lb/>
+HK schon etliche Male gekommen, <name type="person" ref="per:97627">Kienzl</name> hatte bis jetzt keine Zeit.<lb/>
+Ich informiere <name type="person" ref="per:108322">Meisl</name> über die Erfahrungen, die jetzt aus der letzten<lb/>
+Aussprache mit Unternehmern, z.B. Verbesserung der Exportfondsrichtli<lb break="no"/>nien, gemacht wurden. <name type="person" ref="per:108322">Meisl</name> erklärt, man wird dies alles berücksichti<lb break="no"/>gen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:108322">Meisl</name> erwartet, daß jetzt bei der nächsten Gemischten Kommission die<lb/>
+Ungarn neuerdings auf ihr Regionalabkommen drängen werden und er dann<lb/>
+erklären muß, daß diesbezügliche Verhandlungen mit Österreich derzeit<lb/>
+zu keinem Ergebnis kommen können, er möchte daher diesen Punkt ab<lb break="no"/>lehnend von der Tagesordnung wegbringen. Für eine so harte Verhandlung<lb/>
+<pb n="64-0393" facs="64_1982-03-30_0393.jpg"/>bin ich an und für sich nicht, ich würde an <name type="person" ref="per:108322">Meisls</name> Stelle eher darauf<lb/>
+verweisen, daß es ähnlich wie bei der Betriebsbesichtigung Kludi-Arma<lb break="no"/>turenproduktion mit enger Kooperation mit der ungarischen Firma ver<lb break="no"/>sucht wird, doch auf Einzelarrangements auszuweichen. Bezüglich der<lb/>
+Kohleabnahme von Torony und Errichtung eines Kraftwerkes in Ungarn<lb/>
+hat zwar GD <name type="person" ref="per:97453">Fremuth</name> lt. Zeitungsbericht erklärt, die Preisverhandlun<lb break="no"/>gen sind abgebrochen worden, woraus die Ungarn schließen, daß es über<lb break="no"/>haupt zu keinem Projekt mehr kommen könnte. Ich bin fest davon über<lb break="no"/>zeugt, daß nach den burgenländischen Oktoberwahlen diese Verhandlungen<lb/>
+sehr wohl positiv weitergeführt werden können.<lb/>
+</p>
+            <p xml:space="preserve">Die japanische Wirtschaftskommission im Mai soll als erster Schritt<lb/>
+dazu dienen, um vielleicht doch zu einem besseren Export nach Japan<lb/>
+zu kommen. <name type="person" ref="per:108322">Meisl</name> sieht in dieser Kommission mehr eine Alibihandlung<lb/>
+der japanischen Regierung und Wirtschaft um in Europa besseren Wind<lb/>
+zu machen. Er verspricht sich davon nichts. Ich glaube dagegen, daß<lb/>
+es notwendig ist so schnell als möglich die Vertreter der japanischen<lb/>
+Firmen mit den österreichischen Firmen zu bilateralen Gespräche zusam<lb break="no"/>menzubringen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte die Vorbereitungen entsprechend weiter<lb break="no"/>führen.<lb/>
+</p>
+            <p xml:space="preserve">Dem Wunsch Südkoreas, ich möge jetzt endlich dieses Land besuchen, kann<lb/>
+ich nicht fix zusagen. Wenn es tatsächlich zu einer Asienreise käme,<lb/>
+dann würde ich auch Südkorea besuchen, ich sehe aber derzeit keiner<lb break="no"/>lei Terminmöglichkeiten für eine ausgedehnte lange Reise.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97584">Jagoda</name> berichtet, daß jetzt die Verordnung für das Reisebürogewerbe<lb/>
+durch den Befähigungsnachweis als erste Etappe gelöst werden soll.<lb/>
+Die Ausübungsausstattung und Regel sollte dann in einer weiteren Ver<lb break="no"/>ordnung erst durchgeführt werden.<lb/>
+</p>
+            <p xml:space="preserve">Die Förderungsrichtlinien sind jetzt von mir unterschrieben, die oberste<lb/>
+Zinsgrenze entsprechend um 1/2 % reduziert. Jetzt müßte man trachten,<lb/>
+daß diese auch von den Kreditinstituten eingehalten werden. Da die<lb/>
+Kreditinstitute nicht die Partner der Bürges sind, kann nur durch<lb/>
+eine Kreditwesengesetznovelle, die jetzt im Finanzministerium bespro<lb break="no"/>chen wird, eine entsprechende Regelung vorgesehen werden. Ich werde<lb/>
+einen diesbezüglichen Brief an Finanzminister <name type="person" ref="per:97891">Salcher</name> schreiben.<lb/>
+</p>
+            <p xml:space="preserve">Das österreichische Institut für Berufsförderung, Mag. <name type="person" ref="per:123791">Knapp</name>, hat neuer<lb break="no"/><pb n="64-0394" facs="64_1982-03-30_0394.jpg"/>dings um eine Auftragsvergabe ersucht. Sie möchten eine Untersuchung<lb/>
+anstellen, wie die letzte Novelle des Berufsausbildungsgesetzes ausge<lb break="no"/>wirkt hat machen. Ich verweise darauf, daß die Lehrlingshöchstzahl<lb/>
+von 194.000 mit Ende des vergangenen Jahres auf 189.000 zurückgegangen<lb/>
+ist, obwohl bekanntlicherweise 1000 Lehrlinge keine Lehrmöglichkeit<lb/>
+gefunden haben. Mir erscheint es dringender, daß über dieses Problem<lb/>
+eine Untersuchung durchgeführt wird. Vor allem lehne ich ganz katego<lb break="no"/>risch ab, daß, wie SC <name type="person" ref="per:111737">Marsch</name> berichtet, Mag. <name type="person" ref="per:123791">Knapp</name> mit seinem ÖIBF auch<lb/>
+Meinungsumfragen durchführen will. Dies werden wir sicherlich nicht<lb/>
+finanzieren.<lb/>
+</p>
+            <p xml:space="preserve">Das Wissenschaftsministerium hat jetzt ein Forschungskonzept für die<lb/>
+80-er Jahre in Arbeit. SC <name type="person" ref="per:114127">Grimburg</name> möchte daher mit den Handelsmini<lb break="no"/>sterium-Sektionschefs, die dafür infrage kommen, entsprechenden Kon<lb break="no"/>takt. Mit der Durchführung dieser Arbeit ist vom Wissenschaftsmini<lb break="no"/>sterium SC a.D. <name type="person" ref="per:107937">Frank</name> betraut worden. Am nächsten Staatsfeiertag,<lb/>
+am 26. Oktober soll dies vorgestellt werden. Ich bin sehr gespannt,<lb/>
+wie der Finanzminister sich gegen diese neuerliche schwere budgetäre<lb/>
+Belastung wehren wird.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name> UND <name type="person" ref="per:109811">BURIAN</name>: Wenn sich die Umrisse zeigen, dann<lb/>
+bitte eine sofortige Kurzfassung für mich zusammenstellen lassen, ins<lb break="no"/>besondere über die finanziellen Auswirkungen.<lb/>
+</p>
+            <p xml:space="preserve">SC <name type="person" ref="per:111737">Marsch</name> schlägt mir allen Ernstes vor, ich hätte aufgrund des Vor<lb break="no"/>schlages von der Landesverteidigungskoordinationssitzung, MR <name type="person" ref="per:127111">Bayer</name>,<lb/>
+den Beamten zu bestimmen, der mit mir in die Stiftskaserne in den<lb/>
+Bunker bei Gefahr übersiedelt. Ich erkläre sofort kategorisch, daß<lb/>
+ich gar nicht daran denke diesen Punker auch nur einmal zu betreten,<lb/>
+auch nicht zu besichtigen. Ich halte diese Vorgangsweise für politisch<lb/>
+unklug und auch moralisch unvertretbar. Sicher müssen bei Gefahr in<lb/>
+Verzug gewisse Stäbe Militär, Polizei, Gendarmerie, Feuerwehr, Rettung<lb/>
+usw. die Befehlsgewalt haben von mir auch aus mit den zuständigen<lb/>
+Ministern entsprechend sicher untergebracht werden. Die gesamte Bun<lb break="no"/>desregierung aber sozusagen in einen Bunker zu verlegen und der an<lb break="no"/>deren Wiener Bevölkerung zu sagen, helft euch wie ihr könnte, halte<lb/>
+ich für unmöglich. Mein Platz wäre in diesem Fall im Handelsministe<lb break="no"/>rium, gegebenenfalls im Bundeskanzleramt bei einer Regierungskrisen<lb break="no"/>sitzung. Da dieses Problem noch niemals in einer Regierungsvorbespre<lb break="no"/>chung angeschnitten wurde, glaube ich, wird es zweckmäßig sein, wenn<lb/>
+einmal das Büro mit dem Kabinettschef vom BKA, <name type="person" ref="per:97678">Lacina</name>, darüber spricht,<lb/>
+<pb n="64-0395" facs="64_1982-03-30_0395.jpg"/>wie MR <name type="person" ref="per:127111">Bayer</name> ihm berichtet hat.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte um entsprechende Information.<lb/>
+</p>
+            <p xml:space="preserve">Außer der Karfreitagregelung, die auch bei uns anders gehandhabt wird<lb/>
+als wie jetzt im BKA mitbeschlossen, ergibt such auch noch, daß jetzt<lb/>
+eine Skartierungsaufforderung gekommen ist, diese von 2 auf 7 Jahre<lb/>
+zu verschieben. Dies bedeutet einen ungeheuren Bedarf an Aktenmaterial<lb break="no"/>aufbewahrung.</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte für nächste MRV <name type="person" ref="per:112992">Löschnak</name> vorbereiten.<lb/>
+</p>
+            <p xml:space="preserve">Der Arbeitsausschuß wirtschaftliche Landesverteidigung hat eine große<lb/>
+Enquete bei uns gehalten. In dem Seminar wurde von Rohstoffbeschaffung<lb/>
+und Lenkung bis zur Nahrungsmittelversorgung alles wieder einmal vor<lb break="no"/>getragen. Ich habe das Seminar eröffnet und auf die bisherigen Tätig<lb break="no"/>keiten der wirtschaftlichen Landesverteidigung verwiesen und mich<lb/>
+gleich bei allen bedankt, Interessensvertretungen, Länder, die bis<lb/>
+jetzt so selbstlos und brav mitgewirkt haben.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Verleihung des goldenen Ehrenzeichens für den Geschäftsführer<lb/>
+der BMW Austria <name type="person" ref="per:1137759">Pollak</name> erfuhr ich von den Steyr-Verantwortlichen<lb/>
+<name type="person" ref="per:1137758">Büchelhofer</name> einiges über die zukünftige Motorproduktion, abgegrenzt<lb/>
+zwischen BMW und Steyr-Daimler-Puch. Warum der <name type="person" ref="per:114911">List</name>-Motor nicht fertig<lb/>
+wird, geht auf 5 Problemkreise zurück, Zu hohe Kosten, zu großes Ge<lb break="no"/>wicht, die Einspritzpumpe noch nicht vollendet ,die Emissionsvor<lb break="no"/>schriften, die in Amerika zu erwarten sind und die Schwingungsprobleme.<lb/>
+Bei den 6 Zylindern, 150 PS, sind sie weniger aber bei den 4 Zylindern<lb/>
+in großen Ausmaß aufgetreten. Ursprünglich war beabsichtigt 800 Motoren<lb/>
+pro Tag bereits 1983 zu produzieren, dann hat man diesen Termin auf<lb/>
+September 85 verschoben, jetzt ist <name type="person" ref="per:1137758">Büchelhofer</name> fest überzeugt, kann dies<lb/>
+frühestens im 87-er Jahr erfolgen. Jährlich müssen 130 Mio. S Entwick<lb break="no"/>lungskosten bereitgestellt werden, bis jetzt sind es 317 Mio. Da sich<lb/>
+SDP außerstande gesehen hat, hat es diese Arbeit mehr oder minder<lb/>
+BMW übertragen. <name type="person" ref="per:1137758">Büchelhofer</name> ist fest davon überzeugt, daß dieser Motor<lb/>
+in Österreich gefertigt wird, dafür vorgesehene Investitionen von<lb/>
+5 Mrd. sind bereits gesichert, wahrscheinlich werden sogar insgesamt<lb/>
+7 Mrd. in Steyr investiert werden müssen, damit die 1000 Beschäftigten<lb/>
+wie beabsichtigt dann dort auch tatsächlich entsprechende Arbeits<lb break="no"/>plätze finden. Wenn alles gut läuft, wird dann zusätzlich in Steyr<lb/>
+neben der jetzt vorgesehenen Motorfertigung von BMW auch noch der<lb/>
+<pb n="64-0396" facs="64_1982-03-30_0396.jpg"/><name type="person" ref="per:114911">List</name>-Motor produziert werden.<lb/>
+</p>
+            <p xml:space="preserve">Der Wunsch der BMW-Leute war es, daß bei Ausschreibungen sie nicht<lb/>
+durch sonstige Klauseln benachteiligt sind. U.a. hat jetzt die Gendar<lb break="no"/>merie 100 Motorräder ausgeschrieben, dort ist 1 % Pönale für Termin<lb break="no"/>verzögerung, die japanische Konkurrenz Honda hat die 100 Maschinen in<lb/>
+Europa liegen, kann sie also sofort liefern, während BMW dies nur<lb/>
+etappenweise könnte, ich ersuchte Dr. <name type="person" ref="per:113022">Fabrizii</name>, der diese Fragen sehr<lb/>
+geschickt in der Beschaffungskommission behandelt, er möge versuchen,<lb/>
+wenn die Gendarmerie diese Motorräder nicht sofort wirklich braucht,<lb/>
+auf diese Etappenlieferung einzuwirken. Bezüglich der Preisdifferenz<lb/>
+erklärte ich einmal mehr, hier mischt sich das Handelsministerium nicht<lb/>
+ein, die Konkurrenzpreise müssen vom Auftragsgeber weitestgehend be<lb break="no"/>rücksichtigt werden.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Abendveranstaltung wegen der Verleihung dieses Ordens von BMW<lb/>
+im Hilton habe ich dann von <name type="person" ref="per:1137759">Pollak</name> erfahren, daß man nicht über die<lb/>
+Aussprache mit <name type="person" ref="per:113022">Fabrizii</name> sehr zufrieden ist, sondern daß tatsächlich<lb/>
+zwischen BMW und der Fa. Denzel die ja, bevor die eigene BMW-Vertre<lb break="no"/>tung in Österreich aufgebaut wurde, den Vertrieb durchführte, jetzt<lb/>
+gutes Einvernehmen herrscht. Für die Arbeitsmarktlage hat sich dies<lb/>
+tatsächlich günstig ausgewirkt, Denzel vertritt heute die Schweden und<lb/>
+die Japaner, hat keine Beschäftigungsreduktion vorgenommen und die BMW-<lb/>
+Austria-Organisation hat etliche 100 Arbeiter jetzt zusätzlich be<lb break="no"/>schäftigt. BMW hat nicht nur mit Steyr diese gemeinsame Motorenpro<lb break="no"/>duktion, sondern, was in meinen Augen noch viel wichtiger ist, bereits<lb/>
+eine fast 70 %-ige Deckung ihrer Exporte nach Österreich. Natürlich<lb/>
+ist der BMW-Anteil geringer als wie von anderen Marken, doch ist<lb/>
+diese Exportdeckung mit <choice><choice><sic>autotiven</sic><corr>automotiven?</corr></choice></choice> Teilen beachtlich. Dies ist auch<lb/>
+der Grund, weshalb ich dem Wunsch <name type="person" ref="per:97668">Kreiskys</name> Verständnis entgegen bringe,<lb/>
+der nach seinem letzten Besuch in München mit dem GD <name type="person" ref="per:125811">Kuenheim</name> dahin<lb break="no"/>gehend Gespräche geführt hat, man solle auch in der Regierung mehr<lb/>
+BMW fahren. Außer Außenminister <name type="person" ref="per:108328">Pahr</name> fährt fast alles Mercedes, diese<lb/>
+wieder kaufen von Österreich wenig. Noch weniger allerdings kauft<lb/>
+Peugeot, die Franzosen, nämlich angeblich gar nichts, ein Umsteigen da<lb break="no"/>her von Peugeot auf BMW wäre volkswirtschaftlich entsprechend wirklich<lb/>
+begründet. Mir unerklärlich legen diese Autofirmen größten Wert da<lb break="no"/>rauf, daß eben Regierungsmitglieder oder sonstige hochgestellte Per<lb break="no"/>sönlichkeiten mit ihren Marken fahren. Ob dies was bringt, bezweifle<lb/>
+ich. In der Autobranche war das Prestige aber immer von größter Be<lb break="no"/>deutung.<lb/>
+</p>
+            <pb n="64-0397" facs="64_1982-03-30_0397.jpg"/>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte die <choice><choice><sic>autotiven</sic><corr>automotiven?</corr></choice></choice> Lieferungen für mich<lb/>
+für die einzelnen Marken zusammenstellen lassen und dann mit <name type="person" ref="per:115009">Wal<lb break="no"/>ter</name>, Peugeotvertreter, sprechen.<lb/>
+</p>
+            <p xml:space="preserve">Dr. <name type="person" ref="per:97646">Koppe</name> möchte ein Kuratorium für Haushaltsunfälle. Dafür würde<lb/>
+er zusätzlich ca. 7 Mio. S pro Jahr brauche, er erwartet, daß das Han<lb break="no"/>delsministerium dieses Kuratorium führt und dafür 500.000 S bereit<lb break="no"/>stellt. Die anderen 6 1/2 Mio. S würde er von Interessensvertretungen<lb/>
+und Auftragseinnahmen decken wollen, dazu sehe ich keine Möglichkeit<lb/>
+das Kuratorium für Verkehrssicherheit, eine ähnliche Konstruktion<lb/>
+hat seinerzeit nur leben können, weil die Autoversicherungen dort<lb/>
+Millionenbeträge reingezahlt haben. Da dieses Kuratorium überhaupt<lb/>
+erst Sinn hat bis das Gesetz gegen gefährliche Produkte im Parlament<lb/>
+verabschiedet ist, andererseits aber wenn die Handelskammer erfährt,<lb/>
+wenn jetzt wieder ein neues Kuratorium geschaffen werden soll, die<lb/>
+Widerstände gegen dieses Gesetz nur noch größer werden, vereinbaren<lb/>
+wir, jetzt überhaupt nichts zu machen. Außerdem erklärt Staatssekretär<lb/>
+<name type="person" ref="per:109808">Albrecht</name> mit Recht <name type="person" ref="per:97646">Koppe</name>, daß er doch innerhalb des VKI sich mehr auch<lb/>
+mit diesem Problem intern beschäftigen sollte, bevor wieder eine neue<lb/>
+Konstruktion kommt. Die finanziellen Mittel werden deshalb sehr spär<lb break="no"/>lich fließen, denn aufgrund des mit dem VKI geschlossenen Vertrages<lb/>
+müssen wir heuer, anstelle der 14 1/2 Mio. S, die wir jetzt schon Sub<lb break="no"/>vention geben, mit 17 Mio. S rechnen. Die Interessensvertreter nämlich<lb/>
+haben beschlossen, ihr Vereinsbudget zu erhöhen unser Syndikatsvertrag<lb/>
+sagt, daß wir dann automatisch dann diese Erhöhung bei uns auch im<lb/>
+Handelsbudget entsprechend bezahlen müssen.<lb/>
+</p>
+            <p xml:space="preserve">Der Maler <name type="person" ref="per:113831">Hausner</name> hat ein Österreichbild für die ÖFVW gemalt, bei<lb/>
+<name type="person" ref="per:122025">Piller</name> <add>[evtl. Falschidentifikation, Anm.]</add> wurde es angedruckt, einmal mehr wieder ein Spektakel, zu dem<lb/>
+etliche Besucher gekommen sind, am meisten beeindruckend für mich war,<lb/>
+daß man dort eine riesige Kapelle aufgeboten hat, die Maschinen machen<lb/>
+zwar Lärm genug, die Kapelle dann auch noch gespielt, man konnte sich<lb/>
+kaum mit den Leuten unterhalten, für mich war es aber am interessan<lb break="no"/>testen mit der Rolanddruckergruppe, immerhin 4 Mann Bedienung, über<lb/>
+Details der Maschinen und, wenn man so will, über meinen ehem. Beruf<lb/>
+sich zu unterhalten<lb/>
+</p>
+            <p xml:space="preserve">Der Bezirksvorsteher hat im eigenen Namen veranlaßt durch den Freien<lb/>
+Wirtschaftsverband zu einem Unternehmerforum Landstraße eingeladen.<lb/>
+Dort hat der Univ.Prof. von der TU <name type="person" ref="per:1137430">Detter</name> einen sehr interessanten<lb/>
+Vortrag gehalten. Die Z-Organisation Innova, welche Kleinunternehmer<lb/>
+berät, um die zweckmäßigsten Investitionen durchzuführen, hatte dies<lb/>
+<pb n="64-0398" facs="64_1982-03-30_0398.jpg"/>auch mitorganisiert. <name type="person" ref="per:1137430">Detter</name> war seinerzeit im Abendkurs der AK techn.-<lb/>
+gewerbliche Abendschule tätig. Leider sind zu dieser Veranstaltung<lb/>
+nur wenige Unternehmer meistens unsere Bezirksräte und sonstige Manda<lb break="no"/>tare und Funktionäre der Landstraße gekommen. Diese Veranstaltung<lb/>
+hat also nicht den gewünschten Erfolg gehabt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:111737">MARSCH</name> UND <name type="person" ref="per:108746">HAFFNER</name>: Mit <name type="person" ref="per:1137430">Detter</name> solltet ihr mehr Kontakt<lb/>
+halten.<lb/>
+</p>
+            <p xml:space="preserve">In der Bezirksausschußsitzung berichtete ich dann über die wirtschaft<lb break="no"/>liche und politische Situation, ohne daß ich auf meinen Bericht darauf<lb/>
+einging, wurde ich dann in der Diskussion gefragt, was es mit dem<lb/>
+Streit <name type="person" ref="per:97891">Salcher</name> – <name type="person" ref="per:97668">Kreisky</name> auf der einen Seite und <name type="person" ref="per:97311">Androsch</name> auf der ande<lb break="no"/>ren Seite wegen der Herald Tribune für Bewandtnis hat. Unwahrscheinlich,<lb/>
+wie unsere Funktionäre immer von dieser Auseinandersetzung sensibili<lb break="no"/>siert sind.<lb/>
+</p>
+            <p xml:space="preserve">Die Region Kaprun-Zell am See hat sich beim Heurigen sozusagen präsen<lb break="no"/>tiert, ich bin dann spät abends doch noch vorübergefahren, da ich<lb/>
+die Bürgermeister sehr gut kenne, vor allem aber wegen der Fremdenver<lb break="no"/>kehrsverantwortlichen <name type="person" ref="per:1137760">Kati</name> unbedingt vorüberfahren mußte, habe ich<lb/>
+dort der Region noch entsprechende Avancen gemacht. Bgm. von Kaprun<lb/>
+hatte in der Zwischenzeit <name type="person" ref="per:131107">Grossendorfer</name> schon seine Subventionswünsche<lb/>
+überreicht. Da zwei Zeller Hoteliers, einer auf der Klampfen und der<lb/>
+andere auf der Knopferlharmonika, für die Unterhaltung sorgten, war<lb/>
+es dann selbstverständlich, daß wir dann mit der Mundharmonika im<lb/>
+Terzett halt ein paar Lieder daherdudelten. Die Stimmung war gut, die<lb/>
+Vorstellung bringt aber meiner Meinung nach nicht allzu viel, ich bin<lb/>
+sehr gespannt, was die Medien über diese Veranstaltung berichten. Es<lb/>
+kommen zwar viele Redakteure auch viele ORF Leute ob sie war bringen<lb/>
+ist zweifelhaft. Der <name type="person" ref="per:122025">Piller</name>-Andruck dagegen von <name type="person" ref="per:113831">Hausner</name>, wurde mir berich<lb break="no"/>tet, war sehr wohl im Fernsehen gezeigt worden. Meiner Meinung nach<lb/>
+muß man sich eben immer etwas Neues einfallen lassen und muß vor allem<lb/>
+neue Präsentationswege gehen. Heurigenveranstaltungen sind heute schon<lb/>
+auf der Tagesordnung, bringen meiner Meinung nach außer einem gesunden<lb/>
+Umsatz für das Lokal sehr wenig.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="64_0384_01" facs="64_1982-03-30_0384-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 30.3.1982</head>
+         </div>
+         <pb n="64_0384_02" facs="64_1982-03-30_0384-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+         <pb n="64_0398_01" facs="64_1982-03-30_0398-01.jpg"/>
+         <pb n="64_0398_02" facs="64_1982-03-30_0398-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesordnung 127. Ministerratssitzung, 30.3.1982</head>
+            <gap reason="sampling"/>
+            <pb n="64_0398_03" facs="64_1982-03-30_0398-03.jpg"/>
+         </div>
+         <pb n="64_0398_04" facs="64_1982-03-30_0398-04.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>hs. Notiz (TO Ministerratssitzung Rückseite)</head>
+         </div>
+         <pb n="64_0398_05" facs="64_1982-03-30_0398-05.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Nahctrag TO 127. Ministerratssitzung, 30.3.1982</head>
+         </div>
+         <pb n="64_0398_06" facs="64_1982-03-30_0398-06.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>hs. Notizen (Nachtrag TO MR-Sitzung Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

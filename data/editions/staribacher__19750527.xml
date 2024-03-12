@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstag, der 27. Mai 1975</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band26_1975-05-27</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1975-05-27">Dienstag, 27. Mai 1975</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-12-10">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="26-0633" facs="26_1975-05-27_0633.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Dienstag, 27. Mai 1975<lb/>
+</p>
+            <p xml:space="preserve">Landesstatthalter <name type="person" ref="per:116913">Mandl</name> fragt nun telefonisch, wie die Abwicklung<lb/>
+des Abtretungsvertrages der Aktien an das Land Vorarlberg von den<lb/>
+Illwerken weitergehen soll. Er möchte unbedingt noch in dieser<lb/>
+Legislaturperiode die gesetzliche Regelung. Im Laufe des Telefonats<lb/>
+sieht er ein, dass dies kaum möglich ist und erklärt sich bereit,<lb/>
+wenn der Anspruch des Landes sonst wie sichergestellt wird. Damit<lb/>
+habe ich von ihm selbst diesen Vorschlag, den er als ihn vor nicht<lb/>
+langer Zeit <name type="person" ref="per:97333">Bandhauer</name> machte, entrüstet ablehnte, wahrscheinlich die<lb/>
+einzig mögliche Lösung mit ihm vereinbart. Vorarlberg wird die<lb/>
+Fallfrist im August durch die Erklärung des Finanzministers nicht<lb/>
+versäumen.<lb/>
+</p>
+            <p xml:space="preserve">Vor der Ministerratsbesprechung fragt <name type="person" ref="per:97668">Kreisky</name> ohne die Beamten wieso<lb/>
+es möglich ist, dass der OECD-Bericht in seiner Argumentation jetzt<lb/>
+ganz der ÖVP Rechnung trägt. Ich kenne den Bericht noch nicht, doch<lb/>
+weiss ich, dass <name type="person" ref="per:98034">Veselsky</name> mir am Vortag sagte, die OECD hätte im erste<lb/>
+Entwurf, den er zur Stellungnahme bekommt, den Bruttonational<lb break="no"/>produktzuwachs wesentlich reduziert, mindestens um 2 %, so dass<lb/>
+maximal ein 0 bis 1/2 %-iges Wachstum herauskommen würde. <name type="person" ref="per:97668">Kreisky</name><lb/>
+meint, dies hätte nicht einmal das Wirtschaftsforschungsinstitut<lb/>
+von Österreich gemacht sondern in seinem neuesten Bericht immer<lb/>
+von 2,5 %-igem Wachstum gesprochen. <name type="person" ref="per:98034">Veselsky</name> erklärt, nicht zu<lb/>
+wissen, wie dies möglich ist, der Grund dürfte aber darin liegen,<lb/>
+dass die OECD auf Grund der Aussenhandelsrelationsverflechtungen<lb/>
+errechnet, dass die einzelnen Länder ihre Exportziffern und -<choice><choice><sic>vorschläge</sic><corr>?</corr></choice></choice><lb/>
+nicht erreichen kann. Zumindestens haben die Prüfer seinerzeit,<lb/>
+als ich mit ihnen gesprochen habe, diesbezügliche Andeutungen gemacht.<lb/>
+Was mich persönlich vielmehr aufregen würde, ist die Behauptung<lb/>
+in dem Bericht, dass die Bundesregierung nichts gemacht hat, um<lb/>
+die Vollbeschäftigung zu erhalten. <name type="person" ref="per:98034">Veselsky</name> meint, den Bericht kennt<lb/>
+noch niemand, <name type="person" ref="per:97668">Kreisky</name> argumentiert aber mit Recht, sobald im<lb/>
+Bundeskanzleramt der Bericht nur abgezogen wird, ist er überzeugt,<lb/>
+dass ihn auch die andere Seite hat. <name type="person" ref="per:97668">Kreisky</name> kritisiert bei dieser<lb/>
+Gelegenheit gleich wieder die Vorgangsweise einzelner Ökonomen<lb/>
+er verweist insbesondere auf <name type="person" ref="per:97627">Kienzl</name>, der ununterbrochen Prognosen<lb/>
+stellt und bei dieser Gelegenheit gleich wieder als höchstbezahlter<lb/>
+Angestellter der Republik Zurückhaltung verlangt und meint, sogar<lb/>
+<pb n="26-0634" facs="26_1975-05-27_0634.jpg"/>es sei ein Sauhaufen unter den Ökonomen. Ich fühle mich überhaupt<lb/>
+nicht angesprochen, weil ich letzten Endes niemals für die<lb/>
+sozialistischen Ökonomen verantwortlich war, <name type="person" ref="per:97668">Kreisky</name> hat sich ja<lb/>
+immer alles selbst vorbehalten und er hätte eben mehr koordinieren<lb/>
+müssen. Es genügt eben nicht einmal während der ganze Legislatur<lb break="no"/>periode die Ökonomen zu einer grossen Show zusammenzuziehen sondern<lb/>
+man muss eben mehr Kontakt halten.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Ankunft des sowjetischen Aussenhandelsministers <name type="person" ref="per:112951">Patolitschew</name><lb/>
+bespreche ich sofort mit ihm das Programm und wir einigen uns, das<lb/>
+informelle Abendessen bei Wegenstein zu streichen. Dies ist mir<lb/>
+nicht nur aus Zeitgründen angenehm sondern ich bin nicht ganz über<lb break="no"/>zeugt, ob <name type="person" ref="per:112951">Patolitschew</name> wirklich verstanden hätte, wenn wir in dieses<lb/>
+Lokal gegangen wären. Das Essen ist dort zweifelsohne besser als<lb/>
+in jedem Nobelrestaurant, aber leider kommt es bei manchen Leuten<lb/>
+viel mehr auf die äussere Form an als auch den Inhalt. <name type="person" ref="per:112951">Patolitschew</name><lb/>
+möchte übrigens alles nach 6 Uhr abends am liebsten streichen.<lb/>
+</p>
+            <p xml:space="preserve">Vom Botschafter <name type="person" ref="per:97336">Bauer</name>, DDR, Berlin, erhalte ich ein Schreiben, wo er<lb/>
+mir mitteilt, dass er erfahren hat, <name type="person" ref="per:97581">Igler</name> möchte in Berlin so wie<lb/>
+die VÖEST-Alpine mit Hilfe eines Konsortialvertrages ein Büro<lb/>
+errichten. Staatssekretär <name type="person" ref="per:97343">Beil</name> prüft diese Anregung. <name type="person" ref="per:97336">Bauer</name> hat Be<lb break="no"/>denken, dass dadurch die Vertretung Österreichs in der DDR zer<lb break="no"/>splittert wird. Da die Handelskammer mit ihrer Aussenstelle davon<lb/>
+am stärksten betroffen wird, bitte ich <name type="person" ref="per:97769">Mussil</name> zu mir. Als er dies<lb/>
+liest, ist er im wahrsten Sinne des Wortes am Boden zerstört. Die<lb/>
+Handelskammer hat immer geglaubt, ich würde ihren Apparat zer<lb break="no"/>stören und nun beginnt dies systematisch <name type="person" ref="per:97581">Igler</name> zu machen. Die Handels<lb break="no"/>kammer hatte nämlich schon bei der Errichtung von dem VÖEST-Alpine-<lb/>
+Büro grosse Bedenken, hat sie aber dann zurückgestellt. Bei <name type="person" ref="per:97581">Igler</name><lb/>
+sieht dies ganz anders aus. Auch dann, wenn er für die Schoeller-<lb/>
+Bank eine diesbezügliche Politik immer wieder und überall macht.<lb/>
+Ich erkläre <name type="person" ref="per:97769">Mussil</name>, sie werden noch froh sein, wenn ich nach dem<lb/>
+Oktober als Handelsminister bleibe, obwohl ich ihm sage, dass ich<lb/>
+dieses Geschäft lieber heute als morgen los sein möchte. <name type="person" ref="per:97769">Mussil</name><lb/>
+bittet um eine Abschrift des Briefes und meiner Antwort, wo ich<lb/>
+nämlich <name type="person" ref="per:97336">Bauer</name> mitteile, dass ich seine Meinung teile, dass eine<lb/>
+Zersplitterung unzweckmässig ist und ich daher nach Rücksprache mit<lb/>
+der Handelskammer ihm eine längere Information schicken werde.<lb/>
+</p>
+            <pb n="26-0635" facs="26_1975-05-27_0635.jpg"/>
+            <p xml:space="preserve">Ich verweise <name type="person" ref="per:97769">Mussil</name> auch auf das Problem Evidenzbüro Bagdad<lb/>
+wo er von mir einen Brief bekommen hat, den er scheinbar<lb/>
+noch nicht kennt. <name type="person" ref="per:97581">Igler</name> ist scheinbar von allen Göttern ver<lb break="no"/>lassen und daher mit Blindheit geschlagen, denn alles hätte er<lb/>
+sich erlauben dürfen, nur nicht zu versuchen, die Aussenhandels<lb break="no"/>organisation zu ändern. Wie die Verhältnisse zwischen Handelskammer<lb/>
+und Industriellenvereinigung gespannt sind, erfahre ich erst jetzt<lb/>
+dass die Frau <name type="person" ref="per:97769">Mussils</name> bereits aus der Industriellenvereinigung<lb/>
+ausgeschieden ist. Ich mache <name type="person" ref="per:97769">Mussil</name> sofort das Angebot, sie<lb/>
+soll in das Handelsministerium kommen. Wenn es eines Loyal-Be<lb break="no"/>weises von mir bedurft hätte, so wäre er zweifelsohne durch mein<lb/>
+kooperatives Verhalten in der Aussenhandelsstellenfrage erbracht.<lb/>
+Jetzt kontrastiert das noch viel mehr als früher, wo <name type="person" ref="per:97581">Igler</name> diesen<lb/>
+Fehler machte. Der ehemalige Generaldirektor von Siemens, <name type="person" ref="per:97528">Hecke</name>,<lb/>
+als Königsmacher mit <name type="person" ref="per:97893">Sallinger</name> gemeinsam haben sie <name type="person" ref="per:97581">Igler</name> erkoren,<lb/>
+haben hier für die Industriellenvereinigung zweifelsohne einen<lb/>
+Initiativen tüchtigen Mann gefunden aber für die Handelskammer<lb/>
+sich die härteste Konkurrenz geschaffen.<lb/>
+</p>
+            <p xml:space="preserve">Durch Zufall war <name type="person" ref="per:97769">Mussil</name> noch anwesend als <name type="person" ref="per:97563">Hofstetter</name> mit ZS<lb/>
+<name type="person" ref="per:112942">Braun</name> und den Leitern des Berufsforschungsinstitutes kamen,<lb/>
+um die unbefriedigende Entwicklung der Verhandlungen mit der<lb/>
+Handelskammer zu berichten. Vorher hatte ich mit <name type="person" ref="per:97563">Hofstetter</name><lb/>
+und <name type="person" ref="per:97769">Mussil</name> ein 6-Augen-Gespräch und verlangte, dass wir uns<lb/>
+unbedingt jetzt endgültig einigen. Die Idee, jetzt eine Arbeits<lb break="no"/>gemeinschaft wieder nur zu gründen, lehnte ich ab und verlangte,<lb/>
+dass es zu einer Vereinsgründung ähnlich der Konsumenteninformation<lb/>
+kommt. <name type="person" ref="per:97769">Mussil</name> ist im Prinzip damit einverstanden und in den Detail<lb break="no"/>besprechungen ergab sich dann, dass er seinem Vorstand berichten<lb/>
+wird, wobei das Haupthindernis ist, dass jetzt bereit 8 Leute<lb/>
+von uns dort beschäftigt sind, er überhaupt nur 3 Leute zur Verfügung<lb/>
+stellen könnte. Eine Parität von 16 Beschäftigten wäre aber<lb/>
+überhaupt nicht möglich. <name type="person" ref="per:97769">Mussil</name> ist damit einverstanden, wenn<lb/>
+man im Prinzip nur anerkennt, dass er wenn er jemanden hat und<lb/>
+wenn sich dort die Notwendigkeit ergibt, ergänzende Nominierungen<lb/>
+ins Büro durchführen kann. Das Budget wird grösstenteils durch<lb/>
+Forschungsaufträge, derzeit hat das Institut 3 Mill. pro Jahr,<lb/>
+zu decken sein. Die Handelskammer hat sogar vorgeschlagen,<lb/>
+<pb n="26-0636" facs="26_1975-05-27_0636.jpg"/>wenn es zu einer Arbeitsgemeinschaft käme, dass sie je 2 Mill. S<lb/>
+Startkapital von jeder Interessenvertretung erwarten. <name type="person" ref="per:97769">Mussil</name><lb/>
+lehnt diese Vorgangsweise aber ab und wird sich dafür einsetzen,<lb/>
+dass der Verein ähnlich der seinerzeitigen Konstruktion, wie die<lb/>
+Handelskammer in die Konsumenteninformation gekommen ist, konsti<lb break="no"/>tuiert werden soll.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: Bitte beteilige Dich an diesen Gesprächen<lb/>
+und trachte, dass es jetzt zu einem endgültigen Abschluss kommt.<lb/>
+</p>
+            <p xml:space="preserve">Vom Finanzministerium ist <name type="person" ref="per:110130">Kaber</name> mit seinen Herren <name type="person" ref="per:123331">Kinast</name>, den dritten<lb/>
+kenne ich nicht, zu <name type="person" ref="per:97584">Jagoda</name>, <name type="person" ref="per:111367">Würzl</name> und <name type="person" ref="per:97469">Gehart</name> gekommen, um die weitere<lb/>
+Vorgangsweise bei Bürges zu besprechen. <name type="person" ref="per:111367">Würzl</name> hätte einen Vorschlag<lb/>
+gemacht, den mir <name type="person" ref="per:110130">Kaber</name> erklärt, dass man nämlich nicht alles sofort<lb/>
+auf Prämien umstellen soll sondern auch. Zinsenzuschüsse lässt<lb/>
+in der Wahlfreiheit des Ansuchenden. Die Prämie wird er dann bean<lb break="no"/>spruchen, wenn er keine Gewinne hat, denn dann kann er sie<lb/>
+aktivieren und in den weiteren Jahren abschreiben, hat er aber hohe<lb/>
+Gewinne, dann wird er den Zinsenzuschuss verwenden, weil er ansonsten<lb/>
+durch die Prämie einen ausserordentlichen Ertrag hat, den er versteuern<lb/>
+muss. Mir gefällt die Idee des wahlweisen sehr gut, weil es ein<lb/>
+erster Schritt zu meinem Konzept hin ist und ich vor allem damit<lb/>
+dem Angriff, die Grenze von 200.000 auf 300.000 zu erhöhen, glaube<lb/>
+parieren zu können.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Vorbesprechung hat mich Min.Rat <name type="person" ref="per:97722">Marhold</name> aufmerksam gemacht,<lb/>
+dass <name type="person" ref="per:110130">Kaber</name> die Idee hat, für die Finanzierung der Elektrizitäts<lb break="no"/>werke wie Zinsenzuschüsse, die man bei Kreditaufnahmen anstelle<lb/>
+von Direkteinschüssen des Bundes zahlen will, in meinem Budget<lb/>
+verankern möchte. Dies würde bedeuten, dass ich alle Jahre zu<lb/>
+streiten hätte, ob ich die Ansätze bekomme. Bei kritischer Budget<lb break="no"/>lage würde jeder Finanzminister dann sagen, ich müsste halt woanders<lb/>
+ein bisschen mehr sparen, um diese Verpflichtungen erfüllen zu<lb/>
+können. Als ich daher jetzt bei der Sitzung diesen Vorschlag zur<lb/>
+Sprache zu bringen, ablehne, sieht <name type="person" ref="per:110130">Kaber</name> dies ein und meint, dann<lb/>
+werden sie es eben weiterhin im Finanzministerium budgetieren.<lb/>
+<name type="person" ref="per:110130">Kaber</name> ist übrigens einer der tüchtigsten Beamten des Finanzmini<lb break="no"/>steriums und wäre, so sagt <name type="person" ref="per:97722">Marhold</name>, auch Leiter der Budgetsektion ge<lb break="no"/>worden, wenn er nicht so prononciert ÖVP-Mann wäre. <name type="person" ref="per:110130">Kaber</name> heisst<lb/>
+<pb n="26-0637" facs="26_1975-05-27_0637.jpg"/>nicht nur mit dem Spitznamen "Der Goscherte", sondern er ist sicher<lb break="no"/>lich der Typ des Beamten, den ich liebe. Der jetzige Sektions<lb break="no"/>leiter heisst "der Giletwickerl", ein nobler Herr, ich kenne ihn<lb/>
+zwar nicht, er soll aber an <name type="person" ref="per:110130">Kaber</name> nicht heranreichen. Ich hätte<lb/>
+an <name type="person" ref="per:97311">Androschs</name> Stelle, da auch Giletwickerl sicher ein Schwarzer ist,<lb/>
+den Tüchtigeren gewählt. Angeblich hat <name type="person" ref="per:97311">Androsch</name> <name type="person" ref="per:110130">Kaber</name> erklärt, er<lb/>
+sei zu sehr politisch exponiert.<lb/>
+</p>
+            <p xml:space="preserve">Bezüglich des Baubeschlusses von Abwinden-Asten ersuche ich <name type="person" ref="per:110130">Kaber</name>,<lb/>
+er soll zumindestens erreichen, dass der Finanzminister eine Ab<lb break="no"/>sichtserklärung der Bezahlung der Mehrzweckanlage in einem Brief<lb/>
+an die Donau für die Aufsichtsratssitzung am 6.7., eine Art Zustim<lb break="no"/>mung zur Bezahlung gibt. Der Baubeschluss muss gefasst werden.<lb/>
+<name type="person" ref="per:110130">Kaber</name> sieht dies ein, meint aber, wir müssten darauf drängen,<lb/>
+dass sein Akt, den er vor längerer Zeit dem Büro übergeben hat, end<lb break="no"/>lich vom Finanzminister akzeptiert wird. Ich erkläre sofort, dass<lb/>
+der Finanzminister sich halt jetzt bei der budgetären Situation<lb/>
+nicht heraussieht und nicht für 1,7 Mia., so hoch ist bereits die<lb/>
+Mehrzweckanlage, allerdings ohne Prüfung des Finanzministeriums,<lb/>
+gestiegen, nicht ohne weiteres Zustimmen kann. <name type="person" ref="per:110130">Kaber</name> sagt, dass<lb/>
+der Finanzminister der entscheidungsfreudigste war, den er jemals<lb/>
+gehabt hat, in der letzten Zeit aber alles liegen lässt. Ich kann<lb/>
+dies voll verstehen, da er sich bei der momentanen budgetären Situa<lb break="no"/>tion eben nicht anders heraussieht. Alle Einnahmen müssen für Be<lb break="no"/>zahlung der Gehälter herangezogen werden und die Beamten verschlin<lb break="no"/>gen einen immer grösseren Teil.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97469">GEHART</name>: Bitte versuche <name type="person" ref="per:110922">Vranitzky</name> nochmals davon zu<lb/>
+überzeugen, dass wir diese Absichtserklärung zumindestens brauchen.<lb/>
+Ich werde mit <name type="person" ref="per:97311">Androsch</name> auch sprechen.<lb/>
+</p>
+            <p xml:space="preserve">Bei der ersten inoffiziellen Besprechung mit <name type="person" ref="per:112951">Patolitschew</name> bringe<lb/>
+ich insbesondere die Gaslieferungen und Stromlieferungen zur Spra<lb break="no"/>che. <name type="person" ref="per:112951">Patolitschew</name> kann keine weiteren Zusagen bezüglich Gasmengen<lb/>
+über die 250 Mill. m³ bis 1978 und dann 500 Mill. m³, die wir<lb/>
+ja bereits abgeschlossen haben, machen. Trotzdem verweise ich<lb/>
+darauf, dass wir die Pipeline auf Empfehlung von <name type="person" ref="per:140557">Waitakow</name> und<lb/>
+ganz besonders des damaligen Gasministers <name type="person" ref="per:137889">Kortunow</name> grösser<lb/>
+dimensionierten und dass ich hoffe, dass doch eine grössere Gas<lb break="no"/><pb n="26-0638" facs="26_1975-05-27_0638.jpg"/>menge noch schon im laufenden Vertrag geliefert wird. <name type="person" ref="per:112951">Patolitschew</name> sagt<lb/>
+nur zu, dass man es positiv prüfen wird. Bezüglich der 1 Mia. kWh<lb/>
+müssten jetzt die Techniker die entsprechenden Transportmöglichkeiten<lb/>
+besprechen, erst dann können wir die kommerzielle Seite in Angriff<lb/>
+nehmen. <name type="person" ref="per:112951">Patolitschew</name> fragt an, ob wir der Meinung sind, dass es rentabel<lb/>
+ist, elektrischen Strom anstelle von Kohle zu liefern. Dies bejahe ich<lb/>
+ungeprüft, da allein schon aus Umweltschutzmassnahmen es uns lieber ist<lb/>
+den Strom zu bekommen als Kohle, die wir hier dann verfeuern müssen.<lb/>
+Ich übergebe <name type="person" ref="per:112951">Patolitschew</name> auch dann die Projektlisten.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Erstellung dieser Projektlisten habe ich mich insoferne ge<lb break="no"/>ärgert, als im letzten Moment die Industriesektion, <name type="person" ref="per:98109">Zembsch</name>, eine Er<lb break="no"/>gänzung der Liste brachte und meinte, dies sollte ich ganz einfach<lb/>
+noch nachreichen. Ich habe <name type="person" ref="per:108322">Meisl</name> und <name type="person" ref="per:107939">Römer</name> zu mir gebeten, und <name type="person" ref="per:107939">Römer</name><lb/>
+mit aller Deutlichkeit gesagt, dass eine solche Vorgangsweise von mir<lb/>
+nicht akzeptiert wird. Wenn ich mir nicht das Material ansehe, dann<lb/>
+würden wir zizerlweise den Russen die Unterlagen übergeben, ein<lb/>
+geradezu blamables Vorgehen. <name type="person" ref="per:107939">Römer</name> hat wieder tausenderlei Ausreden<lb/>
+in Wirklichkeit kooperiert nicht die Industriesektion mit Aussen<lb break="no"/>handelssektion. <name type="person" ref="per:114589">Canisius</name> meinte allerdings, die vorgesehenen Projekte<lb/>
+der Industriesektion seien entweder sowieso in Bearbeitung oder voll<lb break="no"/>kommen uninteressant. Ich gehe aber nicht das Risiko ein, dass wenn<lb/>
+ich diese vernachlässige, dann die Industriesektion <name type="person" ref="per:98109">Zembsch</name> womöglich<lb/>
+zu Unternehmen geht und erklärt, ich hätte verabsäumt ihre Interessen<lb/>
+bei <name type="person" ref="per:112951">Patolitschew</name> zu vertreten.<lb/>
+</p>
+            <p xml:space="preserve">Bezüglich des Wunsches der DDSG, das sowjetische Kanalsystem für<lb/>
+Lieferungen nach dem Iran zu benützen ist <name type="person" ref="per:112951">Patolitschew</name> sehr aufge<lb break="no"/>schlossen, weiss allerdings, wie ich nachher aus Bemerkungen von<lb/>
+<name type="person" ref="per:112953">Manschulo</name> entnehme, dass auch dieses System derzeit verstopft ist.<lb/>
+Die grossen Lieferungen in den Iran können so wie auch in andere<lb/>
+arabische Staaten, die jetzt durch den Ölverdienst gross im Geschäft<lb/>
+sind, nicht zeitgerecht durchgeführt werden. Zwei Monate Liegezeit<lb/>
+und Bahnverstopfung ist daher gar nichts aussergewöhnliches. Die<lb/>
+sowjetische Seite wird dies auch prüfen.<lb/>
+</p>
+            <p xml:space="preserve">Aus der Bemerkung <name type="person" ref="per:112951">Patolitschews</name>, dass man 5 Geschäfte einreichen muss,<lb/>
+damit dann zwei zum Zug kommen und deshalb man, wenn man 5 Geschäfte<lb/>
+machen will, 15 Geschäfte entriert, knüpfe ich gleich meinen Wunsch<lb/>
+Reduzierung der Arbeitsgruppen an. Ich versuche <name type="person" ref="per:112951">Patolitschew</name> ausein<lb break="no"/><pb n="26-0639" facs="26_1975-05-27_0639.jpg"/>anderzusetzen, dass wir viele Arbeitsgruppen haben, dass dort viele<lb/>
+Sitzungen stattfinden, und dass es das wichtigste ist, die Unterneh<lb break="no"/>mungen d.h. seine Aussenhandelsstellen mit den österreichischen Firmen<lb/>
+zusammenzubringen. Die grössten und längsten Berichte von noch so<lb/>
+vielen Arbeitsgruppen helfen hier kaum. <name type="person" ref="per:112951">Patolitschew</name> geht leider<lb/>
+auf diesen Vorschlag nicht so ein, wie ich es gerne hätte, ich werde<lb/>
+aber versuchen, es ihm im Laufe der privaten Begleitung ausserhalb<lb/>
+der offiziellen Sitzungen neuerdings zu besprechen.<lb/>
+<name type="person" ref="per:112951">Patolitschew</name> hat wegen der Kommissionitis vor etlichen Jahren eine<lb/>
+diesbezügliche Bemerkung gemacht, die ich damals aufgegriffen habe.<lb/>
+Scheinbar aber ist das sowjetische System aber doch viel zu unbe<lb break="no"/>weglich, denn sonst hätte er sofort auf meine Bemerkungen ein<lb break="no"/>steigen müssen. Ich fürchte also, wir werden über die vielen Kommis<lb break="no"/>sionen und ständigen Sitzungen in Wien und Moskau kaum hinwegkommen.<lb/>
+Wer das nur bezahlen soll, ist mir ein Rätsel. Meine Idee, die Handels<lb break="no"/>kammer heranzuziehen ist von seiten der Russen abgelehnt worden, aber<lb/>
+auch die Handelskammer selbst hat grösste Bedenken.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="26_0632_01" facs="26_1975-05-27_0632-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 27.5.1975</head>
+         </div>
+         <pb n="26_0639_01" facs="26_1975-05-27_0639-01.jpg"/>
+         <pb n="26_0639_02" facs="26_1975-05-27_0639-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesordnung 165. Ministerratssitzung, 27.5.1975</head>
+            <gap reason="sampling"/>
+            <pb n="26_0639_03" facs="26_1975-05-27_0639-03.jpg"/>
+         </div>
+         <pb n="26_0639_04" facs="26_1975-05-27_0639-04.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>hs. Notizen (TO Ministerratssitzung Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der 16. September 1977</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band38_1977-09-16</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1977-09-16">Freitag, 16. September 1977</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-06-20">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="38-1064" facs="38_1977-09-16_1064.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Freitag, 16. September 1977<lb/>
+</p>
+            <p xml:space="preserve">Der Besuch in Brünn verlief wie erwartet. Zuerst besuchte ich<lb/>
+die Messe. Insbesonders zeigten mir die Tschechen den Skoda-Stand<lb/>
+wo Komponenten der Kernkraftwerksausrüstung zu sehen waren. Von<lb/>
+Woronesch gab es ein Modell, wo ein sowjetischer Experte Erklärungen<lb/>
+abgab. Im Detail dürfte er sich aber auch nicht ausgekannt haben,<lb/>
+denn meine Frage, wo die eigentlichen Schutzeinrichtungen zu sehen<lb/>
+sind, konnte er nicht befriedigend beantworten. Er sprach nur immer<lb/>
+davon, das Containment sei sicher, behauptete sogar eines aus<lb/>
+Stahl zu haben, meinte aber damit scheinbar nur die Reaktorumfas<lb break="no"/>sung. Vielleicht aber ist es auch über die tschechische-russische<lb/>
+Übersetzung nicht so deutlich zu erklären gewesen, als ich es<lb/>
+gerne gewusst hätte. Skoda erzeugt jetzt einige Komponenten auch für<lb/>
+Sowjetunion und scheinbar auch für ihre Kraftwerke in <choice><choice><sic>Bohovice</sic><corr>Bohunice?</corr></choice></choice>.<lb/>
+Ursprünglich wollte ich ja gar nicht zur Brünner Messe fahren, wenn<lb/>
+nicht gleichzeitig eine Möglichkeit des Besuches vom Kernkraftwerk<lb/>
+<choice><choice><sic>Bohovice</sic><corr>Bohunice?</corr></choice></choice> eingeplant wird. Dort hätte ich so gerne unsere Fachleute<lb/>
+mitgenommen, damit sie ein konkretes Beispiel eines Woronesch<lb/>
+studieren können. Aus welchen Gründen konnte ich nicht erfahren,<lb/>
+aber auf alle Fälle waren die Besuche, die mir bereits zugesagt wurden,<lb/>
+abgesagt. Als Ausgleich nach Brünn einige Fachleute, vielleicht<lb/>
+sogar einen Vizeminister zu bringen, war für mich vollkommen unin<lb break="no"/>teressant. Da werde ich lieber weiter insistieren um doch noch<lb/>
+einmal nach <choice><choice><sic>Bohovice</sic><corr>Bohunice?</corr></choice></choice> zugelassen zu werden. Min.Präsident <name type="person" ref="per:113616">Štrougal</name><lb/>
+wollte angeblich mit mir auf der Brünner Messe zusammenkommen. Dies<lb/>
+hat mir <name type="person" ref="per:114726">Barčák</name> in Warschau strengst vertraulich mitgeteilt. <name type="person" ref="per:113616">Štrougal</name><lb/>
+hat aber den ersten Sekretär nach Ungarn begleitet. Dies wurde mir<lb/>
+von der ungarischen Delegation, Staatssekretär <name type="person" ref="per:149372">Juhas</name> bestätigt.<lb/>
+<name type="person" ref="per:114726">Barčák</name> entschuldigte sich deshalb bei mir, wobei mir klar war, dass<lb/>
+er ja auch in diesem Fall nichts dafür kann. Am meisten begeistert<lb/>
+war Botschafter <name type="person" ref="per:140703">Pasch</name> und unser HR <name type="person" ref="per:123349">Bittner</name>, die uns an der Grenze<lb/>
+erwarteten von meinem Besuch. Beide meinten, dass es unbedingt<lb/>
+notwendig war, jetzt einen Minister nach der CSSR zu schicken, weil<lb/>
+damit das Klima wesentlich verbessert wird.<lb/>
+</p>
+            <p xml:space="preserve">Bei dem Messebesuch besuchte ich vor allem auch unsere österreichi<lb break="no"/>schen Firmen. Bei der VÖEST-Alpine erfuhr ich, dass im Vorjahr die<lb/>
+VÖEST für 1 Mia. Schilling Kohle und Koks importiert hat und für<lb/>
+523 Mio. Schilling exportieren konnte. Heuer wird eine wesentliche<lb/>
+<pb n="38-1065" facs="38_1977-09-16_1065.jpg"/>Reduktion der Kohle-Koksmengen eintreten, weil die VÖEST<lb/>
+unter Absatzschwierigkeiten leidet. Statt 660.000 Tonnen<lb/>
+Koks-Kohle, 650.000, statt 330.000 Hochofenkoks 280.000, statt<lb/>
+80.000 Tonnen Sinterkoks 60.000. Die angegebenen Bezugsmengen sind<lb/>
+für heuer Höchstmengen. Die anderen Firmen Edelstahl, Plasser &amp;<lb/>
+Theurer, Andritz, Ruthner, die wir ebenfalls besuchten, hatten die<lb/>
+Hoffnung, wenigstens ihre Ausstellungsexponate zu verkaufen.<lb/>
+Andritz und Ruthner aber haben nur Bilder und Besprechungskojen.<lb/>
+Mehr brauchen sie auch in meinen Augen gar nicht. Bei den Ost<lb break="no"/>staaten genügt meiner Meinung nach, wenn die dafür Verantwortlichen<lb/>
+oder mit einem Projekt beschäftigten zur Messe geladen werden, dort<lb/>
+womöglich gut bewirtet und man ihnen die Details erklärt. Da die Ent<lb break="no"/>scheidung letzten Endes ganz oben fällt, ist es wichtig, die Unter<lb break="no"/>läufer selbst bis zum kleinsten Referenten hinab entsprechend zu<lb/>
+beeinflussen. Im arabischen und afrikanischen Raum geschieht dies<lb/>
+mit entsprechenden Anbahnungsspesen. Im Osten ist es wenig kompli<lb break="no"/>zierter.<lb/>
+</p>
+            <p xml:space="preserve">Die Aussprache mit <name type="person" ref="per:114726">Barčák</name> leitete ich, obwohl er daran gar nicht<lb/>
+interessiert war, wie ich aus einer Bemerkung entnahm, doch mit<lb/>
+meinem guten alten System ein. Ich überreichte der tschechischen<lb/>
+Delegation die Liste von Österreich-Exporten und Kooperations<lb break="no"/>wünschen. Wir besprachen sie im einzelnen sogar durch, obwohl <name type="person" ref="per:114726">Barčák</name><lb/>
+nicht bereit war, eine konkrete Zusage, ja oder auch nur Bemerkung<lb/>
+dazu zu machen. Der zweite wichtige Punkt war die Frage des neuen<lb/>
+Handelsabkommens. Die Tschechen haben auf unseren Vorschlag bis<lb/>
+jetzt nicht geantwortet, <name type="person" ref="per:114726">Barčák</name> erklärte sie würden dies noch genauer<lb/>
+studieren und wünschten in das neue Abkommen konkretere Aussagen.<lb/>
+Dies dürfte aber eine reine Ausrede sein, wie mir auch HR <name type="person" ref="per:123349">Bittner</name><lb/>
+versicherte. Die vom Aussenministerium vorgeschlagene Formulierung<lb/>
+ist für die Tschechen unannehmbar. Dafür habe ich sogar Verständnis.<lb/>
+Eine Rücksprache mit Aussenminister <name type="person" ref="per:108328">Pahr</name> ergab, dass auch er die<lb/>
+Meinung vertritt, eine solche Formulierung könne man von Oststaaten<lb/>
+nicht erwarten. Das Aussenamt hat infolge von Helsinki Auskunfts<lb break="no"/>pflicht, Unterstützung von österreichischen Organisationen usw. ver<lb break="no"/>langt, die im Westen sicherlich selbstverständlich ,im Osten aber<lb/>
+absolut unmöglich ist. <name type="person" ref="per:114726">Barčák</name> und ich kamen überein, dass jetzt<lb/>
+die Experten über diese Probleme verhandeln sollen, dass aber nicht<lb/>
+gleichzeitig wieder unzählige Sitzungen ablaufen müssen. Auch hier<lb/>
+ist es für mich klar, dass insbesondere die Ostbeamten sehr gerne<lb/>
+nach dem Westen fahren, weshalb sie langwierige Verhandlungen und Sitzungen<lb/>
+<pb n="38-1066" facs="38_1977-09-16_1066.jpg"/>sehr gerne haben. <name type="person" ref="per:114726">Barčák</name> meinte zu seinem Sektionschef, er sorgte<lb/>
+für Tourismus, was diesen ein wenig erschütterte. Im September<lb/>
+wird noch die Gemischte Kooperationskommission nach Wien kommen,<lb/>
+im November hat man vorgeschlagen, soll die grosse Gemischte<lb/>
+tschechisch-österreichische Kommission des Aussenministeriums in<lb/>
+Wien tagen und zwischendurch soll man über den 10-jährigen Handels<lb break="no"/>vertrag nach Wunsch der Beamten in Prag verhandeln. Ganz sinnlos<lb/>
+stellte sowohl <name type="person" ref="per:114726">Barčák</name> als ich fest. Die Geschäfte werden von den<lb/>
+Firmen abgeschlossen und dort muss es einen besseren Kontakt und<lb/>
+mehr Initiative geben. Die Behörden sowohl tschechischer, als auch ganz<lb/>
+besonders österreichischer Seite, können ja nur immer dann den<lb/>
+Sanctus zu einer solchen Entwicklung aussprechen. Die Beeinflussung<lb/>
+ist minimalst, um nicht zu sagen, null.<lb/>
+</p>
+            <p xml:space="preserve">In Wien erwartete Redakteur <name type="person" ref="per:115174">Swietly</name> von mir eine Stellungnahme<lb/>
+für ZiB 2 zur Äusserung <name type="person" ref="per:140795">Amusegars</name>, Persien würde österreichischen<lb/>
+Atommüll übernehmen, wenn ein diesbezüglicher Antrag käme. Re<lb break="no"/>dakteur <name type="person" ref="per:149400">Mayer</name> hat <name type="person" ref="per:140795">Amusegar</name> in Teheran interviewt und dieser Teil<lb/>
+wurde im Fernsehen übertragen. Zum Glück konnte ich bei meiner<lb/>
+Antwort, was Österreich machen wird, sofort erklären, auch nach der<lb/>
+ersten Ankündigung des Schah, dass Persien den Atommüll Europas<lb/>
+nimmt, habe ich sofort den österreichischen Botschafter in Teheran<lb/>
+beauftragt zu recherchieren und mit dem persischen Botschafter in<lb/>
+Wien eingehend darüber diskutiert. Er versicherte mir, dass es sich<lb/>
+um ein Missverständnis gehandelt hat und dass nicht die Absicht be<lb break="no"/>steht, wie das die deutsche Nachrichtenagentur mitteilte, dass<lb/>
+tatsächlich sofort ein Vertrag abgeschlossen werden kann, wo sich<lb/>
+Persien verpflichtet den Atommüll zu übernehmen. Der Schah hat<lb/>
+nur angedeutet, man sollte so etwas studieren und im Rahmen von<lb/>
+internationalen Verträgen versuchen zu regeln. Selbstverständlich<lb/>
+werde ich jetzt sofort auf diesen Hinweis <name type="person" ref="per:140795">Amusegar</name> neuerdings<lb/>
+Recherchen anstellen. Abends rief dann noch Dir. <name type="person" ref="per:97333">Bandhauer</name> an, um<lb/>
+mir mitzuteilen, dass es zweckmässig wäre, wenn jemand von der KKWP<lb/>
+Frau Minister <name type="person" ref="per:97442">Firnberg</name> nach Teheran begleiten würde. <name type="person" ref="per:97442">Firnberg</name><lb/>
+fährt Dienstag zu einem offiziellen Besuch nach dem Iran.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name>: Bitte <name type="person" ref="per:116707">Janitschek</name> soll sich bereit halten.<lb/>
+</p>
+            <p xml:space="preserve">Botschafter <name type="person" ref="per:97415">Eiselsberg</name>, der zuerst zu seinem Schwager Dr. <name type="person" ref="per:108746">Haffner</name><lb/>
+kommen sollte, dort aber nicht erschien, ist dann spät abends zu<lb/>
+<pb n="38-1067" facs="38_1977-09-16_1067.jpg"/>mir nach Hause gekommen. Er wollte mir unbedingt die Unterlagen<lb/>
+eines grossen Geschäftes der Firma Eisenberg geben. <name type="person" ref="per:110998">Eisenberg</name><lb/>
+war zweimal in Vietnam und hat dort für 500 Mio Dollar einen Rahmen<lb break="no"/>vertrag abgeschlossen. <name type="person" ref="per:97415">Eiselsberg</name> hat in der vietnamesischen<lb/>
+Botschaft in Paris mit einem Vize-Aussenhandelsminister diese<lb/>
+Geschäfte vorbereitet. Unter anderem würde Steyr-Daimler-Puch<lb/>
+für 100 Mio. Dollar in 5 Jahren Traktoren liefern können. Sogar<lb/>
+der Preis mit 185.000 Schilling cif <choice><choice><sic>Hainfong</sic><corr>Haiphong?</corr></choice></choice> für den 768-er<lb/>
+und für den 988-er 278.000 Schilling wurde bereits fixiert. Im<lb/>
+November soll eine Vorführung in Vietnam stattfinden, da diese Trakto<lb break="no"/>ren 50 cm unter Wasser im Reisfeld noch arbeiten müssen. Wenn diese<lb/>
+Bedingung erfüllt ist, steht dem Abschluss angeblich nichts mehr<lb/>
+im Wege. <name type="person" ref="per:110998">Eisenberg</name> hat mit vielen anderen Staaten scheinbar auch<lb/>
+Vorgespräche, den alle wie Engländer, Italiener, Jugoslawen, Brasi<lb break="no"/>lianer, Niederländer sind daran beteiligt. Voraussetzung, meint<lb/>
+<name type="person" ref="per:97415">Eiselsberg</name>, wäre, dass man jetzt eine vietnamesische Delegation<lb/>
+für den 15. - 16. Oktober nach Wien einlädt. Details könnte man mit<lb/>
+dem Vertreter <name type="person" ref="per:110998">Eisenbergs</name>, Hr. Dr. <name type="person" ref="per:119808">Swoboda</name>, in Wien besprechen. Ich ver<lb break="no"/>sicherte <name type="person" ref="per:97415">Eiselsberg</name>, dass wir dieses Projekt sehr unterstützen<lb/>
+werden, ich den Vietnamesischen Aussenhandelsminister einlade,<lb/>
+wen er dann schickt bleibt ihm überlassen. Die ganze Angelegenheit<lb/>
+ist deshalb in meinen Augen in guten Händen, denn im Büro wird Dr.<lb/>
+<name type="person" ref="per:108746">Haffner</name> sein Schwager, diese Frage im einzelnen weiter verfolgen.<lb/>
+Für mich ist nur eines unerklärlich, wie es <name type="person" ref="per:110998">Eisenberg</name> gelingt,<lb/>
+diese Riesenprojekte ohne eine Ausschreibung durchzubringen. Die<lb/>
+Erklärung <name type="person" ref="per:97415">Eiselsberg</name>, dass die Amerikaner in Vietnam noch keine<lb/>
+Chance haben, die Japaner mit 16 Mia Dollar alte Schulden, sich<lb/>
+noch nicht mit den Vietnamesen einigen konnten, die Deutschen dort<lb/>
+auch nicht sehr beliebt sind, die Franzosen als ehemalige Kolonial<lb break="no"/>macht überhaupt in diesen Projekten nicht aufscheinen, ist für mich<lb/>
+noch keine Erklärung. Wenn z.B. allen Ernstes die Absicht besteht<lb/>
+Eisenbahnwaggons zu kaufen, dann könnte allein durch ein heranziehen<lb/>
+der indischen Lieferfirmen sofort ein derartige tiefer Preis von<lb/>
+den Vietnamesen erzielt werden, den wir kaum halten können. <name type="person" ref="per:110998">Eisen<lb break="no"/>berg</name> ist der Meinung, so sagte mir unser Botschafter, dass jetzt<lb/>
+in Vietnam dieselbe Situation wirtschaftlich ist, wie er sie vor<lb/>
+etlichen Jahren in Südkorea vorgefunden hat und dort die besten Ge<lb break="no"/>schäfte machen konnte.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte lass dir <name type="person" ref="per:119808">Swoboda</name> kommen und regle<lb/>
+deren Wünsche bezüglich der Einladung.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="38_1063_01" facs="38_1977-09-16_1063-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 16.9.1977</head>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Montag, der 15. Februar 1971</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band04_1971-02-15</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1971-02-15">Montag, 15. Februar 1971</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-07-25">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="04-0193" facs="04_1971-02-15_0193.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Montag, 15. Feber 1971<lb/>
+</p>
+            <p xml:space="preserve">In der Direktoriumssitzung der ÖFVW schlugen die Länder und die<lb/>
+Bundeshandelskammer – wie erwartet – vor, <name type="person" ref="per:97684">Langer-Hansel</name> neuerdings<lb/>
+zum Geschäftsführer zu bestellen. Ich hatte in einer Vorbesprechung<lb/>
+<name type="person" ref="per:97684">Langer-Hansel</name> auseinandergesetzt, dass ich selbst immer dann für<lb/>
+eine Kandidatur für ihn gewesen bin, wenn die Bundesländer sich dazu<lb/>
+bereit erklären und sie ihn aber dann auch tatsächlich unterstützen.<lb/>
+Gleichzeitig setzte ich aber <name type="person" ref="per:97684">Langer-Hansel</name> auseinander, dass wir in<lb/>
+der Geschäftseinteilung die drei jungen nachstrebenden Leute <name type="person" ref="per:111736">Zolles</name>,<lb/>
+<name type="person" ref="per:136376">Schuster</name> und <name type="person" ref="per:114587">Kübler</name> so verankern müssen, dass sie jederzeit die Mög<lb break="no"/>lichkeit haben, ihre Anordnungen auch gegenüber allen durchzusetzen.<lb/>
+Die Tagesordnung wurde verhältnismässig schnell abgewickelt. Die einzige<lb/>
+Schwierigkeit ergab sich, da <name type="person" ref="per:134296">Poppinger</name> und auch <name type="person" ref="per:134322">Jager</name>, der Sprecher<lb/>
+der Länder, bereits festgestellt hatten, dass wir nur eine Buchhaltungs<lb break="no"/>maschinen kaufen sollten. Die drei Leute, insbesondere <name type="person" ref="per:136376">Schuster</name> aber,<lb/>
+waren bei mir gewesen, um einen Kleincomputer zu bestellen, da sie<lb/>
+glaubten, dass doch mehrere Arbeiten gemacht werden müssten. Ich<lb/>
+konnte dann, ohne dass die beiden – nämlich <name type="person" ref="per:134296">Poppinger</name> und <name type="person" ref="per:134322">Jager</name> – das<lb/>
+Gesicht verloren, einen Beschluss herbeiführen, dass ein Kleincomputer<lb/>
+angeschafft wird, aber welcher noch mit ihnen gemeinsam und der Ge<lb break="no"/>schäftsführung bestimmt werden soll.<lb/>
+</p>
+            <p xml:space="preserve">Ich besuchte Generaldirektor <name type="person" ref="per:122965">Treichl</name> von der CA, um eine Zustimmung von<lb/>
+ihm zu erhalten, dass das Creditanstalt-Lokal in der Kärntner Strasse<lb/>
+vorübergehend zumindestens für die Konditorei Herber zur Verfügung ge<lb break="no"/>stellt werden soll. Die Gerüchte, dass die CA beabsichtige, diese<lb/>
+Filiale stillzulegen, da sie in der Rotenturmstrasse am Stephansplatz<lb/>
+eine modernere gebaut hat, entsprach nicht den Tatsachen. Ganz im<lb/>
+Gegenteil, die CA will diese Filiale ausbauen, da sie befürchtet, im<lb/>
+Zuge der U-Bahn-Regulierung am Stephansplatz ihre dort neu gebaute<lb/>
+Filiale durch Jahre hindurch mehr oder minder behindert zu wissen.<lb/>
+<name type="person" ref="per:122965">Treichl</name> wird aber das ganze Problem unverzüglichst mit seinen Herren<lb/>
+besprechen und mit dann Bescheid zukommen lassen. Obwohl er von einer<lb/>
+Sitzung herausgeholt wurde, hat er dann doch einige andere Probleme<lb/>
+zur Sprache gebracht. Unter anderem wollte er meine Einstellung zum<lb/>
+<name type="person" ref="per:134507">Landegger</name>-Problem – Errichtung einer Zellulosefabrik – wissen. Ich<lb/>
+kam darauf, dass <name type="person" ref="per:134507">Landegger</name> bei der CA die Bankverbindung hat betreffend<lb/>
+seiner Welser Papierfabrik und dass auch von der Bank der Auftrag ge<lb break="no"/><pb n="04-0194" facs="04_1971-02-15_0194.jpg"/>geben wurde, die St.-Michael-Zellulosefabrik unbedingt stillzulegen,<lb/>
+da sie ein ununterbrochener Passiv-Posten ist. Trotzdem glaubt <name type="person" ref="per:122965">Treichl</name><lb/>
+nicht sehr an das <name type="person" ref="per:134507">Landegger</name>-Problem, da er glaubt, dass es sehr<lb/>
+schwer sein wird, die finanzielle Sicherung zu erreichen. Er nimmt<lb/>
+an, dass nur ein Kredit von maximal 6 % eine Rentabilität gewährleisten<lb/>
+würde. Ich teilte ihm mit, dass <name type="person" ref="per:134507">Landegger</name> bei mir erklärt hätte, über<lb/>
+die finanziellen Schwierigkeiten könnte man hinwegkommen. <name type="person" ref="per:122965">Treichl</name> teilte<lb/>
+aber meine Meinung, dass wir unbedingt die Möglichkeit einer Aussprache<lb/>
+zwischen österreichischen Experten und seinem Management herbeiführen<lb/>
+sollten. Ich drückte das so aus, dass ich nur sehenden Auges eine Ent<lb break="no"/>scheidung treffen wollte. Wir kamen dann auch auf das Problem der Lenzin<lb break="no"/>ger Acrylfaserproduktion zu sprechen. <name type="person" ref="per:122965">Treichl</name> selbst steht dem sehr<lb/>
+skeptisch gegenüber, da er glaubt, dass die Produktionseinheit mit<lb/>
+10.000 jato viel zu klein bemessen ist, er ist überzeugt, dass wenn<lb/>
+Lenzing heute mit 10.000 t beginnt, er in kürzester Zeit auf eine<lb/>
+wesentlich grössere Produktionseinheit ausgebaut werden müsste. Ich<lb/>
+stimmte ihm in dieser Frage zu, glaubte aber doch darauf hinweisen zu<lb/>
+müssen, dass Lenzing insbesondere Gen.Dir. <name type="person" ref="per:97938">Seidl</name>, der mit ihm auch ver<lb break="no"/>handelt hat, doch auch hier klar und deutlich zu erkennen gegeben hat,<lb/>
+dass er in der ersten Ausbaustufe mit 10.000 t die Chance hat, seinen<lb/>
+Verkaufsapparat, da er nun ein Faserproduzent ist, einzusetzen, ohne<lb/>
+dass ihm zusätzliche Kosten entstehen. Insbesondere müsste man doch<lb/>
+die Möglichkeit der Frix-Fabrik<add>[?]</add>, die dem BASF-Konzern gehört, nützen.<lb/>
+Frix<add>[?]</add> hat seine Acrylfaserproduktion stillgelegt und derzeit soll ja<lb/>
+die Fabrik von Lenzing um 6 Mill. DM gekauft werden. Wir kamen auch<lb/>
+auf die österreichische Konjunktursituation zu sprechen und <name type="person" ref="per:122965">Treichl</name><lb/>
+teilte meine Auffassung, dass wir derzeit noch sehr sehr gut liegen.<lb/>
+Ich habe mit meinen optimistischen Prognosen bis jetzt immer Glück ge<lb break="no"/>habt. Von <name type="person" ref="per:122965">Treichl</name> erfuhr ich auch, dass eine Holzstudie von <name type="person" ref="per:136377">Wurz</name><lb/>
+existiert, die sich mit dem Problem des österreichischen Waldes be<lb break="no"/>schäftigt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:98053">Wanke</name>: Bitte, diese Holzstudie verschaffen.<lb/>
+</p>
+            <p xml:space="preserve">Die für 5 Minuten angesetzte Aussprache dauerte letzten Endes fast<lb/>
+1 Stunde. Ich weiss, dass sowohl <name type="person" ref="per:98053">Wanke</name>, als auch <name type="person" ref="per:97646">Koppe</name> und <name type="person" ref="per:97543">Heindl</name><lb/>
+meinen, ich sollte mich viel mehr mit grossen Problemen beschäftigen.<lb/>
+Bei diesen Aussprachen gewinne ich aber immer mehr den Eindruck, dass<lb/>
+es ausschliesslich auf die Detailkenntnisse ankommt, Interessant war<lb/>
+noch, dass <name type="person" ref="per:122965">Treichl</name> unbedingt wissen wollte, welche Interessen <name type="person" ref="per:98018">Uher</name> hat.<lb/>
+</p>
+            <pb n="04-0195" facs="04_1971-02-15_0195.jpg"/>
+            <p xml:space="preserve">Ich nützte nämlich die Gelegenheit, um <name type="person" ref="per:98018">Uher</name> gleich bei ihm ent<lb break="no"/>sprechend zu akkreditieren. Er war sehr glücklich von mir zu er<lb break="no"/>fahren, dass <name type="person" ref="per:98018">Uher</name> nicht zu unseren linken Männern gehört, kein<lb/>
+Dogmatiker ist und vor allem nicht als ein Ziel betrachtet, den<lb/>
+Kapitalismus marxistischer Prägung von innen her auszuholen. Schade,<lb/>
+dass mir mein Bonmot nicht eingefallen ist, dass ich von Jahrzehnten<lb/>
+schon prägte, als sowohl <name type="person" ref="per:123124">Kautsky</name>, <name type="person" ref="per:136378">Ausch</name>, <name type="person" ref="per:98087">Wirlandner</name>, alles Marxisten<lb/>
+alten Stils, in die Banken gegangen sind. Damals sagte ich, Aufgabe<lb/>
+eines echten Marxisten ist es eben, den Kapitalismus unter allen Um<lb break="no"/>ständen zu bekämpfen und die wirksamste Waffe, sei den Kapitalismus<lb/>
+von innen, d.h. von den Banken her aufzurollen. In Wirklichkeit haben<lb/>
+diese Marxisten gar nichts anderes getan, als eben in ihrer weiteren<lb/>
+Tätigkeit sehr bald erkannt, dass es im Leben ja doch ganz anders<lb/>
+ausschaut als in der Praxis.<lb/>
+</p>
+            <p xml:space="preserve">Min.Rat <name type="person" ref="per:125823">Hanisch</name> wollte unbedingt mir die Aufgaben, die sein Ressort<lb/>
+betreffen, Wirtschaftliche Landesverteidigung, übernommen hat, expli<lb break="no"/>zieren. Zu diesem Zweck hat er sogar von der Stabsakademie ein<lb/>
+Militär gebracht, der an Hand von Graphiken auseinandersetzte, was<lb/>
+also in der wirtschaftlichen Landesverteidigung noch alles zu machen<lb/>
+ist. Ich selbst komme immer mehr zur Überzeugung, dass <name type="person" ref="per:125823">Hanisch</name> hier<lb/>
+sehr viel Arbeitskraft und Zeit aufgewendet hat. Ich möchte deshalb,<lb/>
+dass diese Arbeitskraft vielmehr noch der Umweltschutzfunktion zu<lb break="no"/>fliesst. Ich glaube nämlich, dass das Sandkastenspiel der Wirtschaftl.<lb/>
+Landesverteidigung nicht allzu viel ergibt, denn im Ernstfall wird sich<lb/>
+sicher alles ganz ganz anders darstellen, als wir es jetzt theoretisch<lb/>
+vorstellen. Ich kann mir nur vorstellen, dass im Ernstfall, wenn es<lb/>
+zu einer kriegerischen Auseinandersetzung im Europa in unserer unmittel<lb break="no"/>baren Nähe kommt, wir dann sowieso keine Zeit haben werden, unverzüg<lb break="no"/>lich die Läden zu schliessen und die Lebensmittelkarten auszugeben und<lb/>
+erst dann die Verteilung vorzunehmen. Wenn sich die Bevölkerung genau<lb/>
+so verhält wie bei der Ungarn und der tschechischen Revolution oder<lb/>
+Unruhen dann wird Österreich ganz schön langsam in eine kriegswirt<lb break="no"/>schaftliche Verteilerwirtschaft übergehen. Wenn die Bevölkerung dagegen<lb/>
+unverzüglich mit Hamsterkäufen beginnt und dies am ersten Tag um 7 Uhr<lb/>
+früh, dann glaube ich bricht unser ganzes System zusammen, ob wir eine<lb/>
+entsprechende Verteilerorganisation theoretisch aufgebaut haben oder<lb/>
+nicht. Ich gestehe, dass ich mich in einem solchen Fall auf die Impro<lb break="no"/>visationskunst der österr. Beamten aber letzten Endes auch der<lb/>
+<pb n="04-0196" facs="04_1971-02-15_0196.jpg"/>verantwortlichen Regierungsmitglieder incl. meiner Person verlasse.<lb/>
+Wenn dies <name type="person" ref="per:125823">Hanisch</name> erfahren würde, glaube ich wäre ich bei ihm unten<lb/>
+durch.<lb/>
+</p>
+            <p xml:space="preserve">Mit <name type="person" ref="per:97893">Sallinger</name> hatte ich eine Sofortbesprechung vereinbart. Ich musste<lb/>
+ihm vom Samstag, der Zusammenkunft der Industriellenvereinigung mit<lb/>
+<name type="person" ref="per:97668">Kreisky</name> berichten und gleichzeitig ihm auch mitteilen, dass durch<lb/>
+meine Intervention <name type="person" ref="per:97668">Kreisky</name> sehr gerne daran interessiert wäre, auch<lb/>
+die Handelskammer bei ihm persönlich privat zu empfangen. <name type="person" ref="per:97893">Sallinger</name><lb/>
+selbst nahm meine Intervention als glaube ich einen positiven Faktor<lb/>
+an, erklärte aber, dass er derzeit ausserstande wäre, sich schon zu<lb/>
+entscheiden, wie und vor allem zu welchem Zeitpunkt eine solche Ein<lb break="no"/>ladung zielführend sein könnte. Da er nächste Woche nach Italien<lb/>
+wegen seines Knies zur Kur reisen muss, werden wir nach seiner<lb/>
+Rückkehr über dieses Problem neuerdings sprechen. Die Wienerberger<lb/>
+haben wegen ihres Kartellvertrages interveniert und er bittet deshalb,<lb/>
+dass das Handelsministerium hier keine Schwierigkeiten machen soll.<lb/>
+Min.Rat <name type="person" ref="per:136381">Hoffmann</name> hat, glaube ich, hier einige Bedenken gegen diese Kartell<lb break="no"/>vereinbarung geäussert. Da bereits <name type="person" ref="per:97741">Millendorfer</name> in der AK-Vorstands<lb break="no"/>fraktion ebenfalls dieses Problem zur Sprache gebracht hatte, sieht<lb/>
+man, dass die Wienerberger überall versuchen, den Kartellvertrag<lb/>
+durchzubringen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: Bitte, Sachverhalt mit <name type="person" ref="per:136382">Auracher</name> und <name type="person" ref="per:136381">Hoffmann</name><lb/>
+klären und mir dann Bescheid sagen.<lb/>
+</p>
+            <p xml:space="preserve">Präs. <name type="person" ref="per:116023">Poppovic</name> kam in seiner Funktion als Präsident des Energie<lb break="no"/>konsumentenverbandes mit Dr. <name type="person" ref="per:136379">Schagginger</name>, einem Herrn von der Glas<lb break="no"/>fabrik Lutzky und der Textilverarbeitung, <name type="person" ref="per:136380">Edlinger</name>. Die ÖMV hat ange<lb break="no"/>kündigt, dass sie den Erdgas-Preis um 8–15 % erhöhen wird. Dies<lb/>
+bedeutet eine entsprechende Preiserhöhung bei den Stadtwerken. Der<lb/>
+Verband hat bei mir angefragt, ob ich bereit bin, die preisbehördlichen<lb/>
+Verfahren einzuleiten, da so ein Schutz der Abnehmer gefunden werden<lb/>
+könnte. Interessanterweise wurde dieser Antrag auch von der Bundes<lb break="no"/>handelskammer Dr. <name type="person" ref="per:134294">Zajicek</name> war anwesend unterstützt. Ich erklärte sofort,<lb/>
+dass ich nicht Interesse habe, hier grosse preisbehördliche Verfahren<lb/>
+einzuleiten, da es garantiert möglich sein wird, immer wieder nachzu<lb break="no"/>weisen, dass entsprechende Kostensteigerungen vorliegen. Mir erschiene<lb/>
+es viel zielführender, ich werde versuchen, mit der ÖMV und den Stadt<lb break="no"/>werken, aber auch mit Niogas zu reden, um eine entsprechende zielführende<lb/>
+<pb n="04-0197" facs="04_1971-02-15_0197.jpg"/>Lösung zu erreichen. Ich rief auch anschliessend sofort danach<lb/>
+die Generaldirektion, Direktor <name type="person" ref="per:97337">Bauer</name> an, der mir mitteilte, dass<lb/>
+sie in den nächsten Tagen eine Aussprache bei Präs. <name type="person" ref="per:97731">Mautner Markhof</name><add>[evtl. Falschidentifikation]</add><lb/>
+haben, wo dieses Problem mit <name type="person" ref="per:97865">Reisinger</name>, <name type="person" ref="per:97496">Gruber</name> und ÖMV-Vertreter<lb/>
+diskutiert werden soll. Ich selbst ersuchte, mich zu dieser Bespre<lb break="no"/>chung auf alle Fälle einzuladen oder zumindestens zu verständigen.<lb/>
+</p>
+            <p xml:space="preserve">In der Ministerratsvorbesprechung teilte <name type="person" ref="per:97668">Kreisky</name> mit, dass heute<lb/>
+Besprechungen mit den fraktionellen Vertreter in der Chemiewirtschaft<lb/>
+stattgefunden haben. Die Direktoren, die Betriebsräte aber auch <name type="person" ref="per:97346">Benya</name><lb/>
+vom ÖGB einigten sich darauf, dass so schnell wie möglich eine<lb/>
+petrochemische Tochtergesellschaft zwischen der ÖMV und den Stick<lb break="no"/>stoffwerken errichtet werden soll. <name type="person" ref="per:97372">Broda</name> ersuchte, ob er wir nicht<lb/>
+die Beförderungsrichtlinien für die Beamten veröffentlichen sollten<lb/>
+oder offiziell bekanntgeben. <name type="person" ref="per:97668">Kreisky</name> wehrte sich ganz entschieden<lb/>
+dagegen, weil dies ersten eine Prärogative des Bundespräsidenten ist<lb/>
+zweitens aber und das ist das Entscheidende, dann sofort ein Rechts<lb break="no"/>anspruch abgeleitet werden könnte. Beförderungsrichtlinien<lb/>
+sind jedem Beamten bekannt, denn die Gewerkschaft hat sie zwar nicht<lb/>
+offiziell erhalten aber natürlich mit der Zeit allen ihren Mitgliedern<lb/>
+und diese dann immer weiter im ganzen Beamtenkreis bekanntgemacht.<lb/>
+<name type="person" ref="per:97525">Häuser</name> verlangte, dass die Vorschläge betreffend Abbau weiterer<lb/>
+Dienstposten um 2 %, das wären 4.400 Beamte, die <name type="person" ref="per:97668">Kreisky</name> für das nächste<lb/>
+Jahr beantragen will, von der Tagesordnung abgesetzt wird. <name type="person" ref="per:97525">Häuser</name> und<lb/>
+auch andere Genossen meinten, es wäre ganz unmöglich, solche generelle<lb/>
+Reduzierungen des Personalstandes vorzunehmen. <name type="person" ref="per:97668">Kreisky</name> erwiderte sofort<lb/>
+und meiner Meinung nach glaube ich sogar zu recht, dass wir in<lb/>
+der ÖVP-Alleinregierung immer wieder dagegen gewettert haben, dass<lb/>
+zu wenig in der Reorganisation der Verwaltung geschieht, jetzt dagegen<lb/>
+würden wir eine schon von der ÖVP-Regierung durchgeführte Personal<lb break="no"/>abbau wieder rückgängig machen. Er beschwerte sich insbesondere und<lb/>
+auch <name type="person" ref="per:97311">Androsch</name> stimmte dem zu, dass wir heuer eine Dienstpostenplan<lb break="no"/>erhöhung durchgesetzt haben, die letzten Endes nur am Papier steht.<lb/>
+Die Länder melden z.B. die notwendigen Lehrer und trotzdem sind<lb/>
+6–7.000 Dienstposten heute unbesetzt, da sie keine Möglichkeit<lb/>
+haben, diese Leute zu finden. <name type="person" ref="per:97311">Androsch</name> teilte auch mit, dass ihm<lb/>
+die ÖBB zugesichert hat, für 1972 2.000 Dienstposten einzusparen.<lb/>
+<name type="person" ref="per:97488">Gratz</name> meinte, man müsste hier funktionell die einzelnen Ressorts<lb/>
+durchgehen und nicht eine Globallösung vorschlagen. Beim funktionellen<lb/>
+Durchgehen fürchte ich nur werden wir dazu kommen, dass neue Beamte<lb/>
+<pb n="04-0198" facs="04_1971-02-15_0198.jpg"/>aufgenommen werden müssen und in Wirklichkeit bei den einzelnen<lb/>
+Dienststellen keine Ersparungen durchgeführt werden. Bei dieser<lb/>
+Gelegenheit wurde auch die Dienstautoproblematik neuerdings aufs<lb/>
+Tapet gebracht. Der Finanzminister sagte, er selbst hätte nur im<lb/>
+Ministerium drei Mercedes während die Landesverteidigung 24 Dienst<lb break="no"/>autos hat. <name type="person" ref="per:97668">Kreisky</name> kam wieder auf seine Taxi-Version zurück und erklärte<lb/>
+hier hätte der ORF eine gute Organisation, die man auch beim Staate<lb/>
+einführen sollte. Als Beispiel wurde darauf hingewiesen, dass die<lb/>
+Dienstautos der Universität Innsbruck eingezogen wurden und jetzt<lb/>
+nur Taxi-Spesen in der Höhe von 500.– bis 1000 S pro Monat anfallen.<lb/>
+<name type="person" ref="per:97632">Kirchschläger</name> berichtete, dass die Gewerbeschule, die in Thailand<lb/>
+mit österr. Unterstützung errichtet wurde, von Ministern dort eröff<lb break="no"/>net wird. Er fragte, ob ich eventuell daran teilnehmen möchte. Ich<lb/>
+hab natürlich sofort abgelehnt, stellte allerdings dann fest, dass<lb/>
+er im Zuge einer Reise, die ihn nicht nur nach Asien, sondern auch<lb/>
+nach Vorderasien bringen sollte, gleichzeitig andere aussenpolitische<lb/>
+Agenden mit erledigen will. <name type="person" ref="per:97668">Kreisky</name> hatte zuerst Bedenken, dass<lb/>
+jemand daran teilnimmt, da damit gerade in dieser kriegerischen<lb/>
+Auseinandersetzung auch Indochina, Thailand besonders in den Mittel<lb break="no"/>punkt kommen könnte und österr. Minister dort als Demonstration ver<lb break="no"/>standen werden könnten. Tunesien wünscht nun durch seinen Geschäfts<lb break="no"/>träger einen 20 Mill. zinsfreien Kredit, rückzahlbar in 10 Jahren.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> war im Prinzip dafür, es soll auf Beamtenebene geklärt werden,<lb/>
+wie die finanzielle Bedeckung aus Entwicklungshilfe gefunden werden<lb/>
+könnte. <name type="person" ref="per:108224">Lütgendorf</name> berichtete über seine Reorganisationsmassnahmen<lb/>
+und dass ihm insbesondere von seinen Leuten hart zugesetzt wird,<lb/>
+weil er angeblich 30 Brigadiere beurlauben resp. pensionieren will.<lb/>
+Es stellte sich heraus, dass <name type="person" ref="per:97668">Kreisky</name> im Bundeskanzleramt durchrechnen<lb/>
+liess, wenn man den Brigadieren die erwarteten 2–3 Stufen gibt und<lb/>
+sie dann in Pension schickt, nur jährliche Kosten von 800.000 S dem<lb/>
+Staat erwachsen würden. Die ganze Aktion könnte natürlich nur auf<lb/>
+freiwilliger Basis durchgeführt werden. Die anschliessende Besprechung<lb/>
+über die Kompetenzregelung, ging verhältnismässig zügig weiter.<lb/>
+Übrig blieben nur das Unterrichtsministerium, und zwar die Frage<lb/>
+der landwirtschaftlichen Schulen, das Land- und Forstwirtschaftsmini<lb break="no"/>sterium und dort die Frage insbesondere der Schulen und der Kompetenz<lb/>
+im Aussenhandel, die Idee, die von <name type="person" ref="per:97668">Kreisky</name> war, der Landwirtschaft<lb/>
+maximalst über die Urprodukte eine Möglichkeit des Exportes und<lb/>
+des Importes zu geben, das Aussenministerium und natürlich unsere<lb/>
+Ministerium.<lb/>
+</p>
+            <pb n="04-0199" facs="04_1971-02-15_0199.jpg"/>
+            <p xml:space="preserve">Auf der Wiener Konferenz erschien Bundespräsident <name type="person" ref="per:97607">Jonas</name> und<lb/>
+hielt eine erste Wahlrede. Er wirkt sehr aufgelockert und<lb/>
+<name type="person" ref="per:97309">Adelpoller</name> meinte, wenn er sich jemals als Bürgermeister sich<lb/>
+so gegeben hätte, er hat damals nur ein ernstes Gesicht gemacht und<lb/>
+niemals gelacht, dann hätten wir mindestens etliche 10.000 Stimmen<lb/>
+damals schon in Wien gewonnen. Bei der Begrüssung haben sich die<lb/>
+Delegierten des 3. Bezirkes wieder den blöden Spass erlaubt, und<lb/>
+bei meinem Namen ein Jubelgeschrei angefangen. Obwohl ich mich<lb/>
+zu ihnen gesetzt habe, um sie zu beeinflussen, dass sie dies nicht<lb/>
+machen sollen, konnte ich es nicht verhindern. Ich habe aber <name type="person" ref="per:112037">Tischler</name><lb/>
+auseinandergesetzt, dass dies nur eine negative Wirkung für mich<lb/>
+haben kann und sie wird sich bemühen, unsere Genossinnen und Genossen<lb/>
+davon zu überzeugen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="04_0192_01" facs="04_1971-02-15_0192-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 15.2.1971</head>
+         </div>
+      </back>
+   </text>
+</TEI>

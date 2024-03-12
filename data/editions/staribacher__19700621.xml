@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sonntag, der 21. Juni 1970</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Joseph Staribacher</collection>
+                  <idno type="signature">Band02_1970-06-21</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1970-06-21">Sonntag, 21. Juni 1970</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-03-24">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-19" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-19" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+  <text xml:base="http://192.168.0.9/staribacher/src/scans/Band02/">
+      <body>
+         <pb n="02-0283" facs="02_1970-06-21_0283.jpg"/>
+         <div type="entry">
+            <dateline>
+               <date when="1970-06-21">Sonntag, 21. Juni 1970</date>
+            </dateline>
+            <p xml:space="preserve">Bei der Konferenz des Freien Wirtschaftsverbandes in NÖ<lb/>
+hatte ich Gelegenheit, das Programm des Handelsministeriums<lb/>
+darzulegen. Bei solchen Konferenzen ist ja meistens so, dass<lb/>
+kaum eine Diskussion stattfindet, so sagte es mir zumindest <name type="person" ref="per:97602">Jodlbauer</name>,<lb/>
+der als Vertreter des Verbandes anwesend war. Und er war daher sehr<lb/>
+erstaunt, dass sich doch etliche Diskussionsredener gemeldet haben.</p>
+            <p xml:space="preserve">Das Motto "Service an der Wirtschaft" kommt sicher gut an, wieweit<lb/>
+sich in diesen Kreisen unsere wichtigste Aufgabe Service an der<lb/>
+Bevölkerung verkaufen kann, weiss ich noch nicht. Ich zumindest<lb/>
+bin nicht ganz davon überzeugt, dass sich alle dort Anwesenden<lb/>
+wirklich für diese Ideen gewonnen habe. Widerspruch hat sich aller<lb break="no"/>dings keiner gezeigt.</p>
+            <p xml:space="preserve">Nachmittags hatte ich mit <name type="person" ref="per:97346">Benya</name> eine längere Aussprache über unsere<lb/>
+Sandkastenspiele und vor allem auch über das Problem <name type="person" ref="per:98043">Waldbrunner</name>.<lb/>
+Ich konnte mich überzeugen, dass <name type="person" ref="per:97668">Kreisky</name> alles daran setzen wird,<lb/>
+um <name type="person" ref="per:98043">Waldbrunner</name> zu einer Kandidatur zu bewegen, denn er teilt die<lb break="no"/>selbe Meinung wie <name type="person" ref="per:97372">Broda</name>, <name type="person" ref="per:97346">Benya</name>, <name type="person" ref="per:97444">Fischer</name> und ich haben. Ich konnte bei<lb/>
+dieser Gelegenheit wieder einmal mehr feststellen, dass das Haupt<lb break="no"/>problem auch in diesem Kreis eine mangelnde Kommunikation sein<lb/>
+kann und dass deshalb sehr leicht Missverständnisse entstehen,<lb/>
+die wahrscheinlich, wenn es zu besseren Kontaktgesprächen zwischen<lb/>
+den Spitzenmännern kommen könnte, möglich wäre,zu verhindern.<lb/>
+Allerdings ergibt sich gerade in einem solchen hohen Niveau die<lb/>
+Hauptschwierigkeit, dass selbst bei besten Willen wahrschein<lb break="no"/>lich dazu notwendige Zeit kaum zu erübrigen ist. Das Problem, wie<lb/>
+ich es momentan sehe, ist dabei folgendes: Es spricht der Partei<lb break="no"/>obmann mit dem Präsidenten des Gewerkschaftsbundes unter vier<lb/>
+Augen, was ich für sehr zweckmässig halte, ergibt das natürlich<lb/>
+vielleicht Spannungen mit dritten Personen innerhalb der Partei,<lb/>
+wenn bei diesem Gespräch, was selbstverständlich ist, bedeutende<lb/>
+Entscheidungen fallen. Spricht dagegen der Parteiobmann nur im<lb/>
+Rahmen des erweiterten Präsidiums, wo der Gewerkschaftspräsident<lb/>
+sowieso dabei ist, hört es ein zu grosser Kreis, ein unlösbares<lb/>
+Problem wie mir scheint.</p>
+         </div>
+      </body>
+    
+  </text>
+</TEI>

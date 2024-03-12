@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstag, der 21. März 1972</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band10_1972-03-21</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1972-03-21">Dienstag, 21. März 1972</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-09-27">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="10-0406" facs="10_1972-03-21_0406.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Dienstag, 21. März 1972<lb/>
+</p>
+            <p xml:space="preserve">Die Voyage en France, d.h. nicht der Staatsbesuch, sondern eben<lb/>
+nur eine Reise nach Frankreich des Bundespräsidenten kann für<lb/>
+mich aber vielleicht auch für die Gesamtbereiche sehr symptomatisch<lb/>
+sein. Obwohl wir zeitgerecht wegfuhren, ist <name type="person" ref="per:139791">Leschner</name> einen Weg ge<lb break="no"/>fahren, den ich nicht einmal kenne und wir kamen daher natürlich<lb/>
+prompt nach dem Bundeskanzler in Schwechat an. Zum Glück war noch<lb/>
+Zeit genug bis zur Ankunft des Bundespräsidenten, auf Umwegen doch<lb/>
+noch zeitgerecht zum Ziel. Diese Reise wurde auch sehr umwegmäßig<lb/>
+geplant. Da Österreich bei einem Staatsbesuch erst in zwei Jahren<lb/>
+an der Reihe wäre, wurde von <name type="person" ref="per:97607">Jonas</name> gedrängt, doch jetzt eine Art<lb/>
+Reise nach Frankreich zu machen. Innenpolitisch ist dies für mich<lb/>
+von allergrößtem Vorteil, weil ich dadurch dokumentieren kann, daß<lb/>
+ich eben, da der Herr Bundespräsident mich nach Frankreich mitge<lb break="no"/>nommen hat, die Gelegenheit habe, über die Integration mit den<lb/>
+höchsten französischen Stellen zu sprechen. Im Flugzeug traf ich<lb/>
+ein Dutzend gute Journalisten, ich hatte schon befürchtet, daß die<lb/>
+Sondermaschine nur von den Begleitung des Herrn Bundespräsidenten<lb/>
+belegt ist. Während der Fahrt korrigierte ich mit <name type="person" ref="per:97632">Kirchschläger</name><lb/>
+gemeinsam noch das Mémoire, <choice><choice><sic>damit</sic><corr>dann mit?</corr></choice></choice> <name type="person" ref="per:97632">Kirchschläger</name> gemeinsam noch das<lb/>
+Aide-Mémoire, welches wir <name type="person" ref="per:114486">Giscard d'Estaing</name> übergeben wollen. Auch<lb/>
+dieses Papier hat mehr innenpolitischen Wert. Ich gebe mich keiner<lb/>
+Illusion hin, daß die Detailwünsche resp. Erläuterungen, die wir<lb/>
+in diesem Papier, das sich weitgehendst an die Vorschläge der Handels<lb break="no"/>kammer anlehnt, auch nur Brüssel-Vertreter jemals sehen wird. Ich<lb/>
+fürchte, da wird ein Akt gemacht werden und es wird abgelegt.<lb/>
+Trotzdem soll niemand sagen, daß wir nicht alles unternommen haben,<lb/>
+um Verhandlungsposition Österreichs zu verbessern. Bei der Ankunft<lb/>
+entdeckte ich einen Protokollfehler. ChefRed. Dr. <name type="person" ref="per:126214">Dalma</name> vom ORF<lb/>
+war den mir zugewiesenen Wagen gekommen und meinte, dies sei ein<lb/>
+Pressefahrzeug, denn mein Wagen müßte ja viel weiter vorne stehen.<lb/>
+Tatsächlich ist es so, daß nach dem Bundespräsidenten der Aussen<lb break="no"/>minister <choice><choice><sic>an</sic><corr>in</corr></choice></choice> einem Wagen mit der Bezeichnung D mit dem franz. Bot<lb break="no"/>schafter <name type="person" ref="per:97690">Leduc</name> und dem österr. Botschafter <name type="person" ref="per:138758">Lemberger</name> und dann erst<lb/>
+<pb n="10-0407" facs="10_1972-03-21_0407.jpg"/>mein Wagen fuhr. In der österreichischen Botschaft diskutierten<lb/>
+wir dann diesen Protokollfehler. Da ich ja alle diese Kuriositäten<lb/>
+sammle hat <name type="person" ref="per:138758">Lemberger</name> zuerst am Anfang geglaubt, daß ich mich ernst<lb break="no"/>lich beschweren würde und meinte ich sollte mit dem franz. Protokoll<lb/>
+die Reihenfolge und alles bestimmen, brechen. Die Diskussion war<lb/>
+sehr interessant, da z.B. <name type="person" ref="per:97632">Kirchschläger</name> glaubte, das Protokoll<lb/>
+sei nicht verletzt worden, er hat ja einen Botschafter als Vertreter<lb/>
+des Staatsoberhauptes gelte. <name type="person" ref="per:138739">Halusa</name> dagegen erklärte sofort, daß<lb/>
+wenn das Staatsoberhaupt selbst anwesend ist, niemals ein Botschafter<lb/>
+selbst als bevollmächtigter Minister als Vertreter des Staatsober<lb break="no"/>hauptes in Erscheinung treten kann. Den Wunsch <name type="person" ref="per:138758">Lembergers</name>, mit dem<lb/>
+franz. Protokoll darüber zu diskutieren, lehnte ich natürlich glatt<lb break="no"/>weg ab, denn es hieße doch dann, daß ich mich um das Protokoll<lb/>
+kümmere und von ihm nicht beeinflussen ließe.<lb/>
+</p>
+            <p xml:space="preserve">Typisch war nur, daß die Journalisten auf die Protokollfragen oder<lb/>
+besser gesagt auf den Ausfluß des Protokolls größten Wert legten<lb/>
+oder daraus zumindestens etwas ablesen möchten. Da nach dem Essen<lb/>
+in der Botschaft der einzige Empfang des Bundespräsidenten bei <name type="person" ref="per:134015">Pompidou</name><lb/>
+auf dem offiziellen Programm stand, wurden die Journalisten zu diesem<lb/>
+Hauptereignis in den Élysée-Palast eingeladen. Als der Bundespräsident<lb/>
+zurückkam, machte er ein sehr betropetztes Gesicht und äußerte<lb/>
+sich überhaupt nicht. In der anschließenden Stadtbesichtigung, wo<lb/>
+wieder Fernsehen, Rundfunk und Journalisten anwesend waren, konnten<lb/>
+wir deshalb überhaupt keine Auskünfte geben. Für mich war dies<lb/>
+weniger peinlich als natürlich für <name type="person" ref="per:97632">Kirchschläger</name>, der bestürmt wurde.<lb/>
+Die Journalisten berichteten, daß <name type="person" ref="per:134015">Pompidou</name> nur einen Schritt Bundes<lb break="no"/>präsident <name type="person" ref="per:97607">Jonas</name> entgegengekommen ist und <name type="person" ref="per:97607">Jonas</name> deshalb mit seinem<lb/>
+wehen Bein die Stiegen mühsam hinaufsteigen mußte. Sie fragten so<lb break="no"/>fort<add>[warum]</add> <name type="person" ref="per:134015">Pompidou</name> <name type="person" ref="per:97607">Jonas</name> nicht am Flugplatz empfangen hat und war man<lb/>
+die Erklärung, daß es sich hier nicht um einen Staatsbesuch handelt,<lb/>
+glaube ich sehr zwiespältig zur Kenntnis. Die Journalisten sind von<lb/>
+dem Empfang in Italien verwöhnt. Als wir anschließend an die Stadt<lb break="no"/>besichtigung Gelegenheit hatten mit dem Bundespräsident zu reden,<lb/>
+stellte sich heraus, daß der Besuch gar nicht so schlecht verlaufen<lb/>
+war, als <name type="person" ref="per:97607">Jonas</name> eigentlich durch Äußeres zu erkennen gab. <name type="person" ref="per:97607">Jonas</name><lb/>
+sagte er war sehr enttäuscht über ein verhältnismäßig frostiges<lb/>
+Klima. In Wirklichkeit war nur das eingetreten, was <name type="person" ref="per:97632">Kirchschläger</name><lb/>
+<pb n="10-0408" facs="10_1972-03-21_0408.jpg"/>bei der Vorbesprechung <name type="person" ref="per:97607">Jonas</name> versuchte einzureden. <name type="person" ref="per:134015">Pompidou</name>,<lb/>
+der derzeit die große Weltpolitik macht, hat natürlich an<lb/>
+österreichischen Detailproblemen kaum ein Interesse. Die Folge<lb/>
+davon war, daß das Gespräch, das nebenbei bemerkt noch über einen<lb/>
+Übersetzer geführt werden konnte, nur langsam in Fluß kam. <name type="person" ref="per:134015">Pompidou</name><lb/>
+anerkannte aber die Bedeutung der Neutralität Österreichs und ins<lb break="no"/>besondere der Lage zwischen dem Ost- und Westblock. Bezüglich der<lb/>
+europäischen Wirtschaftsgemeinschaftsverhandlungen erklärte er, daß<lb/>
+mit 1.1.1973 der Vertrag abgeschlossen sein wird. Das Problem der<lb/>
+sensiblen Produkte sei er jetzt bereits sehr positiv gelöst, weil<lb/>
+der vorgesehene französische Ausschluß dieser Produkte aus der Frei<lb break="no"/>handelszonenregelung ja jetzt wegfällt, d.h. die Franzosen ihren<lb/>
+Wunsch zurückgenommen hätten. Wortwörtlich hat <name type="person" ref="per:134015">Pompidou</name> erklärt,<lb/>
+<name type="person" ref="per:97607">Jonas</name> hat fast alles mitgeschrieben. Bezüglich des EG-Vertrages<lb/>
+wird von Frankreich eine günstige Bedingung für einen Vertragsab<lb break="no"/>schluß Österreichs sehr ernst genommen. Die franz.-österr. gem.<lb/>
+Kommission müßte noch wesentlich verdichtet werden. <name type="person" ref="per:134015">Pompidou</name> war be<lb break="no"/>friedigt über die franz.-österr. Bank, die jetzt in Wien errichtet<lb/>
+wird und möchte die Investitionsbedürfnisse und die konkreten Wünsche<lb/>
+Österreichs für eine Verstärkung der franz.-österr. Beziehungen<lb/>
+und insbesondere Wirtschaftsbeziehungen kennen. In der Tischrede am<lb/>
+Abend hat <name type="person" ref="per:134015">Pompidou</name> auf den Vertrag anspielend hingewiesen, daß<lb/>
+Frankreich im Maße des Möglichen einen guten Abschluß mit Österreich<lb/>
+erwartet.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97632">Kirchschläger</name> hat natürlich, bevor er noch gewußt hat wie das<lb/>
+Gespräch überhaupt gelaufen ist, folgerichtig festgestellt, daß<lb/>
+das Gespräch um eine 1/4 Stunde länger gedauert hat als vorge<lb break="no"/>sehen war. Als ich nämlich vor 17 Uhr ins Hotel zurückkam, fragte<lb/>
+er ob der Wagen des Bundespräsidenten schon hier sei und als er<lb/>
+erfuhr daß dies nicht der Fall war, war er schon sehr glücklich.<lb/>
+</p>
+            <p xml:space="preserve">In der Freizeit, nachmittags, besuchte ich die Außenhandelsstelle.<lb/>
+Detailinformation über die Integrationsverhandlungen lagen dort<lb/>
+nicht vor. Man <choice><choice><sic>mußte</sic><corr>wußte</corr></choice></choice> nicht einmal z. B., daß die Planseewerke wegen<lb/>
+der Bestrebungen der großen Konzerne <choice><choice><sic>Eugene unter begene</sic><corr>?</corr></choice></choice> unter<lb/>
+einem gewissen Druck kommen. Interessant war aber für mich, daß<lb/>
+<pb n="10-0409" facs="10_1972-03-21_0409.jpg"/>Ing. <name type="person" ref="per:139796">Rosenegger</name>, ein Angestellter der Aussenhandelsstelle, bei<lb/>
+einem Gespräch, das die Landwirtschaftsvertreter Präs. <name type="person" ref="per:97691">Lehner</name>,<lb/>
+<name type="person" ref="per:113056">Bierbaum</name>, <name type="person" ref="per:97686">Lanner</name>, <name type="person" ref="per:97368">Brandstätter</name> und <name type="person" ref="per:113057">Strasser</name> mit deren Unter<lb break="no"/>nehmerverbänden der Landwirtschaft geführt haben am Februar 1972,<lb/>
+anwesend waren. Bei dieser Aussprache versuchten sie mit dem<lb/>
+franz. Leiter dieser Delegation <name type="person" ref="per:139797">Bellon</name>, die österreichischen Wünsche<lb/>
+hier zu deponieren. Ich konnte auch Einblick in ein Protokoll<lb/>
+nehmen, welches ich sofort ersuchte, mir nächsten Tagen zumindestens<lb/>
+abschriftlich zur Verfügung zu stellen. Aus diesem Dokument geht<lb/>
+eindeutig hervor, daß auch die Vertreter der Landwirtschaft<lb/>
+in Frankreich nichts erreichen. Ähnlich wie es <name type="person" ref="per:97917">Schleinzer</name> in Brüssel<lb/>
+bei der Kommission ergangen ist, ergeht es den Interessensvertretungen<lb/>
+der Landwirtschaft mit ihren spez. Agrarwünschen in allen sechs<lb/>
+Staaten ähnlich.<lb/>
+</p>
+            <p xml:space="preserve">Beim Besuch in der Fremdenverkehrsstelle, die jetzt wirklich umge<lb break="no"/>baut wird, konnte ich unerkannt, fast über eine 1/2 Stunde den Be<lb break="no"/>trieb beobachten. Es möge ein Zufall gewesen sein, aber in dieser<lb/>
+Zeit standen die Leute Schlange, da nur eine einzige Kollegin dort<lb/>
+Auskunft gab. Die Meisten waren sehr verwundert, daß wir sie immer<lb/>
+wieder verließen und eine Frau, die dann sehr gut deutsch sprach,<lb/>
+erkundigte sich bei mir, wie sie nun zu einer Ermäßigung der Bahn<lb break="no"/>fahrt in Österreich, Deutschland und Frankreich kommen könnte.<lb/>
+Sie erklärte sie wäre schon dreimal hier, die Kollegin sei äußerst<lb/>
+liebenswürdig, aber sie sei unter Druck, daß sie kaum im Stande ist,<lb/>
+diese Frage wirklich in Detail zu beantworten. Ich sah, wie die<lb/>
+Kollegin mit einem österreichischen Fahrplan zu hantieren begann<lb/>
+und erklärte mich bereit, ihr zu helfen. Nach einiger Zeit entdeckte<lb/>
+mich dann die Leiterin <name type="person" ref="per:127905">Schmid</name>. Sie war glaube ich über meine Tätig<lb break="no"/>keit sehr erstaunt. Wir besichtigten nachher die Baustelle. Es wird<lb/>
+ein sehr schönes Lokal werden, aber es war wirklich schon höchste<lb/>
+Zeit, daß wir eine Renovierung dort vorgenommen haben. Als Gag hat<lb/>
+sie sich ausgedacht einen Bauhelm, wo <name type="person" ref="per:97985">Staribacher</name> als Aufschrift<lb/>
+darauf und im desolaten Zustand insbesondere in den Kellergewölben<lb/>
+zu dokumentieren, am Bild festgehalten wurde. <name type="person" ref="per:127905">Schmid</name> beschwert<lb/>
+sich sicherlich mit Recht, daß sie ununterbrochen österr. Honoratioren<lb/>
+wie z.B. jetzt den Fremdenverkehrsdirektor von Salzburg, <name type="person" ref="per:134323">Manzano</name>,<lb/>
+<pb n="10-0410" facs="10_1972-03-21_0410.jpg"/>wenn er nach Paris kommt, betreuen muß. <name type="person" ref="per:134323">Manzano</name> hat sich ja aus<lb break="no"/>gedacht, daß zu demselben Zeitpunkt als der Bundespräsident in<lb/>
+Paris weilt, er ihn bei einem Empfang einen neuen Prospekt über<lb/>
+Loire und Salzburg übergeben wird. Einen solchen Prospekt hat<lb/>
+er jetzt ausarbeiten lassen und hofft, damit die Franzosen aus<lb/>
+dem Loire-Tal nach Salzburg zu bringen, oder zumindestens Reisenden<lb/>
+zu dokumentieren, daß die Loire und Salzburg irgendetwas gemeinsam<lb/>
+haben. Für mich ist es keine Frage, daß es sich hier um ein rausge<lb break="no"/>schmissenes Geld handelt, da die Fremdenverkehrswerbung so kombiniert<lb/>
+kaum auch nur einen geringen Erfolg verzeichnen kann. Der Prospekt<lb/>
+soll übrigens im Entwurf in einem miserablen Englisch gewesen sein<lb/>
+und <name type="person" ref="per:127905">Schmid</name> mußte dies korrigieren. Ich erklärte sofort <name type="person" ref="per:127905">Schmid</name>, daß<lb/>
+es dringend notwendig ist, wenn sie noch so unangenehme Menschen aus<lb/>
+Österreich vorfindet, daß sie sie trotzdem betreuen soll, denn letzten<lb/>
+Endes machen die in Österreich dann die Stimmung für oder gegen sie.<lb/>
+Sie befürchtete allerdings, daß ihr dadurch Zeit verloren geht, die<lb/>
+sie dringend für ihre, ihr zustehende und beauftragte Arbeiten ver<lb break="no"/>wenden könnte. In Wirklichkeit habe ich den Eindruck, daß sie ähn<lb break="no"/>lich wie ich selbst bereit ist, überall Hand anzulegen und ich glaube<lb/>
+ihr ohne weiteres, daß sie z.B. gestern oder vorgestern selbst<lb/>
+Prospekte eingesackelt hat, damit der Versand noch zeitgerecht in<lb/>
+die Provinzen erfolgen kann. Als ich <name type="person" ref="per:97632">Kirchschläger</name> von meinem<lb/>
+Besuch erzählte, war er, obwohl er mir doch sicherlich sehr gut<lb/>
+gesinnt ist und mich jetzt schon lange Zeit genug kennt, ein<lb/>
+bißchen schockiert. Er kann sich halt wirklich nicht vorstellen,<lb/>
+daß ein Minister über Eisenbahnen Auskunft einem franz. Inter<lb break="no"/>venienten gibt. Vielleicht sollte ich aber tatsächlich mehr auf<lb/>
+meine Würde, Protokoll oder wie man dies immer bezeichnen will,<lb/>
+achten.<lb/>
+</p>
+            <p xml:space="preserve">Nach dem Dinner, gegeben vom Präsident der Republik, <name type="person" ref="per:134015">Pompidou</name>,<lb/>
+hatte ich Gelegenheit mit <name type="person" ref="per:134015">Pompidou</name>, Staatssekretär <name type="person" ref="per:139678">Lipkowski</name>,<lb/>
+da der Bundespräsident mit anderen Herren sprach und <name type="person" ref="per:97632">Kirchschläger</name><lb/>
+mit dem Ministerpräsident <name type="person" ref="per:139470">Chaban-Delmas</name> eine Unterhaltung zu führen.<lb/>
+Bei dieser Gelegenheit kam ich auf seine Tischrede zurück, wo er<lb/>
+im Zusammenhang mit der Integration, d.h. mit den Ansuchen Österreichs<lb/>
+<pb n="10-0411" facs="10_1972-03-21_0411.jpg"/>in Brüssel, davon sprach, daß die franz. Regierung sich dafür<lb/>
+verwenden wird, mit allen mit ihr zustehenden Möglichkeiten eine<lb/>
+Lösung zu erreichen. <name type="person" ref="per:134015">Pompidou</name> äußerte sich nicht konkret mehr,<lb/>
+meinte aber, daß der Vertrag mit 1.1.1973 abgeschlossen sein<lb/>
+wird und daß man viel Verständnis für unsere speziellen Wünsche,<lb/>
+die ich vortrug, haben würde. <name type="person" ref="per:139678">Lipkowski</name> will scheinbar, daß<lb/>
+Österreich, wie er in der gemischten Kommission ja auch schon<lb/>
+zu erkennen gegeben hat, in die afrikanische Wirtschaft mitinves<lb break="no"/>tiert. Zu diesem Zweck animierte er mich zu Aussagen über unsere<lb/>
+Möglichkeiten in Afrika, insbesondere sicherlich in den ........<lb/>
+Staaten gehen. Ich habe mich natürlich in keiner Weise irgendeinem<lb/>
+Lande gegenüber festgelegt, sondern nur erklärt, daß ich jetzt mit<lb/>
+Tunesien konkreter Verhandlungen führen werde und vor meiner Ab<lb/>
+fahrt mit Marokko einen Zusammenarbeitsvertrag unterschrieben habe.<lb/>
+Die Ost-West-Beziehungen anspielend hatte ich auch natürlich auf<lb/>
+die Oststaaten und die russ. Wirtschaftsbeziehungen mit Österreich<lb/>
+hingewiesen. Bei dieser Gelegenheit unterstrich ich, daß auch die<lb/>
+Franzosen über Österreich jetzt Erdgas beziehen möchten. <name type="person" ref="per:134015">Pompidou</name><lb/>
+war an diesen Details sehr interessiert, meinte aber, daß sich<lb/>
+kein Staat, insbesondere Österreich, nicht allzu sehr energiemäßig<lb/>
+vom Osten abhängig machen sollte. Ich wies darauf hin, daß wir<lb/>
+versuchen ein Pipeline–System in Österreich aufzubauen, das uns<lb/>
+sowohl vom Osten als auch vom Westen Liefermöglichkeiten garantieren<lb/>
+sollte. Als drastisches Beispiels habe ich die ABB erwähnt, wo<lb/>
+wir den langen Weg von der Adria bis Wien vorgezogen haben eine<lb/>
+allerdings jetzt angestrebten Ölleitung von der tschech. Grenze<lb/>
+nach Schwechat.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:134015">Pompidou</name> interessierte jetzt natürlich die große Politik, die ja<lb/>
+sicherlich zuerst auf den Azoren und jetzt tief in Chequers<lb/>
+gemacht hat. Trotzdem zeigte er sich gegen Österreich sehr<lb/>
+aufgeschlossen und hat auch wesentlich mehr Verständnis bekundet,<lb/>
+als wir auf den ersten Bericht <name type="person" ref="per:97607">Jonas</name>' annehmen konnten. Ich glaube,<lb/>
+daß bei der Vier-Augen-Unterredung<add>[mit]</add> <name type="person" ref="per:97607">Jonas</name> das Problem eine Rolle<lb/>
+spielte, das <name type="person" ref="per:134015">Pompidou</name> wahrscheinlich, wenn überhaupt auf Details<lb/>
+einsteigend, dann nur eine Aussprache wünscht, wo der Betreffende<lb/>
+originär mit dem Problem beschäftigt ist. Da er weiß, oder zumindestens<lb/>
+aus dem Gespräch bald erfuhr, daß bei uns der Bundespräsident ja<lb/>
+<pb n="10-0412" facs="10_1972-03-21_0412.jpg"/>doch nicht die aktive Politik macht, hat er sich vielleicht<lb/>
+wirklich am Anfang nicht besonderes interessiert gezeigt, da<lb/>
+<name type="person" ref="per:97607">Jonas</name> erklärte, er hätte immer wesentlich längere Fragen und<lb/>
+Ausführungen machen müssen, um <name type="person" ref="per:134015">Pompidou</name> überhaupt zu einer<lb/>
+Antwort zu bewegen. Als er aber <name type="person" ref="per:97607">Jonas</name> dann auf die Frage von<lb/>
+<name type="person" ref="per:134015">Pompidou</name>, so wenig in Österreich so wenig französisch gelernt<lb/>
+wird, auf die Errichtung des franz. Lyzeums zu sprechen kam,<lb/>
+wo er als <choice><choice><sic>Bauspar</sic><corr>?</corr></choice></choice>... wesentlich mitgewirkt hat, hat sich dann<lb/>
+die Diskussion sofort entsprechend belebt und sogar noch länger<lb/>
+als vorgesehen gedauert. Einmal mußte sogar das Protokoll kommen,<lb/>
+um ihn aufmerksam zu machen, daß die nächste Besprechung oder<lb/>
+Termin schon fällig sei. Dadurch ergab sich die Tatsache, daß<lb/>
+mit Recht <name type="person" ref="per:97632">Kirchschläger</name>, schon bevor wir überhaupt noch wußten,<lb/>
+wie das Gespräch verlaufen ist, behaupten konnte, das Gespräch<lb/>
+war sehr interessant und hat dazu geführt, daß es wesentlich<lb/>
+länger als beabsichtigt gedauert hat. Ich selbst habe aus dem<lb/>
+ganzen die Lehre gezogen, daß man unmittelbar nach einer solchen<lb/>
+Besprechung auf alle Fälle optimistisch erscheinen und berichten<lb/>
+muß. <name type="person" ref="per:97668">Kreisky</name> wäre dies sicherlich nicht passiert. Ich weiß nicht<lb/>
+ob er mehr Erfolg bei seiner Reise gehabt hat, aber er hat sofort<lb/>
+auf den optimistischen Zug der Besprechung hingewiesen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="10_0412_01" facs="10_1972-03-21_0412-01.jpg"/>
+         <pb n="10_0412_02" facs="10_1972-03-21_0412-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesordnung 19. Ministerratssitzung, 21.3.1972</head>
+            <gap reason="sampling"/>
+            <pb n="10_0412_03" facs="10_1972-03-21_0412-03.jpg"/>
+         </div>
+         <pb n="10_0412_04" facs="10_1972-03-21_0412-04.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>hs. Notizen (TO Ministerratssitzung Rückseite)</head>
+         </div>
+         <pb n="10_0412_05" facs="10_1972-03-21_0412-05.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Nachtrag TO 19. Ministerratssitzung, 21.3.1972</head>
+         </div>
+      </back>
+   </text>
+</TEI>

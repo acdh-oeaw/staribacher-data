@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der  5. April 1974</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band20_1974-04-05</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1974-04-05">Freitag, 5. April 1974</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-11-28">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band20/">
+      <body>
+         <pb n="20-0425" facs="20_1974-04-05_0425.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Freitag, 5. April 1974</p><p xml:space="preserve">In der Gewerkschaft, wo ich jetzt jeden Tag solange <name type="person" ref="per:97357">Blümel</name><lb/>
+auf Erholung ist Besprechungen habe, teilt mit <name type="person" ref="per:114535">Staudinger</name> mit,<lb/>
+dass die Betriebe bereit sein werden, den Arbeitsausfall zu<lb/>
+bezahlen. <name type="person" ref="per:112010">Blaha</name> von der AK ruft mich an und meint, er hätte<lb/>
+so wie <name type="person" ref="per:98112">Zöllner</name> Sorge, ob wir jetzt den Kollektivvertrag jetzt unter<lb break="no"/>schrieben bekämen, nachdem bis jetzt noch immer nicht ein solches<lb/>
+Exemplar bei der Preiskommission vorgelegt werden konnte. <name type="person" ref="per:114535">Staudinger</name><lb/>
+steht auf dem STandpunkt, dass gar keine Gefahr besteht. Die Unter<lb break="no"/>nehmer haben sich bis jetzt an Vereinbarungen, auch wenn sie nur<lb/>
+mündlich getroffen wurden, gehalten und er zweifelt nicth,dass<lb/>
+sie das auch in Zukunft tun werden. Unsere Organisation ist stark<lb/>
+genug und sie fürchten dies und würden deshalb niemals eine Ver<lb break="no"/>einbarung einseitig treffen.</p><p xml:space="preserve">Bei der 10. Tagung der Exekutive III, das sind die Werkstätten<lb/>
+der ÖBB, hatte ich das wirtschaftspolitische Hauptreferat. Hier<lb/>
+fühle ich mich sichtbar wohl, referiere in meiner alten gewohn<lb break="no"/>ten Art, alle unangenehmen Dinge eingehend und doch mit einer<lb/>
+gewissen Skepsis, wie z.B. bei der Preisentwicklung. Der Vor<lb break="no"/>sitzende meint zum Schluss, ich hätte ihnen jetzt für März 9,5 %<lb/>
+vorausgesagt und trotzdem frenetischen Beifall bekommen. Zuerst<lb/>
+wollte man, als ich meine Taktik des Referierens unseren Spitzen<lb break="no"/>genossen dort mitteilte, gar keine Diskussion machen. Da ich sie<lb/>
+aber dazu aufforderte und gleichzeitig provokant referierte,<lb/>
+kam es natürlich dann zu einer viel längeren Diskussion als vorge<lb break="no"/>sehen war. Interessant war nur, dass sich von den Genossen haupt<lb break="no"/>sächlich Spitzenleute grösstenteils aus dem Präsidium meldeten<lb/>
+von der KPÖ kamen alle drei Vertreter, ich glaube mehr gibt es<lb/>
+gar nicht. Der ÖAAB ist bei diesen Vertrauenspersonen und immerhin<lb/>
+waren 400 Delegierte, nicht vertreten. Die Eisenbahner und ganz<lb/>
+besonders Werkstättler sind normalerweise sehr gefürchtet. Jetzt<lb/>
+frage ich mich wirklich, wieso ich bei den kritischesten Gruppen<lb/>
+so gut ankomme. ICh glaube, es liegt wirklich daran, dass ich ihnen<lb/>
+nicht vorlüge und sie deshalb ein grosses Vertrauen und mir einen<lb/>
+grossen Vertrauensvorschuss entgegenbringen. Eines ist mir voll<lb break="no"/>kommen klar, die darf und werde ich nie enttäuschen.</p><pb n="20-0426" facs="20_1974-04-05_0426.jpg"/><p xml:space="preserve">Im Institut hatten wir eine grosse Besprechung mit allen unseren<lb/>
+davon betroffenen Sektionsleitern <name type="person" ref="per:108322">Meisl</name>, <name type="person" ref="per:97584">Jagoda</name> aber auch <name type="person" ref="per:112051">Singer</name>,<lb/>
+<name type="person" ref="per:111737">Marsch</name>, <name type="person" ref="per:97469">Gehart</name>, <name type="person" ref="per:98053">Wanke</name>, <name type="person" ref="per:97646">Koppe</name> und dem Büro, vom ÖGB <name type="person" ref="per:114075">Schmidt</name><lb/>
+von der AK <name type="person" ref="per:112010">Blaha</name> über die Vorgangsweise wegen der Preissituation<lb/>
+und der neuen Preisgesetze. Die Aussprache mit den Landeshauptleuten<lb/>
+wird keinerlei Schwierigkeiten bringen, denn die Gefahr, die manche<lb/>
+Kollegen sehen, dass die Landeshauptleute letzten Endes gar nicht<lb/>
+komen und nur andere Landesräte oder nur Beamte schicken fürchte<lb/>
+ich nicht. Je weniger sich die Landeshauptleute selbst deklarieren<lb/>
+und je weniger die LH Aktivität entwickeln, umso besser für mich.<lb/>
+Die einzige grosse Gefahr ist nur, dass wir selbst nicht wissen,<lb/>
+wie und in welchem Ausmass wir die neue Preiskompetenz im Handels<lb break="no"/>ministerium ausbauen und vor allem entsprechende Gesetzentwürfe<lb/>
+vorlegen sollen. WEnn wir rechtlich einwandfreie Formulierungen<lb/>
+finden, ergibt sich ein furchtbar kompliziertes Vorgehen. WEnn wir<lb/>
+aber, was anzunehmen ist, eine weitgehende Ermächtigung dem Handels<lb break="no"/>minister geben wollen, dann gibt es rechtlich grosse Bedenken.<lb/>
+Dies wird letzten Endes auch die ÖVP dann nützen, um nicht nur<lb/>
+diktatorische Gelüste zu unterschieben sondern wahrscheinlich auch<lb/>
+noch auf die Rechtssituation besonders hinweisen. NAtürlich wird<lb/>
+dies bei der Bevölkerung nicht übermässig stark ankommen und die<lb/>
+ÖVP wird mit dieser Argumentation genauso wenig Erfolg haben wie wir,<lb/>
+wenn wir immer jetzt erklären,wir bräuchten eine Zweidrittelmehr<lb break="no"/>heit und haben sie bis jetzt nicht erhalten. Die Bevölkerung will<lb/>
+rigendwie, fast auf ein Wunder hoffend, einen entsprechenden Einfluss<lb/>
+der Regierung auf die Preisentwicklung. Dies aber wird sich<lb/>
+heruasstellen, ist nicht möglich, Die grosse Gefahr ist, dass wir<lb/>
+ähnlich wie die Stadt Wien ein "Baumgesetz" dann letzten Endes<lb/>
+gebären. Jeder sagt, die Bäume sind wichtig, sie sollen nicht ge<lb break="no"/>schlagen werden, jeder weiss aber, dass eine Stadt, wenn sie sich<lb/>
+entwickelt und selbst wenn sie sich verbessert, entsprechende Bäume<lb/>
+fällen muss, das Endergebnis ist eben, dass jetzt dann eine Lösung<lb/>
+kommt, wo man zwar Bäume nicht schlagen soll, wenn mans tut aber<lb/>
+dann 300 m im Umkreis neue pflanzen kann und wenn dies nicht möglich<lb/>
+ist, eben ein Pönnale von 8 oder 10.000 S pro Baum bezahlen. Das<lb/>
+Preisgesetz übertragen, jeder weiss, dass im Zuge der wirtschaftlichen<lb/>
+Entwicklung Preissteigerungen notwendig, ja fast mit Sicherheit<lb/>
+garantiert werdne können, jeder weiss, dass durch die Abhängigkeit<lb/>
+Österreichs nicht zuletzt allein durch die Importe sondern vor allen<lb/>
+einmal auch durch die wirtschaftliche Entwicklung Westeuropas<lb/>
+<pb n="20-0427" facs="20_1974-04-05_0427.jpg"/>und deren Preisentwicklung auch die österreichischen Unternehmer<lb/>
+die Preissteigerungen durchführen werden, weil sie sie durchführen<lb/>
+müssen, jeder weiss, dass wir vielleicht punktuell in dem einen<lb/>
+oder anderen FAll optisch viel machen können, aber in der Praxis<lb/>
+und im Effekt kaum etwas erreichen werden und dennoch wird jetzt<lb/>
+vom Handelsminister als dem dafür zuständigen verlangt, er möge<lb/>
+eine gesetzliche Regelung durchführen, die selbst, wenn die ÖVP<lb/>
+zustimmen würde, kaum administrierbar ist. Ich bin eigentlich am<lb/>
+meisten gespannt, was <name type="person" ref="per:97893">Sallinger</name> und <name type="person" ref="per:97769">Mussil</name>, mit denen ich am Montag<lb/>
+meinen üblichen Jour fixe nach längerer Zei wieder habe, zu dieser<lb/>
+ganzen Entwicklung sagen werden. Zustimmen können und werden sie unter<lb/>
+gar keinen Umständen.</p><p xml:space="preserve"><name type="person" ref="per:97917">Schleinzer</name> hat bei seiner gestrigen Aussprache mit <name type="person" ref="per:97668">Kreisky</name> darauf<lb/>
+hingewiesen, dass die Bauern sehr unruhig sind und <name type="person" ref="per:97668">Kreisky</name> hat des<lb break="no"/>halb die Bauernbündler mit <name type="person" ref="per:98055">Weihs</name> und mir zu einer Aussprache einge<lb break="no"/>laden. Dort hat er einleitend erklärt, es handelt sich um ein<lb/>
+Informationsgespräch, weil in der Vorbesprechung er gemeint hat,<lb/>
+es gibt kaum eine Möglichkeit, ihnen nachzugeben. <name type="person" ref="per:97743">Minkowitsch</name><lb/>
+präzisierte ihre Forderungen, sie wollten inder Milchpreis index<lb break="no"/>schonende Vorgangsweise und schlugen deshalb vor, 170 Mill. S<lb/>
+für Exporte, 65 Mill. für das 3/4 Jahr Milchkrisengroschen 5 Gro<lb break="no"/>schen Abgeltung durch den Staat und 65 Mill. Magermilchpulver<lb break="no"/>vergütung, insgesamt 305 Mill. Für die Schlachtexportrinder wollten<lb/>
+sie statt 4.- l.- S mehr, was ungefähr 10 – 15 Mill. ausmacht. Auch<lb/>
+für Nutzrinder, wo sie derzeit 600 und die Bergbauern 1.200 S Sub<lb break="no"/>vention bekommen, wollten sie ebenfalls um 600 S mehr. Den Diesel<lb break="no"/>treibstoff wollten sie nach wie vor als gefärbtes Heizöl, <name type="person" ref="per:97668">Kreisky</name><lb/>
+meinte aber, das wäre unmöglich, die 23 Groschen könnten keinesfalls<lb/>
+auf den Konsumenten überwälzt werden, worauf sie sich auch mit<lb/>
+einer Subvention einverstanden erklärten. Das Finanzministerium,<lb/>
+d.h. der dortige Vertreter rechnete 399 Mill. S. Die Bauern meint<lb/>
+das seien maximal 77 Mill. Getreide müsste bis zum 15. Juni fest<lb break="no"/>gesetzt sein und für Zucker seien angeblich Gespräche im Gange<lb/>
+dies treffe nicht zu, da der Kollektivvertrag aber mit 30.4.<lb/>
+abläuft, erwarten sie gleichzeitig Zug um Zug auch eine Erhöhung<lb/>
+des Rübenpreises. Für Handelsdünger wollten ebenfalls eie ent<lb break="no"/>sprechende Regelung, Die Zuschussrente müsste nun endlich konkretisiert<lb/>
+werden. 72 % haben sich für einen Milchlieferstreik aufgesprochen<lb/>
+<pb n="20-0428" facs="20_1974-04-05_0428.jpg"/>und die Bauernbundexekutive hat beschlossen, einen Warnstreik noch<lb/>
+im April mit 2 Tagen begrenzt. 63 % hatten sich für einen Käufer<lb break="no"/>streik ausgesprochen, und zwar würde hier am Tag X der Bauernbund<lb/>
+aufrufen, ein Jahr lang keine Maschinen zu kaufen. Jetzt entwickelte<lb/>
+sich eine stundenlange Diskussion, die letzten Endes dann zweimal<lb/>
+unterbrochen <name type="person" ref="per:97668">Kreisky</name> veranlasste, doch darauf hinzuweisen, ihm<lb/>
+käme eine Bauerndemonstration jezt sehr ungelegen. Er schlug des<lb break="no"/>halb intern vor, das Magermilchpulver, welhes 136,5 Mill. S durch<lb/>
+Erhöhung um 30 Groschen bringen soll, soll mit 65 Mill. ca. ge<lb break="no"/>stützt werden, nämlich die 30 Groschen sollen mit 15 Groschen halbiert<lb/>
+zusammengesetzt werden. Gleichzeitig meinte er müsse man auch eine<lb/>
+inländische Butteraktion wieder starten. <name type="person" ref="per:98055">Weihs</name> verwies darauf, dass<lb/>
+das Inlandslager jetzt von 2600 t auf 3.600 t für den Ostervorrat schon<lb/>
+zurückgegangen sei. WEnn das Lager wieder 3.000 t erreicht hat, was<lb/>
+bald nach Ostern der Fall sein wird, dann könnte eine solche Inlands<lb break="no"/>aktion starten. Über die Höhe wurde nichts gesagt, auch nicht über<lb/>
+die Kosten, die dem Finanzminister dort erwachsen. Bei Vieh hat<lb/>
+er ja durch den Finanzminister <name type="person" ref="per:98055">Weihs</name> schon zugestanden, dass dieser<lb/>
+48 Mill. S zusätzliche Exportmittel bekommt, um die Italien-Exporte<lb/>
+aufrechterhalten zu können. Hier wollte <name type="person" ref="per:97668">Kreisky</name> nueerliche eine<lb/>
+Inlandsaktion,, das bedeutet weitere 20 Mill. S. Bezüglich des<lb/>
+Dieseltreibstoffes ist <name type="person" ref="per:97668">Kreisky</name> bereit, ihnen statt 70 Mill. Ver<lb break="no"/>billigung zusätzlich für das Jahr 1974 100 Mill. zur Verfügung zu<lb/>
+stellen. Zu den bereits jetzt 380 im Budget eingesetzten werden also<lb/>
+dann heuer 100 Mill. und im nächsten Jahr dann wahrscheinlich der<lb/>
+doppelte Betrag dazukommen. Die Bauern haben sich für heuer eine<lb/>
+Belastung von 170 Mill. S ausgerechnet. Wie weit das stimmt,<lb/>
+kann ihc nicht prüfne. <name type="person" ref="per:97668">Kreisky</name> machte den Bauernvertreter diesen<lb/>
+Vorschlag, die verlangten dann eine Unterbrechung und da <name type="person" ref="per:97668">Kreisky</name><lb/>
+zum Bundespräsidenten gehen musste, beschlossen wir dann auf Montag<lb/>
+nach dem Nationalrat eine weitere Besprechung mit den Bauern, wo auch<lb/>
+<name type="person" ref="per:97311">Androsch</name> anwesend sei. <name type="person" ref="per:97668">Kreisky</name> hat nämlich sehr geschickt den Bauern<lb/>
+gegenüber gesagt, hier handelt es sich nur um eine Verwendungszusage<lb/>
+denn letzten Endes müsste der Finanzminister erst die Zustimmung<lb/>
+geben. Formell versteht <name type="person" ref="per:97668">Kreisky</name> immer sehr geschcikt die Kompetenz der<lb/>
+einzelnen Minister einzuhalten. Materiell hat er naütrlich <name type="person" ref="per:97311">Androsch</name><lb/>
+schon so weit präjudiziert, dass dieser kaum etwas andres machen<lb/>
+kann, als zuzustimmen. Ich kann und will die politische Lage nicth<lb/>
+<pb n="20-0429" facs="20_1974-04-05_0429.jpg"/>beurteilne, ob tatsächlich ein weiteres <choice><choice><sic>NAchgehen</sic><corr>Nachgeben?</corr></choice></choice> dem Bauern<lb break="no"/>bund zweckmässig sit. Aber auf alle Fälle diese Art der Ver<lb break="no"/>handlungsführung. Da die Bauernverbände immer vereinzelt und damit<lb/>
+jeder für sich eine entsprechenden Erfolg erreichen wollen, kommt<lb/>
+es dazu, dass in diesen Fragen inWirklichkeit nicht einmal sondern<lb/>
+dreimal bezahlt wird. Abgesehen davon, dass er damit eigentlich<lb/>
+die Bauernvertreter nicht aufspaltet, wie er immer gehofft hat,<lb/>
+verärgert er nur immer den Vorletzten, weil er glaubt, mit seinem<lb/>
+Ergebnis hätte er das Maximum herausgeholt und dann kommt der nächst<lb/>
+und erreicht wieder mehr. Zum Handkuss kommendabie am meisten<lb/>
+der Arbeitsbauernbund. Der ist mit den ersten Ergebnissen schon<lb/>
+zufrieden, ist dann in einer schwierigen Situation. um gerade noch<lb/>
+bei den Freiheitlichen oder Allgemeinem Bauernverband mitzureden,<lb/>
+diese dann alle werden wahrscheinlich, wenn sie nun erfahren, dass<lb/>
+der Bauernbund weitere Erfolge erzielt hat, naütrlich umso mehr ver<lb break="no"/>ärgert sein. Ohne mir etwas einzubilden, aber hier haben wir<lb/>
+in der Vergangenheit als Interessensvertretung bessere Politik<lb/>
+und geschicktere Verhandlungen geführt. Man kann nicht mit den<lb/>
+Schwächeren zu verhandeln beginnen, sondern man muss mit den Stärksten<lb/>
+zu einer Einigung kommen, damit dieser dann eben, entsprechend wenn<lb/>
+er akzeptiert hat, die Bauern niederhält. Zu diesem Zweck hätte<lb/>
+ich mich in der Vergangenheit aber auch in der Zukunft ausschliess<lb break="no"/>lich an der Landwirtschaftskammer als der gesetzlichen Interessens<lb break="no"/>vertretung gehalten. Für mich steht fest, dass auf diesem Sektor<lb/>
+ich in Hinkunft keine grossen Sorgen haben werde. Die Bauern werden<lb/>
+natrülich dieses Spiel weiter betreiben, <name type="person" ref="per:97668">Kreisky</name> wird immer in die<lb/>
+schwierige Situation kommen, mit ihnen Verhandlungen führen zu<lb/>
+können undndas Endergebnis wird sein, dass letzten Endes sehr<lb/>
+wohl die Bauernvertreter mit dieser Taktik ein Optimum erreichen.<lb/>
+OB sich dies politisch niederschlägt, kann ich nicht beurteilen,<lb/>
+ich glaube aber eher nein.</p><p xml:space="preserve">Die Textilarbeitergewerkschaft, der Obmann Zentralsekretär <name type="person" ref="per:140546">Hans</name><lb/>
+und vor allem ein ganz Junger, schein neuer Sekretär <name type="person" ref="per:116109">Ettl</name>, den ich<lb/>
+das erste mal kennenlernte, sprachen wegen der Sorgen für ihre<lb/>
+Branche vor. In der Schuhproduktion ist Humanic der Lohnleadership.<lb/>
+WEnn sie in dieser Branche Lohnforderungen haben und diese stehen<lb/>
+jetzt an, müssen sie zuerst mit Humanic zu einer entsprechenden<lb/>
+Regelung kommen, bis die anderen dann doch bereit sind, gewise<lb/>
+Zugeständnisse zu machen. Humanic hat nun bei der Österr. Kontroll<lb break="no"/><pb n="20-0430" facs="20_1974-04-05_0430.jpg"/>bank einen Kredit beantragt, ich habe mich seinerzeit auch tat<lb break="no"/>sächlich für sie eingesetzt, aber bis jetzt keinen Erfolg erreicht.<lb/>
+Sowohl <name type="person" ref="per:111755">Castellez</name> als auch Dr. <name type="person" ref="per:97518">Haschek</name> stehen auf dem Stnadpunkt, dass<lb/>
+sie ein Maximum schon der Schuhindustrie und ganz besonders Humanic<lb/>
+gegeben haben. Das sich von Humanic vor nicht allzu langer Zeit<lb/>
+eine Firma Dynafit abgespalten hat, haben sie auch die vorgesehenen<lb/>
+Exportkreditvolumen geteilt und damit eigentlich beide nicht be<lb break="no"/>friedigt. Vom STandpunkt der Kontrollbank ist diese Vorgangsweise<lb/>
+verständlich. Da aber jetzt eine gewisse Aufstockung für Exportkredite<lb/>
+erfoogt ist, hoffe ich, dass es mir gelingen wird. <name type="person" ref="per:97518">Haschek</name> und<lb/>
+<name type="person" ref="per:111755">Castellez</name> davon zu überzeugen, dass man vielleicht doch der Konsum<lb break="no"/>güterindustrie einen grösseren Kreditrahmen zur Verfügung stellt.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98072">WIESINGER</name>: Bitte mich mit <name type="person" ref="per:97518">Haschek</name> oder <name type="person" ref="per:111755">Castellez</name><lb/>
+zu verbinden.</p><p xml:space="preserve">Auf dem Textilsektor haben die Arbeiter seit 1970 bis 1973 dem letzten<lb/>
+Kollektivvertrag nur eine Erhöhung von 42 % erreicht. Sie sind deshalb<lb/>
+im Juni mit neuen Verhandlungen befasst und meinten, die Bauern die<lb/>
+48 % erreicht hätten, sollen sich nicht aufregen. Das allerdings<lb/>
+hier Produktionskostensteigerungen mit Lohnerhöhungen verglichen<lb/>
+werden, stimmt nicht ganz. Richtig ist, dass die Textilindustrie<lb/>
+einen schweren Stand hat. In der Bekleidungsindustrie konnte ich,<lb/>
+da nun dort im Oktober nach 13 Monaten Lohnverhandlungen erwartet<lb/>
+werden, ihnen mitteilen, dass mit Hongkong jetzt ein Arrangement<lb/>
+bevorsteht und ich auch voller HOffnung bin, dass wir mit Nordkorea<lb/>
+zu einer Lösung bei Antidumpinglieferungen kommen werden. Sie wollen<lb/>
+auch jetzt, nachdem ich ihnen das Strumpfhosenmodell erörtert habe,<lb/>
+das sie mit BEfriedigung zur Kenntnis genommen ahben, auch die Socken<lb/>
+aus Rumänien, d.h. die Grobstrümpfe ähnlich geregelt haben. Hier<lb/>
+erörtete ich ihnen das Vidierungsverfahren und wies daruf hin,<lb/>
+dass insbesondere die Arbeiterkammer doch eine andere Haltung ein<lb break="no"/>nehmen müsste. Ich könnte nicht immer gegen die Arbeiterkammer ent<lb break="no"/>scheiden. Die Kollegen werden sich mit Dr. <name type="person" ref="per:98112">Zöllner</name> ins Einvernehmen<lb/>
+setzen.</p><p xml:space="preserve"><name type="person" ref="per:97474">Gleissner</name> und <name type="person" ref="per:113031">Melis</name> sowie <name type="person" ref="per:98053">Wanke</name> besprachen die weitere Entwickung im<lb/>
+Europa-Institut. <name type="person" ref="per:113031">Melis</name> ist über die Arbeitsgruppe informiert ge<lb break="no"/>wesen, hat sich nur furchtbar aufgeregt, dass er bei der Gründung<lb/>
+<pb n="20-0431" facs="20_1974-04-05_0431.jpg"/>der Arbeitsgruppe Konsumenten Vergleiche nicht gefragt<lb/>
+wurde. Hier hatte <name type="person" ref="per:97646">Koppe</name> versucht, eine neue Arbeitsgruppe zu instal<lb break="no"/>lieren, was tatsächlich dann geglückt ist und aber nicht die<lb/>
+Zustimmung der Handelskammer bis jetzt gefunden hat. Mit dem<lb/>
+Hinweis, dass in HInkunft im Vorstand alle diese Fragen zeitgerecht<lb/>
+besprochen werden, war die Handelskammer auch mit dieser Arbeits<lb break="no"/>gruppe einverstanden. Zu meiner grössten Verwunderung hörte ich,<lb/>
+dass Frau Dr. <name type="person" ref="per:140267">Wagner</name> diese Arbeitsgruppe führen wird. Nicht dass<lb/>
+ich igendetwas gegen die Frau Dr. <name type="person" ref="per:140267">Wagner</name> habe, nur glaube ich<lb/>
+kaum, dass sie die Initiativen wird entwickeln, die eigentlich<lb/>
+notwendig wären. <name type="person" ref="per:97474">Gleissner</name> wünschte, dass diese Arbeitsgruppen<lb/>
+sich nicht ausschliesslich auf<add>keine Fortsetzung auf dem Band</add></p></div>
+      </body>
+      <back>
+         <pb n="20_0424_01" facs="20_1974-04-05_0424-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 5.4.1974</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="20_0424_02" facs="20_1974-04-05_0424-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+   </text>
+</TEI>

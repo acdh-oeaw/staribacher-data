@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der  1. Mai 1970 bis Samstag, der  2. Mai 1970</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Joseph Staribacher</collection>
+                  <idno type="signature">Band01_1970-05-01</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date from="1970-05-01" to="1970-05-02">Freitag, 1. Mai 1970 bis Samstag, 2. Mai 1970</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-04-14">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-02-27" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-02-27" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+  <text xml:base="http://192.168.0.9/staribacher/src/scans/Band01/">
+      <body>
+         <pb n="01-0051" facs="01_1970-05-01_1970-05-02_0051.jpg"/>
+         <div type="entry">
+            <dateline>
+               <date from="1970-05-01" to="1970-05-02">Freitag 1. Mai 1970</date>
+            </dateline>
+            <p xml:space="preserve">Ich hatte Gelegenheit beim 1. Mai – Aufmarsch auf der Tribüne<lb/>
+mit <name type="person" ref="per:97311">Androsch</name> zu sprechen und ersuchte ihn neuerdings, er möge<lb/>
+dringend versuchen, die Richtlinien, die der Finanzminister zu<lb/>
+der Erstellung des Budgets an die einzelnen Ministerien schickt,<lb/>
+zu ändern, denn ansonsten könnte es passieren, daß die ÖVP er<lb break="no"/>klärt, das neue Budget sei auf Grund der<lb/>
+erfahrenen und bewährten Richtlinien des Finanzminister <name type="person" ref="per:97647">Koren</name><lb/>
+erstellt worden. Er sagte mir zu, er würde sich über das Wochen<lb break="no"/>ende die ganze Sache anschauen und am Montag neuederdings ent<lb break="no"/>sprechend mit mir reden. Ich habe Montag Gelegenheit mit <name type="person" ref="per:97423">Fabricius</name><lb/>
+bei ihm zu sein. <name type="person" ref="per:97423">Fabricius</name> ersuchte mich ich möchte zu einer Be<lb break="no"/>sprechung kommen, die er mit dem Finanzminister vereinbart hatte.<lb/>
+<name type="person" ref="per:97311">Androsch</name> war sehr einverstanden mit diesem Vorschlag, so daß<lb/>
+wir am Montag sehen werden, wie weit wir die Richtlinien ge<lb break="no"/>ändert bekommen. Dies ist deshalb notwendig, weil das Haus bei<lb/>
+mir bereits mit Erarbeitung eines Budgetsvorschlages auf Grund<lb/>
+der alten Richtlinien begonnen hat.<lb/>
+Nachmittags<add>2. Mai 1970</add> wurde vom Handelsministerium Sportverein, einer<lb/>
+sehr aktiven Sportlergruppe, das Bootshaus an der alten Donau<lb/>
+feierlich eröffnet und zwar eine 20 jährige Jubiläumsgabe. Als<lb/>
+mich Amtsrat <name type="person" ref="per:140260">Kneissler</name> aufsuchte und mir mitteilte, daß eine solche<lb/>
+Eröffnung stattfindet und devot erst anfragte ob ich daran teilnehmen<lb/>
+würde, erklärte ich spontan nicht nur zu dieser Eröffnungszeremonie<lb/>
+<pb n="01-0052" facs="01_1970-05-01_1970-05-02_0052.jpg"/>mich bereit, sondern erklärte auch gleichzeitig, daß ich in dem<lb/>
+Verein als aktiver Sportler teilnehmen möchte, Amtsrat <name type="person" ref="per:140260">Kneissler</name><lb/>
+ist nämlich im Handelsministerium in seinem sehr guten Ruf. Er<lb/>
+versteht es, alle Leute für seine Ideen zu gewinnen. Er erklärte<lb/>
+mir gleichzeitig, daß der Sportclub Handelsministerium keinem<lb/>
+Dachverband angehört und daß ihm das in der Vergangenheit große<lb/>
+Schwierigkeiten bereitet hat, weil man immer versuchte, ihn<lb/>
+der UNION anzugliedern. Es war sehr gut, daß ich an dieser Er<lb break="no"/>öffnungsfeier teilgenommen hatte, denn es erschien der ehenalige<lb/>
+Handelminister <name type="person" ref="per:97358">Bock</name> mit seiner Gattin und der Bezirksvorsteher<lb/>
+vom 22. Bezirk sagte, er wäre sonst der einzige Sozialist dort<lb/>
+gewesen. Ich erinnerte ihn seiner Ansprache an die spontane<lb/>
+Reaktion meines Beitrittes und überreichte mir den Mitglieds<lb break="no"/>ausweis mit einer kleinen Plakette, die sehr nett war.<lb/>
+Als ich mich für die SALT-Konferenz Donauschiffahrt ent<lb break="no"/>schuldigt hatte, glaube ich richtig entschieden zu haben, nämlich<lb/>
+anstelle der Repräsentation eine wirklich zweckmäßige Veranstaltung<lb/>
+mit den Beschäftigten des Handelsministeriums gemacht zu haben<lb/>
+und dadurch das Vertrauen dieser Leute zu gewinnen. Den<lb/>
+Diplomaten auf der Donaufahrt bin ich sicher nicht abgegangen<lb/>
+und habe damit zu erkennen gegeben, daß mir, ohne daß ich es<lb/>
+natürlich gesagt habe, aber das spricht sich sicher im Haus herum,<lb/>
+eine Veranstaltung der Belegschaft wichtiger erscheint, als ein<lb/>
+diplomatischer Empfang mit Festessen auf der Theodor Körner.</p>
+         </div>
+      </body>
+    
+  </text>
+</TEI>

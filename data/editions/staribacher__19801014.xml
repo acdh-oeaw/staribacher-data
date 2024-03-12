@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstag, der 14. Oktober 1980</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band56_1980-10-14</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1980-10-14">Dienstag, 14. Oktober 1980</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-02-01">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="56-1273" facs="56_1980-10-14_1273.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Dienstag, 14. Oktober 1980<lb/>
+</p>
+            <p xml:space="preserve">Der ehemalige Generalsekretär des ÖAMTC, Dipl.Ing. <name type="person" ref="per:127043">Coreth</name>, hat bereits<lb/>
+in der ersten Republik und dann in der Kriegszeit insbesondere die<lb/>
+Ersatztreibstoffverteilung und Aufbringung gehabt. Er will seine Er<lb break="no"/>fahrungen zur Verfügung stellen. <name type="person" ref="per:107956">Satzinger</name> hat es übernommen mit ihm<lb/>
+Details zu besprechen und dann die Energie- resp. die Industriesektion<lb/>
+sofort zu verständigen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Die Unterlagen schicke am besten gleich an<lb/>
+<name type="person" ref="per:111737">Marsch</name> und <name type="person" ref="per:111001">Peyerl</name>.<lb/>
+</p>
+            <p xml:space="preserve">Staatssekretär <name type="person" ref="per:109808">Albrecht</name> teilt mir mit, daß MR <name type="person" ref="per:97426">Fälbl</name>, bevor er nach<lb/>
+Prag gefahren ist, ihr mitteilte, daß die Kohlenlieferungen aus Polen<lb/>
+fraglich sind. Eine Rücksprache bei <name type="person" ref="per:97880">Rosenstrauch</name>, Polkarbon, ergibt,<lb/>
+daß tatsächlich Lieferschwierigkeiten bestehen könnten. Er wird nach<lb/>
+Kattowitz fahren und ersucht um einen Begleitbrief. In diesem soll ich<lb/>
+ihm mitteilen, daß zwischen Außenhandelsminister <name type="person" ref="per:97616">Karski</name> und dem jetzt<lb/>
+abgesetzten Kohleminister <name type="person" ref="per:114956">Lejczak</name> und mir vereinbart wurde, daß die<lb/>
+Polen bereit sind und alles daran setzen werden, die Vertragsmenge<lb/>
+zu liefern. Interessant für mich ist aber, daß <name type="person" ref="per:97880">Rosenstrauch</name> meint, wenn<lb/>
+nicht die gesamte Vertragsmenge kommt, so spielt dies <choice><choice><sic>ihm</sic><corr>für ihn</corr></choice></choice> gar keine<lb/>
+Rolle. Die VÖEST-Alpine, die 160.000 t bestellt hat, braucht höchstens<lb/>
+100.000 t, wie der Kohleeinkäufer <name type="person" ref="per:127044">Brunner</name> ihm mitgeteilt hat. Mit<lb/>
+diesen 160.000 t und den 65.000 t Hausbrand, 10.000 ÖBB-Deputatkohle<lb/>
+und 10.000 t für sonstige Industriebetriebe wurden die Vorverträge<lb/>
+entsprechend geschlossen. Jetzt stellt sich heraus, daß die VÖEST-<lb/>
+Alpine keinesfalls 160.000 t, sondern 100.000 t höchstens braucht.<lb/>
+Eine Reduzierung auch der polnischen Seite trifft daher Österreich<lb/>
+fast nicht.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: <name type="person" ref="per:97880">Rosenstrauch</name> wird einen Briefentwurf schicken.<lb/>
+</p>
+            <p xml:space="preserve">In der Ministerratsvorbesprechung hat <name type="person" ref="per:97668">Kreisky</name> dargelegt, wie er zur<lb/>
+Empfehlung, österreichische Leuchten im AKH zu verwenden, für die Fa.<lb/>
+Knoblich gekommen ist. 1978 hat <name type="person" ref="per:97668">Kreisky</name> Knoblich besichtigt, damals<lb/>
+war diese Firma fast noch im ausschließlichen Besitz des Ing. <name type="person" ref="per:127045">Knoblich</name>,<lb/>
+erst später hat <name type="person" ref="per:118665">Sefcsik</name> die Firma erworben. <name type="person" ref="per:97668">Kreisky</name> hat aufgrund sei<lb break="no"/>nes Besuches dann den begleitenden Beamten <name type="person" ref="per:114161">Salomon</name> beauftragt, er<lb/>
+möge beim Handelsminister, beim Bautenminister wegen der ÖNORM und<lb/>
+<pb n="56-1274" facs="56_1980-10-14_1274.jpg"/>bei der Gemeinde intervenieren, damit österreichische Ware bei der<lb/>
+AKH-Ausstattung verwendet wird. Aus meiner Aktenlage hat sich ein<lb break="no"/>deutig ergeben, daß die Unterlagen, die damals <name type="person" ref="per:97668">Kreisky</name> von <name type="person" ref="per:127045">Knoblich</name><lb/>
+bekommen hat, tatsächlich bei uns zur Stellungnahme eingelaufen sind.<lb/>
+Vorher schon hat <name type="person" ref="per:127045">Knoblich</name> bei uns, Rat <name type="person" ref="per:113022">Fabrizii</name>, interveniert. Dieser<lb/>
+hat dann mich veranlaßt, entsprechende Interventionsbriefe an den<lb/>
+Bürgermeister <name type="person" ref="per:97488">Gratz</name> und den Finanzminister <name type="person" ref="per:97311">Androsch</name>, beide für den AKH<lb break="no"/>Bereich zuständig, zu schreiben. Diese ganze Angelegenheit ist un<lb break="no"/>verfänglich, ich habe deshalb dem Klubobmann Dr. <name type="person" ref="per:97444">Fischer</name> vorgeschlagen,<lb/>
+ich werde den ganzen Akt im Parlament für den Untersuchungsausschuß<lb/>
+zur Verfügung stellen. <name type="person" ref="per:97444">Fischer</name> hat sich den Akt angesehen und vorge<lb break="no"/>schlagen, daß der Schriftverkehr zwischen <name type="person" ref="per:127045">Knoblich</name> und mir, den inte<lb break="no"/>ressanterweise wir vom Bundeskanzler bekommen haben, und meine Antwort<lb break="no"/>briefe sowie das Dankschreiben von <name type="person" ref="per:127045">Knoblich</name> über die durchgeführte<lb/>
+Intervention vervielfältigen sollen und gleich jetzt im Pressefoyer<lb/>
+mit <name type="person" ref="per:97668">Kreisky</name> dann verteilen soll. Außerdem habe ich dann die selbe<lb/>
+Unterlage dem Nationalratspräsidenten <name type="person" ref="per:97346">Benya</name> zur weiteren Verfügung<lb/>
+übermittelt. <name type="person" ref="per:97444">Fischer</name> hat mich dann noch angerufen und mitgeteilt, daß<lb/>
+die ÖVP der politische Direktor <name type="person" ref="per:111712">Bergmann</name> im Parlament erklärt hat,<lb/>
+man wird alles jetzt genauer untersuchen und vor allem prüfen, wieso<lb/>
+der seinerzeit bei mir arbeitende Dr. <name type="person" ref="per:98040">Wais</name> vom Handelsministerium<lb/>
+dann zu <name type="person" ref="per:127045">Knoblich</name> gegangen ist. Die Erklärung ist für mich damals und<lb/>
+jetzt sehr einfach gewesen, <name type="person" ref="per:98040">Wais</name> hat als Bundesangestellter einen<lb/>
+Bruchteil dessen verdient, was ihm die Fa. Knoblich und dann nach Über<lb break="no"/>nahme durch die Fa. Siemens diese bezahlt hat, darüber hinaus hat er<lb/>
+entsprechende gute Aufstiegschancen. Der Untersuchung sehe ich voll<lb break="no"/>kommen ruhig entgegen, da, wie <name type="person" ref="per:97668">Kreisky</name> dies auch dann im Foyer von<lb/>
+sich behauptet, er immer wieder veranlaßt wird, Interventionen für<lb/>
+Firmen durchzuführen, damit sie entsprechende Beschäftigung haben.<lb/>
+Soweit solche Interventionen darauf hinauslaufen, daß man österreichi<lb break="no"/>sche Waren und Einrichtungen kaufen soll anstelle von Importwaren<lb/>
+oder ausländische Firmen beschäftigt, sieht <name type="person" ref="per:97668">Kreisky</name> überhaupt keiner<lb break="no"/>lei Notwendigkeiten sich gegen solche Interventionen zu sträuben,<lb/>
+ganz im Gegenteil. <name type="person" ref="per:97668">Kreisky</name> hat angenommen, daß ich im Pressefoyer<lb/>
+eventuell auch zu diesen Fragenkomplex Auskunft geben soll, weshalb<lb/>
+ich ausnahmsweise bei einem solchen Pressefoyer wieder einmal dabei<lb/>
+war. Tatsächlich aber ist es zu keiner einzigen Frage an mich gekommen.<lb/>
+Das Ende der Diskussion war dann zwischen <name type="person" ref="per:97668">Kreisky</name> und den ÖVP-Jour<lb break="no"/>nalisten, die Details über die Abwicklung dieses Geschäftes dann<lb/>
+<pb n="56-1275" facs="56_1980-10-14_1275.jpg"/>wissen wollten, die weder <name type="person" ref="per:97668">Kreisky</name> noch ich gekannt haben. Angeblich<lb/>
+hat die Firma Siemens einen diesbezüglichen Auftrag schon lange ge<lb break="no"/>habt, Knoblich hat sich also sozusagen nur dann dazwischengeschaltet<lb/>
+und letzten Endes dann diesen Auftrag wieder an Siemens weitergegeben.<lb/>
+Die Fa. Zumtobel hätte eine noch bessere Leuchtenlösung angeboten und<lb/>
+sei nicht zum Zuge gekommen. Die Frage der ÖVP-Journalisten war, wa<lb break="no"/>rum er gerade für Knoblich intervenierte.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Was weiß <name type="person" ref="per:113022">Fabrizii</name> über diese Leuchtenvergabe.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> verwies in der Vorbesprechung auch auf die große Konferenz<lb/>
+in Leoben. Dort müßten die Minister alle Aktivitäten, die jetzt<lb/>
+in der nächsten Zeit zu erwarten sind und die vorbereitet waren, mit<lb/>
+entsprechenden Zeitplänen und konkreten Angaben vorbringen. Er selbst<lb/>
+wird verkünden, daß die ERP-Aktion, die seinerzeit für die Stilllegung<lb/>
+der Kohlengruben mit besonderen Konditionen gestartet wurde, jetzt<lb/>
+auch für das obersteirische Gebiet für die Stahlindustrie gilt.<lb/>
+Gleichzeitig wird, da ja 160 Stahlarbeiter frühzeitig pensioniert<lb/>
+und 160 gekündigt werden müssen, sowie die entsprechende Kurzarbeit<lb/>
+teils vom Sozialministerium, teils aber auch durch eine größere Finanz<lb break="no"/>hilfe durch die ÖIAG an die VEW finanziert werden. Ein eigenes Gesetz<lb/>
+über die vorzeitige Pensionierung für Stahlarbeiter soll nicht kommen,<lb/>
+denn sonst würden sich sofort die Textil- und Bekleidungsarbeiter<lb/>
+sowie andere Gruppen auch anhängen.<lb/>
+</p>
+            <p xml:space="preserve">Da das Handelsministerium keine besonderen Aktionen in diesem Gebiet<lb/>
+startet, dafür hätten wir auch gar kein Geld, da auch derzeit mir<lb/>
+nicht bekannt ist, daß eine österreichische oder ausländische Firma<lb/>
+dort über unsere Investitionswerbung angesiedelt werden kann, erklärte<lb/>
+ich <name type="person" ref="per:97668">Kreisky</name>, daß wir dort nichts zu berichten haben. An der Konferenz<lb/>
+selbst wird Frau Staatssekretär <name type="person" ref="per:109808">Albrecht</name> teilnehmen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109808">ALBRECHT</name>: Bitte entschuldige mich dort, da ich die<lb/>
+Energieberichte in der Energiesektion verhandeln muß.<lb/>
+</p>
+            <p xml:space="preserve">Mit Außenminister <name type="person" ref="per:108328">Pahr</name> besprach ich die Verbalnote der Ungarn zum<lb/>
+österreichisch-ungarischen Fremdenverkehrsabkommen. <name type="person" ref="per:108328">Pahr</name> nimmt an, daß<lb/>
+bis Mittwoch abends die endgültige Bestätigung vorliegt. Wie mir<lb/>
+Botschafter <name type="person" ref="per:127046">Reich</name> dann beim Essen für Gen.Sekr.Stv. <name type="person" ref="per:127047">Caspari</name> mitteilte,<lb/>
+<pb n="56-1276" facs="56_1980-10-14_1276.jpg"/>hat es bezüglich dieser Verbalnote im Außenamt etliche, gelinde ausge<lb break="no"/>drückt, Ungereimtheiten gegeben. Niemand hat scheinbar gewußt, wer was<lb/>
+wo verhandelt. Ich habe auch mit Gen.Sekr. <name type="person" ref="per:114980">Reitbauer</name> etliche Male ge<lb break="no"/>sprochen, der auch nicht genau wußte, was jetzt in Budapest oder in<lb/>
+Wien in dieser Angelegenheit geschieht.<lb/>
+</p>
+            <p xml:space="preserve">Im Ministerrat habe ich dann auf Wunsch des Außenministers in meinen<lb/>
+Vortrag zu diesem Abkommen nur das Wort voraussichtlich rausgestrichen.<lb/>
+<name type="person" ref="per:108328">Pahr</name> nimmt an, daß es auf alle Fälle noch zu dem Verbalnotenabschluß<lb/>
+kommt.<lb/>
+</p>
+            <p xml:space="preserve">Der GD-Stv. <name type="person" ref="per:127047">Caspari</name> von der EG mit seinem Mitarbeiter <name type="person" ref="per:127048">Siegerland</name> be<lb break="no"/>sprachen mit <name type="person" ref="per:108322">Meisl</name>, <name type="person" ref="per:115656">Steiger</name>, <name type="person" ref="per:114800">Michitsch</name>, <name type="person" ref="per:123793">Scheuch</name> vom Außenamt, <name type="person" ref="per:116049">Reisch</name><lb/>
+dann beim Essen die offenen EG-Probleme. Ich habe insbesondere mit<lb/>
+großem Nachdruck darauf verwiesen, daß wir unbedingt für die Landwirt<lb break="no"/>schaft eine entsprechende zusätzliche Rinderexportkontingentmenge<lb/>
+brauchen. Die österreichischen Landwirtschaftsvertreter waren nur be<lb break="no"/>reit, daß ich ermächtigt werde, die Paraphierung des EG-Griechenland<lb break="no"/>vertrages mit den einzelnen EFTA-Staaten durchzuführen. Vor<add>[der]</add> endgültigen<lb/>
+Unterzeichnung muß nach Meinung der österreichischen Agrarier die<lb/>
+Aufstockung der Zucht- und Nutzrinder von 38.000 Stk derzeit auf 45.000<lb/>
+Stk erfolgen. <name type="person" ref="per:127047">Caspari</name> erklärte mir, der für die Agrarfragen zuständige<lb/>
+Kommissär <name type="person" ref="per:114113">Gundelach</name> wird dies nicht durchbringen. Ich machte ihn dann<lb/>
+auch unter 4 Augen noch einmal aufmerksam auf diese sehr für Öster<lb break="no"/>reich essentielle Frage und ersuchte um seine neuerliche Intervention<lb/>
+in Brüssel, damit vielleicht doch auf dem Agrarsektor noch Zugeständ<lb break="no"/>nisse kommen könnten.<lb/>
+</p>
+            <p xml:space="preserve">Die Fragen der Papierkontingente der 5 %-igen Plafonderhöhung im<lb/>
+nächsten Jahr und vor allem auch die Retorsionsmaßnahme Österreichs<lb/>
+wurden <name type="person" ref="per:127047">Caspari</name> von mir mit aller Dringlichkeit und Deutlichkeit gesagt.<lb/>
+<name type="person" ref="per:127047">Caspari</name> war sehr überrascht von mir zu hören, daß jetzt nachdem die<lb/>
+EG für Plafondüberschreitungen die vorgesehenen Zölle verlangt, auch<lb/>
+Österreich bei Handpappe durch die Plafondüberschreitung von EG-Export<lb/>
+nach Österreich dasselbe machen wird. Während die EG es ja mit 8.<lb/>
+Oktober schon inkraft gesetzt hat, werden bei uns noch Vorgespräche<lb/>
+geführt, aber es kommt auch zu dieser Maßnahme. Warum niemand vorher<lb/>
+<name type="person" ref="per:127047">Caspari</name> dies mitteilte, kann ich nicht verstehen. <name type="person" ref="per:127047">Caspari</name> bedankte sich<lb/>
+bei mir darüber sehr, denn er wäre sonst nach Brüssel zurückgekehrt und<lb/>
+hätte angenommen, daß Österreich wieder einmal bis Jahresende die Zoll<lb break="no"/><pb n="56-1277" facs="56_1980-10-14_1277.jpg"/>erhöhungen ohne Maßnahmen übernimmt. Da ja das Kontingent meistens<lb/>
+bereits schon im ersten Halbjahr erschöpft ist, der Plafond also er<lb break="no"/>reicht, die EG dann aber höhere Zölle erst im letzten Quartal verlangt,<lb/>
+hat er geglaubt, es wird auch heuer keinerlei Retorsionsmaßnahmen ge<lb break="no"/>ben.</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Warum hat <name type="person" ref="per:115656">Steiger</name> oder <name type="person" ref="per:114800">Michitsch</name> ihm nichts<lb/>
+gesagt?<lb/>
+</p>
+            <p xml:space="preserve">Beim Internatskurs mit der LUGA im Gewerkschaftsheim in Vöslau disku<lb break="no"/>tierten wir über die Wirtschaftssituation und ganz besonders natürlich<lb/>
+auch über die Kernkraftfrage. Die Diskussion war sehr sachlich und<lb/>
+für einen Grundkurs überraschend lebhaft.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Bezirkskonferenz in Favoriten, wo ich über die Energiever<lb break="no"/>sorgung der Zukunft referierte, gab es auch eine lange und sehr inten<lb break="no"/>sive Diskussion. Interessant für mich war nur, daß die JG-Vertreter<lb/>
+dort durch die pro Atomkraftwerkdiskutanten erst aufgefordert werden<lb/>
+mußten, sie sollten sich auch jetzt hier melden. Bei einer Bezirks<lb break="no"/>ausschußsitzung hat es darüber, glaube ich, eine sehr heftige Diskussion<lb/>
+gegeben. Auch in Favoriten war aber nach meinem Referat die Diskussion<lb/>
+sehr sachlich, sehr lang aber doch von einer große Toleranz ausge<lb break="no"/>zeichnet. Ich war darüber persönlich sehr überrascht. Sicherlich kann<lb/>
+dies auch darauf zurückgeführt werden, daß ich in meiner Art des Vor<lb break="no"/>trages, immer gewürzt mit dem Wiener Schmäh, bei allen Sachfragen nie<lb break="no"/>mals einen extremen Standpunkt vortrage, sondern wirklich versuche,<lb/>
+die Sache darzulegen, wie ich sie sehe. Wenn es nach den bisherigen<lb/>
+Diskussionen geht, die ich geführt habe, und wenn ich die Erfahrungen<lb/>
+von <name type="person" ref="per:97543">Heindl</name> und <name type="person" ref="per:107956">Satzinger</name> noch dazu nehme, müßte diesmal die ganze Atom<lb break="no"/>frage wesentlich anders laufen als das letzte Mal. Diese Prognose hat<lb/>
+allerdings einen Nachteil, sie gilt für den jetzigen Zustand und für<lb/>
+den Teil, den wir beobachten können. Da letzten Endes aber wahrschein<lb break="no"/>lich noch Jahre bis zur endgültigen Volksabstimmung vergehen werden,<lb/>
+weiß kein Mensch, wie dann die Stimmung in Österreich tatsächlich<lb/>
+sein wird.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="56_1272_01" facs="56_1980-10-14_1272-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 14.10.1980</head>
+         </div>
+         <pb n="56_1272_02" facs="56_1980-10-14_1272-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+         <pb n="56_1277_01" facs="56_1980-10-14_1277-01.jpg"/>
+         <pb n="56_1277_02" facs="56_1980-10-14_1277-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesordnung 60. Ministerratssitzung, 14.10.1980</head>
+            <gap reason="sampling"/>
+            <pb n="56_1277_03" facs="56_1980-10-14_1277-03.jpg"/>
+         </div>
+         <pb n="56_1277_04" facs="56_1980-10-14_1277-04.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>hs. Notizen (TO MR-Sitzung Rückseite)</head>
+         </div>
+         <pb n="56_1277_05" facs="56_1980-10-14_1277-05.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Nachtrag TO Ministerratssitzung, 14.10.1980</head>
+         </div>
+      </back>
+   </text>
+</TEI>

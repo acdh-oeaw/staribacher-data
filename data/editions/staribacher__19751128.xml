@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der 28. November 1975</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band28_1975-11-28</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1975-11-28">Freitag, 28. November 1975</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-01-08">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="28-1391" facs="28_1975-11-28_1391.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Freitag, 28. November 1975<lb/>
+</p>
+            <p xml:space="preserve">Baumeister <name type="person" ref="per:117022">Weidinger</name>, den ich persönlich überhaupt nicht kenne,<lb/>
+wünscht von mir eine Bestätigung über die Bonität seiner Firma und<lb/>
+über seine Exportbemühungen insbesondere nach dem Iran. Nach dem<lb/>
+Motto: Frechheit siegt, hat er mich sofort per Du angesprochen, was<lb/>
+mich an und für sich gar nicht stört, besonders wenn es sich um<lb/>
+einen Genossen handelt. Er war aber sichtlich enttäuscht, als ich<lb/>
+ihm erklärte, dass ich überhaupt niemandem Bestätigungen über Bonität<lb/>
+geben und schon gar nicht über ein Verfahren für Herstellung von<lb/>
+Fertigteilhäusern. Andererseits erklärte ich ihm sofort, dass Minister<lb/>
+<name type="person" ref="per:140592">Osman</name> von Ägypten im nächsten Jänner kommt und er zu diesem Zeit<lb break="no"/>punkt entsprechende Vorbereitungen treffen soll, damit er eventuell<lb/>
+dieses Bausystem den Ägyptern zeigt. Ich vermittelte ihn sofort<lb/>
+zu Min.Rat <name type="person" ref="per:97426">Fälbl</name> resp. unseren Branchenrefenten.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:113038">REIM</name>: Bitte erkundige Dich, ob die Ägypter daran ein<lb/>
+Interesse hätten über das Fachreferat.<lb/>
+</p>
+            <p xml:space="preserve">Die ungarischen Management-Experten stellten sich als ein Direktor<lb/>
+und eine Mitarbeiterin von der Leichtindustrie in Ungarn heraus.<lb/>
+In Ungarn ist es scheinbar üblich, dass in jedem Ministerium resp.<lb/>
+in grösseren verstaatlichten Betrieben Management-Schulungen und<lb/>
+auf alle Fälle Bürokratien entstehen oder sind, die sich mit diesen<lb/>
+für die westlichen Staaten so typische Entwicklung auch beschäftigen.<lb/>
+Unsere österr. Managementinstitute haben die Leute bereits eine ganze<lb/>
+Woche betreut, ihnen die Einrichtungen gezeigt und sie waren sehr<lb/>
+befriedigt.<lb/>
+</p>
+            <p xml:space="preserve">Anschliessend nützte ich die Gelegenheit, um mit <name type="person" ref="per:97493">Gröger</name> gleich über<lb/>
+die weitere Entwicklung der Management-Arbeitsgemeinschaft, die wir<lb/>
+doch erheblich subventionieren, zu reden. <name type="person" ref="per:98053">Wanke</name> und <name type="person" ref="per:97493">Gröger</name> sind der<lb/>
+Meinung, dass wir jetzt noch zuwarten sollen, wie sich die ganze<lb/>
+Lage weiter entwickelt. Die Leistungen sind für unsere Ziele eigent<lb break="no"/>lich sehr unzulänglich. Das einzige, was sich unsere Management-Institute<lb/>
+geeinigt haben, ist, dass sie dieses Programm ein wenig abstimmen und<lb/>
+wir das Programmheft in Form einer Broschüre bezahlen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: Ich glaube, wir sollten eine neue Zielvorstellung<lb/>
+und gemeinsames Programm mit den Instituten erarbeiten.<lb/>
+</p>
+            <pb n="28-1392" facs="28_1975-11-28_1392.jpg"/>
+            <p xml:space="preserve"><name type="person" ref="per:97493">Gröger</name> nützte die Gelegenheit, um darzulegen, dass es notwendig<lb/>
+wäre, als Nachfolge von <name type="person" ref="per:114963">Dinzl</name> Dr. <name type="person" ref="per:131309">Bock</name> vom Präsidium der Industrie<lb break="no"/>sektion zuzuteilen. Ich erklärte ihm sofort, dass ich dazu keine<lb/>
+Möglichkeit sehe, denn seinerzeit wurde die <name type="person" ref="per:114085">Grumbeck</name>-Abteilung nicht<lb/>
+zuletzt auf seinen Vorschlag und Wunsch der Personalvertretung nur<lb/>
+geschaffen, um eben <name type="person" ref="per:114085">Grumbeck</name> eine Abteilung zu geben. Jetzt ist<lb/>
+<name type="person" ref="per:114085">Grumbeck</name> der Nachfolger von <name type="person" ref="per:114963">Dinzl</name> in dieser Abteilung als Zweitzu<lb break="no"/>teilung der Dienstälteste auch sachlich am meisten prädestinierte<lb/>
+und hat daher vollkommen zurecht die Möglichkeit die <name type="person" ref="per:114963">Dinzl</name>-Abtei<lb break="no"/>lung zu übernehmen. Dadurch wird die Abteilung 2 selbstverständlich<lb/>
+wieder aufgelöst und die so verhältnismässig geringen Agenden,<lb/>
+dieser Abteilung auf andere verteilt.<lb/>
+</p>
+            <p xml:space="preserve">Beim Jour fixe mit AK und ÖGB war Gott sei Dank mein alter Streit<lb break="no"/>hansel <name type="person" ref="per:98112">Zöllner</name> wieder gesund. Bezüglich der Papierförderung kam<lb/>
+ich mit <name type="person" ref="per:114467">Wehsely</name> überein, dass doch ein grösserer Betrag für die<lb/>
+nö. Zellstoffproduktions GesmbH von <name type="person" ref="per:114599">Turnauer</name> reserviert werden sollte.<lb/>
+Da die Anträge von Borregaard mit 500 Mill. wesentlich reduziert<lb/>
+werden können, 100 Mill. hat Borregaard selbst zugegeben, <name type="person" ref="per:114467">Wehsely</name><lb/>
+denkt, es könnten 150 Mill. sein, da der Pölser Antrag mit<lb/>
+200 Mill. und Brigl mit 160 Mill. sicherlich nicht in vollem<lb/>
+Umfang zum Tragen kommen, müsste ein grösserer Betrag auch für<lb/>
+die nö. Zellstoffproduktions GesmbH zur Verfügung stehen Allerdings<lb/>
+ist dieses Projekt noch sehr nebulös. <name type="person" ref="per:114599">Turnauer</name> hat noch immer nicht<lb/>
+zu erkennen gegeben, wie er die 500 Mill. S Eigenkapital mit Borregaard<lb/>
+gemeinsam aufbringen möchte. Dies ist ebenfalls erst ein Viertel der<lb/>
+2 Mia. Investitionssumme. Wichtig erscheint nur, dass wir uns nicht<lb/>
+auf allzu grosse Projekte einlassen, die dann nicht ausfinanziert<lb/>
+werden können und wo man weitere Forderungen dann als Handelsminister<lb break="no"/>riumsbudget stellen wird. Ich habe bis jetzt von <name type="person" ref="per:97311">Androsch</name> niemals<lb/>
+mehr Mittel verlangt und möchte dies auch in Hinkunft nicht tun.<lb/>
+Erstens ist es für mich klar, dass in dieser budgetären Lage er<lb/>
+wirklich sparen müsste und zweitens soll niemals gesagt werden, dass<lb/>
+auch ich mehr Budgetmittel für das Handelsministerium verlangt habe.<lb/>
+Durch die seinerzeitige Erhöhung von 3 auf 5 % Gewerbesteueranteil<lb/>
+für die Bürges – Gewerbestrukturverbesserung bekomme ich sowieso<lb/>
+solange die Gewerbesteuer steigt und dies wird auch im nächsten Jahr,<lb/>
+da die Berechnung immer zwei Jahre zurückliegt, der Fall sein, muss<lb/>
+ich mit diesen Mitteln auskommen. Kritisch wird es nur in drei<lb/>
+Jahren, weil dann die Rezessionsjahre zur Veranlagung kommen und<lb/>
+<pb n="28-1393" facs="28_1975-11-28_1393.jpg"/>sicherlich ein entsprechender Rückschlag des Gewerbesteuerertrages<lb/>
+zu erwarten ist. Langfristig darf ich also das Handelsministeriums<lb break="no"/>budget nicht mit Projekten verpflastern.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR ALLE: Bitte auf diese Entwicklung stets Bedacht nehmen.<lb/>
+</p>
+            <p xml:space="preserve">Die Preiserhebung vor und nach der Erhöhung der Mehrwertsteuer wird<lb/>
+von allen begrüsst. <name type="person" ref="per:114075">Schmidt</name> hat nur vollkommen recht, wenn er erklärt,<lb/>
+man sollte die Computerlisten von 1972 als Grundlage nehmen.<lb/>
+Erstens haben wir dadurch die Möglichkeit, einen grösseren Artikel<lb break="no"/>rahmen festzulegen, der bereits eingeführt ist und von dem die<lb/>
+Unternehmer mehr oder minder annehmen, dass er allumfassend gewesen ist.<lb/>
+Zweitens haben wir aber dann einen Preisvergleich mit den alten Computer<lb break="no"/>listen.</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name>: Bitte die endgültige Auswahl mit <name type="person" ref="per:97646">Koppe</name> und mir<lb/>
+noch besprechen.<lb/>
+</p>
+            <p xml:space="preserve">Die Arbeiterkammer und teils der ÖGB waren nicht genau informiert,<lb/>
+wie es jetzt mit dem Ausschuss <name type="person" ref="per:140510">Keller</name> über Gewährleistung, Garantie<lb/>
+usw. im konsumentenpolitischen Beirat weitergehen soll. Das Justizmini<lb break="no"/>sterium, die Bürokratie scheinbar ohne Wissen von <name type="person" ref="per:140510">Keller</name>, d. h.<lb/>
+dem Büro von <name type="person" ref="per:97372">Broda</name>, hat eine Sitzung einberufen, um über gesellschafts<lb break="no"/>rechtliche Konsumentenschutzpolitik zu verhandeln. Wir haben im<lb/>
+letzten Moment diese Zweigleisigkeit dadurch verhindern können,<lb/>
+dass wir <name type="person" ref="per:140510">Keller</name> und ich <name type="person" ref="per:97372">Broda</name> überzeugt haben, dass es zweckmässig<lb/>
+ist, bei uns im Beirat über die konsumentenpolitische Seite auch<lb/>
+der Justizverwaltung zu verhandeln, während über die gesellschafts<lb break="no"/>rechtliche (GsmbH, AG-Gesetz usw.) rein im Justizministerium zu ver<lb break="no"/>handeln ist. Selbstverständlich werden dann die Gesetze, die auch<lb/>
+vom konsumentenpolitischen Standpunkt erlassen werden müssen, im Justiz<lb break="no"/>ministerium vorbereitet und auch ausgesendet und dann natürlich in<lb/>
+die Regierung eingebracht. Auf alle Fälle hoffe ich, dass es dadurch<lb/>
+gelungen ist, eine Zweigleisigkeit zu verhindern und was noch viel<lb/>
+wichtiger ist, eine Konkurrenzorganisation neben dem Verein für <choice><choice><sic>Konsu<lb break="no"/>mentenorganisation</sic><corr>Konsumenteninformation?</corr></choice></choice> und dem Handelsministerium – Konsumentenpolitischen<lb/>
+Beirat – zu verhindern.<lb/>
+</p>
+            <p xml:space="preserve">Bezüglich der Preisregelung für Naturgas – der Antrag stammt von der<lb/>
+AK Oberösterreich – kommen wir überein, dass jetzt abgewartet wird,<lb/>
+was in der Paritätischen Kommission herauskommt. Hier gibt es differente<lb/>
+<pb n="28-1394" facs="28_1975-11-28_1394.jpg"/>Auffassung zwischen AK und ÖGB, aber ich hoffe, dass es <name type="person" ref="per:114075">Schmidt</name><lb/>
+gelingen wird, auch <name type="person" ref="per:98112">Zöllner</name> davon zu überzeugen, dass der jetzt<lb/>
+eingeschlagene Weg zielführender ist. <name type="person" ref="per:113026">Tumpel</name> teilte mit, dass die<lb/>
+Gasgesellschaften sich verpflichtet haben, für Anfang Dezember die<lb/>
+Unterlagen zu liefern und dass es jetzt schon feststeht, dass die<lb/>
+RAG keinerlei Preiserhöhungen vornehmen wird, weil die Index-<lb/>
+Schwankungen unter 5 % bleibt. <name type="person" ref="per:114075">Schmidt</name> urgierte, dass es notwendig<lb/>
+wäre, bei der ÖMV jetzt die Prüfung langsamer durchzuführen.<lb/>
+Er fürchtet, dass jetzt unsere Beamten eine exakte und verhältnis<lb break="no"/>mässig schnelle Prüfung einleiten und dadurch die ÖMV ihre Ziffern<lb/>
+vorlegen muss. Ich konnte mir nicht verkneifen darauf hinzuweisen,<lb/>
+dass die AK mich ganz hart attackiert hat, weil ich nicht sofort die<lb/>
+Preise seinerzeit gesenkt habe und ein Preisverfahren eingeleitet habe<lb/>
+Jetzt beginnt die AK auch sich mehr dafür zu interessieren, wie es<lb/>
+bei den weiteren Ausbau der Lagerstätten, der Mineralölsteuerer<lb break="no"/>höhung usw. bestellt sein wird bevor sie eine endgültige Linie<lb/>
+bezüglich von Produktenpreiserhöhungen einschlägt. Für mich ist<lb/>
+es ganz selbstverständlich, ich werde den Weg, den ich eingeschlagen<lb/>
+habe, unbeirrt fortsetzen, weder mich von momentanen Attacken der<lb/>
+Arbeiterkammer noch von allzu sehr taktischen Überlegungen der ÖMV<lb/>
+leiten lassen, einmal Hü und einmal Hott zu sagen. Die Prüfung<lb/>
+wird fortgesetzt, sie wird, wenn sie einigermasen gründlich ist<lb/>
+sowieso sehr sehr lange dauern.<lb/>
+</p>
+            <p xml:space="preserve">Eine längere interne Diskussion in unserem Büro nahm doch die Frage<lb/>
+des organischen Einbaues von <name type="person" ref="per:114508">Herbert Tieber</name> in Anspruch. <name type="person" ref="per:113038">Reim</name> war sehr<lb/>
+erschüttert, als er wie er sich ausdrückte, mehr oder minder über<lb break="no"/>raschend erfuhr, er müsse das Zimmer sofort räumen. Er sieht die<lb/>
+politische Notwendigkeit vollkommen ein, dass jetzt das Sekreta<lb break="no"/>riat und das Büro umorganisiert wird. Nach längerer Diskussion<lb/>
+leider in Abwesenheit von <name type="person" ref="per:113038">Reim</name>, der erkrankt ist, den ich aber<lb/>
+telefonisch sofort informierte und beruhigte, einigten wir uns dahin<lb break="no"/>gehend, dass <name type="person" ref="per:114508">Tieber</name> auf alle Fälle in den ersten Wochen im Zimmer<lb/>
+von <name type="person" ref="per:97469">Gehart</name> sitzt, wodurch <name type="person" ref="per:113038">Reim</name> in seinem Zimmer bleiben kann.<lb/>
+<name type="person" ref="per:113038">Reim</name> wieder hat dann nachdem ich telefonisch mit ihm gesprochen<lb/>
+habe und ersucht, er soll auf alle Fälle, solange er Fieber hat, zu<lb/>
+Hause bleiben und erst am Montag kommen, wieder <name type="person" ref="per:97469">Gehart</name> angerufen<lb/>
+und ihm mitgeteilt, dass er eine ganz andere Zimmerkombination<lb/>
+vor hätte, nämlich sogar aus dem 1. Stock in das 2. Stockwerk zu<lb/>
+übersiedeln. Letzten Endes einigten wir uns, dass wir am Montag,<lb/>
+<pb n="28-1395" facs="28_1975-11-28_1395.jpg"/>wenn <name type="person" ref="per:113038">Reim</name> zurück ist und vor allem einmal <name type="person" ref="per:114508">Tieber</name> hier ist<lb/>
+dieses Problem endgültig bereinigen werden. <name type="person" ref="per:98053">Wanke</name> erinnerte<lb/>
+mich zu Recht, dass in der Arbeiterkammer wir auch eine solche<lb/>
+Diskussion gehabt haben und ich damals glaube ich erklärt<lb/>
+habe, schön, dann ziehe halt ich irgendwo hin, womit natürlich<lb/>
+dann auch dieses Problem endgültig bereinigt war. Ich habe dieser<lb/>
+Frage wahrscheinlich Zeit meines Lebens viel zu wenig Augenmerk<lb/>
+zugewendet, als ich 1945 in der AK begonnen habe, war ich mit <name type="person" ref="per:98087">Wirland<lb break="no"/>ner</name> in einem Zimmer, da wegen Platzmangels gar keine andere Möglich<lb break="no"/>keit bestanden hätte. Ich erinnere mich aber noch sehr gut, dass auch<lb/>
+damals bereits immer die grösste Diskussion war, wer sitzt wo und wer<lb/>
+hat das schönere Zimmer und warum sitzt der dort und nicht da. Ich<lb/>
+muss also feststellen, dass sich auch im Laufe von 30 Jahren dieses<lb/>
+Problem nicht geändert hat. Ich hoffe nur, dass wir es besser lösen,<lb/>
+als es momentan den Anschein hat. Das Ziel kann doch nur sein,<lb/>
+dass das Büro besser funktioniert und dass womöglich niemand belei<lb break="no"/>digt ist und vielleicht gar so verärgert, dass die Mitarbeit im<lb/>
+Team darunter leiden würde.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="28_1390_01" facs="28_1975-11-28_1390-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 28.11.1975</head>
+         </div>
+      </back>
+   </text>
+</TEI>

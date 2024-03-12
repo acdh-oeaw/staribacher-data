@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstag, der  7. April 1981</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band59_1981-04-07</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1981-04-07">Dienstag, 7. April 1981</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-05-16">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="59-0475" facs="59_1981-04-07_0475.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Dienstag, 7. April 1981<lb/>
+</p>
+            <p xml:space="preserve">Beim Jour fixe mit der Handelskammer erzählte <name type="person" ref="per:97893">Sallinger</name> über seinen<lb/>
+Jordanien-Besuch. Dies war für ihn ein großes Erfolgserlebnis, denn<lb/>
+bei der Baustelle von Vöest-Alpine und Waagner-Biro hielt er vor den<lb/>
+österreichischen Arbeitern eine Ansprache, die ihm, obwohl er selbst<lb/>
+sagte, sicher lauter Sozialisten sind, großen Beifall brachte. Die<lb/>
+Projekte, die jetzt dort gerade gebaut werden, zieht er auch auf seine<lb/>
+Mitwirkung und seine neuerliche Aussprache mit vielen Ministern ist<lb/>
+er überzeugt, trägt entscheidend zur Wirtschaftsbeziehung mit Jordanien<lb/>
+bei. Er entschuldigte sich auch, daß er den jordanischen Handelsminister<lb/>
+in meinem Namen eingeladen hat. Ich erklärte ihm sofort, ich bin mit<lb/>
+jeder Einladung einverstanden, da unsere gute Zusammenarbeit und freund<lb break="no"/>schaftliche Beziehung selbstverständlich dieses pouvoir für ihn bein<lb break="no"/>haltet. Ausdrücklich vermerkte ich, daß nicht allein die Bezahlung, die<lb/>
+die Handelskammer ja stets dann zu erfolgen hat, der Grund dieser meiner<lb/>
+Stellungnahme ist, was er mit Befriedigung zur Kenntnis nahm.<lb/>
+</p>
+            <p xml:space="preserve">Die Jagdausstellung in Sofia, wozu die Handelskammer bereit gewesen wäre<lb/>
+1 Mio. zur Verfügung zu stellen, wenn der Landwirtschaftsminister eben<lb break="no"/>falls 1 Mio. aufwendet, dieser erklärt nur 500.000 S und verlangte von<lb/>
+den Ländern die zweiten 500.000,–– S. <name type="person" ref="per:97893">Sallinger</name> hat bei allen Ländern<lb/>
+interveniert, trotzdem haben diese abgelehnt. <name type="person" ref="per:97893">Sallinger</name> wird deshalb<lb/>
+in einem Brief an die Bulgaren die endgültige Absage mitteilen. Dies<lb/>
+wird eine arge Verstimmung hinterlassen, sicherlich zu Interventionen<lb/>
+führen. Vor etlichen Jahren hat man sich nämlich an der Jagdausstellung<lb/>
+in Budapest sehr wohl beteiligt. Ich tröstete <name type="person" ref="per:97893">Sallinger</name>, weil ich über<lb break="no"/>zeugt bin, daß die ersten Interventionen der Bulgaren zu einer Änderung<lb/>
+der Haltung führen wird.<lb/>
+</p>
+            <p xml:space="preserve">Kammeramtsdirektor <name type="person" ref="per:132700">Schuler</name> von Vorarlberg der Handelskammer soll das<lb/>
+kleine Ehrenzeichen bekommen. Sein Vorgänger KADir. <name type="person" ref="per:132701">Konzent</name>, jetzt in<lb/>
+Pension, hatte das große Ehrenzeichen bekommen. Die Handelskammer bat,<lb/>
+ich sollte intervenieren, damit <name type="person" ref="per:132700">Schuler</name> nicht in dieser Beziehung be<lb break="no"/>nachteiligt wird.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte sofort alles veranlassen.<lb/>
+</p>
+            <p xml:space="preserve">Autoimporteure möchten eine Schutzbestimmung für ihre Vertragsimportver<lb break="no"/>hältnisse mit den Mutterhäusern. In Belgien gibt es eine solche gesetz<lb break="no"/><pb n="59-0476" facs="59_1981-04-07_0476.jpg"/>liche Regelung, wo eine Kündigung des Vertrages nur mit Abstandszahlung<lb/>
+usw. möglich ist. <name type="person" ref="per:112978">Kehrer</name> selbst hat größte Bedenken gegen eine solche<lb/>
+Regelung, ersucht aber, daß ich mich dieses Problems annehme.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97584">JAGODA</name> UND <name type="person" ref="per:108746">HAFFNER</name>: Bitte die Unterlagen besorgen und<lb/>
+prüfen.<lb/>
+</p>
+            <p xml:space="preserve">GD a.d. <name type="person" ref="per:113818">Gehart</name> von der Zementindustrie hat für den Aufsichtsrat der<lb/>
+Verbundgesellschaft seinen Nachfolger <name type="person" ref="per:114724">Hollweger</name> vorgeschlagen. <name type="person" ref="per:97893">Sallinger</name><lb/>
+ist darüber verärgert, daß man mit ihm nicht einmal gesprochen hat.<lb/>
+Im Prinzip denkt er sogar daran einen ÖVP-ler zu entsenden. Ich erkläre<lb/>
+ihm sofort, dies würde unabsehbare Folgen für die vom Bund entsendeten<lb/>
+Aufsichtsräte, die derzeit der ÖVP angehören, nach sich ziehen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Jour fixe <name type="person" ref="per:97453">Fremuth</name> setzen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97893">Sallinger</name> interveniert neuerdings wegen der Straße zum Tiefenbachferner,<lb/>
+dem Ansuchen der Firma Falkner. Ich mache keinerlei Zusagen, sondern er<lb break="no"/>kläre nur, mir den Akt wieder vorlegen zu lassen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Wie steht die Sache.<lb/>
+</p>
+            <p xml:space="preserve">Die sowjetische Handelskammer, Präs. <name type="person" ref="per:115006">Borissow</name> und Vizepräsident <name type="person" ref="per:126933">Pitowra<lb break="no"/>now</name>, möchte klären, ob Österreich etwas dagegen hätte, wenn zur großen Ma<lb break="no"/>schinenkommissionsenquete in Moskau auch der Ministerpräsident <name type="person" ref="per:127768">Tichonow</name><lb/>
+und <name type="person" ref="per:97668">Kreisky</name> den Ehrenschutz mitübernehmen. Die sowjetische Handelskammer<lb/>
+hat aber ein gespanntes Verhältnis zum Außenhandelsministerium und<lb/>
+<name type="person" ref="per:97893">Sallinger</name> befürchtet, daß dann Außenhandelsminister <name type="person" ref="per:112951">Patolitschew</name>, der<lb/>
+jetzt mit mir den Ehrenschutz als höchster Funktionär übernommen hat,<lb/>
+beleidigt sein könnte. Ich erkläre sofort, daß es für mich persönlich<lb/>
+vollkommen egal wäre, es aber unzweckmäßig ist, wenn wir dieses Problem<lb/>
+beim <name type="person" ref="per:127768">Tichonow</name>-Besuch zur Sprache brächten. Wir einigten uns darauf, daß<lb/>
+ich darauf erst reagiere, wenn die russische Seite an mich herantritt.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97893">Sallinger</name> ersuchte unter allen Umständen, daß die Grundpreisauszeichnung<lb/>
+verschoben wird. Der Handel macht die größten Schwierigkeiten, der Vor<lb break="no"/>sitzende LAbg. <name type="person" ref="per:97406">Ebert</name>, der bei dem letzten Konsumentenbeirat mehr oder<lb/>
+minder die selbst mit allen Interessensvertretungen gefundene Lösung<lb/>
+akzeptierte, meint, jetzt würde der Wiener Handel mit ihm dagegen auf<lb break="no"/>marschieren. Ich sage zu, daß wir die ganze Angelegenheit rausziehen<lb/>
+werden, es aber nicht von der Tagesordnung absetzen können. Staatssekre<lb break="no"/><pb n="59-0477" facs="59_1981-04-07_0477.jpg"/>tär <name type="person" ref="per:109808">Albrecht</name> zeigt sich mit Recht sehr verwundert, denn sie hat ja mit<lb/>
+<name type="person" ref="per:97406">Ebert</name> über dieses Problem etliche Male gesprochen und war über den<lb/>
+erzielten Kompromiß zwischen den Interessensvertretungen, und dem <name type="person" ref="per:97406">Ebert</name><lb/>
+schon zugestimmt hat, sehr erfreut.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97584">JAGODA</name> UND <name type="person" ref="per:109811">BURIAN</name>: Bitte mit <name type="person" ref="per:109808">Albrecht</name> den besten Zeit<lb break="no"/>punkt der Inkraftsetzung besprechen und LAbg. <name type="person" ref="per:97406">Ebert</name> einbeziehen.<lb/>
+</p>
+            <p xml:space="preserve">Ich informierte <name type="person" ref="per:97893">Sallinger</name> über den Besuch des tschechischen Handels<lb break="no"/>minister <name type="person" ref="per:114726">Barcak</name> bei der Andritzer und lud ihn zu dieser Gelegenheit<lb/>
+<choice><choice><sic>nach</sic><corr>in die</corr></choice></choice> Steiermark ein. <name type="person" ref="per:97893">Sallinger</name> zeigt sich nämlich immer wieder uninfor<lb break="no"/>miert, vielleicht auch tatsächlich über die Details von <name type="person" ref="per:97474">Gleißner</name> wirk<lb break="no"/>lich nicht informiert und möchte dann überall dabei gewesen sein.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bei ausländischen Ministerbesuchen, immer, wenn<lb/>
+die Termine feststehen, für mich Unterlagen ins Jour fixe mitgeben.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:112978">Kehrer</name> als auch <name type="person" ref="per:97893">Sallinger</name> waren über die Artikel des Kuriers sowohl<lb/>
+gegen den Sohn von <name type="person" ref="per:108324">Breschnew</name> als auch über die schwierigen Versorgungs<lb break="no"/>verhältnisse in der SU gerade zum jetzigen Zeitpunkt des Besuches von<lb/>
+<name type="person" ref="per:127768">Tichonow</name> genauso wie ich empört. Insbesondere der Angriff gegen den<lb/>
+stellvertretenden Außenhandelsminister <name type="person" ref="per:126561">Juri Breschnew</name> ist ein Wahnsinn.<lb/>
+Schon einmal hat der Kurier einen so großen Artikel gestartet, völlig<lb/>
+unmotiviert, ja instinktlos wird <name type="person" ref="per:108324">Breschnew's</name> Sohn als Crazy-Horse-Be<lb break="no"/>sucher, der die Damen dort mit Sekt aushält, 100 $ dem Kellner gibt usw.<lb/>
+geschildert. Ich habe diese Artikel auch in der Regierungsvorbesprechung,<lb/>
+als <name type="person" ref="per:97668">Kreisky</name> sich über die TV-Sendung, die wieder nur das Negative aus<lb/>
+den sowjetisch-österreichischen Handelsbeziehungen berichtet, ebenfalls<lb/>
+erwähnt. Ich weiß, daß die Pressefreiheit in einer Demokratie notwendig<lb/>
+ist und ich selbst würde stets dafür kämpfen. Ob aber das, was jetzt in<lb/>
+Österreich geschieht, wirklich die Pressefreiheit ist, die einer Demokratie<lb/>
+gut tut, bezweifle ich.<lb/>
+</p>
+            <p xml:space="preserve">Ich informierte die Handelskammer über die Schwierigkeiten für <choice><choice><sic>die<lb/>
+Kiwaniskongregation</sic><corr>den Kiwanis-Kongreß</corr></choice></choice>, 4.400 Zimmer in Wien zur Verfügung zu stellen.<lb/>
+3.050 wurden erst gemeldet und für die restlichen verlangen die Hotels,<lb/>
+daß ihre Vertragsreisebüros eingeschaltet werden. Dies lehnt die Kiwanis-<lb/>
+Organisation ab. <name type="person" ref="per:112978">Kehrer</name> versuchte die Wiener Hotels, da sie ja vertrag<lb break="no"/><pb n="59-0478" facs="59_1981-04-07_0478.jpg"/>lich eben vereinbart haben und die Reisebüros ihre Provision erhalten<lb/>
+müßten, in diesem Fall zu entschuldigen. Meine Idee ist, da muß man<lb/>
+halt die Provisionszahlung irgendwann anders unterbringen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Was macht jetzt unsere Fremdenverkehrsabteilung?<lb/>
+</p>
+            <p xml:space="preserve">Ich ersuchte <name type="person" ref="per:112978">Kehrer</name>, er sollte dem Dr. <name type="person" ref="per:97474">Gleißner</name> den Auftrag geben, wenn<lb/>
+österreichische Konsuln, z.B. <name type="person" ref="per:132703">Moser</name> oder <name type="person" ref="per:131037">Nowotny</name> in Amerika, Leute emp<lb break="no"/>fehlen, die entsprechende Studien über Verbesserung des österreichisch-<lb/>
+amerikanischen Handels ausarbeiten sollen, diese zu empfangen. Ich in<lb break="no"/>terveniere für keinen einzigen, daß er auch tatsächlich einen Auftrag<lb/>
+bekommen muß, die Handelskammer behauptet nämlich, sie hätte mit besten<lb/>
+amerikanische Marketingfirmen entsprechende Verträge und werde ständig<lb/>
+über die Entwicklungstendenzen informiert.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte mit <name type="person" ref="per:97474">Gleißner</name> die Vorgangsweise vereinbaren.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:112978">Kehrer</name> intervenierte neuerdings bei mir, daß bei der Gemischten Kommis<lb break="no"/>sion jetzt in Budapest unter keinen Umständen ein Regionalabkommen ver<lb break="no"/>sprochen werden soll, <name type="person" ref="per:97893">Sallinger</name> ergänzte, auch wenn der burgenländische<lb/>
+Kammerpräsident <name type="person" ref="per:97487">Graf</name> ähnlich dem Accordino ein <choice><choice><sic>Burgenlandinum</sic><corr>"Burgenlandino"?</corr></choice></choice> wünscht.<lb/>
+Ich erklärte, daß wenn die Ungarn auf dieses Problem zu sprechen kommen,<lb/>
+ich natürlich darüber reden muß, ohne Zusagen zu machen. Dasselbe habe<lb/>
+ich übrigens ja auch mit Jugoslawien jetzt bewiesen, daß man dort redet,<lb/>
+ohne daß etwas herausgekommen ist.<lb/>
+</p>
+            <p xml:space="preserve">Bezüglich der irakisch-österreichischen Gemischten Kommission einigten<lb/>
+wir uns darüber, daß, da ich zu dem vorgesehenen Termin sowieso Gewerk<lb break="no"/>schaftstag habe, wir jetzt eine Absage erteilen müssen. Da das Außen<lb break="no"/>amt jetzt größte Bedenken gegen diese Gemischte Kommission hat, wird<lb/>
+die weitere Vorgangsweise nur im Einvernehmen mit dem Außenamt erfolgen.<lb/>
+MR <name type="person" ref="per:97426">Fälbl</name> hat mir gegenüber erklärt, dann werden wir viele gute Geschäfte<lb/>
+mit Irak verlieren, weil die Iraker sicher dann sehr verärgert sein<lb/>
+werden. Die Gemischte Kommission ist ja letzten Endes gerade<add>[auf]</add> eine Inter<lb break="no"/>vention des österreichischen Botschafter in Bagdad zustande gekommen.<lb/>
+Das Außenamt macht jetzt wegen kriegerischer Tätigkeit größte Bedenken<lb/>
+gegen diese Kommission geltend, auch die Schweiz hat eine Einladung des<lb/>
+Ölminister <name type="person" ref="per:126956">Karims</name> resp. des Handelsministers als unzweckmäßig betrach<lb break="no"/>tet.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte für nächste Ministerratssitzung eine de<lb break="no"/>taillierte Information zusammenstellen lassen.<lb/>
+</p>
+            <pb n="59-0479" facs="59_1981-04-07_0479.jpg"/>
+            <p xml:space="preserve">Da ich die Unterlagen der Ministerratsvorbesprechung nicht greifbar<lb/>
+habe, muß ich aus Gedächtnis niederschreiben. <name type="person" ref="per:97668">Kreisky</name> schilderte die<lb/>
+Wirtschaftslage, <name type="person" ref="per:111740">Dallinger</name> ergänzte und meinte, mit Funder hätte man<lb/>
+jetzt eine Lösung gefunden, auch dort müsse er aber auf die Insolvenz<lb break="no"/>entgeltzahlung verzichten. Dies mache 32 Mio. S aus. Mit den Ländern und<lb/>
+den Banken hat er ähnlich wie Kneissl 30 Mio. in Summe, je 10 Mio zu<lb/>
+Fonds dazuzahlen müssen. Da er wegen dem Insolvenzentgeltsicherungs<lb break="no"/>fonds praeter legem, er glaubt, sogar contra legem handelt, habe ich ihm<lb/>
+das Anbot gemacht, daß das Handelsministerium jederzeit bereit wäre<lb/>
+ihm die wirtschaftliche Notwendigkeit für solche Maßnahmen zu bestä<lb break="no"/>tigen. Ich bin mir darüber vollkommen bewußt, daß dies bei einer Rech<lb break="no"/>nungshofkontrolle dann bedeutet, daß nicht nur das Sozialministerium,<lb/>
+sondern auch das Handelsministerium, sprich die verantwortlichen Minister,<lb/>
+angegriffen werden. Trotzdem halte ich diese Vorgangsweise für richtig.<lb/>
+Ich habe mich bereits bei seinen Amtsvorgängern Vizekanzler <name type="person" ref="per:97525">Häuser</name> und<lb/>
+<name type="person" ref="per:98063">Weißenberg</name> genauso verhalten. <name type="person" ref="per:111740">Dallinger</name> nahm dies mit Befriedigung<lb/>
+zur Kenntnis. Ich habe angenommen, daß vielleicht in der letzten Zeit,<lb/>
+wie mir SC <name type="person" ref="per:111737">Marsch</name> immer mitteilte, zwar das Sozialministerium sehr gerne<lb/>
+uns Informationen und Unterstützung <choice><choice><sic>hat</sic><corr>gab?</corr></choice></choice>, wir aber vom Sozialministeriums<lb break="no"/>beamten nichts hören. NR <name type="person" ref="per:97543">Heindl</name> hat mich dann aufgeklärt, daß alle<lb/>
+Entscheidungen im Sozialministerium sich jetzt der Sozialminister selbst<lb/>
+vorbehält und auch die Verhandlungen weitestgehend selbst führt. Die<lb/>
+Beamten haben keinen Spielraum mehr.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:111737">MARSCH</name> UND <name type="person" ref="per:108746">HAFFNER</name>: Bitte vorsichtigst recherchieren und<lb/>
+mir berichten.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:112992">Löschnak</name> brachte das Ausschreibungsgesetz neuerdings zur Diskussion.<lb/>
+Ich erklärte sofort und habe <name type="person" ref="per:97668">Kreisky</name> im Detail informiert, daß mit die<lb break="no"/>sem Ausschreibungsgesetz die bis jetzt gehandhabte Praxis, Koordina<lb break="no"/>tion, wenn Ausländer den Zuschlag bekommen würden, bei der Arbeits<lb break="no"/>gruppe, die im Handelsministerium eingesetzt ist, nicht mehr so agieren<lb/>
+kann, wie dies bis jetzt doch zugunsten der österreichischen Unterneh<lb break="no"/>mungen geschehen ist. Natürlich erklärte ich freimütig, daß dies, wie<lb/>
+mir <name type="person" ref="per:108328">Pahr</name> auch bestätigt, bei ausländischen Unternehmungen und Staaten,<lb/>
+weil diese sich auch bei ihm beschwerten, als GATT-widrig und nicht<lb/>
+EFTA-konform angegriffen wird. <name type="person" ref="per:97668">Kreisky</name> wollte aber unbedingt, daß der<lb/>
+jetzige Zustand, der ja letzten Endes auch zu AKH-Skandal geführt hat,<lb/>
+geändert wird. Da sich die Meistbetroffenen, Verkehrsministerium, Bauten<lb break="no"/>ministerium, Wissenschaftsministerium, einverstanden erklärten, daß<lb/>
+dieser Entwurf jetzt in die Begutachtung geht, habe ich auch meine Be<lb break="no"/><pb n="59-0480" facs="59_1981-04-07_0480.jpg"/>denken zurückgezogen. Wichtig für mich ist nur, daß sie endlich einmal<lb/>
+dort deponiert sind.<lb/>
+</p>
+            <p xml:space="preserve">Bezüglich des Satellitenfernsehen berichtete <name type="person" ref="per:97356">Blecha</name>, daß, wenn Österreich<lb/>
+nicht ein solches Satellitenfernsehen aufbaut, die Kabelgesellschaften,<lb/>
+welche ja deutsche Programme über den Satelliten empfangen werden, dafür<lb/>
+Gebrauchsgebühren bezahlen müssen, hat Österreich einen solchen, dann<lb/>
+kann man diese Gebühren gegenseitig verrechnen. Offen blieb natürlich,<lb/>
+wie die Finanzierung erfolgen soll. Generalintendant <name type="person" ref="per:97326">Bacher</name> möchte<lb/>
+unbedingt ein solches Fernsehen auf der selben Basis wie die Finanzie<lb break="no"/>rung des jetzigen ORF-Programms, Gebühren und teilweise Werbung. <name type="person" ref="per:97668">Kreisky</name><lb/>
+entschied, darüber müsse sich die Medienkommission der Partei noch<lb/>
+sehr eingehend unterhalten.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Aussprache mit CSSR-Vizeaußenhandelsminister <name type="person" ref="per:132697">Strougal</name>, der<lb/>
+ältere Bruder des Ministerpräsidenten, kam natürlich das österreichi<lb break="no"/>sche Passivum von 2,8 Mrd. S zur Sprache. Wenn die in den ersten beiden<lb/>
+Monaten erkennbare Tendenz fortgeht, mehr Importe weniger Exporte, dann<lb/>
+werden wir in diesem Jahr unseren Export mit dem Defizit wesentlich<lb/>
+überdecken. Im Vorjahr haben wir 5,8 Mrd. S importiert und 3 Mrd. expor<lb break="no"/>tiert. <name type="person" ref="per:132697">Strougal</name> meinte, es müßten über 500 Mio. öS aber Drittlandimporte<lb/>
+über Österreich in die CSSR von dem Defizit abgezogen werden. Handels<lb break="no"/>delegierter <name type="person" ref="per:132704">Winkler</name> bezifferte diese Summe mit 1 Mrd. S. Die günstige<lb/>
+Entwicklung für die CSSR im Außenhandel ist <choice><choice><sic>durch</sic><corr>auf</corr></choice></choice> die gestiegenen Holz<lb break="no"/>preise, die dreimal so hoch sind, die Petrochemiepreise und die Kohlen<lb break="no"/>preise zurückzuführen. Die Erklärung stimmt, aber sie ändert nichts<lb/>
+an der Tatsache, daß dieses Defizit für uns unerträglich ist und<lb/>
+<name type="person" ref="per:132697">Strougal</name> eingesehen hat, daß etwas dagegen unternommen werden muß.<lb/>
+Mit Recht verlangte er allerdings, es müßten sich die österreichischen<lb/>
+Firmen mehr um den tschechischen Markt bemühen.<lb/>
+</p>
+            <p xml:space="preserve">Bezüglich der Energielieferungen, auch der aus Polen in die CSSR, und<lb/>
+der Energiesituation ist <name type="person" ref="per:132697">Strougal</name> sehr pessimistisch. Die Polen haben<lb/>
+ihnen 3 Mio. to Kohle geliefert, 240.000 im Monat, in den letzten Mona<lb break="no"/>ten wenigstens 30.000 bis 40.000, beabsichtigt waren 1,8 Mio. to im<lb/>
+Jahr. Jetzt ist sämtliche Lieferung eingestellt worden. Nur mit der SU<lb/>
+hat die CSSR keine Schwierigkeiten, die vereinbarten Energiemengen zu<lb/>
+beziehen, bei Öl z.B. sind es 18 Mio. to, dazu müssen sie 10 %, 1,8 Mio.,<lb/>
+noch <choice><choice><sic>in den</sic><corr>im</corr></choice></choice> Westen kaufen. Auch die sowjetischen Ölpreise haben sich<lb/>
+wesentlich erhöht, von 57 Rubel auf 78 Rubel die Tonne. Der Ölpreis<lb/>
+liegt natürlich noch immer tief unter dem Weltmarktpreis. Sein Bruder<lb/>
+<pb n="59-0481" facs="59_1981-04-07_0481.jpg"/><name type="person" ref="per:113616">Strougal</name> wird heute am Parteitag in Prag den neuen 5-Jahresplan vorle<lb break="no"/>gen, der sicherlich genehmigt wird. Dort gibt es etliche Projekte, an<lb/>
+denen Österreich auch interessiert ist. Dieser 5-Jahresplan ist aber<lb/>
+nicht im Detail fertiggestellt. Problematisch sind noch immer die<lb/>
+Rohstoffe und metallurgischen vorgesehenen Planziffern. <name type="person" ref="per:132697">Strougal</name> hat<lb/>
+mit unter 4 Augen dann versichert, die polnische Frage müßte von den<lb/>
+Polen selbst gelöst werden. Die Polen müßten halt nur endlich einmal<lb/>
+wieder zu arbeiten beginnen, um ihre Lieferverpflichtungen einzuhalten.<lb/>
+Auf die Dauer könnte man nicht nur den Polen ununterbrochen Hilfe ge<lb break="no"/>währen. Mein Argument ihm gegenüber war, daß solange <name type="person" ref="per:108324">Breschnew</name> in Prag,<lb/>
+<name type="person" ref="per:127768">Tichonow</name> in Wien ist, wird bestimmt nichts passieren. Natürlich hoffe<lb/>
+ich auch dann, daß darüber hinaus nicht die gefürchtete sowjetische In<lb break="no"/>tervention kommt.<lb/>
+</p>
+            <p xml:space="preserve">Schuh-Ski hat sich jetzt des Radwanderns angenommen und ersuchte mich,<lb/>
+eine Ottakringer Eröffnungstour, sicherlich fast 100 Jugendliche, zu<lb/>
+starten. Großzügig, wie ich war, erklärte ich sofort, da fahre ich mit,<lb/>
+soweit meine Zeit erlaubt. Überrascht war dann über die Länge der Tour,<lb/>
+noch viel mehr, daß sie bis auf den Wilhelminenberg hinaufging. Hätten<lb/>
+mich nicht zwei Radprofis ein wenig angeschoben, ich wäre sicherlich<lb/>
+nicht bis rauf gekommen. In der Ebene habe ich ganz gut mitgehalten, aber<lb/>
+am Berg hinauf ging mir dann wirklich die Luft aus. Völlig verschwitzt<lb/>
+bin ich dann gerade noch Verhandlungstermin mit Ministerpräsident<lb/>
+<name type="person" ref="per:127768">Tichonow</name> gekommen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:127768">Tichonow</name> hat den Gruß <name type="person" ref="per:108324">Breschnews</name> überbracht, <name type="person" ref="per:97668">Kreisky</name> die Neutralitäts<lb break="no"/>politik seit 25 Jahre Österreichs geschildert, die UNO-Einsätze Zypern,<lb/>
+Golan erwähnt, den Nord-Süd-Dialog, wo jetzt 25 Länder in Mexiko form<lb break="no"/>lose Gespräche geführt haben. Der Präsident Mexikos, <name type="person" ref="per:125827">Lopez Portillo</name>, und<lb/>
+<name type="person" ref="per:97668">Kreisky</name> wurden beauftragt auch die SU zu einer unverbindlichen Ausspra<lb break="no"/>che einzuladen. <name type="person" ref="per:97668">Kreisky</name> meinte, <name type="person" ref="per:127768">Tichonow</name> könnte jetzt auf diese Ein<lb break="no"/>ladung reagieren oder später, wie ich erwartet habe, hat <name type="person" ref="per:127768">Tichonow</name> dar<lb break="no"/>auf überhaupt nicht reagiert, meinte nur, dem Nord-Süd-Dialog, so wie<lb/>
+er jetzt geführt wird, könnte die SU nicht beitreten. Die Entwicklungs<lb break="no"/>länder bekommen von der SU Kredite niedrig verzinst oder zinsenfrei,<lb/>
+um ihre Ressourcen zu erschließen, sie wirtschaftlich aufzubauen und<lb/>
+nicht einmalige Lebensmittelzuwendungen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> und <name type="person" ref="per:127768">Tichonow</name> stimmten überein, daß die Entspannungspolitik fort<lb break="no"/>gesetzt werde, in Madrid soll man zu einem positiven Abschluß kommen.<lb/>
+</p>
+            <pb n="59-0482" facs="59_1981-04-07_0482.jpg"/>
+            <p xml:space="preserve">Die UdSSR hat ein Moratorium vorgeschlagen, für die <sic>Drupmapogespräche</sic><add>Truppenembargo-?</add><lb/>
+sollte man nicht nur Marine, Luftstreitkräfte, Landheer, sondern vor<lb/>
+allem auch die von Amerika beabsichtigte Raketenstärken in Westeuropa<lb/>
+zurückstellen. Es gibt keine Überlegenheit nach <name type="person" ref="per:127768">Tichonow</name> der SU in<lb/>
+Europa. Wenn NATO-Pläne, Nachrüstung, verwirklicht werden, dann wird<lb/>
+die NATO 1 1/2 mal stärker werden. Die SU müßte dann nachziehen.<lb/>
+</p>
+            <p xml:space="preserve">Für den Krisenherd Naher Osten meinte <name type="person" ref="per:97668">Kreisky</name>, der müßte ruhiggestellt<lb/>
+werden, <name type="person" ref="per:127768">Tichonow</name> ist der Meinung, die Camp-David-Politik ist in einer<lb/>
+Sackgasse. Es müsse eine internationale Kommission inklusive PLO über<lb/>
+diese Gebiete verhandeln. Israel müsse alle Truppen zurückziehen. Die<lb/>
+Sicherheit aller Staaten in diesem Gebiet müsse gewährleistet werden,<lb/>
+inklusive Israel.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> meinte, die Intensivierung der SU- und Österreich-Zwischenbe<lb break="no"/>ziehungen ist sehr gut, insbesondere auch der Handel. In der Prosperi<lb break="no"/>tät Europas hat er sich bewährt, jetzt in der Krisenphase von Europa<lb/>
+müsse er noch verstärkt werden. Derzeit hat Österreich große wirtschaft<lb break="no"/>liche Sorgen, die durch diese verstärkte Zusammenarbeit überwunden wer<lb break="no"/>den könnten. <name type="person" ref="per:127768">Tichonow</name> ging dann auf die konkreten Projekte ein, die<lb/>
+seinerzeit schon bei meiner Anwesenheit in Moskau auch von mir mitbe<lb break="no"/>sprochen wurden und die wir ja neuerdings jetzt mit den sowjetischen<lb/>
+Stellen, insbesondere Handelsrat <name type="person" ref="per:113078">Nikolaenko</name>, im Detail abgestimmt hatten.<lb/>
+Bezüglich des neuen Gasliefervertrages meinte <name type="person" ref="per:127768">Tichonow</name>, würde <name type="person" ref="per:126517">Ossipow</name><lb/>
+am 6. Mai nach Wien kommen und dort müsse man über alle die notwendigen<lb/>
+Verträge verhandeln. Er ist fest davon überzeugt, daß Deutschland und<lb/>
+ganz Westeuropa jetzt für diese neue Pipeline und Gasbezug gewonnen<lb/>
+werden können. <name type="person" ref="per:127768">Tichonow</name> erwähnte, daß 200 Mio. m³ Gas mehr heuer geliefert<lb/>
+werden. Ich habe mich sofort eingeschaltet und mit Dank zur Kenntnis<lb/>
+genommen und gesagt, dies gilt aber zusätzlich zu den noch zu liefern<lb break="no"/>den 170 Mio m³, die im Vorjahr nicht geliefert wurden. <name type="person" ref="per:127183">Komarow</name> schal<lb break="no"/>tete sich ein und meinte, die SU hätte sich für 2,6 Mrd. m³ im vergange<lb break="no"/>nen Jahr und heuer mit entsprechender 5 %-iger Toleranz vertraglich<lb/>
+verpflichtet. Neuerdings stellte ich klar, daß dies aber bedeutet hat,<lb/>
+daß die SU uns vom Vorjahr noch 170 Mio m³ schuldig ist. <name type="person" ref="per:127768">Tichonow</name> und<lb/>
+<name type="person" ref="per:127183">Komarow</name> meinten dann, über dieses Problem könnte man reden.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:127768">Tichonow</name> kritisierte dann, daß wir leider auf Drittmärkten nicht zu<lb break="no"/>sammenarbeiten können, weil die Österreicher meistens zu hohe Preise<lb/>
+offerieren. Dies gelte auch für verstärkte Exportlieferungen in die<lb/>
+SU. <name type="person" ref="per:97668">Kreisky</name> erklärte, da sei der harte Schilling der Hauptgrund, aber<lb/>
+<pb n="59-0483" facs="59_1981-04-07_0483.jpg"/>die Minister sollten jetzt die Detailverhandlungen führen.<lb/>
+</p>
+            <p xml:space="preserve">Alle verließen den Saal, nur die österreichische Wirtschaftsdelegations<lb break="no"/>vertreter und <name type="person" ref="per:127183">Komarow</name> sowie der Vizegosplanpräsident <name type="person" ref="per:132705">Inosemzew</name> sowie<lb/>
+ein dritter Sowjetrusse, den ich nicht kannte. Zuerst gab es auch ein<lb/>
+protokollarisches Problem, <name type="person" ref="per:114156">Hinteregger</name> als Botschafter sagte mit Recht,<lb/>
+er braucht gar nicht in die SU zurückfahren, wenn er jetzt als Inter<lb break="no"/>preter arbeitet. Das Protokoll des BKA im Streit mit dem Protokoll des<lb/>
+Außenministeriums hatte wieder nichts vorgesehen. Der Handelsdelegierte<lb/>
+<name type="person" ref="per:114588">Draszczyk</name> erklärte wieder, er könne von Russisch ins Deutsche sofort<lb/>
+übersetzen, aber nicht umgekehrt, mit einem Wort, wir mußten warten, bis<lb/>
+dann endlich vom Außenamt doch eine russische Dolmetscherin gekommen<lb/>
+ist. Ich übergab <name type="person" ref="per:127183">Komarow</name> die Liste der mit <name type="person" ref="per:113078">Nikolaenko</name> abgestimmten<lb/>
+Projekte. <name type="person" ref="per:127183">Komarow</name> kannte die einzelnen Projekte sehr genau und ging<lb/>
+im Detail darauf ein. Auch <name type="person" ref="per:132705">Inosemzew</name> erklärte immer wieder, bei dem<lb/>
+Gasvertrag ist die entscheidende Frage die Finanzierung. Mit aller<lb/>
+Deutlichkeit erklärte ich, daß wir nicht bereit sind eine Verzinsung<lb/>
+von 7 %, wie die SU nebenbei bemerkt hatte, bei den 10 Mio. S Kredit<lb/>
+durchsetzen konnte, akzeptieren würde. Die Hochzinspolitik verlangt<lb/>
+wesentlich andere Zinssätze und Kriterien. Die Gefahr, die Botschafter<lb/>
+<name type="person" ref="per:114156">Hinteregger</name> gesehen hat, daß die SU auf diesen Kreditvertrag zurück<lb break="no"/>greift, besteht nicht zumindestens bis jetzt wurde keine Andeutung ge<lb break="no"/>macht.<lb/>
+</p>
+            <p xml:space="preserve">Ich habe mit GD <name type="person" ref="per:97518">Haschek</name> von der Kontrollbank noch einmal gesprochen und<lb/>
+dieser meinte, für das Röhrengasgeschäft hat es immer einen eigenen<lb/>
+Kreditvertrag gegeben, 6 3/4 %, 7 Jahre Laufzeit, 5 % Anzahlung für den<lb/>
+10 Mrd. S Kredit handelt es sich um bilaterale Geschäfte. Jedem einzelnen<lb/>
+muß von der Österreichischen Kontrollbank zugestimmt werden, Anzahlung<lb/>
+15 %, 10 Jahre Laufzeit, maximal 25 % Auslandsanteil, 7 % Verzinsung,<lb/>
+den österreichischen Firmen werden 8,25 verrechnet. Die Differenz muß<lb/>
+im Preis einkalkuliert werden. Bis 6. April 81 ist dieser Kredit mit<lb/>
+1,9 Mrd. S ausgenützt. Die sowjetische Seite ist auch in keinem Wort<lb/>
+auf diesen Kreditvertrag eingegangen, <name type="person" ref="per:127183">Komarow</name> schlug vor, daß am 6. Mai<lb/>
+auch die Finanzierungsfrage mit Außenhandelsministerstellvertreter<lb/>
+<name type="person" ref="per:126517">Ossipow</name> verhandelt werden muß. Drei Verträge wird es geben, einen Röhren<lb break="no"/>vertrag zwischen <name type="person" ref="per:129248">Afanasis</name><add>[evtl. Falschidentifikation]</add>, GD der Promsyrio<add>[?]</add>, und <name type="person" ref="per:97315">Apfalter</name>, jetzt beim<lb/>
+Besuch unterschrieben, den Gasexportvertrag zwischen Sojusgasexport<lb/>
+und ÖMV zu verhandeln und zu vereinbaren und dann einen Kreditfinanzie<lb break="no"/>rungsvertrag. Darüber kommt dann ein allgemeines Abkommen über Menge,<lb/>
+Preis, Erdklausel usw. Diesen Vertrag wünschen diesmal die Sowjets,<lb/>
+<pb n="59-0484" facs="59_1981-04-07_0484.jpg"/>sollten zwischen den Ministern abgeschlossen werden, die vergangenen<lb/>
+3 hat <name type="person" ref="per:97337">Bauer</name> mit <name type="person" ref="per:126517">Ossipow</name> abgeschlossen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97337">Bauer</name> war am Abend dann, als ich den Handelsrat <name type="person" ref="per:113078">Nikolaenko</name> informierte,<lb/>
+dabei und tat sehr empört, daß man jetzt diese Kompetenz von <name type="person" ref="per:126517">Ossipow</name><lb/>
+und ihm wegnehmen will. <name type="person" ref="per:113078">Nikolaenko</name> meinte, darüber könne man reden, ich<lb/>
+erklärte sofort, mir ist es ganz wurscht, dies soll die sowjetische<lb/>
+Seite entscheiden. <name type="person" ref="per:113078">Nikolaenko</name> ist auch davon überzeugt, daß wir die<lb/>
+200 Mio m³, weil ich sie zusätzlich gefordert habe, auch zusätzlich<lb/>
+wahrscheinlich bekommen könnte, zu dem 170 Mio m³, die nachgeliefert<lb/>
+werden. Außer den einzelnen Projekten, die die sowjetische Seite schon<lb/>
+sehr gut kannte, habe ich dann lange Zeit versucht Bierexportlieferungen<lb/>
+in die Sowjetunion zu forcieren, dies hat nur ein lächerliches Achsel<lb break="no"/>zucken auf der sowjetischen Seite ausgelöst. Was die Sowjets brauchen,<lb/>
+wäre Butter, Fleisch, Grundnahrungsmittel, die können wir, wie ich ihnen<lb/>
+erklärte, nicht liefern, weil wir zu große Stützungen dazuzahlen müßten<lb/>
+und das Finanzministerium hat die Schillingbeträge dafür nicht. GD<lb/>
+<name type="person" ref="per:132706">Schimakov</name> von der <choice><choice><sic>Rasnoexport</sic><corr>Raznoimport?</corr></choice></choice> ist derzeit in Österreich, um mehr Konsum<lb break="no"/>güter zu bestellen. Anstelle der 1 Mio. Paar Schuhe werden z.B. heuer<lb/>
+wahrscheinlich 1,7 Mio. Paar gekauft, Trikotagen, Bettwäsche, Damenmäntel,<lb/>
+Anzüge, alles wird wesentlich erhöht werden, Bier aber kommt beim besten<lb/>
+Willen nicht infrage.<lb/>
+</p>
+            <p xml:space="preserve">Mein Hinweis, daß Eumig sich jetzt mit Überwachungseinrichtungen in<lb/>
+den Sowjetexport einschalten möchte, wurde zur Kenntnis genommen, zur<lb/>
+Intervention hat mich besonders SC <name type="person" ref="per:97468">Gatscha</name> informiert, der immer über<lb/>
+seine Abteilungen nicht nur über die verstaatlichte Industrie, sondern<lb/>
+auch über andere ganz gut informiert ist.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte versuche bei allen Verhandlungen die Unter<lb break="no"/>lagen von <name type="person" ref="per:97468">Gatscha</name> ebenfalls zu bekommen.<lb/>
+</p>
+            <p xml:space="preserve">SGP möchte Komponenten liefern, insbesondere für Kernkraftwerke, <name type="person" ref="per:127183">Komarow</name><lb/>
+erklärte sofort, hier wird fast nichts importiert, außer Spezialrohre,<lb/>
+Spezialarmaturen und Pumpenelemente.<lb/>
+</p>
+            <p xml:space="preserve">Besonders gefreut hat, als ich wunschgemäß von GD <name type="person" ref="per:98102">Wolfsberger</name>, Siemens,<lb/>
+mich für die Kabelbestellungen bedankte. 200 km, sprich 50 Mio. S, sind<lb/>
+fix, weitere 75 Mio. sind in Aussicht. <name type="person" ref="per:127183">Komarow</name> erklärte ausdrücklich,<lb/>
+er wird dies dem Ministerpräsidenten <name type="person" ref="per:127768">Tichonow</name> übermitteln, davon bin<lb/>
+ich überzeugt.<lb/>
+</p>
+            <pb n="59-0485" facs="59_1981-04-07_0485.jpg"/>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:125291">MARTIN</name>: Bitte<add>[mit]</add> <name type="person" ref="per:98102">Wolfsberger</name> verbinden.<lb/>
+</p>
+            <p xml:space="preserve">Die Gespräche verliefen sehr freundschaftlich. Die SU ist sicherlich<lb/>
+bestrebt, entsprechende Bestellungen in der nächsten Zeit zu tätigen.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> sagte mit Recht, wenn solche Besuche erfolgen, dann gibt es<lb/>
+eine Zeit hindurch gute Aufträge, nachher lassen sie wieder nach,<lb/>
+<name type="person" ref="per:127768">Tichonow</name> meinte, dies sei eben ein Zeichen, daß man sich öfters auf<lb/>
+so höchster Ebene treffen müßte.<lb/>
+</p>
+            <p xml:space="preserve">Im Bezirksvorstand und dann insbesondere in der Bezirksausschußsitzung<lb/>
+gab es nach meinem Bericht eine ganz harte Diskussion über die weitere<lb/>
+Vorgangsweise in Wien. Die Funktionäre können und wollen nicht zur<lb/>
+Kenntnis nehmen, daß aufgrund des AKH-Skandals sich in Wien nichts<lb/>
+ändern sollte. Die bisherigen Änderungen, Umwandlung der AG in eine<lb/>
+GesmbH, Bestellung des Dr. <name type="person" ref="per:114610">Kandutsch</name> zum Aufsichtsratsvorsitzenden, der<lb/>
+jetzt auch mit der begleitenden Kontrolle durchgreifen soll, wird alles<lb/>
+als nicht befriedigend betrachtet. Die Landstraßer Funktionäre sind ja<lb/>
+nicht zuletzt auch deshalb so geschockt, weil sie mit Recht spüren, und<lb/>
+ich bin davon überzeugt, wir den Bezirksvorsteher bei der nächsten Ge<lb break="no"/>meinderatswahl garantiert verlieren. Hier könnte uns nur mehr ein<lb/>
+Wunder retten und Wunder geschehen eben nicht.<lb/>
+</p>
+            <p xml:space="preserve">Das sowjetische Essen war irrsinnig spät, 20.45 Uhr angesetzt, warum,<lb/>
+weiß ich nicht. Ministerpräsident <name type="person" ref="per:127768">Tichonow</name> ist daher beim Kaffee nur<lb/>
+eine Minute sitzengeblieben, hat, glaube ich, gar keinen getrunken,<add>[ist]</add> dann<lb/>
+aufgestanden und weggegangen. <name type="person" ref="per:127183">Komarow</name> erklärte mir, in der Sowjetunion<lb/>
+ist es jetzt 1 Uhr nachts. Die Sowjets sind eben nicht bereit, die<lb/>
+Legende, dort wird nächtelang gezecht, aufrechtzuerhalten oder gar zu<lb/>
+beweisen. Ich habe bereits damals in der SU beim <name type="person" ref="per:97668">Kreisky</name>-Besuch schon<lb/>
+festgestellt, wie ungeheuer schnell serviert wurde, wie man den Trink<lb break="no"/>spruch hielt und dann sofort das Festessen beendete. <name type="person" ref="per:97668">Kreisky</name> hat in<lb/>
+seiner Tischrede sehr vorsichtig, aber doch, ohne die einzelnen Länder<lb/>
+zu nennen, auf die Selbständigkeit und auf das freie Entscheidungsrecht<lb/>
+dieser Länder verwiesen. <name type="person" ref="per:127768">Tichonow</name> wieder hat für den Westen ein großes<lb/>
+Moratorium, das er bereits in der Sitzung erwähnte, offiziell mitge<lb break="no"/>teilt und immer wieder zur friedlichen Koexistenz und Entspannung<lb/>
+appelliert. Diese Rede war allerdings nicht für Österreich, sondern<lb/>
+für den Westen bestimmt. Ich fürchte nur, daß die Amerikaner sicherlich<lb/>
+jetzt nicht reagieren werden. Durch den Anschlag auf <name type="person" ref="per:126232">Reagan</name>, seine<lb/>
+jetzige Verschlechterung, den Streit innerhalb der amerikanischen Admi<lb break="no"/>nistration, wer ihn eigentlich zu vertreten hätte, wird auch nicht dazu<lb/>
+beitragen, daß Amerika jetzt flexibler reagiert, als <name type="person" ref="per:126232">Reagan</name> bis vor die<lb break="no"/><pb n="59-0486" facs="59_1981-04-07_0486.jpg"/>sem Zeitpunkt immer angekündigt hat. Die Sowjets müßten deutliche<lb/>
+Zeichen setzen, zu Verhandlungen sei es jetzt noch zu früh. Hoffentlich<lb/>
+wird es nicht einmal für Verhandlungen zu spät sein.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="59_0474_01" facs="59_1981-04-07_0474-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 7.4.1981</head>
+         </div>
+         <pb n="59_0474_02" facs="59_1981-04-07_0474-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+         <pb n="59_0486_01" facs="59_1981-04-07_0486-01.jpg"/>
+         <pb n="59_0486_02" facs="59_1981-04-07_0486-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesordnung 83. Ministerratssitzung, 7.4.1981</head>
+            <gap reason="sampling"/>
+            <pb n="59_0486_03" facs="59_1981-04-07_0486-03.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="59_0486_04" facs="59_1981-04-07_0486-04.jpg"/>
+         </div>
+         <pb n="59_0486_05" facs="59_1981-04-07_0486-05.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>hs. Notizen</head>
+         </div>
+         <pb n="59_0486_06" facs="59_1981-04-07_0486-06.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Nachtrag TO 83. Ministerratssitzung, 7.4.1981</head>
+         </div>
+         <pb n="59_0486_07" facs="59_1981-04-07_0486-07.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>hs. Notizen (Nachtrag TO MR-Sitzung Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

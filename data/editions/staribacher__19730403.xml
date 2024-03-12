@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstag, der  3. April 1973</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band15_1973-04-03</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1973-04-03">Dienstag, 3. April 1973</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-10-18">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band15/">
+      <body>
+         <pb n="15-0433" facs="15_1973-04-03_0433.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Dienstag, 3. April 1973</p><p xml:space="preserve">Die Zeitungsherausgeber, <name type="person" ref="per:97902">Schaffelhuber</name> und <name type="person" ref="per:97412">Egger</name> <name type="person" ref="per:137117">Holzbach</name>, Kurier,<lb/>
+ein Mann Kronenzeitung, ein Mann Volksstimme, den ich nicht kannte,<lb/>
+Gen.Dir. <name type="person">Mayerhuber</name>, Dkfm. <name type="person" ref="per:146302">Sorger</name> <add>[evtl. Falschidentifikation, Anm.]</add> ÖPA verhandeln mit mir über<lb/>
+den Punkt Presseförderung Abnahme von Rotopapier aus Österreich.<lb/>
+Die Zeitungsherausgeber sind verpflichtet, da sie ansonsten die<lb/>
+tax para fiscal treffen könnte, österreichisches Rotopapier zu<lb/>
+beziehen. Wir einigen uns auf die Formel, "wenn vergleichbare<lb/>
+Qualität zum gleichen Preis in ausreichender Menge im Inland ge<lb break="no"/>liefert werden kann." Als Schiedsgericht akzeptieren sie das Handels<lb break="no"/>ministerium. Es bezieht sich nur auf Zeitungspapier ZTNr. 48 01 A 3<lb/>
+derzeit gibt es Versorgungsschwierigkeiten Lavamünd und Mürztal<lb/>
+müssen sogar für den Export Deckungskäufe machen, die um 2 DM<lb/>
+teurer sind als sie im Inland erlösen. Der Kurier hat eine grosse<lb/>
+Preisrätselaktion, wo man Häuser gewinnen kann, gestartet und<lb/>
+dadurch seine Auflage, von der man angenommen hat, sie wird um<lb/>
+15 % steigen um 33 % erhöht. Durch die Monatsmenge auf 1.500 auf<lb/>
+3.000 gestiegen. Von den 160.000 t Rotopapiererzeugung in Österreich<lb/>
+wo 90.000 im Inland abgesetzt werden sollten vertraglich, musste<lb/>
+deshalb ein wesentlich grösserer Teil auf den Inlandsmarkt gehen.<lb/>
+Durch diese Häuser-Preisrätsel haben viele 10 Zeitungen und mehr<lb/>
+gleichzeitig gekauft. Die Papierpreise haben auch angezogen, sodass<lb/>
+der seinerzeitige Streitpunkt jetzt in der gegenteiligen Richtung<lb/>
+sich auswirkt. Der derzeitige Liefervertrag zwischen ÖPA und<lb/>
+Zeitungsherausgeber läuft 1975 ab und ich habe mich auch bereiter<lb break="no"/>klärt, als Schiedsrichter, wenn ich angerufen werde, zu fungieren.</p><p xml:space="preserve">Dir. <name type="person" ref="per:97716">Manhart</name>, Kuratorium für Verkehrssicherheit möchte eine Aktion<lb/>
+starten gegen die Akkordentlohnung für LKW-Fahrer. Derzeit ist es<lb/>
+so, dass um die gesetzliche Vorschriften der Ruhepause usw. einzuhal<lb break="no"/>ten, die Fernlaster das Fahrzeug wechseln. <name type="person" ref="per:97716">Manhart</name>, der von der Ver<lb break="no"/>sicherung kommt, meint, die einzige Möglichkeit ist es, die Pflicht<lb break="no"/>versicherung dann durch entsprechenden Selbstbehalt als Druckmittel<lb/>
+zur Einhaltung der Bestimmungen heranzuziehen. <name type="person" ref="per:134300">Metzner</name> meint, dass<lb/>
+das auf der Verkehrsminsterkonferenz in Paris besprochen wird. Ich<lb/>
+wehre mich, dass man die Regelung der Sicherheit für die Fernlast<lb break="no"/>fahrer unter Akkordverdienst bezeichnet. <name type="person" ref="per:97716">Manhart</name> wird mit Direktor<lb/>
+<name type="person" ref="per:140564">Zimmer</name> und <name type="person" ref="per:137269">Hajek</name> von den Versicherungen dieses Problem neuerdings be<lb break="no"/>sprechen. Mein Wunsch wegen Einführung von Sicherheitsgurten bei Fahr<lb break="no"/><pb n="15-0434" facs="15_1973-04-03_0434.jpg"/>schulen erklärt sich <name type="person" ref="per:97716">Manhart</name> bereit, mit dem Fahrschulvertreter<lb/>
+<name type="person" ref="per:139882">Rainer</name>, bevor wir eine gesetzliche Regelung zum Anbringen von<lb/>
+Sicherheitsgurten in den Autos, durch zur Verfügungstellung von<lb/>
+Sicherheitsgurten für die Fahrschulen, zu sprechen.</p><p xml:space="preserve">Die Beschränkung der 100 km/h Geschwindigkeit auf allen Strassen<lb/>
+ganzjährig, wie ihn die ÖVP derzeit fordert, hält <name type="person" ref="per:97716">Manhart</name> für<lb/>
+vollkommen falsch und sinnlos. Damit habe ich das Kuratorium auch<lb/>
+gegen die ÖVP-Initiative auf meine Seite gebracht, in den Kraft<lb break="no"/>fahrverbänden ist die Front daher unsererseits geschlossen.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">Heindl</name>: Bitte von <name type="person" ref="per:134300">Metzner</name> eine Darstellung des Sach<lb break="no"/>verhaltes, warum wir gegen die Beschränkung<lb/>
+auf 100 km und vor allem alle Kraftfahrver<lb break="no"/>bände und das Kuratorium sind, verlangen.</p><p xml:space="preserve">Bei Besprechungen von der Handelskammer und auch <name type="person" ref="per:108322">Meisl</name> sowie seinen<lb/>
+Referenten mit dem griechischen Präsidenten der Handelskammer<lb/>
+Kaneolopoulus wollte ich ursprünglich auf kurze Zeit nur er<lb break="no"/>scheinen. Der griechische Botschafter und insbesondere der Prä<lb break="no"/>sident der griechischen Handelskammer aber wollte unbedingt bei<lb/>
+mir allein vorsprechen. Da die Handelskammer die Diskriminierung,<lb/>
+die EWG-Staaten können jetzt zollermässigt nach Griechenland lie<lb break="no"/>fern und diskriminieren uns, diesen Zustand unbedingt beseitigt<lb/>
+haben will, erklärte ich mich zu dieser Aussprache bereit. Die<lb/>
+beiden Kammern haben Vorbereitungsarbeiten geleistet und <name type="person" ref="per:108322">Meisl</name><lb/>
+meinte, dass diese Vereinbarungen dann auf staatliches Niveaus<lb/>
+gehoben werden müssen.Griechenland hat zwar die Präferenzermässigung<lb/>
+30 % aller UNCTAD-Staaten auch bekommen, doch wurde durch die<lb/>
+30 %-ige Interimszollsetzung für EG-Staaten dieser Vorsprung wieder<lb/>
+ausgeglichen.</p><p xml:space="preserve">Griechenland und Spanien sind bekanntlicherweise vom sozialistischen<lb/>
+politischen Standpunkt Staaten, die man nicht unterstützen soll.<lb/>
+<name type="person" ref="per:97563">Hofstetter</name> hat sich bei mir auch beschwert, dass er erfahren hat,<lb/>
+dass wir Spanien in die EFTA aufnehmen wollen. Er meinte vorwurfs<lb break="no"/>voll, ein Obmann einer Gewerkschaft vertritt jetzt einen Stand<lb break="no"/>punkt, den der Gewerkschaftsbund und insbesondere die Internationale<lb/>
+Gewerkschaftsbewegung auf das entschiedenste ablehnt. Der Präsident<lb/>
+der schwedischen Gewerkschaft <name type="person" ref="per:146321">Geijer</name> hat bei seinem Besuch ausdrück<lb break="no"/>lich dagegen protestiert. Hier komme ich zum ersten Mal mit der<lb/>
+Gewerkschaftsbewegung in eine Gegensatz, wo ich auf Seite der Ge<lb break="no"/>werkschaft natürlich stehe. Ich hätte eigentlich vermutet, dass<lb/>
+<pb n="15-0435" facs="15_1973-04-03_0435.jpg"/>die erste harte Konfrontation nicht auf aussenpolitischem sondern<lb/>
+auch innenpolitischem Gebiet erfolgt. Ich habe eigentlich erwartet<lb/>
+dass es wegen eventueller Lohnforderungen, die in Preisen ihren<lb/>
+Niederschlag finden, oder in einer wirtschaftspolitischen Massnahme<lb/>
+zur Konfrontation mit der Gewerkschaft kommen könnte. Dieses aussen<lb break="no"/>politische Problem, das eigentlich auch ein wirtschaftspolitisches<lb/>
+ist, Aufnahme von Spanien, das eigentlich nur eine Assoziierung will,<lb/>
+ist für eigentlich nicht so tragisch, was die Folgen betrifft. Wohl<lb/>
+aber natürlich was auch meine innere Zwiespältigkeit betrifft. Inter<lb break="no"/>essant ist, dass zuerst die Schweden ganz hart gegen Spanien Stel<lb break="no"/>lung genommen haben, jetzt aber scheinbar sich doch die Situation<lb/>
+von Regierungsseite her geklärt haben dürfte.</p><p xml:space="preserve">Landwirtschaftsminister <name type="person" ref="per:98055">Weihs</name> ist bereit, für die Schafzucht im Rau<lb break="no"/>ristal entsprechende Mittel bereitzustellen, wenn er ein konkretes<lb/>
+Projekt bekommt. Er befürchtet nur, dass die notwendigen Schafe gar<lb/>
+nicht zu bekommen sind. Die seinerzeitige Zusage für die Unter<lb break="no"/>suchungen d.h. das Studienprojekt 65.000 S zu bezahlen, hat <name type="person" ref="per:98055">Weihs</name> gar<lb/>
+nicht gekannt. <name type="person" ref="per:97819">Pleschiutschnig</name> hat ihn entweder nicht informiert<lb/>
+oder es war im Landwirtschaftsministerium überhaupt kein konkretes<lb/>
+Projekt eingereicht. <name type="person" ref="per:137167">Ursprunger</name>, aber auch NR <name type="person" ref="per:114960">Maier</name> haben hier glaube<lb/>
+ich <name type="person" ref="per:98055">Weihs</name> ungerechtfertigt beschuldigt, dass er nicht aktiv eingriff.<lb/>
+<name type="person" ref="per:98055">Weihs</name> erklärte jetzt dezidiert, das <name type="person" ref="per:97819">Pleschiutschnig</name> die Abwicklung<lb/>
+in Hinkunft durchführen soll. Was mich an der ganze Aussprache störte<lb/>
+war, dass sowohl <name type="person" ref="per:137167">Ursprunger</name> als auch <name type="person" ref="per:114960">Maier</name> auf dem Standpunkt stehen,<lb/>
+dass das Landwirtschaftsministerium nichts tut. Ich glaube, dass eben<lb/>
+die Voraussetzung in jedem Ministerium ist, dass entsprechende Anträge<lb/>
+ganz konkret vorliegen, die letzten Endes auch vom bürokratischen<lb/>
+Apparat genehmigt werden müssen. Allgemein gehaltene Zusagen sagen hier<lb/>
+gar nichts.</p><p xml:space="preserve">Direktor <name type="person" ref="per:146320">Gevay</name>, der Besitzer vom Weissen Rössl in Ybbs, möchte eine<lb/>
+Hotel-Casino-Aktion mit amerikanischem Kapital starten. Er behauptet<lb/>
+500 Mill. S zu haben. Aus der Korrespondenz habe ich aber nur ent<lb break="no"/>nommen, dass amerikanische Kreise bereit wären, hier – so wie<lb/>
+in Nevada – Spielcasinos zu errichten. Angeblich hat Direktor<lb/>
+<name type="person" ref="per:113372">Wallner</name> von der Spielcasino-AG ihm diesbezügliche Zusagen bezüglich<lb/>
+Unterstützung und Errichtung gemacht. Ich kann mir dieses nicht<lb/>
+vorstellen und habe ihm dies gleich auf den Kopf zugesagt, dass<lb/>
+eine Ausdehnung auf mehrere Gesellschaften ich mir nicht vorstellen<lb/>
+kann. Um sein Hotel mit Gästen zu füllen, derzeit ist es höchstens<lb/>
+<pb n="15-0436" facs="15_1973-04-03_0436.jpg"/>im Sommer und da mit ganz ausgelastet bei 70 Betten, will er<lb/>
+auch ein Aslan-Zentrum errichten. Aus Bukarest hat er angeblich<lb/>
+diesbezügliche Zusagen, was ich aber auch nicht glaube. Ich habe<lb/>
+ihm empfohlen, sich mit <name type="person" ref="per:97426">Fälbl</name> ins Einvernehmen zu setzen, damit<lb/>
+ich gegebenenfalls in Bukarest für diese Idee interveniere.<lb/>
+Darüber hinaus möchte er noch ein Festival der Donau starten, d.h.<lb/>
+alle Fremdenverkehrsaktivitäten im Donauraum sollten konzentriert<lb/>
+werden. Dafür, erklärt er, braucht er kein Geld, dieses wird er<lb/>
+auftreiben, sondern nur meine moralische Unterstützung, die ich<lb/>
+ihm natürlich zusagte. Ich empfahl ihm, mit <name type="person" ref="per:111367">Würzl</name> sich zusammenzu<lb break="no"/>setzen .</p><p xml:space="preserve">Im Klub der SPÖ gab es bereits in der Früh eine kritische Stimmung<lb/>
+da nach dem Bericht von <name type="person" ref="per:97668">Kreisky</name> nur ganz kurze Zeit zur Diskussion<lb/>
+blieb und sowohl <name type="person" ref="per:97828">Pölz</name> als <name type="person" ref="per:111741">Sekanina</name> sich darüber aufregten. Aus diesem<lb/>
+Grund wurde nach der Haussitzung um 18 Uhr eine Klubtagung angesetzt<lb/>
+Über zwei Dutzend Redner kritisierten zum ersten Mal seit 12 Jahr,<lb/>
+die ich jetzt im Klub bin, die Politik sehr hart. Allerdings rich<lb break="no"/>tete sich interessanterweise weniger gegen die Regierung als gegen<lb/>
+Landeshauptmann <name type="person" ref="per:97953">Sima</name> wegen der politikerbesteuerung-Interview,<lb/>
+die Nationalbankgehälter, gegen die mangelnde Information, gegen<lb/>
+die Beschlussfassung in Gremien, die man nicht kennt, gegen den<lb/>
+ORF, gegen die Belastung mit Mehrwertsteuer bei den Kommunal<lb break="no"/>richtungen und war oftmals sehr hart. Z.B. hat <name type="person" ref="per:97828">Pölz</name> wegen der<lb/>
+Mehrwertsteuer <name type="person" ref="per:97311">Androsch</name> hart attackiert, da er erklärt hat, es<lb/>
+gibt keine Belastung bei Mietern und jetzt sich eben bei ihm heraus<lb break="no"/>stellt, dass bei ihm 486.- 8 pro Jahr die Mieter mehr Mehrwertsteuer<lb/>
+bezahlen müssen. Die Genossen sagen, der Finanzminister hat eine<lb/>
+schöne Larve aber ist gegen die Arbeiter. Als sich <name type="person" ref="per:97311">Androsch</name> zur<lb/>
+Wehr setzte, haben dann <name type="person" ref="per:97558">Hobl</name> und <name type="person" ref="per:111741">Sekanina</name> dazwischen gerufen, er<lb/>
+soll nicht so empfindlich sein. Aus der ganzen Diskussion habe<lb/>
+ich nur eine einzige Erkenntnis gewinnen, die ich allerdings<lb/>
+schon früher hatte: Wenn eine Wahl verlorengeht, werden nicht nur<lb/>
+die Schuldigen gesucht, sondern es kommt auch zu einer irrsinnigen<lb/>
+Spannung innerhalb der Partei. Dann beginnen die aufgestauten<lb/>
+Spannungen sich entladen. Wenn nun Meinungsumfragen, die <name type="person" ref="per:97356">Blecha</name><lb/>
+z.B. in Graz gemacht hat, ergeben, dass 44 % der Mandatare überheb<lb break="no"/>lich selbstherrlich usw. sind, von denen die die SPÖ nicht mehr gewählt<lb/>
+haben, sogar 65 % dies behaupten, dann richtet sich der Zorn gegen<lb/>
+diese Mandatare. Ich bin überzeugt, dass aber im ganzen Klub,<lb/>
+wenn man die Meinung der Bevölkerung erforschen würde, alle als<lb/>
+<pb n="15-0437" facs="15_1973-04-03_0437.jpg"/>überheblich und selbstherrlich bezeichnet würden. Meine Person<lb/>
+mit eingeschlossen. Die Bevölkerung, unsere Wähler, ja selbst unsere<lb/>
+Mitglieder, ja selbst unsere Funktionäre geben einer Partei eine Chance<lb/>
+wenn sie ihr die Stimme in dem Fall sogar die absolute Mehrheit<lb/>
+geben. Dann erwarten sie, dass fehlerlos die Politik gemacht wird,<lb/>
+die sich jeder einzelne wünscht und vorstellt. Allein aus der Zusammen<lb break="no"/>setzung der verschiedensten Interessen kann dies nicht funktionieren.<lb/>
+Daraus ergeben sich Spannungen. Diese Spannungen aber werden zurück<lb break="no"/>gestaut, bis es zur ersten Niederlage kommt und dann entladet sich<lb/>
+das explosionsartig. Dann ist das Vertrauen zu den Funktionären und<lb/>
+Mandataren hin und man sagt, sie sind überheblich und selbstherrlich,<lb/>
+weil sie eben nicht die Politik machten, die man erwartete. Als<lb/>
+nächste Reaktion machten die Mandatare resp. Spitzenfunktionäre<lb/>
+nun ihrerseits Luft von Punkten, die geändert gehören. <name type="person" ref="per:97311">Androsch</name><lb/>
+z.B. beschwerte sich mit Recht, dass bei der Währungsdebatte oft<lb/>
+nur 20 anwesend waren. <name type="person" ref="per:97668">Kreisky</name> meinte, es sei nicht lustig, wenn man<lb/>
+keinerlei Unterstützung von der eigenen Fraktion bekommt usw.<lb/>
+Zur Verstärkung werden dann Verbündete gesucht, wie z.B <name type="person" ref="per:97311">Androsch</name><lb/>
+meinte, bezüglich der Angriffe, dass er nur kapitalistische Politik<lb/>
+macht wegen Wertpapier-Versicherungssparen hätte er die Zustimmung<lb/>
+des ÖGB gehabt. Wegen der Erhöhung der Bezüge von <name type="person" ref="per:98043">Waldbrunner</name><lb/>
+von 200.000 S auf 1 Mill. S die wie <name type="person" ref="per:97668">Kreisky</name> sagte, eine rein wirt<lb break="no"/>schaftliche Funktion ist und keine politische, hat <name type="person" ref="per:97311">Androsch</name> dann<lb/>
+als Entschuldigung die Bezüge der anderen Funktionäre der National<lb break="no"/>bank gesagt. Der Präsident bekommt 27 Mill. S, der Gen.Direktor 2,4<lb/>
+Mio. Die Direktoren 1,8 Mill. Die Direktor-Stellv. 1,3 Mill.S.<lb/>
+Mit dieser Argumentation hat man aber auch wieder das Problem den<lb/>
+Mitgliedern und Wählern nicht erklären sondern wird nun neuerdings<lb/>
+neue Spannungen schaffen. Das Endergebnis dieser Aussprache war,<lb/>
+dass man in Hinkunft die Klubsitzung einen Tag vor der Hauptsitzung<lb/>
+am Nachmittag machen wird, um immer entsprechende Aussprachemöglich<lb break="no"/>keiten zu schaffen. In meiner frühesten Jugend, als ich noch<lb/>
+bei den Roten Falken war, hat man solche Aussprachen auch von Zeit zu<lb/>
+Zeit gemacht und dies <choice><choice><sic>Zeige-Stunden</sic><corr>[unlesbare handschriftliche Korrektur, Anm.]</corr></choice></choice> genannt. Da hat man über die<lb/>
+damaligen Probleme in der Gruppe diskutiert und hart attackiert.<lb/>
+Sicherlich trägt das dazu bei, um die Aggressionen abzubauen. Ich<lb/>
+glaube aber, dass selbst in den Jugendorganisationen, wenn dies noch<lb/>
+gehandhabt wird, dann immer ein gewisser Stachel zurückbleibt.<lb/>
+Von solchen Aussprachen im Klub, bin ich überzeugt davon, bleibt an<lb/>
+sehr grosser Stachel bei einzelnen zurück. Die, die Attackiert wurden,<lb/>
+die, die zurückgewiesen haben. die die letzten Endes geglaubt haben,<lb/>
+eine politische Partei ist eine so geschlossene Einheit, wie sie<lb/>
+sich eben nach einem Wahlsieg präsentiert.</p><p xml:space="preserve"/></div>
+      </body>
+      <back>
+         <pb n="15_0432_01" facs="15_1973-04-03_0432-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 3.4.1973</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="15_0432_02" facs="15_1973-04-03_0432-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="15_0437_01" facs="15_1973-04-03_0437-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesordnung 66. Ministerratssitzung, 3.4.1973</head>
+            <gap reason="sampling"/>
+            <pb n="15_0437_02" facs="15_1973-04-03_0437-02.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="15_0437_03" facs="15_1973-04-03_0437-03.jpg"/>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="15_0437_04" facs="15_1973-04-03_0437-04.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>hs. Notizen (TO Ministerratssitzung Rückseite)</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="15_0437_05" facs="15_1973-04-03_0437-05.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Nachtrag TO 66. Ministerratssitzung, 3.4.1973</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="15_0437_06" facs="15_1973-04-03_0437-06.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>hs. Notizen (Nachtrag TO MR-Sitzung Rückseite)</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="15_0437_07" facs="15_1973-04-03_0437-07.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Typoskript Benya betr. Tagesordnung der 69. NR-Sitzung, 3.4.1973</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="15_0437_08" facs="15_1973-04-03_0437-08.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>hs. Notizen (Typoskript Benya Rückseite)</head>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+   </text>
+</TEI>

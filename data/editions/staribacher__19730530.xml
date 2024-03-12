@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittwoch, der 30. Mai 1973</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band16_1973-05-30</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1973-05-30">Mittwoch, 30. Mai 1973</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-10-04">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band16/">
+      <body>
+         <pb n="16-0641" facs="16_1973-05-30_0641.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Mittwoch, 30. Mai 1973</p><p xml:space="preserve">Der Anfang wurde versehentlich gelöscht.</p><p xml:space="preserve">Jetzt kann man in den Zeitungen Häuser gewinnen, in kürzester<lb/>
+Zeit dann Nationalratsmandate und vielleicht dann einmal Minister.<lb/>
+Es ist ein sehr interessantes Phänomen, das sich hier abspielt,<lb/>
+doch wiederspricht es meiner Mentalität außer des Erkennens mich<lb/>
+daran zu beteiligen. Für mich selbst eind weiterer Beweis, daß<lb/>
+ich kein Politiker bin, was <name type="person" ref="per:98053">Wanke</name> glaube ich, jetzt auch schon<lb/>
+mit der Zeit einsieht.</p><p xml:space="preserve">Red. <name type="person" ref="per:132744">Nowak</name> <add>[evtl. Falschidentifikation, Anm.]</add> wollte von mir als Bezirksobmann vom 3., wissen, was<lb/>
+die Funktionäre, resp. der Bezirk macht. Er war sehr erstaunt als<lb/>
+ich ihm erklärte, daß ich ihm keine Auskunft geben könnte, da bei<lb/>
+uns die Delegierten nach eigenen Gewissen und reichlicher Prüfung,<lb/>
+wie ich hoffe,selbst entscheiden. <name type="person" ref="per:97525">Häuser</name> meinte, ob ich nach Wien<lb/>
+übersiedle konnte ich anwenden, ich wohne schon mein ganzes<lb/>
+Leben in Wien.</p><p xml:space="preserve">GenSekr. <name type="person" ref="per:97411">Effenberger</name> vom ARBÖ und Dr. <name type="person" ref="per:137412">Heller</name> wollen, daß wir unsere<lb/>
+Verordnung Infrarotgeräte, die Auspuffgase prüfen können, abändern.<lb/>
+Sie meinen, daß ihre Institrumente, die derzeit durch die Verordnung<lb/>
+nicht gedeckt werden, vollkommen ausreichen. Selbst wenn dies nicht<lb/>
+der Fall ist, bin ich überzeugt, daß es besser ist, mit den jetzt<lb/>
+vorhandenen Geräte die Prüfung durchführen zu alassen, als allen<lb/>
+Prüfstellen, ob ÖAMTC, ARBÖ oder Mechaniker neue vorzuschreiben.<lb/>
+Zumindestens müßte man sie als Übergangsmaßnahme, so lange sie noch<lb/>
+tauglich sind und das Neue nicht ersetzt ist, zu-lassen. Ebenso müßte<lb/>
+eine bessere Formulierung gefunden werden, um die 500.000 Mopedbe<lb break="no"/>sitzer, die ihr Kraftfahrzeug niemals vom Kraftfahrzeugmechaniker,<lb/>
+sondern meistens vom Radlmechaniker richten lassen, eine Möglichkeit<lb/>
+zu geben, ihr Überprüfungspickerl zu erhalten. Eine diesbezügliche<lb/>
+Auslegung des Gesetzes ist durch die Verordnung möglich.</p><p xml:space="preserve">Anmerkung für <name type="person" ref="per:97543">HEINDL</name><lb/>
+Bitte mit <name type="person" ref="per:134300">Metzner</name> dieses Problem besprechen und Lösungsmöglichkeit<lb/>
+suchen.</p><pb n="16-0642" facs="16_1973-05-30_0642.jpg"/><p xml:space="preserve">Die wichtigste Aufgabe erscheint mir aber, daß die Leute dazu<lb/>
+veranlaßt werden, sich jetzt schon um ihre Bestätigung, d.h. um<lb/>
+das Pickerl umzuschauen. Wenn nämlichmalles gegen Ende des Jahres<lb/>
+dann zu den Überprüfungsstellen kommt, ist es unmöglich, daß diese<lb/>
+so schnell und reibungslos ihre Funktion erfüllen. Sollten nämlich<lb/>
+nicht jetzt bereits die Pickerln angefordert werden, besteht dann<lb/>
+die Gefahr, daß dann in den letzten Monaten ein Run auf die Prüfungs<lb break="no"/>stellen ist und dann ein <choice><choice><sic>Depackel</sic><corr>Debakel</corr></choice></choice> entsteht. <name type="person" ref="per:134300">Metzner</name> hat bereits ein<lb break="no"/>mal einen Termin verlängert und der ARBÖ beschwert sich jetzt, daß<lb/>
+neuerlich über Termine diskutiert und letzten Endes proklamiert<lb/>
+w4rden, ohne daß man mit ihnen Fühlung genommen hat.</p><p xml:space="preserve">Anmerkung für <name type="person" ref="per:97543">HEINDL</name><lb/>
+Ich glaube, daß wir zeitgerecht einen richtiggehenden Terminplan<lb/>
+erstellen sollten. Wenn sich dabei herausstellt, daß mit Stichkon<lb break="no"/>trollen und entsprechenden Meldungen die Gefahr besteht, daß gegen<lb/>
+Jahresende ein Debakel entsteht, müssen zeitgerechte Schritte unter<lb break="no"/>nommen werden.</p><p xml:space="preserve">Dr. <name type="person" ref="per:126929">Molden</name> wollte wegen Alpbach, wo ich im Managementseminar ein<lb/>
+Referat halten sollte, mich unbedingt zu einer positiven endgültigen<lb/>
+Stellungnahme gewinnen. Ich habe aber, da die Wirtschaftsreferate<lb/>
+sowieso von <name type="person" ref="per:97311">Androsch</name> anfangs September bestritten werden, diesmal<lb/>
+abgesagt. Ich wollte, wie ich mich ausdrückte, nicht ein Schnittlauch<lb/>
+auf allen Suppen sein und nicht über Management äußern, wo ich keiner<lb break="no"/>lei Spezialkenntnisse und Vorarbeiten bis jetzt geleistet habe. Ich<lb/>
+habe <name type="person" ref="per:126929">Molden</name> zugesagt, wenn er einmal ein wirtschaftliches Problem<lb/>
+zur Debatte steht, wo ich entsprechende Erkenntnisse vermitteln kann<lb/>
+oder Erfahrungen berichten, kann wieder nach Alpbach kommen würde.</p><p xml:space="preserve">Im Konsumentenbeirat wird eigentlich verhältnismäßig von allen Gruppen<lb/>
+die Tätigkeit, die in den Ausschüssen geleistet wird, widerspruchs<lb break="no"/>los und eigentlich fast ohne kOmmentar zur Kenntnis genommen. Der Vor<lb break="no"/>teil einer Institutione, wo die Interessensgegensätze doch in Arbeits<lb break="no"/>gruppen vorher doch bereinigt werden, ist gerade in der heutigen Zeit<lb/>
+deutlich sichtbar und fast unbezahlbar. Selbst wenn es, wie bei Lade<lb break="no"/><pb n="16-0643" facs="16_1973-05-30_0643.jpg"/>schlußausschuß nicht gelingt, jetzt sofort eine einvernehmliche<lb/>
+Lösung für dieses schwierige Porblem zu finden, sind die Interessens<lb break="no"/>vertreter doch so weit beruhigt, daß nicht emotionell, womöglich<lb/>
+durch Aktionen der einen oder anderen Seite das Klima neuerdings<lb/>
+vergiftet wird. Trotzdem gebe ich zu, und dies war die Meinung von<lb/>
+<name type="person" ref="per:111717">Schönbichler</name>, der den Ausschuß leitet, als auch von <name type="person" ref="per:97406">Ebert</name>, der als<lb/>
+Obmann des Wiener Handels große Schwierigkeiten in seiner eigenen<lb/>
+Gruppe hat, nicht annähernd mehr so aggresiv als dies vielleicht noch<lb/>
+vor etlichen Monaten der Fall gewesen ist. Wenn man über ein Üroblem<lb/>
+diskutiert geschieht es meistens, daß die scheinbaren Gegensätze<lb/>
+gar nicht so arg sind, daß mansofortmit aller Gewalt eine Lösung<lb/>
+herbeiführen muß.</p><p xml:space="preserve">Der Wunsch der Arbeitnehmerseite, insbesondere <name type="person" ref="per:97843">Eva Preiss</name> neue<lb/>
+Schlichtungsstellen zu errichten und ganz besonders die Textilkenn<lb break="no"/>zeichnung weiter zu betreiben, hat die Zustimmung aller gefunden<lb/>
+und wird nun in Angriff genommen. Die bisherigen Erfahrungen der<lb/>
+Beschwerdestellen sowohl für Reisebüro als auch für Möbel sind äußerst<lb/>
+ermutigend. Es soll deshalb ein neuer Dienstleistungsausschuß zur<lb/>
+konstituiert werden, weitere Gebiete durch Beschwerdestellen und<lb/>
+sonstige Einrichtungen zu verbesser.</p><p xml:space="preserve">Anmerkung für <name type="person" ref="per:97646">KOPPE</name><lb/>
+Bitte entsprechende Vorschläge über die personelle Besetzung insbe<lb break="no"/>sondere den Leiter des Arbeitsausschusses vorbereiten.</p><p xml:space="preserve">In der wirtschaftspolitischen Aussprache wurde von <name type="person" ref="per:97311">Androsch</name> ein<lb/>
+33-Seiten-Papier vorgelegt. Darin wurden insbesondere nach einleitender<lb/>
+und ziffernmäßig begründeten Analysen festgehalten, was der Bund,<lb/>
+nämlich Budgetbindung und Umwandlung in Streichung, Kreditpolitik<lb/>
+und vorallem Baumaßnahmen durchführt. <name type="person" ref="per:97879">Rösch</name> hat berichtet, daß über<lb/>
+das Preisbestimmungsgesetz weiter verhandelt soll werden, da die<lb/>
+Handelskammer nicht bereit war, eine Novellierung in irgend einer<lb/>
+Weise zu akzeptieren. <name type="person" ref="per:98055">Weihs</name> hat im Landwirtschaftspapier festgehalten,<lb/>
+daß die Fleischversorgung gesichert werden muß und man über den<lb/>
+Getreidepreis noch vor der Ernte entscheiden wird. <name type="person" ref="per:113056">Bierbaum</name> hat<lb/>
+<name type="person" ref="per:97691">Lehner</name> geflüstert, aber ich habe es doch gehört, daß damit aber auch<lb/>
+<pb n="16-0644" facs="16_1973-05-30_0644.jpg"/>eine Ablehnung beindhaltet sein kann. Da auch ein negativer<lb/>
+Bescheid möglich ist. <name type="person" ref="per:97691">Lehner</name> hat darüber <name type="person" ref="per:98055">Weihs</name> über den Tisch<lb/>
+gefragt ob es eine Möglichkeit gibt, daß er nachher mit ihm über<lb/>
+dieses Problem noch sprechen kann, was <name type="person" ref="per:98055">Weihs</name> selbstverständlich<lb/>
+akzeptierte. Auf ausdrücklichen Wunsch vom Gewerkschaftsbund habe<lb/>
+ich auch eine UWG-Novelle vorgeschlagen, wonach die Produzenten<lb/>
+verpflichtet sind, bei Zahlungsfähigkeit des Kleinhändlers diese<lb/>
+auch mit gleichen Konditionen wie alle anderen zu beliefern. <name type="person" ref="per:126405">Klose</name><lb/>
+ist sofort zu <name type="person" ref="per:97769">Mussil</name> gerannt gekommen und hat gemeint, daß dieses<lb/>
+Papier vom Handelsministerium stammt und der ÖGB so zu sagen gar<lb/>
+nichts wisse. Ich habe <name type="person" ref="per:97676">Tommy Lachs</name> dann nachher auf diese mißver<lb break="no"/>ständliche Interpretation, die scheinbar auf eine Rückfrage bei<lb/>
+ihm zurückzuführen ist, aufmerksam gemacht. <name type="person" ref="per:97676">Lachs</name> hat dann zurück<lb break="no"/>gezogen und gemeint, dies sei ein Wunsch des ÖGB den halt der<lb/>
+Handelsminister verwirklicht. Ich konnte natürlich darauf hinweisen,<lb/>
+daß von Seiten des Handels sehr wohl seit längerer Zeit eine solche<lb/>
+Regelung gewünscht wird und dasß es einen fairen Wettbewerb entspricht.<lb/>
+Wenn eine solche Regelung angestribt wird. <name type="person" ref="per:97769">Mussil</name> meinte, dies sei<lb/>
+ein Schandpapier und ein Pamphlet, schrieb sogar auf mein Exemplar,<lb/>
+weil ich es ihm hin, casus belli drauf, doch glaube ich sind sowohl<lb/>
+<name type="person" ref="per:97893">Sallinger</name> als auch <name type="person" ref="per:97769">Mussil</name> bereit, über dieses Problem zu sprechen.<lb/>
+Ich habe ihnen deshalb vorgeschlagen, wir sollten eine diesbezügliche<lb/>
+Besprechung nächste Woche abhalten.</p><p xml:space="preserve">Anmerkung für <name type="person" ref="per:97646">KOPPE</name><lb/>
+Bitte eine solche Sitzung vereinbaren. Zuerst vielleicht auf<lb/>
+Expertenebene.</p><p xml:space="preserve">Maßnahmen für die Stabilisierung auf dem Preis- und Lohnsektor<lb/>
+hat <name type="person" ref="per:97769">Mussil</name> immer wieder darauf hingewiesen, daß hier eine soziale<lb/>
+Symetrie notwendig wäre, Da die Löhne nicht gebunden werden sollen,<lb/>
+es gibt keine Lohnleitlinien die von <name type="person" ref="per:97346">Benya</name> wird von der Handelskammer<lb/>
+nicht akzeptiert, die 3% real mindestens sind als zu hoch empfunde<lb/>
+weitere Lohnleitlinien würden nur als Mindestlöhne akzeptiert werden,<lb/>
+so daß selbst die Handelskammer davon Abstand nehmen würden. Auf dem<lb/>
+Preissektor soll aber durch die Novelle des Preisbestimmungsgesetzes<lb/>
+<pb n="16-0645" facs="16_1973-05-30_0645.jpg"/>der Unternehmer weiter eingeschränkt werden. Aus diesem Grund<lb/>
+kann die Handelskammer so lange über das Preisbestimmungsgesetz<lb/>
+kein Einvernehmen erzielt ist, den ganzen Vereinbarungen nicht zu<lb break="no"/>stimmen. Ähnlicher verhielt sich die Landwirtschaft, so lange sie<lb/>
+nicht idhre Preisanträge unter Dach und Fach hat. Über den Lohn<lb break="no"/>und Preisstabilisierungsbeitrag einigte man sich dann auf den letzten<lb/>
+Satz des derzeitigen Stabilisierungsabkommens zwischen <name type="person" ref="per:97346">Benya</name> und<lb/>
+<name type="person" ref="per:97893">Sallinger</name>, der nichts anderes besagt, daß wie nach Auslaufen<lb/>
+mit 31. Mai befristeten Abkommens beide Partner sich weiter wachs<lb break="no"/>tumsorientierter Stabilisierungspolitik bedienen wollen. <name type="person" ref="per:97668">Kreisky</name><lb/>
+meinte zusammenfassend, daß eben wo Einigkeit erzielt wird, man<lb/>
+diese Einigkeit protokollmäßig festgehalten hat, dort wo Differenezen<lb/>
+sind wird weiter verhandlet, wie z. B. Preisbestimmungsgesetz, UwG-<lb/>
+Gesetz, dort wo es sich um konkret zu beschließende Maßnahmen wie<lb/>
+Fleischpreis, Getreidepreis, den zu erwartenden Milchpreis, handelt,<lb/>
+wird man im konkreten Fall dann entscheiden. Wo es sich um Absichts<lb break="no"/>erklärungen der Regierung handelt die von der anderen Seite ganz ent<lb break="no"/>schieden abgelehnt werden, wie z.B. das Vorkaufsrecht der Gemeinden<lb/>
+bei Grundstücken, wird eben die Regierung entsprechende Gesetze<lb/>
+zu beantragen haben. Alle gingen befriedigt weg, keiner fühlte sich<lb/>
+wirklich gebunden, ein Ergebnis, wie ich es wirklich erwartet habe.<lb/>
+Enttäuscht werden nur die Leute, die am Anfang der Verhandlungen ge<lb break="no"/>glaubt haben, daß wirklich großzügige Lösungen durchzusetzen sind.<lb/>
+Dies ist vielleicht auf der einen Seite <name type="person" ref="per:97311">Androsch</name>, der selbst rechnete,<lb/>
+daß die Interessensvertretungen sich stärker binden werden, auf der<lb/>
+anderen Seite einige nationalökonomische Theoretiker, die eben das<lb/>
+Kräfteverhältnis nicht kennen oder nicht anerkennen wollen. Ich glaube,<lb/>
+daß es rein optisch notwendig und gut war, einen solchen Stabilisierungs<lb break="no"/>beschluß mit entsprechenden Verhandlungen und Publicity durchzuführen,<lb/>
+da letzten Endes es ja ganz unmöglich gewesen wäre, wenn nach 6 Monat<lb/>
+Stabilisierung man ganz einfach gesagt hätte und jetzt ist Schluß da<lb break="no"/>mit. Die Erfolge werden sehr minimal sein. Interessant war, daß bei<lb/>
+der Verabschiedung <name type="person" ref="per:97893">Sallinger</name> unter meiner Anwesenheit zu <name type="person" ref="per:97346">Benya</name> gesagt<lb/>
+hat, "ja die Lebensmittelarbeiter die werden jetzt entsprechend die<lb/>
+ganze Lohnpolitik vorantreiben." Er hat auf die Brauer Bezug genommen<lb/>
+undmeinte, sogar, da werden über 20 % herauskommen, worauf ich ihn<lb/>
+berichtigte , es wurden bereits gestern nachst mit 15 % mit 1. Juni<lb/>
+und weiteren 3 % im Herbst abgeschlossen. Dann wollte <name type="person" ref="per:97346">Benya</name> resp.</p><pb n="16-0646" facs="16_1973-05-30_0646.jpg"/><p xml:space="preserve"><name type="person" ref="per:97893">Sallinger</name> gerne wissen, wie lange der Vertrag läuft, der bis jetzt<lb/>
+17 Monate gelaufen ist, und die Treueverpflichtung. d.h. Vertrags<lb break="no"/>verpflichtung wurde vereinbart, ohne einen Zeitraum festzulegen.<lb/>
+Sicher ist, und dies habe ich auch erklärt, daß wir unter normalen<lb/>
+Umständen niemals in einem Jahr zwei Lohnbewegungen starten würden.<lb/>
+Damit ist eine mindestens Jahreslaufzeit ziemlich sicher anzunehmen.</p><p xml:space="preserve">Beim Empfang im Wiener Rat aus für die WIPO-Kongreß hat mit <name type="person" ref="per:137669">Bogsch</name><lb/>
+gesagt, er meint, daß unbedingt ein Stellvertreter für <name type="person" ref="per:133082">Auracher</name> im<lb/>
+INPADOC zu bestelen sei. Dafür käme aus dem derzeitigen Apparat<lb/>
+niemand in Frage. Er meinte, man müßte sich wirklich um einen ent<lb break="no"/>sprechenden Mann umsehen . Weiters hat er empfohlen, eine engere<lb/>
+Zusammenarbeit zwischen INPADOC und Patentamt. Aus seinen Äuperungen<lb/>
+konnte ich entnehme , daß ihm sogar vorschwebt, einen Patentamtmann<lb/>
+als Stellvertreter <name type="person" ref="per:133082">Aurachers</name> in Erwägung zu ziehen. Da er sich aber<lb/>
+personell nicht äußerte, d.h. keinen Personalvorschlag machte, habe<lb/>
+auch ich mich dazu in keiner Weise geäußert. Ich erklärte nur,<lb/>
+daß aich seine Anregungen sehr genau überlegen würde und dem zuständigen<lb/>
+Stellenleiter übergeben werde.</p><p xml:space="preserve">Anmerkung für <name type="person" ref="per:97469">GEHART</name><lb/>
+Vielleicht kannst Du einmal im Gespräch mit <name type="person" ref="per:137669">Bogsch</name>, er ist ja noch<lb/>
+lange beim Kongreß hier, näheres über seine Pläne und Absichten<lb/>
+erfahren. Berufe Dich dabei auf die Aussprache, die ich mit <name type="person" ref="per:137669">Bogsch</name><lb/>
+beim EMpfang hatte.</p><p xml:space="preserve"><name type="person" ref="per:97632">Kirchschläger</name> war ebenfalls bei dem Empfang und ich habe ihm mitgeteilt,<lb/>
+daß Red. <name type="person" ref="per:147671">Oberleitner</name> von der Presse, der jetzt in Südafrika war, mich<lb/>
+im Auftrag der dortigen Regierung, nach Rücksprache mit den Ministern,<lb/>
+unbedingt einladen wollte. Ich habe dies aber bereits abgelehnt und<lb/>
+<name type="person" ref="per:97632">Kirchschläger</name> war darüber sehr froh weil er meinte, ich würde aussen<lb break="no"/>politische Komplikationen hervorbringen. Ich habe <name type="person" ref="per:97632">Kirchschläger</name> auch<lb/>
+davon informiert, daß <name type="person" ref="per:97426">Fälbl</name> jetzt von den CSSR-österr. Vermögensver<lb break="no"/>handlungen zurückgekommen ist und mir berichtet hat, daß angeblich<lb/>
+weitere Möglichkeiten bestehen, die Entschädigungssumme von 700 Mio S<lb/>
+wesentlich zu erhöhen. <name type="person" ref="per:97632">Kirchschläger</name> war über andere Kanäle darüber<lb/>
+<pb n="16-0647" facs="16_1973-05-30_0647.jpg"/>auch schon informiert, glaubte aber nicht, daß es wesentliche<lb/>
+Erhöhungen wird dgelingen durchzusetzen. Ihm selbst schwebt eine<lb/>
+Betrag von 1 Milliarde vor. Das zweite Anliegen <name type="person" ref="per:97426">Fälbls</name>, daß die<lb/>
+Kohlen, Elektrizitäts- und Gaslieferungen, die ebenfalls auf diese<lb/>
+Menge angerechnet werden sollen, werden nicht in Einzelkontingente<lb/>
+angerechnet, sondern kommen in den gemeinsamen Topf, wenn nämlich<lb/>
+festgestellt wird, daß z. B. 100.000 t Koks importiert wird, dann<lb/>
+muß man damit rechnen, daß die VOEST für diesen Koks einen hohen<lb/>
+Betrag zahlen muß. Jede einzel aufgegliederte Post verleitet den<lb/>
+Lieferanten, in diesem Fall die CSSR, sofort den höchstmöglichen<lb/>
+Preis dafür zu verlangen. <name type="person" ref="per:97632">Kirchschläger</name> hat diese Argumentation<lb/>
+sofort eingesehen und meint, daß die Tschechen davon Abstand nehmen<lb/>
+werden.</p><p xml:space="preserve">Der Stadtrat vom Dienst war diesmal <name type="person" ref="per:115005">Hintschig</name> und er hat mir gegen<lb break="no"/>über nur eine Bemerkung gemacht, daß im Kurier heute steht, daß er<lb/>
+ein Feind von <name type="person" ref="per:97963">Slavik</name> sei. Er meinte, du kannst Dir ungefähr vorstellen,<lb/>
+was für ein Klima jetzt hier herrscht und wie sehr darunter<lb/>
+die Zusammenarbeit leidet. Ich bin davon überzeugt, ohne daß ich<lb/>
+mit <name type="person" ref="per:115005">Hintschig</name> darüber sprach, daß sicherlich daß Nichtteam, das im<lb/>
+Rathaus vorhanden ist, teilweise auf Verschulden der einzelnen Stadt<lb break="no"/>räte vielleich auf <name type="person" ref="per:97963">Slavik</name> zurückzuführen ist, teilweise aber natürlich<lb/>
+darauf, daß es dem Gegner gelungen ist, hier diese Differnzen, wenn<lb/>
+welche bestehen, ganz besonders stark hervorzukehren. Dadurch wird<lb/>
+Mißtrauen gesäht und das Ergebnis ist, daß dann wirklich einer gegen<lb/>
+den anderen, wenn schon nicht intregiert, so zumindestens sich<lb/>
+sehr zurückhaltend verhält. Wenn andererseits es nicht möglich, daß<lb/>
+bis zu den Wahlen unter den konzentrischen Angriffen der Gegner<lb/>
+ein wirkliches Kampfteam entsteht, dann weiß ich nicht, wie diese<lb/>
+Wahlen ausgehen werden. Die Meinungsforscher befürchten, daß in Wien<lb/>
+die Parole, es ist Zeit zu wechseln, größeren Anklang finden wird,<lb/>
+als jemals in der Vergangenheit. Wenn dies zutrifft, dann kann meiner<lb/>
+Meinung nach überhaupt niemand mehr die Situation retten. Die Massen<lb break="no"/>medien haben erkannt, daß vielleicht diese Grundstimmung wirklich in<lb/>
+der Bevölkerung Wiens vorhanden ist. Man muß deshalb mit einer unge<lb break="no"/>heuren Angriffswelle des Gegners, unterstütz durch die Massenmedien,<lb/>
+rechen. Die Sternwarteparkkonstellation hat gezeigt, daß die soz. Partei<lb/>
+<pb n="16-0648" facs="16_1973-05-30_0648.jpg"/>in dem Fall ganz allein , denn die Studenten haben sicherlich<lb/>
+nur mit halben Herzen auf unserer Seite gekämpft, gegen die<lb/>
+politischen Gegner, d.h. gegen die Parteien, aber auch gegen<lb/>
+die Massenmedien antreten mußte. Eine solche Konstellation<lb/>
+ist denkbar ungünstigste die man sich vorstellen kann, doch muß<lb/>
+sich die Parteiführung in Wien auf eine solche Konstellation auch<lb/>
+für die Wahlen einstellen. Ein nicht gerade sehr erfreulicher<lb/>
+Ausblick.</p></div>
+      </body>
+      <back>
+         <pb n="16_0640_05" facs="16_1973-05-30_0640-05.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 30.5.1973</head>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+   </text>
+</TEI>

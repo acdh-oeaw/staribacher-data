@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittwoch, der 25. September 1974</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band22_1974-09-25</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1974-09-25">Mittwoch, 25. September 1974</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2017-01-16">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band22/">
+      <body>
+         <pb n="22-1133" facs="22_1974-09-25_1133.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Mittwoch, den 25. September 1974</p><p xml:space="preserve">Dr. <name type="person" ref="per:112190">Mock</name> hat tatsächlich das neue Berggesetz abgeschlossen und<lb/>
+einen Ministerratsvortrag darüber gemacht. Er hat natürlich die<lb/>
+vorgesehene Zeit weit überschritten, dafür aber mit einer einmaligen<lb/>
+Gründlichkeit und Genauigkeit diesen Entwurf eigentlich im Alleingang<lb/>
+gemacht. Ganz auf meiner Linie hat er versucht, alle Schwierigkeiten<lb/>
+mit Interessenvertretern, anderer Ministerien und der Wissenschaft<lb/>
+auszuräumen. Nach seiner Mitteilung sind alle Paragraphen einver<lb break="no"/>nehmlich festgelegt worden. Für mich die einzig wichtige Frage war,<lb/>
+daß wir die zukünftigen Bestimmungen über die Berghauptmannschaften<lb/>
+so flexibel gestalten, daß ich alle Möglichkeiten habe, Reorganisationen<lb/>
+dort durchzuführen. Ich habe <name type="person" ref="per:112190">Mock</name> auch schon angedeutet, daß wir in Zukunft<lb/>
+wahrscheinlich nicht nach den Territorialprinzip vorgehen können und<lb/>
+sollen. <name type="person" ref="per:112190">Mock</name> allerdings erwartet, daß in den Territorial-Berghaupt<lb break="no"/>mannschaften noch Sonderberghauptmannschaften, wie z.B. für Öl<lb/>
+ähnlich den Sonderarbeitsämtern und Sonderarbeitsinspektionen im<lb/>
+Sozialministerium. Ich dagegen glaube und bin überzeugt, daß wir wahr<lb break="no"/>scheinlich etliche Berghauptmannschaften überhaupt auflösen können.</p><p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:97377">BUKOWSKI</name>: Denk Dir was aus, wie man <name type="person" ref="per:112190">Mock</name> durch Auszeich<lb break="no"/>nung für diese ungeheure Arbeit belohnen könnte.</p><p xml:space="preserve">Auf Grund des EGKS-Vertrages sollten wir nach Anmeldung der Stahlwerke<lb/>
+von Preiserhöhungen eine Frist von 15 Tagen in die Verordnung einbauen,<lb/>
+damit die Preiserhöhung nicht sofort in Kraft tritt. Die Handelskammer<lb/>
+resp. die Stahlindustrie hat sich nun, glaube ich sogar mit Recht, dagegen<lb/>
+ausgesprochen, weil sie ja nicht gleich nach Anmeldung ihrer Preis<lb break="no"/>wünsche diese genehmigt bekommt, sondern eben in der Paritätischen<lb/>
+Kommission, die zwischengeschaltet ist, oft wochen- oder monatelang<lb/>
+warten muß. Wenn dann endlich der Beschluß zustande kommt, müßte sie<lb/>
+dann noch zusätzlich 15 Tage mit der Preiserhöhung zuwarten. Die<lb/>
+Arbeiterkammer hat wieder einmal auf eine zusätzliche 15-tägige<lb/>
+Frist bestanden. <name type="person" ref="per:127098">Simoncsics</name> hat nun die Verhandlungen geführt und mich<lb/>
+jetzt um Entscheidung gebeten. Zum Glück habe ich mich auf Grund<lb/>
+seiner Information nicht sofort entschieden, sondern ihn gerufen<lb/>
+und dabei erfahren, daß diese 15-Tage-Frist von seiten der EGKS gar<lb/>
+nicht als ein besonders spezifisches EGKS-Problem, sondern aus<lb break="no"/>schließlich als eine preisstabilisierende Maßnahme betrachtet wird.<lb/>
+Dadurch ist die Behörde auch einverstanden, wenn wir auf diese 15-<lb/>
+Tage-Frist in der Verordnung verzichten. Da auch der zweite Punkt,<lb/>
+<pb n="22-1134" facs="22_1974-09-25_1134.jpg"/>ein kleines Frachtproblem, das in die Verordnung kommen sollte, nicht<lb/>
+dringend ist, kann also das Ganze geschoben werden. Mir völlig uner<lb break="no"/>klärlich, hätte es hier wieder einmal eine Debatte, um nicht zu sagen<lb/>
+einen Streit zwischen Interessensvertretungen und Handelsministerium<lb/>
+gegeben, der, wenn ich nicht zufälliger Weise draufgekommen wäre,<lb/>
+dass die EGKS gar nicht darauf beharrt, völlig überflüssig geführt<lb/>
+worden wäre.</p><p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:98053">WANKE</name>: Wer kümmert sich um diese Detailprobleme? Wie si<lb break="no"/>chern wir uns ab, daß wir bei der Entscheidung mehrere Varianten, die<lb/>
+möglich sind, tatsächlich vorgelegt bekommen.</p><p xml:space="preserve">In der Einführung des Vidierungsverfahren gibt es mit der ostdeutschen<lb/>
+Delegation, die derzeit zu Verhandlungen in Wien weilt, große Schwie<lb break="no"/>rigkeiten. Staatssekretär <name type="person" ref="per:97343">Beil</name> hat mir einen Brief geschrieben, wo<lb/>
+er darauf besteht, daß wir im Sinne unseres Vertrages mit der DDR<lb/>
+von einer Vidierung Abstand nehmen. Darüber hinaus ist es bis jetzt<lb/>
+nicht geglückt, für so heiklen Obst- und Gemüsekonserven eine einver<lb break="no"/>nehmliche Auffassung zwischen Arbeiterkammer, Gewerkschaftsbund und<lb/>
+Fachverband der Nahrungs- und Genußmittelindustrie herbeizuführen.<lb/>
+<name type="person" ref="per:113091">Bachmayer</name> selbst hat die notwendigen Besprechungen geführt und nun sind<lb/>
+sie <choice><choice><sic>stockan.</sic><corr>?</corr></choice></choice> Ich habe ihm vorgeschlagen, er soll mir jetzt eine Liste der<lb/>
+einzelnen Produkte mit den eingeführten Mengen, den beabsichtigten Zu<lb break="no"/>geständnissen der Industrie und der Konsumentenvertreter geben. Ich<lb/>
+werde versuchen müssen, ein Kompromiss für jedes einzelne Produkt<lb/>
+fürchte ich zu erreichen. Da die Oststaaten sich derartig stark gegen<lb/>
+die Vidierung aussprechen, nehme ich an, daß sie natürlich genau<lb/>
+wissen, welche Konsequenzen es gegebenfalls haben kann. Wenn sie, wie<lb/>
+scheinbar doch in Einzelfällen beabsichtigt, Preisunterbietungen in<lb/>
+grösseren Ausmasse machen. Ich bin jetzt schon sehr froh, daß auf<lb/>
+der einen Seite mein Amtsvorgänger die Liberalisierung mit 1.1.1975<lb/>
+den Russen zugesagt und dann auch vielen anderen Staaten mehr oder<lb/>
+minder angedeutet und daß vor allem mal <name type="person" ref="per:108322">Meisl</name> auf die Idee gekommen<lb/>
+ist, mit dem Vidierungsverfahren uns eine gewisse Möglichkeit der<lb/>
+Einflußnahme zu sichern. Wenn dies nicht der Fall gewesen wäre,<lb/>
+hätten wir wahrscheinlich die größten Schwierigkeiten um die Schutz<lb break="no"/>klauseln anzuwenden.</p><p xml:space="preserve">Die Genossen <name type="person" ref="per:146341">Grill</name>, <name type="person" ref="per:113014">Zeilhofer</name> und vor allem auch der Direktor der<lb/>
+Stadtwerke Linz, wollten von mir eine Zusage, daß sie größere Mengen<lb/>
+<pb n="22-1135" facs="22_1974-09-25_1135.jpg"/>von Erdgas angeliefert bekommen. Insbesondere möchten sie, daß ich<lb/>
+auf die O.Ö. Ferngas, die Landesgesellschaft, die noch immer in der Hand<lb/>
+von der Industriellenvereinigung resp. der Industriellen sich befindet,<lb/>
+Einfluß nehme, damit diese die Priorität der Haushaltsgasversorgung<lb/>
+anerkennen. Dies ist auch, glaube ich in der Zwischenzeit schon gesche<lb break="no"/>hen. <choice><choice><sic>Aushänger</sic><corr>?</corr></choice></choice> war für sie die SO2-Emission von den einzelnen<lb/>
+Werken und den Haushalten. Nach einer Untersuchung der Wiener Standort<lb break="no"/>beratungsgesellschaft kommen 86% dieser Emission von VÖEST und Chemie<lb/>
+Linz, sowie Laevosan und Fernheizwerke. Derzeit würden sie 80 Millionen<lb/>
+Kubikmeter brauchen, denn momentan müssen sie mit 2/3 Öl und 1/3 Kohle<lb/>
+befeuern. Ich habe die Genossen nicht im Unklaren gelassen, daß ich<lb/>
+keine Möglichkeit sehe, diese Wünsche in der nächsten Zeit zu erfüllen.<lb/>
+Die Oberösterreicher müssen derzeit mit RAG, das ist die Produktions<lb break="no"/>gesellschaft für Öl, die aber meistens auf Gas stoßt und deren Ergebnis<lb/>
+auskommen. Erst jetzt wurde wieder eine neue Sonde fündig und bringt<lb/>
+1 Million Kubikmeter täglich. Dadurch wird die inländische Produktion<lb/>
+heuer auf 600 Millionen Kubikmeter ansteigen. Dazu kommen noch<lb/>
+200 Millionen Import für Chemie-Linz. Oberösterreich ist gasmäßig also<lb/>
+verhältnismäßig gut versorgt.</p><p xml:space="preserve">Die Genossen wollten auch wissen, ob ich mich dafür einsetze, daß die<lb/>
+ÖMV einen Tankerhafen in Linz benützt, um dort ein Öllager für Heizöl<lb/>
+schwer anzulegen. Derzeit ist der Umschlag nur 800.000 to Öl, Handels<lb break="no"/>umschlag sogar nur 200.000, und insgesamt könnten sie leicht 2 Millionen<lb/>
+umschlagen. Ich wies darauf hin, dass auch Enns großen Wert darauf<lb/>
+legt, einen eigenen Hafen zu bauen. Da die ÖMV gleichzeitig in der Nähe<lb/>
+ihr Zentraltanklager mit Pipelineanschluß Schwechat aufbauen wird,<lb/>
+weiß ich nicht ob eine solche Absicht besteht, noch in Linz ein Öl,<lb/>
+Heizöl schwer, Tanklager zu errichten. Ich habe daher auch keine wie<lb/>
+immer geartete Zusage gemacht.</p><p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:97469">GEHART</name>: Bitte kläre mit der ÖMV, ohne daß wir uns be<lb break="no"/>sonders dafür einsetzen, welche Pläne diese hat.</p><p xml:space="preserve"><name type="person" ref="per:112049">Rimsky</name> von Chemie-Linz drängt auf eine Entscheidung wegen der Düngemittel<lb break="no"/>preise. Ich habe <name type="person" ref="per:113077">Altmann</name> neuerdings verständigt, daß ich nun wissen<lb/>
+möchte, ob die Landwirtschaft bereit ist ein solches Kompromiss, welches<lb/>
+ich erzwingen würde, anzunehmen. <name type="person" ref="per:113077">Altmann</name> gestand mir, daß es <name type="person" ref="per:97691">Lehner</name><lb/>
+nicht möglich war, die Präsidenten von der Zweckmässigkeit einer solchen<lb/>
+Lösung bis jetzt zu überzeugen. Ich habe <name type="person" ref="per:113077">Altmann</name> sofort vorgeworfen<lb/>
+<pb n="22-1136" facs="22_1974-09-25_1136.jpg"/>daß sie damit die Bauern eigentlich schwer schädigen. Nach Berechnungen<lb/>
+von <name type="person" ref="per:113077">Altmann</name> würde die Düngerverteuerung 420 Millionen Schilling aus<lb break="no"/>machen. Der Mischdünger beträgt davon 140 Millionen, und wenn von den<lb/>
+300.000 Tonnen 240.000 Chemie-Linz liefert, so würden die 80.000 Tonnen,<lb/>
+die ich ihnen zwar noch nicht zugesagt habe, aber auf die wir uns<lb/>
+wahrscheinlich einigen würden, 50 Millionen Schilling Verlust für die<lb/>
+Bauern bedeuten, wenn sie das Angebot von der Chemie-Linz, eben die<lb/>
+80.000 zum alten Preis auszuliefern, nicht annehmen. <name type="person" ref="per:113077">Altmann</name> gab dies<lb/>
+unumwunden zu, meinte nur daß es einige Bauernvertreter gibt, die<lb/>
+meinen, man sollte von der Regierung die 420 Millionen Schilling<lb/>
+Stützung verlangen. Ich habe <name type="person" ref="per:113077">Altmann</name> klipp und klar erklärt, wenn es<lb/>
+nicht zu einer Lösung kommt, dann in der Öffentlichkeit von mir dieses<lb/>
+eigenartige Verhalten der Bauern, wenn ich angegriffen werde, zur<lb/>
+Sprache gebracht wird. Da die Bauern alle bei einer internationalen<lb/>
+Tagung im Ausland sind, ersuchte mich <name type="person" ref="per:113077">Altmann</name> noch bis anfangs nächster<lb/>
+Woche zuzuwarten.</p><p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:97498">GRÜNWALD</name>: Setze Dich mit <name type="person" ref="per:113077">Altmann</name> ins Einvernehmen und lass<lb/>
+Dir von unserem Haus berechnen, wieviel wirklich genau die sture Haltung<lb/>
+der Bauernvertreter den Landwirten kosten würde.</p><p xml:space="preserve">Die Seniorenwoche des Rentner- und Pensionistenverbandes der SPÖ war<lb/>
+bei der Eröffnung ein voller Erfolg. <name type="person" ref="per:97668">Kreisky</name> hatte über 500 Zuhörer.<lb/>
+Für das Kapitel Angebot und Nachfrage der Senioren hatten sich wahr<lb break="no"/>scheinlich nur 1/10 interessiert. So wie immer hatte ich Sorge, das<lb/>
+notwendige Ziffernmaterial nicht zusammen zu haben und konnte dann die<lb/>
+vorgelegten Unterlagen gar nicht alle verwenden. Als ich das Publikum<lb/>
+sah, war mir vom Anfang an klar, daß ich hier nur versuchen konnte<lb/>
+und meine Aufgabe darin bestand, diese Menschen zwar zu informieren,<lb/>
+aber mit dem Wiener Schmäh doch ein bißchen aufzuheitern. Um den Ziffern<lb break="no"/>lieferanten Dr. <name type="person" ref="per:113038">Reim</name>, den wir jetzt in der Abteilung von <name type="person" ref="per:97469">Gehart</name> mit der<lb/>
+Materialbeschaffung beschäftigen, einmal zu zeigen, welches Material<lb/>
+ich brauchte, hatte ich ihn ersucht, mitzukommen. Bei dieser Gelegen<lb break="no"/>heit konnte ich gleich ihm meine Arbeitsmethode mehr erörtern und vor<lb/>
+allem bitten, ausser Ziffernmaterial, wenn er gute Ideen selbst hat<lb/>
+oder sie irgend wo anders liest, mir stichwortartig zu erzählen. Ich<lb/>
+kann mir vorstellen, daß er durch seine Verbindung zur Welthandels<lb break="no"/>hochschule auch weiterhin dort Erfahrungen resp. neue Ideen kennen<lb/>
+lernt die wir ganz gut verwerten könnten. Interessant war nur, daß<lb/>
+ich dort auch einen Mann mit einem Aufnahmegerät entdeckte, der vom<lb/>
+Wissenschaftsministerium beauftragt ist, interessante Vorträge auf Band<lb/>
+<pb n="22-1137" facs="22_1974-09-25_1137.jpg"/>zu speichern. Ähnlich wie die Nationalbibliothek die Bücher sammelt,<lb/>
+sammelt man hier scheinbar entsprechende Vorträge und sonstige Ver<lb break="no"/>anstaltungen auf Tonband. Ich habe ihm nicht im Unklaren gelassen,<lb/>
+daß ich meinen Vortrag auf meine Art und vor allem mal mit dem ent<lb break="no"/>sprechenden Niveau für Rentner halten werde. Nicht daß ich den<lb/>
+Ehrgeiz hätte, in ihr Archiv als der Wissenschaftler einzugehen, der<lb/>
+über Angebot und Nachfrage der Senioren grundlegend neue national<lb break="no"/>ökonomische Erkenntnisse bringt, glaube ich aber trotzdem, daß es<lb/>
+meiner Meinung nach, wenn nicht eine Systematik in der Aufzeichnung<lb/>
+liegt, nichts anderes ist als ein irrsinnig aufwendiges Verfahren,<lb/>
+gewisse Dokumentationen zu sammeln. Wenn es darum geht, die Stimme<lb/>
+oder die Methode der Darstellung von einzelnen Menschen festzuhalten,<lb/>
+dann war dieser Vortrag muß ich allerdings zugestehen, für mich sehr<lb/>
+typisch. Interessant für mich war nur, daß der Leiter des Seminars,<lb/>
+ein Verbandsfunktionär, dessen Namen ich vergaß, mitteilte, als natür<lb break="no"/>lich bei der Diskussion der Konsum wegen seiner teuren Preise ange<lb break="no"/>griffen wurde, erklärte, sie hätten Verhandlungen mit der Konsumge<lb break="no"/>nossenschaft aufgenommen, damit ein Zustelldienst aus Vösendorf auch<lb/>
+für die Rentner organisiert werden könne. Da dies nicht möglich ist,<lb/>
+sind sie jetzt dabei, Autobusse zu organisieren, die dann die Rentner<lb/>
+nach Vösendorf zum Einkaufen führen sollten.</p><p xml:space="preserve">Bei den Eröffnungsempfang und Besichtigung der Firma EUMIG ihres Zentral<lb break="no"/>verwaltungsgebäudes konnte ich wieder einmal feststellen, wie man Zeit<lb/>
+vergeuden kann. Ich hätte den ganzen Durchgang dort wahrscheinlich<lb/>
+in 15 Minuten erledigt und mich dann sofort in die Werksanlage begeben,<lb/>
+um das schon längere Produktionsgebäude und die dortigen Beschäftigten<lb/>
+zu besichtigen. Ing. <name type="person" ref="per:98035">Vockenhuber</name> aber meinte, er würde die Führung für<lb/>
+<name type="person" ref="per:97346">Benya</name>, <name type="person" ref="per:97893">Sallinger</name>, <name type="person" ref="per:97581">Igler</name> und mir selbst übernehmen, für Vizekanzler<lb/>
+<name type="person" ref="per:97525">Häuser</name> war ein Dr. <name type="person" ref="per:125801">Hauser</name>, der zweite Gesellschafter dieses Privat<lb break="no"/>betriebes, vorgesehen und im übrigen sei auch noch Bundeskanzler<lb/>
+<name type="person" ref="per:97668">Kreisky</name>, wenn auch verspätet, angemeldet. Deshalb erstreckte sich<lb/>
+die Führung durch dieses Gebäude über mehr als 1 Stunde, ich bin dann<lb/>
+natürlich sofort weggegangen, als wir beim Portier angelangt waren<lb/>
+und in diesem Moment auch <name type="person" ref="per:97668">Kreisky</name> kam, der dann wieder eine Sonder<lb break="no"/>führung bekam und alle anderen Gäste einstweilen zum Buffet eilen<lb/>
+sollten.</p><p xml:space="preserve">Bei der Tagung der Außenhandelsstellenleiter von Lateinamerika<lb/>
+war die Information, die wir bekamen, verhältnismäßig uninteressant.</p><pb n="22-1138" facs="22_1974-09-25_1138.jpg"/><p xml:space="preserve">Viel wichtiger war, daß alle Außenhandelsstellenleiter, wahr<lb break="no"/>scheinlich nicht zuletzt auch von der Handelskammer dahingehend<lb/>
+informiert, verlangten, es müßte jetzt sofort die Kreditrestriktion<lb/>
+für die Exporte gelockert werden. <name type="person" ref="per:97474">Gleissner</name> erklärte, daß die Bundes<lb break="no"/>kammer alles daransetzt, um selbst durch Aufstockung des Exportfonds<lb/>
+der für kleinere und mittlere Betriebe die Exportfinanzierung durchführt,<lb/>
+aber auch durch Kredite an die Österreichische Kontrollbank, angeb<lb break="no"/>lich hat die Handelskammer 45 Millionen jetzt neuerdings zur Verfügung<lb/>
+gestellt, alles daransetzt, damit sie den Export entsprechend fördert.</p><p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:98053">WANKE</name>: Hier müßte man einen entsprechenden konkreten Be<lb break="no"/>richt über die Finanzierungsmöglichkeiten des Exportes und wer aller<lb/>
+dazu beitragt und wie die Fonds und die Finanzierungsverfahren in der<lb/>
+Vergangenheit und derzeit sich entwickelt haben und wie der Status ist,<lb/>
+endlich bekommen.</p><p xml:space="preserve">Da <name type="person" ref="per:108322">Meisl</name> einmal mit mir zu Recht diskutierte ob überhaupt in Latein<lb break="no"/>amerika unsere Außenhandelsstellenleiter ankommen, infolge des strengen<lb/>
+Protokolls dort werden nur Diplomaten und ganz besonders nur die Bot<lb break="no"/>schafter geachtet, war ich natürlich daran interessiert, wie weit die<lb/>
+Handelsvertreter tatsächlich einen Einfluß auf die Entwicklung nehmen<lb/>
+können. Ich glaube, daß dieser tatsächlich äußerst gering ist. Sie<lb/>
+behaupten zwar, daß insgesamt in den letzten Jahren die österreichi<lb break="no"/>schen Firmen, die 1971 ca 100 betragen haben, jetzt 180, d.h. sich fast<lb/>
+verdoppelt haben und dadurch schon gezeigt wird, daß eine grössere<lb/>
+Liefermöglichkeit nach Lateinamerika besteht und genützt wird. <name type="person" ref="per:108322">Meisl</name><lb/>
+vermutet, und ich teile diese Meinung, daß wo es größere Exportsteige<lb break="no"/>rungen gibt, es sich meistens nur um Einzelgeschäfte handelt.</p></div>
+      </body>
+      <back>
+         <pb n="22_1132_05" facs="22_1974-09-25_1132-05.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 25.9.1974</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="22_1132_06" facs="22_1974-09-25_1132-06.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+   </text>
+</TEI>

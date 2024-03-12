@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der  6. Oktober 1973</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band17_1973-10-06</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1973-10-06">Samstag, 6. Oktober 1973</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-09-21">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band17/">
+      <body>
+         <pb n="17-1092" facs="17_1973-10-06_1092.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Samstag, 6. Oktober 1973</p><p xml:space="preserve">Der 13. Jugendkongress der Österr. Gewerkschaftsjugend wurde feierlichst<lb/>
+dadurch eröffnet, dass fast alle Institutionen eine Begrüssungsansprache<lb/>
+hielten. Dadurch kamen sie in einen gewissen Zeitdruck und es wurde<lb/>
+mein Referat ohne auch nur eine Pause einzuschalten sofort als 4. Tages<lb break="no"/>ordnungspunkt nach der Wahl der Kommissionen angeschlossen. Dadurch<lb/>
+mussten sich auch die meisten, die sonst nur bei der Begrüssung anwesend<lb/>
+älteren Delegierten und Ehrengäste mein Referat anhören. Zum Glück hatte<lb/>
+ich am Vortag mich wirklich mit dem Problem noch einmal eingehend be<lb break="no"/>schäftigt. Normalerweise interessiert mich nämlich die Details für das<lb/>
+Lehrlingswesen nur sehr bedingt. <name type="person" ref="per:97584">Jagoda</name> selbst hat leider auch noch<lb/>
+nicht die Zeit gefunden, um sich auf diesen Gebiet besonders zu stürzen.<lb/>
+Ich selbst habe , das muss ich zugeben, angenommen, dass es gelingen<lb/>
+wird, wenn man eine zentrale Arbeitsgruppe einsetzt, auf Sozial<lb break="no"/>partnerebene schneller zu Ergebnissen zu kommen, ohne dass ich mich<lb/>
+besonders damit beschäftigen muss. Jetzt muss ich zugeben, dass diese<lb/>
+Überlegung falsch war. Die Handelskammer dürfte doch einen zu starken<lb/>
+konservativen Standpunkt einnehmen, wodurch eigentlich die Arbeiten<lb/>
+sehr langsam vorangehen. Da ich diese verzögernde Arbeit freimütigst zu<lb break="no"/>gegeben habe, hat sich dann in der Diskussion nicht die Härte und<lb/>
+Schärfe gezeigt, die ich eigentlich erwartet habe. Die Funktionär<lb/>
+der Gewerkschaftsjugend sind eigentlich verhältnismässig sehr verständnis<lb break="no"/>voll. Wie ich glaube mit Recht sagen konnte, zu verständnisvoll.<lb/>
+Bei den einzelnen Fachgewerkschaften wie z.B. bei der Angestelltenge<lb break="no"/>werkschaftjugend, aber auch in der Bau- und Holzarbeiterjugend sowie<lb/>
+bei den Metallarbeitern zeigt sich, dass die Innungen mehr einer<lb/>
+fortschrittlichen Lehrausbildung bereit sind zuzustimmen, als die Ver<lb break="no"/>treter der Handelskammer in den zentralen Organen. In einer anschliessen<lb break="no"/>den Pressekonferenz, an der allerdings meistens nur Gewerkscftsjourna<lb break="no"/>listen resp. AZ-Leute teilgenommen haben, die einzige Ausnahme, die ich<lb/>
+kannte, war <name type="person" ref="per:126891">Nagiller</name> vom Fernsehen, wurde diese Tatsache besonders heraus<lb break="no"/>gearbeitet. <name type="person" ref="per:126891">Nagiller</name> wollte besonders wissen, wo sich die Meinung des<lb/>
+Handelsministers nicht mit der eingebrachten Resolution der Gewerk<lb break="no"/>schaftsjugend deckt. Ich habe sofort erklärt, dass ich auf dem Standpunkt<lb/>
+stehe, dass eine Selbstverwaltung und Kontrolle de AK- und ÖGB bezüglich<lb/>
+Nichteinhaltung von Gesetzen wirksamer sei, als die geforderten Be<lb break="no"/>ratungsinspektoren und Kontrollorgane. Wenn diese nämlich wirklich von<lb/>
+einer speziellen Beamtenorganisation wie die Arbeitsinspektoren durch<lb break="no"/>geführt werden, wird zwar eine grössere Anzahl von Beamtenposten be<lb break="no"/>schaffen, die wie in diesem Fall bei den Arbeitsinspektoren meistens<lb/>
+<pb n="17-1093" facs="17_1973-10-06_1093.jpg"/>sogar aus Gewerkschaften kommen, aber dann als Beamte doch einen verhält<lb break="no"/>nismässig geringen Erfolg zu verzeichnen haben. Jetzt beschweren sich die<lb/>
+Gewerkschaften – nicht zu Unrecht -über die verhältnismässig laxe Arbeits<lb break="no"/>weise der Arbeitsinspektoren, die meistens durch höhere Beamte, die<lb/>
+natürlich keine Gewerkschafter sind und auf die Rechtsmässigkeit des Vor<lb break="no"/>gehens immer wieder hinweisen, gehemmt werden. Weiters wollte <name type="person" ref="per:126891">Nagiller</name> wis<lb break="no"/>sen, ob ich mit einer Umlage der Unternehmer, wie es die Gewerkschaftsjugend<lb/>
+verlangt, einverstanden bin, damit in Hinkunft von einem zentralen Fonds<lb/>
+die guten Lehrwerkstätten unterstützt werden können. Hier hat mir auf<lb/>
+meine Anregung, dass wir dies checken müssten, <name type="person" ref="per:111722">Kinscher</name> mitgeteilt, dass<lb/>
+die Bauunternehmer bereit sind, einen Teil der Beiträge, die sie der<lb/>
+Bauarbeiterurlaubskasse leisten mussten und die sie jetzt zurückbekommen,<lb/>
+nicht an das einzelne Unternehmer zurückzuzahlen sondern eben diesen<lb/>
+Betrag für Errichtung überbetrieblicher Lehrhöfe zu verwenden. Ich konnte<lb/>
+deshalb eben darauf hinweisen, dass es eine Vielfalt von Finanzierungsmög<lb break="no"/>lichkeiten gibt, unter anderem sicherlich auch den Staat, sodass ich mich<lb/>
+nicht eindeutig für eine Umlage aussprechen musste. Auf alle Fälle wird<lb/>
+es höchste Zeit, dass ich mich mit diesem Problem eingehender beschäftige.<lb/>
+Nachdem die zentrale Arbeitsgruppe jetzt endlich zwei Modelle, eines für<lb/>
+die Elektrobranche und eines für die kaufmännischen Angestellten fertig<lb/>
+hat, das in nächster Zeit auch mit Zustimmung der Unternehmer beschlossen<lb/>
+wird, müsste es gelingen an Hand dieser Mustermodelle auch sofort die an<lb break="no"/>deren nicht nur in Angriff zu nehmen, sondern diese schneller positiv<lb/>
+abschliessen zu können. Sicherlich habe ich auch politisch einen Fehler<lb/>
+gemacht, dass ich die immerhin 147.000 Lehrlinge, die wir derzeit<lb/>
+besitzen als zukünftige potentielle Wähler viel zu gering eingeschätzt<lb/>
+habe. Ich wurde bis jetzt von niemandem noch attackiert, aber wenn ich<lb/>
+mir Rechenschaft ablege, so hätten wir hier wesentlich mehr machen müssen.<lb/>
+Der grösste Teil der Arbeit liegt allerdings bei <name type="person" ref="per:113083">Sinowatz</name>, denn die<lb/>
+Unterrichtsverwaltung müsste das Problem des polytechnischen Lehrganges als<lb/>
+wirkliche Berufsvorbereitung durchführen. Darüber hinaus müssten die Berufs<lb break="no"/>schulen und und deren Lehrpläne entsprechend revidiert werden. <name type="person" ref="per:113083">Sinowatz</name><lb/>
+hat aber ganz grosse Schwierigkeiten mit den Lehrern, weil hier allein<lb/>
+beim polytechnischen Lehrgang schon die harte Auseinandersetzung zwischen<lb/>
+den Hauptschullehrern und Berufsschullehrern und teilweise den Mittel<lb break="no"/>schullehrern beginnt.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name>: UND <name type="person" ref="per:97543">HEINDL</name>: Bitte mit dem Sekretariat des Unterrichts<lb break="no"/>ministers klären, wie weit hier durch eine<lb/>
+Intervention <name type="person" ref="per:113083">Sinowatz</name> die Änderung des Schul<lb break="no"/>systems beschleunigen könnte.</p><p xml:space="preserve"/></div>
+      </body>
+      <back>
+         <pb n="17_1091_01" facs="17_1973-10-06_1091-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 6.10.1973</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="17_1091_02" facs="17_1973-10-06_1091-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="17_1093_01" facs="17_1973-10-06_1093-01.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>"Themen - Pressekonferenz"</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="17_1093_02" facs="17_1973-10-06_1093-02.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>hs. Notizen ("Themen - Pressekonferenz" Rückseite)</head>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+   </text>
+</TEI>

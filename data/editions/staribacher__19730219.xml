@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Montag, der 19. Februar 1973</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band14_1973-02-19</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1973-02-19">Montag, 19. Februar 1973</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-10-27">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band14/">
+      <body>
+         <pb n="14-0199" facs="14_1973-02-19_0199.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Montag, 19. Feber 1973</p><p xml:space="preserve">Im Jour fixe erklärt <name type="person" ref="per:97893">Sallinger</name>, daß ihm <name type="person" ref="per:134288">Millwisch</name> <name type="person" ref="per:111736">Zolles</name> empfohlen<lb/>
+hat, Als Geschäftsführer der österreichischen Fremdenverkehrswerbung.<lb/>
+Letztens hat er sich nur geirrt, als er <name type="person" ref="per:146610">Kafka</name> erwähnte und spricht<lb/>
+sich sich gegen <name type="person" ref="per:111736">Zolles</name> aus. Ich erkläre ihm , daß die diversen Vorstel<lb break="no"/>lungen für den Geschäftsführer auf falschen Voraussetzungen beruhen.<lb/>
+<name type="person" ref="per:97893">Sallinger</name> und <name type="person" ref="per:97769">Mussil</name> meinen er müßte mindestens so viel bekommen als<lb/>
+<name type="person" ref="per:97684">Langer-Hansel</name> jetzt verdient. Ich schildere ihnen an der Anstellung<lb/>
+von <name type="person" ref="per:98053">Wanke</name>, wie schwer es ist, im Staatsdienst, und die ÖFVW ist eine<lb/>
+ähnliche Einrichtung, Vordienstzeiten anzurechnen. Falls z. B. wirk<lb break="no"/>lich die Absicht besteht <name type="person" ref="per:97474">Gleissner</name> ins Ministerium zu transferieren,<lb/>
+was ich sehr begrüßen würde, könnte er max. als provisorischer Ober<lb break="no"/>kommissär mit einem Bruchteil seines Gehaltes beginnen. Auch bei der<lb/>
+Bestellung des Geschäftsführerers bei der ÖFVW muß man berücksichtigen,<lb/>
+daß <name type="person" ref="per:97684">Langer-Hansel</name> ejetzt 30 Jahre bevor er dort hingekommen ist,<lb/>
+Staatsbeamter gewesen ist. Da ich mich natürlich auf die Diskussion<lb/>
+ob <name type="person" ref="per:111736">Zolles</name> oder nicht einlassen wollte, habe ich die ganze Angelegen<lb break="no"/>heit auf die Gehaltsfrage rübergespielt.</p><p xml:space="preserve">Anmerkung für <name type="person" ref="per:97543">HEINDL</name><lb/>
+<name type="person" ref="per:134288">Millwisch</name> hat mit seiner Intervention glaube ich genau das Gegenteil<lb/>
+erreicht, was er beabsichtigte. Bitte genau feststellen was <name type="person" ref="per:97684">Langer-<lb/>
+Hansel</name> verdiente wie er rüberkam und was er jetzt bezieht.</p><p xml:space="preserve">Sie weisen darauf hin, daß es erstmalig ist, daß eine Regierungsvor<lb break="no"/>lage wie die Stahlfusion zurückgezogen wurde. In der ÖVP-Zeit hat<lb/>
+man maximalst Abänderungsanträge von Abgeordneten stellen lassen.<lb/>
+<name type="person" ref="per:97893">Sallinger</name> meint, bei der Erstellung der Gewerbeordnung in der ÖVP-Zeit<lb/>
+ebenfalls ein Rückzieher erfolgte. <name type="person" ref="per:97769">Mussil</name> bestreittet dies und er<lb break="no"/>klärt, der Gesetzentwurf wurde nie beschlossen, da als Auflage verein<lb break="no"/>bart wurde, daß sich <name type="person" ref="per:97749">Mitterer</name> und <name type="person" ref="per:97917">Schleinzer</name> zuerst über die Subventions<lb break="no"/>aufteilung einigen müßten.</p><p xml:space="preserve">Anmerkung für <name type="person" ref="per:98053">WANKE</name><lb/>
+Bitte den Akt Gewerbeordnung verschaffen, wo die Entstehungsgeschichte<lb/>
+des <name type="person" ref="per:97749">Mitterer</name>-Entwurfes und deren Behandlung im Ministerrat klar und<lb/>
+deutlich ersichtlich ist. Ich werde beim nächsten Jour fix <name type="person" ref="per:97769">Mussil</name><lb/>
+in diesen Akt Einblick nehmen lassen. Er hat seinerzeit den Akt ge<lb break="no"/>sehen.</p><pb n="14-0200" facs="14_1973-02-19_0200.jpg"/><p xml:space="preserve">Bei dem Stahlfusionsgesetzentwurf haben die Gewerkschaften, wie<lb/>
+<name type="person" ref="per:97769">Mussil</name> sich ausdrückte, die Regierung gedemütigt. Ich bestritt<lb/>
+dies und erklärte nur,daß die Gewerkschaften und insbesondere Me<lb break="no"/>tallarbeiter mit ihrer Mitbestimmungsauffassung in der Stahl AG<lb/>
+durchgesetzt haben. Bei dieser Gelegenheit verweise ich darauf,<lb/>
+daß die österreichische Industriellenvereinigung mit <name type="person" ref="per:97668">Kreisky</name> eine<lb/>
+Aussprache gehabt hatte, wo über das Arbeitsverfassungsgesetz<lb/>
+ebenfalls besprochen wurde und dort erklärt, daß die Verhandlungen<lb/>
+zwischen den Sozialpartnern über dieses Problem stattfinden sollen.</p><p xml:space="preserve"><name type="person" ref="per:97769">Mussil</name> verlangt von mir, daß ich bei der Stellungnahme zum Ent<lb break="no"/>lastungssatz des Preisbestimmungsgesetzes bei Einzelanträgen Be<lb break="no"/>gründungen der AK, ÖGB verlangen müßte. Diesen Vorschlag kann ich<lb/>
+nicht eingehen, da ich auch der Handelskammer nicht vorschreiben<lb/>
+kann, ob und wie sie Stellungnahmen abgibt.</p><p xml:space="preserve">Im Aufschtsrat der BÜRGES teilte mir <name type="person" ref="per:97893">Sallinger</name> und <name type="person" ref="per:97769">Mussil</name> mit, daß<lb/>
+<name type="person" ref="per:97757">Mühlbacher</name> ihnen zugesagt hat, daß außer <name type="person" ref="per:114965">Dorn</name> von der Handelskammer,<lb/>
+auch ein weiteres Mitglied, nämlich <name type="person" ref="per:109293">Busek</name> berufen werden sollte. Da<lb/>
+ich dafür nicht zuständig bin, auch gar nicht glaube, daß so de<lb break="no"/>zidiert <name type="person" ref="per:97757">Mühlbacher</name> sich für eine Vergrößerung des Aufsichtsrates<lb/>
+ausgesprochen hat, nehme ich dazu keine Stellung und erkläre nur,<lb/>
+daß der Finanzminister für die Bestellung des Aufsichtsrates zustän<lb break="no"/>dig ist. Was die Richtlinien betrifft, möchte <name type="person" ref="per:97769">Mussil</name>, daß die<lb/>
+Stammbürges den in Fällen, wo keine Banksicherung vorhanden ist,<lb/>
+und dann die BÜRGES eintritt, auch die Schwerpunktfälle des Gewerbe<lb break="no"/>strukturverbesserungsgesetzes als Zinsenzuschußfälle anerkannt<lb/>
+werden sollen. Dagegen spreche ich mich ganz entschieden aus, weil<lb/>
+ich dafür keine finanziellen Deckungen habe und da die Richtlinien<lb/>
+geändert werden sollten. Beim Gewerbestrukturverbesserungsgesetz<lb/>
+möchte er außer die jetzt schon anerkannten Schwerpunktfälle, daß<lb/>
+auch Betriebsverlegungen aus Wohngebieten in Industriegelände als<lb/>
+Schwerpunktfall anerkannt werden. Hier erkläre ich, daß der Beirat<lb/>
+sich mit diesem Problem beschäftigen soll und mir womöglich ein<lb break="no"/>stimmig vorschlagen. <name type="person" ref="per:97769">Mussil</name> erkläre, daß deshalb das Finanzministerium<lb/>
+von Dr. <name type="person" ref="per:98053">Wanke</name> so dagegen ist, weil er seinerzeit bei der BÜRGES-<lb/>
+Gründung beabsichtigt hat, daß <name type="person" ref="per:146298">Fischer-Tscherme</name>, als Platzhalter,<lb/>
+als Geschäftsführer hinkommt, damit dann der Finanzminister<lb/>
+<pb n="14-0201" facs="14_1973-02-19_0201.jpg"/>Dr. <name type="person" ref="per:98053">Wanke</name>, dwenn er in Pension geht, dort Geschäftsführer werden<lb/>
+konnte. Dieser Plan ist von <name type="person" ref="per:97649">Korinek</name> durchkreuzt worden. In den<lb/>
+Änderungswünschen von Richtlinien hätte <name type="person" ref="per:97757">Mühlbacher</name> ebenfalls zuge<lb break="no"/>sagt daß er sie unterstützen würde. Ich selbst habe mich im ersten<lb/>
+Fall negativ und beim Gewerbestrukturverbesserungsgesetz nur dann<lb/>
+bereit erklärt mitzutun, wenn die entsprechenden Vorschläge an mich<lb/>
+herangetragen werden.</p><p xml:space="preserve"><name type="person" ref="per:97769">Mussil</name> möchte gerne wissen wie es jetzt mit der Zuckererstattung<lb/>
+weiter geht. Ich selbst erkläre, daß Finanzministerium versucht<lb/>
+eine Vermittlungsvorschlag durchzubringen, auf den ich noch warte.</p><p xml:space="preserve">Den Auftrag an das Bauzentrum über die Studie Rationalisierung der<lb/>
+Bauindustrie, an der auch die VIBO sich beteiligt, wird in Hinkunft<lb/>
+nur unter Heranziehung der Interessensvertretungen durchgeführt<lb/>
+werden. <name type="person" ref="per:97769">Mussil</name> ist mit diesem Löungsvorchlag einverstanden und meint<lb/>
+sogar, daß die Bauinnung auch bereit wäre, finanzielle Zuschüsse zu<lb/>
+dieser Studie zu leisten.</p><p xml:space="preserve">Die Handelskammer hat an Finanzminister einen Brief gerichtet wegen<lb/>
+der Salzbpreise und dieser hat geantwortet, daß er primär erwartet,<lb/>
+daß das Handelsministerium initiativ wird. Im Rahmen der sektoralen<lb/>
+Industriepolitik sollte das Problem behandelt werden und ihm dann<lb/>
+entsprechende Vorschläge unterbreitet.</p><p xml:space="preserve">Anmerkung für <name type="person" ref="per:98053">WANKE</name><lb/>
+Bitte unter Hinzuziehung des Finanzministeriums insbesondere der<lb/>
+Abteilung, die diesen Brief geschrieben hat, eine entsprechende<lb/>
+Arbeitsgruppe einsetzen und dann einen schon vorher mit dem Ver<lb break="no"/>treter des Finanzministeriums abgestimmten Brief von mir an den<lb/>
+Finanzminister schreiben.</p><p xml:space="preserve"><name type="person" ref="per:97893">Sallinger</name> teilte mir zum Schluß mit, daß<lb/>
+er die Klubs eingeladen hat, die Außenhandelsorganisationen zu be<lb break="no"/>sichtigen und meinte, was ich dazu sage. Ich erkläre, daß ich dafür<lb/>
+vollstes Verständnis habe, daß er sich mit dieser Methode die<lb/>
+Parlamentarier und insbesondere natürlich die Obleute der Klubs<lb/>
+sichern will. L <name type="person" ref="per:97893">Sallinger</name> gibt zu, daß <name type="person" ref="per:97668">Kreisky</name> gemeint hat, daß<lb/>
+das eine ganz schöne Bestechung ist. Ich bestätige ihm, daß ich<lb/>
+<pb n="14-0202" facs="14_1973-02-19_0202.jpg"/>nicht die Absicht habe die Aussenhandelsstellen in eine staatliche<lb/>
+Organisationsform überzuführen. Obwohl es nicht nur bei den Beamten,<lb/>
+sondern auch bei manchen Politikern als wünschenswert betrachtet wird.<lb/>
+<name type="person" ref="per:97893">Sallinger</name> sagt neuderings, daß dies der Kriegsfall wäre, wenn irgend<lb break="no"/>jemand die Aussenhandelsorganisation angreifen würde.</p><p xml:space="preserve">Beim Journalistenfrühstück berichtet <name type="person" ref="per:97755">Moser</name> über den Wasserbauwirtschafts<lb break="no"/>fonds. Ich bin sehr froh, daß er nicht eine gleichlaufende Presse<lb break="no"/>konferenz abgehalten hat. Er bestreitet fast 50 Minuten der vorge<lb break="no"/>sehenen Stunde. Ich weiß nicht wie es in der Presse ankommen wird,<lb/>
+aber im Fernsehen am Abend muß ich feststellen, daß im Zeit im Bild<lb/>
+überhaupt nichts erwähnt wird, dafür aber mein kalter Kaffee, den ich<lb/>
+aufgewärmt habe, nämlich die 38 Milliarden S Fremdenverkehrseinnahmen<lb/>
+neuerdings kommen.</p><p xml:space="preserve">Anmerkung für <name type="person" ref="per:97646">KOPPE</name><lb/>
+Ich weiß nicht warum das Fernsehen über die anderen Minister so<lb/>
+wenig bringt. Gut kann dies allerdings auch nicht sein. Vielleicht<lb/>
+kan man einema recherchieren, welche Gesichtspunkte dort herrschen.</p><p xml:space="preserve">Bei der Süsswarenkonferenz in der Gewerkschaft referiere ich über<lb/>
+die Wirtschaftslage und insbesondere das Stabilisierungsabkommen.<lb/>
+Die Kolleginnen und Kollegen haben mir vor der Konferenz schon<lb/>
+wissen lassen, daß dies von größter Bedeutung für sie ist. In der<lb/>
+Diskussion wendet sich eine Kollegin aus Salzburg und frägt an, ob<lb/>
+denn heuer überhaupt Lohnbewegungen gemacht werden können. Die Kolle<lb break="no"/>ginnen und Kollegen in den Betrieben möchten, daß es im Zuge des<lb/>
+Stabilisierungsabkommens zu keinerlei Lohnbewegungen mehr kommt.<lb/>
+Sie sind sehr erfreut zu höhren, daß wir in unserem bisherigen Rytmus<lb/>
+natürlich unsere notwendigen Lohnbewegungen starten werden.<lb/>
+Die Unabhängigkeit und die Priorität der Interessensvertretung der<lb/>
+Arbeiter, nämlich der Gewerkschaft, wird von mir gegenüber jeder Re<lb break="no"/>gierung, wie ich mich ausdrücke, gewahrt bleiben.</p><p xml:space="preserve">In der Grundsatzgruppe, wo ich schon lange nicht gewesen bin, richtet<lb/>
+<name type="person" ref="per:126405">Klosse</name> über die Konjunkturgespräche und er muß zugeben, daß die<lb/>
+Industrie, die hautpsächlih an diesen Gesprächen teilnimmt, einen<lb/>
+weiteren positiven Konjunkturverlauf erwartet. <name type="person" ref="per:98112">Zöllner</name> fast dann<lb/>
+<pb n="14-0203" facs="14_1973-02-19_0203.jpg"/>zusammen eine sozialistische Regierung und eine solche Konjunktur<lb break="no"/>lage, mehr könnte sich die Industrie beim besten Willen nicht wünschen.</p><p xml:space="preserve">In der Ministerratsvorbesprechung weißt <name type="person" ref="per:97668">Kreisky</name> auf die Idee <name type="person" ref="per:107938">Leodolter</name>,<lb/>
+einen Müllbeseitigungsfonds, wie den Wasserwirtschaftsfonds zu er<lb break="no"/>richten. Er fragt, wo die Grundlage für diese Forderung liegt. <name type="person" ref="per:147002">Leo<lb break="no"/>dolter</name> verweist darauf, daß dies im Gesundheitsplan bereits angeführt<lb/>
+wurde. <name type="person" ref="per:97311">Androsch</name> befürchtet, daß er neuerdings zur Kassa gebeten wird,<lb/>
+nach dem im Finanzausgleichsgesetz 60 Mio die Länder und die Gemeinden<lb/>
+bekommen. <name type="person" ref="per:97668">Kreisky</name> hat ein Schreiben <choice><choice><sic>Journal of commerze</sic><corr>Journal of commerce</corr></choice></choice> bekommen und<lb/>
+regt an, daß die 13 österreichischen Seiten, die fürher auch an<lb/>
+die Bundesregierungen dort Annoncen aufgegeben haben, neuerdings<lb/>
+durchgeführt werden soll. Seinerzeit hat er das von mir erwartet<lb/>
+und ich habe ihm aber mitgeteilt, daß ich dafür keine finanziellen<lb/>
+Mitteln besitze. <name type="person" ref="per:97311">Androsch</name> wird nun die 21.000 Dollar für die ganze<lb/>
+Serie zur Verfügung stellen. <name type="person" ref="per:97767">Mussi</name>, <name type="person" ref="per:116106">Mauhart</name>, <name type="person" ref="per:97646">Koppe</name>, <name type="person" ref="per:149303">Schallenberg</name>,<lb/>
+der Pressereferent des Aussenministeriums, <name type="person" ref="per:133397">Brantl</name> und <name type="person" ref="per:97507">Hacker</name> sollen<lb/>
+in einem Komitee die notwendigen Texte und Inserate vorbereiten.</p><p xml:space="preserve">Anmerkung für <name type="person" ref="per:97646">KOPPE</name><lb/>
+Bitte setze sich mit <name type="person" ref="per:97767">Mussi</name> darüber ins Einvernehmen.</p><p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> verließ den Vorschlag für die ökonomische Versammlung.<lb/>
+Genau wie ich erwartet habe, hat er weder die Unterlagen von <name type="person" ref="per:98034">Veselsky</name><lb/>
+bekommen oder auch nur gelesen, sondern einen einseitig geschriebenen<lb/>
+Entwurf von <name type="person" ref="per:97311">Androsch</name> übernommen. Danach soll.die ökonomische Ver<lb break="no"/>sammlung am 14. um 17.00 Uhr beginnen und <name type="person" ref="per:97668">Kreisky</name> wird über die re<lb break="no"/>gionale Strukturpolitik sprechen. Anschließend soll sofort das ge<lb break="no"/>sellschaftliche Zusammensein mit den Experten den Abend beschließen.<lb/>
+Ich soll um 9.00 über die österreichische Wirtschaft und die europ.<lb/>
+Integration b sprechen, <name type="person" ref="per:97311">Androsch</name> um 10.00 über irgendein Wachstums<lb break="no"/>problem, die ganze Tagung soll nämlich unter dem Titel "Wachstum und<lb/>
+Stabilität stehen." <name type="person" ref="per:97668">Kreisky</name> war aber mit diesem Vorschlag nicht ein<lb break="no"/>verstanden und <name type="person" ref="per:97311">Androsch</name> hat dann erklärt er wird dann einen anderen<lb/>
+Titel nehmen den <name type="person" ref="per:97668">Kreisky</name> will, ihm kommt es nur darauf an über das 0-<lb/>
+Wachstum zu sprechen. Um 11.00 wird <name type="person" ref="per:118220">Rothschild</name> dann über Vollbe<lb break="no"/>schäftigung, Wachstum und Stabilität referieren. Ich habe mich über<lb/>
+den Titel, der mir zugeteilt wurde, weder den Kopf zerbrochen,<lb/>
+<pb n="14-0204" facs="14_1973-02-19_0204.jpg"/>noch dagegen gewehrt, weil ich sowieso beabsichtige mein Referat<lb/>
+so aufzubauen, wie ich es für notwendig finde. <name type="person" ref="per:97668">Kreisky</name> hat allerd<lb break="no"/>dings gefragt, ob ich überhaupt einverstanden bin, was ich natürlich<lb/>
+bejahte. Die anderen Wirtschaftsressorts meinte <name type="person" ref="per:97311">Androsch</name> sollten<lb/>
+wirtschaftliche Berichte geben, nach dem Motto, versprochen, gehalten.<lb/>
+Wie weit dies geschieht weiß ich nicht, auf alle Fälle hat sich kein<lb/>
+anderer Ressortminister gemeldet.</p><p xml:space="preserve">Sonntag, 1. April wird <name type="person" ref="per:97668">Kreisky</name> und <name type="person" ref="per:97311">Androsch</name> eine regionalpolitische<lb/>
+Konferenz in Schärding, an der auch Bayern, <name type="person" ref="per:140762">Vogel</name>, usw. daran teil<lb break="no"/>nehmen, gestartet. Die regionalpolitische Konferenz soll der SPÖ<lb/>
+Oberösterreich einen gewissen Auftrieb geben, das Fernsehen mobili<lb break="no"/>sieren und Landeshauptmannstellvertreter <name type="person" ref="per:125380">Fridl</name> eine Möglicheit der<lb/>
+Wahlpropaganda liefern. <name type="person" ref="per:97668">Kreisky</name> meinte dann, es müßten auch andereä<lb/>
+Ressortminister zumindestens anwesend sein und hat insbesondere<lb/>
+an den Handelsminister verwiesen.</p><p xml:space="preserve">Anmerkung für <name type="person" ref="per:98053">WANKE</name><lb/>
+Ich glaube hier wäre eine gute Gelegenheit dann ein Regionalporgramm,ä<lb/>
+wie <name type="person" ref="per:97469">Gehart</name> es sich vorgestellt hat, soforot zu präzisieren.</p><p xml:space="preserve">Bei der wirtschaftlichen Landesverteidigung hat <name type="person" ref="per:112589">Zeillinger</name> sich da<lb break="no"/>gegen ausgesprochen, daß ich zuerst mich telefonisch soforot mit<lb/>
+ihm in Verbindung gesetzt habe, aber er jetzt über die wirtschaft<lb break="no"/>liche Landesverteidigung und deren Doktrin nichts mehr hört. Ich<lb/>
+replicierte, daß ich mit <name type="person" ref="per:97807">Peter</name> darüber gesprochen habe und er mir<lb/>
+erklärte, daß <name type="person" ref="per:97515">Hanreich</name> fund <name type="person" ref="per:127586">Tödling</name> von der ÖVP für diesen Fragen<lb break="no"/>komplex zuständig sind. Mit diesen und <name type="person" ref="per:97752">Mondl</name> hätte ich eine Be<lb break="no"/>sprechung abgehalten und sie hätten mir erklärt, daß jetzt erst die<lb/>
+Interessensvertretungen mit dem Handelsministerium konkrete Pläne<lb/>
+und Vorschläge erarbeiten sollen. Von <name type="person" ref="per:138097">Nowotny</name> habe ich eine Abschrift<lb/>
+des Protokolls erbeten und werde auf Grund dessen Abgeordneten<lb/>
+<name type="person" ref="per:112589">Zeillinger</name> einen entsprechenden Brief schreiben.</p><p xml:space="preserve">Die Regierungsklausur wird vom 4. auf 3. Mai vorverlegt und soll<lb/>
+in Oberösterreich wegen der Wahlen stattfinden. Die Welser sind an<lb/>
+<name type="person" ref="per:97668">Kreisky</name> wegen einer Messeeröffnung und zwar der Fremdenverkehrs<lb break="no"/>messe herangetreten und haben von ihm auch die Zusage erhalten,<lb/>
+<pb n="14-0205" facs="14_1973-02-19_0205.jpg"/>daß er die Fremdenverkehrsmesse eröffnen wird. Er hat mich ge<lb break="no"/>fragt, nach dem dies meine Agenden sind, ob ich dagegen etwas<lb/>
+einzuwenden hätte, was ich natürlich sofort verneinte.</p><p xml:space="preserve">Eggenberger Führungsakademie wünscht 20.000,-- Jahresbeitrag<lb/>
+und hat dies an alle Minister gerichtet. <name type="person" ref="per:97668">Kreisky</name> lehnt daß, nicht<lb/>
+nur für seine Person, sondern für die gesamte Regierung ab.</p><p xml:space="preserve">Anmerkung für <name type="person" ref="per:97543">HEINDL</name><lb/>
+Bitte feststellen, ob wir den Brief schon bekommen haben und hoffent<lb break="no"/>lich noch nicht bezahlt haben.</p><p xml:space="preserve"><name type="person" ref="per:107938">Leodolter</name> hat mit den Spitalreferenten vereinbart, daß sie einen<lb/>
+Beirat schaffen wird, der über die 240 Mio S Krankenhauszuschuß und<lb/>
+deren Aufteilung reden wird. Sie möchte, daß vorerst die Länder<lb/>
+eine Finanzierung vorlegen und sie dann die 240 Mio. nach Schwer<lb break="no"/>punkten verteilen wird. <name type="person" ref="per:97311">Androsch</name> ist nun dafür, daß unbedingt in<lb/>
+das Komitee auch die Finanzreferenten geladen werden. Die Finanz<lb break="no"/>referenten haben ein Kontaktkomitee <name type="person" ref="per:137232">Suchanek</name>, <name type="person" ref="per:97932">Schweda</name> und noch<lb/>
+zwei andere geschaffen und wollen die Spitalsreferenten nicht<lb/>
+alleine lassen. <name type="person" ref="per:97311">Androsch</name> befürchtet, wenn die Finanzreferenten<lb/>
+nicht dabei sind, die <name type="person" ref="per:107938">Leodolter</name> überhaupt keine Möglichkeit hat,<lb/>
+die 240 Mio. zur Endfinanzierung mit den Ländern zweckmäßig zu<lb/>
+verwenden. In diesem Fall würde so wie in der Vergangenheit die<lb/>
+Volkszählungsresultate zur Aufteilung der 240 Mio. herangezogen<lb/>
+werden. Nach dem <name type="person" ref="per:97668">Kreisky</name> gehört hat, daß <name type="person" ref="per:107938">Leodolter</name> zumindestens<lb/>
+den Vorsitz in diesem Komitee hat, hat er ihr empfohlen, den Vor<lb break="no"/>schlag <name type="person" ref="per:97311">Androsch</name> zu akzeptieren.</p><p xml:space="preserve">LH-Stv. <name type="person" ref="per:125380">Fridl</name> appelliert an den Bundeskanzler, die Erhöhung des<lb/>
+Krisengroschens unbedingt zu verschieben. <name type="person" ref="per:97311">Androsch</name> weist aber da<lb break="no"/>rauf hin, daß jetzt bereits schon feststeht, daß 229 Mio. als<lb/>
+Export Subvention für die Milchwirtschaft und 130 Mio. für die<lb/>
+Milchpreisstützung derzeit schon durch Budget nicht mehr gedeckt<lb/>
+ist. Dazu kommt, daß der Milchfonds 60 – 70 Mio. Abgang hat, daß<lb/>
+nach <name type="person" ref="per:98055">Weihs</name> Meinung aber als Notopfer immer wieder von den Unternehmern<lb/>
+verlangt wurde und keine Budgetmittel dafür notwendig sind. Die ÖVP<lb/>
+hat dann <name type="person" ref="per:97668">Kreisky</name> einen Brief geschrieben, daß sie sich dagegen aus<lb break="no"/><pb n="14-0206" facs="14_1973-02-19_0206.jpg"/>spricht, daß § 9 Mittel die zu absatzfördernden Maßnahmen verwendet<lb/>
+werden sollten, für aeine Stützung herangezogen wurden. Der Finanz<lb break="no"/>minister hat dafür 108 Mio. S inkameriert. <name type="person" ref="per:97311">Androsch</name> verweist darauf,<lb/>
+daß auch noch für Getreide und Futtermittelstützung 150 – 160 Mio<lb/>
+benötigt. <name type="person" ref="per:98055">Weihs</name> behauptet dagegen, daß nur 40 Mio für Futterge<lb break="no"/>treide notwendig sind. 100 Mio waren in einem BÜG im Vorjahr nicht<lb/>
+unterzubringen und deshalb auf das heurige Jahr verschoben. Heuer wird<lb/>
+genau dasselbe wieder für das nächste Jahr praktiziert. Es bleibt bei<lb/>
+dem Beschluß, mit 1. 3. den Krisengroschen von 5 auf 15 Groschen zu<lb/>
+erhöhen.</p><p xml:space="preserve"><name type="person" ref="per:97755">Moser</name> beschwert sich, daß noch immer nicht endgültig entschiden ist,<lb/>
+wer und wie die Gelder für die Aichfeld Murboden-Häuser, d.h. für<lb/>
+die zwei Genossenschaften die sisch dafür bewerben, durchgeführt<lb/>
+werden. Ennstaler von NR. <name type="person" ref="per:97505">Haberl</name> und die Rottenmanner, die ÖVP trotz<lb/>
+<name type="person" ref="per:147397">Müller</name> führt, kommen in die schwierigste Situation. Die Rottenmanner<lb/>
+werden fertige Projekte für Judenburg und Zeltweg vorlegen und das<lb/>
+Land wirdi die Annuitätenzuschüsse und alle sonstigen auf sie ent<lb break="no"/>fallenen Auflagen übernehmen. Doe sozialistische Wohnbaugenossen<lb break="no"/>schaft hat noch keinerlei Unterlagen und Möglichkeiten. Finanz<lb break="no"/>ministerium und Arbeiterkammer kann den Annuitätenzuschuß nur über die<lb/>
+WAG bezahlen, wer dann von der WAG die Mittel bekommt, ist ihm ganz<lb/>
+egal. Haushaltsrechtlich kann er sie nicht gleich an die Wohnbauge<lb break="no"/>nossenschaften geben. <name type="person" ref="per:97668">Kreisky</name> ist über die ganze Entwicklung sehr<lb/>
+ungehalten, weil er etwartet,,daß von Seiten der Geselschaft die ge<lb break="no"/>gründet wurde, nichts weiter geht und er dann als großer Ankünder,<lb/>
+der nichts durchführt, von der steirischen ÖVP angegriffen wird.<lb/>
+Angeblich wurde auch ein wiener Architekt bereits mit der Planung<lb/>
+der Genossenschaftshäuser betraut oder ihm zumindestens zugesichert,<lb/>
+obwohl eine öffentliche Ausschreibung in der Steiermark üblich und<lb/>
+notwendig ist. <name type="person" ref="per:98034">Veselsky</name> bestreitet dies ganz entschieden. <name type="person" ref="per:97668">Kreisky</name><lb/>
+fragt, wer denn eigentlich der Geschäftsführer unserer Entwicklungs<lb break="no"/>gesellschaft da unten ist. <name type="person" ref="per:98034">Veselsky</name> meint <name type="person" ref="per:136678">Klimpt</name> <add>[evtl. Falschidentifikation, Anm.]</add>, worauf <name type="person" ref="per:97668">Kreisky</name><lb/>
+verwundert fragt "was, der der von uns weggegangen ist?" und fragt,<lb/>
+wieso man überhaupt auf den gekommen ist. <name type="person" ref="per:97311">Androsch</name> erklärte, daß<lb/>
+zuerst zwei Geschäftsführer zur Auswahl gestanden ist, einer dagegen<lb/>
+eben dann kein Interesse mehr gehabt hat snd deshalb nur <name type="person" ref="per:136678">Klimpt</name> über<lb break="no"/>geblieben ist, der eben dann für di se Arbeit berufen wurde<lb/>
+<pb n="14-0207" facs="14_1973-02-19_0207.jpg"/>Ich habe, um <name type="person" ref="per:98034">Veselksy</name> nicht in weitere Schwierigkeiten zu bringen,<lb/>
+zu dieser ganzen Angelegenheit geschwiegen, bin aber sehr erstaunt,<lb/>
+daß aüber die Bestellung von <name type="person" ref="per:136678">Klimpt</name> <add>[evtl. Falschidentifikation, Anm.]</add> und über die wirklichen Gründe,<lb/>
+warum der zweite Mann zurückgezogen hat, so wenig bekannt war.</p><p xml:space="preserve"><name type="person" ref="per:97893">Sallinger</name> und <name type="person" ref="per:97769">Mussil</name> sowie Dr. <name type="person" ref="per:139990">Ecker</name> haben beim Bundeskanzler vorge<lb break="no"/>sprochen, um über die FLüssigmachung der ERP-Mittel zu reden. <name type="person" ref="per:97769">Mussil</name><lb/>
+schwebt vor, daß für Forschung, Entwicklung, Rationalisierung in<lb/>
+Abwanderungsgebieten für Seilbahnen und Sesselliften so schnell als<lb/>
+möglich die ERP-Arbeiten und Zuteilung erfolgen sollte. Zum Glück<lb/>
+hat mir durch reinen Zufall <name type="person" ref="per:111367">Würzl</name> bei der Pressekonferenz erwähnt,<lb/>
+daß wir auf dem Fremdenverkehrssektor jetzt alle Projekte durchgeben<lb/>
+müssen, damit wir mit den restlichen 24 Mio. beginnenden Bauten<lb/>
+ausfinanzieren können. Triumphierend kann ich deshalb mitteilen,<lb/>
+daß entsprechende Vorarbeiten mit dem Handelsministerium bereits<lb/>
+geleistet werden. Außerdem stellt sich dann heraus, daß außer der<lb/>
+Energiewirtschaft die 100 Mio schon verplant und ausgegeben hat,<lb/>
+vom Verkehrsressort von 60 Mio. 17,5 Mio, von der Landwirtschaft<lb/>
+von 170 106 Mio., von der Forstwirtschaft von 30 – 14 Mio., von<lb/>
+der Industrie von 550 – 500 Mio., von Gewerbe von 100 Mio, 86 Mio.<lb/>
+und von den Kohlenkrediten 100, 56 Mio. noch offen sind. Im Fremden<lb break="no"/>verkehr haben wir wirklich im Interesse dieses Wirtschaftszweiges<lb/>
+hervorragend schnell und effizient gearbeitet. <name type="person" ref="per:97311">Androsch</name> schlägt vor,<lb/>
+daß wir bei der nächsten Verbändebesprechung über diese Frage dis<lb break="no"/>kutieren sollen und dann einstimmig beschließen, daß tatsächlich<lb/>
+jetzt die Arbeiten sofort aufgenommen werden und so schnell wie<lb/>
+möglich dann nach Auslaufen des Stabilisierungsabkommens, d.h.<lb/>
+im Mai, den Zuschlag geben können. Ich möchte verhindern, daß<lb/>
+<name type="person" ref="per:97807">Peter</name> jemand sagt er hätte Stabilisierungsabkommen in diesem Punkt<lb/>
+gebrochen. <name type="person" ref="per:97668">Kreisky</name> ist mit der Vorgangsweise einverstanden, er<lb/>
+erklärt nur, daß natürlich erst nach Auslaufen des Stabilisierungs<lb break="no"/>abkommen s die Freigabe erfolgen könne.</p></div>
+      </body>
+      <back>
+         <pb n="14_0198_11" facs="14_1973-02-19_0198-11.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 19.2.1973</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="14_0198_12" facs="14_1973-02-19_0198-12.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+   </text>
+</TEI>

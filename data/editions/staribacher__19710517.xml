@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Montag, der 17. Mai 1971</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band06_1971-05-17</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1971-05-17">Montag, 17. Mai 1971</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-08-14">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="06-0602" facs="06_1971-05-17_0602.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Montag, 17. Mai 1971<lb/>
+</p>
+            <p xml:space="preserve">Die interministeriellen Sitzungen zur Vorbereitung von Handelsvertrags<lb break="no"/>besprechungen resp. von Besuchen im Ausland waren in den vergangenen<lb/>
+Jahren glaube ich hauptsächlich unter dem Gesichtspunkt der technischen<lb/>
+Vorbereitungen der Reise und erst in zweiter Linie unter den materiel<lb break="no"/>len Problemen gestanden. Ich habe deshalb bei der heute stattfindenden<lb/>
+interministeriellen Sitzung der UdSSR daran teilgenommen, weil ich ent<lb break="no"/>sprechende Unterlagen von den Interessensvertretungen und den anderen<lb/>
+Ministerien erhalten wollte. Die bisher vorliegenden Fragen und Probleme<lb/>
+sind meiner Meinung nach sehr dürftig. Die wichtigste Frage erscheint<lb/>
+Min.Rat <name type="person" ref="per:97426">Fälbl</name> der Versuch, eine Vertretung der Firmen in der SU zu erreichen.<lb/>
+<name type="person" ref="per:97426">Fälbl</name> replizierte auf diesen Vorschlag, den ich ihm mitteilte, sofort<lb/>
+derart, dass er meinte die SU würde dies unter allen Umständen nicht<lb/>
+gerne sehen, da sie Spionageverdacht gegen alle Ausländer hegt. Zum<lb/>
+Glück war ich anwesend, als Dr. <name type="person" ref="per:137150">Binder</name> vom Aussenministerium erklärte,<lb/>
+dass viele westliche Staaten solche Firmenvertreter bereits aber in der<lb/>
+UdSSR haben. Ich kann mir dies nur so erklären, dass <name type="person" ref="per:97426">Fälbl</name> eine Angst<lb/>
+hat, dass wenn Firmenvertreter in der SU sitzen, dass er dann als<lb/>
+Handelsvermittler in Ministeriumsfunktion dann nicht mehr so zum Zuge<lb/>
+kommt als wenn er mehr oder minder die alleinige Kontaktperson ist.<lb/>
+Ich habe deshalb sofort die Bundeshandelskammer ersucht, sie möge un<lb break="no"/>bedingt eine Umfrage machen, welche Firmen eine solche Handelsvertretung<lb/>
+in der Sowjetunion wünschen. Den Posten schätzt Dr. <name type="person" ref="per:137150">Binder</name> auf ca.<lb/>
+50.000 S pro Monat. Ich möchte, dass die Forderungen, die wir an <name type="person" ref="per:112951">Patoli<lb break="no"/>tschew</name> stellen, vorher spätestens beim Essen mit dem sowjetischen Bot<lb break="no"/>schafter ihm übergeben werden, damit er diese nach Moskau melden kann,<lb/>
+um die entsprechenden Antworten dann bei den Verhandlungen auch tatsäch<lb break="no"/>lich zu bekommen.<lb/>
+</p>
+            <p xml:space="preserve">Beim Bundespräsidenten hatte ich eine – wie es das Protokoll vorsieht –<lb/>
+kurze Informationsbesprechung. Zum Glück fiel mir ein, dass ich bei seiner<lb/>
+Angelobung nicht anwesend sein kann, da ich in der SU bin, ich entschul<lb break="no"/>digte mich daher sofort in aller Form. <name type="person" ref="per:97607">Jonas</name> hatte dafür vollstes Verständnis<lb/>
+und meinte nur, es sei nur wichtig, dass ich ihn vorher davon verständige.<lb/>
+Die Hamburger Hafengesellschaft, Präsident <name type="person" ref="per:137151">Westerich</name> und Vizepräsident<lb/>
+<name type="person" ref="per:137152">Klausen</name> und <name type="person" ref="per:137153">Schürfeld</name> sowie Dr. <name type="person" ref="per:137154">Lau</name>, hatten ein umfangreiches Frageprogramm<lb/>
+zu ihren Besuchen geschickt. Das Büro hat diese Fragen an die entsprechenden<lb/>
+Sektionen weitergegeben und es war eigentlich vorgesehen, dass sie diese<lb/>
+<pb n="06-0603" facs="06_1971-05-17_0603.jpg"/>Fragen beantworten sollten. Da keine Zeit mehr vorhanden war, wurde<lb/>
+von <name type="person" ref="per:98053">Wanke</name> beabsichtigt, dass sie diese Fragen mündlich beantworten<lb/>
+würden. Ich habe mich sofort gegen diese Vorgangsweise ausgesprochen<lb/>
+und habe nach Durchsicht der Fragen festgestellt, dass ich sie alle<lb/>
+auswendig aus dem Steigreif beantworten könnte, ausser einer einzigen:<lb/>
+nämlich um 170 km Freigrenze, die die deutschen Seehäfen heute haben.<lb/>
+Interessanterweise hat auch Dr. <name type="person" ref="per:134300">Metzner</name> diese Frage nicht beantworten<lb/>
+können und auf meine Urgenz doch einen Spediteur sofort zu fragen, konnte<lb/>
+auch die Bundeshandelskammer, der Fachverband, aber auch kein einziger<lb/>
+Spediteur eine befriedigende Auskunft geben. Über dieses Problem wäre<lb/>
+also überhaupt niemand vorbereitet gewesen. Ich frage mich aller<lb break="no"/>dings, wozu dann die Fragen an die einzelnen Sektionen und Abteilungen<lb/>
+gehen, wenn doch Detailfragen nicht bis ins letzte erforscht werden<lb/>
+Die Delegation legte – wie ich einleitend gleich feststellen konnte,<lb/>
+überhaupt keinen Wert auf diesen Fragenkatalog, sondern meinte, man<lb/>
+sollte allgemein diskutieren und Fragen, die wir an sie stellten,<lb/>
+würden sie sehr gerne beantworten. Ich trug aber der Gastfreundschaft<lb/>
+Rechnung und schlug vor, dass sie zuerst ihre Wünsche und Fragen stellen<lb/>
+sollten. Sie stürzten sich sofort auf innerdeutsche Probleme nämlich<lb/>
+ob die Aufwertung von der DM durch das <choice><choice><sic>Flottingsystem</sic><corr>Floating-System</corr></choice></choice> richtig wäre oder<lb/>
+ob nicht doch ein fester Wechselkurs wie ihn auch die EWG<lb/>
+verlangt, zielführender wäre. Sie diskutierten unter sich ob der § 23<lb/>
+nicht doch eine dirigistische Massnahme sei und dass man andererseits<lb/>
+hier ein Verzinsungsverbot für die zufliessenden ausländischen Devisen<lb/>
+ergreifen müsste, wie es die Schweiz z.B. hat, und so weiter. Sie<lb/>
+wiesen darauf hin, dass wir in Österreich besser daran sind, weil<lb/>
+wir doch noch über den Kapitalverkehr eine gewisse Kontrolle haben,<lb/>
+währenddem die BRD dies alles frei spielen lässt. Interessant war<lb/>
+also ihre Diskussion sehr für sie selbst, sicherlich auch für uns als<lb/>
+Zuhörer, aber es betraf nur in ganz entfernter Weise auch die Hambu<lb break="no"/>ger-österreichischen Probleme. Natürlich interessierten sie sich auch<lb/>
+für die spezifisch österreichischen Fragen und insbesondere über die<lb/>
+Funktionsweise der Paritätischen Kommission. Unsererseits wurde nur<lb/>
+die 170 km Grenze angeschnitten und dabei wurde festgestellt, dass der<lb/>
+<name type="person" ref="per:137155">Leber</name>-Pfennig, der seinerzeit in einer Beförderungssteuer seinen Nieder<lb break="no"/>schlag gefunden hat, dazu führte, dass die Seehäfen eine 170 km lange<lb/>
+Freistrecke verlangt haben. Dies entspricht ungefähr der Entfernung<lb/>
+der niederländischen Seehäfen Rotterdam und Amsterdam von der deutsch-<lb/>
+niederländischen Grenze. Dadurch sollen eben Hamburg und Bremen und die<lb/>
+<pb n="06-0604" facs="06_1971-05-17_0604.jpg"/>anderen Seehäfen nicht benachteiligt werden. Da sie ja eine grössere<lb/>
+inländische Strecke noch mit Beförderungssteuer sonst belegt hätten.<lb/>
+Wenn nun der <name type="person" ref="per:137155">Leber</name>-Plan die Umwandlung des <name type="person" ref="per:137155">Leber</name>-Pfennigs, d.h. der<lb/>
+Beförderungssteuer in einen Mineralölsteuer-Zuschlag eintritt, dann<lb/>
+würde dieser Ausgleich für die deutschen Seehäfen wegfallen, was für<lb/>
+sie von eminenter Bedeutung ist. Ich konnte bei dem anschliessenden<lb/>
+Essen der Hafengesellschaft, das Bürgermeister <name type="person" ref="per:137156">Weichmann</name> präsentierte,<lb/>
+feststellen, dass der deutsche Botschafter neben mir erklärte, dass<lb/>
+er selbst erst im Laufe der Jahre daraufgekommen ist, dass die Seehäfen<lb break="no"/>gebühren gar nicht so ausschlaggebend sind, sondern dass ausschliesslich<lb/>
+die Tarifpolitik der Bundesbahn, in dem Fall der deutschen Bundesbahn,<lb/>
+aber es kann natürlich auch der jugoslawischer oder der italienischen<lb/>
+für deren Häfen sein, von Bedeutung ist.<lb/>
+</p>
+            <p xml:space="preserve">Bei diesem Essen traf ich auch Präsident <name type="person" ref="per:97733">Mayer-Gunthof</name> und <name type="person" ref="per:97893">Sallinger</name><lb/>
+und ich fragte beide, warum sie nicht nach Moskau mitfahren. <name type="person" ref="per:97733">Mayer-<lb/>
+Gunthof</name> meinte, er sei von mir noch nicht dazu eingeladen worden, was<lb/>
+ich in diesem Moment sofort gleich nachholte und <name type="person" ref="per:97893">Sallinger</name> meinte, er<lb/>
+müsste erst mit seinem Klub sprechen, ob er entsprechend freikriegen<lb/>
+könnte.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR DR. <name type="person" ref="per:97543">HEINDL</name>: Bitte, in Hinkunft immer schriftliche Einla<lb break="no"/>dungen an die Präsidenten der entsprechenden Interessensvertretungen<lb/>
+ergehen lassen, damit sich niemand ausreden kann, er hätte keine Ein<lb break="no"/>ladung von mir bekommen.<lb/>
+</p>
+            <p xml:space="preserve">Die Unternehmervertreter bei dieser Hafengesellschaft waren meistens<lb/>
+hohe Funktionäre der hamburgischen Handelskammer. Ich war deshalb<lb/>
+sehr erstaunt und erfreut, dass mir Bürgermeister <name type="person" ref="per:137156">Weichmann</name>, ein Ge<lb break="no"/>nosse, den ich schon seit etlichen Jahren kenne, mitteilte, dass auch<lb/>
+ein Arbeiter bei der Delegation sei, der nämlich Hubstaplerkonkurrenz<lb break="no"/>kampf gewonnen hat. Er ist dies das erste Mal, dass Hafenarbeiter eine<lb/>
+solche Konkurrenz ausgetragen haben und er ist nun zur Belohnung mitge<lb break="no"/>nommen worden.<lb/>
+</p>
+            <p xml:space="preserve">Präsident <name type="person" ref="per:97925">Schoeller</name> und die Mühlenvertreter wollten einen genauen Termin<lb/>
+über den Beginn der Preiserhöhung für Mehle und Brot und Backwaren. Ich<lb/>
+konnte ihnen einen solchen nicht genau sagen, da ich mit <name type="person" ref="per:98055">Weihs</name> noch<lb/>
+nicht endgültig einen solchen Termin vereinbart habe. Sicher ist, dass<lb/>
+sie aber im Juni diese Preiserhöhung bekommen werden und ich empfahl<lb/>
+ihnen deshalb, da die Gewerkschaft und insbesondere die Betriebsräte<lb/>
+<pb n="06-0605" facs="06_1971-05-17_0605.jpg"/>sehr stark auf die Festsetzung des Geltungsbeginnes der Lohnerhöhung<lb/>
+drängten, mit Abschlagszahlungen diesen Termin zu überbrücken. Tatsache<lb/>
+ist, dass die Gewerkschaft 18 Monate seit der letzten Lohnverhandlung<lb/>
+zugewartet hat und dass kaum anzunehmen ist, dass jetzt noch die Be<lb break="no"/>legschaft viel Geduld haben wird.<lb/>
+</p>
+            <p xml:space="preserve">Min.Rat <name type="person" ref="per:112946">Schleifer</name> kam mit Dr. <name type="person" ref="per:112977">Neuhold</name> und Amtsrat <name type="person" ref="per:107936">Elsinger</name>, weil er<lb/>
+auch über die Preiserhöhungsanträge Weisungen erbat. Ich wies darauf<lb/>
+hin, dass wir bei den Ölpreisen, d.h. jetzt die Festsetzung von Benzin<lb/>
+und Dieselöl, gar keine Eile notwendig hätten. Es wurde von Seiten der<lb/>
+Paritätischen Kommission der Heizölpreis, der ein kritischer Preis war<lb/>
+wegen der Importe, erhöht und bezüglich Benzine könnten wir zuwarten,<lb/>
+solange die ÖMV und die Ölgesellschaften nicht stärker drängen. Wenn<lb/>
+dann diese Gesellschaften entsprechende Preisanträge erledigt haben<lb/>
+wollen, dann würden wir von ihnen unverzüglich verlangen, welche quali<lb break="no"/>tätsmässigen Verbesserungen insbesondere im Hinblick auf die Bleisenkung<lb/>
+im Benzin durchführen würden. Da diese aber erst bei der Fertigstellung<lb/>
+des <choice><choice><sic>bladformers</sic><corr>Platformers</corr></choice></choice> in Schwechat fällig werden, könnten wir noch einige<lb/>
+Wochen, ja sogar wahrscheinlich Monate diese Preiserhöhung hinaus<lb break="no"/>schieben. Ausserdem glaube ich, ist es sinnführend, vorher den Firmen<lb/>
+unser Konzept über die Tankstellenregelung vorzuschlagen.<lb/>
+</p>
+            <p xml:space="preserve">Betreffend die Preiserhöhungen für Milch und Molkereiprodukte sowie<lb/>
+für Mehl und Backwaren hatten sie überhaupt keine Ahnung über den<lb/>
+letzten Stand. Ich gab ihnen deshalb die eben von <name type="person" ref="per:97925">Schoeller</name> erhaltenen<lb/>
+Unterlagen und bin neugierig, was sie damit anfangen werden. Dadurch<lb/>
+dass die Preisregelung sehr zersplittert ist, gibt es innerhalb der<lb/>
+Ministerialbürokratie auch wahrscheinlich die verschiedensten Informa<lb break="no"/>tionsmängel sodass in Wirklichkeit die Minister mehr wissen als die<lb/>
+Beamten.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Vorbesprechung zum Ministerrat konnte ich allerdings feststellen<lb/>
+dass <name type="person" ref="per:98055">Weihs</name> auch noch nichts über die Idee wusste, wonach keine Mehl<lb break="no"/>preiserhöhung erfolgen müssten, wenn man den Mühlen erlaubt, dass sie<lb/>
+nur hochqualitatives Mehl mit 480 Aschegehalt, das heute als doppel<lb break="no"/>griffig und Griess verkauft wird, erzeugen dürften. <name type="person" ref="per:97525">Häuser</name> aber sprach<lb/>
+sich dagegen aus, da er meinte, dies würde einen schlechten Eindruck<lb/>
+auf die Bevölkerung machen, weil sie dann kein Mehl mehr zum normalen<lb/>
+Preis mit 700 Aschegehalt um 5.80 S erhalten würde. Ausserdem behauptete<lb/>
+<pb n="06-0606" facs="06_1971-05-17_0606.jpg"/>er, dass man gewisse Mehlspeisen überhaupt nur mit Qualitätsmehl<lb/>
+700, d.h. der schlechteren Ausmahlung erzeugen kann. <name type="person" ref="per:98055">Weihs</name> selbst<lb/>
+war auch einem solchen Plan nicht geneigt und er schlug deshalb vor,<lb/>
+das Mehl um 10 Groschen verpackt und nicht verpackt um 5 Groschen<lb/>
+erhöht werden soll und dass er den Wecken und Brotpreis um 40 Groschen<lb/>
+erhöhen will, wenn er gleichzeitig die Bestimmung, dass der Wecken<lb/>
+nur 98 Deka haben muss und wieder 1-kg-Wecken einführen will. Das<lb/>
+letztere wird wahrscheinlich, so bin ich überzeugt und habe dies<lb/>
+auch zum Ausdruck gebracht, von der Bevölkerung nicht anerkannt werden,<lb/>
+da jewede Gewichtsänderung kaum registriert wird. Bei den Milchprodukten<lb/>
+wird <name type="person" ref="per:98055">Weihs</name> die Milch um 30 Groschen, Butter um 4 S, Käse um 5 S, Topfen<lb/>
+um 2 S, Schlagobers um 6 S, Kaffeeobers um 4 S und Milchpulver um 2 S<lb/>
+Verbraucherpreiserhöhung vorschlagen. Dadurch kann er die Erzeugerpreise<lb/>
+in der ersten Qualität um 25 Groschen, Milch der zweiten Qualität um<lb/>
+17 Groschen und der dritten Qualität um 5 Groschen erhöhen. Die ur<lb break="no"/>sprüngliche Idee, den Kleinbauern einen höheren Milchpreis zuzugestehen,<lb/>
+hat er scheinbar fallengelassen. Diese Vorschläge fanden zu meiner<lb/>
+grössten Verwunderung die Zustimmung und sogar begeisterte Zustimmung<lb/>
+von <name type="person" ref="per:97668">Kreisky</name> und <name type="person" ref="per:97525">Häuser</name>, die anderen haben sich überhaupt nicht an der<lb/>
+Diskussion beteiligt, da sie unter den Sätzen lagen, die man seinerzeit<lb/>
+befürchtet hat. Bekanntlicherweise sollte ja der Verbraucherpreis für<lb/>
+Milch um 40 Groschen – wie man ursprünglich angenommen hat – erhöht wer<lb break="no"/>den. Es wird dieser Vorschlag mit Präsident <name type="person" ref="per:97691">Lehner</name> von der LWK noch<lb/>
+einmal von <name type="person" ref="per:98055">Weihs</name> besprochen werden und dann ziemlich schnell in der<lb/>
+Preiskommission eine Entscheidung für 1. Juli herbeigeführt werden.<lb/>
+In der Ministerratsvorbesprechung berichtete ich auch ganz kursorisch<lb/>
+über Island EFTA-Tagung und <name type="person" ref="per:97668">Kreisky</name> meinte, dass insbesondere im EFTA-<lb/>
+Vertrag so wenig Integration beinhaltet war, weil sie in Schweden damals<lb/>
+– obwohl Finnland noch gar keine Absicht hatte, beizutreten, den zu er<lb break="no"/>wartenden finnischen Standpunkt berücksichtigt haben.<lb/>
+</p>
+            <p xml:space="preserve">Der Wunsch der Handelskammer, dass die Aussenhandelsstellenleiter bei<lb/>
+Staatsbesuchen entsprechend eingeladen wurden, hatte der Bundespräsident<lb/>
+für sich abgelehnt. Die Regierung wird allerdings, soweit es sich um<lb/>
+Ministerbesuche handelt, insbesondere in den Oststaaten die entsprechenden<lb/>
+Einladungen an die Aussenhandelsstellen ergehen lassen. Es wird also<lb/>
+eigentlich dann der zuständige Minister dafür verantwortlich ist, von<lb/>
+diesem abhängen, ob er den Aussenhandelsstellenleiter einlädt. Ich<lb/>
+<pb n="06-0607" facs="06_1971-05-17_0607.jpg"/>selbst würde für unser Ressort unbedingt immer darauf drängen, dies<lb/>
+ist allerdings in der Vergangenheit sowieso immer geschehen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97461">Frühbauer</name> hat mitgeteilt, dass die Oberösterreicher auf Grund der<lb/>
+ihnen zustehenden Kompetenz auf den oö. Seen den Motorbootverkehr<lb/>
+für zwei Monate verboten haben, ausgenommen sind davon nur die<lb/>
+Schulen. Dies wird glaube ich für manche Motorbootbesitzer einen<lb/>
+Schock ausgelöst haben und sicherlich auch sind gewisse fremdenver<lb break="no"/>kehrspolitische Folgen haben, doch wird die grosse Masse auch der<lb/>
+Ausländer, die an den Seen Ruhe und Erholung suchen, eine solche<lb/>
+Verordnung nur begrüssen. Ich möchte, dass die Abteilung sich in den<lb/>
+Details informiert, welche Folgen diese Verordnung hat und am Ende<lb/>
+der Saison einen genauen Bericht haben.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Bitte, dies genau verfolgen und vor allem<lb/>
+feststellen, ob unsere Fremdenverkehrsabteilung überhaupt davon<lb/>
+etwas gewusst hat resp. wann sie etwas erfahren hat oder überhaupt<lb/>
+etwas erfährt.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="06_0601_08" facs="06_1971-05-17_0601-08.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 17.5.1971</head>
+         </div>
+         <pb n="06_0601_09" facs="06_1971-05-17_0601-09.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

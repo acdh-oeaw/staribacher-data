@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der 15. Jänner 1971</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band04_1971-01-15</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1971-01-15">Freitag, 15. Januar 1971</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-07-24">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="04-0044" facs="04_1971-01-15_0044.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Freitag, 15. Jänner 1971<lb/>
+</p>
+            <p xml:space="preserve">Der Obmann der Bundessektion Gewerbe, Komm.Rat <name type="person" ref="per:134312">Walzer</name> und der Syndikus<lb/>
+Dr. <name type="person" ref="per:134332">Schick</name> brachten mir die vom Institut für Gewerbeforschung, Prof.<lb/>
+<name type="person" ref="per:134331">Heinrich</name>, ausgearbeiteten Unterlagen. Ein flüchtiger Überblick zeigte,<lb/>
+dass <name type="person" ref="per:134331">Heinrich</name> in Wirklichkeit nur Statistisches Material aufgearbeitet<lb/>
+hat. Er hat Material auch aus der nichtlandwirtschaftlichen Betriebs<lb break="no"/>zählung vom Jahre 1964, das bis jetzt vom Statistischen Zentralamt<lb/>
+nicht veröffentlicht wurde, in dieser Publikation verwendet. <name type="person" ref="per:134312">Walzer</name><lb/>
+strich hervor, dass er mit dieser Arbeit nicht beabsichtige, einen<lb/>
+Art Gewerbebericht vorzulegen, um daraus wie beim Grünen Bericht jetzt<lb/>
+Subventionen für das Gewerbe aus dem Staat herauszuschinden. Seiner<lb/>
+Meinung nach müsste nur doch in Hinkunft mehr für die Gewerbefragen<lb/>
+Verständnis gezeigt werden. Er glaubt, dass diese Arbeit Ergänzung mit<lb/>
+der Arbeit, die derzeit im Wirtschaftsbeirat im Auftrag ist, ein umfas<lb break="no"/>sender Bericht über die gewerbliche Situation in Österreich erstellt<lb/>
+wird. Ich bedankte mich für die Übergabe und ersuchte gleich, ob man<lb/>
+mir nicht mehrere Berichte geben könnte, da ja alle Sektionen und die<lb/>
+Grundsatzabteilung mit diesem Problem beschäftigt sind. Bei dieser Ge<lb break="no"/>legenheit erfuhr ich, dass das Institut, obwohl es von uns 500.000 S<lb/>
+Subvention auf 1970 noch von <name type="person" ref="per:97749">Mitterer</name>, bekommen hat, nicht einmal den<lb/>
+Ausdruck dieses Berichtes übernommen hat, sondern dieser Bericht von<lb/>
+der Bundeskammer gedruckt wird und nur 130 Exemplare zur Verfügung<lb/>
+stehen. Die Gewerbesektion hat nur eine Kurzfassung gemacht, die<lb/>
+natürlich in grösserer Anzahl zur Verfügung gestellt werden kann,<lb/>
+allerdings für eine konkrete Arbeit vollkommen ungeeignet ist. Zwei<lb/>
+weitere Forderung hat mir <name type="person" ref="per:134312">Walzer</name> gleich mitgeteilt. Die erste ist,<lb/>
+dass bei den Mehrwertsteuerverhandlungen die Dienstleistungsbetriebe,<lb/>
+er denkt dabei sicher an die Friseure, eine entsprechende Steuerer<lb break="no"/>mässigung bekommen müssten. Zweitens sei die Steuerpauschalierung für die<lb/>
+24.000 Betriebe, wovon seiner Meinung nach nur ca. 5 % Drei-Mann-Betriebe<lb/>
+sind, zwischen Finanzministerium und Bundeskammer einvernehmlich ge<lb break="no"/>regelt worden. Die Arbeiterkammer erhebt nun gegen diese Regelung Ein<lb break="no"/>spruch und er bittet mich, ob ich nicht intervenieren könnte.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:98053">Wanke</name>: Bitte veranlassen, dass die einvernehmliche Rege<lb break="no"/>lung von <name type="person" ref="per:97693">Lejolle</name> geprüft von uns wird und dann mit die Unterlagen für<lb/>
+Verhandlungen mit der AK geben.<lb/>
+</p>
+            <p xml:space="preserve">Die erste Besprechung mit den Finanzlandesreferenten finden nicht wie<lb/>
+<name type="person" ref="per:134817">Gleißner</name><add>ev. Falschidentifikation</add> beabsichtigt hat und die letzte Finanzlandesreferentenkonferenz<lb/>
+<pb n="04-0045" facs="04_1971-01-15_0045.jpg"/>auch tatsächlich beschloss, mit nur 4 Vertretern der Bundesländer<lb/>
+sondern mit allen Landesfinanzreferenten oder deren beamteten Ver<lb break="no"/>tretern statt. Ich habe gegen diese Ausdehnung nichts einzuwenden,<lb/>
+da es besser ist, es sind alle Finanzreferenten anwesend und wir<lb/>
+kommen zu einem Ergebnis, als es werden nur in einem kleinen Kreis<lb/>
+Ergebnisse erzielt, die dann von den anderen nicht akzeptiert werden.<lb/>
+Die Besprechung zeigt vollkommene Übereinstimmung zwischen den<lb/>
+Finanzlandesreferenten und mir. Solange es sich um die Verbalen<lb/>
+und vor allem um allgemeine Aussagen handelt, gibt es keine wie<lb/>
+immer gearteten Differenzen. Die Förderungsaktionen, sowohl für<lb/>
+Fremdenverkehr als auch für die gewerbliche Wirtschaft in Form<lb/>
+von Zinsenzuschüssen soll synchronisiert werden. Die Landeskredit<lb break="no"/>gesellschaften für Bundeshaftungen, resp. Landeshaftungen sollen<lb/>
+ergänzt werden, ohne dass der Bund oder die Bundesstellen, die<lb/>
+eingerichtet werden, die ausschliesslich die schlechten Risken<lb/>
+übernehmen sollen. Die Ländervertreter erhoffen, dass es mir ge<lb break="no"/>lingt, <name type="person" ref="per:97311">Androsch</name> davon zu überzeugen, dass diese Gesellschaften, die<lb/>
+den Gemeinnnützigkeitsstatus bekommen und dadurch keine Körperschafts<lb break="no"/>steuer bezahlen müssen. Ich habe am Nachmittag <name type="person" ref="per:97311">Androsch</name> vorgeschlagen,<lb/>
+dass man für die spezifische Tätigkeit der ländlichen Kreditgarantie<lb break="no"/>gemeinschaften gegebenenfalls die Gemeinnützigkeit im Gesetz sta<lb break="no"/>tuieren könnte. Da für die 500 Mill. S Bundeshaftung auf alle Fälle<lb/>
+ein Gesetz gemacht werden muss, wäre eine dortige Gemeinnützigkeits<lb break="no"/>regelung für die spezifischen Zwecke möglich. <name type="person" ref="per:97311">Androsch</name> wird diese<lb/>
+Anregung von mir wohlwollend prüfen. Die Länder werden über die Auf<lb break="no"/>teilung der 500.000 S Zweckzuschüsse der an die Länder auf Grund<lb/>
+des Finanzausgleichsgesetzes heuer bestrebt sein, Fremdenverkehrs<lb break="no"/>einrichtungen wie Bäder, Kureinrichtungen usw. damit zu fördern.<lb/>
+Sie kommen überein, dass der Schlüssel, den sie im Vorjahr zur<lb/>
+Verteilung angewendet haben, nämlich Hälfte Bevölkerung Hälfte<lb/>
+Fläche auch in Zukunft beibehalten wird solange der Betrag 500.000 S<lb/>
+nicht überesteigt. Die Reorganisationsmassnahmen betreffend der<lb/>
+österr. Fremdenverkehrswerbung werden von den Finanzreferenten<lb/>
+positiv und sehr gut zur Kenntnis genommen. Meine Anregung, dass<lb/>
+in Hinkunft der Aufbringungsschlüssel 74 % Bund, 13 % Länder, 13 %<lb/>
+Bundeshandelskammer nicht akzeptiert werden kann, stösst auf<lb/>
+keinen Widerstand. Die Ländervertreter verlangen nur, dass die ÖFVW<lb/>
+alle Bundesländer berücksichtigt und sie sehen ein, dass sie in Hin<lb break="no"/>kunft einen grösseren perzentuellen Aufbringungsschlüs<lb break="no"/>sel werden akzeptieren müssen. Nach Durchführung der Reorganisation<lb/>
+<pb n="04-0046" facs="04_1971-01-15_0046.jpg"/>bin ich überzeugt davon, wird es mir gelingen, hier eine Verbesserung<lb/>
+für den Bund herauszuholen.<lb/>
+</p>
+            <p xml:space="preserve">Im Parteivorstand wird berichtet, dass <name type="person" ref="per:97718">Marek</name> an die Spitze des grossen<lb/>
+Staatsbürgerkomitees treten wird, um den Bundespräsidenten <name type="person" ref="per:97607">Jonas</name> zur Wieder<lb break="no"/>wahl zu unterstützen. Das Komitee soll hauptsächlich Künstler und Wissen<lb break="no"/>schaftler umfassen. <name type="person" ref="per:97543">Heindl</name>, der sich mit diesem Problem sehr eingehend be<lb break="no"/>reits beschäftigt hat, und auch bemüht hat, mit <name type="person" ref="per:114511">Fritz Muliar</name> gemeinsam<lb/>
+Künstler zu aktivieren, sagt allerdings, dass zum Unterschied vom letzten<lb/>
+Mal, wo man sich für <name type="person" ref="per:97718">Marek</name> in diesem Kreis sehr eingesetzt hat, jetzt eine<lb/>
+sehr grosse Zurückhaltung besteht. Ausser diesem grossen Staatsbürger<lb break="no"/>komitee werden noch alle sozialistischen Bürgermeister am 17. März zu<lb/>
+einer grossen Tagung zusammentreten, um den Bundespräsidenten <name type="person" ref="per:97607">Jonas</name> zu<lb/>
+unterstützen. Diese Bürgermeisterkonferenz wird sich aus allen Landes<lb break="no"/>hauptstädte-Bürgermeistern, für Eisenstadt und Innsbruck dessen Stellver<lb break="no"/>treter, zusammensetzen und alle anderen Bürgermister in Österreich auch noch<lb/>
+umfassen. Man hofft mit diesem Staatsbürgerkomitee, Künstler, Wissen<lb break="no"/>schaftler und mit dem Bürgermeisterkomitee eine entsprechende Unterstützung<lb/>
+der <name type="person" ref="per:97607">Jonas</name>-Wahl zu haben.<lb/>
+</p>
+            <p xml:space="preserve">Der derzeitige Sekretär des Arbeitsbauernbundes, Landtagsabgeordneter<lb/>
+<name type="person" ref="per:134341">Zinkanell</name>, ein zweifelsohne sehr aktiver Mann, hat seine Funktion<lb/>
+zurückgelegt, die Gründe kenne ich nicht und wird jetzt durch den ehemaligen<lb/>
+Nationalrat <name type="person" ref="per:115606">Franz Fux</name> ersetzt. <name type="person" ref="per:134341">Zinkanell</name> hat immerhin die Agrarzeitung<lb/>
+von 2.900 auf 9.500 gesteigert. <name type="person" ref="per:115606">Franz Fux</name> ist ein lieber Kerl, aber ich<lb/>
+glaube, er reicht nicht annähernd an die Kapazität von Zinkanell heran.<lb/>
+</p>
+            <p xml:space="preserve">Bei einem Abendessen bei <name type="person" ref="per:97893">Sallinger</name> mit Gattinnen und <name type="person" ref="per:97769">Mussil</name>, <name type="person" ref="per:97602">Jodlbauer</name><lb/>
+und <name type="person" ref="per:97845">Otto Probst</name> anwesend waren, konnte ich feststellen, dass der Wirt<lb break="no"/>schaftsbund die grosse Angst hat, dass wir mit der FPÖ gemeinsam eine<lb/>
+Koalition machen. Meine Auffassung ist, dass dies noch nicht endgültig<lb/>
+entschieden ist. Ich habe das natürlich nicht <name type="person" ref="per:97893">Sallinger</name> oder <name type="person" ref="per:97769">Mussil</name> ge<lb break="no"/>sagt, sondern weise immer wieder darauf hin, dass eben <name type="person" ref="per:97893">Sallinger</name> wie er<lb/>
+selbst immer erklärt, sich innerhalb der ÖVP nicht durchsetzen konnte.<lb/>
+<name type="person" ref="per:97893">Sallinger</name> hat jetzt die Gewissheit, dass die ÖVP im April vorigen Jahres<lb/>
+vollkommen falsch entschieden hat und er diese Entwicklung vorhersah, damals<lb/>
+wurde er von seinen eigenen Leuten ausgelacht. Heute wissen sie, dass er<lb/>
+recht hat und leisten ihm Abbitte. Allerdings ist <name type="person" ref="per:111740">Dallinger</name> mit <name type="person" ref="per:97346">Benya</name> in<lb/>
+einem Punkt übereingekommen, dass man die ganze Angelegenheit weiter ent<lb break="no"/><pb n="04-0047" facs="04_1971-01-15_0047.jpg"/>wickeln lassen muss. <name type="person" ref="per:97346">Benya</name> hat mit Recht mit <name type="person" ref="per:97893">Sallinger</name> über dieses<lb/>
+Problem in den vergangenen Monaten einige Male gesprochen. Derzeit<lb/>
+gibt es keine Änderung, obwohl sowohl <name type="person" ref="per:97893">Sallinger</name> als auch <name type="person" ref="per:97346">Benya</name> ein An<lb break="no"/>hänger einer grossen Koalition seit eh und je gewesen sind. Ich selbst<lb/>
+glaube auch, dass die Freiheitlichen ein sehr unverläaslicher kleiner<lb/>
+Haufen ist, der in letzter Phase immer wieder nur versuchen wind, das<lb/>
+Optimum für die Partei herauszuholen. Das heisst sich bestbietend zu<lb/>
+verkaufen. Um diesem Ränkespiel, resp. Spiel mit hohen Einsätzen auszu<lb break="no"/>weichen, habe ich seit Jahrzehnten vorgeschlagen, man sollte ein Pro<lb break="no"/>porzregierungssystem in der Verfassung oder in einem Gesetz verankern.<lb/>
+Ähnlich wies es in manchen Landesregierungen ist oder in der Schweiz<lb/>
+im Bundesrat müsste dies auch für die österreichische Bundesregierung<lb/>
+gelten. Ich bin mit dieser Idee allerdings noch niemals auf wirklich<lb/>
+verständnisvolle Ohren weder in unserer Partei noch eigentlich wo anders<lb/>
+gestossen. Bei dieser Aussprache konnte ich auch in Erfahrung bringen,<lb/>
+dass der Gegensatz zwischen Industriellenvereinigung und Handelskammer<lb/>
+viel tiefer ist als ich bis jetzt vermutet habe. <name type="person" ref="per:97893">Sallinger</name>, aber auch<lb/>
+<name type="person" ref="per:97769">Mussil</name> steht auf dem Sandpunkt, dass die Industriellenvereinigung sich<lb/>
+jetzt in immer stärkerem Masse zur sozialistischen Partei hinneigt, weil<lb/>
+– wie <name type="person" ref="per:97602">Jodlbauer</name> dies formuliert hat, sie ihren Vorteil halt derzeit<lb/>
+bei uns sehen. <name type="person" ref="per:97661">Kottulinsky</name> glaubt, dass er mit <name type="person" ref="per:97769">Mussil</name> einen guten Ver<lb break="no"/>handlungspartner hat, den er fast als einen Freund betrachten kann.<lb/>
+Ich glaube allerdings, dass aus politischen Überlegungen die ÖVP<lb/>
+wesentlich reservierter gegenüber der Industriellenvereinigung sich<lb/>
+verhält, als sie dies derzeit bemerkt. Innerhalb der Industriellenverei<lb break="no"/>nigung, meint <name type="person" ref="per:97769">Mussil</name> und <name type="person" ref="per:97893">Sallinger</name> bestätigt es, gibt es vier Gruppen.<lb/>
+Eine davon wo der Leiter der Besitzer der Hamburger Papiergesellschaft<lb/>
+ist, den Namen habe ich mir nicht merken können, führt den Freiheitlichen<lb/>
+Flügel der Industriellenvereinigung und schart derzeit alle unzufrie<lb break="no"/>denen Industriellen um seine Fahne. Die zweite Gruppe wird geführt von<lb/>
+den <name type="person" ref="per:97925">Schoeller</name>-Leuten, der Wortführer ist Dr. <name type="person" ref="per:97581">Igler</name>. Die dritte Gruppe<lb/>
+sei die der ÖVP am nahestehendsten und der Handelskammer am liebsten,<lb/>
+geführt von Siemens-Generaldirektor <name type="person" ref="per:97528">Hecke</name>. Die vierte Gruppe wollte<lb/>
+er nicht genauer definieren, aber seiner Meinung nach wären dies die<lb/>
+Leute, mit denen man am ehesten zusammenarbeiten könnte. Da die Frau<lb/>
+von Gen.Sekr. <name type="person" ref="per:97769">Mussil</name> in der Industriellenvereinigung beschäftigt ist,<lb/>
+versuchte ich herauszukriegen, ob es innerhalb der Angestellten einen<lb/>
+Widerstand gegen <name type="person" ref="per:97661">Kottulinsky</name> gibt. Dies dürfte nicht der Fall sein.<lb/>
+<name type="person" ref="per:97661">Kottulinsky</name> selbst wird nur als sehr kontaktarm bezeichnet. Auf alle<lb/>
+Fälle muss ich noch viel mehr aufpassen, um nicht in die Mühlsteine<lb/>
+dieses Problems hineinzugeraten. Ich werde mich allerdings auch anderer<lb break="no"/><pb n="04-0048" facs="04_1971-01-15_0048.jpg"/>seit hüten, zu versuchen, diese Gegensätze auf meinen Buckel auszu<lb break="no"/>tragen, d.h. mich dort als Richter oder als Schlichter aufzuspielen.<lb/>
+Ich glaube unsere Funktion kann nur darin bestehen, dass wir sowohl<lb/>
+die Handelskammer als auch die Industriellenvereinigung in Sach- und<lb/>
+Fachfragen heranziehen, wobei wir dem Protokoll entsprechend natürlich<lb/>
+der Handelskammer die Priorität einräumen müssen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="04_0043_01" facs="04_1971-01-15_0043-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 15.1.1971</head>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Montag, der 20. Dezember 1976</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band33_1976-12-20</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1976-12-20">Montag, 20. Dezember 1976</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-02-14">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="33-1449" facs="33_1976-12-20_1449.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Montag, 20. Dezember 1976<lb/>
+</p>
+            <p xml:space="preserve">Beim Jour fixe, diesmal mit <name type="person" ref="per:97769">Mussil</name> allein, fragte ich ihn unter vier<lb/>
+Augen, ob er eine Konfrontationspolitik anstrebt. Ich hätte dafür<lb/>
+volles Verständnis, wenn die Handelskammer jetzt auf Kollisions<lb break="no"/>kurs in jeder Beziehung ginge. Zwei Beispiele: Elektrizitäts<lb break="no"/>preis und Berufsausbildungsgesetz. <name type="person" ref="per:97769">Mussil</name> stellte dies in Abrede<lb/>
+bezüglich des Elektrizitätspreises riefen wir dann <name type="person" ref="per:97872">Rief</name> und er<lb/>
+erklärte, sie würden unter Protest zustimmen, weil die Gewerbe<lb break="no"/>betriebe stärker belastet werden als die anderen. Ich sicherte<lb/>
+ihnen zu, dass sie sofort mit einer neuen Tarifpolitik weiterverhan<lb break="no"/>deln könnten, um bei der nächsten Preisfestsetzung wirklich nur<lb/>
+die Strommehrverbraucher härter zu treffen. Dr. <name type="person" ref="per:97872">Rief</name> erklärte zwar<lb/>
+diese Verhandlungen sofort zu verlangen, er ist aber überzeugt,<lb/>
+dass es zu keiner praktikablen Lösung kommen kann, weil die Ar<lb break="no"/>beiterkammer ganz konträre Interessen als die Handelskammer ver<lb break="no"/>tritt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name>: Bitte verlange von <name type="person" ref="per:109811">Burian</name>, dass er sofort die<lb/>
+Besprechungen im Sinne einer neuen Tarifpolitik fortsetzt.<lb/>
+</p>
+            <p xml:space="preserve">Bezüglich des Berufsausbildungsgesetzes ist <name type="person" ref="per:97769">Mussil</name> maximal bereit,<lb/>
+einen Beirat mit Kontrollfunktion paritätisch zu besetzen. Ich<lb/>
+erklärte ihm rundweg, damit würde ich niemals durchkommen. Er<lb/>
+müsse sich mit der Tatsache, dass paritätische Organe errichtet<lb/>
+werden, abfinden. <name type="person" ref="per:97769">Mussil</name> versprach über die Weihnachtsferien sich<lb/>
+die ganze Frage noch einmal zu überlegen, tendiert aber mehr dazu,<lb/>
+dass eine ohne ihre Zustimmung im Parlament mit SPÖ-Mehrheit<lb/>
+beschlossene Lösung eben dann gefunden werden soll. Sie würden<lb/>
+in diesem Fall allerdings die Jugendaktivitäten, d.h. die finan<lb break="no"/>ziellen Aufwendungen und auch die Bestrebungen, alle Lehrlinge<lb/>
+unterzubringen, sofort aufgeben. <name type="person" ref="per:97769">Mussil</name> weiss, ohne dass wir<lb/>
+darüber auch nur ein Wort verloren haben, dass nächstes Jahr und<lb/>
+noch in drei Jahren der denkbar schlechteste Zeitpunkt für eine<lb/>
+Änderung ist, weil jetzt mehr Lehrlinge untergebracht werden müssen.<lb/>
+</p>
+            <p xml:space="preserve">Die Preisgestaltung bei Milch hat ihn insofern befriedigt, als<lb/>
+jetzt der Trinkmilchpreis nicht nur mit 1.20 S für den Verbraucher<lb/>
+sondern die einzelnen Spannen und Abgabepreise amtlich festgesetzt<lb/>
+werden. In der Paritätische Kommission wird man sich für Butter<lb/>
+<pb n="33-1450" facs="33_1976-12-20_1450.jpg"/>und Käse eine Lösung einfallen lassen. Voraussetzung ist, dass<lb/>
+der Lohn jetzt endgültig fixiert wird, wenn die Gewerkschaft eine<lb/>
+vernünftige Lohnpolitik in diesem Fall betreibt. Ein absoluter<lb/>
+Schillingbetrag für alle erscheint ihm unmöglich, er könnte sich<lb/>
+höchsten einen Sockelbetrag vorstellen. Dies wird aber von <name type="person" ref="per:114535">Stau<lb break="no"/>dinger</name>, mit dem ich in der Früh in der Gewerkschaft über dieses<lb/>
+Problem noch ganz besonders gesprochen habe, entschieden abgelehnt.<lb/>
+<name type="person" ref="per:114535">Staudinger</name> glaubt, er hat Zeit genug, dass man gegebenenfalls<lb/>
+sogar die Preise fixiert, bevor die Löhne vereinbart sind, um<lb/>
+am 1. Jänner den neuen Preis in Kraft setzen zu können. Momentan<lb/>
+ist alles total verfahren, weil jeder einen grösseren Teil bekommen<lb/>
+will, als wahrscheinlich in der Kalkulation unterzubringen ist.<lb/>
+<name type="person" ref="per:97769">Mussil</name> ist besonders unglücklich, da die Händler jetzt nicht nur<lb/>
+die Freigabe der Milchprodukte von der amtlichen Preisregelung,<lb/>
+sondern auch die für Mehl und Mahlprodukte wünschen. <name type="person" ref="per:97769">Mussil</name> fragte,<lb/>
+ob ich dieser Forderung auch nachgeben würde. Ich erklärte sofort,<lb/>
+dass wenn die Arbeiterkammer und der ÖGB dem zustimmen, von mir<lb/>
+aus schon längst die Preisregelung aufgehoben wäre. Für Futter<lb break="no"/>getreide und Normalweizen müssen wir sowieso, um Überproduktionen<lb/>
+zu verhindern und den Qualitätsweizenanbau in Hinkunft nicht zu<lb/>
+schädigen, die Preisregelung früher oder später aufgeben. Als<lb/>
+Waldviertler Abgeordneter fragte <name type="person" ref="per:97769">Mussil</name> sofort, was mit dem Roggen<lb break="no"/>preis geschehen würde. Hier würde die Preisfreigabe ihn hart treffen,<lb/>
+doch sehe ich schon allein, weil das ganze Mühlenausgleichsverfahren<lb/>
+auf die Dauer nicht aufrechtzuerhalten sein wird, auch keinen an<lb break="no"/>deren Ausweg, als die Preise schön langsam frei spielen zu lassen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97819">PLESCH</name>: Wie weit ist das Landwirtschaftsministerium<lb/>
+mit unseren Überlegungen?<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97769">Mussil</name> urgiert neuerdings die 950.000 S Subvention für das Institut<lb/>
+für Gewerbeforschung.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name> UND <name type="person" ref="per:97819">PLESCH</name>: Wie steht es mit der Vereinbarung?<lb/>
+</p>
+            <p xml:space="preserve">Die Handelskammer gibt eine eigene Broschüre über Sonderkredite<lb/>
+heraus, mit uns, Handelsministerium, gemeinsam eine andere Broschüre.<lb/>
+<name type="person" ref="per:97769">Mussil</name> schlägt vor, wir sollten eine gemeinsame machen. Ich stimme<lb/>
+sofort zu, erkläre aber, dass nur die bisherigen Kosten, d.h.<lb/>
+derselbe Geldbetrag übernommen wird. Die neue Broschüre soll in<lb/>
+loser Blattform herauskommen, Herausgeber: Handelsministerium plus<lb/>
+Handelskammer.<lb/>
+</p>
+            <pb n="33-1451" facs="33_1976-12-20_1451.jpg"/>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97819"><del>WAIS</del><corr>P.</corr></name>: Bitte setz Dich mit Dr. <name type="person" ref="per:139990">Ecker</name><add>[evtl. Falschidentifikation, Anm.]</add> diesbezüglich<lb/>
+ins Einvernehmen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97769">Mussil</name> nimmt zur Kenntnis, dass wir im Handelsministerium jetzt<lb/>
+die Frage der Höchstkreditgrenzen bei unseren Kreditzuschüssen<lb/>
+neuerdings in Angriff nehmen werden, um Senkungen, wenn vielleicht<lb/>
+auch nur um 1/4 oder 1/2 % durchzusetzen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97584">JAGODA</name> UND <name type="person" ref="per:97819"><del>WAIS</del><corr>P.</corr></name>: Bitte die Verhandlungen verstärkt<lb/>
+führen.<lb/>
+</p>
+            <p xml:space="preserve">Den Vorschlägen <name type="person" ref="per:141509">Pierings</name> über passiven Veredelungsverkehr kann die<lb/>
+Handelskammer nicht akzeptieren. <name type="person" ref="per:141509">Piering</name> hat deshalb ein neues<lb/>
+System: Er importiert aus Deutschland Kräuselnylon um 2.50 S<lb/>
+und verkauft ihn den Rumänen um 4.50 S weiter. Ich kann mir zwar<lb/>
+nicht vorstellen, wie dies funktioniert, nehme aber diese Erklä<lb break="no"/>rung wortlos zur Kenntnis.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name>: Bitte versuche vertraulich herauszubringen,<lb/>
+wie dies gehandhabt wird.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97769">Mussil</name> ist sehr verwundert zu erfahren, dass es gelungen ist, zwischen<lb/>
+Boschan und Aluminiumwerk Ranshofen eine Lösung zu erzielen. Ich<lb/>
+verspreche ihm, dass ihn <name type="person" ref="per:98053">Wanke</name> diesbezüglich informieren wird.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: Bitte setze Dich mit <name type="person" ref="per:97769">Mussil</name> ins Einvernehmen.<lb/>
+</p>
+            <p xml:space="preserve">Die Bundeskammer legt grössten Wert darauf, dass ins handels<lb break="no"/>statistische Gesetz auch die Frage nach der Stückanzahl für<lb/>
+gewisse Produkte aufgenommen wird. Da ich dies beim letzten Mal<lb/>
+schon zugesagt habe, meint <name type="person" ref="per:97769">Mussil</name>, ihr Statistiker <name type="person" ref="per:133969">Festa</name> wird<lb/>
+alle Details mit uns besprechen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name>: Bitte Besprechung sofort aufnehmen und mir<lb/>
+berichten.<lb/>
+</p>
+            <p xml:space="preserve">Beim Journalistenfrühstück berichtet <name type="person" ref="per:108322">Meisl</name> über unsere Aussenhandels<lb break="no"/>aktivitäten, diese Rechenschaftsberichte bringen eigentlich keiner<lb break="no"/>lei Diskussion und wahrscheinlich auch keinerlei Pressewiderhall.<lb/>
+Auf Wunsch von <name type="person" ref="per:114508">Tieber</name> erinnere ich neuerdings auf die Auseinander<lb break="no"/>setzung im Parlament. Ich weise die Behauptung und Verdächtigung,<lb/>
+dass die Regierung und insbesondere ich in Brüssel gar kein Inter<lb break="no"/>esse habe, die agrarischen Fragen zu lösen, und die Agrarpreise<lb/>
+<pb n="33-1452" facs="33_1976-12-20_1452.jpg"/>zu drücken, mit aller Entschiedenheit neuerdings zurück.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:111736">Zolles</name> von der ÖFVW berichtet über die neuen Aktionen und legt<lb/>
+auch eine Liste von österreichischen Orten vor, wo noch für<lb/>
+die Weihnachtsfeiertage Betten zu haben wären. Von den 850.000<lb/>
+sind es, wenn man sie summiert, was an und für sich unzulänglich<lb/>
+ist, nur ganze 13.000. Einzelne Orte haben nur bis knapp nach<lb/>
+Weihnachten noch 100 oder 50 Betten frei, in Wirklichkeit wird<lb/>
+es da oder dort Stornos geben, die noch eine gewisse Aufnahmekapa<lb break="no"/>zität von einzelnen Orten ergeben. De facto würde ich aber sagen,<lb/>
+ist alles ausverkauft, ausser Kärnten, wo die Schneelage eben sehr<lb/>
+unsicher ist.<lb/>
+</p>
+            <p xml:space="preserve">Dies mal gibt es interessanterweise über die Ölpreis-, Elektrizi<lb break="no"/>tätspreisfrage mit verschiedensten Journalisten eine Diskussion.<lb/>
+Ich werde auch gefragt, ob ich die 1.000 S Kaution jetzt fallen<lb/>
+gelassen habe, nachdem ein so grosser Widerstand überall sich<lb/>
+zeigt. Ich erklärte sofort, dass ich selbstverständlich nicht<lb/>
+mehr bereit bin, diese Idee, die nicht von mir stammt und von<lb/>
+den Handelskammer-Leuten resp. Schrottaufbringern geboren wurde,<lb/>
+weiter zu verfolgen. Wenn die Wracks herumstehen, ist dies für<lb/>
+mich vom wirtschaftlichen Standpunkt die beste Reserve. Wenn<lb/>
+wir einmal in Versorgungsschwierigkeiten kommen sollten. Was der<lb/>
+Umweltschutz dazu sagt, ist eine andere Frage. Auch die Gummi<lb break="no"/>reifen stören zwar die Landschaft, aber nicht das wirtschaft<lb break="no"/>liche Gleichgewicht. Wirklich entscheidend ist nur die Altöl<lb break="no"/>verwertung und -sammlung, denn dort wird schön langsam das<lb/>
+Grundwasser und die Erde zu stark belastet.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Staatswappenverleihung an die Fa. Furtenbach in Wr.<lb/>
+Neustadt kann ich mich wesentlich kürzer aufhalten als beabsichtigt.<lb/>
+Die Verleihung wird nicht vor der Belegschaft vorgenommen,<lb/>
+sondern in kleinem Rahmen mit Honoratioren u.a. dem ÖVP-<lb/>
+Abgeordneten <name type="person" ref="per:136421">Marwan-Schlosser</name> als Handelskammervertreter<lb/>
+dem Bürgermeister der ebenfalls eine Ansprache hält, ein Dutzend<lb/>
+Familienangehörigen und höchste Direktoren. Die anschliessende<lb/>
+Betriebsbesichtigung zeigt mir auch, dass scheinbar auch kleine<lb/>
+chemische Werke tatsächlich existieren können, wenn sie eine<lb/>
+Spezialproduktion haben und vor allem ausländische Lizenzen<lb/>
+für kleine Chargen verarbeiten.<lb/>
+</p>
+            <pb n="33-1453" facs="33_1976-12-20_1453.jpg"/>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> wünscht mit <name type="person" ref="per:97488">Gratz</name>, <name type="person" ref="per:97311">Androsch</name> und mir eine Vorbesprechung<lb/>
+wegen der österr. Autoproduktion. <name type="person" ref="per:97311">Androsch</name> lässt sich aber ent<lb break="no"/>schuldigen, er dürfte überhaupt nicht in Wien sein. Gen.Direktor<lb/>
+<name type="person" ref="per:145378">Mileikowsky</name><add>[evtl. Falschidentifikation, Anm.]</add> von Saab hätte <name type="person" ref="per:97668">Kreisky</name> erklärt, es gäbe eine Möglichkeit,<lb/>
+wenn Porsche mit eigenem Motor und Markennamen einsteigt und 40.000<lb/>
+Stück erzeugt werden können, ein positives Projekt zu machen.<lb/>
+Saab wäre bereit, mit Österreich gegebenenfalls Motoren oder Ge<lb break="no"/>triebe oder beides nach Österreich zu liefern und Österreich liefert<lb/>
+die Karosserie. Saab könnte auch Einzelteile liefern und nur den<lb/>
+Verkauf in Schweden übernehmen. Nur für PKW hat Saab jetzt 11 Mia. S<lb/>
+Umsatz. Saab hat bereits eine Fabrik in Finnland. Das wirkliche<lb/>
+Problem ist weniger der irrsinnige Kapitalaufwand um eine solche<lb/>
+Produktion aufzunehmen, sondern dass in 8 Jahren in der Autobranche<lb/>
+jeweils eine neue Fabrik anstelle der alten gesetzt werden muss.<lb/>
+Dies ist natürlich nicht körperlich zu verstehen, sondern nur im<lb/>
+Aufwand für Amortisation und neue Maschinen. <name type="person" ref="per:97668">Kreisky</name> schwebt nun vor,<lb/>
+dass sich die ÖIAG mit Banken, eventuell mit Kapital aus<add>[der]</add> BRD und<lb/>
+vor allem aber mit einer grossen Beteiligung Wiens an dieses Pro<lb break="no"/>jekt heranmachen soll. Der Grund der Floridsdorfer Lokomotivfabrik,<lb/>
+der SGP gehört, sollte der ÖIAG abgetreten werden und diese in die<lb/>
+Gesellschaft einbringen. Dadurch sollten 4.000 neue Arbeitsplätze<lb/>
+geschaffen werden. <name type="person" ref="per:97488">Gratz</name> war in Stuttgart und hat mit <name type="person" ref="per:140338">Ferry Porsche</name> und<lb/>
+vor allem mit <name type="person" ref="per:145758">Fuhrmann</name> dort verhandelt. Dieser hat ihm mitgeteilt,<lb/>
+dass sich auch andere Länder insbesondere Kärnten für dieses Projekt,<lb/>
+eigene Autoproduktion in Österreich, interessieren. 4 Mia. S Kapital<lb/>
+wären dafür notwendig. Das Auto soll 100.000 S kosten. Die Gemeinde<lb/>
+Wien gibt substantielle Beteiligungen, die besser sind als ERP<lb/>
+und jedwede andere Bundesstützung. Für Grundig z.B. mit 40 Mill.<lb/>
+hat die Stadt Wien 7 Mill. S zugeschossen. Der normale Schlüssel<lb/>
+ist immer 1/5 als verlorenen Zuschuss oder als Zinsenstützung. <name type="person" ref="per:97668">Kreisky</name><lb/>
+ersucht, alles als strengst vertraulich in den Details zu behandeln<lb/>
+und überlässt uns eine Studie von Porsche, die ich nach Durchlesen<lb/>
+<name type="person" ref="per:97488">Gratz</name> geben werde. Ich erkläre <name type="person" ref="per:97668">Kreisky</name> sofort, dass ich auf alle<lb/>
+Fälle im Urlaub mit <name type="person" ref="per:97498">Grünwald</name> über dieses Problem mich besprechen<lb/>
+werde, um zu erfahren, was die ÖIAG ausser <name type="person" ref="per:97470">Geist</name>, der ja der Vater<lb/>
+dieser Idee war, dazu sagt.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:98063">Weissenberg</name> stimmt mir gegenüber unserem Vorschlag wegen der gemein<lb break="no"/>samen Vorgangsweise wegen notleidenden Unternehmen zu. Er erklärt mir<lb/>
+allerdings, dass er nicht sehr viel Geld in Hinkunft wird dafür<lb/>
+aufwenden können. Was immer aber wir machen, soll – und da meint <name type="person" ref="per:98063">Weissen<lb break="no"/></name> <pb n="33-1454" facs="33_1976-12-20_1454.jpg"/><name type="person" ref="per:98063">berg</name>, wir hätten vollkommen recht – festgehalten werden,<lb/>
+dass die Unternehmer die notleidend geworden sind, durch Selbst<lb break="no"/>verschulden in diese Situation kamen. Das wirkliche Problem<lb/>
+stellen <name type="person" ref="per:98063">Weissenberg</name> und ich fest, sind allerdings nicht die Unter<lb break="no"/>nehmer sondern die Betriebsräte, die sowohl bei ihm als auch bei<lb/>
+uns dann letzten Endes intervenieren und Hilfe erwarten.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: Bitte jetzt die Details mit <name type="person" ref="per:114573">Lenert</name> ausarbeiten<lb/>
+und wie besprochen vorgehen.<lb/>
+</p>
+            <p xml:space="preserve">In der Ministerratsvorbesprechung erklärt <name type="person" ref="per:97668">Kreisky</name> neuerdings, dass<lb/>
+wir in der Regierungsklausur über die nichterfüllten Regierungs<lb break="no"/>programmpunkte und ganz besonders über die Aktivitäten der einzel<lb break="no"/>nen Ministerien im ersten Halbjahr 1977 uns unterhalten müssten.<lb/>
+Klubobmann <name type="person" ref="per:97444">Fischer</name> hat jedem Minister eine Aufstellung zukommen<lb/>
+lassen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98072">WIESINGER</name>: Wo ist diese Aufstellung, bitte?<lb/>
+</p>
+            <p xml:space="preserve">Bezüglich des Sulfatzellstoffprojektes ersucht <name type="person" ref="per:97668">Kreisky</name>, <name type="person" ref="per:97511">Haiden</name><lb/>
+möge ihm die Holzstudie sofort zustellen, was dieser auch zu<lb break="no"/>sagt. Daraus entnehme ich, dass er unser umfangreiches Elaborat<lb/>
+welches wir ihm vor 10 Tagen schickten, noch nicht gelesen resp.<lb/>
+wahrscheinlich nicht einmal noch gesehen hat.<lb/>
+</p>
+            <p xml:space="preserve">Im Stern ist eine Artikelserie über <name type="person" ref="per:118667">Pretterebner</name>, ein Rechtsradika<lb break="no"/>ler, der eine Sudel-Propaganda gegen die SPÖ macht, erschienen.<lb/>
+Aus dieser Quelle soll auch in der letzten Wahlbewegung die<lb/>
+Annoncenkampagne gegen uns gestartet worden sein.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98072">WIESINGER</name>: Bitte mir diesen Artikel vorlegen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> wird Dienstag eine Aussprache mit <name type="person" ref="per:98003">Taus</name> haben, erklärt mir<lb/>
+aber sofort, er wird über die Elektrizitätsfragen – Vorstandsbesetzung<lb/>
+usw. – nicht im Detail mit ihm sprechen, sondern ihn an mich ver<lb break="no"/>weisen. Ich erkläre, dass die Reformorganisation durchgezogen<lb/>
+werden soll, wenn <name type="person" ref="per:98003">Taus</name> sich über die Kürzung der ÖVP-Aufsichts<lb break="no"/>räte oder jetzt vielleicht gar der Vorstände beschwert, bin ich<lb/>
+gerne bereit, bei Auslaufen von Verträgen auch sozialistische<lb/>
+Vorstände nicht wieder zu ersetzen.<lb/>
+</p>
+            <pb n="33-1455" facs="33_1976-12-20_1455.jpg"/>
+            <p xml:space="preserve">Wieder kommt eine Einzelbeschwerde zur Sprache. Ein polnischer<lb/>
+Jude – Israeli – hat mir einer Behörde einen Konflikt gehabt<lb/>
+und soll jetzt auf Antrag des Staatsanwaltes psychiatriert<lb/>
+werden. <name type="person" ref="per:97668">Kreisky</name> vergleicht dies mit Methode in der Sowjetunion.<lb/>
+Wenn dies in die Öffentlichkeit kommt, schade dies dem Ansehen<lb/>
+Österreichs sehr. Der israelische Botschafter hat diesbezüglich<lb/>
+schon interveniert. <name type="person" ref="per:97372">Broda</name> gibt zu, dass einzelne Richter komische<lb/>
+Rechtsauffassungen haben. U.a. wurde der Ehrenbeleidigungsantrag<lb/>
+<name type="person" ref="per:97668">Kreiskys</name>, wo <name type="person" ref="per:114126">Hitler</name> als Ringrichter in einem Profil-Cartoon,<lb/>
+wo <name type="person" ref="per:97668">Kreisky</name> boxt, auftritt, abgewiesen. Das Oberlandesgericht hat<lb/>
+aber dieses Urteil aufgehoben. <name type="person" ref="per:97668">Kreisky</name> hat von dieser Sache<lb/>
+auch nichts gewusst, meint nur sarkastisch, jetzt wird er halt<lb/>
+dann aus einem anderen Grund abgewiesen werden.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97926">Schranz</name> hat eine ganze Tasche voll Broschüren <name type="person" ref="per:97668">Kreisky</name> geschickt und<lb/>
+erklärt, die Abgeordneten könnten dies alles nicht lesen. Ins<lb break="no"/>besondere wenden sich <name type="person" ref="per:97668">Kreisky</name> und <name type="person" ref="per:97926">Schranz</name> gegen die aufwendigen<lb/>
+Druckschriften. Vom Handelsministerium war nur der Energie<lb break="no"/>plan dabei und ich erklärte sofort, dass wir den billigst abziehen.<lb/>
+Klubobmann <name type="person" ref="per:97444">Fischer</name> meint allerdings, dass sich die Abgeordneten,<lb/>
+wenn sie nicht alle Unterlagen bekommen, dann beschweren. Meiner<lb/>
+Meinung nach gäbe es aus diesem Dilemma nur einen Ausweg, weniger<lb/>
+aufwendig, mehr zielgerichtet die Broschüren verschicken. Unter<lb/>
+Motto im Handelsministerium wird weiter bleiben, sparsamst und<lb/>
+so wenig wie möglich.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97356">Blecha</name> berichtet über eine Meinungsumfrage der IFES, die ähnlich<lb/>
+der SWS <name type="person" ref="per:97627">Kienzls</name> dieselben Ergebnisse bringt. Nach der Kampagne<lb/>
+"Die SPÖ hält Wort" schon die Ankündigungen über Erhöhungen<lb/>
+aber noch vor der Beschlussfassung im Parlament insbesondere<lb/>
+vor der Zigarettenpreisregelung hat die SPÖ noch immer 52 %<lb/>
+wenn am nächsten Tag gewählt worden wäre. Da <name type="person" ref="per:97356">Blecha</name> nicht<lb/>
+überzeugt ist, dass jetzt nach dem Belastungsbeschluss die Be<lb break="no"/>völkerung auch noch so denkt, hat er jetzt im Dezember neuerdings<lb/>
+eine Erhebung ins Feld geschickt. Die jetzt vorliegende hat aller<lb break="no"/>dings deutlich gezeigt, dass sowohl die SPÖ als auch die VP<lb/>
+schlechter beurteilt werden. Die SPÖ hat von 1,65 auf 1,40 abge<lb break="no"/>nommen, der schlechteste Wert, den sie je gehabt hat. Ich erkläre<lb/>
+sofort, dass jede zukünftige Erhebung und Entwicklung zeigen<lb/>
+wird, ähnlich wie bei SWS <name type="person" ref="per:97668">Kreisky</name> als einsame Spitze, an<lb/>
+Popularität vielleicht sogar noch zunimmt, während die Partei<lb/>
+<pb n="33-1456" facs="33_1976-12-20_1456.jpg"/>weiter verlieren wird. Klubobmann <name type="person" ref="per:97444">Fischer</name> ist wie ich den<lb/>
+Gebärden entnehmen kann, darüber sehr erschüttert, um nicht<lb/>
+zu sagen, entsetzt. Mit <name type="person" ref="per:97356">Blecha</name> und ihm diskutiere ich nachher<lb/>
+noch lange diese Entwicklung. <name type="person" ref="per:97356">Blecha</name> gibt mir zu, dass bei<lb/>
+<name type="person" ref="per:97668">Kreisky</name> jetzt der Führer-Effekt eintritt. Die Leute stehen<lb/>
+auf dem Standpunkt, das hat er sicherlich gar nicht gewusst<lb/>
+die Bürokratie, ja selbst die Minister legen ihn halt herein,<lb/>
+für mich ist die Taktik daher vollkommen klar, die die Partei<lb/>
+verfolgen muss. Sollte es vor der Wahl wirklich schlecht um<lb/>
+uns stehen, derzeit ist genau das Gegenteil der Fall, so bin ich<lb/>
+gerne bereit, als Ministeropfer z.B. wegen der Preisentwicklung<lb/>
+aufzutreten, weil man mir Befriedigung dann feststellen wird,<lb/>
+dass der Schuldige gefunden ist. Derzeit allerdings richtet<lb/>
+sich die ganze Unzufriedenheit gegen <name type="person" ref="per:97311">Androsch</name>. Dieser hat nerv<lb break="no"/>lich eine so schwere Belastung jetzt mitzumachen, dass <name type="person" ref="per:97356">Blecha</name> und<lb/>
+<name type="person" ref="per:97444">Fischer</name> sehr besorgt sind. Leider hat <name type="person" ref="per:97311">Androsch</name> durch seine<lb/>
+Arroganz wahrscheinlich wirklich alle Freunde oder zumindestens<lb/>
+viele sehr echten Freunde verloren.<lb/>
+</p>
+            <p xml:space="preserve">Die Junge ÖVP insbesondere in Vorarlberg hat angeblich beschlossen,<lb/>
+dass die Finanzämter jetzt von ihren Mitglieder besetzt werden<lb/>
+sollen und dort die Bevölkerung aufgefordert, keine Bundes<lb break="no"/>stempel in der verlangten Höhe zu kleben und vor allem auch<lb/>
+nicht die KFZ-Steuer zu entrichten.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name>: Bitte kläre, was hier wirklich vorgeht.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97511">Haiden</name> erkundigt sich bei mir, ob irgendwelche Massnahmen gegen<lb/>
+Sekt.Chef <name type="person" ref="per:126406">Grabmayr</name>, der im Aufsichtsrat der Verbundgesellschaft<lb/>
+als Bundesvertreter agiert, unternommen werden können und sollen.<lb/>
+<name type="person" ref="per:126406">Grabmayr</name> hat mit den ÖVP-Vertretern den Sitzungssaal verlassen.<lb/>
+<name type="person" ref="per:97511">Haiden</name> wollte vorerst gegen ihn vorgehen, bevor er mit mir geredet<lb/>
+hat, weil er der Meinung war, das Landwirtschaftsministerium<lb/>
+hat ihn delegiert. Ich schlage <name type="person" ref="per:97511">Haiden</name> vor, er soll ruhig von dieser<lb/>
+Annahme ausgehen, denn selbst wenn die ÖVP <name type="person" ref="per:126406">Grabmayr</name> delegiert<lb/>
+hat, kann er als sein zuständiger Minister von ihm ohne weiteres<lb/>
+Bericht verlangen. IN weiterer Folge könnte er ihm dann ohne<lb/>
+weiteres sagen, was die Meinung des Ressortchefs ist.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name>: Bitte informiere <name type="person" ref="per:97511">Haiden</name> über alle Details.<lb/>
+</p>
+            <pb n="33-1457" facs="33_1976-12-20_1457.jpg"/>
+            <p xml:space="preserve">Bei der Fraktionszusammenkunft im Gösser-Keller konnte ich<lb/>
+eine erfreulich grössere Zahl feststellen als vergangenes Jahr,<lb/>
+unerfreulich waren dagegen die Gespräche, die ich führte. Die<lb/>
+Genossen bemerken sehr wohl, dass innerhalb unseres Büros nicht<lb/>
+mehr dieser Zusammenhalt ist, der früher als wir begonnen haben,<lb/>
+selbstverständlich war. Die Kooperation und Koordination leidet<lb/>
+sehr unter diesem Umstand. Ich selbst habe, ohne dass ich es sagte,<lb/>
+mir schwer Vorwürfe gemacht, dass ich hier nachlässigerweise nicht<lb/>
+zeitgerecht nachdem Rechten gesehen habe. Die Ausrede, dass ich<lb/>
+dies nicht früher bemerkte, lasse ich mir gegenüber nicht gelten.<lb/>
+Wenn es nicht gelingt, dass wir im Büro besser kooperieren und<lb/>
+zusammenarbeiten und dies gilt für jedermann, dann werden wir in<lb/>
+kürzester Zeit die Folgen noch härter spüren, als dies jetzt schon<lb/>
+der Fall ist. Ich bin nicht bereit, eine solche Entwicklung hinzu<lb break="no"/>nehmen. Wenn wider Erwarten es nicht gelingt, eine Vertrauensbasis<lb/>
+in unserem Büro mit jedermann und dies bezieht sich nicht nur<lb/>
+auf die Sekretäre herzustellen, dann mache ich jeden einzelnen<lb/>
+dafür persönlich verantwortlich. Schlimmstenfalls wäre ich gezwungen,<lb/>
+was ich aber wirklich nicht hoffe, Konsequenzen zu ziehen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="33_1448_01" facs="33_1976-12-20_1448-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 20.12.1976</head>
+         </div>
+         <pb n="33_1448_02" facs="33_1976-12-20_1448-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstag, der  7. Oktober 1975</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band27_1975-10-07</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1975-10-07">Dienstag, 7. Oktober 1975</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-12-10">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="27-1108" facs="27_1975-10-07_1108.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Dienstag, 7. Oktober 1975<lb/>
+</p>
+            <p xml:space="preserve">Bei der Eröffnung des Weltbergbaukongresses sagte ich Dir. <name type="person" ref="per:97423">Fabricius</name><lb/>
+von der VÖEST-Alpine, dass jetzt die GKB endlich die Berechnungen<lb/>
+über die Gestehungskosten der neuen Kohle in Köflach geliefert<lb/>
+hat. Damit können jetzt die ÖDK konkrete Verhandlungen und eben<lb break="no"/>falls Berechnungen über Voitsberg III beginnen. Mir erscheint es<lb/>
+dringend notwendig, dass dieses Projekt so schnell wie möglich<lb/>
+in ein konkretes Ausbaustadium kommt, weil in den nächsten Monaten<lb/>
+über Fohnsdorf entschieden werden muss. Die Verluste werden heuer<lb/>
+mit 120 Mill. S geschätzt, d.h. dass wir besser wegkommen als be<lb break="no"/>fürchtet. Trotzdem muss jetzt ein Beschluss gefasst werden,<lb/>
+weil in zwei oder drei Jahren wieder irgendwelche Wahlen vor der<lb/>
+Tür stehen und vor allem dann die Auskohlung der rentablen Flöze zu<lb/>
+erwarten ist. Wenn kein Beschluss gefasst wird, besteht die Ge<lb break="no"/>fahr, dass die Betriebsräte noch stärker als jetzt drängen, neue In<lb break="no"/>vestitionen zu tätigen. Dieselbe Mitteilung mache ich dann Gen.Dir<lb/>
+<name type="person" ref="per:97644">Koller</name> bei der Unterzeichnung des Vertrages mit Vereinigten Edelstahl<lb break="no"/>werken und der russischen Gesellschaft Paton. Die Erfahrungen, die<lb/>
+beide jetzt mit der Stillegung von Pölfing-Bergla und der Neu<lb break="no"/>errichtung der Wolframhütte in Pölfing gemacht haben sind sehr<lb/>
+ermutigend. Um das neue Kohlenflöz endgültig aufzuschliessen,<lb/>
+muss eine Finanzierung von ca. 600 Mill. S gefunden werden. Min.<lb/>
+Rat <name type="person" ref="per:108609">Sterk</name> wird mit dem Finanzministeriumvertreter <name type="person" ref="per:110130">Kaber</name> und den<lb/>
+GKB-Leuten entsprechende Vorschläge und Variationen ausarbeiten.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97469">GEHART</name>: Bitte auf Beschleunigung drängen, damit so<lb/>
+schnell wie möglich Beschlüsse gefasst werden können.<lb/>
+</p>
+            <p xml:space="preserve">Im Ministerrat beschlossen wir die Demission und es war wieder<lb/>
+nicht ganz klar, ob wir dies sofort durchführen sollten oder wie<lb/>
+das letzte Mal erst nach einer Woche bis die Ergebnisse vor<lb break="no"/>lagen. <name type="person" ref="per:97727">Marsch</name> hatte auf Grund der Mitteilung von <name type="person" ref="per:97668">Kreisky</name> im Partei<lb break="no"/>vorstand, dass wir so vorgehen werden wie das letzte Mal, angenommen,<lb/>
+es wird erst in einer Woche sein. <name type="person" ref="per:97668">Kreisky</name> meint aber und dies glaube<lb/>
+ich sehr zu recht, eine Regierung sollte immer sofort demissionieren<lb/>
+um schon allein zu dokumentieren, dass sie nachdem der Wähler ge<lb break="no"/>sprochen hat, dem Bundespräsidenten sofort jedwede Handlungsfreiheit<lb/>
+geben will.<lb/>
+</p>
+            <pb n="27-1109" facs="27_1975-10-07_1109.jpg"/>
+            <p xml:space="preserve">Zur Tagesordnung wurde nichts wieder diskutiert als das Problem<lb/>
+der Dienstreisen. <name type="person" ref="per:107938">Leodolter</name> hat ihr Kontingent erschöpft, die<lb/>
+Beamten fahren aber meistens zu internationalen Tagungen, die<lb/>
+von der OECD oder sonstigen Internationalen Organisationen bezahlt<lb/>
+werden. Da die Beamten dort den Drittelsatz verrechneten, müsste<lb/>
+trotzdem diese Dienstreise angerechnet werden. Damit die Beamten<lb/>
+aber jetzt trotzdem fahren können, haben sie auf alles verzichtet<lb/>
+und sich sogar einen Sonderurlaub genehmigen lassen, damit diese<lb/>
+Reise fast als Privatreise gilt. <name type="person" ref="per:97668">Kreisky</name> war mit dieser Vorgangs<lb break="no"/>weise einverstanden, meinte nur wegen der Drittelbelastung könne<lb/>
+man schon auch reden, denn diese mache letzten Endes ja gar nicht<lb/>
+so viel aus. Theoretisch wurde damit zum ersten Mal ein seiner<lb break="no"/>zeitigen Beschluss von <name type="person" ref="per:97668">Kreisky</name>, der sich allerdings nur auf<lb/>
+private Firmen bezog, nämlich die Vergütung von Reisen durch<lb/>
+Dritte durchbrochen. Ich bin überzeugt, dass früher oder später das<lb/>
+ganze Reiseproblem neu verhandelt oder neu beschlossen werden muss.<lb/>
+Derzeit allerdings gelten noch immer die 75 % und ich halte diese<lb/>
+Einschränkung auch für richtig. Ansonsten wären die Reisen ins<lb/>
+Uferlose ausgewuchert.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97469">GEHART</name>: Wir bleiben auf alle Fälle bei der jetzigen<lb/>
+internen Regelung.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97879">Rösch</name> teilte mir mit, dass die Spanier jetzt vom 18. Oktober bis<lb/>
+November im Messepalast eine Fremdenverkehrsausstellung machen. Er be<lb break="no"/>fürchtet, dass es zu entsprechenden Zwischenfällen kommt und hat<lb/>
+deshalb die Messeleitung ersucht, ob man nicht diese ganze Aus<lb break="no"/>stellung absetzen oder zumindestens verschieben könnte. Messe<lb break="no"/>direktor <name type="person" ref="per:115005">Hintschig</name> sagt, dass dies unmöglich ist, weil ein Ver<lb break="no"/>trag mit den Spaniern besteht. Ich erkläre mich bereit, nicht zu<lb break="no"/>letzt auch, weil der Außenminister <name type="person" ref="per:97350">Bielka</name> mich diesbezüglich er<lb break="no"/>sucht, mit den Spaniern zu verhandeln, ohne natürlich einen Druck<lb/>
+auf die auszuüben. Ich werde diese Besprechung als Obmann der<lb/>
+Fremdenverkehrswerbung machen, natürlich würde <name type="person" ref="per:97879">Rösch</name> mit der Polizei<lb/>
+versuchen, diese Ausstellung zu schützen, aber es ist mit Sicher<lb break="no"/>heit anzunehmen, dass es ständig dort zu entsprechenden Ausschrei<lb break="no"/>tungen kommen wird.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:111723">WIESINGER</name>: Bitte sofort mit <name type="person" ref="per:111736">Zolles</name> verbinden.<lb/>
+</p>
+            <pb n="27-1110" facs="27_1975-10-07_1110.jpg"/>
+            <p xml:space="preserve">Die VEW, Gen.Dir. <name type="person" ref="per:114559">Bayer</name>, sind an mich herangetreten, dass ich ihnen<lb/>
+zur Vertragsunterzeichnung mit Paton, einem grossen Kiewer Institut,<lb/>
+den Marmorsaal zur Verfügung stelle. Dies habe ich umso lieber getan<lb/>
+als damit das Ministerium gegenüber den Russen ein bisschen in Er<lb break="no"/>scheinung tritt. Mit diesem Lizenzvertrag wurde ein jahrelanger<lb/>
+Streit zwischen den sowj. Stellen und österr. Firmen bereinigt. Die<lb/>
+Österreicher haben ein Elektroschlackenumschmelzungsverfahren<lb/>
+entwickelt, um homogenere und fehlerfreie Blöcke herzustellen. Dabei<lb/>
+haben sie einige Patente von Paton-Institut verletzt. Bis jetzt gab<lb/>
+es nur eine irrsinnige und langwierige Patentstreitigkeit vor Gericht<lb/>
+jetzt haben sich die beiden geeinigt und werden sogar noch kooperieren.<lb/>
+Im einem vertraulichen Briefwechsel, der nicht bei mir unterschrieben<lb/>
+wurde, sondern bei Böhler wird sogar eine Abgrenzung vorgenommen,<lb/>
+wie man sich gegen Dritte und ganz besonders gegen starke Konkurrenz<lb/>
+schützt. Die SU hat für 500.000 jato ESU-Kapazitäten errichtet und<lb/>
+in der westlichen Welt hat Böhler über 20 Grossanlagen gebaut.<lb/>
+Zu meiner grössten Verwunderung und das vermerke ich positiv, war<lb/>
+diesmal auch die Industriesektion neben der Handelssektion zur<lb/>
+Unterzeichnung gekommen. Ich bildete zwar nur die Staffage, bin<lb/>
+aber tatsächlich sehr erfreut, dass es zu diesem Abschluss gekommen<lb/>
+ist. Für die VEW gibt es jetzt grosszügige Möglichkeiten von <choice><choice><sic>Anlage<lb break="no"/>vergrösserungen-Bauten</sic><corr>Anlagevergrößerungsbauten?</corr></choice></choice> und Exporten.<lb/>
+</p>
+            <p xml:space="preserve">Im Wiener Vorstand wurde über die Wahlanalyse diskutiert, obwohl<lb/>
+eigentlich überhaupt noch keine verlässliche vorliegt. Im Bund hat<lb/>
+sich dasselbe wiederholt, was wir eigentlich bei uns auf der Land<lb break="no"/>strasse feststellen konnten. Kein einheitlicher Trend, <name type="person" ref="per:97356">Blecha</name> mit<lb/>
+seinem IFES-Institut und Untersuchungen ist genauso ratlos wie<lb/>
+<name type="person" ref="per:112994">Bruckmann</name> mit seinen Universitätsassistenten-Untersuchungen.<lb/>
+Die Auswertung der Reststimmen hat dann ergeben, dass auch das<lb/>
+11. Mandat von den Freiheitlichen wieder zur ÖVP zurückgewandert ist.<lb/>
+Damit ändert sich gar nichts, es bleibt bei 93:80:10 wie jetzt<lb/>
+auch der Nationalrat zusammengesetzt war. Ich konnte mir die bissige<lb/>
+Bemerkung nicht verkneifen: Für den Bestätigungsvermerk mussten<lb/>
+hunderte Millionen Schilling aufgewendet werden. Ich bin überzeugt,<lb/>
+dass man früher oder später wahrscheinlich allerdings erst in Jahr<lb break="no"/>zehnten dazu übergehen wird, ein anderes System des Wählerwillens<lb/>
+zu finden als so umständliche und kostspielige Wahl. Um den Wähler<lb break="no"/>willen zu ergründen, wird man entweder Teilerhebungen mit repräsen<lb break="no"/>tativem Charakter oder überhaupt Abstimmungsmodalitäten sich aus<lb break="no"/><pb n="27-1111" facs="27_1975-10-07_1111.jpg"/>denken, die auf alle Fälle nicht so aufwendig und kompliziert<lb/>
+sind, wie wir dies jetzt machen. Lange wurde über die Besetzung<lb/>
+der Reststimmenmandate diskutiert. Die Frauen meldeten ihre<lb/>
+Zentralsekretärin <name type="person" ref="per:137885">Demuth</name> an, die JG – ohne dass der Name gesagt<lb/>
+wurde von <name type="person" ref="per:114129">Oblasser</name> – behauptet, es müsste ein Junger endlich hinein<lb break="no"/>kommen, wobei er an <name type="person" ref="per:114541">Konecny</name> dachte. Die Gewerkschaft wieder<lb/>
+wollte <name type="person" ref="per:97676">Tommy Lachs</name>, Liesing, hätte den Abg. <name type="person" ref="per:136059">Fleischmann</name> an 24. Stelle<lb/>
+wollten ihren Kandidaten auf Reststimmenmandat, wobei sie sich<lb/>
+allerdings nicht sehr anstrengten. <name type="person" ref="per:97372">Broda</name> hatte Gott und die Welt<lb/>
+mobilisiert, um seinen Sekretär Dr. <name type="person" ref="per:140510">Keller</name> hineinzubringen, die<lb/>
+Niederösterreicher wieder wollten den Arbeiterkammerpräsidenten<lb/>
+<name type="person" ref="per:113119">Hesoun</name>, der nach <name type="person" ref="per:97809">Pfeifer</name> auf der Liste war und das 17. Mandat be<lb break="no"/>kommen sollte. Der Klub aber und vor allem einmal auch die weit<lb break="no"/>blickenderen Abgeordneten und Funktionäre waren der Meinung,<lb/>
+dass in den nächsten Nationalrat selbstverständlich wieder ein Arzt<lb/>
+vertreten sein müsste. Bis jetzt war es Dozent <name type="person" ref="per:141609">Gisel</name>, der allerdings<lb/>
+mit dieser Legislaturperiode ausscheidet. In diesem Fall kann nur<lb/>
+<name type="person" ref="per:117200">Kurt Steyrer</name>, ein Facharzt von der Landstrasse, der sich seit Jahr<lb break="no"/>zehnten politisch betätigt und auch als Fachmann anerkannt ist,<lb/>
+in Frage kommen. Dass ausser diesen sachlichen Notwendigkeiten<lb/>
+dann noch dazu kommt, dass er ein Landstrasser ist, war für mich<lb/>
+äusserst günstig. Bei einer Argumentation, man muss eine Frau<lb/>
+hineinbringen, weil jetzt die ÖVP zwei Frauen mehr nominieren<lb/>
+und beim Wahlkampf immer wieder unterstrichen wurde, welche Be<lb break="no"/>deutung die Frauen in Österreich haben, sehe ich nicht ganz ein.<lb/>
+Die Frauen sind sicherlich, was ihre Anzahl betrifft unterrepräsen<lb break="no"/>tiert, doch darf man nicht vergessen, dass erst jetzt bei der ÖVP<lb/>
+schön langsam annähernd derselbe Prozentsatz von Frauen kommen wird<lb/>
+wie wir sie schon seit Jahrzehnten haben. Entscheidend ist, dass<lb/>
+den grössten Anspruch auf das Reststimmenmandat die Niederöster<lb break="no"/>reicher haben, weil sie 21.000 bringen, die Burgenländer 15.000<lb/>
+und die Wiener nur 9.000. Trotzdem glaube ich wird es gelingen,<lb/>
+die Klubnotwendigkeit <name type="person" ref="per:117200">Steyrer</name> durchzusetzen. <name type="person" ref="per:97879">Rösch</name> hat mir<lb/>
+vertraulich mitgeteilt, dass er einen Vorschlag machte, im nö.<lb/>
+Präsidium, wo ja letzten Endes immer die Personalfragen entschie<lb break="no"/>den werden, man solle für das ausscheidende Bundesratsmandat <name type="person" ref="per:97842">Prechtl</name><lb/>
+die Bundesrätin <name type="person" ref="per:137885">Demuth</name> nach Wien übernehmen, dafür dann auf das nö.<lb/>
+Bundesratsmandat Kammerpräsidenten <name type="person" ref="per:113119">Hesoun</name>, womit auch dieser ein<lb break="no"/>verstanden ist und <name type="person" ref="per:117200">Steyrer</name> damit in den Nationalrat einziehen könnte.<lb/>
+</p>
+            <pb n="27-1112" facs="27_1975-10-07_1112.jpg"/>
+            <p xml:space="preserve">Die Reststimmenmandate wären dann für den Wahlkreisverband I<lb/>
+<name type="person" ref="per:114116">Kapaun</name>, Kammeramtsdirektor von Burgenland, und <name type="person" ref="per:117200">Steyrer</name>, im Wahlkreis<lb break="no"/>verband II für Tirol <name type="person" ref="per:112988">Wille</name>, für OÖ der Eisenbahnerobmann <name type="person" ref="per:97842">Prechtl</name><lb/>
+und für Kärnten <name type="person" ref="per:98034">Veselsky</name>. <name type="person" ref="per:97842">Prechtl</name> hat damit meinen alten Freund<lb/>
+Univ.-Prof. <name type="person" ref="per:131037">Nowotny</name> von Linz verdrängt, den die Linzer unbe<lb break="no"/>dingt wollten. Ich bin schon sehr froh, dass <name type="person" ref="per:97543">Heindl</name> noch an letzter<lb/>
+Stelle mit dem Grundmandat im Nationalrat eingezogen ist, denn bei<lb/>
+den Verhandlungen über Reststimmen wäre es nicht allzu leicht ge<lb break="no"/>wesen, ihn durchzubringen. Schlimmstenfalls habe ich ja überall er<lb break="no"/>klärt gehabt und dies hätte ich auch sofort getan, dass ich mein<lb/>
+Mandat als Minister brauche ich es ja wirklich nicht, zurückgelegt<lb/>
+hätte, damit die Landstrasse zumindestens mit einem Nationalrat<lb/>
+vertreten ist. Wenn wir Glück haben, sind wir dann allerdings drei.<lb/>
+</p>
+            <p xml:space="preserve">Lange Zeit hat allerdings im Vorstand und noch viel mehr dann im<lb/>
+Wiener Ausschuss die Diskussion wegen der Spaniendemonstration ge<lb break="no"/>dauert. Diese Diskussion wurde dann noch bei uns auf der Landstrasse<lb/>
+im Bezirksausschuss fortgesetzt, resp. dauert dort ebenfalls eine<lb/>
+gewisse Zeit. Soviele Darstellungen als man hört, wie es zu dieser<lb/>
+gemeinsamen Aktion mit den Kommunisten gekommen ist, so viele Varia<lb break="no"/>tionen gibt es und umso weniger kann man dann eigentlich durchsehen.<lb/>
+Immer wieder wird erklärt, dass man gar nicht mit diesen gerechnet hat<lb/>
+dann doch aber entsprechende Kommunisten dabei waren, immer wieder<lb/>
+wird erklärt, dass man zuerst verschieben wollte, es dann aber doch<lb/>
+weil der Gewerkschaftsbund – allerdings der europäische – beschlossen<lb/>
+hat, am 2. Oktober die Demonstrationen zu machen, sich dann auch die<lb/>
+Österreicher dem fügten, sodass man eigentlich kaum ein klares Bild<lb/>
+bekommt. Für mich aus jahrzehntelanger Erfahrung und auch in meiner<lb/>
+Funktion als ehemaliger Verbandsobmann der Soz. Studenten und Jugend<lb break="no"/>obmann von Wien, kenne ja, wie es zu solchen Kuddelmuddel kommt<lb/>
+Irgendwelche Funktionäre entwickeln Aktivitäten, suchen Kontakt<lb/>
+mit befreundeten Organisationen, diese wieder suchen Kontakt zu anderen<lb/>
+Organisationen und letzten Endes glaubt man dann eine machtvolle Kund<lb break="no"/>gebung zu erreichen, wenn recht viele Organisationen beteiligt sind.<lb/>
+Ausgelöst nämlich wurde das Bestreben, eine machtvolle Demon<lb break="no"/>stration zusammenzubringen aus dem beschämenden Ergebnis der ersten<lb/>
+Protestaktionen gegen Spanien vor der Hinrichtung. Damals hat uns<lb/>
+unser Jugendfunktionär auf der Landstrasse gesagt, waren maximal<lb/>
+80 Personen bei einem Protestaufmarsch vor der Spanischen Botschaft.<lb/>
+</p>
+            <pb n="27-1113" facs="27_1975-10-07_1113.jpg"/>
+            <p xml:space="preserve">Da die Partei aber nicht sofort entsprechend mit einer zweiten<lb/>
+Massenkundgebung reagierte, glaubte man jetzt durch entsprechende<lb/>
+Hilfe aller befreundeten Nationen, ja selbst der Kommunisten eine<lb/>
+machtvolleren Demonstration zustandezubringen. Hätte der Gewerkschafts<lb break="no"/>bund sich nicht mit der Gewerkschaftsjugend eingeschaltet und damit<lb/>
+auch Gewerkschaftsbundfunktionäre veranlasst, sich hinter diese<lb/>
+Spaniendemonstration zu stellen, wäre wahrscheinlich es wieder nur<lb/>
+von einem Häufchen weniger Funktionäre befreundeter Organisationen<lb/>
+geblieben. So aber hat die AZ dann selbstverständlich die Aktion<lb/>
+angekündigt, was ja viele veranlasst hat, daran teilzunehmen, wie z.B<lb/>
+meine Frau, obwohl ich gar nicht wusste, wer dies organisiert und<lb/>
+was dabei eigentlich herauskommen soll. Dass die Kommunisten sich<lb/>
+dann auch noch diszipliniert verhielten, sondern nur noch die Maoisten<lb/>
+und Chaoten, wie sie von den eigenen Leuten bezeichnet werden,<lb/>
+aber auch die Germ, wie ich die <choice><choice><sic>GFM</sic><corr>GRM</corr></choice></choice> bezeichne, beteiligten steht auf<lb/>
+einem anderen Blatt. Richtig ist, dass man die Aktivitäten der<lb/>
+jungen Menschen nicht durch entsprechende Hinweise: Macht etwas,<lb/>
+aber fallt nicht auf – oder vielleicht gar: Macht gar nichts, das<lb/>
+zahlt sich nicht aus, bremsen kann. Richtig ist auch, dass man<lb/>
+mit den jungen Leuten mehr Kontakt halten müsse. Genauso richtig<lb/>
+aber ist es, dass auch wir in unserer Jugendzeit natürlich Aktivi<lb break="no"/>täten setzten, mit denen die damaligen Alten auch nicht einverstanden<lb/>
+waren. Hier hilft allerdings nicht ein Jugendkomitee mit Koordination<lb/>
+zu den Parteistellen, sei es dem Wiener Sekretariat, das vor Jahren<lb/>
+geschaffen wurde, sondern eben nicht andres als mehr Zeit für die<lb/>
+Probleme der Jugend, mehr Diskussion mit ihnen und vor allem mehr<lb/>
+freie Aussprache. Eines konnte ich feststellen, dass die unteren<lb/>
+oder mittleren Funktionäre der Organisationen über die Verhältnisse<lb/>
+in Spanien, über die ETA-Gruppen usw. falsch informiert sind.<lb/>
+Vielleicht allerdings sind die richtig informiert und wir haben nur<lb/>
+eine falsche Meinung. Dies kann aber nur durch entsprechende<lb/>
+Aussprachen geklärt werden. Der Wahlsieg wird durch diese Diskussionen<lb/>
+jetzt natürlich überschattet, ja ich würde fast sagen, verdrängt.<lb/>
+Dies ist aber eine typisch sozialistische Eigenschaft, nämlich wenn<lb/>
+man auch einen ganz grossen Sieg errungen hat, sich nicht daran zu<lb/>
+freien, sondern sich mit Missinterpretationen mit Fehlentscheidungen<lb/>
+mit einem Wort dem Negativen mehr zu befassen als mit der positiven<lb/>
+Tatsache des wirklich grossen Wahlerfolges. Vielleicht ist die mit<lb/>
+einer der Gründe, warum allerdings dadurch die Bäume nicht in<lb/>
+den Himmel wachsen werden und können.<lb/>
+</p>
+            <pb n="27-1114" facs="27_1975-10-07_1114.jpg"/>
+            <p xml:space="preserve">Das wichtigste und erfreulichste Erlebnis aber war, als ich<lb/>
+feststellen konnte, dass unser Büro jetzt schön langsam wirklich ein<lb/>
+Team wird, das sich ausschliesslich nach den personellen Notwen<lb break="no"/>digkeiten richtet und nicht durch ähnliche persönliche Motive<lb/>
+in dieser Entwicklung gehemmt wird. Der Landessekretär von Tirol<lb/>
+<name type="person" ref="per:114508">Herbert Tieber</name>, ein guter alter Freund von mir aus der Arbeiter<lb break="no"/>kammerzeit noch, wo er in der Arbeiterkammer Tirol beschäftigt<lb/>
+war, ist mit seinem Posten nicht glücklich. Er hat sich deshalb<lb/>
+nach dem Wahlkampf entschlossen, auf alle Fälle nach Wien zu<lb/>
+übersiedeln. Er konnte scheinbar als Steirer, der jahrelang in Wien<lb/>
+gearbeitet, studiert und sich vor allem einmal politisch betätigt<lb/>
+hat, in Tirol nicht entsprechend Fuss fassen. Als er Interesse<lb/>
+zeigte, gegebenenfalls zu mir ins Büro zu kommen, war ich sehr<lb/>
+besorgt, ob sowohl <name type="person" ref="per:97469">Gehart</name> als auch <name type="person" ref="per:98040">Wais</name> davon so begeistert wären<lb/>
+wie ich es war. <name type="person" ref="per:114508">Tieber</name> hat mir nun mitgeteilt, dass er mehrere<lb/>
+Angebote hat, u.a. auch von <name type="person" ref="per:97444">Heinz Fischer</name> in den Klub zu gehen.<lb/>
+Diese Mitteilung machte er mir strengst vertraulich, wie er<lb/>
+mir heute telefonisch aber mitteilte, hat er sich trotz dieses<lb/>
+guten Angebotes vom Klub entschlossen, doch zu uns zu kommen.<lb/>
+<name type="person" ref="per:98040">Wais</name>, der <name type="person" ref="per:114508">Tieber</name> von der JG her sehr genau kennt, war begeistert.<lb/>
+Er meinte, wäre <name type="person" ref="per:114508">Tieber</name> damals nicht nach Tirol gegangen, wäre<lb/>
+er heute bereits Vorsitzender der JG. <name type="person" ref="per:97469">Gehart</name>, der ihn nicht so<lb/>
+genau kennt, war ebenfalls sofort damit einverstanden, dass wir<lb/>
+ihn in unser Büro bringen sollten, weil wir dringendst noch Ver<lb break="no"/>stärkung brauchen. <name type="person" ref="per:97469">Gehart</name> meinte, jetzt sei <name type="person" ref="per:97377">Bukowski</name> weggegangen,<lb/>
+weshalb ein guter Grund sei, einen Mann dafür in unser Büro<lb/>
+zu nehmen. Auch <name type="person" ref="per:139939">Wanke</name>, der ihn kennt, hält ihn für äusserst tüchtig<lb/>
+und meint, das sei eine gute Bereicherung. <name type="person" ref="per:113038">Reim</name> kennt ihn ja nicht,<lb/>
+aber auch er war glaube ich sehr zufrieden, dass wir jetzt stärker<lb/>
+werden. Wir haben es alle sehr notwendig. Ich bin mir allerdings<lb/>
+der Schwierigkeiten vollkommen bewusst. Die ÖVP wird mich hart<lb/>
+attackieren, dass ich jetzt einen Politruk, nämlich einen Partei<lb break="no"/>landessekretär, in das Büro nehme. <name type="person" ref="per:114508">Tieber</name> wird nämlich nicht von<lb/>
+der Partei ausscheiden, weil wir nur so erreichen können, dass<lb/>
+er keinen finanziellen Verlust erleidet. Wir werden der Partei<lb/>
+sein Gehalt refundieren. <name type="person" ref="per:97891">Herbert Salcher</name>, der Parteiobmann,<lb/>
+ist mit dieser Lösung sehr einverstanden.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="27_1107_01" facs="27_1975-10-07_1107-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 7.10.1975</head>
+         </div>
+         <pb n="27_1114_01" facs="27_1975-10-07_1114-01.jpg"/>
+         <pb n="27_1114_02" facs="27_1975-10-07_1114-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesordnung 181. Ministerratssitzung, 7.10.1975</head>
+         </div>
+      </back>
+   </text>
+</TEI>

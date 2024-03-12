@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der 16. Jänner 1971</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band04_1971-01-16</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1971-01-16">Samstag, 16. Januar 1971</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-07-24">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="04-0049" facs="04_1971-01-16_0049.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Samstag, 16. Jänner 1971<lb/>
+</p>
+            <p xml:space="preserve">Auch grosse internationale Konzerne haben manchmal komische Einfälle.<lb/>
+Der Generaldirektor von BP, British Petrol, <name type="person" ref="per:134378">Armstrong</name>, wollte mich<lb/>
+unbedingt sprechen. Er erklärte, er hätte von London direkt den Auf<lb break="no"/>trag, wer in der österreichischen Bundesregierung bereit wäre zuständig<lb/>
+wäre, eine äusserst wichtige Botschaft zu übernehmen. Da ich krank im<lb/>
+Bett lag, versuchte ich, ihm auseinanderzusetzen, dass das Handelsmini<lb break="no"/>sterium zuständig sei und er von uns hören würde. <name type="person" ref="per:97543">Heindl</name> konnte ich leider<lb/>
+nicht erreichen, sodass <name type="person" ref="per:98053">Wanke</name> einspringen musste. <name type="person" ref="per:98053">Wanke</name> versuchte ihm<lb/>
+klarzumachen, dass er gegebenenfalls er mir ja diese wichtige Botschaft<lb/>
+auch telefonisch mitteilen könnte. Nach längerem scheinbar Hin und Her<lb/>
+entschloss er sich, mich neuerlich anzurufen. Er wollte noch immer zu<lb/>
+mir persönlich kommen, um mir wie er sagte, die jetzt in Übersetzung<lb/>
+befindliche Botschaft mir zu übermitteln. Letzten Endes entschloss er<lb/>
+sich endlich um 2 Uhr den Klartext auch auf telefonischem Wege mir<lb/>
+mitzuteilen. Nachdem die Verhandlungen mit den Exportölländern, den<lb/>
+sogenannten <choice><choice><sic>Opets</sic><corr>OPEC</corr></choice></choice>, gescheitert waren, nahm ich an, dass vielleicht die<lb/>
+Ölfirmen Boykottmassnahmen gegenüber den <choice><choice><sic>Opets-Ländern</sic><corr>OPEC-Ländern</corr></choice></choice> beschlossen haben<lb/>
+und in dem Fall, die Regierungen aufmerksam machen, dass mit Versorgungs<lb break="no"/>schwierigkeiten zu rechnen ist. In diesem Fall hätten wir sofort Gegen<lb break="no"/>massnahmen ergreifen müssen und ich versuchte deshalb, den ganzen Vor<lb break="no"/>mittag auch schon mit der ÖMV in Verbindung zu kommen. Bestärkt wurde ich<lb/>
+noch in dieser Meinung, dass <name type="person" ref="per:134378">Armstrong</name> erklärte, er fürchte, dass die<lb/>
+Telefone abgehört werden und die Konzerne erst weltweit um 17.00 Uhr<lb/>
+MEZ diese äusserst Wichtige Botschaft bekanntgeben werden. Um 14 Uhr teilte<lb/>
+er mir dann die Botschaft mit. Sie enthielt nichts anderes, als dass<lb/>
+die internationalen Ölkonzerne weiter verhandeln wollen. Kein einziges<lb/>
+Massenmedium brachte diese Nachricht.<lb/>
+</p>
+         </div>
+      </body>
+      
+   </text>
+</TEI>

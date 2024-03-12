@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der  3. März 1972</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band10_1972-03-03</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1972-03-03">Freitag, 3. März 1972</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-09-27">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="10-0305" facs="10_1972-03-03_0305.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Freitag, 3. März 1972<lb/>
+</p>
+            <p xml:space="preserve">Die Fachzeitschrift "Elektrohandel" wollte in einem Interview<lb/>
+unbedingt meine Stellungnahme zur Einkaufsgenossenschaft wissen.<lb/>
+Die Einkaufsgenossenschaft besorgt derzeit für die einzelnen Elektro<lb break="no"/>händler von den Fabriken den Einkauf und erhält dadurch höhere Rabatte.<lb/>
+Die AEG-Austria wehrt sich – wie mir der Direktor mitteilte – gegen<lb/>
+diese Methode. Die AEG-Austria muss jetzt einen höheren Rabattsatz<lb/>
+geben und meint, dadurch verteuert sich auf lange Zeit gesehen ja<lb/>
+doch ihr Fabriksabgabepreis. Andererseits aber muss man doch berück<lb break="no"/>sichtigen, dass wenn diese Mengenrabatte richtig kalkuliert sind,<lb/>
+für die Fabrik entsprechende Vorteile durch Kostenersparnis entstehen.<lb/>
+Voraussetzung ist eben, dass der Mengenrabatt richtig kalkuliert<lb/>
+wurde.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97646">KOPPE</name>: Bitte im Konsumentenbeirat genau untersuchen<lb/>
+lassen.<lb/>
+</p>
+            <p xml:space="preserve">Bei der 75-Jahr-Feier der Kabel- und Drahtwerke AG hat der Betriebsrats<lb break="no"/>obmann eine phantastische und revolutionäre Ansprache gehalten. Als<lb/>
+konkrete Forderung verlangte er von der Gemeinde Wien Grundstück,<lb/>
+damit sich der Betrieb ausdehnen könnte. <name type="person" ref="per:97963">Slavik</name>, der neben mir sass,<lb/>
+meinte, er wird in seiner Rede auf dieses Problem eingehen und kurz<lb/>
+andeuten, dass er glaubt, dass eine solche Transaktion möglich sei.<lb/>
+Eine konkrete Zusage möchte er deshalb noch nicht geben, weil an<lb break="no"/>sonsten die Vertragsverhandlungen von seinem Standpunkt aus sich ver<lb break="no"/>schlechtern. Ich sah darin eine grosse Möglichkeit in meiner Rede<lb/>
+diese positive Andeutung zu konkretisieren und erklärte <name type="person" ref="per:97963">Slavik</name>, dass<lb/>
+ich dies machen würde. Da er dagegen keinen Einspruch erhob, habe<lb/>
+ich seine Zustimmung angenommen. Natürlich erhielt sich dann bei<lb/>
+dieser Stelle eine frenetischen Beifall- der gesamten anwesenden<lb/>
+Belegschaft. <name type="person" ref="per:97963">Slavik</name> meinte nachher lachend, auf seine Kosten hätte ich<lb/>
+einen ganz schönen Erfolg erzielt.<lb/>
+</p>
+            <p xml:space="preserve">Bei diesem Festakt traf ich auch Präsident <name type="person" ref="per:97346">Benya</name>, er kam aber auf die<lb/>
+sehr hart Kritik meines gestrigen Vortrages nicht mehr zurück. In<lb/>
+der Früh hat er mich sofort angerufen, weil ihm angeblich ich nehme<lb/>
+an es war <name type="person" ref="per:112988">Sepp Wille</name>, mitgeteilt hat, dass ich in der Arbeitsgemein<lb break="no"/>schaft der soz. Direktoren und Betriebsräte der verstaatlichten Indu<lb break="no"/>strie verlangt hätte, es würden und müssten die Löhne dieser Lohn<lb break="no"/><pb n="10-0306" facs="10_1972-03-03_0306.jpg"/>runde um 2 und mehr Prozent gegenüber der letzten Lohnrunde erhöht<lb/>
+werden. Durch die Preissteigerungen bedingt, so sollte ich ausge<lb break="no"/>führt haben, würden auch die Metallarbeiter mehr verlangen. Richtig<lb/>
+ist, dass ich bei dieser Arbeitsgemeinschaft auf die steigenden Preise<lb/>
+hingewiesen habe und dass ich vor allem erklärt habe, dass es kaum<lb/>
+möglich sein wird, die Tariflöhne heuer so günstig abzuschliessen,<lb/>
+wie dies bei der letzten Lohnrunde der Fall gewesen ist. Von <name type="person" ref="per:128059">Martinowsky</name><lb/>
+wurden damals die Brauereiarbeiterlöhne und überhaupt die Lebensmittel<lb break="no"/>arbeiter herangezogen und Tatsache ist, dass diese um ca. 2 % höher<lb/>
+abschliessen als bei der letzten Lohnrunde. Damals betrugen sie um<lb/>
+die 12 %, jetzt betragen sie 14 %. Bei uns sind die Tariflöhne gleich<lb break="no"/>zeitig auch die Ist-Löhne und daher gibt es dieses Problem nicht,<lb/>
+das die Metallarbeitergewerkschaft hat. Dort sind die Tariflöhne wesent<lb break="no"/>lich tiefer als die Ist-Löhne und sicher werden auch die Tariflöhne um<lb/>
+2 % höher abschliessen als das letzte Mal. Bei den Ist-Löhnen dagegen<lb/>
+glaubt <name type="person" ref="per:97346">Benya</name>, dass es dies unmöglich sein wird und hat die Mittei<lb break="no"/>lung, wonach ich eine höhere Lohnpolitik angekündigt habe, als ein Konter<lb break="no"/>karieren ihrer Lohnpolitik aufgefasst. Er glaubt auch, dass deshalb<lb/>
+1971 überall eine solche Ruhe und relative Zufriedenheit herrschte, weil<lb/>
+die Betriebe in individuellen, d.h. betrieblichen Regelungen für ihre<lb/>
+Arbeiter eine entsprechende zusätzliche Lohnerhöhung herausgeholt<lb/>
+haben. Tatsächlich dürften bei den grossen starken Betrieben zwischen<lb/>
+den Lohnbewegungen der Gewerkschaft, die ungefähr alle 15 – 16 Monate<lb/>
+erfolgt, individuelle betriebliche Regelungen erfolgen. Das Endergebnis<lb/>
+ist, dass er dadurch seine ursprüngliche Politik nämlich die Kollektiv<lb break="no"/>vertragslöhne auf die Ist-Löhne heranzuführen, nur geringe Aussicht<lb/>
+auf Verwirklichung hat. Andererseits aber, wenn er eine Lohnbewegung<lb/>
+für die gesamten Metallarbeiter führt, ist es unmöglich, dass<lb/>
+dann nicht die einzelnen Betriebe sich zusätzliche Benefizien durch<lb/>
+die Verhandlungen des Betriebsrates mit der Unternehmungsleitung heraus<lb break="no"/>holen. Dies ist ja eine der Gründe, warum <name type="person" ref="per:97769">Mussil</name> und die Handelskammer<lb/>
+immer wieder versuchen, diese betrieblichen Lohnforderungen auch in<lb/>
+die Paritätische Kommission zu bringen. Andererseits ist es für mich<lb/>
+vollkommen klar, dass keine Gewerkschaft und vor allem einmal keines<lb break="no"/>falls der Gewerkschaftsbund ein solches Vorgehen akzeptieren können.<lb/>
+Zum Glück hat <name type="person" ref="per:97346">Benya</name> den Tag vorher gerade seine 3 % Reallohnsteigerung<lb/>
+verkündet. Wenn er nun selbst eine 6 %-ige Preissteigerung rechnet,<lb/>
+oder selbst wenn er nur die 4,7 % des Vorjahres zur Grundlage nimmt,<lb/>
+dann will er nach seiner eigenen Aussage noch 1,5 % für die Steuerbe<lb break="no"/><pb n="10-0307" facs="10_1972-03-03_0307.jpg"/>lastung kalkulieren, so kommt er weit über den von ihm vorgesehenen<lb/>
+Satz von 8 % hinaus. Diese Ziffer ist zwar offiziell noch nicht bekannt<lb/>
+doch wird in den Spitzengremien der Metallarbeitergewerkschaft mit der<lb/>
+anderen Seite auf dieses Basis bereits informell gesprochen. Dies hat<lb/>
+mir zumindestens <name type="person" ref="per:112988">Wille</name> mitgeteilt. <name type="person" ref="per:97346">Benya</name> meinte nun sehr verärgert, wenn<lb/>
+die Regierung die Lohnpolitik der Gewerkschaft machen will, dann muss<lb/>
+sie auch die Konsequenzen daraus tragen. Er selbst würde unter diesen<lb/>
+Umständen nicht mehr bereit sein, seine eigenen Leute zurückzuhalten.<lb/>
+Nachdem ich ihm den Tatbestand und meine wirklichen Ausführungen ausein<lb break="no"/>andergesetzt habe, hoffe ich, dass er eingesehen hat, einer Fehlinforma<lb break="no"/>tion oder zumindestens einer falschen Interpretation unterlegen zu sein.<lb/>
+Trotzdem war es für mich eine heilsame Lehre, dass man auch als Gewerk<lb break="no"/>schafter in einer Bundesregierung über die Lohnpolitik nirgends etwas<lb/>
+sagen soll, zumindestens auch keine noch so vagen ziffernmässigen An<lb break="no"/>deutungen. Es wäre auch wirklich billig von mir, wenn ich auf Kosten<lb/>
+einer Gewerkschaft irgendwo Andeutungen machen würde, die letzten Endes<lb/>
+dem Arbeiter das Gefühl geben, dass ich der bessere Gewerkschaftsver<lb break="no"/>treter sei, der auch anderen einen höheren Lohnsatz bringen würde.<lb/>
+So waren angeblich einige Reaktionen von Betriebsräten bei dieser Aus<lb break="no"/>sprache. In der Diskussion haben sie sich allerdings nicht zu Wort ge<lb break="no"/>meldet.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Festansprache für <name type="person" ref="per:114093">Waldheim</name> erwähnte <name type="person" ref="per:97668">Kreisky</name> sehr geschickt,<lb/>
+dass die Bundesregierung die Kandidatur <name type="person" ref="per:114093">Waldheims</name> ganz unabhängig<lb/>
+von den innerpolitischen Fragen so unterstützt hat, dass letzten Endes<lb/>
+auch ein erfolgreicher <name type="person" ref="per:114093">Waldheim</name> als Generalsekretär aus der Wahl hervor<lb break="no"/>gegangen ist. Bei dieser Gelegenheit zeigte sich wieder, wie wenig<lb/>
+<name type="person" ref="per:114093">Waldheim</name> ein Politiker ist, denn in seiner Antwort ging er auf diese<lb/>
+Bemerkung im einzelnen ein, bedankte sich für die Haltung der Bundes<lb break="no"/>regierung, die anwesenden ÖVP-ler, insbesondere Bundesparteiobmann<lb/>
+<name type="person" ref="per:97917">Schleinzer</name>, der schräg mir gegenüber sass, machte ein süss-saures Gesicht.<lb/>
+Das mindeste hätte er sicher erwartet, dass auf diesen sehr geschickten<lb/>
+Vorbringen von <name type="person" ref="per:97668">Kreisky</name> <name type="person" ref="per:114093">Waldheim</name> entweder überhaupt nicht reagiert<lb/>
+oder wenn er darauf geantwortet hätte, es doch als eine Selbstverständ<lb break="no"/>lichkeit hingestellt hätte, die doch ausser jeder Diskussion stehen<lb/>
+muss. Wir wissen allerdings nicht, wie sehr im damaligen Präsident<lb break="no"/>schaftswahlkampf <name type="person" ref="per:114093">Waldheims</name> um den Bundespräsidentenposten Differenzen<lb/>
+innerhalb der österreichischen Volkspartei oder gar mit der Führungs<lb break="no"/>spitze dieser Partei zwischen <name type="person" ref="per:114093">Waldheim</name> und den einzelnen ÖVP-lern ge<lb break="no"/>wesen sind.<lb/>
+</p>
+            <pb n="10-0308" facs="10_1972-03-03_0308.jpg"/>
+            <p xml:space="preserve">Die Vorbereitungen für die Brüssel-Verhandlungen gestalten sich<lb/>
+wegen der landwirtschaftlichen Nachfolgeprodukte und wegen der Er<lb break="no"/>stattungsfrage ganz besonders schwierig. Es gelingt zwar durch Be<lb break="no"/>sprechungen mit den einzelnen Interessenvertretungen die Standpunkte<lb/>
+einigermassen aufzuweichen und letzten Endes vielleicht sogar doch<lb/>
+zu einem gemeinsamen zu bringen.Voraussetzung für eine wirklich alle<lb/>
+befriedigende Lösung wäre, wenn in der Erstattungsfrage das Finanz<lb break="no"/>ministerium wenigstens eine grundsätzliche Erklärung abgeben würde.<lb/>
+Ich kann es aber andererseits verstehen, dass <name type="person" ref="per:97311">Androsch</name> hier auf alle<lb/>
+Fälle unbedingten Widerstand leistet, da er erwartet, dass daraus<lb/>
+eine grosse budgetäre Belastung erwachsen wird. Zu meiner grössten<lb/>
+Verwunderung hat er aber die fiskalische Seite bei Aussprache, die<lb/>
+die Handels- und Landwirtschaftskammer mit ihm geführt hat, als nicht<lb/>
+primär bezeichnet, sondern sich aus prinzipiellen Gründen gegen diese<lb/>
+Erstattung gewehrt. Damit bringt er dieses ganze Problem auf eine<lb/>
+Linie, die mehr oder minder eine prinzipielle Entscheidung der Bun<lb break="no"/>desregierung notwendig macht. <name type="person" ref="per:98055">Weihs</name>, so versichern mit die Agrarier<lb/>
+aber auch die Handelskammer, hat ihnen eine positive Zusage bereits ge<lb break="no"/>geben. Bei meiner letzten Vorbesprechung in der Regierungsfraktion<lb/>
+hat allerdings <name type="person" ref="per:98055">Weihs</name> sich überhaupt nicht geäussert. Ich bin auch über<lb break="no"/>zeugt, dass früher oder später <name type="person" ref="per:97311">Androsch</name> auf Einfluss <name type="person" ref="per:97668">Kreiskys</name>, der<lb/>
+momentan auch noch ganz entschieden eine Erstattung ablehnt, nachgeben<lb/>
+wird. Wenn es nämlich dann darauf ankommt, dass die Bauern mit aller<lb/>
+Konsequenzen sei es im Parlament oder gar vielleicht in vorhergehenden<lb/>
+Besprechungen beim Bundeskanzler das Problem auseinandersetzen werden,<lb/>
+dass <name type="person" ref="per:97668">Kreisky</name> dann entsprechend nachgeben wird. Derzeit aber sind beide<lb/>
+noch auf einem absoluten Nein und ich habe deshalb auch ganz ent<lb break="no"/>schieden bei jeder Besprechung abgelehnt, mich für eine Lösung einzu<lb break="no"/>setzen, da ich ein solches Versprechen nicht einhalten könnte. Die<lb/>
+Arbeiterkammer hat sogar eine Zeitlang mit der Idee gespielt, die<lb/>
+gesamten landwirtschaftlichen Nachfolgeprodukte aus der Integration<lb/>
+auszunehmen. In diesem Fall glaubt sie würde der Zollschutz günstiger<lb/>
+sein für die Konsumenten als wenn ein Abbau des fixen Teilbetrages vom<lb/>
+neuen System in der Integration durchgeführt wird. <name type="person" ref="per:98053">Wanke</name> selbst ist<lb/>
+über diese Scheidung sehr unglücklich. Er ist davon fest überzeugt,<lb/>
+dass wenn die landwirtschaftlichen Nachfolgeprodukte nicht in die<lb/>
+Integration einbezogen werden, daraus eine ganz schwere Belastung auf<lb/>
+lange Sicht für die Konsumenten entstehen wird. Ich selbst muss<lb/>
+bei diesem Problem äusserst vorsichtig taktieren. Auf die Frage der<lb/>
+<pb n="10-0309" facs="10_1972-03-03_0309.jpg"/>Handelskammer bei der Vorbesprechung mit dieser Interessen<lb break="no"/>vertretung, welche Stellung ich als Handelsminister einnehme,<lb/>
+habe ich deshalb ausgesprochen laschiert. Der Grund ist, dass<lb/>
+wenn ich mich für ein System entscheide, dann der Verdacht entsteht,<lb/>
+dass ich als Obmann der Lebens- und Genussmittelarbeiter den<lb/>
+höheren Schutz für die dort Beschäftigten über die Gesamtinter<lb break="no"/>essen stelle. Da ich eine solche Haltung wirklich nicht einnehme,<lb/>
+sehe ich nicht ein, dass ich mich durch eine konkrete Aussage, dann<lb/>
+in einer Richtung präjudiziere. Ausserdem erscheint es mir dann voll<lb/>
+kommen unmöglich, eine gemeinsame Linie noch zu erreichen. Die<lb/>
+Anti-Integrationslösung, wie sie derzeit Min.Rat <name type="person" ref="per:139676">Kretschmer</name><lb/>
+vom Finanzministerium vorschlägt, hat vielleicht die Zustimmung<lb/>
+des Finanzministers ist aber glaube ich auch keine Ideal-Lösung.<lb/>
+Sie läuft in Wirklichkeit auf die Herausnahme aller dieser Produkte<lb/>
+aus der Integration hinaus. Die Landwirtschaft will nun, da sie die<lb/>
+Abschöpfung bereits ziemlich in der Tasche hat, die ergänzende Er<lb break="no"/>stattung in der jetzigen Phase durchsetzen. Deshalb hat sie dann<lb/>
+auch bei der interministeriellen Besprechung immer wieder darauf<lb/>
+hingewiesen und alles offen lassen wollen, auch die Abschöpfungspunk<lb break="no"/>te, wo wir uns einigen konnten und auch teilweise geeinigt haben.<lb/>
+Als stärkste Drohung hat sie darauf hingewiesen, dass sie in diesem<lb/>
+Punkt der Sitzung verbleiben will. Scheinbar gedenkt also die<lb/>
+Landwirtschaftskammer nicht die Sitzung überhaupt zu verlassen,<lb/>
+sondern nur bei diesem Punkt in Brüssel durch Abwesenheit ihren<lb/>
+Protest zu demonstrieren. Sie hofft, dass bis am Mittwoch, den<lb/>
+8. März, wo die nächste Verhandlungsrunde in Brüssel steigt, eine<lb/>
+prinzipielle Zusage von seiten der Bundesregierung zu erhalten. Da<lb/>
+ich eine solche Zusage nicht sehe, habe ich keine wie immer gear<lb break="no"/>tete Erklärung abgegeben, sondern die Erstattung als ein inner<lb break="no"/>österreichisches Problem behandelt und auch dezidiert mitgeteilt,<lb/>
+dass in Brüssel nur eine einzige Bemerkung gemacht werden sollte.<lb/>
+Da die EWG an unserer Erstattung in einem einzigen Punkt inter<lb break="no"/>essiert ist, soll die Delegation nur erklären, dass wenn es zu<lb/>
+einer Erstattung kommt, diese keinesfalls bis unter den Weltmarkt<lb break="no"/>preis gehen würde. Nur eine solche Erklärung erwartet die EWG von<lb/>
+uns und die kann auch ohne weiters von der gesamten Delegation gegeben<lb/>
+werden. Wenn die Landwirtschaft geschickt ist, wird die diese Er<lb break="no"/>klärung als Anhaltspunkt für den weitere innerösterreichische Dis<lb break="no"/>kussion verwenden. Da die Handelskammer heute bereits weiss, dass<lb/>
+sie dem Vertrag zustimmen muss, wird sie und setzt sie alles<lb/>
+<pb n="10-0310" facs="10_1972-03-03_0310.jpg"/>daran, um die Bauern einigermassen zu befriedigen, damit auch diese<lb/>
+innerparteilich nicht zu grosse Schwierigkeiten bereiten. Deshalb<lb/>
+solidarisiert sich die Handelskammer, nicht zuletzt aber auch wegen<lb/>
+der Interessen der Nahrungs- und Genussmittelindustrie mit dem Vor<lb break="no"/>schlag der Landwirtschaftskammer.<lb/>
+</p>
+            <p xml:space="preserve">Während der Sitzung der interministeriellen Kommission wurde deshalb<lb/>
+ausschliesslich dieses Problem bis in die Details diskutiert und für<lb/>
+die Abschöpfungsliste doch eine generelle Linie gefunden. Interessant<lb/>
+war, dass <name type="person" ref="per:115656">Steiger</name> als Gegenforderung gegen die EWG eine entsprechende<lb/>
+Erweiterung der Liste z.B. Zuckerwaren usw. verlangte, aber von der<lb/>
+Handelskammer in dieser Frage gar nicht unterstützt wurde. Dr. <name type="person" ref="per:112564">Smolka</name><lb/>
+vom Fachverband meinte nur, man hätte die Gegenforderungen innerhalb<lb/>
+der Süsswarenindustrie besprochen und man ist übereingekommen, dafür<lb/>
+wie er sich ausdrückte, nicht auf die Barrikaden zu steigen. <name type="person" ref="per:97867">Reiterer</name><lb/>
+war erschüttert über diese Stellungnahme, da er noch immer glaubt,<lb/>
+handelspolitisch mit Gegenforderungen und Abtauschen von Positionen<lb/>
+eine gute Ausgangslage zu haben. In Wirklichkeit meint der Fachverband<lb/>
+heute und wahrscheinlich auch schon die Handelskammer, je weniger man<lb/>
+von der Europäischen Gemeinschaft verlangt, desto weniger muss man<lb/>
+natürlich Gegenkonzessionen machen und der jetzige Status wäre für<lb/>
+sie der beste.<lb/>
+</p>
+            <p xml:space="preserve">Während der Abendsitzung wurde ich von Brüssel, Dr. <name type="person" ref="per:114800">Michitsch</name>, ange<lb break="no"/>rufen, der mir mitteilte, dass in der Frage der Ursprungszeugnisse<lb/>
+doch eine Lösung sich jetzt abzeichnet. Die Kommission wird zwar den<lb/>
+kumulativen Ursprung nicht akzeptieren, doch hat sie Argumente ge<lb break="no"/>sucht, damit sie den Rat davon überzeugen kann, dass er gewisse Zuge<lb break="no"/>ständnisse machen wird müssen. Ich habe diese Mitteilung sofort der<lb/>
+interministeriellen Kommission zur Kenntnis gebracht.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="10_0304_01" facs="10_1972-03-03_0304-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 3.3.1972</head>
+         </div>
+         <pb n="10_0304_02" facs="10_1972-03-03_0304-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

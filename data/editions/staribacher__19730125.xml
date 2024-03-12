@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Donnerstag, der 25. Jänner 1973</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band14_1973-01-25</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1973-01-25">Donnerstag, 25. Januar 1973</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-10-24">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band14/">
+      <body>
+         <pb n="14-0086" facs="14_1973-01-25_0086.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Donnerstag, 25. Jänner 1973</p><p xml:space="preserve">Im Parlament mit <name type="person" ref="per:127586">Tödling</name>, <name type="person" ref="per:97515">Hanreich</name>, <name type="person" ref="per:97752">Mondl</name> habe ich die<lb/>
+wirtschaftliche Verteidigungsdoktrin besprochen. <name type="person" ref="per:127586">Tödling</name><lb/>
+mölchte, dass auch Expertenebene mit den INteressensvertretungen<lb/>
+eine konkrete Arbeit geleistet wird, indem die Vorratslage und<lb/>
+der Bedarf für die wichtigsten Produkte festgelegt wird. <name type="person" ref="per:97515">Hanreich</name><lb/>
+möchte ein Grundlagenpapier, wo aber ebenfalls dann Schwerpunkte<lb/>
+gesetzt werden sollen. <name type="person" ref="per:97752">Mondl</name> meinte, dass in der Doktrin eine<lb/>
+Ziel-vorstellung festgelegt werden muss, damit man jeder Krisen<lb break="no"/>situation gewachsen ist. <name type="person" ref="per:127586">Tödling</name> hat grundsätzlich nichts da<lb break="no"/>gegen, wenn wir über eine solche Doktrin verhandeln, doch würde<lb/>
+die ÖVP gerne konkrete ARbeiten sehen. Ich selbst setze den dreien<lb/>
+auseainder, dass bie mir die Wirtschaftliche Landesverteidigung<lb/>
+nur von Min.Rat <name type="person" ref="per:125823">Hanisch</name> und einem zweiten Mann gemacht wird. Da<lb/>
+ich keine Dienstposten bekommen – ich würde auhc solche gar nicht<lb/>
+verlangen – muss ich die Reorganisation der wirtschaftl. Landes<lb break="no"/>verteidigung auf die geschaffenen BRanchenreferate und die<lb/>
+SEktion III Industrie üertragen. Übereinstimmend wird mir diese<lb/>
+Vorgangsweise bestätigt und gutgeheissen. Da <name type="person" ref="per:125823">Hanisch</name> heuer in<lb/>
+Pension geht, wird jetzt mit Zustimmung der Parlamentvertreter<lb/>
+diese Reorganisation fortgesetzt, um im nächsten Jahr die Branchen<lb break="no"/>referat einzusetzen. Ich stimme zu, dass die Interessensvertretungen<lb/>
+und meine Ministerienreferenten die ARbeit beginnen sollen.<lb/>
+Von der Bundeskammer wird dazu Christian, von der LWK <name type="person" ref="per:114571">Wejwoda</name><lb/>
+von <name type="person" ref="per:127586">Tödling</name> vorgeschlagen.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: Bitte eine Sitzung mit den Branchenreferenten<lb/>
+die dafür in FRage kommen und <name type="person" ref="per:125823">Hanisch</name> und<lb/>
+mir und Interessensvertretungen vereinbaren.</p><p xml:space="preserve">Ing. <name type="person" ref="per:115651">Cifer</name> von der Fa. Bauer, Bewässerungsanlagen, möchte, dass<lb/>
+ich mit <name type="person" ref="per:112951">Patolitschew</name> über da ung.-sow. Projekt spreche, das in<lb/>
+Kooperation in Ungarn mit ZUlieferung von österr. Firmen erreich<lb break="no"/>tet werden soll. Da ich mich ausserstande erkläre, für ein Projekt<lb/>
+das zwischen Ungarn und der SU verhandeln wird einzuschalten,<lb/>
+möchte <name type="person" ref="per:115651">Cifer</name> von mir, dass ich <name type="person" ref="per:112951">Patolitschew</name> ersuche, damit er<lb/>
+ihn in Moskau besuchen kann. Auch dies lehne ich ab. <name type="person" ref="per:115651">Cifer</name> erklärt<lb/>
+zwar, dass die Ungarn in ausdrücklich ersuchten, dass Österreich<lb/>
+intervenieren sollte, um die ung.-sow. Kooperation durchführen<lb/>
+zu können, doch fühle ich mich dafür nicht zsutändig.</p><pb n="14-0087" facs="14_1973-01-25_0087.jpg"/><p xml:space="preserve">Mit der Industriellenvereinigung, Präs. <name type="person" ref="per:97581">Igler</name>, <name type="person" ref="per:97733">Mayer-Gunthof</name>,<lb/>
+Dr. <name type="person" ref="per:140321">Wilhelm</name>, Baron <name type="person" ref="per:140551">Hauser</name>, Dr. <name type="person" ref="per:97725">Marquet</name> und Dr. <name type="person" ref="per:112971">Weber</name>, sowie<lb/>
+<name type="person" ref="per:108322">Meisl</name> spreche ich über deren Wunsch über ihre FOrderungen an das<lb/>
+Handelsministerium. <name type="person" ref="per:140321">Wilhelm</name>, der die aussenhandelspolitischen Agen<lb break="no"/>den führt, erklärt weitschweifig ihr Programm. ERstens soll die<lb/>
+Stabilsierungspolitik dadurch aufgelockert werden, dass für die<lb/>
+Investitionen und für die Umlaufmitteln die entsprechenden Kredit<lb break="no"/>beschränkungen aufgehoben werden sollen. Die GEldkosten, meint<lb/>
+<name type="person" ref="per:140321">Wilhelm</name>, sind heute höher, nämlich um ca. 2 % teurer als Lohnerhö<lb break="no"/>hungen im Jahre ihnen dieselbe VErteuerung hätte bringen können.<lb/>
+Die Industrie müsste sich durch die verlorene Umsatzsteuerrückvergü<lb break="no"/>tung durch die Zollsenkungen jetzt durch die EG-Abkommen auf den<lb/>
+300 Mill.-Markt orientieren und deshalb müssten sie entsprechende<lb/>
+Investitionen tätigen. Der Produktionsapparat müsste deshalb von<lb/>
+den Kreditinstituten besser bedient werden. Mein Hinweis, dass die<lb/>
+Kreditinstitute selbst jede Selektion abgelehnt haben, veranlasst<lb/>
+<name type="person" ref="per:140321">Wilhelm</name> nus, zu sagne, dass die Aufgabe darin besteht, ihre Wünsche<lb/>
+bei mir zu deponieren.</p><p xml:space="preserve">ZWeitens . Die Übergangsfristen sollten mit EG-VErhandlungen ver<lb break="no"/>kürzt werden. Dies gilt nicht nur für die sensiblen Produkte sondern<lb/>
+auch für die 5-Jahres-Phase. Griechenland und Türkei sind assoziiert<lb/>
+und es müssten nun Verhandlungen beginnen, um den Export in diese<lb/>
+Staaten zusichern. Eine Ausweitung der EFTA sowohl nach Spanien<lb/>
+als auch nach Jugoslawien wird angestrebt. Die Kooperationen müss<lb break="no"/>ten noch wesentlich verbessert werden und Verhandlungen mit dem<lb/>
+Osten sollten niemals mit COMECON sondern mit jedem einzelnen Land<lb/>
+nur geführt werden. Ich stimmte allen diesen Vorschlägen zu, da sie<lb/>
+grösstenteils wie z.B. die Kooperation auf meine Initiative zurück<lb break="no"/>gegangen sind. Die Kooperationsbörse, die die Industriellenvereini<lb break="no"/>gung heute macht, müsste noch auf alle Länder ausgedehnt wund<lb/>
+und wesentlich verbessert werden, was mir auch zugesichert wird<lb/>
+Die DDR-Liberalisierung ist mit 1.1.1975 zu genehmigen, doch soll<lb break="no"/>te eine escape-clause, wie sie auch im Polen-Vertrag konstruiert<lb/>
+wurde, aufgenommen werden. Aucnh hier konnte ich der Industriellen<lb break="no"/>vereinigung auseinandersetzen, dass nicht ich die Ostflanke aufge<lb break="no"/>rissen habe, sondern gerade durch mühevolle VErhandlungen mit den<lb/>
+Oststaaten sicherungsklauseln einbauen konnte. Vorkehrungen wären<lb/>
+zu treffen, dass die Schilling-Fakturierung womögoch nicht nur an<lb break="no"/>erlannt, sondern auch de fact durchgeführt wird, obwohl mir <name type="person" ref="per:140321">Wilhelm</name><lb/>
+<pb n="14-0088" facs="14_1973-01-25_0088.jpg"/>auch erklärt, das ist nur auf die Güte der Exportware ankommt,<lb/>
+wo man gegebenenfalls für gute Ware, die der Osten braucht, sehr<lb/>
+wohl Schilling.Fakturierung erreichen kann. Wichtig wäre u<lb/>
+zu verhindern, dass Ostware aus dritten Ländern nach Österreich<lb/>
+exportiert werden kann. Die BRD hat dies bereits durch ihr System<lb/>
+verboten.</p><p xml:space="preserve">Drittens Für die Entwicklungshilfe sollte man SAchleistung mit Expo<lb/>
+waren anbieten. Baron <name type="person" ref="per:140551">Hauser</name>, wie <name type="person" ref="per:97581">Igler</name> ihn vorstellt, wollte nur<lb/>
+zwei Forderungen. Er bat, dass ich ihm die Organisation des Handels<lb break="no"/>ministeriums erkäre. Ich ging sofort, nachdem ich dies getan habe,<lb/>
+einen Schritt weiter und schlug ihm vor, dass wir eine Sitzung von<lb/>
+ihm mit seinen Funktionären und Referenten der Industriellenvereini<lb break="no"/>gung in meinem Ministerium machen sollten, wo gleichzeitig die<lb/>
+Referenten der Industriellen-SEktion vorgestellt werden und die<lb/>
+gemeisnamen Arbeiten resp. Kontakte zwischen Industriellen-Vereini<lb break="no"/>gung und Handelsministerium aufgenommen werden sollten.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: Bitte eine diesbezügliche Sitzung vorbereiten und<lb/>
+ganz besonders unseren Referenten die Möglichkeit zu geben, als Bran<lb break="no"/>chenreferenten oder als Abteilungsleiter wie z.B. <name type="person" ref="per:98109">Zembsch</name> für die Ko<lb break="no"/>operation ihre Arbeitsgebiete und INtentionen ganz kurz zu schildern.</p><p xml:space="preserve">WEiters interessiert sich die Industriellen-Vereinigung für<lb/>
+die regionale Industriepolitik und bittet, dass wir ihr die Stu<lb break="no"/>dien überlassen.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: Bitte 10 Exemplare der Industriellenvereinigung<lb/>
+übermitteln.</p><p xml:space="preserve">Veitscher Magnesit Dr. <name type="person" ref="per:149205">Rosenberg</name> sowie Dr. <name type="person" ref="per:1137472">Lauda</name>, Dr. <name type="person" ref="per:136470">Denk</name> vom<lb/>
+Fachverband, Min.Rat <name type="person" ref="per:97467">Gasser</name> und Dr. <name type="person" ref="per:112190">Mock</name> verhandeln über<lb/>
+die Umstufung von Magnesit vom grundeigenen in bergfreie Minera<lb break="no"/>lien. Das Professoren.Kollegium, von denen <name type="person" ref="per:149205">Rosenberg</name> behauptet,<lb/>
+dass kein einziger Praktiker darunter war, hat vorgeschlagen, Magnesit<lb/>
+als bergfreies MIneral einzustufen. Die Magnesit-Industrie und<lb/>
+auch die Betriebsräte haben zweifelsohne durch die Industrie veran<lb break="no"/>lasst an mich geschrieben, dass eine solche Umstufung äusserst<lb/>
+gefährlich wäre. Z.B. hat der Grundbesitzer von Breitenau, Dr. <name type="person" ref="per:148989">Pfohl</name>,<lb/>
+<add>[Fa., Anm.]</add>Sattler, und das Stift Admont von Trieben bereits Forderungen an die<lb/>
+Veitscher Magnesit gestellt, wenn eine entsprechende Änderung kommt,<lb/>
+n<lb/>
+<pb n="14-0089" facs="14_1973-01-25_0089.jpg"/>dass sie dann nicht mehr ihre VErträge einhalten. Sie möchten<lb/>
+dann neuerlidhce VErhandlungen beginnen. Die Magnesit-Industrie<lb/>
+erklärt, dass siedeshalb von den Grundbesitzern neuerdings zr<lb/>
+Ader gelassen werden. Da ich dies wahrlich nicht beabsichtige<lb/>
+erkläre ich <name type="person" ref="per:112190">Mock</name> nach Abschluss der Sitzung, dass es zuelführend<lb/>
+sei, hier den Wünschen der Magnesitindustrie nachzugeben. Die<lb/>
+Magnesitindustrie behauptet, dass in Österreich kein einziges<lb/>
+Lager vorhanden wäre, das sie nicht entweder shcon ausbeuten<lb/>
+oder als Reserve kennen und mit Schurfrechten belegt. haben.<lb/>
+Erdsames Magnesit, das in Österreich nicht vorkommt, muss sich die<lb/>
+Veitscher in der Türkei und die ÖAMAG in Griechenland verschaffen.</p><p xml:space="preserve">Dr. <name type="person" ref="per:136470">Denk</name> hat nach der Sitzung bei mir interveneiert, dass wir für<lb/>
+seine Bergabauschule weitere Subventionen wie in den vergangenen<lb/>
+Jahren geben sollen. Ich erwähne, dass wir aus budgetäen Gründen<lb/>
+dazu nur sehr schwer in der Lage sind. Die VErtreter der Veit<lb break="no"/>scher Magnesit erklären, dass sie jederzeit bereit wären, wenn<lb/>
+diese Umstufung nicht erfolft. die entsprechendenBEträge dann auf<lb break="no"/>zu bringen. Angeblich leisten sie jetzt bereits über 1 Mill. S.<lb/>
+In diesem FAll kommt es ihnen auf die 50.000 S, die wir glaube<lb/>
+ich bezahlt haben, gar nicht an. Zum GLück hatte ich bereits<lb/>
+ziemlich deutlich vor diesem Angebot, das man ansonsten als Be<lb break="no"/>stechung bezeichnen könnte, zum Ausdruck gebracht, dass ich die In<lb break="no"/>tentionen der Industrie in diesem FAll unterstütze und von einer<lb/>
+Umstufung, wenn es nicht noch entscheidende andere Gründe gibt,<lb/>
+auf alle Fälle Abstand nehmen möchte.</p><p xml:space="preserve">Mit der Industrie-Bau- Dr. <name type="person" ref="per:139469">Meissner</name> und <name type="person" ref="per:113124">Nemetschke</name> sowie Direktor<lb/>
+<name type="person" ref="per:140161">Kraus</name> <add>[evtl. Falschidentifikation, Anm.]</add> habe ich die erste offizielle Aussprache über die Absichten<lb/>
+der Bauindustrie. Die Vereinigung hofft, dass sie 1974 Spätestens<lb/>
+als Fachverband anerkannt wird. Diesbezügliche Zusagen, <name type="person" ref="per:97893">Sallingers</name><lb/>
+mir gegenüber hat er auch ihnen neuerdings bestätigt. Was mir aber<lb/>
+von Seiten der Herren als Konzept unterbreitet wird, ist alles<lb/>
+schon abgestandener Kaffee. U.a. präsentieren sie mir die 10 Punkte<lb/>
+die die Industie dringend bräuchte, wie z.B. langfristige Planung<lb/>
+sofortige BEzahlugn der ausgeführten Arbeitenusw. Ich stelle sofort<lb/>
+fest, dass dies nicht dem entspricht, was sie vor zwei Jahren<lb/>
+mir versprochen haben. Damals sagten sie, dass es eine ganze Reihe<lb/>
+von Forderungen gibt, die letzten Endes für die Bauindustrie von<lb/>
+grösster Bedeutung sind und die eigentlich vom Industrieminister<lb/>
+gegenüber dem Bautenminister durchgesetzt werden sollten und könnte<lb/>
+<pb n="14-0090" facs="14_1973-01-25_0090.jpg"/>Ein konkretes Material habe ich aber bis jetzt nicht bekommen, Dr.<lb/>
+<name type="person" ref="per:139469">Meissner</name> verspricht mir für die nächsten Monaten eine solche Studie,<lb/>
+weil sie sie bereits mit dem BAuzentrum ausarbeiten. Letzten Endes<lb/>
+wollen sie dann von mir eine Erklärung, wielange die Baubremse halten<lb/>
+soll. Ich selbst erkläre, dass nicht daran zu denken ist, dass die<lb/>
+Kreditrestikrionen jetzt bereits vom Finanzminister wieder aufge<lb break="no"/>hoben werden, da sie noch immer einen Überhang von 26 MIa haben,<lb/>
+der sich allerdings, wie sie mit plausibel auseinandersetzen<lb/>
+auf mehrere Jahre erstrecken, da die ganzen Grossbauvorhaben eben<lb break="no"/>falls drinnen sind, fürchen sie doch einzelne Lücken. Ich erkläre<lb/>
+mich bereit, wenn sie mir sehr konkrete Mitteilungen über eine Lücke<lb/>
+machen, dann im BAuten- resp. Finanzministerium für einen Auftrag<lb/>
+in diesem Gebiet mich einzusetezn.</p><p xml:space="preserve">Die Direktoren der Ölfirmen – Internationale und ÖMV – erscheinen<lb/>
+mit FAchverbandssekretär Dr. <name type="person" ref="per:137297">Messinger</name> und Min.Rat <name type="person" ref="per:112946">Schleifer</name>,<lb/>
+Dr, <name type="person" ref="per:112977">Neuhold</name> und Dr. <name type="person" ref="per:97646">Koppe</name>, um zu erklären, dass sie den freien<lb/>
+Tankstellen nur Überschussmengen zur VErfügung stellen können. Bis<lb/>
+jetzt haben sich diese meistens aus dem Ausland mit Überschuss<lb break="no"/>mengen versorgt. Da jetzt Benzin knapp ist, wollen sie vom In<lb break="no"/>land, ohne dass sie verträge haben, Überschussmengen von Benzin<lb/>
+bekommen. Preisaufteilung auf Grund der Mehrwertsteuer, die jede<lb/>
+einzelne Sparte tragen muss, wurde befriedigend im Ministerium<lb/>
+resp. der Handelskammer gelöst. Die Mengen,ässige VErsorgung iann<lb/>
+nicht garantiert werden, solange sie nicht bereit sind, langfristi<lb break="no"/>ge Lieferverträge abzuschliessen, resp. abgeschlossen haben.<lb/>
+Ein Direktbezugsrecht kommt nicht in Frage, da die ÖMV ihre<lb/>
+Mengen bereits mit den internatiinalen Gesellschaften abgestimmt<lb/>
+und denen die Mengen zugeteilt hat und die anderen Händler insbeson<lb break="no"/>dere über die MINU eine Gesellschaft von mehreren Grosshändlern<lb/>
+die anderen versorgt. Für Bezug könnte man sich nur an die Vertriebs<lb break="no"/>firmen der ÖMV nämlich die Martha und Elan wenden. Benzin am freien<lb/>
+Markt ist irrsinnig gestiegen, am 1.1.1972 betrug für Normalbenzin<lb/>
+23 Dollar/to und ist auf 45 Dollar gestiegen, Superbenzin von<lb/>
+32.50 auf auf 54.50.</p><p xml:space="preserve"><name type="person" ref="per:97646">Koppe</name> und dann am späteren Abend <name type="person" ref="per:97563">Hofstetter</name> erzählen mir, dass<lb/>
+die Frage der Konsumenteninformation doch nicht so schnell gelöst<lb/>
+werden kann, als dies scheinbar beabsichtigt war. <name type="person" ref="per:97563">Hofstetter</name> wird<lb/>
+mit Präsident <name type="person" ref="per:97570">Hrdlitschka</name> über dieses Problem eingehend konferieren.</p><pb n="14-0091" facs="14_1973-01-25_0091.jpg"/><p xml:space="preserve">Die ganze Frage ist total verfahren und ich sehe momentan keinen<lb/>
+Ausweg. Die einzige Möglichkeit könnte sich nur ergeben, wenn es<lb/>
+<name type="person" ref="per:97563">Hofstetter</name> wirklich geliungt, durch entsprechende VOrschläge an<lb/>
+<name type="person" ref="per:97570">Hrdlitschka</name> für <name type="person" ref="per:134822">Reichard</name> entsprechende Verwendung zu finden. Eine<lb/>
+diesbezügliche Aussprache soll in der nächsten Woche stattfinden.</p></div>
+      </body>
+      <back>
+         <pb n="14_0085_01" facs="14_1973-01-25_0085-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 25.1.1973</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="14_0085_02" facs="14_1973-01-25_0085-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+   </text>
+</TEI>

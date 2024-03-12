@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstag, der 26. März 1974</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band20_1974-03-26</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1974-03-26">Dienstag, 26. März 1974</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-11-22">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band20/">
+      <body>
+         <pb n="20-0365" facs="20_1974-03-26_0365.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Dienstag, 26. März 1974</p><p xml:space="preserve">In der Ministerratsvorbesprechung hat mich <name type="person" ref="per:97444">Heinz Fischer</name> vom Klub<lb/>
+ersucht, ich möge ihm Unterlagen für einen Rednerdienst über die<lb/>
+Preisentwicklung geben. Er hat bei einer Propagandasitzung mit<lb/>
+<name type="person" ref="per:133397">Heinz Brantl</name> und anderen erwähnt, dass ich auf der Bezirkskonferenz<lb/>
+in Rudolfsheim, er ist dort Mandatar, seiner Auffassung nach ein<lb/>
+so gutes Referat gegen die Preiserhöhung und ERklärungen darüber<lb/>
+abgegeben habe, dass er vor Begeisterung darüber berichtete.<lb/>
+<name type="person" ref="per:97646">Koppe</name> sagt, alles artet in Arbeit aus und deshalb hat man ihn<lb/>
+sofort ersucht, er möge einen entsprechenden Rednerdienst verfassen</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name> UND <name type="person" ref="per:97646">Koppe</name>: Bitte, ihm alles Zahlenmaterial zur<lb/>
+Verfügung zu stellen.</p><p xml:space="preserve"><name type="person" ref="per:97632">Kirchschläger</name> habe ich von der beabsichtigten Verordnung auf Grund<lb/>
+des Antimarktstörungsgesetzes – Strumpfhosen aus Israel – berichtet<lb/>
+und seine aussenpolitische Meinung dazu verlangt. <name type="person" ref="per:97632">Kirchschläger</name><lb/>
+hat grösste Bedenken, diese Verordnung nur gegen Israel allein<lb/>
+zu erlassen, da er mit Recht dsagt, das wird die ganzen Bemühungen<lb/>
+von <name type="person" ref="per:97668">Kreisky</name> und ihm über eine Befriedung der Beziehungen zu<lb/>
+Israel stören. Er ist mit meinem Vorschlag sehr einverstanden,<lb/>
+mit dem Botschafter und Handelsrat übereine eventuelle frei<lb break="no"/>willige Selbstkontrolle Israels zu sprechen. Ich habe über<lb/>
+diese Vorgangsweise nachmittags auch Dr. <name type="person" ref="per:97474">Gleissner</name> von der Handels<lb break="no"/>kammer informiert und er hatte zugegeben, dass dies eine vernünftig<lb/>
+und zweckmässige Regelung ist. VOr allem soll zumindestens der<lb/>
+Versuch gemacht werden, den israelischen Botschafter und Handelsrat<lb/>
+davon zu überzeugen, dass wir die Verordnung, wenn es dann gar<lb/>
+nicht anders geht, erst erlassen, wenn eben ihre Bemühungen nicht<lb/>
+erfolgreich sind.</p><p xml:space="preserve">Im Ministerrat hat <name type="person" ref="per:97311">Androsch</name> über die Vereinbarung mit der Austro-<lb/>
+Ferngas berichtet, wonach jetzt zwischen ihm und der Gesellschaft<lb/>
+ein befriedigendes ERgebnis über die finanzielle Beteiligung er<lb break="no"/>reicht werden konnte. <name type="person" ref="per:97311">Androsch</name> glaubt damit die Entwicklugn auf dem<lb/>
+Gassektor, wie wir sie in der E-Wirtschaft haben, starke Landes<lb break="no"/>gesellschaften im Gegensatz zu der Verbundgesellschaft, verhindern<lb/>
+zu können. Der Bund meint, er hat jetzt entsprechende Möglichkeiten<lb/>
+des Einflusses. Ich teile diese Meinung nicht.</p><pb n="20-0366" facs="20_1974-03-26_0366.jpg"/><p xml:space="preserve">ANstelle der Austro-Ferngas hätte ich unverzüglich, als die bezüg<lb break="no"/>lichen Wünsche des Bundes an mich herangetragen worden wären, sofort<lb/>
+zugestimmt, weil ich dadurch eine finanzielle Entlastung meiner<lb/>
+eigenen Länderbeteiligungen erreicht hätte. Der Einfluss des Bundes<lb/>
+kann meiner Meinung nach nur minimal sein, da letzten Endes bald<lb/>
+feststehen wird, dass die Länderbeteiligungen ausschliesslich den<lb/>
+einzigen Sinn haben, billiges Gas für die einzelnen Länder zur Ver<lb break="no"/>fügung zu stellen. Ich stelle mir vor und wäre eigentlich sehr verwund<lb/>
+dert, wenn dies nicht der Fall ist, dass alle anderen Absichten<lb/>
+vor allem einen Profit in dieser Gesellschaft zu erwirtschaften nicht<lb/>
+das Hauptziel dieser Organisationsform ist. Der Bund wird also<lb/>
+hier grosse Belastungen auf sich nehmen müssen. Vielleicht aber irre<lb/>
+ich mich und auf lange Sicht gesehen hat <name type="person" ref="per:97311">Androsch</name> recht, wir werden<lb/>
+sehen.</p><p xml:space="preserve">Die Bauernbesprechung mit den Freiheitlichen Allgemeinen Bauernverband<lb/>
+und Arbeitsbauernbund begannne damit, dass <name type="person" ref="per:97668">Kreisky</name> natürlich mehr an<lb break="no"/>bieten musste als gestern abends. Da <name type="person" ref="per:97668">Kreisky</name> selbst eingesehen hat,<lb/>
+für dne Erzeugerpreis gibt es keine Steigerung mehr, hat er ihnen<lb/>
+sofort statt 50 Mill. Treibstoffverbilligung zusätzliche 70 Mill. S<lb/>
+zugesagt. LAbg. <name type="person" ref="per:122971">Zillner</name> von den Freiheitlichen hat sofort den Käserei<lb break="no"/>tauglichkeitszuschlag oder Siloverzichtszuschlag zur Sprache gebracht,<lb/>
+wo die Freiheitlichen 20 Groschen verlangten und dann bereit waren,<lb/>
+auf 10 Groschen zurückzugehen. <name type="person" ref="per:97668">Kreisky</name> hat in weiterer Folge auch<lb/>
+diesen Vorschlag akzeptiert. Darüber hinaus wollte <name type="person" ref="per:122971">Zillner</name> aber<lb/>
+auch naütrlich der Allgemeine Bauernverband eine dezidierte Er<lb break="no"/>klärung, dass Milchkrisengroschen in den nächsten Monaten zumindestnes<lb/>
+nicht erhöht wird. Hier hat <name type="person" ref="per:97668">Kreisky</name> allerdings nicht nachgegeben.<lb/>
+<name type="person" ref="per:140805">Wenitsch</name> vom Allgemeinen Bauernverband hat erklärt, er könne von seine<lb/>
+ursprünglichen Forderung 1.- S Erhöhung deshalb nicht abgehen, weil<lb/>
+auch dieser Antrag nicht geprüft ist. Meine Entgegnung, dass ich<lb/>
+einen solchen Antrag gar nicht erhalten habe, erwiderte er, er<lb/>
+wird mir sofort einen solchen schicken und wünscht, dass dann darüber<lb/>
+weiter verhandelt wird. Die Überlegungen, die jetzt von SEiten <name type="person" ref="per:97668">Kreis<lb break="no"/>kys</name> angestellt werden, liefen darauf hinaus, dass er erkennen musste,<lb/>
+dass die Bauernverbände ausser dem Arbeitsbauernbund letzten Endes<lb/>
+nicht zustimmen werden, da auch die Freiheitlichen mindestens 35 Gro<lb break="no"/>schen Erzeugermilchpreis wie der Arbeitsbauernbund verlangen. Eine<lb/>
+Pressekonferenz übergab er mir den Vorsitz und es war klar, dass<lb/>
+eigentlich damit der VErsuch, die anderen zur Zustimmung zu bringen,<lb/>
+<pb n="20-0367" facs="20_1974-03-26_0367.jpg"/>als gescheitert betrachten musste. Das Endergebnis dieser sehr kom<lb break="no"/>plizierten Verhandlungsführung war, wie ich es auch ursprünglich<lb/>
+gar nicht anders erwartete, dass eine gegenseitige Lizitation nach<lb/>
+oben erfolgen wird, die optisch zwar dazu führte, dass der Bauern<lb break="no"/>bund ausgeschaltet war, aber damit noch lange nicht die Möglichkeiten,<lb/>
+die der Bauernbund hat von der Regierung angefangen werden konnten.<lb/>
+Typisch dafür ist, dass die Unternehmervertreter bie den Verhandlungen<lb/>
+über die Lohnerhöhung der Molkerei-Arbeiter eine Weisung vom Bauern<lb break="no"/>bund haben, dass solange nicht eine befriedigende Regelung über den<lb/>
+Milchpreis für dne Erzeuger erfolgt und ganz besonders sicherlich<lb/>
+acuh nicht über die Verbraucherpreisregelung, keine konkreten Detail<lb break="no"/>verhandlungen über eine Lohnregelung zustandekommt. Das Endergebnis<lb/>
+ist, dass wir erstmalig zu keiner weiteren Verhandlung kommen können<lb/>
+und deshalb die Molkereiarbeiter jetzt in NÖ mit einem starken ÖAAB-<lb/>
+Einfluss zum Streik griffen. Die Sprachregelung bie uns in der Ge<lb break="no"/>werkschaft ist, dsss es sich hier nicht um einen Streik handelt, sonder<lb/>
+um Protestaktionen, nicht zuletzt deshalb, weil wir eben nur bei<lb/>
+der Milchindustrie den Vertrag gekündigt haben. Bis jetzt war näm<lb break="no"/>lich möglich und üblich, dass wir ohne eine Vertragskündigung ausgekom<lb/>
+men sind und immer unsere Lohnbewegung befriedigt abschliessen konnten.<lb/>
+Diesmal hat sich eine ganz besondere Schwierigkeit, eben aus der poli<lb break="no"/>tischen Konstellation ergeben.</p><p xml:space="preserve">Min.Rat <name type="person" ref="per:112011">Kurzel</name> und Hofrat <name type="person" ref="per:140106">Lechner</name> vom Milchwirtschaftsfonds fragten<lb/>
+bei,mir an, wie sie jetzt die <choice><choice><sic>zukünstige</sic><corr>zukünftige?</corr></choice></choice> Verbraucherpreisgestaltung<lb/>
+errechnen sollten, wenn die einzelnen Unterlagenelemente insbesondere<lb/>
+die Löhne noch nicht feststehen. Ausserdem depo-ierte <name type="person" ref="per:140106">Lechner</name>,<lb/>
+dass es für ihn unmöglich- ist, den Erzeugerpreis mit 1. April<lb/>
+festzusetzen und gleichzeitig auch die Verbraucherpreise. Die Rechen<lb break="no"/>operationen dauern einige Tage und er ist ausserstande, diese jetzt<lb/>
+noch vor dme 1. April drchzuführen. Ich erklärte <name type="person" ref="per:112011">Kurzel</name> dezidiert,<lb/>
+dass man auf Grund der seinerzeitigen proximativen Berechnungen<lb/>
+des Milchwirtschaftsbüros, d.h. die inoffiziellen Ziffern als<lb/>
+Grunlage nehmen sollte un den Verbraucherpreis für die Milch<lb/>
+von 5.20 auf 6.- und 4.- S Zuschlag bei Butter und Käse – Emmentaler –<lb/>
+berechnen sollte. Die anderen Preise könnte man dann im weiteren<lb/>
+VErlauf der Anpassung ab Montag durchführen. Da der Erzeugerpreis<lb/>
+auf alle Fälle mit 1. April festgesetzt wude, die Regierung ist<lb/>
+sich darübereinig und wünscht diesen Termin, muss auhc jetzt<lb/>
+<pb n="20-0368" facs="20_1974-03-26_0368.jpg"/>zumindestens ein Teil der Verbraucherpreise versucht werden zu<lb/>
+fixieren. Für mich ist ganz klar, was die Bauernvertreter, Bauern<lb break="no"/>bund insbesondere, wünscht, ist eine chaotische Regelung ab 1.4.<lb/>
+Man wird dann dezidiert erklären, das Handelsministerium war nicht<lb/>
+fähig, die notwendigen Berechnungen und insbesondere den Preiserlass<lb/>
+zeitgerecht zu verfügen. Eine wirklich teuflische Situation für mich.</p><p xml:space="preserve">Die Vorbesprechung mit Dr. <name type="person" ref="per:97474">Gleissner</name> und dem Handelsdelegierten<lb/>
+in Berlin ......... ergaben, dass dieser nicht dezidiert eine Änderung<lb/>
+der Liefermöglichkeiten von Österreich in die DDR auf dme Konsumgüter<lb break="no"/>sektor verlangt hat. Richtig ist, dass die Bundeskammer und natür<lb break="no"/>lich auch das Handelsministerium nicht gerade glücklich darüber<lb/>
+sind, dass die DDR ganz bestimmte Exporteure und Importeure nur für<lb/>
+ihre Warenlieferungen heranzieht. Da wir aber froh sein müssen, wenn<lb/>
+wir Schuhe z.B. in die DDR exportieren können, gibt es keine anderen<lb/>
+Chancen als eben die Firma Dr. <name type="person" ref="per:131578">Krause</name> einzuschalten, eine Tarnfirma<lb/>
+der DDR, die auch dann entsprechende finanzielle Abwicklungen hier<lb/>
+in Österreich aus dem Profit, den sie zieht, durchführt. Wie weit<lb/>
+die kommunistische Partei tatsächlich unterstützt wird, entzieht<lb/>
+sich unserer Kenntnis. ICh glaube aber gar nicht entscheiden, die<lb/>
+Schuhindustrie würde sich schwer dagegen aussprechen, wenn durch<lb/>
+entsprechende Einschaltung z.B. von der Fa. Pisec die Exporte gefähr<lb break="no"/>det wären. Der Handelsdelegierte <name type="person" ref="per:140378">Kastez</name> allerdings eklärte dezidiert,<lb/>
+dass er niemals die Firma Pisec gegenüber dem Staatssekretär <name type="person" ref="per:97343">Beil</name> oder<lb/>
+auch andere DDR-Stellen erwähnt hätte. <name type="person" ref="per:110995">Pisec</name> soll nur seinerzeit im<lb/>
+DDR-Handel eingeschaltet gewesen sein und es nicht überwunden haben,<lb/>
+dass eben jetzt aus dem Geschäft er hinausgeflogen ist.Von <name type="person" ref="per:110995">Pisec</name><lb/>
+wurd behautpet, dass er gerade bei meinem Amtsvorgänger sehr gut ins<lb/>
+Geschäft gekommen ist und deshalb jetzt sich natürlich vernachlässigt<lb/>
+fühlt, weil ich keinerlei Interesse daran habe, eine gewisse Firma in<lb/>
+der DDR zu forcieren oder auch in einem aNDEREN Oststaat zu forcieren.<lb/>
+Für mich ist ausschliesslich entscheidend, dass es zur Abwicklung der<lb/>
+Geschäfte kommt, wer dabei verdient, interessiert mich nicht.</p><p xml:space="preserve">Die Besprechung mit <name type="person" ref="per:97474">Gleissner</name> hat auch ergeben, dass die Handels<lb break="no"/>kammer zwar wünscht, dass in Hinkunft in den Verträge keine womög<lb break="no"/>liche Kontingenteinteilung der einzelnen Warengruppen erhalten<lb/>
+bleibt, damit sie die Chance hat, merh Konsumgüter z.B. zu liefern.<lb/>
+Wenn die DDR-Seite auf diesen Vorschlag nicht eingeht, dann würden wir<lb/>
+uns mit <choice><choice><sic>Indikativ-Liten</sic><corr>Indikativ-Listen?</corr></choice></choice> wie im sowjetischen Vertrag begnügen.</p><pb n="20-0369" facs="20_1974-03-26_0369.jpg"/><p xml:space="preserve"><name type="person" ref="per:97474">Gleissner</name> war mit dieser Lösung nicht sehr einverstanden,<lb/>
+hat allerdings auch keinen besseren Ausweg gewusst. Die ganze<lb/>
+Frage kam aber bei der ersten Aussprache mit <name type="person" ref="per:97343">Beil</name> gar nicht zum<lb/>
+Tragen. <name type="person" ref="per:97343">Beil</name> selbst hat sich insbesondere darauf berufen, dass eben<lb/>
+der Vertrag von mir in Berlin unterzeichnet wurde, der DDR-Österreich<lb/>
+Handel auch nach deutscher und österreichischer Statistik sich sehr<lb/>
+gut entwickelt hat. <name type="person" ref="per:97343">Beil</name> hatte insbesondere darauf hingewiesen, dass<lb/>
+jetzt von der DDR mehrerere Kooperationsabkommen nicht nur mit der<lb/>
+VÖEST sondern auch mit Andritz und Voith sehr konkret besprochen<lb/>
+und abgeschlossen wurden. <name type="person" ref="per:97343">Beil</name> kennt unser SYstem sehr genau<lb/>
+weil er gleich einleitend bemerkte, er wird jetzt seine Konzeption<lb/>
+und seine Vertragspolitik darlegen und ganz besonders auf die<lb/>
+einzelnen ERgebnisse eingehen, weil, wie er sich vornehm ausdrückt,<lb/>
+anzunehmne ist, nach unserem System die Informationen beim<lb/>
+Handelsministerium nicht so gut sind wie eben der DDR zur Verfügung<lb/>
+stehen. <name type="person" ref="per:97343">Beil</name> erwähnte, dass jetzt mit 200 Mill. S und fest abge<lb break="no"/>schlossene Drittlandgeschäft für Mauretanien und die neuen Ver<lb break="no"/>suche für Guinea und andere afrikanische Staaten. <name type="person" ref="per:97343">Beil</name> meinte auch,<lb/>
+dass jetzt die DDR die etnsprechenden Initiativen und Geschäfts<lb break="no"/>vorschläge der VÖEST wird unterbreiten, sodass nicht nur allein<lb/>
+die VÖEST mit der DDR-Firma sondern jetzt auch die DDR-Firma mit<lb/>
+der VÖEST entsprechende Drittländermärkte gemeinsam bearbeiten<lb/>
+können. In dem zukünftigen 5-Jahresplan wird die DDR die Steigerung<lb/>
+des österr. Exportes mit 25 – 30 % einstellen. Die im Vertrag fest<lb break="no"/>gelegten 7 – 10 % Steigerungen sinddamit längst überholt und ich ha<lb/>
+wieder einmal recht gehabt, als ich seinerzeit mit der Handels<lb break="no"/>kammer darüber freundschaftlich gestritten habe, dsss wenn der<lb/>
+Vertrag funktioniert, zu wesentlichen besseren Steigerungsraten<lb/>
+es kommen wird als die von der DDR dann zugesicherten 7 – 10 %.<lb/>
+<name type="person" ref="per:97343">Beil</name> selbst hat mir auch dann beim Abendessen resp. unter vier<lb/>
+Augen nachher erklrt, er wird jetzt in den nächsten zwei Tagen<lb/>
+versuchen, in Österreich alle Möglichkeiten auszukundschaften,<lb/>
+um dann mit mir in de Abschlussbesprechung festzulegen, wie jetzt<lb/>
+weiter vorgegangen wird. Die DDR möchtehier beweisen, dass<lb/>
+wenn man mit ihr einen Vertrag abschliesst, sie dann alles daran<lb break="no"/>setzt, dass dieser Vertrag nicht nur ein STück Papier ist. In<lb/>
+Wirklichkeit glaube ich, hat die DDR richtig erkannt, dass<lb/>
+allein schon aus der gleichen Sprache eine grosse Export- und Import<lb break="no"/>chance mit Österreich besteht. Wahrscheinlich nimmt sie an, dass<lb/>
+ausser der BRD für die österreichische Wirtschaft eine stärkere<lb/>
+Verflechtung leichter zu erzielen ist als z.B. mit Frankreich<lb/>
+<pb n="20-0370" facs="20_1974-03-26_0370.jpg"/>oder ein anderes Land insbesondere nicht Englisch sprechender Staat.<lb/>
+Die österr. Unternehmer haben einmal die Mentalität, dass sie sich<lb/>
+dem Export und Import aus der BRD deshalb und auch aus der Schweiz<lb/>
+so leicht machen können, weil sie dort mit keinerlei Sprachsschwierig<lb break="no"/>keiten rechnen müssen. Maximal sind die österr. Unternehmer noch be<lb break="no"/>reit den englischen Sprachgebrauch zu erlernen und in Englisch<lb/>
+gegegenenfalls Geschäfte abzuwickeln. Der neue Gen.Direktor im<lb/>
+DDR-Ministerium <name type="person" ref="per:140811">Schönherr</name>, der biem Essen neben mir sass, hat mir<lb/>
+bestätigt, dass auch die DDR wünscht, dass ausser der starken Ver<lb break="no"/>flechtung der DDR mit der BRD, Österreich hier auch als deutschspra<lb break="no"/>chiger Staat mehr eingeschatltet werden könnte und sollte. Insbesondere<lb/>
+glaube ich liegt der DDR daran, als der von 76 Staaten in der<lb/>
+letzten Zeit sehr schnell überall anerkannte neue Staat zu beweisen,<lb/>
+dass er einen starken wirtschaftlichen Aufschwung und ganz besonders<lb/>
+eine starke Aussenhandelsverflechtung anstrebt. <name type="person" ref="per:97343">Beil</name> hat aller<lb break="no"/>dings zu erkennnen gegeben und dies auch bei der Tischrede bestätigt,<lb/>
+dass die Verflechtung mit nicht ganz einem Prozent der Aussen<lb break="no"/>handelsvolumen noch als sehr gering zu bezeichnen sei. Hier wird<lb/>
+und davon bin ich überzeugt, die nächsten Jahr ein besseres Ergebnis<lb/>
+bringen.</p><p xml:space="preserve">Typisch war nur, dass bei der Besprechung, die <name type="person" ref="per:97343">Beil</name> in kleinem Kreise<lb/>
+haben wollte, ich <name type="person" ref="per:108322">Meisl</name> ersucht habe, wir sollten klären, dass nicht<lb/>
+von irgendwelchen Abteilungen Doppelbesetzungen erfolgen. Zur Be<lb break="no"/>sprechung ist dann tatsäöchlich <name type="person" ref="per:107939">Römer</name> und auch <name type="person" ref="per:98109">Zembsch</name> erschienen.<lb/>
+ICh erklärte rundweg, nachdem die andere SEite einen kleineren Kreis<lb/>
+nur wünscht, nur ein Herr teilnehmen könne. Darauf hat <name type="person" ref="per:107939">Römer</name> scheinbar<lb/>
+dann entschieden, dass er kommt, worauf er allerdings feststellen<lb/>
+musste und ich habe dies nachher ganz deutlich gesagt, dass wir<lb/>
+über Detail wenigerinformiert sind als die DDR-Vertreter. <name type="person" ref="per:140378">Kastiz</name><lb/>
+meinte, er hätte, soweit ihm die Unterlagen zur Verfügung stehen,<lb/>
+immer nach Wien her berichtet. Wie weit <name type="person" ref="per:98109">Zembsch</name> davon informiert<lb/>
+war, konnteich nicht feststellen. Ich habe auf alle Fälle darauf hing<lb/>
+gewisen, dass ich in Hinkunft bessere Detailinformationen wünsche.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: Die Koordination in unserem Haus stimmt hinten<lb/>
+und vorne nicht und ausserdem habe ich das Ge<lb break="no"/>fühl, dass wir wirklich einen Bruchteil dessen<lb/>
+wisssen wie unsere Verhandlungspartner.</p><pb n="20-0371" facs="20_1974-03-26_0371.jpg"/><p xml:space="preserve"><name type="person" ref="per:97343">Beil</name> hat auch erwähnt, dass er mit Chemie-Linz nicht nur ein Koopera<lb break="no"/>tionsabkommen sondern auch eine Produktionsabsprache anstrebt. Diese<lb/>
+Konzpetion würde ganz neue Perspektiven auch für Gen.Dir. <name type="person" ref="per:112054">Buchner</name><lb/>
+eröffnen. Ich bin überzeugt davon, dass bei uns im Haus kein Mensch<lb/>
+über diese Problematik Auskunft geben kann oder geschweige denn<lb/>
+konkrete Ziffern vorlegen könnte.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98072">WIESINGER</name>: Bitte mich soofrt mit GD <name type="person" ref="per:112054">Buchner</name> ver<lb break="no"/>binden.</p><p xml:space="preserve"/></div>
+      </body>
+      <back>
+         <pb n="20_0364_01" facs="20_1974-03-26_0364-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 26.3.1974</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="20_0371_01" facs="20_1974-03-26_0371-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesordnung 111. Ministerratssitzung, 26.3.1974</head>
+            <gap reason="sampling"/>
+            <pb n="20_0371_02" facs="20_1974-03-26_0371-02.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="20_0371_03" facs="20_1974-03-26_0371-03.jpg"/>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="20_0371_04" facs="20_1974-03-26_0371-04.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>hs. Notizen (TO Ministerratssitzung Rückseite)</head>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+   </text>
+</TEI>

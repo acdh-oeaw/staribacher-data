@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der  4. Oktober 1974</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band22_1974-10-04</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1974-10-04">Freitag, 4. Oktober 1974</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2017-01-18">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band22/">
+      <body>
+         <pb n="22-1187" facs="22_1974-10-04_1187.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Freitag, den 4. Oktober 1974</p><p xml:space="preserve">In der Arbeiterkammerfraktion, die wieder einmal nicht beschluß<lb break="no"/>fähig war, die Nichtabstimmungsberechtigten überwogen, entspannte<lb/>
+sich selbstverständlich eine Diskussion über die Wahlen. <name type="person" ref="per:97570">Hrdlitschka</name><lb/>
+sieht den Hauptgrund, daß es nicht möglich war, ein Teamwork <choice><choice><sic>abzu<lb break="no"/>bauen,</sic><corr>aufzubauen?</corr></choice></choice> er hat angeblich seit Monaten darauf gedrängt, eine Koordi<lb break="no"/>nierung zwischen den Fachgewerkschaften, dem Gewerkschaftsbund<lb/>
+und der Arbeiterkammer herbeizuführen. Der ÖGB stand aber auf dem<lb/>
+Standpunkt, daß es einen bewährten Apparat gibt und der nur akti<lb break="no"/>viert werden müßte, sowie in der Arbeitsteilung Arbeiterkammer<lb/>
+liefert das Material, Gewerkschaftsbund ist die kämpferische Organi<lb break="no"/>sation, für das ganze Jahr sollte auch an der Trennung ÖGB-Fraktion<lb/>
+für den Wahlkampf, Arbeiterkammer hat nur die Unterlagen zu liefern,<lb/>
+nicht geändert werden. Im Prinzip ist dies sicherlich richtig, die<lb/>
+Hauptaufgabe besteht aber eben darin, durch das Material liefern<lb/>
+einen entsprechenden Einfluß während der ganzen Legislaturperiode<lb/>
+auf den ÖGB und seine Entscheidungen zu haben als auch natürlich<lb/>
+ganz besonders während des Wahlkampfes. Man muß, wenn man an dieser<lb/>
+Politik festhält, dann zumindestens hergehen, während der ganzen<lb/>
+Legislaturperiode die Kontakte zu den einzelnen Fachgewerkschaften<lb/>
+halten und vor allem aber die von den Gewerkschaften geschickten<lb/>
+Leute entsprechend aktiv einsetzen, wenn dies nicht der Fall ist,<lb/>
+muß es dazu kommen, daß dann der Arbeiterkammer-Wahlkampf eigentlich<lb/>
+an Oberfläche geführt wird, unsere Leute nicht mobilisiert und wo<lb/>
+gute Persönlichkeiten auf der anderen Seite sind, wie eben z.B.<lb/>
+in Vorarlberg dann diese gewählt werden, weil sie eben viel mehr<lb/>
+in Erscheinung getreten sind als unsere Fraktionsangehörigen. Der<lb/>
+Umständlichkeit von <name type="person" ref="per:97570">Hrdlitschka</name> seines mangelnden Kontaktes<lb/>
+verblüht diese Politik. Wahrscheinlich hätte sie aber der Gewerk<lb break="no"/>schaftsbund auch gar nicht gewollt.</p><p xml:space="preserve">Ich berichtete über die Zuckersituation und <name type="person" ref="per:97570">Hrdlitschka</name> erklärte<lb/>
+sofort, dann könnten sie endlich die vorbereitete Aussendung machen.<lb/>
+Scheinbar haben sie entsprechende Angriffe auf die Zuckerindustrie<lb/>
+bereits fertig, ich warnte nur, daß sie vor der effektiven Ver<lb break="no"/>knappung,<add>[die]</add> vielleicht ja doch nicht eintritt oder zumindestens für<lb/>
+den Konsumenten nicht sehr stark in Erscheinung tritt, irgendwelche<lb/>
+<pb n="22-1188" facs="22_1974-10-04_1188.jpg"/>Pressepolemiken starten, wenn dadurch nur die Bevölkerung neuerdings<lb/>
+beunruhigt wird und zu weiteren Hamsterkäufen angeregt wird.<lb/>
+<name type="person" ref="per:97570">Hrdlitschka</name> sagte zu, zuzuwarten. Ich informierte den Vorstand auch<lb/>
+über die Düngerpreiserhöhung von Chemie Linz, wobei <name type="person" ref="per:98112">Zöllner</name> ins<lb break="no"/>besondere bekrittelte, daß diese Erhöhung am Montag erfolgt und<lb/>
+am Mittwoch erst die Paritätische Kommission sich mit dem Problem<lb/>
+beschäftigen wird, die Arbeiterkammer befürchtet, daß nun auch<lb/>
+die Handelskammer immer wieder wird auf den verstaatlichten Betrieb<lb/>
+hinweisen, der sich eben nicht an die Spielregeln der Paritätischen<lb/>
+Kommission hält. Hier hätte dem <name type="person" ref="per:97570">Hrdlitschka</name> seinen Einfluß über<lb/>
+die Chemiearbeitergewerkschaft oder als Arbeiterkammerpräsident<lb/>
+bei Chemie Linz geltend machen sollen. <name type="person" ref="per:98112">Zöllner</name> war von mir zeit<lb break="no"/>gerecht informiert worden.</p><p xml:space="preserve">Das Düngerproblem hatte ich auf spät abends mit dem Gen.Dir. <name type="person" ref="per:97686">Lanner</name><lb/>
+beim Porsche-Empfang besprochen. <name type="person" ref="per:97686">Lanner</name> selbst erklärte mir, er<lb/>
+hätte eine andere Information über den Ablauf respektive über<lb/>
+die Problematik. Erstens wußte er nicht, daß ich tatsächlich auf<lb/>
+Grund des Preisrechtes keine Düngerpreise festsetzen konnte, weil<lb/>
+Dünger nicht bewirtschaftet ist, zweitens war ihm anders berichtet<lb/>
+worden, daß sie tatsächlich 50 Mio. S für die Landwirtschaft auf<lb/>
+alle Fälle verloren gehen, wenn nicht mit mir ein Kompromiß ge<lb break="no"/>sucht wird. <name type="person" ref="per:97686">Lanner</name> ersuchte, er möchte mit seinen Herren noch<lb/>
+einmal reden und wird mir Montag Bescheid geben.</p><p xml:space="preserve"><name type="person" ref="per:97686">Lanner</name> wollte selbstverständlich auch, und zwar, wie er sich aus<lb break="no"/>drückte, nur vertraulich unter Freunden, er sagt immer und es dürfte<lb/>
+stimmen, er ist mir sehr zugeneigt, die Entwicklung auf dem Markt<lb break="no"/>ordnungssektor mit mir zu besprechen, dabei konnte ich feststellen,<lb/>
+daß in Wirklichkeit ihm und wahrscheinlich auch der gesamten<lb/>
+Landwirtschaft das Milchproblem am meisten drückt. Als 1968, als<lb/>
+sie befürchteten, daß die Sozialisten die Marktordnungsgesetze<lb/>
+nicht zu verlängern, im Landwirtschaftsministerium Besprechungen<lb/>
+stattfanden, war er als einer der Reformer auch an diesen Be<lb break="no"/>sprechungen beteiligt, er muß jetzt zugeben, daß damals zur Er<lb break="no"/>kenntnis gekommen ist, daß auf dem Milchsektor eine größere Reform<lb/>
+<pb n="22-1188" facs="22_1974-10-04_1188-01-D.jpg"/>unmöglich ist, dort müßte das Marktordnungssystem unbedingt aufrecht<lb/>
+erhalten bleiben. Im Viehverkehrsfonds dagegen können sie – wie ich<lb/>
+vermutete – keinesfalls zustimmen, dass dort auch die Exporte genehmigt<lb/>
+werden. Wenn es daher auf diesem Sektor zu keiner Einigung kommt, würden<lb/>
+sie wahrscheinlich eher den Viehverkehrsfonds auslaufen lassen. Bei Ge<lb break="no"/>treide ist die Situation jetzt für die Landwirtschaft durch die hohen<lb/>
+Weltmarktpreise wesentlich günstiger als vor einigen Jahren. Die<lb/>
+Landwirtschaft, das konnte ich aus diesem Gespräch neuerdings ent<lb break="no"/>nehmen, ist natürlich an der Aufrechterhaltung des Marktordnungssystem<lb/>
+sehr interessiert. Ich verstehe daher eigentlich die Reformer innerhalb<lb/>
+unserer Partei müsste die <name type="person" ref="per:98055">Weihs</name> nicht mehr drängen, dass jetzt end<lb break="no"/>gültig Verhandlungen beginnen. Je später der Zeitpunkt wird, wo man<lb/>
+mit der ÖVP dann über diese Verhandlungen zu einem Ergebnis oder eventuell<lb/>
+zu keinem Ergebnis kommt, umso weniger können dann Alternativ schnell<lb/>
+beschlossen werden. Die Zeit arbeitet glaube ich hier für die andere<lb/>
+Seite.</p><p xml:space="preserve">Bürgermeister <name type="person" ref="per:112941">Dreyer</name> aus Weissenbach, Tirol, ist mit Wifi-Vertreter<lb/>
+<name type="person" ref="per:149202">Roscher</name> aus Innsbruck erschienen, der in Weissenbach jetzt entsprechende<lb/>
+Untersuchungen an Fremdenverkehrsbetrieben durchführt, um entsprechende<lb/>
+Reorganisationsvorschläge gemeinsam mit den Betrieben zu erarbeiten.<lb/>
+Der Besitzer vom Hotel Bären war ebenfalls mitgekommen, da er jetzt<lb/>
+eine finanzielle Stützung des Betriebes dringend notwendig ist.<lb/>
+Ihm fehlen zur Sanierung noch 1,2 Mill. S. <name type="person" ref="per:111367">Würzl</name> hat erklärt, er<lb/>
+wird sich den Betrieb genau ansehen, ich habe <name type="person" ref="per:111367">Würzl</name> dann unter vier<lb/>
+Augen zu erkennen gegeben, dass wir uns an solchen Einzelprojekten<lb/>
+nicht allzu sehr beteiligen dürfen. Wir haben dafür weder die finan<lb break="no"/>ziellen Mittel noch wäre die Auslese, wer zuerst kommt, mahlt zuerst<lb/>
+unrichtig. <name type="person" ref="per:111367">Würzl</name> hat auch mitgeteilt, dass eine Überprüfung der Hotel<lb break="no"/>treuhand mit einem Finanzierungskonzept vorliegen muss. Ich hatte<lb/>
+dann ebenfalls darauf gedrängt, dass diese Überprüfung der Hoteltreuhand<lb/>
+nur dann den Betrieb angerechnet werden darf, wenn eine erfolgreiche<lb/>
+Finanzierung und Sanierung gesichert ist und durchgeführt wird.<lb/>
+Wenn aus dieser Überprüfung ein negatives Urteil herauskommt, dann darf<lb/>
+man nicht den Betrieb womöglich noch mit Prüfungskosten belasten.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97377">BUKOWSKI</name>: Bitte lass Dir von <name type="person" ref="per:111367">Würzl</name> jeden einzelnen Fall<lb/>
+dann schildern und besonders auf die Einhaltung dieser Vereinbarung<lb/>
+drängen.</p><pb n="22-1189" facs="22_1974-10-04_1189.jpg"/><p xml:space="preserve">Bgm. <name type="person" ref="per:112941">Dreyer</name> möchte auch, dass in Hinkunft stärker Inländer<lb/>
+in das Lechtal kommen. Ich hatte ihm deshalb auf seinen Wunsch<lb/>
+sofort mit Gen.Dir. <name type="person" ref="per:134288">Millwisch</name>, Verkehrsbüro zusammengebracht.<lb/>
+Ich glaube auch <name type="person" ref="per:112941">Dreyer</name> und ganz besonders auch seine Begleitung<lb/>
+war verwundert, wie schnell wir auf seine Wünsche reagierten<lb/>
+und wie gut er in Wien behandelt wurde. Der Vertreter vom Wifi,<lb/>
+sicherlich kein Genosse von uns, meinte auch, er sei der zukünftige<lb/>
+Landtagsabgeordnete dieser Gegend.</p><p xml:space="preserve">Min.Rat <name type="person" ref="per:112190">Mock</name> und <name type="person" ref="per:112191">Mayer</name> von der OB beschwerten sich, dass jetzt<lb/>
+der prov. Berghauptmann von Wien, <name type="person" ref="per:140912">Habelsberger</name>, der sonst in Graz<lb/>
+sitzt, entgegen einer Weisung, die von der OB ausgearbeitet wurde,<lb/>
+die Sonden der ÖMV in NÖ jetzt untersuchen und genehmigen<lb/>
+möchte. Durch dieses förmliche Verfahren könnten ungeheure Schwie<lb break="no"/>rigkeiten entstehen, die bis zu Versorgungsschwierigkeiten reichen<lb/>
+könnten. Ich habe deshalb <name type="person" ref="per:97467">Gasser</name> sofort angerufen und gebeten,<lb/>
+er soll die Angelegenheit neuerdings überprüfen und letzten<lb/>
+Endes dafür sorgen, dass die entsprechende Koordination inner<lb break="no"/>halb der Bergbehörde erfolgt. <name type="person" ref="per:97467">Gasser</name> hat dann nach einigen<lb/>
+Stunden zurückgerufen, um eine Aussprache mit <name type="person" ref="per:140912">Habelsberger</name> er<lb break="no"/>sucht. Scheinbar war es ihm nicht möglich, dem stürmischen und sehr<lb/>
+energischen Berghauptmann zu erklären, dass er eben jetzt nach<lb/>
+den Weisungen der OB handeln sollte. Ich war zu dieser Aussprache<lb/>
+bereit, aber verlangte gleichzeitig, dass auch <name type="person" ref="per:112190">Mock</name> und <name type="person" ref="per:112191">Mayer</name><lb/>
+zugezogen werden. Ich hätte nicht erwartet, dass ich einen <name type="person" ref="per:112190">Mock</name><lb/>
+erlebe, der sich ganz energisch gegen <name type="person" ref="per:140912">Habelsberger</name> zur Wehr<lb/>
+setzte. <name type="person" ref="per:112190">Mock</name> befürchtet, und ich glaube dies zu recht, dass<lb/>
+die jahrzehntealte Verschlampung der Sondenregelung in NÖ eine<lb/>
+Gefährdung seines Gesetzentwurfes über das neue Berggesetz<lb/>
+herbeiführen könnte. <name type="person" ref="per:140912">Habelsberger</name> wieder sagt, er sei nach<lb/>
+Wien berufen worden, um hier Ordnung zu schaffen, diese Zusicherung<lb/>
+hätte ihn überhaupt nur veranlasst, seinen Dienstposten von Graz<lb/>
+nach Wien zu verlegen. Ansonsten sagte er klar und deutlich, hätte<lb/>
+ihn niemand dazu zwingen können, da er lt. Beamtengesetz jederzeit<lb/>
+eine Versetzung ablehnen kann. Wenn er jetzt mit seinen Ideen<lb/>
+nicht durchdringt, dann wird er den Wiener Berghauptmann-Sessel<lb/>
+wieder verlassen und nach Graz zurückkehren. Die Zustände, die<lb/>
+er in Wien vorgefunden hat, hätte in einem Bericht an die OB<lb/>
+umfassend den Zeitraum 8.7. bis 30.8. abgegeben. <name type="person" ref="per:97467">Gasser</name> war<lb/>
+<pb n="22-1190" facs="22_1974-10-04_1190.jpg"/>furchtbar verlegen, konnte sich also überhaupt nicht zu einer<lb/>
+Meinung druchringen, weshalb ich letzten Endes von <name type="person" ref="per:140912">Habelsberger</name><lb/>
+eine Kurzinformation verlangte. Bezüglich der Sondenregelung,<lb/>
+dass nämlich die ÖMV anders behandelt wird als die RAG, dies<lb/>
+allerdings bereits seit Jahrzehnten, habe ich <name type="person" ref="per:112190">Mock</name> und <name type="person" ref="per:112191">Mayer</name><lb/>
+rechtgegeben. Da weder Gefahr im Verzug ist, ja selbst nicht<lb/>
+einmal Eigentum gefährdet erscheint, sehe ich keinen Grund, jetzt<lb/>
+das ganze Problem aufzurühren. Ich anerkannte die redlichen und<lb/>
+loyalen Absichten des <name type="person" ref="per:140912">Habelsberger</name>, doch habe ich erklärt,<lb/>
+<choice><choice><sic>es</sic><corr>dass?</corr></choice></choice> es jetzt nicht notwendig ist, im Laufe der letzten Monaten<lb/>
+mit dem alten Berggesetz eine verschlampte Angelegenheit<lb/>
+in Ordnung zu bringen, wenn dadurch das Zustandekommen und recht<lb break="no"/>liche Lösung des neuen Berggesetzes gefährdet erscheint. Wenn<lb/>
+<name type="person" ref="per:97467">Gasser</name> als Leiter der OB noch einige solche Kollisionen mit<lb/>
+seinen Mitarbeitern erlebt, bin ich überzeugt davon, wird er<lb/>
+sehr bald aus dieser Funktion ausscheiden wollen.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97377">BUKOWSKI</name>: Bitte kümmere Dich und sprich mit <name type="person" ref="per:97543">Heindl</name><lb/>
+über die Vergangenheit in der OB sowie über die Konsequenzen, die<lb/>
+daraus zu ziehen wären.</p></div>
+      </body>
+      <back>
+         <pb n="22_1186_01" facs="22_1974-10-04_1186-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 4.10.1974</head>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+   </text>
+</TEI>

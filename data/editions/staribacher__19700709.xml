@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Donnerstag, der  9. Juli 1970</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band02_1970-07-09</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1970-07-09">Donnerstag, 9. Juli 1970</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-03-30">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-19" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-19" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+  <text xml:base="http://192.168.0.9/staribacher/src/scans/Band02/">
+      <body>
+         <pb n="02-0344" facs="02_1970-07-09_0344.jpg"/>
+         <div type="entry">
+            <dateline>
+               <date when="1970-07-09">Donnerstag, 9. Juli 1970</date>
+            </dateline>
+            <p xml:space="preserve">Im Nationalrat kam Präs. <name type="person">Graf</name>, ein ÖVP-Abgeordneter, und ersuchte<lb/>
+mich für das nächste Jahr ein grösseres Kontingent für ihn an<lb/>
+Kommerzialrattiteln bereitzustellen, Burgenland hat dann die 50-Jahr<lb/>
+Feier und er möchte bei dieser Gelegenheit – wie er sich ausdrückte –<lb/>
+natürlich auch proporzmässig verteilt, doch seine Leute mehr auszeich<lb break="no"/>nen. Ich musste ihn insofern enttäuschen, als ich ihm mitteilte, dass<lb/>
+ich die Kommerzialratkontingente der Bundeskammer übertragen hatte,<lb/>
+aber mich selbstverständlich einsetzen würde, dass alle seine Vor<lb break="no"/>schläge dann tatsächlich durchgeführt werden. Ich versicherte ihm,<lb/>
+dass ich sowohl mit <name type="person" ref="per:97893">Sallinger</name> als auch mit <name type="person">Konstroun</name> diesbezüglich<lb/>
+sprechen würde. Bei der Gelegenheit ersuchte ich ihn, doch mir eine<lb/>
+Möglichkeit zu geben, im Rahmen der burgenländischen Handelskammer<lb/>
+tätig zu werden. Er erwiderte, dass ja auch vergangene Woche <name type="person" ref="per:97311">Androsch</name><lb/>
+bei ihm im Handelskammergebäude begrüsst hatte. Ich sagte allerdings,<lb/>
+dass ich mir nicht vorstelle, dass ich mit der Fraktion des Freien<lb/>
+Wirtschaftsverbandes allein einen Vortrag oder Besprechungen halten<lb/>
+würde, sondern ich möchte, das mit seinem gesamten Vorstand oder<lb/>
+in seiner gesamten Vollversammlung tun..Ich möchte doch den Herren und<lb/>
+Damen meine Politik versuchen zu erörtern und mich ihrer Kritik stel<lb break="no"/>len. Er erkannte natürlich sofort meine Absicht und erklärte, dass ich<lb/>
+dies ja sehr geschickt einfädle, aber als gefährlichster Mann doch<lb/>
+nicht damit rechnen könnte, dass sie damit sehr einverstanden wären.<lb/>
+Allerdings sagte er mir nicht endgültig ab, sondern sagte, er würde<lb/>
+sich dies noch überlegen, da er mich besonders gut leiden könnte.<lb/>
+Ich kann aus diesen Äusserungen feststellen, dass die ÖVP insbesondere<lb/>
+die Handelskammerleute zwar sehr wohlwollend mir gegenüber auftreten,<lb/>
+mich aber natürlich nach wie vor entsprechend abmauern. Umso mehr<lb/>
+bemühen wir uns, die Devise "Service für die Wirtschaft" in Einzel<lb break="no"/>fällen immer wieder zum Durchbruch zu verhelfen. So war es möglich,<lb/>
+dass Gen.Dir. <name type="person" ref="per:97854">Rabus</name> von Steyr-Daimler-Puch AG, der mit Direktor<lb/>
+Dr. <name type="person">Tied</name> gekommen ist, sofort meine Unterstützung zugesagt erhielt.<lb/>
+Die Steyr-Daimler-Puch AG will in Griechenland ein <choice><choice><sic>joint-adventure</sic><corr>Joint Venture</corr></choice></choice><lb/>
+mit italienischen Firmen gemeinsam aufrichten. Die CONTI, VENTURI<lb/>
+CARRACOSTAS-Gruppe will eine LKW-Traktoren-Werkmaschinen- u. Moten<lb break="no"/>produktion aufbauen. Für die Anlaufphase dieser Gesellschaft ist<lb/>
+<pb n="02-0345" facs="02_1970-07-09_0345.jpg"/>Kapitalbedarf von ca. 3 1/2 Mill. $ veranschlagt. 500.000 $ hat<lb/>
+Steyr-Daimler-Puch bereits angezahlt. In den ersten Jahren wird<lb/>
+ein Kreditrahmen von ca. 15 Mio $ erforderlich sein, die ausschliess<lb break="no"/>lich zur Lieferung von Traktoren von Österreich in die griechische<lb/>
+Gesellschaft beinhalten. Dadurch würde die Steyr-Produktion auf ein<lb/>
+internationales Niveau bezüglich der Menge zu erzeugender Traktoren<lb/>
+in Österreich angehoben werden. Die Steyr würde bei Anfang der<lb/>
+Lieferung pro Jahr ca. 6 Mio $ Erzeugnisse nach Griechenland liefern<lb/>
+können.Ich konnte sofort bei den ersten Sätzen feststellen, dass <name type="person" ref="per:97854">Rabus</name><lb/>
+doch nicht sehr sicher ist, ob diese Gruppe, die PKW sollen von Alfa<lb break="no"/>Romeo geliefert werden, entsprechend finanzielle abgesichert ist,<lb/>
+resp. ob das Geld dort nicht irgendeiner nebulosen Firma zur Verfügung<lb/>
+gestellt wird. Ich sagte deshalb, indem ich ihn unterbrach, da würden<lb/>
+wir eben über unsere Organisationen versuchen, eine entsptchende Auskunft<lb/>
+zu bekommen. Ich erklärte, dass er genau dies von mir erbeten hätte<lb/>
+und teilte mir noch mit, dass der Koordinationsminister <name type="person">MAKAREZOS</name><lb/>
+dagegen sei, dagegen sein Stellvertreter <name type="person" ref="per:97463">FTHENAKIS</name> sehr dafür für diese<lb/>
+Gruppe. <name type="person">MAKAREZOS</name> hätte allerdings erklärt, dass dies den Stellver<lb break="no"/>treter seinen Posten kosten wird. Ich wendete dagegen ein, dass jede<lb/>
+Militärregierung bestrebt ist, Traktoren und LKW-Produktionen im<lb/>
+eigenen Lande aufzubauen und wenn dies noch auf ein königliches Dekret<lb/>
+die ganze Prodjektsgruppe beruht, dann zeigt dies nur, dass hier<lb/>
+irgendetwas faul ist. Die Steyr-Werke bestätigten mir, dass angeblich<lb/>
+nur ganz kurzfristig mehr mit einem Arrangement gerechnet werden<lb/>
+kann, weil die Ermächtigung des königlichen Dekretes mit Ende Juli<lb/>
+ablaufen sollte. Mein Hinweis, dass <name type="person">Onassis</name> auch einmal versucht hatte,<lb/>
+eine solche Produktion in Griechenland aufzuziehen und er doch viele<lb/>
+ausländische Verbindungen und kapitalkräftiger ist als die Steyr-Werke<lb/>
+wurde dahingehend beantwortet, dass <name type="person">Onassis</name> den falschen Gruppe Geld<lb/>
+gegeben hätte, d.h. Bestechungsgelder an griechische Interessens<lb break="no"/>gruppen bezahlt hätte, die dann von der anderen Gruppe verraten wurde.<lb/>
+Ich habe <name type="person" ref="per:97632">Kirchschläger</name> unverzüglich danach angerufen und ihn gebeten,<lb/>
+ein diesbezügliches verschlüsseltes Kabel an unsere Botschaft in Athen<lb/>
+zu geben und unverzüg-lichs um einen Bericht zu ersuchen. Er war so<lb/>
+liebenswürdig, dass er gleich, da er Steno sehr gut beherrscht, meine<lb/>
+Wünsche übers Telefon zur Kenntnis genommen hat und ein diesbezügliches<lb/>
+Kabel runtergegeben. Der Botschafter <name type="person" ref="per:97991">Steiner</name> ist allerdings derzeit<lb/>
+<pb n="02-0346" facs="02_1970-07-09_0346.jpg"/>in Wien und er hat erklärt, er wird versuchen, ihn zu erreichen,</p>
+            <p xml:space="preserve">um mich dann mit ihm in Verbindung zu bringen. Wenn dies heute nicht<lb/>
+mehr der Fall ist, werde ich am Freitag abends bei ihm aufkreuzen,<lb/>
+um meine Wünsche dem Botschafter noch persönlich mitteilen zu können.</p>
+            <p xml:space="preserve">Zwei Landesproduktenhändler, nämlich ein gewisser Herr <name type="person">Bruck</name>, den<lb/>
+zweiten Namen hatte ich nicht verstanden, beide waren aber aus NÖ,<lb/>
+hatten den Wunsch geäussert, mit mir zu reden, und <name type="person" ref="per:97543">Heindl</name> hatte<lb/>
+ihnen Gotte sei Dank auch sofort einen Termin freigemacht. Dadurch<lb/>
+entstand bei den beiden der Eindruck, dass es ein grosser Unter<lb break="no"/>schied ist, ob ein Sozialist ein Minister ist oder ein ÖVP-Ler, denn<lb break="no"/>sie sind wie sie zugegeben haben, beide anderer Coleur, aber sie<lb/>
+konnten feststellen, dass es früher für sie fast unmöglich war, mit<lb/>
+dem Minister zu reden und andererseits angeblich jeder Akt monate<lb break="no"/>lang unbeantwortet im Ministerium liegen blieb. Sie waren hauüt<lb break="no"/>sächlich gekommen, um mir mitzuteilen, dass die Vorfracht für LKW<lb/>
+von ihren Aufkaufgebieten zu den Speichern ebenfalls in die Fracht<lb break="no"/>aktion des Getreideausgleichsfonds, d.h. gegen Vergütung aufgenommen<lb/>
+werden sollte. Da ich nicht weiss, ob <name type="person" ref="per:98055">Weihs</name> diese Forderung erfüllen<lb/>
+kann, versuchte ich noch eine Kleinigkeit von ihnen zu erfahren, wo<lb/>
+ich sie unterstützten könnte. Da die derzeitigen Erzeugerpreise für<lb/>
+Gerste 2.20 für Hafer 2.10 und für Mais 2.25 unverbindlich festgelegt<lb/>
+wurden in dem Erlass, aber gleichzeitig damit festgelegt wurde, dass<lb/>
+diese Erzeugerpreise – es sei denn es sei eine riesige Überproduktion<lb/>
+kaum unterschritten werden können, so teilte sie mir mit, dass die<lb/>
+Hauptschwiergikeiten derzeit für ihre Abgabepreise bestehen, weil diese<lb/>
+kaum erzielt wrden könnten. Für Gerste beträgt sie 2.35, für Hafer 2.25<lb/>
+und für Mais 2.40. Die ihnen nun zur Verfügung stehende Spanne von<lb/>
+15 Groschen muss aufgeteilt werden, wie ich ja aus der Preisregelung<lb/>
+ja noch weiss zwischen Aufkäufer und Grosshandel. Ich erklärte nun<lb/>
+den Vertreter, es wäre doch zweckmässig, damit sie noch so sehr unter<lb/>
+einem Druck der Abnehmer kommen, man sollte die Aufkäuferspanne mit<lb/>
+10 Groschen und die Grosshandelsspanne mit 5 Groschen festlegen und<lb/>
+dies würde ich <name type="person" ref="per:98055">Weihs</name> gegenüber mit allem Nachdruck vertreten. Ich konnte<lb/>
+dann tatsächlich <name type="person" ref="per:98055">Weihs</name> zu dieser Besprechung bringen, er hörte sich das<lb/>
+Ganze an und verlangte von ihnen einen schriftlichen Vorschlag, wie<lb/>
+<pb n="02-0347" facs="02_1970-07-09_0347.jpg"/>insbesondere bei der Vorfrachtvergütung jeder Schwindel aus<lb break="no"/>geschaltet wird und sagte ihnen zu, er würde dies entsprechend be<lb break="no"/>arbeiten. Ich hoffe, dass dies zumindestens in de Form geschieht,<lb/>
+dass er den zweiten Vorschlag akzeptiert und bei dem ersten Vorshlag<lb/>
+ihne halt dann einen abschlägigen Bescheid gibt, wenn eine Möglich<lb break="no"/>keit nicht gegeben ist, allerdings ihnen wurde vorher ein diesbezüg<lb break="no"/>liches Ansuchen teilweise erfüllt.</p>
+            <p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:97543">Heindl</name>: Bitte, die ganze Angelegenheit.mit <name type="person" ref="per:97819">Pleschiutschnig</name><lb/>
+besprechen und weiter verfolgen.</p>
+            <p xml:space="preserve"><name type="person" ref="per:97932">Schweda</name>, der vom Städtetag zurückkam und mir mitteilte, dass wenn die<lb/>
+österreichische Bundesregierung ihnen nicht entsprechend mehr Mittel<lb/>
+im nächsten Jahr für die grösseren Gemeinden und die Städte zur Ver<lb break="no"/>fügung stellen kann, dann von Städteorganisationen angegriffen werden<lb/>
+wird, hatte ich darauf hingewiesen, dass ich leider verpflichtet wäre,<lb/>
+die Sparmassnahmen, die <name type="person" ref="per:97311">Androsch</name> eingeleitet hat, auch tatsächlich<lb/>
+durchzuführen. Ich hatte ihn allerdings dann mit <name type="person" ref="per:97311">Androsch</name> zusammen<lb break="no"/>gebracht und er müsste halt versuchen, das nicht nur – wie er sich<lb/>
+ausdrückt – wohlwollende Erklärungen von Seiten <name type="person" ref="per:97668">Kreiskys</name> und<lb/>
+anderer Genossen immer wieder den Städten und den Gemeinden gegenüber aus<lb/>
+gesprochen sondern auch entsprechende mehr finanziellle Mittel zur<lb/>
+Verfügung gestellt. Der Städtebund stellt sich vor, dass die jetzt<lb/>
+vorgesehen 2 Mio, die ich allerdings derzeit gar nicht ausgeben kann,<lb/>
+weil ich in einem finanziellen Engpass andere Verpflichtungen damit<lb/>
+gegebenenfalls damit fianzieren muss, 4 Mio S im nächsten Jahr zu<lb/>
+erhöhen. Die Zinsenzuschüsse, die daraus bezahlt werden sollten, wurden<lb/>
+seinerseits mit 2 1/2 % festgelegt, obwohl <name type="person" ref="per:97749">Mitterer</name> – wie er mir<lb/>
+mitteilt – bereits in-offiziell in den vergangenen Monaten den<lb/>
+Städten und Gemeinden einen 4 1/2%-igen Zinsenzuschuss zugesichert<lb/>
+oder zumindestens in Aussicht gestellt hat. Ich kann immer wieder fest<lb break="no"/>stellen, dass leichtfertigst Zusagen gemacht werden, die dann kaum<lb/>
+zu effektuieren sind oder wenn dies der Fall ist, dann meistens<lb/>
+Konzepte wie z.B. jetzt das Streichungskonzept von <name type="person" ref="per:97311">Androsch</name> dadruch<lb/>
+vollkommen über den Haufen geworfen wird. <name type="person" ref="per:97311">Androsch</name> sagte mir auch,<lb/>
+dass nach seinen bis jetzt vorliegenden Wünschen noch ca. 14 Mia S<lb/>
+ungedeckt wären. Aus der ganze Debatte im Nationalrat war vielleicht<lb/>
+nur eine Detailinformation sehr interessant, es hat <name type="person" ref="per:97647">Koren</name> die Regierung<lb/>
+deshalb stark angegriffen, weil er von der OECD verständigt wurde,<lb/>
+dass der Österreich-Bericht über Wunsch der österr. Bundesregierung<lb/>
+<pb n="02-0348" facs="02_1970-07-09_0348.jpg"/>verschlechtert werden sollte. <name type="person" ref="per:97311">Androsch</name>, der dies <name type="person" ref="per:97668">Kreisky</name> bevor noch<lb/>
+<name type="person" ref="per:97647">Koren</name> dies im Haus offiziell öffentlich erklärte, darauf aufmerksam<lb/>
+gemacht hatte, bekam zur Antwort, dass <name type="person" ref="per:97668">Kreisky</name> <name type="person" ref="per:98034">Veselsky</name> angeblich ge<lb break="no"/>warnt hat, eine Änderung dieses Berichtes in Paris zu beantragen.<lb/>
+<name type="person" ref="per:98034">Veselsky</name> allerdings konnte dann in der Antwort-erklärung sich einige<lb break="no"/>rmassen herausreden, indem er darauf hinwies, dass die von uns bean<lb break="no"/>standeten Stellen auch im Nationalölkonomischen Kreis und er zählte<lb/>
+eine ganze Reihe von Leuten der anderen Seite auf, wie <name type="person" ref="per:97775">Nemschak</name> und <name type="person" ref="per:97937">Seidel</name><lb/>
+die ebenfalls der Meinung waren, dass die Bestimmung, die hier die<lb/>
+OECD dann änderte, doch den Tatsachen nicht entsprochen hat.<lb/>
+Da <name type="person" ref="per:97647">Koren</name> seine Rede herunterlas und vorher schon bei den Journalisten<lb/>
+verteilt hatte, kann man annehmen, dass er in Zukunft weniger frei<lb/>
+sondern mehr nach festen Manuskripten reden wird. Das ist glaube ich<lb/>
+für uns sehr günstig, weil dies zweifelsohne einer parlamentarischen<lb/>
+Gefplogenheit widerspricht und gute Redner in Wirklichkiet sich immer<lb/>
+nur Stichworte aufsetzen. Als er <name type="person" ref="per:97346">Banya</name> auch bezüglich der Preispolitik<lb/>
+angegriffen hatte, hat sich <name type="person" ref="per:97346">Benya</name> unverzüglich zu Wort gemeldet und<lb/>
+hat nachdem er kein Manuskript zur Verfügung gehabt hat, phantastisch<lb/>
+auf die entsprechenden Angriffe reagiert und ich glaube, es ist sehr<lb/>
+zweckmässig, wenn man doch dazu übergeht, alle unsere Abgeordneten davon<lb/>
+zu überzeugen, dass es viel besser ist, frei zu reden, auch denn wenn sie<lb/>
+vielleicht das Gefühl haben eine nicht so geschliffene Rede aufs Par<lb break="no"/>kett zu legen wie dies der Fall ist, wenn man eine Rede herunterliest.<lb/>
+Die Argumentation, die <name type="person">Reinhart</name> einmal bei seiner Jungfern-Rede gebracht<lb/>
+hat, Besser G'scheit gelesen, als blöd g'redt, gilt hier in dem<lb/>
+Falle wirklich nicht. Aus der Wigel-Wagel-Politik, die die ÖVP jetzt<lb/>
+im Parlament aufführt, zuerst eine dringliche Anfrage, dann das Zurück<lb break="no"/>ziehen der Dringlichkeit aus den Vorschlägen <name type="person" ref="per:98091">Withalms</name>, zuerst das Parla<lb break="no"/>ment nicht mehr arbeiten zu lassen, dann das Zugeständnis, doch, zeigt<lb/>
+sich, dass <name type="person" ref="per:98091">Withalm</name> nicht mehr der Eiserne sondern gegebenenfalls der<lb/>
+Papierene ist, der derzeit mit grössten Schwierigkeiten zu kämpfen hat,<lb/>
+seinen Klub und seine Partei auf eine Linie zu bringen. Ich glaube aber,<lb/>
+dass wenn sich die ÖVP nicht sehr bald fängt, und wir zu einer zweckmässi<lb break="no"/>geren Arbeit kommen, erleben werden, dass die Verhandlungen, sei es im<lb/>
+Parlament oder ausserhalb des Parlamentes, noch schwieriger werden und<lb/>
+noch weniger Ergebnisse zeitigen, sodass damit eine konstruktive Arbeit<lb/>
+kaum möglich sein wird.</p>
+         </div>
+      </body>
+    
+  </text>
+</TEI>

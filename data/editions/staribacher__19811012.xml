@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Montag, der 12. Oktober 1981 bis Dienstag, der 13. Oktober 1981</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band61_1981-10-12</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date from="1981-10-12" to="1981-10-13">Montag, 12. Oktober 1981 bis Dienstag, 13. Oktober 1981</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-06-29">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="61-1257" facs="61_1981-10-12_1981-10-13_1257.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Montag, 12., und Dienstag, 13. Oktober 1981<lb/>
+</p>
+            <p xml:space="preserve">GD <name type="person" ref="per:127036">Kornis</name>, Generali-Versicherung, informiert mich, daß er mit KR <name type="person" ref="per:109291">Scheiner</name><lb/>
+über das Mietobjekt ÖFVW eine erste Aussprache geführt hat. <name type="person" ref="per:127036">Kornis</name> wäre<lb/>
+bereit, Verkaufsverhandlungen aufzunehmen, vorher muß er aber von<lb/>
+seinem Aufsichtsrat dafür die Zustimmung bekommen. <choice><choice><sic>Deutsche</sic><corr>Deutschsprachige; Österreichische</corr></choice></choice> Vertreter in<lb/>
+dieser italienischen Gesellschaft sind <name type="person" ref="per:122965">Treichl</name>, <name type="person" ref="per:97581">Igler</name>, <name type="person" ref="per:125950">Leibenfrost</name> und<lb/>
+<name type="person" ref="per:97470">Geist</name>, bei diesen könnte ich intervenieren, doch möchte ich vorher mit<lb/>
+KR <name type="person" ref="per:109291">Scheiner</name> darüber sprechen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte mit <name type="person" ref="per:109291">Scheiner</name> telefonisch verbinden.<lb/>
+</p>
+            <p xml:space="preserve">Diners Club Austria war es gelungen die 13. Konvention nach Österreich<lb/>
+zu bringen, die Eröffnung im Hotel Hilton hatte ich daher zugesagt und<lb/>
+auch vorgenommen. Ich glaube, daß tatsächlich solche Großveranstaltun<lb break="no"/>gen, wo immerhin ein paar 100 Leute kommen, für Wien von Bedeutung sind.<lb/>
+Vielleicht sollten wir uns im Handelsministerium oder von der ÖFVW sogar<lb/>
+noch mehr bemühen, diesen Managertourismus stärker nach Österreich zu<lb/>
+bringen. Wenn alle diese internationalen Gesellschaften nach Österreich<lb/>
+zu irgendeiner Konvention oder sonstigen Aufsichtsratssitzung kommen,<lb/>
+dann würden sich sicherlich unsere Fremdenverkehrsergebnisse wesentlich<lb/>
+verbessern.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Nächstens mit <name type="person" ref="per:111736">Zolles</name> besprechen.<lb/>
+</p>
+            <p xml:space="preserve">Das Pressefrühstück unter Vorsitz von Staatssekretär <name type="person" ref="per:109808">Albrecht</name> hat außer<lb/>
+dem Bericht von MR <name type="person" ref="per:97426">Fälbl</name> und Dkfm. <name type="person" ref="per:134094">Smrcka</name> von der Handelskammer über die<lb/>
+Messeeröffnung in Bagdad den Bericht über neue Kennzeichnungen gebracht.<lb/>
+Der Bagdad-Besuch von <name type="person" ref="per:109808">Albrecht</name> war ein voller Erfolg, wie mir von allen<lb/>
+Seiten berichtet wird. Sie selbst ist auch wirklich ganz happy, da sie<lb/>
+erstmalig im Ausland als Handelsministervertreter ganz groß in Erschei<lb break="no"/>nung getreten ist und jedermann ihre Leistungen dort würdigt. Als be<lb break="no"/>sonders guten Einfall finde ich, daß sie Dkfm. <name type="person" ref="per:134094">Smrcka</name> von der Handelskam<lb break="no"/>mer ebenfalls zum Pressegespräch gebeten hat und er dort das Wort ergriff.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109808">ALBRECHT</name>: Überlegen wir, ob wir nicht bei allen diesen<lb/>
+Auslandsaktivitäten die Handelskammer zum Pressefrühstück einladen.<lb/>
+</p>
+            <p xml:space="preserve">Die Richtlinien für eine verbindliche Möbelkennzeichnung und für den Ener<lb break="no"/>gieverbrauch für Haushaltsgeräte vermehren Vorschriften über deren Ein<lb break="no"/><pb n="61-1258" facs="61_1981-10-12_1981-10-13_1258.jpg"/>haltung und vor allem über Zweckmäßigkeit ich niemals bis jetzt überzeugt<lb/>
+werden konnte. Ich fürchte auch bei dieser Kennzeichnung, daß wir zwar<lb/>
+theoretisch alles bestens regeln, in der Praxis aber weder die Konsu<lb break="no"/>menten besonders interessiert sind, noch die Produzenten, denen diese<lb/>
+Kennzeichnung natürlich mehr Arbeit macht, sie auch wirklich einhalten.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97584">JAGODA</name> UND <name type="person" ref="per:109811">BURIAN</name>: Können wir dieses Dilemma durch Ver<lb break="no"/>einfachung beseitigen.<lb/>
+</p>
+            <p xml:space="preserve">Bei Durchsicht der Unterlagen für das Wirtschaftsministertreffen in<lb/>
+Linz mit <name type="person" ref="per:111707">Lambsdorff</name> und <name type="person" ref="per:111708">Honegger</name> stellte ich fest, daß riesig viel Ma<lb break="no"/>terial geliefert wurde, für mich aber unverdaulich, alte Hüte darunter.<lb/>
+Aus irgendwelchen Berichten und sonstigen seinerzeitigen Aktennotizen<lb/>
+wurden dutzende Seiten kopiert. Die wirklichen Zahlen oder, wenn man<lb/>
+so will, neudeutsch die facts, waren nicht darunter. Natürlich habe ich<lb/>
+sie mir dann letzten Endes mühsam zusammengesucht und, wie mir viele pro<lb break="no"/>phezeit haben, sie dann kaum gebraucht. Am besten dokumentiert war wie<lb break="no"/>der einmal der deutsche Wirtschaftsminister <name type="person" ref="per:111707">Lambsdorff</name>, der allerdings<lb/>
+gleich bei der Einleitung die Mappen weggeschoben hat und erklärte, das<lb/>
+Ziffern- und sonstige Material laß ma gleich amal weg. Am schlechtesten<lb/>
+dokumentiert war <name type="person" ref="per:111708">Honegger</name>, der sich aber genau wie beim letztenmal haupt<lb break="no"/>sächlich Informationen über die Gipfeltreffen, wo die Schweiz ja genauso<lb/>
+wie Österreich ausgeschaltet ist, durch Direktinformationen Kenntnisse<lb/>
+verschaffen wollte.<lb/>
+</p>
+            <p xml:space="preserve">Zweckmäßigerweise hatte <name type="person" ref="per:123301">Vecsei</name> vorgeschlagen, wir sollten dort unbedingt<lb/>
+ein Pressegespräch abführen. Bei der Programmerstellung hatten wir<lb/>
+darauf vergessen. Als Folge dieses guten Vorschlages verlangte ich dann<lb/>
+eine entsprechende Pressemitteilung oder, wenn man so will, einen Wasch<lb break="no"/>zettel. Die beiden anderen Minister waren damit einverstanden und so<lb/>
+konnte ich alle die Punkte gleich als Diskussionsgrundlage vorschlagen,<lb/>
+die wir auf dem Waschzettel erwähnten. Von der Wirtschaftslage der<lb/>
+Länder über die internationale Situation bis zur Energiefrage war alles<lb/>
+drauf.<lb/>
+</p>
+            <p xml:space="preserve">Da ich genau wußte, daß insbesondere <name type="person" ref="per:111708">Honegger</name> immer größten Wert darauf<lb/>
+legt, von <name type="person" ref="per:111707">Lambsdorff</name> so viel als möglich zu erfahren, habe ich nicht<lb/>
+zuletzt auch als Höflichkeit vorgeschlagen, <name type="person" ref="per:111707">Lambsdorff</name> soll als erster<lb/>
+berichten. Dieser ging vor allem auf die Energiesituation ein und meinte,<lb/>
+81 und 82 würde es keine realen Preissteigerungen geben. Erst 83 erwar<lb break="no"/>tet er weitere. Die Einsparung bei industriellem und privatem Verbrauch<lb/>
+<pb n="61-1259" facs="61_1981-10-12_1981-10-13_1259.jpg"/>hat sich bewährt und durchgeschlagen. Im April war <name type="person" ref="per:111707">Lambsdorff</name> mit<lb/>
+<name type="person" ref="per:108323">Yamani</name> zusammen, im September war er in Bonn. Die Saudis werden ihre bis<lb break="no"/>herige Politik fortsetzen. Überraschend war für mich dabei drei Ziffern<lb/>
+zu hören. Die Schweiz importiert angeblich nur 1/4 ihrer Energie, wir<lb/>
+2/3, Deutschland dagegen 90 %<add>-&gt; sind ca 60%</add>.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Bitte laß die 25 % aufgliedern und prüfen.<lb/>
+</p>
+            <p xml:space="preserve">Der Ottawa-Gipfel hat <name type="person" ref="per:111707">Lambsdorff</name> überzeugt, daß jetzt die US-Verwaltung<lb/>
+anders reagiert als unter <name type="person" ref="per:109804">Carter</name>. Damals hatte man in der IEA alle<lb/>
+Bewirtschaftungsmaßnahmen vorgesehen und teilweise auch verlangt, jetzt<lb/>
+wird unter <name type="person" ref="per:126232">Reagan</name> ausschließlich der Preis die Energie bestimmen, Benzin<lb/>
+wurde schon im Inland freigegeben und Erdgas wird in kürzester Zeit<lb/>
+folgen.<lb/>
+</p>
+            <p xml:space="preserve">In der SU wird jetzt von der deutschen Ruhrgas als Konsortialführer über<lb/>
+das große Gasgeschäft verhandelt. <name type="person" ref="per:111707">Lambsdorff</name> war im Oktober in Moskau<lb/>
+und hat dort klargemacht, daß sie Röhren und Pumpen liefern werden,<lb/>
+daß<add>[sich]</add> aber die deutsche Regierung in den Export nur indirekt einschaltet,<lb/>
+falls Exportgarantien gegeben werden. Die SU hofft, daß sie bis zum<lb/>
+<name type="person" ref="per:108324">Breschnew</name>-Besuch am 23./24. Oktober in Bonn doch zu einem <choice><choice><sic>Grundsatzab<lb break="no"/>schluß</sic><corr>Grundsatzbeschluß?</corr></choice></choice> über die Gaslieferung mit der Ruhrgas kommt. <name type="person" ref="per:111707">Lambsdorff</name> hält<lb/>
+dies für unwahrscheinlich, obwohl gerade jetzt der Generaldirektor der<lb/>
+Ruhrgas, <name type="person" ref="per:130199">Liesen</name>, in Moskau verhandelt. In der Preisfrage muß man äußerst<lb/>
+vorsichtig vorgehen. Der amerikanische Außenminister <name type="person" ref="per:128854">Haig</name> behauptet noch<lb/>
+immer, daß dieses Geschäft sehr gefährlich ist, weil die Abhängigkeit von<lb/>
+der SU in der Energieversorgung dadurch wesentlich vergrößert wird. Ich<lb/>
+unterstrich, daß wir gar keine andere Möglichkeit haben und daß man<lb/>
+weitestgehend die Speicher in Europa ausbauen sollte. Wir haben 2 1/2 Mrd.<lb/>
+m³ Sowjetgasbezug und 2 Mrd. m³ Speicher. Dieses Alternativangebot Ame<lb break="no"/>rikas, man sollte Kohle und Kernkraftwerk stärker einsetzen, Unterstaats<lb break="no"/>sekretär <name type="person" ref="per:134095">Rometz</name> wird dies immer mehr in Europa vertreten, oder Gas aus<lb/>
+Libyen und Algerien, wird von Deutschland genau verfolgt, aber kann nur<lb/>
+einen Teil ersetzen.<lb/>
+</p>
+            <p xml:space="preserve">In Ottawa wurde bezüglich der Handelspolitik eine Grundsatzerklärung abge<lb break="no"/>geben. Hauptproblem ist nach wie vor der japanische vergrößerte Markt<lb break="no"/>anteil in Europa, aber auch in Amerika. Es soll ein Druck auf Japan<lb/>
+ausgeübt werden, damit dieser auch die <choice><choice><sic>Unbalanz</sic><corr>Imbalance</corr></choice></choice> zwischen den einzelnen<lb/>
+Staaten, besonders natürlich gegenüber Österreich, wie ich bemerkte, mit<lb break="no"/>hilft auszugleichen.<lb/>
+</p>
+            <pb n="61-1260" facs="61_1981-10-12_1981-10-13_1260.jpg"/>
+            <p xml:space="preserve">Die Grundsatzerklärung hat viel Deklaration, <name type="person" ref="per:133649">Mitterrand</name>, der daran teil<lb break="no"/>genommen hat und erst kurz im Amt war, wird aber jetzt eine andere<lb/>
+Handelspolitik einleiten. <name type="person" ref="per:111707">Lambsdorff</name> fürchtet protektionistische Maß<lb break="no"/>nahmen werden durchgezogen werden, diese Gefahr sieht insbesondere auch<lb/>
+<name type="person" ref="per:111708">Honegger</name>. Die Erklärung <name type="person" ref="per:133649">Mitterrands</name>, gegenüber der EG wird es nicht viel<lb/>
+protektionistische Maßnahmen geben, dies widerspräche auch dem EG-Ver<lb break="no"/>trag, wohl aber gegen Drittländer. Hier bemerkte ich, daß aber auch die<lb/>
+EG uns gegenüber entsprechende liberale Handelspolitiken vereinbart hat.<lb/>
+Für <name type="person" ref="per:133649">Mitterrand</name> steht die Inflationsbekämpfung nicht so, sondern primär die<lb/>
+Arbeitslosenbekämpfung im Vordergrund. Dies sei nach Meinung <name type="person" ref="per:111707">Lambsdorffs</name><lb/>
+ein glatter Widerspruch zu der 1977 im Londoner Gipfel beschlossenen<lb/>
+einzuschlagenden Wirtschaftspolitik.<lb/>
+</p>
+            <p xml:space="preserve">In Ottawa selbst wurde natürlich über die US-Hochzinspolitik, fast könnte<lb/>
+man sagen, zu Gericht gesessen. Die Entwicklungshilfe wird restriktiver<lb/>
+gehandhabt, der Weltbankpräsidentenwechsel von <name type="person" ref="per:126427">Mcnamara</name> zu <name type="person" ref="per:134096">Clausen</name> hat<lb/>
+wahrscheinlich auch dazu beigetragen. Nach Meinung von <name type="person" ref="per:111708">Honegger</name> müßte<lb/>
+man alles daran setzen, daß der Weltwirtschaftsdialog nicht dazu führt,<lb/>
+daß dann Globalverhandlungen letzten Endes in der UNO landen und konkre<lb break="no"/>te Organisationen wie das GATT an ihrer Bedeutung verlieren. Diese Mei<lb break="no"/>nung teilte auch <name type="person" ref="per:111707">Lambsdorff</name>.<lb/>
+</p>
+            <p xml:space="preserve">Auf die deutsche Situation übergehend meinte er, die Konjunkturerwar<lb break="no"/>tungen 82 mit realem Welthandelszuwachs von 3 bis 4 % seien jetzt fraglich.<lb/>
+Die deutsche Wirtschaftsentwicklung wäre nicht so optimistisch wie die<lb/>
+Prognosen Anfang des Jahres gelautet haben. Deutschland hat jetzt ein<lb/>
+Budget zu erstellen, das einem Massaker gleicht. 6.000 Dienstposten wer<lb break="no"/>den eingespart, das ist zwar <choice><choice><sic>und</sic><corr>nur?</corr></choice></choice> 1 % der Beamten, ausgenommen davon wer<lb break="no"/>den aber die Bahn, Post und das Herr, sodaß in den Zentralverwaltungen<lb/>
+einige abgebaut werden sollten. Im Budget selbst müßten dann noch Lei<lb break="no"/>stungskürzungen vorgenommen werden und zwar eben dort, wo man vor Jahren<lb/>
+zuviel hingegeben hat. Die Staatsverschuldung mit 240 Mrd., die<add>[sich]</add> mit 6 1/2<lb/>
+Mrd. Nettoverschuldung im Budget niederschlägt, ist zu groß. 1981 hat man<lb/>
+den Haushalt verabschiedet mit der Idee, man wird dann im Budgetüber<lb break="no"/>schreitungsgesetz, also Nachtragsbudget eben die notwendigen Mittel be<lb break="no"/>kommen, dies wird beim 82-er Budget nicht mehr der Fall sein. <name type="person" ref="per:111708">Honegger</name><lb/>
+fragte an, wie es mit der Zinspolitik steht, nachdem jetzt der Lombard<lb break="no"/>zins um 1 % gesenkt wurde. Hier handelt es sich nach Mitteilung von<lb/>
+<name type="person" ref="per:111708">Honegger</name> nur um eine Sonderlombardaktion von 12 auf 11 % für 6 Mrd. DM.<lb/>
+Die Zinspolitik in Deutschland wird daher weiterbleiben. 2 % Zinsen<lb break="no"/>senkung würde der deutschen Wirtschaft sofort 6 Mrd. DM Zinseinsparung<lb/>
+<pb n="61-1261" facs="61_1981-10-12_1981-10-13_1261.jpg"/>bringen.<lb/>
+</p>
+            <p xml:space="preserve">Ich berichtete dann über die Energiesituation in Österreich. Ebenso<lb/>
+informierte ich über die beabsichtigen Triestkohlehafenausbaupläne.<lb/>
+<name type="person" ref="per:111708">Honegger</name> interessierte sich, ob eine Indizierung der Erdölpreise, die<lb/>
+die Saudis immer wieder verlangen, doch kommen wird. Die Importeure haben<lb/>
+vom Schweizer Bundesrat eine Preisgarantie verlangt, insbesondere, um<lb/>
+eventuell algerisches Gas kaufen zu können.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:111707">Lambsdorff</name> wollte im Zusammenhang mit dem Hafenausbau Triest wissen,<lb/>
+was die Italiener zu der Pyhrnautobahn und Mitfinanzierung sagen. Da<lb/>
+die EG-Kommission sich bei den einzelnen Ländern nicht durchsetzen<lb/>
+konnte, hat <name type="person" ref="per:111707">Lambsdorff</name> angedeutet, es wäre immerhin möglich, daß man<lb/>
+vielleicht bilateral mit Deutschland über die Pyhrnautobahn verhandelt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte mit <name type="person" ref="per:111741">Sekanina</name> verbinden.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:125287">Sommaruga</name> meinte, man müsse von der Straße weg und mehr zum Huckepackver<lb break="no"/>kehr kommen, dies sollte man im Rahmen der Verkehrsministertagung CEMT<lb/>
+besprechen. Die Schweizer erwägen eine Schwerverkehrsabgabe ähnlich der<lb/>
+österreichischen.<lb/>
+</p>
+            <p xml:space="preserve"><choice><choice><sic>Meine</sic><corr>Auf meine</corr></choice></choice> Frage an <name type="person" ref="per:111707">Lambsdorff</name>, wie es mit dem Rhein-Main-Donau-Kanal weiter<lb break="no"/>geht, antwortete er, im Budget 82 seien 80 Mio. DM veranschlagt. Dies<lb/>
+entspricht natürlich fast nur einer Erinnerungspost, es wird aber weiter<lb break="no"/>gebaut, obwohl nach Meinung <name type="person" ref="per:111707">Lambsdorffs</name> der Kanal ein hoher Unfug ist.<lb/>
+<name type="person" ref="per:111708">Honegger</name> erklärte dezidiert, der Rhein wird über Basel hinaus nicht<lb/>
+ausgebaut.<lb/>
+</p>
+            <p xml:space="preserve">Die Nationalisierung der Chemieindustrie und anderer Industrien in Frank<lb break="no"/>reich macht sowohl Deutschland als auch Schweiz große Probleme. Die<lb/>
+Deutschen, z.B. Höchst hat entschieden, entweder sie behalten die Mehrheit<lb/>
+oder sie gehen aus Frankreich weg. Ausländische Minderheitsbeteiligungen<lb/>
+werden wie französische Aktionäre behandelt. Bei Mehrheitsbeteiligungen<lb/>
+der Ausländer wird man von Frankreich mit der deutschen Regierung ver<lb break="no"/>handeln.</p>
+            <p xml:space="preserve">Meine Frage bezüglich der Stahlsubvention in Deutschland wurde dahinge<lb break="no"/>hend beantwortet, daß 82 280 Mio. im Budget sind, insgesamt sollen bis<lb/>
+85 1,4 Mrd. DM an die deutsche Stahlindustrie bezahlt werden. <name type="person" ref="per:111707">Lambsdorff</name><lb/>
+erklärt, dies wird im europäischen Subventionskodex abgewickelt, d.h.<lb/>
+nur bei Kommissionsgenehmigung durch die EG erfolgen. Die deutschen<lb/>
+<pb n="61-1262" facs="61_1981-10-12_1981-10-13_1262.jpg"/>Firmen müssen maximale Eigenanstrengungen unternehmen, Hoesch u. Krupp<lb/>
+sollen zusammengelegt werden, die Kapazität soll gesenkt werden, die<lb/>
+deutsche Stahlindustrie ist mit den 1,4 Mrd. aber nicht zufrieden, sie<lb/>
+verlangt 4 1/2 Mrd. DM.<lb/>
+</p>
+            <p xml:space="preserve">Meine Anfrage wegen Fremdenverkehrseinschränkung wird als höchster Un<lb break="no"/>fug bezeichnet, auch die Bemerkung <name type="person" ref="per:114106">Schmidts</name> wegen der Ausgabe von 40 Mrd.<lb/>
+DM durch die Deutschen ist nicht ernstzunehmen. Hier gab es dann mit<lb/>
+der Schweiz eine größere Diskussion, weil <name type="person" ref="per:125287">Sommaruga</name> meinte, in Öster<lb break="no"/>reich werde ich auch immer Propaganda machen Ferien in Österreich zu<lb/>
+verbringen und österreichische Waren zu kaufen. Angeblich soll es sogar<lb/>
+eine Weisung des Handelsministeriums geben, daß eine in Österreich eta<lb break="no"/>blierte Schweizer Firma Schweizer Verpackungsmaterial nicht importieren<lb/>
+kann.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte genau prüfen.<lb/>
+</p>
+            <p xml:space="preserve">Über den neuen Weltwirtschaftsgipfel in Cancun, wo auch der Nord-Süd-<lb/>
+Dialog zur Sprache kommen sollte, befürchtete <name type="person" ref="per:111708">Honegger</name>, aber auch <name type="person" ref="per:111707">Lambs<lb break="no"/>dorff</name>, daß jetzt eine Vorbereitungskonferenz der Außenminister erfolgt,<lb/>
+von denen man nie weiß, was nachher herauskommt. Ich erwähnte, daß<lb/>
+<name type="person" ref="per:97668">Kreisky</name> seinerzeit den Marshallplan für diese Entwicklungsländer vorge<lb break="no"/>sehen hat. <name type="person" ref="per:111708">Honegger</name> und insbesondere <name type="person" ref="per:111707">Lambsdorff</name> sind sehr skeptisch.<lb/>
+Die Franzosen reden jetzt von einem planetarischen New Deal. <name type="person" ref="per:111707">Lambsdorff</name><lb/>
+spricht in seiner Partei der Liberalen nur von den möglichen 0,7 % An<lb break="no"/>teil für Entwicklungshilfe, die Schweiz hat 1 Mrd. 630 Mio sfr für die<lb/>
+nächsten 4 Jahre vorgesehen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:111708">Honegger</name> befürchtet, daß bei der Ministerkonferenz im GATT 82 kein kon<lb break="no"/>kretes Programm vorliegen wird. Der Ansicht bin ich auch, denn bei<lb/>
+der letzten GATT-Konferenz in Tokio ging es darum, die Kennedy-Runde<lb/>
+endlich zu einem Abschluß zu bringen, dort haben alle Minister sich po<lb break="no"/>sitiv ausgesprochen und trotzdem hat es dann noch 7 Jahre gedauert. Das<lb/>
+Programm bei der GATT-Ministerkonferenz 82 über Dienstleistungskodex,<lb/>
+Schutzklauseln, Investitionen usw., multilaterale Kontrollen, Landwirt<lb break="no"/>schaft, Entwicklungsländer, Multifaserabkommen usw. wird es wesentlich<lb/>
+schwieriger sein, Lösungen zu finden.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:111708">Honegger</name> und <name type="person" ref="per:111707">Lambsdorf</name> sind genau wie ich der Meinung, daß das Multifa<lb break="no"/>ser-abkommen verlängert werden müßte.<lb/>
+</p>
+            <p xml:space="preserve">Die Integration wird, wie <name type="person" ref="per:111707">Lambsdorff</name> <name type="person" ref="per:111708">Honegger</name> Auskunft gab, in der EG<lb/>
+<pb n="61-1263" facs="61_1981-10-12_1981-10-13_1263.jpg"/>nur schwer weitergehen. Die Umstrukturierung des Agrarfonds ist unbe<lb break="no"/>dingt notwendig. In der EG ist nur Deutschland ein unlimitierter Netto<lb break="no"/>zahler. Der Beitritt von Spanien und Portugal wird sich noch sehr<lb/>
+schwierig gestalten. Portugal könnte eher mit 1. Jänner 84 fertig sein<lb/>
+als die Verhandlungen mit Spanien.<lb/>
+</p>
+            <p xml:space="preserve">Die von Deutschland vorgeschlagene gemeinsame Erklärung, daß wir in<lb/>
+Hinkunft die Zertifikate und sonstigen Untersuchungsberichte anerkennen,<lb/>
+wurde sofort von <name type="person" ref="per:111708">Honegger</name> und mir positiv befürwortet und auch beschlos<lb break="no"/>sen. Für mich war dies deshalb sehr angenehm, weil die österreichische<lb/>
+Betonwarenindustrie und insbesondere die Zementindustrie interveniert<lb/>
+hat, daß endlich einmal die österreichischen Zertifikate anerkannt wer<lb break="no"/>den und nicht von deutscher Seite immer wieder eigene Zertifikate ver<lb break="no"/>langt werden, die dann fast 1/3 des Preises kosten.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte mit Zement und Packsteinindustrie verbin<lb break="no"/>den.<add>erl. Martin</add><lb/>
+</p>
+            <p xml:space="preserve">Die Pressekonferenz war dann ganz interessant. Der ORF interessierte<lb/>
+sich primär über die Stahlsubvention. Der Interviewer wollte von mir<lb/>
+unbedingt hören, daß die Voest-Alpine zu Kapazitätseinschränkungen kommen<lb/>
+müsse, wie des jetzt in Deutschland geschehen wird, resp. daß die Voest<lb/>
+entsprechende finanzielle Mittel bekommt. Da ich ihm trotz einer minde<lb break="no"/>stens 10-minütigen Interviewzeit nicht die passende Antwort gegeben<lb/>
+habe, ist im Fernsehen dann nur mehr <name type="person" ref="per:111707">Lambsdorff</name> aufgeschienen. Dies <choice><choice><sic>ganz</sic><corr>Ganze?</corr></choice></choice><lb/>
+stört mich weniger, zeigt aber typisch, wie doch die ORF-Reporter nur<lb/>
+ihre Sensation wünschen.<lb/>
+</p>
+            <p xml:space="preserve">Die Dienstagschiffahrt an der Donau war dann für alle Beteiligten trotz<lb/>
+Schlechtwetter sehr interessant. Wir hatten über die verschiedensten<lb/>
+Fragen noch geplaudert, zum Schluß habe ich dann noch veranlaßt, daß wir<lb/>
+das Stift Wilhering besichtigen konnten, was insbesondere natürlich für<lb/>
+die deutschen und Schweizer Gäste sehr beeindruckend war.<lb/>
+</p>
+            <p xml:space="preserve">Der nächste Gipfel wurde für 19./20. Juli 82 in der Schweiz vereinbart.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte vormerken.<add>Martin</add><lb/>
+</p>
+            <p xml:space="preserve">Die Aussprache mit der NÖ LReg. von fast allen <choice><choice><sic>Wirtschaftsministern</sic><corr>Wirtschaftsvertretern?</corr></choice></choice><lb/>
+verlief wie erwartet. Über die konkreten Wünsche werden jetzt bilate<lb break="no"/>rale Gespräche geführt. <name type="person" ref="per:97668">Kreisky</name> selbst ist krank, weshalb <name type="person" ref="per:97891">Salcher</name> die<lb/>
+<pb n="61-1264" facs="61_1981-10-12_1981-10-13_1264.jpg"/>Sitzung leitete. Das einzige Problem, das länger diskutiert wurde, war<lb/>
+nach wie vor die Biospritfrage. Der NÖ Landwirtschaftsreferent <name type="person" ref="per:131041">Bloch<lb break="no"/>berger</name> möchte unbedingt durchziehen und zwar auf Kosten des Finanzmi<lb break="no"/>nisters Steuer. Landwirtschaftsminister <name type="person" ref="per:97511">Haiden</name>, aber auch <name type="person" ref="per:117200">Steyrer</name> sind<lb/>
+hier zwar nicht, was die Finanzierung betrifft, aber bezüglich des großen<lb/>
+Ausbaus für Ethanolanlagen auf seiner Seite. Ich dagegen stehe nach<lb/>
+wie vor auf dem Standpunkt, es kann nur versucht werden durch kleine<lb/>
+Pilotfabriken zu prüfen, welche konkreten Projekte, sei es Stroh, Zucker<lb break="no"/>hirse oder Getreide, vielleicht auch schnellwüchsige Hölzer, eine eini<lb break="no"/>germaßen erträgliche Lösung bringen. Nach wie vor ist nur die Frage<add>[offen? ungeklärt?]</add>, wer<lb/>
+bezahlt und wer investiert. Durch den Beimischungszwang, der neuerdings<lb/>
+von Minister <name type="person" ref="per:108223">Lausecker</name> zugesichert wird, kommt es natürlich zu einer<lb/>
+Belastung der Benzinkäufer. Neuerdings habe ich dort zur Sprache ge<lb break="no"/>bracht, daß die Zeit drängt, weil die Abwärmenutzung aus den beiden<lb/>
+Kohleblöcken in Dürnrohr die einzig rentable Energieversorgung für<lb/>
+eine solche Biospritanlage wäre.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Bitte Abwärmeproblematik kurz zusammenfassen<lb/>
+lassen.<lb/>
+</p>
+            <p xml:space="preserve">Auf der Landstraße wurden mit den Sektionsleitern die Varianten der<lb/>
+<choice><choice><sic>Straßenbahnerhöhung</sic><corr>Straßenbahn-Fahrpreiserhöhung</corr></choice></choice> diskutiert. Mit dieser Erhöhung ist niemand glück<lb break="no"/>lich, doch wurde über die Vorgangsweise der Landstraßer Vertreter im<lb/>
+Gemeinderatsklub resp. in der Ausschußsitzung eine einvernehmliche<lb/>
+Empfehlung gefunden.<lb/>
+</p>
+            <pb n="61-1265" facs="61_1981-10-12_1981-10-13_1265.jpg"/>
+            <p xml:space="preserve">MINISTERRAT am 13. Oktober 1981, 9.30 Uhr<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:113083">Sinowatz</name> eröffnet, entschuldigt den Bundeskanzler, der sich<lb/>
+zur Durchuntersuchung im Spital befindet.<lb/>
+Als erster meldet sich Minister <name type="person" ref="per:97879">Rösch</name> und zwar kündigt er<lb/>
+das <name type="person" ref="per:108224">Lütgendorf</name>-Begräbnis für Samstag an. Es wird ein privates<lb/>
+Begräbnis mit militärischen Ehren sein (ähnlich <name type="person" ref="per:97450">Freihsler</name>).<lb/>
+Im Anschluß wird in der Wr. Neustädter Militärakademie ein<lb/>
+Empfang gegeben.<lb/>
+Bei dem am 22.10. in der Stephanskirche abgehaltenen Gottesdienst<lb/>
+wird Minister <name type="person" ref="per:97891">Salcher</name> als Vertreter der Regierung teilnehmen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:110923">Lanc</name> korrigiert einige Meldungen zum <name type="person" ref="per:97786">Nittel</name>-Mord, hätte den<lb/>
+Staatsanwalt informiert etc. Spricht vom Netzwerk des Terrors,<lb/>
+von Beihilfen zum Terror auch in unserem Land, von Geldzuwendungen<lb/>
+und Waffenlieferungen. Daher verstärkte Überprüfungen angezeigt.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97444">Heinz Fischer</name> kündigt die Budgetrede des Finanzministers für<lb/>
+Mittwoch an, weist ausdrücklich auf die Notwendigkeit der An<lb break="no"/>wesenheit aller Regierungsmitglieder hin. Betont auch, daß an<lb break="no"/>gesichts der künftigen wichtigen Abstimmungen für alle Abge<lb break="no"/>ordneten Anwesenheitspflicht bestünde und nur bei exakten Ver<lb break="no"/>einbarungen mit den anderen eine Abwesenheit möglich ist.<lb/>
+Grundsätzlich aber bittet er nicht abzusagen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:112992">Löschnak</name> kündigt Vereinfachungen im administrativen Ablauf<lb/>
+bei Vertretungen bei Bundesministern an. Ebenso verschiedene,<lb/>
+mir allerdings nicht bekannte Verbesserungsvorschläge. Weist<lb/>
+darauf hin, daß bei Gesetzesvorlagen von den Beamten ein soge<lb break="no"/>nanntes Vorblatt angelegt werden muß. <name type="person" ref="per:112992">Löschnak</name> verspricht aber<lb/>
+zur besseren Information die Ablichtung eines einschlägigen<lb/>
+Briefes allen Ministern zugängig zu machen.<lb/>
+</p>
+            <p xml:space="preserve">Außerhalb des Programms flüstert mir <name type="person" ref="per:97444">Heinz Fischer</name> zu, ich<lb/>
+möge daran erinnern, daß er mit Minister <name type="person" ref="per:97985">Staribacher</name> über eine<lb/>
+Ausgleichsabgabe von Fremdenverkehrs- und Nichtfremdenverkehrs<lb break="no"/>orten gesprochen hätte und gerne wissen möchte, wie es damit<lb/>
+ausschaut.<lb/>
+</p>
+            <pb n="61-1266" facs="61_1981-10-12_1981-10-13_1266.jpg"/>
+            <p xml:space="preserve">In der Vorbesprechung wird dann noch auf die Brotwoche hinge<lb break="no"/>wiesen, da am kommenden Dienstag auch die Minister bei der<lb/>
+Ministerratssitzung Brot überreicht bekommen werden oder<lb/>
+sowas Ähnliches.<lb/>
+</p>
+            <p xml:space="preserve">Es wird auch noch beschlossen, daß Bundesminister <name type="person" ref="per:111740">Dallinger</name><lb/>
+Minister <name type="person" ref="per:97985">Staribacher</name> in der Zeit seines Aufenthaltes in Sofia<lb/>
+vertritt. Andererseits kündigt Minister <name type="person" ref="per:97511">Haiden</name> an, daß ihn<lb/>
+Minister <name type="person" ref="per:97985">Staribacher</name> während seines Aufenthaltes in Brüssel<lb/>
+vertreten wird (21.–23.10.1981).<lb/>
+</p>
+            <p xml:space="preserve">Bei der nachfolgenden Sitzung des Ministerrates werden die<lb/>
+Punkte 4 und 5, der Punkt 7, der Punkt 10 zurückgestellt<lb/>
+(siehe Beilage).<lb/>
+Diese kurze Sitzung endet um 10.15.<lb/>
+</p>
+            <p xml:space="preserve">Abschließend wird noch ein Buch über den Staatsvertrag ausge<lb break="no"/>teilt (Beilage).<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="61_1256_01" facs="61_1981-10-12_1981-10-13_1256-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 12./13.10.1981</head>
+         </div>
+         <pb n="61_1256_02" facs="61_1981-10-12_1981-10-13_1256-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+         <pb n="61_1266_01" facs="61_1981-10-12_1981-10-13_1266-01.jpg"/>
+         <pb n="61_1266_02" facs="61_1981-10-12_1981-10-13_1266-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesordnung 104. Ministerratssitzung, 13.10.1981</head>
+            <gap reason="sampling"/>
+            <pb n="61_1266_03" facs="61_1981-10-12_1981-10-13_1266-03.jpg"/>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Montag, der 27. Mai 1974</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band21_1974-05-27</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1974-05-27">Montag, 27. Mai 1974</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-12-27">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band21/">
+      <body>
+         <pb n="21-0641" facs="21_1974-05-27_0641.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Montag, 27. Mai 1974</p><p xml:space="preserve">Beim Jour fixe in der Handelskammer hat <name type="person" ref="per:97893">Sallinger</name> sowie<lb/>
+seinerzeit <name type="person" ref="per:97743">Minkowitsch</name> verlangt, daß für den im Inland ver<lb break="no"/>billigt abgegebenen Zucker für die Verarbeitungsindustrie<lb/>
+der Finanzminister die Kontrolle über die Verwendung zu über<lb break="no"/>nehmen hätte, wie dies derzeit auf Grund des Vormerkverkehrs<lb/>
+geschieht. Im Aussenhandelsgesetz sollte dies wie ursprünglich<lb/>
+vom Handelsministerium selbst vorgeschlagen dann aber auf Ein<lb break="no"/>spruch des Finanzministeriums herausgenommen, neuerdings ver<lb break="no"/>ankert werden. Die ÖVP beruft sich dabei auf die Parteienver<lb break="no"/>einbarung anlässlich der EG-Begleitmaßnahmen.</p><p xml:space="preserve">Anmerkung für <name type="person" ref="per:98053">WANKE</name>: Bitte eine genaue Sachverhaltsdarstellung<lb/>
+für mich, da das Gesetz ja schon im Parlament liegt.</p><p xml:space="preserve"><name type="person" ref="per:97769">Mussil</name> fürchtet, daß die Getreidepreiserhöhung im Juli es not<lb break="no"/>wendig macht, eine ganze Reihe von offenen Problemen zu klären.<lb/>
+Die Getreidehandelsspanne für den Großhandel ist seit 1962 unver<lb break="no"/>ändert und müsste korrigiert werden. Die Müller haben den Klein<lb break="no"/>verpackungszuschlag der bei der letzten Festsetzung vollkommen un<lb break="no"/>zulänglich von der Preisbehörde fixiert wurde und für sie uner<lb break="no"/>träglich ist als Ausgleich die Rabatte die sie bis jetzt gewährt<lb/>
+haben, gekündigt. Dies hat von den Abnehmern, Bäckern und Händlern<lb/>
+ärgsten Widerspruch ausgelöst und auch hier müssten Korrekturen<lb/>
+vorgenommen werden. Ich verwies <name type="person" ref="per:97893">Sallinger</name> und <name type="person" ref="per:97769">Mussil</name> darauf, daß<lb/>
+<name type="person" ref="per:97743">Minkowitsch</name> mich ersucht hat, den Getreidepreis erst nach den<lb/>
+Wahlen festzusetzen und ich im Prinzip mit dieser Vorgangsweise<lb/>
+einverstanden bin. <name type="person" ref="per:97769">Mussil</name> selbst möchte nun, daß erst die neuen<lb/>
+Preise für Müller und Bäcker festgelegt werden wenn gleichzeitig<lb/>
+auch die Lohnbewegung die zu erwarten ist, eingebaut wird. Sein<lb/>
+Wunsch war es bereits seit längerer Zeit, daß der Finanzminister<lb/>
+wieder die selbe Überbrückung zugesteht wie im Vorjahr. <name type="person" ref="per:97769">Mussil</name><lb/>
+wird deshalb mit einer Delegation auch inkl. der Präsidentenkon<lb break="no"/>ferenz offiziell bei mir vorsprechen.</p><p xml:space="preserve">Mit den beginnenden Verhandlungen der Reformkommission der Berufs<lb break="no"/>schulen beim Unterrichtsministerium ist <name type="person" ref="per:97769">Mussil</name> sehr einverstanden.<lb/>
+Er ist sich auch vollkommen klar, daß die Berufsschule von einem<lb/>
+Tag auf eineinhalb Tage erhöht werden wird. Die Forderungen des<lb/>
+Gewerkschaftsbundes, insbesonders die Gewerkschaftsjugend geht auf<lb/>
+zwei Tage, selbst die eineinhalb Tage bedeuten, daß die Internats<lb break="no"/>kurse in den Bundesländern – dort wird die<lb/>
+<pb n="21-0642" facs="21_1974-05-27_0642.jpg"/>Berufsschule nicht jede Woche sondern internatsmässig einmal<lb/>
+abgehalten – von 6 Wochen auf 8 Wochen erhöht werden müsste.<lb/>
+Dafür ist aber in den derzeitigen Internaten keine Möglich<lb break="no"/>keit mehr der Unterbringung vorhanden und es müssten deshalb<lb/>
+große Aufwendungen getätigt werden um die Internate zu ver<lb break="no"/>grössern, dies bezahlt die Handelskammer mit Unterstützung<lb/>
+mit einzelner Länder. Die Handelskammer hätte jetzt keine<lb/>
+Möglichkeit diese finanziellen Mitteln aufzubringen.</p><p xml:space="preserve">Anmerkung für <name type="person" ref="per:97377">BUKOWSKI</name>: Bitte eine Sachverhaltsdarstellung mit ge<lb break="no"/>nauen Zahlenangaben über die Leistungen der Handelskammer in den<lb/>
+einzelnen Ländern zu den einzelnen Berufsschulen unter besonderer<lb/>
+Darstellung auch von Wien und <name type="person" ref="per:111722">Kinscher</name> verlangen.</p><p xml:space="preserve">Über die Verhandlungen mit dem Lebensmittelgesetz im Parlament<lb/>
+und über die Lebensmittelkennzeichnungs-Verordnung die bereits<lb/>
+von mir erlassen wurde, beschwert sich <name type="person" ref="per:97769">Mussil</name>, daß <name type="person" ref="per:97808">Petuely</name><lb/>
+jetzt noch immer sehr extreme Forderungen stellt und die Unter<lb break="no"/>nehmungen zur Anzeige bringt obwohl dies gegen seinerzeitige Ver<lb break="no"/>einbarungen und Zusagen die er angeblich gemacht hat, verstößt.<lb/>
+In Wirklichkeit handelt es sich darum, daß die Handelskammer<lb/>
+erwartet, ich sollte durch einen Erlaß <name type="person" ref="per:97808">Petuely</name> zu einer gewissen<lb/>
+lockeren Handhabung der Lebensmittelkennzeichnungs-Verordnung<lb/>
+zwingen, resp. durch Intervention beim Lebensmittelgesetz die<lb/>
+Stellung der Untersuchungsanstalten gegenüber den wissenschaft<lb break="no"/>lichen Forschungsanstalten der Unternehmungen meinen Einfluß<lb/>
+geltend machen. Ich erklärte rundweg, daß ich dafür nicht kompe<lb break="no"/>tent sei sondern <name type="person" ref="per:97808">Petuely</name> dem Gesundheitsministerium untersteht.<lb/>
+Meine einzige Funktion sei, für die Umstellung der Unternehmer<lb/>
+auf Grund von Maßnahmen, die in Hinkunft wirken soll eine ent<lb break="no"/>sprechende Umstellungszeit sicher zu stellen, damit die Unter<lb break="no"/>nehmungen alle Möglichkeiten haben entsprechende Vorräte auf<lb break="no"/>zuarbeiten resp. abzugeben, dies war bei der Lebensmittelkenn<lb break="no"/>zeichnungs-Verordnung geschehen alles andere müssen sie mit<lb/>
+<name type="person" ref="per:107938">Leodolter</name> besprechen und verhandeln.</p><p xml:space="preserve">Anmerkung für <name type="person" ref="per:98040">WAIS</name>: Das ganze Problem möchte ich mit Dir,<lb/>
+<name type="person" ref="per:115020">Welser</name> und <name type="person" ref="per:97646">Koppe</name> beim Mittagessen im<lb/>
+Institut einmal besprechen, nachdem sich<lb/>
+<name type="person" ref="per:115020">Welser</name> genau informiert hat.</p><pb n="21-0643" facs="21_1974-05-27_0643.jpg"/><p xml:space="preserve"><name type="person" ref="per:97769">Mussil</name> interveniert, daß wir im Jahre 75 sowie im Budget 73<lb/>
+und 74 für Stärke als EG-Begleitmaßnahme wieder entsprechende<lb/>
+Beträge versorgen müssten, er meint, daß damals nur von 2 Jahren<lb/>
+die Rede war, daß aber alle stillschweigend angenommen haben,<lb/>
+daß dies verlängert wird.</p><p xml:space="preserve">Anmerkung für <name type="person" ref="per:98040">WAIS</name>: Kläre bitte mit <name type="person" ref="per:97722">Marhold</name>, wie die Aussichten<lb/>
+im Finanzministerium stehen.</p><p xml:space="preserve">Die Handelskammer möchte, daß für die sowjetischen Gaslieferungen<lb/>
+im neuen Vertrag nicht nur Bleche aufgenommen werden sondern auch<lb/>
+Kabel und Armaturen, usw. Ich verwies darauf, daß gar keine Be<lb break="no"/>denken meinerseits bestehen, da wir die 100.000 Tonnen Blech<lb/>
+die wir zusätzlich den Russen jährlich liefern wollen gar nicht<lb/>
+imstande sind, aufzutreiben. Ich deshalb auch sofort zugestimmt,<lb/>
+daß anstelle von Stahlrohren Symalenrohre bis zum Ausmaß von<lb/>
+12.000 Tonnen mit 3.000 könnte die Firma ja sofort beginnen aufge<lb break="no"/>nommen werden, wenn die Sowjetunion zustimmt. Ich fürchte, daß<lb/>
+auch die Kabel und Armaturen von der Sowjetunion anstelle von<lb/>
+Blech oder Rohrlieferungen nicht akzeptiert wird. <name type="person" ref="per:97893">Sallinger</name> er<lb break="no"/>klärte darauf rundwegs, sie werden <name type="person" ref="per:97581">Igler</name> mit Brief ersuchen, er<lb/>
+solle als Begleiter beim Kanzlerbesuch diese Forderung nicht nur<lb/>
+deponieren sondern sogar wo möglich durchsetzen. Hier konnte ich<lb/>
+bemerken, daß die Handelskammer selbst sehr unglücklich ist, daß<lb/>
+die ÖVP entschlossen hat, daß niemand mitfährt, dadurch kommt <name type="person" ref="per:97581">Igler</name><lb/>
+wieder in die Position als der Vertreter der anderen Seite immer<lb break="no"/>hin mit sowjetischen Stellen in Kontakt zu kommen und dadurch seinen<lb/>
+Einfluß zumind. optisch zu vergrößern. Diese Fehlentscheidung der<lb/>
+ÖVP geht jetzt auf Kosten des Einflusses der Handelskammer. <name type="person" ref="per:97581">Igler</name><lb/>
+hat bereits bei seinen Rumänienbesuch sich stark in den Vorder<lb break="no"/>grund geschoben als der Vertreter der Industrie in Aussenhandels<lb/>
+fragen und wird dies jetzt weiter ausbauen.</p><p xml:space="preserve"><name type="person" ref="per:97893">Sallinger</name> wollte von mir die Zusage, daß ich Besprechungen mit<lb/>
+Rechnungshofpräsidenten <name type="person" ref="per:114610">Kandutsch</name> und ihm gemeinsam führe über die<lb/>
+Übernahme von Kosten der Handelskammer im Zuge der Aussenhandels<lb break="no"/>tätigkeit, d.h. die Verwendung der AHV-Gebühren. Ich erklärte<lb/>
+rundweg, daß ich eine solche Besprechung für mich betreffend nicht<lb/>
+als zielführend betrachte, da ich mit <name type="person" ref="per:114610">Kandutsch</name> nicht so gute<lb/>
+Beziehungen habe, wie er selbst. Ausserdem sehe ich keinen Anlaß,<lb/>
+mich bei <name type="person" ref="per:114610">Kandutsch</name> für irgend etwas einzusetzen, was dann die Frei<lb break="no"/>heitlichen als Zugeständnis mir gegenüber betrachten würden.</p><pb n="21-0644" facs="21_1974-05-27_0644.jpg"/><p xml:space="preserve"><name type="person" ref="per:97893">Sallinger</name> wird deshalb allein mit <name type="person" ref="per:114610">Kandutsch</name> Besprechungen führen.</p><p xml:space="preserve">Anmerkung für <name type="person" ref="per:98053">WANKE</name>: Hier müssten wir streng vertraulich ohne<lb/>
+daß man weiß, daß wir daran interessiert sind auch weiß aller<lb break="no"/>dings nicht ob dafür <name type="person" ref="per:112956">Schwarz</name> oder <name type="person" ref="per:97722">Marhold</name> in Frage kommen In<lb break="no"/>formationen über das Ergebnis versuchen zu bekommen.</p><p xml:space="preserve"><name type="person" ref="per:97893">Sallinger</name> hat bevor <name type="person" ref="per:97769">Mussil</name> gekommen ist aber auch dann während<lb/>
+seiner Abwesenheit mit mir darüber gesprochen und wir haben uns<lb/>
+beide beklagt, daß das politische Klima sich jetzt sehr ver<lb break="no"/>schlechtert. Ich habe auf die Äusserungen <name type="person" ref="per:112031">Maurers</name> im Wahlkampf<lb/>
+hingewiesen, die ich selbst im Radio hörte, wo er sehr persönlich<lb/>
+<name type="person" ref="per:97668">Kreisky</name> diffamieren will, <name type="person" ref="per:97893">Sallinger</name> meinte, daß jetzt in beiden<lb/>
+Parteien sehr ungute Entwicklungen einsetzen. <name type="person" ref="per:97893">Sallinger</name> fürchtet,<lb/>
+daß die Sozialpartnerschaft dadurch ernstlich gefährdet ist. Ich<lb/>
+teilte diese Meinung und verwies nur darauf, daß ich seit den<lb/>
+50er Jahren schon als einziges System eben daß in Österreich<lb/>
+auf die Dauer wahrscheinlich einige Beruhigung auslösen könnte,<lb/>
+daß schweizerische System der gesetzlich verankerten Koalitions<lb break="no"/>regierung meiner Meinung nach funktionieren könnte, ich verwies<lb/>
+allerdings auch gleichzeitig darauf, daß diese Idee heute mehr<lb/>
+denn je nicht gefragt ist und ich mich deshalb dafür keinesfalls<lb/>
+einsetzen werde. Auf einen Hinweis, daß ich andererseits ja immer<lb/>
+bereit bin zu weit als möglich alle Wünsche der Handelskammer zu<lb/>
+erfüllen und fragte, was ich bis jetzt gegen sie unternommen hätte,<lb/>
+verwies <name type="person" ref="per:97893">Sallinger</name> nur darauf, daß <name type="person" ref="per:140584">Falkner</name> die Verlängerung dessen<lb/>
+Rückzahlungsfrist für einen Fremdenverkehrskredit der ihm einzige Fall<lb/>
+ist. In Wirklichkeit handelt es sich hier um einen sehr guten<lb/>
+Freund von <name type="person" ref="per:97893">Sallinger</name> und <name type="person" ref="per:97769">Mussil</name> zu helfen, <name type="person" ref="per:97769">Mussil</name> erklärte, jetzt<lb/>
+hätte man eine Lösung gefunden weil <name type="person" ref="per:140584">Falkner</name> zuckerkrank wäre. Ich<lb/>
+tat natürlich so als wußte ich dies alles, in Wirklichkeit bin<lb/>
+ich leider über diese Frage nicht informiert, obwohl ich einige<lb/>
+Male den Wunsch <name type="person" ref="per:97893">Sallinger</name>, <name type="person" ref="per:97769">Mussils</name> nachkommend interveniert hatte.<lb/>
+Im Haus sollte zuerst auf meine Weisung eine solche Regelung ohne<lb/>
+einer Begründung durchgeführt werden was ich natürlich abgelehnt<lb/>
+hatte. Wenn man jetzt aber eine Begründung gefunden hat, dann hätte<lb/>
+man das Büro unbedingt informieren müssen.</p><p xml:space="preserve">Anmerkung für <name type="person" ref="per:97377">BUKOWSKI</name>: Bitte verlange von <name type="person" ref="per:111367">Würzl</name> in Hinkunft, daß<lb/>
+er auch von Fällen die er vorher mit <name type="person" ref="per:97543">Heindl</name><lb/>
+besprochen hat, Dich jetzt informiert. <name type="person" ref="per:111367">Würzl</name><lb/>
+versucht deutlich sichtbar sich immer selb<lb break="no"/>ständiger zu machen.</p><pb n="21-0645" facs="21_1974-05-27_0645.jpg"/><p xml:space="preserve">Das Journalistenfrühstück wäre wahrscheinlich nicht so gut<lb/>
+gelaufen wenn wir nicht <name type="person" ref="per:97865">Reisinger</name> und <name type="person" ref="per:112014">Ehrbacher</name> die aus der<lb/>
+Sowjetunion zurückgekommen sind und dort die Anreicherung mit<lb/>
+den Sowjets abzuschließen, geladen hätten. Einleitend erklärte<lb/>
+ich, daß nicht gegen die Bürgerinitiativen mich wendend ich<lb/>
+die Presse ersuche, aufklärend zu wirken und zu diesem Zweck<lb/>
+sie über die laufenden Verhandlungen das Atomkraftwerk betreffend<lb/>
+ständig informieren möchte. <name type="person" ref="per:130518">Diebold</name> fragte auch sofort dann an<lb/>
+nachdem <name type="person" ref="per:112014">Ehrbacher</name> die Ergebnisse der sowjetischen Verhandlungen<lb/>
+mit der Anreicherung von Uran verhältnismäßig auch im Detail ge<lb break="no"/>schildert hatte, was mit dem Atommüll geschehe und verwies auf<lb/>
+den angeblichen Atommüllskandal in Deutschland, <name type="person" ref="per:112014">Ehrbacher</name> war<lb/>
+nicht genau informiert, reagierte daher auch nicht besonders<lb/>
+geschickt und ich auch wußte nichts. Ich habe <name type="person" ref="per:112014">Ehrbacher</name> sofort<lb/>
+veranlaßt mir eine Information zu schicken. SChef <name type="person" ref="per:107937">Frank</name> hat<lb/>
+sich RegRat <name type="person" ref="per:111699">Puffler</name> beschwert, daß die beiden <name type="person" ref="per:97865">Reisinger</name> und<lb/>
+<name type="person" ref="per:112014">Ehrbacher</name> ihm nicht informiert haben. Meine Fehler war es, daß<lb/>
+ich <name type="person" ref="per:107937">Frank</name> nicht zum Pressegespräch eingeladen habe, was aller<lb/>
+dings <name type="person" ref="per:111699">Puffler</name> behauptet, er hätte es sowieso getan.</p><p xml:space="preserve">Anmerkung für <name type="person" ref="per:97377">Bukowski</name> und <name type="person" ref="per:97646">KOPPE</name>: Bei unserer langfristigen Pla<lb break="no"/>nung über die Journalistenfrühstücke müßten wir auch immer berück<lb break="no"/>sichtigen, die entsprechenden Leute einzuladen.</p><p xml:space="preserve">In Durchführung der Versuche durch die Schillingaufwertung auch<lb/>
+die Importe zu verbilligen habe ich, nachdem die Ölindustrie<lb/>
+bereit ist, hier Sommerrabatte in größerem Ausmaß zu geben, das<lb break="no"/>selbe auch bei der Kohlengruppe versucht. Eine Besprechung mit<lb/>
+<name type="person" ref="per:97880">Rosenstrauch</name>, Polkarbon, <name type="person" ref="per:121800">Übeleis</name> und <name type="person" ref="per:149240">Sulek</name>, Gaskoks, <name type="person" ref="per:146594">Janota</name> nachdem<lb/>
+der Chef <name type="person" ref="per:131063">Dressler</name> im Ausland ist und von der Bundeskammer <name type="person" ref="per:134959">Widhalm</name>,<lb/>
+musste ich allerdings erkennen, daß diese nicht die Möglichkeiten<lb/>
+haben wie die Ölleute. Die Ruhr hat mit 13. Mai eine Erhöhung durch<lb break="no"/>geführt und auch der Osten hat angekündigt mit 1. Juli Erhöhungen<lb/>
+vorzunehmen, dadurch bestehen kaum größere Möglichkeiten den Sommer<lb break="no"/>rabatt, den die Firmen bis jetzt schon gegeben haben, der aller<lb break="no"/>dings sehr gering ist 30 Schilling pro Tonne zu erhöhen. Die in den<lb/>
+Zeitungen verlautbarten Preise sind deshalb, wie es so schön heißt,<lb/>
+unverbindliche Kalkulationsrichtlinien auf Grund des Kartellgesetzes<lb/>
+und beinhalten alle Spannen, nur bei Union-Briketts könnte eine<lb/>
+Aufwertungsverbilligung sich ergeben, weil hier angeblich die<lb/>
+Reviere in der Bundesrepublik keine Erhöhung beabsichtigen.</p><pb n="21-0646" facs="21_1974-05-27_0646.jpg"/><p xml:space="preserve">Die Unternehmer werden weitere Beratungen führen um sie ein<lb/>
+bisschen unter Druck zu setzen habe ich gedroht, daß man mich<lb/>
+jetzt und dies nicht einmal von sozialistischer Seite immer<lb/>
+wieder auffordert, ich sollte die gesetzlichen Möglichkeiten<lb/>
+ausnützen, eine Preisfestsetzung resp. Wiedereinbeziehung<lb/>
+in die Preisregelung liegt daher im Bereich des Möglichen.<lb/>
+In diesem Fall, würde der alte, bis zu Aufhebung geltende Preis<lb/>
+von mir in Kraft gesetzt werden und dann könnte erst über den<lb/>
+Wunsch zumindest jetzt verlangte Preise zu bekommen, verhandelt<lb/>
+werden, da wir seinerzeit die Preisregelung aufgehoben haben<lb/>
+weil die Kokspreise damals exorbitant hoch gestiegen sind, würden<lb/>
+auf diesem Sektor der jetzige Preis wahrscheinlich noch erhöht<lb/>
+werden können. Allerdings ist durch die Stahlbros auch auf diesem<lb/>
+Sektor eine kräftige Erhöhung in nächster Zeit zu erwarten.</p><p xml:space="preserve">Anmerkung für <name type="person" ref="per:98040">WAIS</name>: Laß Dir bitte eine ziffernmässige Zusammen<lb break="no"/>stellung der Importpreise bei der Sistierung der Preisregelung<lb/>
+den damaligen Verbraucherpreis und den jetzigen Preisen geben.<lb/>
+Nach Rückkehr von <name type="person" ref="per:131063">Dressler</name>, Gaskoks sofort mit ihm und mir Be<lb break="no"/>sprechung vereinbaren. Feststellen ob <name type="person" ref="per:131063">Dressler</name> ein Genosse ist.</p><p xml:space="preserve">Bei der Aussprache zwischen der Wiener Landesregierung über das<lb/>
+Wiener Memorandum und der Bundesregierung war ich nicht eingeladen<lb/>
+doch kam ich dann zum Ende da ich mich bei <name type="person" ref="per:115595">Reiter</name> erkundigte was<lb/>
+mit den Spitalgebühren geschehen ist. <name type="person" ref="per:97488">Gratz</name> hat als Stabilisierungs<lb break="no"/>unterstützung angekündigt 6 Monate diese Gebührenerhöhung zurückzu<lb break="no"/>nehmen. Dieses Ergebnis hat dann <name type="person" ref="per:97668">Kreisky</name> sofort in der Wirtschafts<lb break="no"/>politischen Aussprache als Stabilitätsbeitrag Wiens verkündet und<lb/>
+darauf hingewiesen, daß der Index dadurch um 0.6 % weniger steigen<lb/>
+wird. Die Handelskammer hat auf diese Äusserung nicht reagiert<lb/>
+obwohl ich überzeugt bin, wie übrigens <name type="person" ref="per:133326">Krämer</name> auch, mit dem ich<lb/>
+mittags über diese Problem gesprochen habe, daß im zentralen<lb/>
+Redaktionskommitee im Statistischen Zentralamt der Handelskammer<lb break="no"/>vertreter Schwierigkeiten machen wird. Das Statistische Zentralamt<lb/>
+hat zu seiner Entlastung, daß es im vorliegenden Fall eine nicht<lb/>
+repräsentative Position mit verhältnismäßig hohen Gewichtsanteile<lb/>
+0.6.47 % des gesamten Warenkorbes eine entsprechende Aufstellung<lb/>
+über die Gebührenerhöhungen für andere Krankenanstalten zusammen<lb break="no"/>gestellt, damit verteidigt sich zwar das Statistische Zentralamt<lb/>
+gibt aber den Regierungsgegnern die Möglichkeit bei der evtl.<lb/>
+Rückführung die Regierung der Indexmanipulation zu bezichtigen.</p><pb n="21-0647" facs="21_1974-05-27_0647.jpg"/><p xml:space="preserve">Hier erwarte ich in der Propaganda gegen die Regierung einen<lb/>
+kräftigen Angriff.</p><p xml:space="preserve"><name type="person" ref="per:97311">Androsch</name> legt ein Papier vor und hat es dann auch kurz erörtert<lb/>
+neu war nur, daß auf dem Sektor der Bauwirtschaft für den Fall<lb/>
+über die Ölnormänderung keine kurzfristige Lösung zu erzielen sei<lb/>
+Fixpreise für den Wohnungsbau in Aussicht stellte. Bei den Kredit<lb break="no"/>instituten wird er die Filialwünsche nicht erfüllen und erwartet<lb/>
+auch daß die Tankstellen keine neuen mehr bauen sondern wenn eine<lb/>
+neue errichtet wird, zwei alte geschlossen werden müßten. <name type="person" ref="per:97668">Kreisky</name><lb/>
+hat irgendwo wahrscheinlich festgestellt, ich habe es aus einer<lb/>
+Äusserung gegenüber <name type="person" ref="per:97311">Androsch</name> gehört, daß vielzuviel neue Tank<lb break="no"/>stellen womöglich in einem engen Gebiet immer wieder neu errichtet<lb/>
+werden, weshalb dies abgeändert werden müßte. Er verwies darauf,<lb/>
+daß für diesen Fall 1972 schon die Organisationen der Handelskammer<lb/>
+vorgesprochen haben um einen Tankstellenerrichtungsstock zu ver<lb break="no"/>langen. Aus grundsätzlichen Überlegungen hätte sich die Handels<lb break="no"/>kammer dafür nicht einsetzen können und jetzt sei im Zuge der<lb/>
+Liberalisierung der Gewerbeordnung dies auch nicht möglich.</p><p xml:space="preserve">Anmerkung für <name type="person" ref="per:98053">WANKE</name>: Wieweit werden unsere seinerzeitigen Verein<lb break="no"/>barungen auf Grund unseres seinerzeitigen Tankstellenkonzeptes<lb/>
+eingehalten ?</p><p xml:space="preserve"><name type="person" ref="per:97311">Androsch</name> kündigte auch an, daß er die vorzeitige AVA für unbewegliche<lb/>
+Wirtschaftsgüter 25 % abschaffen möchte und dafür die normale<lb/>
+Nutzungsdauer verkürzen. Die Absicht besteht um 5 % die normale<lb/>
+AVA für unbewegliche Wirtschaftsgüter zu erhöhen.</p><p xml:space="preserve">Anmerkung für <name type="person" ref="per:98053">WANKE</name>: MR <name type="person" ref="per:97493">Gröger</name> mit <name type="person" ref="per:97693">Lejolle</name> soll sich über den<lb/>
+letzten Stand sofort informieren und über Auswirkung berichten.</p><p xml:space="preserve"><name type="person" ref="per:97769">Mussil</name> verwies darauf, daß die Lohnsummensteigerung von 13,8 auf<lb/>
+16,7 1973 angewachsen ist. 1 % Lohnerhöhung bedeuten nach Wirtschafts<lb break="no"/>forschungsberechnung 0,7 % Indexerhöhung. Die Produktivität sei<lb/>
+nur um 4 % gestiegen, die Lohnstückkosten um 10 %, die Gewinne der<lb/>
+Unternehmungen seien mit 2 % nominell festgelegt und deshalb sei<lb/>
+ein Reallohnverlust jetzt zu erwarten, der die Vorteile der letzten<lb/>
+zwei Jahre vollkommen aufsaugt, demgegenüber erklärte <name type="person" ref="per:97525">Häuser</name>, daß<lb/>
+auf Grund der Volkseinkommensrechnung die Unternehmergewinne in den<lb/>
+letzten Jahre sehr zugenommen hatten. Hier erläuterte <name type="person" ref="per:97937">Seidel</name>,<lb/>
+Wirtschaftsforschung, daß dies darauf zurückzuführen sei, weil die<lb/>
+Mehrwertsteuerlücke, das sind die berühmten 7-8 Milliarden Umsatz<lb break="no"/>steuervorentlastung dem Unternehmereinkommen zugerechnet wurden.</p><pb n="21-0648" facs="21_1974-05-27_0648.jpg"/><p xml:space="preserve"><name type="person" ref="per:97937">Seidel</name> schlug vor, es wäre zweckmässig, eine genaue Analyse dieser<lb/>
+Ziffern vorzunehmen und eine neue Volkseinkommensberechnung zu<lb/>
+erstellen.</p><p xml:space="preserve">Anmerkung für <name type="person" ref="per:97469">GEHART</name>: Bitte diese Problematik für mich zusammen<lb break="no"/>zustellen.</p><p xml:space="preserve">Da natürlich sowohl <name type="person" ref="per:97581">Igler</name> als auch <name type="person" ref="per:97769">Mussil</name> und <name type="person" ref="per:97893">Sallinger</name> größte<lb/>
+Bedenken gegen diese Konzeption vorgebracht haben, hat <name type="person" ref="per:97668">Kreisky</name><lb/>
+zusammengefaßt, es handelt sich ja nur um eine wirtschaftspolitische<lb/>
+Aussprache, die Regierung müsse handeln und deshalb wird er<lb/>
+Finanzminister sein vorgelegtes Papier plus Verwaltungsmaßnahmen<lb/>
+in Angriff nehmen damit verhindert wird, daß der Verbraucherpreis<lb/>
+über 10 % steigt. <name type="person" ref="per:97346">Benya</name> machte sofort den richtigen Zwischenruf<lb/>
+im Jahresdurchschnitt weil ansonsten womöglich nach einiger Zeit<lb/>
+die ÖVP mit Recht argumentiert, daß die Regierung immer gesagt hat,<lb/>
+10 % wird nicht überschritten. <name type="person" ref="per:97668">Kreisky</name> kündigte auch an, daß am<lb/>
+4.6. mit den Landeshauptleuten über die Stabilisierung und nach<lb break="no"/>mittags Parteiengespräche zuerst mit der Volkspartei und dann den<lb/>
+Freiheitlichen geführt werden. Mit den Interessensvertretungen sei<lb/>
+dann am 5. um 15.00 Uhr die nächste Sitzung.</p><p xml:space="preserve">Anmerkung für <name type="person" ref="per:98072">WIESINGER</name>: Bitte vormerken.</p><p xml:space="preserve">Bei <name type="person" ref="per:97627">Heinzi Kienzl</name> traf ich einen großen Teil meiner alten Freunde.<lb/>
+Alle sind über die weiter Entwicklung sehr besorgt. Die ÖMV<lb/>
+wird wie mir <name type="person" ref="per:97738">Meszaros</name> sagte, den internationalen einen 10 % igen<lb/>
+Senkung des Heizölpreises als Sommerrabatt vorschlagen. Man sieht<lb/>
+aus der ganzen Aktion die wir übrigens im Vorjahr auch ähnlich<lb/>
+gestaltet haben ist für mich, daß wir einem Unternehmer brauchen,<lb/>
+der mitspielt, um die anderen mitzureißen. Im Vorjahr hat sich<lb/>
+Ing. <name type="person" ref="per:139851">Zotter</name> vergeblich bemüht. Daraus ziehe ich den Schluß, wir<lb/>
+müssen die Unternehmerfront aufspalten. Leider machen unsere<lb/>
+Organisationen kaum mit. Die GÖC Dir. <name type="person" ref="per:143034">Mittermaier</name> mit dem ich<lb/>
+gesprochen habe, meinte, es käme nichts in Frage ausser Reis der<lb/>
+allerdings jetzt schon gesenkt wurde. Früher Einstandspreis<lb/>
+18 Schilling jetzige Detailabgabepreis 11 bis 12 Schilling. Hier<lb/>
+könne man nichts mehr machen, andererseits hat er gleich angekündigt,<lb/>
+daß er den Ölpreis erhöhen muß. Vielleicht kann man hier wirklich<lb/>
+mit der Firma <name type="person" ref="per:140844">Schöps</name> einen Durchbruch erzielen. Mit der Durchführung<lb/>
+werde ich MR Dr. <name type="person" ref="per:140835">Degen</name> beauftragen, vielleicht hat er mehr Erfolg<lb/>
+als <name type="person" ref="per:139851">Zotter</name>. Mir genügt es aber schon, wenn er so aktiv ist wie<lb/>
+seinerzeit <name type="person" ref="per:139851">Zotter</name>. der immerhin in der Optik einiges erreichen konnte</p></div>
+      </body>
+      <back>
+         <pb n="21_0640_01" facs="21_1974-05-27_0640-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 27.5.1974</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="21_0640_02" facs="21_1974-05-27_0640-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+   </text>
+</TEI>

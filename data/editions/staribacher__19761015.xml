@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der 15. Oktober 1976</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band32_1976-10-15</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1976-10-15">Freitag, 15. Oktober 1976</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-01-31">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="32-1143" facs="32_1976-10-15_1143.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Freitag, 15. Oktober 1976<lb/>
+</p>
+            <p xml:space="preserve">Botschafter <name type="person" ref="per:127038">Würth</name> vom Int. Textilabkommen diskutierte mit<lb/>
+<name type="person" ref="per:108322">Meisl</name>, <name type="person" ref="per:98075">Willenpart</name> und unserem ehemaligen Textilreferenten<lb/>
+Dr. <name type="person" ref="per:114963">Dinzl</name>, der jetzt von der Industrie in den Int. Textil<lb break="no"/>ausschuß entsendet wurde, die Frage der Verlängerung dieses<lb/>
+Abkommens. <name type="person" ref="per:98075">Willenpart</name> hat mir zwar eine Information geschickt<lb/>
+über 8 Wünsche, die er hätte, <name type="person" ref="per:108322">Meisl</name> hat aber sofort festge<lb break="no"/>halten, daß die Deutschen erklärten, die Europäische Gemein<lb break="no"/>schaft wird, da eine Novelle kaum möglich ist, für die unver<lb break="no"/>änderte Verlängerung stimmen. <name type="person" ref="per:127038">Würth</name> hat ebenfalls diese<lb/>
+Meinung. <name type="person" ref="per:98075">Willenpart</name> meinte aus taktischen Gründen müßte aber<lb/>
+von den Entwicklungsländern entsprechende Änderungen zugunsten<lb/>
+der Industrieländer verlangen, damit diese auf ihre Wünsche<lb/>
+auch verzichten. Ich erklärte ihnen, man sollte aber jetzt nicht<lb/>
+monatelange Verhandlungen darüber führen, sondern eben bei der<lb/>
+ersten Gelegenheit feststellen, daß es nur eine unveränderte<lb/>
+Verlängerung gibt. Ich befürchtete nämlich, daß sonst wieder<lb/>
+monatelange und etliche Dienstreisen durch den sowieso jetzt<lb/>
+schon feststehenden Ergebnis, nämlich unveränderte Verlängerung<lb/>
+von den Beamten angepeilt werden.<lb/>
+</p>
+            <p xml:space="preserve">Anmerkung für <name type="person" ref="per:98040">WAIS</name>: Bitte kläre diese Frage mit MR <name type="person" ref="per:114963">Dinzl</name>.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97411">Effenberger</name> verständigte mich, daß er mit den Preisreferenten<lb/>
+von Shell über die Preispolitik der Internationalen gesprochen<lb/>
+hat. Das ARBÖ-Präsidium war über diese Aktivität nicht sehr<lb/>
+glücklich. <name type="person" ref="per:97411">Effenberger</name> hat aber vorher mit mir Rücksprache ge<lb break="no"/>nommen und ich habe ihm empfohlen, selbstverständlich den ge<lb break="no"/>wünschten Kontakt von Shell aufzunehmen auch dann wenn er selbst<lb break="no"/>verständlich auch den Internationalen keine Zusagen machen wird.<lb/>
+Ich stehe auf dem Standpunkt, jede Kontaktmöglichkeit muß man<lb/>
+nützen, insbes. dann, wenn man nur ein Verein ist, der sich<lb/>
+stärker in das Geschehen einschalten möchte. Scheinbar hat das<lb/>
+Präsidium aber Angst, in irgendeine engere Verstrickung mit den<lb/>
+Internationalen zu kommen.<lb/>
+</p>
+            <p xml:space="preserve">Anmerkung für <name type="person" ref="per:98040">WAIS</name>: Bitte halte mit <name type="person" ref="per:97411">Effenberger</name> Kontakt.<lb/>
+</p>
+            <pb n="32-1144" facs="32_1976-10-15_1144.jpg"/>
+            <p xml:space="preserve">Der ÖAMTC hat den ARBÖ jetzt geklagt wegen unlauteren Wett<lb break="no"/>bewerb, weil dieser mit Unterstützung<add>[von]</add> <name type="person" ref="per:111741">Sekanina</name> und <name type="person" ref="per:97563">Hofstetter</name><add>[evtl. nicht Erich, sondern Walter Hofstetter gemeint; Anm.]</add><lb/>
+an 19.000 sozialistische Betriebsräte einen Brief gerichtet<lb/>
+hat, wo auch ein Kündigungsformular ohne natürlich die Auf<lb break="no"/>forderung aus dem ÖAMTC auszutreten, beigelegen ist. Der ÖAMTC<lb/>
+bezieht dies aber auf sich, was auch stimmt, und hat geklagt.<lb/>
+Ich fragte <name type="person" ref="per:97411">Effenberger</name>, warum er nicht versucht hat auf gütigen<lb/>
+Wege, gegebenenfalls hat ich mich zur Verfügung gestellt, dieses<lb/>
+Problem aus der Welt zu schaffen. <name type="person" ref="per:97411">Effenberger</name> sagt mit Recht,<lb/>
+dann hätten sie die Aktion wieder abblasen müssen und dies<lb/>
+wollten sie natürlich nicht. Ich bin sehr gespannt, wie diese<lb/>
+Klage ausgehen wird.<lb/>
+</p>
+            <p xml:space="preserve">Anmerkung für <name type="person" ref="per:97584">JAGODA</name> und <name type="person" ref="per:98040">WAIS</name>: Bitte diese Frage genau verfolgen.<lb/>
+</p>
+            <p xml:space="preserve">Komm.Rat <name type="person" ref="per:134077">Vejskal</name>, Funktionär der Gießereiindustrie, erhielt<lb/>
+ein Ehrenzeichen, da er in zwei Tagen seinen Geburtstag hat,<lb/>
+hat bei mir NR Dr. <name type="person" ref="per:97437">Fiedler</name> interveniert, damit er zeitgerecht<lb/>
+diese Auszeichnung bekommt, <choice><choice><sic>sonsten</sic><corr>sonst? ansonsten?</corr></choice></choice> wäre er erst am Montag in<lb/>
+dem allgemeinen halbjährlichen Turnus beteilt worden. Dieses<lb/>
+Service mache ich wirklich gerne, obwohl es eigentlich viel<lb/>
+Zeit kostet. Man muß doch nachher zumind. zu einem Kaffee oder<lb/>
+Tee bitten und das läßt sich nicht in ein paar Minuten abwickeln.<lb/>
+Besser wäre es, wenn bei dieser Gelegenheit gleich ein Betriebs<lb break="no"/>besuch verbunden werden könnte.<lb/>
+</p>
+            <p xml:space="preserve">Anmerkung für <name type="person" ref="per:114508">TIEBER</name>: Was ist mit unserem ursprünglichen Plan<lb/>
+Betriebsbesuche mit Publicity und Auszeichnungen.<lb/>
+</p>
+            <p xml:space="preserve">Die Firma Köck eröffnete ein Farbfernsehbestpreiszentrum in<lb/>
+der Ottakringer Straße, in einem richtigen Arbeiterbezirk, es<lb/>
+liegt allerdings in Hernals, hat er in einem neuen Haus die<lb/>
+Gassenfront und das ganze Parterre für sich gemietet. Er hat<lb/>
+nicht von vornherein, als dieses Haus gebaut wurde, auf diesen<lb/>
+Platz spekuliert, sondern scheinbar nur aus Konkurrenzgründen,<lb/>
+weil die Firma Kratky sich angeblich neben sein Zentrum im<lb/>
+zweiten Bezirk jetzt gesetzt hat. Köck hat jetzt in diesem<lb/>
+Zentrum, das größte Ausstellungszentrum der Farbfernseher,<lb/>
+an die 500 Stück stehen dort zum Verkauf bereit. <name type="person" ref="per:145470">Köck</name> hat auch<lb/>
+in seiner Ansprache herausgestrichen, daß er ein Service-Zentrum<lb/>
+<pb n="32-1145" facs="32_1976-10-15_1145.jpg"/>jetzt ganz in der Nähe errichten wird, 1958 ein unbedeutendes<lb/>
+Fernseh-Servicegeschäft, das er mit seiner Frau gründete, und<lb/>
+heute, ein Betrieb, der 350 Mio. Schilling Umsatz macht, eine<lb/>
+gigantische Leistung. Was mich aber am meisten beeindruckt, und<lb/>
+nicht zuletzt deshalb bin ich dort hingegangen, war, daß er<lb/>
+42 Lehrlinge beschäftigt und damit, wie ich bei meiner Ausführung<lb/>
+besonders herausstrich, dem Wunsch des Handelsministeriums mehr<lb/>
+Lehrlinge einzustellen, nachgekommen ist. Von <name type="person" ref="per:145470">Köck</name> wird gesagt,<lb/>
+daß er dem Freien Wirtschaftsverband angehört, der mich auch<lb/>
+ersucht hat, die Eröffnung dort vorzunehmen. Selbstverständlich<lb/>
+waren auch die Vertreter der Industrie anwesend. <name type="person" ref="per:145470">Köck</name> hat in<lb/>
+seiner Ansprache ohne weiteres zugegeben, daß er sehr zum Leid<lb break="no"/>wesen der Industrie auch seine Politik betreibt. Das größte<lb/>
+Farbfernsehzentrum in Österreich, wahrscheinlich sogar in Europa<lb/>
+zu sein, gibt ihm ein entsprechendes Prestigebedürfnis. Ob es<lb/>
+sich finanziell rentiert, kann ich mir nicht erklären. Was soll<lb/>
+der Konsument mit einer derartigen Fülle und Auswahlmöglichkeit.<lb/>
+<name type="person" ref="per:145470">Köck</name> hat zugegeben, als er mit seinem Geschäft mit 400 Schilling<lb/>
+Miete dann in den zweiten Bezirk mit 35.000 Schilling Miete um<lb break="no"/>gezogen ist, sind seine Kunden weggeblieben, weil sie befürchteten,<lb/>
+daß jetzt seine Apparate durch den höheren Aufwand der allein<lb/>
+schon äußerlich durch die Ausstattung des neuen Geschäftes und<lb/>
+die Größe zum Ausdruck kam, teurer wird. Dies war der Grund, daß<lb/>
+er das Bestpreissystem einführte. Jeder der ihm sagte, wo ein<lb/>
+Apparat billiger zu haben ist, hat um diesen Preis auch seinen<lb/>
+Apparat kaufen können.<lb/>
+</p>
+            <p xml:space="preserve">Anmerkung für <name type="person" ref="per:114508">TIEBER</name>: Suche über die Methode von <name type="person" ref="per:145470">Köck</name> bei der<lb/>
+Konsumenteninformation einiges zu erfahren.<lb/>
+</p>
+            <p xml:space="preserve">Beim Jour-fixe AK, ÖGB berichtete <name type="person" ref="per:98053">Wanke</name> zuerst über seine<lb/>
+Aktivität auf dem Industriesektor, er hat mit der Handelskammer<lb/>
+ein Jour-fixe und will jetzt auch mit den Industrieleuten des<lb/>
+Arbeiterkammertages und der ÖGB entsprechende ständige Besprechung<lb/>
+führen. Dies halte ich für sehr zweckmäßig, da es absolut auch<lb/>
+mein Stil seit eh und je gewesen ist.<lb/>
+</p>
+            <p xml:space="preserve">Das Getreidemodell der Landwirtschaftskammer wird diskutiert<lb/>
+wobei wir übereinstimmend feststellen, daß wir mit dem Futter<lb break="no"/>getreide sei es ab qualifizierter Normalweizen, sei es wirklich<lb/>
+gleich angebautes Futtergetreide, nicht fertig werden, wenn wir<lb/>
+nicht gleichzeitig die Preise für diese Produkte freigeben.<lb/>
+</p>
+            <pb n="32-1146" facs="32_1976-10-15_1146.jpg"/>
+            <p xml:space="preserve">Minister <name type="person" ref="per:97511">Haiden</name>, mit dem ich vorher schon über diese Probleme<lb/>
+sprach, ist bereit, hier mitzugehen. Allerdings stellt er sich<lb/>
+vor und dafür habe ich Verständnis, daß die Initiative von<lb/>
+mir ausgehen muß, weil er sich mit den Bauern nicht verscherzen<lb/>
+kann.<lb/>
+</p>
+            <p xml:space="preserve">Anmerkung für <name type="person" ref="per:97819">PLESCH</name>: Bitte halte mit <name type="person" ref="per:97511">Haiden</name> und seinen Leuten<lb/>
+auch entsprechenden Kontakt.<lb/>
+</p>
+            <p xml:space="preserve">Die Zuckerbesprechung zwischen <name type="person" ref="per:112010">Blaha</name>, <name type="person" ref="per:114075">Schmidt</name>, <name type="person" ref="per:111718">Skene</name>, <name type="person" ref="per:112564">Smolka</name> und<lb/>
+<name type="person" ref="per:130462">Leyerer</name> hat ergeben, daß jetzt auch gemeinsam ein Modell erarbeitet<lb/>
+werden soll. Die ursprüngliche Konzeption wird nicht möglich<lb/>
+sein, weil der Weltmarktpreis jetzt wieder bei 4–5 Schilling<lb/>
+liegt und angeblich noch weiter fällt. Die Industrie möchte<lb/>
+60.000 Tonnen langfristig pro Jahr exportieren, das eine Anbau<lb break="no"/>fläche von ca. 10.000 ha den Bauern sichern würde. Die Frage ist<lb/>
+nur, wie soll dieser Export finanziert werden. Bis zum Feber 1978<lb/>
+wo die Preise unverändert bleiben, wird es möglich sein, eine<lb/>
+entsprechende Lösung zu finden.<lb/>
+</p>
+            <p xml:space="preserve">Anmerkung für <name type="person" ref="per:98040">WAIS</name> und <name type="person" ref="per:97819">PLESCH</name>: Bitte die Preisvorstellungen der<lb/>
+Industrie sich geben lassen.<lb/>
+</p>
+            <p xml:space="preserve">Die Werbung "Wahrheit, Irreführung" wird von <name type="person" ref="per:97676">Lachs</name> kritisiert.<lb/>
+Er war jetzt in Amerika und hat dort einen gewissen <name type="person" ref="per:145471">Turner</name><lb/>
+kennengelernt, der bereit wäre, auf Einladung der öst. Stellen,<lb/>
+finanziert vom amerikanischen Staat, entsprechende Vorträge<lb/>
+und Erfahrungsaustausch zugeben. In Amerika gibt es bezüglich<lb/>
+der Währung ständig entsprechende Prozesse.<lb/>
+</p>
+            <p xml:space="preserve">Anmerkung für <name type="person" ref="per:97646">KOPPE</name><add>Tieber</add>: Bitte überleg, ob du ihn einladen kannst,<lb/>
+ich kann es als Staat kaum.<lb/>
+</p>
+            <p xml:space="preserve">Die TIWAG hat jetzt gegen den Beschluß des Aufsichtsrates eine<lb/>
+Dividendenausschüttung angeblich vorgenommen, weil die General<lb break="no"/>versammlung dies beschlossen hat. Die TIWAG hat eine schlechte<lb/>
+finanzielle Situation und trotzdem wird Kapital gekürzt.<lb/>
+</p>
+            <p xml:space="preserve">Anmerkung für <name type="person" ref="per:98040">WAIS</name>: Bitte kläre den Sachverhalt.<lb/>
+</p>
+            <p xml:space="preserve">Die Expertengruppe Nahversorgung wird kaum weiterkommen.<lb/>
+<name type="person" ref="per:112563">Farnleitner</name> von der Handelskammer möchte ein kurzes Gesetz.<lb/>
+Darin würde allerdings das Diskriminierungsverbot, d.h. es darf<lb/>
+nur ein gleicher Einstandspreis für alle gelten, nur abzüglich<lb/>
+<pb n="32-1147" facs="32_1976-10-15_1147.jpg"/>von Mengenrabatten besonders die Konsumgenossenschaft hart<lb/>
+treffen, so behauptet <name type="person" ref="per:97676">Lachs</name>. <name type="person" ref="per:114075">Schmidt</name> wieder möchte, mit dem<lb/>
+Konsumentenschutzgesetz eine Koppelung, ohne daß dies natürlich<lb/>
+gesagt wird. Die Verhandlungen werden sich also in der nächsten<lb/>
+Zeit mühsamst über die Runden ziehen, rauskommen, davon bin ich<lb/>
+überzeugt, wird ein optisches Gesetz. Der Vorteil wird allerdings<lb/>
+sein, daß ich dann die Handelskammer immer wieder darauf auf<lb break="no"/>merksam machen kann, daß mit ihrer Zustimmung in Sozialpartner<lb break="no"/>ebene diese Lösung gewünscht wurde und dann letzten Endes auch<lb/>
+vom Parlament beschlossen wurde. <name type="person" ref="per:97676">Lachs</name> meint, es wird nach wie<lb/>
+vor der Vorsitzende des Konsumausschusses Abg. <name type="person" ref="per:97505">Haberl</name> auf alle<lb/>
+Fälle dagegen sein.<lb/>
+</p>
+            <p xml:space="preserve">Anmerkung für <name type="person" ref="per:97584">JAGODA</name> und <name type="person" ref="per:114508">TIEBER</name>: Bitte doch so zu arbeiten, daß<lb/>
+wir zu einem Ergebnis kommen können.<lb/>
+</p>
+            <p xml:space="preserve">Durch das Begräbnis für Stadtrat <name type="person" ref="per:97582">Jacobi</name>, das vom dritten Bezirk<lb/>
+allein sehr gut besucht war, und auch viele andere Trauergäste,<lb/>
+wie <name type="person" ref="per:97668">Kreisky</name>, <name type="person" ref="per:97442">Firnberg</name>, alle Stadträte, Gemeinderäte usw. die<lb/>
+daran teilnahmen, kam ich zur Festveranstaltung der Firma Brantner<lb/>
+zu spät nach Laa a.d. Thaya. Ich hörte aber noch den Betriebs<lb break="no"/>ratsobmann, Bürgermeister, Landeshauptmann und auch den Handels<lb break="no"/>kammerpräsident <name type="person" ref="per:111326">Schauer</name>, <name type="person" ref="per:112031">Maurer</name> hat einen Brantneranhänger in<lb/>
+seinem Betrieb und sich zwei selbst gebaut, damit hatte ich ganz<lb/>
+lustige Aufhängergeschichten, ich erklärte, ich sei mit Handels<lb break="no"/>kammerpräsident einer Meinung, daß wir die Pfuscherbekämpfung<lb/>
+nicht einschalten werden, usw. Der Betrieb, hat <name type="person" ref="per:112031">Maurer</name> erklärt,<lb/>
+hat 69–90 Beschäftigte gehabt, jetzt 155, dies, erwiderte ich,<lb/>
+sei ein Zeichen des Aufstieges der letzten Jahre. Tatsächlich<lb/>
+ist es im Grenzland meiner Meinung nach äußerst wichtig, wenn solche<lb/>
+Mittelbetriebe sich nicht nur ansiedeln, sondern auch gehalten<lb/>
+werden können. <name type="person" ref="per:145472">Brantner</name> hat beim Rundgang mir einen Arbeiter<lb/>
+dann vorgestellt, der über 90 Schilling Stundenlohn verdient.<lb/>
+Hier handelt es sich aber sicherlich um eine Ausnahme. <name type="person" ref="per:145472">Brantner</name><lb/>
+selbst beschäftigt auch viele Lehrlinge, wofür ich ihm herzlichst<lb/>
+dankte. Bis jetzt hatte er keine Möglichkeit die Lehrlinge aus<lb break="no"/>zusuchen, sondern mußte jeden nehmen, den er bekommen hat. Im<lb/>
+letzten Jahr hat sich dies wesentlich geändert. <name type="person" ref="per:145472">Brantner</name> hat<lb/>
+mit seinen Leuten ein gutes Verhältnis, sowohl er als auch der<lb/>
+Bürgermeister, der Handelskammerpräsident und der Landeshauptmann<lb/>
+gingen auf die neuen LKW-Steuern ein, die Grenzgebiete hoffen,<lb/>
+<pb n="32-1148" facs="32_1976-10-15_1148.jpg"/>daß sie eine Ausnahmegenehmigung erhalten, wie dies auch<lb/>
+seinerzeit bei der Beförderungssteuer der Fall war. Da ich<lb/>
+nicht weiß, ob <name type="person" ref="per:110923">Lanc</name> so etwas beabsichtigt, habe ich auf diese<lb/>
+Anfragen überhaupt nicht reagiert, dies ist sicherlich eine<lb/>
+Ausnahme, denn ansonsten nehme ich jeden geworfenen Ball, aber<lb/>
+auch jede kritische Bemerkung auf und reagiere darauf, da ich<lb/>
+aber selbst nicht überzeugt bin, daß die <name type="person" ref="per:110923">Lanc</name>'sche neue Steuer<lb/>
+für die österreichische Wirtschaft gut ist, ja nicht allein der<lb/>
+ÖBB helfen wird, habe ich mich ausnahmsweise einmal gedrückt.<lb/>
+</p>
+            <p xml:space="preserve">Der Säckelwart der Bundeshandelskammer, <name type="person" ref="per:113373">Weinberger</name>, aber auch<lb/>
+NR <name type="person" ref="per:97437">Fiedler</name> erzählten mir übereinstimmend, daß die Einnahmen der<lb/>
+Bundeshandelskammer und der Wiener Handelskammer in diesem Jahr<lb/>
+sehr stark zurückgegangen sind und daß auch im nächsten Jahr<lb/>
+durch die geringe Gewerbesteuer usw. noch größere Einkommens<lb break="no"/>rückgänge zu erwarten sind. Ich habe <name type="person" ref="per:97893">Sallinger</name> verständigt, daß<lb/>
+<name type="person" ref="per:97668">Kreisky</name> den Ministerratsvortrag über die Genehmigung der Aus<lb break="no"/>gaben 1974 aus dem Außenhandelsförderungsbeitrag zurückstellen<lb/>
+ließ, ich brauche dringend entsprechende Detailinformationen,<lb/>
+weil <name type="person" ref="per:97668">Kreisky</name> diese von mir wünscht. Eine Aussprache mit <name type="person" ref="per:97584">Jagoda</name><lb/>
+und <name type="person" ref="per:98053">Wanke</name>, aber ganz besonders mit Sektionschef <name type="person" ref="per:108322">Meisl</name> ergab,<lb/>
+daß diese jetzt versuchen wird, eine Detailinformation zu be<lb break="no"/>kommen. MR <name type="person" ref="per:111706">Müller</name>, den wir vom Finanzministerium bekommen haben<lb/>
+und der die Finanzfragen in der Aussenhandelssektion bearbeitet,<lb/>
+wird mit <name type="person" ref="per:108322">Meisl</name> gemeinsam bei der Handelskammer entsprechende<lb/>
+Erhebungen durchführen. Das Prinzip sollte sein, ohne viel Auf<lb break="no"/>wand doch Detailinformationen zu bekommen, die wir bereit halten<lb/>
+müssen, wenn <name type="person" ref="per:97668">Kreisky</name> entsprechende Informationen tatsächlich<lb/>
+wünscht.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="32_1142_11" facs="32_1976-10-15_1142-11.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 15.10.1976</head>
+         </div>
+      </back>
+   </text>
+</TEI>

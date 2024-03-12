@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der 13. November 1971</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band08_1971-11-13</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1971-11-13">Samstag, 13. November 1971</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-09-10">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="08-1349" facs="08_1971-11-13_1349.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Samstag, 13. November 1971<lb/>
+</p>
+            <p xml:space="preserve">In der Früh hätte ich mit <name type="person" ref="per:97570">Hrdlitschka</name> und <name type="person" ref="per:127771">Scheer</name> in der<lb/>
+Arbeiterkammer die Aussprache wegen des Kammeramtsdirektors.<lb/>
+Ich berichtete <name type="person" ref="per:97570">Hrdlitschka</name> und zuerst aber <name type="person" ref="per:127771">Scheer</name>, dass<lb/>
+<name type="person" ref="per:97346">Benya</name> sehr einverstanden ist, dass er mein Nachfolger wird. <name type="person" ref="per:97570">Hrd<lb break="no"/>litschka</name> wollte unbedingt jetzt von mir erfahren, wie ich mir den<lb/>
+weiteren Weg vorstelle. Er ist auch der Meinung, dass der Kammer<lb break="no"/>amtsdirektor, wie er sich ausdrückte, für mich nicht mehr in Frage<lb/>
+kommt, deshalb muss er ja auch schon aus <choice><choice><sic>innerkammer-Gründen</sic><corr>innerkammerlichen Gründen</corr></choice></choice> eben<lb/>
+jetzt <name type="person" ref="per:127771">Scheer</name> mit dieser Funktion betrauen, möchte aber dann gerne<lb/>
+wissen, ob ich doch gegen <name type="person" ref="per:97488">Gratz</name> oder <name type="person" ref="per:97311">Androsch</name> als Nachfolger für<lb/>
+<name type="person" ref="per:97668">Kreisky</name> in Frage käme. Ich erklärte ihm spontan, <choice><choice><sic>wo</sic><corr>wie?</corr></choice></choice> es wirklich<lb/>
+auch meine Überzeugung ist, dass ich solche Überlegungen nie ange<lb break="no"/>stellt habe. Ich werde auch in Hinkunft nichts anstreben, was<lb/>
+auf ein gewisses Unverständnis bei ihm gestossen ist. Er glaubt<lb/>
+wahrscheinlich, dass dies rein taktisches Verhalten meinerseits<lb/>
+bedeutet. Ich denke aber nicht daran, Positionen, die mit viel<lb/>
+Ehren, dafür aber mit umso mehr Arbeit, oft mörderischer Art<lb/>
+verbunden sind, anzustreben. Ausserdem bin ich überzeugt, dass<lb/>
+z.B. <name type="person" ref="per:97488">Gratz</name> aber selbst auch wahrscheinlich <name type="person" ref="per:97311">Androsch</name> die jüngeren<lb/>
+aber vor allem die tüchtigeren Leute sind. Der einzige Posten, der<lb/>
+mich interessiert und ich habe noch niemals mit jemand anderem<lb/>
+darüber gesprochen, wäre, wenn <name type="person" ref="per:97346">Benya</name> in Pension geht, Gewerkschafts<lb break="no"/>bundpräsident zu werden. Auch hier erklärte ich sofort, würde ich<lb/>
+niemals eine Kampfabstimmung mit einem anderen mich stellen, wieso<lb/>
+mich <name type="person" ref="per:97570">Hrdlitschka</name> aus dieser Reserve herauslocken konnte, ist mir eig<lb break="no"/>entlich vollkommen unerklärlich. Bis jetzt hatte ich das immer<lb/>
+dahingehend getarnt, dass ich überall erklärte, der grösste Traum<lb/>
+meines Lebens und das mache ich bereit seit den 50er-Jahren, wäre,<lb/>
+einmal ein Präsident zu sein. Niemals allerdings erklärte ich,<lb/>
+dass ich damit den Gewerkschaftspräsidenten gemeint hatte. Meine<lb/>
+Frau kann diese Haltung überhaupt nicht verstehen, da ihrer Meinung<lb/>
+nach dieser Posten nichts anderes bringt als Streit, harte Ausein<lb break="no"/>andersetzungen, viel Arbeit und wenig Anerkennung zumindestens<lb/>
+was die Anerkennung nach aussen betrifft, hat sie vollkommen<lb/>
+recht, dennoch glaube ich, dass zur Erhaltung des überparteilichen<lb/>
+Gewerkschaftsbundes und damit für die Zukunft der zweiten Republik<lb/>
+ich meine ganze Arbeitskraft einsetzen würde. Hier nämlich könnte<lb/>
+<pb n="08-1350" facs="08_1971-11-13_1350.jpg"/>die zweite Republik scheitern, wenn der Österreichische Gewerkschafts<lb break="no"/>bund auseinanderfallt. Oder wenn der ÖGB gegenüber dem Staat in<lb/>
+wirkliche Opposition käme. Alle anderen Funktionen incl. der eines<lb/>
+Bundeskanzlers mögen sehr interessant sein und von grösster Bedeutung,<lb/>
+aber nicht diese Schlüsselaufgabe, die dem ÖGB für Österreichs<lb/>
+Zukunft zufällt.<lb/>
+</p>
+            <p xml:space="preserve">Die Radiodiskussion mit <name type="person" ref="per:138743">Mayerhuber</name>, <name type="person" ref="per:138742">Nickl</name> von der Papierfabrik Wels<lb/>
+und <name type="person" ref="per:98010">Teschl</name> als Zentralsekretär ist <name type="person" ref="per:97570">Hrdlitschka</name> dann auch mitgegangen.<lb/>
+Anschliessend daran konnte ich alle Beteiligten dafür gewinnen, dass<lb/>
+wir im Handelsministerium jetzt versuchen, eine Konzept für die<lb/>
+Zellulose- und Papierindustrie auszuarbeiten. Da <name type="person" ref="per:113621">Anreiter</name> krank<lb/>
+war, ist Dr. <name type="person" ref="per:108746">Haffner</name> gekommen, der einen sehr guten Eindruck<lb/>
+auf mich macht. Da er auch die Lebensmittelbranche dazunehmen<lb/>
+muss, hat er Angst, dass er dies alles nicht wird erfüllen können.<lb/>
+Er war sehr beruhigt, als ich ihm erklärte, ich hätte vollstes<lb/>
+Verständnis, dass man etliche Jahre braucht, um alle Details zu<lb/>
+kennen. Fehlentscheidungen würden von mir gedeckt werden. Da <name type="person" ref="per:108746">Haffner</name><lb/>
+über diese meine Einstellung sehr verwundert war, meint <name type="person" ref="per:108322">Meisl</name>, dies<lb/>
+hätte sich allerdings schon im Hause durchsprechen müssen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="08_1348_01" facs="08_1971-11-13_1348-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 13.11.1971</head>
+         </div>
+      </back>
+   </text>
+</TEI>

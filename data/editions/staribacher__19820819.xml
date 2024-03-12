@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Donnerstag, der 19. August 1982</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band66_1982-08-19</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1982-08-19">Donnerstag, 19. August 1982</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-11-06">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="66-0976" facs="66_1982-08-19_0976.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Donnerstag, 19. August 1982<lb/>
+</p>
+            <p xml:space="preserve">Überraschend war <name type="person" ref="per:97893">Sallinger</name> und <name type="person" ref="per:112978">Kehrer</name> zu einer, wie er mir telefonisch<lb/>
+sagte, wichtigen Aussprache gekommen. Tatsächlich handelte es sich dann<lb/>
+nichts anderes, als daß er mir mitteilte, jetzt mit der Gemeinde Wien in<lb/>
+Los Angeles die Ausstellung gemeinsam zu machen. 0,9 bezahlt die HK, 0,1<lb/>
+Wien, 100 Firmen werden daran teilnehmen, Bgm. <name type="person" ref="per:97488">Gratz</name> wird eine Ansprache<lb/>
+halten und <name type="person" ref="per:97893">Sallinger</name> wird sie eröffnen. <choice><choice><sic>Ich</sic><corr>Er</corr></choice></choice> ersuchte mich, ob ich bereit<lb/>
+bin, dem Ehrenkomitee beizutreten. Dies war angeblich, wie er immer wieder<lb/>
+betonte, der Hauptgrund seines Kommens. Die Schirmherrschaft, sozusagen das<lb/>
+Höhere, übernehmen BK <name type="person" ref="per:97668">Kreisky</name>, der österr. Botschafter und Präs. <name type="person" ref="per:97893">Sallinger</name>,<lb/>
+das Ehrenkomitee sollten <name type="person" ref="per:97985">Staribacher</name>, <name type="person" ref="per:97488">Gratz</name> und der Präsident der österr.-<lb/>
+amerik. Gesellschaft <name type="person" ref="per:115655">Mautner Markhof</name> übernehmen. Auf der anderen Seite<lb/>
+war <name type="person" ref="per:1138140">Klag</name> <add>[?]</add>, der Gouverneur und der Bürgermeister. <name type="person" ref="per:97893">Sallinger</name> war sehr über<lb break="no"/>rascht von mir zu hören, da hätte er gar nicht erst fragen müssen, ich<lb/>
+lege auf das Protokoll keinen Wert, daher ist es mir wirklich wurscht, ob<lb/>
+ich bei der Schirmherrschaft dabei bin oder im Ehrenkomitee. Außerdem<lb/>
+hat er stets ..,wenn er irgendwo war und es notwendig findet, der österr.<lb/>
+Handelsminister bei irgendeiner formellen Funktion dabei ist. Ich infor<lb break="no"/>mierte die HK über den endgültigen Verhandlungstermin der gemischten<lb/>
+sowj.-österr. Kommission. Da <name type="person" ref="per:97893">Sallinger</name> vorher eine Ausstellung und Sympo<lb break="no"/>sium eröffnet, fährt er nicht mit und es wurde daher beschlossen, daß<lb/>
+Generalsekretär <name type="person" ref="per:112978">Kehrer</name> sowie das letzte Mal auch diesmal wieder teilnimmt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:125291">MARTIN</name>: Bitte mit MR <name type="person" ref="per:97426">Fälbl</name> verbinden.<lb/>
+</p>
+            <p xml:space="preserve">Wir plauderten dann über den Grand Prix in der Steiermark. Die HK ist ge<lb break="no"/>nau wie ich der Meinung, daß aus FV-Werbegründen dieses von einer großen<lb/>
+Anzahl weltweit gesehene Sportereignis auch dann, wenn es sich um einen<lb/>
+echten Sport handelt, der österr. FV daran interessiert ist. <name type="person" ref="per:97893">Sallinger</name>,<lb/>
+der selbst schnelle Autos liebt, so lange keine Geschwindigkeitsbegrenzung<lb/>
+war und er selbst gefahren ist, hat<add>[, obwohl?]</add> er stets<lb/>
+auf der Autobahn Höchstgeschwindigkeiten rast, für mich überraschend,<lb/>
+doch dem Skifahren eine größere Bedeutung zugemessen. Ich bin allerdings<lb/>
+nicht ganz sicher, ob dies nicht darauf zurückzuführen ist, daß er beim<lb/>
+Skisport über die ..zuschüsse finanziell und damit dann direkt, was seinen<lb/>
+Ehrgeiz sehr befriedigt, auch persönlich sich stark engagiert. Der Grand<lb/>
+Prix in Zeltweg dagegen ist eindeutig eine primäre Angelegenheit d. LH<lb/>
+<name type="person" ref="per:126988">Krainer</name>, <add>[der?]</add> ja sozusagen niemand dazuläßt. Typisches Beispiel ist, daß er<lb/>
+bei den Skiweltmeisterschaften in Schladming, als der österr. Rennfahrer<lb/>
+<name type="person" ref="per:127144">Niki Lauda</name> auf die Ehrentribüne gekommen ist, diesen sofort neben sich<lb/>
+hat niedersetzen lassen und geglaubt hat, <name type="person" ref="per:97893">Sallinger</name> wird jetzt sozusagen<lb/>
+<pb n="66-0977" facs="66_1982-08-19_0977.jpg"/>weiterrücken. Solche persönlichen Fauxpas führen sehr oft zu längeranhalten<lb break="no"/>den Verstimmungen, wie gerade dieses Beispiel deutlich zeigt. <name type="person" ref="per:97893">Sallinger</name><lb/>
+sieht für die Sanierung <name type="person" ref="per:127144">Laudas</name> kaum eine Chance. <name type="person" ref="per:127144">Lauda</name> hat seinerzeit un<lb break="no"/>überlegt und wahrscheinlich auch falsch beraten für das Flugzeug 80 Mio. S<lb/>
+bezahlt, für die aufgenommenen Kredite müßte er jetzt jährlich außer<lb/>
+den Kosten noch 10 Mio. S einfliegen. Dies erscheint <name type="person" ref="per:97893">Sallinger</name> kaum mög<lb break="no"/>lich. Ich erklärte trotzdem, wenn sich <name type="person" ref="per:127144">Lauda</name> an mich wendet, versuchen<lb/>
+müßte, eine tragbare Lösung zu finden, denn <name type="person" ref="per:127144">Lauda</name> ist heute ein Idol der<lb/>
+Österreicher und es wäre nicht gut, wenn er sich tatsächlich von Öster<lb break="no"/>reich abwendet.<lb/>
+</p>
+            <p xml:space="preserve">Neuerdings wurde das Fernwärmekonzept von der gestrigen Arbeitsgruppe mit<lb/>
+mir wieder durchbesprochen, insbesondere die letzte Fassung festgelegt.<lb/>
+Sts. <name type="person" ref="per:109808">Albrecht</name> konnte daran leider nicht teilnehmen, weil sie andere Ge<lb break="no"/>spräche hatte. Da am nächsten Montag das Pressefrühstück wegen der Be<lb break="no"/>sichtigung der Fernwärmenutzung in Linz stattfindet, habe ich sie aus<lb break="no"/>drücklich ersucht, daß auch dort selbstverständlich diesen Vorsitz im<lb/>
+Pressegespräch, da ich mit der Bahn mit den Journalisten nicht mitfahren<lb/>
+kann, ich muß einen Kongreß eröffnen, wird <name type="person" ref="per:109808">Albrecht</name> so lieb sein, und<lb/>
+die Journalisten begleiten.<lb/>
+</p>
+            <p xml:space="preserve">Während der Aussprache mit Dr. <name type="person" ref="per:110944">Zluwa</name>, MR <name type="person" ref="per:109811">Burian</name> und mir hat dann über<lb break="no"/>raschend DI <name type="person" ref="per:127783">Hein</name> von der Energiesektion mich angerufen und mitgeteilt, daß<lb/>
+er doch bereit wäre, in die Abt. von MR <name type="person" ref="per:114532">Bolhar</name> zu gehen. Da diese Varian<lb break="no"/>te <add>[von]</add> allen Leuten in der Energiesektion verworfen wird, damit würde die<lb/>
+notwendige Ruhe dort nicht eintreten, erklärte ich <name type="person" ref="per:127783">Hein</name>, daß diese Mög<lb break="no"/>lichkeit nicht mehr besteht. Da er bis jetzt dieses Angebot kategorisch<lb/>
+abgelehnt hat, wird jetzt vorgesehen, daß er doch wieder zurück ins Pa<lb break="no"/>tentamt geht. <name type="person" ref="per:127783">Hein</name> erklärte, da sollte man ihn lieber kündigen. Dazu habe<lb/>
+ich keine Veranlassung, er hat im Patentamt begonnen und Präs. <name type="person" ref="per:97688">Leberl</name> vom<lb/>
+Patentamt ist bereit, ihn wieder zu übernehmen. Da er damit droht, dann<lb/>
+in diesem Fall selbst zu kündigen, ersuchte ich ihn, dies sich noch ein<lb break="no"/>mal zu überlegen. Ich bin nämlich nicht so sicher, ob er sofort einen<lb/>
+ähnlichen Posten, sei es beim Staat oder in der Privatwirtschaft, finden<lb/>
+wird.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:131107">GROSSENDORFER</name>: Bitte sprich noch einmal mit <name type="person" ref="per:127783">Hein</name>.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="66_0975_01" facs="66_1982-08-19_0975-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 19.8.1982</head>
+         </div>
+      </back>
+   </text>
+</TEI>

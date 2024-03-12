@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Montag, der  2. Februar 1981</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band58_1981-02-02</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1981-02-02">Montag, 2. Februar 1981</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-03-29">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="58-0147" facs="58_1981-02-02_0147.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Montag, 2. Februar 1981<lb/>
+</p>
+            <p xml:space="preserve">Ing. <name type="person" ref="per:122881">Rogner</name> hat sich jetzt mit dem Grundbesitzer des Sünnhof,<lb/>
+<name type="person" ref="per:123817">Gordon</name>, geeinigt und für 15 Mio. S das Grundstück gekauft. Stünde es nicht<lb/>
+unter Denkmalschutz und müßte die äußere Fassade so erhalten bleiben,<lb/>
+wäre das Grundstück mindestens das Doppelte wert, wie mir <name type="person" ref="per:122881">Rogner</name> so<lb break="no"/>fort bestätigt. Der Hotelaufbau kostet 200 Mio. S. 100 Mio. bringt <name type="person" ref="per:122881">Rogner</name><lb/>
+mit mehreren Freunden als Eigenkapital auf. Der Rest müßte durch ge<lb break="no"/>stützte Kredite, ERP-Ersatzaktion, in zwei Jahresraten je 50 Mio. S auf<lb break="no"/>gebracht werden. Das ganze Projekt ist nur möglich, wenn der Zinssatz<lb/>
+nicht mehr als 7 % ausmacht. Die Zentralsparkasse ist der Konsortial<lb break="no"/>finanzier und muß sehen, wie sie jetzt das nötige Fremdkapital bekommt.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:122881">Rogner</name> glaubt noch immer, die 20 Mio. ERP-Mittel für sein Feriendorf<lb/>
+in Oberkirchleiten zu bekommen. Die Kärntner ÖVP und auch die HK haben<lb/>
+sich einigemale schon sehr positiv dafür ausgesprochen, die Bundes<lb break="no"/>handelskammer bis jetzt konsequent abgelehnt. Ich erkläre <name type="person" ref="per:122881">Rogner</name> neuer<lb break="no"/>dings, es liegt ausschließlich an der Bundeswirtschaftskammer-Zu<lb break="no"/>stimmung.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:122881">Rogner</name> wird nur noch auf der Schlanitzer Alm ein Hotel mit 800 Betten<lb/>
+bauen, Investition 200 Mio. S, 60 Mio. sind davon noch nicht finanziert,<lb/>
+und ein feriendorfähnliches Projekt mit 800 Betten. Im Naßfeld, der<lb/>
+karnischen Schiregion mit 25 Liften und nur 600 Betten ist dieses Pro<lb break="no"/>jekt dringendst notwendig. Von seinem Hotel geht eine Gondelbahn di<lb break="no"/>rekt dann aufs Naßfeld hinauf.<lb/>
+</p>
+            <p xml:space="preserve">Da <name type="person" ref="per:122881">Rogner</name>, wie er mir neuerdings versichert, in Zukunft ausschließlich<lb/>
+den Desintegrator, sowjetisches Baustoffprojekt, betreiben und finanzie<lb break="no"/>ren wird, sind dies seine letzten Hotelaktivitäten.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Wie stehen diese Projekte bei der Hoteltreu<lb break="no"/>hand?</p>
+            <p xml:space="preserve">GD <name type="person" ref="per:97315">Apfalter</name> hat mir mitgeteilt, daß er die 350.000 sowjetische Energie<lb break="no"/>kohle nur schwer in Österreich verkaufen kann, er wird aber alles dar<lb break="no"/>an setzten, daß wir diese Kohle von der SU übernehmen können. Er teilt<lb/>
+meine Meinung, daß ein solcher Vertrag günstiger ist und die Lieferung<lb/>
+wesentlich sicherer, als der große Polen-Vertrag der Elektrizitätswirt<lb break="no"/>schaft über die Energiekohle. Die Vöest-Alpine hat auch kalkuliert, ob<lb/>
+<pb n="58-0148" facs="58_1981-02-02_0148.jpg"/>sie ihre alten Kraftwerke 125 MW und das neuere mit 64 MW neuerdings<lb/>
+in Betrieb nehmen sollen, um Kohle dort zu verstromen. Derzeit kommt<lb/>
+es für die Vöest-Alpine aber noch billiger, wenn es Elektrizität zu<lb break="no"/>kauft.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97315">Apfalter</name> teilt mir mit, daß man ihn in der SU wissen ließ, bei der<lb/>
+nächsten Gemischten Kommission werden auch von sowjetischer Seite In<lb break="no"/>dustriespitzenleute daran teilnehmen. <name type="person" ref="per:97315">Apfalter</name> macht darauf aufmerk<lb break="no"/>sam, daß wir alles daran setzten müssen, auch auf österreichischer<lb/>
+Seite eine repräsentative Vertretung zu nominieren.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108322">MEISL</name> UND <name type="person" ref="per:108746">HAFFNER</name>: Bitte sofort feststellen, wen die<lb/>
+sowjetische Seite schicken wird.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97315">Apfalter</name> interveniert auch, daß MR <name type="person" ref="per:126296">Gröbl</name> zur ECE-Tagung nach Japan<lb/>
+fahren soll. Man hat ihm als Fachverbandsobmann dafür eingeschaltet.<lb/>
+Ich erkläre sofort, die Voraussetzung ist, daß der Fachverband oder<lb/>
+alle Fachverbände, die daran interessiert wären, die ganze Reise be<lb break="no"/>zahlen. <name type="person" ref="per:97315">Apfalter</name> fragt an, ob MR <name type="person" ref="per:126296">Gröbl</name> in Englisch verhandeln kann.<lb/>
+Dies sei die Voraussetzung, um überhaupt nach Japan fahren zu können.<lb/>
+Gegebenenfalls, meint <name type="person" ref="per:97315">Apfalter</name>, müßte halt ein anderer vom Handelsmini<lb break="no"/>sterium fahren.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:111737">MARSCH</name>: Wie steht die ganze Angelegenheit?<lb/>
+</p>
+            <p xml:space="preserve">Hofrat <name type="person" ref="per:130501">Krainz</name>, der Kalkulant des allgemeinen Bauernverbandes, teilt mir<lb/>
+über seine Aussprache im Rahmen der Preiskommission für die nächste<lb/>
+Milchpreiserhöhung mit, daß<add>[er]</add> dies als unzulänglich in Hinkunft ablehnt.<lb/>
+Er möchte mit dem allgemeinen Bauernverband direkt mit mir über den<lb/>
+Milchpreis verhandeln. Ich erkläre ihm sofort, daß hiefür die Preis<lb break="no"/>kommission zuständig ist. Vor meiner Zeit hat der allgemeine Bauern<lb break="no"/>verband überhaupt keine Chance gehabt, seine Kalkulationen im Rahmen<lb/>
+der Preiskommission behandelt zu bekommen. Hofrat <name type="person" ref="per:130501">Krainz</name> teilt mir<lb/>
+mit, daß der allgemeine Bauernverband gestern beschlossen hat, gegen<lb/>
+diese Art der Milchpreisfestsetzung eine Demonstration vorzunehmen,<lb/>
+wenn ich nicht unmittelbar und unverzüglich mit ihnen die Verhandlungen<lb/>
+über den Milchpreis aufnehme. Ich ersuche ihn nur, die Termine der<lb/>
+Demonstration mit meinem Büro abzustimmen, damit es nicht heißt,<lb/>
+während der Demonstration bin ich nicht anwesend gewesen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:125291">MARTIN</name>: Wurde ein solcher Termin mitgeteilt?<add>nein</add><lb/>
+</p>
+            <pb n="58-0149" facs="58_1981-02-02_0149.jpg"/>
+            <p xml:space="preserve">LH-Stv. <name type="person" ref="per:115067">Grünzweig</name> informiert mich, daß der zuständige LRat für Natur-<lb/>
+und Umweltschutz, <name type="person" ref="per:127029">Höger</name>, die Absicht hat, über den Ausbau der Donau<lb break="no"/>kraftwerksstufe Hainburg eine größere Besprechung abzuhalten. <name type="person" ref="per:127029">Höger</name>,<lb/>
+der von der Metallarbeitergewerkschaft, Bezirkssekretär, in Neunkirchen<lb/>
+kommt, hat angeblich für die Naßbauweise die Unterstützung des Bun<lb break="no"/>deskanzlers und des Wissenschaftsministers <name type="person" ref="per:97442">Firnberg</name> sowie des Land<lb break="no"/>wirtschaftsministers. Mit letzterem hatte ich bereits gesprochen und<lb/>
+wir einigten uns, daß die DoKW jetzt untersucht, ob nicht die March<lb break="no"/>feldbewässerung dann mit Unterstützung der Hainburger Kraftwerksstufe<lb/>
+wesentlich billiger erfolgen kann, als durch den Umleitungskanal<lb/>
+von der oberen Sperre für das <sic>Überschwemmungs-zweite</sic> Donaubett.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:125291">MARTIN</name>: Für Dienstag, 3. Februar, Regierungsvorbespre<lb break="no"/>chung, Bauerndemonstration und DokW erinnern.<lb/>
+</p>
+            <p xml:space="preserve">Der Generalpostdirektor <name type="person" ref="per:121800">Übleis</name> hat mit Staatssekretär <name type="person" ref="per:109808">Albrecht</name> eine<lb/>
+Aussprache über etliche Wünsche bezüglich der Konsumentenpolitik.<lb/>
+<name type="person" ref="per:109808">Albrecht</name> wünscht, daß ich <name type="person" ref="per:121800">Übleis</name> begrüße, sie versteht es sehr ge<lb break="no"/>schickt damit, was mir nur recht ist, zu dokumentieren, daß auch ich<lb/>
+alle ihre Aktivitäten unterstütze. Bei dieser Gelegenheit erkundige<lb/>
+ich mich, wie die Entscheidung über das neue Telefonsystem steht.<lb/>
+Die technische Vorarbeit ist nach <name type="person" ref="per:121800">Übleis</name> geleistet. Die aus vier<lb/>
+Schwachstromfirmen, Siemens, ITT, Kapsch und Schrack bildende ÖFEG<lb/>
+hat unter ihrem Direktor <name type="person" ref="per:130507">Martinek</name> seinerzeit <name type="person" ref="per:97678">Lacina</name>, ÖIAG, <name type="person" ref="per:114467">Wehsely</name>, AK,<lb/>
+Dr. <name type="person" ref="per:130506">Sindelka</name> und einem MR der Postverwaltung nach Kanada eingeladen.<lb/>
+Dort wurde festgestellt, daß das von Kapsch und Schrack vertretene<lb/>
+Northern-Telecom-System einen Schritt weiter ist, als das Siemens-<lb/>
+System. Die Entscheidung muß aber jetzt bald fallen. <name type="person" ref="per:121800">Übleis</name> drängt<lb/>
+persönlich auch darauf, der Verkehrsminister <name type="person" ref="per:108223">Lausecker</name> hat ja auch<lb/>
+vorgeschlagen, daß jetzt im Frühjahr eine Regierungskommission ent<lb break="no"/>gültig entscheiden müßte. Die Entscheidungsunterlagen sind von Seiten<lb/>
+der Post vorbereitet. Am wahrscheinlichsten ist, so deutet <name type="person" ref="per:121800">Übleis</name> an,<lb/>
+möchte aber unter gar keinen Umständen dies als seinen Vorschlag wissen,<lb/>
+ein Kompromiß zwischen den beiden konkurrierenden und anbietenden<lb/>
+Gruppen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:111737">MARSCH</name>: Was wissen wir strengst vertraulich über diese<lb/>
+ganze Frage?<lb/>
+</p>
+            <pb n="58-0150" facs="58_1981-02-02_0150.jpg"/>
+            <p xml:space="preserve">Beim Journalistenfrühstück berichtet unter Vorsitz von <name type="person" ref="per:109808">Albrecht</name><lb/>
+<name type="person" ref="per:111367">Würzl</name> über das Fremdenverkehrsergebnis des Jahres 1980 und insbesondere<lb/>
+über das sehr gute Weihnachtsgeschäft. Da gerade zu Weihnachten ein<lb/>
+ziemlich großer Run auf Österreich erfolgte, haben auch die Privat<lb break="no"/>quartiere eine Steigerung um 13 % gegenüber dem Vorjahr. Damit kommt<lb/>
+klar und deutlich die Pufferfunktion der Privatquartiere zum Ausdruck.<lb/>
+<name type="person" ref="per:111367">Würzl</name> ist überzeugt, daß eben die gewerblichen Betten so weit ausge<lb break="no"/>lastet waren, daß eben man auch auf Privatquartiere zurückgreifen<lb/>
+mußte. Ich bin nicht ganz so überzeugt, vielleicht ist es auch dies<lb break="no"/>mal durch die allgemeine Rezession in Westeuropa und ganz besonders<lb/>
+auch in der BRD begründet, daß die deutschen Urlauber auf billigere<lb/>
+Quartiere zurückgreifen. Darüber hinaus würde meine Theorie auch wieder<lb/>
+bestätigt werden, daß man am Jahresanfang sehr wohl bereit ist, die<lb/>
+stärkere Übernachtung auch richtig zu melden, weil man ja noch nicht<lb/>
+bei der 40.000 S Umsatzsteuergrenze in Privatquartieren angelangt ist.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Laß dieses Problem neuerdings genauer unter<lb break="no"/>suchen.<lb/>
+</p>
+            <p xml:space="preserve">Ich ergänzte die Ausführung <name type="person" ref="per:111367">Würzls</name>, indem ich kurz über die Austria<lb/>
+Touristik Börse, ATB, berichtete. Sie war ein voller Erfolg und zeigt<lb/>
+eigentlich, daß wir auch für den Sommer mit einer guten Saison rech<lb break="no"/>nen können.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Sollte nicht <name type="person" ref="per:111736">Zolles</name> einen Detailbericht beim<lb/>
+Journalistenfrühstück geben.<lb/>
+</p>
+            <p xml:space="preserve">MR <name type="person" ref="per:108609">Sterk</name> berichtete über die Energiesituation, da Frau Dr. <name type="person" ref="per:116120">Hille</name> keine<lb/>
+Zeit hatte. Ich stellte dann nachmittags fest, daß sie mit Dr. <name type="person" ref="per:97782">Neubauer</name><lb/>
+von Austroplan das Grundsatzpapier für die Wirtschaftskommission er<lb break="no"/>arbeitete. So sehr ich dafür volles Verständnis habe, war es sehr<lb/>
+ungeschickt, daß sie nicht die Gelegenheit nützte, um vor der Presse in<lb/>
+Erscheinung zu treten. Dies zeigt ihr Pflichtbewußtsein gegenüber<lb/>
+der Arbeit, war aber von ihrem Imagestandpunkt sehr schlecht. Immer<lb break="no"/>hin hätte sie die Energiesituation des Jahres 80 und 81 präsentieren<lb/>
+können. Während es über die Fremdenverkehrsfragen überhaupt keine<lb/>
+Diskussion gab, obwohl z.B. so potente Journalisten wie Dr. <name type="person" ref="per:115175">Norden</name> von<lb/>
+Tourist Austria anwesend waren, entwickelte sich über die Energiefrage<lb/>
+dann eine längere Diskussion. Für mich charakteristisch, weshalb ich<lb/>
+auch diese Zahlen besonders herausstrich, war, daß wir 1979 noch einen<lb/>
+<pb n="58-0151" facs="58_1981-02-02_0151.jpg"/>Energiezuwachs von 3,7 % gehabt haben, bei einer Bruttoinlandspro<lb break="no"/>duktion BIP von + 5,1 %, also bereits deutlich entkoppelt. 1981 war<lb/>
+sogar bei einem Bruttoinlandsprodukt von + 3,5 % möglich, um 2 % weni<lb break="no"/>ger Energie einsetzen zu müssen, d. h. zu verbrauchen. Die Entkoppelung<lb/>
+ist damit endgültig gelungen und ziffernmäßig erwiesen, die Sparerfolge<lb/>
+stellen sich ein. Ich glaube, daß wir jetzt auch im Rahmen unserer<lb/>
+ganzen Propaganda für die nächste Zeit diesen Erfolg immer wieder her<lb break="no"/>ausstreichen müssen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Die wichtigsten globalen Ziffern, Mengen und<lb/>
+Preise auf ein Blatt schreiben und eine Kampagne damit einleiten.<lb/>
+</p>
+            <p xml:space="preserve">Die Fa. Kotanyi, Gewürzproduzent, ist 100 Jahre, hat 70 Beschäftigte<lb/>
+und von mir persönlich das Dekret zur Führung des Staatswappens über<lb break="no"/>reicht bekommen. Erstmals hat mich zu dieser Feier auch der junge<lb/>
+Referent Dr. <name type="person" ref="per:127109">Grimm</name>, der diese Staatswappen jetzt bearbeitet, beglei<lb break="no"/>tet. Diese Idee hätten wir schon längst verwirklichen sollen. Er hat<lb/>
+jetzt nach einer längeren Aussprache mit mir bei der Hinfahrt und dann<lb/>
+insbesondere selbst erlebt, wie ich eine solche Feier gestalte und<lb/>
+wird die notwendigen Unterlagen jetzt nach diesen Gesichtspunkten er<lb break="no"/>stellen. Da er ein sehr gewissenhafter junger Beamter und auch, wie<lb/>
+ich glaube, sehr tüchtig, habe ich ihm bereits angekündigt, daß er<lb/>
+nicht nur allein diese Arbeit machen sollte und wird.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97584">JAGODA</name>: Wie können wir den Mann besser einsetzen.<lb/>
+</p>
+            <p xml:space="preserve">Der zweite Festredner, KR <name type="person" ref="per:111717">Schönbichler</name>, Vizepräs. der Handelskammer,<lb/>
+für den erkrankten Präsident <name type="person" ref="per:97893">Sallinger</name>, meinte in seiner Ansprache,<lb/>
+die er wie üblich vom Blatt vorlas, daß es ungerecht ist, daß für<lb/>
+den Paprika aus Ungarn 15 % Zoll bezahlt werden muß, im Gegensatz zu<lb/>
+Spanien mit 10 % und jugoslawischem Paprika nur 8 %. Ich war sehr<lb/>
+erstaunt, daß die Handelskammer jetzt eine schlechtere Behandlung in<lb/>
+Zollfragen von einem Oststaat sozusagen in offener Sitzung urgiert.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:111737">MARSCH</name>, <name type="person" ref="per:108322">MEISL</name> UND <name type="person" ref="per:108746">HAFFNER</name>: Bitte mir die Details mitzu<lb break="no"/>teilen, wie es zu diesem Gesinnungswandel der HK kommt.<lb/>
+</p>
+            <p xml:space="preserve">Die Sitzung der Wirtschaftskommission, Arbeitsgruppe Energie, Umwelt<lb/>
+<pb n="58-0152" facs="58_1981-02-02_0152.jpg"/>und Fremdenverkehr beschäftigte sich mit der am Samstag bis 1/2 5<lb/>
+erarbeiteten Zusammenfassung der bisherigen Vorschläge. Die Wirtschafts<lb break="no"/>kommission, an der auch Minister <name type="person" ref="per:117200">Steyrer</name> teilnahm, stellte überein<lb break="no"/>stimmend fest, daß die Idee, wir sollten eine größere Anzahl von<lb/>
+Seiten liefern, damit dann in der Diskussion in der großen Wirtschafts<lb break="no"/>kommission und vor allem bei den daran anschließenden Enqueten und<lb/>
+Großveranstaltungen herausgestrichen werden kann, von uns nicht durch<lb break="no"/>geführt wird. Diese Idee von <name type="person" ref="per:97678">Lacina</name> und <name type="person" ref="per:114075">Schmidt</name> stoßt bei uns auf all<lb break="no"/>gemeine Ablehnung. Wir erarbeiten unser Papier in der ursprünglich<lb/>
+beabsichtigten Form, wenn etwas geändert werden soll, dann muß der<lb/>
+Betreffende entsprechende Anträge stellen und formulierte Vorschläge<lb/>
+erstatten. Die ganze Arbeitsgruppe hält es für nicht zielführend, daß<lb/>
+wir den umgekehrten Weg gehen. Wir machen eine langwierige Abhandlung<lb/>
+und dann wird in der Wirtschaftskommission resp. bei der nachfolgenden<lb/>
+öffentlichen Diskussion herausgestrichen.<lb/>
+</p>
+            <p xml:space="preserve">Auch über die Frage der Finanzierung all dieser Projekte und Maßnahmen,<lb/>
+die wir in den 80-er Jahren machen müssen, ist unsere Arbeitsgruppe<lb/>
+nicht zuständig. Insbesondere unser Sekretär <name type="person" ref="per:127504">Stanzel</name> vom Finanzmini<lb break="no"/>sterium teilt meine Meinung, daß dies in der Arbeitsgruppe von <name type="person" ref="per:97891">Salcher</name><lb/>
+erfolgen muß.<lb/>
+</p>
+            <p xml:space="preserve">Gesundheitsminister <name type="person" ref="per:117200">Steyrer</name> urgierte neuerdings die Bleiherabsetzung<lb/>
+im Benzin. Seinerzeit wurde von 0,7 von mir noch auf 0,4 reduziert.<lb/>
+Damals haben wir den europäischen Durchschnitt gehalten. Jetzt hat<lb/>
+Deutschland auf 0,16 g pro Liter reduziert und <name type="person" ref="per:117200">Steyrer</name> möchte nach<lb break="no"/>ziehen. Dir. <name type="person" ref="per:97738">Meszaros</name> von der ÖMV meinte, daß sie genau erheben, wie<lb/>
+viel die Importbenzine Bleigehalt haben. Er ist informiert, daß die<lb/>
+Deutschen jetzt aus energiepolitischen Gründen an eine Erhöhung des<lb/>
+Bleigehaltes denken.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: SC <name type="person" ref="per:111001">Peyerl</name> hat übernommen, diese Frage in<lb/>
+Deutschland zu klären.<lb/>
+</p>
+            <p xml:space="preserve">Eine längere Diskussion ergab sich mit SC <name type="person" ref="per:111378">Pindur</name> vom Gesundheitsmini<lb break="no"/>sterium über die weitere Vorgangsweise bezüglich Herabsetzung des<lb/>
+Schwefelgehaltes für Heizöl. Ich hatte seinerzeit mit ÖMV vereinbart,<lb/>
+daß stufenweise von 3 1/2 auf 2 % bis 1985 der Schwefelgehalt redu<lb break="no"/>ziert werden muß. Ursprünglich wollte SC <name type="person" ref="per:97584">Jagoda</name> dies aufgrund der<lb/>
+Gewerbeordnungsverordnungen fixieren. Das Gesundheitsministerium,<lb/>
+<name type="person" ref="per:111378">Pindur</name>, bestand darauf, daß dies ihre Kompetenz ist und daher eine<lb/>
+<pb n="58-0153" facs="58_1981-02-02_0153.jpg"/>Artikel 15-Vereinbarung mit den Ländern erfolgen soll. Diese ist bis<lb/>
+jetzt nicht zustande gekommen. <name type="person" ref="per:111378">Pindur</name> gibt die Schuld den Bundesstellen,<lb/>
+weil sie sich über die verschiedensten verfassungs- und verwaltungs<lb break="no"/>rechtlichen Fragen nicht einigen konnten. Der Grund ist mir persönlich<lb/>
+ganz wurscht. Hätte man den <name type="person" ref="per:97584">Jagoda</name>-Weg beschritten, wäre dieses Problem<lb/>
+heute bereits gelöst.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97584">JAGODA</name>: Was sagst Du dazu?<lb/>
+</p>
+            <p xml:space="preserve">Prof. <name type="person" ref="per:113069">Weiser</name>, EVA, urgierte neuerdings die Einführung der Musterkehr<lb break="no"/>ordnung, wie sie die EVA mit der Verbindungsstelle der Bundesländer<lb/>
+erstellt hat. Hier wurden die Erfahrungswerte von der Steiermark und<lb/>
+Tirol, die die besten Kehrordnungen haben, zugrundegelegt. Stadtrat<lb/>
+<name type="person" ref="per:109290">Mayr</name> von Wien war nicht bereit, in der Sitzung zu erklären, daß Wien<lb/>
+auch diese Kehrordnung übernehmen müßte. Die Wiener Rauchfangkehrer<lb/>
+<name type="person" ref="per:114707">Quester</name>, hat gegenüber Prof. <name type="person" ref="per:113069">Weiser</name> erklärt, die Wiener Rauchfangkehrer<lb/>
+lehnen ab, denn da werma wieder dreckig, da wir feuerseitig kehren<lb/>
+müßten.<lb/>
+</p>
+            <p xml:space="preserve">Für den Fremdenverkehr habe ich <name type="person" ref="per:127504">Stanzel</name>, der schon sehr unruhig war,<lb/>
+die drei Grundsatzpapiere, die schon erarbeitet wurden, übergeben.<lb/>
+Eine Arbeitsgruppe, die seinerzeit auch beim Wirtschaftsprogramm 70<lb/>
+mitgearbeitet hat und die dann sogar von mir durch Jahre hindurch<lb/>
+noch beschäftigt wurde, wird jetzt diese drei Papiere zu einem einheit<lb break="no"/>lichen verarbeiten. Das wichtigste Papier erscheint mir die grund<lb break="no"/>sätzliche Aussprache mit den Handelskammervertretern, die ich hatte und<lb/>
+wo ein Einvernehmen mit den Fremdenverkehrsfachleuten der Handelskammer<lb/>
+erzielt wurde. Auf diese Basis aufbauend können wir, glaube ich, tatsäch<lb break="no"/>lich ein zweckmäßiges Fremdenverkehrspapier erstellen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte das Nötige sofort veranlassen.<lb/>
+</p>
+            <p xml:space="preserve">Die Arbeitsgruppe wird jetzt das Umweltschutzpapier ein wenig auf<lb break="no"/>fetten, vor allem aber wird SC <name type="person" ref="per:111378">Pindur</name> vor jedem Unterkapitel des<lb/>
+Energiekonzeptes jeweils den Umweltschutzstandpunkt in einem Absatz<lb/>
+klar herausarbeiten. Ich hatte dies am Samstag in der Redaktionsgruppe<lb/>
+klar und deutlich verlangt. <name type="person" ref="per:117200">Steyrer</name> ist sehr froh, daß ich für den<lb/>
+Umweltschutz zumindestens optisch so viel Verständnis habe.<lb/>
+</p>
+            <p xml:space="preserve">Bei <name type="person" ref="per:117200">Steyrer</name> ist uns übrigens ein großes Fauxpas passiert. Er ist<lb/>
+<pb n="58-0154" facs="58_1981-02-02_0154.jpg"/>vorzeitig schon zur Aussprache zur Arbeitsgruppe gekommen. In seiner<lb/>
+Bescheidenheit und mir unerklärlich ist er im Vorraum mit den anderen<lb/>
+stehengeblieben, nicht sofort hereingekommen, wir dachten, es seien<lb/>
+nur so wenig Leute durch die Energieferien anwesend und haben begonnen.<lb/>
+Erst nach einer 1/4 Stunde wurde dann dieses Fauxpas entdeckt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Wenn ein Minister kommt, müssen ihn die Amts<lb break="no"/>gehilfen sofort hereinbegleiten.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="58_0146_01" facs="58_1981-02-02_0146-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 3.2.1981</head>
+         </div>
+         <pb n="58_0146_02" facs="58_1981-02-02_0146-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

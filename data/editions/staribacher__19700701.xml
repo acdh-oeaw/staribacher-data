@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittwoch, der  1. Juli 1970</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band02_1970-07-01</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1970-07-01">Mittwoch, 1. Juli 1970</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-03-29">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-19" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-19" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+  <text xml:base="http://192.168.0.9/staribacher/src/scans/Band02/">
+      <body>
+         <pb n="02-0324" facs="02_1970-07-01_0324.jpg"/>
+         <div type="entry">
+            <dateline>
+               <date when="1970-07-01">Mittwoch, 1. Juli 1970</date>
+            </dateline>
+            <p xml:space="preserve">Bei der Nationalratssitzung, der ich fernzubleiben hatte, aber<lb/>
+als Regierungsmitglied doch beiwohnen konnte, hatte ich Gelegenheit,<lb/>
+mit <name type="person" ref="per:97769">Mussil</name> über die Wünsche bezüglich unserer Konsumentendeklaration<lb/>
+zu sprechen. <name type="person" ref="per:97769">Mussil</name> erklärte mir, dass er im Prinzip einverstanden<lb/>
+sei, dass das Unlautere Wettbewerbsgesetz novelliert werden sollte,<lb/>
+er meinte nur dass die Klageberechtigung, die wir für die Arbei<lb break="no"/>terkammer, die Landwirtschaftskammer, den Gewerkschaftsbund forderten<lb/>
+– die Bundeskammer besitzt sie ja derzeit schon – auf den Gewerksch.<lb/>
+Bund nicht ausgedehnt werden sollte. Gleichzeitig verlangte er, dass<lb/>
+in dieses Gesetz von ihm dann gefordert wird werden, eine Bestimmung<lb/>
+aufzunehmen, wonach die Schleuderpreise dann nicht zu beanständen<lb/>
+sind, wenn sie als Sonderangebote gekennzeihnet werden. Mit dieser<lb/>
+Bestimmung sollte verhindert werden, dass eben ein oder zwei Lock<lb break="no"/>preise in der Auslage als besonders preiswert angesehen werden<lb/>
+und wenn der Betreffende dann im Laden ist, die anderen Preise wesent<lb break="no"/>lich überhöht nur eingekauft werden können, aber von Konsumenten<lb/>
+eben nicht erkannt werden. Seiner Meinung nach handelt es sich<lb/>
+hier nur um einige Ergänzungen des derzeit schon im Unlauteren<lb/>
+Wettbewerb festgehaltenen Tatbestandes, dass wenn eine Firma Preise<lb/>
+günstig anbietet und dann im Laden selbst Qualitäten und Sortimente<lb/>
+nicht entsprechend vorhanden sind, dann ist dies eine unlauterer<lb/>
+Wettbewerbstatbestand, der verboten ist, weil der Konsument nur mit<lb/>
+Hilfe der billigen Preise ins Geschäft gelockt werden soll, z.B.<lb/>
+Schuhe, und dann nur Grössen der Klasse 35 und 48 vorhanden sind.<lb/>
+Ich vereinbarte mit <name type="person" ref="per:97769">Mussil</name>, dass Dr. <name type="person" ref="per:112567">Christian</name> von der Bundeskammer<lb/>
+und Dr. <name type="person" ref="per:97646">Koppe</name> unverzüglichst Besprechungen aufnehmen sollten. Unsere<lb/>
+Taktik müsste sein, doch ein grösseres Forderungsprogramm zur Novel<lb break="no"/>le des UWG vorzulegen. um die Bundeskammer auf der einen Seite<lb/>
+die Möglichkeit zu geben, entsprechende Streichungen zu veranlassen<lb/>
+die wenn der Gesetzentwurf im Parlament dann behandelt wird, sicher<lb/>
+auch nicht die Mehrheit des Hauses finden wird, und auf der anderen<lb/>
+Seite zu ermöglichen, dass die Bundeskammer entsprechende Anträge,<lb/>
+wie z.B. die Ankündigung und Auszeichnungen von Sonderangeboten<lb/>
+<pb n="02-0325" facs="02_1970-07-01_0325.jpg"/>bei der Begutachtung in das Gesetz hineinreklamieren kann,<lb/>
+<name type="person" ref="per:97893">Sallinger</name> war bei diesem Teil der Besprechung nicht anwesend,<lb/>
+da er als ich mit <name type="person" ref="per:97769">Mussil</name> mich zurückzog, im Hause nicht zu sehen<lb/>
+war. Jetzt erschien er, als <name type="person" ref="per:97769">Mussil</name> zufälligerweise telefonieren<lb/>
+war und erklärte mir unverzüglich, dass die Erklärung, die ich<lb/>
+bezüglich der Konsumentenpolitik des Handelsministeriums abgege<lb break="no"/>ben habe, für ihn ungeheure Schwierigkeiten gebracht hätten und<lb/>
+er deshalb beabsichtigt, die direkte Telefonleitung stillzulegen<lb/>
+und mir die Freundschaft aufzukündigen. Es war dies aber scheinbar<lb/>
+nur eine Drohung, denn ich konnte ihm ja mitteilen, dass ich<lb/>
+dies im engsten Einvernehmen mit <name type="person" ref="per:97769">Mussil</name> zu handhaben beabsichtige,<lb/>
+und dass zweitens er und <name type="person" ref="per:97769">Mussil</name> ja von diesem Schritt informiert<lb/>
+gewesen sind. Ich gebe allerdings zu, dass er grosse Schwierig<lb break="no"/>keiten in der Organisation des Wirtschaftsbundes u. der ÖVP ins<lb break="no"/>besondere hat, denn natürlich will man dort so wenig wie mög<lb break="no"/>lich Aktivitäten von unserer Seite sehen. <name type="person" ref="per:97893">Sallinger</name> hatte ich<lb/>
+eine Besprechung mit <name type="person" ref="per:97632">Kirchschläger</name> wegen der Aussenhandelsstellen<lb/>
+insbesondere wünschte er eine Aussenhandelssstelle in Ostberlin<lb/>
+zu errichten , und teilte mir gleichzeitig mit, dass er mit<lb/>
+<name type="person" ref="per:97632">Kirchschläger</name> einen vollkommenen Akkord in diesen Fragen erzielt<lb/>
+hatte. Die Hauptschiwerigkeit mit der DDR wird sich nur dadurch<lb/>
+ergeben, dass diese jetzt von einer anderen Stelle aus die Han<lb break="no"/>delsvertragsbesprechungen mit der Handelskammer bei uns führen<lb/>
+wollen. Nach einer Mitteilung, den Brief hatten wir bis jetzt<lb/>
+immer nicht bekommen und ich urigerte ihn deshalb bei <name type="person" ref="per:97769">Mussil</name> –<lb/>
+der DDR-Stellen sollte in Zukunft eine halbamtliche Stelle mit<lb/>
+der österr. BHK die Vertragsverhandlungen – die Abwicklung –<lb/>
+des Handels zwischen unseren Staaten und der DDR – durchführen.</p>
+            <p xml:space="preserve">Abgeordneter <name type="person" ref="per:112996">Staudinger</name> von der ÖVP hatte mich vor längerer Zeit<lb/>
+ersucht, ob ich bereit wäre, einem deutschen Korrespondenten des<lb/>
+Lebensmittelhandels – eine bedeutende Zeitung in Westdeutschland –<lb/>
+ein Interview zu geben. Da ich ihm dies selbstverständlich zuge<lb break="no"/>sagt habe, war dieser Mann mit Flugzeug nach Wien gekommen. <name type="person" ref="per:112996">Stau<lb break="no"/>dinger</name> fragte ganz schüchtern ab, ob er bei diesem Interview<lb/>
+dazu sein könnte, was ich selbstverständlich sofort bejahte. Ich<lb/>
+hatte eine sehr interessante, und viel länger dauernde Diskussion<lb/>
+mit den beiden, wobei <name type="person" ref="per:112996">Staudinger</name> zwar sehr zurückhaltend war, aber<lb/>
+immer klar und deutlich noch präzise Fragen stellte, um meine<lb/>
+<pb n="02-0326" facs="02_1970-07-01_0326.jpg"/>Stellungnahme zu dem Problem des Lebensmittelhandels zu erfahren.<lb/>
+Ich bin sehr neugieirig, wie dieses Interview von dieser deutschen<lb/>
+Lebensmittelzeitung ankommt, wobei ich überzeugt bin, dass der<lb/>
+Interviewer auf dem Standpunkt gestanden ist – den ich auch<lb/>
+einnehme – dass all die Vorschläge, die man bisher gehört hat<lb/>
+von denen aber fortschirttliche Funktionäre aber auch schon ab<lb break="no"/>gehen, wie Antischleuderergesetz, Schutz des Mittelstandes usw.<lb/>
+eigentlich ebenfalls auf Grund der deutschen Erfahrungen schon<lb/>
+längst abgegangen ist. Zum Schluss erwähnte ich noch, dass es<lb/>
+mir gar nichts ausmacht sondern nur sehr angenehm wäre, wenn in der<lb/>
+Interview zum Ausdruck käme, dass bei dieser Besprechung auch<lb/>
+Abgeordneter <name type="person" ref="per:112996">Staudinger</name> anwesend gewesen ist und ebenfalls für<lb/>
+Fragen zur Verfügung gestanden ist und Fragen an mich gerichtet<lb/>
+hatte.</p>
+            <p xml:space="preserve">Bei der Vorbesprechung mit <name type="person" ref="per:97867">Reiterer</name> und <name type="person" ref="per:97426">Fälbl</name> über den russischen<lb/>
+Handelsvertrag, deren Paraphierung heute Platz greifen sollte,<lb/>
+konnte ich feststellen, dass <name type="person" ref="per:97867">Reiterer</name> noch immer nicht meinen<lb/>
+Stil ganz begriffen hat. Es ist üblich, dass bei dieser.Para<lb break="no"/>phierung, die unter Anwesenheit des russischen Botschafters<lb/>
+und des Handelsministers stattfinden sollte, die beiden Dele<lb break="no"/>gationsleiter <name type="person" ref="per:112953">Maschulo</name> und <name type="person" ref="per:97867">Reiterer</name>, die Paraphierung vorzu<lb break="no"/>nehmen hatten. Gleichzeitig ist es dann üblich, dass entsprechende<lb/>
+Worte der Anerkennung und der Bedeuung des Vertrages gewechselt<lb/>
+werden. <name type="person" ref="per:97867">Reiterer</name> fragte nun, ob ich beabsichtige, diese Ansprache<lb/>
+zu halten. Ich war mir nicht ganz sicher, Gott sei Dank fiel<lb/>
+<name type="person" ref="per:97426">Fälbl</name> sofort ins Wort und sagte, nein, Herr Minister, meiner<lb/>
+Meinung nach müssten dies unbedingt der Delegationsleiter tun,<lb/>
+weil ansonsten würde man den Botschafter in eine unglückliche<lb/>
+Situation bringen, denn er müsste dann auch etwas sagen und<lb/>
+sei nicht darauf vorbereitet und es wäre auch gegen die bishe<lb break="no"/>rigen Gepflogenheiten. <name type="person" ref="per:97867">Reiterer</name> selbst war über diese Erklärung<lb/>
+<name type="person" ref="per:97426">Fälbls</name> sehr froh und ich erklärte ihm, Sie sehen, Herr Ministerial<lb/>
+rat, bevor ich noch ein Wort sagen konnte, schon die Antwort ge<lb break="no"/>geben hatte, die ich von einem Beamten erwarte, nämlich mir<lb/>
+zu sagen, was seiner Meinung nach richtig ist. <name type="person" ref="per:97867">Reiterer</name> meinte,<lb/>
+er wollte mir nur unbedingt diese Erklärung anbieten, Ich nehme<lb/>
+an, dass dies auf die Fernsehdiskussion zurückzuführen ist.<lb/>
+<name type="person" ref="per:97646">Koppe</name> und <name type="person" ref="per:98053">Wanke</name> hatten nämlich vorgesehen, dass Fernsehen, welches<lb/>
+<pb n="02-0327" facs="02_1970-07-01_0327.jpg"/>sich angemeldet hatte, ein Interview dann mit mir zu machen<lb/>
+hätte. Ich war über diese Entscheidung nicht sehr glücklich,<lb/>
+da ich ja den Beamten gesagt, hatte, dass der der die Arbeit<lb/>
+leistet, auch in Erscheinung treten sollte. Nun hatten <name type="person" ref="per:97646">Koppe</name><lb/>
+und <name type="person" ref="per:98053">Wanke</name> aber meiner Meinung nach wieder zurecht so entschieden,<lb/>
+weil sie im Hinblick auf die zukünftige Herbstwahl alles daran<lb/>
+setzen, mich so viel wie möglich in der Öffentlichkeit ins Bild<lb/>
+zu rücken. Dass ich persönlich dies hasse, ist ihnen zwar be<lb break="no"/>kannt, aber andererseits machen sie ihre Arbeit nicht nur gut,<lb/>
+sondern manipulieren mich in dieser Hinsicht, so dass ich nicht<lb/>
+ausweichen kann, weil sie die sachlichen Gründe für sich haben..<lb/>
+Ich nehme deshalb an, dass aus dieser Überlegung her, <name type="person" ref="per:97867">Reiterer</name><lb/>
+noch vorsichtiger wurde, und deshalb mit jetzt schon sogar die<lb/>
+Dankesrede angeboten hat. Fazit: Wir müssen in Zukunft noch viel<lb/>
+vorsichtiger mit dem Protokoll, Etikett und Gefühlsmoment der<lb/>
+einzelnen Beamten rechnen.</p>
+            <p xml:space="preserve">Bei der Unterzeichnung war auch Dkfm. <name type="person" ref="per:137287">Karall</name> von der Landwirtschafts<lb break="no"/>kammer anwesend und ich bat ihn nachher noch zu mir ins Büro, um<lb/>
+einige Probleme mit ihm zu besprechen. Ich entwickelte ihm meinen<lb/>
+ursprünglich vorgesehen Plan über Abbau derGetreidestützungen<lb/>
+und um Mittel für Milchpreisstützung zur Verfügung zu haben und<lb/>
+er meinte, das wäre auch nur sehr schwer gegangen, weil dadurch<lb/>
+doch für die Getreidebauern ein Einkommensverlust zu verzeichnen<lb/>
+ist. Er selbst bittet um Verständnis dafür, dass für sie jetzt<lb/>
+die Lage äusserst schwierig wird, weil die Radikalisierung des<lb/>
+Bauernbundes doch durch die Oppositionsrolle jetzt kaum mehr<lb/>
+zu verhindern ist, allerdings glaubt er, dass eine stärkere Radi<lb break="no"/>kalisierung nicht eintreten wird, aber doch irgendetwas geschehen<lb/>
+müsste. Ich machte ihn nur darauf aufmerksam, wenn sie zum Bauern<lb break="no"/>sturm blasen, doch in Wirklichnkeit sie daran denken müssten, welche<lb/>
+Ergebnisse dann in der Praxis zu erwarten seien, und verglich dies<lb/>
+mit einem Streik, der angezettelt wird oder auch wirklich<lb/>
+spontan ausbricht in einer Branche oder Firma, die womöglich kein<lb/>
+Geld hat und deshalb auch die Forderungen, die gestellt werden,<lb/>
+kaum oder gar nicht erfüllen kann. Anschliessend an solche Mass<lb break="no"/>nahmen wird dann immer wieder von den Beteilgten festgestellt,<lb/>
+dass sie sich im Stich gelassen fühlten von den Organisationen,<lb/>
+<pb n="02-0328" facs="02_1970-07-01_0328.jpg"/>weil eben nicht mehr herausgekommen ist. <name type="person" ref="per:137287">Karall</name> zählt<lb/>
+zweifelsohne zu den ruhigeren und besonneneren Ratgeber der<lb/>
+Funktionäre der Bauernorganisation, ich bin allerdings über<lb break="no"/>zeugt, dass er sich derzeit nur sehr sehr schwer, wenn überhaupt<lb/>
+mit seiner Meinung durchsetzen kann. Er hat allerdings<lb/>
+drauf hingewiesen, dass man heute aber auch in der Vergangenheit<lb/>
+auf die ruhige und vernünftige Art versucht hat, den Funktionären<lb/>
+klarzumachen, warum die oder andere Probleme nicht so leicht zu<lb/>
+lösen sind, so hat man nur immer wieder dafür auch in dieser<lb/>
+Organisation womöglich das Schimpfwort "Bremser und Renegat"<lb/>
+oder noch ärgere zu hören bekommen.</p>
+         </div>
+      </body>
+    
+  </text>
+</TEI>

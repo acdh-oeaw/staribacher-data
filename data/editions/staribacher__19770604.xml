@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der  4. Juni 1977 bis Sonntag, der  5. Juni 1977</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band36_1977-06-04</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date from="1977-06-04" to="1977-06-05">Samstag, 4. Juni 1977 bis Sonntag, 5. Juni 1977</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-06-06">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="36-0659" facs="36_1977-06-04_1977-06-05_0659.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Samstag, den 4. und Sonntag, 5. Juni 1977<lb/>
+</p>
+            <p xml:space="preserve">Bei der Umbenennung des Aspernplatzes in Julius-Raab-Platz"<lb/>
+war natürlich die gesamte ÖVP-Prominenz anwesend. <name type="person" ref="per:97488">Gratz</name> hatte von<lb/>
+seinen Beamten beim Leistungsbericht von <name type="person" ref="per:97852">Raab</name> aufgeschrieben<lb/>
+bekommen, dass <name type="person" ref="per:97852">Raab</name> mit <name type="person" ref="per:97818">Pittermann</name>, <name type="person" ref="per:97439">Figl</name> und <name type="person" ref="per:97668">Kreisky</name> zur Staats<lb break="no"/>vertragsverhandlung nach Moskau gefahren ist. Zum Glück hat er<lb/>
+sich dann nach einiger Zeit selbst korrigiert und darauf hingewiesen,<lb/>
+dass dies selbstverständlich <name type="person" ref="per:97904">Schärf</name> gewesen ist. <name type="person" ref="per:98091">Withalm</name>, der neben<lb/>
+mir stand <add>[, sagte,]</add>, der Beamte gehört ja hinausgeschmissen. Wenn dies die<lb/>
+einzigen Fehler wären, die Beamte machen, wären wir wahrscheinlich alle<lb/>
+glücklich. Da kann einer viel mehr Mist machen und wird trotzdem<lb/>
+nicht hinausgeschmissen, weil er nämlich gar nicht hinaus<lb break="no"/>geschmissen werden kann. Das weiss <name type="person" ref="per:98091">Withalm</name> aber genauso wie wir<lb/>
+alle. Präs. <name type="person" ref="per:97743">Minkowitsch</name> als Bauernbundobmann hat mich neuerdings<lb/>
+gefragt, wann endlich die Verhandlungen über die Agrarpreise beginnen.<lb/>
+Er meinte, <choice><choice><sic>das</sic><corr>es?</corr></choice></choice> müsste jetzt die Forderung der Bauern genau geprüft werden,<lb/>
+aber dann selbstverständlich zumindestens zum grössten Teil erfüllt.<lb/>
+Ich verwies darauf, dass wir uns so verhalten werden wie die EG<lb/>
+die heuer keine Getreidepreiserhöhung durchführt. Die 1 - 3 %, die<lb/>
+insbesondere in Deutschland maximal herauskommen, kann man oder<lb/>
+muss man besser gesagt, vernachlässigen. Ich verwies <name type="person" ref="per:97743">Minkowitsch</name><lb/>
+darauf, dass auch die Müller und Bäcker, wenn es zu keiner<lb/>
+Getreidepreiserhöhung heuer kommt, auch zu keiner Lohnerhöhung<lb/>
+mehr kommen werden, bis zum Juni des nächsten Jahres, wo dann die<lb/>
+Preise in einem durchgeführt werden sollten. <name type="person" ref="per:97743">Minkowitsch</name> ist mit<lb/>
+dieser Lösung absolut nicht einverstanden.<lb/>
+</p>
+            <p xml:space="preserve">Eine Aussprache mit <name type="person" ref="per:107938">Leodolter</name> am Abend bestätigte wieder einmal<lb/>
+mehr, dass sie auch bezüglich der Lebensmittelkontrolle eine<lb/>
+vernünftige Einstellung hat. Sie ist – so wie ich davon überzeugt<lb/>
+bin – dass <name type="person" ref="per:97808">Petuely</name> einseitig vorgeht. Seine gute Ausrede derzeit<lb/>
+und noch viel mehr in Zukunft wird aber sein, dass er nicht genug<lb/>
+Leute hat, um wirklich eine umfassende Kontrolle durchzuführen.<lb/>
+Anerkennen muss man und darauf weist ja die AK ständig hin, dass<lb/>
+<name type="person" ref="per:97808">Petuely</name> sich gegen eine mächtige Lebensmittelindustrie zur Wehr<lb/>
+setzen muss. Gar nicht bestritten wird, dass er sich dabei oft<lb/>
+um sehr einseitige Massnahmen handelt, gegen eine Konservierung<lb/>
+von Margarine spricht sich <name type="person" ref="per:107938">Leodolter</name> auch aus dem Grund aus, weil<lb/>
+dadurch die Butter, die nicht konserviert werden darf und kann,<lb/>
+dann neuerdings ein weiterer Punkt der Diskriminierung gegenüber<lb/>
+der Margarine festgestellt werden würde. Bei Backwaren meint<lb/>
+<pb n="36-0660" facs="36_1977-06-04_1977-06-05_0660.jpg"/><name type="person" ref="per:107938">Leodolter</name>, wird man eben hauptsächlich dann eine genau Prüfung vornehmen<lb/>
+müssen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97584">JAGODA</name> UND <name type="person" ref="per:97819">PLESCH</name>: Bitte noch einmal mit <name type="person" ref="per:114160">Psota</name> sofort<lb/>
+die ganze Frage besprechen.<lb/>
+</p>
+            <p xml:space="preserve">In Bad Ischl bespreche ich mit Bürgermeister <name type="person" ref="per:116989">Saller</name> die Änderung des<lb/>
+Salzkammergut-Fremdenverkehrsverbandes. Der Altbürgermeister <name type="person" ref="per:139461">Müllegger</name><lb/>
+der bis jetzt Präsident dieser Organisation war und abgelöst werden soll<lb/>
+ist über die Vorgangsweise sehr verärgert, er macht mir gegenüber<lb/>
+zwar keine Bemerkungen, ich kenne ihn ja schon, wie er noch<lb/>
+Betriebsratsobmann der Salinen gewesen ist, bevor er Bürgermeister<lb/>
+geworden ist. Der jetzige Bürgermeister aber, der neuer Prä<lb break="no"/>sident des Salzkammergut-Fremdenverkehrsverbandes werden soll,<lb/>
+ist über dessen Verhalten nicht sehr glücklich. Notwendig erscheint<lb/>
+ihm und auch mir, dass wir diesen Verband in irgendeiner Weise jetzt<lb/>
+tatkräftiger unterstützen. Bad Ischl hat noch immer das Image der<lb/>
+Sommerfrische. Dies bedeutet, dass höchstens im Juli und August eine<lb/>
+einigermassen befriedigende Auslastung festzustellen ist. Hier wird<lb/>
+es notwendig sein, dass neue Wege beschritten werden. Bgm. <name type="person" ref="per:116989">Saller</name> wird<lb/>
+deshalb Dienstag vormittags nach Wien kommen. Ich werde mit Ihm und<lb/>
+<name type="person" ref="per:111367">Würzl</name> eine diesbezügliche Aussprache machen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98072">WIESINGER</name>: Bitte <name type="person" ref="per:111367">Würzl</name> verständigen.<lb/>
+</p>
+            <p xml:space="preserve">Dr. <name type="person" ref="per:146956">Felix Mandl</name>, nach dem eine Strasse benannt wurde, nachdem er sich<lb/>
+für den Golf-Club nicht nur sehr eingesetzt hat sondern auch<lb/>
+etliche 100000-e Schilling jährlich hineinpulvert, obwohl er gar<lb/>
+kein Golfer ist, wurde durch Benennung einer Strasse geehrt.<lb/>
+Bei dieser Gelegenheit erzählte er mir, dass jetzt Österreich mit<lb/>
+seinem Zementverbrauch an der Spitze in Europa und wahrscheinlich<lb/>
+auch in vielen anderen Erdteilen liegt. Für ihn gibt es zwei Indikatoren<lb/>
+der industriellen Leistung. Der Stromverbrauch und der Zementverbrauch.<lb/>
+Dieser Zementverbrauch kann meiner Meinung nach aber nur dadurch<lb/>
+gehalten werden, dass doch die Regierung und einige Länder und sicher<lb break="no"/>lich auch Gemeinden, d.h. die Gebietskörperschaften oder öffentlichen<lb/>
+Stellen grosse Bautätigkeit entwickeln. Dies gilt ganz besonders<lb/>
+für die Elektrizitätsbauten, die derzeit laufen. Die Bauindustrie<lb/>
+hat jetzt aber verlautbart, dass sie in der E-Wirtschaft noch wesentlich<lb/>
+mehr leisten könnte. Über diese Aussage bin ich deshalb sehr verwundert,<lb/>
+weil mir vor nicht allzu langer Zeit die DoKW erklärt haben, sie<lb/>
+<pb n="36-0661" facs="36_1977-06-04_1977-06-05_0661.jpg"/>könnten gar keinen schnellen Ausbau der Donau verantworten.<lb/>
+Die Bauwirtschaft hat glaube ich nur Angst, dass sie nach Malta<lb/>
+nicht sofort wieder einen Anschlussauftrag bekommt. Mir er<lb break="no"/>scheint daher notwendig, dass wir dieses Problem kurzfristig klä<lb break="no"/>ren resp. in dem Sinne entschieden wird, dass sehr wohl wie<lb/>
+bei den Donaukraftwerken auch bei den Speicherkraftwerken der<lb/>
+Anschlussauftrag vorbereitet sein muss, damit er sofort<lb/>
+eben im Anschluss an Ende Malta in Angriff genommen werden<lb/>
+kann. Soviel ich informiert bin, handelt es sich um die<lb/>
+Zillergründl-Ausbau der TKW.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name>: Bitte den Plan mit Verbund endgültig<lb/>
+fixieren.<lb/>
+</p>
+         </div>
+      </body>
+      
+   </text>
+</TEI>

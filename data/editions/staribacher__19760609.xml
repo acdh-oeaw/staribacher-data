@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittwoch, der  9. Juni 1976</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band31_1976-06-09</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1976-06-09">Mittwoch, 9. Juni 1976</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-01-29">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="31-0683" facs="31_1976-06-09_0683.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Mittwoch, 9. Juni 1976<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97453">Fremuth</name> von der Girozentrale, die an der Textilfusion Ost betei<lb break="no"/>ligt ist, drängte auf eine Aussprache mit Dir. <name type="person" ref="per:140380">Mautsch</name>, dem<lb/>
+ÖGB – <name type="person" ref="per:114075">Schmidt</name> und <name type="person" ref="per:113026">Tumpel</name> – <name type="person" ref="per:97543">Heindl</name>, <name type="person" ref="per:98053">Wanke</name>, <name type="person" ref="per:97819">Plesch</name> und mir über<lb/>
+die Entwicklung dieses Reorganisationsmodells. <name type="person" ref="per:140380">Mautsch</name>, der<lb/>
+Walek, Wr. Neustadt, reorganisiert hatte und dort sehr schöne<lb/>
+Erfolge erzielte, ist über die Vöslauer Wolle Spinnerei<add>[?]</add> unglück<lb break="no"/>lich. Er wird erst am 29. in der Generalversammlung bestellt.<lb/>
+Dann erst hat er etwas zu bestimmen und vor allem einen Vertrag,<lb/>
+der ihm eine gewisse Sicherheit gibt. Jetzt stellt er bereits<lb/>
+aber fest, dass 1976 und 1977, wenn nicht eine weitere Reorgani<lb break="no"/>sation erfolgt, so grosse Verluste entstehen werden, dass dann<lb/>
+dieselbe Situation für die Vöslauer, nämlich halbes Kapital ver<lb break="no"/>loren, zu verzeichnen sein wird, wie vor der Reorganisation.<lb/>
+Hauptproblem ist, dass noch immer 40 Artikel mit 300 kg Partien<lb/>
+auf Auftrag erzeugt werden. Fadenspinnen kann man in den Ent<lb break="no"/>wicklungsländern zu Preisen, die in Österreich niemals kosten<lb break="no"/>deckend sein können. Deshalb ist sein Prinzip, in die Fertigung<lb/>
+zu gehen. Genau das Gegenteil wurde aber bei der Reorganisation<lb/>
+gemacht. Dort hat man die Webstühle, 36 <choice><choice><sic>Sulzacher</sic><corr>Sulzbacher?</corr></choice></choice>, an Potten<lb break="no"/>dorf abgetreten. Der CA-Betrieb Pottendorf wird deshalb nach<lb/>
+Meinung von <name type="person" ref="per:140380">Mautsch</name> in kürzester Zeit aktiv gebaren. Die Vöslauer<lb/>
+wird aber die Weberei und Ausrüstung verlieren und damit automa<lb break="no"/>tisch auf lange Sicht in eine furchtbare finanzielle Krise kommen.<lb/>
+Er versucht zwar, durch Reorganisation z.B. jetzt geläufige Typen<lb/>
+mit 15 Passagen auf 6 Passagen zu reduzieren und dadurch nicht<lb/>
+einmal die Hälfte Maschinenwechsel erfolgt, die Kosten zu<lb/>
+senken. Trotzdem müsste eine wesentlich grössere Reorganisation<lb/>
+eine Sicherung des Textil-Ost-Projektes durch Zusammenschluss mit<lb/>
+der Pottendorfer Weberei erfolgen. die Konzentration der Spinnerei<lb/>
+auch der Micheldorfer hat nicht das gewünschte Ergebnis. Letztere<lb/>
+exportiert 90 % ihrer Produktion nach Grossbritannien, wo auf dem<lb/>
+Spinnsektor trotz dieser modernsten Spinnerei ein Defizit von<lb/>
+14 Mill. S heuer entstehen wird. Die <name type="person" ref="per:141509">Piering</name>-Strumpfhosenmaschinen-<lb/>
+Exportlösung ist auch problematisch. Rumänien hat eine Zusage für<lb/>
+die 21 Mill. S, die die Automaten gekostet haben, erhalten, dass<lb/>
+es 7 Mill. Strumpfhosen dafür nach Österreich liefern kann.<lb/>
+Der Preis dieser Strumpfhosen ist 6.50 S, wo 1.– S pro Stück für<lb/>
+die Abzahlung der Maschinen beinhaltet ist. Daraus würde ein<lb/>
+Verbraucherpreis von 10.– S pro Stück entstehen, niemand kauft<lb/>
+<pb n="31-0684" facs="31_1976-06-09_0684.jpg"/>sie teure Strumpfhosen. <name type="person" ref="per:97543">Heindl</name> erklärt. dass maximal 4.50 S<lb/>
+jetzt ein tragbarer Einstandspreis wäre. Die Mindestpreisver<lb break="no"/>ordnung sieht zwar 5.80 S vor, doch wird dieser Preis bei den<lb/>
+Importen durch Refaktie und sonstige Manipulationen wahrschein<lb break="no"/>lich tief unterschritten. <name type="person" ref="per:140380">Mautsch</name> hofft, dass er im Aufsichts<lb break="no"/>rat der Vöslauer starke Mitglieder von der CA- und der <name type="person" ref="per:97925">Schoeller</name>-<lb/>
+Gruppe auf die <name type="person" ref="per:97453">Fremuth</name> einen Einfluss hat, bekommen wird. Ich<lb/>
+kann <name type="person" ref="per:140380">Mautsch</name> nur empfehlen, wenn er von der Generalversammlung<lb/>
+bestellt ist, dann sofort ein entsprechendes Expose über not<lb break="no"/>wendige Massnahmen vorzulegen, damit der Aufsichtsrat beauftragt<lb/>
+wird, diese Reorganisation, wie er es sich vorstellt, vorzunehmen.<lb/>
+Da bei Scheitern des Experimentes und Versuchsmodells Textil Ost<lb/>
+natürlich auch das Prestige des Handelsministeriums leiden würde,<lb/>
+bin ich sehr wohl sehr interessiert, dass dieses Experiment ge<lb break="no"/>lingt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97819">PLESCH</name> UND <name type="person" ref="per:98053">WANKE</name>: Bitte alle Vorkehrungen treffen,<lb/>
+damit man uns nicht vorwerfen kann, wir hätten trotz Information<lb/>
+die Angelegenheit nicht ernst genug gehandelt.<lb/>
+</p>
+            <p xml:space="preserve">Im Klub berichtet <name type="person" ref="per:97311">Androsch</name> nur über die Finanzsituation, die<lb/>
+Staatsschuld hat zwischen 70 und 74 um 24 Mia zugenommen und nur<lb/>
+im Jahre 1975 und 1976 wird sie 60 Mia Zunahme verzeichnen. Dies<lb/>
+sei aber notwendig. Zur Sanierung wird er die Milchstützung abbauen<lb/>
+und die Stempelgebühren, die noch immer 15.– S beträgt, erhöhen.<lb/>
+In der Diskussion melden sich nur drei und darunter fragt <name type="person" ref="per:126223">Tull</name> an,<lb/>
+ob es nicht zweckmässiger ist, auf einmal alle notwendigen Sa<lb break="no"/>nierungsmassnahmen in einem durchzuführen. Dagegen spricht sich<lb/>
+natürlich sowohl <name type="person" ref="per:97311">Androsch</name> als auch der zu spät kommende <name type="person" ref="per:97668">Kreisky</name><lb/>
+ganz entschieden ist.<lb/>
+</p>
+            <p xml:space="preserve">Wegen Abbau der Milchstützung spreche ich mit <name type="person" ref="per:98055">Weihs</name> unter Anwesen<lb break="no"/>heit von <name type="person" ref="per:97511">Haiden</name>, <name type="person" ref="per:97563">Hofstetter</name> und <name type="person" ref="per:114075">Schmidt</name>. <name type="person" ref="per:98055">Weihs</name> hat mit <name type="person" ref="per:97311">Androsch</name><lb/>
+vereinbart 22 Groschen von den 52 Groschen Milchpreisstützung<lb/>
+womöglich einzusparen. Darüber hinaus sollen noch 7 Groschen<lb/>
+Qualitätsstützung wegfallen. die 30 Groschen Stützung, die dann<lb/>
+noch verbleiben, sollen unbedingt beibehalten werden, weil <name type="person" ref="per:98055">Weihs</name><lb/>
+davon ja gleich die 20,5 Groschen Krisengroschenbeitrag einbehält.<lb/>
+Wenn er gar keine Stützung mehr auszahlen würde, könnte er keine<lb/>
+Gegenverrechnung durchführen und wahrscheinlich auch daher kaum von<lb/>
+den Bauern resp. Molkereien ihren Krisengroschenanteil bekommen.<lb/>
+</p>
+            <pb n="31-0685" facs="31_1976-06-09_0685.jpg"/>
+            <p xml:space="preserve">Die 29 Groschen Stützungsersparnis bringen bei rd. 2 Mia. Liter<lb/>
+580 Mill. S. Dazu meint <name type="person" ref="per:98055">Weihs</name> müsste man dem Erzeuger noch 20 Groschen<lb/>
+geben, was ungefähr 430 Mill. S Konsumentenbelastung bedeutet<lb/>
+würde. Wenn man nun den Transportausgleich, wie im Vorjahr, <choice><choice><sic>mi</sic><corr>mit?</corr></choice></choice><lb/>
+63 Mill. S und die Lohnerhöhung, die voriges Jahr 195 betragen<lb/>
+hat und von denen auch <name type="person" ref="per:97563">Hofstetter</name> annimmt, dass sie 150 Mill.<lb/>
+heuer kosten wird, berücksichtigt, so sind 1,2 Mia. rund aufzubringen<lb/>
+Dies würde bei 500 Mill. Trinkmilchabsatz bedeuten, dass der<lb/>
+Liter um 2.40 S erhöht werden muss. Vor dieser Belastung warnt<lb/>
+sowohl der ÖGB als in einem Elaborat auch die AK, da damit die<lb/>
+Lebenshaltungskosten um 1,5 Punkte, das sind auf den April-Index<lb/>
+bezogen 0,9 % Erhöhung resultieren müsste.<lb/>
+</p>
+            <p xml:space="preserve">Mit <name type="person" ref="per:97386">Czettel</name>, <name type="person" ref="per:98112">Zöllner</name> und <name type="person" ref="per:112010">Blaha</name> bespreche ich ebenfalls die Milchpreis<lb break="no"/>anträge und vor allem die Getreidepreis-Wünsche der Landwirtschaft.<lb/>
+Nach wie vor möchte <name type="person" ref="per:98112">Zöllner</name> zu einem späteren Zeitpunkt das Problem<lb/>
+erst lösen. <name type="person" ref="per:97386">Czettel</name> erklärt aber, und <name type="person" ref="per:97563">Hofstetter</name> bestätigt es mir<lb/>
+nachher, dass man in Gewerkschafts- und Kammerkreisen doch ein<lb break="no"/>sieht, dass die Regierung wahrscheinlich noch im Sommer eine Lösung<lb/>
+treffen muss. Entgegen der Meinung von <name type="person" ref="per:98055">Weihs</name> plädiere ich immer<lb/>
+stärker, die Preisregelung auf gewissen Gebieten aufzulassen. <name type="person" ref="per:98112">Zöllner</name><lb/>
+möchte vor allem auf den Normalweizen unter gar keinen Umständen<lb/>
+auch nur 1 Groschen Preiserhöhung beschliessen. Hier deckt er sich<lb/>
+vollkommen mit meiner Auffassung. Es gelingt mir, zu dieser Ge<lb break="no"/>sprächsrunde auch noch Gen.Sekr. <name type="person" ref="per:97769">Mussil</name> zuzuziehen. Dieser wehrt<lb/>
+sich ganz entschieden, irgendwelche Erklärung abzugeben, ja nicht<lb/>
+einmal über die Problematik zu verhandeln, solange nicht die Prä<lb break="no"/>sidentenkonferenz der Landwirtschaftskammer dazu Stellung genommen<lb/>
+hat und vor allem er mit seinen Fachleuten entsprechende Vorbera<lb break="no"/>tungen geführt hat. In weiterer Folge gelingt mir, <name type="person" ref="per:97769">Mussil</name> und <name type="person" ref="per:97743">Minko<lb break="no"/>witsch</name> zu einem kurzen Gespräch zusammenzubringen und sie zu beschul<lb break="no"/>digen, dass sie nicht verhandlungsbereit sind. Diese Aussprachen sind<lb/>
+für mich ungeheuer wichtig, weil ich dann gegenüber der Landwirt<lb break="no"/>schaftskammer, insbesondere der Präsidentenkonferenz und dem Prä<lb break="no"/>sidenten von NÖ <name type="person" ref="per:113056">Bierbaum</name>, der mich wegen der Nicht-Verhandlung<lb/>
+attackiert, nachweisen kann, dass ich jede Gelegenheit nütze,<lb/>
+um doch zu einem Akkord mit den verschiedensten Auffassungen<lb/>
+zu gelangen. Ich habe deshalb auch mit dem Bauernbunddirektor<lb/>
+<name type="person" ref="per:97686">Lanner</name> ein Vier-Augen-Gespräch geführt. Dieser will nämlich<lb/>
+von mir wissen, wie es weitergeht. Gegen meine Konzeption hat er<lb/>
+<pb n="31-0686" facs="31_1976-06-09_0686.jpg"/>kaum etwas sachlich einzuwenden. Er so wie alle Landwirte<lb/>
+fürchten in Wirklichkeit auch, dass die Erhöhung des Füll<lb break="no"/>weizenpreises weitere Überschussproduktion auf diesem Gebiet<lb/>
+auslösen muss. Qualitätsweizen aber, den wir gegebenenfalls exportie<lb break="no"/>ren könnten und wo <name type="person" ref="per:98055">Weihs</name> sagt, er hat jetzt noch 140.000 t auf<lb/>
+Lager sowie Durum-Weizen, den wir dringendst brauchen, wird bei<lb/>
+der jetzigen Preisrelation aber kaum abgebaut. <name type="person" ref="per:97686">Lanner</name> versprach<lb/>
+mit seinen Leuten Rücksprache zu nehmen und mir dann in de Nacht<lb break="no"/>sitzung entsprechende Informationen zu geben. Dies hat er dann<lb/>
+aber nicht getan, wahrscheinlich weil er mit seinen Leuten entweder<lb/>
+überhaupt nicht sprechen konnte oder keine Übereinstimmung erreichen<lb/>
+konnte.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97819">PLESCH</name> UND <name type="person" ref="per:114508">TIEBER</name>: Wir können jetzt überall herum<lb break="no"/>erzählen, wie ich durch ständige Kontakte und Gespräche mit den<lb/>
+einzelnen Interessensvertretungen versuche, vor der offiziellen<lb/>
+Preiskommission Lösungsmöglichkeiten zu erarbeiten.<lb/>
+</p>
+            <p xml:space="preserve">Die Oberösterreicher machen mich im Klub darauf aufmerksam, dass<lb/>
+im Linzer Volksblatt eine Glosse von <name type="person" ref="per:145375">Rosenbauer</name> steht, de sich<lb/>
+bitter beschwert, dass in Teheran weder der Bundespräsident noch ich<lb/>
+bei der Böhler-Werkseröffnung zu ihnen gekommen sind. Er selbst<lb/>
+hätte dort schon seit langem eine Kooperation. Abgesehen davon,<lb/>
+dass ich davon überhaupt nichts wusste, auch der Handelsdelegierte<lb/>
+scheinbar keine Ahnung hatte, sonst hätte er mich aufmerksam ge<lb break="no"/>macht, fand ich die Behauptung: "Nur weil er kein verstaatlichter<lb/>
+Betrieb ist, hat man ihn nicht besucht", als unerhört. Ich habe mich<lb/>
+deshalb sofort bei <name type="person" ref="per:97769">Mussil</name> darüber beschwert, der wie erwartet<lb/>
+erklärte, er könne ja nichts für die Schreibweise des Linzer<lb/>
+Volksblattes. Zuerst dachte ich mir, an das Linzer Volksblatt, insbe<lb break="no"/>sondere meinem stillen Verehrer, Chefredakteur <name type="person" ref="per:97633">Klar</name>, einen Leserbrief<lb/>
+zu schreiben. Besser ist es aber, wenn ich jetzt eine Sachverhalts<lb break="no"/>darstellung der zu Ende meiner Verwunderung Ausdruck gibt, Herrn<lb/>
+<name type="person" ref="per:145375">Rosenbauer</name> persönlich schreibe.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:114508">TIEBER</name>: Bitte mit <name type="person" ref="per:108322">Meisl</name> einen Briefentwurf aus<lb break="no"/>arbeiten. Mit Kopie und Begleittext dann an<add>[den]</add> Bundespräsidenten.<lb/>
+</p>
+            <pb n="31-0687" facs="31_1976-06-09_0687.jpg"/>
+            <p xml:space="preserve">Die Paritätische Kommission, die ich zu präsidieren hatte,<lb/>
+dauerte 5 Minuten. <name type="person" ref="per:97525">Häuser</name> meinte, wenn er dies gewusst hätte,<lb/>
+wäre er gar nicht gekommen. Da die Paritätische Kommission durch<lb/>
+die Präsidenten-Vorbesprechung mehr oder minder ein richtig formales<lb/>
+Entscheidungsinstitut nur mehr ist, wird sie früher oder später<lb/>
+sicherlich total abgewertet. Da ich ja nur subsidiär für <name type="person" ref="per:97668">Kreisky</name><lb/>
+als Vorsitzender fungiere, brauche ich mir darüber nicht allzu<lb/>
+sehr den Kopf zu zerbrechen. Eine notwendige Reorganisation wird<lb/>
+allerdings früher oder später kommen müssen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: Was ist Deine Meinung?<lb/>
+</p>
+            <p xml:space="preserve">Mit Minister <name type="person" ref="per:113083">Sinowatz</name>, seinem Sekretär <name type="person" ref="per:140342">Hermann</name> und dem zuständigen<lb/>
+Ministerialrat bei ihm besprach <name type="person" ref="per:114508">Tieber</name>, <name type="person" ref="per:97543">Heindl</name> und ich die weitere<lb/>
+Vorgangsweise für das Filmförderungsgesetz. Wir kamen erwartungs<lb break="no"/>gemäss überein, dass selbstverständlich sowohl die kulturelle<lb/>
+Filmförderung bei <name type="person" ref="per:113083">Sinowatz</name> als auch die kommerzielle bei uns<lb/>
+in einem Gesetz-Entwurf zusammengefasst werden sollen. Die Filmför<lb break="no"/>derung wird aber streng getrennt. Die jetzige, bei <name type="person" ref="per:113083">Sinowatz</name>, er<lb break="no"/>fuhr ich jetzt endgültig, beruht auf zwei Krediten, die die<lb/>
+Wien-Film aufgenommen hat und wovon jährlich im Unterrichtsbudget<lb/>
+entsprechende Rückzahlungen erfolgen. Ursprünglich hatte ich ge<lb break="no"/>dacht, dass <name type="person" ref="per:113083">Sinowatz</name> irgendwo eine grössere Budgetpost aus<lb/>
+Liquidationserlösen der Wien-Film bekommen hat. Jetzt erfahre ich,<lb/>
+dass es sich hier um einen reinen Kreditvertrag handelt, der<lb/>
+eben durch Budgetposten dann beim Unterrichtsminister zurückge<lb break="no"/>zahlt wird. Dies ist wohl die teuerste und komplizierteste Lösung,<lb/>
+die man sich vorstellen kann. Jeden anderen Vorschlag, wenn ihn der<lb/>
+Finanzminister akzeptiert, können wir daher in Zukunft als Handels<lb break="no"/>ministerium und Unterrichtsministerium darauf verweisen, dass wir<lb/>
+eine bessere Lösung gefunden haben als in der Vergangenheit<lb/>
+praktiziert wurde.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:114508">TIEBER</name>: Bitte versuche die ziffernmässige Kredit-<lb/>
+und Finanzierungssituation, vor allem wann diese Lösung begonnen<lb/>
+hat, von dem zuständigen Ministerialrat zu erfahren.<lb/>
+</p>
+            <p xml:space="preserve">Die Aussprache über die Rennweger Kaserne mir <name type="person" ref="per:97668">Kreisky</name>, <name type="person" ref="per:97488">Gratz</name>,<lb/>
+<name type="person" ref="per:97311">Androsch</name>, <name type="person" ref="per:97755">Moser</name> und unserem Präsidium verlief für mich erwartungs<lb break="no"/>gemäss. <name type="person" ref="per:97488">Gratz</name> möchte die Rennweger Kaserne billigst kaufen, <name type="person" ref="per:97311">Androsch</name><lb/>
+möchte den Bundesgrund überhaupt nicht hergeben, weil er – und dies<lb/>
+<pb n="31-0688" facs="31_1976-06-09_0688.jpg"/>wahrscheinlich zu Recht sagt – die Bauaufgaben des Bundes<lb/>
+in Hinkunft grössere Grundstücke benötigen. <name type="person" ref="per:97311">Androsch</name> möchte des<lb break="no"/>halb<add>[einen]</add> Grundtausch vornehmen. Dies gilt vor allem für alle Kasernen,<lb/>
+die im Wiener Raum liegen. <name type="person" ref="per:97488">Gratz</name> wieder erklärt, er hat dafür<lb/>
+keinen Grund zur Verfügung. Der langen Verhandlung kurzer Sinn:<lb/>
+<name type="person" ref="per:97668">Kreisky</name> entschied dann auch nur, es all ein städtebauliches Konzept<lb/>
+auf dem Grund der Rennweger Kaserne ausgearbeitet werden. <name type="person" ref="per:97755">Moser</name><lb/>
+wird eine solche Ausschreibung vornehmen. Für mich ist es klar,<lb/>
+dass es jahrelang dauern wird, bis man sich überhaupt über dieses<lb/>
+Konzept geeinigt hat, dann weitere Jahre, bis die Durchführung verein<lb break="no"/>bart ist, <name type="person" ref="per:97488">Gratz</name> befürchtet bei einer gemeinsamen Gesellschaft<lb/>
+ähnliche Erfahrungen wie beim Allgemeinen Krankenhaus. Bei dieser<lb/>
+Gelegenheit kamen überhaupt die Grundstücktransaktionen zwischen<lb/>
+Bund, Bundesstellen und der Gemeinde zur Sprache. <name type="person" ref="per:97488">Gratz</name> möchte, dass,<lb/>
+z.B. auf den Eisenbahngründen, die ÖBB jetzt nicht Überdachungs<lb break="no"/>vermietungen und Bauten durchführt. Dies ist nämlich wie ich aus<lb/>
+dem Landstrasser Projekt weiss, ein gutes Geschäft für die Bundes<lb break="no"/>bahn. Auf ihrem Grund kann die Bahn machen was sie will, es kann<lb/>
+gar niemand anderer dort auch nur Baurecht erlangen, sondern nur<lb/>
+Mietverträge mit guten Einnahmen, bei Heimfall dann der Bauten<lb/>
+nach einer gewissen Zeit. Deshalb wehrt sich die Bundesbahn<lb/>
+wahrscheinlich gegen jedwede Abtretung von nicht benötigtem Bahn<lb break="no"/>grund. <name type="person" ref="per:97311">Androsch</name> möchte nun – <name type="person" ref="per:97488">Gratz</name> hätte dafür Verständnis –<lb/>
+die Lassallestrasse, das riesige Güterbahnhofsgelände, ebenfalls<lb/>
+in eine städtebauliche Lösung einbeziehen. Solange aber diese<lb/>
+Grossprojekte überhaupt nicht in Angriff genommen werden können,<lb/>
+wird man mit dem Tausch von Kasernen, Bahngrund usw. nicht weiter<lb break="no"/>kommen. die stundenlange Sitzung hat als einzigen Erfolg gebracht,<lb/>
+dass <name type="person" ref="per:97668">Kreisky</name> seine Jugendanekdoten als er auch noch VSM-Obmann<lb/>
+von der Landstrasse zeitweise war, zum besten gab. Schön langsam wird<lb/>
+er eine Institution.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97346">Benya</name> sagte mir lächelnd, er hätte in der Kronen-Zeitung gelesen,<lb/>
+dass <name type="person" ref="per:97668">Kreisky</name> und er nach meiner Meinung noch weiter kandidieren<lb/>
+werden. Ich sagte, <name type="person" ref="per:97346">Toni</name> gegenüber, genauso wie ich es <name type="person" ref="per:123326">Genn</name> ge<lb break="no"/>sagt habe, ich bin überzeugt davon, dass beide in der "Hack'n"<lb/>
+sterben werden. <name type="person" ref="per:97346">Benya</name> interessierte sich über die Aussprache mit <name type="person" ref="per:133398">Mahr</name><lb/>
+und ich erzählte ihm, dass dieser behauptete, er hätte in stunden<lb break="no"/>langem Gespräch mit ihm die Nachfolge-Frage im ÖGB sehr genau<lb/>
+diskutiert. <name type="person" ref="per:111741">Sekanina</name> und <name type="person" ref="per:111740">Dallinger</name> kämen nicht in Frage sondern<lb/>
+nur ich, soll <name type="person" ref="per:97346">Benya</name> gesagt haben. Ich erklärte sowohl <name type="person" ref="per:97346">Benya</name> jetzt<lb/>
+<pb n="31-0689" facs="31_1976-06-09_0689.jpg"/>als in Persien <name type="person" ref="per:133398">Mahr</name>, dass dies <name type="person" ref="per:97346">Benya</name> garantiert nicht gesagt hat.<lb/>
+Auch jetzt wartete ich aber nicht seine Antwort ab, sondern setzte<lb/>
+mich sofort auf die Regierungsbank. Ich wollte <name type="person" ref="per:97346">Benya</name> ganz be<lb break="no"/>wusst nicht zu einer Äusserung veranlassen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:145376">Josef Strabl</name> als ehemaliger Sportredakteur hat zu seinem 70. Geburts<lb break="no"/>tag in seine jetzige Arbeitsstätte – Stadthalle – zu einem Empfang<lb/>
+eingeladen. <name type="person" ref="per:97543">Heindl</name> und ich kamen zwar um zweieinhalb Stunden zu<lb/>
+spät, doch war dort wirklich noch alles bummvoll. Noch später<lb/>
+ist allerdings dann <name type="person" ref="per:97668">Kreisky</name> erschienen, als wir schon wieder ins<lb/>
+Parlament zurückkeilten. <name type="person" ref="per:97543">Heindl</name> vermerkte mit Recht, dass <name type="person" ref="per:97668">Kreisky</name><lb/>
+ein ungeheuer gutes Gspür hat, wen und wann er besuchen muss.<lb/>
+Dort waren eine grosse Anzahl von Redakteuren und damit eine weitere<lb/>
+Publicity sicher. Hier glaube ich, irrt <name type="person" ref="per:97543">Heindl</name>. <name type="person" ref="per:97668">Kreisky</name> hat vielleicht<lb/>
+<choice><choice><sic>diese Nebeneffekt</sic><corr>diesen Nebeneffekt? diese Nebeneffekte?</corr></choice></choice> auch berücksichtigt. In Wirklichkeit aber legt<lb/>
+<name type="person" ref="per:97668">Kreisky</name> tatsächlich grossen Wert darauf, seine alten Freunde<lb/>
+aus der Jugendorganisation und ehemalige Kampfgefährten auch aus<lb/>
+einem glaube ich persönlichen menschlichen Bedürfnis bei solchen<lb/>
+Gelegenheiten ihm wirklich zu gratulieren. Immer wieder muss ich<lb/>
+objektiverweise zugeben, obwohl ich mich bemühe, nicht von dem<lb/>
+Charme und der Methode <name type="person" ref="per:97668">Kreiskys</name> einfangen zu lassen, dass er<lb/>
+unwahrscheinlich gut sein Image aufbaut und damit auch die näch<lb break="no"/>sten Wahlen entsprechend positiv vorbereitet. Ob er dies wissent<lb break="no"/>lich oder instinktiv tut, ist in diesem Fall ganz gleich.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="31_0682_03" facs="31_1976-06-09_0682-03.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 9.6.1976</head>
+         </div>
+         <pb n="31_0682_04" facs="31_1976-06-09_0682-04.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

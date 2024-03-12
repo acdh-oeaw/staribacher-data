@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der 18. September 1970</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Joseph Staribacher</collection>
+                  <idno type="signature">Band02_1970-09-18</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1970-09-18">Freitag, 18. September 1970</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-04-06">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-19" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+  <text xml:base="http://192.168.0.9/staribacher/src/scans/Band02/">
+      <body>
+         <pb n="02-0539" facs="02_1970-09-18_0539.jpg"/>
+         <div type="entry">
+            <dateline>
+               <date when="1970-09-18">Freitag, 18. September 1970</date>
+            </dateline>
+            <p xml:space="preserve">Der Bauernverband wollte auch seinen Mitgliedern gegenüber zeigen,<lb/>
+dass er gegen die neue Regierung genauso demonstriert wie gegen<lb/>
+die ÖVP-Regierung hat deshalb eine Demonstration mit anschliessender<lb/>
+Diskussion für den 22. September vorgesehen. Der Bundeskanzler hat<lb/>
+ihnen geantwortet, dass zu dieser Zeit <name type="person" ref="per:117611">Ceausecsu</name>, der rum. Staats<lb break="no"/>präsident auf Besuch weilt und deshalb kaum eine Zeit für eine<lb/>
+ausführliche Diskussion sei. Der Bauernverband aktzeptierte deshalb,<lb/>
+bereits am Freitag, den 18. seine Demonstration vorzunehmen. In<lb/>
+diesem Punkt hat Österreich noch immer Zustände wie sie bei<lb/>
+<name type="person" ref="per:97875">Roda Roda</name> oder <name type="person" ref="per:97547">Herzmanovsky Olando</name> geschildert werden. Revolutionen</p>
+            <p xml:space="preserve">und Demonstrationen können auch mit dem Gegener ohne weiters verein<lb break="no"/>bart werden. Die Aussprache war ganz interessant, die Bauernvertreter<lb/>
+kamen mit etlichen Traktoren und Hunderten von Demonstranten, wobei<lb/>
+allerdings am Ballhausplatz bald mehr Rentner und sonstige Neugierige<lb/>
+standen, um den Spektakel mitzuerleben , als demonstrierende Bauern.<lb/>
+Da die ÖVP-Alleinregierung, als sie seinerzeit die Demonstration<lb/>
+erwartete, durch ein Hintertürl aus dem Bundeskanzleramt entwichen<lb/>
+ist, stellte sich fast die halbe Bundesregierung nämlich <name type="person" ref="per:97668">Kreisky</name>,<lb/>
+<name type="person" ref="per:97525">Häuser</name>, <name type="person">Weihsx</name>, <name type="person" ref="per:97311">Androsch</name> und ich der Delegation, die allerdings zu<lb/>
+unserer grössten Verwunderung mit mit 10 Vertretern erschienen<lb/>
+war. Sie wollten erreichen, dass wir ihnen eine fixen Termin für<lb/>
+den Abbau des Krisengroschens mitteilten, was selbstverständlich<lb/>
+weder <name type="person" ref="per:98055">Weihs</name> noch <name type="person" ref="per:97668">Kreisky</name> tun konnten und wollten, denn einen solchen<lb/>
+Erfolg konnte dem Bauernverband nicht zugestanden werden, sondern es<lb/>
+wurde ihnen mitgeteilt, dass alle Vorschläge, die sie gemacht hatten,<lb/>
+auch bezüglich des Krisengroschenabbaues geprüft werden und in<lb/>
+den nächsten Tagen sowieso entsprechende Verhandlungen und Bespre<lb break="no"/>chungen mit der Präsidentenkonferenz aufgenommen werden. Unerklärlich<lb/>
+ist mir noch immer ihre Forderung nach kostendeckenden Preisen und<lb/>
+sie glauben, dass sie damit wirklich die Produktion in den Griff<lb/>
+bekommen. In Wirklichkeit müssten doch – wenn die Erzeugerpreise<lb/>
+von 2.30 auf 3.70 S je Liter erhöht werden – durch die daraus<lb/>
+resultierende Erhöhung der Verbraucherpreise z.B. von Vollmilch<lb/>
+von 4.20 auf 5.80, von Butter 42.- auf 70.- S und von Käse von<lb/>
+35.- auf 55.- S entsprechende Absatzrückgänge zu verzeichnen sein.</p>
+            <pb n="02-0540" facs="02_1970-09-18_0540.jpg"/>
+            <p xml:space="preserve">Sie wollten unbedingt eine Zusage vom Landwirtschaftsminister, dass<lb/>
+er auf Grund des Preisregelungsgesetzes einen entsprechenden Antrag,<lb/>
+den sie einbringen wollten, behandelt. Sie waren der Überzeugung, dass<lb/>
+die Präsidentenkonferenz der Landwirtschaftskammern es bis jetzt<lb/>
+sträflich unterlassen hat, einen höheren Milchpreis auf Grund des<lb/>
+Preisregelungsgesetzes zu verlangen, wobei sie sich auf den § 3 des Land<lb break="no"/>wirtschaftsgesetzes berufen, wo drinnen steht, dass Gestehungskosten<lb/>
+rationell gefü-hrten landwirtschaftlicher Betriebe in massgeblichen Pro<lb break="no"/>duktionsgebieten zu untersuchen sind. Bezüglich der Weinsteuer, der<lb/>
+Sonderabgabe, forderten sie eine unmittelbare Aufhebung der Belastung<lb/>
+des Weines, konnten allerdings doch einigermassen beruhigt werden, als<lb/>
+man ihnen mitteilte, dass im neuen Budget höhere Ansätze vorhanden seien<lb/>
+werden. Am Ende der Diskussion hatten alle Regierungsmitglieder, soweit<lb/>
+sie das Haus verliessen, mit Applaus von den Demonstranten zu rechnen,<lb/>
+das zeigt wieder einmal, dass man sich jeder Diskussion jeder Gruppe<lb/>
+stellen muss, da hat man schon zu 50 % die Sympathien auch von Leuten die<lb/>
+an und für sich mit den Beschlüssen der Regierung nicht einverstanden<lb/>
+sind.</p>
+            <p xml:space="preserve">Der deutsche Botschafter hatte einEssen mit Aussenminister <name type="person" ref="per:97910">Scheel</name>, Bundes<lb break="no"/>kanzler und mir arrangiert und bei dieser Gelegenheit konnte ich in<lb/>
+Erfahrung bringen, dass sich die BRD, insbesonder <name type="person">Scheel</name>, der Vorsitzende<lb/>
+der derzeitigen EWG sehr für eine Interimslösung mit Österreich aussprechen<lb/>
+wird. Er glaubt sogar, dass er bei den russisch-deutschen Verhandlungen<lb/>
+imstande war, die russische Partei- und Staatsführung davon zu überzeugen,<lb/>
+dass sie die EWG als einen Komplex zwar nicht anerkennen, aber zur<lb/>
+Kenntnis nehmen.</p>
+            <p xml:space="preserve">Bei der Industriellenvereinigung fand ein Wirtschafts- und Pressekolloquium<lb/>
+statt. Aus Anlass des 50-jährigen Bestehens der deutsch-österreichischen<lb/>
+Handelskammer.. Das Thema lautere: Wohin treibt die Konjunktur, Wachstum<lb/>
+oder Stabilisierung. Das wirkliche Interesse dieser Diskussion, die mit<lb/>
+dem deutschen Journalisten, Redakteur <name type="person">Stefens</name> von der WELT, mit deutschen<lb/>
+Wirtschaftspolitikern, Hauptgeschäftsführern und Sparkassenverbände-Leute<lb/>
+stattfand, war nur, dass die mit einer Perfektion an die Probleme heran<lb break="no"/>gehen. Unter anderem wurde das Stabilisierungsgesetz zitiert, welches<lb/>
+die Bundesregierung verpflichtet, alles zu tun, um die Stabilität der<lb/>
+Preise zu erhalten, was sie natürlich überhaupt nicht erfüllen kann.<lb/>
+Die Erzeugepreise sind in Deutschland 4,6 %, die Investitionen um 10 %<lb/>
+die Bautenkosten um 18,5, die Lebenshaltungskosten um 4,1 und die Löhne<lb/>
+um 14,5 % gestiegen. In dieser Beziehung sind wir glaube ich viel<lb/>
+<pb n="02-0541" facs="02_1970-09-18_0541.jpg"/>pragmatischer und legen uns nicht solche Hemmnisse auf, wie sie<lb/>
+die BRD getan hat. <name type="person" ref="per:97769">Mussil</name>, mein Gegenspieler, obwohl er auf der<lb/>
+österr. Gegenseite neben dem aus Bonn hergereisten <name type="person" ref="per:97417">Klaus Emmerich</name><lb/>
+mitwirkte, musste einleitend zugeben, dass die Bundesregierung doch<lb/>
+einiges gemacht hat, um die Stabilität zu erhalten, stiess sich aber<lb/>
+daran, dass der Budgetrahmen ausgedehnt werden wird. Meine Befürchtung<lb/>
+geht dahin, dass ähnlich wie Amerika eine Inflation Platz greift, obwohl<lb/>
+das Wachstum stagniert. Er hatte dafür die Bezeichnung Stag-Flation,<lb/>
+die auch in Österreich jetzt Platz greifen wird. Geschäftsführer <name type="person">Türen</name><lb/>
+erwiderte, dass in der Bundesrepublik Deutschland <name type="person">Möller</name> mit dem Stabili<lb break="no"/>sierungsgesetz jetzt die grössten Schwierigkeiten hat, denn einerseits<lb/>
+verlangt er zwar einen 10 %-igen Konjunkturzuschlag für die Lohn- und<lb/>
+Einkommenssteuer und schafft die degressive Abschreibung ab, gleichzeitig<lb/>
+aber glaubt ihm niemand, dass dies erstens nur vorüberhgehend ist und<lb/>
+zweitens dass hier das ruhig über die Bühne gehen wird. Die Gewerkschaften<lb/>
+haben sich ja bekanntlich schon sehr gegen diese Massnahme ausgesprochen<lb/>
+Nun liegt aber dem Stabilisierungsgesetz nach seiner Meinung ein normative<lb/>
+Aktionsmodell zugrunde und es müsste deshalb, um die hohe Beschäftigung<lb/>
+zu erhalten und trotz der Inflation Reibungsverluste zu verhindern, in<lb/>
+irgendeiner Weise der Staat in viel stärkerem Masse Massnahmen setzen.<lb/>
+Denn er vermutet, dass die Tarifpartner volkswirtschaftliche versagen<lb/>
+werden und deshalb der Staat Eingriffe wird machen müssen. Die Tarif<lb break="no"/>hoheit, sei es auf dem Lohn- oder Preissektor, glaubt er nicht aufrecht<lb/>
+erhalten zu können. Ich erklärte die Massnahmen der österreichischen<lb/>
+Bundesregierung und wies auf die konjunkturgerechte Erstellung des<lb/>
+Budgets 1971 hin, bezeichnete es als Konsolidierungsbudget, weil sich<lb/>
+auch wenn der Budgetrahmen um 10 Mia überschritten wird und das<lb/>
+Defizit von 9 auf 9,5 Mia steigen wird, dass sie noch immer unter dem<lb/>
+vom Wirtschaftsbeirat gezogenen Limit, nämlich der maximalen Erhöhung<lb/>
+des Budgetrahmes und des Defizit im Bruttonationalprodukt-Ausmass zu<lb/>
+liegen kommen wird. Das BNP wird ja heuer sicher nominell sicher minde<lb break="no"/>stens 10 % steigen. Betreffend der theoretischenAuseinandersetzung<lb/>
+ob Wachstum oder die Stabilität, entschied ich mich eindeutig für das<lb/>
+Wachstum, konnte darauf hinweisen, dass es immerhin möglich war, in<lb/>
+den vergangen 25 Jahren das Wachstum wesentlich zu vergrössern, während<lb break="no"/>dem die Stabilitätsaposteln keinen einzigen Erfolg zu verzeichnen hatten.</p>
+            <pb n="02-0542" facs="02_1970-09-18_0542.jpg"/>
+            <p xml:space="preserve">Dies veranlasste den deutschen Sparkassenvertreter <name type="person">Guerlain</name> zu dem<lb/>
+Hinweis, dass die Voraussetzung des Wachstum oder der Expensionisten<lb/>
+der Kampf der Stabilisten für ein einigermassen beruhigendes Lohn<lb break="no"/>Preis-Klima, da wir ansonsten bereits in einer galoppierenden Inflation<lb/>
+wären.</p>
+            <p xml:space="preserve">Anschliessend gab Bundeskanzler <name type="person" ref="per:97668">Kreisky</name> einen Empfang im Palais Pallavici<lb break="no"/>ni und da ich anschliessend sofort mit dem Zug zur Messe-Eröffnung und<lb/>
+Wahlversammlungen fuhr, erschien ich mit dem Strassenanzug. Da Smoking<lb/>
+vorgeschrieben war, verlangte der Zerberus am Eingang von mir die Ein<lb break="no"/>ladung und ich habe sie selbstverständlich nicht bei mir gehabt, sodass<lb/>
+er zuerst in einem Buch nachzuschauen begann, ob ich denn überhaupt tat<lb break="no"/>sächlich als <name type="person" ref="per:97985">Staribacher</name> dort eingetragen sei. Zum Glück löste mich<lb/>
+<name type="person" ref="per:127771">Scheer</name> aus dieser Situation, indem er darauf hinwies, dass ich der Han<lb break="no"/>delsminister bin. Man sieht, der Kampf gegen das Protokoll wird nicht sehr<lb/>
+einfach sein.</p>
+         </div>
+      </body>
+      <back>
+         <pb n="02_0538_01" facs="02_1970-09-18_0538-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 18.9.1970</head>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+  </text>
+</TEI>

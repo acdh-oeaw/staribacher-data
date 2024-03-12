@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittwoch, der  1. September 1982</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band66_1982-09-01</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1982-09-01">Mittwoch, 1. September 1982</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-11-04">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="66-1021" facs="66_1982-09-01_1021.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Mittwoch, 1. September 1982<lb/>
+</p>
+            <p xml:space="preserve">Die Verhandlungen mit Frau Staatssekretär <name type="person" ref="per:111408">Eypeltauer</name> und Minister<lb/>
+<name type="person" ref="per:111741">Sekanina</name> auf der einen Seite wegen eines Ressortübereinkommens über die<lb/>
+Durchführungsverordnung zum Dampfkesselgesetz verlief erfolgreich.<lb/>
+<name type="person" ref="per:111408">Eypeltauer</name> war froh, daß sie überhaupt jetzt endlich die Verordnung<lb/>
+rausbringen kann und stimmte einer Formulierung zu, die von der Energie<lb break="no"/>sektion, Dr. <name type="person" ref="per:110944">Zluwa</name>, und vom Präsidium, Dr. <name type="person" ref="per:112957">Steffek</name>, als optimal <choice><choice><sic>bezeichneten</sic><corr>bezeichnet wurde</corr></choice></choice>.<lb/>
+Die Verhandlungen mit Gesundheitsminister <name type="person" ref="per:117200">Steyrer</name>, der die Verordnung<lb/>
+eigentlich gar nicht mitunterschreiben mußte, von dem ich aber gerne<lb/>
+hatte, daß er sie vidiert, sodaß er ebenfalls eingebunden ist, gestaltete<lb/>
+sich dann schon schwieriger. <name type="person" ref="per:117200">Steyrer</name> und seine Leute hatten allerdings<lb/>
+recht, als sie ersuchten, wir sollten den Begriff Buchwert, der im Ver<lb break="no"/>hältnis zu den Aufwendungen für zusätzliche Umweltschutzmaßnahmen he<lb break="no"/>rangezogen werden sollte, streichen. Damit hatte er insofern recht,<lb/>
+als die Buchwerte für Altanlagen, auf solche bezieht sich ja das Ressort<lb break="no"/>übereinkommen, kein Kriterium sein könnten. Die meisten von ihnen sind<lb/>
+ja tatsächlich auf 1 S abgeschrieben. In diesem Fall steht jede Investi<lb break="no"/>tion für Umweltschutz auch dann, wenn es sich um unbedeutende Beträge<lb/>
+handelt und diese im Verhältnis zum Ertrag der Anlage wirklich vertret<lb break="no"/>bar wären, in keinem Verhältnis. Wir einigten uns daher, daß das Krite<lb break="no"/>rium die Ertragslage des Unternehmens, die Dauer der noch zu erwartenden<lb/>
+Nutzung und letzten Endes natürlich die Überschreitung des mehr als<lb/>
+zweifachen, wie in der Verordnung vorgesehen ist, darüber hinausgehende<lb/>
+Emission sein sollte. Auch diese Lösung haben <name type="person" ref="per:112957">Steffek</name> und <name type="person" ref="per:110944">Zluwa</name> als akzep<lb break="no"/>tabel bezeichnet, sodaß nach langwierigen Verhandlungen endlich eine<lb/>
+einvernehmliche Lösung erzielt werden konnte. Die Pressereferentin vom<lb/>
+Gesundheitsministerium fragte mich dann, ob es möglich sei, daß das<lb/>
+Gesundheitsministerium jetzt schon diese Ergebnisse mitteilen darf,<lb/>
+dazu habe ich sie nicht nur ermächtigt, sondern erklärt, ich könnte ohne<lb/>
+weiteres zustimmen, wenn sie diese ganze Verordnung als einen großen<lb/>
+Erfolg des Gesundheitsministeriums darstellt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:131107">GROSSENDORFER</name>: Bitte in dieser Hinsicht das Gesundheits<lb break="no"/>ministerium in jeder Beziehung unterstützen.<lb/>
+</p>
+            <p xml:space="preserve">Der Chefredakteur <name type="person" ref="per:1137954">Mucha</name>, der die Zeitschrift "FM Fremdenverkehr" rausbringt<lb/>
+und an dem ich sehr interessiert war, ihn persönlich kennenzulernen,<lb/>
+hat den von mir erwarteten Eindruck bestätigt. Ein mit Feuereifer fana<lb break="no"/>tischer Journalist, gut vorbereitet und, was mich noch mehr beeindruckt,<lb/>
+<pb n="66-1022" facs="66_1982-09-01_1022.jpg"/>bestens mit allen Geräten, die man sich nur denken kann, ausgestattet.<lb/>
+Da er wollte, daß ich sozusagen seinen Zeitschriftensong mit der Mund<lb break="no"/>harmonika spielen sollte, hat er sich gar nicht darauf verlassen, daß<lb/>
+ich meine mithabe, sondern gleich eine mitgebracht. Daß er nicht mit<lb/>
+anderen kooperieren kann, sondern diese Zeitschrift allein führt, sein<lb/>
+Mitbegründer Dr. <add><name type="person" ref="per:114908">Löwy</name></add>, den Namen habe ich leider vergessen, er ist jetzt zu<lb/>
+Dr. <name type="person" ref="per:115175">Norden</name> gegangen, ausgeschieden ist, konnte ich verstehen. Entweder<lb/>
+wird <name type="person" ref="per:1137954">Mucha</name> alles selbst machen und die Zeitschrift entsprechend aufbauen<lb/>
+oder er wird zugrunde gehen. Einen Mittelweg kann ich mir bei diesem<lb/>
+Mann nicht vorstellen.<lb/>
+</p>
+            <p xml:space="preserve">Die Aussprache bei Minister <name type="person" ref="per:97511">Haiden</name>, Staatssekretär <name type="person" ref="per:112148">Schober</name>, SC <name type="person" ref="per:114570">Steiner</name><lb/>
+und dem amerikanischen Landwirtschaftsminister <name type="person" ref="per:1138089">Block</name> sowie den Land<lb break="no"/>wirtschaftsattache von der amerikanischen Botschaft in Österreich ver<lb break="no"/>lief, wie ich erwartet hatte. Die Agrarminister unterhielten sich über<lb/>
+hauptsächliche Agrarfragen, sachlich war nur von <name type="person" ref="per:97511">Haiden</name> versucht worden<lb/>
+<name type="person" ref="per:1138089">Block</name> zu überzeugen, daß er jetzt die 7.850 to Käse, die wir nach<lb/>
+Amerika exportieren können, zu erhöhen, wofür <name type="person" ref="per:1138089">Block</name> <choice><choice><sic>kann für</sic><corr>dann von?</corr></choice></choice> <name type="person" ref="per:97511">Haiden</name> ver<lb break="no"/>langte, man sollte diese 300 to Hilton Beef, also ein ganz spezielles<lb/>
+Rindfleisch, daß nach Österreich eingeführt werden dürfte, auf gefro<lb break="no"/>rene Teile umwandeln. Mit der Frischfleischlieferung klappt es nicht<lb/>
+den von den über 360 to Lizenzen die ausgestellt wurden, sind ganze<lb/>
+30 importiert worden.<lb/>
+</p>
+            <p xml:space="preserve">Bezüglich des Rapssonnenblumen, aber, ohne daß wir es sagten, auch Soja<lb break="no"/>anbaus in Österreich habe ich <name type="person" ref="per:1138089">Block</name> ersucht, die amerikanische Seite<lb/>
+möge für die Wünsche der österreichischen Landwirtschaft entsprechendes<lb/>
+Verständnis aufbringen. Ich schlug ihm daher vor, wir sollten informelle<lb/>
+Gespräche in Washington zwischen seinem Ministerium, dem Handelsmini<lb break="no"/>sterium und Vertretern der österreichischen Botschaft beginnen. Damit<lb/>
+war er letzten Endes einverstanden. Der Landwirtschaftsattache hatte<lb/>
+allerdings, wie ich glaube, zu Recht bemerkt, dem Anbau in Österreich<lb/>
+steht ja überhaupt nichts entgegen, die Frage ist halt, daß Österreich<lb/>
+zu teuer produziert und deshalb diese Produkte vom Finanzministerium<lb/>
+subventionieren müßte. Da dies schwer möglich ist, möchte ich eben, daß<lb/>
+man in Washington informelle Gespräche beginnt, um den Saatanbau viel<lb break="no"/>leicht doch auf eine andere Basis stellen zu können. Ich bin allerdings<lb/>
+persönlich davon überzeugt, daß dies wenn überhaupt nur sehr, sehr schwer<lb/>
+möglich sein wird, Österreich ist dabei nicht das entscheidende Land,<lb/>
+sondern die Vereinigten Staaten befürchten zu Recht, daß dann, wenn sie<lb/>
+Österreich ein Zugeständnis machen würden, sofort die EG mit entsprechend<lb/>
+<pb n="66-1023" facs="66_1982-09-01_1023.jpg"/>gleichlautenden Forderungen kommen würde. Mit der EG befindet sich aber<lb/>
+das amerikanische Landwirtschaftsministerium, und nicht nur dieses, in<lb/>
+einer schweren Konfliktsituation.<lb/>
+</p>
+            <p xml:space="preserve">Beim Mittagessen von <name type="person" ref="per:97511">Haiden</name> für den amerikanischen Minister wurde viel<lb/>
+über die amerikanische Agrarpolitik, aber auch über die österreichischen<lb/>
+Probleme geplaudert, konkret ist nichts mehr herausgekommen. <name type="person" ref="per:97511">Haiden</name><lb/>
+hat mir gegenüber dann noch bemerkt, da beim gestrigen Empfang ja fast<lb/>
+die ganze ÖVP-Agrarprominenz anwesend war, würde er, wenn sie ihn neuer<lb break="no"/>dings attackieren, fragen, was sie denn mit <name type="person" ref="per:1138089">Block</name> besprochen resp. für<lb/>
+Ergebnisse erzielt haben. Ich glaube, daß über das Saatenprojekt noch<lb/>
+sehr viel wird auch österreichintern gesprochen und verhandelt werden,<lb/>
+ein absehbares Ergebnis sehe ich nicht. Wichtig erscheint mir nur, daß<lb/>
+unter allen Umständen jetzt neuerdings über die österreichische Botschaft<lb/>
+in Washington die mit <name type="person" ref="per:1138089">Block</name> vereinbarten informal talks begonnen werden.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Die Abteilung soll eine entsprechende Meldung<lb/>
+im Einvernehmen mit dem Landwirtschaftsministerium an die österreichi<lb break="no"/>sche Botschaft in Washington ausarbeiten.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:58381">Fritz Mauthner</name> möchte nach Jugoslawien eine größere Menge von Getreide<lb/>
+exportieren, er glaubt, daß jetzt eine Getreidemenge von 120.000 to<lb/>
+kompensiert werden könnte. 50.000 to würden die Jugoslawen in bar kaufen<lb/>
+und für 50.000 to erwarten sie sich einen Kredit. Insgesamt könnten wir<lb/>
+also 220.000 to nach Jugoslawien bringen, mit den vertraulichen in Aus<lb break="no"/>sicht genommenen Exporten, DDR 150.000, jetzt neuerdings auch CSSR<lb/>
+100.000, würde, wie SC <name type="person" ref="per:114570">Steiner</name> erklärt, die riesige Überschußernte dieses<lb/>
+Jahres weggebracht werden können. Für diese Getreidemengen müßten unge<lb break="no"/>heure Stützungsbeträge aufgebracht werden. Gegenüber ca. 3.50 S, die der<lb/>
+österreichische Bauer bekommt, ist der Weltmarktpreis nicht einmal die<lb/>
+Hälfte. Wie auch der amerikanische Landwirtschaftsminister bestätigt,<lb/>
+wird der Preis sogar wahrscheinlich noch fallen, keinesfalls aber wesent<lb break="no"/>lich steigen.<lb/>
+</p>
+            <p xml:space="preserve">Voraussetzung für einen solchen großen Export nach Jugoslawien ist, daß<lb/>
+jetzt nicht nur die ÖDK, mit der <name type="person" ref="per:58381">Mauthner</name> bestens zusammenarbeitet, Kohle<lb/>
+importiert, sondern auch daß jetzt andere Kraftwerke und Kohleabnehmer,<lb/>
+u.a. die Stadtwerke Linz, in diese Kompensation eingeschlossen werden.<lb/>
+<name type="person" ref="per:58381">Mauthner</name> glaubt, daß die ÖDK die besten Voraussetzungen hat größere Kom<lb break="no"/>pensationslieferungen in Kohle für auch andere Kohleabnehmer durchzu<lb break="no"/><pb n="66-1024" facs="66_1982-09-01_1024.jpg"/>führen, der Versuch, auch andere Kohleabnehmer durchzuführen, der Versuch,<lb/>
+auch andere Kohlenimporteure einzuschalten, ist nur teilweise gelingen<lb/>
+mit der Fa. Bartl in Kärnten gibt es die größten Schwierigkeiten.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name> UND <name type="person" ref="per:131107">GROSSENDORFER</name>: Die Energiesektion soll die<lb/>
+Abwicklung prüfen.<lb/>
+</p>
+            <p xml:space="preserve">Nach wie vor ist <name type="person" ref="per:58381">Mauthner</name> überzeugt, würde die SU Getreide ebenfalls<lb/>
+kaufen, wenn die Transportfrage zu lösen wäre. Diese Meinung vertritt<lb/>
+auch das Landwirtschaftsministerium, die Transportfrage kann aber, wie<lb/>
+<name type="person" ref="per:58381">Mauthner</name> immer wieder in der Praxis feststellen muß, von der SU nicht ge<lb break="no"/>löst werden. Die Zuckerexporte in die SU werden nicht nur über die un<lb break="no"/>garische Strecke nach Tschop oder die tschechische Strecke nach Tschop, sondern<lb/>
+auch über die tschechische-polnische Strecke in die SU geliefert, trotzdem<lb/>
+ist der Strang immer wieder verstopft und <name type="person" ref="per:58381">Mauthner</name> muß alle erdenklichen<lb/>
+Maßnahmen ergreifen, um zeitgerecht liefern zu können. Bei Zucker, wo<lb/>
+er der alleinige Exporteur ist und aus dem Lager jederzeit abberufen<lb/>
+kann, funktioniert dies einigermaßen. Bei Getreide, meint <name type="person" ref="per:58381">Mauthner</name>, ist<lb/>
+dies unmöglich, denn hier muß durch ständiges Ausschreiben dann der<lb/>
+entsprechende Zuschlag, dann die sehr komplizierte Abwicklung mit dem<lb/>
+Landwirtschaftsministerium und dem Getreidewirtschaftsfonds er Wege<lb/>
+einhalten, die<add>[für?]</add> einen schnellen Export und Ausnützung von ev. ganz kurz<lb break="no"/>fristig zur Verfügung gestellten Waggons nicht möglich <choice><choice><sic>ist</sic><corr>sind</corr></choice></choice>. Ich habe<lb/>
+<name type="person" ref="per:58381">Mauthner</name> allerdings sofort erklärt, daß ich aufgrund meiner jahrzehnte<lb break="no"/>langen Erfahrung im Getreidewirtschaftsfonds ein so flexibles System,<lb/>
+wie er das wünscht, nicht sehe. <name type="person" ref="per:58381">Mauthner</name> wünscht, daß wir das Getreide<lb break="no"/>problem noch einmal bei der Gemischten Kommission in Moskau zur Sprache<lb/>
+bringen, dort wird die sowjetische Seite ihr prinzipielles Interesse<lb/>
+erklären, aber konkrete Verhandlungen allein schon wegen der Transport<lb break="no"/>schwierigkeiten mit <choice><choice><sic>Exportklepp</sic><corr>?</corr></choice></choice> nicht aufnehmen wird. Ein Verweisen die<lb break="no"/>ses Problems an die sowjetische Handelsdelegation in Wien, Herrn <name type="person" ref="per:1137602">Stesnow</name>,<lb/>
+bringt keinen Erfolg.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte <name type="person" ref="per:97426">Fälbl</name> soll mit <name type="person" ref="per:58381">Mauthner</name> noch einmal darüber<lb/>
+sprechen.<lb/>
+</p>
+            <p xml:space="preserve">Präs. <name type="person" ref="per:97688">Leberl</name> ersucht mich, ich sollte zustimmen, daß er an BKA, <name type="person" ref="per:97668">Kreisky</name>,<lb/>
+einen Brief wegen der Auslandsreisen schreiben darf. <name type="person" ref="per:97688">Leberl</name> möchte da<lb break="no"/>rin <name type="person" ref="per:97668">Kreisky</name> klarmachen, daß er mit dem Auslandsreisebudget nicht durch<lb break="no"/>kommen kann <choice><choice><sic>und</sic><corr>, um</corr></choice></choice> sozusagen von ihm persönlich eine Genehmigung zur Über<lb break="no"/>schreitung zu bekommen. Ich habe Bedenken, daß <name type="person" ref="per:97688">Leberl</name> einen solchen<lb/>
+<pb n="66-1025" facs="66_1982-09-01_1025.jpg"/>Brief an <name type="person" ref="per:97668">Kreisky</name> richtet, <name type="person" ref="per:97668">Kreisky</name> kann entweder ja sagen, dann durch<lb break="no"/>bricht er das, wie <add>[er]</add> immer behauptete in den Ministerratsvorbesprechun<lb break="no"/>gen, für ihn unabdingbare Prinzip, daß Auslandsdienstreisen unbedingt<lb/>
+eingeschränkt werden müssen. Lehnt <name type="person" ref="per:97668">Kreisky</name> aber den Vorschlag von<lb/>
+<name type="person" ref="per:97688">Leberl</name> ab, dann gibt es überhaupt keine Möglichkeit mehr, für <name type="person" ref="per:97688">Leberl</name><lb/>
+zusätzliche Mittel irgendwo aufzutreiben. <name type="person" ref="per:97688">Leberl</name> verweist mit Recht <add>[darauf]</add>,<lb/>
+daß sein Vorgänger Präs. <name type="person" ref="per:98012">Thaler</name>, der keine Fremdsprache gesprochen hat,<lb/>
+an Auslandsreisen überhaupt nicht interessiert war, damals hat das<lb/>
+Patentamt tatsächlich nur eine sehr inferiore Rolle im Ausland und aber<lb/>
+auch mit Auslandsbeziehungen gespielt. <name type="person" ref="per:97688">Leberl</name>, der ja mehrere Sprachen<lb/>
+perfekt beherrscht, hat dies geändert auch, wie ich glaube, im Interesse<lb/>
+Österreichs, weil das Ansehen des Patentamtes und auch dessen Tätig<lb break="no"/>keit wesentlich sich vergrößert und verbessert hat. Sein Auslandsreise<lb break="no"/>budget wurde daher von 150.000.–– S auf 280.000.–– S von mir erhöht,<lb/>
+was er dankbar anerkennt. Jetzt, meint <name type="person" ref="per:97688">Leberl</name>, muß er aber, wenn er die<lb/>
+notwendigen Auslandsreisen von sich, aber auch seiner Mitarbeiter budge<lb break="no"/>tiert, feststellen, daß in diesem Jahr nicht einmal die wichtigsten Aus<lb break="no"/>landsreisen abgewickelt werden können. Ich habe den Eindruck, <name type="person" ref="per:97688">Leberl</name><lb/>
+wollte sich mit diesem Brief an <name type="person" ref="per:97668">Kreisky</name> nur salvieren, was er mir dann<lb/>
+auch indirekt bestätigte. Ich schlug <name type="person" ref="per:97688">Leberl</name> daher vor, er soll sich<lb/>
+dies genau überlegen, zweckmäßiger erscheint es mir doch mit MR <name type="person" ref="per:97722">Marhold</name><lb/>
+Gespräche zu führen, ob nicht von der Zentralverwaltung in diesem Fall<lb/>
+dem Patentamt ausgeholfen werden könnte, wenn andererseits das Patent<lb break="no"/>amt sicherlich in einigen anderen Punkten der Zentralverwaltung ent<lb break="no"/>gegenkommt. Da <name type="person" ref="per:97688">Leberl</name> das letztemal mir in der Frage <name type="person" ref="per:127783">Hein</name> sehr geholfen<lb/>
+hat, möchte ich ihm, ohne daß er an <name type="person" ref="per:97668">Kreisky</name> einen Brief schreiben muß,<lb/>
+doch entgegenkommen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:131107">GROSSENDORFER</name> UND <name type="person" ref="per:109811">BURIAN</name>: Bitte mit <name type="person" ref="per:97688">Leberl</name> eine Auswegs<lb break="no"/>möglichkeit besprechen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="66_1020_01" facs="66_1982-09-01_1020-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 1.9.1982</head>
+         </div>
+      </back>
+   </text>
+</TEI>

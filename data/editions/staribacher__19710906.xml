@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Montag, der  6. September 1971</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band07_1971-09-06</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1971-09-06">Montag, 6. September 1971</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-08-28">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="07-0975" facs="07_1971-09-06_0975.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Montag, 6. September 1971<lb/>
+</p>
+            <p xml:space="preserve">ORF will jetzt eine neue Serie in Horizonte starten, wo er<lb/>
+sich der Umweltprobleme annimmt. <name type="person" ref="per:97525">Häuser</name> erklärt mir, daß der<lb/>
+ORF nichts anderes machen wird, als darauf hinweisen, daß<lb/>
+nichts durch die Bundesregierung in Wirklichkeit gemacht wird.<lb/>
+Dies kann ohne weiteres möglich sein. <name type="person" ref="per:97646">Koppe</name> hat zwar mit dem<lb/>
+Verantwortlichen vom Fernsehen <name type="person" ref="per:113118">Tozzer</name> umgehend über dieses<lb/>
+Problem gesprochen und hofft, daß doch ein bißchen über die<lb/>
+aktive Arbeit der Bundesregierung rauskommen wird. Ich hatte<lb/>
+mich auf ein umfangreiches Interview vorbereitet. In Wirklich<lb break="no"/>keit aber interessierte den nur, ob und wann der Bleigehalt<lb/>
+vom Benzin herabgesetzt wird und was gegen die Kohlenmonoxid der<lb/>
+Auspuffgase gemacht wird. Ich glaube, daß es notwendig und<lb/>
+zielführend ist, wenn wir vor der Sendung noch in irgendeiner<lb/>
+Weise, sei es durch einen Artikel, oder vielleicht fällt <name type="person" ref="per:97646">Koppe</name><lb/>
+etwas besseres ein, in Erscheinung treten. Ich glaube wir sollten<lb/>
+ausgelöst durch die Handelsministeriumsstudie, wo wir das erste<lb/>
+Mal über die Luftverschmutzung Redeunterlagen geliefert haben,<lb/>
+neuerdings in der Öffentlichkeit darauf hinweisen, daß die<lb/>
+Initiative von uns ausgegangen ist. Darüber hinaus müßten wir<lb/>
+unsere Erfolge, daß z.B. die Rauchfangkehrer jetzt die Messungen<lb/>
+über die Luftverschmutzung vornehmen, daß aber die gesetzliche<lb/>
+Regelung bei den Ländern liegt, daß wir in der neuen Gewerbeord<lb break="no"/>nung die Auszeichnung der Geräte nach ihren Phongehalt in Hin<lb break="no"/>kunft bezeichnen wollen, daß wir die heile Welt erhalten wollen<lb/>
+für den österreichischen Fremdenverkehr und deshalb z. B.<lb/>
+500.000,–– aufwenden, um in Fulpmes die Kleinindustrie aus dem<lb/>
+Dorf herauszunehmen und in einem Industriegebiet anzusiedeln.<lb/>
+Daß wir versuchen die Luftverschmutzung durch die Kraftfahrer<lb/>
+auf ein erträgliches Maß zurückzuführen und daß wir letzten Endes<lb/>
+bei der jetzigen schlechten gesetzlichen Grundlage doch versuchen<lb/>
+die Referenten der Landesregierung, die auf Grund der Gewerbe<lb break="no"/>ordnung die techn. Prüfung durchzuführen haben, zusammenzufassen<lb/>
+und sie auf eine einheitliche Linie zu bringen. Natürlich ist<lb/>
+dies alles noch nicht ein wesentlicher Durchbruch zu einer Umwelt<lb break="no"/>schutztätigkeit, doch ist es ein Ansatz der erst in letzter Zeit<lb/>
+durch unsere Initiative entwickelt wurde.<lb/>
+</p>
+            <pb n="07-0976" facs="07_1971-09-06_0976.jpg"/>
+            <p xml:space="preserve">Anmerkung für <name type="person" ref="per:97646">KOPPE</name>:<lb/>
+</p>
+            <p xml:space="preserve">Überlege Dir bitte, wie wir hier wirklich mehr in Erscheinung<lb/>
+treten können.<lb/>
+</p>
+            <p xml:space="preserve">Ganztägige Ministerbesprechung sollte mit der programmatischen<lb/>
+Rede für den Parteirat von <name type="person" ref="per:97668">Kreisky</name> auch noch die Fragen des<lb/>
+Budgets behandelt werden. Schon gekürzten Ressortwünsche ergeben<lb/>
+noch immer um 1.153 mehr Dienstposten als im Vorjahr, die durch<lb/>
+einvernehmliche Regelungen auf 1.046 reduziert werden konnten.<lb/>
+Die größten Posten umfaßt noch immer das Wissenschaftsministerium<lb/>
+mit ca. 1.000 mehr und das Unterrichtsministerium mit 2.000 mehr.<lb/>
+<name type="person" ref="per:97442">Firnberg</name> erklärte sich dann einverstanden, daß die Forderung 450<lb/>
+Hochschullehrer mehr auf 350 reduziert werden. Sie hat nämlich<lb/>
+in ihrem Plan bereits die a.o. Professoren, die nach dem neuen<lb/>
+Typ erst durch Gesetz geschaffen werden sollen, und von der man<lb/>
+100 in ihrem Ministerium vorgesehen hat, geopfert. Ebenso wurde<lb/>
+bei den Assistenten statt 450 nur 350 neue Stellen geschaffen,<lb/>
+was einer 10 %-igen Erhöhung entspricht. Beim Mittagessen setzte<lb/>
+ich <name type="person" ref="per:97442">Firnberg</name> auseinander, daß sich mit dieser ganzen Entwicklung<lb/>
+eigentlich nicht einverstanden bin. Ich befürchte, daß man jetzt<lb/>
+alles unter dem Gesichtspunkt, man kann nicht genug für die Wissen<lb break="no"/>schaft und Forschung ausgeben, in kürzester Zeit ein gewisses<lb/>
+intellektuelles Proletariat bekommen wird. Meiner Meinung nach<lb/>
+müßte man wesentlich mehr für die berufsbildenden und die berufs<lb break="no"/>weiterbildenden Schulen ausgeben und versuchen, dieses Image der dortigen<lb/>
+Studenten zu heben. Ich frage mich was wir mit den vielen Doktoren<lb/>
+in Hinkunft werden sie ja Magister heißen, anfangen, wenn wir nicht<lb/>
+einen guten Mittelbau erreichen. <name type="person" ref="per:97442">Firnberg</name> war über meine universi<lb break="no"/>tätsfeindliche Haltung, wie sie sagte, sehr erschüttert. ..... er<lb break="no"/>klärte, daß ihm vollkommen unerklärlich ist, daß heuer neuerdings<lb/>
+mehr Dienstposten aufscheinen als im Vorjahr, da die Bundesbahn<lb/>
+u.a. 2.160 Dienstposten einspart. Auch <name type="person" ref="per:98055">Ossi Weihs</name> hat 266 Dienst<lb break="no"/>posten in den Bundesforsten aufgegeben und im Bundesministerium<lb/>
+selbst auf 3 Dienstposten verzichtet. Die Landesverteidigung hat<lb/>
+um 600 Dienstposten weniger. Nur das Aussenamt hat, wie mir <name type="person" ref="per:97632">Kirch<lb break="no"/>schläger</name> zuflüsterte, gut abgeschnitten, in dem sie 30 Dienst<lb break="no"/>posten mehr bekommt. Das Justizministerium braucht aufgrund des<lb/>
+Strafänderungsgesetzes die Haftüberprüfung und die erweiterte<lb/>
+<pb n="07-0977" facs="07_1971-09-06_0977.jpg"/>Berufung wird dort gefordert. 58 neue Dienstposten. Auf die<lb/>
+Frage ob er sie besetzen kann, antwortete er jawohl, denn<lb/>
+der Richterdienstanwärter hat jetzt nur mehr statt 4 Jahre nur<lb/>
+mehr 3 Jahre Ausbildung. Für die Übersiedlung in das neue Ministerium,<lb/>
+wo dann Portiere und eine Telefonzentrale errichtet werden soll,<lb/>
+braucht der neun Dienstposten und 188 sind für die Justizwache<lb/>
+und Bewährungshilfe notwendig, da jetzt auch am<lb/>
+Sonntag die Gefangenen spazieren gehen sollen. <name type="person" ref="per:97668">Kreisky</name> meinte<lb/>
+er könne sich nicht erinnern, daß er als er noch einge<lb break="no"/>sperrt war, am Sonntag spazieren gehen konnte, denn damals war<lb/>
+Besuchstag und da hat es keinen Spaziergang gegeben. Ich konnte<lb/>
+mich überhaupt nicht erinnern, daß ich während der 14 Tage die<lb/>
+ich Polizeihaft gehabt habe, jemals spazieren geführt wurde.<lb/>
+Das Justizministerium beschäftigt 4 Konsulenten, <name type="person" ref="per:137460">Nowakowski</name>,<lb/>
+<name type="person" ref="per:137462">Hoya</name> u.a. und es wurde ihm zugesagt, daß in Hinkunft diese<lb/>
+nicht mehr durch einen Dienstposten gebunden werden müssen.<lb/>
+</p>
+            <p xml:space="preserve">Anmerkung für <name type="person" ref="per:97543">HEINDL</name>:<lb/>
+Bitte diese Entwicklung im Auge behalten. Vielleicht werden<lb/>
+wir für unser Büro eine Entbindung auch erreichen, wenn wir<lb/>
+dringendst einmal einen Dienstposten benötigen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> selbst wollte erst auf meinen Vorschlag, daß man <name type="person" ref="per:97340">Bodo<lb/>
+Beelitz</name> in die Mission schickt, nicht einsteigen, weil er da<lb break="no"/>für keinen Dienstposten frei hat. Nur wenn ich ihm einen abtrete,<lb/>
+könnte er mir dann natürlich <name type="person" ref="per:97340">Bodo Beelitz</name> zur Verfügung stellen.<lb/>
+Ich erwiderte, daß dies vollkommen unmöglich ist, er glaube nämlich,<lb/>
+daß das Handelsministerium zusätzliche Dienstposten bekommt und<lb/>
+in Wirklichkeit hat er sich dann überzeugt, daß wir bei einem<lb/>
+Dienstposten noch gegenüber dem Vorjahresstand verlieren. Nach<lb/>
+längerer Diskussion, <choice><choice><sic>an nenen wir</sic><corr>in der wir? in der uns?</corr></choice></choice> sogar <choice><choice><sic>den</sic><corr>dem? der?</corr></choice></choice> Sekt.Chef <name type="person" ref="per:97468">Gatscha</name><lb/>
+<choice><choice><sic>mit neuner Posten</sic><corr>einen Neunerposten?</corr></choice></choice> angeboten hat<add>[haben?]</add>, meinte er dann, er<lb/>
+wird sich dann wegen <name type="person" ref="per:97340">Bodo Beelitz</name>, der ein guter Mann ist, sich<lb/>
+doch noch überlegen, ob er <choice><choice><sic>dem</sic><corr>den</corr></choice></choice> nicht doch nach Brüssel entsendet.<lb/>
+</p>
+            <pb n="07-0978" facs="07_1971-09-06_0978.jpg"/>
+            <p xml:space="preserve">Bei den Dienstwagen soll nun versucht werden, 1972 10 % ein<lb break="no"/>zusparen. Ein Vorschlag von <name type="person" ref="per:97668">Kreisky</name> war, daß die Beamten<lb/>
+ab 22 Uhr Taxi benützen sollen. Er möchte überhaupt erreichen,<lb/>
+daß die Taxis weitestgehend Dienstautos ersetzen. Er hat deshalb<lb/>
+in einer Aufstellung, die ich mir nachher verschaffte, er hat<lb/>
+sie dort nicht vorgelesen, festgestellt, daß das Handelsministerium,<lb/>
+welches 17 Dienstautos nach seiner Aufstellung besitzt, 11 durch<lb/>
+Taxis ersetzbar wären.<lb/>
+</p>
+            <p xml:space="preserve">Anmerkung für <name type="person" ref="per:97543">HEINDL</name>:<lb/>
+Bitte feststellen, ob wir tatsächlich 17 Kraftfahrzeuge haben<lb/>
+und wieso 11 durch Taxi ersetzt werden könnten.<lb/>
+</p>
+            <p xml:space="preserve">Das Hauptproblem liegt, wie <name type="person" ref="per:97311">Androsch</name> und insbesondere wie<lb/>
+<name type="person" ref="per:97525">Häuser</name> dann richtig bemerkten, daß wenn man einen Dienstwagen<lb/>
+hat, der natürlich dann mehr eingesetzt werden sollte. <name type="person" ref="per:97311">Androsch</name><lb/>
+hat in seinem Ministerium durchgezogen, daß, wenn ein Dienst<lb break="no"/>wagen gebraucht wird, jeder auf einen Dienstwagen zurückgreifen<lb/>
+kann und keinesfalls es so ist, daß der Sektionschef erklärt,<lb/>
+dies ist sein Dienstwagen und gehört nur zu seiner Verfügung.<lb/>
+Z. B. hat der Rechnungshof im Sozialministerium deshalb auch<lb/>
+beanstandet, daß im Durchschnitt 1968 nur 28 km pro Tag per<lb/>
+Dienstwagen im Einsatz waren.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97311">Androsch</name> wies dann wegen dem Budget darauf hin, daß noch 2 Md.<lb/>
+S offen sind. 1971 + dem Bruttonationalproduktzuwachs von 9 %<lb/>
+gerechnet, dürfen die Gesamtausgaben 122 Md. betragen und haben<lb/>
+derzeit aber noch 124 Md. Das Defizit, welches heuer mit 9,8 Md.<lb/>
+präliminiert ist, soll auch 1972 unter 10 Md. S bleiben. Die<lb/>
+kritischen Ministerien sind Verkehr, Land- und Forstwirtschaft,<lb/>
+Wissenschaft und Verteidigung. Bezüglich der Amtsgebäudeinstand<lb break="no"/>haltung wurde festgestellt, daß die 125 Mio. S, die im Budget 1972<lb/>
+vorgesehen sind, nicht annähernd ausreichen, um eine wirklich be<lb break="no"/>friedigende Instandhaltung zu gewährleisten. Das Justizministerium<lb/>
+hat zum Beispiel errechnet, daß in 10 Jahren Investitionsplan<lb/>
+750 Mio. S notwendig wären, wobei allerdings diese Posten aus dem<lb/>
+Investitionsplan gestrichen wurde. Das Innenministerium erklärte,<lb/>
+<pb n="07-0979" facs="07_1971-09-06_0979.jpg"/>daß es 4–500 Mio. S nicht nur Instandhaltung, sondern auch<lb/>
+Neuinvestitionen im nächsten Jahr erbringen müßte, da die Polizei<lb break="no"/>direktion allein für Wien 250 Mio. S endgültig ausmachen wird.<lb/>
+Richtig ist, daß die ÖVP-Regierung einige sehr repräsentative<lb/>
+Bauten begonnen hat. <name type="person" ref="per:97668">Kreisky</name> zählte zu diesen auch das Palais<lb/>
+Dietrichstein, welches mit einem Millionenaufwand restauriert<lb/>
+wurde und eigentlich gar keine Funktion zu erfüllen hat. <name type="person" ref="per:97755">Moser</name><lb/>
+wurde beauftragt, unverzüglich einen Bundesreparaturplan der<lb/>
+öffentlichen Gebäude zu erstellen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97311">Androsch</name> nimmt an, daß er mit 10.9. erkennen wird, wie sich<lb/>
+die Einnahmen gestalten und denkt daran, die 15 % Bindung bei Er<lb break="no"/>messenskrediten teilweise ganz aufzuheben, allerdings gleich<lb break="no"/>zeitig eine teilweise Kürzung vorzunehmen. Aus diesem Grunde<lb/>
+hat er mir bevor wir noch in die Sitzung gegangen sind, <name type="person" ref="per:97668">Kreisky</name><lb/>
+war auch dabei, erklärt, daß er jetzt wieder von der Nationalbank<lb/>
+und anderen Stellen angerufen wurde, was es mit den Ausführungen<lb/>
+von mir in dem Messeartikel der Presse für Bewandtnis hat, wo<lb/>
+ich über die Bindungen und Budgetpolitik gesprochen habe.<lb/>
+<name type="person" ref="per:97311">Androsch</name> meinte, und ich muß zugeben mit Recht, daß er doch<lb/>
+für diese Frage ausschließlich kompetent sei und daß es nicht<lb/>
+zielführend sei, wenn ich immer mehr in die Budget- und Finanz<lb break="no"/>politik eingreife. Ich setzte ihm auseinander, daß ich bereits<lb/>
+in meinem Hause den Auftrag gegeben habe, daß auch, wenn <name type="person" ref="per:97469">Gehart</name><lb/>
+irgendwie nur mit Finanz- oder Budgetfragen beschäftigt, er<lb/>
+vorher unbedingt mit <name type="person" ref="per:110922">Vranitzky</name> von seinem Büro das Einvernehmen<lb/>
+herstellen wird. <name type="person" ref="per:97311">Androsch</name> meinte nur, daß die 3 Md. Schilling,<lb/>
+die ich angegeben habe, ja falsch sind, er hat, und <name type="person" ref="per:97668">Kreisky</name> be<lb break="no"/>stätigte dies, immer nur von 2 Md. gesprochen. Als ich dann<lb/>
+ihn unter vier Augen allerdings darauf hinwies, daß er<lb/>
+doch seinerzeit immer von 3 Md. geredet hat, so hat er mir dann<lb/>
+zugegeben, daß dies seine ersten Berechnungen waren und sie sich<lb/>
+dann als falsch erwiesen haben. Dieser ganzen Diskussion ziehe<lb/>
+ich den Schluß, daß doch zielführender ist, wenn der ressort<lb break="no"/>mäßige zuständige über seine Probleme spricht, denn zweifelsohne<lb/>
+bin ich dann der Blamierte, wenn 3 Md. Schilling gar nicht frei<lb break="no"/>gemacht werden können, weil sie gar nicht 3 Md. betragen haben.<lb/>
+</p>
+            <pb n="07-0980" facs="07_1971-09-06_0980.jpg"/>
+            <p xml:space="preserve">Außerdem meinte <name type="person" ref="per:97311">Androsch</name> mit Recht wir hätten doch bis jetzt<lb/>
+ein so gutes Einvernehmen gehabt und hätten uns über alle Pro<lb break="no"/>bleme immer so freundschaftlich ausgesprochen, daß es doch auch<lb/>
+in Hinkunft zielführend ist, wir lassen uns nicht durch andere<lb/>
+aussenstehende wie die Nationalbank und sonstige Banken und<lb/>
+Finanzkreise aufspalten.<lb/>
+</p>
+            <p xml:space="preserve">Anmerkung für A L L E:<lb/>
+Bitte die Kompetenz in Hinkunft genau zu beachten.<lb/>
+</p>
+            <p xml:space="preserve">Wichtig zeitgerecht erbrachte Branchenindikatoren wären, ergab<lb/>
+sich daraus, daß die ÖBB jetzt bereits einen Rückgang der Transit<lb break="no"/>fahrt auf der BRD um 10 % verzeichnen muß und <name type="person" ref="per:97668">Kreisky</name> in Kärnten<lb/>
+erfahren hat, daß Sintermagnesit 6.000 t von der Bundesrepublik<lb/>
+abbestellt wurden, d.s. 5 % der Produktion. <name type="person" ref="per:98055">Weihs</name> ist da<lb break="no"/>her über die wirtschaftliche Entwicklung sehr pessimistisch ge<lb break="no"/>stimmt. Aufgrund der Weltwirtschaftskrise 1929 sagte er, hätten<lb/>
+die ganzen Prognostiker damals alles auch positiv empfunden und<lb/>
+<name type="person" ref="per:137464">Hoover</name> hätte dann für die Republikaner auf Jahrzehnte den<lb/>
+Umschwung nicht richtig und zeitgerecht erkannte, verloren gehabt.<lb/>
+Unsere Branchenreferenten müßten Detailinformationen schneller<lb/>
+bekommen und sofort an uns weitergeben. Die Grundsatzgruppe muß<lb/>
+eine Lösung finden.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="07_0974_01" facs="07_1971-09-06_0974-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 6.9.1971</head>
+         </div>
+         <pb n="07_0974_02" facs="07_1971-09-06_0974-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

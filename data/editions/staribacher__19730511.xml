@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der 11. Mai 1973</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band16_1973-05-11</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1973-05-11">Freitag, 11. Mai 1973</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-10-10">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band16/">
+      <body>
+         <pb n="16-0543" facs="16_1973-05-11_0543.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Freitag, 11. Mai 1973</p><p xml:space="preserve">Im ÖGB-Bundesvorstand berichtet <name type="person" ref="per:97346">Benya</name> über die Wirtschaftslage und über<lb/>
+die sozialpolitischen Absichten des österreichischen Gewerkschaftsbundes.<lb/>
+Er unterstreicht insbesondere, dass <name type="person" ref="per:97525">Häuser</name> sehr wohl mit dem Arbeits<lb break="no"/>verfassungsgesetz die Intentionen des ÖGB vertritt und die beginnenden<lb/>
+Verhandlungen ein Kompromiss erwarten lassen, wenn die andere Seite<lb/>
+entsprechende Zugeständnisse macht. Die Fraktionen nehmen zu einem Resolu<lb break="no"/>tionsentwurf, der heute jetzt immer in Form einer Presseaussendung veröffent<lb break="no"/>licht wird und damit eigentlich keine Resolution ist, Stellung.<lb/>
+Ausser den beiden kommunistischen Gruppen stimmen alle diesem Entwurf<lb/>
+zu. Selbst <name type="person" ref="per:122974">Altenburger</name>, der mit <name type="person" ref="per:97568">Horr</name> wegen der angeblichen Nachgiebig<lb break="no"/>keit des ÖGB gegen die Regierung kommt, stimmt letzten Endes zu.</p><p xml:space="preserve">Mit <name type="person" ref="per:97627">Kienzl</name> und <name type="person" ref="per:97676">Tommy Lachs</name> vereinbare ich die nächsten Arbeiten inner<lb break="no"/>halb der Arbeitsgruppe III der sozialökonomischen Konferenz. Beide stim<lb break="no"/>men mit mir überein, dass wir die 3 Arbeitsgruppen Fremdenverkehr, Energie<lb/>
+und Preise bilden sollen und so schnell wie möglich zu konkreten Ergeb<lb break="no"/>nissen kommen sollten. <name type="person" ref="per:97676">Lachs</name> ist bereit, den Vorsitzenden zu machen und<lb/>
+akzeptiert auch <name type="person" ref="per:97646">Koppe</name> als Sekretär. <name type="person" ref="per:97676">Lachs</name> selbst möchteso wie <name type="person" ref="per:97627">Kienzl</name>, das<lb/>
+wir aber kein extremes Preisprogramm erstellen, das die andere Seite<lb/>
+unter allen Umständen ablehnen muss. <name type="person" ref="per:98112">Zöllner</name> wird, so fürchte ich, aber<lb/>
+von seinem Plan kaum abzubringen sein. Ich glaube aber, dass es taktisch<lb/>
+sehr gut ist, wenn jetzt die Arbeiterkammer ein extrem unternehmerfeindli<lb break="no"/>ches Preiskonzept entwickelt. Wenn <name type="person" ref="per:97879">Rösch</name>, der noch immer für die Preis<lb break="no"/>kompetenz zuständig ist, dann entsprechende Vorschläge unterbreitet, wird<lb/>
+<name type="person" ref="per:97769">Mussil</name> und die ÖVP richtggehend geschockt. Vielleicht sind sie dann<lb/>
+bereit, am Kompromisswege einer vernünfitge Regelung zu akzeptieren,<lb/>
+resp. einem solchenVorschlag aus den Verhandlungen dannletzten Endes<lb/>
+auch zuzustimmen.</p><p xml:space="preserve">Gen.Dir. <name type="person" ref="per:97739">Mieling</name> von der Shell hat auf Grund des Vortrages von <name type="person" ref="per:97470">Geist</name><lb/>
+bei mir angefragt, wie weit überhapt diese Intentionen und Pläne meine<lb/>
+Zustimmung finden. MinRat <name type="person" ref="per:112191">Mayer</name> und in späterer Folge Min.Rat <name type="person" ref="per:107937">Frank</name><lb/>
+die anwesend waren, haben bestätigt, dass an unserer Energiepolitik<lb/>
+sich nichts ändern wird. <name type="person" ref="per:97739">Mieling</name> hat ganz besonders Bedenken, wenn die<lb/>
+Ölversorgnung nur in zwei bis drei Produktionsländern gesichert werden<lb/>
+soll. Er verspricht sich noch immer vile mehr davon, wenn wir unsere<lb/>
+jetzige Politik fortsetzen udn auf recht viele Lieferländer, die die<lb/>
+internationalen noch immerhaben, aufbauen. Die Hoffnung, von <name type="person" ref="per:97470">Geist</name>,<lb/>
+dass die Ölexportländer dann aus den Devisenerlösen in Österreich<lb/>
+Industrieartikel kaufen, hält <name type="person" ref="per:97739">Mieling</name> für falsch. Ich bin auch davon<lb/>
+<pb n="16-0544" facs="16_1973-05-11_0544.jpg"/>überzeugt, dass diese Ländern, die ja keine unterentwickelten<lb/>
+Länder sind und nicht darauf angewiesen sind, welche Industriebetriebe<lb/>
+ihnen helfen werden, können mit dem riesigen Devisenerlösen jede Inve<lb break="no"/>stition und jede Anlage dort kaufen, wo es ihnen am zweckmässigsten<lb/>
+erscheint. die ÖMV ist durch die AWP-Verträge mit den internationalen<lb/>
+bezüglich der Import und der Verarbeitung gebunden. Die Absicht von GEi<lb/>
+<name type="person" ref="per:97470">Geist</name>, das in Hinkunft ein staatliches GRemium eine Kommission, wo nur<lb/>
+die ÖMV mitwirken könte, die Rohölimporte durchführt, halte ich<lb/>
+nicht für zielführend. <name type="person" ref="per:97739">Mieling</name> versprach mir für nächste Zeit einen<lb/>
+Vorschlag, wie sehr Shell selbst der Energiekonzeption des Ministeriums<lb/>
+Unterlagen und UNterstützung gewähren kann.</p><p xml:space="preserve"><name type="person" ref="per:97739">Mieling</name> versicherte mir auch neuerdings, dass das Tankstellenkonzept<lb/>
+jetzt von ihm selbst und seiner Gesellschaft sehr konkret inAngriff<lb/>
+genommen wird. Bis jetzt hatte er nur gehofft, dass es ihm gelingen<lb/>
+wird, mit den anderne Ölgesellschaften zu einem Akkord zu kommen.<lb/>
+Deshalb hötte es so lange gedauert, bis er sich als SPrecher der<lb/>
+internationalen dafür bereiterklären konnte Die Koordinierungs<lb break="no"/>besprechungen der internationalen Gesellschaften und der anderen<lb/>
+Ölgesellschaften und insbesondere der freien Tankstellen snd geschei<lb break="no"/>tert- <name type="person" ref="per:97739">Mieling</name> selbst hat aber sine Mitarbeit bei unserem Tankstellen<lb break="no"/>konzept akzeptiert.</p></div>
+      </body>
+      <back>
+         <pb n="16_0542_01" facs="16_1973-05-11_0542-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 13.5.1973</head>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+   </text>
+</TEI>

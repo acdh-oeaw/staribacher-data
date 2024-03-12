@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der 23. März 1973</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band15_1973-03-23</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1973-03-23">Freitag, 23. März 1973</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-10-13">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band15/">
+      <body>
+         <pb n="15-0379" facs="15_1973-03-23_0379.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Freitag, 23. März 1973</p><p xml:space="preserve">Bei der Sportartikelausstellung d.h. der Fachmesse im Wiener<lb/>
+Messegelände zeigte sich wieder die überragende BEteutung der Winter<lb break="no"/>sportgeräte. Die Ausstellung solltezwar alle Sportarten umfassen, in<lb/>
+Wirklichkeit aber haben die Produzenten von Ski, Skibindungen und -schuhe<lb/>
+dominierte. Komm.Rat <name type="person" ref="per:113087">Fischer</name> hat mir angekündigt, dass er die inländi<lb break="no"/>schen Preise wahrscheinlich wird nachziehen müssen, durch die Dollar<lb break="no"/>abwertung und durch den Verlust der Exportrückvergütung konnten die<lb/>
+Skiindustrieller durch den schlechten Geschäftsgang beim Export<lb break="no"/>geschäft überdies noch verstärkt, nicht die prälimierten Einkünfte<lb/>
+aus den Exporterlösen. <name type="person" ref="per:113087">Fischer</name> erzählt mir, dass die Konkurrenz am<lb/>
+amerikanischen Markt, da die Franzosen mit ihren Preisen nicht hinauf<lb break="no"/>gegangen sind, für sie fast verheerend sich auswirkt. Auch die österr.<lb/>
+Skiexporteure konnten keienrlei Preissteigerungen in den USA und<lb/>
+Kanada durchsetzen. Hier wirkt sich die Konzentration auf einen Sport<lb break="no"/>artikel, nämlich eben nur Skier, verheerend aus. Für diesen Zweck<lb/>
+will scheinbar jetzt die Skiindustrie auf eine zweite insbesondere<lb/>
+Sommersportartikelproduktion mit aufziehen. Meine Erkenntnis aus<lb/>
+dieser Situatuin ist, dass eine Spezialisierung und Ausrichtung der<lb/>
+gesamten Produktion eines Unternehmen auf einen einzigen Artikel dann<lb/>
+ein ungeheures Risiko darstlelt, wenn dieser ARtikel eine so elastische<lb/>
+Nachfrage hat wie z.B. Ski. Sieg der Rennläufer, Schneeverhältnisse,<lb/>
+Urlaubstrend usw. sind grosse Unbekannte, die einem das ganz Geschäft,<lb/>
+d.h. sogar den Absatz ruinieren können, wenn man sie nicht richtig<lb/>
+einschätzt</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: Wir haben zwar keinen Branchenreferenten für Sport<lb break="no"/>artikel, doch wäre es sehr interessant, jemanden<lb/>
+mit Umfrage bei den bedeutendsten Firmen zu beauf<lb break="no"/>tragen, um die Geschäftstendenzen und die Ge<lb break="no"/>SCHÄFTSPOlitik zu erfahren.</p><p xml:space="preserve">Die Gasgerätefirma GEBE besteht 60 Jahre. Dortist ebenfalls eine Kon<lb break="no"/>zentration auf die Gasheizgeräte und Gaskochgeräte eingetreten. Die<lb/>
+Gasheizgeräte machen 85 % des Marktanteiles aus. Gebe hat sich sehr<lb/>
+stark modernisiert und rationalisiert und sich durch ein modernes<lb/>
+Email-Werk und zwei Packstrasse auf diese Gasgeräteproduktion konzen<lb break="no"/>triert. Dieser Betrieb aht aber durch die Gasumstellung in Wien einen<lb/>
+bedeutenden garantierten Absatz. Deshalb waren allein auch drei Stadt<lb break="no"/>räte bei der Feier anwesend. Von Handelsministerium war Sekt.Chef <name type="person" ref="per:107939">Römer</name>,<lb/>
+Min.Rat <name type="person" ref="per:97493">Gröger</name> und sogar <name type="person" ref="per:134830">Peschka</name> anwesend. Wen ich nicht gesehen habe,<lb/>
+<pb n="15-0380" facs="15_1973-03-23_0380.jpg"/>war der Branchenreferent. Ich glaube aber, dass dieser immer bei aller<lb/>
+solchen Feierlichkeiten aNWESend ist. ICh könnte bie dieser GElegenhei<lb/>
+dann den jungen und meistens in der Branche nicht so sehr bekannten<lb/>
+Mann vorstllen udn den Unternehmer als Dank für meine Ansprache<lb/>
+nachher verpflichten, mit diesem Branchenreferenten, den ich sozu<lb break="no"/>sagen als meinen persönlichen VErtreter einführen würde, stän<lb break="no"/>digen Kontakt zu halten. Noch besser wäre die Möglichkeit, wenn man<lb/>
+bei der Einladung, die man mir zu irgendeinerm Anlass eines Firmen<lb break="no"/>jubiläums oder Fachmesseeröffnung oder sonst etwas schickt, gleih<lb/>
+den Branchenreferenten mit einem ANtwortschreiben von mir, wo ich<lb/>
+zustimme als meinen VErbindungsmann für diesen festlichen Anlass bezeic<lb/>
+ne, der dann den Kontakt mit den Firmenvertretern und vor allem<lb/>
+den Branchenvertretern aufnehmen könnte und sollte.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: Ich glaube, dass unsere Branchenreferenten<lb/>
+viel zu wenig Kontakt besitzen und deshalb alles<lb/>
+genützt werden muss, um sie mehr zu installieren.</p><p xml:space="preserve">In der fraktionellen Sekretärbesprechung der Lebensmittelarbeiterge<lb break="no"/>werkschaft habe ich auf die Notwendigkeit hingewiesen, dass unsere<lb/>
+Funktionäre kaum bereit sind, entsprechende Aktivitäten zu ent<lb break="no"/>wickeln. Das einzige GEbiet, wo sie sich betätigen, ist, wenn es<lb/>
+um Lohnforderungen geht. In diesem FAll aber müssen die Sekretäre, ob.<lb/>
+wohl ich immer wieder betone, dass man die Funktionäre wie ein<lb/>
+rohes Ei behandeln muss, doch solidarisch vorgehen und keinesfalls<lb/>
+glauben, sie können sich mit Einzelinteressen von Funktionären<lb/>
+liieren und dann gegen die anderen Sekretäre eine Eigentour reiten.<lb/>
+Die Hauptschiwerigkeit für eine Sekretär besteht darin, dass wenn<lb/>
+er starke Betriebsräte in einer Sparte hat, er natürlich mit diesen<lb/>
+gut auskommen muss und soll, andererseits aber nicht vergessen darf,<lb/>
+dass er mit den anderen Sekretärkollegen doch eine einheitliche Linie<lb/>
+und eine einheitliche Politik machen sollte. Da wir nur einen fraktio<lb break="no"/>nell anderen Sekretär nämlich <name type="person" ref="per:133118">Hacker</name> von der Christl. Gewerkschaft hab<lb/>
+erörterten wir dann die zukünftige Lohnbewegung und die ANsätze von<lb/>
+den einezlne Gruppen. Vor vielen Jahen, es wär glaube ich noch in der<lb/>
+Oppositionszeit, habe ich vorgeschlagen, man soll eine neue Lohnpo<lb break="no"/>litik in der Lebensmittelarbeitergewerkschaft installieren.<lb/>
+Meine Grundidee war, dass in jedem Kollektivvertrag nur ein soge<lb break="no"/>nannter Grundlohn fixiert wird. Derzeit haben wir noch eine ganze<lb/>
+Anzahl von Kategorien, wo die einzelnen Löhne vereinbart und im<lb/>
+Vertrag fixiert werden. DIe-s bedingt, dass es natürlich zu Unzufrieden<lb break="no"/>heiten insbesondere für die Frauenlöhne kommt, die verhältnismässig<lb/>
+<pb n="15-0381" facs="15_1973-03-23_0381.jpg"/>weil sie überhaupt als ich Obmann wurde in dieser Gewerkschaft sehr<lb/>
+zurückgeblieben waren, nur schwerlich auf ein beefriedigendes Mass<lb/>
+nachgewogen werden können. In den Verhandlungskomitees sitzen meistens<lb/>
+auch Männer und zwar hauptsächlich Facharbeiter, die natürlich verständ<lb break="no"/>licherweise primär ihre Lohnkategorie vor Augen haben und diese ent<lb break="no"/>sprechend erhöhen wollen und auch tatsächlich erhöhen, ich musste des<lb break="no"/>habl einen schon vereinbarten Lohnsatz für die Frauen, den ich, weil<lb/>
+er zu tief war, abgelehnt habe, beim Verhandlungskomitee desavoieren<lb/>
+und erklären, dass ich unter diesen Umständen nicht bereit bin, den<lb/>
+Vertrag zu unterschreiben. Wenn man nun einen Basis- oder Grundlohn<lb/>
+ausmacht, dann wird wahrscheinlich dieses Problem nicht so stark wirken.<lb/>
+Die Idee ist, dass dann die Facharbeiter durch entsprechende perzentuelle<lb/>
+Zuschläge auf diesen Basislohn ihren endgültigen Lohn errechnen können.<lb/>
+Diese Regleung, d.h. der perzentuelle Zuschlag, kann entweder im Kollek<lb break="no"/>tivvertrag festgehalten werden oder sogar den Betriebsräten in den<lb/>
+einzelnen Fabriken überantwortetwerden. Dadurch werden wir auch von der<lb/>
+furchtbaren Optik, einen hohen Kollektivvertragslohn für die Facharbei<lb break="no"/>ter im Vertrag ausgewiesen zu haben, entgehen. Da bie uns z.B.in den<lb/>
+Brauereien der Kollektivvertragslohn meistens gleich auch der Ist-Lohn<lb/>
+ist, ergibt sich zwar ein optisch sehr schöner Vertrag, aber in der<lb/>
+Praxis sind viele andere Branchen durch ihre Ist-Löhne nicht nur wesent<lb break="no"/>lich höhersondern haben auch weniger diesen optisch ungünstigsten Effekt<lb/>
+in der Öffentlichkeit. Damals habe ich über dieses Lohnsystem durch<lb/>
+Monate, ja sogar durch Jahre hindurch mit den Kollegen verhandelt. Inter<lb break="no"/>essanterweise war es damals die Getränke-Gruppe, die Brauereiarbeiter<lb/>
+ganz besonders, die dieses System abgelehnt haben. Sie haben zwar immer<lb/>
+bei jeder Kollektivvertragsverhandlung die sie begonnen haben, zuerst<lb/>
+erklärt, man solle über dieses neue System sprechen, sind aber dann sofort<lb/>
+da sie diesnur als Schreckschuss gegen die Unternehmer verwendeten, zu der<lb/>
+ursprünglichen perzentuellen Zuschlägen zu den bestehenden Kollektiv<lb break="no"/>vertragslöhnen zurückgekehrt und haben alle Kategorien im Einzelnen<lb/>
+durchverhandelt und fixiert. Jetzt sind die Brauer auf dieses ursprüng<lb break="no"/>lich von mir propagierte System eingeschwenkt. Innerlich konnteich<lb/>
+triumphieren, doch nach ausserhin war es für mich eine böse Über<lb break="no"/>raschung. In der jetzigen politischen Situation wird es gar nicht<lb/>
+leicht sein, dieses System ohne Kampfmassnahmen durchzusetzen. Die<lb/>
+Brauereiarbeiter sind nämlich auch noch von der Unternehmerseite her<lb/>
+bei der letzten Verhandlung aufgespalten gewesen. Da die Unternehmer<lb/>
+der Brauindustrie sich in zwei Gruppen konzentrieren, auf der einen<lb/>
+Seite die Brau AG mit ihren Betrieben fast in jedem Bundesland, auf<lb/>
+<pb n="15-0382" facs="15_1973-03-23_0382.jpg"/>der andren Seite die BBB, wo Schwechat und Reininghaus und andere<lb/>
+noch sich für ein einheitliches VOrgehen in der Verkaufspolitik usw.<lb/>
+zusamengeschlossen ahben. Ich habe unserem Brauer-Sekretär <name type="person" ref="per:126872">Macho</name> einge<lb break="no"/>prägt, er möge sich nicht allzu sehr von diesen starken Funktionären<lb/>
+leiten lassen und stärkere Solidarität mit den anderen Sekretären in Form<lb/>
+von INformation und von Heranziehen zur entsprechenden Unterstüzung seinr<lb/>
+Position.</p><p xml:space="preserve">Bei dem Österreich-Gespräch in Tulln hatte mich vormittags ein Bauernbund<lb break="no"/>vertreter angerufen und mitgeteilt, sie möchten mit mir diskutieren und<lb/>
+mir eine Resolution resp. Bittschrift überreichen. ICh habe die 8 Bauern<lb break="no"/>vertreter dann bei Beginn der VErsammlung tatsächlich getroffen und<lb/>
+sie ersucht, sie mögen doch, nachdem ich nur eine Viertelstunde mit ihnen<lb/>
+diskutieren konte, zweckmässigerweise in die VErsammlung kommen. Sie<lb/>
+meinte, sie wollten diesen Veranstaltung nicht stören, da sie doch zu ein<lb/>
+einem anderen Zweck einberufen wurde. Ich habe ihnen ganz im Gegenteil<lb/>
+zugesichert, dass im Rahmen des Österreich-Gespräches gerade die Agrar<lb break="no"/>fragen eine BEduetung in Tulln haben und dass sie dort doch bitte in<lb/>
+der Versammlugn alle Möglichkeiten haben, ihre Kritik anzubringen und<lb/>
+wir würden uns in demokratischer fairer Weise unterhalten.Leider haben<lb/>
+sie abgelehnt. In der Versammlung waren dann doch noch zwei soz.<lb/>
+Bauern, wie mir der Bezirksobmann Landesrat <name type="person" ref="per:115067">Grünzweig</name> mitteilte, anwesend<lb/>
+die auch für die Bauernfragen diskutierten und sich sehr sachlich mit<lb/>
+mir auseinandersetzten. Eine ganze Reihe anderer Probleme kamen ebenfalls<lb/>
+zur Sprache.</p></div>
+      </body>
+      <back>
+         <pb n="15_0378_01" facs="15_1973-03-23_0378-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 23.3.1973</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="15_0378_02" facs="15_1973-03-23_0378-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+   </text>
+</TEI>

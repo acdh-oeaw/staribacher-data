@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstag, der 18. November 1975</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band28_1975-11-18</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1975-11-18">Dienstag, 18. November 1975</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-01-08">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="28-1325" facs="28_1975-11-18_1325.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Dienstag, 18. November 1975<lb/>
+</p>
+            <p xml:space="preserve">NR <name type="person" ref="per:97757">Mühlbacher</name> wird mit <name type="person" ref="per:97893">Sallinger</name> sprechen damit wegen der Gewerbe<lb break="no"/>gesetze gemeinsam die Beratungen im Konsumentenforum geführt werden<lb/>
+sollen. Damit unterstreicht <name type="person" ref="per:97757">Mühlbacher</name>, dass er an einer einvernehm<lb break="no"/>lichen Lösung sehr interessiert ist. <name type="person" ref="per:97893">Sallinger</name> ex klärt ihm allerdings,<lb/>
+dass er dies nicht mehr kann, da die ÖVP beschlossen hat, dass <name type="person" ref="per:97437">Fiedler</name><lb/>
+einen Initiativantrag einbringt. Dieser wird dann tatsächlich in der<lb/>
+alten Form dem Nationalrat zugeleitet. <name type="person" ref="per:97757">Mühlbacher</name> möchte aber bevor<lb/>
+wir im Handelsministerium die Verhandlungen aufnehmen mit der Konsum<lb break="no"/>genossenschaft NR <name type="person" ref="per:97505">Haberl</name> abklären, damit nicht wieder der Eindruck ent<lb break="no"/>steht, dass die Konsumgenossenschaft gegen eine sinnvolle Lösung ist.<lb/>
+Da die ÖVP uns vor eine vollendete Tatsache stellt, wird es zwar<lb/>
+schwer sein im Konsumentenbeirat zu einer vernünftigen Lösung zu kommen,<lb/>
+trotzdem werden wir Besprechungen aufnehmen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97769">Mussil</name> bringt im Nationalrat einen Initiativantrag über Erhöhung der<lb/>
+Stärkeabgabe von 220.– Schilling auf 390.– Schilling ein. Dies ent<lb break="no"/>spricht den seinerzeitigen Berechnungen, als der Kartoffelpreis von<lb/>
+der Paritätischen Kommission um 6 Groschen verteuert wurde. Ich gebe<lb/>
+die Unterlagen <name type="person" ref="per:97524">Hauffe</name> zu prüfen. Bei dieser Gelegenheit schlägt er<lb/>
+mir vor, dass für die Restbudgetpost er mit der Gmünder Vorschläge<lb/>
+ausarbeiten würde, die man ohne Zustimmung des Finanzministeriums<lb/>
+die Gelder verwenden könnte. <name type="person" ref="per:97524">Hauffe</name> glaubt aus einer Bemerkung bei der<lb/>
+letzten Beiratssitzung dass kein Geld übrig bleiben soll, dass dies meine<lb/>
+Intention ist. Ich erkläre ihm sofort, dass ich nur Lösungen zustimme,<lb/>
+die von MR <name type="person" ref="per:110130">Kaber</name> vom Finanzministerium ebenfalls akzeptiert werden.<lb/>
+Wenn wir nämlich <name type="person" ref="per:110130">Kaber</name> verärgern, oder gar vielleicht einmal hinein<lb break="no"/>legen, wird sicherlich die gute Zusammenarbeit zwischen dem Handels<lb break="no"/>ministerium und ihm sehr darunter leiden. Ich bin deshalb nicht bereit<lb/>
+wegen 4.5 Millionen, die wir maximal so noch ausgeben könnten, das<lb/>
+Vertrauensverhältnis zu zerstören.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:97469">GEHART</name>: Beachte ebenfalls mit <name type="person" ref="per:97722">Marhold</name> darauf, dass hier<lb/>
+nichts ohne Finanzministeriumszustimmung entschieden wird.<lb/>
+</p>
+            <p xml:space="preserve">Nachdem ich mit dem Obmann der Konsumgenossenschaft Wien, <name type="person" ref="per:113061">Kadits</name>,<lb/>
+verhandelt habe, ruft mich der Prokurist ...... an und stimmt end<lb break="no"/>gültig zu, dass wir vor Samstag eine Presseaussendung machen können,<lb/>
+da die Konsumgenossenschaft eine Preissenkung von 10 % für alle ihre<lb/>
+<pb n="28-1326" facs="28_1975-11-18_1326.jpg"/>Fernsehapparate vom 24.11. – 6.12. gewährt. Dies ist die erste gemein<lb break="no"/>same Aktion, die jetzt endlich zwischen Konsumgenossenschaft und<lb/>
+Handelsministerium zustande kommt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:98040">WAIS</name>: Bitte alle Details besprechen und Aussendung<lb/>
+machen.<lb/>
+</p>
+            <p xml:space="preserve">Im Klub berichtet <name type="person" ref="per:110923">Lanc</name> wegen der Postgebührerhöhung, die im Durch<lb break="no"/>schnitt 58 % beträgt. Auf eine Anfrage teilt er mit, dass eben seit<lb/>
+8 Jahren, bei den Zeitungsgebühren sogar seit 12 Jahren keine<lb/>
+Erhöhung mehr erfolgte. Die Belastung beträgt 0.2 im Index.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> erklärt dann in der Anfrage, dass es 0.11 % ist.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:111737">MARSCH</name>: Wieso gibt es diese Differenzen.<lb/>
+</p>
+            <p xml:space="preserve">Klubobmann <name type="person" ref="per:97444">Fischer</name> ersucht mich, da <name type="person" ref="per:97668">Kreisky</name> nicht zur Verfügung<lb/>
+ist und <name type="person" ref="per:97525">Häuser</name> erst wesentlich später kommt, solange über mein<lb/>
+Ressort zu berichten. Ich springe selbstverständlich ein und er<lb break="no"/>zähle im Klub über die Marktordnung und über die Preisgesetze und<lb/>
+die Preissituation. <name type="person" ref="per:97727">Marsch</name> frägt an wie das mit dem ortsüblichen<lb/>
+Preis und den volkswirtschaftlichen ist und ob wir auch die Handels<lb break="no"/>spannen regeln können, was ich natürlich verneinen muss. <name type="person" ref="per:97444">Fischer</name><lb/>
+fragt wie weit es mit der Koppelung Energiesicherung mit den Wirt<lb break="no"/>schaftsgesetzen ist, die bekanntlicherweise der Untertaktierer<lb/>
+<name type="person" ref="per:97769">Mussil</name>, so ist meine neue Bezeichnung für ihn, jetzt überall erzählt.<lb/>
+Ich hoffe dass der Klub sich auf so etwas nicht einlässt, sondern<lb/>
+die ÖVP zwingt zum Energiesicherungsgesetz in irgendeiner Form Stellung<lb/>
+zu nehmen. <name type="person" ref="per:97543">Heindl</name> befürchtet, dass die ÖVP die Verhandlungen wieder<lb/>
+rauszögert und schlägt vor, dass wir einen Brief an alle Klubob<lb break="no"/>männer richten, wo wir die Dringlichkeit der Energiesicherungs<lb break="no"/>vorlage und deren sofortigen Verhandlungsbeginn verlangen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97543">Heindl</name> gesteht mir, dass vom Tagebuch, zu meiner grössten Über<lb break="no"/>raschung, Abzüge gemacht werden. Ich halte neuerdings fest, dass die<lb/>
+seinerzeitige Vereinbarung gelautet hat, dass nur ein Original und<lb/>
+keinerlei Kopien für niemand gemacht werden. <name type="person" ref="per:98053">Wanke</name> zeichnet das<lb/>
+Tagebuch aus.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:98072">WIESINGER</name>: Bitte dafür zu sorgen, dass diese Vereinba<lb break="no"/>rungen auch eingehalten werden.<lb/>
+</p>
+            <pb n="28-1327" facs="28_1975-11-18_1327.jpg"/>
+            <p xml:space="preserve">Abg. <name type="person" ref="per:97752">Mondl</name> kommt mit Vertretern der Jungbunzlauer, die wünschen,<lb/>
+dass sie bei der Melasseeinfuhr von Süd-Zucker keinen Zollvor<lb break="no"/>merk mehr haben, da sie für die 25.000 – 30.000 Tonnen doch etliche<lb/>
+100.000 Schilling zahlen müssen. Ich erkläre sofort, dass ich darauf<lb/>
+keinen Einfluss habe und wahrscheinlich eine Änderung nur durch das<lb/>
+Finanzministerium schwer zu erreichen sei. Ein weiterer Wunsch ist,<lb/>
+dass sie von den eingeführten Mengen 2000 – 3000 Tonnen für die<lb/>
+Inlands-Zitronensäureerzeugung brauchen, die sie zollfrei wünschen.<lb/>
+Ausserdem haben sie einen ERP-Kredit angesucht, für 15.5 Millionen<lb/>
+Schilling für die Rohstoffumstellung und hoffen auf unsere Unter<lb break="no"/>stützung.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:97469">GEHART</name>: Bitte die letzten beiden Punkte sofort im<lb/>
+Haus zu veranlassen, da am Donnerstag schon die Sitzung ist. <add>Gröger gebeten [Paraphe Gehart]</add><lb/>
+</p>
+            <p xml:space="preserve">Bei der letzten Margarinepreissenkung wurde vereinbart, dass im<lb/>
+November neuerdings zu prüfen ist, wie weit eine weitere Senkung<lb/>
+Platz greifen kann. Nach längeren Verhandlungen mit <name type="person" ref="per:113084">Büttner</name>, <name type="person" ref="per:141676">Eibel</name>,<lb/>
+<name type="person" ref="per:141677">Meschka</name>, dem Verkaufsmanager von Unilever, und <name type="person" ref="per:114075">Schmidt</name>, ÖGB, <name type="person" ref="per:112010">Blaha</name><lb/>
+und <name type="person" ref="per:115003">Weihs</name>, Arbeiterkammer, gelingt es ein Einvernehmen zu erzielen.<lb/>
+Thea wird von 5.20 Schilling auf 5.– Schilling gesenkt. Eine weitere<lb/>
+Senkung kommt nicht infrage, weil Ebhart &amp; Herout ansonsten ihre<lb/>
+gewerbliche Margarineproduktion mit 40 % Anteil, 60 % Kunerol, nicht<lb/>
+mehr verkaufen könnte. Unilever fürchtet einen stärkeren Konkurrenz<lb break="no"/>kampf <choice><choice><sic>Küchenmädl</sic><corr>?</corr></choice></choice>, eine deutsche Margarine von Rauch, die 1/2<lb/>
+kg Becher mit 9.90 Schilling verkauft werden. Hier wird sich trotz<lb/>
+des 18 % Zolls in Hinkunft ein harter Konkurrenzkampf ergeben.<lb/>
+Unilever ist bereit seine Preise um 5 % nicht nur von den Fabriks<lb break="no"/>abgabepreisen, sondern auch Verbraucherpreise zu senken, wenn ich<lb/>
+mich dafür einsetze, dass die Handelsspannen nicht in voller Höhe<lb/>
+gerechnet werden, sondern den tatsächlich jetzt errechneten Handels<lb break="no"/>spannen entsprechen. Dazu erkläre ich mich bereit. Ich werde <name type="person" ref="per:97769">Mussil</name><lb/>
+beim nächsten Jour fixe einen Antrag machen, dass wir über die Marga<lb break="no"/>rinepreisverhandlungen bei mir im Ministerium eine Besprechung mit<lb/>
+allen Beteiligten, damit auch dem Handel führen. Als Kompromiss<lb/>
+einigen wir uns, soll ab 1.1.1976 Vita von 8.10 auf 7.80, Rama<lb/>
+von 6.90 auf 6.50, feine Thea von 6.– auf 5.70 <choice><choice><sic>neben</sic><corr>?</corr></choice></choice> Thea von<lb/>
+5.20 auf 5.– gesenkt werden. Zweimalige Verhandlungen in der Pari<lb break="no"/>tätischen Kommission haben bis jetzt zu keinem Ergebnis geführt.<lb/>
+</p>
+            <pb n="28-1328" facs="28_1975-11-18_1328.jpg"/>
+            <p xml:space="preserve">Unilever wird uns Erhebungen zur Verfügung stellen, die<lb/>
+allerdings strengst vertraulich zu behandeln sind, wo bereits<lb/>
+jetzt Handelsbetriebe und nicht nur Diskonter die Handelsspannen<lb/>
+nicht ausnützen. Anstelle der vorgesehenen 14.1 % Kleinhandels<lb break="no"/>spanne werden 7 %, anstelle der einkalkulierten 5.2 % Grosshandels<lb break="no"/>spanne werden 3 % de facto verrechnet.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:98040">WAIS</name>: Bitte für nächsten Jour fixe die Unterlagen vor<lb break="no"/>bereiten.<lb/>
+</p>
+            <p xml:space="preserve">Mit <name type="person" ref="per:114075">Schmidt</name>, <name type="person" ref="per:112010">Blaha</name> und <name type="person" ref="per:115003">Weihs</name> bespreche ich auch die 25.000 Tonnen weite<lb break="no"/>re Exporte von Zucker nach Ungarn. <name type="person" ref="per:112010">Blaha</name> und <name type="person" ref="per:115003">Weihs</name> sehen das vollkommen<lb/>
+ein, <name type="person" ref="per:114075">Schmidt</name> hat nur Angst, dass <name type="person" ref="per:97346">Benya</name> dagegen ist und meint sie<lb/>
+könnten dem unmöglich zustimmen. <name type="person" ref="per:112010">Blaha</name> erklärt deshalb, auch seinen<lb/>
+Präsidenten wird er nicht fragen, da dieser dann garantiert auch<lb/>
+dagegen ist. Alle drei erwarten, dass ich auf meine Kappe die Ex<lb break="no"/>porte nehme und gegen sie im Aussenhandelsbeirat entscheide. Dazu<lb/>
+bin ich fest entschlossen und erkläre <name type="person" ref="per:97346">Benya</name> und <name type="person" ref="per:97563">Hofstetter</name> am späten<lb/>
+Abend die Situation die beide zur Kenntnis nehmen. <name type="person" ref="per:97346">Benya</name> hat mich<lb/>
+nämlich angesprochen weil er gehört hat, dass Präsident <name type="person" ref="per:97691">Lehner</name><lb/>
+erklärt haben soll, an einer Zuckerpreissenkung sei der Gewerk<lb break="no"/>schaftsbund nicht interessiert. <name type="person" ref="per:97346">Benya</name> hat nur gesagt, wir werden<lb/>
+uns dies genau ansehen. Genau das beabsichtigte ich aber sowieso<lb/>
+nach Abschluss der Kampagne, wenn die Kosten festgestellt werden<lb/>
+können. Wenn es zu diesen günstigen Exporten, immerhin erlösen wir<lb/>
+6.20 bis 6.70 Schilling <choice><choice><sic>auf</sic><corr>auch?</corr></choice></choice> bei dem dritten 25.000 Ungarnexport<lb/>
+den ich jetzt beschliessen lassen werde, nicht kommt, dann wird<lb/>
+bei späteren Exporten, wo wir keine so guten Preise erzielen werden,<lb/>
+Erlösminderungen eintreten, die letzten Endes bei der Gesamtab<lb break="no"/>rechnung ein schlechteres Ergebnis bringen.<lb/>
+</p>
+            <p xml:space="preserve">Mit <name type="person" ref="per:97769">Mussil</name> und <name type="person" ref="per:97563">Hofstetter</name> vereinbare ich, dass die Studie über die<lb/>
+Lehrlingsstellen doch noch gemacht wird, mit entsprechender Be<lb break="no"/>teiligung von Arbeiterkammer und Handelskammer. Beide sagen mir<lb/>
+mindestens 250.000 Schillinge zu. Damit kann allerdings das 3 Millio<lb break="no"/>nen Projekt nicht von mir genehmigt werden. Wir vereinbaren dass<lb/>
+mit <name type="person" ref="per:97584">Jagoda</name>, <name type="person" ref="per:123791">Knapp</name> und <name type="person" ref="per:140623">Kowalski</name> vom Berufsforschungsinstitut, <name type="person" ref="per:98078">Winkler</name><lb/>
+und <name type="person" ref="per:113821">Piskaty</name> von der Handelskammer eine Besprechung stattfindet, um<lb/>
+das Programm und die Beteiligung endgültig festzulegen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:98040">WAIS</name>: Bitte eine Sitzung einberufen.<lb/>
+</p>
+            <pb n="28-1329" facs="28_1975-11-18_1329.jpg"/>
+            <p xml:space="preserve">S.Chef <name type="person" ref="per:97468">Gatscha</name>, mit dem ich eine freimütige Aussprache führe,<lb/>
+meint, dass eine innere Stimme ihm sagt, er solle seine jetzige<lb/>
+Position behalten. Dort hätte er sehr konkrete Geschäfte zu ver<lb break="no"/>handeln. Nach reiflicher Überlegung hätte er das Gefühl dort richtig<lb/>
+am Platz zu sein, auch wenn er genau weiss, dass <name type="person" ref="per:97668">Kreisky</name> ihm niemals<lb/>
+zusammengelegte Sektionen geben würde. In dem Moment kommt Staats<lb break="no"/>sekretär <name type="person" ref="per:108223">Lausecker</name> vorüber und wir beide nehmen nach wirklich langer<lb/>
+und gründlicher Aussprache diese Entscheidung zur Kenntnis.<lb/>
+</p>
+            <p xml:space="preserve">Im fraktionellen Kontaktkomitee zwischen Verbundgesellschaftsvor<lb break="no"/>ständen und Betriebsräten wird das Wunschprogramm der Betriebsräte be<lb break="no"/>sprochen. Bei den Donaukraftwerken stellt sich heraus, dass oft<lb/>
+monatelang keine Vorstandsitzung abgehalten wird. Hier erscheint<lb/>
+deshalb eine Lösung im Aufsichtsrat, die eine Dirimierung im<lb/>
+Vorstand vorsieht, dringendst notwendig. So wird es notwendig sein<lb/>
+wo die sachliche Arbeit darunter leidet, echte Mehrheiten zu bil<lb break="no"/>den und einzusetzen, wenn eine gewisse Pattstellung in Gesell<lb break="no"/>schaften sich herausgebildet hat. Ein weiterer wichtiger Punkt wird bei<lb/>
+den Preisverhandlungen nicht nur die Grundsätze über das neue<lb/>
+Ausbauprogramm und damit auch für Voitsberg III Landesbeteili<lb break="no"/>gungen sein, sondern auch ein Schritt zur Konzentration durch ent<lb break="no"/>sprechende Reorganisation. Dies trifft besonders für die Kernkraft<lb break="no"/>werksgesellschaften zu. Ich hatte ja nie verstanden, wieso für jedes<lb/>
+einzelne Kernkraftwerk eine eigene Gesellschaft gegründet wird. Bei<lb/>
+der GKS wurde von seitens der ÖVP schon der Geschäftsführer <name type="person" ref="per:115015">Handl</name><lb/>
+mit 50.000 Schilling Gehalt bestellt, obwohl diese Gesellschaft<lb/>
+schon bis jetzt kaum etwas zu tun gehabt hat und durch die Ver<lb break="no"/>schiebung des Baubeginns jetzt überhaupt eingefroren werden wird.<lb/>
+Im Zuge der Preisverhandlungen werde ich versuchen eine Reorganisati<lb break="no"/>on auf diesem Sektor dahingehend zu erreichen, dass ausser der Kern<lb break="no"/>kraftwerks-Planungsgesellschaft, die jedes einzelne Kernkraftwerk zu<lb/>
+planen und den Bau vorzubereiten hat, dann nach Fertigstellung nur<lb/>
+mehr eine einzige Betriebsgesellschaft für die Kernkraftwerke ge<lb break="no"/>bildet werden soll. Die Betriebsräte verlangen ausserdem, dass<lb/>
+ein Sozial- und Personalausschuss der paritätisch von ihnen zu<lb/>
+besetzen ist, gebildet wird.<lb/>
+</p>
+            <p xml:space="preserve">Die Landes- und Stadtgesellschaften werden teilweise jetzt doch ihre<lb/>
+Preisanträge einbringen. Nur für OÖ, Steiermark und der Stadt Graz<lb/>
+<pb n="28-1330" facs="28_1975-11-18_1330.jpg"/>sind noch keine Erklärungen von den Landeshauptleuten bzw.<lb/>
+Bürgermeister vorhanden, dass sie sich als Präsidenten des Auf<lb break="no"/>sichtsrates mit den Preiserhöhungen einverstanden erklären und<lb/>
+die Notwendigkeit bestätigen. Die Preisanträge sind exorbitant.<lb/>
+Der Durchschnitt aller Landesgesellschaften beträgt 18 Groschen<lb/>
+pro kWh. Die Bewag 25, Kärnten 19.3, NÖ 20, OÖ 19.4, Salzburg 12.2,<lb/>
+Steiermark 15, Tirol 16, Wien 28, Vorarlberg 18, Graz 15, Linz 25,<lb/>
+Innsbruck 14.8, Salzburg 14.2, Klagenfurt 14 Groschen pro durch<lb break="no"/>schnittlicher kWh. Mit der Koppelung auf den oben angeführten Punk<lb break="no"/>ten wird es sicherlich längere Zeit dauern bis wir zu einer einver<lb break="no"/>nehmlichen Lösung kommen könne, wenn es.überhaupt gelingt eine solche<lb/>
+zu erzielen.<lb/>
+</p>
+            <p xml:space="preserve">Mit Vorarlberg, so <choice><choice><sic>einen</sic><corr>einigen</corr></choice></choice> wir uns mit <name type="person" ref="per:97333">Bandhauer</name>, <name type="person" ref="per:109811">Burian</name> und <name type="person" ref="per:113016">Peter</name><lb/>
+von den Illwerken, wird in der nächsten Zeit eine endgültige Ver<lb break="no"/>einbarung fertiggestellt. Rechtzeitig muss aber auch mit der Kelag<lb/>
+eine endgültige Lösung gefunden werden. Im Verbund fand mit dem<lb/>
+Vorstand und dem Kelag-Vorstand eine Aussprache statt, wo der Ver<lb break="no"/>bund der Kelag vorgeschlagen hat, für die 166 Millionen Schilling<lb/>
+altes Kapital, welches sie in die ÖDK eingebracht haben, Schwabeck,<lb/>
+Lavamünd und sonstiges, bekommen sie die Verzinsung der Energie<lb break="no"/>anleihe, derzeit 9 % garantiert. <name type="person" ref="per:139680">Pacheiner</name> möchte nun eine Art<lb/>
+Wertsicherung auch noch bekommen. Das hat die Verbundgesellschaft<lb/>
+kategorisch abgelehnt. <name type="person" ref="per:114714">Inthal</name>, der Betriebsratsobmann von der ÖDK,<lb/>
+gleichzeitig auch Kärntner, ist über die Verzögerungstaktik und<lb/>
+sture Haltung von der Kelag jetzt schön langsam empört. Ich em<lb break="no"/>pfehle den Kärntnern, sie sollen Klagenfurt mit der Kelag und den da<lb break="no"/>für zuständigen Landeshauptmann <name type="person" ref="per:98038">Wagner</name> sowie <name type="person" ref="per:97461">Frühbauer</name>, entsprechende<lb/>
+Gespräche führen.<lb/>
+</p>
+            <p xml:space="preserve">Bei einem Empfang im Hotel Imperial von der Firma Bakalowits für ihre<lb/>
+130 Jahre Bestandsfeier, muss ich als einziger Redner, ohne irgend<lb break="no"/>eine Auszeichnung der Firma übergeben zu können, ich glaube eine<lb/>
+ganz launige und mit allgemeinem Beifall aufgenommene Laudatio<lb/>
+halten. Zum Glück hat <name type="person" ref="per:113038">Reim</name> einige persönliche Informationen be<lb break="no"/>kommen. Der Bezirksvorsteher vom ersten Bezirk überreicht der Firma<lb/>
+dann von den City-Kaufleuten, einen Verein der sich gegründet hat,<lb/>
+eine Auszeichnung. Ich sage sofort, dass ist der Unterschied zwischen<lb/>
+einem Bezirksvorsteher, der immerhin imstande ist eigenmächtig<lb/>
+<pb n="28-1331" facs="28_1975-11-18_1331.jpg"/>irgendwelche Anerkennungen zu verleihen, während der Handels<lb break="no"/>minister eben entsprechend gebunden ist. Ich kann allerdings wirk<lb break="no"/>lich nicht einsehen, warum wir nicht auch irgendeine Auszeichnung<lb/>
+für diese Feier zeitgerecht beantragt haben.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Sektionsleitersitzung berichte ich nicht nur über die zu<lb break="no"/>künftige parlamentarische Arbeit, sondern besonders über das Pro<lb break="no"/>gramm von <name type="person" ref="per:97525">Häuser</name>. Dieser wird die Arbeitslosenversicherung verbes<lb break="no"/>sern, den Höchstbezug von 2.600 auf 3.300 Schilling erhöhen, das<lb/>
+Arbeitsmarktförderungsgesetz dahingehend novellieren, dass die Unter<lb break="no"/>nehmer eine grössere Informationspflicht haben, insbesondere die<lb/>
+offenen Stellen, die zu beabsichtigten Freistellungen, zu melden.<lb/>
+Die Arbeitsplatzvermittlung soll nur mehr über das Arbeitsamt er<lb break="no"/>folgen. Für Hobby wird keine Förderung gewährt. Das Verfahren<lb/>
+soll dezentralisiert werden, wenn die Gesamtverantwortung dies zu<lb break="no"/>lässt. Im kollektiven Arbeitsrecht soll eine Novelle den Schutz der<lb/>
+älteren Arbeitnehmer, d.h. durch § 105 bessern. Ohne das eine Al<lb break="no"/>tersgrenze festgelegt wird, soll das Einigungsamt angerufen werden<lb/>
+können, wenn ältere Bedienstete gekündigt werden. Im individualen<lb/>
+Arbeitsrecht soll der Bildungsurlaub für das Jahr 1978/79 frühestens<lb/>
+vorgesehen werden, dagegen ein Pflege-und Mindesturlaub sobald als<lb/>
+möglich eingeführt werden. Die Urlaubsbestimmung löste dann eine<lb/>
+lebhafte Diskussion aus. Ein Teil meinte, die älteren Arbeiter würden<lb/>
+dadurch nichts bekommen, weshalb ja auch der Vorschlag des ÖAAB,<lb/>
+jeder bekommt eine Woche drauf, wesentlich mehr Anklang finden<lb/>
+würde. Ein Hauptargument wurde aber in der Diskussion nicht gesagt,<lb/>
+und bei mir dann im Schlusswort natürlich besonders herausgestrichen.<lb/>
+Die Ärzte sagen 4 Wochen Urlaub sei das mindeste um die entsprechende<lb/>
+Regeneration zu erreichen. Wenn dies allerdings wahr ist, dann habe<lb/>
+ich mich schon längere Zeit nicht regeneriert.<lb/>
+</p>
+            <p xml:space="preserve">Dr. <name type="person" ref="per:111721">Stix</name> von der FPÖ hat die Funktion von Dipl.Ing. <name type="person" ref="per:97515">Hanreich</name> im<lb/>
+Handelsausschuss übernommen. <name type="person" ref="per:97515">Hanreich</name> bleibt nur mehr im Deklara<lb break="no"/>tionsausschuss. <name type="person" ref="per:111721">Stix</name> möchte nun mit mir denselben guten Kontakt<lb/>
+den <name type="person" ref="per:97515">Hanreich</name> scheinbar ihm gesagt hat dass er mit mir besitzt. Ich<lb/>
+bin natürlich selbstverständlich zu jederzeit bereit eine Aussprache<lb/>
+mit ihm zu führen und ihm auch alle Unterlagen zu geben, die er<lb/>
+<pb n="28-1332" facs="28_1975-11-18_1332.jpg"/>wünscht. Die FPÖ überlegt ob sie nicht diesmal sogar dem Handels<lb break="no"/>budget ihre Zustimmung geben sollte. Der einzig offene Punkt ist,<lb/>
+dass für die Vorratsbildung keine Budgetansätze eingesetzt sind. Ich<lb/>
+unterhalte mich mit <name type="person" ref="per:111721">Stix</name> wegen der beabsichtigten Vorratsbildung<lb/>
+auf dem Ölsektor und er teilt meine Meinung, dass es zweckmässig,<lb/>
+dass die Firmen dies durchzuführen haben und nicht eine Behörde<lb/>
+und dass es im Preis kalkuliert werden soll und nicht eine Abgabe<lb/>
+festgesetzt wird. <name type="person" ref="per:111721">Stix</name> hat zum Abschluss noch den Wunsch, ich soll<lb/>
+prüfen, wieweit Dkfm. <name type="person" ref="per:133372">Holger Bauer</name>, der Wiener Landtagsabgeordnete<lb/>
+der FPÖ, im Handelsministerium angestellt werden könnte. Er hätte<lb/>
+daran ein grosses Interesse. Als Beispiel dient ihnen der Land<lb break="no"/>tagsabgeordnete <name type="person" ref="per:141678">Hirnschall</name>, der gleichzeitig Finanzbeamter ist.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:97469">GEHART</name>: Bitte dieses Ansuchen genau prüfen lassen,<lb/>
+ob tatsächlich es möglich und zweckmässig ist einen Landtagsabge<lb break="no"/>ordneten, der natürlich dann entsprechende Freizeit braucht, ein<lb break="no"/>zustellen.</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="28_1324_03" facs="28_1975-11-18_1324-03.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 18.11.1975</head>
+         </div>
+         <pb n="28_1324_04" facs="28_1975-11-18_1324-04.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

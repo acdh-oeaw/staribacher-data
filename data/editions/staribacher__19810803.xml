@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Montag, der  3. August 1981</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band60_1981-08-03</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1981-08-03">Montag, 3. August 1981</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-06-25">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="60-0978" facs="60_1981-08-03_0978.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Montag, 3. August 1981<lb/>
+</p>
+            <p xml:space="preserve">Ing. <name type="person" ref="per:133640">Karner</name>, der Geschäftsführer der AWG, Tochter des Exportringes aus<lb/>
+der Steiermark in der Bundesrepublik, erklärte dezidiert, wenn er keine<lb/>
+finanziellen Zusagen von der Handelskammer oder einem anderen Finanz<lb break="no"/>träger bekommt, die AWG aufzulösen. Die Mitteilung in der Tagespost, der<lb/>
+ÖVP-Zeitung, daß LH Dr. <name type="person" ref="per:126988">Krainer</name> eine Blitzsanierung gelungen ist, gibt<lb/>
+ihm zwar gewisse Hoffnungen, aber ohne konkrete finanzielle Hilfe läßt<lb/>
+er sich mit solchen Artikeln nicht abspeisen. Ich selbst erklärte ihm<lb/>
+dezidiert, daß wir im Handelsministerium keine finanziellen Zuschüsse<lb/>
+geben können, weil dafür in unserem Budget überhaupt keine Mittel vor<lb break="no"/>handen sind. Frau Dipl.Vw. <name type="person" ref="per:113819">Mühl</name> von der Außenhandelssektion wird ihn aber<lb/>
+in jeder Beziehung mit Rat und Tat unterstützen. Ich selbst habe ihn<lb/>
+sofort mit GD <name type="person" ref="per:97627">Kienzl</name> von der Nationalbank bekannt gemacht, weil <name type="person" ref="per:133640">Karner</name><lb/>
+resp. der Exportring mit 170 kleinen Gewerbetreibenden, 2/3 davon aus<lb/>
+der Steiermark, diese Exportunterstützung den Kleingewerbetreibenden gibt,<lb/>
+die <name type="person" ref="per:97627">Kienzl</name> schon seit längerer Zeit wünscht. Ob <name type="person" ref="per:97627">Kienzl</name> allerdings die<lb/>
+finanziellen Mittel aufbringen kann, weiß ich auch nicht genau, denn<lb/>
+bis jetzt hat sein Präsident <name type="person" ref="per:97647">Koren</name>, sicherlich auf Raten von Präsident<lb/>
+<name type="person" ref="per:97893">Sallinger</name><add>[von]</add> der Bundeskammer, eine solche Aktivität nicht goutiert. Der<lb/>
+Vorschlag des LH <name type="person" ref="per:126988">Krainer</name>, ich sollte 5 Mio. S, so wie die Landesregierung,<lb/>
+dem Exportring zur Verfügung stellen, ist für mich unakzeptabel, seinerzeit<lb/>
+bei der Gründung des Exportringes hat der zuständige Landesrat <name type="person" ref="per:117875">Peltzmann</name><lb/>
+aus der Steiermark ausdrücklich auf eine solche Subvention verzichtet,<lb/>
+<choice><choice><sic>daß</sic><corr>da?</corr></choice></choice> ich dafür gar keinen Budgetansatz habe.<lb/>
+</p>
+            <p xml:space="preserve">Eine Rücksprache mit Präs. <name type="person" ref="per:97893">Sallinger</name> ergab neuerdings, daß die Meldung<lb/>
+der Süd-Ost-Tagespost, wenn nicht gar die Behauptung <name type="person" ref="per:126988">Krainers</name>, auf einer<lb/>
+falschen Interpretation seiner Zusage beruht. Die Handelskammer ist nicht<lb/>
+bereit, die AWG zu übernehmen, oder gar einen finanziellen Zuschuß der<lb/>
+AWG zu geben. Das einzige, was <name type="person" ref="per:97893">Sallinger</name> zugesagt hat, war, daß richtli<lb break="no"/>niengemäß jede einzelne Firma z.B. bei Durchführung von Veranstaltungen,<lb/>
+Messen usw. entsprechende Zuschüsse bekommen würde. Auch direkte Zuschüs<lb break="no"/>se an die Firmen, die diese dann der AWG überweisen könnten, ist nicht<lb/>
+möglich. Dies wird im Artikel der Süd-Ost-Tagespost aber behauptet.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Dipl.Vw <name type="person" ref="per:113819">Mühl</name> soll mit der Handelskammer offiziell<lb/>
+kontaktieren.<lb/>
+</p>
+            <pb n="60-0979" facs="60_1981-08-03_0979.jpg"/>
+            <p xml:space="preserve">Beim Journalistenfrühstück gab es über die offiziellen Punkte fast keine<lb/>
+Diskussion, über den Exportring wurde ich dann vom Vertreter der Neuen<lb/>
+Zeitung gefragt, wie die Exportringangelegenheit steht. Ich war darüber<lb/>
+sehr verwundert und habe ziemlich genau auf diese Frage geantwortet.<lb/>
+Nachher erfuhr ich von <name type="person" ref="per:109811">Burian</name>, daß er den Redakteur vorinformiert hat.<lb/>
+Dieser wußte trotz des steirischen Wahlkampfes nichts über die Attacken<lb/>
+seiner Redaktion in Graz und liest scheinbar auch sein eigenes Organ<lb/>
+nicht sehr genau, da er die Attacken und Kommentare scheinbar übersehen<lb/>
+hat.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Beobachte bitte, wie dies weitergeht.<lb/>
+</p>
+            <p xml:space="preserve">Präsident des Wirtschaftsverbandes, <name type="person" ref="per:97757">Mühlbacher</name>, hat mir gegenüber und dann<lb/>
+auch in einem Telefongespräch mit <name type="person" ref="per:97893">Sallinger</name> neuerdings bekräftigt, daß<lb/>
+er nicht daran denkt, den Exportring zu unterstützen, der Beschluß des<lb/>
+Präsidiums der Bundeshandelskammer bleibt also aufrecht. <name type="person" ref="per:97757">Mühlbacher</name> be<lb break="no"/>gründete sehr logisch mir gegenüber seine Stellungnahme. Der Wirtschafts<lb break="no"/>bund hat seinerzeit, als in der Steiermark diese Organisation gegrün<lb break="no"/>det wurde, auch nicht im entferntesten daran gedacht, den Freien Wirt<lb break="no"/>schaftsverband zu kontaktieren und einzuschalten, er sieht daher für<lb/>
+seine Organisation gar keine Notwendigkeit, ohne entsprechende Einfluß<lb break="no"/>nahme jetzt dieser Wirtschaftsbundgründung aus der Patsche herauszuhelfen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Bitte kontaktiere weiterhin mit <name type="person" ref="per:97757">Mühlbacher</name> resp.<lb/>
+dem im Verband verantwortlichen.<lb/>
+</p>
+            <p xml:space="preserve">SC <name type="person" ref="per:97584">Jagoda</name> berichtete über die Novelle zur Gewerbeordnung. Bei dieser Ge<lb break="no"/>legenheit hatte ich dann neuerdings dezidiert erklärt, daß ich die Forde<lb break="no"/>rungen der Landeshauptleute auf Durchführung von Energiesparmaßnahmen in<lb/>
+der Gewerbeordnung, die im Staatsvertrag jetzt festgelegt ist, für mich<lb/>
+als bindend betrachte, und daher im Parlament vertreten werde. Die Lan<lb break="no"/>deshauptleute waren sich sicherlich der Tatsache bewußt, daß in der Ge<lb break="no"/>werbeordnung eine solche Bestimmung für mich leichter zu verwirklichen ist,<lb/>
+als wenn ich diese ganze Frage immer im Energiesicherungsgesetz, wo ich<lb/>
+eine 2/3-Mehrheit brauche, releviere. Sollten die Landeshauptleute aber<lb/>
+dies nicht bedacht haben, dann ändert das nichts an meiner Taktik, den<lb/>
+Wunsch der Landeshauptleute auf alle Fälle zu erfüllen, weil dadurch erst<lb break="no"/>mals der Teufelskreis der 2/3-Mehrheit, und damit Zustimmung der ÖVP, die<lb/>
+diese aber nicht nur zögernd, sondern wenn es nach ihr geht, mir überhaupt<lb/>
+nicht gibt, bei allen Energiemaßnahmen endlich durchbrochen wird.<lb/>
+</p>
+            <pb n="60-0980" facs="60_1981-08-03_0980.jpg"/>
+            <p xml:space="preserve">Als zweiten wichtigen Punkt berichtete <name type="person" ref="per:97584">Jagoda</name> über die Sistierung der<lb/>
+Richtlinien für Höchstzinsen bei der Bürges. Bis Ende des Jahres werde<lb/>
+1 1/2 % zu den bestehenden, d.h. als Höchstzinsen dann 12 resp. 11 1/4,<lb/>
+akzeptiert.<lb/>
+</p>
+            <p xml:space="preserve">Präs. <name type="person" ref="per:97688">Leberl</name> berichtete über die Vereinbarung mit der BRD über die Her<lb break="no"/>kunftsbezeichnungen. In München ist eine vollkommene Einigung geglückt,<lb/>
+die wichtigsten Wurstsorten und sonstige Artikel können also auch dann,<lb/>
+wenn sie deutscher Herkunft sind, in Österreich verwendet werden. Dies<lb/>
+gilt für Westfälerschinken, Thüringer, Braunschweiger usw. Die einzige<lb/>
+lustige Story dabei ist, daß die Frankfurter gar nicht nach der Stadt<lb/>
+Frankfurt bezeichnet werden. Vor 150 Jahren ist nämlich ein Frankfurter<lb/>
+Fleischermeister in Wien mit diesen Würsten so bekannt geworden, daß man<lb/>
+eben seine Produkte als die vom Frankfurter bezeichnet hat. Übriggeblie<lb break="no"/>ben ist dann im Laufe der Jahre nur mehr der Begriff Frankfurter. Diese<lb/>
+Wurstsorte, die übrigens bei uns eben Frankfurter heißt, heißt in Frank<lb break="no"/>furt Wiener. Wichtig für mich ist nur, daß es jetzt zu einer einvernehmli<lb break="no"/>chen Regelung mit allen Interessenvertretungen in dieser Frage auch ge<lb break="no"/>kommen ist. Alle haben diesem Übereinkommen schon bei den Verhandlungen<lb/>
+zugestimmt, der Streit, der sich eventuell ergeben hätte, hätte ich eine<lb/>
+Anordnung gegeben, unter allen Umständen abzuschließen, ist damit ver<lb break="no"/>hindert worden. Neben Deutschland bestehen jetzt solche Herkunftsbezei<lb break="no"/>chnungen mit Griechenland, Italien, Frankreich, Spanien, Ungarn und der<lb/>
+CSSR. Ich fürchte, daß auch noch andere Länder kommen werden, hätte man<lb/>
+bei meinem Amtsvorgänger mit dieser Aktivität nicht begonnen, hätten wir<lb/>
+uns wahrscheinlich vieles erspart. Brauchen tun wir diese Übereinkommen<lb/>
+wahrscheinlich nicht. Ähnlich verhält es sich übrigens mit den Fremden<lb break="no"/>verkehrsübereinkommen, die unter meiner Ägide begonnen wurden. MR <name type="person" ref="per:97524">Hauffe</name><lb/>
+unter <name type="person" ref="per:97749">Mitterer</name>, MR <name type="person" ref="per:111367">Würzl</name> unter <name type="person" ref="per:97985">Staribacher</name> haben also Aktivitäten, die<lb/>
+insbesondere Auslandsdienstreisen ermöglichen, gefunden, und beide Minister<lb/>
+waren nicht stark genug, dies zu verhindern. Oder haben beim Beginn dieser<lb/>
+Idee nicht sofort entsprechend erkannt, wohin dies führen kann.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte beachte, daß jetzt dies nicht weltweit sich<lb/>
+wie ein Geschwür ausbreitet.<lb/>
+</p>
+            <p xml:space="preserve">Eine Rücksprache mit KR <name type="person" ref="per:123317">Matousek</name> und SC <name type="person" ref="per:111737">Marsch</name> wegen der Stoßstangenpro<lb break="no"/>duktion in Österreich ergab eindeutig, daß die VW-Werke nicht daran den<lb break="no"/>ken, einen anderen Standort als Judenburg zu akzeptieren. <name type="person" ref="per:123317">Matousek</name> erklär<lb break="no"/>te mir dezidiert, er hätte eine einzige Aussprache mit Vöest-Alpine,<lb/>
+<name type="person" ref="per:133641">Kirchweger</name>, gehabt und dort auch diesen Standpunkt dezidiert als die Mei<lb break="no"/>nung Wolfsburgs deponiert. Wir einigten uns darauf, daß SC <name type="person" ref="per:111737">Marsch</name> und<lb/>
+<pb n="60-0981" facs="60_1981-08-03_0981.jpg"/><name type="person" ref="per:123317">Matousek</name> intern zuerst alle Probleme besprechen, bevor endgültig der<lb/>
+Direktion oder gar dem Betriebsrat davon dezidierter Mitteilung gemacht<lb/>
+wird. Der Kampf um die Betriebsstätte innerhalb der Vöest-Alpine und den<lb/>
+VEW wird nämlich noch sehr hart werden.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:111737">MARSCH</name>: Bitte keinerlei Zusagen von seiten des Handelsmi<lb break="no"/>nisteriums machen.<lb/>
+</p>
+            <p xml:space="preserve">Von der Fa. Doppelmayr hat mich Herr <name type="person" ref="per:133642">Nick</name>, der soeben aus Sofia zurück<lb break="no"/>kam, verständigt, daß wegen der Liftanlagen auf <choice><choice><sic>die Wikos</sic><corr>das Witoschagebirge?</corr></choice></choice> große Schwierig<lb break="no"/>keiten bestehen. Sein Eindruck ist, daß die Bulgaren entgegen der Zu<lb break="no"/>sage, die sie mir und anderen gegeben haben, diese Anlage doch bei den<lb/>
+Franzosen bestellen könnten. <name type="person" ref="per:133642">Nick</name> und Herr <name type="person" ref="per:116973">Doppelmayr</name> werden nächste<lb/>
+Woche wieder nach Sofia fahren, sie würden es sehr begrüßen, wenn von<lb/>
+mir ein entsprechendes Kabel an <name type="person" ref="per:116952">Eftimow</name>, Präs. der Fremdenverkehrsfragen,<lb/>
+oder an Vizeministerpräsident <name type="person" ref="per:116937">Lukanow</name> gerichtet wird. Ich habe dies<lb/>
+sofort zugesagt und ersucht, Frau MR <name type="person" ref="per:131763">Pschorn</name> soll mit Herrn <name type="person" ref="per:133642">Nick</name> gemein<lb break="no"/>sam ein solches Fernschreiben abfassen und über die österreichische Bot<lb break="no"/>schaft den beiden Herren zusenden.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Bitte das entsprechende Fernschreiben zeitgerecht<lb/>
+absenden.<lb/>
+</p>
+            <p xml:space="preserve">Von der amerikanischen Botschaft wurde ich kurzfristig verständigt, daß<lb/>
+ein Unterstaatssekretär <name type="person" ref="per:133644">Severance</name> vom Departement of Commerce, wie ich<lb/>
+später erst feststellen konnte, wegen der Kohleexporte<add>[der]</add> USA nach Österreich<lb/>
+mit mir verhandeln will. Dieser Unterstaatsekretär erklärte mir dezidiert,<lb/>
+daß er von der Regierung beauftragt ist, die Kohleexporte in Amerika zu<lb/>
+koordinieren und mit den österreichischen Stellen zu besprechen. Ich<lb/>
+schilderte ihm freimütig unsere Importsituation, da letzten Endes nur die<lb/>
+Firmen, die die Kohle kaufen, endgültige Beschlüsse fassen können und<lb/>
+müssen, und da insbesondere die Repräsentanten dieser Gruppen, GD <name type="person" ref="per:97315">Apfalter</name><lb/>
+für die metallurgische Kohle, GD <name type="person" ref="per:97453">Fremuth</name> für die Stromerzeugungskohle,<lb/>
+darüber entscheiden, habe ich, da <name type="person" ref="per:97315">Apfalter</name> auf Urlaub ist, <name type="person" ref="per:133644">Severance</name><lb/>
+mit <name type="person" ref="per:97453">Fremuth</name> zusammengebracht. Wie mir <name type="person" ref="per:97453">Fremuth</name> nachher mitteilte, war die<lb/>
+Aussprache sehr positiv, die amerikanische Seite bestätigte auch mir,<lb/>
+daß Kohlelieferungen, insbesondere über den Mississippi mit den jetzt dort<lb/>
+im Ausbau befindlichen Hafenanlagen, ohne weiteres nach Europa verschifft<lb/>
+werden könnten. Der Flaschenhals besteht meiner Meinung nach in den Ei<lb break="no"/>senbahntransportmöglichkeiten durch das Kanaltal nach Österreich, wenn<lb/>
+die Kohle entweder in Triest oder in Venedig angelandet wird.<lb/>
+</p>
+            <pb n="60-0982" facs="60_1981-08-03_0982.jpg"/>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Die Energiesektion soll diese Frage und insbe<lb break="no"/>sondere den Kontakt mit Amerika verstärkt beachten.<lb/>
+</p>
+            <p xml:space="preserve">Die AEZ-Diskussion wurde nicht von Herrn <name type="person" ref="per:133645">Löwy</name> durchgeführt, dieser hat<lb/>
+sie nur organisiert, Staatssekretär <name type="person" ref="per:109808">Albrecht</name>, die gerne ihren alten<lb/>
+Kollegen <name type="person" ref="per:133645">Löwy</name> wieder treffen wollte, war sehr enttäuscht. Ein junger<lb/>
+Redakteur, den niemand kannte, hat dann mit Präs. <name type="person" ref="per:97757">Mühlbacher</name> vom FWV,<lb/>
+aber auch mit dem stellvertretenden Sprecher der Ölwirtschaft, GD <name type="person" ref="per:97739">Mieling</name><lb/>
+von Shell, GD <name type="person" ref="per:97337">Bauer</name>, der Sprecher, ist auf Urlaub, und mir über die Preis<lb break="no"/>politik, und ganz besonders die Wünsche der beiden anderen, die amtliche<lb/>
+Preisregelung sozusagen aufzuheben, diskutiert. Quintessenz meiner<lb/>
+Ausführungen war, daß ich viel lieber als das derzeitig bestehende<lb/>
+Preisgesetz eine Rute-ins-Fenster-Lösung möchte. Wie sehr bei dem AZ-Arti<lb break="no"/>kel dies herauskommen wird, weiß ich nicht genau.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Bitte beachte mit <name type="person" ref="per:123301">Vecsei</name>, wie dies läuft. Warum<lb/>
+war <name type="person" ref="per:123301">Vecsei</name> überhaupt nicht dabei?<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="60_0977_01" facs="60_1981-08-03_0977-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 3.8.1981</head>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sonntag, der 29. September 1974</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band22_1974-09-29</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1974-09-29">Sonntag, 29. September 1974</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2017-01-17">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band22/">
+      <body>
+         <pb n="22-1153" facs="22_1974-09-29_1153.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Sonntag, 29. September 1974</p><p xml:space="preserve">Der Freie Wirtschaftsverband hat seine Funktionäre nach Wien zu<lb/>
+einer Veranstaltung, Treffpunkt Wien, geladen. Samstag hatten sie eine<lb/>
+Stadtbesichtigung und am Abend eine Veranstaltung im Raimundtheater<lb/>
+und Sonntag die Hofburg, den großen Kongreßsaal gemietet. Zu meiner<lb/>
+größten Verwunderung war dieser Saal wirklich voll, wobei man aller<lb break="no"/>dings berücksichtigen muß, daß aber auch aus den Bundesländern viele<lb/>
+Autobusse gekommen sind. Spaßhalber meinten Funktionäre des Freien<lb/>
+Wirtschaftsverbandes, wenn schon die Fraktion Sozialistischer Gewerk<lb break="no"/>schafter von Wien den Kongreßsaal anfüllt, dann müßte dies auch dem<lb/>
+Freien Wirtschaftsverband gelingen. Es herrschte eine sehr gute Stimmung,<lb/>
+Verbands-Präsident <name type="person" ref="per:97757">Mühlbacher</name> hielt als Erstes ein ausgezeichnetes<lb/>
+Referat über die Tätigkeit der Bundesregierung für die Gewerbetreibenden.<lb/>
+Außerdem fasste er nachher die zukünftige Arbeit für die nächste Zeit<lb/>
+zusammen und verwies besonders auf die Handelskammerwahlen im Frühjahr hin.<lb/>
+Die Formulierungen waren sehr überlegt, die Angriffe gegen den Wirtschafts<lb break="no"/>bund wirklich feinstes Florett, mit einem Wort, sein bester Vortrag<lb/>
+den ich jemals gehört habe. <name type="person" ref="per:97668">Kreisky</name> selbst ist durch seine Erkrankung<lb/>
+entschuldigt worden, daß er später kommt und es wurde deshalb auch die<lb/>
+Tagesordnung umgestellt. Zuerst sollte <name type="person" ref="per:97668">Kreisky</name> als erstes referieren.<lb/>
+Auch von den Gewerbetreibenden jubelnd begrüßt, hielt er ein sehr langes<lb/>
+Referat. Nur einleitend verwies er darauf, nachdem sein Thema über den<lb/>
+Mittelstand zu sprechen lautete, daß die gesamte Wirtschaftslage für den<lb/>
+Mittelstand von größter Bedeutung sei. Dann beschäftigte er sich mit<lb/>
+der allgemeinen Wirtschaftspolitik, sogar im weltweiten Rahmen, um zum<lb/>
+Schluß nur noch darauf hinzuweisen, was auch diese Regierung für den<lb/>
+kleineren Gewerbebetrieb gemacht hat. Hier verwendete er scheinbar<lb/>
+Zahlen vom Handelsministerium, wobei er mit Recht darauf verwies, daß<lb/>
+wahrscheinlich <name type="person" ref="per:97757">Mühlbacher</name> in seinem Referat dies schon wesentlich<lb/>
+besser erörtert hat. Die Veranstaltung war vielleicht nicht als Wahl<lb break="no"/>auftakt für die Handelskammerwahl gedacht, weil diese erst im nächsten<lb/>
+Frühjahr stattfinden wird, war aber immerhin ein wirklich voller Erfolg<lb/>
+auch für die Funktionäre. Einige Teilnehmer sprachen mich an wegen der<lb/>
+Samstagsperre für Kleinhandel. Sie wollen auch, wie sie sich ausdrücken,<lb/>
+eine 5-Tagewoche. <name type="person" ref="per:97525">Häuser</name> der neben mir saß, meinte, hier treffen sie<lb/>
+sich ausnahmsweise einmal auch mit den Handelsangestellten. Ich selbst<lb/>
+habe ausdrücklich dort auf Fragen erklärt, daß ich mir eine baldige<lb/>
+Lösung dieses überaus schwierigen Problemes nicht vorstellen kann.<lb/>
+Zu <name type="person" ref="per:97525">Häuser</name> sagte ich, jetzt habe ich dieses Problem erfolgreich 4 Jahre<lb/>
+<pb n="22-1154" facs="22_1974-09-29_1154.jpg"/>geschoben, dies muß mir auch das fünfte Jahr noch gelingen.</p><p xml:space="preserve">Die Beteiligung bei der Arbeiterkammerwahl am Sonntag war wie erwartet.<lb/>
+Ich war glaube ich in unseren Wahlsprengel, wo die Sekretärinnen und<lb/>
+Angestellten der Lebensmittelarbeiter Beisitzer resp. Wahlleiter sind,<lb/>
+der Zwanzigste. Obwohl ich erst Mittags und gar nicht schon in der Frühe<lb/>
+wählen ging. Ich bin für die Wahl verhältnismäßig sehr skeptisch, weil für<lb/>
+mich als Außenstehenden ein verhältnismäßig flauer Wahlkampf geführt<lb/>
+wurde. Allerdings kann ich nicht beurteilen, ob in den früheren Wahl<lb break="no"/>auseinandersetzungen insbesondere so lange ich dafür verantwortlich war,<lb/>
+tatsächlich mehr geschehen ist. 69 hatten wir ja eine einmalig gute<lb/>
+Situation, weil sich eben die Sozialistische Partei in Opposition befand<lb/>
+und daher auch dieser Wahlkampf damals von einer guten Basis aus geführt<lb/>
+werden konnte. Heuer ist es leider so, daß die Arbeiterkammerwahlen im<lb/>
+Zeichen einer zwar vielleicht erfolgreichen sozialistischen Regierung,<lb/>
+aber immerhin nach ganz anderen Gesichtspunkten hätten geführt werden<lb/>
+müssen als 69. Ob dies geglückt ist, ob tatsächlich die Arbeiter dies<lb/>
+anerkennen, weiß ich noch nicht. Montag abends werden wir es wissen.</p></div>
+      </body>
+      <back>
+         <pb n="22_1152_01" facs="22_1974-09-29_1152-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 29.9.1974</head>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+   </text>
+</TEI>

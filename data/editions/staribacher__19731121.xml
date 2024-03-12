@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittwoch, der 21. November 1973</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band18_1973-11-21</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1973-11-21">Mittwoch, 21. November 1973</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-09-26">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band18/">
+      <body>
+         <pb n="18-1300" facs="18_1973-11-21_1300.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Mittwoch, 21. November 1973</p><p xml:space="preserve">Die Verhandlungen im Budgetausschuß über das Kapitel Handel<lb/>
+war die kürzeste, die ich je erlebte. Die ÖVP hat als neue<lb/>
+Taktik die ganze Anzahl von Fragen über die Beförderung, Be<lb break="no"/>setzung, beabsichgivten Dienstpostenänderungen usw. schriftlich<lb/>
+jeden Minister sofort ausgehändigt und erwarte, daß die Fragen<lb/>
+auch schriftlich beantwortet wrden. Damit will sie sich Ver<lb break="no"/>gleiche schaffen und dem Plenum dann entsprechende Attacken<lb/>
+zu reiten. Da mich Amtsdirektor <name type="person" ref="per:137484">Schütz</name> früher schon auf diese<lb/>
+Methode 1 aufmerksam gemacht hatte, wollte ich vorerst, daß er<lb/>
+mir die Unterlagen schon so weit vorbereitet, daß ich Antlwrten<lb/>
+geben könnte. Dies würde erst zeigen, daß ich bim Stande bin<lb/>
+sofort auch auf detaillierte Fragen zu antworten, was aber noch<lb/>
+wichtiger wäre, die ÖVP hätte dann die Notwendigkeit, selbst<lb/>
+mitzuschreiben und wäre außerstande, die Details wahrscheinlich<lb/>
+aufzunehmen. <name type="person" ref="per:137484">Schütz</name> erklärte aber, daß er dies Antworten so<lb/>
+schnell gar nicht zur Verfügung stellen könne. <name type="person" ref="per:97749">Mitterer</name> begann<lb/>
+die Debatte mit seiner alten Frage, wie weit ich noch immer für<lb/>
+das Wirtschaftswachstum bin und ob ich noch immer auf dem Stand<lb break="no"/>punkt stehe, daß unser Handelsbilanzdefizit unbedenklich ist,<lb/>
+mehr in die Breite. <name type="person" ref="per:112996">Staudinger</name> erschien bei mir, flüsterte mir<lb/>
+zu, dies sei eine Ausnahme, <name type="person" ref="per:97749">Mitterer</name> hätte entgegen ihrer Ab<lb break="no"/>sprache sich mehr vertieft als beabsichtigt sei. Tatsächlich<lb/>
+haben dann alle .anderen Abgeordneten inkl. <name type="person" ref="per:97893">Sallinger</name>, der<lb/>
+später erschien und nur wegen Fremdenverkehr einige Fragen<lb/>
+stellte und erwartet, daß die Bürges jetzt endlich die Kredit<lb break="no"/>aktionen nach Wunsch der Handelskammer ausdehnt, sich auch<lb/>
+sehr kurz gefaßt. Ebenos knapp die Beantwortung und einige <choice><choice><sic>Gecks</sic><corr>Gags</corr></choice></choice><lb/>
+an die 10 Anfrage nicht nur zufriedengestellt sondern es herrschte<lb/>
+auch ein ausgesprochen gutes Klima. Wie dies übrigens bis jetzt<lb/>
+noch bei djedem Ausschuß und bei jeder Materie war, die von<lb/>
+mir behandelt wurde. In der Rekordzeit von 2 1/2 Stunden war<lb/>
+die Debatte zu Ende.</p><pb n="18-1301" facs="18_1973-11-21_1301.jpg"/><p xml:space="preserve">Im Parteivorstand, <name type="person" ref="per:97668">Kreisky</name> war noch immer krank, berichtete<lb/>
+<name type="person" ref="per:98066">Weisz</name> und ich hörte den ersten Teil ebenfalls über dei Budget<lb break="no"/>diskussion und meinte, sie war die flauste, die er je erlebt<lb/>
+hat, Tatsächlich ist von den angekündigten heißen Herbst nicht<lb/>
+zu bemerken. Die ÖVP versucht nun und scheinbar steigen Zeitungen<lb/>
+darauf ein, daß sie keine Angriffe starten kann die große Ver<lb break="no"/>antwortungsbewußte Opposition zu spielen, die in der Krisen<lb break="no"/>situation in der sich Österreich jetzt befindet, eben nicht<lb/>
+attackiert, sondern verantwortungsbewußt verhandelt.über Be<lb break="no"/>vorratung usw. Er müßte eigentlich <name type="person" ref="per:97668">Kreisky</name> jetzt mit seiner<lb/>
+Taktik einsetzen um der Öffentlichkeit zu zeigen, daß die<lb/>
+ÖVP gar nicht im Stande ist, wirklich zu attackieren. In meinen<lb/>
+Augen ist ja die Tatsache, daß sie jetzt ununterbrochen wieder<lb/>
+Gemeinsamkeiten suchen die unabhängige Preise jetzt von den<lb/>
+Koalititonsgedanken erfüllt ist nur ein Ausfluss ihrer Unfähigkeit.<lb/>
+Die Oppositionsrolle und ihre Funktionsrolle wirklich wahrzu<lb break="no"/>nehmen. Oppositioneller Kanzler habe ich das Gefühl spielt<lb/>
+sich mehr intern zwischen den Bünden ab, als wie gegen die SPÖ<lb/>
+im Parlament. Das mir persönlich diese Entwicklung sehr behagt<lb/>
+bestreite ich var nicht, weil ich ja die ganze Zeit schon auf<lb/>
+Zusammenarbeit in jeder Beziehung in meiner Kompetenz hinge<lb break="no"/>arbeitet habe und damit glaube ich auch gute Erfolge erzielte.</p><p xml:space="preserve">Im Parteivorstand verlangte auch <name type="person" ref="per:98043">Waldbrunner</name>, daß ich noch einen<lb/>
+Bericht über die Ölsituation und Bevorratung gebe. <name type="person" ref="per:97879">Rösch</name> war<lb/>
+unglücklich, da er angenommen hat, er müßte über dieses Problem<lb/>
+referieren. <name type="person" ref="per:97879">Rösch</name> hatte menen Ministerratsvortrag über die Maß<lb break="no"/>nahmen die zu ergreifen sind, im nö. Parteivorstand kurz be<lb break="no"/>richtet und <name type="person" ref="per:97727">Fritz Marsch</name> hat in deshalb ersicht, nachdem er<lb/>
+angenommen hat, ich könnte infolge der Budgetdebatte nicht im<lb/>
+Parteivorstand erscheinen, ihm ebenfalls ersucht, er möge im<lb/>
+Parteivorstand dasselbe Referat wiederholen. Dabei verstand man<lb/>
+meine Ausführungen zur Kenntnisn und in der Diskussion hat nur<lb/>
+<name type="person" ref="per:98043">Waldbrunner</name> gemeint es wäre zweckmäßig, wenn man die Funktionäre<lb/>
+der Partei über die Fragen informiert. <name type="person" ref="per:97727">Marsch</name> wies darauf hin,<lb/>
+daß für die .... eine Information vorbereitet sei. Als diese<lb/>
+ausgedruckt war, hat er sie mir gezeigt, ich habe<lb/>
+<pb n="18-1302" facs="18_1973-11-21_1302.jpg"/>einige Fehler darin entdekct, wie z. B. behauptet er, daß<lb/>
+wir zu 36 % unseren Rohölbedarf und Rohölprodukte aus eigenen<lb/>
+fordern und decken können, in Wirklichkeit sind es nicht einmal<lb/>
+ganz 25 % u d auch noch sonstige Behauptungen, die sonst nicht<lb/>
+stimmen, doch war er froh, daß die Information im Grunde genommen<lb/>
+nicht vollkommen falsch ist, wie dies bei den letzten von den<lb/>
+Ländern nicht weitervertreiteten Informationsblatt gegen die<lb/>
+unabhängige Presse, die <name type="person" ref="per:97668">Kreisky</name> stürzen will, der Fall.war.</p><p xml:space="preserve">Anmerkung für <name type="person" ref="per:98053">WANKE</name><lb/>
+Diese polemische Flugblatt enthebt uns nicht der Aufgabe, Vor<lb break="no"/>arbeiten für ein Weiss-Buch gewissenhaftst v fortzusetzen.</p><p xml:space="preserve">Staatssekretär <name type="person" ref="per:147378">Montassa</name> von Libyen und der lib. Botschafter<lb/>
+sowie <name type="person" ref="per:97671">Kreutler</name>, <name type="person" ref="per:97337">Bauer</name>, ein dritter Mann der ÖMV, <name type="person" ref="per:97426">Fälbl</name> und <name type="person" ref="per:97543">Heindl</name><lb/>
+mein Mittagessen im Rathauskeller von mir gegeben, von der<lb/>
+ÖMV bezahlt. Die ÖMV versucht jetzt mit Libyen nicht nur<lb/>
+größere Öllieferungen zu vereinbaren, sondern auch gegebenen<lb break="no"/>falls eine Raffinerie entweder in Österreich oder einem anderen<lb/>
+Land zu errichten. Es ist auch wahrscheinlich der tiefere Grund,<lb/>
+warum sie sich so gegen eine gemeinsame Raffinerie gegen den<lb/>
+Iran, welche von <name type="person" ref="per:97470">Geist</name> beabsichtigt ist, auspricht. Da ich kon<lb break="no"/>kret mit diesem Problem noch nicht beschäftigt bin und die<lb/>
+Absicht aus Bemerkungen die <name type="person" ref="per:97671">Kreutler</name> und <name type="person" ref="per:97337">Bauer</name> gege über <name type="person" ref="per:147378">Montassa</name><lb/>
+machten, brauche ich noch nicht endgültig dazu Stellung nehemen.<lb/>
+Im G und genommen aber bezweifle ich, ob diese Politik sehr<lb/>
+zielführend ist. ........ hat den neuunterzeichneten irak. Ver<lb break="no"/>trag und auch eine Übersetzung des marok. ns englische mitge<lb break="no"/>bracht und ich habe sie <name type="person" ref="per:147378">Montassa</name> überreicht und erklärt, auf<lb/>
+einer ähnlichen Basisi könnten wir in kürzester Frist, wenn<lb/>
+Libyen es wünscht, einen Wirtschaftsvertrag über techn. und<lb/>
+wirtschaftl. Zusammenarbeit erstellen. Der Botschafter wird<lb/>
+mit <name type="person" ref="per:97426">Fälbl</name> über die Details Besprechungen führen.</p><p xml:space="preserve">In Genf nützte ich die Gelegenheit, um unsere Mission zu be<lb break="no"/>suchen und um mich mit den Kolleginnen und Kollegen dort kurz<lb/>
+zu unterhalten. Dabei konnte ich feststellen, daß meistens<lb/>
+<pb n="18-1303" facs="18_1973-11-21_1303.jpg"/>junge Kräfte dort eingesetzt sind. Die Sekretärinnen, erst<lb/>
+einige Monate, manche max. bis 1 Jahr oder 1 1/2 Jahre tätig.<lb/>
+<name type="person" ref="per:135642">Leitner</name> <add>[evtl. Falschidentifikation, Anm.]</add> teilte mir mit, es war nicht eine Beschwerde,,sondern<lb/>
+eine Feststellung, daß sie fast kein Pouvoir haben und deshalb<lb/>
+auf Vorschläge z. B. im Rahmen der Sicherheitskonferenz, wo<lb/>
+sich die Weisung nur rezeptiv zuverhalten haben, nicht ent<lb break="no"/>scheidend genug schnell eingehen können. Das Endergebnis ist,<lb/>
+daß bei allen diesen Verhandlungen auf internat. Ebene Österreich<lb/>
+für Zugeständnisse, die es dann letzten Endesmacht, nicht ein<lb/>
+tauschen kannn. Diese Bürokratie in Österreich sich letzten Endes<lb/>
+zu irgendeiner Idee pos. äußert, hat ein anderer Staat diese be<lb break="no"/>reits aufgegriffen, den anfordenden irgend etwas gegeben und seine<lb/>
+eigenen Interesse dabei durch gesetzt. Österreich kommt mit<lb/>
+den Zugeständnissen immer zu spät.</p><p xml:space="preserve">Beim Empfang und dann insbesondere bem Abendessen der Minister<lb/>
+mit je zwei Mitarbeitern, mich begleitete <name type="person" ref="per:137454">Martins</name> und <name type="person" ref="per:146254">Eiger</name><lb/>
+konnte ich mit <name type="person" ref="per:97433">Feldt</name>, Schweden und <name type="person" ref="per:97636">Kleppe</name>, der zwar Finanzminister<lb/>
+ist aber den Aussenhandelsminister diesmal vertrat, über die<lb/>
+Stellung der nord. Staaten und Spanienproblem eingehender be<lb break="no"/>sprechen. Beide erklärten übereinstimmend, daß sie eine Lösung<lb/>
+mit Spanien wünschen, aber nicht daß EFTA hier off. ein Assozi<lb break="no"/>ierungsabkommen abschließen sollte. Irg und .... wäre im Rahmen<lb/>
+der EFTA mit Spanien verhandelt wird, aber bilaterale Verträge<lb/>
+dann der einzelnene Staaten mit Spanien abgeschlossen werden.<lb/>
+Dieses Modell ist ähnlich der EWG , wo <choice><choice><sic>wir</sic><corr>[oder?] die EFTA-Staaten</corr></choice></choice> ebenfalls bilaterale<lb/>
+Verhandlungen und Abschlüsse getätigt haben. Nach dem Essen beim<lb/>
+Kaffee referierte GenSekr <name type="person" ref="per:97853">Rabaeus</name> überseine Besprechungen mit den<lb/>
+span. Vertretern und <name type="person" ref="per:97433">Feldt</name> fragte dann offiziell, wer was dazu<lb/>
+zu sagen hat. Ich selbst stellte nur fest, daßwir innterhalb<lb/>
+der österr. Regierung über dieses Problem noch beraten müssen<lb/>
+und wir d nicht beabsichtigen, über unsere starke Gewerkschaft,<lb/>
+die sich gegen einen Beitritt Spaniens ganz entschieden aus<lb break="no"/>spricht entscheiden. Die nordischen Länder wünschen ebenfalls<lb/>
+nur eine wirtschaftliche FLösung, eben wie sie <name type="person" ref="per:97433">Feldt</name> mir vorher<lb/>
+schon geschilde t hat und übrigens <name type="person" ref="per:97853">Rabaeus</name> mir dann als sein<lb/>
+letztes Modell auch bestätigte und <name type="person" ref="per:97433">Feldt</name> hat festgehalten, daß<lb/>
+<name type="person" ref="per:97853">Rabaeus</name> kein Mandat bekommen könnte zu verhandeln, sondern nur<lb/>
+<pb n="18-1304" facs="18_1973-11-21_1304.jpg"/><choice><choice><sic>explauratoriteux</sic><corr>?</corr></choice></choice> fortzusetzen. Im übrigen war die Besprechung<lb/>
+nicht allzu ergibig, weil man sich natürlich primär über<lb/>
+die Ölsituation unterhielt. <name type="person" ref="per:97375">Brugger</name> selbst konnte gar nicht<lb/>
+daran teilnehmen, da er noch in Bern Verhandlungen führen<lb/>
+mußte, über Einführung des Sonntagsfahrverbotes und<lb/>
+Kontingentierungsmaßnahmen, wir sogar die Sitzung später be<lb break="no"/>gannen um im Fernsehen ev. <name type="person" ref="per:97375">Brugger</name> zu lauschen.</p></div>
+      </body>
+      <back>
+         <pb n="18_1299_05" facs="18_1973-11-21_1299-05.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 21.11.1973</head>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+   </text>
+</TEI>

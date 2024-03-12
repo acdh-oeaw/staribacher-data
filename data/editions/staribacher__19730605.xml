@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstag, der  5. Juni 1973</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band16_1973-06-05</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1973-06-05">Dienstag, 5. Juni 1973</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-10-03">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band16/">
+      <body>
+         <pb n="16-0665" facs="16_1973-06-05_0665.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Dienstag, 5. Juni 1973</p><p xml:space="preserve">In der Ministerratsvorbesprechung hat Häuser den Vorsitz geführt,<lb/>
+da <name type="person" ref="per:97668">Kreisky</name> in Paris war. <name type="person" ref="per:97311">Androsch</name> erörterte seinen Budgetentwurf 1974<lb/>
+er will das Budget dreiteilen. Ein sogenanntes Basisbudget, damit<lb/>
+nicht wie heuer von einem Normalbudget dann entsprechende Bindungen<lb/>
+die letzten Endes in Kürzungen umgewandelt werden, wieder zu haben.<lb/>
+Dies entspricht ungefähr dem heurigen Budget, erhöht durch die ge<lb break="no"/>setzlichen VErpflichtungen. Mit dieser Methode, ist es überzeugt,<lb/>
+kann die ÖVP ihn nicht mehr wegen Budgetexpansion kritisieren. Ein<lb/>
+zweites, sogenanntes Stabilisierungsbudget in der Höhe von 4 – 5 Mia 3<lb/>
+soll dann dazu dienen, die notwendigen Aufstockungen des heurigen<lb/>
+Budgets durchführen zu könnnen. Dies gilt insbesondere für sogenannte<lb/>
+Ermessenskredite. Dieses Budget sollte dann in Kraft gesetzt werden,<lb/>
+wenn die Stabilisierung erfolgreich ist und die ÖVP selbst verlangt,<lb/>
+dass eine entsprechende Ausweitung einzelner Budgetposten erfolgt.<lb/>
+Damit will <name type="person" ref="per:97311">Androsch</name> erreichen, dass die Opposition Farbe bekennen<lb/>
+muss. WEnn sie einzelne Budgetposten oder Aktionen aufgestockt<lb/>
+haben will oder vielleicht wie dies im Handelsministerium schon<lb/>
+einige Male gefordert wurde, die Bürges-Aktion z.B. fortgesetzt und<lb/>
+verbessert werden soll, dann müsste hier eine entsprechende Budget<lb break="no"/>aufstockung erfolgen. Als drittes wird ein Konjunktur-Ausgleichsbudget,<lb/>
+wie wir es seit Jahren erstellen und und es eigentlich nie zum Tragen<lb/>
+komm,t weil eben die konjunkturelle Situation solche Budgetausweitungen<lb/>
+die auf dem Prinzip des Defizitsspendings beruhen, gar nicht benötigt<lb/>
+wurden und sicherlich auch 1974 nicht benötigt wird. <name type="person" ref="per:97525">Häuser</name> meinte,<lb/>
+dass die Einnahmen für das Jahr 1974 äusserst vorsichtig von <name type="person" ref="per:97311">Androsch</name><lb/>
+geschätzt wurden und damit er sich der Gefahr aussetzt, dass die<lb/>
+Opposition sagt, er hat manipuliert. <name type="person" ref="per:97442">Firnberg</name> meldete auch für den<lb/>
+abwesenden Unterrichtsminister an, dass sie ausserstande ist, ihre<lb/>
+Ermessenskredite auf ein derartiges drastisches Mass im Basisbudget<lb/>
+zu reduzieren. <name type="person" ref="per:97372">Broda</name> erklärte sich mit dieser Dreiteliung einverstanden<lb/>
+meinte nur, dass wenn ein Ministerium Ausnahmen verlangt, er natürlich<lb/>
+dann auch für sein Ressort dringend benötigt. <name type="person" ref="per:97755">Moser</name> meinte, dass die<lb/>
+angefangenen Bauten unbedingt fortgesetzt werden müssen, ud ddeshalb<lb/>
+in seiner Budgetgebarung daraf Rücksicht genommen werden muss. Neu<lb break="no"/>bauten könnten 1974 dann überhauot keine mehr angefangen werden. Da<lb/>
+aber alle über die politische Notwendigkeit der ÖVP die Kritikmög<lb break="no"/>lichkeit zu nehmen, gab es keine weitere Diskussion sondern wurde im<lb/>
+Prinzip der VOrschlag <name type="person" ref="per:97311">Androsch's</name> akzeptiert. <name type="person" ref="per:97311">Androsch</name> wollte dann<lb/>
+<pb n="16-0666" facs="16_1973-06-05_0666.jpg"/>auch noch, dass über die Dienstpostenpläne eine weitere REduzierung<lb/>
+erfolgen sollte. Nachdem 5 – 6.000 jährlich in Pension gehen müsste<lb/>
+es seiner Meinung nach gelingen, einige Hunderte zu ersparen. Da<lb/>
+die Unterrichts- und Wissenschaftsverwaltung wieder um 2.000 Dienstposten<lb/>
+mehr velrangt, kommt es automatisch zu einer weiteren Aufblähung des<lb/>
+Beamtenapparates, Wenn keine Einsparung in anderen Ressorts erfolgen.<lb/>
+Die Überlegung, ob der Finanzminister ermächtigt werden sollte, oder<lb/>
+das Parlament dieses Stabilisierungsbudget beschliessen müsse,<lb/>
+wurde slebst von <name type="person" ref="per:97311">Androsch</name> vorgeschlagen, sollte nur das Parlament<lb/>
+machen um eben die ÖVP auch entsprechend zu binden, Wenn das Stabili<lb break="no"/>sierungsbudget mit den ca. 5 Mia S zusätzlich in Kraft gesetzt werden<lb/>
+soll.</p><p xml:space="preserve">Ausser einigen Minister-Auslandsreisen – scheinbar nützte viele die<lb/>
+Gegelnehti der Abwesenheit <name type="person" ref="per:97668">Kreiskys</name> gab es im Ministerrat keine<lb/>
+besonderen Probleme. <name type="person" ref="per:97311">Androsch</name> berichtete über seinen Besuch in Ungarn,<lb/>
+wo er mit dem Finanzminister vereinbart hat, dass die ungarischen Wün<lb break="no"/>sche bezüglich der Zollermässigungen für Kooperationen und sonstige<lb/>
+Kreditoperationen in Kürze uns schriftlich werden übermittelt werden.<lb/>
+Die einzelnen dann davon betroffenen Ressorts sollen sich dann mit<lb/>
+den Wünschen der Ungarn beschftigen, um eventuelle positive Erledigungen<lb/>
+zu erzielen.</p><p xml:space="preserve">Nicht zuletzt, um unser Auslandsbudget nicht zusehr zu belasten, aber<lb/>
+acuh um nicht eine ganze REiehe von Auslandsreisen in dennnächsten<lb/>
+Monaten starten zu müssen, hatte ich <name type="person" ref="per:97375">Brugger</name> angerufen und mich entschul<lb break="no"/>digt, dass ich heuer aus finanziellen aber auch aus zeitmässigen Gründen<lb/>
+seine schon angenommene Einladung in die Schweiz, bitte zu verschieben.<lb/>
+<name type="person" ref="per:97375">Brugger</name> hatte dafür volles VErständnis. Bei dieser Gelegenheit er<lb break="no"/>suchte ich ihn, mir auch über die ERfolge der Schweizerischen Preis<lb break="no"/>politik eine Unterlage zuzustellen. Die Schweiz hat drie Phasen<lb/>
+unterschieden. In der ersten ging es darum, vor ungeähr einem halben<lb/>
+Jahr, INformationen über die Preissituation zu erarbeiten. In der zwei-.<lb/>
+ten Phase wurden die Grundsätze einer Preispolitik festgelegt und in<lb/>
+der drittenPhase, die jetzt eingetreten ist, wurden einzelne Preiserhöhun<lb break="no"/>gen wie z.B. Die Benzinpreiserhöhung vom Bundesrat rückgängig gemacht.<lb/>
+Als nächstes sollen jetzt die Restaurationspreise in Angriff genommen<lb/>
+werden. Da diese dringlichen Massnahmen auf Grund eines Beschlusses<lb/>
+dem Bundesrat die Möglichkeit geben, Preisbestimmungen zu erlassen,<lb/>
+muss aber die einzelnen Massnahmen bis zum Jahresende eine Bestätigung<lb/>
+durch das Volk erfahren. Wenn die Schweizer Bürger sich dann dagegen<lb/>
+<pb n="16-0667" facs="16_1973-06-05_0667.jpg"/>aussprechen, kann im nächstenhakben Jahr dann noch die Preisregelung<lb/>
+aufrechterhalten werdne, muss abe dann automatisch auslaufen. <name type="person" ref="per:97375">Brugger</name><lb/>
+macht sich deshalb grosse Sorgen, wie sie unter soclhen BEdinungen<lb/>
+die Preisentwicklung in den GRiff beommen können. Er versprach mit<lb/>
+entsprechendes detailliertes Material zu schicken.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97469">GEHART</name>: Ich glaube, wir sollten uns von der österr.<lb/>
+Botschaft in Bern detailiierte BErichte konti<lb break="no"/>nuierlich über diese Preissituation und die Mass<lb break="no"/>nahmen,die dagegen getroffen werden, schicken<lb/>
+lassen. Überlege bitte auch, ob wir nicht<lb/>
+in allen europäischen Staaten, wo die Preisent<lb break="no"/>wicklung eine Rolle spielt und die mit Öster<lb break="no"/>reich einigermassen vergleichbar sind, solche<lb/>
+ständige Informationen von der Botschaft ver<lb break="no"/>langen sollten.</p><p xml:space="preserve">Beimder Sektionsleitersitzung war das erste Mal Dr. <name type="person" ref="per:98040">Wais</name> anwesend<lb/>
+und ich habe sofort bemerkt, wie die einzelnen, inbesondere Präs.<lb/>
+<name type="person" ref="per:98012">Tahler</name>, Sekt.Chef <name type="person" ref="per:107939">Römer</name> tuschelten, wer dies eigentlich sei. Ich<lb/>
+habe deshalb <name type="person" ref="per:98040">Wais</name> bei BEginn sofort als Nachfolger <name type="person" ref="per:97646">Koppes</name> vorge<lb break="no"/>stellt, der bis jetzt als Beamter in der Abteilung 10 Konsumenten<lb break="no"/>fragen behandelt hat und der jetzt im Sekretariat arbeitet. Ich<lb/>
+glaube, dass <name type="person" ref="per:98040">Wais</name> damit einen guten Status für die einezlen Sektionen<lb/>
+bekommen hat. Interessant bei der Sektionsleitersitzung war primär,<lb/>
+dass <name type="person" ref="per:97915">Schipper</name> neierdings darauf hinwies, dass wir unsere Budgetposten<lb/>
+Inlandsreisen um ca. 50.000.- S Repräsentation um annähernd denselben<lb/>
+BEtrag und ganz besonders Auslandsreisen um 270.000 S bereits jetzt<lb/>
+überschritten haben, wenn man den aliquoten Teil rechnet. <name type="person" ref="per:97915">Schipper</name> er<lb break="no"/>klärte rundweg, da er weiss, dass ich kein BÜG beantragen werde,<lb/>
+dass rigoros gespart werden muss. <name type="person" ref="per:97801">Ottahal</name> hat dann einige BEispiele<lb/>
+erzählt. Z.B. ist <name type="person" ref="per:114472">Giglinger</name> nach Salzburg gefahrne um bei der Häute-<lb/>
+Aktion anwesend zu sein. Die Sektion III und insbesondere <name type="person" ref="per:97493">Gröger</name><lb/>
+behauptet, dass <name type="person" ref="per:114472">Giglinger</name> durch seine Anwesenheit dort den Hautpreis-<lb/>
+entsprechend drückt, indem er Exportsperren androht. Ich bin zwar n<lb/>
+nicht überzeugt, dass damit die Häute-Verkäufer sich wirklich beein<lb break="no"/>drucken lassen, sondern ebn ganz einfach nach Abgebot und Nachfrage<lb/>
+die optimalste Preiserhöhung für sich in Anspruch nehmen. Besonders<lb/>
+beanständtet hat <name type="person" ref="per:97801">Ottahal</name>, dass <name type="person" ref="per:113626">Ortmann</name> mit seinem Privatwagen, der<lb/>
+ein scheinbar sehr gorsses Auto ist, mit dem Kilometergeld, das er<lb/>
+jetzt bei der KOntrolle der Komfortzimmeraktion verrechnen würde,<lb/>
+tausende Schilling bekommen würde. Hiermeint <name type="person" ref="per:97801">Ottahal</name>, da wäre es<lb/>
+zielführender, dass er mit einem Dienstwagen diese Reise unternimmt,<lb/>
+wenn sie überhaupt notwendig ist. Ich selbst bin auch der Meinung,<lb/>
+<pb n="16-0668" facs="16_1973-06-05_0668.jpg"/>dass für diese blöde KOntrolle der Komfortzimmeraktion nicht ein Beamter<lb/>
+in ganz Österreich herumreisen muss. Hier könnte und sollte man die BH<lb/>
+beauftragen, entsprechende KOntrollen durchzuführen. <name type="person" ref="per:97915">Schipper</name> liess<lb/>
+ankligen, dass wir deshalb in der Zeitung und sogar in der Gastgewerbe<lb break="no"/>zeitung hart attackiert wurden, weil wir diese KOntrollen bis jetzt<lb/>
+nicht durchgeführt haben, weil <name type="person" ref="per:113626">Ortmann</name> selbst diesen Artikel initiiert<lb/>
+haben soll. Ich habe sowohl <name type="person" ref="per:97915">Schipper</name> als auch <name type="person" ref="per:97801">Ottahal</name> nicht nur er<lb break="no"/>mächtigt, sondern auch ersucht, rigorosest in Hinkunft alle Repräsen<lb break="no"/>tation und Auslandsreisen auch.die inländischen Reisen zu kürzen damit<lb/>
+wir auf alle Fälle mit den Budgetansätzen durchkommen.</p><p xml:space="preserve"><name type="person" ref="per:108322">Meisl</name> erzählte mir dann bei dem Empfang in der italienischen Botschaft,<lb/>
+dass er annimmt, dass hier auf diese Art und WEise die Aktivitäten de<lb/>
+Handelsministeriums eingeschränkt werden sollen, um damit den Vorwurf,<lb/>
+dass das Ministerium nichts mehr macht, aufbauen zu können. Er selbst<lb/>
+hat nämlich in seiner Sektion die Auslandsreisen wesentlich und<lb/>
+drastisch reduziert. ICh glaube zwar nicht, dass man über diese ZIffern,<lb/>
+wenn sie im Detail überprüft werden, verscheiedener Meinung sein kann,<lb/>
+eine Aufgliederung nach Sektionen erscheint zweckmässig, doch wird<lb/>
+<name type="person" ref="per:97915">Schipper</name> sicher recht haben, dass in Summe gesehen, eben dieser MEhr<lb break="no"/>aufwand entstanden ist.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Bitte lass entsprechende Aufstellungen sektionswei<lb break="no"/>se machen. Im Vergleich zu Vorjahr oder zu einem<lb/>
+zweiten VErgleichsjahr.</p><p xml:space="preserve">Der Verfassungsausschuss, d.h. eigentlich der Unterausschuss, der sich<lb/>
+mit dem Kompetenzgesetz beschäftigt, hat lale Minister vorgeladen, um<lb/>
+über die Kompetenzabgrenzung zu diskutieren. Bei mir wurde insbesondere<lb/>
+von <name type="person" ref="per:110924">Prader</name> verlangt dass die wirtschaftliche Landesverteidigung ausdrück<lb break="no"/>lich in meinem Ressort kompetenzmässig anzuführen sei. Ebenso wurde<lb/>
+verlangt, dass die Strassenkompetenz, was den Werkverkehr betrifft,<lb/>
+als Ausfluss des Gewerberechtes unbedingt im Handelsministerium ver<lb break="no"/>bleiben sollte. Die Preisregelung wurde ebenso beanständet, dass in<lb/>
+Hinkunft alles im Handelsministerium konzentriert werden soll. Dabei<lb/>
+hat mir <name type="person" ref="per:98055">Weihs</name> geflüstert, dass der Unterausschuss bereits beschlossen<lb/>
+hat dass die pharmazeutischen Produkte nach wie vor im Gesundheits<lb break="no"/>ministerium preisgeregelt werden sollen. Ich war naürlich mit dieser<lb/>
+Regelung sofort einverstqannden und habe überhaupt darauf hingewiesen,<lb/>
+dass sich kein Minister um die Kompetenz der Preisbildung reisst.<lb/>
+Jeder weiss, dass damit keine LOrbeeren zu holen sind, sondern dass<lb/>
+ganz im Gegenteil er mehr oder minder in der Kritikdes Parlaments undder<lb/>
+<pb n="16-0669" facs="16_1973-06-05_0669.jpg"/>Öffentlichkeit stehen wird. Da der Wunsch aber auch den Landwirt<lb break="no"/>schaftssektor auszunehmen, wird wahrscheinlich nicht REchnung ge<lb break="no"/>tragen werden. Natürlich ist der Opposition auch aufgefallen, dass<lb/>
+in der Kompetenzabgrenzung zwischen Finanzministerium, Wirtschafts<lb break="no"/>politik und Handelsministerium keine genaue Definition vorliegt.<lb/>
+Im Finanzressort steht ausdrücklich, dass er für die Wirtschaftspolitik<lb/>
+soweit sie nicht von anderen Ministerien wahrgenommen wird, zuständig<lb/>
+ist. Der Verfassungsdienst hat nun übernommne, eine Formulierung zu<lb/>
+finden, wo eine bessere Abgrenzung zum Handelsressort erfolgen soll.<lb/>
+<name type="person" ref="per:108328">Bahr</name> hätte am liebsten, er war als Verfassungsdienstmann<lb/>
+scheinbar bei den ganzen VErhandlungen anwesend, die Überschrift<lb/>
+Wirtschaftspolitik im Handelsministerium gestrichen und nur darauf hin<lb break="no"/>gewiesen, dass dort im UNtertitel steht, insbesondere Handels, Gewerbe<lb/>
+Industrie und Fremdenverkehrspolitik. Diese insbesondere-Definition<lb/>
+möchte er als alleinige Post in unseren Kompetenzkatalog aufnehmen.<lb/>
+Da dieses Gspräch nach der Sitzung stattgefunden hat, habe ich ihm aus<lb break="no"/>einandergesetzt, dass damit die wirtschaftliche Kompetenz vom Handels<lb break="no"/>ministerium wegfallen würde. Ich verlangte, dass er diesen VOrschlag<lb/>
+unbedingt dem Bundeskanzler zur Entscheidung vorlegen muss, bevor er<lb/>
+eine diesbezügliche Formulierung dem Klub, der ihn aufgefordert hat,<lb/>
+eine solche Abgrenzung vorzulegen, unterbreitet. <name type="person" ref="per:97584">Jagoda</name> meint, dass<lb/>
+mit dieser Aufzählung der spezfisichen Wirtschaftspolitik, nämlich<lb/>
+Handel, Gewerbe, Industrie und Fremdenverkehr, vollkommen das Auslangen<lb/>
+gefunden werden kann. INeressant war, dass <name type="person" ref="per:97311">Androsch</name> nicht vor dem<lb/>
+Unterausschuss erscheinen konnte und sich der Unterausschuss mit der<lb/>
+Auskunft von 2 Finanzbeamten begnügte, die naütrlich<lb/>
+wie ein Shylock auf all ihren Kompetenzen bestanden. <name type="person" ref="per:112588">Brösigke</name> hat<lb/>
+dann moch schüchtern angefragt,warum die Berufsaufsicht über die Wirt<lb break="no"/>schaftstreuhänder sowohl vom Finanzministerium als auch vom Handels<lb break="no"/>ministerium wahrgenommen wird. HIe rerklärte ich, dass dies ein ausdrück<lb break="no"/>licher Wunsch der Wirtschaftstreuhänder selbst sei, womit <name type="person" ref="per:112588">Brösigke</name><lb/>
+nicht nur einversatanden war sondern auch zugab, dass dies der Fall<lb/>
+ist. <name type="person" ref="per:97419">Ermacora</name> wollte dann noch die Abgrenzung zum Aussenministerium<lb/>
+so verstanden wissen, dasss das Aussenministerium auch für die Wirt<lb break="no"/>schaftspolitik vollkmmmen allein zuständig sei. Deshalb hat er die<lb/>
+Abgrenzung, die <name type="person" ref="per:97867">Reiterer</name> und <name type="person" ref="per:137933">Marquet</name>, wie ich dem Ausschuss berichtete,<lb/>
+sehr schnell und in bestem Einvernehmen gefunden hatten, nicht anerkannt<lb/>
+Er bezeichnete seine Kritik als einen schüchternen vErsuch, von dem<lb/>
+er überzeugt ist, dass sie nichts fruchten wird. Ich glaube, ich konnte<lb/>
+ich dann doch vielleicht noch überzeugen, dasss das Aussenministerium<lb/>
+wirklich gar kein Interesse hat, in der Durchführung von Verträgen<lb/>
+<pb n="16-0670" facs="16_1973-06-05_0670.jpg"/>wie z.B. die EWG oder EGKS in ERscheinung zu treten, wenn sie dafür<lb/>
+die Detailvoraussetzungen und KEnntnisse gar nicht besitzt. Nach der<lb/>
+Sitzung hat mir <name type="person" ref="per:98066">Robert Weisz</name> mitgeteilt, dass er über 600 Wort<lb break="no"/>meldungen erfolgt sind und er die GEfahr sieht, dass dieses Kompetenz<lb break="no"/>gesetz jetzt gar nicht mehr in diesem Sommer verabschiedet werden<lb/>
+kann. Trifft dies zu, dann würde meiner Meinung nach es nicht mehr<lb/>
+sehr sinnvoll sein, vielleicht mit 1.1.1975 dieses Kompetenzgesetz<lb/>
+in Kraft zu setzen. Hier müsste der Klub einen Weg finden, doch<lb/>
+noch in der Sommerzeit dieses Gesetz endgütlig zuverabschieden.<lb/>
+Da ja letzten Endes ach die personelle und finanzielle Transaktion<lb/>
+der einezlnen Ministerien erfolgen müsste. <name type="person" ref="per:97488">Gratz</name> hat zwar vor längerer<lb/>
+Zeit schon erkannt, dass die Opposition insbesonder dort, wo es sich<lb/>
+um Gesetze hadnelt, denen sie nicht zustimmen will, mir der Taktik<lb/>
+des immer wieder aufs Tapet bringen und Abänderungsvorschlägen die parla<lb break="no"/>mentarische Verabschiedung hinausziehen kann. Trotzdem ist es ihm<lb/>
+nicht gelungen, eine Taktik zu entwickeln, um der Opposition hier<lb/>
+diese Möglichkeit zu nehmen. Wahrscheinlich hätte man ganz bestimmte<lb/>
+Befristungen einführen müssen, oder überhaupt Sitzungsdauer bis ein<lb/>
+Kapitel abgeschlossen ist. Wir haben dies bei der Gewerbeordnung z.B.<lb/>
+mit den Hearings der einzelnen Interessensvertretungen zur Abgrenzung de<lb/>
+Umfang resp. spezifischer Einstufung in Handwerk, freie Gewerbe usw.<lb/>
+durchführert und damit erreicht, das zwar bis Mitternacht die Sitzung<lb/>
+dauerte, aber das ganze Konvolut erledigt wurde.</p><p xml:space="preserve">Bei der Bezirksausschussitzung auf der Landstrasse, wurde die Ent<lb break="no"/>scheidung von <name type="person" ref="per:97963">Slavik</name> zurückzutreten, nicht nur positiv aufgenommen<lb/>
+sondern es wurde auch festgehalten, dass er damit der Partei einen unge<lb break="no"/>heuren Dienst erwiesen hat. Umso mehr wurde kritisiert, dass <name type="person" ref="per:97845">Probst</name><lb/>
+mit seinen 57 % nicht daran denkt, einen Nachfolger sofort zu be<lb break="no"/>stimmen und sofort zurückzutreten. Viele glaubten übrigens, dass<lb/>
+unser altes Statut noch gilt, wo der Vorstand bei der Konstituierung<lb/>
+sich selbst den Obmann gibt. In Wirlichkeit aber haben wird durch<lb/>
+Statutenänderung ja festgelegt, dass am Wiener Landesparteitag<lb/>
+nicht nur der Vorstand sondern auch die einzelnen Funktionen in<lb/>
+diesem Vorstand gewählt werden. <name type="person" ref="per:97845">Probst</name> ist damit mit 57 % der Dele<lb break="no"/>giertenstimmen gewählt und kann nur durch freiwilligen Verzicht eine<lb/>
+entsprechende Möglichkeit schaffen, dass interimistisch dann ein Vor<lb break="no"/>sitzenderstellvertreter die Agenden des Vorsitzenden übernimmt. <name type="person" ref="per:97845">Probst</name><lb/>
+hat aber dezidiert erklärt, dass er dies unter gar keinen Umständen<lb/>
+macht. DIes haben die Genossinnen und Genossen im Fernsehen gesehen<lb/>
+und waren daher über diese HAltung erbost. Allerdings ind es immer<lb/>
+<pb n="16-0671" facs="16_1973-06-05_0671.jpg"/>nur ungefähr ein halbes Dutzend? die hier sehr kritisch<lb/>
+aüftreten, währen die anderen eigentlich schweigen. Hier ist die<lb/>
+Frage, ob die schweigende Mehrheit auch diese harte Kritik an <name type="person" ref="per:97845">Probst</name><lb/>
+borbringt odernicht doch sich überlegt, dass <name type="person" ref="per:97845">Probst</name> wenn er im Amt<lb/>
+bleibt, die ganz Kritik der Öffentlichkeit auf sich zieht und damit<lb/>
+<name type="person" ref="per:97488">Gratz</name> freie Luft hat, um sich im Rathaus entsprechend zu installieren<lb/>
+und seine Politik dort einzuleiten. Allgemein höre ich von den ver<lb break="no"/>schiedensten Funktionären grösserer und kleinerer, dass <name type="person" ref="per:97488">Gratz</name><lb/>
+eine phantastische Lösung war, dass er aber mit der Rathausbürokratie<lb/>
+und insbesondere mit dem Stadtratteam nicht fertig werden wird.<lb/>
+<name type="person" ref="per:97488">Gratz</name> hat und das habe ich auch beobachtet, nicht nur einen ungeheuren<lb/>
+INtellekt sondern auch die Fähgkeit in der Öffentlichkeit Probleme<lb/>
+darzustellen und Lösungsvorschläge zu unterbreiten, die allgemeine<lb/>
+Anerkennung finden. Sein Grundsatz soll aber sien, dass dies des<lb break="no"/>halb noch lange nicht zur Arbeit ausarbeiten muss. Bei der konkreten<lb/>
+Durchführung und noch viel mehr bei der intensiven Arbeit, die eine<lb/>
+solche Funtkion wahrscheinlich notwendig macht, müste <name type="person" ref="per:97488">Gratz</name> erst sien<lb/>
+bisheriges Arbeitssystem ändern. Vielleicht wenn die Notwendikgiet<lb/>
+in dazu zwingt, wird er dies auch um Rathaus tun und tun müssen.<lb/>
+Vielleicht genügt es aber auch, dass er wirklich ismtande ist, seine<lb/>
+Ideen so zu bringen, dass alle begeistert sind und automatisch durch<lb break="no"/>führen. In diesem Fall hätte er seine Mitarbeiter motiviert, wie die<lb/>
+Psychologie jetzt so schön sagt, und er selbst hätte nicth die Klein<lb break="no"/>arbeit erledigen müssen oder müsste sie vor allem nicht erledigen.</p><p xml:space="preserve">Am meisten überrascht aber war ich, als mir von den verschiedensten<lb/>
+Seiten, Opposition mitgeteilt wurde, das sie totfroh sind, dass<lb/>
+dieser Kelch an mir vorübergegangen ist und dass ich als Handels<lb break="no"/>minister erhalten bleibe. <name type="person" ref="per:97893">Sallinger</name> selst hat zwar spöttisch gemeint,<lb/>
+ich könnte über diese Entscheidung froh sein, worauf ich ihm<lb/>
+sofrt replizierte, aber er auch ?, was er gar nicht bestritt.<lb/>
+Dass aber sogar noch der ÖAAB-Obmann und die schwarze Personalver<lb break="no"/>tretung sich glücklich schötzt, dass ich ihnen erhalten bleibe,<lb/>
+ist typisch und für mich entweder ehrend oder vom engeren partei<lb break="no"/>politischen Stndpunkt aus genau zu überprüfen, ob wir hier nicht<lb/>
+doch zu leger gegen die ÖAAB-ler vorgehen. Wie sagte doch <name type="person" ref="per:97818">Pittermann</name><lb/>
+einmal: Wenn der Feind einem lobt, dann ist dies ein schlechtes Zei<lb break="no"/>chen. Ich teile diese Meinung zwar keienswegs, da ich überzeugt bin,<lb/>
+dass wir in wirklichkeit nur sehr geschickt agieren und dass natürlich<lb/>
+alle befürchtet haben, es wird irgendein unbekannter Radikalinski<lb/>
+mir nachfolgen. Auf alle Fälle ist es aber ein beruhigendes GEfühl<lb/>
+zu wissen, dass Hoffentlich nicht nur die eigenen Genossen, sondern<lb/>
+<pb n="16-0672" facs="16_1973-06-05_0672.jpg"/>auch die Opposition, wie sie mir ürigens auch persönlch immer wieder<lb/>
+versichen, gegen meine Amtsführung in Wirklichkeit nichts auszu<lb break="no"/>setzen haben..</p><p xml:space="preserve"/></div>
+      </body>
+      <back>
+         <pb n="16_0664_01" facs="16_1973-06-05_0664-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 5.6.1973</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="16_0664_02" facs="16_1973-06-05_0664-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="16_0672_01" facs="16_1973-06-05_0672-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesordnung 74. Ministerratssitzung, 5.6.1973</head>
+            <gap reason="sampling"/>
+            <pb n="16_0672_02" facs="16_1973-06-05_0672-02.jpg"/>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="16_0672_03" facs="16_1973-06-05_0672-03.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Mündlicher Bericht Androsch an den MR, 24.5.1973</head>
+            <gap reason="sampling"/>
+            <pb n="16_0672_04" facs="16_1973-06-05_0672-04.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="16_0672_05" facs="16_1973-06-05_0672-05.jpg"/>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="16_0672_06" facs="16_1973-06-05_0672-06.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>hs. Notizen (Bericht Androsch Rückseite)</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="16_0672_07" facs="16_1973-06-05_0672-07.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Tagesordnung Sektionsleiterbesprechung, 5.6.1973</head>
+            <gap reason="sampling"/>
+            <pb n="16_0672_08" facs="16_1973-06-05_0672-08.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="16_0672_09" facs="16_1973-06-05_0672-09.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="16_0672_10" facs="16_1973-06-05_0672-10.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="16_0672_11" facs="16_1973-06-05_0672-11.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="16_0672_12" facs="16_1973-06-05_0672-12.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="16_0672_13" facs="16_1973-06-05_0672-13.jpg"/>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+   </text>
+</TEI>

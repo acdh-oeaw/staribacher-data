@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sonntag, der 16. Dezember 1973</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band18_1973-12-16</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1973-12-16">Sonntag, 16. Dezember 1973</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-08-30">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band18/">
+      <body>
+         <pb n="18-1452" facs="18_1973-12-16_1452.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Sonntag, 16. Dezember 1973</p><p xml:space="preserve"><name type="person" ref="per:97646">Koppe</name> hat mir den guten Rat gegeben, mich auf die Fernseh-Sendung<lb/>
+gut vorzubereiten und ich würde ja ausgeruht wie noch nie, da es<lb/>
+Sonntag ist, dann antreten. Er hat nur nicht gewusst, dass <name type="person" ref="per:126284">Leherb</name><lb/>
+dazwischenkommt und ich seine Ratschläge zwar sehr genau gelesen<lb/>
+aber nur teilweise befolgt habe. Ich weiss natürlich nicht, wie<lb/>
+die Sendung bie der Bevölkerung angekommen ist, ich habe mein<lb/>
+Bestes gegeben. Schon am Samstag hat <name type="person" ref="per:97558">Hobl</name> als Vertreter des ARBÖ<lb/>
+mich hart attackiert, sodass Dr. <name type="person" ref="per:98032">Veith</name> vom ÖAMTC sehr<lb/>
+verwundert ist über diese MEthode. Zuerst glaubte er ernstlich,<lb/>
+dass dies abgesprochen ist. ICh habe an und für sich gar nichts<lb/>
+gegen Angriffe im Gegenteil, ich habe bei der Vorbesprechung alle<lb/>
+auch den Gen.Dir. <name type="person" ref="per:97496">Gruber</name> von der NEWAG und insbesoindere Dr. <name type="person" ref="per:109293">Busek</name><lb/>
+vom Wirtschaftsbund um eine interessante Diskussion, d.h. natürlich<lb/>
+mit Angriffen verbunden, gebeten. Da ich <name type="person" ref="per:97668">Kreisky</name> über den Beschluss<lb/>
+dass nur ein autofreier Tag sein wird, informierte und er damit einve<lb break="no"/>standen war, nicht zuletzt ist der Vorschlag ja von <name type="person" ref="per:97346">Benya</name><lb/>
+gekommen und gegen den traut er sich kaum zu entscheiden, konnte<lb/>
+ich bei der Fernsehsendung über die konkreten Absichten Auskunft gebe<lb/>
+<name type="person" ref="per:98040"><choice><choice><sic>Weis</sic><corr>Wais</corr></choice></choice></name> machte gleich darauf aufmerksam, dass ich bei dieser Sendung<lb/>
+primär darauf ankommt, dass auf Fragen beantwortet werden muss,<lb/>
+alles anderes ist sekundär. Gut, dass wir die Aufzeichnung nicht<lb/>
+vor etlichen Tagen gemacht haben, denn dann hätten wir uns auf eine<lb/>
+Stunde eingestellt, zum UNterschied wo durch den Entfall der Direkt<lb break="no"/>übertragung vom Abfahrtslauf, wir 1 3/4-Stunden diskutieren konnten.<lb/>
+<name type="person" ref="per:97558">Hobl</name> hat wieder manchmal Fragen gestellt, die mich kaum berührten<lb/>
+von denen aber <name type="person" ref="per:97377">Bukowski</name>, der es sich nicht nehmne liess, an<lb/>
+der Fernsehsendung teilzunehmen, meinte, es hätte ein ÖVP-ler nicht<lb/>
+härter attackieren können. In Wirklichkeit glaube ich macht <name type="person" ref="per:97558">Hobl</name> den<lb/>
+ganz grossen Fehler, dass er immer wieder versucht, das Wort an sich<lb/>
+zu reissen und sich durch Zwischenrufe auf alle Fälle einzuschalten.<lb/>
+Mich stört seine Taktik gar nicht, viel kritischer war, dass <name type="person" ref="per:97496"><sic>GRuber</sic></name><lb/>
+für das vorzeitige beenden der TV-Übertragung konkrete Berechnungen<lb/>
+besass und behauptete, dies macht nur 0,3 % Stromersparnis aus.<lb/>
+Ich glaube, hier müssten wir eine genaue Berechnung selbst anstellen.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97377">BUKOWSKI</name> UND <name type="person" ref="per:98040">WAIS</name>: Bitte die Untelagen vom Sekretariat<lb/>
+von Gen.Dir. <name type="person" ref="per:97496"><sic>GRuber</sic></name> verlangen und dann entsprechend über<lb break="no"/>prüfen.</p><pb n="18-1453" facs="18_1973-12-16_1453.jpg"/><p xml:space="preserve">Schön langsam bekomme ich die ganze Energiekrise in den GRiff,<lb/>
+nicht dass ich mich der Illusion hingebe, ich könnte sie lösen.<lb/>
+Wichtig erscheint mir nur, dass ich selbst wieder das GEfühl habe,<lb/>
+selbst mit der schlechten Mannschaft des Handelsministeriums, wo<lb/>
+wirklich nur <name type="person" ref="per:97493">Gröger</name> und <name type="person" ref="per:116967">Düringer</name> sowie unterstützend <name type="person" ref="per:123329">Preglau</name> bis<lb/>
+jetzt eine zielführende und zweckmässige Aktivität entwickelt habem<lb/>
+für eine allumfassende Kontingentierung zur Verfügung stehen.<lb/>
+<name type="person" ref="per:112946">Schleifer</name> selbst hat jetzt einen neuen Mann von Patentamt bekommen,<lb/>
+der aber auf Weisung des Präsidenten Montag wieder seinen Dienst an<lb break="no"/>treten muss. <name type="person" ref="per:112946">Schleifer</name> meinte rundwegs ich müsste sofort ex cathedra<lb/>
+entscheiden, dann er gibt diesen Mann nicht mehr her. Er war sehr<lb/>
+erstaunt von mir zu hören, dass ich noch neiamls über den Kopf des<lb/>
+Sektionschefs <name type="person" ref="per:97915">Schipper</name> eine Personalentscheidung getroffen habe.<lb/>
+Ich empfahl ihm nur, sich Montag bie seiner Dienststelle zu melden.<lb/>
+<name type="person" ref="per:107939">Römer</name> wird dann mit dem Abteilungsleiter des Patentamtes Verhandlungen<lb/>
+beginnen und sollte wider ERwarten es zu keiner einvernehmlichen<lb/>
+Regelung kommen, dann bin ich sehr wohl bereit, mich einzuschalten.<lb/>
+<name type="person" ref="per:112946">Schleifer</name> denkt allen Ernstes scheinbar, dass alle nach seiner<lb/>
+Pfeife tanzen müssen. Da wir bei dieser Gelegenheit Dr. <name type="person" ref="per:112977">Neuhold</name> von<lb/>
+<name type="person" ref="per:112946">Schleifer</name> sofort abziehen wollen, sollten wir tatsächlich büerlegen,<lb/>
+ob wir ihm nicht den Mann vom Patentamt jetzt endgültig gibt, gleich<lb break="no"/>zeitig aber gegen <name type="person" ref="per:112977">Neuhold</name> abtauscht.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97377">BUKOWSKI</name> UND <name type="person" ref="per:97543">HEINDL</name>: Hier bietet sich glaube ich<lb/>
+eine einmaligeGelegenheit.</p><p xml:space="preserve"/></div>
+      </body>
+      <back>
+         <pb n="18_1453_01" facs="18_1973-12-16_1453-01.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>"Unterlage für Fernsehdiskussion"</head>
+            <gap reason="sampling"/>
+            <pb n="18_1453_02" facs="18_1973-12-16_1453-02.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="18_1453_03" facs="18_1973-12-16_1453-03.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="18_1453_04" facs="18_1973-12-16_1453-04.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="18_1453_05" facs="18_1973-12-16_1453-05.jpg"/>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+   </text>
+</TEI>

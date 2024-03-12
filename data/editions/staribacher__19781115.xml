@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittwoch, der 15. November 1978</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band45_1978-11-15</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1978-11-15">Mittwoch, 15. November 1978</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2017-07-31">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="45-1323" facs="45_1978-11-15_1323.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Mittwoch, 15. November 1978<lb/>
+</p>
+            <p xml:space="preserve">Die Elektrizitätswirtschaft-Vorstandsdirektoren Verbund und<lb/>
+Landesgesellschaften, KKWP, GKT, waren alle zur ersten Aussprache<lb/>
+nach der Volksabstimmung erschienen. So viele hatte ich noch nie<lb break="no"/>mals in meinem Ministerium. Direktor <name type="person" ref="per:97333">Bandhauer</name>, Verbundgesellschaft,<lb/>
+leitete ein und verwies darauf, dass im heurigen Winter durch die<lb/>
+Inbetriebnahme von Theiss und Simmering neue Blöcke die Versorgung<lb/>
+zusätzlich durch Importe gesichert ist, wenn keine grösseren Ein<lb break="no"/>heiten ausfallen. Für die kommenden Jahre aber hat der Lastverteiler<lb break="no"/>beirat festgestellt, dass es grosse Schwierigkeiten geben kann,<lb/>
+wahrscheinlich auch geben wird. Als Folge der Volksabstimmung<lb/>
+werden GKT und KKWP aufgelöst. GD <name type="person" ref="per:97496">Gruber</name> von der NEWAG und <name type="person" ref="per:97333">Band<lb break="no"/>hauer</name> werden bei einer Betriebsversammlung in Zwentendorf sich<lb/>
+mit den Belegschaftsangehörigen auseinandersetzen. Für alle Ge<lb break="no"/>sellschaften<add>[ist]</add> sehr wichtig, dass die Abschreibung der Investition<lb/>
+für Zwentendorf gesetzlich geregelt wird. Nach der jetzigen Ge<lb break="no"/>setzeslage, behaupten ihre Wirtschaftsprüfer, müssten sie die Auf<lb break="no"/>wände sofort abschreiben, wodurch die Verbundgesellschaft und wahr<lb break="no"/>scheinlich auch viele andere Landesgesellschaften konkursreif wür<lb break="no"/>den. Hauptaufgabe sei es deshalb eine 10-jährige Abschreibungs<lb break="no"/>dauer durch Gesetzesermächtigung zu bekommen. Ich ersuchte die Ge<lb break="no"/>sellschafter der Kernkraftwerksplanungs- und Betriebsgesellschaften<lb/>
+keine Kurzschlusshandlungen zu setzen. Ich begrüsste, dass man<lb/>
+jetzt untersuchen will, ob eine Umrüstung wirtschaftlich tragbar<lb/>
+wäre. Ich verlangte auch genaue Untersuchungen, wo die Ersatz<lb break="no"/>energie jetzt hergeschafft wird. Dies gilt insbesondere für die<lb/>
+neuen Standorte und Primärenergieträger dieser Ersatzenergie.<lb/>
+Selbstverständlich erwähnte ich die Schwierigkeiten, die wir mit<lb/>
+den Umweltschützern bekommen könnten. Dies gilt für den Ausbau<lb/>
+der Fließkraftwerke, Donauabschnitt Wachau, genauso wie für die<lb/>
+NEWAG mit ihrem kalorischen Kraftwerk bei Pöchlarn. Mit keinem<lb/>
+Wort erwähnte ich die Möglichkeit, dass später einmal das Kernkraft<lb break="no"/>werk Zwentendorf doch in Betrieb gehen könnte. Es war mir voll<lb break="no"/>kommen klar, dass alle dort anwesenden dies dachten, aber insbe<lb break="no"/><pb n="45-1324" facs="45_1978-11-15_1324.jpg"/>sondere die grosse Masse der ÖVP-Landesgesellschaftsvertreter<lb/>
+dies auch nicht sagen würden, sondern womöglich von mir erwarten,<lb/>
+um dann irgendwo damit Propaganda machen zu können. GD <name type="person" ref="per:97496">Gruber</name>,<lb/>
+NEWAG, meldete sich dann unmittelbar danach und meinte, sie würden<lb/>
+keine Kurzschlusshandlung setzen, aber müssten das Gesetz zur<lb/>
+Kenntnis nehmen. Geheim könne man nicht weitermachen. Sie haben<lb/>
+den Generalunternehmer, sprich KWU aufgefordert, die Umbauvariante<lb/>
+zu prüfen. Darüber hinaus werden sich die eigenen Fachleute eben<lb break="no"/>falls mit dieser Frage beschäftigen. Das Ganze soll dann noch durch<lb/>
+ein Consulting-Unternehmen geprüft werden. Die Schadensminderung<lb/>
+ist ihr wichtigstes Ziel. Die eigenen Kraftwerke seien gut gewartet,<lb/>
+weshalb es wahrscheinlich zu keinen Schwierigkeiten kommen wird.<lb/>
+Mein Hinweis, dass die Internationale Energieagentur erwartet,<lb/>
+dass Öl- und Gaskraftwerke nicht errichtet werden, betrachtet <name type="person" ref="per:97496">Gruber</name><lb/>
+als eine falsche Stellungnahme der Internationalen Energieagentur.<lb/>
+Diese wurde gegründet, um die Substitution von Öl oder zumindestens<lb/>
+die weitere Verbrauchssteigerung von Öl zu vermindern, nicht aber<lb/>
+um Gas ebenfalls – wie er sich ausdrückt – zu diskriminieren. Die<lb/>
+<choice><choice><sic>Austroferngas</sic><corr>Austria-Ferngas</corr></choice></choice> steht unmittelbar vor dem Abschluss von 2 Mia cbm<lb/>
+Algeriengas für 20 Jahre. Dies seien 2 Kernkraftwerke vom Typ Zwen<lb break="no"/>tendorf, in der Energie äquivalent. In Korneuburg könnte die NEWAG<lb/>
+sofort 120 Megawatt bei 46%-iger Nutzung in 2 Jahren Bauzeit er<lb break="no"/>richten. Meine Frage, ob man Kohlekraftwerke errichten soll, glaubt<lb/>
+er eher nicht, denn auch in Deutschland wird trotz grösster Warnung<lb/>
+der IEA keine Kohlerenaissance jetzt eingeleitet. Erst wenn der Öl<lb break="no"/>preis um 30% steigen würde, dann wird Kohle interessant. Das<lb/>
+Elektrizitätsförderungsgesetz sieht im Artikel 2 die Förderung von<lb/>
+Kernkraftwerken vor, der ebenfalls eliminiert werden müsste. Er<lb/>
+beschwerte sich über die Energieverwertungsagentur, Prof. <name type="person" ref="per:113069">Weiser</name>,<lb/>
+der ständig Vorschläge macht, die vollkommen irreal sind. <name type="person" ref="per:97865">Reisinger</name>,<lb/>
+Wr. Stadtwerke, verlangt, daß<add>[das]</add> Abschreibungsgesetz durch einen Initiativ<lb break="no"/>antrag so schnell als möglich im Parlament beschlossen wird, damit<lb/>
+bei den heurigen Bilanzen schon die notwendige Teilabschreibung<lb/>
+erfolgen könnten. <name type="person" ref="per:113044">Märzendorfer</name>, Steiermark, verwies darauf, dass die<lb/>
+Mitgliedschaft bei der Internationalen Energieagentur ungünstig ist.<lb/>
+In Notzeiten wird wahrscheinlich eine Kürzung auch der österreichi<lb break="no"/>schen Zuteilungen auch erfolgen, da insbesondere jetzt die Kernkraft<lb/>
+in Österreich abgelehnt wurde. <name type="person" ref="per:113044">Märzendorfer</name> verlangte vor allem,<lb/>
+dass in Hinkunft bei allen Kraftwerken vorher die energiewirtschaft<lb break="no"/><pb n="45-1325" facs="45_1978-11-15_1325.jpg"/>liche Genehmigung vorliegt, bevor eine Gesellschaft überhaupt<lb/>
+einen Bau beginnt. Die Elektrizitätswirtschaft fürchtet also schein<lb break="no"/>bar die Aktivitäten nicht nur der Antikernkraftwerksgruppen, sondern<lb/>
+aller Umweltschützer. <name type="person" ref="per:118709">Wagensonner</name>, Tirol, meinte, im Nationalrat hätte<lb/>
+man eine kleine Mehrheit bei der Abstimmung bekommen. Dieser ÖVP-<lb/>
+Vertreter hätte dies natürlich viel lieber gehabt als das jetzige<lb/>
+Volksabstimmungsergebnis, wo, wenn man die Wahlbeteiligung und die<lb/>
+knappe Mehrheit von 50.4% betrachtet, ja eigentlich nur 30% der<lb/>
+Bevölkerung dagegen sind. Jetzt soll es durch das Atombetriebsver<lb break="no"/>botsgesetz einzementiert werden. Dies wirke sich auf die Abtausch<lb break="no"/>verträge Tirols mit der Bundesrepublik ungünstig aus. Ich konnte mir<lb/>
+nicht verkneifen darauf zu sagen, wir haben eben eine Entwicklung<lb/>
+in Österreich politisch jetzt mitgemacht, wie es die Schweden uns<lb/>
+vordemonstrierten. <name type="person" ref="per:98068">Wenzl</name>, OKA, ersuchte mich, bei der Obersten Wasser<lb break="no"/>rechtsbehörde zu intervenieren, damit nicht dort ihre Anträge, z.B. für<lb/>
+die Traun, als bevorzugtes Projekt zu erklären, verzögert wird.<lb/>
+Der zuständige Beamte hat sie nämlich wissen lassen, das wichtigste<lb/>
+sei die Wassergüte der Drau zu erhalten. Durch Staustufen wird der<lb/>
+Sauerstoffanteil um 0.1% verringert. Ich versprach darüber mit Land<lb break="no"/>wirtschaftsminister <name type="person" ref="per:97511">Haiden</name> zu reden.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Bitte einen genauen Bericht von der OKA an<lb break="no"/>fordern.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:114463">Altziebler</name>, STEWEAG, verwies darauf, dass Kleinkraftwerke von den<lb/>
+Meisten als Verlusttragungsgesellschaft gegründet werden wollen.<lb/>
+Elektrizitätswirtschaftsmässig sind sie uninteressant. Die grosse<lb/>
+Frage sei, ob man im Burgenland an der ungarischen Grenze überhaupt<lb/>
+so grosse Kohlekraftwerke errichten kann, da es dort kein Kühl<lb break="no"/>wasser gibt und die Emissionen ganz gigantisch sein werden. <name type="person" ref="per:118726">Hochwimmer</name><lb/>
+sprach als erster aus, man sollte das Kraftwerk einmotten. <name type="person" ref="per:97333">Band<lb break="no"/>hauer</name> verteidigte den Gesetzentwurf, wonach ein Betrieb von Kern<lb break="no"/>kraftwerken in Österreich verboten wird, weil dieses Gesetz ihnen<lb/>
+überhaupt erst die Möglichkeit gibt, all die notwendigen Massnahmen<lb/>
+zu setzen. Die Legalisierung des Volksabstimmungsergebnisses ist<lb/>
+notwendig. Für die Gesellschaften bleibt nichts als eben die Auf<lb break="no"/>lösung und Liquidation. Ich ersuchte die Anwesenden, bevor sie die<lb/>
+notwendigen Beschlüsse fassen unbedingt mit den Betriebsräten Kontakt<lb/>
+auszunehmen. Sie erklärten, dies hätten sie sowieso immer gemacht.<lb/>
+Darauf konnte ich nur erwidern, dass Betriebsräte gestern bei mir<lb/>
+<pb n="45-1326" facs="45_1978-11-15_1326.jpg"/>waren und das Gegenteil behauptet hätten. Wohl seien fraktio<lb break="no"/>nelle Kontakte aufgenommen worden, aber es müsste auch ganz offiziell<lb/>
+die Betriebsvertretung vorher zu Gesprächen eingeladen werden. Dies<lb/>
+wurde mir zugesichert. Spät abends erfuhr ich dann, dass sie sich<lb/>
+doch nicht daran gehalten haben. Warum ist mir eigentlich nicht<lb/>
+ganz klar.<lb/>
+</p>
+            <p xml:space="preserve">Im Konsumentenforum waren so viele Teilnehmer erschienen, dass wir<lb/>
+zwei Sitzungssäle voll hatten und mit Lautsprecher übertragen mussten.<lb/>
+Ich verwies einleitend auf die Leistung seit dem ersten Konsumenten<lb break="no"/>forum vor 7 Jahren. 1.100 Experten haben mitgearbeitet, darin sind<lb/>
+allerdings viele Doppelzählungen enthalten. Die zukünftige Arbeit<lb/>
+wurde von mir dahingehend charakterisiert, dass Gesundheit und Schutz<lb/>
+des Konsumenten die wichtigste Aufgabe sei. Zuerst hätte sich über<lb break="no"/>haupt keine Diskussion im Plenum ergeben, weil diese eben von unserer<lb/>
+Seite nicht vorbereitet oder, besser gesagt, nicht organisiert war.<lb/>
+Zum Glück meldete sich <name type="person" ref="per:118859">Lettner</name>, Sekretär der Arbeiterkammer OÖ,<lb/>
+und verlangte eine bessere Finanzierung des Vereines für Konsumenten<lb break="no"/>information. Die OÖ Landesregierung gibt 120.000 Schilling dazu.<lb/>
+Das brachte mich auf die Idee wegen der wirklich finanziell schwie<lb break="no"/>rigen Situation durch die ständige Ausweitung der Vereinsaktivitäten<lb/>
+neue Finanzierungsgespräche eben auch mit den Ländern und Gemeinden<lb/>
+zu führen. Bei der anschliessenden Diskussion wurde dann der alte<lb/>
+Gegensatz zwischen Händlervertretung, Gremialmitgliedern des Textil<lb break="no"/>einzelhandels und der Konsumentenvertreter Privatangestelltengewerk<lb break="no"/>schaft und <name type="person" ref="per:97843">Preiss</name> von Gewerkschaftsbund, zwei sehr attraktiven Damen,<lb/>
+deutlicher den je. Der einzig kritische Diskussionsbeitrag kam von<lb/>
+Frau <name type="person" ref="per:118860">Hampel-Fuchs</name>, die Vertreterin des Volksparteikonsumentenbeirates.<lb/>
+Sie verlangte, dass die Konsumenten besser informiert werden, reihte<lb/>
+sich also sozusagen in die Front der Konsumentenschützerinnen, gegen<lb/>
+die Handelskammer und deren Vertreter ein, wollten aber dann auch,<lb/>
+dass die öffentlichen Leistungen einer Preiskontrolle und insbe<lb break="no"/>sondere durch den Verein und durch das Konsumentenforum kritisiert<lb/>
+und kontrolliert werden sollten. In meiner Antwort verwies ich darauf,<lb/>
+dass der seinerzeitige Bundeskanzler <name type="person" ref="per:97852">Raab</name> auch als Präsident der<lb/>
+Handelskammer es entschieden abgelehnt hat, dass die Paritätische<lb/>
+Kommission sich in diese Materie einmischen sollte. Für die öffent<lb break="no"/>liche Hand und für die Leistungen dieser Organisationen sei der ge<lb break="no"/>wählte Abgeordnete verantwortlich. Dort müsse man die Kritik, dort<lb/>
+<pb n="45-1327" facs="45_1978-11-15_1327.jpg"/>müsse man auch die Vorschläge und Wünsche anbringen. Dort gibt es<lb/>
+eine so gut ausgebaute Kontrolle durch die entsprechenden Organe,<lb/>
+Parlament, Gemeinderat, Landesräte usw., dass sich niemand einmi<lb break="no"/>schen sollte. Als <name type="person" ref="per:97852">Raab</name>-<name type="person" ref="per:97363">Böhm</name>-Schüler erklärte ich, hätte ich diesen<lb/>
+Grundsatz stets berücksichtigt und beabsichtige auch nicht, jetzt<lb/>
+davon abzugehen.<lb/>
+</p>
+            <p xml:space="preserve">In den Arbeitsausschüssen wurden dann eingehendst alle Vorschläge,<lb/>
+Wünsche und Anregungen diskutiert, von den Arbeitsausschussvor<lb break="no"/>sitzenden dann am Nachmittag im Plenum wieder referiert. Eine Diskus<lb break="no"/>sion gab es dabei nur über den Punkt, wieweit in der Schule die ver<lb break="no"/>schiedensten Standpunkte wertfrei dargestellt werden können. Soll<lb/>
+der Lehrer seinen eigenen Standpunkt durchsetzen oder zumindestens<lb/>
+vertreten oder soll er die Vielfalt der Standpunkte entsprechend<lb/>
+nur herausarbeiten und den Schülern überlassen, zu welchen sie sich<lb/>
+bekennen. Einigkeit herrschte bei allen Teilnehmern des Forums, dass<lb/>
+jetzt alle Anregungen in den Konsumentenbeirat kommen und diesen dann<lb/>
+Arbeitsgruppen zur Durcharbeitung zugewiesen und dann den Interessens<lb break="no"/>vertretungen und anderen Ministerien und sonstigen Stellen übermittelt<lb/>
+werden sollten, damit diese die entsprechenden zweckmässigen Vorschläge<lb/>
+auch verwirklichen.<lb/>
+</p>
+            <p xml:space="preserve">Beim Mittagessen mit dem kubanischen Minister <name type="person" ref="per:118861">Trueba</name> konnte ich vorher<lb/>
+das Wirtschafts- und Kooperationsabkommen unterzeichnen. Dadurch war<lb/>
+dieser Minister sehr zufrieden, weil er dieses Abkommen mit nach<lb/>
+Havanna nehmen kann, welches wirklich in 2 Tagen verhandelt und jetzt<lb/>
+sogar unterschrieben werden konnte. Es steht zwar nichts drinnen,<lb/>
+doch ist es formell eine grosse Leistung gewesen. Bei dieser Gelegen<lb break="no"/>heit teilte mir Ing. <name type="person" ref="per:115651">Cifer</name> mit, er hätte jetzt Algerienprojekte für<lb/>
+100.000 ha Bewässerung, Pipelineproduktion, Rohrerzeugung, Verzinkerei<lb/>
+für 15 Mia Schilling in Aussicht. Mit <name type="person" ref="per:111755">Castellez</name>, Österr. Kontroll<lb break="no"/>bank, hat er bereits 10 Mia Schilling besprochen und zugesichert<lb/>
+bekommen. Der Kredit würde 15 Jahre, mit 7% laufen. Die Kanadier<lb/>
+geben 25 Jahre, die Franzosen 22 und die Jugoslawen 18 Jahre Kredite<lb/>
+zu günstigeren Zinssätzen. Wie er da dieses grosse Projekt bekommen<lb/>
+kann, ist mir ein Rätsel. Er meint, ich bräuchte nur ihm die Ermäch<lb break="no"/>tigung geben, wenn er jetzt nach Algerien fährt, dass er in meinem<lb/>
+Namen einen Minister einladen kann. Da es<add>[um]</add> seine oder die Handels<lb break="no"/>kammerkosten geht, war ich damit einverstanden.<lb/>
+</p>
+            <pb n="45-1328" facs="45_1978-11-15_1328.jpg"/>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte erkundige Dich, was <name type="person" ref="per:111755">Castellez</name> dazu<lb/>
+sagt.<lb/>
+</p>
+            <p xml:space="preserve">In der Paritätischen Kommission wurden die Kollektivverträge für<lb/>
+die Angestellten der Versicherungsunternehmungen im Innendienst<lb/>
+und die Wachorgane im privaten Bewachungsgewerbe freigegeben,<lb/>
+gleichzeitig aber von der Handelskammer verlangt, die Sozial<lb break="no"/>partner davon zu verständigen, dass die Kollektivverträge abge<lb break="no"/>schlossen wurden, bevor eine Freigabe der Paritätischen Kommission<lb/>
+erfolgte. Normaler Weise ist es eben so, dass bei Fühlungnahme<lb/>
+Genehmigung durch die Paritätische Kommission die Kollektivver<lb break="no"/>tragsverhandlungen so weit abgeschlossen werden, dass sie eigent<lb break="no"/>lich nur mehr unterschriftsreif sind. Die Unterschrift aber sollte<lb/>
+erst erfolgen, wenn dann die Paritätische Kommission die formelle<lb/>
+Freigabe ausgesprochen hat.<lb/>
+</p>
+            <p xml:space="preserve">Bezüglich der Anerkennung der Preise für Röstkaffee wurde fest<lb break="no"/>gestellt, dass der Preisunterausschuss zu kontrollieren hat, wie<lb/>
+die tatsächlichen Preise jetzt den Listenpreisen angepasst werden.<lb/>
+Der Preisunterausschuss wurde ermächtigt die entsprechenden Preis<lb break="no"/>korrekturen vorzunehmen. Dies wird innerhalb von 2 Monaten ge<lb break="no"/>schehen, wenn die Antragsteller die entsprechenden Unterlagen zur Ver<lb break="no"/>fügung stellen. Die Erhöhung des Rundfunk und Fernsehentgeltes sowie<lb/>
+die Erhöhung der Werbetarife wurde dem Preisunterausschuss zur Ent<lb break="no"/>scheidung überwiesen, weil ein Kuratoriumsmitglied erklärt hätte,<lb/>
+Preiserhöhungen seien nicht nötig. Dies müsse man jetzt genau überprü<lb break="no"/>fen. Die Handelskammer verlangt insbesondere eine genaue Kontrolle<lb/>
+der Werbetarife. Ich bin sehr gespannt, wie sich der neue General<lb break="no"/>intendant <name type="person" ref="per:97326">Bacher</name> zu diesem Verlangen stellen wird.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Bitte lass Dir über die weitere Vorgangsweise<lb/>
+genau berichten.<lb/>
+</p>
+            <p xml:space="preserve">Nach der Paritätischen Kommission hatte ich Vizepräsident <name type="person" ref="per:97938">Seidl</name> von<lb/>
+der Handelskammer als Vorsitzenden d. OÖ Ferngas sowie Arbeiterkammer<lb break="no"/>vertreter <name type="person" ref="per:98112">Zöllner</name> und ÖGB-Vertreter <name type="person" ref="per:114075">Schmidt</name> und vor allem Handelskam<lb break="no"/>mervertreter <name type="person" ref="per:118862">Morawetz</name> gebeten, die weitere Vorgangsweise für den<lb/>
+Abschluss der OÖ Ferngas-Preise durch die RAG jetzt endgültig zu<lb/>
+vereinbaren. Nach einer Mitteilung der Arbeiterkammer und eines<lb/>
+Schreibens vom Landeshauptmannstellvertreters <name type="person" ref="per:114936">Hartl</name>, der nämlich die<lb/>
+<pb n="45-1329" facs="45_1978-11-15_1329.jpg"/>seinerzeit ausgehandelten Kompromisse jetzt wieder infrage ge<lb break="no"/>stellt. Chemie Linz hatte sich mit den 92 Groschen Arbeitspreis plus<lb/>
+einen Leistungspreis einverstanden erklärt. Steyrermühl hat vor<lb/>
+8 Jahren einen Gaspreisvertrag von 86 Groschen vereinbart. Dieser<lb/>
+läuft heuer aus, der neue würde 1.01 Groschen betragen, nämlich<lb/>
+92 Groschen Arbeitspreis und 9 Groschen Leistungspreis. Auch für<lb/>
+Lenzing müsste jetzt eine endgültige Lösung gefunden werden. <name type="person" ref="per:97938">Seidl</name><lb/>
+hofft den halben Leistungspreis, die RAG zwingen zu können, zu<lb/>
+akzeptieren. Ich ersuchte alle Beteiligten so schnell als möglich<lb/>
+zu einen endgültigen Abschluss zu kommen. <name type="person" ref="per:97938">Seidl</name> ermächtigte ich, den<lb/>
+RAG-Vertretern klarzumachen, dass sie sich mit Kompromissen abfin<lb break="no"/>den müssen. Ich bin daran interessiert eine einvernehmliche Lösung<lb/>
+zu erzielen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Bitte versuche von der RAG zu erfahren, wie<lb/>
+es dort weitergehen soll.<lb/>
+</p>
+            <p xml:space="preserve">Das Fernsehen, <name type="person" ref="per:115174">Swietly</name>, für Zeit im Bild 2 wollte meine Stellung<lb break="no"/>nahme zu den Vorschlägen der Energieverwertungsagentur, d.h. den<lb/>
+<name type="person" ref="per:113069">Weiser</name>-Verein. Dieser hat in einer Pressekonferenz alle seine Wünsche<lb/>
+präsentiert, unabhängig, ob sie erfüllbar sind oder nicht. Die<lb/>
+Hauptfrage liegt nach wie vor, ob die Länder bereit sind, die Kompe<lb break="no"/>tenz für die Elektrizitätswirtschaft den Bund zu übertragen. Ich<lb/>
+erklärte freimütig, dass ich darin keine allzu grosse Chance sehe,<lb/>
+da die Länder bis jetzt nur Kompetenzen bekommen wollten und keine<lb/>
+abtreten. Überhaupt wird jetzt mit der ganzen Energie im wahrsten<lb/>
+Sinne des Wortes Schindluder getrieben. Die Massenmedien schreiben<lb/>
+oft den grössten Unsinn wie z.B., dass die Staumauer in Malta ge<lb break="no"/>fährdet ist und damit tausende Menschen wie in Longerone oder<lb/>
+Fréjus zugrunde gehen können. Die Vorarlberger wieder haben in ihrer<lb/>
+Anti-Atomkraftwerkkampagne auch den grössten Unsinn geschrieben, wes<lb break="no"/>halb jetzt die Sozialistische Partei verlangte, es dürfte kein Strom<lb/>
+aus der Schweiz kommen, weil er aus Atomkraftwerken erzeugt wird.<lb/>
+<name type="person" ref="per:113069">Weiser</name> wieder macht Vorschläge, von denen alle wissen, sie sind nicht<lb/>
+zu realisieren, aber optisch und propagandistisch sehr gut zu prä<lb break="no"/>sentieren. Wenn es in dieser Art und Weise weitergehen wird, dann<lb/>
+wird das Image der Elektrizitätswirtschaft noch wesentlich schlechter,<lb/>
+als es jetzt schon ist. Niemand wird mehr irgend jemand ernst nehmen,<lb/>
+jeden Unsinn wird man verzapfen können, jede Partei wird scheinbar<lb/>
+<pb n="45-1330" facs="45_1978-11-15_1330.jpg"/>nur ihr politisches Süppchen kochen. Ich bin wirklich<lb/>
+gespannt, wie es da weitergehen wird.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="45_1322_03" facs="45_1978-11-15_1322-03.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 15.11.1978</head>
+         </div>
+         <pb n="45_1322_04" facs="45_1978-11-15_1322-04.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Donnerstag, der 14. Juli 1977</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band37_1977-07-14</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1977-07-14">Donnerstag, 14. Juli 1977</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-06-20">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="37-0865" facs="37_1977-07-14_0865.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Donnerstag, 14. Juli 1977<lb/>
+</p>
+            <p xml:space="preserve">Dir. <name type="person" ref="per:149015">Eckner</name> von Brach &amp; Lessing, den ich wegen seines Nachfolgers<lb/>
+<name type="person" ref="per:146857">Müller</name>, Schwager von <name type="person" ref="per:114512">Koholzer</name>, anrufe, teilt mir mit, dass die<lb/>
+Ernteergebnisse für Getreide in seinem Einzugsbereich sehr schlecht<lb/>
+seien. Er hätte Mindererträge bis zu 40 % gegenüber dem Vorjahr<lb/>
+festgestellt. Ich bin ihm für diese Information sehr dankbar,<lb/>
+denn sie bestätigt mir wieder die alte Erfahrung, man kann bevor<lb/>
+die endgültigen Ablieferungsmengen nicht bekannt sind, wirklich<lb/>
+nichts aussagen. Statistische Zentralamt, das Landwirtschaftsministe<lb break="no"/>rium nimmt eine überdurchschnittlich gute Ernte an. Nicht so<lb/>
+hoch wie die vorjährige, doch weit über die Normalernte. Der Ge<lb break="no"/>treideausgleichfonds prognostiziert um höchsten 10 – 15<lb/>
+maximal 20 % weniger als im Vorjahr. Ähnlich wie die Landwirt<lb break="no"/>schaftskammer. Wie immer die endgültigen Ziffern lauten werden,<lb/>
+mit dem über 500.000 t Vorrat kommen wir nicht nur bei schlechtester<lb/>
+Ernte aus sondern haben auch grosse Schwierigkeiten die gesamte<lb/>
+Ernte zu verkaufen. Im Inland werden wir sie sicherlich nicht<lb/>
+gebrauchen.<lb/>
+</p>
+            <p xml:space="preserve">Dir. <name type="person" ref="per:114722">Hübl</name> vom Entsorgungsbetrieb Simmering, 51 % Gemeindebeteili<lb break="no"/>gung informiert mich über die Hauptprobleme der Altölbeseitigung.<lb/>
+Er selbst hat <choice><choice><sic>vor</sic><corr>für?</corr></choice></choice> Porsche Salzburg und <name type="person" ref="per:149016">Bergmann</name> eine Altölbeseiti<lb break="no"/>gungsanlage BIA in der Lobau errichtet, die 20.000 t pro Jahr<lb/>
+aufarbeitet. Jetzt möchte er mit der 49 % Beteiligung, der der<lb/>
+EBS 5.000 t Sondermüll und insbesondere den Schlamm der Hauptklär<lb break="no"/>anlage von Simmering gemeinsam beseitigen. In dem jetzt vorliegenden<lb/>
+Initiativantrag <name type="person" ref="per:97543">Heindl</name>/<name type="person" ref="per:125293">Schwimmer</name> im Parlament ist die Altölbeseitigung<lb/>
+darauf aufgebaut, dass dieses Altöl raffiniert wird, was gegenüber<lb/>
+dem jetzigen Zustand ein grosser Fortschritt wäre. Das Hauptproblem<lb/>
+liegt aber darin, dass damit wieder der Sondermüll, chlorierte<lb/>
+chemikalische Abfälle, die eventuell im Öl sind oder sonstige<lb/>
+Industrieabfälle nicht erfasst werden. Diese bilden aber den<lb/>
+grösseren Teil der Umweltverschmutzung. Seiner Meinung nach kann<lb/>
+man ruhig die Verbrennung drinnenlassen, denn wenn er nicht ver<lb break="no"/>brennen könnte und damit den Sondermüll beseitigt sowie die Schlämme<lb/>
+der Kläranlage, dann müsste er den zehnfachen Betrag für Öl, Heizöl<lb/>
+schwer, das er kaufen müsste, ausgeben. In Deutschland hat man<lb/>
+dieses Problem nicht erkannt und muss nun für diese Sondermüll-<lb/>
+Verwertung resp. Beseitigung von der Industrie 2.300 S verlangen.<lb/>
+</p>
+            <pb n="37-0866" facs="37_1977-07-14_0866.jpg"/>
+            <p xml:space="preserve">In Österreich verlangt er noch jetzt höchstens 880.- S.<lb/>
+Gleichzeitig bekommen in Deutschland die Altölabfallbe<lb break="no"/>seitigungsfirmen vom Staat eine Prämie, die überhaupt<lb/>
+nicht notwendig wäre, wenn man das Konzept von <name type="person" ref="per:114722">Hübl</name> akzeptiert.<lb/>
+Seiner Meinung nach muss man den Sondermüll nicht nur bei den<lb/>
+anfallenden Firmen genau kontrollieren, sondern auch bei den<lb/>
+Sammlern und in den Aufbereitungsbetrieben. Schon jetzt konnte<lb/>
+er feststellen, dass z.B. die ÖBB 460 t Sondermüll abgegeben hat,<lb/>
+angeblich er übernommen und in Wirklichkeit hat die zwischenge<lb break="no"/>schaltete Firma nur 16 t tatsächlich angeliefert, den Rest<lb/>
+hat sie irgendwo anders hin verbracht. Die ÖBB musste aber 400.000 S<lb/>
+der Firma bezahlen, Müll wurde nie verarbeitet sondern ist<lb/>
+irgendwohin verschwunden. Dies darf es dann, wenn ein neues<lb/>
+Gesetz kommt, wirklich nicht geben. <name type="person" ref="per:114722">Hübl</name> wird mit Min.Rat <name type="person" ref="per:111737">Marsch</name><lb/>
+der bei der Besprechung anwesend war, engsten Kontakt halten<lb/>
+und uns vor allem einmal jetzt genaue ziffernmässige Unterlagen<lb/>
+liefern.<lb/>
+</p>
+            <p xml:space="preserve">Unter vier Augen ersuchte mich dann <name type="person" ref="per:114722">Hübl</name>, ich sollte bei der ÖMV<lb/>
+intervenieren, damit eine angebliche Vertragsverletzung zwischen<lb/>
+der BIA und der ÖMV aussergerichtlich gütig ausgetragen wird.<lb/>
+Ein Prozess würde irrsinnig lange dauern, viele Kosten verursachen,<lb/>
+GD <name type="person" ref="per:97337">Bauer</name> hat den Anwalt <name type="person" ref="per:121788">Rosenzweig</name> (ÖMV) veranlasst, den Prozess<lb/>
+jahrelang zu schieben, weil er für die ÖMV nicht zu gewinnen sei.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name>: Bitte erkundige Dich vertraulich, wie die<lb/>
+Sache steht, ich interveniere bei <name type="person" ref="per:97337">Bauer</name>.<lb/>
+</p>
+            <p xml:space="preserve">Gen.Dir. <name type="person" ref="per:97644">Koller</name>, VÖEST, teilt mir mit, dass der Vorstand ent<lb break="no"/>schlossen ist, für 500 Mill. S von der Fa. <choice><choice><sic>Massei</sic><corr>?</corr></choice></choice> Kohlenbetriebe<lb/>
+zu erwerben. 750.000 t würden dort gewonnen werden. Die Aufwände<lb/>
+würden sich nach Berechnungen der VÖEST in kürzester Zeit amorti<lb break="no"/>sieren. Insbesondere die Erfahrungen, die sie mit Polen in der<lb/>
+Energiekrise gemacht haben, veranlassen sie, zu einem solchen<lb/>
+Schritt. Damals haben die Polen 100 Mill. S Investitionsbeitrag<lb/>
+verlangt, gleichzeitig auch noch einen wesentlich höheren Preis<lb/>
+und diese Forderung wurde von anderen Ländern tatsächlich akzep<lb break="no"/>tiert. Nur <name type="person" ref="per:97668">Kreisky</name> ist es damals geglückt, in einem Gespräch<lb/>
+<name type="person" ref="per:97591">Jaroszewicz</name> bei einem Österreich-Besuch diese Gefahr abzuwenden.<lb/>
+<name type="person" ref="per:97644">Koller</name> ist trotzdem aber einverstanden, dass ich bei meinem Polen-<lb/>
+Besuch das Kohlenpipeline-Projekt weiter verfolge. Er selbst kennt<lb/>
+<pb n="37-0867" facs="37_1977-07-14_0867.jpg"/>diese Details nicht und wünscht so schnell wie möglich die<lb/>
+Unterlagen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name>: Bitte sofort an <name type="person" ref="per:97644">Koller</name> schicken.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97644">Koller</name> erklärt sich einverstanden, ja er ist sogar über meinen<lb/>
+Vorschlag erfreut, in internationalen Organisationen in Hinkunft<lb/>
+als Handelskammervertreter für Stahl- und Eisen-Fragen tätig zu<lb/>
+werden.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: Setze Dich bitte, wenn Du vom Urlaub zurück<lb break="no"/>kommst sofort mit <name type="person" ref="per:97644">Koller</name> in Verbindung.<lb/>
+</p>
+            <p xml:space="preserve">Beim Mittagessen und Arbeitsgespräch mit dem polnischen Maschinen<lb break="no"/>bauminister <name type="person" ref="per:117196">Kopec</name> teilt dieser mit, dass er mit Dir. <name type="person" ref="per:132188">Zeichen</name><lb/>
+Steyr-Daimler-Puch, Werkdirektor <choice><choice><sic>Gratz</sic><corr>Graz?</corr></choice></choice>, Gen.Dir. <name type="person" ref="per:111400">Malzacher</name><lb/>
+gesprochen hat und auch eine Moped-Produktion mit Steyr in<lb/>
+Polen zu beginnen. Österreich erzeugt derzeit 250.000, dieselbe<lb/>
+Anzahl wie Polen. Hier müssten sie nun um 100.000 erhöhen. Dafür<lb/>
+würden sie eine Lizenz des Mopeds übernehmen, die Dokumentation<lb/>
+für verschiedene Moped-Typen sollte man ihnen geben und der<lb/>
+Verkauf und Marketing auf Drittmärkten müsste geregelt werden.<lb/>
+Steyr hat nämlich, wie mir <name type="person" ref="per:111400">Malzacher</name> versicherte, Angst, dass<lb/>
+in Polen erzeugte Steyr-Moped die österreichischen auf dem Welt<lb break="no"/>markt konkurrenzieren. Die Polen beabsichtigen auch mittelschwere<lb/>
+LKW aber 1981/82 zu erzeugen. Polmot hat jetzt Schwierigkeiten<lb/>
+bei der Fertigung der vereinbarten schweren LKW. <choice><choice><sic>Strachowicze</sic><corr>Starachowice?</corr></choice></choice> ist<lb/>
+mit seinem Produktionsprogramm von 10 – 15 Jahren im Rückstand<lb/>
+und die Beschleunigung für die Inlandsaufbau zu erreichen, bräuchte<lb/>
+<name type="person" ref="per:117196">Kopec</name> einen Finanzkredit von 2 Mia S. Geldmittel, die bei<lb/>
+ihnen für diesen Aufbau vorgesehen waren, mussten in Nahrungsmittel<lb/>
+Wohnung und Konsumgüter umgeleitet werden. Da sie im Verzug sind,<lb/>
+möchten sie zusätzliche LKW 500 Stück und 1.000 Traktoren, weil<lb/>
+sie die Bauern einigermassen befriedigen müssen, bei Steyr kaufen.<lb/>
+Die Probefahrt mit Pinzgauer hat ihn so beeindruckt, dass er<lb/>
+für die Forstwirtschaft in Polen ebenfalls diesen Typ kaufen<lb/>
+möchte. Verhandlungen mit Kontrollbank, <name type="person" ref="per:97518">Haschek</name>, hat ergeben,<lb/>
+dass 1 Mia. S durch Kreditstrukturänderung über die schweren LKW<lb/>
+der mit Polmot schon abgeschlossen ist, entsprechend aufgebracht<lb/>
+werden können. 1 Mia. müsste nun 10 – 15 jährige Laufzeit freie<lb/>
+Kredite über Banken organisiert werden. Das Hauptproblem liegt<lb/>
+<pb n="37-0868" facs="37_1977-07-14_0868.jpg"/>ja darin, dass diese Banken eine Staatsgarantie für den<lb/>
+Kredit verlangen, welchen <name type="person" ref="per:97311">Androsch</name> ja bereit ist zu geben.<lb/>
+Interessanterweise sind ja die ca. 23 Mia. S, welche die Polen<lb/>
+an Krediten, die <name type="person" ref="per:97668">Kreisky</name> und <name type="person" ref="per:97311">Androsch</name> mit <name type="person" ref="per:97591">Jaroszewicz</name> mit verein<lb break="no"/>bart haben, nur zu 6 Mia. S ausgenützt. Die wirklich hohen passiven<lb/>
+Handelsbilanzziffern werden durch Bankkredite allerdings auch<lb/>
+staatsgarantiert finanziert. Da ich mir wegen der Rückzahlung der<lb/>
+Polen Gedanken machen muss und die einzige Chance in der Lieferung<lb/>
+von Energie aus Polen nach Österreich sehe, habe ich die For<lb break="no"/>derung gestellt, die HGÜ Österreich allein errichten zu lassen.<lb/>
+Der Vizeminister hat diesbezüglich mit Sekt.Chef <name type="person" ref="per:107937">Frank</name> eine<lb/>
+Besprechung gehabt. Da dies, wie er mir sagte, ein rein kommerziel<lb break="no"/>les Problem ist, müsste die Verbund mit Elektrin verhandeln.<lb/>
+<name type="person" ref="per:117196">Kopec</name> hat eingesehen und wird dies in Polen besprechen, dass<lb/>
+wir fordern, die HGÜ selbst zu errichten und zu betreiben,<lb/>
+die finanzielle Verpflichtung der Polen könnte dann in 1983<lb/>
+wenn die Stromlieferung beginnt durch einen Groschenabschlag<lb/>
+vom Preis bezahlt werden. Bei 250 Mill. werden es 2 Groschen, bei<lb/>
+200 Mill. 1,6, wobei die Verbundgesellschaft mich schon hat<lb/>
+wissen lassen, da lässt sie mit sich reden, was ich allerdings<lb/>
+den Polen natürlich nicht einmal angedeutet habe. Bei unserer<lb/>
+Fahrt zum Flughafen hat <name type="person" ref="per:97616">Karski</name> dann hingewiesen, dass die<lb/>
+VÖEST sich ja jetzt in Amerika mit Kohle eindeckt. Ich erklärte<lb/>
+ihm sofort, dies sei eine Vorsichtsmassnahme, die Kohle wird<lb/>
+vorerst ja in Amerika verkauft und nur im äussersten Notfall<lb/>
+nach Europa transportiert. Wenn es gelingt, eine vernünftige<lb/>
+Regelung mit der Pipeline zu finden, wird die VÖEST-Alpine sich<lb/>
+sicherlich auch daran beteiligen. <name type="person" ref="per:117196">Kopec</name> wurde mit dem silbernen<lb/>
+Ehrenzeichen, eine Staatssekretär-Rangs-Auszeichnung vom<lb/>
+Bundespräsidenten verliehen, wirklich überrascht. Botschafter <name type="person" ref="per:97616">Karski</name><lb/>
+meinte zu meiner Frau, sie wären auch so glücklich gewesen, wenn<lb/>
+sie mir ebenfalls hätten eine Auszeichnung überreichen dürfen.<lb/>
+Bin ich froh, dass ich diesen eisernen Grundsatz hab, keine<lb/>
+Orden anzunehmen, überall durchgesetzt habe. Am Flughafen<lb/>
+konnte ich wieder einmal feststellen, wie unser Protokoll arbei<lb break="no"/>tet. Der Sondergastraum war nicht bestellt, niemand da, um<lb/>
+einzuchecken, Dr. <name type="person" ref="per:114718">Dersch</name> versicherte mir, das nächste Mal er selbst<lb/>
+alles machen. Ich erklärte ihm in meiner Verärgerung, das beste<lb/>
+ist, man löst das Protokoll auf.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97819">PLESCH</name>: Stelle fest, wie das wieder passieren konnte.<lb/>
+</p>
+            <pb n="37-0869" facs="37_1977-07-14_0869.jpg"/>
+            <p xml:space="preserve">Dir. <name type="person" ref="per:116707">Janitschek</name>, KKPW, hat mit dem persischen Botschafter<lb/>
+in Wien <name type="person" ref="per:114913">Namdar</name>, eine Aussprache gehabt, wegen der Äusserung<lb/>
+des Schah, Atommüll in Persien zu lagern. <name type="person" ref="per:114913">Namdar</name> wünscht<lb/>
+mit mir Kontakt aufzunehmen, was ich natürlich sofort zustimme.<lb/>
+Leider habe ich bis jetzt noch immer nicht eine Information<lb/>
+aus Persien, wo unser Botschafter recherchieren sollte, was<lb/>
+an dieser Mitteilung wahr ist.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte sofort feststellen, ob das Aussenamt<lb/>
+schon etwas weiss.<lb/>
+</p>
+            <p xml:space="preserve">GD <name type="person" ref="per:117098">Vogler</name>, Tullner Zuckerfabrik, und der Vertreter der Siegendorfer<lb/>
+Familienbesitzer <name type="person" ref="per:149018">Belandany</name> teilten mir mit, dass sie übereingekommen<lb/>
+sind, ab 1. Oktober enger zu kooperieren. Zuerst wird die tech<lb break="no"/>nische und kommerzielle Siegendorfer Leitung von Tulln aus geführt<lb/>
+werden. Die Eigentumsverhältnisse können sich in der Folge dann<lb/>
+ebenfalls ändern. Wie ich herausgefunden habe, dürfte es hier<lb/>
+einen Optionsvertrag geben. Nach 125 Jahren Familienbesitz geht also<lb/>
+scheinbar früher oder später die Siegendorfer Zuckerfabrik in die<lb/>
+Tullner über. Zu diesem Zweck wird die Personengesellschaft in<lb/>
+eine Aktiengesellschaft umgewandelt. Was mir wichtig erscheint, ist<lb/>
+von <name type="person" ref="per:117098">Vogler</name> sofort einleitend gesagt worden, die Weiterführung der<lb/>
+Siegendorfer Zuckerfabrik ist überhaupt keine Frage. Schon allein<lb/>
+wegen verlängertem Transport der Zuckerrüben nach Tulln über die<lb/>
+Donau käme eine Stillegung auch in weitester Zukunft nicht in Frage.<lb/>
+Der technische Direktor von Siegendorf, <name type="person" ref="per:117142">Schlanitz</name>, ist seinerzeit<lb/>
+von Tulln gekommen und wird daher nach den Tullner Methoden und<lb/>
+Weisungen arbeiten. Die Rübeninspektoren werden auf Grund der<lb/>
+Tullner Erdlabor-Ergebnisse tätig werden. Die Tullner Zucker<lb break="no"/>fabrik hat sich in den letzten Jahren ein eigenes grosses Laboratorium<lb/>
+für Bodenuntersuchungen eingerichtet. Eine wirkliche stärkere Ein<lb break="no"/>flussnahme und Änderung dürfte es nur auf dem kommerziellen Sektor<lb/>
+geben.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97819">PLESCH</name>: Bitte Jour fixe setzen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:117098">Vogler</name> hat mir auch die Situation bei Kurier geschildert. Nach<lb/>
+seiner Information hätte die Geschäftsführung schon vor längerer<lb/>
+Zeit ergänzt werden sollen. Nach Meinung aller Beiratsmitglieder<lb/>
+und auch der Komplementäre ist es unmöglich, dass ein Milliarden<lb break="no"/>umsatz-Unternehmen von einem Geschäftsführer, eben <name type="person" ref="per:116418">Lenhardt</name>, geführt<lb/>
+wird.<lb/>
+</p>
+            <pb n="37-0870" facs="37_1977-07-14_0870.jpg"/>
+            <p xml:space="preserve">Man hat ihm Leute vorgeschlagen er selbst hat gesagt, den oder<lb/>
+jenen möchte er nehmen, nie aber ist es dazu gekommen. Vor der<lb/>
+letzten Sitzung hat man von ihm dann entsprechende Aufstellungen<lb/>
+über die beabsichtigten Investitionen und insbesondere der Renta<lb break="no"/>bilität dieser Investitionen verlangt. Im letzten Moment wurde nur eine<lb/>
+unzulängliche Aufstellung geliefert. Aus diesem Grund wurde sie nicht<lb/>
+genehmigt und <name type="person" ref="per:116418">Lenhardt</name> ist darüber so verärgert gewesen, dass er seinen<lb/>
+Rücktritt mitteilte und gleichzeitig eben darauf verwies, dass er<lb/>
+die Unabhängigkeit des Blattes nicht mehr garantieren könne.<lb/>
+Bei einer Redakteursbesprechung, die <name type="person" ref="per:117098">Vogler</name> leitete, stellte dieser<lb/>
+fest, dass über 60 Redakteure anwesend waren. Seiner Meinung nach eine<lb/>
+stark überhöhte Anzahl. Dort hat ihn <name type="person" ref="per:140711">Peter Rabl</name> attackiert und<lb/>
+meinte, er hätte ununterbrochen interveniert. Da <name type="person" ref="per:117098">Vogler</name> angeblich<lb/>
+dies niemals getan hat, hat er dort vor allen gesagt, einer soll sich<lb/>
+melden, bei dem er interveniert hat. <name type="person" ref="per:117098">Vogler</name> behauptet, er ist in diese<lb/>
+ganze Situation nur deshalb hineingeschlittert, weil der Beiratsvor<lb break="no"/>sitzende, er ist nur der Stellvertreter, drei Tage vorher auf<lb/>
+eine Dienstreise fahren musste. Genau dann ist es ausgebrochen<lb/>
+als er mehr oder minder der einzige Anwesende war, der jetzt<lb/>
+die ganze Verantwortung auch übernehmen muss. Die Landwirtschafts<lb break="no"/>gruppe ist bei 250 Mill. die die Beiratsmitglieder repräsentiert,<lb/>
+mit 13 Mill. vertreten, davon die Tullner Zuckerfabrik mit 6.<lb/>
+Ich fragte natürlich sofort, das ist ja uninteressant, wie schaut es<lb/>
+mit dem Komplementärverhältnis aus. Dort ist von 3 Mill. die<lb/>
+Agrargruppe mit 1 Mill., 1 Mill. hält die Wochenpresse und 1 Mill.<lb/>
+<name type="person" ref="per:112582">Schönherr</name> für irgendeinen Unbekannten oder eine unbekannte Gruppe.<lb/>
+Ich erklärte <name type="person" ref="per:117098">Vogler</name> dann ausserdem, es kommt nicht auf die Beteiligungs<lb break="no"/>verhältnisse allein an, sondern wie stark die Repräsentanten dieser<lb/>
+Beteiligung aktiv sind. Er ist bekannt als äusserst unangenehmer,<lb/>
+aber auch sehr fleissiger Mann und ich kann mir daher sehr gut<lb/>
+vorstellen, dass er bereits jetzt und in Zukunft noch viel<lb/>
+stärker die Führung an sich reissen wird. Dazu hat er sich nicht<lb/>
+geäussert, nur vielsagend gelächelt.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="37_0864_01" facs="37_1977-07-14_0864-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 14.7.1977</head>
+         </div>
+         <pb n="37_0864_02" facs="37_1977-07-14_0864-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

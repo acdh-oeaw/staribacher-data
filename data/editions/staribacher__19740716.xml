@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstag, der 16. Juli 1974</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band21_1974-07-16</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1974-07-16">Dienstag, 16. Juli 1974</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-12-06">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band21/">
+      <body>
+         <pb n="21-0886" facs="21_1974-07-16_0886.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Dienstag, 16. Juli 1974</p><p xml:space="preserve">Vertreter der sogenannten ERFA-Gruppe, d.h. Erfahrungsgruppe<lb/>
+Hoteliers aus Kitzbühel, die 14 Betriebe umfassen, wollten kurz<lb break="no"/>fristig bei mir vorsprechen, um mir über die katastrophale Lage<lb/>
+im Fremdenverkehr zu berichten. Was sie erwarteten, war, dass ich<lb/>
+sofort auf ihre Vorschläge – Steuererleichterungen, Kredite usw. –<lb/>
+einsteige. Selbst <name type="person" ref="per:111367">Würzl</name> setzte ihnen auseinander, dass dies nicht<lb/>
+der richtige Weg sei. Ich erklärte nur dezidiert, dass insbeson<lb break="no"/>dere Kitzbühel jetzt als teures Gebiet verschrien sei und machte<lb/>
+nicht zuletzt die unverantwortliche Preispropaganda und Hysterie<lb/>
+verantwortlich. Der Kurier hatte meine Äusserung beim Pressefrüh<lb break="no"/>stück ganz gross als "<name type="person" ref="per:97985">Staribacher</name> sucht Wunderwaffe" herausgebracht.<lb/>
+Ich fürchte nur, dass wir diese Wunderwaffe beim besten Willen gar<lb/>
+nicht finden werden. Die Hoteliers gaben aber zu, dass jetzt seit<lb/>
+Samstag ein befriedigender Besuch festzustellen ist.</p><p xml:space="preserve"><name type="person" ref="per:97311">Androsch</name> hat mir vor der Ministerratssitzung gesagt, dass er über<lb/>
+die Mitteilungen bezüglich der Fremdenverkehrsentwicklung nicht<lb/>
+glücklich ist. Er hat schon einen Teil der Steuererleichterungen<lb/>
+gegeben, kürzere Abschreibungsdauer für sämtliche bauliche An<lb break="no"/>lagen und insbesondere Herausnahme der Nasseinheiten aus den festen<lb/>
+Baubestandteilen und dadurch wesentlich kürzere Abschreibungen, und<lb/>
+wird nächste Woche den zweiten Teil mit der Handelskammer und der<lb/>
+Hoteliervereinigung abschliessen, wozu er mich jetzt dann doch<lb/>
+endlich auch dazu eingeladen hat. Ich glaube trotzdem, dass die<lb/>
+Methode, wie ich den ersten Rückschlag im Fremdenverkehr versucht<lb/>
+habe, auch in der Öffentlichkeit aufzufangen, richtig war. Natür<lb break="no"/>lich hätte ich hergehen können und die Juni-Rückgänge und die erste<lb/>
+Juli-Hälfte-Katastrophe insbesondere in den teureren Hotels und<lb/>
+Pensionen entweder negieren oder bagatellisieren. Dies hätte dazu<lb/>
+geführt, dass man mir vielleicht vorgeworfen hätte, dass ich nicht<lb/>
+einmal Entwicklungen erkennen kann und natürlich dagegen auch nichts<lb/>
+unternehme. So glaube ich tatsächlich, dass wir die Spitze des An<lb break="no"/>griffes abgefangen haben. Gleichzeitig konnte ich einen Gegenangriff<lb/>
+gegen die wirklich oft unverantwortlichen Äusserungen der Fremden<lb break="no"/>verkehrsverantwortlichen – ich denke hier an <name type="person" ref="per:134323">Manzano</name> – anprangern.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97377">BUKOWSKI</name>: Bitte von der ÖFVW Dr. <name type="person" ref="per:111736">Zolles</name> resp. <name type="person" ref="per:111699">Puffler</name><lb/>
+die Äusserungen über die Verteuerungen in Österreich auf dem Hotelsek<lb break="no"/>tor usw. zusammenstellen lassen.</p><pb n="21-0887" facs="21_1974-07-16_0887.jpg"/><p xml:space="preserve">Vor dem Ministerrat besprach ich mit <name type="person" ref="per:98055">Weihs</name> auch die weitere Vor<lb break="no"/>gangsweise bei den MOG. Ich machte ihn darauf aufmerksam, dass<lb/>
+der ÖGB-Präsident <name type="person" ref="per:97346">Benya</name> unter gar keinen Umständen geneigt ist,<lb/>
+der ÖVP in dieser Frage entgegenzukommen. <name type="person" ref="per:98055">Weihs</name> nimmt an, dass<lb/>
+sein Vorschlag insbesondere weil der ÖGB in die Verwaltungskommission<lb/>
+aufgenommen werden soll und weil gleichzeitig ein alternierender<lb/>
+Vorsitzender in den Fonds vorgesehen ist, die ÖVP diese Vorschläge<lb/>
+nicht akzeptieren wird. Ich hatte abends Gelegenheit bei dem<lb/>
+Empfang für den scheidenden amerikanischen Sozialattache <name type="person" ref="per:146030">Bergmann</name><lb/>
+mit <name type="person" ref="per:97346">Benya</name> neuerdings über dieses Problem zu sprechen. <name type="person" ref="per:97346">Benya</name> hat<lb/>
+Staatssekretär <name type="person" ref="per:97511">Haiden</name>, der sich bei ihm offiziell vorstellte, er<lb break="no"/>klärt, dass jetzt klargestellt werden muss, dass das Landwirtschafts<lb break="no"/>ministerium Vorsorge treffen sollte, wenn die MOG ablaufen, wie<lb/>
+die notwendigsten Massnahmen getroffen werden können. Wenn die<lb/>
+Beamten des Landwirtschaftsministeriums einen solchen Auftrag be<lb break="no"/>kommen, dann wird die ÖVP erkennen, dass es uns ernst ist mit der<lb/>
+Tatsache, tatsächlich die MOG ablaufen zu lassen. <name type="person" ref="per:98055">Weihs</name> selbst<lb/>
+dagegen hat beim Ministerrat mir gesagt, er glaube, die beste<lb/>
+Lösung wäre, wenn wir die MOG mit den Preisgesetzen koppeln.<lb/>
+Genau dies aber will weder <name type="person" ref="per:97346">Benya</name> geschweige denn ich. Die Preisgesetze<lb/>
+sind von der ÖVP abgelehnt, wir legen keinerlei Wert darauf,<lb/>
+jetzt neuerdings zu einer vernünftigen Lösung zu kommen, die Taktik<lb/>
+müsste deshalb so sein, dass die ÖVP entsprechende Anträge über<lb/>
+Marktordnungsänderungen, die wir akzeptieren können, resp. müssten<lb/>
+und gleichzeitig auch über Preisänderungsgesetz-Anträge, die eben<lb break="no"/>falls sie bringen, die Verhandlungen mit uns führen müssten. Nicht<lb/>
+wir sollten die Anbieter sein, sondern die ÖVP. Dann ergibt sich für<lb/>
+uns eine wesentlich andere Ausgangsposition, wenn wir tatsächlich<lb/>
+zu Verhandlungen kommen sollten. Dr. <name type="person" ref="per:97676">Lachs</name> hat auch die Idee gehabt,<lb/>
+wir sollten im Handelsministerium den Beamten den Auftrag geben,<lb/>
+ein Mustergesetz über Landesgesetzliche Preisbildung ausarbeiten<lb/>
+zu lassen. Dadurch würde die andere Seite auch sehen, dass wir<lb/>
+es ernst meinen mit dem Auslaufen aller Wirtschaftsgesetze. Ich<lb/>
+werde dieses Problem bei der nächsten Aussprache mit den soz.<lb/>
+Landeshauptleuten und Stellvertretern für Preisfragen besprechen.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name>: Bitte die Angelegenheit für nächste Sitzung<lb/>
+vormerken.</p><pb n="21-0888" facs="21_1974-07-16_0888.jpg"/><p xml:space="preserve">Vor dem Ministerrat habe ich mit <name type="person" ref="per:97350">Bielka</name> abgestimmt, ob er oder<lb/>
+ich den deutschen Aussenminister <name type="person" ref="per:125813">Genscher</name> bei der Tagung der<lb/>
+Deutschen Handelskammer in Österreich betreuen soll. <name type="person" ref="per:97350">Bielka</name><lb/>
+ersuchte mich ausdrücklich, dass ich diese Funktion übernehmen<lb/>
+sollte, da er zwar <name type="person" ref="per:125813">Genscher</name> eventuell ein Gegenessen im klein<lb break="no"/>sten Kreis gibt, sonst aber es von politischem und seinem per<lb break="no"/>sönlichen Standpunkt lieber hätte, wenn ich als der für die<lb/>
+Handelskammer zuständige Minister offiziell in Erscheinung trete.<lb/>
+Ich habe ihm dies natürlich sofort zugesagt, weil ich froh bin,<lb/>
+weil ich mit ihm genau dasselbe Verhältnis habe wie mit <name type="person" ref="per:97632">Kirch<lb break="no"/>schläger</name>. Auch mit <name type="person" ref="per:97632">Kirchschläger</name> hatte ich immer die entsprechen<lb break="no"/>den Wünsche seiner Politik – sei es, dass ich zuerst in ein Land<lb/>
+gefahren bin, sei es, dass ich zuerst die entsprechenden Fühlung<lb break="no"/>nahmen mit den Ministern aufgenommen habe, sei es, dass ich sogar<lb/>
+von diesen Ländern die ersten Einladungen für die dortigen Minister<lb/>
+ausgesprochen habe – mit einem Wort Vorpostenpolitik für das<lb/>
+Aussenminister gemacht habe. <name type="person" ref="per:97350">Bielka</name> glaube ich, ist sehr froh,<lb/>
+dass diese Zusammenarbeit zwischen uns beiden jetzt so funktioniert.</p><p xml:space="preserve">Im Ministerrat hat <name type="person" ref="per:97668">Kreisky</name> nur neuerdings über die Dienstreisen<lb/>
+kritische Bemerkungen gemacht, das Unterrichtsministerium hat sich<lb/>
+jetzt eine genehmigen lassen, die bereits durchgeführt wird und<lb/>
+meinte nur, dies wird bei der Regierungstagung am Donnerstag ein<lb/>
+wichtiger Besprechungspunkt sein. Ausserdem möchte er die offenen<lb/>
+Fragen der seinerzeitigen Regierungserklärungen von jedem Ressort<lb/>
+schriftlich kurz zusammengestellt hat.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97469">GEHART</name>: Bitte auf Grund der umfangreichen Unter<lb break="no"/>lagen ein Papier: bisherige Miterfüllung<lb/>
+des Regierungsprogrammes durch das HM<lb/>
+ausarbeiten.</p><p xml:space="preserve"><name type="person" ref="per:126284">Leherb</name> und seine Frau <name type="person" ref="per:136839">Profohs</name> kamen einerseits wegen der ungerecht<lb break="no"/>fertigten Steuervorschreibung, die sie haben und andererseits<lb/>
+wegen der Leistungen, die <name type="person" ref="per:136839">Profohs</name> für die ÖFVW im Zusammenhang<lb/>
+mit <name type="person" ref="per:126284">Leherb</name>-Plakaten erbracht hat, bei mir zu deponieren. Ich<lb/>
+setzte ihnen neuerdings auseinander, dass ich jetzt in der ÖFVW<lb/>
+nichts mehr zu bestellen haben und dass ich daher ihren Wunsch<lb/>
+und ihre Forderung nur an diese weiterleiten werde. Darüber<lb/>
+hinaus habe ich aber neuerdings mit <name type="person" ref="per:133082">Auracher</name> gesprochen, dass<lb/>
+<pb n="21-0889" facs="21_1974-07-16_0889.jpg"/>die Millionenvorschreibung von Steuerleistungen <name type="person" ref="per:126284">Leherbs</name>, ich<lb/>
+glaube, es handelt sich um 6 Mill. entsprechend neu überprüft<lb/>
+wird. <name type="person" ref="per:133082">Auracher</name> hat mir zugesichert, dass er mit dem Rechtsvertreter<lb/>
+von <name type="person" ref="per:126284">Leherb</name>, der gleichzeitig scheinbar auch die Steuerfragen behandelt<lb/>
+<name type="person" ref="per:149253">Stern</name>, leider in diesem Fall der <name type="person" ref="per:149253">junge Stern</name> und nicht der <name type="person" ref="per:123312">alte</name>,<lb/>
+wir <name type="person" ref="per:136839">Profohs</name> sagt, vereinbart hat, dass entsprechende Unterlagen ge<lb break="no"/>liefert werden. Sosehr ich Verständnis dafür habe, dass <name type="person" ref="per:126284">Leherb</name> und<lb/>
+insbesondere seine Frau sich bemüht, über mich alle ihre Forderungen<lb/>
+überall durchzusetzen, so sehr wird es mit der Zeit für mich wirklich<lb/>
+eine unerträgliche Belastung. Was mir nur ein Rätsel ist, dass<lb/>
+es noch immer nicht gelungen ist, die vorgesehene Auszeichnung<lb/>
+für <name type="person" ref="per:126284">Leherb</name> zu erreichen.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97377">BUKOWSKI</name>: Bitte setze Deine ganze Kraft dahinter,<lb/>
+damit endlich diese blöde Medaille von<lb/>
+den Ministerien entsprechend beantragt wird.</p><p xml:space="preserve">Die Besichtigung von Altenwörth gibt mir Gelegenheit zu dokumentie<lb break="no"/>ren, dass ich mich nicht nur vom Schreibtisch aus sondern auch<lb/>
+in der Praxis um die Elektrizitätswirtschaft kümmere. Was mich sehr<lb/>
+gefreut hat war, dass der dortige Betriebsleiter Ing. <name type="person" ref="per:149075">Wagner</name> meinte,<lb/>
+noch niemals sei ein Minister unangemeldet und nicht mit grossem<lb/>
+Gefolge auf einer Baustelle, wenn überhaupt, erschienen. In Alten<lb break="no"/>wörth gab es nur das Problem, dass auch bezüglich Betoneisen<lb/>
+grössere Lieferschwierigkeiten bestehen. Da meistens gewisse Dimen<lb break="no"/>sionen ausgehen, muss man auf andere Dimensionen zurückgreifen,<lb/>
+wodurch eine neue statische Berechnung erfolgen muss. Technisch kein<lb/>
+Problem, kostet nur Zeit und Aufwand. Der Baufortschritt wird normal<lb/>
+weiterlaufen und liegt im Zeitplan. In Zwentendorf beim Kernkraft<lb break="no"/>werk ist die Situation leider anders. Dort sind die Bauvorhaben eben<lb break="no"/>falls im Zeitplan, die maschinelle Ausrüstung aber macht bereits<lb/>
+Schwierigkeiten. Dazu kommt, wie mir der eine Geschäftsführer <name type="person" ref="per:110040">Nentwich</name><lb/>
+der übrigens nur als einziger dort war, was ich gar nicht bedauerte,<lb/>
+der ÖVP-Mann <name type="person" ref="per:97990">Staudinger</name> dürfte auf Urlaub sein und hat etwas an<lb break="no"/>deres zu tun gehabt, ich habe mich nicht danach erkundigt, mir mit<lb break="no"/>geteilt, dass er grosse Schwierigkeiten mit den Teilgenehmigungen<lb/>
+vom Gesundheitsministerium und Umweltschutzministerium hat diese<lb/>
+zu bekommen. Um den Zeitplan einzuhalten, hat er ständig die<lb/>
+Notwendigkeit, Entscheidungen zu treffen, bevor eine endgültige<lb/>
+Genehmigung vorliegt. <name type="person" ref="per:107937">Frank</name>, dem er diesen Zustand vor längerer Zeit<lb/>
+<pb n="21-0890" facs="21_1974-07-16_0890.jpg"/>schon gesagt hat, meint, er müsste unbedingt darauf beharren, dass<lb/>
+die Fertigstellung des Kernkraftwerkes termingemäss erfolgt. <name type="person" ref="per:112014">Ehrbacher</name><lb/>
+erzählte mir, dass Schwierigkeiten zu erwarten sind mit der Genera<lb break="no"/>torenauslieferung durch Elin für das Dampfkraftwerk Korneuburg.<lb/>
+<name type="person" ref="per:112014">Ehrbacher</name> wird, wenn die Elin sich nicht an die entsprechenden<lb/>
+Liefertermine hält, als Bundeslastverteiler dem Handelsministerium<lb/>
+einen entsprechenden Brief schreiben. Durch Nichtfertigstellung von<lb/>
+Kraftwerken könnte nämlich die Energieversorgung tatsächlich in<lb/>
+grosse Schwierigkeiten geraten. <name type="person" ref="per:112014">Ehrbacher</name> kann sich den Rückgang<lb/>
+auf 3 % Zuwachs im Frühjahr 1974 nicht erklären, ich selbst führe<lb/>
+das auf den milden Winter zurück, da wir jetzt bereits wieder einen<lb/>
+8 %-igen Zuwachs verzeichnen können. Eine konjunkturelle Abschwä<lb break="no"/>chung ist beim besten Willen derzeit nicht zu erkennen, die eine<lb/>
+entsprechende Reduzierung des Stromzuwachses bedingen würde. Auf<lb/>
+lange Sicht gesehen habe ich immer behauptet und ich glaube, dass<lb/>
+es auch jetzt noch stimmt, können wir mit einer 10-jährigen Verdoppe<lb break="no"/>lung, d.h. mit einem 7 %-igen Zuwachs an Energie rechnen. <name type="person" ref="per:110040">Nentwich</name><lb/>
+machte mich darauf aufmerksam, dass er die Verträge über die Anlie<lb break="no"/>ferung von Uran und über die Anreicherung abgeschlossen sind. Nicht<lb/>
+aber für die Wiederaufarbeitung und vor allem einmal über die End<lb break="no"/>lagerung des abgearbeiteten radioaktiven Materials. <name type="person" ref="per:110040">Nentwich</name> möchte,<lb/>
+dass wir versuchen mit der BRD zu einem Regierungsübereinkommen<lb/>
+über die Wiederaufarbeitung und über die Endlagerung zu kommen. Die<lb/>
+Wiederaufarbeitung, die 1972 25 $ für das kg betragen hat, ist<lb/>
+mittlerweile auf 100 $ gestiegen. Für die Endlagerung glaubt er<lb/>
+würde man auch 100 Dollar für das Kilogramm ansetzen müssen, die<lb/>
+in den seinerzeitigen Kalkulationen noch gar nicht untergebracht<lb/>
+sind. Ich habe <name type="person" ref="per:110040">Nentwich</name> ersucht, er soll mir eine diesbezüg<lb break="no"/>liche Information sofort zustellen, damit ich entsprechende<lb/>
+Schritte vorbereiten kann.</p><p xml:space="preserve">Um die zeitgerechte Inbetriebnahme zu sichern, werde ich mit<lb/>
+Minister <name type="person" ref="per:107938">Leodolter</name> die offenen Probleme der Teilgenehmigungen<lb/>
+und insbesondere auch natürlich der Endlagerung von radioaktivem<lb/>
+Material besprechen. Darüber hinaus wird es notwendig sein,<lb/>
+eine prinzipielle Teilgenehmigung oder Vorausgenehmigung für<lb/>
+das Gemeinschaftskraftwerk Schein, das heisst das zweite Atomkraft<lb break="no"/>werk GKS vom Gesundheits- und Umweltschutzministerium Gusch die<lb/>
+Genehmigung zu erhalten. Darüber hinaus ist es notwendig, dass jetzt<lb/>
+eine Vorausgenehmigung für die Standorte die weitere Kernkraftwerke<lb/>
+<pb n="21-0891" facs="21_1974-07-16_0891.jpg"/>in Österreich einnehmen sollen, bereits jetzt vorgenehmigt werden,<lb/>
+damit man sich um die entsprechenden Flächen und Wassermengen bemüht.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97469">GEHART</name>: Bitte eventuelle weitere offene Fragen<lb/>
+für Regierungsbesprechung am Donnerstag<lb/>
+vorbereiten.</p><p xml:space="preserve">Die Rundfunkreform, die noch im Sommer jetzt wegen der personellen<lb/>
+Besetzung durchgeführt werden muss, läuft leider nicht so, wie ich<lb/>
+es mir gerne wünschen würde. Ich habe <name type="person" ref="per:97346">Benya</name> vorgeschlagen, man<lb/>
+soll nicht auf <name type="person" ref="per:97672">Kreuzer</name> vergessen, der bis jetzt meiner Meinung nach<lb/>
+auch dann, wenn andere Genossen anderer Meinung sind, phantastische<lb/>
+Arbeit im Fernsehen geleistet hat. Wer jemals erlebt hat, wie<lb/>
+<name type="person" ref="per:97672">Kreuzer</name> objektiv aber doch für jemanden, der es versteht sehr ge<lb break="no"/>schickt bei Interviews unseren Leuten die Möglichkeit gegeben hat,<lb/>
+sich zu entfalten, der weiss, was eine solche Interview-Methode<lb/>
+wert ist. Wenn natürlich jemand unbeholfen, dieses System nicht<lb/>
+versteht zu spielen, dann kann der Eindruck entstehen, dass <name type="person" ref="per:97672">Kreuzer</name><lb/>
+auf ihn losgeht. Wenn es sich in dem Fall um einen Genossen handelt<lb/>
+dann tritt sofort eine gewisse Empörung in unserer Partei auf.<lb/>
+<name type="person" ref="per:97346">Benya</name> selbst habe ich für die Idee gewonnen, dass man <name type="person" ref="per:97672">Kreuzer</name> in<lb/>
+eine entsprechende Position bringt, Auch <name type="person" ref="per:97444">Fischer Heinzi</name> und <name type="person" ref="per:97356">Charly<lb/>
+Blecha</name> sind dieser Meinung. Was aber tatsächlich unser Zampano<lb/>
+machen wird, weiss kein Mensch bis jetzt. Ich werde mich auf alle<lb/>
+Fälle weiter bemühen.</p><p xml:space="preserve">Dr. <name type="person" ref="per:115647">Heiss</name>, der Besitzer von Tyrolia, der sich gleichzeitig mit<lb/>
+Aluminium-Ranshofen an der Fa. Riha mit 37,5 % beteiligt, erklärt<lb/>
+mit dezidiert, dass er nicht bereit ist, den Verlust von 10 Mill.<lb/>
+im Vorjahr und bis 12 Mill. heuer weiter zu tragen. Er hat <name type="person" ref="per:133869">Wimberger</name><lb/>
+nur zugesichert, er wartet noch das Gutachten von der Kanzlei<lb/>
+Dr. <name type="person" ref="per:97337">Bauer</name> <name type="person" ref="per:97311">Androsch</name>, das 29. Juli geliefert werden soll, ab. Wenn<lb/>
+dieses Gutachten negativ ausfällt und er erwartet nichts anderes,<lb/>
+da heuer ein 40 %-iger Umsatzrückgang zu erwarten ist und das<lb/>
+Unternehmen in einem gemieteten Objekt von Steyr-Daimler-Puch<lb/>
+lebt, dann springt er aus. Er hat nichts dagegen, wenn Ranshofen<lb/>
+seinen Anteil übernehmen will. Da er diese Auffassung auch<lb/>
+<name type="person" ref="per:97668">Kreisky</name>, wenn er es wünscht mitteilen möchte, habe ich mich mit<lb/>
+<name type="person" ref="per:97668">Kreisky</name> abends in Verbindung gesetzt, <name type="person" ref="per:97668">Kreisky</name> hatte keine Zeit,<lb/>
+er meinte nur, die Vorgangsweise von <name type="person" ref="per:133869">Wimberger</name>, Ranshofen, sei<lb/>
+nicht zweckmässig. Er hätte den Betrieb einmal besucht und fest<lb break="no"/>gestellt, dass es sich um eine gute Firma handelt. Von den 352 Be<lb break="no"/><pb n="21-0892" facs="21_1974-07-16_0892.jpg"/>schäftigten hat <name type="person" ref="per:133869">Wimberger</name> erklärt, 200 übernehmen zu könne,<lb/>
+während <name type="person" ref="per:115647">Heiss</name> nur für maximal 100 eine Möglichkeit bei Euromarkt,<lb/>
+einer gemeinsamen Vertriebsfirma von Tyrolia und Ranshofen und<lb/>
+Linz für möglich hält. Was <name type="person" ref="per:115647">Heiss</name> besonders kritisiert ist, dass<lb/>
+man 352 Beschäftigte 105 Angestellte sind. Der Geschäftsführer,<lb/>
+der den Auftrag hatte, entsprechende Massnahmen gegen diesen<lb/>
+schlechten Schlüssel zu setzen, hat im Gegenteil noch<lb/>
+3 neue Angestellte aufgenommen. Am kritischsten meint <name type="person" ref="per:115647">Heiss</name><lb/>
+ist, dass die Anlage nur 8 Mill. S wert ist, weil es sich eben<lb/>
+um ein Mietobjekt handelt, für das Steyr-Daimler-Puch 24 Mill. S<lb/>
+Ablöse wollte. Eine total verfahrene Angelegenheit, die sicher<lb break="no"/>lich mit Liquidation des Betriebes enden wird.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97498">GRÜNWALD</name> UND <name type="person" ref="per:98040">WAIS</name>: <name type="person" ref="per:97493">Gröger</name> soll die weitere<lb/>
+Entwicklung genau verfolgen.</p><p xml:space="preserve">Minister a.d. Präs. <name type="person" ref="per:112215">Weiss</name> von der Verbundgesellschaft hat<lb/>
+mich telefonisch ersucht, ich möchte von einer schnellen Lösung<lb/>
+des Personalproblems Ennskraftwerke/Donau Abstand nehmen, da<lb/>
+er noch diesbezügliche Besprechungen mit seiner Partei führen möchte.<lb/>
+Er versicherte mir neuerdings, dass die Mehrheitsverhältnisse<lb/>
+sowohl in der Verbund als auch in der Donau durch Austausch der<lb/>
+Aufsichtsräte gesichert wird. Da er derzeit auf Urlaub ist,<lb/>
+habe ich ihm zugesagt, ich werde ihn Mittwoch nächster Woche be<lb break="no"/>suchen fahren. Wichtig erscheint mir neuerdings die Bestäti<lb break="no"/>gung <name type="person" ref="per:112215">Weiss's</name> festzuhalten, dass er noch Zeit braucht, um die ÖVP-<lb/>
+Fraktion von der Notwendigkeit der Reorganisation zu überzeugen und<lb/>
+neuerdings bestätigt, dass wir selbstverständlich den<lb/>
+Mehrheitsanspruch sowohl bei der Donau als auch bei der Verbund<lb/>
+haben und eine diesbezügliche Umbesetzung erwartet und zustimmt.</p><p xml:space="preserve"/></div>
+      </body>
+      <back>
+         <pb n="21_0885_01" facs="21_1974-07-16_0885-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 16.7.1974</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="21_0892_01" facs="21_1974-07-16_0892-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesordnung 126. Ministerratssitzung, 16.7.1974</head>
+            <gap reason="sampling"/>
+            <pb n="21_0892_02" facs="21_1974-07-16_0892-02.jpg"/>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstag, der 28. Juni 1977</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band37_1977-06-28</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1977-06-28">Dienstag, 28. Juni 1977</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-06-20">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="37-0774" facs="37_1977-06-28_0774.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Dienstag, 28. Juni 1977<lb/>
+</p>
+            <p xml:space="preserve">Die Aussprache zwischen GD <name type="person" ref="per:97337">Bauer</name>, <name type="person" ref="per:97738">Meszaros</name>, <name type="person" ref="per:142434">Schmatzberger</name> von der<lb/>
+ÖMV, Gen.Dir. <name type="person" ref="per:97470">Geist</name> und Dir. <name type="person" ref="per:97498">Grünwald</name> ÖIAG sowie <name type="person" ref="per:107937">Frank</name>, <name type="person" ref="per:110944">Zluwa</name>,<lb/>
+<name type="person" ref="per:98040">Wais</name> begann frostig und in einem Klima, wie ich es noch nie erlebt<lb/>
+habe. Ich fragte, ob die ÖMV kompromissbereit wäre und gewisse<lb/>
+Unterlagen über Preise und Verträge bezüglich des Gases, welches<lb/>
+durch die WAG, d.h. Pipelines die das iranisch-russische Gas<lb/>
+geben würde. <name type="person" ref="per:97337">Bauer</name> lehnte so kategorisch ab, weil er, wie ich mich<lb/>
+später <choice><choice><sic>vom</sic><corr>von den?</corr></choice></choice> Rohrleitungsgesetz-Bestimmungen selbst überzeugen<lb/>
+konnte, tatsächlich auch meiner Meinung nach günstiger lag als<lb/>
+<name type="person" ref="per:107937">Frank</name> mit seinen Forderungen. Da ich mich aber über die Art<lb/>
+und Weise <name type="person" ref="per:97337">Bauers</name> sehr ärgerte, entschied ich ohne eine Debatte<lb/>
+wir werden zwar die volkswirtschaftliche Notwendigkeit im Rahmen<lb/>
+des Pipeline-Verfahrens dem Verkehrsministerium bestätigen,<lb/>
+gleichzeitig aber dem langen Verlangen des Arbeiterkammertages<lb/>
+Rechnung tragend das Preisverfahren für Gas einleiten. Durch<lb/>
+dieses Verfahren werden wir alle Unterlagen, die er jetzt nicht<lb/>
+bereit ist, zur Verfügung zu stellen, holen. Über die zweite<lb/>
+Frage der Anpassung der Öl- und Gasförderungsverträge an das neue<lb/>
+Berggesetz, waren wir in der besseren rechtlichen Situation, was<lb/>
+<name type="person" ref="per:97337">Bauer</name> zwar anfangs auch nicht zur Kenntnis nehmen wollte, <name type="person" ref="per:97738">Meszaros</name><lb/>
+aber sofort erkannte. Hier gelang es mir, zwischen <name type="person" ref="per:107937">Frank</name> und <name type="person" ref="per:97738">Meszaros</name><lb/>
+auch entsprechende Kompromisse zu erzielen. Über die Erhöhung des<lb/>
+Förderzinses von Erdöl derzeit 6 % auf 10 % sowie von Erdgas derzeit<lb/>
+3 % auf 10 %, berechnet vom durchschnittlichen 86 %-igen Importpreis<lb/>
+was ca. eine Verdoppelung der tatsächlich 1976 mit 186 Mio. S<lb/>
+bezahlten Förderzinse bedeutet, stimmte die ÖMV dann doch zu.<lb/>
+Auch über die zusätzlichen Aufschliessungen ausserhalb<add>[der]</add> anerkannten<lb/>
+Gewinnungsfelder hat dann <name type="person" ref="per:107937">Frank</name> wieder zugestimmt, dass nicht ein<lb/>
+ebenso hoher Betrag wie für die Förderzinse aufgewendet werden<lb/>
+muss, nur Konsultationen über ein mehrjähriges der technischen Lei<lb break="no"/>stungsfähigkeit der ÖMV angepasstes Aufsuchungsprogramm zur Kon<lb break="no"/>sultation vorgelegt wird, wo ausserhalb der anerkannten Gewinnungs<lb break="no"/>felder ein geophysikalisches mehrjähriges Arbeitsprogramm erstellen<lb/>
+und auch zur Konsultation vorlegen wird. Was die ÖMV nur ständig<lb/>
+aufregt ist die Art und der Ton, den <name type="person" ref="per:107937">Frank</name> ihnen gegenüber anschlägt.<lb/>
+Seinerzeit die Androhung, sie durch Polizei vorführen zu lassen,<lb/>
+wenn sie zu Besprechungen nicht erscheinen, jetzt ein Brief, wo<lb/>
+er die Forderungen präzisierte und glattweg erklärte, ihr Einver<lb break="no"/>ständnis zu den von ihm vorgeschlagenen Bedingungen durch Unter<lb break="no"/>fertigung des beigeschlossenen Briefdoppels und dessen Retournierung<lb/>
+<pb n="37-0775" facs="37_1977-06-28_0775.jpg"/>innerhalb von 3 Wochen zu bekunden. Wenn <name type="person" ref="per:107937">Frank</name> nicht ein so aner<lb break="no"/>kannter Fachmann wäre, letzten Endes hat ihn ja sogar Gen.Dir.<lb/>
+<name type="person" ref="per:97337">Bauer</name> mir gegenüber vorgeschlagen, würde er sicherlich schon von<lb/>
+allen, die sich seinerzeit für ihn eingesetzt haben, und das war die<lb/>
+gesamte Energiewirtschaft, längst schon moralisch und fachlich<lb/>
+verzichtet. So aber müssen sich alle mehr oder minder diese Art<lb/>
+gefallen lassen. Sachlich hat er meistens recht, in der Form liegt<lb/>
+dieser Brief z.B. deutlich wieder zeigte, manchmal daneben.<lb/>
+Dass die ÖMV nicht in ihrer Aufsichtsratssitzung hart reagiert<lb/>
+hat, die Konzessionen sind weil man sich nicht einigen konnte<lb/>
+mit 11. Juni abgelaufen, alle Bohrmannschaften mussten deshalb<lb/>
+aufhören oder sogar entlassen werden, ist nur darauf zurückzuführen,<lb/>
+dass <name type="person" ref="per:97498">Grünwald</name> hier sich entsprechend eingeschaltet hat. Ich habe<lb/>
+dies auch dankend herausgestrichen. Auch über die strittige Frage<lb/>
+von Uran – Beteiligung der ÖMV mit dem deutschen Partner – konnte<lb/>
+eine Einigung erzielt werden. Hier wurde der vorgelegte Vertrag<lb/>
+wo die ÖMV ausdrücklich versuchte, diesen als vertraulich zu<lb/>
+behandeln, von der Bergbehörde kommentiert und der Kommentar<lb/>
+sogar dem deutschen Partner übergeben.Dass der ÖMV gelang, den<lb/>
+deutschen Partner vertragsmässig zu einer gewissen Zustimmung<lb/>
+zu bringen, wurde dann im Kommentar als berggesetzwidrig darge<lb break="no"/>legt. Über eine solche bürokratische Vorgangsweise hätte ich mich<lb/>
+anstelle der ÖMV auch entsprechend aufgeregt. Weiters ärgerte<lb/>
+mich, ohne dass ich das natürlich der ÖMV sagte, dass <name type="person" ref="per:107937">Frank</name>, wie<lb/>
+es in der Geschäftsordnung vorgesehen ist, für den Bundesminister<lb/>
+Briefe zeichnet, ohne dass ich diese Brief vorher sehe. Der Akt wurde<lb/>
+uns, wie <name type="person" ref="per:98040">Wais</name> eindeutig feststellt, vor Hinterlegung vorgeschrieben.<lb/>
+Ich hoffe, dass mit dieser Aussprache wenigstens für eine gewisse<lb/>
+Zeit wieder der Streit mit der ÖMV beigelegt ist. Wie lange weiss<lb/>
+ich wirklich nicht.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name>: Bitte trachte mit <name type="person" ref="per:110944">Zluwa</name> jetzt nicht nur das<lb/>
+Protokoll zu machen, sondern auch die Vereinbarungen so schnell wie<lb/>
+möglich zu finalisieren.<lb/>
+</p>
+            <p xml:space="preserve">Der Vertreter der Fa. CREDEX, Dkfm. <name type="person" ref="per:113606">Wagner</name>, möchte ein südafrikanisches<lb/>
+Ingenieurbüro nach Österreich bringen, wenn der Leiter dieses<lb/>
+Büros die österr. Staatsbürgerschaft bekommt. Meine Erkundigungen<lb/>
+bei Gen.Dir. <name type="person" ref="per:114047">Flöttl</name> von der BAWAG, wo er vorher arbeitete, ergaben,<lb/>
+dass es sich um einen seriösen Mann handelt. Ob es möglich ist,<lb/>
+einem Ingenieurbüroleiter, der nie in Österreich sich auch nur<lb/>
+eine Stunde aufgehalten hat, die österr. Staatsbürgerschaft zu geben,<lb/>
+<pb n="37-0776" facs="37_1977-06-28_0776.jpg"/>muss erst festgestellt werden.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97819">PLESCH</name>: Bitte mit Innenministerium besprechen.<lb/>
+</p>
+            <p xml:space="preserve">Im Konsumentenbeirat verwies ich darauf, dass seit der letzten<lb/>
+Sitzung es möglich war, im Parlament einen einstimmigen Beschluss<lb/>
+über fairen Wettbewerb und Nahversorgung zu erreichen. Da wir er<lb break="no"/>sucht wurden, im Expertengremium Probleme des Strukturwandels im<lb/>
+Handel einzusetzen, schlug ich dann gleich <name type="person" ref="per:97860">Rauter</name> von der Konsum<lb break="no"/>genossenschaft vor. Weiters war es gelungen, ein Konsumentenschutz<lb break="no"/>gesetz zu besprechen, das Dr. <name type="person" ref="per:140510">Keller</name> in unserem Beirat behandelt hatte<lb/>
+und jetzt sozusagen als letzte Tat berichtete. Der grosse Unterschied<lb/>
+besteht darin, dass durch jahrelange Bemühungen zwischen den Inter<lb break="no"/>essenvertretungen es möglich war, im fairen Wettbewerb einen ein<lb break="no"/>stimmigen Beschluss zustande zu bringen. <name type="person" ref="per:140510">Keller</name> meinte, das Konsumenten<lb break="no"/>schutzgesetz werde jetzt vorgestellt und wie immer die Interessenver<lb break="no"/>tretungen oder die davon Betroffenen sich dazu stellen, es wird im<lb/>
+Parlament im Herbst eingebracht. Diese verschiedene Arbeitsweise<lb/>
+passt mir politisch gesehen sehr in den Kram, denn ich kann damit<lb/>
+der Handelskammer beweisen, dass es auch anders geht. Als letztes<lb/>
+erwähnte ich noch, dass die Bundeshandelskammer auf Drängen der Textil-<lb/>
+und Bekleidungsindustrie eine Art Meldepflicht für die Einfuhr von<lb/>
+Textilien und Bekleidung verlangt, was handelspolitisch sehr fraglich<lb/>
+ist und faktisch nicht die wirkliche Lösung bringt. Die Franzosen haben,<lb/>
+wie mir jetzt mitgeteilt wurde, in der Zwischenzeit die Entliberali<lb break="no"/>sierung von Bekleidung zum Schutze ihrer Industrie verfügt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte lass dies sofort prüfen.<lb/>
+</p>
+            <p xml:space="preserve">Die Arbeiten in den Ausschüssen des Konsumentenbeirates sind zwar<lb/>
+vielleicht für manchen langsam aber doch systematisch weitergegangen.<lb/>
+Ich hoffe, dass die neue Besetzung, Dr. <name type="person" ref="per:114460">Luchinetti</name> als Sekretärin<lb/>
+und <name type="person" ref="per:98040">Wais</name> als Betreuer vom Büro statt <name type="person" ref="per:114508">Tieber</name>, den Gang ein wenig<lb/>
+beschleunigen werden. Bezüglich der Arbeitsgruppe Kraftfahrzeug<lb break="no"/>schlichtungsstelle wurde zwar berichtet, dass im Bundesministerium<lb/>
+12 Berichte eingelangt sind, dass sich die Länder zu den Vorschlägen<lb/>
+stellen, doch konnte <name type="person" ref="per:112051">Singer</name> keine Sachinformationsmitteilung geben.<lb/>
+Zum Glück war vor einigen Tagen der ARBÖ bei mir, der über eigene<lb/>
+Erhebungen in den Ländern verfügte. Die Handelskammer ist nicht<lb/>
+bereit, die Kraftfahrverbände heranzuziehen. Wohl aber würde sie<lb/>
+Beschwerdefälle der Kraftfahrverbände mit diesen versuchen, gemeinsam<lb/>
+zu lösen. Mit Recht konnte <name type="person" ref="per:97406">Ebert</name> darauf hinweisen, dass ihm kein<lb/>
+einziger Fall, der nicht positiv erledigt wurde und von Kraftfahr<lb break="no"/><pb n="37-0777" facs="37_1977-06-28_0777.jpg"/>verbänden gebracht oder vertreten wird, bekannt ist.Abends habe<lb/>
+ich dann bei der ARBÖ-Geburtstagsfeier für <name type="person" ref="per:97563">Hofstetter</name> 65, Hofrat<lb/>
+Dr. <name type="person" ref="per:147036">Bauer</name>, Salzburg 60 und NR <name type="person" ref="per:97558">Hobl</name> 50 Jahre die ARBÖ-Leute aufgefordert,<lb/>
+jetzt ihre Mitglieder entsprechend zu informieren und die Beschwerden<lb/>
+zu aktivieren.<lb/>
+</p>
+            <p xml:space="preserve">Schwierigkeiten kann es geben bei dem Ausschuss über die leichtentflamm<lb break="no"/>baren Textilien. Der Sekr. <name type="person" ref="per:115012">Catharin</name> von der Bekleidungsindustrie<lb/>
+will erst die entsprechenden Prüfungen und Untersuchungen auch vom<lb/>
+medizinischen Standpunkt, weil in Amerika man leichtentflammbare<lb/>
+Textilien kennzeichnen muss und jetzt festgestellt hat, dass die<lb/>
+nichtentflammbaren durch ihre Imprägnation als krebserregend einge<lb break="no"/>stuft werden. 100 Mill. $ erzeugte Waren sind zurückgegangen, weil sie<lb/>
+nicht verkauft werden konnten. Dr. <name type="person" ref="per:116971">Smolka</name> vom ÖGB möchte überhaupt,<lb/>
+dass die medizinischen Statistiken und Informationen geändert werden.<lb/>
+Jetzt werden nur verletzungsbezogene Statistiken geführt und Unfall<lb break="no"/>daten gesammelt in Hinkunft sollen auch objektbezogene wie die OECD<lb/>
+verlangt, erstellt werden. Ich versprach, dass wir uns mit dem Gesund<lb break="no"/>heitsministerium und Sozialministerium in Verbindung setzen werden.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name>: Kläre, ob so eine Möglichkeit überhaupt besteht.<lb/>
+</p>
+            <p xml:space="preserve">Einen gewissen Erfolg können wir bei der Werbung wieder verzeichnen.<lb/>
+Die Werbebranche sieht ein, dass ein Widerruf für unrichtige Ankündi<lb break="no"/>gungen auch in Österreich kommen muss. Die Extremforderung geht dahin,<lb/>
+dass derselbe Spot z.B. im Fernsehen genauso oft laufen sollte wie<lb/>
+er angekündigt wurde. Dies würde bei 3.200 S pro Sekunde in der<lb/>
+Hauptwerbezeit ja selbst bei 1.800 S pro Sekunde in der Nebenwerbezeit<lb/>
+ungeheure Summen und Belastungen bringen. Im Prinzip aber dass eine<lb/>
+Berichtigung erfolgen muss, sind sich alle klar. Auch in der Frage<lb/>
+der Fernschulen wurde durch den Konsumentenbeirat eine Selbstbe<lb break="no"/>reinigung erreicht, nicht aber so beim Kurswesen. Dort gibt es noch immer<lb/>
+12 Schulen auf GesmbH-Basis, die nur zum Teil entsprechen. Ich schlug<lb/>
+vor, man sollte eine Art Qualifikation festlegen, die einen Kurs und<lb/>
+deren Veranstalter genau klassifiziert, wenn man will eine Art<lb/>
+Produkt-Deklaration.<lb/>
+</p>
+            <pb n="37-0778" facs="37_1977-06-28_0778.jpg"/>
+            <p xml:space="preserve">Ein wirklich ungelöstes Problem stellt die Nettopreisverordnung<lb/>
+dar. Die Kritik auch der AK und des ÖGB, die seinerzeit diese<lb/>
+Nettopreisverordnung, wie ich noch Kammeramtsdirektor war,<lb/>
+verlangt und durchgesetzt habe, ist mit der jetzigen Lösung auch<lb/>
+nicht mehr zufrieden. Am 30.9.1977 würden die Nettopreise auslau<lb break="no"/>fen. Da sicherlich es nicht möglich ist, bis zu diesem Zeitpunkt<lb/>
+einen besseren Vorschlag zu machen, fürchte ich, dass wir sie<lb/>
+wieder verlängern werden. Mit Recht verlangt die Handelskammer<lb/>
+dass nicht nur kritisiert wird, sondern dass auch entsprechende<lb/>
+bessere Vorschläge kommen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name>: Bitte auf das nächste Jour fixe AK setzen.<lb/>
+</p>
+            <p xml:space="preserve">Die anderen Punkte wie Reisebürogesetz, Ladenschlusserhebung, Neu<lb break="no"/>auflage der Konsumentenfibel, Austrifizierung des Gütezeichen<lb break="no"/>rechtes laufen, wenn auch zäh, so doch programmgemäss. Bis<lb/>
+zum nächsten Konsumentenforum werden wir doch eine verhältnis<lb break="no"/>mässig ganz schöne Aktivität und auch positive Ergebnisse<lb/>
+vorweisen können.<lb/>
+</p>
+            <p xml:space="preserve">Der kubanische Botschafter <name type="person" ref="per:147037">Rodríguez</name> fährt auf Urlaub nach Havanna<lb/>
+und wollte vorher noch über die Wirtschaftsmöglichkeiten mit mir<lb/>
+sprechen. Derzeit ist Österreich an einem grossen Projekt 2 Mia. S<lb/>
+von Zellstoff und Papiererzeugung interessiert. Auch Kuba<lb/>
+möchte dafür Kompensation in Form von Lieferung dieser Anlage von<lb/>
+Zellstoff und Papier nach Österreich. Da der Zuckerpreis sehr ge<lb break="no"/>fallen ist und Kuba zwar mit der SU 2,5 Mill. t, mit den<lb/>
+gesamten Oststaaten ca. 3,5 Mill. t fix nur verkauft, 2 Mill.<lb/>
+aber am freien Weltmarkt zu stark sinkendem Zuckerpreis ver<lb break="no"/>kaufen muss, ist seine Handelsbilanz stark in Unordnung geraten.<lb/>
+Trotzdem ist im jetzigen 5-Jahres-Plan, der bis 1980 lauft,<lb/>
+diese Zellstoff- und Papierfabrik mit höchster Priorität<lb/>
+geplant. Der Botschafter wird sich sehr für das österr. Liefer<lb break="no"/>projekt einsetzen, doch fürchte ich persönlich, dass es uns<lb/>
+so gehen wird, wie mit den berühmten kubanischen Bahnbauprojekt.<lb/>
+Jetzt wird ein wesentlich kleineres durchgeführt und nicht von<lb/>
+einer österr. Firma. Von Plasser &amp; Theurer wurde gerade eine Gleis<lb break="no"/>stopfmaschine gekauft. Natürlich versicherte ich dem Botschafter<lb/>
+dran haben, nachdem der Handel 1976 zurückgegangen ist, jetzt<lb/>
+mit einem Grossprojekt eine wesentliche Änderung der Entwicklung<lb/>
+herbeizuführen.<lb/>
+</p>
+            <pb n="37-0779" facs="37_1977-06-28_0779.jpg"/>
+            <p xml:space="preserve">Im ÖGB-Vorstand berichtete NR <name type="person" ref="per:97356">Blecha</name> über die Medienpolitik<lb/>
+und das Mediengesetz. <name type="person" ref="per:97356">Blecha</name> ist auf diesem Gebiet wirklich Fach<lb break="no"/>mann und erörterte alle Massnahmen und Möglichkeiten der zu<lb break="no"/>künftigen Entwicklung. Zu der Zerschlagung des Rundfunkmonopols<lb/>
+meinte er, dass hier die wirrsten Vorstellungen bei der Opposition<lb/>
+sind. Österreich hat nur 3 Kanäle. Zwei belegt es jetzt schon<lb/>
+ständig und in gewissen Gegenden wird das zweite Programm auch<lb/>
+am dritten Kanal gesendet, weil man es sonst nicht empfangen<lb/>
+könnte, was klar und deutlich zeigt, privaten oder auch anderen<lb/>
+Kanäle abzutreten. Das Kabelfernsehen kann auch nichts werden,<lb/>
+denn wer immer ein anderes Programm z.B. aus Deutschland über<lb break="no"/>nimmt, müsste dann dafür diesen hohe Gebühren bezahlen. Wieso<lb/>
+<name type="person" ref="per:97668">Kreisky</name> dann neuerdings jetzt diese von den Kritikern am ORF<lb/>
+verlangte Aufbrechung des Monopols ebenfalls wenn nicht unter<lb break="no"/>stützt so doch sagt, darüber kann man reden, ist mir ein Rätsel,<lb/>
+wahrscheinlich auch <name type="person" ref="per:97356">Blecha</name>. Eine lebhaftere Diskussion gab es<lb/>
+dann über den Teil, wo <name type="person" ref="per:97356">Blecha</name> über das Mediengesetz <name type="person" ref="per:97372">Brodas</name> berichtete.<lb/>
+<name type="person" ref="per:97346">Benya</name> meint mit Recht, man müsse mit Rechten, die man jetzt den<lb/>
+Journalisten gibt, sehr vorsichtig sein. Diese zeigen sich absolut<lb/>
+nicht reif für eine demokratische und damit staatserhaltende Bericht<lb break="no"/>erstattung. Was sie nur interessiert ist Sensation, auch wenn diese<lb/>
+noch so destruktiv ist. Ich bin sicherlich auch für eine freie Be<lb break="no"/>richterstattung, aber die Art und Weise, wie dies jetzt geschieht,<lb/>
+beängstigt mich auch manchmal. Meistens, dabei muss ich mir eingeste<lb break="no"/>hen, auf Gebieten, die mich kaum berühren oder betreffen. Während<lb/>
+<name type="person" ref="per:97668">Kreisky</name> mit Journalisten aber ständig Politik macht, weigert <name type="person" ref="per:97346">Benya</name> wie<lb/>
+er auch in der Fraktion ausführte, ganz konsequent die Information<lb/>
+an Journalisten, wenn diese nicht ein faire Berichterstattung und<lb/>
+demokratieerhaltende Schreibweise und Gesinnung gezeigt haben.<lb/>
+</p>
+            <p xml:space="preserve">Ich wurde aufgefordert, zu dem Verhalten der Wiener Bäckerinnung<lb/>
+wegen Erhöhung des Semmelpreises von 1.- S auf 1.10 S ohne<lb/>
+Genehmigung durch die Paritätische Kommission Stellung zu nehmen.<lb/>
+Der ÖGB erwartet, dass ich unverzüglich gegen dieses undisziplinierte<lb/>
+Verhalten vorgehe. Dies umso mehr als die Bundeshandelskammer<lb/>
+sich scheinbar gegen die Wiener Kammer resp. die Innung der Bäcker<lb/>
+nicht durchsetzen konnte. <name type="person" ref="per:114075">Erich Schmidt</name> schlug vor, ich sollte, da<lb/>
+ja nur die Wiener den Semmelpreis erhöht haben, unverzüglich die<lb/>
+amtliche Preisregelung wieder durch Verordnung herstellen und<lb/>
+an die Wiener Landesregierung delegieren. Min.Rat <name type="person" ref="per:112011">Kurzel</name>, mit dem<lb/>
+ich mich dann ins Einvernehmen setze, meinte, so schnell gehe das<lb/>
+alles nicht, die Preiskommission, <choice><choice><sic>hatten</sic><corr>?</corr></choice></choice> wir uns aber dann doch geeinigt,<lb/>
+<pb n="37-0780" facs="37_1977-06-28_0780.jpg"/>wird morgen mittags zusammentreten und über die Verordnung<lb/>
+insbesondere aber über die Delegierung diskutieren. Ich bin<lb/>
+neugierig, wie sich die Bundeshandelskammer dazu verhält.<lb/>
+</p>
+            <p xml:space="preserve">Im Klub wurde die Tagesordnung der letzten drei Parlamentstage<lb/>
+durchbesprochen. In der Diskussion wurde auch hier die Ankündigung<lb/>
+<name type="person" ref="per:97311">Androschs</name>, das Kraftfahrzeugpauschale für die Unselbständigen<lb/>
+bis 20 km entfallen zu lassen, hart kritisiert. Da <name type="person" ref="per:97311">Androsch</name> aber<lb/>
+in London ist, <name type="person" ref="per:114541">Konecny</name> nicht Mitglied des Klubs, hat sich überhaupt<lb/>
+niemand gefunden, der diese Massnahme verteidigte. Selbst die<lb/>
+Anhänger der Massenverkehrsmittel, die ja immer wieder sagen,<lb/>
+man soll nicht die Individual-Verkehrsmittel fördern, haben dort ge<lb break="no"/>schwiegen. Typisch für mich war, dass <name type="person" ref="per:97668">Kreisky</name>, weil man mit ihm<lb/>
+nicht gesprochen hat, gestern schon in der Regierungsvorbesprechung<lb/>
+sich von <name type="person" ref="per:97311">Androsch</name> in diesem Punkt distanzierte, jetzt überhaupt nie<lb break="no"/>mand mehr, weil sich dies natürlich sofort herumgesprochen hat,<lb/>
+für die Idee <name type="person" ref="per:97311">Androschs</name> eingetreten ist.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97411">Effenberger</name> ersuchte mich, dass nachdem zur Schlichtungsaussprache<lb/>
+Dr. <name type="person" ref="per:98032">Veith</name> vom ÖAMTC auch Dr. <name type="person" ref="per:145213">Pachter</name> mit bringt, er von Dr. <name type="person" ref="per:130517">Schachter</name><lb/>
+begleitet werden darf. Ich stimmte dem sofort zu und abends habe<lb/>
+ich mit <name type="person" ref="per:130517">Schachter</name> dieses Problem besprochen. <name type="person" ref="per:130517">Schachter</name> nämlich<lb/>
+hatte auch einen runden Geburtstag und wurde daher auch gefeiert.<lb/>
+Bei dieser Gelegenheit habe ich auch mit <name type="person" ref="per:115043">Heschgl</name>, AUA, der zu<lb break="no"/>fällig auch wieder Geburtstag hatte, die Frage der Tariffestsetzung<lb/>
+durch IATA diskutiert. <name type="person" ref="per:115043">Heschgl</name> meint, es sei unmöglich den<lb/>
+23 S Dollarverrechnungskurs zum Beispiel auf 17 S zu senken, weil<lb/>
+dies für die AUA hunderte Millionen Schilling Verlust bringt<lb/>
+und sie sofort wieder in die roten Ziffern führt. Durch die<lb/>
+jetzt oft im Ausland durchgeführten Buchungen verliert die AUA<lb/>
+maximal 50 Mill. S. Wichtiger erscheint ihm meine Anregung,<lb/>
+die ich auch gleich mit Verkehrsminister <name type="person" ref="per:108223">Lausecker</name> dort besprach,<lb/>
+dass im öffentlichen Dienst nur AUA-Tickets, die man natürlich<lb/>
+bei jedem Reisebüro dann kaufen kann, verrechnet werden sollen.<lb/>
+<name type="person" ref="per:108223">Lausecker</name> stimmte mir zu, es müsse eine Möglichkeit geben, die<lb/>
+österr. Beamten über die Verrechnung dazu zu verhalten, dass sie<lb/>
+nicht deutsche oder Schweizer Tickets kaufen. Minister <name type="person" ref="per:97749">Mitterer</name> hat<lb/>
+z.B. im Handelsministerium seinerzeit eingeführt, dass nur Schweizer<lb/>
+Tickets gekauft werden dürfen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Wir werden einen Brief bekommen, bitte stelle<lb/>
+fest, ob dies mit <name type="person" ref="per:97749">Mitterer</name> tatsächlich stimmt.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="37_0773_05" facs="37_1977-06-28_0773-05.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 28.6.1977</head>
+         </div>
+         <pb n="37_0773_06" facs="37_1977-06-28_0773-06.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

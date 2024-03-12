@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der 17. Juni 1977</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band37_1977-06-17</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1977-06-17">Freitag, 17. Juni 1977</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-06-20">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="37-0728" facs="37_1977-06-17_0728.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Freitag, 17. Juni 1977<lb/>
+</p>
+            <p xml:space="preserve">Die Hermes-Werke – Gas-, Warmwasser-, Speichererzeuger – die<lb/>
+ich besichtigte, machten auf mich keinen sehr beruhigenden Eindruck.<lb/>
+Der 84-jährige Besitzer, Dipl.Ing. <name type="person" ref="per:146992">Hermann</name>, ist sicherlich ein<lb/>
+äusserst tüchtiger Mann, der unmittelbar nach dem ersten Weltkrieg<lb/>
+diese Produktionsstätte dort errichtete und bis zu seiner Emigration<lb/>
+auf leitete. Damals sicherlich ein bedeutender Betrieb. Nach seiner<lb/>
+Rückkehr hatte er dieses Werk, welches total ausgebombt war, wieder<lb/>
+aufgebaut und arbeite sozusagen in Einzelfertigung. Kein Fließband,<lb/>
+keine wirklich bedeutende technische Erneuerung. Von 4 Betrieben dieser<lb/>
+Art sind 3 bereits zugrunde gegangen. Durch die Gasumstellung ist<lb/>
+die Auftragslage derzeit günstig. Im Speisesaal, der gleichzeitig<lb/>
+als Schauraum dient, sind von der jetzigen Gasumstellung Öfen aus<lb/>
+der Jahrhundertwende aufgetaucht. Gute Werkmannsarbeit, lange<lb/>
+haltend, beste Qualität. Guter sozial geführter Betrieb, der<lb/>
+allerdings eine wirklich bedeutende zukunftsträchtige Produktion<lb/>
+dringend bräuchte. Niemand hat mir diesbezügliche Andeutungen ge<lb break="no"/>macht, ich hatte fast das Gefühl, man hat tunlichst vermieden,<lb/>
+sowohl vom Betriebsrat als auch von der Leitung des Unternehmens,<lb/>
+darauf zu sprechen zu kommen. Stolz mit dem Orden auf der Brust<lb/>
+ging Ing. <name type="person" ref="per:146992">Hermann</name> mit mir durch den Betrieb, sicherlich von ihm<lb/>
+eine grosse Leistung, zweimal aus dem Nichts ein solches Werk zu<lb/>
+schaffen. Was aber wird die Zukunft bringen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name> UND <name type="person" ref="per:97819">PLESCH</name>: Niemand fragte mich, aber gibt es<lb/>
+nicht irgendwelche Studien, die man zur Verfügung stellen könnte?<lb/>
+</p>
+            <p xml:space="preserve">Im Plenum des Nationalrates wurden die Ausführungen von <name type="person" ref="per:97668">Kreisky</name> und<lb/>
+<name type="person" ref="per:97311">Androsch</name> über den Wirtschaftsbericht der Bundesregierung natürlich<lb/>
+fast ausschliesslich von den beiden bestritten, es wurden ja fast<lb/>
+ausschliesslich nur die Angriffe der Opposition gegen diese beiden<lb/>
+gerichtet. Manchmal denke ich mir, es ist feig sich dort aus dem<lb/>
+Kampfgetümmel herauszuhalten. Als Abgeordneter ist es aber unüblich<lb/>
+und wäre eine Sensation, wenn ich mich als Redner melden würde,<lb/>
+als Minister aber von der Ministerbank habe ich wirklich kaum<lb/>
+eine Chance, ohne aufdringlich zu erscheinen, mich dort zu Wort zu<lb/>
+melden. Selbst der sehr detaillierte Hinweis <name type="person" ref="per:97668">Kreiskys</name> bei seinen<lb/>
+Ausführungen wegen der zukünftigen Atomenergiepolitik hat zumindestens<lb/>
+solange ich dort im Plenum zuhörte, auch keinerlei grosse Rolle ge<lb break="no"/>spielt. Da ich nicht genau wusste, ob nicht doch mit stärkeren<lb/>
+<pb n="37-0729" facs="37_1977-06-17_0729.jpg"/>Angriffen gegen mich zu rechnen ist, habe ich auf den Vortrag<lb/>
+von <name type="person" ref="per:125560">Amerongen</name>, dem Repräsentanten der deutschen Industrie bei<lb/>
+der Chemie-Tagung und auch auf das anschliessende Mittagessen<lb/>
+im kleinen Kreise gerne verzichtet. Wie ich nachher feststellte,<lb/>
+hätte ich ohne weiteres gehen können, ich möchte aber nicht,<lb/>
+dass jemand mir den berechtigten Vorwurf macht, dass ich stunden<lb break="no"/>lang bei der Wirtschaftsdebatte abwesend bin und womöglich ein<lb/>
+anderer mich verteidigen müsste. Der an und für sich unberechtigte<lb/>
+Vorwurf von Abg. <name type="person" ref="per:97686">Lanner</name>, der sich bei der Integrationsdebatte<lb/>
+wegen eines Essens abwesend war, hat doch wesentlich stärker bei<lb/>
+mir gewirkt, als ich zugestehen wollte.<lb/>
+</p>
+            <p xml:space="preserve">Da zeitgerecht der Entwurf des Berichtes über die Kernkraft<lb/>
+zu meiner grössten Überraschung von der Druckerei mit 200 Exem<lb break="no"/>plaren ausgeliefert wurde, konnte ich bereits mittags <name type="person" ref="per:97668">Kreisky</name> sein<lb/>
+Exemplar übergeben. Zuerst hatte er nur noch den Wunsch, dass<lb/>
+man ENTWURF über diese Schrift hätte stempeln sollten. War aber<lb/>
+mit der Vorgangsweise, dass die Parteivorstandsmitglieder ihn<lb/>
+jetzt bekommen, einverstanden. Dies war ja letzten Endes seine<lb/>
+Idee, die ganze Frage bei der Parteivorstandssitzungsklausur<lb/>
+in Baden zu besprechen und letzten Endes zu beschliessen. Durch<lb/>
+einen Anruf von <name type="person" ref="per:97488">Gratz</name> wurde er nachmittags darauf aufmerksam,<lb/>
+dass in der geschichtlichen Darstellung für die Ostblockstaaten<lb/>
+der Ausdruck "sozialistische Staaten" gebraucht wurde. Er ersuchte<lb/>
+mich daher sofort, ich sollte dies durch kommunistische Staaten<lb/>
+korrigieren. Jetzt dürfte ihm klar geworden sein, dass die<lb/>
+einzelnen Exemplare bereits bei den Vorstandsmitgliedern liegen<lb/>
+und daher nur im Rahmen der Diskussion in der Klausur in jeder<lb/>
+Beziehung allerdings korrigiert werden können. Er meinte, wir<lb/>
+hätten von diesem Bericht die Deckblätter, Inhaltsangabe usw.<lb/>
+weglassen sollen, wie dies auch bei der Schlussfolgerung der<lb/>
+Fall ist. Er fürchtete und dies nicht zu unrecht, dass die<lb/>
+anderen Parteien, wenn sie erfahren, dass dieser Bericht in<lb/>
+dieser Aufmachung im Parteivorstand behandelt wurde, sofort erklären,<lb/>
+der Parteivorstand macht die Regierungspolitik im Detail. Er<lb/>
+schlug mir zu meiner grössten Überraschung vor, ich sollte unver<lb break="no"/>züglich die entsprechenden Exemplare auch der ÖVP und den Freiheit<lb break="no"/>lichen zustellen. Den Begleitbrief habe ich dann mit ihm im Detail<lb/>
+abgesprochen. Im Auftrag des Herrn Bundeskanzlers übermittle ich<lb/>
+Ihnen den Entwurf eines Regierungsberichtes über Kernenergie<lb/>
+zur Vorinformation, wobei jede Änderung aller Art vorbehalten<lb/>
+sind. Ich hoffe, er ist sich vollkommen klar darüber, dass damit<lb/>
+<pb n="37-0730" facs="37_1977-06-17_0730.jpg"/>die Diskussion über diesen Bericht eröffnet ist. Mir kann dies<lb/>
+nur recht sein, ich glaube je schneller wir uns endgültig dazu<lb/>
+entscheiden, umso eher wird eine Beruhigung in jeder Beziehung ein<lb break="no"/>treten. Der Lernprozess, wie sich <name type="person" ref="per:97372">Broda</name> immer ausdrückt, muss<lb/>
+meiner Meinung nach auch einmal ein Ende haben. Der Baufortschritt<lb/>
+bei Zwentendorf zwingt uns ja, irgendwie einmal jetzt endgültig<lb/>
+zu entscheiden. Am glücklichsten aber über diese Entwicklung war<lb/>
+<name type="person" ref="per:97444">Heinz Fischer</name>. <name type="person" ref="per:97543">Heindl</name> und mir gegenüber war er sehr beunruhigt,<lb/>
+weil <name type="person" ref="per:114095">Chorherr</name> von der Presse ihn gefragt hat, wie es jetzt eigentlich<lb/>
+mit der Atomdiskussion weitergehen soll. <name type="person" ref="per:97444">Fischer</name> hat den Stand<lb break="no"/>punkt, den übrigens auch <name type="person" ref="per:97668">Kreisky</name> akzeptiert, dass das erste<lb/>
+Kernkraftwerk Tullnerfeld in Betrieb gehen soll und die anderen noch<lb/>
+hinausgeschoben werden, für eine Zwischen- oder Dauerlagerung jetzt<lb/>
+gesorgt werden muss und damit eigentlich die Weichen klargestellt<lb/>
+sind, <name type="person" ref="per:114095">Chorherr</name> erklärt. Dieser hat dann zu seiner grössten Verwunderung<lb/>
+gemeint, das sei das erste Mal, dass ein sozialistischer bedeutender<lb/>
+Funktionär eine solche dezidierte Erklärung abgibt. Darüber war<lb/>
+<name type="person" ref="per:97444">Heinz Fischer</name> so erschrocken, dass er zu mir kam, ganz aufgeregt, und<lb/>
+meint, was das für Folgen haben könne. Ich habe ihn insoferne sofort<lb/>
+beruhigt, als ich sagte, gar keine, denn für <name type="person" ref="per:114095">Chorherr</name> ist es vielleicht<lb/>
+das erste Mal, dass er es von <name type="person" ref="per:97444">Heinz Fischer</name> hört. Für mich war es<lb/>
+nur ein Beweis mehr, wie sehr es notwendig ist, jetzt wirklich eine<lb/>
+endgültige Entscheidung herbeizuführen. Die Kernkraftwerksgegner<lb/>
+werden wir nicht davon überzeugen können, diese ewige Diskussion<lb/>
+die auch in 10 Jahren keine endgültige Entscheidung von der Wissen<lb break="no"/>schaft erwarten lässt, beunruhigt aber die österr. Bevölkerung und<lb/>
+muss sich auf die Dauer gegen uns richten. Einmal mehr wurde mir bestätigt,<lb/>
+dass es unmöglich ist, eine Partei oder eine Regierung zu führen,<lb/>
+ohne nicht und womöglich nicht nach einem allzu langen Lernprozess<lb/>
+und Willensbildungsprozess eine Entscheidung zu treffen.<lb/>
+</p>
+            <p xml:space="preserve">Da am Abend die Patent- und Markenschutznovelle sowie das Zinn<lb break="no"/>abkommen auf der Tagesordnung im Plenum standen, konnte ich nur<lb/>
+ganz kurze Zeit bei der Jubiläumsfeier der Hohenauer Zuckerfabrik<lb/>
+anwesend sein. Ich erklärte dort freimütig vor der Direktion und<lb/>
+der Belegschaft, dass wir jetzt in der Zuckerindustrie schweren<lb/>
+Zeit entgegengehen. Dies bezieht sich nicht nur allein auf die<lb/>
+Schliessung der Dürnkruter Zuckerfabrik, sondern auch auf die zu<lb/>
+erwartenden Auseinandersetzungen bezüglich der Preis- und Absatzfrage.<lb/>
+Durch den Verfall des Weltmarktpreises für Zucker wird unser ganzes<lb/>
+Exportsystem in den Grundfesten erschüttert. Präs. <name type="person" ref="per:117100">Habig</name> begrüsste<lb/>
+mich dort als Chef für beide. Für die Beschäftigten als Obmann<lb/>
+<pb n="37-0731" facs="37_1977-06-17_0731.jpg"/>der Lebensmittelarbeiter und für die Unternehmer als Handelsminister.<lb/>
+Klar und deutlich sagte ich ihm aber und zog den Vergleich und<lb/>
+das Beispiel bei den graphischen Unternehmungen heran, dass ich mich<lb/>
+immer um sachliche Lösungen bemühen werde, dass aber mein Herz<lb/>
+und Standort eindeutig bei der Arbeitnehmerseite ist.<lb/>
+</p>
+            <p xml:space="preserve">Da die Wirtschaftsdebatte viel länger dauerte als alle angenommen<lb/>
+haben kam natürlich die Patent- und Markenschutznovelle, die doch<lb/>
+von einigermassen Bedeutung ist, sehr spät erst zur Behandlung.<lb/>
+Am liebsten hätte man überhaupt keinen Redner mehr zugelassen, weil<lb/>
+ja alle nach Hause fahren wollten. Die ÖVP aber vor allem auch die FPÖ<lb/>
+bestanden darauf, weshalb dann <name type="person" ref="per:111410">König</name> und <name type="person" ref="per:111721">Stix</name> begründeten, warum sie<lb/>
+trotzdem sie am Anfang ablehnen wollten, jetzt der Gebührenerhöhung<lb/>
+um 100 % zustimmten, weil man ihnen bezüglich der kleineren Betriebe<lb/>
+die die Gebührenerhöhung nicht verkraften können, von Seiten des<lb/>
+Handelsministers Zusagen gemacht hat, in der Arbeitsgemeinschaft<lb/>
+für Patentförderung, diesen zu helfen. Sekt.Chef <name type="person" ref="per:97584">Jagoda</name> wird bei der<lb/>
+nächsten Vorstandssitzung diesbezügliche Vorschläge machen, wobei<lb/>
+ich sehr gespannt bin, was die Handelskammer und wie sich die Handels<lb break="no"/>kammer verhalten wird. Bis jetzt hat sie nämlich erklärt, sie würde<lb/>
+eine weitere Belastung ablehnen. In diesem Fall ist es dann Ange<lb break="no"/>legenheit der ÖVP, Buchführung mit der Handelskammer klar zu werden.<lb/>
+Die vorgesehene Stundung für Erfindungen, die auf den Energiever<lb break="no"/>brauch einen grossen Einfluss haben, wie mir Präs. <name type="person" ref="per:97688">Leberl</name> versichert,<lb/>
+sei vollkommen uninteressant. Wirklich entscheiden, dass letzten<lb/>
+Endes sowohl die FPÖ als auch die ÖVP zustimmten, war dass es uns<lb/>
+gelungen ist, ihnen klar zu machen, dass 75 % der Anmeldungen<lb/>
+und Patentgebühren von den Ausländern zu bezahlen sind und von<lb/>
+den 25 %, wo Inländer betroffen sind, der grösste Teil auf Grossbetriebe<lb/>
+entfällt, die sich diese Erhöhung ohne weiteres leisten können.<lb/>
+Trotzdem war es für mich ein Beweis, dass man wenn man nur geschickt<lb/>
+und beweglich verhandelt und <name type="person" ref="per:97543">Heindl</name>, der diese Verhandlungen im Parlament<lb/>
+geführt hat, hat dies bestens gemacht, selbst bei einer 100 %-igen<lb/>
+Gebührenerhöhung die ÖVP und die FPÖ dafür gewinnen kann. Die Frage<lb/>
+ist ja wirklich meistens, ob es möglich ist, durch Entgegenkommen<lb/>
+bei verhältnismässig unbedeutenden Punkten eine Zustimmung dann<lb/>
+zu bekommen. Oft denke ich mir, das ist schon ein Fetischismus, den<lb/>
+wir betreiben uns immer zu bemühen, im Handelsausschuss eine ein<lb break="no"/>vernehmliche Lösung zu erzielen. Auf lange Sicht aber glaube ich, macht<lb/>
+sich eine solche Politik bezahlt.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="37_0727_01" facs="37_1977-06-17_0727-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 17.6.1977</head>
+         </div>
+         <pb n="37_0727_02" facs="37_1977-06-17_0727-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

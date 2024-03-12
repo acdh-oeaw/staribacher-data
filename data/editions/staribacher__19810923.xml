@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittwoch, der 23. September 1981</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band61_1981-09-23</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1981-09-23">Mittwoch, 23. September 1981</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-07-12">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="61-1172" facs="61_1981-09-23_1172.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Mittwoch, 23. September 1981<lb/>
+</p>
+            <p xml:space="preserve">Die 45. Tagung des Konsultativkomitees der EFTA fand 1 1/2 Tage in<lb/>
+Salzburg statt. Der Vorsitzende des EFTA-Rates ist automatisch der Vor<lb break="no"/>sitzende auch dieser Veranstaltung. Der ÖGB hat sich besonders bemüht,<lb/>
+mich davon zu überzeugen, daß es zweckmäßig ist, diese Sitzung nach<lb/>
+Österreich zu verlegen, um den Teilnehmern die Möglichkeit zu geben,<lb/>
+einen Teil der österreichischen Landschaft und insbesondere die Stadt<lb/>
+Salzburg kennenzulernen. Der erste Tag stand aber ganz im Zeichen der<lb/>
+Tagung. Um 9 Uhr begann bereits für mich die Vorbesprechung mit Gen.<lb/>
+Sekr. <name type="person" ref="per:115599">Müller</name> und den österreichischen EFTA-Beamten. Mittags war gerade<lb/>
+noch soviel Zeit, um vom Kongreßhaus ins Hotel Winkler über die Gasse<lb/>
+zu gehen, um das Essen einzunehmen. Anschließend wurde tatsächlich bis<lb/>
+knapp vor dem Empfang der Salzburger Landesregierung in der Residenz ge<lb break="no"/>arbeitet. Den ersten Tag haben die Delegierten also von Salzburg wahr<lb break="no"/>lich nichts gesehen. Ich hatte eine so rege Anteilnahme, vollständige<lb/>
+Präsenz und vor allem ausgedehnte Diskussion nicht erwartet. Vier Dutzend<lb/>
+Rapporteure und Wortmeldungen waren für mich auch überraschend. Interes<lb break="no"/>santerweise hat, wie zu erwarten, die Zusammensetzung des Konsultativkomi<lb break="no"/>tees, auf der einen Seite Arbeitnehmer, auf der anderen Arbeitgeber, für<lb/>
+entsprechende gegensätzliche Auffassungen gesorgt.<lb/>
+</p>
+            <p xml:space="preserve">Aus den Berichten ging hervor, daß die Tagesordnungspunkte vom Sekre<lb break="no"/>tariat resp. von Subkomitees verhältnismäßig sehr gut vorbereitet waren.<lb/>
+Über die Zielvorstellungen bestand dann auch verhältnismäßig sehr bald<lb/>
+ein vollkommenes Einvernehmen. Die wichtigste Frage ist die Beschäfti<lb break="no"/>gungssituation. Jedermann, würde ich fast mit dem Salzburger Festspiel<lb break="no"/>ruf sagen, war mit der Zielvorstellung größtmöglichster Vollbeschäftigung<lb/>
+einverstanden. Differenziert war die Auffassung dagegen, wie man zu<lb/>
+diesem Ziel kommen sollte. Die Unternehmerseite sah als einzige wichtige<lb/>
+unmittelbare Aufgabe, daß in den Ländern versucht wird, die Arbeitslosen<lb break="no"/>rate zu verringern. Wie dies geschehen sollte, da trennten sich dann<lb/>
+die Geister. Die Gewerkschaftsvertreter die übliche und bekannte Art,<lb/>
+wenn man will, die <name type="person" ref="per:114461">Keynes'sche</name> Deficit-Spending-Theorie, die Unternehmer<lb/>
+dagegen größtenteils doch die monetaristische Auffassung vertreten.<lb/>
+</p>
+            <p xml:space="preserve">Eine wirkliche, schwere Konfrontation, allerdings in sehr freundschaftlichem<lb/>
+Geiste vorgetragen, gab es bei einem Bericht des Subkomitees, referiert<lb/>
+von der sozialdemokratischen schweizerischen Nationalratsabgeordneten<lb/>
+<name type="person" ref="per:134063">Uchtenhagen</name>. Das Subkomitee hatte in einer zweiteiligen Arbeit die<lb/>
+<pb n="61-1173" facs="61_1981-09-23_1173.jpg"/>Wirtschafts- und Sozialsituation untersucht. Im ersten Teil, der haupt<lb break="no"/>sächlich von Unternehmervertreter beigestellt wurde, wurden die Subven<lb break="no"/>tionen des Staates dargestellt. Der Schweizer Vertreter der Handelsorga<lb break="no"/>nisation, <name type="person" ref="per:134064">Zeller</name>, meinte, der erste Teil, die Auflistung der nichttarifa<lb break="no"/>rischen Hemmnisse, machte also keine Schwierigkeiten in der Beschlußfas<lb break="no"/>sung. Der zweite Teil dagegen, in dem die Gewerkschaften dominierten,<lb/>
+und wo, wie <name type="person" ref="per:97474">Gleißner</name> mir dann sagte, der schweizerische Vorort<add>[?]</add>, also<lb/>
+Handelskammervertreter <name type="person" ref="per:134065">Rühl</name>, der leider im Sommer dann tödlich verun<lb break="no"/>glückte, mitwirkte, stieß auf den heftigsten Widerstand der Unternehmer<lb break="no"/>vertreter. Hier war es für mich als Vorsitzenden vollkommen klar,<lb/>
+daß es niemals gelingen würde, zu einer akkordierten Auffassung zu ge<lb break="no"/>langen. Mein Vorschlag war daher, man solle dieses Papier noch einmal<lb/>
+dem Subkomitee übertragen, damit es für die nächste Ministerratssitzung<lb/>
+entsprechend motiviert wird. Ich erwarte mir nämlich gar nichts, wenn<lb/>
+derartig differenzierte Meinungen dann im Ministerrat der EFTA-Staaten<lb/>
+zur Debatte kommen. Dort wird zumindestens vom Schweizer Bundesrat <name type="person" ref="per:111708">Ho<lb break="no"/>negger</name>, sicherlich aber auch noch von anderen EFTA-Regierungsvertretern,<lb/>
+dieses Papier zurückgewiesen, wenn nicht gar abgelehnt. Mein Vorschlag<lb/>
+wurde daher lang debattiert. Letzten Endes, glaube ich, sogar auch angenom<lb break="no"/>men. Da wir mit der Tagesordnung aber in Verzug gekommen sind, konnte<lb/>
+ich den endgültigen Ausgang dieser Diskussion nicht mehr miterleben, da<lb/>
+sie auf den nächsten Tag verlegt wurde. Dort hat dann Gen.Sekr. <name type="person" ref="per:115599">Müller</name>,<lb/>
+sozusagen als seine letzte Handlung, den Vorsitz geführt.<lb/>
+</p>
+            <p xml:space="preserve">In der Tagung war Gelegenheit, beim Bericht des Sekretariats Gen.Sekr.<lb/>
+<name type="person" ref="per:115599">Müller</name> zu verabschieden. Dieser war jetzt 5 Jahre Generalsekretär der<lb/>
+EFTA, vorher schon, wie die Schweizer sagen, mit Unterbruch in der EFTA<lb/>
+als Leider der Rechtsabteilung und Generalsekretärstellvertreter tätig.<lb/>
+Durch die lange Dauer, doch jetzt schon 11 Jahre als Österreichvertreter<lb/>
+in der EFTA engagiert, erlebe ich dann jetzt den vierten Gen.Sekr., in<lb/>
+Zukunft den Norweger ehem. soz. Handelsminister, dann Finanzminister<lb/>
+<name type="person" ref="per:97636">Kleppe</name>. Mein erklärtes Ziel bei diesem wird wieder das Bemühen sein, die<lb/>
+zweimal im Jahr stattfindende EFTA-Tagung in Genf auf einmal zu reduzie<lb break="no"/>ren. Bei <name type="person" ref="per:115599">Müller</name> ist mir dies nicht geglückt, obwohl ich das Gefühl habe,<lb/>
+die meisten Minister, vor allem aber der Schweizer <name type="person" ref="per:111708">Honegger</name>, wären sofort<lb/>
+dafür gewesen. <name type="person" ref="per:115599">Müller</name> hat darin eine Beeinträchtigung des Ansehens der<lb/>
+EFTA gesehen.<lb/>
+</p>
+            <p xml:space="preserve">In den letzten Jahren ist es dem Konsultativkomitee geglückt, die EFTA-<lb/>
+Minister zu entsprechenden Aussprachen zusammenzubringen, mit anderen<lb/>
+Worten, die Konsultativarbeit stärker an die Minister heranzutragen.<lb/>
+</p>
+            <pb n="61-1174" facs="61_1981-09-23_1174.jpg"/>
+            <p xml:space="preserve">Früher geschah dies ausschließlich durch schriftliche Berichte an den<lb/>
+Ministerrat durch den jeweiligen Vorsitzenden. Dieser Dialog war sehr<lb/>
+zweckmäßig und soll insbesondere auf Wunsch der Gewerkschaftsvertreter<lb/>
+fortgesetzt werden. Ich trete daher seit längerem, beim neuen Gen.Sekr.<lb/>
+wahrscheinlich sehr intensiv, dafür ein, daß<add>[man]</add>, wenn man schon zwei Minister<lb break="no"/>tagungen im Jahr machen muß, die zweite automatisch als eine Aussprache<lb/>
+mit dem Konsultativkomitee statuieren sollte, an die man dann anschlie<lb break="no"/>ßend einen halben Tag noch Tagesordnungsabwicklung der zweiten Minister<lb break="no"/>tagung im Jahr anschließen kann.<lb/>
+</p>
+            <p xml:space="preserve">Da die meisten Staaten der EFTA und deren Regierungsvertreter, ganz be<lb break="no"/>sonders aber die Schweiz, darauf <choice><choice><sic>beharrt</sic><corr>beharren</corr></choice></choice>, daß die EFTA nur eine Freihan<lb break="no"/>delszonen-Organisation ist, als solche wurde sie gegründet und sollte<lb/>
+sich nach konservativer Auffassung auch nicht weiter entwickeln, ist<lb/>
+gerade nur die Diskussion mit dem Konsultativkomitee die Gelegenheit, mehr<lb/>
+als reine Freihandelszonenprobleme zu besprechen. Natürlich kommen dann<lb/>
+die Gewerkschaften und wollen womöglich über die internationale EFTA-<lb/>
+Organisation nationale Gegensätze mit Unternehmervertretern bereinigen.<lb/>
+Dies könnte am besten dadurch geschehen, daß man Papiere verfaßt, die<lb/>
+dann die nationale Politik beeinflussen oder, was manchen Gewerkschaftern<lb/>
+noch viel lieber wäre, die nationale Regierung dann mit entsprechenden<lb/>
+Beschlüssen der EFTA für eine, wenn man so will, sozialistischere Regie<lb break="no"/>rungspolitik konfrontieren könnte. Daß hier die Unternehmervertreter<lb/>
+nicht mitspielen, ist selbstverständlich. <name type="person" ref="per:115583">Muhm</name> als der Vertreter des ÖGB<lb/>
+hat dies auch vollkommen richtig erkannt und versucht, eine solche Poli<lb break="no"/>tik erst gar nicht den Unternehmervertretern aufzuzwingen. Sowohl bei<lb/>
+Dr. <name type="person" ref="per:97474">Gleißner</name> und Dr. <name type="person" ref="per:113031">Melis</name> von der Handelskammer als auch Dr. <name type="person" ref="per:112971">Weber</name><lb/>
+von der Industriellenvereinigung würde sich dagegen, und hat sich auch<lb/>
+dagegen ganz entschieden ausgesprochen. Mir unerklärlicherweise haben<lb/>
+aber z.B. die norwegischen Gewerkschafter, auch der Vertreter des europä<lb break="no"/>ischen Gewerkschaftskomitees, eine andere Ansicht. Diese glauben schein<lb break="no"/>bar doch allen Ernstes, sie könnten mit eigentlich windschiefen Beschlüs<lb break="no"/>sen des Konsultativkomitees, wie der Shylock auf seinen Schein beharrend,<lb/>
+die Unternehmervertreter dazu zwingen. Typischstes Beispiel war, daß<lb/>
+der norwegische Gewerkschaftsvertreter <name type="person" ref="per:134066">Gulbrandsen</name> unbedingt wollte, man<lb/>
+sollte das Papier des Subkomitees unbedingt dem Ministerrat vorlegen.<lb/>
+Durch ein Mißgeschick oder Mißverständnis war aber in dem Subkomitee<lb/>
+z.B. der portugiesische Arbeitnehmervertreter überhaupt nicht eingeladen<lb/>
+worden. Er beharrte daher mit Recht darauf, daß auch er die Möglichkeit<lb/>
+haben muß, im Subkomitee seine Stellungnahme darzulegen. Da die EFTA<lb/>
+auf dem Prinzip der Einstimmigkeit beruht, da insbesondere das Konsul<lb break="no"/><pb n="61-1175" facs="61_1981-09-23_1175.jpg"/>tativkomitee ähnlich der österreichischen Sozialpartnerschaft arbeitet,<lb/>
+hatte ich als Vorsitzender nur eine einzige Verpflichtung, zu versuchen,<lb/>
+zu einvernehmlichen Auffassungen zu kommen, und durfte mich selbstverständ<lb break="no"/>lich in diese Polemik nicht einmsichen.<lb/>
+</p>
+            <p xml:space="preserve">Interessant war, daß, nicht zuletzt, weil wir auch das einladende Land<lb/>
+gewesen sind, ein weiterer Tagesordnungspunkt, ein Bericht über die öster<lb break="no"/>reichische Sozial- und Wirtschaftspartnerschaft von Gewerkschaftsvertre<lb break="no"/>ter Dr. <name type="person" ref="per:134067">Chaloupka</name> von der AK, Handelskammervertreter Dr. <name type="person" ref="per:134068">Lamml</name> und sogar<lb/>
+vom österreichischen Wirtschaftsforschungsinstitut, Dr. <name type="person" ref="per:131086">Kramer</name>, gegeben<lb/>
+wurde. Leider war dieser Tagesordnungspunkt für den nächsten Tag vorge<lb break="no"/>sehen, was mich daran besonders interessiert hätte, war die Diskussion.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:125291">MARTIN</name>: Bitte mit <name type="person" ref="per:115583">Muhm</name> verbinden.<lb/>
+</p>
+            <p xml:space="preserve">Außerhalb der Sitzung versuchte ich vormittags, Dr. <name type="person" ref="per:97474">Gleißner</name> für die<lb/>
+Joghurtfrage nicht nur zu interessieren, sondern auch zu entsprechenden<lb/>
+Vorschlägen und Stellungnahmen zum Schweizer Wunsch zu veranlassen.<lb/>
+<name type="person" ref="per:97474">Gleißner</name> sagte gleich freimütig, die Vereinbarung von Landwirtschafts<lb break="no"/>minister <name type="person" ref="per:97511">Haiden</name> mit Bundesrat <name type="person" ref="per:111708">Honegger</name>, 3 %-ige Präferenzeinfuhr, 2,5 S<lb/>
+pro kg, billiger als der österreichische Unternehmer Abgabe zahlen muß,<lb/>
+für den Schweizer Exporteur, stößt auf heftigsten Widerstand der Han<lb break="no"/>delskammer. Leider ist es nicht nur allein die Handelskammer, sondern auch<lb/>
+die AK und der ÖGB, die diese Vereinbarung von <name type="person" ref="per:97511">Haiden</name> ganz entschieden<lb/>
+auch ablehnen. Dies ist mir auch erklärlich, da hier eine Präferenzierung<lb/>
+des Schweizer Exporteurs vorliegt, die eigentlich durch nichts begründet<lb/>
+ist. Abends beim Empfang in der Residenz hat dann nur Dr. <name type="person" ref="per:123746">Slezak</name> von<lb/>
+der Landwirtschaftskammer, er ist erst zu diesem Zeitpunkt erschienen,<lb/>
+weil er bei einer interministeriellen Sitzung auch über dieses Problem<lb/>
+auch bei SC <name type="person" ref="per:108322">Meisl</name> teilnahm, mit seinem Vorschlag und der Idee gekommen.<lb/>
+Die Landwirtschaftskammer tritt für diese Regelung ein, weil sie von<lb/>
+der Schweiz ein größeres Weinkontingent erhofft. Hier irrt aber die<lb/>
+Landwirtschaftskammer. Die Schweizer werden nur dann, wenn sie eine<lb/>
+schlechte Ernte haben, bereit sein, ein größeres Globalkontingent für<lb/>
+alle Staaten aufzumachen, bei entsprechender Schweizer Ernte wird sofort<lb/>
+dieses Kontingent wieder zurückgenommen. SC <name type="person" ref="per:108322">Meisl</name> hat jetzt einen Ent<lb break="no"/>wurf für die Schweizer Beamtenverhandlungen nächste Woche vorbereitet,<lb/>
+wo statuiert ist, daß dieses Abkommen nicht, wie die Schweizer wollen, so<lb break="no"/>lange die EFTA besteht, gilt, sondern jederzeit gekündigt werden kann.<lb/>
+Diese Kündigungsklausel ist natürlich für die Schweizer sehr hart, die<lb/>
+Handelskammer sieht darin eine brauchbare Verhandlungsgrundlage, <name type="person" ref="per:97474">Gleißner</name><lb/>
+glaubt aber, unter gar keinen Umständen einer Regelung, wie immer sie auch<lb/>
+<pb n="61-1176" facs="61_1981-09-23_1176.jpg"/>ausfallen möge, zustimmen zu können. Ich versuchte, ihn indirekt unter<lb/>
+Druck zu setzen, indem ich erklärte, dann wird eine Formulierung von<lb/>
+Österreich akzeptiert werden, die die Handelskammer noch weniger befrie<lb break="no"/>digt als vielleicht doch ein einvernehmlich erstellter Vorschlag.<lb/>
+<name type="person" ref="per:97474">Gleißner</name> wird diese Frage mit seinem Präsidenten und Generalsekretär<lb/>
+noch besonders besprechen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Nächstes Jour fixe HK, aber auch AK setzen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="61_1171_06" facs="61_1981-09-23_1171-06.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 23.9.1981</head>
+         </div>
+      </back>
+   </text>
+</TEI>

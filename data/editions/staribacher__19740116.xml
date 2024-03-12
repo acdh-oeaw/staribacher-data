@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittwoch, der 16. Jänner 1974</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band19_1974-01-16</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1974-01-16">Mittwoch, 16. Januar 1974</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-11-02">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band19/">
+      <body>
+         <pb n="19-0068" facs="19_1974-01-16_0068.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Mittwoch, 16. Jänner 1974</p><p xml:space="preserve">Der neue italienische Botschafter <name type="person" ref="per:140782">Cagiati</name> intervenierte,<lb/>
+dass AGIP von der ÖMV um 32 % weniger Ofenöl extra leicht<lb/>
+bekommt. Dies sie eine Diskriminierung der italienischen Firma<lb/>
+und er hat angenommen, ich könnte bei der ÖMV intervenieren.<lb/>
+Damit meinte er, würde das gute Verhältnis zwischen den Firmen<lb/>
+wieder hergestellt. Ich erklärte ihm, dass Ofenheizöl extra leicht<lb/>
+nur in einer österreichischen Raffinerie verfärbt werden darf,<lb/>
+weshalb Direktimporte ausgeschlossen sind. Ich versprach ihm<lb/>
+aber, dass das von ihm schriftlich vorgelegte Aide Memoire<lb/>
+der ÖMV zur Stellungnahme zu schicken und ihn dann über das<lb/>
+Ergebnis zu informieren. Gleichzeitig nützte ich die Gelegen<lb break="no"/>heit, um über die Ölexportpraktiken Italiens mich zu beschweren.<lb/>
+Siche rist es keine Diskriminierung, wie der Botschafter gelich<lb/>
+replizierte, da ja alle anderen Staaten ebenfalls solchen Beschrän<lb break="no"/>kungen unterworfen wurden. <name type="person" ref="per:140782">Cagiati</name> gab aber zu verstehen,<lb/>
+dass er den ENI-Direktor <name type="person" ref="per:137413">Girotti</name> gut kenntn und er mit ihm über<lb/>
+die zukünftige Ölpolitik reden wird. Ich intervenierte gleich<lb break="no"/>falls auch über die schlechte Belieferung von Reis aus Italien,<lb/>
+wobei der Botschafter allerdings mit Recht erwiderte, das die<lb/>
+heute nicht mehr von Rom sondern von Brüssel geregelt wird.<lb/>
+Üer die Schwierigkeiten des Vieh-Exportes war er nciht informiert<lb/>
+teilte mir aber mit, dass von den Franzosen jetzt im Rahmen der<lb/>
+EG eine noch extremere autonome Vieh-Politik betrieben weren<lb/>
+soll. In diesem Fall würde Österreich eine wesentlich schlechtere<lb/>
+Exportmöglichkeit in Zukunft haben. Er nahm meine Intervention<lb/>
+zur Kenntnis, erklärte allerdings, dass auch hier die Entschei<lb break="no"/>dung bei Brüssel liegt.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name>: Vielleicht kannst Du feststellen, ob das<lb/>
+Landwirtschaftsministerium über die neue<lb/>
+Vieh- Import- und Exportpolitik der Gemein<lb break="no"/>schaft, die insbesondere den italienischen<lb/>
+Markt so stark betrifft, informiert ist.</p><p xml:space="preserve">Der saudi-arablische Botschafter <name type="person" ref="per:140783">Basrawi</name> kam mit dern ähnlichen<lb/>
+Absicht wie der ägyptische, nämlich nur die freundschaftlichen<lb/>
+Grüsse auszurichten und zu erklären, dass auch Saudi-Arabien<lb/>
+alles unternehmen wird, um die österreichische Wirtschaft mit<lb/>
+Öl zu versorgen, Er legte ganz besonderen Wert darauf, dass<lb/>
+so schnell wie möglich eine österreichische Delegation nach<lb/>
+<pb n="19-0069" facs="19_1974-01-16_0069.jpg"/>Saudi-Arabien kommt um hier Kooperationen und sonstige Zusammen<lb break="no"/>arbeitsverträge mit Saudi-Arabien- Firmen abzuschliessen.</p><p xml:space="preserve">Die 125. Jahre Festversammlung im Musikvereinssaal wurde eigenartig<lb/>
+gestaltet. An Stelle einer langen Festrede hat die Kammer einen<lb/>
+Wie sie es nannte Bilderbuchabschnitt "Geschichte Österreichs<lb/>
+und insbesondere der Wiener Handelskammer" gegeben. <name type="person" ref="per:116419">Marboe</name> hat<lb/>
+hier eine Kombination zwscihen Tonband und zwar Musik aber auchä<lb/>
+Text und Gedichte gesprochen von verschiedensten Sprechern und den<lb/>
+lebenden <name type="person" ref="per:146260">Ernst Meister</name>, der zwischendurch ebenfalls einen Text<lb/>
+verlas, kombiniert. Für mich war das gnaze ein bisschen ein<lb/>
+Durcheinander, nachdem eine chronologische Reihenfolge nicht<lb/>
+zu erkennen war. INteressant waren immernur wieder die Bemerkungen,<lb/>
+dass die Kammer mit 4 Angestellten gegründet und selbst um die<lb/>
+Jahrhundertwende nur 14 oder 15 Angestellte hatte. Als es dann zur<lb/>
+neueren Zeit ging, wurde über die effektive Bürokratie nichts mher<lb/>
+gesagt. Ein bisschen hat er zuerst überhaupt utopisch begonnen,<lb/>
+als die 200 Jahr-Feier angedeutet wurde und dort erklärt, eine<lb/>
+neue Gewerbeordnung wurde geschaffen. Wäre ich dort als Redner<lb/>
+eigetragen gewesen, was ich Gott sei Dank nicht war, hätte ich<lb/>
+sicherlich darauf repliziert, dass wir auch zur 125 Jahr-Feier<lb/>
+jetzt eine neue Gewerbeordnung geschaffen haben. Da das nö. Tonkün<lb break="no"/>stlerorchester die ganze Zeit am Podium sass, hätte ich, wenn ich<lb/>
+die ganze Gestaltung gehabt hätte, doch mehr die lebenden<lb/>
+Musiker und den lebenden <name type="person" ref="per:146260">Ernst Meister</name> als Sprecher eingesetzt.<lb/>
+<name type="person" ref="per:97749">Mitterer</name> hat in seiner Festansprache entsprechende Forderungen<lb/>
+über dne Export und über den Fremdenverkehr aufgestellt, Am<lb/>
+Abend beim Empfang habe ich ihm deshalb gesagt, dass vormittags<lb/>
+die Forderung aufgestellt wird, nachmittags schon erfüllt ist.<lb/>
+Der Export ist bekanntlicherweise im November um 20 % und auch<lb/>
+die Übernachtungen sind um fast 8 % im November gestiegen. Ein<lb/>
+deutlich sichtbarer Aufschwung, der hoffentlich längere Zeit<lb/>
+anhalten wird. Ich selbst bin davon überzeugt. <name type="person" ref="per:97668">Kreisky</name> hat in<lb/>
+seiner Ansprache sehr geschcikt der Handelskammer versprochen,<lb/>
+dass die Regierung ganz unabhängig der politischen Führungs<lb break="no"/>kräfte der Handelskammer diese stets zur Zusammenarbeit heranziehen<lb/>
+wird und der Wirtschaft versprochen, dass es weder eine Plan<lb break="no"/>wirtschaft nocch eine laissez faire laissez passer geben wird.</p><pb n="19-0070" facs="19_1974-01-16_0070.jpg"/><p xml:space="preserve"><name type="person" ref="per:97607">Jonas</name>, der sich seine Reden ja alle selbst macht, sehr zum<lb/>
+Leidwesen seines Pressereferenten <name type="person" ref="per:123397">Skalnik</name>, hatte als Ausgleich<lb/>
+auch immer wieder so wie bei vergangenen Gelegenheiten neben<lb/>
+der Handelskammer auch die Arbeiterkammer herausgestrichen.<lb/>
+<name type="person" ref="per:97749">Mitterer</name> will alles slebst machen und schusselt natürlich<lb/>
+daher, ungeheuer herum. U,a, hat er die Festfolge durch seine<lb/>
+Anweisung ganz durcheinander gebracht. Man soll eben nicht gleich<lb/>
+zeitig Regisseur, und Akteur sein. Die Regie hätte er bessere<lb/>
+anderen überlassen. Ansonsten aber war er sehr aufgeräumt in<lb/>
+jeder Beziehung, man konnte ihm direkt ansehen, wie er glück<lb break="no"/>lich war, wieder einma agieren zz können.</p><p xml:space="preserve">Die Aussprache mit Gen.Intendant <name type="person" ref="per:97326">Bacher</name>, Fernsehdirektor <name type="person" ref="per:116209">Zilk</name><lb/>
+und Dr. <name type="person" ref="per:139833">Weis</name> war für mich sehr itnerssant. Ich hatte einleitend<lb/>
+sofort festgehalten, dass ich eigentlich nur vom ORF selbst Vor<lb break="no"/>schläge erwarte, wie sie im FAlle X die entsprechenden Kürzungen<lb/>
+ihrer Programme vorschlagen würden. Nicht ich habe ihnen ein Zeit<lb break="no"/>limit gegeben, sondern habe erklärt, derzeit sei eine Kürzung<lb/>
+überhaupt nicht beabsichtigt udn sie sollte nur entsprechende<lb/>
+Vorbereitungen selbst treffen. Die bErechnungen, die <name type="person" ref="per:139833">Weis</name> dem<lb/>
+Bundeskanzler über <name type="person" ref="per:97326">Bacher</name> geschickt hat, ersuchte ich entspre<lb break="no"/>chend noch einmal zu überprüfen und mit den Äusserungen anderer<lb/>
+Stellen abzustimmen. <name type="person" ref="per:97326">Bacher</name> selbst argumentierte sofort dahin<lb break="no"/>gehend, dass er gar keinen Gegensatz zwischen Regierung und<lb/>
+Fernsehen erwartet, denn das Fernsehen wird jede Weisung, die<lb/>
+sie von der Regierung bekommt, durchführen. Er möchte eben<lb/>
+nur auf die Folgen aufmerksam machen. Da ihc seinerziet ja<lb/>
+überhaupt nicht der Initiator dieser Idee der Verkürzung<lb/>
+des Fernsehprogrammes gewesen bin, hatte ich es besonders<lb/>
+leicht, sofort zu replizieren, dass wir auch von Seiten der<lb/>
+Regierung nicht beabsichtigen, irgendwelche Einschränkungen dem<lb/>
+Fernsehen aufzuerlegen. In Wirklichkeit msüsten, wenn tat<lb break="no"/>sächlich die Krise eintritt,dann die Bundesregierung selbst<lb/>
+grösseres INteresse haben, dass mit der über die Massenmedien,<lb/>
+Fernsehen und Rundfunk der Bevölkerung vorgesetzt wird, um die<lb/>
+damit ein wenig über die triste Lage hinwegzuhelfn. Dies ist<lb/>
+zumindestens wie <name type="person" ref="per:97326">Bacher</name> mir erklrte, die Auffassung des<lb/>
+deutschen und des schweizerischen Fernsehens. Wir hatten dann<lb/>
+noch eine lange Diskussion über die Berichterstattung vom<lb/>
+<pb n="19-0071" facs="19_1974-01-16_0071.jpg"/>Fernsehen, insbesondere im Hinblick auf die Ölkrise. Da<lb/>
+weiss verhältnismässig spät, nämlich erst im Dezember eine<lb/>
+ausführlichere Fernsehdiskussion über die Ölsituation ab<lb break="no"/>hielt, habe ich mit recht wie ich glaube, kritisiert, dass<lb/>
+doch Wochen hindurch das Fernsehen entsprechende Aussagen<lb/>
+machte, ohen dem dafür verantwortlichen Minister die Mög<lb break="no"/>lichkeit zur REplik zu geben. <name type="person" ref="per:97326">Bacher</name> meinte, es wäre ein Leichtes<lb/>
+gewesen, hätte ich entsprechende Sendezeit verlangt. Dies<lb/>
+erklärte ich aber lehne ich im Prinzip ab, da dies nicht<lb/>
+meinem Stil entspricht, irgendwo eine Bevorzugung zu<lb/>
+verlangen. Wenn das Fernsehen objektiv berichtet und alle<lb/>
+Meinungen zu Wort kommen lassen will, erscheint es mir<lb/>
+selbstverständlich, dass es sich dann auch bemüht, die zu<lb break="no"/>ständige Stelle, den verantwortlichen Minister entsprechend<lb/>
+in die Sendungen einzuschalten.</p><p xml:space="preserve">Beim Abendempfang traf ich <name type="person" ref="per:97772">Nekula</name> und <name type="person" ref="per:97865">Reisinger</name> und erörterte<lb/>
+mit ihnen die zukünftigen Strompreisverhandlung. <name type="person" ref="per:97865">Reisinger</name><lb/>
+hat allen Ernstes gehofft und geglabut, er kann 12 Groschen<lb/>
+für die kWh bekommen. Ich setze ihm dezidiert auseinander,<lb/>
+dass ich 8 Groschen jetzt bei der AK und beim ÖGB durch habe<lb/>
+und auch die Landwirtschaft dem zustimmte. Die Handelskammer<lb/>
+selbst wünscht nur für den Stromintensiven und insbesondere<lb/>
+auch für die Industrie entsprechende niedrige Sätze. <name type="person" ref="per:97772">Nekula</name><lb/>
+selbst möchte und das finde ich für richtig, die Tarife, wo<lb/>
+gewisse Mindestmengen verbraucht werden müssen, um in den<lb/>
+Genuss dieses verbilligten Satzes zu Kommen, in Hinkunft aus<lb/>
+der Tarifgenehmigung ausgenommen. Die jetzt schon bestehenden<lb/>
+Tarifabnehmer sollen – wie er sich vorstellt, in drei Etappen<lb/>
+entsprechend angehoben werden. Ich habe <name type="person" ref="per:97865">Reisinger</name> vorgeschlagen,<lb/>
+er soll für ide übermorgige Sitzung der soz. Energieleute ent<lb break="no"/>sprechende VOrschläge vorlegen.</p><p xml:space="preserve">Anmerkung für <name type="person" ref="per:97469">GEHART</name>: Vielleicht kannst Du von <name type="person" ref="per:109811">Burian</name> die ent<lb break="no"/>sprechenden Vorschläge auch der anderen Län<lb break="no"/>der bkeommen.</p><p xml:space="preserve">Präs. <name type="person" ref="per:97925">Schoeller</name> und auch Gen.Dir. <name type="person" ref="per:114559">Bayer</name> von Böhler sowie Gen.Dir.<lb/>
+<name type="person" ref="per:136430">Wick</name> von der ÖAMAG diskutierten mit mir den Persienbesuch.<lb/>
+<name type="person" ref="per:97925">Schoeller</name> fürchtt, dass wenn wir mit so einer grossen Delegation<lb/>
+<pb n="19-0072" facs="19_1974-01-16_0072.jpg"/>kommen, es nicht möglich sein wird, auch nur einen annä<lb break="no"/>hernden TEil von Experten auf iranischer SEite zu bekommen.<lb/>
+<name type="person" ref="per:114559">Bayer</name> insbesondere berichtete, dass er jetzt in Teheran war,<lb/>
+dort z.B. im Handelsministerium zwei Stunden warten musste,<lb/>
+und dann die Auskunft erhielt., in einer Fünf-Minuten-Dis<lb break="no"/>kussion, man soll sich doch am Abend um 11 Uhr nachts neuerdings<lb/>
+treffen. <name type="person" ref="per:114559">Bayer</name>, der jetzt auch auf Wunsch des Schahs ein<lb/>
+Edelstahlwerk errichten soll, hat eine facility study gemacht<lb/>
+aus der klar und deutlich hervorgeht, dass diese Fabrik<lb/>
+passiv arbeiten würde. Trotzdem bestehen die Perser auf einer<lb/>
+ERfüllung dieser seinerzeitigen Zusage, ihnen bi der Errichtung<lb/>
+eines Edelstahlwerkes zu helfen. <name type="person" ref="per:97925">Schoeller</name> hat die grosse Angst,<lb/>
+dass die Riesendelegation und letzten Endes auch die Kleine<lb/>
+Kommission, die diese Delegation führen wird, ein Misserfolg<lb/>
+werden muss, weil die entsprechenden Partner auf der anderen<lb/>
+Seite nicht vorhanden sein werden. Deshalb glaubte er, wäre<lb/>
+es zweckmässig, wenn eventuell sogar er 14 Tage vorher bereits<lb/>
+nach Persien fährt. Ich selbst habe ihm sofort zugestimmt und<lb/>
+er wird diesbezüglich mit <name type="person" ref="per:97893">Sallinger</name> sprechen. Noch besser,<lb/>
+meinte ich, wäre es, wenn er schon anfangs Feber nach<lb/>
+Persien fahren könnte und dann mit sehr konkreten Vorstellungen<lb/>
+österreichischer Experten und Firmen die notwendigen Gegen<lb break="no"/>seitigen Experten die Perser dahin zu bringen, dass sie tat<lb break="no"/>sächlich am 25. Feber zur Verfügung stehen. Er wird mit <name type="person" ref="per:97893">Sallin<lb break="no"/>ger</name> einen Plan ausarbeiten.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97377">BUKOWSKI</name>: Ich glaube, dass es wirklich notwendig<lb/>
+ist, so schnell wie möglich durch <name type="person" ref="per:108322">Meisl</name><lb/>
+feststellen zu lassen, wer aller jetzt<lb/>
+konkret mit konkreten Geschäften mit<lb break="no"/>fährt. Dann müsste man entweder über de<lb/>
+Handelsdelegierten und die Bundeskammer<lb/>
+oder gegebenenfalls über unsere Bot<lb break="no"/>schaft die notwendigen Vertreter aufder<lb/>
+anderen Seite mobilisieren.</p></div>
+      </body>
+      <back>
+         <pb n="19_0067_08" facs="19_1974-01-16_0067-08.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 16.1.1974</head>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+   </text>
+</TEI>

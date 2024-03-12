@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der 16. Dezember 1977</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band39_1977-12-16</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1977-12-16">Freitag, 16. Dezember 1977</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-06-23">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="39-1464" facs="39_1977-12-16_1464.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Freitag, 16. Dezember 1977<lb/>
+</p>
+            <p xml:space="preserve">Gen.Dir. <name type="person" ref="per:97337">Bauer</name> von der ÖMV ruft mich an und sagt, er könne<lb/>
+die Investitionsaufwendungen nicht dem MR <name type="person" ref="per:108609">Sterk</name> geben. Die ÖMV<lb/>
+gehört der ÖIAG, untersteht dem Bundeskanzler und er sieht keine<lb/>
+Möglichkeit Auskünfte über Investitionen der Energiesektion oder<lb/>
+der Obersten Bergbehörde zur Verfügung zu stellen. Ich sollte mich<lb/>
+an die ÖIAG oder den Bundeskanzler wenden. Abgesehen davon, dass<lb/>
+mir <name type="person" ref="per:98040">Wais</name> nachher erklärt, dass <name type="person" ref="per:108609">Sterk</name> die Ziffern hat, die er offiziell<lb/>
+aber nicht haben könnte, erkläre ich <name type="person" ref="per:97337">Bauer</name> sofort, dass wir uns mit<lb/>
+der ÖIAG Direktor <name type="person" ref="per:97498">Grünwald</name> ins Einvernehmen setzen werden. MR <name type="person" ref="per:108609">Sterk</name><lb/>
+kann also die Ziffern verwenden, wenn <name type="person" ref="per:98040">Wais</name> mit <name type="person" ref="per:97498">Grünwald</name> gesprochen<lb/>
+hat. Interessant für mich war nur der Wandel, der bei GD <name type="person" ref="per:97337">Bauer</name><lb/>
+ÖMV vorgegangen ist. Bevor das Handelsministerium die Energie<lb break="no"/>sektion ausgebaut und mit Besetzung von SChef <name type="person" ref="per:107937">Frank</name>, den <name type="person" ref="per:97337">Bauer</name><lb/>
+sogar vorgeschlagen hat, durchgeführt wurde und damit auch bei uns<lb/>
+eine eigenständige Energiepolitik betrieben wird, war der sehnlichste<lb/>
+Wunsch der ÖMV, von der ÖIAG wegzukommen und im Handelsministerium<lb/>
+unterzuschlüpfen. <name type="person" ref="per:97337">Bauer</name> hatte die Absicht und meinte, alle Energie<lb/>
+sollte doch im Handelsministerium konzentriert sein und so wie die<lb/>
+Elektrizitätswirtschaft auch die ÖMV Eigentümervertretung durch das<lb/>
+Handelsministerium erfolgen. Damals musste ich mit aller Deutlich<lb break="no"/>keit GD <name type="person" ref="per:97337">Bauer</name> sagen, dass ich dazu gar keine Möglichkeit sehe,<lb/>
+selbst wenn ich es wünschen würde. Eigentlich ist es schon schade,<lb/>
+dass sich die Situation so gewandelt hat. Wenn SChef <name type="person" ref="per:107937">Frank</name> ein<lb/>
+wenig beweglicher wäre, hätte es sicherlich nicht eine solche Ab<lb break="no"/>lehnung seitens der ÖMV in jeder Beziehung gegeben. Andererseits<lb/>
+wieder muss ich zugestehen, dass die ÖMV in den vergangenen Jahren<lb/>
+bevor <name type="person" ref="per:107937">Frank</name> bestellt wurde, in der Obersten Bergbehörde nur ein<lb/>
+Vollzugsorgan ihrer Wünsche gesehen hat.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name>: Setz Dich bitte mit <name type="person" ref="per:97498">Grünwald</name><add>heute 20. krank</add>, ÖIAG, ins Einver<lb break="no"/>nehmen.</p>
+            <p xml:space="preserve">Das Kapitel Handel und Finanzen, welches im Parlament gleichzeitig<lb/>
+behandelt wurde, hat erwartungsgemäss 9 Stunden gedauert. Da ich<lb/>
+die Gewohnheit habe bei allen meinen Regierungsvorlagen dem Parlament<lb/>
+auch formell meine Referenz zu erweisen, sass ich tatsächlich von<lb/>
+9 Uhr früh bis 6 Uhr abends, nur mit zweimal 3 Minuten Unterbrechung<lb/>
+auf der Regierungsbank. Diese Methode kann ich allerdings nur<lb/>
+<pb n="39-1465" facs="39_1977-12-16_1465.jpg"/>deshalb praktizieren, weil ich ja nur einen Bruchteil der z.B.<lb/>
+vom Finanzminister eingebrachten Vorlagen habe. Am Vortag hat<lb/>
+Landwirtschaftsminister <name type="person" ref="per:97511">Haiden</name> 5 1/4 Stunden gesprochen. Den Wunsch<lb/>
+aller Fraktionen nachkommend, da man Freitag überhaupt schon nach<lb/>
+Hause fahren will, habe ich eine 1/4 Stunde gesprochen. Da diese<lb/>
+Erklärungen und Debatten in Wirklichkeit von niemand ernst genommen<lb/>
+werden, sah ich gar keine Veranlassung länger zu sprechen. Darüber<lb/>
+hinaus hat die bisherige Debatte auch wirklich kaum neue Gesichts<lb break="no"/>punkte gebracht. Der Klub hatte zuerst eingeteilt, dass die ganze<lb/>
+Rednerliste von 20 abgespult worden wäre und ich vor <name type="person" ref="per:97769">Mussil</name>,<lb/>
+Generalsekretär der Handelskammer, und <name type="person" ref="per:127093">Leibenfrost</name>, wirtschafts<lb break="no"/>politischer Sekretär der Handelskammer in Linz, zu Wort kommen<lb/>
+sollte. Darin sah ich eine grosse Gefahr. Da ich nicht wusste, ob<lb/>
+<name type="person" ref="per:97769">Mussil</name> nicht wirklich heisse Eisen zur Sprache bringt – wie z.B. die<lb/>
+Personalpolitik im Handelsministerium – musste ich unter allen<lb/>
+Umständen einvernehmlich versuchen, die Rednerliste zu ändern. Tat<lb break="no"/>sächlich ist es mir geglückt <name type="person" ref="per:97769">Mussil</name> zu erklären, dass er so spät<lb/>
+am Abend nicht nur keine Gehör finden wird, sondern auch die Massen<lb break="no"/>medien kaum mehr irgend etwas von ihm übernehmen werden. Mit Unter<lb break="no"/>stützung von Klubobmann <name type="person" ref="per:97647">Koren</name>, aber auch vom Klubobmann des Wirt<lb break="no"/>schaftsbundes <name type="person" ref="per:97487">Graf</name>, gelang es mir dann, dass <name type="person" ref="per:97769">Mussil</name> nach <name type="person" ref="per:97311">Androsch</name><lb/>
+das Wort ergriff. Seine Attacken waren zweifelsohne die schärfsten,<lb/>
+aber nicht sehr ergiebig. Er meinte, ich müsste meine Dienstauf<lb break="no"/>fassung von Grund auf ändern, da ich eine Schwarzarbeitsbekämpfung<lb/>
+ablehne, sondern ganz im Gegenteil mich. für die Schwarzarbeit<lb/>
+einsetze, nach dem Motto "schwarz arbeiten, rot wählen". Ich sei<lb/>
+ein Neoprotektionist, mache einen asozialen Tarif in der Elektrizitäts<lb break="no"/>wirtschaft und hätte überhaupt als Handelsminister das Leben<lb/>
+der verpassten Gelegenheiten demonstriert. Wer <name type="person" ref="per:97769">Mussil</name> bei seiner<lb/>
+Darstellung beobachtet, bemerkte dass er alles als Theater auf<lb break="no"/>fasst. Als Abg. <name type="person" ref="per:126223">Tull</name> ihm angriff, brüllte er ihn an, nehmen sie die<lb/>
+Hand aus der Tasche, zeigen sie nicht mit einem nackten Finger auf<lb/>
+einen angezogenen Menschen, ziehen sie ihre Handschuhe an, immer<lb/>
+wieder dann ziehen sie ihre Handschuhe an – alles lachte – obwohl<lb/>
+dies mit der Zeit wirklich – zumindestens für mich, peinlich wirkte.<lb/>
+Natürlich gab es dann auch bei meiner Anfragebeantwortung ständig<lb/>
+eine Doppelconference. Nur glaube ich tatsächlich auf einem höheren<lb/>
+Niveau. <name type="person" ref="per:97543">Heindl</name> hat sich jetzt endlich durchgerungen, vollkommen<lb/>
+frei zu sprechen, wodurch er sehr überzeugend wirkt. Er macht nur<lb/>
+genau denselben Fehler wie ich, als ich ins Parlament gekommen bin,<lb/>
+<pb n="39-1466" facs="39_1977-12-16_1466.jpg"/>er spricht ungeheuer schnell. Hätte ich nicht den Ruf schon "das<lb/>
+Maschinengewehr der Opposition gewesen zu sein" würde er jetzt, diesen<lb/>
+Ruf bekommen. Da <name type="person" ref="per:97893">Sallinger</name> wieder mit dem Problem der freien Markt<lb break="no"/>wirtschaft begonnen hatte und auch der Obmann der christlichen Frak<lb break="no"/>tion <name type="person" ref="per:113374">Gassner</name> auf die soziale Marktwirtschaft zu sprechen kam,<lb/>
+konnte ich es mir nicht verkneifen, die sozialdemokratische Markt<lb break="no"/>wirtschaft, die letzten Endes gemeinsam aufbauen werden, anzudeuten.<lb/>
+<name type="person" ref="per:97769">Mussil</name> machte den Zwischenruf, er möchte endlich darüber eine<lb/>
+schriftliche Unterlage, damit er sich mit dieser unmöglichen Idee<lb/>
+auseinandersetzen kann. Hier habe ich sehr leichtfertig geantwortet,<lb/>
+dazu wird er Gelegenheit haben. Ich glaube, dass es wirklich jetzt<lb/>
+notwendig ist, sobald als möglich mit dem Gewerkschaftsbund, die<lb/>
+christliche Fraktion würde sicherlich mittun, eine solche Konzeption<lb/>
+auszuarbeiten. Der richtige Zeitpunkt um zu präsentieren, wäre<lb/>
+der nächste Bundeskongress des Gewerkschaftsbundes.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: Wie weit ist es Dir gelungen, <name type="person" ref="per:97627">Kienzl</name> und <name type="person" ref="per:97676">Lachs</name><lb/>
+und <name type="person" ref="per:114075">Schmidt</name> zur konkreten Mitarbeit zu bringen?<lb/>
+</p>
+            <p xml:space="preserve">Die zweite grosse Aktion die ich angekündigt habe, war die Absicht<lb/>
+nicht als Neoprotektionist, sondern unter Einhaltung der inter<lb break="no"/>nationalen Verträge neben der Gleichstellung der Importwaren mit den<lb/>
+österreichischen Produkten auch eine grosse Aktion "Kauf Dir Deinen<lb/>
+Arbeitsplatz – kauf österreichische Ware" anzukündigen. Hier wird<lb/>
+es tatsächlich dringend notwendig, so schnell als möglich die Ver<lb break="no"/>handlungen zwischen Handelskammer und Arbeiterkammer und Ministerium<lb/>
+abzuschliessen, damit diese Aktion starten kann. Der Gesetzentwurf<lb/>
+muss so schnell als möglich ausgearbeitet und ins Parlament kommen,<lb/>
+damit die gesetzlichen Voraussetzungen für das A und für österrei<lb break="no"/>chische Qualität geschaffen werden. Gleichzeitig muss jetzt daneben<lb/>
+die Organisation aufgebaut werden. Die benötigten Geldmittel stehen<lb/>
+durch die Erklärung der Handelskammer, 2 Mio. zur Verfügung zu stelle<lb/>
+und auch das Handelsministerium gibt denselben Betrag, tatsächlich zur<lb/>
+Verfügung. Die Arbeiterkammer ist bereit mitzuwirken, Präs. <name type="person" ref="per:97386">Czettel</name><lb/>
+hat mir dies neuerdings versichert, meint nur, er könne sich nicht<lb/>
+vorstellen, dass ein grösserer Betrag von der Arbeiterkammer dafür<lb/>
+aufgebracht wird. Die beste Lösung wäre, wenn die Arbeiterkammer und<lb/>
+die Landwirtschaft denselben Betrag zur Verfügung stellen würden.<lb/>
+Die finanzielle Aufteilung wäre dann, Handelsministerium, Handels<lb break="no"/>kammer auf der einen Seite je 2 Mio. auf der anderen Seite ein ge<lb break="no"/><pb n="39-1467" facs="39_1977-12-16_1467.jpg"/>wisser Anerkennungsbetrag von der Landwirtschaft und von der<lb/>
+Arbeiterkammer.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <del>WAIS</del> <corr><name type="person" ref="per:98053">WANKE</name></corr>: Bitte versuche mit <name type="person" ref="per:98112">Zöllner</name> und Land<lb break="no"/>wirtschaftskammer auf Beamtenebene die entsprechenden Voraus<lb break="no"/>setzungen zu klären.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="39_1463_01" facs="39_1977-12-16_1463-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 16.12.1977</head>
+         </div>
+      </back>
+   </text>
+</TEI>

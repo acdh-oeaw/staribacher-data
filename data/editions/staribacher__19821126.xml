@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der 26. November 1982 bis Sonntag, der 28. November 1982</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band67_1982-11-26</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date from="1982-11-26" to="1982-11-28">Freitag, 26. November 1982 bis Sonntag, 28. November 1982</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-12-03">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="67-1390" facs="67_1982-11-26_1982-11-28_1390.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Freitag, 26. November 1982<lb/>
+</p>
+            <p xml:space="preserve">Ich besuche zum ersten Mal das Ausweichquartier der Österr. Nationalbank<lb/>
+im Gebäude der ehemaligen Intern. Atomenergiebehörde respektive Grand<lb/>
+Hotel. <name type="person" ref="per:97627">Kienzl</name> demonstriert mir, daß wenn dieses Gebäude wieder ein<lb/>
+Hotel werden sollte, die denkmalgeschützte Außenfassade das einzige ist,<lb/>
+was übrigbleiben kann. Das Gebäude müßte entkernt werden, d.h. innen<lb/>
+ganz neu aufgebaut und sämtliche Wasser-, Elektro- und Heizungsinstalla<lb break="no"/>tionen neu gemacht werden.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Wie weit steht die Idee, dieses Grand Hotel wieder<lb/>
+zu errichten, vom Besitzer des Gebäudes?<lb/>
+</p>
+            <p xml:space="preserve">Die Nationalbank hat eine Studie aus ihrem Jubiläumsfonds über Winter<lb break="no"/>fremdenverkehr finanziert. Für ihn ist das Ergebnis überraschend, daß<lb/>
+ein Teil der älteren Leute insbesondere im Winter keinen spezifischen<lb/>
+Sport betreiben will, sondern spazieren gehen möchten. Dazu werden die<lb/>
+Gemeinden im stärkeren Maße als bisher Wege ausschaufeln müssen. Diese<lb/>
+etliche hundert Seiten umfassende Studie sollte man genauer analysieren.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:123301">VECSEI</name> UND <name type="person" ref="per:108746">HAFFNER</name>: Wer hat die Studie aller bekommen?<lb/>
+</p>
+            <p xml:space="preserve">Zum 1. Mal fällt mir jetzt gerade auf, teile ich auf die FV-Agenden dem<lb/>
+neuen Sekretär <name type="person" ref="per:123301">Vecsei</name> zu, <name type="person" ref="per:108746">Haffner</name>, <name type="person" ref="per:123301">Vecsei</name> und <name type="person" ref="per:131107">Grossendorfer</name> haben sich<lb/>
+jetzt endgültig über die Aufteilung ihrer Agenden geeinigt. Diesmal ist<lb/>
+es gelungen, eine klare Abgrenzung der einzelnen Sektionen bei den<lb/>
+Sekretärsagenden zu erreichen. <name type="person" ref="per:108746">Haffner</name> hat schweren Herzens die FV-Agen<lb break="no"/>den, die bei der Gewerbesektion sind, die in Zukunft <name type="person" ref="per:123301">Vecsei</name> haben wird,<lb/>
+abzugeben. Da <name type="person" ref="per:108746">Haffner</name> aber auch außer der Industriesektionen auch die<lb/>
+Außenhandelssektion hat sowie das Präsidium haben wird, wäre es meiner<lb/>
+Meinung nach wirklich zuviel gewesen, hätte <add>[er]</add> von der Gewerbesektion auch<lb/>
+noch den FV wie bisher mitübernommen.<lb/>
+</p>
+            <p xml:space="preserve">Sts. <name type="person" ref="per:109808">Albrecht</name> ist von Genf ein wenig enttäuscht zurückgekommen. Leider<lb/>
+habe ich recht gehabt, daß <add>[von]</add> der GATT-Tagung kein positives Ergebnis wird<lb/>
+zu erwarten sein, da die Minister-GATT-Zusammenkünfte, aus den Beamtenbe<lb break="no"/>sprechungen klar ersichtlich, keinen positiven Vorschlag über die wei<lb break="no"/>tere Entwicklung des GATT von der Beamtenseite vorgelegt konnte, die<lb/>
+differenten Auffassungen zwischen den Vereinigten Staaten und der Europ.<lb/>
+Gemeinschaft, das Problem Japans und viele andere Differenzen vorher<lb/>
+nicht ausgeräumt werden. <name type="person" ref="per:109808">Albrecht</name>, die ja jahrzehntelang in internationa<lb break="no"/>len Organen mitgearbeitet hat, insbesondere im Europarat, die also das<lb/>
+<pb n="67-1391" facs="67_1982-11-26_1982-11-28_1391.jpg"/>internationale Bankett genau kennt, berichtete aber und war ein wenig<lb/>
+enttäuscht, daß auch auf intern. Ebene sich einiges zum Negativen hin<lb/>
+gewendet hat.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109808">ALBRECHT</name>: Überlegst Du Dir dies eventuell zu analysieren?<lb/>
+</p>
+            <p xml:space="preserve">Der volkswirtschaftl. Sekretär des Gewerkschaftsbundes, NR <name type="person" ref="per:114075">Schmidt</name>,<lb/>
+teilt mir mit, daß er mit den Mercedes-Leuten geredet hat und die für<lb/>
+Februar einen Einkaufstag in Österreich vorsehen. Dir. <name type="person" ref="per:1138307">Ulsamer</name> hätte ihm<lb/>
+versprochen, daß 1983 Mercedes anstelle der bis jetzt 130 Mio. DM Einkäu<lb break="no"/>fe diese Summe auf 160 Mio. DM erhöhen wird. Mit Hilfe des Einkaufstages<lb/>
+hofft Mercedes auch die österr. Unternehmer dafür zu gewinnen und ent<lb break="no"/>sprechende Offerte zu bekommen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR SC <name type="person" ref="per:111737">MARSCH</name> UND <name type="person" ref="per:108746">HAFFNER</name>: Was wißt Ihr davon?<lb/>
+</p>
+            <p xml:space="preserve">In der Bundesvorstandssitzung des ÖGB berichtet <name type="person" ref="per:97346">Benya</name> über die wirt<lb break="no"/>schafts- und sozialpolitische Situation. Er strich die positiven Seiten,<lb/>
+verhältnismäßig geringe Arbeitslosigkeit, Verbraucherpreissenkung, Lei<lb break="no"/>stungsbilanzausgleich, besonders hervor. Bezüglich der Arbeitslosigkeit<lb/>
+verwies er mit Recht darauf, daß in der 1. Republik bei 1,3 Mio. Beschäftigten<lb/>
+in der Krise der 30er Jahre 405.000 Arbeitslose und bei Ende der Repub<lb break="no"/>lik 37 noch immer 320.000 Arbeitslose waren. Aber auch in der 2. Repub<lb break="no"/>lik wurden bei 1,9 Mio. Beschäftigten 1953 184.000 Arbeitslose gezählt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Dr. <name type="person" ref="per:1137517">Kiefer</name> soll einmal die wichtigsten Beschäftig<lb break="no"/>ten- und Arbeitslosenjahre, insbesondere auch die ausgesteuerten zusam<lb break="no"/>menstellen.</p>
+            <p xml:space="preserve">Die Diskussion über die Verstaatlichte, meinte <name type="person" ref="per:97346">Benya</name>, sei sinnlos. Diese<lb/>
+Industrie hätte in den 70er Jahren 84 Mrd. ohne größere Unterstützung<lb/>
+des Staates investiert, für 112 Mrd. S Steuern bezahlt und 6 Mrd. Divi<lb break="no"/>denden an den Staat als Eigentümer abgeführt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Auch hier sollte man solche Zusammenstellung machen.<lb/>
+</p>
+            <p xml:space="preserve">Bezüglich der Urlaubsverlängerung verwies <name type="person" ref="per:97346">Benya</name> darauf, daß 1971 in ei<lb break="no"/>nem Kollektivvertrag der Mindesturlaub von 2 auf 3 Wochen zwischen ÖGB<lb/>
+und HK vereinbart wurde. Erst 1977 wurde dann im Gesetz eine 24-Werk<lb break="no"/>tage-Regelung Mindesturlaub festgelegt. Die Urlaubsbeschlüsse des letzten<lb/>
+Bundesvorstandes müßten jetzt <choice><choice><sic>reasymiert</sic><corr>resümiert?</corr></choice></choice> werden. Dort wurde er einstim<lb break="no"/>mig beschlossen, daß mit 1. Jänner 83 der 5-Wochen-Mindesturlaub einge<lb break="no"/><pb n="67-1392" facs="67_1982-11-26_1982-11-28_1392.jpg"/>führt werden soll. Jetzt wurde ja die Regelung mit 1. Jänner 84 in Aus<lb break="no"/>sicht genommen. Eine Arbeitszeitverkürzung durch Herabsetzung von 40<lb/>
+auf 35 Stunden ist für den ÖGB derzeit nicht diskutabel. Wenn aber ein<lb break="no"/>zelne Fachgewerkschaften in Kollektivvertragsverhandlungen Arbeitszeit<lb break="no"/>verkürzungen erreichen, so bleibt es selbstverständlich den autonomen<lb/>
+Fachgewerkschaften freigestellt.<lb/>
+</p>
+            <p xml:space="preserve">Erstmal, wie sich in der Diskussion dann auch herausstellte, da ja die<lb/>
+christl. Gewerkschafter aus politischen Gründen einer Urlaubsverlänge<lb break="no"/>rung jetzt nicht zustimmen konnten, gab es auch in der Diskussion da<lb break="no"/>rüber eine härtere Auseinandersetzung. 16 Diskussionsredner beschäftig<lb break="no"/>ten sich mit diesen Problemen. Zum Schluß wurde jetzt festgehalten,<lb/>
+trotzdem jetzt darüber auch im Wahlkampf eine härtere Sprache geführt<lb/>
+werden wird, <add>[daß wir?]</add> alles unternehmen sollen, damit der Österr. Gewerkschafts<lb break="no"/>bund nicht als ein zerstrittener Haufen dasteht. Es gibt eben, wie <name type="person" ref="per:97346">Benya</name><lb/>
+dann mit Recht zusammenfaßte, in diesem Punkt verschiedene Meinungen und<lb/>
+man sollte alles unternehmen, damit darüber nicht im Wahlkampf das An<lb break="no"/>sehen des Österr. Gewerkschaftsbundes Schaden leidet. Eine ungar. Par<lb break="no"/>lamentarierdelegation, die Österreich diese Woche besucht hat, <add>[hat]</add> zum Ab<lb break="no"/>schluß ein Essen im BKA gehabt. <name type="person" ref="per:97668">Kreisky</name> ließ sich durch Minister <name type="person" ref="per:97442">Firn<lb break="no"/>berg</name> vertreten. Ich kam durch Zufall neben dem Verbandssekretär der<lb/>
+Deutsch-Ungarn zu sitzen. Zum Unterschied von Rumänien, die ihre Minder<lb break="no"/>heiten, sowohl die Ungarn als auch die Deutschen, zwar auch theoretisch<lb/>
+organisieren läßt, sehr wenig Bewegungsfreiheit gibt, haben die Deutsch-<lb/>
+Ungarn von deren liberalem System in Ungarn auch profitiert. Die Unter<lb break="no"/>haltung war für mich deshalb interessant, weil dieser Unterschied von<lb/>
+Minderheitenpolitik in den Oststaaten auch jeweils ganz verschieden<lb/>
+gehandhabt wird. Sicher ist für mich eines, daß auch außer dem wirtschafts<lb break="no"/>politisch differenten System in den Staatshandelsländern, sprich<lb/>
+COMECON-Staaten, es eben auch kulturelle, bevölkerungspolitische diffe<lb break="no"/>rente große Auffassungsunterschiede in den einzelnen Staaten gibt.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:109811">Burian</name> berichtete mir dann<add>[, daß]</add> eine Aussprache mit Personalvertreter <name type="person" ref="per:112989">Herold</name>,<lb/>
+ergeben hätte, daß dieser seinen Ausschuß erst Diensttag nächster Woche<lb/>
+zusammenrufen kann und dann erst über die Teilung der Energiesektion,<lb/>
+wie sie seinerzeit war, Elektrizitätswirtschaft, Oberste Bergbehörde,<lb/>
+beraten könnte. Erst in weiterer Folge wäre dann die Möglichkeit diese<lb/>
+neue Sektion Oberste Bergbehörde auszuschreiben; wenn der Zeitplan der<lb/>
+Personalvertreter nicht verkürzt wird, sah ich eine große Gefahr, daß<lb/>
+uns der 9er Posten der Energiesektion verlorengeht. Ich habe deshalb<lb/>
+sofort mit zur Verfügung stehenden Personalvertretern<add>[am]</add> Freitag noch eine<lb/>
+Aussprache gehabt, die auf diesen Punkt besonders hingewiesen hat. Nach<lb/>
+<pb n="67-1393" facs="67_1982-11-26_1982-11-28_1393.jpg"/>längeren Verhandlungen gelang es dann, den ÖAAB-Vertreter zu überzeugen,<lb/>
+daß hier wirklich schnell gehandelt werden muß. Der ÖAAB hält derzeit<lb/>
+seinen Bundestag ab, weshalb die ÖAAB-Vertreter auch am Samstag greif<lb break="no"/>bar waren. Wir vereinbarten für Samstag mittags eine neuerliche<lb/>
+Sitzung. <name type="person" ref="per:112989">Herold</name> konnte nämlich trotz der Anwesenheit <choice><choice><sic>den</sic><corr>vom</corr></choice></choice> für die Aus<lb break="no"/>schreibung zuständigen Sekt.Chef <name type="person" ref="per:131809">Bujatti</name> und vor allem <choice><choice><sic>den</sic><corr>vom</corr></choice></choice> jahrelang so<lb/>
+erfolgreichen zweiten Arbeitgebervertreter SC <name type="person" ref="per:97584">Jagoda</name> nicht sofort über<lb break="no"/>zeugt werden, daß wir schnell handeln müssen. Übereinstimmend wurde von<lb/>
+allen festgehalten, daß die formalen Ausschreibungsbestimmungen auf alle<lb/>
+Fälle einzuhalten sind, d.h. ein Monat Ausschreibungsfrist gewährt wer<lb break="no"/>den muß. Dies bedeutet, daß wir den Zuschlag auf alle Fälle noch bis<lb/>
+Dezember durchführen müßten.<lb/>
+</p>
+            <p xml:space="preserve">Ich habe mit Sts. <name type="person" ref="per:112992">Löschnak</name> anschließend sofort telefoniert und ihm über<lb/>
+die neue Situation bis ins Detail informiert. <name type="person" ref="per:112992">Löschnak</name> selbst hat volles<lb/>
+Verständnis dafür, daß dieser Sekt.Chef-Posten unbedingt im Handels<lb break="no"/>ministerium bleiben muß. Er versprach mir auch sich dafür einzusetzen.<lb/>
+Ersuchte nur um eine für ihn schriftliche genaue Darstellung der ganzen<lb/>
+Angelegenheit.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Bitte Entsprechendes veranlassen.<lb/>
+</p>
+            <p xml:space="preserve">Samstag, 27. November, und Sonntag, 28. November 1982<lb/>
+</p>
+            <p xml:space="preserve">Die vereinbarte Sitzung mit Personalvertretern begann wesentlich ver<lb break="no"/>spätet, weil Dr. <name type="person" ref="per:112989">Herold</name> zuerst mit mir unter 4 Augen redete. Freimütig<lb/>
+hatte er mir erklärt, seine Fraktion erwarte, daß mit April die Führung<lb/>
+des HGI im nächsten Jahr auf die ÖVP fallen wird. Er selbst und vor<lb/>
+allem mal seine Leute rechnen daher, daß sie dann wesentlich mehr Ein<lb break="no"/>fluß auf die Personalführung des HGI bekommen. Ich erwiderte ihm sofort<add>[, daß]</add><lb/>
+hier die ÖVP eine vollkommen falsche Ansicht hat. Selbst wenn die abso<lb break="no"/>lute Mehrheit der Sozialisten verlorengehen sollte, bin ich überzeugt,<lb/>
+wird sicherlich kein Minister kommen, der ihnen mehr Einfluß einräumt,<lb/>
+als sie jetzt haben. In der ÖVP-Zeit war die Personalvertretung über<lb break="no"/>haupt vollkommen ausgeschaltet, der damalige ÖVP-Sekt.Chef, Präsidialist<lb/>
+<name type="person" ref="per:97915">Schipper</name>, hat für die Personalvertretung überhaupt kein Verständnis ge<lb break="no"/>habt und sie in keiner Weise informiert, geschweige denn herangezogen.<lb/>
+Die große Gefahr, die ich natürlich besonders herausgestrichen habe,<lb/>
+obwohl ich davon gar nicht so überzeugt bin, besteht aber, wenn die Sozia<lb break="no"/>listen tatsächlich die absolute Mehrheit verlieren würden, daß ein Frei<lb break="no"/><pb n="67-1394" facs="67_1982-11-26_1982-11-28_1394.jpg"/>heitlicher sogar Handelsminister wird. In diesem Fall wird er auch kaum<lb/>
+eine Chance haben, mehr mitzureden, als dies jetzt der Fall ist.<lb/>
+<name type="person" ref="per:112989">Herold</name> wollte dann, daß wenn schon die Bergbehörde eine eigene Sektion<lb/>
+wird, in der handelspol. Sektion die jetzt nicht besetzte Abteilung<lb/>
+II/4 wieder aufgemacht wird. Seinerzeit wurden die zwei Abteilungsagen<lb break="no"/>den in die eine Abteilung des MR <name type="person" ref="per:114663">Fischer</name> zusammengezogen. <name type="person" ref="per:114663">Fischer</name>, ein<lb/>
+ehemaliger Sekretär bei Minister <name type="person" ref="per:97358">Bock</name>, hat sich dort bestens bewährt<lb/>
+und eine Teilung will auch <name type="person" ref="per:112989">Herold</name> nicht. Ihm schwebt vor, man soll die<lb/>
+Abteilung <name type="person" ref="per:98075">Willenpart</name> aufteilen und den dortigen Referatsleiter <name type="person" ref="per:116916">Waas</name>,<lb/>
+der allerdings der prädestinierte Nachfolger von <name type="person" ref="per:98075">Willenpart</name> <choice><choice><sic>wird</sic><corr>ist</corr></choice></choice>, aus<lb/>
+der Abteilung herauslösen. Dies habe ich ganz entschieden abgelehnt,<lb/>
+weil es sachlich nicht begründet ist, <name type="person" ref="per:98075">Willenpart</name> hart treffen würde und<lb/>
+wahrscheinlich auch MR <name type="person" ref="per:116916">Waas</name> gar nicht anstrebt.<lb/>
+</p>
+            <p xml:space="preserve">Ein weiterer Punkt war, daß die Personalvertretung gegen den Plan des<lb/>
+Rechnungshofes, die Berghauptmannschaft in Graz aufzulösen, ganz ent<lb break="no"/>schieden dagegen Stellung nimmt. Ich konnte <name type="person" ref="per:112989">Herold</name> aber nichts anderes<lb/>
+versprechen, als daß ich prüfen lasse, ob tatsächlich die Nichtbesetzung<lb/>
+der Berghauptmannschaft Graz dem Ressort mehr Kosten verursacht, als der<lb/>
+Rechnungshof vorschlägt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte Entsprechendes veranlassen.<lb/>
+</p>
+            <p xml:space="preserve">Der stellvertretende Leiter der Berghauptmannschaft Wien, <name type="person" ref="per:113370">Widor</name>, ist<lb/>
+auf einem Dienstposten eben dieser nachgeordneten Dienststelle. Dadurch<lb/>
+könnte er mit 1. Jänner 84, wenn er dann MR werden könnte, diesen Dienst<lb break="no"/>grad nicht bekommen, weil dafür kein Dienstposten dort vorgesehen ist.<lb/>
+Der jetzige Leiter der Berghauptmannschaft Wien, <name type="person" ref="per:113369">Wüstrich</name>, hat einen<lb/>
+8er Posten der Zentralstelle und ist der Berghauptmannschaft Wien nur<lb/>
+zugeteilt. Damit jetzt <name type="person" ref="per:113370">Widor</name> seinen MR erreichen kann, müßte man <name type="person" ref="per:113369">Wü<lb break="no"/>strich</name> jetzt auf den Dienstposten von <name type="person" ref="per:113370">Widor</name> setzen und <name type="person" ref="per:113370">Widor</name> sozusagen<lb/>
+in die Zentrale übernehmen. Dieser Weg erscheint mir möglich und wenn es<lb/>
+zu einem Arrangement kommen sollte, bin ich auch bereit, eine solche<lb/>
+Zusage zu geben.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:109811">Burian</name> hat mich noch dankenswerterweise darauf aufmerksam gemacht, daß<lb/>
+eine Mitarbeiterin von <name type="person" ref="per:112989">Herold</name>, Frau <name type="person" ref="per:1138135">Dosch</name>, jetzt die B-Prüfung gemacht <add>[hat]</add><lb/>
+und einen B-Posten braucht. Er ist bereit, <name type="person" ref="per:1138135">Dosch</name> als derzeitiger Leiter<lb/>
+der Grundsatzabteilung in seine Abteilung zu übernehmen, wodurch diese<lb/>
+Forderung der Personalvertretung erfüllt werden könnte. Prinzipiell<lb/>
+stehe auch ich auf dem Standpunkt, wenn jemand eine B-Prüfung gemacht<lb/>
+hat, dann man ihm auch so schnell als möglich einen B-Posten zuteilen<lb/>
+<pb n="67-1395" facs="67_1982-11-26_1982-11-28_1395.jpg"/>sollte.<lb/>
+</p>
+            <p xml:space="preserve">Trotzdem meiner Meinung nach <name type="person" ref="per:112989">Herold</name> durch diese Personalwunsch-Erfül<lb break="no"/>lung und vor allem mal aber auch, da es bei der Obersten Bergbehörde<lb break="no"/>trennung ja nur um die Frage geht, den 9er Posten für das Ministerium,<lb/>
+als für das Ressort zu erhalten, hat dann eine sehr lange Aussprache<lb/>
+von <name type="person" ref="per:112989">Herold</name> mit seinen Leuten zu keinem positivem Ergebnis geführt. <name type="person" ref="per:112989">Herold</name><lb/>
+erklärte sich außerstande, jetzt am Samstag zuzustimmen, die Ausschrei<lb break="no"/>bungsbedingungen, die auch nach seinem Wunsch abgeändert wurden und<lb/>
+worüber dann einvernehmliche Auffassung bestand, noch in die Wiener<lb/>
+Zeitung kommen, damit sie am Sonntag, dem 28., verlautbart sind. <name type="person" ref="per:112989">Herold</name><lb/>
+hat sich ausgebeten, daß Montag noch einmal eine Besprechung zwischen<lb/>
+ihm, seiner Personalvertretung, dann auch mit der anderen Fraktion und<lb/>
+letzten Endes wahrscheinlich auch mit mir noch erfolgen kann. Da nur<lb/>
+durch seine Zustimmung der Terminplan eingehalten werden kann, werde ich<lb/>
+auch diesen Vorschlag akzeptieren müssen. Bis Montag Nachmittag einigten<lb/>
+wir uns, soll dann die endgültige Entscheidung fallen. Wenn am 29. No<lb break="no"/>vember dies in die Wr. Zeitung kommt, kann dann noch allerdings fast mit<lb/>
+Sicherheit erst mit Jahresende dann im letzten Moment die Bestellung des<lb/>
+Sektionsleiters für die Oberste Bergbehörde erfolgen. Mir unerklärlich<lb/>
+ist, daß die Personalvertretung angeblich sehr leichtfertig auf den 9er<lb/>
+Posten verzichtet. Ich kann mir nicht vorstellen, daß <name type="person" ref="per:112989">Herold</name> nicht im<lb/>
+Stande ist, seine Leute davon zu überzeugen, daß ein verloren gegangener<lb/>
+9er Posten kaum mehr rückzugewinnen ist. Wie Sekt.Chef <name type="person" ref="per:131809">Bujatti</name> ihm mit<lb break="no"/>teilte, sind im BKA auf diesem Personalreserveposten 12 Anwärter gemel<lb break="no"/>det. Da jedes Ministerium wesentlich mehr Sektionen als Sektionschef<lb break="no"/>posten hat, nur bei uns im HGI war es anders, wäre es in meinen Augen<lb/>
+unverantwortlich, diesen 9er Posten durch diese hinhaltende Ausschrei<lb break="no"/>bungspolitik zu gefährden. Ich habe dies auch mit aller Deutlichkeit<lb/>
+<name type="person" ref="per:112989">Herold</name> insbesondere auch bei unserem 4-Augen-Gespräch auseinanderge<lb break="no"/>setzt. Die Argumentation <name type="person" ref="per:112989">Herolds</name>, den 9er Posten interessiert nur den,<lb/>
+der den 9er Posten bekommt, ist meiner Meinung nach falsch. Auch in<lb/>
+Zukunft rechnet sich jeder Beamte aus, daß wenn dies oft in einem Jahr<lb break="no"/>zehnt erst der Fall ist, der alte Sekt.Chef dann wieder geht, ein neuer<lb/>
+kommt und damit andere nachrücken können. Überraschend viel Verständnis<lb/>
+habe ich für dieses Problem bei der soz. Fraktion der Personalvertretung<lb/>
+gefunden. Ich hoffe, daß es uns gelingen wird, am Montag doch noch zu<lb/>
+einem positiven Ergebnis zu kommen.<lb/>
+</p>
+            <p xml:space="preserve">Beim philharmonischen Konzert, das ich ja leider nur wirklich jetzt<lb/>
+gelegentlich besuchen kann, trifft man immer eine Anzahl von Botschaftern,<lb/>
+aber auch Handelsdelegierten. Diesmal hatte ich eine interessante Aus<lb break="no"/><pb n="67-1396" facs="67_1982-11-26_1982-11-28_1396.jpg"/>sprache, ich glaube, mit dem uruguayischen Handelsdelegierten. Er erzähl<lb break="no"/>te mir über die Schwierigkeit mancher südamerikanischer Staaten durch<lb/>
+die währungspolitische Situation in Argentinien, aber auch in Brasilien<lb/>
+bedingt wurde in der letzten Zeit Uruguay, das noch die liberalste Wirt<lb break="no"/>schaft hat und auch in ihrer Geld- und Währungspolitik bis jetzt noch<lb/>
+keine Restriktionen verfügt hat, leidet sehr unter den Dollarabfluß<lb/>
+durch Private, die nach Uruguay kommen, um sozusagen Dollar in größeren<lb/>
+Maße zu kaufen. Der Dollarabfluß soll exorbitant gewesen sein, Südame<lb break="no"/>rika wird jetzt durch diese Währungssituation schwer erschüttert. Die<lb/>
+Vereinigten Staaten werden sich daher auch etwas einfallen lassen müssen,<lb/>
+um dieses Problem gemeinsam mit den Südamerikanern zu lösen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="67_1389_01" facs="67_1982-11-26_1982-11-28_1389-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 26.11.1982</head>
+         </div>
+         <pb n="67_1389_02" facs="67_1982-11-26_1982-11-28_1389-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

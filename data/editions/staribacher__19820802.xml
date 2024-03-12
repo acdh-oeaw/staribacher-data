@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Montag, der  2. August 1982</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band66_1982-08-02</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1982-08-02">Montag, 2. August 1982</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-11-06">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="66-0908" facs="66_1982-08-02_0908.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Montag, 2. August 1982<lb/>
+</p>
+            <p xml:space="preserve">Stadtrat <name type="person" ref="per:127030">Veleta</name> erkundigt sich bei mir, ob das Handelsministerium eine<lb/>
+Subvention für eine internationale Hotelfachschule am Kahlenberg geben<lb/>
+könnte. <name type="person" ref="per:127030">Veleta</name> hat die schwierige Aufgabe, fast würde ich sagen daneben<lb/>
+gegangene Projekte wie Rinter-Müllverwertung, Entsorgungsbetriebe Simme<lb break="no"/>ring, Giftabfallbeseitigung, Bellevue-Ausflugsrestaurant und <choice><choice><sic>vor allem mal</sic><corr>vor allem</corr></choice></choice><lb/>
+Kahlenberghotel-Restaurantbetrieb zu versuchen, einigermaßen zu sanieren.<lb/>
+Die Stadt Wien versucht dieses Projekt mit der Wr. HK, Ing. <name type="person" ref="per:107940">Dittrich</name>, durch<lb break="no"/>zuziehen. Die Wiener HK hat in Modul die FV-Schule und Hotel bestens kom<lb break="no"/>biniert. Eine <choice><choice><sic>soche</sic><corr>?</corr></choice></choice> Ausbildungsstätte. Der Präsident der Wr. Kammer,<lb/>
+Ing. <name type="person" ref="per:107940">Dittrich</name> ist mit der neuen Lösung für den Kahlenberg einverstanden.<lb/>
+Das Handelsministerium kann max. für diese Schule einen ERP-Kredit geben,<lb/>
+keinesfalls aber laufende Subventionen übernehmen. Schulsubventionen<lb/>
+könnten überhaupt nur vom Unterrichtsministerium gegeben werden, dieses<lb/>
+lehnt aber eine solche Unterstützung ab. Zum Glück ist jetzt die Saure<lb break="no"/>gurkenzeit, weshalb ich <name type="person" ref="per:127030">Veleta</name> sofort zusagen kann, an der morgigen offi<lb break="no"/>ziellen großen Aussprache persönlich teilzunehmen.<lb/>
+</p>
+            <p xml:space="preserve">Die Entsorgungsbetriebe Simmering, die jetzt von der Privatgesellschaft<lb/>
+die sie gegründet hat und mit einem guten Vertrag mit der Gemeinde Wien<lb/>
+gehofft hat, Millionen scheffeln zu können, jetzt aber finanziell pleite<lb/>
+gemacht hat, ist in die Wiener Holding eingegliedert worden. Ing. <name type="person" ref="per:114722">Hübl</name>,<lb/>
+der Geschäftsführer, der seinerzeit auch diese EBS als Spiritus Rector ge<lb break="no"/>gründet hat, steht im Verdacht von der franz. Errichtungsfirma Inor Be<lb break="no"/>stechungsgelder in Millionenhöhe genommen zu haben. <name type="person" ref="per:127030">Veleta</name> sagt mit Recht,<lb/>
+man muß dies jetzt genau prüfen, denn die franz. Errichtungsfirma Inor<lb/>
+muß jetzt für das Nicht-Funktionieren haften und <name type="person" ref="per:114722">Hübl</name> als der Geschäfts<lb break="no"/>führer hat entsprechende große finanzielle Leistungen von dieser Firma<lb/>
+verlangt.<lb/>
+</p>
+            <p xml:space="preserve">In der Rinter-Müllverwertung gibt es nach wie vor, nicht zuletzt durch<lb/>
+den immer größeren Anteil von Sperrmüll große Verarbeitungsschwierigkeiten.<lb/>
+Die Idee der Baustoffverwertung in der Schweiz ist längst aufgegeben.<lb/>
+Dieses System hätte meiner Meinung nach nie funktionieren können, weil der<lb/>
+Transportweg des komprimierten Mülls von Wien bis in die Schweiz viel zu<lb/>
+teuer ist. Jetzt beabsichtigt man den Müll zu Brennstoff umzuarbeiten.<lb/>
+Da die Fa. Andritz seinerzeit für dieses Müllverwertungsanlage ein ent<lb break="no"/>sprechendes Offert gelegt hat, dann auch an die Fa. Rinter AG entsprechen<lb break="no"/>de Teillieferungen von Maschinen durchgeführt hat, erkläre ich mich sofort<lb/>
+bereit, wenn <name type="person" ref="per:127030">Veleta</name> dies bei einem späteren Zeitpunkt wünscht, mit GD<lb/>
+<name type="person" ref="per:126509">Scheriau</name> von der Andritzer entsprechende Gespräche zu führen.<lb/>
+</p>
+            <pb n="66-0909" facs="66_1982-08-02_0909.jpg"/>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte vormerken, wenn ich <name type="person" ref="per:126509">Scheriau</name> einmal zufällig<lb/>
+treffe.<lb/>
+</p>
+            <p xml:space="preserve">ZBO <name type="person" ref="per:114380">Nischkauer</name> von der Verbundgesellschaft und der Arbeiterbetriebsrat<lb/>
+<name type="person" ref="per:1138008">Kindl</name>, der gleichzeitig auch Kassier ist, hätten die Idee, man sollte die<lb/>
+Aufsichtsratsentschädigung, die die Arbeitnehmer nicht bekommen, dem ZBO für<lb/>
+Schulungstätigkeiten usw. überweisen. GD <name type="person" ref="per:97453">Fremuth</name> steht dieser Idee prin<lb break="no"/>zipiell positiv gegenüber. Eine Aussprache mit den beiden und Dr. <name type="person" ref="per:110944">Zluwa</name><lb/>
+von der Energiesektion hat ergeben, daß wir dieses Problem doch einiger<lb break="no"/>maßen prüfen müssen. Angeblich <choice><choice><sic>hat</sic><corr>haben</corr></choice></choice> die Linzer Elektrizitätsunternehmen,<lb/>
+ESG, trotz der gesetzlichen Bestimmung dem Obmann des Betriebsrates 2/3,<lb/>
+dem Stellvertreter die Hälfte und den anderen Arbeiterdelegierten im Auf<lb break="no"/>sichtsrat 1/3 der Entschädigung gegeben. Diese Lösung lehnt die Verbundge<lb break="no"/>sellschaftsvertretung ganz entschieden ab. Die Arbeiter und Angestellten<lb/>
+wünschen dagegen eine größere Dotation ihres Betriebsratsfonds. Aus der<lb/>
+10 %-igen Zentralbetriebsratsumlage bekommen sie nur 71.000,-- S. Von der<lb/>
+Verbundgesellschaft haben sie 1980 S 420.000,-- bekommen, für 1981 waren<lb/>
+es S 530.000,--, weil eine Betriebsratswahl ebenfalls damit finanziert<lb/>
+werden mußte. Aus diesem Geld werden die Weihnachtsfeiern aber auch die<lb/>
+Reisekosten der Betriebsräte bezahlt. Eine Schulung in Kaprun kostet allein<lb/>
+75.000,-- S. Jetzt seien sie noch 60.000,-- S dafür der Verbundgesellschaft<lb/>
+für Quartier usw. schuldig. Ich erkläre sofort dezidiert, diese Lösung<lb/>
+würde auf die andere verstaatlichte Industrie eine entsprechende Auswir<lb break="no"/>kung haben, weshalb ich um Verständnis bitte, daß ich dies mit dem Gene<lb break="no"/>raldirektor <name type="person" ref="per:97498">Grünwald</name> von der ÖIAG besprechen muß.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:125291">MARTIN</name>: Bitte mit <name type="person" ref="per:97498">Grünwald</name> verbinden.<lb/>
+</p>
+            <p xml:space="preserve">Beim Journalistenfrühstück berichtet <name type="person" ref="per:116031">Liebl</name> über die Vorsaison, die, wenn<lb/>
+er Mai und Juni zusammenzieht, auf der Höhe des Vorjahres bleibt und kei<lb break="no"/>nerlei Zuwachs und keinen Verlust hat. Die Inländer haben um 0,5 % zuge<lb break="no"/>nommen, die Ausländer um 0,2 abgenommen. Da der Vorsaisonanteil nur<lb/>
+20 % beträgt, so wird die endgültige Sommerentwicklung ganz von der Haupt<lb break="no"/>saison, aber dann auch insbesondere von der Nachsaison abhängen, die in<lb/>
+immer stärkeren Ausmaß an Bedeutung gewinnt. Auf alle Fälle läßt sich<lb/>
+aber eine wesentliche Änderung feststellen, die Ankünfte haben um 9 % im<lb/>
+Mai zugenommen, die Übernachtungen aber nur um 5 %. Der Juni war überhaupt<lb/>
+sehr schlecht und hat überhaupt nur negative Ergebnisse gebracht. Die<lb/>
+formelle Ausrede von <name type="person" ref="per:116031">Liebl</name>, daß er Mai und Juni zusammengezogen hat, weil<lb/>
+Mai diesmal auch die Pfingstferien daruntergefallen sind, ist für mich<lb/>
+nicht stichhaltig. Hätte ich früher gewußt, was eine solche mehr oder min<lb break="no"/>der unglückliche Tarnung für das schlechte Juniergebnis damit kaschiert<lb/>
+<pb n="66-0910" facs="66_1982-08-02_0910.jpg"/>werden soll, indem man den Mai zusammenrechnet, hätte ich dies nicht<lb/>
+goutiert.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte das nächste Mal ganz normale Berichte, auch<lb/>
+wenn sie noch so negativ sind, vorbereiten.<lb/>
+</p>
+            <p xml:space="preserve">Vom Stat. Zentralamt erschienen drei, um über die Umsatzmeßzahlen für das<lb/>
+Beherbergungs- und Gaststättenwesen, die seit 1978 zur Verfügung stehen,<lb/>
+zu berichten. An und für sich stört es mich gar nicht, wenn da ja immer<lb/>
+weniger Journalisten kommen, das Zimmer wenigstens durch fremde Beamte<lb/>
+und nicht nur die Hauseigenen voll ist. Gebraucht wurde allerdings nur<lb/>
+die Frau RR <name type="person" ref="per:1138009">Weber</name>, die über die Ziffern und Ergebnisse berichtete, die<lb/>
+andren haben keinen einzigen Muckser getan.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109808">ALBRECHT</name>: Wir sollten versuchen, mehr Journalisten und<lb/>
+weniger Beamte in das Pressefrühstück zu bringen.<lb/>
+</p>
+            <p xml:space="preserve">Die Umsatzmeßzahlen ergaben von 78 auf 81 eine nominelle 33 %-ige Steige<lb break="no"/>rung. Real, wenn man die Preisentwicklung abrechnet, sind es immerhin<lb/>
+noch 14 %. Allerdings deutlich fallende Tendenz. 1979 real 5,4, 1980 4,9,<lb/>
+1981 3,4. Das erfreuliche bei dieser Statistik ist, daß es nicht wieder<lb/>
+bei den Gaststätten eine Primärerhebung, sondern die Ergebnisse aus der<lb/>
+Umsatzsteuervoranmeldung herausgerechnet werden. Da auch bei den Gaststätten<lb/>
+natürlich die S 40.000,-- Freigrenze gilt und nicht nur bei den Privat<lb break="no"/>quartieren, wo bei den Übernachtungsziffern eben geschwindelt wird, um<lb/>
+diese S 40.000,-- nicht zu überschreiten, wird von RR <name type="person" ref="per:1138009">Weber</name> mitgeteilt,<lb/>
+daß diese Umsätze für diese Kategorien, also Kleinstgasthäuser im Gesamt<lb break="no"/>umsatzbild vollkommen uninteressant sind und nicht einmal 1 % des Um<lb break="no"/>satzes ausmachen.<lb/>
+</p>
+            <p xml:space="preserve">Von der Fa. Basis <choice><choice><sic>Research</sic><corr>?</corr></choice></choice> berichtet Dr. <name type="person" ref="per:1138010">Andexer</name> über Urlaubsmotivation<lb/>
+der Über-60-jährigen. Sehr zum Unterschied, was man eher früher geglaubt<lb/>
+hat, diese Senioren wünschen eine besondere Urlaubsbetreuung, stellt sich<lb/>
+heraus, daß sie in Wirklichkeit nur Kontakt- und Verwöhnungsbedürfnisse<lb/>
+haben. Raus aus der Isolation, keine Anstrengung bezüglich ihrer organi<lb break="no"/>satorischen Abwicklung des Urlaubes oder auch ihrer körperlichen Tätig<lb break="no"/>keit, 82 % sind fürs Spazierengehen und vor allem aber auch für Verwöhnen.<lb/>
+Der Urlaub für die Über-60-jährigen ist aufgrund des Mikrozensuses ein<lb break="no"/>deutig immer stark im zunehmen. Waren es 1972 noch 30 %, so sind es 81<lb/>
+bereits 41 %, die auf Urlaub gehen. Auch der Gesamtanteil der Über-60-jähri<lb break="no"/>gen <del>ist von</del> <corr>macht</corr> 5,1 % <add>(60–64j)</add> <del>auf</del> <corr>und</corr> 10,9 % <add>(über 64)</add> aller Urlauber <del>gestiegen</del> <corr>aus</corr>.<lb/>
+</p>
+            <pb n="66-0911" facs="66_1982-08-02_0911.jpg"/>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Wer hat alle diese Auswertungen bekommen und wer<lb/>
+hat sie bezahlt?<lb/>
+</p>
+            <p xml:space="preserve">Dem Handelsministerium, AR <name type="person" ref="per:111706">Müller</name>, Preisabteilung, ist es geglückt, eine<lb/>
+Musterpreisauszeichnung für Friseure mit der Bundesinnung zu vereinbaren,<lb/>
+KR <name type="person" ref="per:1138011">Melkus</name>, der Innungsmeister hat darüber stolz berichtet. Für Damen, aber<lb/>
+auch Herren gibt es jetzt 7 Positionen, wo die Preise eindeutig ausgezeich<lb break="no"/>net werden können und auch dann einen entsprechenden Preisvergleich den<lb/>
+Laien ermöglichen. Dies ist deshalb gar nicht so einfach, weil bei Damen<lb/>
+Friseure z.B. insgesamt 26 Dauerwellmethoden heute angewandt und teil<lb break="no"/>weise natürlich verschiedenartigst angeboten werden.<lb/>
+</p>
+            <p xml:space="preserve">Im Pressefrühstück gab es dann eine außerhalb der Tagesordnung abgewickel<lb break="no"/>te Diskussion, insbesondere über meine Erklärungen in Vorarlberg. Dort<lb/>
+wurde gemeldet, daß ich nicht amtsmüde bin, für die nächste Legislatur<lb break="no"/>periode als Handelsminister zur Verfügung stehe, vorausgesetzt natürlich,<lb/>
+der Bundeskanzler und die Partei wünschen dies, und begründet war dies mit<lb/>
+meinen Erfolgen im FV. Die APA, Red. <name type="person" ref="per:131064">Hahn</name>, fragte natürlich sofort an, wie<add>[es]</add><lb/>
+mit den Energieversorgungserfolgen steht. Insbesondere was ein länger<lb break="no"/>fristiges Energiekonzept betrifft. Hier konnte ich zu recht verweisen, daß<lb/>
+wir in den Energiebericht jetzt seit Jahren schon auch langfristige Prog<lb break="no"/>nosen des WIFO abdrucken, <choice><choice><sic>was</sic><corr>daß?</corr></choice></choice> die langfristige Prognose gar nicht so<lb/>
+schwierig ist und sie im Jahre 2000 und später kaum noch verifiziert wer<lb break="no"/>den kann, und daß die wirkliche Schwierigkeit darin besteht, die kurzfristige<lb/>
+Versorgung der Energie sicherzustellen. Anhand der konkreten Beispiele<lb/>
+habe ich dies dann demonstriert. Bringen wird es sicher niemand.<lb/>
+</p>
+            <p xml:space="preserve">Dir. <name type="person" ref="per:97671">Kreutler</name> von Semperit hat jetzt, weil es Semperit auch wirklich in<lb/>
+jeder Beziehung schlecht geht, immer wieder das Bedürfnis, dem Handels<lb break="no"/>ministerium über die Tätigkeit zu berichten. Im Jahre 1982 hat der Reifen<lb break="no"/>umsatz um 2 – 4 % zugenommen, die Produktion aus technischem Gummi aber<lb/>
+um 9 – 10 %, neben der Treibriemenproduktion soll jetzt auch eine Walzen<lb break="no"/>fabrik mit 160 Mio. S investiert werden, mit einer kanad.-japan. Lizenz.<lb/>
+oder Joint Venture. Der Ostexport wird von 200 Mio. im Vorjahr auf 350 Mio.<lb/>
+in diesem Jahr anwachsen, 3/4 davon gehen in die Sowjetunion. Die DDR, die<lb/>
+einen 5-Jahres-Vertrag mit Semperit hat und jährlich 80 Mio. abnehmen soll,<lb/>
+hat aber in diesem Jahr sehr nachgelassen. Ich habe den neuen Exportlei<lb break="no"/>ter, Mag. <name type="person" ref="per:1138012">Gillespie</name>, den mir <name type="person" ref="per:97671">Kreutler</name> vorgestellt hat, sofort eingeladen,<lb/>
+bei der nächsten gemischten Kommission in Moskau zu sein und als Experte<lb/>
+dort vielleicht für Semperit einige bessere Abschlüsse tätigen zu können,<lb/>
+den DDR-Export sollte er mir schriftlich jetzt mitteilen, damit ich an<lb break="no"/>fangs nächster Woche, wo ich Sts. <name type="person" ref="per:97343">Beil</name> in Wien treffe, diese Unterlagen<lb/>
+<pb n="66-0912" facs="66_1982-08-02_0912.jpg"/>ihm mitgeben kann.<lb/>
+</p>
+            <p xml:space="preserve">Das wirkliche Problem bei Semperit ist aber, daß ich sofort fragte, wel<lb break="no"/>che Verluste heuer Semperit bauen wird. Trotz der Umsatzsteigerung bei<lb/>
+Reifen 500 Mio. und auf dem techn. Sektor 100 Mio., insgesamt also 600<lb/>
+Mio., diese sollen auch in einem Gespräch mit Finanzminister <name type="person" ref="per:97891">Salcher</name> und<lb/>
+Sozialminister <name type="person" ref="per:111740">Dallinger</name> irgendwie abgegolten werden. Die Mutter der<lb/>
+Semperit, die CA hat angeblich 285 Mio. S zur Verfügung gestellt, respek<lb break="no"/>tive in Aussicht gestellt. Daß die Zinsenbelastung eine große Rolle spielt,<lb/>
+ist sowieso bekannt. Semperit muß 7 % des Umsatzes für Fremdkapitalver<lb break="no"/>zinsung aufwenden, bei dem größten Konkurrenten Conti sind es nur 3 %.<lb/>
+Aber auch alle andren Gummifabriken der Welt sind derzeit in roten Ziffern.<lb/>
+Dies ist zwar keine Lösung, aber vielleicht für <choice><choice><sic>GD-en</sic><corr>?</corr></choice></choice> ein Trost, für mich<lb/>
+sicherlich nicht.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: In Hinkunft soll womöglich MR <name type="person" ref="per:97493">Gröger</name> den Kontakt<lb/>
+halten.<lb/>
+</p>
+            <p xml:space="preserve">GD <name type="person" ref="per:97453">Fremuth</name> berichtete mir, daß es jetzt geglückt ist, nicht für 500, aber<lb/>
+immerhin für 300 MW einen Sommer-Winter-Austausch mit der Sowjetunion zu<lb/>
+vereinbaren. Dies bedeutet, daß wir 600 Mio. kWh ab 1. Jänner 85 über die<lb/>
+CSSR zum Schlüssel 1,25 kWh im Sommer in die Sowjetunion geliefert, eine<lb/>
+kWh im Winter zu Niedertarif von der Sowjetunion zurück, für beide Länder<lb/>
+ein Vorteil ist. Wir haben Sommerwasserüberschußstrom und brauchen im<lb/>
+Winter unbedingt Grundlast. Natürlich ist die Niedertariflieferung nicht<lb/>
+so wertvoll wie Tageslieferung, doch kann man diesen Strom als Pumpstrom<lb/>
+immer noch sehr gut benützen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:131107">GROSSENDORFER</name>: Die Relation vertraulich einmal prüfen las<lb break="no"/>sen.</p>
+            <p xml:space="preserve">Von der Energiesektion erscheint MR <name type="person" ref="per:109811">Burian</name> und <name type="person" ref="per:114624">Obermair</name>. Sie schlagen vor,<lb/>
+man sollte die Fernwärmedemonstration nicht in Graz, für die Presse zu weit<lb/>
+entfernt, und auch nicht in St. Pölten, für die Stadtwerke dort noch unin<lb break="no"/>teressant, sondern nach Linz verlegen, wo sowohl die städtische ESG als<lb/>
+auch die Privatfirma ESSO zwei große Anlagen demonstrieren können. Ich bin<lb/>
+sofort damit einverstanden, daß am 23. August diese Pressefahrt durchge<lb break="no"/>führt wird.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109808">ALBRECHT</name>: Bitte veranlaße, daß jetzt bereits die Redaktionen<lb/>
+verständigt werden und die Organisation, insbesondere Verpflegung klappt.<lb/>
+</p>
+            <pb n="66-0913" facs="66_1982-08-02_0913.jpg"/>
+            <p xml:space="preserve">Bei dieser Aussprache beschweren sich die beiden und auch insbesondere<lb/>
+dann der Fraktionsführer der soz. Bediensteten, <name type="person" ref="per:111706">Müller</name>, sehr über den Streit<lb/>
+mit DI <name type="person" ref="per:127783">Hein</name>. Ihr Vorschlag lautet, nun ihn von der Abteilung <name type="person" ref="per:114624">Obermair</name> raus<lb break="no"/>zunehmen und der anderen Abteilung <name type="person" ref="per:114532">Bolhar</name> zuzuteilen, da <name type="person" ref="per:127783">Hein</name> jetzt zum<lb/>
+Zivildienst einrücken wird, ist dies vielleicht vorübergehend eine erträg<lb break="no"/>liche Lösung.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:131107">GROSSENDORFER</name> UND <name type="person" ref="per:109811">BURIAN</name>: Bitte mit Präsidium abwickeln, da<lb/>
+<name type="person" ref="per:131809">Bujatti</name> in Urlaub ist.<lb/>
+</p>
+            <p xml:space="preserve">Die Fa. Frequentis bekommt das Staatswappen, Ing. <name type="person" ref="per:1138013">Strunz</name>, die Seele dieses<lb/>
+Unternehmens hat 1945 mit ein paar Mitarbeitern in der franz. Zone einen<lb/>
+Ravag-Sender aus Militärbeständen und sonstigen Abfällen aufgebaut. Aus<lb/>
+dieser Arbeitsgruppe ist dann eine hochspezialisierte Firma, die heute<lb/>
+Flugsicherungen macht, hervorgegangen. Im 10. Bezirk in zwei Stockwerken<lb/>
+wird sozusagen in kleinster Produktion die Modelle erstellt, die dann bei<lb/>
+der Firma Elin, jetzt in Hinkunft auch sogar mit Siemens Deutschland gefer<lb break="no"/>tigt werden. Das Unternehmen ist wirklich ein führendes in dieser Branche<lb/>
+und braucht das Staatswappen insbesondere für die beabsichtigten Auslands<lb break="no"/>aktivitäten. Ich habe der Firma zu diesem Erfolg gratuliert, den Arbei<lb break="no"/>tern und Angestellten, soweit sie nicht auf Urlaub waren, auf ihren Arbeits<lb break="no"/>plätzen einem jeden die Hand schütteln können und <choice><choice><sic>da</sic><corr>dann?</corr></choice></choice> mit meinen herzlichsten<lb/>
+Glückwünschen das Dekret übergeben und mich damit verabschiedet. Beein<lb break="no"/>druckend für mich war, daß dort zwar alle Leute zusammengekommen sind, was<lb/>
+das allerwichtigste war, die Firma aber nicht einmal ein Glas Wasser be<lb break="no"/>reitgestellt hat. Etwas, was mich sehr – eigentlich – gefreut hat. Keine<lb/>
+Spesen für die Firma aber doch eine Feier, an der alle teilgenommen haben,<lb/>
+ob allerdings die Belegschaft auch dieser Meinung ist, bezweifle ich.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="66_0907_01" facs="66_1982-08-02_0907-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 2.8.1982</head>
+         </div>
+      </back>
+   </text>
+</TEI>

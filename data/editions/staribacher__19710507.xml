@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der  7. Mai 1971</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band05_1971-05-07</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1971-05-07">Freitag, 7. Mai 1971</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-07-30">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="05-0566" facs="05_1971-05-07_0566.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Freitag, 7. Mai 1971<lb/>
+</p>
+            <p xml:space="preserve">In der Sozialakademie haben die Schüler jetzt eigentlich keinen<lb/>
+einheitlichen Lehrplan mehr betreffend der Volkswirtschaftslehre<lb/>
+und Volkswirtschaftspolitik. Die Dozenten haben scheinbar nicht<lb/>
+mehr die notwendige Zeit, um eine einheitliche Ausbildung der Hörer<lb/>
+zu gewährleisten. <name type="person" ref="per:136679">Hufnagl</name>, der Assistent, teilte mir mit, dass z.B.<lb/>
+<name type="person" ref="per:133326">Krämer</name> erklärt hätte, er könnte in der Statistik jetzt nicht mehr die<lb/>
+Endvorträge halten. Deshalb ist jetzt <name type="person" ref="per:98060">Weissel</name> eingesprungen. <name type="person" ref="per:98034">Veselsky</name><lb/>
+wieder hält allgemeine Vorträge über Wirtschaftspolitik. <name type="person" ref="per:136678">Klimpt</name><lb/>
+selbst referiert über Wirtschaftsgeographie. Ich selbst habe seit<lb/>
+eh und je nur über aktuelle wirtschaftspolitische Fragen gesprochen,<lb/>
+dabei aber immer wieder versucht, den Kolleginnen und Kollegen einen<lb/>
+einigermassen brauchbaren Überblick und Zusammenhang über die Probleme<lb/>
+zu geben. Ich konnte und kann es bis heute nicht verstehen, dass man<lb/>
+hier nicht versuchte einen Lehrplan auszuarbeiten, der abgestimmt ist<lb/>
+auf die einzelnen Sachgebiete und Fachgebiete. Ausserdem müsste man<lb/>
+die Garantie haben, dass tatsächlich die Kolleginnen und Kollegen,<lb/>
+wenn theoretische Probleme erörtert und erklärt werden, aktuelle<lb/>
+österreichische Ziffern hiefür heranzieht. Ich halte es für sinnlos,<lb/>
+wenn man z.B. zur Erklärung des Bruttonationalproduktes amerikanische<lb/>
+Ziffern verwendet. Bei aller Notwendigkeit und ich sehe dies ein,<lb/>
+dass die Hörer systematisches Denken lernen müssen, erscheint mir<lb/>
+doch wichtig, dass sie aktuelle Ziffern und konkrete österreichische<lb/>
+Verhältnisse als Beispiele diesen theoretischen Exkurs als Grundlage<lb/>
+dienen soll. Wenn ich zeitig genug aus der aktiven Politik und aus<lb/>
+dem aktiven Kammerdienst ausscheiden sollte, werde ich mich gerne<lb/>
+dem Problem der Sozialakademie, deren Führung und insbesondere Lehr<lb break="no"/>plangestaltung, wenn ich dazu berufen werde, widmen. Ich glaube näm<lb break="no"/>lich, dass die Nachwuchsschulung eine der wichtigsten Aufgaben der<lb/>
+Arbeiterbewegung und der Arbeiterkammer sein müsste.<lb/>
+</p>
+            <p xml:space="preserve">Bei dem Mittagessen für den brasilianischen Handelsminister ersuchte<lb/>
+mich Gen.Direktor <name type="person" ref="per:97644">Koller</name> von der VÖEST und insbesondere der Finanz<lb break="no"/>referent Dr. <name type="person" ref="per:97315">Apfalter</name>, ich möchte doch offiziell endlich mitteilen,<lb/>
+dass der Staat bereit wäre, 30 Mill. $ Bundeshaftung für das Gross<lb break="no"/>projekt der Stahlindustrie in Brasilien beizusteuern. Dr. <name type="person" ref="per:111755">Castellez</name><lb/>
+von der Kontrollbank versicherte mir, dass um 4 Uhr Nachmittag eine<lb/>
+diesbezügliche Besprechung bei ihnen stattfinden wird, eine genaue<lb/>
+Vereinbarung von Konditionen ist auf Grund der derzeitigen währungs<lb break="no"/><pb n="05-0567" facs="05_1971-05-07_0567.jpg"/>politischen Situation beim besten Willen nicht möglich. Da die<lb/>
+Kontrollbank keine Ahnung hat, wie sich die Zinssätze in den nächsten<lb/>
+Wochen und Monaten gestalten werden, müssten jetzt noch zugewartet<lb/>
+werden. Ich erfüllte bei der Tischrede diesen Wunsch, da mir versichert<lb/>
+wurde, dass <name type="person" ref="per:97311">Androsch</name> mit dieser Regelung einverstanden sei.<lb/>
+</p>
+            <p xml:space="preserve">Bei diesem Treffen benützte ich die Gelegenheit und erklärte sowohl<lb/>
+Gen.Dir. <name type="person" ref="per:97644">Koller</name> als auch Dr. <name type="person" ref="per:97315">Apfalter</name>, dass ich es als vollkommen un<lb break="no"/>möglich halte, wenn ein amerikanischer Handelsminister kommt, dass die<lb/>
+VÖEST mir keine Information gibt, dass jetzt z.B. von Amerika beabsich<lb break="no"/>tigt ist, die Stahlexporte in die Vereinigten Staaten zu kontingentieren.<lb/>
+Meine Annahme, dass es sich bei den beabsichtigten Massnahmen Amerikas<lb/>
+um eine Begrenzung der Investitionen handelt, wie mir der Vertreter der<lb/>
+VÖEST bei dem Empfang der amerikanisch-österreichischen Handelskammer<lb/>
+gesagt hat, hat sich als falsch erwiesen. <name type="person" ref="per:97644">Koller</name> ist nur bekannt, dass<lb/>
+eine Exportbeschränkung eingeführt werden kann, welche eine jährliche<lb/>
+Steigerungsrate von 5 % wie die Japaner und 3 % wie die Amerikaner<lb/>
+zugestehen wollen, eingeführt werden soll. Bei dieser Gelegenheit er<lb break="no"/>klärte mir <name type="person" ref="per:97644">Koller</name>, dass die Italiener ebenfalls eine Exportbeschrän<lb break="no"/>kung von der VÖEST auf freiwilliger Basis erwarten. Die VÖEST hat 1966<lb/>
+150.000 t geliefert und im Vorjahr nur 30.000. Nun wünscht sie heuer<lb/>
+45.000 t nach Italien zu exportieren. Die Gesamtmenge ist für Italien<lb/>
+uninteressant und deshalb glaubt die VÖEST, dass die eine solche Be<lb break="no"/>schränkung unter gar keinen Umständen akzeptieren kann.<lb/>
+</p>
+            <p xml:space="preserve">In der brasilianischen Botschaft hatte ich eine Vereinbarung mit Dr.<lb/>
+<name type="person" ref="per:97627">Heinz Kienzl</name> von der OeNB. Ich konnte feststellen, dass sie zwar jetzt<lb/>
+tagelange diskutiert und Sitzungen gehabt haben, aber in Wirklichkeit<lb/>
+auch nicht wissen, welche konkreten Massnahmen für Österreich zielführend<lb/>
+wären. Sie hängen genau so von dem Entscheid der BRD ab wie die öster<lb break="no"/>reichische Bundesregierung.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="05_0565_01" facs="05_1971-05-07_0565-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 7.5.1971</head>
+         </div>
+      </back>
+   </text>
+</TEI>

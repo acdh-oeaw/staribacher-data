@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der 14. November 1975</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band28_1975-11-14</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1975-11-14">Freitag, 14. November 1975</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-01-08">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="28-1308" facs="28_1975-11-14_1308.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Freitag, 14. November 1975<lb/>
+</p>
+            <p xml:space="preserve">Bei der Überreichung des Staatswappens an die Firma Danubia<lb/>
+war in meiner Information kein Wort, daß es sich hier um einen<lb/>
+französischen Besitzer handelt. Wenn man sich nicht die Informationen<lb/>
+von anderer Stelle besorgt, meistens aber durch geschicktes Fragen,<lb/>
+ohne daß man zu erkennen gibt, wie wenig man weiß, auf die Details<lb/>
+stoßt, hängt man schön in der Luft. Zur Auszeichnung selbst war<lb/>
+Präsident <name type="person" ref="per:97581">Igler</name> gekommen, der übrigens eine ungeheure Aktivität<lb/>
+entfaltet, außerdem war Nationalrat <name type="person" ref="per:111740">Dallinger</name> von der Ange<lb break="no"/>stelltengewerkschaft. Die Metallarbeiter hatten nur Sekretäre<lb/>
+resp. die Frauenreferentin <name type="person" ref="per:123215">Fast</name> geschickt. Interessant für mich<lb/>
+war, daß für diese Zählerproduktion die Firma die schon immer in<lb/>
+französischen Händen war, versuchte nach dem zweiten Weltkrieg<lb/>
+durch spezifische österreichische Vorschrift, die sie den Auf<lb break="no"/>sichtsbehörden eingeredet hat, versuchte sich den österreichischen<lb/>
+Markt zu sichern, d.h.abzuschirmen. Als dann die Deutschen mit<lb/>
+ihren DIN-Normen insbesondere die Firma Siemens über einen ge<lb break="no"/>kauften österreichischen Betrieb einbrachen, ging dieses Quasi-<lb/>
+Monopol verloren. Der Vorteil aber war, daß damit der große<lb/>
+französische Konzern, der österreichischen Produktionsstätte für<lb/>
+den gesamten DIN-Bereich die Produktion übertrug. Was also zuerst<lb/>
+als ein Unglück in der Verkaufspolitik schien, stellte sich nachher<lb/>
+als ganz passable Lösung dar. Der Betrieb wird in den nächsten 2 Jahre<lb/>
+40 Millionen Schilling investieren. Ich frug den Geschäftsführer,<lb/>
+einen sehr jungen Mann der äußerst tüchtig ist, ob er sich allein<lb/>
+auf Gas- und Elektrizitätszähler beschrankt. Gerade die Fernwärme wird<lb/>
+in Hinkunft sehr viele Haushaltszähler brauchen. Die derzeitige<lb/>
+Lösung wonach ein Haus mit der Fernwärme oder gar mit Warmwasser<lb/>
+von der Zentralheizung versorgt wird, ohne daß in den einzelnen<lb/>
+Wohnungen der Verbrauch gemessen wird, führt zu einer ungeheuren<lb/>
+Energievergeudung. Er verriet mir unter dem größten Siegel der Ver<lb break="no"/>schwiegenheit, daß sehr wohl, wahrscheinlich nicht er, sondern<lb/>
+der Konzern an einer solchen Zählerproduktion plant, die spätestens<lb/>
+in zwei Jahre vorliegen wird. Die Absatzlage ist derzeit sehr schlecht,<lb/>
+da die Neubauten wegfallen und dadurch die Ausweitung fehlt. Da<lb break="no"/>rüber hinaus wird jetzt die Idee vom Eichamt gewälzt, von 16 Jahre auf<lb/>
+32 Jahre zu verdoppeln, d.h. der Ersatzbedarf wesentlich abnehmen<lb/>
+wird. Trotzdem wird die Firma heuer noch, wie mir der Geschäftsführer<lb/>
+sagt, über die Runden kommen. Der Betriebsrat <name type="person" ref="per:141670">Schmid</name>, ein sehr<lb/>
+<pb n="28-1309" facs="28_1975-11-14_1309.jpg"/>tüchtiger Mann, hat sogar bei der Versammlung mitgeteilt, daß<lb/>
+er mit der Firma eine entsprechende Pensionsleistung vereinbart<lb/>
+hat. Nach 10 Jahren bekommt einer 7.5 % und er steigt glaube ich bis<lb/>
+zu 15 % des Bezuges.<lb/>
+</p>
+            <p xml:space="preserve">In einer Bürobesprechung haben wir neuerdings das Problem der<lb/>
+Motivierung, Aktivierung des Handelsministeriums besprochen. Die<lb/>
+ursprünglich vor 5 Jahren geborene Idee, mit Hilfe von Wochen<lb break="no"/>programmen dem Haus zu sagen wo der Minister tätig sein wird und<lb/>
+damit sie entsprechende Vorbereitungen treffen könnten um Unterlagen<lb/>
+zu liefern, hat sich als Fehlschlag erwiesen. Ich glaube sogar das<lb/>
+Gegenteil ist eingetreten. Unterlagen oder Anfragen, Diskussionen<lb/>
+usw. habe ich in dieser Zeit vielleicht ein Dutzend bekommen. Durch<lb/>
+die Information was aber der Minister macht oder resp. nicht macht,<lb/>
+haben die Leute, die nicht kooperieren wollen, und solche gibt es<lb/>
+sicherlich auch, eine ziemlich genaue Kontrolle über mich <choice><choice><sic>bessen</sic><corr>besessen</corr></choice></choice>.<lb/>
+Ich habe mich oft gewundert, wieso die Handelskammer so gut informiert<lb/>
+war, was alles geschieht. Der Informationswert meines Büros, der<lb/>
+durch diese Wochenprogramme besonders gegeben war soll erhalten<lb/>
+bleiben. Wir werden nur mit der neuen Aufteilung des Ressorts im<lb/>
+Büro auch ein neues Informationssystem an die Sektionen einführen.<lb/>
+</p>
+            <p xml:space="preserve">Jour fixe mit der Arbeiterkammer, <name type="person" ref="per:112010">Blaha</name>, <name type="person" ref="per:97678">Lacina</name> und <name type="person" ref="per:112965">Maurer</name>,<lb/>
+<name type="person" ref="per:98112">Zöllner</name> ist erkrankt, man befürchtet sogar eine leichte Lungen<lb break="no"/>entzündung – und Gewerkschaft <name type="person" ref="per:97676">Lachs</name> und <name type="person" ref="per:114075">Schmidt</name>, wie Büro, <name type="person" ref="per:98053">Wanke</name><lb/>
+und <name type="person" ref="per:97543">Heindl</name>. Es ergibt sich eine harte und lange Diskussion über die<lb/>
+Sanierung der Textilbetriebe Ost. Übereinstimmend herrscht die<lb/>
+Meinung vor, daß <name type="person" ref="per:97581">Igler</name> versucht auf Kosten des Staates und Risiko<lb/>
+des E&amp;E-Fonds und ERP die drei Firmen zu sanieren. Diese Methode<lb/>
+und Vorgangsweise stößt einheitlich auf Widerstand und Ablehnung.<lb/>
+Allerdings müssen alle zugeben, daß wir keine Alternative haben.<lb/>
+Die Vöslauer geht auf alle Fälle vor die Hunde wenn es nicht zu<lb/>
+einer Reorganisation kommt. Solange nicht der Bericht von Dr. <name type="person" ref="per:141610">Schramm</name>,<lb/>
+E&amp;E-Fonds, vorliegt, oder solange mindestens nicht klar ist, wieviel<lb/>
+Schoeller-Bank und wahrscheinlich auch noch die anderen Besitzer<lb/>
+dieser drei Betriebe von ihrem Privatvermögen auch noch dazu bei<lb break="no"/>tragen, sollte kein Ministervortrag von mir gemacht werden. Ebenso<lb/>
+muß noch geklärt werden was Soz.Min. <name type="person" ref="per:97525">Häuser</name> aus AMF wirklich be<lb break="no"/>zahlt. Ich bin überzeugt, daß es keine 30 Millionen werden, wie<lb/>
+wir und die anderen Besitzer hoffen. Ein allgemeiner Bericht an den<lb/>
+<pb n="28-1310" facs="28_1975-11-14_1310.jpg"/>Ministerrat hätte nicht viel Sinn. Eine allgemeine Ermächtigung,<lb/>
+daß z.B. die Richtlinien des ERP-Fonds geändert werden anstelle<lb/>
+von 30 % eine 100 %-ige Investitionsfinanzierung, kann aber erst ge<lb break="no"/>stellt werden, bis die Details wirklich klar sind.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:113038">REIM</name>: <name type="person" ref="per:97493">Gröger</name> soll noch weitere Details versuchen<lb/>
+zu klären, bevor<add>[der]</add> Ministerratsvortrag mir vorgelegt wird.<lb/>
+</p>
+            <p xml:space="preserve">Das neue Preisgesetz das in die Begutachtung geht wird von mir<lb/>
+an alle Teilnehmer verteilt. Die Arbeiterkammer, ja auch der Ge<lb break="no"/>werkschaftsbund scheinen nur an einem Scheingefecht mit der Handels<lb break="no"/>kammer interessiert zu sein. Ihre Politik dürfte ausschließlich<lb/>
+dahingehen, wenn die jetzt ebenfalls zu ändernden Marktordnungen<lb/>
+Änderung der Fondszusammensetzung und Abstimmungsmodalität ihren<lb/>
+Wunsch entsprechend verbessert werden, der Viehverkehrsfond aus<lb break="no"/>lauft, dann die alte Preisregelung auch wieder verlängert wird<lb/>
+ohne größere Änderungen vorzunehmen. Ich bin eigentlich der<lb/>
+Auffassung man sollte mit dem neuen System einfachgesetzliche<lb/>
+Regelung, womit die Rutenfunktion erreicht wird, das Auslangen<lb/>
+finden. Ich sehe schon den Moment kommen, wo im Parlament knapp<lb/>
+vor Ablauf der derzeit befristeten Wirtschaftsgesetze, d.i. Juni 76,<lb/>
+doch irgendein Kompromiß zustande kommen wird und das Ergebnis<lb/>
+sein wird, daß die einfachgesetzliche Regelung wieder nicht<lb/>
+kommt. Bis zu diesem Zeitpunkt muß aber zumindestens die Diskussion,<lb/>
+ob ich verfassungsrechtlich eine solche einfachgesetzliche Regelung<lb/>
+überhaupt so machen kann, wie sie <name type="person" ref="per:97584">Jagoda</name> vorschlägt, geklärt sein.<lb/>
+Ich habe dann immer die Möglichkeit auf diese nur von den sozia<lb break="no"/>listischen Mandaten anhängige Lösung zu verweisen. Damit hat sich<lb/>
+dann der Wunsch auf eine weitgehendere Preisregelung von der<lb/>
+sozialistischen Seite auf die ÖVP-Seite rübergeschoben. Dann wird<lb/>
+der Bauernbund nicht nur an den Marktordnungen und der Wirtschafts<lb break="no"/>bund ebenfalls, sondern auch an der Preisregelung sein Interesse<lb/>
+deutlich sichtbar zeigen müssen. Politisch ist dies von großem<lb/>
+Vorteil. Ich erleide dadurch allerdings einen Prestigeverlust,<lb/>
+weil mein Wunsch die einfachgesetzliche Regelung, die ja auf alle<lb/>
+Fälle von der SPÖ allein beschlossen werden könnte, nicht durch<lb break="no"/>dringt. Ich muß deshalb die Regelung auf alle Fälle immer wieder<lb/>
+nur als Ersatzregelung bezeichnen und propagieren.<lb/>
+</p>
+            <pb n="28-1311" facs="28_1975-11-14_1311.jpg"/>
+            <p xml:space="preserve">Über die Beschlüsse der EFTA bezüglich Portugal, Investitionsfonds,<lb/>
+und Schweden, Schuhglobalkontingent, berichtete ich und es herrschte<lb/>
+Übereinstimmung, daß den Portugiesen weiterhin jedwede Unter<lb break="no"/>stützung und gegen die Schweden alle Mittel eingesetzt werden sollen<lb/>
+damit diese ihr EFTA-widriges Verhalten aufgeben.<lb/>
+</p>
+            <p xml:space="preserve">Eine längere Diskussion ergab sich aus den Anträgen der Wiener<lb/>
+Stadtwerke bezüglich Gaspreis und dann auch der Elektrizitätspreis<lb break="no"/>wünsche. Da die Paritätische Kommission gestern beschlossen hat<lb/>
+sie wird nun zum allerletzten mal versuchen die Gaspreisregelung<lb/>
+bezüglich der Erzeuger, ÖMV und RAG in ihrer Kompetenz zu behalten<lb/>
+habe ich derzeit keine besondere Veranlassung bei der Gaspreis<lb break="no"/>festsetzung für die Letztverbraucher auf dieses Problem einzugehen.<lb/>
+Sollte ich dies nämlich müssen, dann wird es unmöglich sein bis<lb/>
+1.1. den Gaspreis festzusetzen. Die Stadtwerke müssen aber diesen<lb/>
+Gaspreis haben, da sie für ihren Gasbezug hauptsächlich auch durch<lb/>
+die Erhöhung des Sowjetgases 12.5 % mehr bezahlen müssen. Ihr Antrag<lb/>
+für die ansonsten gestiegenen Kosten macht 9.7 % aus. Das offizielle<lb/>
+Preisverfahren muß so schnell abgewickelt werden, weil <name type="person" ref="per:97772">Nekula</name><lb/>
+noch im Gemeinderat bis Mitte Dezember zur Beschlußfassung kommen<lb/>
+muß. <name type="person" ref="per:112965">Maurer</name> von der Arbeiterkammer glaubt riesig lange Zeit zum<lb/>
+Überprüfen zu haben. Hier wird sich glaube ich sehr bald zeigen,<lb/>
+daß <name type="person" ref="per:97386">Czettel</name>, der neue Präsident, wesentlich expeditiver ist und fest<lb/>
+entschlossen auch im Interesse der Investitionstätigkeit der Gas<lb break="no"/>werke einen baldigen Beschluß herbeizuführen. Allerdings ist for<lb break="no"/>mell noch bis Jahresende <name type="person" ref="per:97570">Hrdlitschka</name> der amtsführende Präsident.<lb/>
+</p>
+            <p xml:space="preserve">S.Chef <name type="person" ref="per:107937">Frank</name>, <name type="person" ref="per:97333">Bandhauer</name> von der Verbund, <name type="person" ref="per:113025">Horwath</name> vom Burgenland und<lb/>
+insbesondere <name type="person" ref="per:97453">Fremuth</name>, diskutierten anschließend an dem Jour fixe<lb/>
+mit allen Teilnehmern die Problematik der Änderung der Energie<lb break="no"/>organisation. Zuerst glaubte <name type="person" ref="per:113025">Horwath</name> als burgenländischer Landes<lb break="no"/>vertreter, daß es sehr zweckmäßig ist, wenn der Gewerkschaftsbund<lb/>
+tatsächlich seine Organisationswünsche, wie er sich ausdrückt,<lb/>
+in den Raum stellt. Straffe Reorganisation der Elektrizitätswirt<lb break="no"/>schaft, <add>[im]</add> äußersten Fall in einer Gesellschaft für ganz Österreich.<lb/>
+<name type="person" ref="per:113025">Horwath</name> meinte, dies sei nur eine deklaratorische Forderung und<lb/>
+zwischendurch würden die entsprechenden Preisanträge über die Bühne<lb/>
+gehen. Er war sehr verwundert und versuchte dann einen Rückzug als<lb/>
+er von mir hörte, daß der Preisantrag eben mit der Organisations<lb break="no"/>änderung von seitens des Gewerkschaftsbundes gekoppelt wird.<lb/>
+</p>
+            <pb n="28-1312" facs="28_1975-11-14_1312.jpg"/>
+            <p xml:space="preserve">Dieser möchte womöglich überhaupt nicht und wenn, dann erst<lb/>
+mit 1. Juli den Strompreis erhöhen unter gleichzeitiger Beschluss<lb break="no"/>fassung über eine Reorganisation. Ich habe bisher versucht schritt<lb break="no"/>weise dieses Zeil anzupeilen. <name type="person" ref="per:107937">Frank</name> ist mit mir einer Meinung, daß<lb/>
+wir diesmal auch wieder einen kleinen Schritt machen sollen. Mein<lb/>
+Vorschlag geht dahin, das Aufbauprogramm und vor allem auch die<lb/>
+Abnahme resp. Beteiligung der Landesgesellschaften an Voitsberg III<lb/>
+zu erreichen. Solange wir nämlich nicht einvernehmlich zu einer<lb/>
+Reorganisation schrittweise kommen, bliebe uns nur die gesetzliche<lb/>
+Änderung der Elektrizitätsorganisation. Dies setzt aber eine 2/3-<lb/>
+Mehrheit voraus, <choice><choice><sic>das</sic><corr>da</corr></choice></choice> das einfachgesetzliche zweite Verstaatlichungs<lb break="no"/>gesetz vom Verfassungsgerichtshof jetzt schon entschieden ist, nur<lb/>
+mit qualifizierter Mehrheit geändert werden kann. Diese würden wir<lb/>
+garantiert nicht bekommen, dafür aber eine Diskussion über angeblich<lb/>
+weitere Verstaatlichung auslösen. <name type="person" ref="per:97453">Fremuth</name> warnte ganz entschieden<lb/>
+vor einer solchen Vorgangsweise. Er meint mit Recht, es würde dadurch<lb/>
+im Ausland der Eindruck entstehen, daß doch die Regierung weitere<lb/>
+Verstaatlichungen durchführen möchte. Niemand würde von der Reorga<lb break="no"/>nisation, alle von der Verstaatlichung reden. Damit wäre unsere<lb/>
+Kreditfähigkeit und Würdigkeit gerade auf dem Gebiet der Elektri<lb break="no"/>zitätswirtschaft sehr erschüttert.<lb/>
+</p>
+            <p xml:space="preserve">Überlegungen, ob es tatsächlich notwendig ist für jedes Kernkraft<lb break="no"/>werk eine eigene Gesellschaft<add>[zu]</add> gründen, sollen in Hinkunft besonders<lb/>
+angestellt werden. Hier bin ich auch der Meinung, daß man anders<lb/>
+vorgehen soll als dies meine Amtsvorgänger machten. Sowohl ÖVP-<lb/>
+Minister <name type="person" ref="per:112215">Weiß</name> als dann <name type="person" ref="per:97461">Frühbauer</name> haben immer die Idee gehabt für<lb/>
+jedes Kernkraftwerk eine eigene Gesellschaft zu gründen wegen der<lb/>
+verschiedenen Beteiligungen der einzelnen Länder an jedem Kern<lb break="no"/>kraftwerk. Ich bezweifle, daß es notwendig ist eine solche Auf<lb break="no"/>splitterung durchzuführen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:97469">GEHART</name> und <name type="person" ref="per:98053">WANKE</name>: Hier müßte man entsprechende Stu<lb break="no"/>dien und gegebenenfalls in der Grundsatzgruppe Diskussion abführen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:113025">Horwath</name> berichtete auch, daß im Elektrizitätsverband vorige Woche<lb/>
+die ÖVP-Länder-Direktoren hinter dem Berg mit ihren Preisforderungen<lb/>
+halten wollten. In dieser Woche wurde beschlossen bis 18.11. die<lb/>
+perzentuellen Anträge aller Länder zu formulieren. Bis 25.11. soll<lb/>
+<pb n="28-1313" facs="28_1975-11-14_1313.jpg"/>dann die Bestätigung der Landeshauptleute beigebracht werden.<lb/>
+Wien liegt scheinbar mit ihren 28 % an der Spitze. Vorarlberg 18.9 %,<lb/>
+die Bewag 18 % und die Steiermark 15 %. Die anderen Prozentziffern<lb/>
+wußte <name type="person" ref="per:113025">Horwath</name> nicht. Bei derartig exorbitanten Forderungen sehe<lb/>
+ich kaum eine Möglichkeit, daß wir bis zum 1.1. tatsächlich den<lb/>
+neuen Strompreis festsetzen. Die größte Problematik bleibt, daß<lb/>
+die westlichen Bundesländer Tirol und Vorarlberg einen wesentlich<lb/>
+tieferen Strompreis jetzt schon haben und auch gar nicht einen so<lb/>
+hohen Preis brauchen, als wahrscheinlich Wien, NÖ und die Steweag,<lb/>
+die mit Öl heizen. Trotzdem muß man ihnen entsprechende Preis<lb break="no"/>korrektur geben, weil nur dadurch eine weitere Differenzierung<lb/>
+der österreichischen Stromtarife verhindert wird. Alle Ideen hier<lb/>
+einen Ausgleich zu schaffen, daß man ungleiche Erlössituation<lb/>
+eine Bereitstellungsprämie, Mengenrabatt usw. ausgleicht, geht nicht.<lb/>
+<name type="person" ref="per:97453">Fremuth</name> meint, hier würde der Verwaltungsgerichtshof bei einer Be<lb break="no"/>schwerde sofort aufheben. Die Riskengemeinschaft die die Elektri<lb break="no"/>zitätswirtschaft bezüglich der Versorgung darstellt und deren Aufgabe<lb/>
+die Verbundgesellschaft gerade ist diese Risken auszugleichen, gibt<lb/>
+uns nicht die Möglichkeit durch preisrechtliche Maßnahmen auch hier<lb/>
+einen Erlösausgleich zu dekretieren. Die einzige Möglichkeit wäre<lb/>
+eine Abgabe nach dem Finanzgesetz ähnlich der Stärkeförderung.<lb/>
+Neu aber eine Steuer wird man kaum einführen können. Mit Hilfe von<lb/>
+Fördermittel wäre natürlich ein Ausgleich möglich, doch sind diese<lb/>
+seit langer Zeit unverändert. Aus dem ERP-Fonds stehen 100 Millionen<lb/>
+zur Verfügung, die ja jetzt noch durch die Kohleninvestitionen ge<lb break="no"/>kürzt werden sollten und aus dem Kapitalzufuhr 300 Millionen wurde<lb/>
+seit 1963 unverändert der Investitionsbedarf derzeit mit max. 5 %<lb/>
+gedeckt. Als es 1963 eingeführt wurde waren es immerhin noch 30 %.<lb/>
+Hier bekommen sowieso nur die notleidendsten Gesellschaften eine<lb/>
+Kapitalaufstockung, so daß mit diesen beiden Fördermittel nichts<lb/>
+erreicht werden kann. Für die Elektrizitätsorganisationsänderung<lb/>
+konnten wir keine einvernehmliche Auffassung erzielen. Dies war von m;<lb/>
+mir auch gar nicht beabsichtigt. Es ist schon ein großer Erfolg<lb/>
+wenn es gelungen ist den Gewerkschaftsvertretern klarzumachen, daß<lb/>
+es sich hier um ein äußerst kompliziertes Problem handelt, das<lb/>
+durch die Beteiligung der Länder an den Sondergesellschaften eine<lb/>
+ganz andere rechtliche Ausgangsbasis darstellt als die Reorgani<lb break="no"/>sation der Stahl- und Eisenindustrie. Dort war der Bund 100 %-iger<lb/>
+Eigentümer und konnte natürlich dann verfahren wie er es für zweck<lb break="no"/>mäßig und für sinnvoll hielt. Hier bei der Elektrizitätswirtschaft<lb/>
+<pb n="28-1314" facs="28_1975-11-14_1314.jpg"/>müssen wir infolge der Besitzverhältnisse und vor allem des<lb/>
+harten Widerstandes der Länder, auch der sozialistischen, damit<lb/>
+rechnen, daß wir nur schrittweise und im engsten Einvernehmen<lb/>
+mit den Landesorganisationen vorgehen können.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="28_1307_01" facs="28_1975-11-14_1307-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 14.11.1975</head>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Montag, der 11. April 1983</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band69_1983-04-11</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1983-04-11">Montag, 11. April 1983</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-12-12">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="69-0450" facs="69_1983-04-11_0450.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Montag, 11. April 1983<lb/>
+</p>
+            <p xml:space="preserve">Vor der Verleihung des Staatswappen an die Fa. Para in Eferding berich<lb break="no"/>tet mir Landesrat <name type="person" ref="per:127093">Leibenfrost</name>, daß er Sonntag abends sich mit <name type="person" ref="per:1138631">Huemer</name> be<lb break="no"/>treffend der Finanzierung <choice><choice><sic>von</sic><corr>der</corr></choice></choice> Schuhfabrik Kastinger geeinigt hat. Die<lb/>
+Landesregierung wird selbstverständlich ihre Zusage, die Firma zu unter<lb break="no"/>stützen, einhalten. Er ist damit einverstanden, daß abends bei der Bespre<lb break="no"/>chung mit der Landesregierung bei Bundeskanzler <name type="person" ref="per:97668">Kreisky</name> dieses Problem<lb/>
+von mir zur Sprache gebracht wird.<lb/>
+</p>
+            <p xml:space="preserve">Der Inhaber der Fa. Para, Ing. <name type="person" ref="per:1138632">Ragailler</name>, hat die Fa. 1972 gegründet. Jetzt<lb/>
+hat er bereits 50 Beschäftigte, exportiert in die verschiedensten Länder<lb/>
+und hat in Jordanien, Philippinen, Portugal und Johannisburg entsprechende<lb/>
+Beteiligungen an Para-Gesellschaften. Er ist der meistausgezeichnete<lb/>
+Erfinder Österreichs. Ich kannte ich auch schon von den Erfindermessen.<lb/>
+Seine Para-Hallen, eine neue Dachschalung aus Aluminium oder Stahlblech<lb/>
+ohne Zwischenstützen, sind revolutionär, außerdem hat er jetzt eine Pro<lb break="no"/>duktion von Feuerlöschgeräten begonnen, er behauptet aber, daß jetzt sei<add>[ne]</add><lb/>
+neueste Erfindung, eine Recyclinganlage, wo er aus Reifen, Kunststoffunrat,<lb/>
+am liebsten ist ihm recht viel Kunststoffbeigabe, Öl erzeugen kann, ohne<lb/>
+durch Abgase die Luft zu verschmutzen. In nächster Zeit will er mit<lb/>
+dieser Erfindung in die Produktion gehen, sollte dies wirklich funktionie<lb break="no"/>ren, wäre es die beste Lösung für Recycling und Umweltschutz insbesondere<lb/>
+<choice><choice><sic>mir</sic><corr>von</corr></choice></choice> Plastik.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97727">MARSCH</name> UND <name type="person" ref="per:108746">HAFFNER</name>: Bitte dieser Entwicklung besonderes<lb/>
+Augenmerk zuwenden.<lb/>
+</p>
+            <p xml:space="preserve">Die Fa. Benckiser hat in Hallein, 1969 von der deutschen Mutter in Ludwigs<lb break="no"/>hafen gegründet, sich ungeheuer ausgeweitet. Neben Wasch- und Reinigungs<lb break="no"/>mitteln, die von der Marke her bekannt sind wie Calgonit, Quanto usw., die<lb/>
+aber niemand weiß, daß sie Benckiser erzeugt, werden jetzt entsprechende<lb/>
+Anstrengungen unternommen, von Österreich nicht nur Italien, sondern teil<lb break="no"/>weise auch die BRD, also die eigene Mutter, zu beliefern. Derzeit sind übe:<lb/>
+200 Beschäftigte, der Umsatz wird 430 Mio. heuer ausmachen. Am erfreulich<lb break="no"/>sten aber ist, daß es wahrscheinlich gelingen wird, die Mondseer Arma<lb break="no"/>turenfabrik, die überschuldet ist und zusperren muß, nach genauer Prüfung<lb/>
+doch zu übernehmen, damit können von den 70 Beschäftigen 55 Beschäftigte,<lb/>
+wenn auch teilweise täglich von Mondsee nach Hallein transportiert, weiter<lb/>
+beschäftigt werden.<lb/>
+</p>
+            <pb n="69-0451" facs="69_1983-04-11_0451.jpg"/>
+            <p xml:space="preserve">Ich habe dem Geschäftsführer <name type="person" ref="per:1138633">Webersinke</name> klargemacht, daß süß und leicht,<lb/>
+dies wollen sie weitervertreiben, auf großen Widerstand bei der Regierung,<lb/>
+insbesondere beim Gesundheitsminister stoßt. Vorerst allerdings habe ich<lb/>
+mich bedankt, daß er sofort die Werbung dieses Süßstoffes im Waschmittel<lb/>
+der Waschtrommel auf Intervention des Handelsministeriums sofort einge<lb break="no"/>stellt hat. <name type="person" ref="per:1138633">Webersinke</name> erklärte freimütig, wenn dieser Vertrieb so große<lb/>
+Schwierigkeiten bereitet, könne er sich gut vorstellen, daß er auch da<lb break="no"/>rauf verzichtet, falls dies gegen österreichische Gesetze verstoßen soll.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte das Handelsministerium soll hier eine<lb/>
+entsprechende Lösung vorschlagen.<lb/>
+</p>
+            <p xml:space="preserve">Die Fa. Meidl in Salzburg betätigt sich nur als Toilettenartikelhändler,<lb/>
+hat immerhin aber über 100 Beschäftigte und beschäftigt noch zusätzlich<lb/>
+100 Heimarbeiter. Von der Familie arbeiten 12 im Betrieb mit, 4 Mio.<lb/>
+Toilettenartikel pro Jahr werden versendet, 200 österreichische Hersteller<lb/>
+werden über diese Handelsfirma zur Belieferung von Ketten, aber auch von<lb/>
+4.500 Detailhändlern herangezogen. Die Firma hat im letzten Jahr einen<lb/>
+Umsatzrückgang eines Großkunden an DM-Markt. Die allgemeinen Geschäfts<lb break="no"/>unkosten sind in den letzten 20 Jahren von 17,5 auf 16 % gefallen, die<lb/>
+Personalkosten dagegen von 15,5 auf 26 % gestiegen.<lb/>
+</p>
+            <p xml:space="preserve">Die Firma Christa Moden ist ein kleiner Betrieb, im Industriegelände<lb/>
+Salzburg gelegen, wo man kaum hinfindet. Diese 59 als Maßschneiderei<lb/>
+durch <name type="person" ref="per:1138634">Eugen</name> und <name type="person" ref="per:1138635">Christine Weißenböck</name> gegründete allgemeine Schneider<lb break="no"/>werkstätte hat sich jetzt auf Trachten spezialisiert und zählt zu den<lb/>
+4 größten Gewerbebetrieben dieser Branche, 65 Beschäftigte und interes<lb break="no"/>santerweise über 30 % Export nach Italien, Schweiz, Deutschland und GB.<lb/>
+</p>
+            <p xml:space="preserve">Bei all diesen Veranstaltungen waren die verschiedensten Honoratioren des<lb/>
+Landes <del>in</del> Salzburg, bei Meidl LH-Stv. <name type="person" ref="per:115696">Katschthaler</name>, sonst meistens der<lb/>
+Bürgermeister und AK- und HK-Funktionäre.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:125291">MARTIN</name>: Bitte mit BRD <name type="person" ref="per:118212">Suko</name>, Kaltenhausen-Brauerei, ver<lb break="no"/>binden.<lb/>
+</p>
+            <p xml:space="preserve">Die Aussprache mit der OÖ Landesregierung, <name type="person" ref="per:112001">Ratzenböck</name>, <name type="person" ref="per:123039">Grünner</name> <name type="person" ref="per:127093">Leiben<lb break="no"/>frost</name>, bei BK <name type="person" ref="per:97668">Kreisky</name>, <name type="person" ref="per:97891">Salcher</name> und mir brachte das erwartete Ergebnis.<lb/>
+<name type="person" ref="per:112001">Ratzenböck</name> schlug nämlich vor, es soll eine Sonderförderungsaktion für<lb/>
+mittelständische Wirtschaft, aber auch für die Landwirtschaft zwischen<lb/>
+Bund und Land vereinbart werden. Sie könnten sich vorstellen, daß es <add>[als]</add><lb/>
+<pb n="69-0452" facs="69_1983-04-11_0452.jpg"/>Aktion für ganz Oberösterreich gilt, aber regional doch unterschiedlich<lb/>
+behandelt wird. Betriebe, die expandieren, die neue Produkte erzeugen und<lb/>
+insbesondere <add>[im]</add> Export tätig sind, sollten Zinsenzuschüsse in Höhe von<lb/>
+3 bis 4 % durch 5 Jahre bekommen. <name type="person" ref="per:97668">Kreisky</name> meinte, damit sei er prinzipiell<lb/>
+einverstanden, Oberösterreich kommt jetzt durch die Rückwanderung von<lb/>
+österreichischen Arbeitern aus Deutschland, insbesondere im Bezirk<lb/>
+Braunau und Schärding, in eine schlechte Situation. <name type="person" ref="per:97668">Kreisky</name> meinte, es<lb/>
+stehen dafür ERP-Sonderaktionen zur Verfügung, wie man sie für Bergbau<lb break="no"/>gebiete seinerzeit getroffen hat, außerdem gibt es die Möglichkeit für<lb/>
+neu geschaffene Arbeitsplätze die 100.000 S, 50.000 Bund, 50.000 Land<lb/>
+wie in Niederösterreich und der Steiermark und letzten Endes auch die<lb/>
+Topaktion, mit Niederösterreich, Steiermark und Kärnten sei außerdem ver<lb break="no"/>einbart, daß es BetriebsansiedlungsGesellschaften zwischen Bund und<lb/>
+Land geben könne. Finanzminister <name type="person" ref="per:97891">Salcher</name> meinte, manche Aktionen seien<lb/>
+1:1, dieser Vorschlag des Landes aber sei 100 Mio., das Land in 5 Jahren<lb/>
+würde bedeuten, nachdem 1:2 gewünscht wird, daß der Bund 200 Mio. zur<lb/>
+Verfügung stellen würde, was ohne weiteres möglich ist. Für Betriebsan<lb break="no"/>siedlungen, Innovationen, Venture-Capital-Gesellschaft und Marketing<lb/>
+könnte er sich gut eine Kooperation vorstellen. Er möchte keinen Sonder<lb break="no"/>topf, sondern all diese Möglichkeiten würden im schon zur Verfügung ste<lb break="no"/>henden oder neu zu schaffenden Budgetmittel ihre Deckung finden. LRat<lb/>
+<name type="person" ref="per:127093">Leibenfrost</name> verwies darauf, daß derzeit schon zwischen Oberösterreich<lb/>
+und dem Bund eine gute Beziehung besteht, auch bei der Gewerbestruktur<lb/>
+und sonstigen Aktionen des Handelsministeriums. Für ERP-Maßnahmen, wo<lb/>
+das Land glaubt, daß doch zusätzliche Ergänzungen zur Verfügung gestellt<lb/>
+werden müssen, sind 300 Mio. vorgesehen. Auch bei der Gewerbestruktur<lb/>
+und im Fremdenverkehr hat das Land oft im Anhängeverfahren zusätzliche<lb/>
+Leistungen erbracht.<lb/>
+</p>
+            <p xml:space="preserve">LH-Stv. <name type="person" ref="per:123039">Grünner</name> meinte, durch einen jetzigen Landesregierungsbeschluß<lb/>
+100 Mio. zur Verfügung zu stellen, würde man gegenüber dem Bund, der 1 Mrd.<lb/>
+für Klein- und Mittelbetriebe zur Verfügung stellt, nur eine Teillösung<lb/>
+erreichen. Er plädiert daher, daß man gegebenenfalls die Landesteile<lb/>
+in Zukunft aufstocken könnte. Damit war <name type="person" ref="per:112001">Ratzenböck</name> sofort einverstanden.<lb/>
+Die von <name type="person" ref="per:97668">Kreisky</name> angekündigte Mrd. für die Klein- und Mittelbetriebe lockt<lb/>
+also die anderen Länder auch entsprechende Mehrleistungen vom Bund zu<lb/>
+erwarten.<lb/>
+</p>
+            <p xml:space="preserve">Wie nicht anders zu erwarten, wurde eine Kommission zur Durchführung<lb/>
+der jetzt besprochenen Punkte eingesetzt. Staatssekretär <name type="person" ref="per:97678">Lacina</name>, der<lb/>
+ja all diese Wirtschaftsfragen jetzt bei <name type="person" ref="per:97668">Kreisky</name> intensivst bearbeitet,<lb/>
+wurde von <name type="person" ref="per:97668">Kreisky</name> vorgeschlagen, von mir <name type="person" ref="per:109811">Burian</name>, vom Finanzministerium<lb/>
+<pb n="69-0453" facs="69_1983-04-11_0453.jpg"/><name type="person" ref="per:1137757">Liebich</name>. Auf der oberösterreichischen Seite wird <name type="person" ref="per:127093">Leibenfrost</name> die Ver<lb break="no"/>handlungen mit etlichen Beamten führen. LH-Stv. <name type="person" ref="per:123039">Grünner</name> meinte dann noch,<lb/>
+es sollte auch die AK, <name type="person" ref="per:1138637">Peischer</name>, eingeschaltet werden. <name type="person" ref="per:97668">Kreisky</name> verwies<lb/>
+darauf, die Sozialpartner sollte man dann erst zu einem abschließenden<lb/>
+Gespräch einladen. <name type="person" ref="per:123039">Grünner</name> hat dann freimütig bekannt, daß die heranzu<lb break="no"/>ziehenden Beamten alle der anderen Regierungsparteifraktion angehören,<lb/>
+weshalb er auch einen Mann seines Vertrauens drinnen haben will.<lb/>
+<name type="person" ref="per:112001">Ratzenböck</name> erklärte sich sofort bereit in Oberösterreich alle Projekte<lb/>
+vorher auf Sozialpartnerebene dort prüfen zu lassen. <name type="person" ref="per:97668">Kreisky</name> selbst hat<lb/>
+nämlich vorgeschlagen, man sollte die Sozialpartner nur zum abschlie<lb break="no"/>ßenden Gespräch heranziehen, sonst gibt es nichts als Schwierigkeiten,<lb/>
+bevor es noch zu einer Vereinbarung kommt.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97891">Salcher</name> legte zum Schluß noch einmal größten Wert darauf festzustellen,<lb/>
+daß die Vorhaben von beiden Seiten vorgebracht werden können. Damit hofft<lb/>
+er die Strukturaktion und die Topaktionsvorhaben in Oberösterreich unter<lb break="no"/>bringen zu können.<lb/>
+</p>
+            <p xml:space="preserve">Ich habe dannm bevor <name type="person" ref="per:97668">Kreisky</name> die Sitzung aufgehoben hat, schnell noch<lb/>
+über Kastinger referiert und die Unterlagen verteilt. Danach wurde be<lb break="no"/>schlossen, daß die OÖ Landesregierung nächsten Montag bereits einen<lb/>
+Grundsatzbeschluß bezüglich der Förderung fassen wird, Voraussetzung<lb/>
+ist nach Auskunft <name type="person" ref="per:127093">Leibenfrost</name>, daß die FGG einen ersten Bericht zur<lb/>
+Verfügung stellt. Die Oberösterreicher wollen ungefähr wissen, wie der<lb/>
+Status für Kastinger ist, und welche finanzielle Konstruktion, insbe<lb break="no"/>sondere Länge des Darlehens usw., gefunden werden muß.<lb/>
+</p>
+            <p xml:space="preserve">Ich habe anschließend sofort mit FGG, Dr. <name type="person" ref="per:126298">Hutterer</name>, gesprochen, dieser<lb/>
+hat mir zugesagt, noch im Laufe dieser Woche einen Punktationsbericht<lb/>
+den Oberösterreichern zur Verfügung zu stellen, Details hat dann <name type="person" ref="per:109811">Burian</name><lb/>
+mit ihm ausgemacht.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte sofort mit <name type="person" ref="per:1138631">Huemer</name> verbinden und informieren.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="69_0449_01" facs="69_1983-04-11_0449-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 11.4.1983</head>
+         </div>
+      </back>
+   </text>
+</TEI>

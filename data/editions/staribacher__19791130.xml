@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der 30. November 1979</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band51_1979-11-30</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1979-11-30">Freitag, 30. November 1979</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-08-21">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="51-1328" facs="51_1979-11-30_1328.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Freitag, 30. November 1979<lb/>
+</p>
+            <p xml:space="preserve">Die sozialistische Fraktion der Personalvertretung vom Mini<lb break="no"/>sterium berichtete mir vor Stolz, dass sie ihre Stimmenanzahl<lb/>
+von 23.1% auf 33.8% erhöhen konnten. Ihre Hoffnung auf ein<lb/>
+gestern mir mitgeteiltes Ergebnis, dass sie den Stellvertreter<lb/>
+im Zentralausschuss bekommen, stimmt nicht. Dies richtet sich<lb/>
+nicht nach den abgegebenen Stimmen, sondern nach den Mandaten.<lb/>
+</p>
+            <p xml:space="preserve">Bei dieser Aussprache, die übrigens sehr interessant von Obmann<lb/>
+<name type="person" ref="per:111706">Müller</name>, aber noch viel mehr von Frau Dr. <name type="person" ref="per:116120">Hille</name> von der Energie<lb break="no"/>sektion bestritten wurde, kam natürlich die zukünftige Personal<lb break="no"/>politik zur Sprache. Dr. <name type="person" ref="per:116120">Hille</name>, ihre Mutter war jahrzehntelang bei<lb/>
+mir Sekretärin, wird, wie sie selbst sagte, sich um die einzelnen<lb/>
+Beschäftigten mehr kümmern. Energie und Zeit hat sie sicherlich<lb/>
+genug. Die Forderung der sozialistischen Personalvertreter geht<lb/>
+nun dahin, dass bei der Besetzung von freiwerdenden Abteilungs<lb break="no"/>leiterposten, wo möglich genauso vorgegangen wird, wie seinerzeit<lb/>
+bei den Sektionschefs. Wenn es nach ihren Vorstellungen geht,<lb/>
+dürften nur mehr Sozialisten Abteilungsleiter werden. Dagegen<lb/>
+hätte ich gar nichts einzuwenden, sofern wir die wirklich tüchtigen<lb/>
+und fähigen Leute dafür haben. Ein typisches Beispiel in der Dis<lb break="no"/>kussion war die Präsidialabteilung MR <name type="person" ref="per:97801">Ottahal</name>. Dieser geht mit<lb/>
+Jahresende in Pension, die zwei anstehenden Beamten dort sind<lb/>
+nicht nur Schwarze, sondern MR <name type="person" ref="per:123358">Samsinger</name> vor allem ein frustrierter,<lb/>
+keinerlei Initiative entwickelnder Beamter. Der zweite Sektions<lb break="no"/>rat <name type="person" ref="per:114718">Dersch</name> ist zwar wesentlich besser, aber mit seiner Nebenbe<lb break="no"/>schäftigung als Sänger in der Staatsoper auch nur sporadisch für<lb/>
+die Beamtentätigkeit im Haus im Einsatz. Letzteres gilt allerdings<lb/>
+nicht nur für <name type="person" ref="per:114718">Dersch</name>, sondern für mindestens die Hälfte der Beamten.<lb/>
+Die Fraktion hat grösste Bedenken, wenn man aber die Abteilung<lb/>
+jetzt auflöst, sie zu MR <name type="person" ref="per:97722">Marhold</name> zu geben. Dieser gilt als Intri<lb break="no"/>gant, dessen Stärkung Wahnsinn wäre. Ein aus der Runde kommender<lb/>
+Vorschlag, MR <name type="person" ref="per:113627">Kieslich</name> für diese Tätigkeit zu gewinnen, fand<lb/>
+auch nicht die Zustimmung. Die beste Lösung wäre es, wenn die<lb/>
+Agenden vom Referat <name type="person" ref="per:113627">Kieslich</name> in die Personalabteilung kommen<lb/>
+würden.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:112949">KAZDA</name> UND <name type="person" ref="per:109811">BURIAN</name>: Wie ginge eine solche Variante.<lb/>
+</p>
+            <pb n="51-1329" facs="51_1979-11-30_1329.jpg"/>
+            <p xml:space="preserve">Beim Jour-fixe mit Arbeiterkammer und ÖGB gab es die härteste<lb/>
+Auseinandersetzung mit Dr. <name type="person" ref="per:98112">Zöllner</name> von der Arbeiterkammer wegen<lb/>
+des RAG-Gaspreises. Zeitweise hat er sich so aufgeregt, dass<lb/>
+alle befürchteten, er würde einen Herzinfarkt bekommen. Dass er<lb/>
+mit mir schon seit 35 Jahren streitet, fällt mir gar nicht mehr<lb/>
+auf. Dass er aber mit SChef <name type="person" ref="per:97584">Jagoda</name> derartig heftig diskutierte,<lb/>
+war selbst für mich neu. Ich kann mir sehr gut vorstellen, dass<lb/>
+viele jetzt schon sagen, mit dem kann man gar nicht normal disku<lb break="no"/>tieren. Dies bedaure ich zutiefst, denn er ist nicht nur blitz<lb break="no"/>gescheit, sondern hat auch in vielen Fällen recht. Die Art aber<lb/>
+seiner Argumentation muss immer mehr Leute gegen ihn aufbringen.<lb/>
+<name type="person" ref="per:97584">Jagoda</name> versuchte ihnen klarzumachen, dass er nicht bereit ist,<lb/>
+für einen Zeitraum für 14 Tage womöglich den 95 Groschen-Preis<lb/>
+amtlich festzulegen. Mir erscheint es auch zweckmässig, wenn<lb/>
+mit Jahresbeginn der Schilling von der Preiskommission einvernehm<lb break="no"/>lich festgelegt werden könnte, der dann immer noch um 5 Groschen<lb/>
+tiefer wäre, als der in Niederösterreich festgelegte.Die Diffe<lb break="no"/>renzierung gegenüber Oberösterreich könnte man wahrscheinlich beim<lb/>
+Verwaltungsgerichtshof weiter verteidigen, weil eben die RAG<lb/>
+selbst diesen Schilling als Kompromiss akzeptiert hätte. <name type="person" ref="per:97584">Jagoda</name><lb/>
+sagt zu Recht, wenn es zu einem solchen Beschluss in der Preis<lb break="no"/>kommission nicht kommt, dann bleibt ihm nichts anderes übrig, als<lb/>
+ein Sachverständigen-Gutachten zu verlangen, um einigermassen mit<lb/>
+Erfolg die mit Garantie zu erwartende Appellation an den Verwaltungs<lb break="no"/>gerichtshof durch die Firma RAG gewinnen zu können.<lb/>
+</p>
+            <p xml:space="preserve">Der Vorschlag der Gasgesellschaften, in Hinkunft, da es sich jetzt<lb/>
+bei den Importgaspreisen um laufende in kürzeren Abständen erfolgen<lb break="no"/>de Korrekturen handelt, diese nicht in der Preiskommission, sondern<lb/>
+in der Paritätischen Kommission zu behandeln, wird von der Arbei<lb break="no"/>terkammer abgelehnt. Mein Hinweis, der auch von Dr. <name type="person" ref="per:97676">Lachs</name> bestätigt<lb/>
+wird, dass 1975 in der Paritätischen Kommission eine sehr befrie<lb break="no"/>digende Lösung gefunden werden konnte, kann auch keinen Meinungs<lb break="no"/>umschwung herbeiführen. Die Arbeiterkammer ist auf amtliche Preis<lb break="no"/>regelung absolut festgelegt. Ich kündige sofort an, dass aber auch<lb/>
+in der amtlichen Preiskommission eine Tangentenregelung erfolgen<lb/>
+muss. Ich möchte keinesfalls jetzt dann immer alle halbes Jahr<lb/>
+oder vielleicht noch viel kürzer ständig diesen unerträglichen<lb/>
+Streit. Seitdem <name type="person" ref="per:98112">Zöllner</name> gehört hat, dass <name type="person" ref="per:97584">Jagoda</name> dann, wenn es<lb/>
+<pb n="51-1330" facs="51_1979-11-30_1330.jpg"/>sich um Preisfestsetzungen handelt, die gegebenenfalls beim<lb/>
+Verwaltungsgerichtshof angefochten werden, genaue Sachver<lb break="no"/>ständigengutachten verlangt, glaubt er allen Ernstes, wir könnten<lb/>
+dies jetzt bei allen Preisanträgen so handhaben. Monatelange, ja<lb/>
+vielleicht sogar jahrelange Diskussionen mit den entsprechenden<lb/>
+Sachverständigen, Gutachten für und wider, sollten automatisch<lb/>
+die Preisfestsetzung rauszögern. Ihm schwebt die seinerzeitige<lb/>
+Zuckerpreisregelung vor. Damals hatte die Zuckerindustrie durch<lb/>
+nichts begründet, ausser dass der damalige Welthandelsprofessor<lb/>
+<name type="person" ref="per:137166">Bouffier</name> in einem Gutachten der Zuckerindustrie bestätigte, sie<lb/>
+müssten die Wiederbeschaffungswerte einsetzen und deshalb eine<lb/>
+16%ige Erhöhung verlangte, erreicht, dass wirklich jahrelang da<lb break="no"/>rüber diskutiert wurde und dann eine 6%ige Erhöhung letzten Endes<lb/>
+genehmigt wurde. <name type="person" ref="per:98112">Zöllner</name> meinte allen Ernstes, wir sollten jetzt<lb/>
+sofort bei der Elektrizität genauso vorgehen. Dadurch könnte al<lb break="no"/>lerdings der Elektrizitätspreis wahrscheinlich erst Ende nächsten<lb/>
+Jahres, wenn überhaupt in diesem Zeitraum festgelegt werden. Eine<lb/>
+solche Politik lehne ich ganz entschieden ab.<lb/>
+</p>
+            <p xml:space="preserve">Ich versuchte an Hand des Milchpreisergebnisses der Arbeiterkammer<lb/>
+klarzumachen, dass mit ihrer Haltung in Wirklichkeit den Bauern<lb/>
+nur die Möglichkeit gegeben wurde, bei einer ganz anderen Aussprache<lb/>
+als über den Milchpreis mit <name type="person" ref="per:97668">Kreisky</name>, auch diese Frage dort zur Sprache<lb/>
+zu bringen. <name type="person" ref="per:97668">Kreisky</name> hat, wie ich gar nicht anders erwartete, den<lb/>
+Vorschlag <add>[von]</add> <name type="person" ref="per:97511">Haiden</name>, 20 Groschen Erzeugermilchpreiserhöhung plus die<lb/>
+5 Groschen für Siloverzichtszuschlagsgebiete sofort akzeptiert.<lb/>
+Dies um so mehr, als ja damit Präsident <name type="person" ref="per:97691">Lehner</name> sich, wie er mir<lb/>
+einen Tag vorher mitteilte, zufrieden gibt und damit ein wichtiger<lb/>
+Streit mit den Bauern aus der Welt geschaffen wurde. Dkfm. <name type="person" ref="per:112010">Blaha</name>,<lb/>
+der von der Arbeiterkammer die Agrarpreise immer verhandelt, hat<lb/>
+mit Recht diese Vorgangsweise insofern kritisiert, als er in der<lb/>
+vergangenen Zeit bei Agrarpreisfestsetzungen sich wesentlich besser<lb/>
+durchsetzen konnte. In Hinkunft werden wir uns wieder bemühen insbe<lb break="no"/>sondere mit <name type="person" ref="per:112010">Blaha</name> besser zu kooperieren. Die jetzt von der Arbei<lb break="no"/>terkammer rausgegebene Erklärung, sie hätte nur 15 Groschen zuge<lb break="no"/>standen und der Verbraucherpreis hätte nur um 80 Groschen erhöht<lb/>
+werden sollen, ist meiner Meinung nach nur eine schlechte Alibihand<lb break="no"/>lung.<lb/>
+</p>
+            <pb n="51-1331" facs="51_1979-11-30_1331.jpg"/>
+            <p xml:space="preserve"><name type="person" ref="per:107956">Satzinger</name> berichtet über die Vorsprache der Ölfirmen wegen einer<lb/>
+baldigen Erhöhung und dringenden Urgenz der Verbraucherpreisre<lb break="no"/>gulierung. Die Arbeiterkammer erklärt, sie hätte jetzt keine<lb/>
+Zeit, um auch diese Preise noch zu verhandeln, da Tag für Tag über die<lb/>
+Vorprüfung über die Elektrizitätspreise verhandelt wird. Ich ent<lb break="no"/>scheide kategorisch, dass trotzdem eine Sitzung stattfinden muss,<lb/>
+weil es unmöglich ist, ein Preisverfahren, welches jetzt bald<lb/>
+1/2 Jahr dauert, an einem Verhandlungstermin scheitern zu lassen.<lb/>
+Für mich ergibt sich die Frage, wieweit solche formellen Wünsche<lb/>
+abgelehnt werden können. Das Argument von <name type="person" ref="per:98112">Zöllner</name>, hier sollten<lb/>
+wir als Gutachten die freiwillige Arbeit des Wirtschaftsforschungs<lb break="no"/>institut, das die letzte Preiserhöhung schon als nicht notwendig<lb/>
+bezeichnete heranziehen, kann nur als guter Gag gewertet werden.<lb/>
+Dies könnte maximal zur Begründung zur Festlegung des volkswirt<lb break="no"/>schaftlich gerechtfertigten Preises gelten. Vorher muss man aber<lb/>
+die betriebswirtschaftliche Notwendigkeit feststellen. Sollten<lb/>
+wir dafür ein Gutachten verlangen, wird dies ebenfalls wieder mona<lb break="no"/>telang dauern.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Wenn dies die Arbeiterkammer will, so soll<lb/>
+sie dies bei der Sitzung dann feststellen.<lb/>
+</p>
+            <p xml:space="preserve">Dr. <name type="person" ref="per:97627">Kienzl</name>, Nationalbank, wünscht einen genauen Bericht über die<lb/>
+Polenverhandlungen, den ich selbstverständlich dann bis ins letzte<lb/>
+Detail gegeben habe. Dkfm. <name type="person" ref="per:112010">Blaha</name> hat von der ÖBB, Bundesbahnverwal<lb break="no"/>tungsrat von GD <name type="person" ref="per:126414">Pycha</name>, erfahren, dass die CSSR doch imstande wäre die<lb/>
+notwendigen Kohletransporte durchzuführen. Diesbezügliche Verhand<lb break="no"/>lungen laufen also, denn die Österreichische Bundesbahn wäre an<lb/>
+sämtlichen Kohletransporten über die Bahn brennendst interessiert.<lb/>
+Notwendig dafür wären 600 neue Waggons, die 150 Mio. Schilling<lb/>
+kosten. Die Polen würden diese Waggons um die Hälfte verkaufen.<lb/>
+Nach seiner Information soll jetzt auch die DDSG eingeschaltet<lb/>
+werden, ob gegebenenfalls die Schiffahrt einen Teil der Kohlenanlie<lb break="no"/>ferung bewältigen könnte und wie vor allem dann die Relationen<lb/>
+aussehen würden. Überraschend für mich war, dass dort auch be<lb break="no"/>sprochen wurde, die Handelskammer, der Verkehrsexperte <name type="person" ref="per:127032">Schaller</name>,<lb/>
+wird jetzt die einzelnen Relationen rechnen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: MR <name type="person" ref="per:97426">Fälbl</name> soll sich jetzt mit allen Stellen,<lb/>
+die davon betroffen sind, jetzt ins Einvernehmen setzen, um die<lb/>
+Unterlagen zu bekommen.<lb/>
+</p>
+            <pb n="51-1332" facs="51_1979-11-30_1332.jpg"/>
+            <p xml:space="preserve"><name type="person" ref="per:97498">Grünwald</name>, ÖIAG, war nicht anwesend, trotzdem habe ich über die<lb/>
+konkreten Verhandlungen mit Volkswagenwerke wegen der allrad<lb break="no"/>getriebenen Produktion in Österreich vertraulich berichtet.<lb/>
+</p>
+            <p xml:space="preserve">Überraschend für mich war, dass Dr. <name type="person" ref="per:97543">Heindl</name> aus der Finanz- und<lb/>
+Budgetausschussfraktion im Parlament mitteilte, wie dort die<lb/>
+Verhandlungen wegen des Absetzbetrages für Energiesparen ge<lb break="no"/>laufen sind. <name type="person" ref="per:97311">Androsch</name> hat kurzwegs erklärt, die prinzipielle<lb/>
+Zustimmung für alle seine Massnahmen seien bereits bei der Re<lb break="no"/>gierungsklausur in Pörtschach erfolgt und dort hätte die Ar<lb break="no"/>beiterkammer und ÖGB mehr oder minder durch Schweigen zugestimmt.<lb/>
+Der Hinweis von Präsident <name type="person" ref="per:97386">Czettel</name> und auch von ÖGB-Nationalrat <add>[?]</add><lb/>
+<name type="person" ref="per:114386">Glück</name> <add>[evtl. Falschidentifikation; Fragezeichen im Text hs. gestrichen, allerdings kein NR-Abg. "Glück" in Periode 1979–83 existent; Anm.]</add>, dass über Details dort überhaupt gar nicht geredet<lb/>
+wurde und niemand wusste, wie er die Budgets erstellt und einige<lb/>
+Sätze dann vorlegen wird, hat <name type="person" ref="per:97311">Androsch</name> mit Gegenargumentation<lb/>
+aber darüber wurde bei der Klubtagung in Villach gesprochen, mehr<lb/>
+oder minder vom Tisch gewischt. Jetzt kann ich die Verärgerung<lb/>
+vorn Präs. <name type="person" ref="per:97386">Czettel</name> von gestern Abend erst richtig verstehen. Selbst<lb/>
+der Versuch von Klubobmann <name type="person" ref="per:97444">Fischer</name>, den Wunsch der Arbeiterkammer<lb/>
+und des ÖGB aufzugreifen und hier eine teilweise Änderung zu er<lb break="no"/>reichen, war erfolglos. Der Beschluss lautet. neben der Sonder<lb break="no"/>ausgabe für Wohnraum 10.000 Schilling für den Steuerpflichtigen,<lb/>
+10.000 für seine Frau und 5.000 für jedes Kind, der Versicherung<lb/>
+mit denselben Sätzen, <choice><choice><sic>der</sic><corr>die?</corr></choice></choice> von der Arbeiterkammer ganz entschieden<lb/>
+schon bei der letzten Steuerreform schon bekämpft wurde, des Kirchen<lb break="no"/>steuerabsetzbetrages, von 600 Schilling erhöht auf 800 Schilling,<lb/>
+und vor allem, wie <name type="person" ref="per:97676">Lachs</name> ironisch meinte, die gesamte Absetzung<lb/>
+für Steuerberater wird jetzt als neue Sonderausgabe für Energie<lb break="no"/>sparen, 10.000 Schilling für den Steuerpflichtigen, 10.000 Schilling<lb/>
+für seine Frau und 5.000 Schilling für jedes Kind festgelegt.<lb/>
+Die Mindestausgabe, also eine sogenannten Bagatellgrenze, ist<lb/>
+5.000 Schilling. Ausserdem soll jetzt durch eine Verordnung spezi<lb break="no"/>fiziert werden, was alles unter Energiesparen das unter diese<lb/>
+Sonderausgabe fällt, zu verstehen ist. Hier, meint <name type="person" ref="per:97543">Heindl</name>, wird wieder<lb/>
+das Handelsministerium entsprechende materielle Vorarbeiten leisten<lb/>
+müssen. Darüber bin ich gar nicht erfreut. Selbstverständlich wer<lb break="no"/>den wir aber den Wunsch des Finanzausschusses resp. den Gesetzes<lb break="no"/>auftrag dann erfüllen. Sonderausgabenpauschale von 3.276 Schilling,<lb/>
+alles immer auf das Jahr gerechnet, wird aber nicht angerechnet,<lb/>
+wie die Arbeiterkammer dann noch befürchtet hat. Nachdem über<lb/>
+<pb n="51-1333" facs="51_1979-11-30_1333.jpg"/>diese Vorgangsweise in der Arbeiterkammer hellste Empörung be<lb break="no"/>steht, erklärte <name type="person" ref="per:97676">Lachs</name> die Situation so, dass die Taktik <add>[von]</add> <name type="person" ref="per:97311">Androsch</name><lb/>
+aufgeht, nämlich generelle Bemerkungen den Spitzenfunktionären der<lb/>
+Organisation, ÖGB, teils auch AK zu sagen, diese konsultieren<lb/>
+ihre Fachleute überhaupt nicht oder zu spät, stimmen im Prinzip<lb/>
+zu und dann hat <name type="person" ref="per:97311">Androsch</name>, und er glaubt es zumindestens zu haben,<lb/>
+das Pouvoir. Dies ist im Grunde genommen aber auch der Regierungs<lb break="no"/>stil den <name type="person" ref="per:97668">Kreisky</name> seit 1970 und jetzt in immer stärkerem Masse<lb/>
+von allen Mitgliedern erwartet. Dem steht mein Kooperationsstil<lb/>
+diametral gegenüber. Ich bin heute nicht mehr restlos überzeugt,<lb/>
+ob tatsächlich der Kooperationsstil, der Konsensstil, der Verhand<lb break="no"/>lungsstil der vergangenen Jahrzehnte noch gefragt ist. Man wünscht<lb/>
+glaube ich wirklich heute mehr die Macher. Ein solcher war ich<lb/>
+nicht und werde ich auch nie sein.<lb/>
+</p>
+            <p xml:space="preserve">Die Vorfeier zur morgigen Barbarafeier in Eisenerz war ausge<lb break="no"/>zeichnet durch eine Verleihung der VÖEST-Alpine <choice><choice><sic>von</sic><corr>an</corr></choice></choice> über 130<lb/>
+Angehörige ihres Betriebes <choice><choice><sic>mit</sic><corr>von</corr></choice></choice> Jubiläumsgeschenken und entsprechender<lb/>
+Veranstaltung. Die Verleihung von Grubenwehrzeichen durch mich,<lb/>
+war eigentlich nur ein Teil dieser Feier, wozu Landeshauptmann den<lb/>
+Kulturlandesrat geschickt hatte, weshalb auch Landesrat <name type="person" ref="per:140329">Bammer</name> ge<lb break="no"/>kommen ist, denn natürlich wollte man dort keine schwarze Dominanz.<lb/>
+Von der Handelskammer war Gewerke <name type="person" ref="per:113833">Assmann</name>, gleichzeitig auch Auf<lb break="no"/>sichtsrat-mitglied bei VÖEST-Alpine, erschienen, der dann die Handels<lb break="no"/>kammermedaillen umständlich und sehr langwierig den Jubilaren über<lb break="no"/>reichte. In meiner Ansprache hatte ich nach 5 Vorrednern, die alle nur<lb/>
+die Treue zum Betrieb, die Einsatzfreude der Bergleute, also den<lb/>
+Mythos des Bergmanns herausstrichen, das Bedürfnis den Kumpels zu<lb/>
+erklären, wieso wir dann – und ich bekannte mich dazu – ihre Be<lb break="no"/>triebsstätten schliessen müssen. Ich kann mich nämlich sehr gut<lb/>
+in die Lage der Bergarbeiter versetzen, die durch persönlichen Ein<lb break="no"/>satz freiwillig bei der Grubenwehr jederzeit bereit sind ihren<lb/>
+Arbeitsplatz zu verteidigen, den Schaden, der Betrieben entstehen<lb/>
+könnte, zu minimieren, also alles für ihren Arbeitsplatz und für<lb/>
+ihre Kollegen zu tun und dann doch erleben müssen, dass sie, wie dies<lb/>
+bei etlichen Bergleuten, die ich ausgezeichnet habe, dann der Fall<lb/>
+war, auf andere Berufe umgeschult werden müssen, weil eben Fohns<lb break="no"/>dorf jetzt stillgelegt wurde. Ich habe mir sagen lassen, dass<lb/>
+früher bei Barbara-Feiern oft Versprechungen gemacht wurden, die<lb/>
+niemand einhalten konnte. Ich frage mich da immer wirklich, was<lb/>
+<pb n="51-1334" facs="51_1979-11-30_1334.jpg"/>die Arbeiter dann von so einer Politik halten. Ich bin nicht<lb/>
+überzeugt, aber ich hoffe, dass ich ihnen mit meinen Ausführungen<lb/>
+wenigstens erklären konnte, warum es so weit mit dem österreichi<lb break="no"/>schen Bergbau kommen musste und dass es nur Kostengründe waren,<lb/>
+die letzten Endes zu der Schliessung führten. Selbstverständlich<lb/>
+habe ich gleichzeitig versucht darzulegen, dass wir bestrebt waren<lb/>
+und auch weiterhin bestrebt sind Ersatzarbeitsplätze dafür zu<lb/>
+schaffen. Dies gilt natürlich auch für den Eisenerzer Raum. Ver<lb break="no"/>standen mögen sie vielleicht meine Ausführungen haben, ob sie dem<lb/>
+zustimmen, bezweifle ich. Wäre ich nämlich ein Arbeiter, so würde<lb/>
+ich auch die Meinung vertreten, mein Arbeitsplatz ist doch mir das<lb/>
+Wichtigste und warum wird der jetzt wegrationalisiert oder gar,<lb/>
+wenn die Kostenlagen es erfordern, der Betrieb ganz geschlossen.<lb/>
+Die Stimmung hat sich sicherlich dann bei den Festivitäten geändert,<lb/>
+daran habe ich aber dann nicht mehr teilgenommen.<lb/>
+</p>
+            <p xml:space="preserve">Bergrat <name type="person" ref="per:132462">Juvancic</name> von der VÖEST-Alpine, für dieses Gebiet im Vorstand<lb/>
+verantwortlich, teilte mir zu meiner grossen Erleichterung mit,<lb/>
+es muss <add>[aus?]</add> Radmer wahrscheinlich überhaupt niemand abwandern. Durch<lb/>
+die vorzeitige Finanzierung durch die VÖEST-Alpine und daher<lb/>
+jetzt sofort beginnende Errichtung der Munitionsbunker können alle<lb/>
+Bergleute solange dort arbeiten, bis <name type="person" ref="per:113833">Assmann</name> mit seiner Produktion<lb/>
+drinnen beginnen kann. Diese Übergangsregelung erscheint mir äusserst<lb/>
+wichtig.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Was weiss <name type="person" ref="per:97493">Gröger</name> davon?<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="51_1327_01" facs="51_1979-11-30_1327-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 30.11.1979</head>
+         </div>
+      </back>
+   </text>
+</TEI>

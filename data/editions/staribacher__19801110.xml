@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Montag, der 10. November 1980</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band57_1980-11-10</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1980-11-10">Montag, 10. November 1980</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-02-12">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="57-1382" facs="57_1980-11-10_1382.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Montag, 10. November 1980<lb/>
+</p>
+            <p xml:space="preserve">Mit GD <name type="person" ref="per:97453">Fremuth</name>, Verbund, Präs. <name type="person" ref="per:97358">Bock</name>, Aufsichtsratsvorsitzender der<lb/>
+TKW, und Dir. <name type="person" ref="per:114091">Gmeinhart</name>, TKW, wurde vereinbart, daß unmittelbar nach Ab<lb break="no"/>schluß des Salzach-Ausbauverträge, die womöglich im Dezember noch mit der<lb/>
+SAFE unterschrieben werden sollen, sofort das Wasserrecht für Oberpinz<lb break="no"/>gau eingereicht werden soll. <name type="person" ref="per:97453">Fremuth</name> teilt mit, daß der Enns-Vorstand<lb/>
+jetzt Pattstellung hat bezüglich der Steyr-Gewässer. Dort wurde seiner<lb break="no"/>zeit das Wasserrecht für die Steyr-Gewässer genehmigt, bis jetzt nicht<lb/>
+genützt und die OKA blockiert jetzt die Durchführung im Enns-Vorstand.<lb/>
+Bei dieser Gesellschaft handelt es sich um eine 50 %-ige Beteiligung<lb/>
+der oberösterreichischen Kraftwerke OKA und 50 % Bund, wodurch wieder<lb/>
+einmal bewiesen ist, wie unzweckmäßig eine solche gleichwertige und<lb/>
+perzentuelle 50-50-Lösung ist.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97453">Fremuth</name> vertritt den Rechtsstandpunkt, daß auch durch die Aufhebung<lb/>
+des Baubescheides von Voitsberg III durch die Landesregierung der Bau<lb/>
+fortgesetzt werden muß und kann. Es gibt keine absolute Nichtigkeit im<lb/>
+Verwaltungsrecht. Die Beschwerde der Anrainer, die nicht gehört wurden<lb/>
+und weshalb der Verwaltungsgerichtshof diesen Recht gegeben hat, kann<lb/>
+nicht zur Einstellung des Baus führen. Dr. <name type="person" ref="per:110944">Zluwa</name> ist bezüglich der<lb/>
+Rechtsauffassung anderer Meinung. De facto einigen wir uns aber, daß<lb/>
+unter allen Umständen der Bau fortgesetzt werden muß und soll.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: <name type="person" ref="per:97526">Hautzenberg</name> soll die Details, insbesondere die<lb/>
+Entschwefelungsmöglichkeit für das Weihnachtsgespräch vorbereiten.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97453">Fremuth</name> ist es erstmalig geglückt, die Gehaltsverhandlungen mit den An<lb break="no"/>gestellten mit 7,3 % abzuschließen und nicht, wie der Kollektivvertrags<lb break="no"/>gehalt 7,5 % für die Industrie jetzt vereinbart wurde. Erstmalig wurde<lb/>
+die Hausvereinbarung, daß die Istgehälter der Elektrizitätsangestellten<lb/>
+automatisch dem Kollektivvertragsgehaltsprozentsatz, der ja immer wesent<lb break="no"/>lich höher ist, weil er nur für die untersten Gruppen eine Rolle spielt,<lb/>
+nicht voll angewendet wird.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97453">Fremuth</name> will für die Verbund und den Landesgesellschaften, eventuell<lb/>
+sogar mit den Süddeutschen und den Italienern, Enel, eine Trägergesell<lb break="no"/>schaft für Kohle errichten. Diese soll eine Kohlengrube in Australien<lb/>
+oder Kanada erwerben. Dafür müssen 8 Mrd. $ aufgebracht werden. Die E-<lb/>
+<pb n="57-1383" facs="57_1980-11-10_1383.jpg"/>Wirtschaft will sich also von den Kohlenimportgesellschaften, ob ver<lb break="no"/>staatlicht oder privat, in Hinkunft mit den neugeschaffenen Ölmultis oder<lb/>
+ÖMV-Kohlengesellschaften nicht verbünden. Kohle wird nach Meinung all<lb/>
+dieser ein großes Zukunftsgeschäft, weshalb jeder seine eigene Handels<lb break="no"/>tätigkeit entwickeln möchte.<lb/>
+</p>
+            <p xml:space="preserve">Bezüglich der Nationalparkverhandlungen für die Kraftwerke in Osttirol<lb/>
+und Oberpinzgau vertrete ich die Meinung, daß es nicht sehr schnell zu<lb/>
+einer gesetzlichen Regelung kommen wird. Der Salzburger LH <name type="person" ref="per:113822">Haslauer</name> hat<lb/>
+sich jetzt gegen eine Bundesregelung ganz entschieden ausgesprochen. Die<lb/>
+ÖVP wird daher ihren Wünschen der Landeshauptleute Rechnung tragend zu<lb/>
+diesem Verfassungsgesetz sicherlich nicht die Zustimmung geben.<lb/>
+</p>
+            <p xml:space="preserve">Die Verhandlungen mit COGEMA wegen eines eventuellen Wiederaufbereitungs<lb break="no"/>vertrages und gleichzeitig die Zustimmung, daß der Atommüll in Frank<lb break="no"/>reich verbleibt, werden intensiv fortgeführt, da sich doch abzeichnet,<lb/>
+daß das Pro-Zwentendorf-Volksbegehren die notwendigen 200.000 Unter<lb break="no"/>schriften bekommt. Hätte sich hier der ÖGB nicht so exponiert, wäre<lb/>
+wahrscheinlich auch das pro Zwentendorf genauso gescheitert wie die<lb/>
+Atomgegnerin <name type="person" ref="per:113082">Schmitz</name> mit ihrem Umbauvolksbegehren.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97453">Fremuth</name> glaubt noch immer, daß er mit den Sowjets einen Austauschvertrag<lb/>
+Spitzenstrom gegen Bandlast von ungefähr 500 MW oder zumindestens einen<lb/>
+Kaufvertrag für diese 500 MW abschließen kann. Mit der CSSR, GD <name type="person" ref="per:126566">Hussek</name>,<lb/>
+hat er über 1000 MW auf Tauschbasis Verhandlungen geführt. Ich bin nicht<lb/>
+so überzeugt, daß es mit den Oststaaten leicht sein wird, solche Verträ<lb break="no"/>ge abzuschließen.<lb/>
+</p>
+            <p xml:space="preserve">Die Polen-Verträge sind abgeschlossen. Der Streit zwischen der Freien Ge<lb break="no"/>werkschaft Solidarität und der Regierung nimmt immer heftigere Formen<lb/>
+an und mit allen Ministern von Oststaaten und Botschaftern, mit denen ich<lb/>
+spreche, sehen für die weitere wirtschaftliche Entwicklung in Polen<lb/>
+große Schwierigkeiten. Die Kohlenlieferverträge der Polen im COMECON<lb/>
+werden noch mehr gekürzt als die Westexporte, dadurch kommt es zur Nicht<lb break="no"/>lieferung von polnischer Kohle an die DDR zu Kokserzeugung, die Kokslie<lb break="no"/>ferung der DDR an Ungarn und die Ungarn haben ein riesiges Energieloch.<lb/>
+Die Lieferungen der COMECON-Staaten aber nach Polen sollen womöglich auf<lb break="no"/>rechterhalten werden, damit die Versorgung dort nicht ganz zusammen<lb break="no"/>bricht. Mit dem ungarischen Botschafter habe ich bei der Fahrt zum Flug<lb break="no"/>hafen wegen der Kohlelieferungen für das Kraftwerk an der ungarisch-<lb/>
+burgenländischen Grenze neuerdings gesprochen. Die neuerliche Preisfor<lb break="no"/><pb n="57-1384" facs="57_1980-11-10_1384.jpg"/>derung der Ungarn kann von Österreich nicht akzeptiert werden, weil der<lb/>
+Wärmewert im Strompreis nicht gedeckt werden kann. Botschafter <name type="person" ref="per:123369">Rande</name><lb/>
+wird mit seinen Leuten in Budapest dieses Problem neuerdings besprechen.<lb/>
+</p>
+            <p xml:space="preserve">Außer Protokoll und gar nicht vorgesehen bin ich dann auch zum Empfang des<lb/>
+Vorsitzenden des Staatsrates <name type="person" ref="per:114104">Honecker</name> nach Schwechat gekommen, um mit Dr.<lb/>
+<name type="person" ref="per:97343">Beil</name> die ersten Gespräche gleich dort zu führen. Vorher traf ich Gott sei<lb/>
+Dank unseren Botschafter in Berlin, der mir außer die schon mitgeteilten<lb/>
+4,4 Mrd. S Investitionsabschlüsse der Jahre 79 und 80 weiter 1,4 Mrd., 1,2<lb/>
+durch den Ruthner-Vertrag und 200 Mio. für die VEW zusätzliche Lieferun<lb break="no"/>gen, mitteilte. Darüber hinaus wurden für die 1,2 Mrd. schon abgeschlosse<lb break="no"/>nen Konsumgüter jetzt noch 280 Mio. vorgesehen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Das nächste Mal bitte direkt Kontakt mit dem<lb/>
+entsprechenden Botschafter immer herstellen.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Nachmittagsbesprechung mit Dr. <name type="person" ref="per:114101">Mittag</name>, Politbüroverantwortlicher<lb/>
+für die DDR-Wirtschaft und daher der wichtigste Mann neben <name type="person" ref="per:114104">Honecker</name>,<lb/>
+bedanke ich mich für das zusätzlich große Verständnis für Konsumgüter<lb break="no"/>lieferungen und jetzt insbesondere VEW-Lieferungen. In dieser Aussprache<lb/>
+und dann noch viel mehr beim Abendessen wurde mir immer eindringlicher<lb/>
+klargemacht, daß die wichtigste Entscheidung erst beim Anflug auf Wien<lb/>
+im Flugzeug getroffen wurde, nämlich zwischen <name type="person" ref="per:114104">Honecker</name> und <name type="person" ref="per:114101">Mittag</name>, das<lb/>
+Stahlwerk für 14 Mrd. S nach Österreich zu vergeben. Die VÖEST-Alpine hat<lb/>
+damit den größten Erfolg bei diesem Staatsbesuch. Im Auto, aber vom Flug<lb break="no"/>hafen dann im Laufe des Tages immer mehr verdichtend, hat mir <name type="person" ref="per:97343">Beil</name> gesagt,<lb/>
+er erwartet aber dafür ein unbedingtes Entgegenkommen auf dem Zollsek<lb break="no"/>tor. <name type="person" ref="per:114101">Mittag</name> hat dann darauf verwiesen, daß auch die Konsumgüterbezüge<lb/>
+stabilisiert werden sollen, das heißt in den DDR-5-Jahresplan eingebaut.<lb/>
+Auch dort muß aber als Voraussetzung, wie <name type="person" ref="per:114101">Mittag</name> deutlich erklärte, auf<lb/>
+dem Zollsektor ein Entgegenkommen festgestellt werden. Ich erklärte über<lb break="no"/>all, daß ich zwar jederzeit bereit bin, die § 6 Zollermäßigungen zu ge<lb break="no"/>währen, wo ich dafür gesetzliche Möglichkeiten habe, eine allgemeine<lb/>
+Ermächtigung ist in diesem Gesetz nicht vorgesehen, ich muß daher jeden<lb/>
+Einzelfall besonders prüfen. Bei Maschinen hat der Österreichreferent<lb/>
+<name type="person" ref="per:125951">Reh</name> in der Sitzung schon zugegeben, klappt es einigermaßen, Schwierig<lb break="no"/>keiten gibt es jetzt bei Keramik, Filmen, Kameras. Dort haben die West<lb break="no"/>deutschen und andere EFTA- und EG-Staaten Zollfreiheit, dadurch werden<lb/>
+die DDR-Exporte diskriminiert. Da dies aber nicht nur für die DDR,<lb/>
+sondern für alle nicht in Freihandelsverträgen eingebundenen Staaten gilt,<lb/>
+<pb n="57-1385" facs="57_1980-11-10_1385.jpg"/>wird es sehr schwer sein eine Lösung zu finden. Ich versuchte vor allem<lb/>
+dann abends bei dem Gespräch, bei dem auch <name type="person" ref="per:97668">Kreisky</name> nach dem Essen teilge<lb break="no"/>nommen hat, es auf einige Produkte zu beschränken. <name type="person" ref="per:97668">Kreisky</name> entschied<lb/>
+dann, für 3 Produkte sollten wir versuchen, der DDR eine entsprechende<lb/>
+Lösung anzubieten. <name type="person" ref="per:97343">Beil</name> war damit einverstanden.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108322">MEISL</name>: Bitte sofort mit Finanzministerium prüfen, wie wir<lb/>
+dieses Problem vielleicht ähnlich wie mit den Japanern lösen können.<lb/>
+</p>
+            <p xml:space="preserve">Bei der offiziellen Sitzung zwischen <name type="person" ref="per:97668">Kreisky</name> und <name type="person" ref="per:114104">Honecker</name>, an der nur die<lb/>
+Minister <name type="person" ref="per:108328">Pahr</name> und ich und die Botschafter und auf der DDR-Seite eben<lb break="no"/>falls nur die Spitzen teilnahmen, bedankte sich <name type="person" ref="per:97668">Kreisky</name> insbesondere auch<lb/>
+für die Lösung der humanitären Fälle. Dort geht es nicht nur um den<lb/>
+Einzelfall, sondern es werden dadurch auch Ressentiments ausgeräumt, da<lb/>
+die kleinen Leute sehen, daß man nicht nur große Wirtschaftsgeschäfte<lb/>
+macht, sondern auch ihre Einzelfälle berücksichtigt. Die Wirtschaftsbe<lb break="no"/>ziehungen sind das Wichtige, und die laufen gut. Die Kulturbeziehungen<lb/>
+steigen ständig und die DDR hat eine große Leistung, insbesondere was<lb/>
+die Bewahrung von <name type="person" ref="per:127124">Bert Brecht</name> und die Aufführung betrifft, geleistet.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> ersuchte auch, ob es nicht eine Erleichterung im Reiseverkehr<lb/>
+von der DDR nach Österreich geben könnte, meinte aber, dies müßte<lb/>
+<name type="person" ref="per:114104">Honecker</name> beurteilen. Politisch sei man an der Entspannungspolitik in<lb/>
+Österreich sehr interessiert auch über das deutsch-deutsche Verhältnis.<lb/>
+Bei dieser Gelegenheit berichtete dann <name type="person" ref="per:97668">Kreisky</name> über den <name type="person" ref="per:114110">Brandt</name>-Vorschlag<lb/>
+bezüglich einer "global round" Entwicklungshilfe. Die Sozialistische<lb/>
+Internationale hat jetzt vorgeschlagen, es soll ein beschränkter Teil<lb break="no"/>nehmerkreis von 25, aber unter Hinzuziehung von Amerika und der Sowjet<lb break="no"/>union versuchen, dieses Entwicklungsprogramm unter Führung von Mexiko<lb/>
+und Österreich durchzusetzen. Dies hätten die Außenminister, die jetzt<lb/>
+in Österreich getagt haben, gutgeheißen. <name type="person" ref="per:97668">Kreisky</name> hofft, auf diese Art<lb/>
+und Weise seine seinerzeitige Idee eines Art Marshallplanes wieder ins<lb/>
+Verhandlungsspiel bringen zu können. Er gibt allerdings zu, es ist frag<lb break="no"/>lich, ob die neue amerikanische Administration, insbesondere Präsident<lb/>
+<name type="person" ref="per:126232">Reagan</name> daran teilnehmen wird. Dasselbe gilt übrigens auch für die<lb/>
+Sowjetunion.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:114104">Honecker</name> erwiderte, daß die militärische Entspannung das Wichtigste<lb/>
+sei, der Brüsseler Beschluß über die Mittelstreckenraketen, aber und ins<lb break="no"/>besondere die neue amerikanische Atomwaffenstrategie dem entgegenstehe,<lb/>
+da jetzt die neue Administration und insbesondere Präsident <name type="person" ref="per:126232">Reagan</name> noch<lb/>
+<pb n="57-1386" facs="57_1980-11-10_1386.jpg"/>nicht klar zu erkennen gegeben hat, wie es hier weitergehen wird, man<lb/>
+aber in der DDR eine weitere negative Entwicklung befürchtet. Die Frage<lb/>
+ist, ob <name type="person" ref="per:126232">Reagan</name> berechenbarer wird. Dieser Begriff "berechenbar" hat jetzt<lb/>
+scheinbar im Sprachgebrauch des COMECONs, insbesondere in den internen<lb/>
+Besprechungen und in den Spitzen, eine besondere Bedeutung. Zweckmäßig<lb/>
+wäre nach <name type="person" ref="per:114104">Honecker</name>, wenn die Europäer eine eigene Konferenz abhalten<lb/>
+würden. Erschüttert ist die DDR <choice><choice><sic>aus den</sic><corr>vom</corr></choice></choice> bisherigen westdeutschen Wahlan<lb break="no"/>griff. Dort hat man <choice><choice><sic>auf</sic><corr>von</corr></choice></choice> 16 Mio. Geiseln, Deutsche, die eben in der DDR<lb/>
+wohnen, gesprochen. Weiters verlangte man, daß die BRD für alles spricht,<lb/>
+auch für die DDR. In der NATO hat man nach langer Zeit wieder einmal<lb/>
+von einer Wiedervereinigungsklausel in einem Vertrag gesprochen, dies<lb/>
+ist ein schwerer Rückfall in der Entspannungspolitik. <name type="person" ref="per:114104">Honecker</name> stellte<lb/>
+fest, daß es jetzt zwei deutsche Staaten gibt und das daher niemand<lb/>
+für die 17 Mio. reden kann außer die DDR-Regierung. Über die Koalition<lb/>
+SPD-FDP ist die DDR befriedigt, trotz der im Wahlkampf immer wieder<lb/>
+aufkommenden Vorwürfe, die DDR hätte noch größere Schwierigkeiten, wenn<lb/>
+<name type="person" ref="per:121042">Strauß</name> Bundeskanzler wäre. Dieser ist für sie vollkommen unberechenbar.<lb/>
+Bezüglich der Touristik meinte <name type="person" ref="per:114104">Honecker</name>, es könnte das touristische<lb/>
+Abkommen von 78 verbessert werden. Insbesondere wäre es möglich einen<lb/>
+Jugendaustausch vorzusehen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Ich brauch dieses Abkommen sofort.<lb/>
+</p>
+            <p xml:space="preserve">Am befriedigendsten, hat <name type="person" ref="per:114104">Honecker</name> herausgestrichen, sind die Wirtschafts<lb break="no"/>beziehungen zwischen der DDR und Österreich. In den letzten 10 Jahren ha<lb break="no"/>ben sie sich ja so entwickelt, daß nicht nur die bilateralen Beziehungen,<lb/>
+sondern auch die Verhandlungen und Ergebnisse auf Drittmärkten für die<lb/>
+DDR befriedigend sind. Die DDR hat gute Beziehungen und er war teils<lb/>
+schon in diesen Ländern <choice><choice><sic>mit</sic><corr>wie?</corr></choice></choice> Angola, Sambia, Mosambik, Südjemen, Libyen<lb/>
+und Algerien. Auf dem afrikanischen Raum könnten also noch zwischen öster<lb break="no"/>reichischen Firmen und DDR-Firmen mehr Kooperationen und Lieferungen<lb/>
+durchgesetzt werden. <name type="person" ref="per:114104">Honecker</name> bestätigte dann erstmalig und mehr oder<lb/>
+minder in einem größeren Kreis, daß die VÖEST-Alpine das Stahlwerk für<lb/>
+2,3 Mrd. DM bekommen wird. Darüber unterstrich er aber ganz besonders,<lb/>
+daß auch mittlere und kleine Betriebe an den DDR-Exporten derzeit be<lb break="no"/>teiligt sind und dies auch so bleiben soll.<lb/>
+</p>
+            <p xml:space="preserve">Außer diesen fast ganztägig in Anspruch nehmenden Verhandlungen und<lb/>
+Vorbereitungen mit der DDR gab es im Pressefrühstück keine besonderen<lb/>
+Diskussionen. <name type="person" ref="per:108322">Meisl</name> berichtet über den Besuch des chinesischen Außen<lb break="no"/>handelsministers und über den Vertrag, den wir unterschrieben haben, Dr.<lb/>
+</p>
+            <pb n="57-1387" facs="57_1980-11-10_1387.jpg"/>
+            <p xml:space="preserve"><name type="person" ref="per:113034">Dorfner</name><add>[evtl. Falschidentifikation]</add> von Made in Austria über das A, Dr. <name type="person" ref="per:112958">Meier</name> über das Qualitätszei<lb break="no"/>chen A. Interessant für mich war nur, daß es schon 700 Firmen gibt, die<lb/>
+5000 Produkte jetzt mit diesem Qualitätszeichen versehen. Die Außen<lb break="no"/>handelsförderungsbeiträge werden von der HK dazu benützt, um Zuschüsse<lb/>
+für Prüfungen und für Gemeinschaftswerbung zu geben. Auch hier gab es<lb/>
+keine Diskussion und ich habe mich bei den beiden für ihre Tätigkeit<lb/>
+herzlichst bedankt. Dr. <name type="person" ref="per:126600">Winger</name> vom Markenartikelverband und gleichzeitig<lb/>
+Imperial-Besitzer, dessen Vater 1925 den Markenartikelverband mitgegrün<lb break="no"/>det hat und deren erster Präsident war, teilte mit, daß die 167 Mitglie<lb break="no"/>der eine so zurückhaltende Preispolitik machen, daß sie von 66–79<lb/>
+ihre Preise um 44 % nur erhöht haben, während der Verbraucherpreisindex<lb/>
+um 96 % gestiegen ist. Gesetze wie das Unlautere Wettbewerbsgesetz<lb/>
+oder das Zugabegesetz gingen schon in der ersten Republik auf ihre<lb/>
+Initiative zurück. Mit dem Handel wurde jetzt ein Wohlverhaltenskatalog<lb/>
+ausgearbeitet. Auch hier gab es keinerlei Diskussion.<lb/>
+</p>
+            <p xml:space="preserve">Das einzige Interesse aller Journalisten richtete sich dann bei der<lb/>
+allgemeinen Frage über die weitere Benzinpreisentwicklung. Hier konnte<lb/>
+ich wieder nur meinen Stehsatz sagen, ich werde verhandeln und versuchen<lb/>
+ein Kompromiß zu erreichen. Dies wird diesmal sehr schwer sein, weil<lb/>
+neben den Forderungen der Mineralölindustrie und des Tankstellenhandels<lb/>
+auch noch die steuerliche Neuregelung, die mit 1. Jänner 81 beginnt,<lb/>
+sicherlich gleichzeitig eingebaut wird. Ich kann mir eine zweimalige<lb/>
+Erhöhung, sozusagen im Dezember ohne die Steuer und dann im Jänner die<lb/>
+Steuer extra draufgeschlagen, nicht vorstellen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97584">JAGODA</name> UND <name type="person" ref="per:107956">SATZINGER</name>: Bitte die Taktik mit mir noch einmal<lb/>
+abbesprechen.<lb/>
+</p>
+            <p xml:space="preserve">Die Frau des Handelsdelegierten in Ägypten, <name type="person" ref="per:127125">Kernthaler</name>, hat<add>[, wie]</add> ich mich in<lb/>
+Kairo schon überzeugen konnte, ganz nette Bilder von der Wüste gemalt.<lb/>
+Jetzt hat sie sie in einer Galerie am Graben ausgestellt. Ich habe selbst<lb break="no"/>verständlich ihr bei der Eröffnung einen Anstandsbesuch abgestattet. Was<lb/>
+mich nicht überraschte, ich traf dort auch, obwohl es außerhalb der<lb/>
+Dienstzeit war, Beamte des Ministeriums. MR <name type="person" ref="per:127126">Hönel</name> allerdings meinte, um<lb/>
+sich wahrscheinlich bei ihr einzuschmeicheln und mich in Verlegenheit zu<lb/>
+bringen, das Ministerium könnte ja etliche dieser Bilder aufkaufen.<lb/>
+Ich habe ihm kaltschnäuzig geantwortet, da soll er sich doch ruhig an<lb/>
+die Beschaffungsstelle im Ministerium wenden. Ich bin sehr gespannt, ob<lb/>
+er es tut. Die Reaktion von dort ist mir vollkommen klar, dafür ist<lb/>
+sicherlich kein Geld vorhanden.<lb/>
+</p>
+            <pb n="57-1388" facs="57_1980-11-10_1388.jpg"/>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Beobachte, wie dies weitergeht.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="57_1381_01" facs="57_1980-11-10_1381-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 10.11.1980</head>
+         </div>
+         <pb n="57_1381_02" facs="57_1980-11-10_1381-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

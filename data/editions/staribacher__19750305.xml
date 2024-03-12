@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittwoch, der  5. März 1975</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band25_1975-03-05</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1975-03-05">Mittwoch, 5. März 1975</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-11-21">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="25-0278" facs="25_1975-03-05_0278.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Mittwoch, den 5. März 1975<lb/>
+</p>
+            <p xml:space="preserve">Die Betriebsräte der Fa. Grundmann und der Vertreter der AK NÖ<lb/>
+<name type="person" ref="per:121991">Krenn</name> haben grosse Angst, <choice><choice><sic>derr</sic><corr>dass</corr></choice></choice> ihre Firma, die mit 1. Juni zu 51 %<lb/>
+dem Fischer-Konzern aus der Schweiz gehören wird, grössere Ent<lb break="no"/>lassung vornehmen muss, weil ihre Auftragslage insbesondere in der<lb/>
+Giesserei äusserst ungünstig ist. Gerade dort wurden grössere In<lb break="no"/>vestitionen über 100 Mill. S getätigt und die Kapazität ist dort mit ein<lb/>
+Drittel ausgelastet. Wenn ihre Beschäftigungslage sich nicht ver<lb break="no"/>bessert, werden sie kaum die 250 Mill. S der Girozentrale, 100 Mill.<lb/>
+kurz und 100 Mill. lang und 50 Mill. Wechsel zurückzahlen können.<lb/>
+Ursprünglich wollten sie mich ersuchen, dass ich im Irak wegen eines<lb/>
+Auftrages 40 Mill. S interveniere. In der Zwischenzeit hat aber<lb/>
+der dortige Vertreter ihnen empfohlen, unter gar keinen Umständen<lb/>
+Regierungsstellen einzuschalten, weil dadurch der Abschluss viel<lb break="no"/>leicht durch Konkurrenzmanöver anderer Staaten dann nur gefährdet<lb/>
+werden könnte. Alle die Mitteilungen erfolgten streng vertraulich,<lb/>
+zeigen mir aber wieder, dass im Nahen Osten eigene Geschäftsverhält<lb break="no"/>nisse und in Österreich selbst für scheinbar so gesunde Firmen wie<lb/>
+Grundmann die verschiedensten Schwierigkeiten bestehen. Der Besitzer<lb/>
+<name type="person" ref="per:140389">Brias</name> und seine Frau, die jetzt Geschäftsführer neben zwei Schweizern<lb/>
+ist, haben auch das Wiener Schlosswerk ÖFA gekauft. Die Betriebsräte<lb/>
+fürchten um die 1.170 Beschäftigten, da sie annehmen, dass die Schwei<lb break="no"/>zer, wie sie es auch in anderen Ländern getan haben, zuerst grosse<lb/>
+Versprechungen machen, in einer Krise oder Rezession aber dann dort<lb/>
+die entsprechenden Stillegungen vorgenommen haben, um ihr eigenes<lb/>
+Schweizer Werk zu schützen und keinerlei Aufträge nach Österreich<lb/>
+legen. Ich habe, nachdem sie mir die vertraulichen Mitteilungen ge<lb break="no"/>macht hatten, den Branchenreferenten im Haus ersucht, er soll sich<lb/>
+die Details anhören (MR Dr. <name type="person" ref="per:126296">Gröbl</name>), um eventuelle Aufträge zu ver<lb break="no"/>mitteln.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:113038">REIM</name>: Bitte die Sache weiter über das Branchenreferat<lb/>
+zu verfolgen.<lb/>
+</p>
+            <p xml:space="preserve">Im Energiebeirat gelang die einstimmige Annahme unseres Energieplanes,<lb/>
+eigentlich hätte ich erwartet, dass ein wesentlich grösserer Wider<lb break="no"/>stand insbesondere im Hinblick auf die kommenden Wahlen und der<lb/>
+Angriffe, die die ÖVP wegen der Nichterstellung eines Energieplanes<lb/>
+<pb n="25-0279" facs="25_1975-03-05_0279.jpg"/>gestartet hat, kommen werden. Die Landesgesellschaftsvertreter wehrten<lb/>
+sich nur dagegen, dass vorgeschlagen wurde, Aufsichtsratsvertreter<lb/>
+des Verbundes oder des Bundes in die Landesgesellschaften sozusagen<lb/>
+als Korrelat zu den jetzt schon in den Bundesverbundorganen und<lb/>
+Sondergesellschaften, wo bereits Ländervertreter als Aufsichtsräte ent<lb break="no"/>sandt sind. Da ich sowieso keine Spur einer möglichen Realisierung<lb/>
+dieses Wunsches sehe, habe ich sofort darauf verzichtet, ich glaube<lb/>
+sogar ein bisschen zum Leidwesen von <name type="person" ref="per:107937">Frank</name>. Der Vertreter der Han<lb break="no"/>delskammer hatte Einwendungen aber nicht grundsätzlicher Natur, die<lb/>
+wir von ihm sogar schriftlich bekamen und wo entweder die Kohle<lb/>
+oder sonstigen Fachgruppen irgendwelche Abänderungsanträge stellten,<lb/>
+im Prinzip aber stimmte <name type="person" ref="per:97872">Rief</name> dem Plan zu. Nur der Vertreter des<lb/>
+Bundeskanzleramtes <name type="person" ref="per:140391">Hartl</name>, der früher einmal versucht hat, in der<lb/>
+Kohle als Beamter irgendwelche Pläne zu verwirklichen, dort aber<lb/>
+keinerlei Erfolg hatte, meinte kritisch, der Plan hat eigentlich die<lb/>
+Koordinationsfunktion zwischen den einzelnen Energieträgern nicht<lb/>
+erfüllt. Ich habe ihm sofort scharf geantwortet, dass es eben nichts<lb/>
+Schwierigeres gibt als Koordinationen zwischen Energieträgern<lb/>
+durchzuführen, nachdem es nicht einmal ihm gelungen ist, auf dem<lb/>
+Kohlensektor seinerzeit eine Koordination der Probleme und der<lb/>
+Firmen herbeizuführen. Er hat dann sofort zurückgezogen und meinte,<lb/>
+er hätte nur ausdrücken wollen, dass die einzelnen Energieträger<lb/>
+weniger egoistisch und mehr gesamtwirtschaftlich oder gesamt<lb break="no"/>energiepolitisch denken sollen.<lb/>
+</p>
+            <p xml:space="preserve">Über die Internationale Energieagentur und ganz besonders über das<lb/>
+Energiesicherungsgesetz referierte <name type="person" ref="per:107937">Frank</name> und hier stellte sich<lb/>
+heraus, dass der Vertreter der Handelskammer aber auch andere<lb/>
+meinten, es wäre zweckmässig, über dieses Problem noch Informationen<lb/>
+zu bekommen und Verhandlungen zu führen. <name type="person" ref="per:107937">Frank</name> hat deshalb zugesagt<lb/>
+und ich war damit sehr einverstanden, dass bevor wir mit diesem Ge<lb break="no"/>setz in den Ministerrat gehen, wir es noch im Energiebeirat be<lb break="no"/>sprechen wollen. Mit diesem Beirat hat wir einen ganz guten Griff<lb/>
+getan. Die Wissenschaft, die Interessensvertretungen, aber letzten<lb/>
+Endes auch die anderen Ministerien haben Möglichkeit jetzt schon beim<lb/>
+Entstehen von Plänen und Gesetzen, die die Energie betreffen, mitzu<lb break="no"/>wirken und ich kann dann mit einem wenn auch mühsam erreichten ein<lb break="no"/>stimmigen Beschluss in dieser Materie rechnen.<lb/>
+</p>
+            <pb n="25-0280" facs="25_1975-03-05_0280.jpg"/>
+            <p xml:space="preserve">RA Dr. <name type="person" ref="per:123312">Stern</name> wollte unbedingt von mir eine Zusicherung, dass<lb/>
+wir eine Verwaltungsgerichtshofbeschwerde nicht abwarten sondern<lb/>
+vorher in irgendeiner Weise sanieren. Ich habe sofort den zuständigen<lb/>
+Referenten von der Betriebsanlagegenehmigung gerufen (MR Dr. <name type="person" ref="per:139558">Huber</name>)<lb/>
+und dezidiert schon vor diesem erklärt, dass ich nicht bereit bin, hier<lb/>
+irgendwie einzugreifen. <name type="person" ref="per:123312">Stern</name>, der Vizekanzler <name type="person" ref="per:97525">Häuser</name> noch aus der<lb/>
+Zeit seiner Tätigkeit als Betriebsrat bei der MIAG kennt, <name type="person" ref="per:123312">Stern</name> war<lb/>
+damals Präsident des Aufsichtsrates, hat mit <name type="person" ref="per:97525">Häuser</name> angeblich ver<lb break="no"/>einbart, dass dieser die entsprechenden Wünsche der Firma in Vorarl<lb break="no"/>berg mit seinen Fachleuten besprechen wird. Kunert hat angeblich in<lb/>
+dieser Betriebsstätte dort keine Möglichkeit, die Auflagen, die das<lb/>
+Arbeitsinspektorat gemacht hat, zu erfüllen, ohne dass der Export jetzt<lb/>
+gefährdet wäre. Ich bin überzeugt, dass <name type="person" ref="per:97525">Häuser</name> eine so dezidierte<lb/>
+Erklärung nicht abgegeben hat. Auf alle Fälle haben wir die Pflicht<lb/>
+wenn das Arbeitsinspektorat Vorschriften erlässt, dass wir diese in<lb/>
+unseren Bescheid aufnehmen. Wenn dann die Firma entsprechende Be<lb break="no"/>rufung selbst zu den Oberstgerichten macht, dann hat unser Beamter<lb/>
+vollkommen recht, muss man diese Berufung abwarten und nicht von vorn<lb break="no"/>herein, wenn die Rechtssache für die Firma schlecht steht und dies<lb/>
+dürfte <name type="person" ref="per:123312">Stern</name> bemerkt haben, dann versucht das Verfahren abzubrechen.<lb/>
+Eine einzige Ausnahme könnte meiner Meinung auch dann gemacht werden,<lb/>
+wenn tatsächlich das Sozialministerium auf seine Wünsche verzichtet.<lb/>
+Dann bräuchte man nicht unbedingt den formellen Prozess führen, nur<lb/>
+weil wir ihn vielleicht durch ungeschickte Begründung der Firmen<lb/>
+gewinnen könnten. <name type="person" ref="per:123312">Stern</name> hatte sogar noch die Idee, bei mir zu<lb/>
+protestieren, dass man den Betriebsrat nicht entsprechend gehört<lb/>
+hat. Hier wurde mir entgegengehalten, dass der Betriebsrat keine<lb/>
+Parteienstellung besitzt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97377">BUKOWSKI</name>: Halte mich bitte über die ganze Angelegenheit<lb/>
+am laufenden.<lb/>
+</p>
+            <p xml:space="preserve">Im Rechnungshofausschuss wurde von der ÖVP einige Fragen gestellt,<lb/>
+die aber keinesfalls mich in Verlegenheit bringen konnten. Natürlich<lb/>
+wollte man wieder wissen, welche Meinungsforschungsinstitute ich<lb/>
+in der letzten Zeit beauftragt habe, wobei ja immer nur das Inter<lb break="no"/>esse auf die IFES d.h. <name type="person" ref="per:97356">Charly Blecha</name> gerichtet ist. <name type="person" ref="per:112149">Gorton</name> sammelt<lb/>
+hier scheinbar für entsprechende Angriffe im Plenum. Ebenso wollte<lb/>
+der Abgeordnete <name type="person" ref="per:111410">König</name> die Investitionen in der E-Wirtschaft 1975/76<lb/>
+im Detail wissen. Ich habe beiden eine schriftliche Darstellung zuge<lb break="no"/>sagt.<lb/>
+</p>
+            <pb n="25-0281" facs="25_1975-03-05_0281.jpg"/>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97377">BUKOWSKI</name><add>Toni ok.</add>: Bitte die notwendigen Brief von <name type="person" ref="per:97722">Marhold</name><lb/>
+veranlassen.<lb/>
+</p>
+            <p xml:space="preserve">Aschliessend nach mir kam <name type="person" ref="per:97755">Moser</name> und er war ein wenig erschüttert,<lb/>
+als ich ihm mitteilte, dass nun die Kammern sich als erste Rabatte<lb/>
+wie es <name type="person" ref="per:98112">Zöllner</name> bezeichnet, eine Rabattierung von Heizöl und von<lb/>
+Dieselöl mit 20 Groschen vereinbart haben. <name type="person" ref="per:97311">Androsch</name> hatte mich vorher<lb/>
+angerufen und erklärt, auf Intervention des ÖGB nimmt er auf<lb/>
+alle Fälle Abstand hier die Mineralölsteuer zu erhöhen. <name type="person" ref="per:97755">Moser</name><lb/>
+selbst hätte natürlich für den Strasenbau weitere Mittel bekommen.<lb/>
+Die Dieselpreissenkung habe ich im Parlament den anfragenden<lb/>
+Abgeordneten <name type="person" ref="per:112981">Hietl</name> sofort als eine Vorleistung für die landwirt<lb break="no"/>schaftlichen Produktionskosten und damit Einkommensverbesserungen auf<lb/>
+seine Anfrage verkauft. Die Idee <name type="person" ref="per:97311">Androschs</name>, in Hinkunft müssten wir<lb/>
+vielleicht weniger oder gar keine Preiserhöhungen bei Milch und Ge<lb break="no"/>treide akzeptieren, glaube ich wird unter gar keinen Umständen ge<lb break="no"/>lingen. <name type="person" ref="per:97311">Androsch</name> hofft scheinbar, dass wenn er schon nicht die 20 gr<lb/>
+Dieselpreissenkung in Form von einer Mineralölsteuererhöhung<lb/>
+für sich beanspruchen könnte, dass dann wenigstens die Landwirtschaft<lb/>
+uns ein entsprechendes Entgegenkommen wegen der Verbilligung des<lb/>
+Dieselkraftstoffes bei ihren Produktion anrechnen wird. Da die<lb/>
+Forderungen garantiert exorbitant hoch sein werden, wird, selbst<lb/>
+wenn ich diese Post in Abzug bringe, noch immer eine wesentliche<lb/>
+theoretische Preiserhöhung übrigbleiben.<lb/>
+</p>
+            <p xml:space="preserve">Abg. <name type="person" ref="per:97663">Kraft</name> wollte von mir wissen, mit welchem Recht ich die Landes<lb break="no"/>regierung in Oberösterreich dazu verhalten will, dass sie für die<lb/>
+WTK Kohlenbergbau Hilfestellung leisten soll. Ich erklärte sofort,<lb/>
+dass ich dazu zwar keine rechtliche wohl aber eine moralische<lb/>
+Verpflichtung des Landes ableite, dass eben <name type="person" ref="per:98068">Wenzl</name> gleichzeitig<lb/>
+Präsident von der OKA die letzten Endes die Kohle kauft und auch<lb/>
+für die WTK mitverantwortlich in Oberösterreich ebene einen Ausgleich<lb/>
+anstreben müsste. Auch ich bin derzeit für die Kohle und für die<lb/>
+Elektrizität verantwortlich und muss daher auch ersuchen, zu einem<lb/>
+Kompromiss zu kommen. <name type="person" ref="per:97498">Grünwald</name> erzählte mir dann am Abend nach<lb/>
+dem Kautsky-Kreis, dass er fürchtet, dass <name type="person" ref="per:97668">Kreisky</name> die einfachste Lö<lb break="no"/>sung, nämlich den Strompreis doch um diesen 1 Groschen zu er<lb break="no"/>höhen sieht, wodurch der Finanzminister weniger belastet, die<lb/>
+E-Wirtschaft die Kohle mit 300 Mill. S subventionieren könnte.<lb/>
+</p>
+            <pb n="25-0282" facs="25_1975-03-05_0282.jpg"/>
+            <p xml:space="preserve">Ich erklärte <name type="person" ref="per:97498">Grünwald</name>, ich möchte am liebsten die Kohlenfrage<lb/>
+insbesondere bei der WTK, da man dort nur die reinen Wärmepreis<lb break="no"/>einheiten bezahlt und niemals Preiserhöhungen der Paritätischen<lb/>
+Kommission automatisch übernimmt, durch Verhandlungen in Ordnung<lb/>
+bringen.<lb/>
+</p>
+            <p xml:space="preserve">Im Kautsky-Kreis, wo ich auf die Energiesituation kurz einging,<lb/>
+hatte ich auch die Gefahr geschildert, die mit einem solchen automa<lb break="no"/>tischen Krisen-Kohle-Groschen auf den Strompreis für die weitere<lb/>
+Kohle-Politik sich ergibt. Ich kann mir sehr gut vorstellen, dass<lb/>
+dann immer wieder gesagt wird, na nehmen wir statt 1 Groschen 2 Groschen<lb/>
+um damit unrentable Kohlengruben automatisch weiter zu führen.<lb/>
+Immer wenn es Lösungen gibt, wo ein Teil der Kosten über automatische<lb/>
+Einnahmen, die nicht im Preis ihren Niederschlag finden, abgedeckt<lb/>
+werden, wird es zu einer Erstarrung des Prinzips und der Struktur<lb/>
+kommen. Das typischste und krasseste Beispiel ist die wachsende<lb/>
+Bürokratie. Infolge einer mangelnden Selbstkontrolle, niemand bezahlt<lb/>
+sie ja direkt aus seinem eigenen Sack, eben sich nicht nur ständig<lb/>
+vermehrt sondern ständig immer weniger effizient wird. Ausserdem<lb/>
+des Rechnungshofes hat <name type="person" ref="per:137484">Schütz</name>, aber auch <name type="person" ref="per:97722">Marhold</name> mir gesagt, es ist er<lb break="no"/>schütternd, wie wenig die Beamten heute darauf Wert legen, sparsam<lb/>
+zu wirtschaften und in welch erschreckendem Ausmass sich überhaupt nie<lb break="no"/>mand mehr um eine effizientere Arbeit der Beamten kümmert. Zwei<lb/>
+Ministerialräte – 1 Mill. S Aufwand im Jahr und dann weiss man alles,<lb/>
+was sich hier noch in Zukunft entwickeln wird und wer dies alles<lb/>
+bezahlen soll, bleibt ein Rätsel.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:113038">Reim</name>, aber auch <name type="person" ref="per:97469">Gehart</name> hatten sich bemüht, mir für den Kautsky-Kreis<lb/>
+theoretisch ganz interessante Überlegungen einzugeben. <name type="person" ref="per:113038">Reim</name>, dem<lb/>
+ich sehr dankbar bin, dass er sich in dieser Beziehung den Kopf zer<lb break="no"/>bricht, hat einige Erkenntnisse der neuen Nationalökonomie gemeint,<lb/>
+könnte ich in diesem Kreis von Professoren gut anbringen. Prof. <name type="person" ref="per:140392">Eibl-<lb/>
+Eibesfeldt</name> hat gefunden, dass ein Organismus ohne eine Energiebilanz,<lb/>
+die ausgeglichen sein muss, nicht existieren kann. Nun legt die Ökonomie<lb/>
+dies auch auf die Wirtschaftskörper um und <name type="person" ref="per:140394">Zagora</name>, sein Statistiker<lb/>
+aus Österreich, predigt jetzt diese neue Theorie. <name type="person" ref="per:140394">Zagora</name> ist mir<lb/>
+noch dem Namen nach aus der Zeit bekannt, wie wir in der Arbeiter<lb break="no"/>kammer bekannt, wo wir die ersten Input-Output-Versuche machten, wo<lb/>
+er vergeblich in einem subventionierten Auftrag in seinem statistischen<lb/>
+<pb n="25-0283" facs="25_1975-03-05_0283.jpg"/>Institut entsprechende Untersuchungen anstellen sollte. Die Arbeiten<lb/>
+waren angeblich vollkommen unbrauchbar. Diese Energiebilanz ist in<lb/>
+Wirklichkeit gar nichts besonders Neues, so wie ich seinerzeit, als der<lb/>
+Club von Rom die katastrophale Zukunft schilderte, an <name type="person" ref="per:139962">Malthus</name> denken<lb/>
+musste, der eine ähnliche Theorie vor ca. einem Jahrhundert geprägt<lb/>
+hat und die dann nicht zugetroffen ist, so haben diese Kreislauf<lb break="no"/>theorien schon die Physiokraten, <name type="person" ref="per:140393"><choice><choice><sic>Finney</sic><corr>Quesnay</corr></choice></choice></name>, gepredigt. Das Erschütterndste<lb/>
+ist und dies hat ZS <name type="person" ref="per:112988">Wille</name> von den Metallarbeitern dann zum Schluss<lb/>
+als letzter Debattenredner richtig zusammengefasst, dass weder der<lb/>
+Kautsky-Kreis geschweige den die Wissenschaft, wie ich ihn nachher<lb/>
+ergänzte, aus der schwierigen wirtschaftspolitischen Situation uns<lb/>
+heraushelfen können, weil sie in Wirklichkeit kein entsprechendes<lb/>
+Rezept oder heute würde man sagen Modell zur Verfügung haben. Da<lb/>
+ich kein Theoretiker bin, mir auch gar nicht den Anstrich eines<lb/>
+solchen geben möchte, habe ich die Anregungen von <name type="person" ref="per:113038">Reim</name>, zwar für<lb/>
+mich persönlich registriert, dort aber keinesfalls vorgetragen. In<lb/>
+diesem Kreis, wo ich seit Jahrzehnten tätig bin und wo man mich glaube<lb/>
+ich genau kennt, erwartet man keinesfalls, dass ich hochgestochene<lb/>
+theoretische Probleme zur Sprache bringen, sondern handfeste Informa<lb break="no"/>tionen und gegebenenfalls Lösungsvorschläge. Letztere kann ich aller<lb break="no"/>dings in der jetzigen Wirtschaftskonjunktursituation nicht vorlegen.<lb/>
+Meine ganze Politik seit 1945 war auf Wachstum und Inflation ange<lb break="no"/>legt, da ich darin die beste Möglichkeit sehe, die Strukturschwierig<lb break="no"/>keiten zu beheben. Dass man dabei nebenher natürlich gegen die Preis<lb break="no"/>steigerungen auftritt, ist nicht eine schizophrene Haltung bei mir<lb/>
+sondern ebne nur eine Ergänzung zur Inflationspolitik, damit diese<lb/>
+nicht über dem europäischen Durchschnitt hinausgeht. Die Voraussetzung<lb/>
+für eine ähnliche wirtschaftspolitische Entwicklung sollte durch die<lb/>
+Lohnerhöhungen und durch die Steuersenkung im Jahre 1975 erreicht<lb/>
+werden. Durch die psychologische Einwirkung aber, dass die weltweite<lb/>
+Rezession auch Österreich treffen könnte, hat die Bevölkerung aber das<lb/>
+zusätzliche Einkommen nicht ausgegeben, sondern grösstenteils ge<lb break="no"/>spart. Dadurch blieb bis jetzt der Nachfragestoss aus. Selbst wenn<lb/>
+der aber gekommen wäre, hätte er den Rückschlag, den wir im Export<lb/>
+jetzt mehr oder minder durch Ausbleiben der Zuwachsraten hinnehmen<lb/>
+mussten, nicht ausgeglichen. Die Hauptursachen sehe ich noch immer in<lb/>
+dem Preisverfall sowohl auf den Rohstoffmärkten als auch auf den In<lb break="no"/>vestitionsgütern und teilweise auf dem Hab- und Fertigwarensektor.<lb/>
+der jedermann veranlasst, zuzuwarten. Einzig <name type="person" ref="per:97627">Heinzi Kienzl</name>, den<lb/>
+<pb n="25-0284" facs="25_1975-03-05_0284.jpg"/>ich dann abends während der Vorstellung im Domes-Heim sprach,<lb/>
+meinte, dies sei ein natürlicher Zustand, bedingt durch den Lager<lb break="no"/>abbau, der jetzt Platz greift. Diese Meinung teile ich zwar im Prin<lb break="no"/>zip, fürchte aber, dass die Auswirkungen wesentlich stärker sein wird<lb/>
+als wir dies momentan wahrhaben wollen. Mein ungebrochener Optimismus<lb/>
+den ich bisher nach aussen immer zur Schau getragen habe, von dem<lb/>
+ich aber auch innerlich überzeugt war, hat diesmal innerlich einen<lb/>
+kleinen Knacks bekommen. Ich bin sehr froh, dass vor der Messe-<lb/>
+Eröffnung schon die Möbelmesse stattfindet, sodass von dort eine<lb/>
+gewisse Information über diesen Sektor zu erwarten ist.<lb/>
+</p>
+            <p xml:space="preserve">Ing. <name type="person" ref="per:134083">Helbich</name> interessierte sich, ob wir für die kleinen privaten<lb/>
+Elektrizitätsunternehmungen wieder eine Förderung, wie sie bis<lb/>
+1968 oder 1969 bestanden hat, einführen möchten und würden. Ich<lb/>
+erklärte sofort, dass ich zwar nichts dagegen hätte, wenn er imstande<lb/>
+ist, dies irgendwo durchzusetzen, ich selbst aber keinesfalls<lb/>
+initiativ werde. Die Landesgesellschaften und ganz besonders der<lb/>
+Verbund sagen mit Recht, dass hier die Versorgungsprobleme in den Ge<lb break="no"/>bieten der privaten Elektrizitätsversorgungsunternehmungen auf<lb/>
+diese Art nicht gelöst werden können. Die Einheiten, die dort<lb/>
+errichtet sind oder errichtet werden, sind viel zu klein, um<lb/>
+rentabel arbeiten zu können.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> wollte von mir wissen, ob in der Angelegenheit zweites<lb/>
+Kernkraftwerk bereits eine Entscheidung getroffen ist. Sicher<lb/>
+waren bei ihm wieder Intervenienten und ich war sehr froh,<lb/>
+dass ich doch wenigstens einige Informationen in dieser Angelegenheit<lb/>
+parat hatte. Ich selbst erklärte aber sofort, dass eine entsprechende<lb/>
+Entscheidung noch nicht gefallen ist und ich sie erst in einem Monat<lb/>
+frühestens erwarte, es muss wirklich noch geklärt werden ob wir<lb/>
+1.000 Megawatt oder 1.300 Megawatt Kernkraftwerk errichten und vor<lb/>
+allem wie dies im Ausbauplan eingebaut wird, wenn wir jetzt doch<lb/>
+von der SU 1 Mia. und von Polen 1,6 Mia. kWh bekommen können.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97469">GEHART</name>: Bitte halte Dich über die Kernkraftwerks<lb break="no"/>zuschläge auf dem Laufenden.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="25_0277_01" facs="25_1975-03-05_0277-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 5.3.1975</head>
+         </div>
+      </back>
+   </text>
+</TEI>

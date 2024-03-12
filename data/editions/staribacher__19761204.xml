@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der  4. Dezember 1976</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band33_1976-12-04</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1976-12-04">Samstag, 4. Dezember 1976</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-02-19">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="33-1386" facs="33_1976-12-04_1386-02-D.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Samstag, 4. Dezember 1976<lb/>
+</p>
+            <p xml:space="preserve">Mit Ing. <name type="person" ref="per:140241">Perl</name> habe ich über die Personalpolitik in der E-Wirtschaft<lb/>
+insbesondere Verbundgesellschaft gesprochen. <name type="person" ref="per:140241">Perl</name>, ehemaliger<lb/>
+Fraktionsführer und Betriebsratsmann, gibt zu, dass die Lohn- und Ge<lb break="no"/>haltstangente sich katastrophal entwickelt hat. Als er eintrat, be<lb break="no"/>trug sie 16 %, jetzt ist sie fast auf 30. Durch die kapitalmässig<lb/>
+starke Ausweitung der Verbundgesellschaft ist der absolute Betrag<lb/>
+enorm gestiegen. <name type="person" ref="per:140241">Perl</name> gibt mir Recht, dass durch die Reduzierung<lb/>
+des Aufsichtsrates und jetzt durch die Verringerung der Vorstands<lb break="no"/>mitglieder es für die Belegschaft verständlich wirkt, dass auch<lb/>
+Dienstposten bei allen eingespart werden muss. Er möchte, wenn er<lb/>
+nächstes Jahr für die Personalpolitik verantwortlich wird, Planposten<lb/>
+einführen. Ich warnte ihn, vom jetzigen Stand auszugehen, weil er<lb/>
+ansonsten kaum stärkere Reduzierungen vornehmen kann. Er möchte damit<lb/>
+zumindestens erreichen, dass nicht während des Jahres ständig von den<lb/>
+Abteilungsleitern neue Dienstposten verlangt und letzten Endes auch<lb/>
+besetzt werden.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Barbarafeier sprach ich ganz offen über die Reorganisation<lb/>
+des Handelsministeriums durch die neue Form Kooperation Oberste<lb/>
+Bergbehörde durch Einordnung in die Energiesektion. Anschliessend<lb/>
+hatte ich Gelegenheit mit Dr. <name type="person" ref="per:136470">Denk</name>, Fachverband für Bergwerke, zu<lb/>
+sprechen, den ich natürlich genau so wenig wie die anderen, die gegen<lb/>
+diesen Plan sind, jetzt schon restlos überzeugen kann. Ich erklärte<lb/>
+rundweg in 2 Jahren soll man dann sehen, ob sich diese Reorganisation<lb/>
+für den Bergbau günstig ausgewirkt hat. <name type="person" ref="per:136470">Denk</name> musste zugeben, dass bis<lb/>
+jetzt der Bergbau von den anderen Energieträgern schlecht behandelt<lb/>
+wurde. Eine mögliche Verbesserung durch die Elektrizitätswirtschaft<lb/>
+müsste zu erreichen sein. Dies um so leichter, wenn eben die Oberste<lb/>
+Bergbehörde auch <name type="person" ref="per:107937">Frank</name> untersteht.<lb/>
+</p>
+            <p xml:space="preserve">In der Verkaufsausstellung von <name type="person" ref="per:126284">Leherb</name> in Interform war genau so ein Ge<lb break="no"/>dränge wie vor 14 Tagen bei seiner Frau <name type="person" ref="per:136839">Lotte Profohs</name>. Ob allerdings<lb/>
+die Hundert Eingeladenen auch kaufen, bezweifle ich. Filmregisseur<lb/>
+und Hersteller <name type="person" ref="per:97314">Antel</name> berichtete mir, dass er jetzt österreichische Filme<lb/>
+mit amerikanischer oder internationaler Starbesetzung produzieren wird,<lb/>
+ohne eine Filmförderung zu brauchen. <name type="person" ref="per:97314">Antel</name> ist genauso skeptisch wie<lb/>
+ich, dass wir endlich eine zielführende Filmförderung zustande bringe<lb/>
+werden.<lb/>
+</p>
+            <pb n="33-1387" facs="33_1976-12-04_1387.jpg"/>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:114508">TIEBER</name>: Bitte den Entwurf mit <name type="person" ref="per:97314">Antel</name> besprechen.<lb/>
+</p>
+            <p xml:space="preserve">Die Zentralsparkasse hat zum 1O-jährigen Ballet Jeunesse einen<lb/>
+überfüllten Kassensaal gehabt. Mit <name type="person" ref="per:98028">Vak</name> besprach ich die Möglichkeit<lb/>
+der Senkung von Höchstzinssätzen im Rahmen der BÜRGES. <name type="person" ref="per:98028">Vak</name> sieht dies<lb/>
+ein und wird unsere Vorschläge erwarten.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97819"><del>WAIS</del><corr>Plesch</corr></name> UND <name type="person" ref="per:97584">JAGODA</name>: Bitte Verhandlungen sofort aufnehmen.<lb/>
+</p>
+            <p xml:space="preserve">Prof. <name type="person" ref="per:117679">Frisch</name> hat ein Buch über Inflation einer Arbeitsgruppe seiner<lb/>
+Assistenten den Deutschen Verlag angeboten. Dieser verlangt einen Zu<lb break="no"/>schuss. <name type="person" ref="per:117679">Frisch</name> möchte nun, dass das Handelsministerium ein paar<lb/>
+tausend Schilling dazuschiesst. Ich kann mir vorstellen, dass wir<lb/>
+einen Teil dieser Arbeit als Auftrag .......von besonderem Interesse<lb/>
+für das Handelsministerium bezeichnen, um ihn mit einem kleinen Be<lb break="no"/>trag zu helfen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97819">PLESCH</name> UND <name type="person" ref="per:98053">WANKE</name>: Sucht eine Lösung bis maximal<lb/>
+öS 5.000.–<lb/>
+</p>
+            <p xml:space="preserve">Professor <name type="person" ref="per:115683">Matzner</name> hat sich bitter bei mir beschwert, dass wir in der<lb/>
+Atomfrage bereits endgültig entschieden hätten. Ich habe ihm frei<lb break="no"/>mütig zugestanden, dass eine Entscheidung in der Regierung noch nicht<lb/>
+endgültig ist, wohl aber ich keine andere Wahl sehe, als Tullnerfeld<lb/>
+in Betrieb zu nehmen, wenn die Sicherheitsbestimmungen, wie ich immer<lb/>
+ausdrücke, bis zum letzten Beistrich erfüllt sind. <name type="person" ref="per:115683">Matzner</name> behauptet,<lb/>
+er hätte eine Konzeption, wo man ohne den Energiezuwachs auskommen<lb/>
+könnte. Details hat er mir leider nicht gesagt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name>: Bitte setze Dich mit ihm ins Einvernehmen, viel<lb break="no"/>leicht bekommst Du von ihm brauchbare Unterlagen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="33_1386_01" facs="33_1976-12-04_1386-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 4.12.1976</head>
+         </div>
+      </back>
+   </text>
+</TEI>

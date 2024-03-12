@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der 11. August 1973</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band17_1973-08-11</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1973-08-11">Samstag, 11. August 1973</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-09-14">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band17/">
+      <body>
+         <pb n="17-0903" facs="17_1973-08-11_0903.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Samstag, 11. August 1973</p><p xml:space="preserve"><name type="person" ref="per:120893">Wodica</name> hat ersucht, ich msoll den COOP-Markt in Wr. Neustadt besuchen.<lb/>
+Da ich zur Eröffnung nicht kommen konnte sagte ich zu und konnte einige<lb/>
+Ergebnisse erfahren. Innerhalb der 2 Jahren haben sie oder hoffen sie<lb/>
+zumindestens heuer 1973 bereits ein 600 Mio Umsatz zu erreichen. Eine<lb/>
+gigantische Leistung und in Hinkufnt wollen sie sogar eine Milliarde<lb break="no"/>grenze sehr bald erreichen. Normal müßten die großen Märkte eigentlich<lb/>
+von der GÖC geführt werden. Jetzt haben aber die Genossenschaften und<lb/>
+der Konsummarkt in Wr. Neustadt gehört der Genossenschaft Süd, selbst<lb/>
+begonnen, diese Großmärkte zu installieren. Die Leitung teilte mir sogar<lb/>
+mit, sie wollen eine eigene Bäckerei errichten. Trotz der schlechten<lb/>
+Erfahrung, die man seinerzeit mit dem Wr. Neustädter Zweigwerk der Hammer<lb break="no"/>brot gemacht hat. Die Hammer-Brot war nach dem 1. Weltkrieg verstaatlicht<lb/>
+und hat ihren Sitz und Hauptwerk in Wien gehabt und in Wr. Neustadt ein<lb/>
+Zweigwerk. Derzeit kauft COOP die Semmeln und das Gebäck, sowie vorallem<lb/>
+das Brot von verschiedenen Bäckern zu. Die Semmeln waren wirklich in<lb/>
+einer mießen Qualitätszustand der Form nach zusammengequetschte leicht<lb/>
+maschingeformte Stücke und verhältnismäßig teuer. 10 Stk. ab 5,80.<lb/>
+Fleisch beziehen sie interessanterweise aus Wien, Fa. Schachinger.<lb/>
+Für die Semmeln sagen sie, aht es keinen Sinn. Der Transportweg wäre<lb/>
+zu teuer. Sie wollen auf alle Fälle eine eigene Semmelproduktion beginnen<lb/>
+obwohl ich sie davor gewarnt habe.</p><p xml:space="preserve">Anmerkung für <name type="person" ref="per:97357">BLÜML</name><lb/>
+Die Konsumgenossenschaften weiten sich sehr aus. Dadurch wird unser<lb/>
+Konsumausschuß immer stärker. Prüfe wie weit die einzelnen Teile dann<lb/>
+für eine Änderung des Bäckereiarbeitergesetzes sind. Der Konsumverband<lb/>
+ist bekanntlich sehr dagegen.</p><p xml:space="preserve">Die Jubiläumsausstellung von Wr. Neustadt hat keinen besonderen Ein<lb break="no"/>druck auf mich gemacht, außer daß <name type="person" ref="per:112031">Maurer</name> eine große Halle als Jubiläums<lb break="no"/>halle mitfinanziert hat.und daher auch besonders eröffnet. Die Wr. Neustädter<lb/>
+haben zwar ein Motto "hilf Dir selbst" doch wurde sebstverständlich nicht<lb/>
+nur vom Ausstellerpräsidenten der gleichzeitig Vizebürgermeister der<lb/>
+Stadt und ÖVP-Wähler ist, sondern auch von unserem Bürgermeister<lb/>
+<name type="person" ref="per:122945">Barwitzius</name> sehr deutlich gestoßen, daß ich wie meine Vorgänger auch wieder<lb/>
+<pb n="17-0904" facs="17_1973-08-11_0904.jpg"/>Unterstützungen geben sollte. Ich habe dezidiert erklärt, daß ich nur<lb/>
+für Planungsaufwendungen, damit die Ausstellungen und Messen zweckmäßiger<lb/>
+gestaltet werden, Subventionen geben kann. Interessant ist, daß bei<lb/>
+solchen Ausstellungen z. B. auch die Bankenschalter<lb/>
+haben. Ich habe das Gefühl, nachdem eben ein Vertreter einer Bank<lb/>
+7. B. die Länderbank anwesend ist, daß auch dann die Creditanstalt<lb/>
+daran teilnimmt und so ähnlich wie bei Firmen einen die andere immer<lb/>
+nachzieht.</p><p xml:space="preserve">Da LH-Stv. <name type="person" ref="per:97389">Czettel</name> anwesend war, habe ich gleich die Gelegenheit be<lb break="no"/>nützt um ihm zu sagen daß wir außerstande sind, alle Fremdenver<lb break="no"/>kehrsgemeinden des Grenzlandes anzuschreiben. Die einzige Möglichkeit<lb/>
+besteht darin, daß wir durch seine Initiative oder zumindestens durch<lb/>
+seine Mitteilung den einzelnen Gemeinden von diesen ein entsprechendes<lb/>
+Wunschprogramm bezüglich der 15 Mio S die aus ERP-Mittel bereitstellen<lb/>
+wollen , bekommen. Wenn wir Gemeinden anschreiben bekommen wir ein<lb/>
+wesentlich höhere Anforderungen als wie jemals bearbeiten, geschweige<lb/>
+denn erfüllen können.</p><p xml:space="preserve">Anmerkung für <name type="person" ref="per:97469">GEHART</name><lb/>
+<name type="person" ref="per:97389">Czettel</name> ist damit einverstanden. Bitte mit ihm Kontakt halten.</p><p xml:space="preserve">Ein Faustballinterturnier in der Dietrichgasse konnte ich wiedereinmal<lb/>
+die Aktivitäten unser Sportler auf der einen und auf der and3ren Seite<lb/>
+aber ihr geringes Wirkungsgebiet prüfen. Die Anlage befindet sich in<lb/>
+einem herrlichen Zustande und sie haben sich nun auch einen herrlichen<lb/>
+Swimmingpool gebaut. Wie mir der Bezirksvorsteher mitteilt und vor<lb break="no"/>allem der Sportreferent der Gemeinde Wien, der auch anwesend war, kri<lb break="no"/>tisiert aus Mitteln der Sportstättenerhaltung von der Gemeinde. Ver<lb break="no"/>ständlich, daß in diesen abgeschlosenen herlichen Privatanlage der<lb/>
+ASKÖ und der WAT 3 natürlich niemanden anderen reinlassen wollen.<lb/>
+Angeblich haben sie deshalb den Bezirksvorsteher <name type="person" ref="per:97939">Seitler</name> nicht mehr<lb/>
+eingeladen, weil er darauf bestand, daß wengistens die Schulkinder<lb/>
+aus der Dietrichgasse die Anlage benützen können. Eine Entscheidung<lb/>
+die ich 100%ig teile. Ich glaube überhaupt, daß in Wirklichkeit viele<lb/>
+öffentliche Mittel dazu verwendet werden, um Vereinen und kleinen<lb/>
+Grüppchen eine Sonderstellung und finanzielle Unterstützung zi<lb/>
+geben, die die breite Masse zwar bezahlt, aber die breite Masse dafür</p><p xml:space="preserve">gar nichts hat.</p></div>
+      </body>
+      <back>
+         <pb n="17_0902_01" facs="17_1973-08-11_0902-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 11.8.1973</head>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+   </text>
+</TEI>

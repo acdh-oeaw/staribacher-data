@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittwoch, der 23. Juni 1976</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band31_1976-06-23</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1976-06-23">Mittwoch, 23. Juni 1976</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-01-28">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="31-0746" facs="31_1976-06-23_0746.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Mittwoch, 23. Juni 1976<lb/>
+</p>
+            <p xml:space="preserve">Die Büroaussprache mit <name type="person" ref="per:114508">Tieber</name>, <name type="person" ref="per:98040">Wais</name>, <name type="person" ref="per:97819">Plesch</name>, <name type="person" ref="per:98053">Wanke</name> und <name type="person" ref="per:97543">Heindl</name><lb/>
+ergab, dass wir eine Reorganisation vornehmen müssen. Auf der<lb/>
+einen Seite ist es notwendig, dass wir mit unseren Sektionschefs<lb/>
+besseren Kontakt bekommen, auf der anderen Seite bleibe nach wie vor<lb/>
+die Aufgabe des Büros, die Koordinierung und vor allem wie <name type="person" ref="per:98053">Wanke</name><lb/>
+schon 1970 sagte, die Transformation zwischen Minister und Linie<lb/>
+herzustellen. Natürlich wird jetzt durch die Tatsache, dass Sek<lb break="no"/>tionschefs unseres Vertrauens das Handelsministerium leiten,<lb/>
+diese Aufgabe anders als wir 1970 begonnen haben. Vor allem ist<lb/>
+es viel delikater, schwieriger aber nichts desto weniger notwendig.<lb/>
+Jeder Sektionschef entwickelt seine eigenen Ideen, seinen Arbeits<lb break="no"/>stil und letzten Endes natürlich auch wenn es möglich ist seine<lb/>
+selbständige und eigenständige Politik. Hier ist äusserst delikates<lb/>
+Vorgehen notwendig. <name type="person" ref="per:114508">Tieber</name>, <name type="person" ref="per:98040">Wais</name> und ich kommen deshalb überein,<lb/>
+dass die Energiefragen von <name type="person" ref="per:98040">Wais</name> bearbeitet werden sollen. <name type="person" ref="per:114508">Tieber</name><lb/>
+übernimmt dafür die Preisfragen. Diese passen besser in seinen<lb/>
+jetzigen Ressortbereich – Konsumentenfragen, Public relations usw. –<lb/>
+ausserdem hat er dieses Gebiet jahrzehntelang in der Arbeiterkammer<lb/>
+ebenfalls kennengelernt. <name type="person" ref="per:98040">Wais</name> muss es gelingen, die Spannungen, die<lb/>
+zwischen <name type="person" ref="per:107937">Frank</name>, der ÖMV, den Elektrizitätsunternehmungen usw. be<lb break="no"/>stehen, auf ein Minimum zu reduzieren. Selbstverständlich werde<lb/>
+auch ich mich bemühen, auf <name type="person" ref="per:107937">Frank</name> einzuwirken. Wichtig erscheint<lb/>
+auch, dass die Geschäftsordnung jetzt endgültig einmal überarbeitet<lb/>
+und verbessert wird. <name type="person" ref="per:98053">Wanke</name> erinnert mit Recht, dass wir vor zwei Jahren<lb/>
+bereits <name type="person" ref="per:114994">Böhm</name> aufgefordert haben, eine neue Geschäftsordnung zu er<lb break="no"/>stellen, hätten wir heute eine, dann könnte so etwas nicht passie<lb break="no"/>ren, dass Schimmelbriefe von Sachbearbeiter und Gruppenleiter,<lb/>
+vielleicht auch noch vom Sektionsleiter unterschrieben werden, be<lb break="no"/>vor sie dann, wie dies bei den Pokalauszeichnungen zu spät auf<lb/>
+meinem Schreibtisch landen. <name type="person" ref="per:97819">Plesch</name> wird <name type="person" ref="per:114994">Böhm</name> auffordern, <name type="person" ref="per:113627">Kieslich</name><lb/>
+als Organisationsreferenten die Arbeit abzutreten. <name type="person" ref="per:97819">Plesch</name> be<lb break="no"/>fürchtet, dass die Schwarzen jetzt eine verstärkte Front gegen alle<lb/>
+Sektionschefs bilden. Ich glaube, hier sieht er aber schwarz. Ich<lb/>
+müsste mich sehr täuschen, wenn die Beamten selbst bis in den höchste<lb/>
+Rang hinauf sich mit Sektionschefs anlegen. Bei einem Minister<lb/>
+rechnen sie, dass er in der nächsten Legislaturperiode weg ist,<lb/>
+einen Sektionschef, das wissen sie, aber haben sie bis zu seiner<lb/>
+Pensionierung. Ich bin überzeugt, es könnten höchstens vereinzelt<lb/>
+irgendwelche Zurückhaltung maximalst geübt werden. Front gegen<lb/>
+<pb n="31-0747" facs="31_1976-06-23_0747.jpg"/>Sektionschefs zu machen, halte ich bei der überwiegenden Anzahl<lb/>
+der Beamten für ganz unmöglich.<lb/>
+</p>
+            <p xml:space="preserve">Im Klub berichtete <name type="person" ref="per:97444">Fischer</name> über die Volksanwaltschaft. Ein rotieren<lb break="no"/>der Vorsitz und die Kompetenzfrage könnte jetzt auch geklärt<lb/>
+werden. Die beiden Extreme sind, dass ein bürokratischer Apparat<lb/>
+entsteht und nichts geschieht, oder die Volksanwälte von der FPÖ<lb/>
+und der ÖVP gestellt Aktionen gegen die Regierung starten und<lb/>
+nicht den Einzelfall sehen wollen. Da die Bestellung von den Oppo<lb break="no"/>sitionsparteien erfolgt wird es letzten Endes ganz davon abhängen,<lb/>
+wen sie eigentlich schicken. Die Gefahr ist genau dieselbe wie<lb/>
+seinerzeit beim Rechnungshof, der auch entweder wirklich<lb/>
+nur Kontrollen durchführt oder gegen Regierung agiert.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97803">Pansi</name> berichtet über das Slowenenproblem und wird dann auch von<lb/>
+<name type="person" ref="per:97668">Kreisky</name>, der später kommt, noch ergänzt. In der Berichterstattung<lb/>
+zeigt sich schon der ganze Unterschied. <name type="person" ref="per:97803">Pansi</name> berichtet über die<lb/>
+Details, die Volkszählung hätte 130 Mill. S gekostet, weshalb<lb/>
+sie jetzt bei der Personenstandaufnahme angeschlossen wird. DAS<lb/>
+Volksgruppengesetz soll durch Förderungen, Beiräte und topografische<lb/>
+Aufschriften vor der Sprachzählung, die ja nur Orientierungshilfe<lb/>
+sein soll, schon wirksam werden. Auf alle Fälle aber im Parlament<lb/>
+gleichzeitig mit der Spracherhebung beschlossen werden. Die Oppo<lb break="no"/>sition verlangte vorher noch den Wortlaut der Verordnungen zu kennen.<lb/>
+Jetzt hat man sich dahingehend geeinigt, dass eine entsprechende<lb/>
+einvernehmliche Regelung der Verordnungen erfolgen wird. <name type="person" ref="per:97668">Kreisky</name><lb/>
+schildert die politische Situation und meint, es könne sich eben<lb/>
+nur um eine Paketlösung handeln. Niemand könne die Regierung hindern,<lb/>
+dass der Finanzminister Geld gibt, Justizminister slowenischspre<lb break="no"/>chende Richter und Staatsanwälte einstellt und der Bundeskanzler<lb/>
+einen Beirat sich beilegt. <name type="person" ref="per:97668">Kreisky</name> ist aber sicherlich sehr froh,<lb/>
+wenn er dieses Problem gelöst hat. Momentan stellt es nämlich wirklich<lb/>
+unseren einzigen schwachen Punkt dar.<lb/>
+</p>
+            <p xml:space="preserve">Vorher fragte schon <name type="person" ref="per:97444">Fischer</name> so nebenbei, ob ich etwas zu unseren<lb/>
+Tagesordnungspunkten Energielenkung, Aussenhandelsgesetznovelle<lb/>
+Rohstofflenkungsgesetz etwas zu sagen hätte. Selbstverständlich<lb/>
+verneinte ich, denn ich finde, dass man gar nicht viel Aufhebens<lb/>
+machen soll, wenn auch wichtige und umstrittene Gesetze dann end<lb break="no"/>lich einvernehmlich gelöst werden können. Vielleicht bin ich<lb/>
+<pb n="31-0748" facs="31_1976-06-23_0748.jpg"/>deshalb auch beim Klub so einigermassen beliebt, weil jeder<lb/>
+Abgeordnete weiss, ich malträtiere sie nicht mit der Forderung<lb/>
+über dieses Problem lange zu referieren, vielleicht im Hause dann<lb/>
+<choice><choice><sic>nich</sic><corr>noch?</corr></choice></choice> recht viele Redner zu stellen, damit die Bedeutung der Materie<lb/>
+herausgestrichen wird. Ich bin aber wahrscheinlich das eine<lb/>
+Extrem zum Unterschied von <name type="person" ref="per:97372">Broda</name> oder <name type="person" ref="per:97442">Firnberg</name>, die ganz allgemein<lb/>
+als das andere Extrem bezeichnet werden. Manchmal denke ich mir aller<lb break="no"/>dings, dass dadurch die eigene Arbeit sehr abgewertet wird.<lb/>
+</p>
+            <p xml:space="preserve">Im Haus selbst verlief die Debatte wie erwartet. Ursprünglich hat<lb/>
+man im Klub und da war ich schon sehr erstaunt nicht einmal<lb/>
+<name type="person" ref="per:97543">Heindl</name> als Sprecher vorgesehen gehabt. <name type="person" ref="per:97543">Heindl</name> macht dieselbe<lb/>
+Politik wie ich, er spielt seine Leistung herunter und drängt sich<lb/>
+überhaupt nicht vor. Ich drängte deshalb und es gab darüber<lb/>
+auch gar keine Debatte, dass er als erster Sprecher den Stand<lb break="no"/>punkt der Sozialisten darlegt. Seine Ausführungen waren deshalb<lb/>
+äusserst wichtig und auch sehr gut. <name type="person" ref="per:111410">König</name> konterte ein wenig<lb/>
+demagogisch aber auch verhältnismässig sachlich. <name type="person" ref="per:111721">Stix</name> hat sich<lb/>
+mit der Materie eingehend beschäftigt und den FPÖ-Standpunkt<lb/>
+wirklich präzise dargelegt. <name type="person" ref="per:97692">Leitner</name> so wie immer bemüht, die Wah<lb break="no"/>rung der Länderkompetenzen und die Verquickung Energie – Landwirt<lb break="no"/>schaft wieder darzulegen. Nur <name type="person" ref="per:113368">Landgraf</name> geht auf die Aussenhandels<lb break="no"/>politik, ja selbst sogar auf Nairobi, also ein überhaupt fremdes<lb/>
+und von der Materie kaum zu begründendes anderes Gebiet. Bei meiner<lb/>
+Antwort bleibe ich auch sehr sachlich und stelle nur falsche Be<lb break="no"/>hauptungen richtig, erkläre vor allem einmal, dass ich kein Obligo<lb/>
+bezüglich flankierender Massnahmen habe, die <name type="person" ref="per:111410">König</name> deponiert und<lb/>
+repliziere insbesondere auf <name type="person" ref="per:113368">Landgraf</name>, dass ich die Aussenhandels<lb break="no"/>politik sehr wohl im Einvernehmen mit der Handelskammer mache.<lb/>
+Nach drei Stunden ist alles vorüber und zusammenfassend kann ich<lb/>
+nur sagen, dass ich nicht geglaubt habe, dass eine so weitgehende<lb/>
+Energielenkung überhaupt möglich sein wird, bei der ÖVP durchzu<lb break="no"/>setzen. Sie dürfte doch gewisse Angst haben, dass wenn es zu wei<lb break="no"/>teren Krisen kommt, wir sie dann auf alle Fälle schuldig sprechen,<lb/>
+wenn sie nicht doch gewisse Lenkungszugeständnisse für den Krisen<lb break="no"/>fall macht.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:98010">Teschl</name> ersucht mich, mit dem Gen.Dir <name type="person" ref="per:140406">Vogel</name> von Borregaard über seine<lb/>
+Kreditsicherung zu verhandeln. <name type="person" ref="per:140406">Vogel</name> teilt mir mir, und <name type="person" ref="per:98010">Teschl</name> be<lb break="no"/>stätigt es, dass die Länderbank jetzt die Garantie für den<lb/>
+<pb n="31-0749" facs="31_1976-06-23_0749.jpg"/>Wasserwirtschaftsfonds übernommen hat. Auch der E u.E-Fonds sei<lb/>
+nun bereit, die notwendige Haftung zu übernehmen. Ich erkläre<lb/>
+<name type="person" ref="per:140406">Vogel</name>, dass wenn die Voraussetzungen gegeben sind, ich selbst<lb break="no"/>verständlich die Kreditzusage auch einhalten werde.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: Bitte sofort den Fall richtlinienmässig<lb/>
+abschliessen.<lb/>
+</p>
+            <p xml:space="preserve">Die Betriebsräte von Neusiedler kommen, um mir mitzuteilen, dass<lb/>
+ihre Firma nicht imstande sein wird, bis Endes des Monates die<lb/>
+notwendigen finanziellen und sonstigen Unterlagen zu bringen.<lb/>
+Sie möchten aber im Namen ihrer 1.200 Beschäftigten darauf ver<lb break="no"/>weisen, dass ihr Chef <name type="person" ref="per:114599">Turnauer</name> vielleicht Interesse hat, sein Geld<lb/>
+herauszuholen, sie selbst aber die Arbeitsplätze sichern müssen.<lb/>
+Bezüglich des Sulfatprojektes erkläre ich, ist nicht nur die<lb/>
+Gewerkschaft dafür sondern es wird jetzt eine eingehende Unter<lb break="no"/>suchung durchgeführt werden. Der Bürgermeister von Amstetten, <name type="person" ref="per:97828">Pölz</name>,<lb/>
+ist mit dieser Zusage vollkommen einverstanden. Die Betriebsräte<lb/>
+werden sich an das Handelsministerium wenden.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name> UND <name type="person" ref="per:97819">PLESCH</name>: Ich glaube, wir müssen bei den gan<lb break="no"/>zen Projekten einen stärkeren Kontakt auch mit den Betriebsräten<lb/>
+ausser der Gewerkschaft herstellen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:111741">Sekanina</name> urgiert die Bürges-Angelegenheit Hochmeister, <name type="person" ref="per:126880">Maderthaner</name><lb/>
+bezüglich der Fremdenverkehrsansuchen der Gemeinde St. Gallen, <name type="person" ref="per:145331">Hau<lb break="no"/>ser</name> wegen des Staatswappens, wo die Arbeiterkammer, Dr. <name type="person" ref="per:127771">Scheer</name>, noch<lb/>
+immer dagegen ist, mit dem ich sofort Kontakt aufnehme und der mir<lb/>
+eine positive Erledigung zusagt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98072">WIESINGER</name>: Bitte mir die Akte vorlegen resp. über<lb/>
+Büro urgieren.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97926">Schranz</name> ersucht mich, dass ich mit <name type="person" ref="per:114535">Staudinger</name>, Lebensmittelarbeiter,<lb/>
+wegen Dr. <name type="person" ref="per:145330">Egon Boykow</name>, Geschäftsführer für Verpackungslabor des<lb/>
+Milchfonds spreche.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98072">WIESINGER</name>: Bitte mit <name type="person" ref="per:114535">Staudinger</name> verbinden.<lb/>
+</p>
+            <p xml:space="preserve">Die Wirtschaftspolitische Aussprache ist äusserst friedlich. Die<lb/>
+normalen drei Referate: Wirtschaftsforschung, Finanzministerium<lb/>
+Nationalbank, alle im Zeichen des schon für jeden sichtbaren und<lb/>
+natürlich jetzt jedem ganz klaren Konjunkturaufschwunges.<lb/>
+</p>
+            <pb n="31-0750" facs="31_1976-06-23_0750.jpg"/>
+            <p xml:space="preserve">wenn ich daran denke, wie ich vor etlichen Monaten noch der einzige<lb/>
+war, so könnte ich jetzt sehr zufrieden sein. <name type="person" ref="per:97937">Seidel</name> spricht auch schon<lb/>
+von einem selbsttragenden Konjunkturaufschwung. <name type="person" ref="per:97311">Androsch</name> kündigt an,<lb/>
+er wird den Beirat für Wirtschafts- und Sozialfragen über seine<lb/>
+Präsidenten ersuchen, dass sie ihm eine Budgetprognose erstellen<lb/>
+Er möchte aber nicht wie seinerzeit nur ein Zahlenwerk, das zu spät<lb/>
+und meistens – wie er sich ausdrückt – falsch war, sondern man<lb/>
+soll auch über die Umverteilung, über die Einsparung, über die<lb/>
+Finanzierungsmöglichkeiten usw. ihm einen diesbezüglichen Vorschlag<lb/>
+machen. Ich bin neugierig, was aus dieser Idee wird. Ich glaube,<lb/>
+dass es zweckmässig gewesen wäre, hätte <name type="person" ref="per:97311">Androsch</name> ständig mit den<lb/>
+Sozialpartnern besser kooperiert. Ob die jetzt bereit sind, sich<lb/>
+dieser Arbeit und damit auch Verantwortung zu unterziehen, weiss<lb/>
+ich nicht. Wenn ich die Handelskammer wäre, würde ich mit der Be<lb break="no"/>gründung, da würde ich die und die Unterlagen brauchen und vor allem<lb/>
+die Kontinuität ist unterbrochen und der Finanzminister wünscht<lb/>
+nur immer <choice><choice><sic>gelegenhetlich</sic><corr>gelegentlich? "gelegenheitlich"?</corr></choice></choice> Informationen, kneifen. Auf alle Fälle war<lb/>
+das Anbot politisch sehr geschickt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97819">PLESCH</name>: Bitte auf den nächsten Jour fixe AK-ÖGB<lb/>
+setzen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97637">Kloss</name> von der OeNB machte klar und deutlich, dass die Lohn- und<lb/>
+Preisentwicklung nicht über den Wechselkurs korrigiert werden kann.<lb/>
+Die diesbezüglichen Bemühungen in anderen Staaten hätten damit<lb/>
+Schiffbruch erlitten. Natürlich kam es dann zur Debatte über<lb/>
+wer hat schon geleistet, ÖGB mit entsprechendem Zurückhalten in der<lb/>
+Lohnpolitik in dem vergangenen Jahr und wer muss jetzt leisten,<lb/>
+Handelskammer durch entsprechende Zurückhaltung bei Preisforderungen.<lb/>
+<name type="person" ref="per:97769">Mussil</name> kontert sofort, indem er sagt, das Sozialpaket würde 2,1 %<lb/>
+Belastung der Unternehmer aus 4 Wochen Urlaub und 32. ASVG-Novelle<lb/>
+usw. bedeuten. Ausserdem seien die Lohnnebenkosten um 3 % gestiegen.<lb/>
+Die Gewinne von 36,7 1970 Anteil am Volkseinkommen auf 28,3 1975<lb/>
+gesunken. Die Löhne und Gehälter von 64,1 auf 73,5 gestiegen. Ich<lb/>
+bezweifle diese Ziffern in einer zwischen <name type="person" ref="per:97769">Mussil</name> und mir geführten<lb/>
+von niemand anderem bemerkten Zwischendiskussion und er ruft <name type="person" ref="per:133969">Festa</name>,<lb/>
+der die entsprechenden Statistischen Unterlagen erarbeitet hat.<lb/>
+<name type="person" ref="per:133969">Festa</name> gibt zu, dass 76 der Gewinnanteil von 28,3 auf 29,5 wieder<lb/>
+steigt und die Löhne und Gehälter auf 72,5 fallen. Ich bezweifle<lb/>
+diese Ziffern schon allein deshalb, da die Prozentanteile niemals mehr<lb/>
+als 100 % ergeben können.<lb/>
+ANMERKUNG FÜR <name type="person" ref="per:114508">TIEBER</name> UND <name type="person" ref="per:111737">MARSCH</name>: Bitte mit <name type="person" ref="per:133969">Festa</name> die richtigen Zahlen<lb/>
+besprechen.<lb/>
+</p>
+            <pb n="31-0751" facs="31_1976-06-23_0751.jpg"/>
+            <p xml:space="preserve"><name type="person" ref="per:97769">Mussil</name> behauptet auch, dass der Kahlenberg die Unternehmer<lb/>
+mit 1 % belastet. Die Vermögenssteuer, von 0,75 auf 1 % erhöht,<lb/>
+sei konfiskatorisch. Die Investitionssteuer sollte nicht nur<lb/>
+für heuer sistiert werden, sondern müsste bis 1978 sistiert werden,<lb/>
+in Wirklichkeit aber am besten gestrichen. Vizepräsident <name type="person" ref="per:97938">Seidl</name>,<lb/>
+Lenzing, klagt, dass die Auftragslage sich jetzt nach Auffüllen<lb/>
+der Lager wieder verschlechtert. Er prägt einen neuen Ausdruck:<lb/>
+Es gibt seiner Meinung nach in vielen Branchen keine marktkon<lb break="no"/>forme Kapazität. In Wirklichkeit, glaube ich, ist es in der Hoch<lb break="no"/>konjunktur und besonders im Konjunkturaufschwung – und dies wird<lb/>
+sich diesmal wiederholen – immer wieder zu Kapazitätsausweitungen<lb/>
+gekommen, die auf entsprechende Wachstumsraten aufgebaut sind.<lb/>
+Selbst wenn – was ich gar nicht bestreite, da technische Einheiten<lb/>
+immer nur in gewisser Grösse errichtet werden können – Überkapazi<lb break="no"/>täten entstehen, wird auf lange Sicht, wenn die Rohstofflage und<lb/>
+-versorgung möglich ist, die Kapazität marktkonform werden.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: Hier sollten wir mit Untersuchungen unsere<lb/>
+Branchen- und Industriesituation darlegen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97769">Mussil</name> drängte, dass ich die Vereinbarung über Japan vollinhaltlich<lb/>
+anerkenne. Ich weigerte mich deshalb, weil – wie sich dann auch<lb/>
+als richtig herausstellte – die Arbeiterkammer weder der Liste<lb/>
+noch dem Aide memoire zustimmen wollte, geschweige denn zugestimmt<lb/>
+hat. <name type="person" ref="per:108322">Meisl</name> hat, um aus dem Dilemma herauszukommen, nur die die<lb/>
+Arbeiterkammer betreffenden Punkte mit <name type="person" ref="per:117893">Krywult</name> besprochen. In<lb/>
+einer anschliessenden stundenlangen Diskussion mit <name type="person" ref="per:97769">Mussil</name>, <name type="person" ref="per:97474">Gleissner</name>,<lb/>
+<name type="person" ref="per:139985">Ettel</name> und anderen Handelskammerleuten sowie <name type="person" ref="per:98112">Zöllner</name>, <name type="person" ref="per:112010">Blaha</name>, vom<lb/>
+Handelsministerium Dr. <name type="person" ref="per:113091">Bachmayer</name> und Dr. <name type="person" ref="per:116916">Waas</name>, gelang mir dann<lb/>
+doch eine Einigung. <name type="person" ref="per:97769">Mussil</name> meinte, ich könne jetzt dann das Aide<lb/>
+memoire, das korrigiert wird, unterschreiben. Ich erklärte ihm,<lb/>
+dass ich eine solche Vorgangsweise nicht für zielführend halte,<lb/>
+sondern dass <name type="person" ref="per:116916">Waas</name> jetzt mit der Handelskammer und der Arbeiterkammer<lb/>
+einen gemeinsamen Akt wird anlegen, den ich nachher fertigen werde.<lb/>
+Die Handelskammer stand unter Zeitdruck, weil der Gesetzentwurf<lb/>
+spät nachts dann beschlossen werden sollte. <name type="person" ref="per:97769">Mussil</name> drohte an, dass<lb/>
+<name type="person" ref="per:112149">Gorton</name>, der als Redner vorgesehen war, die entsprechende Begründung<lb/>
+für eine Ablehnung der ÖVP vorbringen würde. In Wirklichkeit hat<lb/>
+dann überhaupt niemand mehr zu den letzten Punkten gesprochen sondern<lb/>
+die beiden Klubs haben einvernehmlich gestrichen, weil die Abgeordneten<lb/>
+nach Hause fahren wollten. Ich erfuhr dies zu spät und musste deshalb<lb/>
+von der Hofburg schleunigst nachts ins Parlament zurück.<lb/>
+</p>
+            <pb n="31-0752" facs="31_1976-06-23_0752.jpg"/>
+            <p xml:space="preserve">Die VÖEST – <name type="person" ref="per:97644">Koller</name> – drängt auf eine Lösung von Fohnsdorf. Der<lb/>
+Verlust wird heuer 140 Mill. sein, nächstes Jahr 160, übernächstes<lb/>
+176 Mill. strengst vertraulich wurde besprochen, dass ähnlich wie<lb/>
+bei Pölfing-Bergla jetzt ein Programm vorbereitet werden muss,<lb/>
+um im nächsten Jahr eine Lösung wie Pölfing-Bergla vorgesehen wird.<lb/>
+Als Handelsminister muss ich die Frage der Finanzierung und end<lb break="no"/>gültige Beschlussfassung von Oberndorf bis dorthin geregelt haben,<lb/>
+ausserdem muss ich die Kohlenfrage für das Dampfkraftwerk Zeltweg<lb/>
+regeln. Das Ganze muss aber als äusserst vertraulich in die Wege ge<lb break="no"/>leitet werden. Schwachstellen, die derzeit schon erkennbar sind,<lb/>
+ist Hüttenberg, Mühlbach, Juniorwerke und Fohnsdorf.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name> UND <name type="person" ref="per:98040">WAIS</name>: Bitte Problem ausschliesslich mit mir<lb/>
+besprechen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="31_0745_05" facs="31_1976-06-23_0745-05.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 23.6.1976</head>
+         </div>
+         <pb n="31_0745_06" facs="31_1976-06-23_0745-06.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

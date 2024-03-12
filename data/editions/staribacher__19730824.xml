@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der 24. August 1973</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band17_1973-08-24</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1973-08-24">Freitag, 24. August 1973</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-09-14">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band17/">
+      <body>
+         <pb n="17-0941" facs="17_1973-08-24_0941.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Freitag, 24. August 1973</p><p xml:space="preserve">Die Aussenstelle ist in ihr neues Büro übersiedelt. Für eine<lb/>
+sterbende Dienststelle eine ganz komische Situation. Ein voll<lb break="no"/>kommen neues Haus, Air Condition, die Büros mit alten Möbeln,<lb/>
+die Beschäftigten warten alle nur auf die Pensionierung. Ich<lb/>
+bin überzeugt, 50 % der Arbeit die dort geleistet wird, ist<lb/>
+vollkommen sinnlos. <name type="person" ref="per:108322">Meisl</name> hat allerdings mit <name type="person" ref="per:98053">Wanke</name> schon sehr<lb/>
+viele Reorganisationen vorgenommen. Die Hauptschwierigkeit<lb/>
+liegt darin, <name type="person" ref="per:97915">Schipper</name> bestätigt es, daß es keine Möglichkeit<lb/>
+gibt, die Ersparnisse die wir durch die Reorganisation<lb/>
+dort durchführen, auf andere Dienststellen, z. B. auf die<lb/>
+Sektion I zu übertragen. <name type="person" ref="per:97915">Schipper</name> behauptet, daß die Beiträge<lb/>
+nur so verrechnet werden können, als dies in den letzten Jahr<lb break="no"/>zehnt geschehen ist. <name type="person" ref="per:98053">Wanke</name> möchte gerne eine Kostenstellenrechnung<lb/>
+und die Übertragung der Ersparnisse von einer Kostenstelle z. B.<lb/>
+Aussenhandelsstelle auf die Einsersektion. Ob dies gelingt, ist<lb/>
+merh als fraglich. Ich fürchte überhaupt, daß durch die Bean<lb break="no"/>standung des Rechnungshofes über die Entwicklungshilfe das ganz<lb/>
+AHV-Gebührsystem ins Rollen, d.h. h. in die Diskussion kommt.<lb/>
+Da <name type="person" ref="per:97893">Sallinger</name> mir gleich bei Amtsantritt erklärt hat, daß er nur<lb/>
+eine einzige Zielsetzung hat, nämlich daß die Aussenhandelsorgani<lb break="no"/>sation unangetastet bleibt, wird dies dann eine harte und schwere<lb/>
+Auseinandersetzung. Selbst wenn ich außer Obligo bleibe, weil das<lb/>
+Finanzministerium mehr oder minder die Finanzgebarung mit der<lb/>
+Handelskammer wird abwickeln müssen, wird doch auch damit das<lb/>
+Klima wesentlich verschlechtert werden.</p><p xml:space="preserve">Anmerkung für <name type="person" ref="per:98053">WANKE</name><lb/>
+Wir müssen versuchen, ein neutrales System zu finden, ohne daß<lb/>
+die Handelskammer das Gefühl hat, daß die Aussenhandelsorganisation<lb/>
+geändert wird.</p><p xml:space="preserve">Die Pressekonferenz von <name type="person" ref="per:97442">Firnberg</name> über die Untersuchung von Geschwin<lb break="no"/>digkeitsbeschränkungen war sehr gut besucht. <name type="person" ref="per:97442">Firnberg</name> erkundigte<lb/>
+sich, wie ich wöchentlich eine Pressekonferenz abhalte. Sicherlich<lb/>
+ist ganz besnders das Thema Grund gewesen, daß eine so starke An<lb break="no"/>zahl von anderen Ministerien aber auch vom Kuratorium für Verkehrs<lb break="no"/><pb n="17-0942" facs="17_1973-08-24_0942.jpg"/>sicherheit und aber auch Presseleuten bei der Besprechung an<lb break="no"/>wesend waren. Die Verfasser der Studie haben fast 1 Std. die<lb/>
+Studie erörtert. In der Diskussion war allerdings dann die Haupt<lb break="no"/>fra e, ob ich die Geschwindigkeitsbeschränkung 100 noch 1973 ein<lb break="no"/>führe oder erst zu einem späteren Zeitpunkt. Ich habe mich voll<lb break="no"/>kommen neutral verhalten, erklärt, ich werden im September noch<lb/>
+eine große Enquete starten, und mich dann auf Grund der Ergebnisse<lb/>
+dieser Enquete erst endgütlig entscheiden. Der Rechtsanwalt vom<lb/>
+ARBÖ hat dort sofort eine Lanze gegen die Geschwindigkeitsbeschränkung<lb/>
+100 gebrochen. Er sagte allerdings, daß dies seine private Meinung<lb/>
+ist, Der ARBÖ selbst wird, wie mir <name type="person" ref="per:97411">Effenberger</name> mitteilt und mich<lb/>
+ersuchte, am 8. September, Samstag, das ganze Problem diskutieren.<lb/>
+Er hat mich dazmneben <name type="person" ref="per:97879">Rösch</name> zu dieser Bundesvorstandssitzung ein<lb break="no"/>geladen.</p><p xml:space="preserve">Anmerkung für <name type="person" ref="per:98040">WAIS</name><lb/>
+Bitte nach Rückkehr von <name type="person" ref="per:134300">Metzner</name> mit ihm für September einen ent<lb break="no"/>sprechenden Enquetetermin mindestens einen l/2 Tag vereinbaren.</p><p xml:space="preserve">Ich habe bei dieser Enquete auch angekündigt, daß der nächste<lb/>
+Kraftfahrbeirat, der eigentlich nur die Kraftfahrzeugversicherung<lb/>
+diskutieren sollte, mit der Frage der Sicherheitsausrüstung der<lb/>
+Autos als einen eigenen Tagesordnungspunkt von mir einberufen wird.<lb/>
+Ich hoffe, damit, daß nicht nur ausschließlich für die Kraftfahr<lb break="no"/>versicherungen diskutiert und womöglich dann noch gegen den Entscheid,<lb/>
+daß sie abgestimmt wird. Der ÖGB rechnen fest, daß wir eine Nieder<lb break="no"/>lage erreichen. Da im Kraftfahrzeugbeirat fast nur Gegner der ge<lb break="no"/>spaltenen Kraftfahrzeugversicherungssitzen, Ich hoffe, mit der<lb/>
+Diskussion über die Sicherheitsbestimmungen der Autos das Forum<lb/>
+einigermaßen müde zu machen und dadurch dann diegespaltene Kraft<lb break="no"/>fahrzeugversicherung dann leichter durchzubringen.</p><p xml:space="preserve">Anschließend an die Pressekonferenz habe ich noch mit <name type="person" ref="per:113083">Fred Sinowatz</name><lb/>
+und <name type="person" ref="per:97442">Hertha Firnberg</name> über die Beudeutung der Kraftfahrer deren poli<lb break="no"/>tischen Einfluß diskutiert. Ich glaube, daß die Partei die Bedeutung<lb/>
+der Kraftfahrzeugbesitzer und Autofahrer noch immer unterschätzt.</p><pb n="17-0943" facs="17_1973-08-24_0943.jpg"/><p xml:space="preserve"><name type="person" ref="per:97442">Firnberg</name> glaubt allen Ernstes, daß sich die Bevölkerung noch<lb/>
+immer hauptsächlich aus Fußgängern zusammensetzt und diese da<lb break="no"/>her die Entscheidung in all diesen Fragen so beeinflußen müßten,<lb/>
+daß die Partei und alle Regierungsentscheidungen sich ausschließ<lb break="no"/>lich inach den Fußgängern richten. Ich habe versucht ihr ziffern<lb break="no"/>mäßig auseinanderzusetzen, daß 1,5 Mio Personenkraftwagen bedeuten,<lb/>
+daß mindestens 4 Mio., d.h. die Mehrzahl der österreichischen Be<lb break="no"/>völkerung eigentlich heute schon mit einem Kraftfahrzeug irgend<lb break="no"/>wie verbunden ist und deshalb Entscheidungen nicht mehr aus<lb break="no"/>schließlich vom Gesichtspunkt der Fußgänger getroffen werden dürften<lb/>
+und sollten. Die Lobby, von der <name type="person" ref="per:97668">Kreisky</name> in seinem Brief schreibt,<lb/>
+ist wesentlich stärker als viele heute wahrhaben wollen. Bis jetzt<lb/>
+ist es mir geglückt, im Einvernehmen mit den Kraftfahrverbänden<lb/>
+die entsprechende Politik so zu machen, daß die Regierung und ins<lb break="no"/>beonsdere das Handelsminister um dabei verhältnismäßig gut wegge<lb break="no"/>kommen ist. Wenn die Partei glaubt, sie kann gegen die Kraftfahr<lb break="no"/>verbände entscheiden, wird sie nicht nur allein den ARBÖ verärgern,<lb/>
+sondern noch vielmehr dem ÖAMTC mit immerhin seinen bedeuten Einlfuß<lb/>
+gegen sich gewendet bekommen.</p></div>
+      </body>
+      <back>
+         <pb n="17_0940_01" facs="17_1973-08-24_0940-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 24.8.1973</head>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+   </text>
+</TEI>

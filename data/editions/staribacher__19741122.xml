@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der 22. November 1974 bis Sonntag, der 24. November 1974</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band23_1974-11-22</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date from="1974-11-22" to="1974-11-24">Freitag, 22. November 1974 bis Sonntag, 24. November 1974</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2017-03-01">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band23/">
+      <body>
+         <pb n="23-1398" facs="23_1974-11-22_1974-11-24_1398.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Freitag und Samstag, Sonntag, 22. bis 24. November 1974</p><p xml:space="preserve">Um die Stimme zu schonen übernahm ich nur die notwendigsten<lb/>
+auswärtigen Referate. Die Bundesvorstandssitzung des Österr. Arbeits<lb break="no"/>bauernbundes gab mir Gelegenheit, über die Preispolitik und das Preis<lb break="no"/>gesetz zu referieren. Ich habe ihnen zwei aktuelle Probleme, die<lb/>
+der Arbeitsbauernbund gut nützen könnte, vorgeschlagen. Der Bauern<lb break="no"/>bund hatte aus prinzipiellen Gründen, um den Finanzminister wegen<lb/>
+einer Subventionssteigerung für Düngemittel anzugehen zu können,<lb/>
+die 80.000 t, die die Stickstoffwerke zum alten Preis zur Verfügung<lb/>
+stellen wollten, ausgeschlagen. Hier hätte der Österr. Arbeits<lb break="no"/>bauernbund die Gelegenheit, den Bauernbund vorzuwerfen, dass er<lb/>
+aus prinzipiellen Gründen und aus taktischen den Bauern effektiv<lb/>
+schädigte. Die zweite Sache war der Export von Sirup, an dem einige<lb/>
+Händler resp. Erzeuger, in diesem Fall sogar nach ECCO zwei ÖVP-<lb/>
+Landtagsabgeordnete, schwer verdienten auf Kosten der österr. Ver<lb break="no"/>sorgung von Zucker resp., wenn man so will, auch der Rübenbauern.<lb/>
+Hier konnte ich aber feststellen, dass die Öffentlichkeitsarbeit<lb/>
+dieses Arbeitsbauernbundes nur sehr schwach ist. Sie haben keinen<lb/>
+Pressereferenten, sie haben keinen p.r.-Mann, <name type="person" ref="per:135638">Fischerlehner</name> ersuchte<lb/>
+mich nachher, ob es eine Möglichkeit gäbe, dass wir ständigen Kontakt<lb/>
+zwischen Vertretern des Arbeitsbauernbundes und meinem Ministerium<lb/>
+pflegen könnten. Ich empfahl ihm, er soll sich mit den Genossen,<lb/>
+die sich dafür besonders interessieren, mit meinem Büro Kontakt<lb/>
+halten.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97646">KOPPE</name> UND <name type="person" ref="per:98040">WAIS</name>: Vielleicht können wir dieser schwer<lb/>
+ringenden Nebenorganisation wesentlich mehr helfen.</p><p xml:space="preserve">Samstag Vormittag sprach ich mit <name type="person" ref="per:97377">Bukowski</name> die neue Geschäftsein<lb break="no"/>teilung – von der Kommission vorgelegt – durch. Im Prinzip ist<lb/>
+mir das Ganze ein Greuel. Diese immer formellen Abgrenzungen,<lb/>
+diese Dekrete, die man verteilt, um damit den Beamten ein Imperium<lb/>
+zu geben, was der Tüchtige nicht braucht und der Untüchtige damit<lb/>
+sozusagen seine Existenzberechtigung sich absichert. Trotzdem habe<lb/>
+ich in den vier Jahren gelernt, dass es wohl sehr wichtig ist,<lb/>
+darauf genau zu achten, wie die Abgrenzung erfolgt und wer<lb/>
+eigentlich welche Kompetenzen bekommt. Im Ministerium hat sich<lb/>
+jetzt sehr ausgebreitet, d.h. wir haben zwar nicht mehr Beamte<lb/>
+bekommen, im Gegenteil sogar ein paar weniger, aber umso mehr<lb/>
+<pb n="23-1399" facs="23_1974-11-22_1974-11-24_1399.jpg"/>jetzt Abteilungen usw. Im letzten Moment hat jetzt angeblich die<lb/>
+Personalvertretung, wie mir <name type="person" ref="per:97377">Bukowski</name> sagt, verlangt, dass die Gruppen<lb break="no"/>leiter in Hinkunft keine Abteilungen mehr führen sollten, Dies wäre<lb/>
+ein Weg, den ich sofort einschlagen würde. Dadurch würden sich<lb/>
+einige Probleme verbessern. Wir müssten nicht so viele Abteillungen<lb/>
+neu schaffen, sondern könnten wie z.B. im Falle <name type="person" ref="per:113626">Ortmann</name> ihm die Abteilung<lb/>
+von <name type="person" ref="per:111367">Würzl</name> geben. <name type="person" ref="per:111367">Würzl</name> würde dann als Gruppenleiter eben die über<lb break="no"/>geordnete Funktion ausüben. An und für sich gefällt mir eine solche<lb/>
+Idee schon deshalb gut, weil ich in Wirklichkeit im Behalten von<lb/>
+Abteilungen bei Gruppenleitern nur den Versuch sehe, in einem ange<lb break="no"/>stammten Gebiet weiterhin auch im Detail zu arbeiten oder wenn man so<lb/>
+will, alles daransetzen, um eine Tätigkeit, die einem in der direkten<lb/>
+Bearbeitung des Aktes einen grossen Einfluss gibt, weiterhin<lb/>
+aufrechtzuerhalten. Trotzdem stehe ich auf dem Standpunkt, dass in<lb/>
+Wirklichkeit, so wie der Sektionschef noch immer Details arbeiten kann,<lb/>
+er aber nicht mehr eine Abteilung führt, eigentlich auch ein Gruppen<lb break="no"/>leiter nur mehr die Gruppe führen soll und nicht auch in Details der<lb/>
+Abteilung oder gar vielleicht des einzelnen Bearbeiters tätig sein soll</p><p xml:space="preserve">ANMERKUNG AN ALLE: Vielleicht ist dies der Weg um aus dem Dilemma<lb/>
+der immer mehr werdenden Abteilungen und Gruppen herauszukommen.</p><p xml:space="preserve">Der Landesobmann von freien Wirtschaftsverband <name type="person" ref="per:97308">ABT</name> hat mir geschrieben,<lb/>
+dass die Bezirksorganisation Wr. Neustadt als mitgliederstärkste eine<lb/>
+Veranstaltung abhält, wo sie alle Handelskammermitglieder vom<lb/>
+Bezirk einladet. <name type="person" ref="per:97543">Heindl</name> meinte, dort werden 300 Personen hinkommen.<lb/>
+Tatsächlich waren es aber nur 50. Dies sage ich nicht, weil es mich<lb/>
+berührt, wenn ich vor einer gross angekündigten Versammlung reden soll<lb/>
+und dann sind es nur weniger, sondern weil ich darin ein Symptom<lb/>
+für den Einfluss des Freien Wirtschaftsverbandes sehe. Der FWV erhofft<lb/>
+sich bei den Handelskammerwahlen, da er um 10 % mehr Mitglieder hat,<lb/>
+auch eine wesentliche Verstärkung seiner Stimmen und damit seiner<lb/>
+Mandate. Nach den bisherigen Versammlungen, die ich mitgemacht habe,<lb/>
+müsste allerdings dieser Wunsch ein Wunschtraum sein. Man soll aber<lb/>
+von Versammlungen nicht auf Aktivitäten und vor allem einmal nicht auf<lb/>
+Wahlerfolge schliessen. Ich habe dort sehr sachlich referiert, um unseren<lb/>
+Genossinnen und Genossen und eventuell anwesenden anderer Fraktion<lb/>
+oder überhaupt politisch Neutraler recht viel Argumente in die Hand zu<lb/>
+geben. Ich habe kaum meine üblichen Schmähs laufen lassen. Obwohl<lb/>
+viele ältere Personen dort waren, die sicherlich kaum sich um Probleme<lb/>
+<pb n="23-1400" facs="23_1974-11-22_1974-11-24_1400.jpg"/>kümmern, sondern wahrscheinlich sogar wegen der anschliessenden<lb/>
+Unterhaltung gekommen sind. Ich diskutierte auch mit den Genossen<lb/>
+bis zur letzten Minute und kam sogar dann nach Mattersburg mit einer<lb/>
+10 Minuten-Verspätung. Dort waren zum Mattersburger Stammtisch,<lb/>
+den LR <name type="person" ref="per:132668">Mader</name> eingeladen hatte, er hat in Mattersburg seinen Wohn<lb break="no"/>sitz, tatsächlich die 50 – 60 Personen in einem kleinen Gastzimmer<lb/>
+erschienen. Da es sich um etwas Neues handelt, war auch der Rundfunk<lb/>
+anwesend. Die Diskussion führte ich solange, als meine Stimme durch<lb break="no"/>hielt. Die wirklich harten Angriffe aber richteten sich primär<lb/>
+gegen alle steuerlichen und Verwaltungsvereinfachungsbestrebungen,<lb/>
+die die Wirtschaft immer wieder erwartet und die nicht kommen. Nur<lb/>
+eine konkrete Beschwerde lag vor, ein gewisser Gastwirt <name type="person" ref="per:149023">Pulz</name>, Steiner<lb break="no"/>gasse 1, Neudörfl, hatte von der Maul- und Klauenseuche bedingt<lb/>
+11 Tage geschlossen und weil er nicht die richtigen Vergleichsziffern,<lb/>
+da er 1972 den Betrieb erst geöffnet hatte und daher 1973 nicht die<lb/>
+notwendige schlechtere Umsatzsituation nachweisen konnte, nichts<lb/>
+erhalten. Er fühlte natürlich eine gewisse Ungerechtigkeit, obwohl<lb/>
+ich es ihm erklären konnte, dass eben nur Vergleichsmöglichkeiten<lb/>
+zwischen dem Vorjahr herangezogen werden können. Er weiss genau,<lb/>
+dass wir nichts mehr ändern können, trotzdem werde ich ihm einen<lb/>
+ausführlichen Brief noch einmal schrieben.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name>: Bitte <name type="person" ref="per:111737">Marsch</name> soll sich den Fall noch einmal an<lb break="no"/>schauen, ein Schreiben von uns ging an <name type="person" ref="per:140155">Posch</name>, den Bürgermeister von<lb/>
+Neudörfl.</p><p xml:space="preserve">Was immer aus meinem neuen Preisgesetz im Parlament werden wird, es<lb/>
+ist gut, dass wir einmal alle Wünsche zusammengeschrieben haben und<lb/>
+damit auch den Wunsch der Handelskammer gegen die Diskonter, d.h.<lb/>
+gegen den Verkauf unter dem Einstandspreis vorzugehen. Dies spielt<lb/>
+nämlich bei allen Veranstaltungen, wo kleinere Geschäftsleute<lb/>
+anwesend sind, eine grössere Rolle. Immer wieder werde ich auch gefragt,<lb/>
+ob ich überhaupt den kleinen Geschäftsleuten noch eine Möglichkeit<lb/>
+des Überlebens gebe. Mein einziger Hinweis besteht dann darin, dass<lb/>
+auch in Amerika das small business existiert und dass selbst in<lb/>
+Deutschland, aber auch jetzt in Österreich, wo sich Diskonter<lb/>
+grosse Märkte angesiedelt haben, die kleineren Geschäftsleute,<lb/>
+soferne sie sich noch <choice><choice><sic>nd</sic><corr>und?</corr></choice></choice> zeitgerecht vor allem auf ein Spezial<lb break="no"/>geschäft umstellen, weiter existieren können. In Wirklichkeit muss<lb/>
+ich mir aber sagen, ist es wirklich ein hartes Los, wenn jemand,<lb/>
+<pb n="23-1401" facs="23_1974-11-22_1974-11-24_1401.jpg"/>der 30 Jahre und noch länger eine örtliche Versorgung vorgenommen hat,<lb/>
+jetzt in seinen alten Tagen aus dem Markt geworfen wird. Hier soll<lb break="no"/>ten wir tatsächlich Untersuchungen<add>in Nahversorgungsstudie – WIST enthalten; Fertigstellung ca. September 75 R</add> anstellen, nicht allein um dem<lb/>
+alten Gewerbetreibenden seinen Absatz zu sichern, sondern wirklich<lb/>
+einmal zu untersuchen, wie weit eine örtliche Versorgung gerade im<lb/>
+ländlichen Gebiet dann noch aufrechterhalten wird. Es kann nicht<lb/>
+der Weisheit letzter Schluss sein, und das Modell der Versorgung so<lb/>
+lauten, wer jung, beweglich und ein Auto hat, fährt in den nächsten<lb/>
+Supermarkt und wer alt und unbeweglich ist, wird von einem vielleicht<lb/>
+noch mit letzter Kraft aufrechterhaltenen kleinen Gewerbetreibenden<lb/>
+am Ort bedient. Dass in diesem Fall dann der ältere Konsument noch<lb/>
+allein schon kostenmässig verursacht höhere Preise bezahlen muss,<lb/>
+um vielleicht noch den älteren Handelsbetrieb und Gewerbebetrieb<lb/>
+überhaupt aufrechtzuerhalten, erscheint mir als ein falsches Prinzip.<lb/>
+Scheinbar hat das aber jetzt den Anschein, dass es tatsächlich die<lb/>
+Entwicklung ist, die wir in Österreich insbesondere im ländlichen<lb/>
+Raum feststellen können. Mein Hinweis, dass ich hier, ich habe<lb/>
+diese Ausführungen dort allerdings nicht gemacht, sondern eben<lb/>
+nur darauf hingewiesen, dass ich eine Untersuchung jetzt ange<lb break="no"/>ordnet habe, die Armut im Gewerbe festzustellen. Vielleicht könnte<lb/>
+man aber tatsächlich bei dieser Studie oder bei einem Auftrag für<lb/>
+das Jahr 1975 das Gewerbeforschungsinstitut und vielleicht noch<lb/>
+andere dafür in Frage kommende Institute ersuchen, ein anderes<lb/>
+besseres Modell auszudenken und zu finden. Dies würde aber, und<lb/>
+darüber bin ich mir vollkommen klar, mehr eine Alibi-Handlung für<lb/>
+die nächsten Wahlen sein. Konkret müsste man einmal bei uns<lb/>
+im Haus in der Grundsatzgruppe alle Modellformen durchdiskutieren,<lb/>
+resp. analysieren.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: Vielleicht kann es die Grundsatzgruppe, vielleicht<lb/>
+aber auch nur der Konsumentenbeirat, vielleicht aber wirklich nur Aus<lb break="no"/>senstehende. Auf alle Fälle bitte dieses Problem bearbeiten.</p><p xml:space="preserve">Da Aussenminister <name type="person" ref="per:97350">Bielka</name> auch an einer noch viel ärgeren Verkühlung<lb/>
+und damit Heiserkeit erkrankt ist, um ihm meine Unterstützung drastisch<lb/>
+vor Augen zu führen, habe ich ihn angerufen und sofort erklärt, dass<lb/>
+ich bereit bin, für ihn das Essen für <name type="person" ref="per:140957">Shriver</name>, dem Schwager <name type="person" ref="per:97620">Kennedys</name>,<lb/>
+der <name type="person" ref="per:140751">eine Kennedy</name> geheiratet hat und von Moskau über Österreich jetzt<lb/>
+nach Paris und Amerika zurückreist, zu geben. Bei dieser Gelegenheit<lb/>
+vermittelte ich ihm gleich auch meinen HNO-Professor. <name type="person" ref="per:97350">Bielka</name> teilte<lb/>
+<pb n="23-1402" facs="23_1974-11-22_1974-11-24_1402.jpg"/>mir bei dieser Gelegenheit mit, dass <name type="person" ref="per:97668">Kreisky</name> grössten Wert<lb/>
+darauf legt, dass in der Internationalen Energieagentur<lb/>
+<name type="person" ref="per:133970">Bobleter</name> Österreich vertreten soll. Da es eine OECD-Sache<lb/>
+ist und <name type="person" ref="per:133970">Bobleter</name> sein Vertreter in Paris und damit auch dem<lb/>
+BKA untersteht. <name type="person" ref="per:97350">Bielka</name> hat nun grosse Sorgen, wie <name type="person" ref="per:133970">Bobleter</name><lb/>
+die fachlichen Fragen dort entsprechend behandeln wird, und<lb/>
+meinte, man sollte ihm unbedingt <name type="person" ref="per:107937">Frank</name> zuordnen. Da <name type="person" ref="per:107937">Frank</name><lb/>
+mir aber in einer Aktennotiz sogar mitgeteilt hat, dass er<lb/>
+im Prinzip ein Gegner von dem jetzigen Beitritt Österreichs<lb/>
+schon zur internationalen Energieagentur ist, und seine Be<lb break="no"/>denken mir gegenüber aktenmässig sogar festhält, sehe ich<lb/>
+keinen Grund, ihn jetzt bereits in diese Agentur zu entsenden.<lb/>
+Dies habe ich natürlich <name type="person" ref="per:97350">Bielka</name> nicht gesagt, sondern nur<lb/>
+darauf hingewiesen, dass jetzt einmal ruhig <name type="person" ref="per:133970">Bobleter</name> die<lb/>
+Arbeit übernehmen kann und sich aus der Praxis dann schon<lb/>
+ergeben wird, wer eventuell in diese Agentur als Hilfsorgan von<lb/>
+meinem Ministerium kommt. <name type="person" ref="per:97350">Bielka</name> ist genauso wie ich auf alle<lb/>
+Fälle der Meinung, dass wir unter gar keinen Umständen einen<lb/>
+Vizepräsidenten in den Gouverneursrat anstreben sollen. Vom<lb/>
+amerikanischen Handelsrat erfuhr ich nun, dass bei den<lb/>
+ersten Gesprächen in Paris bereits über die finanzielle<lb/>
+Seite dieses ganzen Projektes sehr konkrete Vorstellungen<lb/>
+herrschen und angeblich sogar auch besprochen wurden. Ich habe<lb/>
+davon noch kein Wort gehört. Da wir aus dieser Agentur ganz<lb/>
+grosse finanzielle Verpflichtungen aufgehalst bekommen werden,<lb/>
+direkte, in Form von Mitgliedsbeiträgen und wahrscheinlich<lb/>
+auch von sonstigen Leistungen, indirekte in Form von Lager<lb break="no"/>haltungen, die ins Gigantische gehen werden, bin ich eigentlich<lb/>
+sehr froh, wenn <name type="person" ref="per:97668">Kreisky</name> die Hauptverantwortung dafür trägt.<lb/>
+Er wird sich dann mit <name type="person" ref="per:97311">Androsch</name> herumstreiten müssen, um die<lb/>
+notwendigen finanziellen Mittel zu bekommen. Ich habe jetzt in<lb/>
+den letzten Jahren feststellen müssen, wie <name type="person" ref="per:97311">Androsch</name> sicherlich<lb/>
+bedingt aus seiner finanziellen Lage<lb/>
+kaum für zusätzliche Mittel zu gewinnen ist. Ich habe deshalb<lb/>
+auch in den vergangenen Jahren niemals an ihn, sei es bei<lb/>
+Budgetverhandlungen oder zwischendurch sehr konkrete Forderungen<lb/>
+gestellt. Entweder war aus der Sachlage heraus gezwungen wie<lb/>
+z.B. beim Gewerbestrukturverbesserungsgesetz, dort hat er die<lb/>
+5 % Erhöhung seinerzeit der FPÖ zugesagt, wahrscheinlich auf<lb/>
+Vorschlag <name type="person" ref="per:97668">Kreiskys</name>, sei es bei den Bergbauförderungsmitteln,<lb/>
+<pb n="23-1403" facs="23_1974-11-22_1974-11-24_1403.jpg"/>die er letzten Endes aus den Verstaatlichten Industrie, auch<lb/>
+verantwortlich dafür <name type="person" ref="per:97668">Kreisky</name> – immer wieder mehr geben<lb/>
+muss, aber z.B. schon nicht mehr bereit war, selbst für die<lb/>
+Bevorratung, die er selbst einmal vorgeschlagen hat, die notwen<lb break="no"/>digen Mittel zu geben. Das Konzept <name type="person" ref="per:97311">Androsch</name>, welches ich voll<lb/>
+verstehen, aber trotzdem nicht gutheisse, ist, dass er zuerst Zeit<lb/>
+gewinnen will und erklärt, es müssten ihm die notwendigen ge<lb break="no"/>setzlichen Unterlagen vorgelegt werden, die er dann, wenn sie<lb/>
+im Parlament beschlossen sind, auch finanziell erfüllen muss.<lb/>
+Da er dies aber letzten Endes doch nicht kann, habe ich einen<lb/>
+solchen Weg nie beschritten, ich werde deshalb kein Bevorratungs<lb break="no"/>gesetz ausarbeiten, wo der Bund entsprechende finanzielle Be<lb break="no"/>lastungen übernehmen müsste und dann feststellen, dass ich die<lb/>
+Mittel dafür nicht bekomme. Den Ausweg, den ich mir vorgestellt<lb/>
+habe, war, dass wir über das <choice><choice><sic>Lageförderungsgesetz</sic><corr>Lagerförderungsgesetz?</corr></choice></choice> wenigstens die<lb/>
+2 Mia S in Devisen, die die OeNB seinerzeit erklärte zur Ver<lb break="no"/>fügung zu stellen, flüssig machen kann. Nun stellt sich heraus,<lb/>
+dass auch hier der Finanzminister, der ein solches Gesetz ein<lb break="no"/>bringen müsste, von uns einen diesbezüglichen Vorschlag hat,<lb/>
+ihn aber derzeit nicht erfüllen will. Wahrscheinlich braucht er<lb/>
+die OeNB und den Bankenapparat zu anderen wichtigeren Massnahmen,<lb/>
+z.B. zur Finanzierung seines Defizits. Die Schwierigkeiten werden<lb/>
+noch viel grösser werden, wenn erst die internationale Energie<lb break="no"/>agentur die notwendigen finanziellen Leistungen direkt und in<lb break="no"/>direkt verlangt. Ich bin deshalb wirklich froh, wenn <name type="person" ref="per:97668">Kreisky</name><lb/>
+diese Kompetenz, die ja auch formell wirklich bei der OECD<lb/>
+und damit im BKA liegt, wahrnimmt.</p><p xml:space="preserve">Das Essen und die anschliessende Aussprache, die über eine<lb/>
+Stunde dauerte, brauchte für mich überhaupt keine neuen Erkennt<lb break="no"/>nisse. Vielleicht liegt das aber auch darin, dass mein Englisch viel<lb/>
+zu schlecht ist, um den Details und den Feinheiten folgen<lb/>
+zu können. Die <name type="person" ref="per:146806">Kennedy</name>-Tochter interessierte sich primär für<lb/>
+die Entwicklung der österr. Jugend, bedingt dadurch, dass ihr<lb/>
+Sohn in Amerika jetzt, und das hat sie ganz besonders herausge<lb break="no"/>strichen, für die Dritte Welt auf der Universität Yale einen<lb/>
+Hungerstreik gemacht hat und mehr Mittel, die sie selbst ersparen<lb/>
+und die Amerikanische Bevölkerung aufzufordern, mehr für die<lb/>
+Dritte Welt zu leisten. Sie wollte wissen, wie die österr. Jugend<lb/>
+denkt und ich konnte ihr nur an Hand von meinen beiden Söhnen<lb/>
+<pb n="23-1404" facs="23_1974-11-22_1974-11-24_1404.jpg"/>sagen, dass ich mir kein generelles Urteil über die Jugend an<lb break="no"/>masse. Meine Söhne stehen aber links und das ist gut so, wenden<lb/>
+sich, und das ist gut so, wenden sich gegen die Unterdrückung in der<lb/>
+Welt, in Chile oder Bolivien oder auch in das frühere Regime in<lb/>
+Griechenland, wenn man so will auch dort, wo die Amerikaner<lb/>
+sie unterstützen und lassen sich weder von den Älteren noch<lb/>
+geschweige denn von der Regierung ihre Meinung vorschreiben.<lb/>
+Trotzdem sind sie keine Kommunisten, weil die kommunistischen Staaten<lb/>
+auch unterdrücken. Ich glaube trotzdem, dass diese Zusammenkunft<lb/>
+aus optischen Gründen sehr gut ist. Da wir mit den Weststaaten<lb/>
+kaum bilaterale Gespräche haben, daher nicht so wie in den Oststaaten<lb/>
+wir immer wieder dort offizielle Zusammenkünfte zwischen Ministern,<lb/>
+ist es gut, wenn wir inoffiziell bei jeder sich bietenden Gelegenheit<lb/>
+dokumentieren, dass Österreich sich nicht einseitig jetzt rein optisch<lb/>
+nach dem Osten orientiert. Der amerik. Handelsrat hat dies auch<lb/>
+gegenüber <name type="person" ref="per:140957">Shriver</name> klar und deutlich formuliert. In diesem Sinn<lb/>
+war auch diese Aussprache und das Essen ein Erfolg.</p></div>
+      </body>
+      
+   </text>
+</TEI>

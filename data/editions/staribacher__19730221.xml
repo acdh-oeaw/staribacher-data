@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittwoch, der 21. Februar 1973</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band14_1973-02-21</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1973-02-21">Mittwoch, 21. Februar 1973</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-10-27">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band14/">
+      <body>
+         <pb n="14-0215" facs="14_1973-02-21_0215.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Mittwoch, 21. Feber 1973</p><p xml:space="preserve">Gestern wurde von mir die Fachmesse "Austro Shop" in Wels er<lb break="no"/>öffnet. Es war dies die 2. Vor zwei Jahren, 1971 hatte ifh die<lb/>
+erste Eröffnung durchgeführt und durch die Anwesenheit in Wels<lb/>
+mir die Sympathien der Welser Genossen in der Gemeinde, aber auch<lb/>
+bei der Messe erworben. Mein Vorredner, Landeshauptmann <name type="person" ref="per:98068">Wenzl</name>,<lb/>
+der immer frei spricht und sich nie ans Konzept hält, hat dies<lb break="no"/>mals leider nicht versucht die Bundesregierung oder gar mich mit<lb/>
+irgendwelchen Wünschen zu attackieren. Im Gegenteil, er sprich<lb/>
+besonders heraus, daß meine Anwesenheit dokumentiert, wie sehr<lb/>
+ich mich für die Welser Messe einsetze. Präsident der Messe, Komm<lb/>
+Rat <name type="person" ref="per:147722">Pammer</name>, ein ÖVP-Unternehmer, hatte sogar bei seiner Ansprache<lb/>
+die Gastwirte und Hoteliers aufgefordert, sie sollen endoich mehr<lb/>
+investieren und dafür sorgen, daß die Gäste, die nach Wels kommen,<lb/>
+auch entsprechend untergebracht werden können. Er stellte keiner<lb break="no"/>lei Anforderungen an das Handelsministerium zur Unterstützung<lb/>
+dieser Forderung. Beim Essen erklärte er mir den tieferen Grund.<lb/>
+Er fürchtet, daß Salzburg jetzt doch ein Ausstellungszentrum er<lb break="no"/>richten wird und daß natürlich dann die Besucher in Salzburg<lb/>
+eine besser ausgestattete Hotellerie vorfinden und damit Wels eine<lb/>
+nicht unbedeutende Konkurrenz bekommt.</p><p xml:space="preserve">KR. <name type="person" ref="per:117637">Pappas</name>, dem Vertreter von Mercedes hatte ich ersucht, er solle<lb/>
+mich im Hotel Greif beim Mittagessen anrufen, damit mit ihm die<lb/>
+Mercedes-Preispolitik besprechen kann. Wie ich dann das Hotel<lb/>
+verlassen wollte teilte mir der Portier mit, es müßte jetzt jeden<lb/>
+Augenblick ein Gespräch kommen. Vor 10 Minuten hätte <name type="person" ref="per:117637">Pappas</name> ange<lb break="no"/>rufen, aber er hätte ausgerichtet, daß ich noch bei der Hauptspreise<lb/>
+bin und deshalb glaubte er, sollte ich doch nicht gestört werden.<lb/>
+Da sieht man welch friedliche Verhältnisse noch in Wels herrschen.<lb/>
+Der Minister soll beim Essen nicht gestört werden, ist scheinbar<lb/>
+ihr Motto. <name type="person" ref="per:117637">Pappas</name> selbst setzte mir dann auseinander, daß er außer<lb break="no"/>stande ist, den Termin mit 1. März zu verschieben. Da er bereits mit<lb/>
+1. Jänner die Preiserhöhung vom Mercedes-Werk bei uns in Österreich<lb/>
+<pb n="14-0216" facs="14_1973-02-21_0216.jpg"/>auch einführen sollte. Ich wendete mich daher primär gegen die<lb/>
+beabsichtigte 7%ige Erhöhung, da diese höher liegt als in der<lb/>
+BRD die Mercedes-Preise erhöht werden. Ein weiteres A Rausschieben<lb/>
+ist deshalb sinnlos, weil es nur dazu führt, daß dann der Prozent<lb break="no"/>satz noch weiter erhöht wird. <name type="person" ref="per:117637">Pappas</name> und Mercedes gehen scheinbar<lb/>
+davon aus, daß es primär notwendig ist, im Jahresergebnis die Er<lb break="no"/>höhungen reinzubringen. Je später daher die Inkraftsetzung des<lb/>
+neuen Preises, umso höher wird der Prozentsatz. Jetzt erklärte<lb/>
+<name type="person" ref="per:117637">Pappas</name> daß er moirgen nach Stuttgart fährt und ich erscuhte ihn.<lb/>
+mich gegebenenfalls von dort anzurufen, damit ich gleich mit ihm<lb/>
+die Diskussion weiterführen kann. Vielleicht auch dann mit den<lb/>
+Herren von Mercedes. Auf alle Fälle erklärte ich ihm, daß wir einen<lb/>
+so hohen Prozentsatz nicht akzeptieren können und daß vor allem<lb/>
+Mercedes dann die Preis.leadership übernimmt.</p><p xml:space="preserve">Zur Fraktionsbesprechung mit den Wirtschaftspartnern im Finanz<lb break="no"/>ministerium kam ich später,doch wurde nichts anderes festgelegt,<lb/>
+als daß wir doch die Vorarbeiten für die ERP-Freigabe der Handels<lb break="no"/>kammer konzipieren sollten. Soviel ich nentnehmen konnte der Einzige,<lb/>
+der fraktionellen Gesprächsrunde, der eine weitere starre Haltung<lb/>
+auch in diesem Punkt verlangte. <name type="person" ref="per:97563">Hofstetter</name> und <name type="person" ref="per:97676">Lachs</name> vom ÖGB waren<lb/>
+hier wesentlich flexibler. Ich glaube auch, daß man die ERP-Mittel<lb/>
+keinesfalls durchfallen lassen kann und daher bis 30. Juni auf ale<lb/>
+Fälle die entsprechenden Anträge vorbereitet sein sollen, damit<lb/>
+dies Ausfinanzierung erfolgt. In Wirklichkeit werden ja die ent<lb break="no"/>sprechenden Projekte von den Unternehmern infolge ihrer langfristigen<lb/>
+Investitionsplanung sicherlich bereits durchgeführt oder zumindestens<lb/>
+in Angriff genommen und es handelt sich, wenn die ERP-Mittel nicht<lb/>
+freigegeben werden, eigentlich nur um eine Kostenvertreuerung der<lb/>
+Kredite.</p><p xml:space="preserve">Bei der Wirtschaftspartneraussprache hat <name type="person" ref="per:97937">Seidel</name> vom Institut berichtet<lb/>
+über die letzten jetzt vorliegenden Dezemberziffern. Hier handelt<lb/>
+es sich umexabitante Steigerungen sowohl des Exportes als auch der<lb/>
+inländischen Nachfrage. Die Einzelhandelsumsätze sind nominell um<lb/>
+11,5 % im Dezember gestiegen und die dauerhaften Konsumgüter sogar<lb/>
+um 22 %. Der Großhandel hat eine 14%ige Steigerung zu verzeichnen.<lb/>
+Der Export hat im Dezember 47 % zugenommen. Die Fertigwarenexporte<lb/>
+<pb n="14-0217" facs="14_1973-02-21_0217.jpg"/>sogar mit 60 %. Hier handelt es sichallerdings um einen untypischen<lb/>
+Monat, da ja die Exportvergütung Ende des Jahres abgelaufen ist und<lb/>
+deshalb natürlich alle Unternehmungen so viel wie möglich Export<lb break="no"/>vergütung erlangen wollten. Importe haben um 31 % zugenommen, insbe<lb break="no"/>sondere PKW und Maschinen, aber auch Elektrogeräte und sonstige<lb/>
+dauerhafte Konsumgüter. Die Spareinlagen wurden im Dezember mit<lb/>
+1,850,000.000,-- geringer, gegenüber 1971, wo die mindere Einlage<lb/>
+nur 500 Mio S betrug. Die Kreditexpansion war weiterhin irrsinnig<lb/>
+hoch, nämlich + 8,6 Milliarden S. Damit ist im Jahresdurchschnitt<lb/>
+die Kreditexpanisonsrate 21 % geworden. Industrieproduktion, die<lb/>
+angeblich um 30 % im Dezember höher gewesen sein soll, wird noch<lb/>
+zwischen Wirtschaftsforschungsinstitut und Statistischen Zentralamt<lb/>
+abgestimmt, da angeblich eine solche Rate unmöglich sein soll.</p><p xml:space="preserve">Auf Grund dieser Information konnte natürlich auch die Handelskammer<lb/>
+nichts anderes sagen als daß sie jetzt für das Jahr 1973 gewisse<lb/>
+Kreditrestriktion-erleichterungen erwartet. Insbesondere für die<lb/>
+Importfinanzierung und für Investitionen sollte auch für das Klein<lb break="no"/>gewerbe, Fremdenverkehr und für den Export eine entsprechende Er<lb break="no"/>leichterung gewährt werden. Von Seiten ERP verlangte <name type="person" ref="per:97769">Mussil</name> für die<lb/>
+Rationalisierung, Forschung und Entwicklung und für Umstrukturierung<lb/>
+im Zuge des europäischen Wirtschaftsmarktes entsprechende sofortige<lb/>
+Freigabe der Kredite. Er bedankte sich bei <name type="person" ref="per:97311">Androsch</name>, der die Export<lb break="no"/>fondsgrenze von 1,5 Mio S auf 2 Mio S wieder erhöht hat. Von der<lb/>
+BÜRGES erwartet er die Zustimmung des Finanzministers, daß die seiner<lb break="no"/>zeitige verfügte, den Richtlinien entsprechende Restriktion der<lb/>
+Zinsenzuschußaktion nur auf Ansuchen, wo die bankmäßige Haftung<lb/>
+nicht vorliegt, geändert wird. Er möchte, daß aus der BÜRGES, wie<lb/>
+sie jetzt momentan wieder ist, wird wie untermeinen Vorgängern.<lb/>
+Dies bedeutet aber eine wesentliche Erhöhung der Zinsenzuschußbe<lb break="no"/>träge, die derzeit im Budget bei mir nicht vorhanden sind und von<lb/>
+denen ich nicht annehme, daß sie der Finanzminister tatsächlich<lb/>
+geben wird. Ich mußte die Sitzung vorzeitig verlassen, daß ich zur<lb/>
+Eröffnung des internationalen Industrieplanungsinstitutes die "Fabrik<lb/>
+der Zukunft" gehen mußte. <name type="person" ref="per:97469">Gehart</name> hat mir bei dieser Gelegenheit gleich<lb/>
+mitgeteilt, daß er über die gestrige Aussprache wegen der Reorgani<lb break="no"/>sation der Grundsatzgruppe sehr erstaunt und erschüttert war. Er<lb/>
+<pb n="14-0218" facs="14_1973-02-21_0218.jpg"/>steht auf dem Standpunkt, es müßte gelingen, daß wir eine Lösung<lb/>
+der Bestellung von <name type="person" ref="per:98053">Wanke</name> als Leiter der Grundsatzgruppe erreichen,<lb/>
+ohne daß für SektRat <name type="person" ref="per:112956">Schwarz</name> eine Überordnung über ihn als Ab<lb break="no"/>teilungsleiter erfolgt. <name type="person" ref="per:97469">Gehart</name> hat in einem Punkt Recht, daß wir<lb/>
+durch die Dienstpragmatik bedingt, scheinbar in diesem Falle aber<lb/>
+leider nicht scheinbar, Zugeständnisse machen müssen, die wir na<lb break="no"/>türlich lieber anders konstruieren würden. Vielleicht war es ein<lb/>
+Fehler, daß wir die Überlegungen angestellt haben, ohne daß <name type="person" ref="per:97469">Gehart</name><lb/>
+etwas davon gewußt hat. Andererseits wieder muß das Fernziel nämlich<lb/>
+ohne mit der Personalvertretung in einen Konflik zu kommen und vor<lb break="no"/>allem die Zustimmung des Präsidiums zu erhalten, d.h. sogar den Vor<lb break="no"/>schlag aktenmäßig vom Präsidium zu bekommen, auch auf unserer Seite<lb/>
+gewisse Zugeständnisse gemacht werden. Ich habe nie geglaubt, daß<lb/>
+es so große Schwierigkeiten in der Personalfrage auch bei uns geben<lb/>
+kann und wird. Wenn man auch Wünsche von <name type="person" ref="per:97469">Gehart</name> berücksichtigen soll<lb/>
+und in den letzten Jahren haben wir dies weitestgehendst getan, darf<lb/>
+man doch nicht das große Ziel aus dem Auge verlieren. Natürlich wräe<lb/>
+uns viel lieber eine Lösung zu finden, die alle unsere Genossen be<lb break="no"/>friedigt. Wir sind, wie <name type="person" ref="per:98053">Wanke</name> sich richtig ausdrückt, eine belagerte<lb/>
+Festung von unseren Gegnern, die mit der entsprechenden Personal<lb break="no"/>politik die glaube ich wirklich bis jetzt sehr erfolgreich gewesen<lb/>
+ist, ununterbrochen dagegen anstürmen. Wenn wir daher jetzt unter<lb break="no"/>einander nicht nur das vollste Vertrauen haben sondern vielleicht<lb/>
+gar unsere weitgesteckten Pläne und Ziele außer Acht lassen s oder<lb/>
+vielleicht gar sabotieren, dann muß es dazu führen, daß der Gegener<lb/>
+endlich den Triumpf hätte, den er durch drei Jahre jetzt vollkommen<lb/>
+vermissen mußte. Ich glaube, daß wir jedes Prestigedenken in diesem<lb/>
+Falle zurückstecken müssen, Von jeder Seite.</p><p xml:space="preserve">Eröffnung des Seminars war eine ausgesprochene Pleite meinerseits.<lb/>
+Der Saal war bummvoll, die Gesellschaft ist im Stande, immer be<lb break="no"/>deutendere Leute zu diesen Veranstaltungen zu bringen. So sehr ich<lb/>
+mich in der Eröffnung der Messe, wo ich auch einige glaube ich neue<lb/>
+Gedanken gebracht habe, auch ohne Konzept helfen konnte, so sehr<lb/>
+bin ich dann bei der Eröffnung der Fabrik der Zukunft geschwommen.</p><pb n="14-0219" facs="14_1973-02-21_0219.jpg"/><p xml:space="preserve">Wenn ich eine Materie nicht beherrsche, helfen mir auch die<lb/>
+besten Stichworte nichts. Eine Stichwortrededisposition soll<lb/>
+nämlich nur dazu dienen, daß ich nichts vergesse. Das Problem<lb/>
+muß ich aber bereits erfaßt haben.</p><p xml:space="preserve">Anmerkung für KONGRESSERÖFFNUNGEN aber auch für alle anderen,<lb/>
+wo ich mit neuen Materien konfrontiert werde, muß ich mir vor<lb break="no"/>her einige Tage unbedingt die Zeit nehmen, eine Aussprache mit<lb/>
+den Kollegen zu führen. Ich bin überzeugt, daß <name type="person" ref="per:97493">Gröger</name>, <name type="person" ref="per:98053">Wanke</name>,<lb/>
+<name type="person" ref="per:97646">Koppe</name> und vielleicht noch andere ganz gute Ideen zu dem zur<lb/>
+Diskussion stehenden Projekt haben, die ich eben zuerst mir er<lb break="no"/>arbeiten muß, bevor ich auch nur eine nichtssagende Eröffnungsan<lb break="no"/>sprache halte. Wahrscheinlich lege ich hier einen zu harten Maß<lb break="no"/>stab an mich selbst an. Da ich derzeit aber wenig Möglichkeiten<lb/>
+habe in der Öffentlichkeit in Erscheinung zu treten, wird sicher<lb break="no"/>lich jede dieser blöden Eröffnungen registriert und trägt dazu<lb/>
+bei, na der hat wieder etwas nichtssagendes dahergesprochen.</p><p xml:space="preserve">Wesentlich besser ging es mir natürlich dann bei der Jahresver<lb break="no"/>sammlung in meiner Wohnsektion. Hier war n ich nicht nur unter<lb/>
+Genossen, sondern habe auch über Probleme referiert, die ich<lb/>
+beherrsche und konnte deshalb sicherlich auch die Genossen da<lb break="no"/>von überzeugen. Aufgelockert durch einige zwar alte Schmäh habe<lb/>
+ich immer wieder das Gefühl, daß dies eigentlich meine Stärke<lb/>
+aber auch gleichzeitig Heimat ist. In Gewerkschafts, in Partei<lb break="no"/>kreisen mit dem kleinen Vertrauensmann diskutieren, da gibt es<lb/>
+für mich keine Schwierigkeiten. Die riesig lang dahin ziehende<lb/>
+Diskussion hat mir bestätigt, daß ernste Probleme für die Genossen<lb/>
+noch immer ausschlaggebend sind. In der großen Sache vertrauen sie<lb/>
+so auf die Führung, daß sie sowieso scheinbar automatisch mit ihr<lb/>
+übereinstimmen.</p></div>
+      </body>
+      <back>
+         <pb n="14_0214_05" facs="14_1973-02-21_0214-05.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 21.2.1973</head>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+   </text>
+</TEI>

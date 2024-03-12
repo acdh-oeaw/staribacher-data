@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstag, der  2. Juni 1970</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band02_1970-06-02</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1970-06-02">Dienstag, 2. Juni 1970</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-04-19">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-19" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+  <text xml:base="http://192.168.0.9/staribacher/src/scans/Band02/">
+      <body>
+         <pb n="02-0205" facs="02_1970-06-02_0205.jpg"/>
+         <div type="entry">
+            <dateline>
+               <date when="1970-06-02">Dienstag 2.6.</date>
+            </dateline>
+            <p xml:space="preserve">Besprechung mit Schweizer Botschafter <name type="person">Weitenauer</name>, Botschaftsrat<lb/>
+<name type="person" ref="per:148069">Zimmermann</name> und Sekt.Chef <name type="person" ref="per:97867">Reiterer</name> und Min.Rat <name type="person" ref="per:108322">Meisl</name>. Der Schweizer<lb/>
+Botschafter erörterte, dass er sich sowohl in der Frage der Inte<lb break="no"/>gration als auch der Investorenpolitik mit <name type="person" ref="per:97749">Mitterer</name>, meinem Vor<lb break="no"/>gänger sehr gut gesprochenhätte. Er allerdings würde es sehr<lb/>
+begrüssen, wenn in der Integrationsfrage eine Systematisierung<lb/>
+Platz greifen würde. Im weiteren Gespräch ergab sich dann daraus,<lb/>
+dass er sich vorstellen würde, dass die Zusammenarbeit doch in<lb/>
+den Details zwischen der Schweiz und Österreich bei Integrations<lb break="no"/>fragen Platz greifen sollte. Ihm selbst ist vorgeschwebt, dass<lb/>
+z.B. wie das bei der letzten GATT-Sitzung der Fall war, wo die<lb/>
+VAR Beitrittserklärungen abgegeben hatte, dass Schweiz und Öster<lb break="no"/>reich eine gemeinsame gleichlautende Erklärung dazu abgab. Im<lb/>
+schwebte weiter vor, dass so wie in der Kennedy-Runde die nordischen<lb/>
+Staaten eine einzige Sprecher nominiert haben, vielleich also<lb/>
+auch Österreich und die Schweiz gemeinsam bei Integrationfragen<lb/>
+auftreten könnten. Er verwies insbesondere auf die rührige Ar<lb break="no"/>beit des derzeitigen Botschafters <name type="person" ref="per:97350">Bielka</name> in Bern. Seiner Meinung<lb/>
+nach - nach Meinung <name type="person">Weitenauer</name> – sei die Schweiz der einzige<lb/>
+Alliierte mit Österreich und beide müssten sich eng verbünden.<lb/>
+Die Integrationspolitik der beiden Länder müsste doch in der<lb/>
+Bekräfitung der Neutralität enden. Ein Beitritt zur EWG käme<lb/>
+für die beiden Staaten nicht in Frage. Auch eine Zollunion<lb/>
+sie unakzeptabel, da die Trade Making Power oder wie er sie<lb/>
+bezeichnen würde, die Autonomie der Handelspolitik nicht auf<lb/>
+einen Beamten der EWG übertragen werden könnte. Dies würde den<lb/>
+Interessen der Schweiz unter allen Umständen widersprechen und<lb/>
+sei deshalb unakzeptabel, so bliebe nur die Frage, wie weit durch<lb/>
+Präferenzebkommen die Schweiz und Österreich sich absichern könnten.<lb/>
+Seiner Meinung nach wäre das idealste, wenn die Schweiz mit der<lb/>
+EWG so wie Österreich oder vielleicht gar die ganzen restlichen<lb/>
+EFTA-Länder eine Freihandelszone bilden könnten. Er selbst könnte<lb/>
+nicht verstehen, wieso Österreich so drängt, mit der EWG zu<lb/>
+einem Arrangement zu kommen. Ob das eine Frage der Wirtschaft sei,<lb/>
+denn er könnte in der Schweiz nur feststellen, dass die Schweizer<lb/>
+Wirtschaft überhaupt nicht daran interessiert sei und erst aufge<lb break="no"/>klärt werden müsste. Ein Schweizer konservatives Verhalten müsste<lb/>
+<pb n="02-0206" facs="02_1970-06-02_0206.jpg"/>dabei berücksichtigt werden, da die Vereinbarungen mit der EWG<lb/>
+auf alle Fälle dem Volk zur Abstimmung vorgelegt werden. Er<lb/>
+meinte, es müsste auf alle Fälle auch in Österreich nochmals<lb/>
+überlegt werden, ob ein Rennen in der EWG zweckmässig wäre.<lb/>
+Ich stellte dazu fest, dass im Prinzip sowohl der Bundeskanzler<lb/>
+als auch der Aussenminister und auch ich persönlich stets dafür<lb/>
+eingetreten sind, dass die Neutralität Österreichs über jedwede<lb/>
+wirtschaftliche Gesichtspunkte gestellt werden muss und gestellt<lb/>
+wird. Er war über diese Zusage sehr erfreut. Ich erklärte, weiters,<lb/>
+dass ich nicht glaube, dass jetzt - obwohl wir uns sehr bemühen -<lb/>
+in kurzer Zeit ein Abschluss zwischen Österreich und der EWG<lb/>
+zu erreichen ist. Ich wies weiters darauf hin, dass der Aussen<lb break="no"/>minister ja bereits bei der Tagung der EFTA in Genf mit dem<lb/>
+Schweizer Kollegen über dieses Problem sehr eingehend gesprochen<lb/>
+hatte und der Aussenminister hier die einhellige Meinung der<lb/>
+österreichischen Bundesregierung vertreten hat. Was das gemeinsame<lb/>
+Vorgehen der Schweiz und Österreich betrifft, erwiderte ich,<lb/>
+dass ja der Bundeskanzler traditionsgemäss mit dem Aussenminister<lb/>
+in der nächsten Zeit in die Schweiz als erste Auslandsreise kommen<lb/>
+wird und sich dort sicher die Möglichkeit ergeben wird, über Details<lb/>
+zu sprechen. Ich war in einem einzeige Punkt mit dem Schweizer<lb/>
+Botschafter nicht einer Meinung, er wollte, dass wenn Österreich<lb/>
+und die Schweiz erst nach den Beitrittsverhandlungen Englands und<lb/>
+den anderen Staaten zur EWG zur Verhandlungen kommen wird, einen<lb/>
+Vorteil darin sehen, dass dann die EWG leichter mit uns verhandeln<lb/>
+würde, weil dann keinerlei Präzedenzfälle damit mehr verbunden<lb/>
+sind. Ich sagte, die EWG wird es immer wieder andere Länder geben,<lb/>
+die sich um Sondervereinbarungen bemühen und sie natürlich auch<lb/>
+wenn sie Österreich und der Schweiz besonderes Zugeständnisse<lb/>
+machen wird, dies als Präzedenzfälle für andere Staaten betrachten.<lb/>
+Wird. Ich versuchte, ihm dadurch zu erklären, dass Österreich<lb/>
+schon allein um die Kontinuität zu wahren, nach wie vor drängen<lb/>
+wird, dass spezielle Verhandlungen jetzt doch noch mit Österreich<lb/>
+gewührt werden. Der Schweizer Botschafter hatte dann noch einen<lb/>
+speziellen Wunsch bezüglich Käse-Abschöpfung und zwar handelt es<lb/>
+sich darum, dass die Vorarlberger in die Schweiz um 4 Franken<lb/>
+exportiert hatten und dann eine Vereinbarung mit <name type="person" ref="per:97851">Pultar</name> über diesen<lb/>
+Punkt zustandekam, dass in Zukunft hier nicht mehr Unterbietungen<lb/>
+stattfinden werden, sondern die Beträge, die da abgeschöpft wer<lb break="no"/>den nach Wien zentral abgeführt werden.</p>
+            <pb n="02-0207" facs="02_1970-06-02_0207.jpg"/>
+            <p xml:space="preserve">Sekt.Chef <name type="person" ref="per:97867">Reiterer</name> sagte mir nach der Sitzung, dass die<lb/>
+Vorgangsweise der Schweizer äusserst ungewöhnlich ist,<lb/>
+<name type="person">Weitenauer</name> sei ein sehr tüchtiger, aber bis jetzt sehr unzu<lb break="no"/>gänglicher Mann gewesen und es sei deshalb das erst Mal, dass<lb/>
+er erlebt hätte, dass ein Schweizer Botschafter mehr oder minder<lb/>
+um die Unterstützurg Österreichs in ihrer Politik angesucht hatte.<lb/>
+Ich selbst, der ich doch als EFTA-Partisane gelte, hatte deshalb<lb/>
+darauf hingewisen, dass sich Österreich nach wie vor bemühen<lb/>
+muss, um mit der EWG zu einem Sonderarrangement zu kommen, weil<lb/>
+wir glaube ich politisch die Kontinuität aufrechterhalten müssen,<lb/>
+d.h., dass uns die ÖVP nicht vorwerfen kann, wir haben sofort<lb/>
+einen Kurswechsel vorgenommen und die Bemühungen mit der EWG<lb/>
+ein Arrangement zu erhalten, abgebrochen. Ich glaube, wir müssen<lb/>
+allein aus innerpolitischen Gründen alles daran setzen, die Ver<lb break="no"/>handlungen mit der EWG weiter fortzuführen, obwohl ich davon über<lb break="no"/>zeugt bin, dass es uns nicht gelingen wird, die Staaten davon<lb/>
+zu überzeugen, insbesondere Frankreich, dass ein Sonderarrangement<lb/>
+jetzt und unverzüglich in Angriff genommen werden sollte. Ich<lb/>
+stimme bei allem Vorbehalt, den man der Schweizer Politik ent<lb break="no"/>gegenbringen muss denn die Schweizer werden immer ihre Wehr<lb break="no"/>politik oder ihre Aussenhandelspolitik, ihre Integrationspolitik<lb/>
+primär nach ihren schweizerischen Interessen ausrichten, doch<lb/>
+dem Verlangen des Botschafters <name type="person">Weitenauer</name> zu, dass wir uns bemühen<lb/>
+sollten als beiden neutralen Staaten hier gemeinsam weitest<lb break="no"/>gehend vorzugehen. Ich könnte mir sehr gut vorstellen, dass im<lb/>
+Rahmen der jährlich zweimal stattfindenden Besprechungen zwischen<lb/>
+der Schweiz und Österreich diese Detailarbeit und Detailbespre<lb break="no"/>chungen sowohl in Bern als auch in Wien aufgenommen werden.</p>
+            <p xml:space="preserve">ANMERKUNG: Bitte, diese Aktennotiz für <name type="person" ref="per:97668">Kreisky</name> und Aussenminister<lb/>
+<name type="person" ref="per:97632">Kirchschläger</name> bereitstellen !</p>
+            <p xml:space="preserve">Nach tagelangem Bemühen ist es mir endlich gelungen, Kontakt<lb/>
+mit Generaldirektor <name type="person" ref="per:141619">Seiffert</name> von der Unilever herzustellen. Er<lb/>
+bestätigte, dass die Unilever beabsichtigt, nachdem sie 16 Jahre<lb/>
+den Thea-Preis und 13 Jahre den Rama-Preis unverändert gelassen<lb/>
+hat, mit 1. Juli diese Preise mit 30 Groschen, das wären 6,3 %,<lb/>
+zu erhöhen. Er könnte sich vorstellen, dass wir im Herbst die<lb/>
+Umsatzsteuer von 5,5 auf 1,7 %, wie er bis vor einigen Jahren be<lb break="no"/>standen hat, absenken und er würde sofort die entsprechende Preis-<lb/>
+<pb n="02-0208" facs="02_1970-06-02_0208.jpg"/>erhöhung rückgängig machen. Ich verlangte von ihm die Unterlagen,<lb/>
+und er sagte mir, es würde der Generaldirektor von Kunerol<lb/>
+<name type="person" ref="per:97936">Seefranz</name> sich mit mir, wenn er vom Ausland zurückkomt, sofort<lb/>
+ins Einvernehmen setzen. Ich halte eine solche Vorgangsweise,<lb/>
+dass zuerst der Preis erhöht wird und anschliessend daran die<lb/>
+Steuern gesenkt werden, zurückgeführt wird, für unmöglich. Ich<lb/>
+schlage deshalb vor, wir sollten der Unilever die Chance geben,<lb/>
+dass die Umsatzsteuer jetzt gesenkt werden kann. Ausserdem würden<lb/>
+wir dadurch die ÖVP im Parlament vor eine ungeheure Entscheidung<lb/>
+stellen. Wenn sie nämlich, was zu erwarten ist, wegen der Bauern<lb/>
+die Umsatzsteuersenkung ablehnt, dann können wir erklären, dass<lb/>
+sie für die Margarinepreiserhöhung verantwortlich ist. Senkt sie<lb/>
+dagegen die Umsatzsteuer, wie sie bis vo etlichen Jahren noch mit<lb/>
+1,7 % gewesen ist, dann bedeutet das, dass wir eine Margarineverteu<lb break="no"/>erung verhindern können. Ich glaube deshalb, es müsste der Fi<lb break="no"/>nanzminister unverzüglich einen solchen Gesetzentwurf, der im<lb/>
+Rahmen der preisstabilisierenden Massnahmen ja auch vom Innen<lb break="no"/>ministerium gefordert wurde, einbringen. Bei dieser Gelegenheit<lb/>
+könnten wir auch gleichzeitig die Umsatzsteuersenkung für Braunkohle<lb/>
+einreichen. Auf Grund des Bergbauförderungsgesetzes stehen uns<lb/>
+heuer für die Stützung der Kohle 40,750.000 S zur Verfügung. Die<lb/>
+Anträge aber lauten auf 124,900.000 S. Da wir auch in Zukunft<lb/>
+kaum die notwendigen Mittel werden bereitstellen können, wäre<lb/>
+es zu überlegen, ob man nicht die Umsatzsteuer von derzeit 5,5 %<lb/>
+auf 1,7 % absenkt, wo wie es die Landwirtschaft als Urproduktion<lb/>
+hat. Dadurch würden sich die GKB ca. 18 Mio, die SAGOK 3 Mio und<lb/>
+GDK 4 Mio 8 Umsatzsteuer ersparen, das macht zusammen einen Be<lb break="no"/>trag von 25 Mio S aus. Der Fachverbandsvertreter, Dr. <name type="person" ref="per:136470">Denk</name>, hat<lb/>
+allerdings gemeint, es seien 35 Mio, aber ich glaube, dass diese<lb/>
+Ziffer nicht stimmt, d.h Überprüfungen in meinem Ressort haben<lb/>
+schon ergeben, dass diese Ziffer als zu hoch zu bezeichnen ist.<lb/>
+Ich schlage deshalb vor, dass wir unverzüglichst diese beiden<lb/>
+Umsatzsteueranträge ins Parlament bringen, um dadurch auf der<lb/>
+einen Seite eine Preisverteuerung und auf der anderen Seite eine<lb/>
+Erleichterung für den Bergbauförderungsfonds erreichen können.</p>
+            <p xml:space="preserve">ANMERKUNG: Bitte, diese Aktennotiz für <name type="person" ref="per:97311">Androsch</name> fertig machen.</p>
+            <pb n="02-0209" facs="02_1970-06-02_0209.jpg"/>
+            <p xml:space="preserve">Bei der Klubtagung am Nachmittag.wurden nur unbedeutende Refe<lb break="no"/>rate gehalten und vor allem auch die Taktik besprochen Interessant<lb/>
+war, dass <name type="person" ref="per:97646">Koppe</name> zwar erwartete, dass auf der Wiener Konferenz<lb/>
+über das Koksproblem diskutiert würde werden, ich habe es in meinem<lb/>
+Referat allerdings gar nicht erwähnt, es kam auch dort überhaupt<lb/>
+nicht zur Sprache, Interessant war aber, dass beim Klub über dieses<lb/>
+Problem, obwohl ich dort überhaupt kein Referat gehalten hatte, durch<lb/>
+Anfragen festzustellen war, dass unsere Genossen sich in den Details<lb/>
+nicht ausgekannt haben. Es wird sehr zweckmässig sein und <name type="person" ref="per:97646">Koppe</name><lb/>
+muss das unverzüglichst vorbereiten, eine diesbezpgliche Information<lb/>
+dem Klub zur Verfügung zu stellen. <name type="person" ref="per:97488">Gratz</name> erörterte sein Schulpro<lb break="no"/>gramm, wobei er darauf hinwies, dass das Verhältnis der berufsbilden<lb break="no"/>den zu den allgemeinbildenden höheren Schulen derzeit 1 : 3 ist<lb/>
+und er unbedingt darauf hindrängen wird, dass berufsbildende Schulen<lb/>
+in den nächsten Monaten und Jahren womöglich vermehrt werden. Sein<lb/>
+ideales Verhältnis wäre 2: 3, denn er steht mit Recht auf dem Stand<lb break="no"/>punkt, dass es ganz sinnlos ist, wenn man in grösserer Menge Matu-<lb break="no"/>ranten produziert, von denen letztlich nur ein Teil,davon gebraucht<lb/>
+wird. Er wird deshalb womöglich nur Oberschulen in der nächsten Zeit<lb/>
+schaffen und dadurch auch schon in der Verwaltung das Schulkonzept<lb/>
+verwegzunehmen. Er wird zwar noch in die Schulreformkommission<lb/>
+gehen, denn er will in engster Zusammenarbeit mit allen Beteiligten<lb/>
+arbeiten, hat aber die feste Absicht, Gesamtschulen für 10- bis 14-<lb/>
+jährige zu errichten, und zwar soll in 10 % Schulversuche im<lb/>
+Jahre 1971 bis 1975 gemacht werden. Seiner Meinung nach und ich<lb/>
+teilte diese Auffassung, kann eine Entwicklung, die einmal eingelei<lb break="no"/>tet ist, dann kaum mehr so leicht rückgängig gemacht werden, Mit<lb/>
+diesen Gesamtschulen sollen aber nicht Einheitsschulen geschaffen<lb/>
+werden, sondern es soll eben nach Begabung und Leistungen in den<lb/>
+Hauptschulen schon versucht werden, eine Auslese durchzusetzen<lb/>
+und in der weiteren Folge dann in den Oberstufen die ebenfalls<lb/>
+vereinfacht werden müssen, denn derzeit sind 12 Formen des Gymna<lb break="no"/>siums üblich, dann ausgewählt werden, wer eigentlich und in<lb/>
+welche Richtung die Begabung des einzelnen Schülers geht. Seiner<lb/>
+Meinung nach wäre es ideal, einen einzigen Gymnasium-Typ zu<lb/>
+schaffen und mit Kern- und Kursfächern dann entsprechende Wahl<lb break="no"/><pb n="02-0210" facs="02_1970-06-02_0210.jpg"/>möglichkeiten dem Schüler zu geben. Um über die Schwierigkeit des<lb/>
+neunten Schuljahres hinwegzukommen könnte er sich vorstellen, dass<lb/>
+man auch nach vier Jahren, wenn man die Lern- und Kursfächer ent<lb break="no"/>sprechend belegt,und auch entsprechende Prüfungen abgelegt hat<lb/>
+schon zur Matura antreten kann. Es wäre dann ein neunjähriges Schul<lb break="no"/>system aber mit der Möglichkeit, dass wenn jemand die materiellen<lb/>
+Voraussetzungen mitbringt und prüfungsmässig besteht, schon nach<lb/>
+acht Jahren maturieren kann. Bezüglich des neuen Ministeriums für<lb/>
+Wissenschaft und Forschung über das <name type="person" ref="per:97442">Firnberg</name> referierte, ergab sich<lb/>
+eine kurze Diskussion, das <name type="person">Luptuwicz</name> auf dem Standpunkt gestanden<lb/>
+ist, die Forschung sei Wisschaft und man hätte das eigentlich gar<lb/>
+nicht besonders herausstreichen müssen. Ich musste mich bei der Ge<lb break="no"/>legenheit zu Wort melden, um darauf hinzuweisen, dass wenn man die<lb/>
+Forschung in die Wissenschaft schon in den Namen integriert hätte<lb/>
+ist eine grosse Ablehnung oder eine noch grössere Ablehnung von Seiten<lb/>
+der Industrie und des Gewerbes da gegeben hätte. Ich halte deshalb<lb/>
+die Trennung zwischen Wissenschaft und Forschung für sehr wichtig,<lb/>
+weil auch die beiden Fonds ja erhalten bleiben sollen und auch<lb/>
+erhalten bleiben werden. Nachdem die Verhandlungen mit der FPÖ ja<lb/>
+bis jetzt schon gezeigt haben, dass unsere Taktik richtig war,<lb/>
+dass wenn wir auch den Forschungsförderungsfonds jetzt scheinbar<lb/>
+dem Ministerium für Wissenschaft und Forschung übertragen, ja<lb/>
+letzten Endes doch im Handelsressort bleiben wird, weil das es der<lb/>
+ÖVP erschweren wird, dagegen zustimmen, vor allem einmal es der<lb/>
+Freiheitlichen Partei ermöglichen wird, dafür zu sein, dass dieses<lb/>
+Ministerium geschaffen wird. Für die SPÖ erklärte <name type="person" ref="per:97668">Kreisky</name> wäre das<lb/>
+ein sehr schwerer Schlag, wenn es zu diesem kleinen Kompetenzgesetz<lb/>
+nicht kommen würde, da gerade das eine Prestigefrage auch für die<lb/>
+neue Bundesregierung ist. Seiner Meinung nach könnte alle Zugeständnisse<lb/>
+im Gesetzentwurf gemacht werden nur eine Trennung zwischen Forschung<lb/>
+und Lehre, d.h. dass also die Hochschulsektionen nicht in dieses<lb/>
+Ministerium kämen, sei seiner Meinung nach unmöglich. Bezüglich<lb/>
+des grossen Kompetenzgesetzes kamen wir überein, dass <name type="person">Vak</name>, von<lb/>
+dem ich höre, dass er mit seiner Arbeitsgruppe jetzt schon ziemlich<lb/>
+fertig ist, einen Vorschlag ausarbeiten wird, den wir dann in der<lb/>
+Regierung besprechen könnten und wo dann mit der ÖVP im Parlament<lb/>
+darüber zu verhandeln sein wird. Wenn dieser Vorschlag"administrative<lb/>
+Vernunft" ausstrahlt, dann wird es der Österreichischen Volkspartei<lb/>
+schwer fallen, hier dagegen zustimmen, obwohl ich fest davon überzeugt<lb/>
+bin, dass das grosse Kompetenzgesetz sicherlich von ihr und von der<lb/>
+<pb n="02-0211" facs="02_1970-06-02_0211.jpg"/>kaum wird akzeptiert werden. Aber wir haben dann als Regierung<lb/>
+dargelegt, dass wir einen Vorschlag vorlegen konnten, der so gut<lb/>
+ist, dass mit sachlichen Argumenten kaum etwas dagegen einzuwenden<lb/>
+ist und dass es vor allem uns in der Regierung geglückt ist,<lb/>
+die Interessengegensätze, die die Österreichische Volkspartei<lb/>
+in den vergangenen vier Jahren gehabt hat und die letzen Endes<lb/>
+auch dazu geführt haben, dass der Entwurf von <name type="person">Klaus</name> nicht einmal<lb/>
+in der Regierung verabschiedet werden konnte, von uns überwunden<lb/>
+sind.</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="02_0211_01" facs="02_1970-06-02_0211-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesordnung 7. Ministerratssitzung, 2.6.1970</head>
+            <gap reason="sampling"/>
+            <pb n="02_0211_02" facs="02_1970-06-02_0211-02.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="02_0211_03" facs="02_1970-06-02_0211-03.jpg"/>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="02_0211_04" facs="02_1970-06-02_0211-04.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>hs. Notizen (Rückseite MR-TO)</head>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+  </text>
+</TEI>

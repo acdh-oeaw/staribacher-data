@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittwoch, der  6. Februar 1974</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band19_1974-02-06</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1974-02-06">Mittwoch, 6. Februar 1974</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-11-10">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band19/">
+      <body>
+         <pb n="19-0182" facs="19_1974-02-06_0182.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Mittwoch, 6. Feber 1974</p><p xml:space="preserve">Ein Tag Parlamentssitzung ist eigentlich auf der einen Seite<lb/>
+sehr anstrengend und auf der anderen SEite eigentlich gar nicht<lb/>
+sehr ergiebig. In der Fragestunde hat sowohl die FPÖ als auch<lb/>
+die ÖVP natürlich die Treibstoffsituation genützt, um mich<lb/>
+anzugreifen. Wertvolle Bemerkungen lieferte nur der Sprecher für<lb/>
+Energiefragen Dr. <name type="person" ref="per:111410">König</name>, indem er Klarhiet wollte, wann die<lb/>
+Mineralölpreise endgültig fixiert sein werden, damit dei Versorgung<lb/>
+Österreichs aus Importen sichergestellt ist. Die Intervention der<lb/>
+Ölgesellschaft war gestern also erfolgreich. Allerdings geht diese<lb/>
+Taktik auch nicht auf. In der Früh hat mich <name type="person" ref="per:97769">Mussil</name> angerufen<lb/>
+und ersucht, ich sollte ihm und den Ölgesellschaften einen Termin<lb/>
+wegen der Preiserhöhungen geben. <name type="person" ref="per:97479">Karl Graber</name> hat aber in der<lb/>
+Presse gerade jetzt veröffentlicht, dass de Multinationalen bei<lb/>
+den jetzigen Preisen durchkommen und sogar einen Profit bei ge<lb break="no"/>wissen Produkten einstreifen. Nur die ÖMV sei in einer schlechten<lb/>
+finanziellen Situation und deshalb müssten die Preise erhöht wer<lb break="no"/>den <name type="person" ref="per:97769">Mussil</name> bezeichnete den Artikel als falsch, die Ölgesellschaf<lb break="no"/>ten werden sich aber über die Taktik nicht sehr freuen. Natürölich<lb/>
+schwenkt jetzt die ÖVP ausschliesslich auf die Besteuerung über.<lb/>
+Bei einer Bemerkugn <name type="person" ref="per:112589">Zeillingers</name> zu meiner Aussage, dass ich die Zif<lb break="no"/>fern von den Mineralölgesellschaften habe, hoffentlich sind sie<lb/>
+nicht wie die italienischen, hat auch die ÖVP beifällig gelächelt<lb/>
+Ich werde dieses Verhalten bei den nächsten Preisbesprechungen<lb/>
+mit den Internationalen sehr gut gebrauchen können. <name type="person" ref="per:97769">Mussil</name><lb/>
+behauptet, dass die Ölgesellschaften keine Möglichkeit hätte,<lb/>
+selbst wenn ich 6 Monate nicht entscheide, ein solches VErhalten<lb/>
+beim Verwaltungsgerichtshof anzufechten. Seiner Auffassung nach<lb/>
+handelt es sich hier um eine Verordnung und es gibt daher<lb/>
+keine Möglichkeit die Unternehmen wegen Nichtentscheidung innerhalb<lb/>
+6 Monaten den Verwaltungsgerichtshof anzurufen.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name>: Bitte lass die rechtliche Sitaution prüfen.</p><p xml:space="preserve">Die Vertreter der Fa. MIBA, Ing. <name type="person" ref="per:147376">Mitterbauer</name> mit drei Herren, einer<lb/>
+davon war allerdings kein Firmenangehöriger, ist kenne aber seinen<lb/>
+Namen nicht, entschuldigten sihc bei mir, dass eine Intervention<lb/>
+wonach sie in Rumänien hätten Kugellager-Automaten liefern sollen,<lb/>
+daneben ging, nicht auf ihr Verschulden zurückzuführen sei. Sie<lb/>
+<pb n="19-0183" facs="19_1974-02-06_0183.jpg"/>wurden von rumänischer Seite gegenüber einer amerikanischen Kleinen<lb/>
+Firma, die ihrer Meinung nach ausserstande ist, die notwendigen<lb/>
+Produkte wirklich zu liefern zurückgestellt. Da nur aber eine<lb/>
+deutsche Firma und die Fa. MIBA von der MAN-Lastkraftwagenproduktion<lb/>
+als Erstausstatter für die Kugellager-Erzeugung zugelassen ist, glau<lb break="no"/>ben sie, dass hier nur durch unrechtmässige Vorgangsweise in Rumänien<lb/>
+sie mit ihrem Projekt, ich welches sie bereits 1 Mill. S Entwicklungs<lb break="no"/>kosten gesteckt haben, umgefallen sind. Sie ersuchten mich,ich sollte<lb/>
+bei der nächsten Gelegenheit der rum.-österr. Gemischten Kommission<lb/>
+eine diesbezügliche Intervention vorbringen. Angeblich hat man ihnen<lb/>
+von Seiten des rum. Aussenhandelsministeriums versprochen, die tech<lb break="no"/>nischen Offerte würden mir zur Verfügung gestellt werden.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97377">BUKOWSKI</name>: Bitte für die nächsten rum.-österr. Gemischte<lb/>
+Kommission von Seiten des Ministeriums – <name type="person" ref="per:97426">Fälbl</name><lb/>
+oder <name type="person" ref="per:98109">Zembsch</name> – vormerken lassen.</p><p xml:space="preserve"><name type="person" ref="per:97584">Jagoda</name> und <name type="person" ref="per:111722">Kinscher</name> beabsichtigen, bei der nächsten Rechtsreferen<lb break="no"/>tenbesprechung wegen Einführung der Gewerbeordnung die österr. damit<lb/>
+beschäftigten Beamten in den Landesregierungen nach Wien Sachsengang<lb/>
+einzuladen. Ich sollte dafür die Zustimmung geben und gleichzeitig<lb/>
+ein Mittagessen spendieren. Da die Teilnehmer ihre eigenen Nächtigungs<lb break="no"/>kosten bezahlen müssen und ich vor allem einmal von der Richtigkeit<lb/>
+dieser Art der INformation überzeugt bin, habe ich natürlich sofort zu<lb break="no"/>gestimmt. Ich werde sogar die Eröffnung vornehmen.</p><p xml:space="preserve"><name type="person" ref="per:97584">Jagoda</name> sieht grosse Schwierigkeiten in der Umwandlung der Bürges<lb/>
+Zinsenzuschussaktion in eine Prämienaktion ähnlich wie sie die<lb/>
+Komfortzimmeraktion darstellt. Unsere Budgetabteilung hat aber grosse<lb/>
+Sorgen, dass wir die riesigen Geldbeträge, die uns im Gewerbe<lb break="no"/>strukturverbesserungsgesetz aber auch für die Bürges-Hausaktion zur<lb/>
+Verfügung stehen, nicht aufgebraucht werden. Allein in der Gewerbe<lb break="no"/>struktur stehen für den Fremdenverkehr 50 Mill. und für die gewerbl.<lb/>
+Wirtschaft 120 Mill. zur Verfügung. Min.Rat <name type="person" ref="per:97722">Marhold</name> empfahl, man soll<lb break="no"/>te ein brain-storming machen, um selbst die verrücktesten Ideen dis<lb break="no"/>kutieren und zu einer Änderung des System zu kommen.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: <name type="person" ref="per:97584">Jagoda</name> wird eine Sitzung einberufen, viel<lb break="no"/>leicht könnte aber auch die Grundsatzgruppe hier<lb/>
+Vorarbeiten leisten. Bitte setzte Dich mit<lb/>
+<name type="person" ref="per:97584">Jagoda</name> ins Einvernehmen.</p><pb n="19-0184" facs="19_1974-02-06_0184.jpg"/><p xml:space="preserve">Min.Rat <name type="person" ref="per:111367">Würzl</name> teilt mir mit, dass die Bundessektionsleitung nicht<lb/>
+zuletzt durch seine Intervention einen Beharrungsbeschluss fassen<lb/>
+wird, wonach <name type="person" ref="per:111736">Zolles</name> als Geschäftsführer und <name type="person" ref="per:114587">Kübler</name> als sein<lb/>
+Stellvertreter in.der Fremdenverkehrswerbung beschlossen werden soll.<lb/>
+Dies bedeutet glabue ich einen offenen Konflikt zwischen der Fremden<lb break="no"/>verkehrssektion und <name type="person" ref="per:97893">Sallinger</name>, wenn dies bekannt wird oder wenn<lb/>
+dies durchgeführt werden sollte. <name type="person" ref="per:111367">Würzl</name> muss aber zugeben, dass wir<lb/>
+jetzt bereits eine grosse Anzahl von Kandidaten, die nach der<lb/>
+Ausschreibung in Betracht gezogen wurden, wie er sich ausdrückt,<lb/>
+sinnlos aufgeopfert. Ich bin dafür nicht verantwortlich sondern<lb/>
+stelle nur mit BEfriedigung fest, dass auch ein solcher Weg nicht zu<lb/>
+ienem Ergebnis führt, da letzten Endes entweder der Kandidat nicht<lb/>
+akzeptierte oder eben eine beteiligte Gruppe mit ihm nicht einver<lb break="no"/>standen war.</p><p xml:space="preserve">Der soz. Vorstandsdirektor <choice><choice><sic>DOKAW</sic><corr>DoKW? (Donaukraftwerke)</corr></choice></choice> <name type="person" ref="per:114580">Kobielka</name> und <name type="person" ref="per:97333">Bandhauer</name> von der<lb/>
+Verbund wollten vonmir wissen, ob jetzt die faktische Fusion zwi<lb break="no"/>schen Enns und Donau von ihnen in Angriff genommen werden sollte.<lb/>
+Ich erklärte ihnen dezidiert, dass ich mit dieser Ankündigung<lb/>
+nicht nur einen Ankündigungseffekt sondern sehr wohl einen Start<lb break="no"/>schuss für die notwendigen Reorganisation gegebne babe. Selbstver<lb break="no"/>ständlich müsste man jetzt die notwendingen Reorganisationen bei<lb/>
+der <choice><choice><sic>DOKAWE</sic><corr>DoKW?</corr></choice></choice> durchführen. Da mir mitgeteilt wrde, dass der LH <name type="person" ref="per:98068">Wenzl</name><lb/>
+einverstanden ist, dass die Ennskraftwerke mit der Donau liiert<lb/>
+werden, müssten alle Vorkehrungen getroffen, damit dann wenn das<lb/>
+ÖVP-Vorstandsmitglied in Pension geht, die notwendige Umbesetzung<lb/>
+erfolgen kann. Da die <choice><choice><sic>DOKAWE</sic><corr>DoKW?</corr></choice></choice> morgen eine Fraktionssitzung hat,<lb/>
+wollten sie nur vorher meine Zustimmung, dass eben jetzt von ihnen<lb/>
+aus die notwendigen Reorganisationsmassnahmen eingeleitet werden.<lb/>
+Ich erklärte noch einmal, dass Belegschaftsmitgliedern daraus kein<lb/>
+Nachteil erwachsen dürfe. Der Bautrupp solle so schnell wie möglich<lb/>
+in die Donau oder gegebenenfalls in die Draukraftwerke überführt<lb/>
+werden. Die verbleibenden Verwaltungsagenden für die Ennskraftwerke<lb/>
+sollten aber ihren Sitz in Steyr behalten, damit die dortige Gemeinde<lb/>
+nicht benachteiligt wird. Die Reorganisation muss aber durchgeführt<lb/>
+werden, um auf lange Sicht gesehen, Kosten zu sparen. Die freiwerdenden<lb/>
+Arbeitsplätze sind nicht mher zu besetzen, um den übergrossen Verwal<lb break="no"/>tungsapparat entsprechend zu reduzieren.</p><pb n="19-0185" facs="19_1974-02-06_0185.jpg"/><p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> fragte mich, ob nun die Klärung, wer bie der iranischen<lb/>
+Delegation die verstaatlichte Industrie verritt, von mir endlich<lb/>
+entschieden und durchgeführt wurde. Ich erzählte ihm, dass <name type="person" ref="per:97470">Geist</name><lb/>
+sein absolutes und alleiniges Ausschliesslichkeitsrecht angemeldet<lb/>
+hat. Gen.Dir. <name type="person" ref="per:97337">Bauer</name> und <name type="person" ref="per:97644">Koller</name> waren mit dieser Entscheidung nicht<lb/>
+sehr einverstanden, da sie auf dem Standpunkt stehen, sie müssten<lb/>
+die Politik der VÖEST resp. der ÖMV machen und auch vertreten.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> bemerkte dazu, dass sich die Herren eben jetzt angewöhnen<lb/>
+müssen, zur Kenntnis zu nehmen, dass die ÖIAG nicht nur eine<lb/>
+Holding sei sondern tatsächlich als Eigentümervertreter die Priorität<lb/>
+in der politischen und wirtschaftlichen Entscheidung hat. <name type="person" ref="per:97470">Geist</name><lb/>
+wird als der Generaldirektor in Hinkunft viel mehr Einfluss und<lb/>
+Entscheidungsmacht bekommen. Da ich dieses Problem nicht zu lösen<lb/>
+habe, erklärte ich <name type="person" ref="per:97668">Kreisky</name>, dass ich mit der einvernehmlichen<lb/>
+Regelung, die ich mit <name type="person" ref="per:97337">Bauer</name> und <name type="person" ref="per:97644">Koller</name> erzielen konnte, der Forde<lb break="no"/>rung von <name type="person" ref="per:97470">Geist</name> REchnung getragen habe und damit nichts im Wege steht,<lb/>
+dass <name type="person" ref="per:97470">Geist</name> eben jetzt versucht, bei dieser Reise die ÖIAG-Politik<lb/>
+auch durchzusetzen.</p></div>
+      </body>
+      <back>
+         <pb n="19_0181_09" facs="19_1974-02-06_0181-09.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 6.2.1974</head>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+   </text>
+</TEI>

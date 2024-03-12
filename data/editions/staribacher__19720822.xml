@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstag, der 22. August 1972</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band12_1972-08-22</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1972-08-22">Dienstag, 22. August 1972</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-10-23">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="12-0992" facs="12_1972-08-22_0992.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Dienstag, 22. August 1972<lb/>
+</p>
+            <p xml:space="preserve">Vor der Ministerratsvorbesprechung fragt <name type="person" ref="per:97525">Häuser</name> Klubobmann <name type="person" ref="per:97488">Gratz</name>,<lb/>
+ob eine Volksbefragung in unserer Verfassung oder sonst irgendeinem<lb/>
+Gesetz verankert sei. Er bezieht sich auf die Mitteilung vom Kurier,<lb/>
+daß ich eine Volksbefragung durchführen würde, wenn der Beirat in<lb/>
+Frage des Ladenschlußgesetzes eine solche vorschläge. <name type="person" ref="per:97525">Häuser</name> weiß<lb/>
+genauso wie ich und <name type="person" ref="per:97488">Gratz</name>, daß es eine solche natürlich nicht gibt<lb/>
+und daß es sich hier um eine falsche Ausdrucksform des Kuriers ge<lb break="no"/>handelt hat. Der Kurier hat hier nur die Volksbefragung von Vorarl<lb break="no"/>berg, die <name type="person" ref="per:118211">Keßler</name> durchführen will, als Grundlage der Anfrage an mich<lb/>
+genommen um zu erkunden ob ich bereit bin, einen ähnlichen weg einzu<lb break="no"/>schlagen. <name type="person" ref="per:115155">Skritek</name> selbst, mit dem <name type="person" ref="per:97525">Häuser</name> vorher gesprochen hat, möchte<lb/>
+natürlich überhaupt nichts machen. Ich kann mich deshalb sehr auf<lb/>
+meine Äußerung zurückziehen, daß ich ja nur tätig werden will, wenn<lb/>
+der Konsumentenbeirat, d.h. im speziellen Fall die neueingesetzte<lb/>
+Arbeitsgruppe mir einen solchen Vorschlag unterbreiten würde. Ich<lb/>
+stelle ausdrücklich fest, daß ich nicht die Absicht habe irgendwo<lb/>
+aufzuklären, daß eine Volksbefragung nur von mir erst durch eine ver<lb break="no"/>fassungsmäßige Klärung oder durch eine gesetzliche Möglichkeit<lb/>
+erschaffen werden soll, sondern daß ich eben darunter u.a. z.B. meine<lb/>
+Meinungsumfrage oder vielleicht sogar nur eine ganz unzulängliche<lb/>
+Information von kleinsten Kreisen schon <choice><choice><sic>ehemals</sic><corr>?</corr></choice></choice> eine Befragung des<lb/>
+Volkes betrachten könnte, wenn ein diesbezüglicher Vorschlag an<lb/>
+mich herangebracht wird. Interessanterweise ist nachher beim Presse<lb break="no"/>gespräch auch der Vertreter der Presse zu mir gekommen um zu fragen,<lb/>
+ob diese Auskunft an den Kurier bereits in der Frühstücksrunde abgegeben<lb/>
+wurde, da er sich über seinen Kollegen schon beschwert hat, daß er<lb/>
+ihn nicht in dieser wichtigen Frage informiert hat. Redakteur <name type="person" ref="per:140121">Bogner</name><lb/>
+der mich diesbezüglich interviewt, hat glaube ich, mit dem Pressere<lb break="no"/>dakteur <name type="person" ref="per:140122">Edel</name>, der bei der Besprechung anwesend war, eine harte Ausein<lb break="no"/>andersetzung gehabt, weil er befürchtete, daß eine so wichtige Frage<lb/>
+ihm nicht sofort mitgeteilt wurde. Daraus kann ich entnehmen, daß die<lb/>
+Ladenschlußgesetzgebung ein sehr heisses Eisen, das wirklich<lb/>
+die Presse ungeheuer auch interessiert. Die größten Vorwürfe hat<lb/>
+<name type="person" ref="per:115155">Skritek</name> zu erwarten, der immer und überall erklärt, es dürfte sich<lb/>
+überhaupt nichts ändern. <name type="person" ref="per:140121">Bogner</name> meinte dann sogar zu mir, es wäre<lb/>
+<pb n="12-0993" facs="12_1972-08-22_0993.jpg"/>unerklärlich, wo ich doch so ein große liberale Haltung in der Ge<lb break="no"/>werbeordnung einnehme, sich in diesem Punkt bis jetzt noch überhaupt<lb/>
+nicht persönlich geäußert habe. Ich bin überzeugt, daß dies die<lb/>
+heisseste Frage in den nächsten Monaten sein wird. Bis jetzt ist es<lb/>
+noch deshalb so gut gegangen, weil ich mich immer auf den Standpunkt<lb/>
+gestellt habe, daß dieses Problem aus der politischen Auseinandersetzung<lb/>
+herausgelöst gehört und daß doch eigentlich die Interessenvertretungen<lb/>
+dazu eine wesentliche entscheidende Stellungnahme abgeben müßten. Ja<lb/>
+selbst müßte und würde mich nach wie vor bemühen, eine einvernehmliche<lb/>
+Regelung zwischen allen Beteiligten, auch der Arbeiterkammer als<lb/>
+Konsumenteninteressenvertretung, zu erzielen. Diese Arbeitsgruppe<lb/>
+wird eine harte schwierige Arbeit im Herbst zu leisten haben.<lb/>
+</p>
+            <p xml:space="preserve">Anmerkung für <name type="person" ref="per:98072">WIESINGER</name>:<lb/>
+Bitte die konstituierende Sitzung unbedingt so vereinbaren, daß ich<lb/>
+daran teilnehmen kann.<lb/>
+</p>
+            <p xml:space="preserve">Der Ministerratssitzung spielt das Aide-Mémoire der Jugoslawen über<lb/>
+die Infiltration der 19 Terroristen das ausschließliche Gesprächs<lb break="no"/>thema. <name type="person" ref="per:97668">Kreisky</name> hat <choice><choice><sic>seinen</sic><corr>in seinem</corr></choice></choice> Urlaubsort in Kärnten den jugoslawischen<lb/>
+Botschafter empfangen, der ihm dieses Aide-Mémoire gegeben<lb/>
+hat und <name type="person" ref="per:97525">Häuser</name> hat es mitgebracht. Der eigentlich dafür zuständige<lb/>
+Außenminister <name type="person" ref="per:97632">Kirchschläger</name> hat überhaupt noch kein Material besessen.<lb/>
+Ich kann wieder feststellen, wie <name type="person" ref="per:97632">Kirchschläger</name> souverän ein solches<lb/>
+Problem angeht. Wir beschließen, daß wir diese Terrortätigkeit im<lb/>
+Rahmen der österr. Gesetze mit allen Mitteln bekämpfen werden und<lb/>
+sie verabscheuen und die dafür zuständigen Minister jetzt das Aide-<lb/>
+Mémoire studieren werden.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97444">Heinzi Fischer</name> vom Klub teilte mit, daß die ÖVP an alle Regierungs<lb break="no"/>mitglieder die Frage gestellt hat, wie die budgetären Wünsche der<lb/>
+einzelnen Ressorts <choice><choice><sic>der</sic><corr>vom?</corr></choice></choice> Finanzminister behandelt wurden. Da <name type="person" ref="per:97311">Androsch</name><lb/>
+noch abwesend ist, wird mit der Anfragebeantwortung zugewartet.<lb/>
+Die Anfrage wegen der Personalpolitik der einzelnen Ressorts wurde<lb/>
+bereits von <name type="person" ref="per:97444">Fischer</name> koordiniert und die einzelnen Minister sollen<lb/>
+sich in ihrer Beantwortung weitestgehend auf diesen koordinierte<lb/>
+Stellungnahme einigen, resp. sie als Grundlage verwenden. Zum Glück<lb/>
+<pb n="12-0994" facs="12_1972-08-22_0994.jpg"/>habe ich diese Anfragebeantwortung noch nicht unterschrieben<lb/>
+und wollte sie genau studieren und muß nun feststellen, daß<lb/>
+wir innerhalb unseres Ministerbüros keine Koordinierung durchge<lb break="no"/>führt haben. <name type="person" ref="per:98053">Wanke</name> hat zwar durch telefonische Information während<lb/>
+seines Urlaubes die ärgsten Schnitzer aus dem Entwurf von <name type="person" ref="per:113022">Fabrizii</name><lb/>
+verhindern können, das Präsidium <name type="person" ref="per:114994">Böhm</name> hat nämlich unter anderem<lb/>
+unbedingt reinschmuggeln wollen, daß die neue Abteilung 25 a Arbeiten<lb/>
+der derzeit bestehenden Abteilung 25 wegnimmt. Noch ist die Anfrage<lb break="no"/>beantwortung mit dem Entwurf von <name type="person" ref="per:97444">Heinzi Fischer</name> im System abgestimmt.<lb/>
+</p>
+            <p xml:space="preserve">Bitte auch im Urlaub die Koordination nicht zu unterschätzen und ver<lb break="no"/>gessen.<lb/>
+</p>
+            <p xml:space="preserve">Im Ministerrat ist der 50. Tagungsordnungspunkt der weder auf meiner<lb/>
+Tagesordnung verzeichnet ist, noch <choice><choice><sic>wird</sic><corr>mir?</corr></choice></choice> die Unterlagen vom Haus mitge<lb break="no"/>geben werden, ein Punkt des Handelsministeriums. Zum Glück muß man<lb/>
+überhaupt nichts referieren, sondern <name type="person" ref="per:97632">Kirchschläger</name> macht mich nur auf<lb break="no"/>merksam, daß ich nur den Antrag auf Genehmigung zu stellen habe. Ich<lb/>
+erstelle deshalb einen Antrag ohne zu wissen, was eigentlich in<lb/>
+diesem Punkt von uns gefordert wird. Zum Glück gibt mir <name type="person" ref="per:97632">Kirchschläger</name><lb/>
+auf meinen Wunsch nachher den Punkt und ich erkenne, daß dies ein Antrag<lb/>
+für die iranische Fremdenverkehrsdelegation, wo <name type="person" ref="per:111367">Würzl</name> daran teilnimmt,<lb/>
+ist. Ich habe als ich den Antrag am Vortrag unterschrieben habe, so<lb break="no"/>gar noch verlangt, daß die detaillierte Kostenberechnung für <name type="person" ref="per:111367">Würzl</name><lb/>
+aus dem Antrag herausgestrichen wird, was auch geschehen ist. Habe<lb/>
+aber total vergessen, daß es sich um diesen Antrag handeln könnte und<lb/>
+bin nur durch ein taktisches Manöver, ohne daß die anderen meine Un<lb break="no"/>wissenheit bemerkten, darüber hinweggekommen.<lb/>
+</p>
+            <p xml:space="preserve">Anmerkung für <name type="person" ref="per:98053">WANKE</name>:<lb/>
+Bitte wirklich jetzt Vorsorge treffen, daß auch vor weggehen die<lb/>
+endgültige Tagesordnung bekomme. Es hat auch anderes Material ge<lb break="no"/>fehlt.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97627">Kienzl</name> und <name type="person" ref="per:97873">Rieger</name>, Nationalbank, kamen um mich zu ersuchen, wir sollten<lb/>
+doch die Wirtschaftsprobleme im Rahmen der sozialistischen Wirt<lb break="no"/>schaftskommission, deren Obmann ich bin, besprechen. Ich bin sehr<lb/>
+froh, daß ich ihnen mitteilen kann, daß <name type="person" ref="per:98053">Wanke</name> und ich schon vereinbart<lb/>
+<pb n="12-0995" facs="12_1972-08-22_0995.jpg"/>haben, eine solche Sitzung, an der Prof. <name type="person" ref="per:117679">Frisch</name> und <name type="person" ref="per:97627">Heinzi Kienzl</name><lb/>
+und ich eine Grundsatzdiskussion einleiten soll, für die nächste Zeit<lb/>
+in Aussicht genommen haben. <name type="person" ref="per:97627">Kienzl</name> und ganz besonders <name type="person" ref="per:97873">Rieger</name> sind<lb/>
+über die Entwicklung auf dem Preissektor ungeheuer beunruhigt. Sie<lb/>
+befürchten, daß ein Punkt erreicht werden könnte, wo die Inflations<lb break="no"/>rate ausgesprochen verheerende Wirkungen auf andere Faktoren wie z.B.<lb/>
+Sparneigung, Investition, usw. haben könnte. <name type="person" ref="per:97873">Rieger</name> beschwert sich<lb/>
+deutlich sichtbar, daß die Nationalbank heute mehr gehemmt ist, als je<lb/>
+in den vergangen 26 Jahren und überhaupt nicht aktiv werden kann. Die<lb/>
+Ursache sieht er darin, daß die Bankmanager mit <name type="person" ref="per:97311">Androsch</name> regeln und<lb/>
+nicht bereit sind, im Generalrat Wünsche, die die Bankleitung macht,<lb/>
+wenn es gegen ihre Geschäftsinteressen geht, zu akzeptieren. Der Finanz<lb break="no"/>minister wieder muß über seine Beamten versuchen, die Bundesschuld<lb/>
+von 14 Milliarden S unterzubringen, d.h. zu prolongieren und ist des<lb break="no"/>halb nicht bereit, gegen die Bankgewaltigen vorzugehen. <name type="person" ref="per:97873">Rieger</name> meint<lb/>
+er hätte die Möglichkeit, wenn die österr. Banken ihn nicht in dieser<lb/>
+Tage entsprechend unterstützen, zu erklären, er würde dann die Bundes<lb break="no"/>schuld im Ausland unterbringen und die überschüssige Liquidität der<lb/>
+österreichischen Institute dann durch wesentliche Erhöhung der Mindest<lb break="no"/>reserven entsprechend beschränken. Da die Mindestreserven unverzins<lb break="no"/>lich bei der Nationalbank gehalten werden müßten, würden die Banken<lb/>
+sehr gerne die Bundesschuld von ihm wieder abnehmen. <name type="person" ref="per:97627">Kienzl</name> ist pri<lb break="no"/>mär beunruhigt, daß die Kreditzunahme in den letzten Monaten seit<lb/>
+November immer gegenüber dem Vorjahr 19–20 % beträgt. Insbesondere<lb/>
+wird auch der Konsumentenkredit bis zu 40 % gegenüber dem Vorjahr ausge<lb break="no"/>weitet. Als ich<add>[?]</add> hier nicht um Fragen, die in meine Kompetenz fallen,<lb/>
+bin ich nicht bereit, eine detaillierte Besprechung und vor allem nicht<lb/>
+eine Stellungnahme abzugeben, die sich gegen den Finanzminister richtet.<lb/>
+Ich bin aber selbstverständlich bereit, in einem größeren Kreis die<lb/>
+Probleme zu diskutieren und entsprechende Lösungsvorschläge versuchen<lb/>
+zu finden. In der wirtschaftspolitischen Kommission wird sicherlich<lb/>
+auch <name type="person" ref="per:110922">Vranitzky</name> vom Finanzministerium anwesend sein und dann sollte man<lb/>
+über dieses Problem freimündig diskutieren. Ich fürchte allerdings,<lb/>
+daß es genauso sein wird wie seinerzeit im Kautsky-Kreis, wo auch<lb/>
+ein Vortrag von <name type="person" ref="per:97311">Androsch</name> keinesfalls von der Opposition gegen ihn<lb/>
+dazu benützt wurde, um freimütig die Probleme zu besprechen sondern<lb/>
+nicht einmal andeutungsweise die Schwierigkeiten damals zur Sprache<lb/>
+kamen. Vielleicht hat sich die Situation aber in der Zwischenzeit<lb/>
+<pb n="12-0996" facs="12_1972-08-22_0996.jpg"/>geändert. Ein weiterer kritischer Punkt ist die mangelnde Baukoordi<lb break="no"/>nierung und damit eigentlich die Überhitzung in der Baukonjunktur.<lb/>
+<name type="person" ref="per:97873">Rieger</name> meint, wir hätten seinerzeit im Beirat dafür gekämpft, daß<lb/>
+ein Bautenministerium errichtet wird, um diese dämpfende Maßnahme<lb/>
+auszuführen und in Wirklichkeit wurde das Bautenministerium schon unter<lb/>
+der ÖVP-Regierung gegründet, aber auch von uns nur jetzt dazu benützt,<lb/>
+um alle Bauwünsche des Bundes noch mehr herauszustreichen und dadurch<lb/>
+die Konjunktur nur anzuheizen. Anstelle der Dämpfungsfunktion wurde<lb/>
+jetzt ein Anheizministerium daraus. <name type="person" ref="per:97627">Kienzl</name> befürchtet, daß die Über<lb break="no"/>hitzung der Konjunktur und ganz besonders damit die weiteren Preis<lb break="no"/>steigerungen die Gewerkschaften auf die Dauer nicht aushalten werden<lb/>
+können. Er meint ganz besonders, daß <name type="person" ref="per:97346">Benya</name> dann außerstande sein wird,<lb/>
+die Wünsche der einzelnen Gewerkschaftsmitglieder nach höheren Löhnen<lb/>
+zurückzudämmen und wenn er dies trotzdem macht einen Erfolg erreicht,<lb/>
+wie ihn die englische Gewerkschaftsführung feststellen mußte. Nämlich<lb/>
+daß die Betriebsräte und vor allem die Gewerkschaftsmitglieder sich<lb/>
+dann von der Gewerkschaft selbst distanzieren und eine eigene Politik<lb/>
+machen. Wir kommen überein, daß <name type="person" ref="per:97627">Kienzl</name>, aber auch <name type="person" ref="per:117679">Frisch</name> und <name type="person" ref="per:98053">Wanke</name><lb/>
+morgen im Institut eine diesbezügliche grundsätzliche Besprechung<lb/>
+über ein Programm haben werden und daß vor allem jeder einzelne<lb/>
+sich überlegt, welchen Beitrag er punktmäßig für ein Stabilisierungs<lb break="no"/>programm vorschlagen wird. Wir werden dann in Arbeitsgruppen in der<lb/>
+Wirtschaftskommission dieses Problem in Detail bearbeiten, um eine<lb/>
+gemeinsame Linie mit allen beteiligten Ministern zu finden.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97684">Langer-Hansel</name> ersucht mich um Zustimmung, daß wir in Amsterdam<lb/>
+ein neues Lokal mieten. Das derzeitige Lokal mit 100 m² kostet<lb/>
+1.400 Gulden + 250 Gulden, die wir für ein auswärtiges Lager im<lb/>
+Monat bezahlen müssen und ist uns schon viel zu klein. Bilder die<lb/>
+ich sehe sind wirklich verheerend, der Fernschreiber, der jetzt<lb/>
+in den Aussenstellen installiert wird, mußte in einem Klosett auf<lb break="no"/>gestellt werden. Wir bekommen nun in der Nähe ein ganzes Haus mit<lb/>
+468 m² für 4.200 Gulden im 2. u. 3. Stück würden dann noch 309 m²<lb/>
+für uns zur Verfügung stehen, da man in Amsterdam, wie man mir mit<lb break="no"/>teilte, nur Gassenlokale und 1. Stock günstig verwerten kann, höhere<lb/>
+Bauwerke stehen in der Innenstadtviertel meistens leer und werden<lb/>
+als Draufgabe für die Keller, Parterre und 1. Stock Vermietung gratis<lb/>
+<pb n="12-0997" facs="12_1972-08-22_0997.jpg"/>dazugegeben. Wir müssen darüber hinaus noch 100.000 Gulden für die<lb/>
+Investitionen und 70.000 Gulden für die Ausstattung bereitstellen.<lb/>
+Die größere Gefahr sehe ich aber darin, daß dann der Zweigstellen<lb break="no"/>leiter mit Personalwünschen kommen wird, da er derzeit nur 7 be<lb break="no"/>schäftigt und meint, daß in England, wo halb so viele Touristen nach<lb/>
+Österreich kommen, die doppelte Anzahl zur Verfügung steht. In der<lb/>
+BRD weist er darauf hin, hätten 30 Beschäftigte derzeit die Aufgabe<lb/>
+zu erfüllen, die er mit 7 Leuten erfüllen muß. Ich glaube wir<lb/>
+sollten wirklich, wenn jetzt die Bezüge der Aussenstellenleiter<lb/>
+neu regeln, gleichzeitig auch versuchen, eine klare Richtlinie über<lb/>
+Neueinstellungen zu finden. Natürlich kann sich dies nicht ausschließ<lb break="no"/>lich danach richten, wie viele Gäste aus diesem Land nach Österreich<lb/>
+kommen. Es muß aber doch ein gewisser Richtsatz sein. Wenn die Österr.<lb/>
+Fremdenverkehrswerbung in einem Land nicht imstande ist mehr Gäste nach<lb/>
+Österreich zu mobilisieren, dann muß man daraus auch personalpolitische<lb/>
+Konsequenzen ziehen. Es wäre wahrlich eine schlechte Leistung von mir,<lb/>
+wenn ich mich zuerst mit Erfolg so bemüht hätte, die Budgetmittel<lb/>
+der österreichischen Fremdenverkehrswerbung entsprechend aufzustocken<lb/>
+und als einziges Ergebnis nur ein riesiger Behördenapparat aufge<lb break="no"/>zogen wird. Dies gilt sowohl für die Zentralstele als auch für die<lb/>
+Aussenstellen.<lb/>
+</p>
+            <p xml:space="preserve">Anmerkung für <name type="person" ref="per:97543">HEINDL</name>:<lb/>
+Bei der Ausarbeitung des Gehaltsschemas diese Gesichtspunkte be<lb break="no"/>rücksichtigen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="12_0991_01" facs="12_1972-08-22_0991-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 22.8.1972</head>
+         </div>
+         <pb n="12_0997_01" facs="12_1972-08-22_0997-01.jpg"/>
+         <pb n="12_0997_02" facs="12_1972-08-22_0997-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesordnung 37. Ministerratssitzung, 22.8.1972</head>
+            <gap reason="sampling"/>
+            <pb n="12_0997_03" facs="12_1972-08-22_0997-03.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="12_0997_04" facs="12_1972-08-22_0997-04.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="12_0997_05" facs="12_1972-08-22_0997-05.jpg"/>
+         </div>
+         <pb n="12_0997_06" facs="12_1972-08-22_0997-06.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>hs. Notizen (TO Ministerratssitzung Rückseite)</head>
+         </div>
+         <pb n="12_0997_07" facs="12_1972-08-22_0997-07.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Fernschreiben APA-Meldung betr. sowj. Memorandum Bez. EWG-Öst.</head>
+         </div>
+         <pb n="12_0997_08" facs="12_1972-08-22_0997-08.jpg"/>
+         <pb n="12_0997_09" facs="12_1972-08-22_0997-09.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Inoff. Übers. sowj. Memorandum Bez. EWG-Öst., 18.8.1972</head>
+            <gap reason="sampling"/>
+            <pb n="12_0997_10" facs="12_1972-08-22_0997-10.jpg"/>
+         </div>
+      </back>
+   </text>
+</TEI>

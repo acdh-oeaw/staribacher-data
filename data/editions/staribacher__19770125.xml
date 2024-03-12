@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstag, der 25. Jänner 1977</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band34_1977-01-25</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1977-01-25">Dienstag, 25. Januar 1977</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-02-27">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="34-0070" facs="34_1977-01-25_0070.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Dienstag, 25. Jänner 1977<lb/>
+</p>
+            <p xml:space="preserve">Nachdem alle Beteiligten zugestimmt haben, wird Dr. <name type="person" ref="per:108746">Haffner</name><lb/>
+sofort in<add>[das]</add> Ministerbüro transferiert. Er übernimmt von <name type="person" ref="per:98040">Wais</name><lb/>
+den Aussenhandel und gibt dafür von <name type="person" ref="per:114508">Tiebers</name> bisheriger Kompe<lb break="no"/>tenz<add>[die]</add> Konsumentenpolitik und Preise an <name type="person" ref="per:98040">Wais</name> ab. Das einzige<lb/>
+offene Problem bleibt, wie wir dann auch in der fraktionellen<lb/>
+Sektionsleiterbesprechung feststellen, die Pressebetreuung.<lb/>
+Dr. <name type="person" ref="per:114460">Luchinetti</name>, die derzeit bei <name type="person" ref="per:97584">Jagoda</name> arbeitet, könnte eventuell<lb/>
+mit Reg.Rat <name type="person" ref="per:111699">Puffler</name> die Pressebetreuung vornehmen, wenn sie die<lb/>
+Voraussetzung dazu wirklich mitbringt und insbesondere in der<lb/>
+Presse-Abteilung mit Frau <name type="person" ref="per:145957">Schmied</name> kooperieren kann. Wahrscheinlich<lb/>
+werden wir zu meiner ursprünglich Idee doch zurückkehren, dass<lb/>
+<name type="person" ref="per:97646">Koppe</name> die PR-Arbeit macht und <name type="person" ref="per:98040">Wais</name> im Büro die entsprechende<lb/>
+Kleinarbeit im Einvernehmen mit <name type="person" ref="per:97646">Koppe</name>. Ich habe <name type="person" ref="per:108746">Haffner</name> so wie<lb/>
+allen anderen neuerdings dringend auseinandergesetzt, dass die<lb/>
+Teamarbeit sich wieder viel stärker durchsetzen muss.<lb/>
+</p>
+            <p xml:space="preserve">Präs. <name type="person" ref="per:97688">Leberl</name> und Sekt.Chef <name type="person" ref="per:98053">Wanke</name> werden wegen der zusätzlichen<lb/>
+Einsatzmöglichkeiten von 120 Technikern im Patentamt einen gemeinsamen<lb/>
+Plan erstellen. Diese Techniker kennen das Knowhow in ihren<lb/>
+Branchen besser als sonst irgendjemand im Haus. Diese ungenützte<lb/>
+Kapazität hat mich seit langem schon geärgert, natürlich gelingt es<lb/>
+nur, die Kolleginnen und Kollegen für eine zusätzliche Arbeit<lb/>
+zu gewinnen, wenn wir sie motivieren und wenn die Personalvertre<lb break="no"/>tung nicht Widerstand leistet. In der <name type="person" ref="per:108322">Meisl</name>-Sektion hat er mit<lb/>
+<name type="person" ref="per:111384">Weiser</name> und <name type="person" ref="per:145961">Erdpresser</name>, die auch bilateral eingesetzt werden sollten,<lb/>
+grosse Schwierigkeiten mit der Personalvertretung gehabt. Auf der<lb/>
+einen Seite ist es furchtbar schwer, die Beamten selbst, wenn sie<lb/>
+zwar nicht aktiv mittun wollen, aber passiv nichts dagegen<lb/>
+hätten, dafür zu gewinnen, auf der anderen Seiten werden selbst<lb/>
+Leute, die keine Sozialfälle sind und nichts tun, kaum im Diszi<lb break="no"/>plinarverfahren bestraft werden können. Sekt.Chef <name type="person" ref="per:107937">Frank</name> urgiert<lb/>
+daher neuerdings bei Senatsvorsitzendem <name type="person" ref="per:97584">Jagoda</name> der Disziplinar<lb break="no"/>kommission die Angelegenheit <name type="person" ref="per:145962">Bacher</name>. Das Verfahren läuft, doch<lb/>
+ist <name type="person" ref="per:97584">Jagoda</name> nicht überzeugt, dass es überhaupt zweckmässig ist,<lb/>
+eine wirkliche Verhandlung durchzuführen. Der Disziplinaranwalt<lb/>
+<name type="person" ref="per:130193">Prodinger</name> müsste nämlich wie ein Staatsanwalt agieren und dies<lb/>
+macht natürlich kein Disziplinaranwalt. Dieser versucht immer<lb/>
+als Kollege den Angeklagten zu schonen und nicht der Sache<lb/>
+ausser vielleicht bei wirklichen strafrechtlichen Delikten, zu dienen.<lb/>
+</p>
+            <pb n="34-0071" facs="34_1977-01-25_0071.jpg"/>
+            <p xml:space="preserve"><name type="person" ref="per:97584">Jagoda</name> sieht in dem ganzen Disziplinarverfahren eine hierar<lb break="no"/>chische, fast mittelalterliche Angelegenheit. Ich teile eigent<lb break="no"/>lich seine Meinung, ich wäre glücklich, wenn wir andere Möglich<lb break="no"/>keiten hätten, Nieten loszuwerden und vor allem faule Beamte<lb/>
+zu entfernen. Diese Möglichkeit gibt es aber überhaupt mit dem<lb/>
+derzeitigen Personalrecht nicht.<lb/>
+</p>
+            <p xml:space="preserve">Bezüglich der Dienstautos wird festgestellt, dass <name type="person" ref="per:107937">Frank</name> sehr wohl<lb/>
+das Recht hat, da das Pauschale für die Auto-Chauffeure nur bis<lb/>
+18 Uhr ihre Tätigkeit abgilt, Taxi zu benützen. Die Fusion mit<lb/>
+der Sektion der Obersten Bergbehörde geht planmässig weiter.<lb/>
+Sie muss aber bis 31. Jänner fertig sein, damit die Ausschreibung<lb/>
+für die Gruppe und sonstige Bestellungen zeitgerecht erfolgen<lb/>
+kann.<lb/>
+</p>
+            <p xml:space="preserve">In der OB wird das Problem der Freischürfe resp. Bergbauberech<lb break="no"/>tigungen an der burgenländisch-ungarischen Grenze Kohlenbergbau<lb/>
+jetzt endgültig versucht, zwischen <name type="person" ref="per:145377">Henckel-Donnersmarck</name>, Kärntner<lb/>
+Montan<add>[-industrie,]</add> und Austria-Mineral zu bereinigen. Im Lavanttal wird<lb/>
+von der Bergbehörde 1 Mill. S von der ÖDK und dem Land auch je<lb break="no"/>weils 1 Mio. S zur Prospektion nach Kohle zur Verfügung gestellt.<lb/>
+</p>
+            <p xml:space="preserve">Die Betriebsräte der ÖMV wünschen, dass die Industrie-Struktur<lb/>
+in NÖ wenn die Ölförderung aufhört, jetzt schon bereits geän<lb break="no"/>dert werden muss und daher in Angriff genommen werden sollte.<lb/>
+Die ÖIAG hat in ihrer Industrie-Abteilung, <name type="person" ref="per:145963">Koiner</name>, keine weit<lb break="no"/>blickenden Leute und die ÖMV ist scheinbar an diesem Problem<lb/>
+überhaupt nicht interessiert. Wir werden Dir.Grünwald, ÖIAG,<lb/>
+diesbezügliche konkrete Vorschläge der Untersuchungen unterbreiten.<lb/>
+Wie er mich darum in dem Winterferien-Aufenthalt am Reisseck ersucht<lb/>
+hat.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97688">Leberl</name> versichert mir neuerdings, dass durch das Europa-Patent<lb/>
+der derzeitige Überschuss des Patentamtes von 17 Mio. S auch für<lb/>
+die Zukunft gesichert ist. Allein aus Recherchen für das<lb/>
+Europa-Patent können wir mit 6 Mill. S jährlich rechnen.<lb/>
+</p>
+            <p xml:space="preserve">Exportfonds ist derzeit <name type="person" ref="per:117026">Schuster</name> resp. die Stellvertretung Dr. <name type="person" ref="per:108321">Rameder</name><lb/>
+und <name type="person" ref="per:108322">Meisl</name> verlangt mit Recht, dass womöglich einvernehmlich<lb/>
+dafür Min.Rat <name type="person" ref="per:111706">Müller</name> von seiner Sektion delegiert werden sollte.<lb/>
+Da sich die beiden Sektionen kaum einigen können, schlage ich<lb/>
+vor, gegebenenfalls einen Bürovertreter dorthin zu senden, wenn die<lb/>
+<pb n="34-0072" facs="34_1977-01-25_0072.jpg"/>Funktionsperiode von <name type="person" ref="per:117026">Schuster</name> ausläuft. Dafür käme z.B. selbstver<lb break="no"/>ständlich der den Aussenhandel betreuende <name type="person" ref="per:108746">Haffner</name> in Frage.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Fraktionsvorbesprechung des Rechnungshofausschusses<lb/>
+fragen mich die Abgeordneten, so wie sie dies scheinbar<lb/>
+auch bei anderen Ministern tun, welche Anfragen sie richten<lb/>
+sollen. Ich erkläre ihnen sofort, mir ist jede recht und sie<lb/>
+brauchen sich erst gar nicht vorher mit mir ins Einvernehmen<lb/>
+setzen.Beim Rechnungshofausschuss am späteren Nachmittag<lb/>
+ist der Angriff der ÖVP und auch der FPÖ so wie unsere Bemerkungen<lb/>
+der Abgeordneten eine reine Hetz. Ich glaube, ich komme wirk<lb break="no"/>lich sehr leicht davon. Dies ist insbesondere darauf zurückzuführen,<lb/>
+dass mir kaum eine Frage überraschend kommt, nur einige ganz<lb/>
+kleine Details weiss ich nicht sofort und der Stellvertreter<lb/>
+von <name type="person" ref="per:97722">Marhold</name> von der Budgetabteilung hilft mir hier resp. wird<lb/>
+von mir ersucht in einer einzigen Frage die Abgeordneten sofort<lb/>
+aufzuklären. Ich konnte nämlich nicht eruieren, warum wir<lb/>
+86.000 S im Jahre 1975 ohne gesetzliche Deckung ausgaben.<lb/>
+Die Personalschwankungen lassen ein endgültige Bereinigung<lb/>
+auf den Groschen nicht zu. Ich fahre sofort den Abgeordneten<lb/>
+wegen jedweder Kritik in diesem Punkt mit dem Stellwagen ins<lb/>
+Gesicht, indem ich erkläre, bei 1.1 Mia. S Budget 86.000 ungedeckt<lb/>
+ist wirklich ein quantité négligeable. Den Abgeordneten des ÖAAB<lb/>
+von Oberösterreich, <name type="person" ref="per:97663">Kraft</name>, der einmal in einer Haussitzung gesagt hat,<lb/>
+ich hätte bei den Grenzlandbesprechungen Millionen versprochen<lb/>
+und nicht gehalten, fordere ich sofort auf, jetzt den Be<lb break="no"/>weis zu erbringen. Ich habe ihm einen Brief diesbezüglich ge<lb break="no"/>schrieben und noch immer keine Antwort erhalten. Dieser glaubt<lb/>
+auch bei seinem Diskussionsbeitrag nur mit Kraftausdrücken über<lb/>
+die Runde zu kommen und meint, wegen des Rechnungskohlen-Ansatzes<lb/>
+wir brauchen immer wesentlich mehr als im Budget vorgesehen,<lb/>
+müsste ich eben beim Finanzminister Kuschen. Ich sage ihm sofort,<lb/>
+dies ist vielleicht innerhalb der ÖVP üblich, insbesondere<lb/>
+zwischen den Gesprächen des ÖAAB und des Wirtschaftsbundes,<lb/>
+nicht aber in der Soz. Partei. <name type="person" ref="per:139744">Moser</name><add>[evtl. Falschidentifikation, Anm.]</add> fragt schriftlich wegen<lb/>
+der Dienstposten, Überstunden und Werk- und Sonderverträge<lb/>
+<name type="person" ref="per:112162">Neumann</name> wünscht schriftlich die Holzimportziffern, <name type="person" ref="per:112142">Feurstein</name><lb/>
+die Grenzlandförderung für Vorarlberg. Da <name type="person" ref="per:111737">Marsch</name> der zweite<lb/>
+Mann von meinem Ministerium ist, der überhaupt dort nur anwesend<lb/>
+ist, wird er sicherlich diese Beantwortungen überwachen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97819">PLESCH</name>: Bitte sofort die Beantwortungen veranlassen,<lb/>
+damit noch vor der Haussitzung die Abgeordneten die Unterlagen ha<lb break="no"/>ben.</p>
+            <pb n="34-0073" facs="34_1977-01-25_0073.jpg"/>
+            <p xml:space="preserve">Im Ministerrat hat <name type="person" ref="per:97668">Kreisky</name> vor der Tagesordnung das Problem der<lb/>
+Skandalisierung der österr. Presse, insbesondere Kurier und Profil<lb/>
+wegen <name type="person" ref="per:108224">Lütgendorf</name>, zur Sprache gebracht. <name type="person" ref="per:97668">Kreisky</name> fragt <name type="person" ref="per:97372">Broda</name> und appel<lb break="no"/>liert an alle Minister, man solle jetzt den Kurier wegen des Aus<lb break="no"/>druckes "Zechbrüder" klagen. Da die Presse-Ehrenbeleidigungen ein<lb/>
+qualifiziertes Delikt jetzt auf Grund des neuen Gesetzes ist<lb/>
+meint <name type="person" ref="per:97372">Broda</name> diesbezügliche Möglichkeiten gäbe es, wird es aber<lb/>
+noch genau untersuchen. <name type="person" ref="per:97668">Kreisky</name> ist über die Schreibweise der Zei<lb break="no"/>tungen so wie auch ich wirklich innerlich sehr empört. Trotzdem<lb/>
+erinnert mich dies fatal an die Zeit, wo in der ÖVP-Alleinregierung<lb/>
+auch <name type="person" ref="per:97634">Klaus</name> über diese Schreibweise sehr verärgert war und dann<lb/>
+sich zu unüberlegten Handlungen hat hinreissen lassen. Noch niemals<lb/>
+hat <name type="person" ref="per:97668">Kreisky</name> in einer Ministerratssitzung ohne es vorher in der Re<lb break="no"/>gierungsbesprechung zu diskutieren, eine so wichtige Frage direkt<lb/>
+in Anwesenheit der Beamten zur Sprache gebracht.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:114508">TIEBER</name>: Bitte erkundige Dich im Justizministerium<lb/>
+und auch bei <name type="person" ref="per:97469">Gehart</name>, wie dies jetzt weitergeht.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97879">Rösch</name> berichtet, dass in der letzten Ministerratssitzung für Hofrat<lb/>
+Dr. <name type="person" ref="per:145965">Schüller</name> eine Auszeichnung durchgegangen ist, obwohl LH <name type="person" ref="per:112031">Maurer</name><lb/>
+dies einreichte, ohne die Stellungnahme des Innenministeriums ein<lb break="no"/>zuholen. <name type="person" ref="per:145965">Schüller</name> ist zwar Sicherheitsdirektor NÖ, aber noch immer<lb/>
+ein Beamter des Innenministeriums. Der Beschluss wird deshalb nach<lb/>
+längerer Diskussion <choice><choice><sic>reasiniert</sic><corr>?</corr></choice></choice>. Der Bundespräsident hat noch nicht<lb/>
+gefertigt und deshalb ist dieser auch noch nicht rechtskräftig.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:108328">Pahr</name> wird zur Ministerratssitzung zum Europa-Rat fahren, wo auch – wie<lb/>
+<name type="person" ref="per:97668">Kreisky</name> sagt – die Vorbereitung Belgrads durchgeführt werden soll.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> meint, die Regierung sollte seine Punkte dem Minister <name type="person" ref="per:108328">Pahr</name><lb/>
+mitgeben. 1. es wurden seit Helsinki keine wirklichen Anstrengungen<lb/>
+für eine Weiterentwicklung unternommen. 2. die Resultate in Belgrad<lb/>
+sollten positiv enden, auch dann wenn der Osten nicht daran besonders<lb/>
+interessiert ist, Belgrad dadurch aufzuwerten. 3. Für Belgrad muss<lb/>
+es eine bessere Vorbereitung geben, wenn es auch nicht zu einer<lb/>
+einheitlichen Stellungnahme kommen wird. Die NATO, insbesondere der<lb/>
+Gen.Sekr. <name type="person" ref="per:135255">Luns</name>, möchte womöglich einheitliche Richtlinien für den<lb/>
+gesamten Westen, womit – wie ich zur Überraschung erfahre – auch die<lb/>
+Schweiz einverstanden wäre. Österreich wird aber und muss eine eigen<lb break="no"/>ständige Politik machen. Teile des Westens wollten seinerzeit nicht nach<lb/>
+Moskau fahren, <name type="person" ref="per:97668">Kreisky</name> meint die Staatsvertragsverhandlungen. Die<lb/>
+Ostpolitik und der Brückenschlag werden ebenso kritisiert. <name type="person" ref="per:97668">Kreisky</name><lb/>
+<pb n="34-0074" facs="34_1977-01-25_0074.jpg"/>legt grössten Wert darauf, dass <name type="person" ref="per:108328">Pahr</name> diese eigenständige Politik<lb/>
+bereits in Strassburg vertreten soll.<lb/>
+</p>
+            <p xml:space="preserve">Die Vorsprache des Landesproduktenhandels wegen ihrer Getreide<lb break="no"/>spannen und des Mehlhandels wegen ihrer Mehlhandelsspannen, veran<lb break="no"/>lassen mich dann doch zur Preiskommission-Sitzung zu <choice><choice><sic>gegehn</sic><corr>gehen?</corr></choice></choice> und zu<lb/>
+appellieren, dass es womöglich zu einer einheitlichen Lösung<lb/>
+aller Probleme kommt. Da eine solche furchtbar schwer zu erzielen<lb/>
+ist, kann ich Gott sei Dank auf meine Taktik zurückgreifen und allen<lb/>
+die unbefriedigt sind, die Preisfreigabe anzubieten. Der Getreidehandel<lb/>
+lehnt dies ganz entschieden ab. Lieber glaube ich bleibt er mit den<lb/>
+ungenügend amtlich festgelegten Spannen als tatsächlich eine Preis<lb break="no"/>freigabe ähnlich dem Milchsektor zu akzeptieren. In der Preiskommissions<lb break="no"/>sitzung meint Vorsteher <name type="person" ref="per:141831">Bruck</name>, der zuerst, wie er sich ausdrückt,<lb/>
+90 % der Händler und Genossenschaftsvertreter gekommen ist, die<lb/>
+Getreide aufkaufen, spricht sich auch dort gegen eine Preisfreigabe<lb/>
+entschieden aus. Die Belastung des Getreidehandels sei gross, da<lb/>
+Löhne um 8,5 % erhöht werden, bei 50 % Lohntangente 4,5 % Kostenbe<lb break="no"/>lastung, die 0,8 % Stempelgebühren für Kredite von 3 Mia. Kredit<lb break="no"/>volumen, 24,8 Mill. S ausmachen, das koste schon 40 % der 2 %-igen<lb/>
+Spanne. Wenn 2 Groschen verlangt, so ergibt dies bei 1 Mio. t Getreide<lb/>
+welches er aufkauft 20 Mill. S. Trotzdem lehnt verständlicherweise<lb/>
+die Arbeiterkammer indirekt alle diese Getreide- und Mehlhandels<lb break="no"/>spannen-Erhöhungen ab. Die AK ist nur bereit, für den Mehlverbraucher<lb break="no"/>preis dieselben Erhöhungen wie im Vorjahr zu akzeptieren. Dies wären<lb/>
+40 Groschen für unverpacktes und 50 Groschen für verpacktes Mehl und<lb/>
+Griess. Auf dieser Basis wird Min.Rat <name type="person" ref="per:112011">Kurzel</name>, der sich sehr bemüht,<lb/>
+kaum eine einvernehmliche Lösung erzielen können. Sein Vorschlag<lb/>
+war bereits bei der Besprechung mit dem Getreidehandel und dann<lb/>
+auch in der Preiskommission, man sollte jetzt schon vorsehen, für<lb/>
+die nächste Getreidepreis-Regelung eine gewisse Korrektur der Handels<lb break="no"/>spannen vorzunehmen. Ich erkläre dezidiert, dass ich für heuer keinerlei<lb/>
+Getreidepreiserhöhung mehr erwarte und wir im nächsten Jahr dann mit<lb/>
+Erhöhung des Erzeugerpreises gleichzeitig auch die Verbraucherpreise<lb/>
+im Juni festsetzen müssten. Interessanter- und überraschenderweise<lb/>
+stösst dieser Vorschlag gar nicht auf den erbitterten Widerstand der<lb/>
+Landwirtschaft – allerdings ist der Vertreter der Präsidentenkonferenz,<lb/>
+ein junger Beamter, überfordert und kann wahrscheinlich nicht einmal<lb/>
+erfassen, worum es sich hier im Detail handelt.<lb/>
+</p>
+            <pb n="34-0075" facs="34_1977-01-25_0075.jpg"/>
+            <p xml:space="preserve">Mit den Auto-Importeuren lege ich bei einer umfangreichen Dis<lb break="no"/>kussion fest, dass wir mit ihren Lieferwerken Verhandlungen auf<lb break="no"/>nehmen werden, um österr. Zulieferungen zu fördern. <name type="person" ref="per:112058">Sternbach</name>, Ford,<lb/>
+<name type="person" ref="per:145966">Schröder</name>, Mercedes, <name type="person" ref="per:115009">Walter</name>, Peugeot, sind der Meinung, ist sollte<lb/>
+mit der Handelskammer und unserer Industriesektion eine Liste<lb/>
+leistungsfähiger Firmen und vor allem auch Gruppen von Import<lb break="no"/>waren zusammenstellen, die die Mutterwerke von Österreich be<lb break="no"/>ziehen könnten.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: Bitte die Verhandlungen sofort mit Handels<lb break="no"/>kammer aufnehmen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:145967">Pasch</name>, der Gremialvorsteher, möchte, dass die Gebrauchtswagen weniger<lb/>
+nach Österreich importiert werden und vor allem keine Wracks herein<lb break="no"/>kommen. Derzeit beträgt der Importwert 200 Mill. S ist gar nicht<lb/>
+notwendig. Vor allem im Interesse der Verkehrssicherheit sollte<lb/>
+jetzt in die neue Novelle § 30 Abs. 1 bei Totalschaden Einzelgeneh<lb break="no"/>migung vorliegen, resp. Eintragungen in den Typenschein erfolgen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name> UND <name type="person" ref="per:108746">HAFFNER</name>: Problem sofort mit Verkehrsmini<lb break="no"/>sterium besprechen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:145967">Pasch</name> gesteht auch zu, dass die Schiedskommission in allen Bundes<lb break="no"/>ländern wegen der Autopreise Käufe und Reparaturen errichtet werden<lb/>
+soll. Die Handelskammer ist einverstanden, womit im Konsumenten<lb break="no"/>beirat endgültig entschieden werden kann.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name>: Bitte sofort in der Unterkommission besprechen<lb/>
+und im nächsten Beirat beschliessen lassen.<lb/>
+</p>
+            <p xml:space="preserve">Die Fixpreis-Frage, derzeit ein Werbegag von <name type="person" ref="per:141718">Hinteregger</name>, 1.000 Stk.<lb/>
+noch zum alten Preis zu verkaufen, wird von den anderen Autofirmen<lb/>
+als schon derzeit gehandhabt aber nicht in der Werbung besonders<lb/>
+herausgestrichen, bezeichnet. Ich erinnere daran, dass die Kraft<lb break="no"/>fahrverbände so wie in Schweden und Deutschland auch in Österreich<lb/>
+eine Regelung verlangen. <name type="person" ref="per:112058">Sternbach</name> meint, wenn ein Gesetz <choice><choice><sic>erfliesst</sic><corr>?</corr></choice></choice>,<lb/>
+wann werden sie sich danach halten. Ich selbst möchte viel lieber,<lb/>
+dass ohne Gesetz ein diesbezügliches Übereinkommen erreicht werden<lb/>
+kann. Die Autovertreter sind einverstanden, dass dieses Problem im<lb/>
+Konsumentenbeirat eingehend diskutiert und beschlossen wird.<lb/>
+</p>
+            <pb n="34-0076" facs="34_1977-01-25_0076.jpg"/>
+            <p xml:space="preserve">Beim Antrittsbesuch des neuen Generalsekretärs der OPEC (<name type="person" ref="per:145905">Jaidah</name>)<lb/>
+spricht sich dieser über die wirtschaftliche Lage ungeheuer<lb/>
+positiv aus und rechnet auf gute Zusammenarbeit. Wie <name type="person" ref="per:97668">Kreisky</name><lb/>
+in der Regierungssitzung kurz erwähnt hat, hat<add>[der]</add> L’Osservatore Romano<lb/>
+einen phantastischen Artikel über Österreich geschrieben, der<lb/>
+ähnlich wahrscheinlich <choice><choice><sic>wi</sic><corr>wie?</corr></choice></choice> die Meinung des Generalsekretärs<lb/>
+der OPEC leider die österreichische Situation noch besser dar<lb break="no"/>stellt als sie ist. Min.Rat <name type="person" ref="per:97426">Fälbl</name>, den ich ja bei meinen<lb/>
+Ostreisen immer als Monsignore bezeichne, wird mir diesen Artikel<lb/>
+verschaffen.<lb/>
+</p>
+            <p xml:space="preserve">Beim Antrittsbesuch des spanischen Botschafters <name type="person" ref="per:118227">Castro-Rial</name> ist<lb/>
+dieser erfreut, dass ich bereits veranlasst habe, im Rahmen der<lb/>
+EFTA mit Spanien nicht nur Gespräche sondern so schnell wie<lb/>
+möglich positive Ergebnisse bezüglich eventueller Kooperation<lb/>
+zu führen. Ich setze dem spanischen Botschafter mit aller<lb/>
+Deutlichkeit auseinander, dass bis jetzt – solange die <name type="person" ref="per:140656">Franco</name>-<lb/>
+Regierung herrschte – das Verhältnis wesentlich kühler war,<lb/>
+als es jetzt ist und in Zukunft sein wird. Spanien am Wege zur<lb/>
+Demokratie wird alle meine persönliche, aber vor allem auch die<lb/>
+der Regierung Unterstützung finden. Ähnlich wie Portugal<lb/>
+werden und können wir dadurch die Demokratisierung dort wirklich<lb/>
+unterstützen. Dies kann aber nicht nur durch Worte erfolgen,<lb/>
+sondern muss auch mit Taten geholfen werden.<lb/>
+</p>
+            <p xml:space="preserve">In der Präsidiumssitzung der SPÖ III wird das Aktionsprogramm<lb/>
+der Landstrasse im Detail besprochen und sehr viele neue Aktivitäten<lb/>
+insbesondere für die Landtagsabgeordneten festgelegt. Es erscheint<lb/>
+mir nicht nur im Hinblick auf die Wahlen sondern noch viel<lb/>
+mehr im Hinblick auf die momentan schlechte Stimmung innerhalb<lb/>
+unserer Mitglieder und Funktionäre dringendst notwendig und<lb/>
+zweckmässig. In der Sektionsleitersitzung diskutieren wir dann<lb/>
+nicht nur die politische Situation und natürlich besonders die<lb/>
+Frage <name type="person" ref="per:108224">Lütgendorf</name> sondern auch die kommunalen Problem wie<lb/>
+Brücken, Gasumstellung, Verkehrsverbindung usw. Ein bisschen<lb/>
+ironisch meine eine Sektionsleiterin, die gleichzeitig auch<lb/>
+Sekretärin – <name type="person" ref="per:145968">Hilde</name> – bei uns ist, zum Schluss unter vier Augen<lb/>
+zu mir, <name type="person" ref="per:97668">Kreisky</name> und Dir glaube ich alles, weil Du für alles<lb/>
+eine Begründung hast. Überzeugt war sie allerdings von einigen Punkte<lb/>
+nicht. Für mich ist es gar keine Frage, dass die ständigen Angriffe<lb/>
+der Massenmedien die in den vergangenen sechs Jahren den einzelnen<lb/>
+<pb n="34-0077" facs="34_1977-01-25_0077.jpg"/>Regierungsmitgliedern und ganz besonders an <name type="person" ref="per:97668">Kreisky</name> wirkungslos<lb/>
+abgeprallt sind und daher auch bei unseren Mitgliedern und Funk<lb break="no"/>tionären eher den Eindruck erweckten, die können angreifen, soviel<lb/>
+sie wollen. <name type="person" ref="per:97668">Kreisky</name> pariert und die Regierung gewinnt, jetzt doch<lb/>
+schön langsam im siebenten Jahr Wirkung zeigen. Vielleicht haben<lb/>
+wir auch in der letzten Zeit mehrere Fehler gleichzeitig gemacht.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> dürfte dies auch spüren, weshalb er teilweise ungeduldig<lb/>
+und nervös diese Angriffe reagiert. Vielleicht ist 1977 auch das<lb/>
+verflixte 7. Jahr in unserer Regierungstätigkeit.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="34_0069_01" facs="34_1977-01-25_0069-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 25.1.1977</head>
+         </div>
+         <pb n="34_0069_02" facs="34_1977-01-25_0069-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+         <pb n="34_0077_01" facs="34_1977-01-25_0077-01.jpg"/>
+         <pb n="34_0077_02" facs="34_1977-01-25_0077-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesordnung 59. Ministerratssitzung, 25.1.1977</head>
+            <gap reason="sampling"/>
+            <pb n="34_0077_03" facs="34_1977-01-25_0077-03.jpg"/>
+         </div>
+         <pb n="34_0077_04" facs="34_1977-01-25_0077-04.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstag, der 29. August 1972</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band12_1972-08-29</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1972-08-29">Dienstag, 29. August 1972</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-10-23">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="12-1017" facs="12_1972-08-29_1017.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Dienstag, 29. August 1972<lb/>
+</p>
+            <p xml:space="preserve">Gewerkschaftsbund und die Arbeiterkammer haben neben dem BFG ein<lb/>
+eigenes Institut für Berufsforschung gegründet. Der Sekretär oder<lb/>
+Leiter dieses Institutes ist Mag. <name type="person" ref="per:123791">Knapp</name>, ein junger Genosse. Obwohl<lb/>
+das Institut erst ein bißchen älter als 1 Jahr ist hat es vom So<lb break="no"/>zialministerium und vom Wissenschaftsministerium Aufträge bereits für<lb/>
+fast 900.000,-- erhalten. Die Handelskammer hat nun riesige Angst,<lb/>
+daß nun in diesem Institut Gesellschaftspolitik<add>[?]</add> wissenschaftliche<lb/>
+Arbeiten geleistet werden, die sich gegen ihre Interessen richten.<lb/>
+Deshalb ist sie vor längerer Zeit an mich herangetreten, daß sie<lb/>
+mit der Arbeiterkammer und dem Gewerkschaftsbund ein solches Institut<lb/>
+gemeinsam betreiben möchte. Mir wäre dies sehr recht gewesen, denn wir<lb/>
+brauchen dieses Institut auch, um im Rahmen der neuen Lehrlingsaus<lb break="no"/>bildung die entsprechenden Vorarbeiten zu leisten. <name type="person" ref="per:97584">Jagoda</name> ist deshalb<lb/>
+Mitglied eines Organs in diesem Institut. Dr. <name type="person" ref="per:136841">Fellinger</name>, der Bildungs<lb break="no"/>heini von der Arbeiterkammer, der nebenberuflich auch im Volksbildungs<lb break="no"/>haus Ottakring als Geschäftsführer tätig ist, arbeitet auch in diesem<lb/>
+Institut glaube ich an leitender Stelle mit. Ich habe schon durch<lb/>
+Einzelaussprachen mit unseren Genossen versucht die Front ein bißchen<lb/>
+aufzuweichen, damit sie sich doch vielleicht entschließen, die Handels<lb break="no"/>kammer hier mitarbeiten zu lassen. Was ich nämlich befürchte ist daß<lb/>
+sie ansonsten ein eigenes Institut gründen. Geld genug haben sie ja.<lb/>
+In diesem Falle würde wir dann von beiden Instituten konträre Stellung<lb break="no"/>nahmen erwarten können, auch bei Problemen die rein technischer Art<lb/>
+sind. LAbg. u. Kammervorstandmitglied <name type="person" ref="per:123305">Busta</name> kann nun mit <name type="person" ref="per:112942">Braun</name> von<lb/>
+der Privatangestelltengewerkschaft und <name type="person" ref="per:114577">Ingrisch</name>,<add>[der]</add> vor allem im BFI und in<lb/>
+der Managerberatung arbeitet, <name type="person" ref="per:123791">Knapp</name> und <name type="person" ref="per:97584">Jagoda</name> und <name type="person" ref="per:98053">Wanke</name> und mir aus<lb break="no"/>einanderzusetzen, daß sie nicht bereit sind die Handelskammer in diesem<lb/>
+Institut mitarbeiten zu lassen. Vor allem wehren sie sich daß sie in<lb/>
+das Institut aufgenommen werden sollen. Das Maximum was sie sich vor<lb break="no"/>stellen, ist, daß eine Arbeitsgemeinschaft jetzt zwischen den Inter<lb break="no"/>essenvertretungen gegründet wird, um die Probleme, sei es der Lehr<lb break="no"/>lingsbildung, sei es vor allem überhaupt der Berufsweiterbildung in<lb/>
+Form der WIFIS und der BFI zustimmen. Meine Idee, daß wir doch jetzt<lb/>
+<pb n="12-1018" facs="12_1972-08-29_1018.jpg"/>die einmalige Chance haben die Handelskammer vielleicht dazu zu<lb/>
+zwingen, auch in der Abgrenzung oder besser gesagt in der Zu<lb break="no"/>sammenarbeit zwischen WIFIs und BFI einen neuen Weg zu gehen, hat<lb/>
+jetzt nicht die Zustimmung gefunden. Vielleicht wird sich dies im<lb/>
+Laufe der nächsten Monate und Jahre ändern. Richtig ist, und niemand<lb/>
+bestreitet es, daß die Arbeiter heute den größten Teil der <choice><choice><sic>Höherer</sic><corr>Hörer?</corr></choice></choice><lb/>
+bei den WIFIs stellen. Die Genossen behaupten, das BFI immerhin schon<lb/>
+40 % der Leute ebenfalls schulen und 60 % vielleicht die WIFIs. Ich<lb/>
+glaube, daß diese Ziffer nicht stimmt. WIFIs haben Kraft ihrer größeren<lb/>
+finanziellen Ausstattung wesentlich mehr Möglichkeiten und werden des<lb break="no"/>halb auch leider noch von sehr vielen Arbeitern bevorzugt.<lb/>
+</p>
+            <p xml:space="preserve">Anmerkung für <name type="person" ref="per:98053">WANKE</name>:<lb/>
+Bitte vielleicht kann man objektiv die tatsächlichen Ziffern einiger<lb break="no"/>maßen feststellen.<lb/>
+</p>
+            <p xml:space="preserve">Wie dem auch sei, auf alle Fälle ist meiner Meinung nach die Zeit jetzt<lb/>
+reif einen solchen Unterwanderungsversuch der WIFIs zu starten. Wenn<lb/>
+man der Bundeskammer, glaube ich, anbietet, daß sie in Instituten, wo<lb/>
+sie keine Chance hat, jetzt wo eine gewisse Mitarbeit anbietet, dann<lb/>
+kann vielleicht als Gegengeschäft einen entsprechenden Einfluß bei den<lb/>
+WIFIs erreichen. Im Maße der Arbeiter die im Grunde genommen doch in<lb/>
+der größeren Anzahl zu den Gewerkschaften tendiert, müßte uns eine<lb/>
+gute Basis für diese Unterwanderung geben. Ich habe nie verstanden,<lb/>
+daß wir 1945 nicht ebenso wie der ÖGB für alle Arbeiter gegründet<lb/>
+wurde, z.B. auf dem touristischen Gebiet nicht auch eine einheitliche<lb/>
+Touristenbewegung von uns aufgebaut worden wäre, hier hätte man mit<lb/>
+Hilfe der aktiven Naturfreundemitglieder doch leicht die Führung für<lb/>
+eine solche überparteiliche Bergorganisation in die Hand bekommen<lb/>
+können. Damals hat Staatssekretär <name type="person" ref="per:140138">Winter</name>, der als Naturfreundeobmann<lb/>
+in Erscheinung treten wollte, eine solche Entwicklung verhindert.<lb/>
+Genauso glaube ich hätte man die Möglichkeit gehabt, bei der Gründung<lb/>
+von Motororganisationen anstelle des eigenen ARBÖ eine gemeinsame über<lb break="no"/>parteiliche, wo wir doch dann auch Kraft unserer stärker werdenden<lb/>
+Arbeitermotorsportler die Organe auf alle Fälle leicht und bald in<lb/>
+die Hand bekommen hätten, wenn wir sie nicht überhaupt schon Kraft<lb/>
+der damaligen politischen Situation von allen Anfang an hätten stellen<lb/>
+können. Wenn erst einmal eigene Organe und Institute gegründet sind,<lb/>
+<pb n="12-1019" facs="12_1972-08-29_1019.jpg"/>dann ist es natürlich äußerst schwierig eine Verschmelzung oder<lb/>
+auch nur eine Arbeitsgemeinschaft herzustellen. Dies gilt umso<lb/>
+mehr, wenn sie sich die eine Seite in diesem Fall sogar unsere<lb/>
+Leute ganz entschieden dagegen wehren. Wir verblieben dann so, daß<lb/>
+<name type="person" ref="per:97584">Jagoda</name> versuchen wird, ob es gelingt auf dem Gebiete der Lehrlings<lb break="no"/>forschung zumindestens eine Arbeitsgemeinschaft zwischen den Inter<lb break="no"/>essenvertretungen <choice><choice><sic>instande</sic><corr>zustande?</corr></choice></choice> zu bringen. Ich selbst werde aber weiter<lb break="no"/>hin versuchen ob es doch gelingt daß die sogar in den Statuten vor<lb break="no"/>gesehenen Mitarbeiter der Arbeitnehmer in den WIFIs aktiviert wird.<lb/>
+Auf alle Fälle muß ich meine Idee hier eine enge Kooperation zwischen<lb/>
+den Interessensvertretungen herbeiführen zu können, aufgeben. Zu<lb break="no"/>mindestens derzeit besteht auf Seite der Arbeiterkammer und des ÖGB<lb/>
+soweit es sich um Exponenten der einzelnen Institute handelt, als Be<lb break="no"/>rufsförderungsinstitut oder Institut für Berufsforschung, dafür keine<lb/>
+Geneigtheit. In diesem Falle glaube ich machen wir denselben Fehler<lb/>
+den <name type="person" ref="per:111325">Mock</name> 1967 gemacht hat, als er angeblich Gründer des Institutes<lb/>
+für Bildung und Beratung des IBB wurde, eine Institution, die sich<lb/>
+jetzt in Institut für Bildung und Entwicklung umgewandelt hat und<lb/>
+natürlich jetzt als einseitiges Institut klar und deutlich deklariert<lb/>
+ist. Wenn man tüchtige Leute hat, dann kann man glaube ich auf unserer<lb/>
+Seite eine Politik betreiben, wie dies z.B. das Institut für Wirtschafts<lb break="no"/>forschung seit dem Jahre 1955 macht. Dort hat in Wirklichkeit die<lb/>
+andere Seite ja doch die Führung direkt oder indirekt in der Hand<lb/>
+und wird sogar noch von uns mitfinanziert.<lb/>
+</p>
+            <p xml:space="preserve">Das typischste Beispiel ist die Arbeit des Institutes für Wirtschafts<lb break="no"/>forschung über die Globalrechnung der Vorsteuerentlastung. Auf Grund<lb/>
+der Input-Output-Rechnung des Jahres 1964 sollte durch Hochrechnung festge<lb break="no"/>stellt werden, ob die Ansätze welche die Industrie und die Handels<lb break="no"/>kammer berechnet haben, einigermaßen stimmen. Nur durch Zufall sind<lb/>
+wir daraufgekommen, daß das Institut, welches diese Arbeit übernommen<lb/>
+hat, sich der Leute der Handelskammer bedient, die diese Input-Output-<lb/>
+Rechnung seinerzeit auch mitgeschaffen haben. <name type="person" ref="per:140139">Teufelsbauer</name> und andere<lb/>
+Mitarbeiter der Handelskammer seinerzeit in dem gemeinsamen Forschungs<lb break="no"/>team, welches der Beirat für Wirtschafts- und Sozialfragen errichtet hat,<lb/>
+<pb n="12-1020" facs="12_1972-08-29_1020.jpg"/>haben jetzt diese Arbeit des Institutes für Wirtschaftsforschung<lb/>
+entscheidend mitgeschaffen. Natürlich konnten die gesamten<lb/>
+Einwände, die die Bundeshandelskammer gegen irgendwelche Berechnungen<lb/>
+hätte die sich gegen ihre Ergebnisse gerichtet haben, weitestgehend<lb/>
+ausschalten. Angeblich ist die Institutsleitung sehr betroffen, daß<lb/>
+die Arbeiterkammer und insbesondere die Gewerkschaftsleute <name type="person" ref="per:97676">Lachs</name> und<lb/>
+<name type="person" ref="per:114075">Schmidt</name> dies es jetzt nicht nur wissen, sondern bei einer Aussprache<lb/>
+natürlich entsprechend heftig angegriffen haben. Für mich ist dies<lb/>
+ein deutliches Zeichen, wie doch Möglichkeiten bestehen, wenn man<lb/>
+gute Leute hat und in einem Institut doch einen gewissen Einfluß man<lb/>
+diese Leute zu Arbeiten dorthin delegieren kann offiziell oder inoffi<lb break="no"/>ziell und damit die entsprechenden Ergebnisse beeinflußt. Für diese<lb/>
+Situation werden wir in der Auseinandersetzung über den Entlastungs<lb break="no"/>katalog nicht allzusehr und allzuschnell weiterkommen. In der Handels<lb break="no"/>kammergruppe ist noch von der Finanzabteilung Dr. <name type="person" ref="per:139985">Hetl</name> tätig, der<lb/>
+sich als ausgesprochen radikaler Verfechter des Unternehmerstandpunktes<lb/>
+gibt. Dadurch können vernünftige Vertreter wie Dr. <name type="person" ref="per:137215">Hecke</name> und Dr. <name type="person" ref="per:139946">Ivanka</name><lb/>
+kaum Kompromisse machen, da sofort <name type="person" ref="per:139985">Hetl</name> sofort zum Generalsekretär<lb/>
+lauft oder vielleicht sogar noch in Organe geht und dort sich als<lb/>
+der Interessenvertreter der Unternehmer gebärdet. Dr. <name type="person" ref="per:97676">Lachs</name> hat<lb/>
+nun für das Hueber-Haus am Donnerstag eine Aussprache zwischen der<lb/>
+Handelskammer, allerdings nur <choice><choice><sic><name type="person" ref="per:137215">Hecke</name></sic><corr>?</corr></choice></choice> und <name type="person" ref="per:139946">Ivanka</name>, der Arbeiterkammer und<lb/>
+des Gewerkschaftsbundes vereinbaren. Ich möchte in einem Tagesseminar<lb/>
+mit diesen zu einer grundsätzlichen Lösung der Probleme kommen. Er<lb/>
+ersuchte mich ich sollte zufällig dort auftauchen, um die Arbeit ent<lb break="no"/>sprechend voranzutreiben. Sicherlich werden die Handelskammerleute<lb/>
+sehr verwundert sein. Ich will trotzdem dort zumindestens in der Früh<lb/>
+und dann am späten Nachmittag wieder erscheinen, um hier doch die<lb/>
+beiden Gruppen dazu zu bringen, jetzt endgültig endlich einmal einen<lb/>
+grundsätzlichen Abschluß zwischen der Diskussion herbeizuführen, da<lb break="no"/>mit konkrete Arbeit endgültig gelistet werden kann. Wir kommen nämlich<lb/>
+in eine verdammt scheußliche Zeitsituation, wenn wir nicht bis spätestens<lb/>
+Anfang Oktober den Entlastungskatalog fertig haben.<lb/>
+</p>
+            <p xml:space="preserve">Die technischen Vorbereitungen im Hause ziehen sich furchtbar. Lang<lb/>
+vor meinem Urlaub hatten wir beschlossen, daß entsprechende Räume im<lb/>
+<pb n="12-1021" facs="12_1972-08-29_1021.jpg"/>Haus bereitgestellt werden müssen für die neuen Mitarbeiter und<lb/>
+das Präsidium hat mir vorgeschlagen, bis zur 5. Gehaltsstufe immer<lb/>
+zwei Leute in ein Zimmer zusammenzusetzen. Nun ist <name type="person" ref="per:97584">Jagoda</name> gekommen<lb/>
+und hat erklärt, er befürchtet, daß man dies nur von seiner Sektion<lb/>
+verlangen wird. Eine sofortige Rücksprache mit <name type="person" ref="per:97915">Schipper</name> hat ergeben,<lb/>
+daß dies nicht beabsichtigt sei, zumindestens hat <name type="person" ref="per:97915">Schipper</name> erklärt,<lb/>
+nein nein dies wird im ganzen Haus durchgeführt. Die Verzögerung hätte<lb/>
+sich nur ergeben, weil bis jetzt keine genauen Unterlagen über die<lb/>
+Sitzverteilung unseres Hauses vorhanden war. Es mußte deshalb der<lb/>
+letzte Stand erst neuerdings wieder eruiert werden. Bei dieser Ge<lb break="no"/>legenheit machte er gleich eine Bemerkung, daß <name type="person" ref="per:97584">Jagoda</name> die 20 Dienst<lb break="no"/>posten, die er für die Abteilung 25 a bekommen soll, durch die bereits<lb/>
+im Haus transferierten weitestgehend als erfüllt betrachtet werden<lb/>
+muß. <name type="person" ref="per:97915">Schipper</name> möchte hier die Aufnahmemöglichkeiten für <name type="person" ref="per:97584">Jagoda</name> weitest<lb break="no"/>gehend stoppen und ihm deshalb alle Leute, die von anderen Sektion<lb/>
+kommen, anrechnen. Die Absicht besteht wahrscheinlich, daß dann z.B.<lb/>
+für <name type="person" ref="per:107936">Elsinger</name>, der von <name type="person" ref="per:112946">Schleifer</name> weg zu <name type="person" ref="per:111737">Marsch</name> gegangen ist, <name type="person" ref="per:112946">Schleifer</name><lb/>
+dann einen neuen Mann bekommen soll. Genau dies wollen wir aber nicht<lb/>
+machen. Hier wird es noch ganz harte Auseinandersetzungen geben.<lb/>
+</p>
+            <p xml:space="preserve">In der interministeriellen Sitzung für die erläuternden Bemerkungen<lb/>
+zum Interimsabkommen hatte ich nach langer Zeit wieder die Möglichkeit<lb/>
+zu sehen, wie die Arbeit fortgeführt wird. <name type="person" ref="per:108322">Meisl</name> hat mir als Stellver<lb break="no"/>treter von <name type="person" ref="per:97867">Reiterer</name> sofort den Bürstenabzug über die bereits vorliegen<lb break="no"/>de Regierungsvorlage gegeben. Ich habe dies ohne den Namen zu nennen<lb/>
+als besondere Leistung bei der Sitzungseröffnung allgemein anerkannt<lb/>
+und darauf hingewiesen, daß hier eine sehr gute Arbeit sehr schnell<lb/>
+gemacht wurde. Damit wollte ich <name type="person" ref="per:97867">Reiterer</name> dokumentieren, daß, wenn er<lb/>
+nicht hier ist, eine bessere Kooperation zwischen den Abteilungen und<lb/>
+der Sektion und mir besteht. Zu meiner größten Verwunderung mußte ich<lb/>
+dann feststellen, daß von der Mission in Brüssel, natürlich sehr<lb/>
+schöne endgültige Übersetzung scheinbar vor längerer Zeit des Ver<lb break="no"/>trages bereits bei uns im Haus liegen, ohne daß ich ein Exemplar da<lb break="no"/>von bekommen habe. Erst bei der Sitzung habe ich mir ein solches so<lb break="no"/>fort genommen. Ebenso den ersten Entwurf der erläuternden Bemerkungen,<lb/>
+die <name type="person" ref="per:97867">Reiterer</name> mir nur zögernd bei einer Vorbesprechung geben wollte.<lb/>
+<name type="person" ref="per:97867">Reiterer</name> glaubt oder hofft noch immer, je weniger Material er mir<lb/>
+gibt, umso mehr werde ich darauf verzichten, in den Verhandlungsgang<lb/>
+<pb n="12-1022" facs="12_1972-08-29_1022.jpg"/>einzugreifen oder selbst wenn ich den Vorsitz übernehme, ihm dann<lb/>
+die Führung zu überlassen. Genau dies tue ich aber schon aus dem<lb/>
+Grund nicht, um ihm umso mehr die Absicht, nämlich sich für die<lb/>
+Brüssel-Mission zu interessieren, schmackhaft zu machen. Natürlich<lb/>
+hat er eine sehr gute Ausrede, warum er diesen Text mir bis jetzt<lb/>
+nicht zur Verfügung gestellt hat, ich weiß auch gar nicht ob es<lb/>
+absichtlich oder seine Weisung nicht geschehen ist, da er auch diesen<lb/>
+Text, wie sich jetzt herausstellte, nicht der endgültige ist. Da<lb/>
+die erläuternden Bemerkungen zu dem Vertrag keine wie immer geartete<lb/>
+Wirkungen haben, anderen Gesetzen spielt die erläuternde Bemerkung zu<lb/>
+der Erforschung des Willen des Gesetzgebers eine große Rolle, braucht<lb/>
+man glaube ich nicht allzu kritisch über dieses Problem zu verhandeln.<lb/>
+Ich war deshalb bestrebt, da alle Vorschläge die von seiten anderer<lb/>
+Ministerien kamen, <choice><choice><sic>wie</sic><corr>die</corr></choice></choice> sowieso weitestgehend natürlich vom Handels<lb break="no"/>ministerium und deren Bürokratie berücksichtigt worden wären, aber<lb/>
+auch ganz besonders die Vorschläge der Interessenvertretungen, sei<lb/>
+es der Handelskammer oder Landwirtschaftskammer zu berücksichtigen.<lb/>
+Hier erscheint das Argument, daß nicht nur der Vertrag im vollsten<lb/>
+Einvernehmen, sondern daß man sogar die erläuternden Bemerkungen alle<lb/>
+Wünsche und Anregungen der Interessenvertretungen übernommen hat,<lb/>
+wichtiger als wie ein ev. berechtigtes Ablehnen von irgendeinem De<lb break="no"/>tailvorschlag. Ich stellte in einer stundenlangen Diskussion deshalb<lb/>
+immer wieder fest, daß alles so geschieht, wie die einzelnen Interessen<lb break="no"/>vertretungen oder Ministerien es vorschlagen und wir konnten auch<lb/>
+tatsächlich eine einstimmige Beschlußfassung über alle Punkte erreichen.<lb/>
+Einzig und allein die Arbeiterkammer Dr. <name type="person" ref="per:117893">Krywult</name> hat dann ganz zum<lb/>
+Schluß gemeint, er hätte seinerzeit als Arbeiterkammertag schon ange<lb break="no"/>regt, man möge doch noch gewisse Erläuterungen zu dem Vertrag wie dies<lb/>
+die Arbeiterkammer seinerzeit gemacht hat, doch auch vielleicht jetzt<lb/>
+aufnahmen, obwohl er keinen konkreten Vorschlag gemacht hat. Hier habe<lb/>
+ich darauf hingewiesen, daß doch auch die AK mit Direktinformationen<lb/>
+der Abgeordneten wesentlich dazu beitragen könnte, die Debatte, sei<lb/>
+es im Integrationsausschuß des Nationalrates oder dann im Plenum zu<lb/>
+bereichern. Ein Vorgang der heute doch von der Handelskammer und von<lb/>
+der Landwirtschaftskammer reichlich genützt wird, wie ich zur allge<lb break="no"/>meinen Heiterkeit dort ausführte.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="12_1016_01" facs="12_1972-08-29_1016-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 29.8.1972</head>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittwoch, der 13. Juni 1973</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band16_1973-06-13</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1973-06-13">Mittwoch, 13. Juni 1973</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-09-29">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band16/">
+      <body>
+         <pb n="16-0689" facs="16_1973-06-13_0689.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Mittwoch, 13. Juni 1973</p><p xml:space="preserve">Die Budgetbesprechung mit <name type="person" ref="per:97915">Schipper</name>, <name type="person" ref="per:97722">Marhold</name>, <name type="person" ref="per:137484">Schütz</name>, <name type="person" ref="per:98053">Wanke</name>, <name type="person" ref="per:97543">Heindl</name><lb/>
+verlief wie erwartet. Die Bürokratie macht in Wirklichkeit selbst wenn<lb/>
+Richtlinien des Ministerrates vorliegen, ziemlich eigenständig irhe Politik<lb/>
+Zum Glück versteht sich <name type="person" ref="per:97722">Marhold</name> mit <name type="person" ref="per:110130">Kaber</name>, dem Vertreter des Finanzministe<lb break="no"/>riums für unser Ressorts, sehr git und deshalb ist für das Handelsministerium<lb/>
+eine gute Ausgangsbasis zu den Budgetverhandlungen bereits immer von diesen<lb/>
+beiden fixiert. Ich bin überzeugt, dass die 5 Mia Stabilisierungsbudget,<lb/>
+die zum Grundbudget dazukommen sollten,w ahrscheinlich gar nicht in voller<lb/>
+Höhe im nächsten Jahr zum TRagen kommen. Vom Konjunkturausgleichsbudget,<lb/>
+das ebenfalls ca 5 Mia umfasst, rede ivh gar nicht, dann da war ich<lb/>
+von jeher, seit dieses seit 1970 eingeführt wurde, der Meinung, dass<lb/>
+es nie zum TRagen komme wird. Für mich erscheint es desbhalb wichtig, dass<lb/>
+das Basisbudget bereits unsere Aktivitäten zumindestens fortsetzen lässt.<lb/>
+Interessant ist, dass die Bürokratie alles daransetzt, um den Apparat<lb/>
+aufrechtzuerhalten und deshalb <name type="person" ref="per:97722">Marhold</name> bereits alle Verwaltungsausgaben<lb/>
+um 5 % ehröht hat auf Kosten der Förderungsmittel für die Wirtschaft<lb/>
+im besonderen für die Industriepolitik zur VErfügung zu stellen. Ich bin i<lb/>
+auch überzeugt, dass die Bürokratie imstande ist, in allen Ressorts wahr<lb break="no"/>scheinlich die gesamten Aktivitäten einzustellen, bevor sie sich wirklich<lb/>
+restringiert. Dies erklärt so meiner Meinung nach die Verwaltungsreformen<lb/>
+ziel- und zwecklos sind. Wenn die Bürokratie nicht von ihnen heraus bereit<lb/>
+ist, eine Reform durchzuführen, von aussen kann sie nicht aufgezwungen werdn<lb/>
+<name type="person" ref="per:97311">Androsch</name> hat jetzt zwei Budgets restriktiv angelegt und trotzdem kommen<lb/>
+wir zumindestens in unseem Ressort noch immer durch. Geärgert habe ich<lb/>
+mich nur, weil ich wieder einmal in einem Punkt recht gehabt habe. Als<lb/>
+wir die Metternichgasse räumen mussten, weil die Chinesen ihre Botschaft<lb/>
+dort errichten wollten und wir am Rochusplatz in ein Privathaus der Generali<lb/>
+einziehen sollten, war ich wegen der hohen Mietzinse, diewir dort bezahlen<lb/>
+sollten, 100.- S pro m2, erschüttert und wollte irgendwo eine billigere<lb/>
+Lösung finden. Die idealste wäre gewesen, wenn der Bund ein altes Haus<lb/>
+gekauft hätte und wir dadurch im Ressorts nicht belastet würden. <name type="person" ref="per:97543">Heindl</name><lb/>
+war nun überzeugt, dass es ganz egal ist,was wir dort bezahlen, denn es<lb/>
+bezahlen nicht wir, es geht nicht aus unserem Budget sondern aus dem<lb/>
+Bautenbudget. Scheinbar hat man ihn so informiert oder zumindestens<lb/>
+von der Budgetabteilung nicht im Detail aufgeklärt. Jetzt stellt sich heraus<lb/>
+dass im Budgetansatz ZAE natürlich 3 Mill. bei uns mehr budgetiert werden<lb/>
+muss. wenn der Finanzminister auch diese 3 Mill. zur VErfügung stellt, so<lb/>
+besteh gar kein Zweifel, dass damit mein Budget aufgebläht wird und<lb/>
+<pb n="16-0690" facs="16_1973-06-13_0690.jpg"/>letztenEndes im einem Jahr kein Mensch mehr davon spricht, dass diese<lb/>
+zusätzlichenAusgaben nicht durch unsere Schuld entsanden sind. Im übrigen<lb/>
+bin ich sogar davon überzeugt, dass es unser Verschulden ist, denn wir hätten<lb/>
+müssen uns mit allen Mitteln dagegen wehren, gegebenenfalls irgendwo hatl<lb/>
+in ein entsprechende Ausweichquartier, das dem Bund gehört. übersiedln.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Da auch der Rechnungshof so schnell wie möglich aus<lb/>
+diesem Gebäude herauswill, bitte eine andere Lösung<lb/>
+suchen.</p><p xml:space="preserve">Die Besprechungen mit den Direktoren der Kohlenbergbaue und insbesonder<lb/>
+des ÖIG-Direktor <name type="person" ref="per:97470">Geist</name> war für cmich sehr interessant. ICh ahe diese<lb/>
+Besprechung nicht entiert, wurde aber von der OB gebeten, sie zu prä<lb break="no"/>sidieren und daher in der Glücklichen Lage, die anderen reden lassen<lb/>
+zu können. <name type="person" ref="per:97470">Geist</name> meinte inleitend, den Betrieben könnte man die steigenden<lb/>
+Defizite nicht mehr zumuten, entweder müsste Fohnsdorf Pölfing-Bergla<lb/>
+und auch ein <choice><choice><sic>Schaft</sic><corr>Schacht?</corr></choice></choice> der Wolfsegg-Traunthaler geschlossen weren, oder<lb/>
+der Staat müsste das Defizit übernehmen. In diesele Kerbe schlugen<lb/>
+natrülich auch die Direktoren. Nur die Vertretr des Finanzministeriums<lb/>
+<name type="person" ref="per:110130">Kaber</name> und der zuständinge Ministerialrat für die Bergbauförderung wehrten si<lb/>
+ein wenig und erklärten, dass der Bund nicht diese ungeheuren Duteznden<lb/>
+Mittlionnen für die Defizitabdeckung zr VErfügung stellen könne.<lb/>
+Was also herauskam war,, dass <name type="person" ref="per:97470">Geist</name> gleich einleitend vorgeschlagen hatte,<lb/>
+ein Komitee solltedieentsprechendne Unterlagen vorbereiten, um die Regierung<lb/>
+über die Situation im Bergbau zu informieren. Die Direktoren fürchten,<lb/>
+dass sie bei der ncähsten Lohnerhöhung, die die Metallarbeiter jetzt im Herbst<lb/>
+bekommen werdne, einen weiteren Abgang von 40 Mill. S rund erleidenwerden<lb/>
+und dann die Defizite eindeutig in allen Gesellschaften die Hälfte des<lb/>
+Grundkapitals aufgezehrt haben, wodrch die den Eigentümern über die Konkur<lb/>
+situation öffentlich berichten müssen. Wenn man bedenkt, dass selbst die<lb/>
+weitere Fortführung des Bergbaues in Fohnsdorf bis 1976 auf alle Fälle<lb/>
+der Punkt erreicht ist wo man schliessen muss, will man nicht ein<lb/>
+ungeheuer steigendes Defizit und zustätzliche Investitionen, die voll<lb break="no"/>kommen sinnlos sind, in Kauf nehmen, dann frage ich mich, warum amn wirk<lb break="no"/>lich ncht von Seiten des Bundeskanzleramts insbesonder <name type="person" ref="per:97668">Kreiskys</name> 1972 oder<lb/>
+1971 vielleicht sogar die Schliessung von Fohnsdorf durchgeführt hat.<lb/>
+Interessant war, das <name type="person" ref="per:97470">Geist</name> auch in seinen Ausführungen angedeutet hat,<lb/>
+vielleicht wird es notwendig sein, einen Kohlenversorgungsplan auf Ostimport<lb break="no"/>kohlen aufbauend mit nur ganz geringer inländischer Produktion zu er<lb break="no"/>stellen Vor allem aber zeigte sihc, dass sowohl für die WTK zumindestens<lb/>
+500.000 t an die OKA absetzen muss, derzeit aber nur einen Vertrag auf<lb/>
+<pb n="16-0691" facs="16_1973-06-13_0691.jpg"/>400.000 S hat, ist auch die SAKOG, die mindestens 460.000 produzieren<lb/>
+muss, und 400.000 nur verkaufen kann, eiine Chance hat, aktiv zu gebaren,<lb/>
+wenn sie ununterbrochen auf Halden produziert. Ich habe anschliessed<lb/>
+<name type="person" ref="per:108609">Sterk</name> und insbesondere Ing. <name type="person" ref="per:107937">Frank</name> beauftragt, im Energiekonzept diese<lb/>
+Mindestkohlenabnahme in irgendeiner Weise zu berücksichtigen. Mit der<lb/>
+Elektrizitätsgesellschaft, d.h. entweder der Verbund oder einer Landes<lb break="no"/>gesellschaft muss, wenn man die Kohlenproduktion einigermassen aufre<lb break="no"/>erhalten will, eine Mengengarantie der Abnahme zwischenden Kohleberg<lb break="no"/>werken und der Elektrizitätsversorgung gesichert und vertraglich verein<lb break="no"/>bart werden.</p><p xml:space="preserve">MIt GenDir. <name type="person" ref="per:97470">Geist</name>, Ing. <name type="person" ref="per:126225">Ronner</name> von der VÖEST, <name type="person" ref="per:107937">Frank</name> und <name type="person" ref="per:108609">Sterk</name> besprach<lb/>
+ich die Möglichkeit, ob wir zusätzliche Kohlemengen aus Polen importieren<lb/>
+könnten. <name type="person" ref="per:126225">Rohner</name> hat die Bezugsmöglichkeiten dargelegt, DAbei stllte<lb/>
+sich heraus, dass er ausserstande ist , Die Erhöhung der Bezugsmengen aus P<lb/>
+Polen in Aussicht zu stlllen. Das einzige, wozu die VÖEST bereit ist, ist<lb/>
+dass sie die jetzige Menge in einem längerfristigen Vertrag abzunehmen.<lb/>
+Eine Reduzierung der Kohlenbezugsmenge wird aber schon deshalb ein<lb break="no"/>treten, weil sie jetzt 200.000 t Lokkohle für die ÖBB importieren, die<lb/>
+natürlich mit steigender Elektrifizierung und Verdieselung immer geringer<lb/>
+werden. Die VÖEST ist im Auftrag der ÖBB bereit, einen Vertrag zu akzep<lb break="no"/>tieren, wonach sie 90 % des Bedarfes der ÖBB aus Polen importieren werden.<lb/>
+Die VÖEST hofft aber, dass sie mit diesem neuen Kohlenvertrag von den<lb/>
+Polen einige Investitionsprojekte zum Beispiel die Zementfabrik und<lb/>
+die <choice><choice><sic>Äthalenanlage</sic><corr>Äthylenanlage?</corr></choice></choice> bekommen wird. Eine Ausdehnung des Kohlenbezuges ist<lb/>
+also nicht drinnnen. Es sei den, die ÖIAG ud die VÖEST kommen überein,<lb/>
+dass eine Vergrösserung der Verkokerei von der Linzer durchgeführt.wird.<lb/>
+Hier hat <name type="person" ref="per:97470">Geist</name> aber dezidiert erklärt, dies hängt ganz von der weiteren<lb/>
+Entwicklung der Abstimmung des Programmes und des Ausbaues zwischen VÖEST<lb/>
+und Alpine ab. In den nächsten Jahren ist heir aber mit keinen endgül<lb break="no"/>tigen Entscheidung resp. Erhöhung des Kokereipotentials bei der VÖEST<lb/>
+zu rechnen. Interessant war, dass <name type="person" ref="per:126225">Rohner</name> mitr erklärte, dass die Kohle<lb break="no"/>mengen, die die Polen anbieten, ähnlich der die die Tschechen jetztn im<lb/>
+Zuge der Vermögensverhandlungen anbieten meistens gar keine Qualitäts<lb break="no"/>kohle für die Kokserzeugung ist. Er meint, für die Politiker und auch<lb/>
+für die Polen und Tschechen, die solche Mengen anbieten, wird immr gesgt<lb/>
+Wohle ist Kohle und bei den Spezialverhandlungen muss er dann feststellen,<lb/>
+dass die Reviere gar keine Kokskohle anbieten können. <name type="person" ref="per:97470">Geist</name> wird überprü<lb break="no"/>fen, wieweit wir von den Polen geröstete Kupfererze importieren könnten.</p><pb n="16-0692" facs="16_1973-06-13_0692.jpg"/><p xml:space="preserve">Wir produzieren ca. 250.000 und daraus werden 7.000 t Elektrolyt-Kupfer<lb/>
+erzeugt und die Kapazität der Elektrolyse in Brixlegg ist aber nicht<lb/>
+annähernd ausgelastet, sodass gegebenenfalls Kupfererze eingeführt werden<lb/>
+könnten, wenn eine Absatzmöglichkeit für das Elektrolyse-Kupfer besteht.<lb/>
+Er wird sich mit der ÖIAG diesbezüglich ins Einvernehmen setzen.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: <name type="person" ref="per:108609">Sterk</name> sollte auch direkte Kontakte mit den Firmen<lb/>
+aufnehmen, damit wir ein zuverlässiges Bild bekommen.</p><p xml:space="preserve">Die erste neue Zentralvorstandssitzung nach unserem Verbandstag, wo mindestens<lb/>
+ein halbes Dutzend neuer Funktionäre zu begrüssen waren, verlief eigent<lb break="no"/>lich in demselben Rhythmus wie die bisherigen. Die Kolleginnen und Kollegen<lb/>
+– verständlich – insbesondere die die neu sind, sind sehr zrückhaltend.<lb/>
+Wenn ich so höre, dass es bei anderen Gewerkschaften oft ganz hart a<lb/>
+Auseinandersetzungen gibt, zumindestens mit den anderen Fraktionen, so<lb/>
+frage ich mich immer wieso es bei uns so ruhig ist. Ich erörterte die<lb/>
+wirtschaftliche Lage und ging insbsondere natürlich auf unsere Lohnpolitik<lb/>
+ein. Ich beglückwünschte die Brauerei-Arbeiter, die einen guten Abschluss<lb/>
+getätigt haben, immerhin gelang es über 18 % Lohnerhöhung durchzusetzen,<lb/>
+wenn auch in zwei Etappen, ind zwar mit 1.6. di-e erste und mit 1.9.<lb/>
+die zweite und als Übergang bis zu dieser zweiten ETppe sogar noch Fix<lb break="no"/>beträge, die eigentlich fast eine 18 %-ige Lohnerhöhung sofoort ergeben.<lb/>
+Auch die anderen Gruppen – die Zuckerarbeiter, die als nächstes jetzt ver<lb break="no"/>handeln – sind auf das Basislohnsystem übergegangen. Damit hat sich automa<lb break="no"/>tisch das ergeben, was ich vor etlichen Jahren eingelietet habe und damals<lb/>
+nicht durchgedrungen bin, ejtzt sehen sie es selbst ein, dass dies die<lb/>
+einzige Mögliche Art ist und kommen selbst auf dieses System. Hätte ich<lb/>
+es vor Jahren mit Gewalt erzwungen, wäre es wahrscheinlich schief ge<lb break="no"/>gangen, ich hätte mich vielleicht als starken Mann fühlen können, der<lb/>
+Sache hätte es nicht gut getan und die Kolleginnen und Kollegen wären sogar<lb/>
+misstrauisch und verärgert gewesen. Für mich ist es wieder einmal BEweis,<lb/>
+dass man GEduld haben muss, dass letzten Endes es doch so kommt, wie es<lb/>
+kommen muss. Nur nichts mit Gewalt erzwingen. Kritisch wird es nur mit<lb/>
+uns werden, wenn die Bundesregierung den Getreidepreis letzten Endes doch<lb/>
+erhöht. ICh bin heute mehr denn je davon überzeugt, obwohl noch keine<lb/>
+konkretenVorschläge vorliegen, dass in irgendeinem Kuhhandel, d.h. in<lb/>
+Kompensation gegen irgendwelche Gesetze, die <name type="person" ref="per:97668">Kreisky</name> wichtig erscheinen,<lb/>
+z.B. das Ombud-Gesetz, letzten Endes die Preisforderungen der Bauern er<lb break="no"/>füllt werden. In diesem Fall müsste nämlich dann, obwohl nicht einmal noch<lb/>
+ein Jahr abgelaufen ist, auch natürlich die Bäcker- und Müllerarbeiten<lb/>
+zu Lohnerhöhungen antreten. Für uns ist es vollkommen unakzeptabel, dass<lb/>
+<pb n="16-0693" facs="16_1973-06-13_0693.jpg"/>es zu Preiskorrekturen auf dem Getreidepreis und damit im Zusammenhang<lb/>
+Mehlpreissektor käme, ohne dass nicht die Löhne ebenfalls erhöht werden.<lb/>
+Der letzte Vertrag wurde allerdings erst im Oktober 1972 abgeschlossen.<lb/>
+Am Getreide- und Milchsektor wird es also ganz harte Auseinandersetzungen<lb/>
+geben und übrigens auch beim Fleisch. Die Fleischerkollegen sind ebenfalls<lb/>
+nicht bereit, wenn die Fleischindustrie und das Gewerbe ihre Preise ständig<lb/>
+erhöhen und wenn vor allem auch vielleicht die offiziell gestoppten Preise<lb/>
+nachgezogen werden, dann nicht ebenfalls Lohnerhöhungen durchzusetzen. ICh<lb/>
+hoffe aber, dass dies im Trubel der Herbstl. Lohnrunde untergehen wird.</p><p xml:space="preserve">Vor der Paritätischen Kommission konnte ich – da ich ja immer bei der<lb/>
+Handelskammer sitze – feststellen, dass <name type="person" ref="per:97668">Kreisky</name> wieder einen geschickten<lb/>
+Schachzug gestartet hat. Da die ÖVP die Mitreise <name type="person" ref="per:97647">Korens</name> nach Polen ver<lb break="no"/>boten hat, d.h. sie beschloss, dass sie nicht daran teilnimmt, hatte <name type="person" ref="per:97668">Kreisky</name><lb/>
+die Handelskammer eingeladen. <name type="person" ref="per:97893">Sallinger</name> hat keine Zeit und VP <name type="person" ref="per:97938">Seidl</name>, der<lb/>
+zweite Funktionär, der in Frage kommt, sit auch an diesem TErmin leider<lb/>
+schon besetzt. <name type="person" ref="per:97769">Mussil</name> aber wird daran teilnehmen, freut sich sogar schon drau<lb/>
+umso mehr als <name type="person" ref="per:97668">Kreisky</name> auch erklärt hat, dass er auch seine Frau mitnehmen könn<lb break="no"/>te. <name type="person" ref="per:97668">Kreisky</name> schlderte das in herrlichsten Farben, er meinte, es wird ein<lb/>
+eigener Schlafwagen d.h. damit ein eigener Waggon zur VErfügung stehen,<lb/>
+er selbst fährt mit seiner Frau, bittet dahr auch die anderen TEilnehmer<lb/>
+ihr Frauen mitzunehmen, verspricht, dass er alle UNterlagen, die er besitzt<lb/>
+<name type="person" ref="per:97769">Mussil</name> zur VErfügung stellen wird, sodass dieser fast das Gefühl in der<lb/>
+Delegation wichtig und bedeutend u sein. <name type="person" ref="per:97893">Sallinger</name> erklärt mir nachher, dass<lb/>
+es für ihn selbstverständlich war, dass die Handelskammer, als sie aufgeforder<lb/>
+wurde, positiv einen solchen Antrag akzeptieren musste. ICh bekräftigte in<lb/>
+natürlich und erklärte, als Interessensvertretung muss er jede Chance wahren,<lb/>
+um den polnisch-österreichischen Handel zu verbessern. ICh bin neugieirig,<lb/>
+ob <name type="person" ref="per:97668">Kreisky</name> auch die Arbeiterkammer eingeladen hat.</p><p xml:space="preserve">In der Paritätischen Kommission gab es keinerlei Diskussion über die Freigabe<lb/>
+der Metallarbeiterlöhne und der Privatangestellten. Damit sind die Weichen<lb/>
+für die Lohnbewegung im Herbst endgültig gestellt. Auch der Brauerei-Abschluss<lb/>
+mit 18 % wurde vonder Paritätischen Kommission ihne Diskussion zur Kenntnis<lb/>
+genommen. Eine lange Debatte entwickelte sich nur über die Preiserhöhungsan<lb break="no"/>träge der Möbelindustrie. Die Handelskammer hat die 7 – 10 %-igen Anträge<lb/>
+der Interessensgruppen, d.h. des Fachverbandes auf 2,5 bis 4,8 % reduziert.<lb/>
+Tiefer könnte sie – erklärte sie – nicht gehen. <name type="person" ref="per:97346">Benya</name> war nur bereit, eine<lb/>
+4 %-ige Erhöhung zu akzeptieren, weshalb es zu keiner Einigung kam. Inter<lb break="no"/>essant war, dass sowoihl Bundesrat <name type="person" ref="per:114046">Böck</name>, der bei der Paritätischen Kommission<lb/>
+anwesend war, als auch Präs. <name type="person" ref="per:97568">Horr</name>, beide Bauarbeiter, der letztere sogar ein<lb/>
+<pb n="16-0694" facs="16_1973-06-13_0694.jpg"/>Holzarbeiter, mit allerdings nicht zuviel Ziffern belasteten Argumenten<lb/>
+auf Seite <name type="person" ref="per:97346">Benyas</name> kämpften. Da es aber auf solcher Spitzenebene nie um<lb/>
+die wirklichen Ziffern geht, sondern mehr oder mindeer die Ergebnisse<lb/>
+ausgehandelt werden, kommtes zu einer Einigung, wenn man sich einigen will<lb/>
+und zu keiner, wennes eben nicht mgölich ist. <name type="person" ref="per:97938">Seidl</name> war ein bisschen er<lb break="no"/>schüttert und sprach: Hier geht es zu wie beim Viehhandel. <name type="person" ref="per:97938">Seidl</name> aber hat<lb/>
+in dm Fall angenommen, dass die Handelskammer wirklich eingehend geprüft<lb/>
+hat, ob die 4,8 % notwendig sind. In Wirklichkeit bin ich überzeugt und<lb/>
+aus Zwischengesprächen konnte ich das entnehmen, war nur der Fachverband<lb/>
+nicht bereit , hier auch nur ein Zehntel Prozent nachzugeben. Da keine<lb/>
+Einigung zu standekommt, können die 660 Firmen, die der holzverarbeiten<lb break="no"/>den Industrie angehören, jetzt Preisgestaltung frie durchführen. In Wirk<lb break="no"/>lichkeit war es ein Streit um des Kaisers BArt, wie ich nachher sowohl<lb/>
+der Arbeitgeber- als auch der Arbeitnehmerseite auseinandersetzte.<lb/>
+Da die Möbelindustrie jederzeit die Möglichkeit hat, ja sogar die Notwendig<lb break="no"/>keit hat, ihre Modelle zu ändern, jederzeit andere Beschläge und sonstige<lb/>
+Details ändern muss, ergibt sich, dass in der Preiskontrolle es überhaupt<lb/>
+keine Möglcihkeit gibt, festzustellen, ob sie um 4 oder 4,8 % erhöht<lb/>
+haben. Vielleicht wird es in diesem FAll sogar wirklich zweckmässig sein<lb/>
+keine Preiserhöhungsempfehlung herauszugeben, da die Firmen sich ansonsten<lb/>
+ja nur, wenn sie selbst das GEfühl haben, es kaum vertretne zu können,<lb/>
+sich darauf berufen können, dass es die Paritätische Kommission dies<lb/>
+beschlossen hat. Jetzt sind sie in ihrer Preisentwicklung frie und<lb/>
+können tun und lassen, was sie wollen.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: Bitte die Abteilung 10 und insbesondere das Branchen<lb break="no"/>referat zu ersuchen, die Möbelpreise jetzt genauest<lb/>
+zu verfolgen.</p><p xml:space="preserve">Eine ähnliche Diskussion hat sich ann bei der Baustoffindustrie herausge<lb break="no"/>stellt. Hier einigte man sich dann letzten Endes aber doch. Die Tätigkeit<lb/>
+der PK wird auch immer problematischer. Wahrscheinlich müsste man ein<lb/>
+anderes System shcön langsam keiieren. Natürlich wird der Endeffekt slbst<lb/>
+bei einem neuen System, das wir vielleicht im ZUge der gesamten neuen<lb/>
+Preisgestaltung für das Jahr 1974 vorbeeitn, dann nichts anderesherauskomm<lb/>
+men als wie, dass eben n-eur WEin in die alten Schläcue gegossen werden<lb/>
+soll, die Formen werden aber auf alle Fälle gleichbleibne.</p><p xml:space="preserve">VP <name type="person" ref="per:97938">Seidl</name> hat mir neuerdings versichert, dass ich unbedingtünach Moskau<lb/>
+zur Gemischten Kommission fahren müsste. Ich habe ihm unsere finanzielle<lb/>
+Situation erklärt und er meinte, na das müsste doch auf alleFälle<lb/>
+möglich sein, in der Handelskammer zu lösen. Er selbst wird sich also<lb/>
+sehr defür einsetzen. Interessant war, dass er mir auch versichert hat,<lb/>
+<pb n="16-0695" facs="16_1973-06-13_0695.jpg"/>dass man sehr froh ist, dass ich nicht Bürgermeister wurde, weil man<lb/>
+grosse Angst und Bedenken hat, dass dann irgendwer anderer nachkommt,<lb/>
+der eine Politik macht, die für die Handelskammer wesentlich ungünstiger<lb/>
+ist. <name type="person" ref="per:97938">Seidl</name> meinte nur, ich hätte vielleicht bis jetzt zuviel Konsumenten<lb break="no"/>politik betrieben. Als ich ihm allerdings auseinandersetzte, dass dies<lb/>
+letzten Endes auch im Interesse des Handels und der Industrie geschehen ist<lb/>
+und an konkretenBEispiel erörterte, war er davon überzeugt, dass sicherlich<lb/>
+auch ein anderer Minister vielleicht hier noch mehr danebengehauen hätte<lb/>
+und für sie schlechter agiert als ich dies tue. Besonders mein Hinweis,<lb/>
+dass letztenEndes ja auch der ÖAAB hier Aktivitäten entwicklen will und<lb/>
+Forderungen aufstellt, wie z.B. Investiv-Lohn, die für die Unternehmungen<lb/>
+verheerend sind, hat ihndann glaube ich restlos überzeugt, dass ich<lb/>
+das kleinere Übel bin.</p></div>
+      </body>
+      <back>
+         <pb n="16_0688_06" facs="16_1973-06-13_0688-06.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 13.6.1973</head>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+   </text>
+</TEI>

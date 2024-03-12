@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittwoch, der 20. Februar 1980</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band53_1980-02-20</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1980-02-20">Mittwoch, 20. Februar 1980</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2017-09-05">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="53-0221" facs="53_1980-02-20_0221.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Mittwoch, 20. Feber 1980<lb/>
+</p>
+            <p xml:space="preserve">Der ehemalige polnische Botschafter in Österreich, <name type="person" ref="per:97616">Karski</name>, der<lb/>
+vor 1 1/2 Jahren nach Polen zurückgerufen wurde, ist jetzt<lb/>
+Aussenhandelsminister. Bei seiner Ankunft erklärte er mir zwar,<lb/>
+dass er zu seiner Bestellung nichts beigetragen hat, ich glaube<lb/>
+es nicht. Er kam mit einer entsprechenden Botschaft des neuen<lb/>
+Ministerpräsidenten an <name type="person" ref="per:97668">Kreisky</name>, ohne dass er es mir sagte, wahr<lb break="no"/>scheinlich mit dem Hinweis, es wird alles so weitergehen, wie<lb/>
+es <name type="person" ref="per:97591">Jaroszewicz</name> auch mit <name type="person" ref="per:97668">Kreisky</name> gehandhabt hat. Ständige persön<lb break="no"/>liche Kontakte, ohne Protokoll, grosses Interesse Polens die<lb/>
+ökonomischen Beziehungen zu verbessern. <name type="person" ref="per:97668">Kreisky</name> gibt ihm sogar<lb/>
+ein eigenes Mittagessen. Mir gegenüber meinte <name type="person" ref="per:97668">Kreisky</name>, <name type="person" ref="per:97591">Jaroszewicz</name> muss<lb/>
+jetzt für seine untüchtigen Minister büssen.<lb/>
+</p>
+            <p xml:space="preserve">Auch im vergangenen Jahr importierten wir für 2.7 Mia, um 24%<lb/>
+mehr, aus Polen. Unser Export aber machte 5.8 Mia, 8% mehr, nach<lb/>
+Polen aus. Das Handelsbilanzdefizit von polnischer Seite gesehen,<lb/>
+3.1 Mia, untragbar. Zugegebenermassen, 1976 waren es fast 4 Mia.<lb/>
+Auf dieses Ungleichgewicht hatte ich daher einleitend sofort ver<lb break="no"/>wiesen und traditionsgemäss eine Liste von Projekten überreicht,<lb/>
+an denen österreichische Firmen besonders interessiert sind.<lb/>
+<name type="person" ref="per:97616">Karski</name> selbst meinte dann, es müsste ein Strukturwandel auch erfolgen.<lb/>
+Sie exportieren mit einem 12%igen Anteil Elektromaschinen, Industrie<lb break="no"/>geräte usw. Unser Anteil dagegen am österreichischen Export 45%.<lb/>
+<name type="person" ref="per:97616">Karski</name> glaubt, daran sei insbesondere die Zollbelastung schuld.<lb/>
+Er erwartet § 6 Ermässigungen resp. überhaupt eine Zollfreistel<lb break="no"/>lung, wie die EG und EFTA Staaten haben. 1978 waren es immerhin<lb/>
+39 Mio Schilling. Fürs I. bis III. Quartal 1979 19 Mio, mit anderen<lb/>
+Worten auch in diesem Oststaat weniger im vergangenen Jahr als<lb/>
+früher, obwohl das Volumen doch wesentlich zugenommen hat.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Die Oststaat § 6 Ermässigungen müssen analysiert<lb/>
+werden.<lb/>
+</p>
+            <pb n="53-0222" facs="53_1980-02-20_0222.jpg"/>
+            <p xml:space="preserve">Innerhalb des 25 Mia Schilling Kreditrahmens sind 4 Mia für<lb/>
+Investitionen vorgesehen, 2 Mia für chemische Halbfabrikate<lb/>
+und Textilien, 300 Mio, ein 3-Jahreskredit für <name type="person" ref="per:117119">Klein</name>- und Mittel<lb break="no"/>betriebe und 240 Mio, ein 3-Jahreskredit für Getreide. Besondere<lb/>
+Zollerleichterungen erwartet er sich bei Kupferdraht, Möbel,<lb/>
+Textilien, Glas, Porzellan, Schuhe, Heizöl, Methanol.<lb/>
+</p>
+            <p xml:space="preserve">Die wirklich wichtigste Frage war aber, endlich die Kohlenfinan<lb break="no"/>zierung, versprochen 300 Mio Dollar, zu klären, damit die Million<lb/>
+jährliche Kohlenlieferung, ein dreiseitiges Abkommen zwischen<lb/>
+Österreich, CSSR und Polen, endlich erfüllt werden könnte. Er<lb/>
+erwähnte, dass von 1983 bis zum Jahre 2004 eine Summe von 20 bis<lb/>
+25 Mio Tonnen geliefert werden sollte. Ich befürchtete schon, dass<lb/>
+er aufgrund dieser Summierung womöglich die – wie MR <name type="person" ref="per:97426">Fälbl</name> befürchtete –<lb/>
+7 Mia Schilling Kreditrahmen zusätzlich wünscht. <name type="person" ref="per:97616">Karski</name> ist aber<lb/>
+schlau genug, bei seinem letzten Besuch vor etlichen Monaten ver<lb break="no"/>suchte er bei <name type="person" ref="per:97311">Androsch</name> noch zusätzlich 2 Mia Schilling Kredit<lb break="no"/>rahmen zu bekommen. Durch den ungeheuer grossen Anteil Österreichs<lb/>
+aber an der Gesamtverschuldung Polens und vor allem auch an den<lb/>
+hohen absoluten Betrag, den Polen jetzt schon hat, musste <name type="person" ref="per:97311">Androsch</name><lb/>
+sogar seine beim <name type="person" ref="per:97668">Kreisky</name>-Besuch angedeutete Bereitschaft, eventuell<lb/>
+später zu erhöhen, zurücknehmen. <name type="person" ref="per:97616">Karski</name> verlangte ein Regierungs<lb break="no"/>abkommen über die Kohlenlieferung und 300 Mio Dollar Kredit. Da<lb/>
+wir solche Dachabkommen schon etliche Male mit Staatshandelsländern<lb/>
+geschlossen haben, gibt es dafür überhaupt kein Problem.<lb/>
+</p>
+            <p xml:space="preserve">GD <name type="person" ref="per:97453">Fremuth</name>, Verbundgesellschaft, erklärte, warum sich die Finan<lb break="no"/>zierungsfrage verzögerte. Das Bankenkonsortium konnte sich nicht<lb/>
+über die Führerschaft einigen. Erst jetzt im Feber wurde endgültig<lb/>
+entschieden, dass die CA Konsortiumsführer ist und der Co-Manager<lb/>
+die Zentralsparkasse. Ein eigenes Bundesgesetz über die Garantie<lb break="no"/>übernahme der 300 Mio Dollar wird jetzt vom Bankenkonsortium und der<lb/>
+Verbundgesellschaft studiert. Beabsichtigt ist ein Bardepot<lb/>
+bei der Bank Handlowy für Weglokoks zu errichten. Die Abdeckung für<lb/>
+die Kohlenlieferungsforderung, die Bürgschaft übernimmt nicht die<lb/>
+Österreichische Kontrollbank, sie ist auch nicht konsortiales<lb/>
+Mitglied, geschweige denn Führer. Die Kreditdauer wird mit 10 Jahren<lb/>
+festgelegt, die Polen wollten 12, 3 Jahre sind rückzahlungsfrei,<lb/>
+die Polen wollten 5. Zu prüfen ist für die Verbund noch, ob die<lb/>
+Verbundgesellschaft in ihren Bilanzen diese Kredittransaktion aus<lb break="no"/><pb n="53-0223" facs="53_1980-02-20_0223.jpg"/>weisen muss. <name type="person" ref="per:97453">Fremuth</name> nimmt an, dass im März alles geklärt sein<lb/>
+kann und dann die entsprechenden Verträge endlich unterschrieben.<lb/>
+Wir werden ein Dachabkommen entwerfen, den Polen zur Stellung<lb break="no"/>nahme schicken und bei der nächsten polnisch-österreichisch Gemischten<lb/>
+Kommission in Krakow unterschreiben.<lb/>
+</p>
+            <p xml:space="preserve">Die <name type="person" ref="per:97668">Kreisky</name>-Idee, ein Elektrokraftwerk in Polen zu errichten,<lb/>
+wird vom Ministerium für Energetik und Atomindustrie geprüft.<lb/>
+</p>
+            <p xml:space="preserve">Voll Freude erzählte man mir, dass jetzt <name type="person" ref="per:115685">Mischek</name> die 3 Motels,<lb/>
+183 Mio Schilling, endgültig zugeschlagen wurden. Bezüglich des<lb/>
+Aromatenkomplexblock, an dem die VOEST besonderes Interesse hat,<lb/>
+vereinbarte ich mit <name type="person" ref="per:97616">Karski</name>, dass die VOEST-ler sich mit ihm in<lb/>
+Verbindung setzen wollen. Er ist jederzeit zur Auskunft und In<lb break="no"/>formationsentgegennahme bereit. Beim Mittagessen, an dem auch<lb/>
+<name type="person" ref="per:97511">Haiden</name> teilnahm, stellte sich heraus, dass <name type="person" ref="per:97616">Karski</name> auch ein Jäger<lb/>
+ist. <name type="person" ref="per:97511">Haiden</name> und ich haben ihn sofort für seinen nächsten Besuch<lb/>
+zur Jagd eingeladen.<lb/>
+</p>
+            <p xml:space="preserve">Bei dem Besuch der Schokoladefabrik vom Konsum in der Arndtstrasse,<lb/>
+konnte ich mich von den räumlich miesen Verhältnissen überzeugen.<lb/>
+Maschinell ist die Fabrik nicht so schlecht bestückt, als Dir. Dr.<lb/>
+<name type="person" ref="per:97676">Lachs</name> es immer wieder bei Diskussionen in den letzten Monaten be<lb break="no"/>hauptete. Der für die Produktion zuständige, ebenfalls anwesende Direk<lb break="no"/>tor <name type="person" ref="per:121999">Gerharter</name> erklärte das Konsumkonzept. Die erste Linie Fleisch und<lb/>
+Brot. Der Fleischwarenbetrieb in St. Marx hat 200 Mio Investitionen<lb/>
+gekostet und arbeitet bereits im ersten Jahr aktiv. In Klagenfurt<lb/>
+soll 1981 mit 80 Mio Investitionen ein neuer Betrieb aufmachen.<lb/>
+In den Bundesländern eine Brotfabrik von 60 Mio, in Leoben eine<lb/>
+weitere von 60. Die Wolfganggasse wird in späterer Folge eine Inve<lb break="no"/>stition von 100 Mio Schilling nötig haben. Ein weiterer Fleisch<lb break="no"/>betrieb soll noch in Hallein mit 80 Mio Schilling Investitionen<lb/>
+entstehen. Die zweite Linie sind Dauerbackwaren, wo man in Linz<lb/>
+15 Mio investiert hat und wahrscheinlich für die Brotproduktion<lb/>
+in Linz auch 20 Mio Schilling wird investieren müssen. Die dritte<lb/>
+Linie sind Essig, Sprit und Schokolade, Nährmittel, Wein, Kaffee.<lb/>
+Dies kommt erst in ein paar Jahre in Frage. Die neue Süsswaren<lb break="no"/>fabrik müsste 7000 bis 8000 qm Produktionsfläche haben in Ebene,<lb/>
+derzeit nicht einmal die Hälfte und in drei Stockwerken. Die Süss<lb break="no"/><pb n="53-0224" facs="53_1980-02-20_0224.jpg"/>warenfabrik wird entweder in Atzgersdorf oder in Hirschstetten<lb/>
+in dem neuen Lagerhaus gebaut. Die vierte Linie ist non food,<lb/>
+chemische Fabrik in Atzgersdorf, wo ebenfalls Colgate und Palmolive-<lb/>
+Produkte für diese Firma erzeugt werden. Die Kunststoffproduktion<lb/>
+soll ausgebaut werden, insbesondere für den eigenen Bedarf oder<lb/>
+soweit Ware zugekauft wird, verlangt die COOP eine Abfüllung<lb/>
+in ihre Kunststoffbehälter und Flaschen. Die Papierverarbeitung<lb/>
+soll im Ausbau der Druckerei, aber insbesondere durch die 40 Mio<lb/>
+Taschen, die sie jährlich brauchen, Eigenbedarf decken. Zwei Klei<lb break="no"/>derfabriken, eine in Wien und eine in der Steiermark, erzeugen<lb/>
+1.200 Hosen pro Tag. Darüber gibt es kleine Holzverarbeitungs<lb break="no"/>betriebe auch noch. Insgesamt wird in den 72 Produktionsbetrieben<lb/>
+ein Umsatz von 4 Mia Schilling zu Fabrikabgabepreisen und, wenn<lb/>
+man die Spannen dazu rechnet, zu 5 Mia Schilling abgegeben.<lb/>
+3.000 Beschäftigte und Investitionen von 180 bis 200 Mio Schilling<lb/>
+pro Jahr, zuzüglich 50 Mio, die die Taggermühle, ein Mischfutter<lb break="no"/>werk mit 18% Marktanteil, und weitere 30 Mio Schilling in COOP-<lb/>
+Betrieben dazurechnen muss. In den nächsten 5 Jahren sollen 400 Mio<lb/>
+noch investiert werden. Die Differenz zwischen 4 Mia Umsatz und 5 Mia,<lb/>
+inklusive der Spanne ergibt, weil für Schwarzbrot 29%, für Weissbrot<lb/>
+31%, für Feinbackwaren 33%, für Dauerbackwaren 30%, für Fleisch<lb/>
+20% und für Wurst 25% Spanne an die Handelsbetriebe verrechnet<lb/>
+werden. Die Produktion hat derzeit einen Anteil von 25% an Gesamt<lb break="no"/>umsatz und soll auf 33% gesteigert werden. <name type="person" ref="per:97676">Lachs</name> erörterte dann,<lb/>
+dass der Gesamtzentralkonsum einen Umsatz von 20 Mia und eine In<lb break="no"/>vestitionssumme von 900 Mio Schilling heuer haben wird. Davon<lb/>
+müssen 500 Mio fremdfinanziert werden. 16% Eigenmittel derzeit<lb/>
+werden immer durch die hohen Investitionskosten einen geringeren<lb/>
+Anteil haben. Die Betriebsräte waren mit dieser Auskunft zufrieden.<lb/>
+Ich auch, denn auf was es ankommt, ist, dass endgültig jetzt auf lange<lb/>
+Sicht gesehen der Produktionsbetrieb, der kostendeckend arbeitet,<lb/>
+nicht zuletzt durch die abgeschriebenen Gebäude und Maschinen, auf<lb/>
+alle Fälle weiter aufrecht bleibt. Der Wunsch <name type="person" ref="per:121999">Gerharters</name> war, ich<lb/>
+sollte noch andere Betriebe besuchen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98072">WIESINGER</name>: Wenn ich sonst schon gar nichts anderes<lb/>
+zu tun habe, mit Konsum vereinbaren.<lb/>
+</p>
+            <pb n="53-0225" facs="53_1980-02-20_0225.jpg"/>
+            <p xml:space="preserve">Bei der Aussprache zwischen Bundeskanzler und Parteiobmann <name type="person" ref="per:111325">Mock</name><lb/>
+erzählte <name type="person" ref="per:97668">Kreisky</name> <name type="person" ref="per:111325">Mock</name> zuerst, was bei 25 Jahren Staatsvertrag<lb/>
+geschehen soll und lud die ÖVP ein, einen Redner, den sie be<lb break="no"/>stimmt, aber man erwartet, dass <name type="person" ref="per:111325">Mock</name> oder eventuell <name type="person" ref="per:97714">Maletta</name> diese<lb/>
+Ansprache halten wird, wie auch <name type="person" ref="per:111325">Mock</name> in der Diskussion dann bestä<lb break="no"/>tigte, zu nennen.<lb/>
+</p>
+            <p xml:space="preserve">Hauptproblem war aber, für mich zumindestens, die Bestellung von<lb/>
+<name type="person" ref="per:115082">Wiesinger</name> in der DoKW. <name type="person" ref="per:97668">Kreisky</name> hat in einem Antwortbrief am 23.1.<lb/>
+<name type="person" ref="per:111325">Mock</name> erklärt, was bei der ÖDK und DoKW vorgeht. <name type="person" ref="per:111325">Mock</name> meint, das<lb/>
+bewährte System der Vergangenheit sollte man aufrecht erhalten.<lb/>
+Er gab aber einleitend selbst sofort zu, dass es kein Abkommen<lb/>
+im Verbundbereich gibt, wie dies bei der ÖIAG sehr wohl besteht.<lb/>
+In der Vergangenheit hätten sie aber praktisch Parität gehabt. Ihr<lb/>
+Vorschlag sei deshalb <name type="person" ref="per:119252">Dobner</name> anstelle von den ausscheidenden <name type="person" ref="per:114988">Hermann</name><lb/>
+zu bestellen. Ich habe <name type="person" ref="per:111325">Mock</name> die Situation in der Verbundgesellschaft,<lb/>
+insbesondere andeutungsweise auf die Vorwürfe, die gegen <name type="person" ref="per:119252">Dobner</name> er<lb break="no"/>hoben werden, reagiert und erklärt, der beste Mann in unseren Augen<lb/>
+ist der unpolitische <name type="person" ref="per:115082">Wiesinger</name>. Ich habe das Bewerbungsschreiben<lb/>
+<name type="person" ref="per:115082">Wiesinger's</name> <name type="person" ref="per:111325">Mock</name> übergeben. Nach längerer Diskussion hat <name type="person" ref="per:111325">Mock</name> dann<lb/>
+gemeint, er sehe, wir weichen von dem Vorschlag nicht ab, auch<lb/>
+<name type="person" ref="per:97668">Kreisky</name> hat das, ein einziges Mal allerdings, dafür um so dezidierter<lb/>
+erklärt, und er bedaure dies, müsse dies aber zur Kenntnis nehmen.<lb/>
+Um meine Verhandlungsbereitschaft zu zeigen und dass ich keinen<lb/>
+Konflikt wünsche, ich verwies auch darauf, dass bei der ÖDK ja<lb/>
+letzten Endes sogar ein einstimmiger Beschluss im Aufsichtsrat<lb/>
+zustande kam, bei der DoKW wurde in der ÖVP-Alleinregierung auch<lb/>
+ein unpolitischer Fachmann anstelle des Sozialisten berufen, er<lb break="no"/>wähnte ich, dass Energiesprecher <name type="person" ref="per:112931">Köck</name> unserem Energiesprecher<lb/>
+<name type="person" ref="per:97543">Heindl</name> gesagt hat, anstelle des derzeitigen Präsidenten <name type="person" ref="per:112215">Weiss</name>, der<lb/>
+weit über 70 Jahre ist, sollte <name type="person" ref="per:97769">Mussil</name> kommen. <name type="person" ref="per:97668">Kreisky</name> war von dem<lb/>
+Vorschlag sofort begeistert. <name type="person" ref="per:111325">Mock</name> meint, dies müsste noch in den<lb/>
+Vorständen der ÖVP beschlossen werden. Vorher muss er aber noch mit<lb/>
+Präsident <name type="person" ref="per:112215">Weiss</name> selbst reden. <name type="person" ref="per:97668">Kreisky</name> hat dann vorgeschlagen, es<lb/>
+wäre zweckmässig mit den Aufsichtsratsvorsitzenden der Verbundge<lb break="no"/>sellschaft entsprechende Ressortgespräche zu führen. Damit war ich<lb/>
+sofort einverstanden.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Bitte Termin mit Präs. <name type="person" ref="per:112215">Weiss</name> und dem Vor<lb break="no"/>sitzenden-Stellvertreter <name type="person" ref="per:98037">Vogl</name> vereinbaren.<lb/>
+</p>
+            <pb n="53-0226" facs="53_1980-02-20_0226.jpg"/>
+            <p xml:space="preserve">Ich hatte sofort anschliessend <name type="person" ref="per:97543">Heindl</name> über diese Aussprache in<lb break="no"/>formiert. Im Laufe der Plenarsitzung ist dann auch Dr. <name type="person" ref="per:111410">König</name> zu<lb/>
+ihm gekommen und hat erklärt, alle Verhandlungen werden sofort abge<lb break="no"/>brochen, es ist reinster Kriegszustand zwischen den beiden Frak<lb break="no"/>tionen. <name type="person" ref="per:97543">Heindl</name> zeigte sich verwundert, denn die Aussprache mit<lb/>
+<name type="person" ref="per:111325">Mock</name> war keinesfalls so negativ. <name type="person" ref="per:112931">Köck</name> dürfte sofort zu <name type="person" ref="per:111325">Mock</name> gelaufen<lb/>
+sein, denn dieser ersuchte mich dann, mit <name type="person" ref="per:111410">König</name> sofort zu einer<lb/>
+neuerlichen Aussprache. Dort wollte er insbesondere die Vorwürfe<lb/>
+gegenüber <name type="person" ref="per:119252">Dobner</name> wissen und ich habe ihm dann die Informationen<lb/>
+vorgelesen. <name type="person" ref="per:111410">König</name> musste zugeben, dass die Vorfälle stattgefunden<lb/>
+haben, meinte nur, <name type="person" ref="per:119252">Dobner</name> sei das belastende Material von unserer<lb/>
+Seite in die Hände gespielt worden, damit er gegen <name type="person" ref="per:112014">Erbacher</name> polemi<lb break="no"/>sieren kann. Er selbst hat dieses Material aber nie verwendet. Dem<lb break="no"/>gegenüber gibt es eindeutige Zeugenaussagen. <name type="person" ref="per:111325">Mock</name> war über die<lb/>
+Information sehr überrascht und versuchte dann noch anstelle <name type="person" ref="per:119252">Dobner</name><lb/>
+den DoKW-ÖAAB'ler <name type="person" ref="per:122004">Gruber</name> ins Gespräch zu bringen. Mein Hinweis, dass<lb/>
+<name type="person" ref="per:115082">Wiesinger</name> der Beste ist, konnte nicht entkräftet werden. <name type="person" ref="per:111325">Mock</name> meinte<lb/>
+allerdings nur, wenn die Sozialisten sich irgendwo umsehen, werden<lb/>
+sie immer einen passenden Fachmann finden und dadurch die Möglich<lb break="no"/>keit haben, die ÖAAB-ler überall rauszudrängen. Überrascht war<lb/>
+<name type="person" ref="per:111410">König</name>, als ich ihm erklärte, die beiden Parteiführer seien überein<lb break="no"/>gekommen, dass ich in Hinkunft die Elektrizitätsfragen mit den Prä<lb break="no"/>sidenten des Aufsichtsrates der Verbundgesellschaft besprechen werde.<lb/>
+<name type="person" ref="per:111410">König</name> meinte, dafür sei er zuständig. <name type="person" ref="per:111325">Mock</name> hat dann daher auch sofort<lb/>
+eingeschränkt, es sollte sich nur um die Personalfragen handeln.<lb/>
+Diese kleine Kontroverse zeigt mir deutlich, dass <name type="person" ref="per:111410">König</name> natürlich<lb/>
+seine Kompetenz innerhalb der Partei unbedingt halten will. Er meinte,<lb/>
+Energiefragen müssten mit ihm besprochen werden. Darauf gab ich<lb/>
+keine Antwort. Ich werde das System wie bisher weiter handhaben.<lb/>
+Mit <name type="person" ref="per:111410">König</name> verhandelt <name type="person" ref="per:97543">Heindl</name> auf parlamentarischer Ebene, mit den<lb/>
+alten Präsidenten und sicherlich auch mit den neuen, wenn es <name type="person" ref="per:97769">Mussil</name><lb/>
+wird, werde ich die Energiefragen sehr wohl im gesamten Umfang und<lb/>
+inklusive der Personalfragen besprechen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Für die erste Aussprache korrigiere ich<lb/>
+meine obige Anmerkung, nur Präsident <name type="person" ref="per:112215">Weiss</name> zu mir laden.<lb/>
+</p>
+            <p xml:space="preserve">In der Paritätischen Kommission, wo <name type="person" ref="per:97668">Kreisky</name> dieses Mal den Vorsitz<lb/>
+führte, wurden die Preisanträge chemische Produkte teils bewilligt,<lb/>
+Stickstoffdünger sowie Armaturen an den Preisunterausschuss zurück<lb break="no"/><pb n="53-0227" facs="53_1980-02-20_0227.jpg"/>verwiesen. Eine lange Diskussion gab es dann um die Ölprodukten<lb break="no"/>preise. Der Antrag der Erdölindustrie wurde ebenfalls dem Preis<lb break="no"/>unterausschuss rückverwiesen. <name type="person" ref="per:97872">Rief</name> referierte dann, ich werde<lb/>
+aufgefordert, Dieselkraftstoff wieder in die Preisregelung zu<lb/>
+übernehmen. "Aufgefordert" hat alle dann mit Recht aufgeregt und<lb/>
+<name type="person" ref="per:97893">Sallinger</name> und <name type="person" ref="per:97346">Benya</name> haben sofort korrigiert: "ersucht". Ich betrachte<lb/>
+dies aber wirklich als eine Aufforderung, halte sie für falsch und<lb/>
+erklärte daher jedermann, der mich fragte, die Preiskommission<lb/>
+wird dies zu prüfen haben. In meiner Erwiderung aber stellte ich<lb/>
+fest, dass für mich die Versorgungsfrage die wichtigere ist. Ich<lb/>
+werde daher die Ölfirmen auffordern, mir vorerst mitzuteilen, wie<lb/>
+sie die Versorgungsgarantie für Diesel bei Einbeziehung in die<lb/>
+Preisregelung und bei welchem Preis sie diese gewährleisten können.<lb/>
+Insbesondere stellte ich zur Diskussion, ob nicht alle Derivate von<lb/>
+mir dann wieder preisgeregelt werden müssen. Die ÖVP erklärt nämlich<lb/>
+im Parlament immer, entweder alles frei, oder alles preisregeln.<lb/>
+Generalsekretär <name type="person" ref="per:112978">Kehrer</name> meinte deshalb, ich sollte nur zu Super, Normal<lb/>
+und Ofenheizöl dann noch den Diesel preisregeln, alles andere soll<lb/>
+in der Paritätischen Kommission bleiben, d.h. eben, nicht preisge<lb break="no"/>regelt sein. Ich persönlich habe mir aber alle Möglichkeiten offen<lb/>
+gelassen. Präsident <name type="person" ref="per:97346">Benya</name> bemerkte dann, er hätte mit GD <name type="person" ref="per:114404">Ebeling</name><lb/>
+von Mobil eine schwere Auseinandersetzung gehabt. Die österreichische<lb/>
+Regierung und insbesondere der Handelsminister wird so behandelt, wie<lb/>
+wenn wir ein Entwicklungsland wären, wo seinerzeit die Multis so vor<lb break="no"/>gehen konnten. <name type="person" ref="per:97346">Benya</name> war insbesondere über die Mitteilung, dass die<lb/>
+Versorgung teilweise zumindestens eingestellt wird, sehr empört.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> meinte, die Multis überschätzen ihre Möglichkeit, man wird<lb/>
+mit der ÖMV über eventuelle Ausweitungen reden. <name type="person" ref="per:112978">Kehrer</name> wieder sagte,<lb/>
+die Ölfirmen klagen, dass 600 Schilling pro Tonne Unterdeckung ist.<lb/>
+Die Tiefsonde, die in Niederösterreich niedergebracht wurde, hat<lb/>
+250 Mio Schilling Investitionen gekostet. Dieser Betrag ist wesent<lb break="no"/>lich überhöht und zeigt, mit welchen Ziffern überall von der ÖMV,<lb/>
+aber auch den Multis argumentiert wird.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Lass Dir offiziell die Kosten der Tiefboh<lb break="no"/>rung von der ÖMV schriftlich mitteilen.<lb/>
+</p>
+            <p xml:space="preserve">Ich erklärte gleich, ich werde versuchen, nach wie vor die Konsens<lb break="no"/>politik fortzusetzen, wobei <name type="person" ref="per:97872">Rief</name> allerdings sagte, es gibt keinen<lb/>
+Konsens, weil die Handelskammer nicht offiziell zustimmt. Dass die<lb/>
+<pb n="53-0228" facs="53_1980-02-20_0228.jpg"/>ÖMV, <name type="person" ref="per:97337">Bauer</name>, auch als Sprecher des Fachverbandes mir zumindestens<lb/>
+inoffiziell immer grünes Licht für die Benzinpreiserhöhungen ge<lb break="no"/>geben hat, wollte er nicht zur Kenntnis nehmen. Immer wieder er<lb break="no"/>klärte ich dezidiert, für mich ist die Versorgungslage das Ent<lb break="no"/>scheidende und ich werde mich daher nach wie vor nach diesen Ge<lb break="no"/>sichtspunkten primär richten.<lb/>
+</p>
+            <p xml:space="preserve">ZIB 2 teilte <name type="person" ref="per:109811">Burian</name> mit, daß Generaldirektor <name type="person" ref="per:114404">Ebeling</name> eine Studio<lb break="no"/>diskussion akzeptiert habe und ob ich bereit wäre, sein counter<lb break="no"/>part zu sein. Natürlich habe ich in diesem Fall sofort zugesagt.<lb/>
+Ich war sehr überrascht, als <name type="person" ref="per:114404">Ebeling</name> über Dr. <name type="person" ref="per:97543">Heindl</name> mir mitteilen<lb/>
+ließ, er hätte an einer solchen Diskussion gar kein Interesse und<lb/>
+würde vorschlagen, wir sollten beide absagen. Eine Rücksprache mit<lb/>
+ihm ergab, daß er wieder von ZIB 2 so aufgefordert wurde, daß ich<lb/>
+dort im Studio eine Diskussion wünsche. Da wir beide an einer Eska<lb break="no"/>lation nicht interessiert sind, ermächtigte ich <name type="person" ref="per:114404">Ebeling</name> dies gegen<lb break="no"/>über dem ORF richtigzustellen und abzusagen.<lb/>
+</p>
+            <p xml:space="preserve">Die Miß-Wander-Wahl in der Österreichischen Ferienmesse, von der<lb/>
+Kronenzeitung inszeniert und auch durchgeführt, war in Wirklich<lb break="no"/>keit eine Pleite. 50 hatten sich insgesamt angemeldet, an der Vor<lb break="no"/>wahl beteiligten sich keine 20. Da die Wanderkleider bei dem Durch<lb break="no"/>gang, wo ich anwesend war, zu klassifizieren waren, ging ich ausschließ<lb break="no"/>lich nach der Zweckmäßigkeit. Wanderschuhe, Wanderhose, entsprechen<lb break="no"/>der Regenschutz waren für mich das Entscheidende. Nach welchen<lb/>
+Kriterien die anderen entschieden, konnte ich nicht genau heraus<lb break="no"/>finden. War auch in Wirklichkeit vollkommen uninteressant.<lb/>
+</p>
+            <p xml:space="preserve">Im Sünnhof-Projekt auf der Landstraße ist jetzt endlich eine<lb/>
+Einigung zustande gekommen. Herr <name type="person" ref="per:122881">Rogner</name> wird mit dem Landeskonservator<lb/>
+Hofrat <name type="person" ref="per:122869">Pötschner</name> und einem schon anwesenden Baumeister unter Vorsitz<lb/>
+von <name type="person" ref="per:116209">Zilk</name> die endgültige Sanierung durchführen. Damit hätte ich, weil<lb/>
+ich letzten Endes vor Monaten diese Gespräche eingeleitet habe,<lb/>
+direkt dem Kulturstadtrat <name type="person" ref="per:116209">Zilk</name> endlich den gewünschten Erfolg bringen<lb/>
+können. In Wirklichkeit habe ich nur ein wenig mitgeholfen und dies<lb/>
+als Obmann der Landstraße und nicht als Handelsminister. <name type="person" ref="per:122881">Rogner</name> aber<lb/>
+hat sofort dazu erkennen zu geben, er möchte mit mir über Außenhandels<lb break="no"/>probleme sprechen, was für mich klar und deutlich zeigt, daß er<lb/>
+sehr wohl versteht die Zugeständnisse auf der einen Seite durch<lb/>
+Wünsche auf der anderen zu kompensieren.<lb/>
+</p>
+            <pb n="53-0229" facs="53_1980-02-20_0229.jpg"/>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Erkundige Dich, um was es dabei geht.<lb/>
+</p>
+            <p xml:space="preserve">Im Parlament gab es eine dringliche Anfrage an <name type="person" ref="per:98063">Weissenberg</name><lb/>
+wegen der Pensionsentwicklung. Die Bauern haben durch Erhöhung<lb/>
+ihres Einheitswertes jetzt mehr an die Pensionsversicherung<lb/>
+zu leisten und schneiden angeblich schlechter ab als bisher.<lb/>
+Das Endergebnis waren zweimal namentliche Abstimmungen, die<lb/>
+durch die absolute Mehrheit der Sozialisten entschieden werden<lb/>
+konnten.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="53_0220_04" facs="53_1980-02-20_0220-04.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 20.2.1980</head>
+         </div>
+         <pb n="53_0220_05" facs="53_1980-02-20_0220-05.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der 27. November 1976</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band33_1976-11-27</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1976-11-27">Samstag, 27. November 1976</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-02-20">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="33-1350" facs="33_1976-11-27_1350.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Samstag, 27. November 1976<lb/>
+</p>
+            <p xml:space="preserve">Die ÖMV hat von der Internationalen Atombehörde <name type="person" ref="per:112995">Grümm</name> für die<lb/>
+Journalisten in ihr Erholungsheim am Semmering eingeladen. Dort<lb/>
+macht sie ständig einmal im Jahr ihre Bilanzbesprechung und an<lb break="no"/>schliessende Presseinformation. An dieser wollte <name type="person" ref="per:97337">Bauer</name> nicht, dass ich daran<lb/>
+teilnehme. Der Vortrag war, da er sich mit Atomfragen beschäftigte,<lb/>
+nicht nur für mich sehr interessant, sondern auch die Journalisten<lb/>
+zeigten reges Interesse. <name type="person" ref="per:112995">Grümm</name> fragte mich vorerst ob er eine gewisse<lb/>
+technische Information der Leute voraussetzen kann. Da die Journalisten<lb/>
+jetzt in den letzten Jahren ständig mit der Antiatomkampagne, ganz<lb/>
+egal ob sie Wirtschaftsinnenpolitiker ja sogar Aussenpolitiker<lb/>
+sind, konfrontiert werden, haben die, die sich zumindestens in der<lb/>
+Diskussion gemeldet haben, mindestens so viel Kenntnisse gehabt als<lb/>
+ich selbst. <name type="person" ref="per:112995">Grümm</name> hat hauptsächlich über die Entwicklung der Uranpreise<lb/>
+der Anreicherung, der Wiederaufbereitung und nur ganz am Rande über<lb/>
+die Endlagerung gesprochen. Da ich von ihm wegen der deutschen Wieder<lb break="no"/>aufbereitung und teils wegen unseres Atomkraftwerkes Tullnerfeld<lb/>
+angesprochen wurde, meldete ich mich doch unmittelbar nach seinem<lb/>
+Referat. Da für mich eindeutig feststeht, dass Tullnerfeld frühestens<lb/>
+März 1978 in Betrieb gehen wird, habe ich um den Atomgegnern nicht immer<lb/>
+das Argument zu geben, sie haben nicht einmal mehr Zeit über alles zu<lb/>
+diskutieren, diesen neuen Betriebsbeginn der Presse mitgeteilt.<lb/>
+Ich erklärte auch dezidiert dass das Gesundheitsministerium als Geneh<lb break="no"/>migungsbehörde die Endlagerung als Voraussetzung für eine Betriebs<lb break="no"/>genehmigung betrachtet. Auch für die Wiederaufbereitung gibt es der<lb break="no"/>zeit noch keine entsprechenden Vereinbarungen, Die Deutschen würden<lb/>
+maximal Mitte der 90er Jahre ihre Reprocessing-Anlage fertig haben.<lb/>
+</p>
+            <p xml:space="preserve">Mit <name type="person" ref="per:97738">Meszaros</name> unterhielt ich mich über die finanziellen Aufwendungen<lb/>
+für die Entschwefelung von Heizöl und den nächsten finanziellen ......<lb/>
+der ÖMV. Der Cashflow, derzeit 2.9 Mia., wird in den nächsten 2 Jahren<lb/>
+auf 3.1–3.3 steigen. Trotzdem wird eine ungeheure Finanzierungs<lb break="no"/>lücke in 2–3 Jahren durch die Investitionen führen. Die zweite<lb/>
+250.000, Ausbaustufe Ethylenanlage 3 Mia. Schilling, die VAG-Gasleitung<lb/>
+ebenfalls 3 Mia., 1.5 Mia. für die Entschwefelung und Ausbau der<lb/>
+Raffinerie und 800 Mio. Schilling für Lager. <name type="person" ref="per:97738">Meszaros</name> als General<lb break="no"/>direktor wird wesentlich mehr konkrete Verhandlungen führen und glaube<lb/>
+ich wesentlich kooperativer sein. Andeutungen und Blabla von <name type="person" ref="per:97337">Bauer</name><lb/>
+und <name type="person" ref="per:97429">Feichtinger</name> fallen da sichtbar ab.<lb/>
+</p>
+         </div>
+      </body>
+      
+   </text>
+</TEI>

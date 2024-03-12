@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sonntag, der  7. Februar 1971</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band04_1971-02-07</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1971-02-07">Sonntag, 7. Februar 1971</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-07-25">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="04-0155" facs="04_1971-02-07_0155.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Sonntag, 7. Feber 1971<lb/>
+</p>
+            <p xml:space="preserve">Die Eröffnung der IFABO war doch ganz anders als es sich <name type="person" ref="per:97646">Koppe</name><lb/>
+vorgestellt oder auch vereinbart hatte. Es war dies eine ganz<lb/>
+grosse Fachausstellung und die Eröffnung geschah in der Halle A<lb/>
+vor ganz grossem Rahmen. Bei dem Rundgang kam ich auch auf das<lb/>
+Problem bei mir im Büro zu sprechen, das ich eigentlich als optischer<lb/>
+Mensch immer die Akten vor mir liegen sehen will und dieses Problem<lb/>
+eigentlich in keiner einzigen Koje oder Firma bis jetzt angepackt<lb/>
+wurde. Die Ausstellungsleitung die sehr froh war über meine Aus<lb break="no"/>sprache, versicherte mir sofort, sie würde mir ein Team zur Ver<lb break="no"/>fügung stellen, das auf ihre Kosten mein Organisationsproblem<lb/>
+in Angriff nehmen wird. Überhaupt glaube ich, dass die jungen Leute<lb/>
+und die Fachmesse eine ganz grosse Zukunft hat. Komm.Rat <name type="person" ref="per:135646">Katzinger</name><lb/>
+war zwar ebenfalls anwesend, hielt sich aber sehr zurück, nur <name type="person" ref="per:97893">Sallinger</name><lb/>
+der eine Ansprache hielt, erklärte mir anschliessend, dass er sich<lb/>
+ebenfalls auf die moderneren und jüngeren Kräfte stützen wird.<lb/>
+Durch meine Unterstützung der IFABO ist der Durchbruch gelungen.<lb/>
+</p>
+         </div>
+      </body>
+      
+   </text>
+</TEI>

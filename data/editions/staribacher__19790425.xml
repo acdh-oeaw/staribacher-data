@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittwoch, der 25. April 1979</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band48_1979-04-25</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1979-04-25">Mittwoch, 25. April 1979</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-08-01">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="48-0477" facs="48_1979-04-25_0477.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Mittwoch, 25. April 1979<lb/>
+</p>
+            <p xml:space="preserve">Beim Betriebsbesuch und gleichzeitig Überreichung des Dekretes<lb/>
+zur Führung des Staatswappens im Lenzing waren interessante<lb/>
+Details zu erfahren. 1977 hat Lenzing mit 6 Mio. S Verlust abge<lb break="no"/>schlossen, 1978 schon ein positives Ergebnis von 35 Mio. S<lb/>
+und dieses Jahr erwarten sie sogar 125 Mio. Überraschend<lb/>
+für mich war nur, dass sie trotz Umsatzsteigerung von <choice><choice><sic>2,710,000.000</sic><corr>?</corr></choice></choice><lb/>
+im Vorjahr auf 3 Mia. in diesem Jahr nur zu einem Cashflow<lb/>
+vom 140 Mio. kommen. Die Investitionen betragen aber 250 Mio. und<lb/>
+können daher nicht von diesen allein gedeckt werden. Umwelt<lb break="no"/>schutzmassnahmen haben sie für 2 Mia. S bereits investiert,<lb/>
+für die Abluft Viskose aber bräuchten sie noch 300 Mio. und<lb/>
+für die Abwasserreinigung noch 200 Mio. Diese Beträge können<lb/>
+nicht aufgebracht werden. Von 3.800 Beschäftigten mit der Acryl<lb break="no"/>faser 150 dazu ca. also 4.000 haben sie 160 in der Forschung und<lb/>
+Entwicklung tätig. Dort ist der Aufwand 70 – 80 Mio. Die Zukunft<lb/>
+der Lenzinger liegt aber im Kohlenstoff-Faser-Projekt. Hier<lb/>
+gibt es nur 9 Betriebe in der Welt, hauptsächlich USA und<lb/>
+Japan, der einzige europäische Betrieb ist Port du Lee<lb/>
+ein Höchstbetrieb in England, de sich mit diesem Projekt beschäftigt<lb/>
+Für die Forschung auf diesem Gebiet für eine Pilot-Anlage<lb/>
+müssten sie 50 – 60 Mio. S bekommen. Ich hätte nicht geglaubt,<lb/>
+dass bei einem so grossen Betrieb mit einem so riesigen Umsatz<lb/>
+solche verhältnismässig kleine Beträge nicht aufzubringen sind.<lb/>
+Ich werde ein diesbezügliches Memo von der Betriebsleitung<lb/>
+bekommen und dann mit <name type="person" ref="per:97442">Firnberg</name> besprechen. Abhängig ist die<lb/>
+Ertragslage, da allein in der Zellwolle von 100.000 t Produktion<lb/>
+80.000 t in den Export gehen, die Ertragslage von Dollar-<lb/>
+Relation. 10 Groschen auf oder ab beim Dollarkurs gibt 4 Mio. S<lb/>
+mehr oder weniger Erlös.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Die Sektion soll überlegen, ob über den<lb/>
+Forschungsfonds mehr zu erreichen wäre.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Staatswappendekretüberreichung bei der Fa. Stanzel in<lb/>
+Marchtrenk war LH-Stv. ja sogar Staatssekr. <name type="person" ref="per:112148">Schober</name> anwesend.<lb/>
+Die Firma ist ein bedeutendes Unternehmen für Geflügel-Produktion<lb/>
+und hat einen beträchtlichen Exportanteil. Mit 300 bäuerlichen<lb/>
+<pb n="48-0478" facs="48_1979-04-25_0478.jpg"/>Betrieben besteht eine enge Produktions- und Verkaufsabsprache.<lb/>
+Interessant für mich war, dass dieser Familienbetrieb imstande<lb/>
+war, eine landwirtschaftliche Geflügelproduktions-Genossenschaft<lb/>
+aufzukaufen. Dies ist genau entgegen der sonst derzeit herrschenden<lb/>
+Tendenz, dass die Landwirtschaftsgenossenschaften die Privaten<lb/>
+verdrängen.<lb/>
+</p>
+            <p xml:space="preserve">Die erste Betonschüttung im Kraftwerk Melk ist nach 8 Monaten<lb/>
+Aushebung der Baugrube möglich gewesen. Dies ist eine phantastische<lb/>
+Leistung und wenn der Zeitplan eingehalten werden kann, kann<lb/>
+bereits im Winter 1982 der erste Donau-Strom in Melk gewonnen<lb/>
+werden. Schwierigkeiten hat die DoKW wie mir der kaufmännische<lb/>
+Direktor mitteilte, hauptsächlich in Zukunft mit den Geldmitteln.<lb/>
+Durch die beabsichtigte finanzielle Heranziehung der Sonder<lb break="no"/>gesellschaften zur Verlustabdeckung der Verbund durch das<lb/>
+Kernkraftwerk wird sich die Liquiditätslage der DoKW wesentlich<lb/>
+verschlechtern. Ich habe eine diesbezügliche Zusammenstellung<lb/>
+verlangt, die ich in den nächsten Tagen bekommen soll.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Bitte setz Dich mit der DoKW ins<lb/>
+Einvernehmen.<lb/>
+</p>
+            <p xml:space="preserve">Die Leder-, Schuh- und Bekleidungsindustrie wurde von mir eingeladen,<lb/>
+um mit ihnen die neuerdings von Staatssekretär <name type="person" ref="per:97343">Beil</name> zugesagten<lb/>
+70 Mio. S Importe von diesen Konsumgütern zu besprechen.<lb/>
+An und für sich ist dies ein grosser Erfolg, denn die DDR hat<lb/>
+1977 nur für 7 Mio. S importiert. Im vergangenen Jahr haben sie<lb/>
+für 25 Mio. S Schuhe und Leder und für 50 Mio. S Bekleidung gekauft.<lb/>
+Auch heuer können wir mit einem solchen Rahmen rechnen. Die Ver<lb break="no"/>treter der einzelnen Branchen waren über diese Mitteilung sehr<lb/>
+erfreut. Die konkrete Aufteilung erfolgt in Berlin, wobei<lb/>
+klar ist, dass wie bei allen Konsumexporten die Fa. Krauss &amp; Co.<lb/>
+eingeschaltet werden muss. Ob und inwieweit diese Mitteilung<lb/>
+in die Presse gehen wird, kann man schwer feststellen. Für die<lb/>
+Branche war es sicherlich eine positive Überraschung. Zweckmässig<lb/>
+war es, dass auch die Gewerkschaft Textil und Bekleidung einge<lb break="no"/>laden wurde, denn damit sehen die Unternehmer-Vertreter die<lb/>
+enge Kooperation, die hier ja tatsächlich besteht. Die Textil<lb break="no"/><pb n="48-0479" facs="48_1979-04-25_0479.jpg"/>arbeitergewerkschaft hat übrigens zu den Fachverbänden<lb/>
+und vor allem einmal zu den Firmen ganz gute Beziehungen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: In Hinkunft wenn wir solche Veranstaltungen<lb/>
+machen, immer die Gewerkschaft mit einladen.<lb/>
+</p>
+            <p xml:space="preserve">Der Zentralvorstand der Gewerkschaft Druck und Papier hat mich<lb/>
+überraschenderweise zu einem Referat eingeladen, das ich<lb/>
+natürlich sehr gerne übernommen habe. Zuerst dachte ich, es<lb/>
+handelt sich nur um eine Fraktionssitzung und habe die An<lb break="no"/>wesenden mit Genossinnen und Genossen angesprochen. Oho, rief<lb/>
+sofort der Vorsitzende und auch andere Teilnehmer. Dies war<lb/>
+weniger darauf zurückzuführen, dass die drei christlichen<lb/>
+Gewerkschafter, die auch anwesend waren, übergangen werden<lb/>
+sollten, sondern sicherlich eher, um mich indirekt zu<lb/>
+warnen, nicht allzu freizügig und offen, insbesondere über<lb/>
+unsere politischen Probleme zu referieren. Es gab dann<lb/>
+eine verhältnismässig gute Diskussion von 10 Diskussionsteil<lb break="no"/>nehmern, das einzige offene Problem, das ich nicht beantworten<lb/>
+konnte war, die Frage vom Vorsitzenden <name type="person" ref="per:115592">Brunner</name>, wieso sie<lb/>
+ihre Berufsbilder auf Grund des Berufsausbildungsgesetzes<lb/>
+noch nicht bekommen haben. Ich versprach <name type="person" ref="per:115592">Brunner</name>, sofort<lb/>
+Sekt.Chef <name type="person" ref="per:97584">Jagoda</name> über dieses Problem zu befragen und ihm<lb/>
+dann Bescheid zu sagen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98072">WIESINGER</name>: Bitte mit <name type="person" ref="per:97584">Jagoda</name> verbinden.<lb/>
+</p>
+            <p xml:space="preserve">Die Bürgerversammlung im Gewerkschaftshaus von der soz.<lb/>
+Partei der Josefstadt war wie erwartet eine reine Partei<lb break="no"/>veranstaltung. Wir haben deshalb auf der Landstrasse diesmal<lb/>
+überhaupt keine Versammlung in diesem Sinne gemacht, denn<lb/>
+auch dort konnten, wenn auch natürlich wesentlich mehr<lb/>
+nur immer wieder unsere Genossinnen und Genossen begrüssen.<lb/>
+In der <choice><choice><sic>Altergasse</sic><corr>Albertgasse</corr></choice></choice>, Gewerkschaftshaus, haben wir den grossen<lb/>
+Vorteil, dass wenn wir wie ich sofort voraussagte, nur eine<lb/>
+kleine Anzahl von Teilnehmern erwarten können, nicht den<lb/>
+Saal benützen müssen, sondern eben in unser Vorstandszimmer<lb/>
+gehen können. Dieser war mit den 30 Personen voll und hatte<lb/>
+deshalb auch optisch einen wesentlich besseren Eindruck<lb/>
+auf die Genossinnen und Genossen gemacht, als wenn wir dieses<lb/>
+kleine Häuflein im grossen Saal untergebracht hätten.<lb/>
+</p>
+            <pb n="48-0480" facs="48_1979-04-25_0480.jpg"/>
+            <p xml:space="preserve">NR <name type="person" ref="per:109808">Annelies Albrecht</name> sprach als die zuständige Abgeordnete<lb/>
+über den Konsumentenschutz und ich über die Wirtschaftsfragen.<lb/>
+Da ich in der Bezirksorganisation in der Josefstadt schon<lb/>
+etliche Referate auch bei Bezirkskonferenzen, die natürlich<lb/>
+durch die Parteiaktivität die Abstimmung Neuwahlen usw.<lb/>
+besser beschickt sidn, schon öfters gesprochen habe, war<lb/>
+die Diskussion nicht sehr überragend. <name type="person" ref="per:109808">Annelies Albrecht</name><lb/>
+hat dort einen sehr guten Ruf und ist auch wirkliche eine<lb/>
+intelligente und liebenswerte Genossin. Wenn man die<lb/>
+Versammlungen am Land und in der Stadt vergleicht, so<lb/>
+muss man feststellen, dass je kleiner die Ortschaft ist,<lb/>
+um so grösser im perzentuellen Anteil die Teilnahme der Be<lb break="no"/>völkerung. Dies ist glaube ich auch deshalb leicht erklärlich,<lb/>
+weil man eben doch im ländlichen Gebiet bei einer Anwesenheit<lb/>
+eines Ministers und Nationalrates erwarten kann, als in der<lb/>
+Stadt. Ich bin sehr gespannt, ob ich jetzt bei den weiteren<lb/>
+Aktivitäten in den Wiener Bezirken denselben Eindruck haben<lb/>
+werde wie ich ihn nicht nur in der Josefstadt sondern ganz<lb/>
+allgemein jetzt empfinde. Interesse erweckt nur noch<lb/>
+Bundeskanzler <name type="person" ref="per:97668">Kreisky</name>, der allerdings in einem ganz starken<lb/>
+Ausmass, sowohl am Land als auch in den Städten. Ob dies<lb/>
+die Wahlergebnisse bereits signalisiert oder insbesondere in<lb/>
+Wien dann so wie 1966 die grosse Enttäuschung kommt, wird sich<lb/>
+am 6. Mai zeigen. Ich bin von den von den Meinungsforschern<lb/>
+jetzt schon von der absoluten Mehrheit noch nicht restlos über<lb break="no"/>zeugt. Noch immer kann ich nicht abschätzen, wie es in Wien<lb/>
+wirklich läuft. Da ich aber in den vergangenen Jahrzehnten<lb/>
+stets auf die Meinungsforschung gebaut habe und eigentlich<lb/>
+noch nie enttäuscht wurde, müsste tatsächlich jetzt bereits<lb/>
+der Umschwung eingetreten sein.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="48_0476_03" facs="48_1979-04-25_0476-03.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 25.4.1979</head>
+         </div>
+         <pb n="48_0476_04" facs="48_1979-04-25_0476-04.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

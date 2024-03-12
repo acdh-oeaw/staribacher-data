@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstag, der 19. Dezember 1972</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band13_1972-12-19</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1972-12-19">Dienstag, 19. Dezember 1972</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-10-30">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="13-1525" facs="13_1972-12-19_1525.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Dienstag, 19. Dezember 1972<lb/>
+</p>
+            <p xml:space="preserve">Präsident <name type="person" ref="per:97749">Mitterer</name> intervenierte für ein Reisebüroansuchen, Konsul<lb/>
+<name type="person" ref="per:140238">Vogel</name>, der nach einer Bedarfsprüfung durch das Marktamt abgelehnt,<lb/>
+durch die Gemeinde in Salzburg aber positiv allerdings ohne Begründung<lb/>
+bei mir im Ministerium zur Entscheidung liegt. Der Akt war von der<lb/>
+Abteilung, wie <name type="person" ref="per:97584">Jagoda</name> dann feststellen konnte, auf Ablehnung vorbe<lb break="no"/>reitet. <name type="person" ref="per:97749">Mitterer</name> selbst gab allerdings zu, dass in Hinkunft die<lb/>
+Gewerbeordnung keine Bedarfsprüfung mehr vorsehen wird und es deshalb<lb/>
+seiner Meinung nach zielführend ist, wenn man diese liberalere Hal<lb break="no"/>tung jetzt auch schon bei den laufenden Ansuchen resp. Entscheidungen<lb/>
+berücksichtigt. Wir werden das Landesfremdenverkehrsamt fragen, und<lb/>
+ich empfahl <name type="person" ref="per:97749">Mitterer</name>, Konsul <name type="person" ref="per:140238">Vogel</name> vorzuschlagen, sich mit dieser<lb/>
+Institution ins Einvernehmen zu setzen.<lb/>
+</p>
+            <p xml:space="preserve">Dr. <name type="person" ref="per:112948">Degischer</name> hat sich in der Früh sofort bei mir erkundigt, ob<lb/>
+der Unterrichtsminister unserem Vorschlag, eine interministerielle<lb/>
+Kommission für die Fragen der Volksbücherei einzusetzen, zugestimmt<lb/>
+hat. Ich habe dann neuerdings mit <name type="person" ref="per:113083">Sinowatz</name> gesprochen, der hat mir<lb/>
+effektiv verbindlich zugesichert, die Ministerialbürokratie in<lb/>
+seinem Ministerium anzuweisen, mit uns die Besprechungen aufzunehmen.<lb/>
+<name type="person" ref="per:112948">Degischer</name> war über diese Entscheidung sehr erfreut.<lb/>
+</p>
+            <p xml:space="preserve">Im Ministerrat bei der Bestätigung des Wiener Bezügegesetzes hat<lb/>
+<name type="person" ref="per:97668">Kreisky</name> mitgeteilt, dass er <name type="person" ref="per:135724">Markovics</name> ersuchen wird, eine Zusammen<lb break="no"/>stellung aller Bezüge anzufertigen. <name type="person" ref="per:97668">Kreisky</name> hofft, da jetzt ja alle<lb/>
+Bezüge der Mandatare steuerpflichtig sind, dass man jetzt ein genaues<lb/>
+Bild bekommen kann.<lb/>
+</p>
+            <p xml:space="preserve">Zu den Finanzgesetzen, Bundesförderung, Bundesrechnungsamt und ganz<lb/>
+besonders Bundeshaushalt hat der Verkehrsminister festgestellt, dass<lb/>
+er erstens die <choice><choice><sic>Terin</sic><corr>Termine???</corr></choice></choice> für internationale Abrechnungen, die länger<lb/>
+dauern als im Gesetz vorgesehen sind, nicht einhalten kann. Die<lb/>
+entsprechenden Daten bekommt er erst später. Zum Bundeshaushalt<lb/>
+stellte der Verkehrsminister fest, dass er ihm nur bedingt zustim<lb break="no"/>men könne, da die Paragraphen 14, 25, 26, 27, 39 und 40 die ÖBB und die<lb/>
+Post ihre Aufgaben nicht mehr erfüllen könnten. Es werden noch Ge<lb break="no"/>spräche zwischen Finanzminister und Verkehrsminister geführt. Der<lb/>
+Bundeskanzler teilte mit, dass der Rechnungshofpräsident ausdrück<lb break="no"/>lich schriftlich darauf verzichtet hat, auf seine im Gesetz statuierte<lb/>
+Anwesenheit. Der Rechnungshofpräsident und die Regierung werden in<lb/>
+nächster Zeit eine gemeinsame Aussprache durchführen.<lb/>
+</p>
+            <pb n="13-1526" facs="13_1972-12-19_1526.jpg"/>
+            <p xml:space="preserve">Beim Antrag des Bundeskanzlers, OECD-Umweltschutzkomitee, Eutrophierungs<lb break="no"/>programm für die österr. Seen, machte ich auf die Gefahr für den<lb/>
+österr. Fremdenverkehr durch vorzeitige Verlautbarung und womöglich<lb/>
+nicht vollkommener Untersuchungsergebnisse aufmerksam. <name type="person" ref="per:97668">Kreisky</name> meinte,<lb/>
+eine Manipulation der Ergebnisse würde nicht möglich sein und er würde<lb/>
+dies ganz entschieden ablehnen. Da ich keine Manipulation anstrebte<lb/>
+und wollte sondern nur aufmerksam machte, dass dem österr. Fremden<lb break="no"/>verkehr dadurch eine Rufschädigung entstehen könnte, versicherte <name type="person" ref="per:98055">Weihs</name><lb/>
+dass eine solche Gefahr er nicht sieht. Da jetzt bereits entsprechende<lb/>
+Wasserforschung betrieben wird. <name type="person" ref="per:111367">Würzl</name> erklärte mir dann abends, dass<lb/>
+<name type="person" ref="per:114676">Zuk</name> vom OECD-Büro versprochen hat, solange keinen Ministerratsantrag<lb/>
+zu stellen, als wir nicht mit ihm über die Vorgangsweise übereingekommen<lb/>
+sind. Für mich war es wieder einmal ein Beweis, dass in unserem Haus<lb/>
+die Ministerratsvorbereitung nicht funktioniert, denn sonst hätte<lb/>
+<name type="person" ref="per:111367">Würzl</name> nicht überraschend festgestellt, dass wir vormittags im Mini<lb break="no"/>sterrat jetzt doch den Antrag bekommen haben und ausser meiner Bemer<lb break="no"/>kung dann natürlich auch einstimmig beschlossen hatten.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: Für mich ist dies wieder ein Beweis mehr, dass<lb/>
+die Ministerratsvorbereitung bei uns nicht funktioniert. Trotzdem soll<lb break="no"/>ten wir an diesem Zustand nichts ändern, weil die jetzige Situation<lb/>
+für mich bezüglich des politischen Angriffes der Opposition die wesent<lb break="no"/>lich günstigere ist, wie sich bei dem OECD-Projekt herausstellt, komme<lb/>
+ich ja doch wenn auch meistens durch Zufalls auf die schwachen Punkte<lb/>
+selbst drauf.<lb/>
+</p>
+            <p xml:space="preserve">Bei dem Gespräch mit den Zeitungsherausgebern wurde von diesen vorge<lb break="no"/>schlagen, dass die Papierkosten bis zur Auflage von 30.000 vom Staat<lb/>
+100 %-ig vergütet werden, das ist pro Zeitungen 1,8 Mill. S. Die zweite<lb/>
+30.000 sollen 40 % und für die weiteren 40.000 20 % bezahlt werden.<lb/>
+Diese Sockelfinanzierung würde bis zur Auflage von 100.000 – und da<lb/>
+gibt es vier Zeitungen, die dies erreichen – die Kronen-Zeitung, der<lb/>
+Kurier, die Kleine Zeitung und sogar mit Schwindel die AZ, die<lb/>
+100.000 behauptet zu drucken, 90.000 sind es effektiv – verkaufen<lb/>
+kann sie allerdings nur einen Teil davon. Diese vier Grossen würden<lb/>
+3 Mill. S Papiersubvention bekommen. Für die Frachtkostenersparung<lb/>
+und Postgebühren 25 Mill. nimmt die ÖBB ein, 104 Mill. die Post,<lb/>
+sollte eine 50 %-ige Ermässigung gegeben werden. Ebenso sollte die APA-<lb/>
+Gebühr, 3,5 Mill., vom Staat übernommen werden. Insgesamt hätte dieses<lb/>
+Programm 130 Mill. S ausgemacht. <name type="person" ref="per:97668">Kreisky</name> hat ihnen und <name type="person" ref="per:97311">Androsch</name> hat es<lb/>
+mehr oder minder dann in einer Vorbesprechung auch akzeptiert, 65 Mill.<lb/>
+S ab 1.1.1974 angeboten. Darüber hinaus will <name type="person" ref="per:97668">Kreisky</name>, dass geprüft<lb/>
+<pb n="13-1527" facs="13_1972-12-19_1527.jpg"/>wird, ob die Insertion auch von den anderen politischen Parteien<lb/>
+zugestimmt wird, dann würde die Bundesregierung entsprechende<lb/>
+Sachinformationen über Inserate an die Zeitungen vergeben. Bei<lb/>
+den Wochenzeitungen, die in den 130 Mill. inbegriffen <choice><choice><sic>wärden</sic><corr>wären? werden?</corr></choice></choice>, werden<lb/>
+die ersten 50.000 Exemplare 100 %-ig vergütet und die zweiten<lb/>
+50.000 mit 50 % Prämie belohnt werden. Dadurch würden auch zwei<lb/>
+ausländischen Zeitschriften, nämlich der Stern und Hörzu, darunter<lb/>
+fallen. <name type="person" ref="per:97668">Kreisky</name> möchte neben der politischen Parteiensubvention<lb/>
+derzeit mit 26 Mill. beschlossen, für die soz. Zeitungen, AZ, Neue<lb/>
+Zeit, die anderen Länderzeitungen und Die Frau, ca. 10–15 Mill. S<lb/>
+aus dieser Regelung erreichen. Die VP würde mit ihren Zeitungen 8 Mill.<lb/>
+nach seiner Auffassung bekommen. Die Einzelheiten über die Papier<lb break="no"/>preissubvention wurde noch nicht festgelegt. Dies soll ich im Ein<lb break="no"/>vernehmen mit der Papierindustrie und den Zeitungsherausgebern näch<lb break="no"/>stes Jahr regeln. Die Verlage wollen auch unter das Gewerbestruktur<lb break="no"/>verbesserungsgesetz und ich werde weitere Verhandlungen mit ihnen<lb/>
+führen. <name type="person" ref="per:97584">Jagoda</name> hat seinerzeit vorgeschlagen, es sollte ein neues<lb/>
+Gesetz für die Verlage geschaffen werden, was natürlich der Finanz<lb break="no"/>minister mit Recht ablehnt, da die Verlage gewerbesteuerpflichtig sind,<lb/>
+müsste es eigentlich auch eine Lösung bezüglich ihrer Teilnahme am Ge<lb break="no"/>werbestrukturverbesserungsgesetz geben.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: Ich kann mir schwer vorstellen, dass diese die<lb/>
+Schwerpunktvoraussetzungen erbringen und deshalb würde eine Einbezie<lb break="no"/>hung wesentliche Belastungen des Gew.Struk.Verb.G. bedeuten, bitte<lb/>
+Untersuchungen anstellen.<lb/>
+</p>
+            <p xml:space="preserve">Für die ERP-Kredite hat <name type="person" ref="per:97668">Kreisky</name> eine Verwendungszusage gemacht.<lb/>
+Im Prinzip soll auch die APA durch den Bundespressedienst bezahlt<lb/>
+werden. Die Subventionen werden nicht durch Verbilligung der Fracht<lb break="no"/>kosten oder Postgebühren sondern sämtliche Subventionen werden dezi<lb break="no"/>diert als solche für die Presse ausgewiesen. Neben der Papier<lb break="no"/>industrie die im Jahre 1974 ca. 38 Mill. bekommen wird nun der<lb/>
+Presse 65 Mill. gegeben. <name type="person" ref="per:97311">Androsch</name> meinte bei einer Unterbrechung<lb/>
+zu mir, er versucht durch einzelne Verhandlungen mit Ministern<lb/>
+und oft in harten Auseinandersetzungen einige hunderttausend Schilling<lb/>
+zu ersparen und da muss man aus politischer Überlegung der Presse<lb/>
+oder der Papierindustrie Dutzenden Millionen Subvention zugestehen.<lb/>
+</p>
+            <p xml:space="preserve">Die Austria-Ferngas-Leute, AFG, kamen mit <name type="person" ref="per:97865">Reisinger</name>, <name type="person" ref="per:97496">Gruber</name>, NÖ,<lb/>
+<name type="person" ref="per:140242">Fritz Berg</name>, Steiermark, <name type="person" ref="per:114585">Schmidt</name>, dem ersten und einem zweiten<lb/>
+<pb n="13-1528" facs="13_1972-12-19_1528.jpg"/>Geschäftsführer, um mir über ihre Verhandlungen mit Algerien zu<lb/>
+berichten. Die Sonatrach hat am 15.12. den Vertrag mit dem Konsortium<lb/>
+auf 13 Mia. m³ Gas abgeschlossen. 2 Mia. bekommen die Bayern, 2 Mia. GFS<lb/>
+Stuttgart, davon sollen 500 Mill. über die Schweiz in der Schweiz<lb/>
+verbleiben, 3 Mia. die SAAR und 6 Mia. Frankreich – Gaz de France. Das<lb/>
+Gas wird 36 Groschen/m³ free on board bei einer Gleitung von 2 %<lb/>
+betragen. Österreich wurde nicht in das Konsortium bis jetzt aufgenommen.<lb/>
+Die Österreicher bemühen sich aber sehr, haben aber ausserdem noch eine<lb/>
+Möglichkeit, mit den Algeriern, Sonatrach, einen eigenen Vertrag abzuschlies<lb break="no"/>sen. Die Amerikaner haben jetzt 4,5 Mia. m³ ausgehandelt. Die Austria-Fern<lb break="no"/>gas möchte 1,5 Mia. fix und 500 Mill. Option kaufen. Der Preis, wenn<lb/>
+es nicht ins Konsortium aufgenommen wird, würde allerdings jetzt<lb/>
+bereits 45 Groschen fob + 15 Groschen Fracht betragen. Die Gaslieferung<lb/>
+könnte ab 1978 frühestens erfolgen. Da die Anlandung noch nicht fix ist,<lb/>
+es steht Fos-sur-Mer bei Marseille oder Monfalcone in Italien zur<lb/>
+Diskussion, wollten sie insbesondere von der ÖMV wissen, welche Chance<lb/>
+sie für diese beiden Orte hätten. Da sie sich über die ÖMV bitter be<lb break="no"/>klagten, die angeblich den Algeriern aber insbesondere dem Konsortium<lb/>
+wissen lässt, dass sie eigentlich der grosse Gasimporteur in Österreich<lb/>
+ist, habe ich veranlasst, dass auch Bauern dann zu der Sitzung eingeladen<lb/>
+wurde. <name type="person" ref="per:97337">Bauer</name> hat sofort erklärt, er wird bis an sein Lebensende den<lb/>
+Monopolanspruch der ÖMV vertreten, Ob er ihn durchsetzen kann, ist<lb/>
+allerdings eine zweite Sache, denn er selbst hat niemals mit den Algeriern<lb/>
+gesprochen, obwohl diese ihn zu Verhandlungen eingeladen haben, die er<lb/>
+ablehnte. Mit der ENI und der Ruhrgas wird er nun ein Hafenprojekt Mon<lb break="no"/>falcone ausarbeiten, das<lb/>
+</p>
+            <p xml:space="preserve">Die Austria-Ferngas befürchtet, dass<lb/>
+</p>
+            <p xml:space="preserve">Wir einigten uns, dass die Austria-Ferngas ihre Verhandlungen über Aufnahme<lb/>
+ins Konsortium oder gegebenenfalls eines eigenen Gasliefervertrages<lb/>
+mit den Algeriern fortsetzen soll. Allerdings wird vorher noch eine Aus<lb break="no"/>sprache zwischen ÖMV und Austria-Fernsgas, die Anfangs nächsten Jahres<lb/>
+erfolgen. Sollte dort wider Erwarten keine einvernehmliche Vorgangsweise<lb/>
+festgelegt werden, dann werden sie sich an mich als Schiedsrichter<lb/>
+wenden.<lb/>
+</p>
+            <pb n="13-1529" facs="13_1972-12-19_1529.jpg"/>
+            <p xml:space="preserve"><name type="person" ref="per:97684">Langer-Hansel</name> berichtet mir, dass eine Gesellschaft zur<lb/>
+Förderung des Fremdenverkehrs von <name type="person" ref="per:140243">Walterskirchen</name>, der gleich<lb break="no"/>zeitig Geschäftsführer der Strassengesellschaft ist, existiert,<lb/>
+wo <name type="person" ref="per:97684">Langer-Hansel</name> Konsulent ist. Diese Gesellschaft verfügt<lb/>
+über 800 Auskunftsstellen und 3.000 Adressen von Auslandsöster<lb break="no"/>reichern. Dies Gesellschaft sollte<add>[wollte?]</add> nun einige Aktivitäten ent<lb break="no"/>falten und <name type="person" ref="per:97684">Langer-Hansel</name> glaubte scheinbar, dass ich bereit bin,<lb/>
+dafür Mittel – da es ja aus der ÖFVW nicht aufbringen kann – vom<lb/>
+Ministerium zur Verfügung zu stellen. Ich habe dies ganz<lb/>
+kategorisch abgelehnt. <name type="person" ref="per:97684">Langer-Hansel</name> hat mir auch erstmalig das<lb/>
+Material von Dir. <name type="person" ref="per:136789">Scherbaum</name><add>[evtl. Falschidentifikation]</add>, d.h. die Aktennotiz, die er der Wirt<lb break="no"/>schaftspolizei gegeben hat, gezeigt. Ich habe ihm nach wie vor<lb/>
+erklärt, dass ich mich von seinem Brief an Minister <name type="person" ref="per:97372">Broda</name> ganz<lb/>
+entschieden distanziere und ihm gleichzeitig mit Antwortschreiben<lb/>
+an <name type="person" ref="per:97372">Broda</name> vorgelesen. Eine diesbezügliche Durchschrift bekommt<lb/>
+<name type="person" ref="per:97684">Langer-Hansel</name><lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Er hat mir auch einen Aktenvermerk über <name type="person" ref="per:137395">Baum<lb break="no"/>gartner</name> gezeigt, mit dem man allerdings gar nichts anfangen kann.<lb/>
+Dieses ganze Material sollte man bei der nächsten Direktoriumssit<lb break="no"/>zung zur Sprache bringen, allerdings wenn <name type="person" ref="per:97684">Langer-Hansel</name> dabei ist.<lb/>
+</p>
+            <p xml:space="preserve">Min.Rat <name type="person" ref="per:111367">Würzl</name>, der ebenfalls anwesend war, berichtet mir anschlies<lb break="no"/>send, dass er sehr gerne den österr. Abgeordneten über die Fremdenver<lb break="no"/>kehrsprobleme Bericht erstatten möchte und gleichzeitig Unterlagen<lb break="no"/>material an diese zur Verfügung gestellt werden sollte. Ich halte<lb/>
+diese Vorgangsweise für äusserst gefährlich. Kein einziger Mini<lb break="no"/>ster hat dies bis jetzt getan. <name type="person" ref="per:111367">Würzl</name> selbst ist auf diese Idee ge<lb break="no"/>kommen, als er erfahren hat, dass <name type="person" ref="per:135640">Lissbauer</name> und <name type="person" ref="per:114586">Zedek</name> nach ihren<lb/>
+Fremdenverkehrsseminaren ein sogenanntes Politiker-Treffen veran<lb break="no"/>stalten, wo sie die Abgeordneten durch Material und entsprechende<lb/>
+Beeinflussung für ihre Linie gewinnen möchten. Ich glaube, wir sollten<lb/>
+vorsehen, dass an diesem Politikertreffen mindestens <name type="person" ref="per:111367">Würzl</name> daran<lb/>
+teilnimmt und wenn es dort zu Angriffen oder zu einer Aktion gegen<lb/>
+unser Haus kommt, dann die entsprechenden Politiker spezifisch<lb/>
+für diesen Fall durch Aufklärung und Information auch unseren<lb/>
+Standpunkt kennenlernen sollten. Eine wirkliche direkte Informa<lb break="no"/>tion und Kontaktnahme über die Klubs mit den Abgeordneten halte<lb/>
+ich nicht für sehr zielführend.<lb/>
+</p>
+            <pb n="13-1530" facs="13_1972-12-19_1530.jpg"/>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Ich glaube, dass wir in diesem Fall oder<lb/>
+besser gesagt, ich fürchte, dass wir in diesem Fall von den Klubs,<lb/>
+zumindestens dem der SPÖ, nicht Zustimmung, sondern grosse Beden<lb break="no"/>ken haben würden. Nämlich die andere Seite und insbesondere die<lb/>
+FPÖ genau zu informieren.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:137167">Ursprunger</name> und NR <name type="person" ref="per:114960">Maier</name> teilten mir ihr Ergebnis über das Rauris-<lb/>
+Musterprojekt mit. Die ÖVP versucht jetzt, über den Bürgermeister<lb/>
+von Rauris, <name type="person" ref="per:139877">Rasser</name>, eine expeditive Erledigung zu sabotieren. So<lb/>
+wünscht sie u.a. dass neben den Gemeinden Lend, Taxenbach, Rauris,<lb/>
+die einen Verein gründen sollen, auch ein Planungsbeirat mit den<lb/>
+Interessensvertretungen, Landesvertretungen usw. errichtet werden<lb/>
+soll. Da alle Beschlüsse nur einstimmig durchgeführt werden soll<lb break="no"/>ten, bedeutet dies, dass wir kaum konkret weiterkommen können.<lb/>
+<name type="person" ref="per:137167">Ursprunger</name> hat nun festgestellt, dass überhaupt kein zusammen<lb break="no"/>hängender Grund im Rauristal zu <choice><choice><sic>erwirtschten</sic><corr>erwirtschaften?</corr></choice></choice> ist. Er schlägt<lb/>
+deshalb vor, dass die Bundesforste ca. 40 ha zur Verfügung<lb/>
+stellen sollen, damit dann diese Wälder gegen entsprechenden<lb/>
+Grund getauscht werden, die Bauern wären an dieser Regelung,<lb/>
+so glaubt er, interessiert und damit eine zusammenhängende<lb/>
+Fläche erworben werden kann. Die Gesellschaft würde diesen Grund<lb/>
+dann an die Schweizer Banken verkaufen, die ja bekanntlicher<lb break="no"/>weise 2 Hotels mit 200 Betten errichten möchten. In seinem Konzept<lb/>
+wird er diesen so wichtigen Punkt nicht erörtern. Da ich mir nicht<lb/>
+vorstellen kann, dass die Bundesforste bereit sind, Grund zu ver<lb break="no"/>kaufen, <name type="person" ref="per:137167">Ursprunger</name> selbst gibt zu, dass die Bundesforste nur Inter<lb break="no"/>esse haben, Grund zuzukaufen, entsteht die Möglichkeit, dass NR<lb/>
+<name type="person" ref="per:114960">Maier</name> einen grösseren Grund, der in seiner Gemeinde von einem<lb/>
+Bauern zur Verfügung gestellt wird, und zwar eine Alm, die die<lb/>
+Bundesforste wollen, versucht jetzt zu erwerben, dieser Grund dann<lb/>
+gegen Grund in Rauris von den Bundesforsten getauscht wird.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Bitte mit <name type="person" ref="per:97819">Pleschiutschnig</name> und unserem neuen<lb/>
+Direktor bei den Bundesforsten, Ing. <name type="person" ref="per:97511">Haiden</name>, im Institut mit mir<lb/>
+besprechen, ob überhaupt eine solche Möglichkeit besteht.<lb/>
+</p>
+            <p xml:space="preserve">Beim Klub der Mandatare teilt mir <name type="person" ref="per:112037">Tischler</name> mit, dass <name type="person" ref="per:97582">Jacobi</name><lb/>
+scheinbar zu <name type="person" ref="per:97963">Slavik</name> über unsere ablehnende Haltung im Bezirks<lb break="no"/>ausschuss – unsere Funktionäre haben dort ganz entschieden gegen<lb/>
+die weiteren Gebührenerhöhungen der Gemeinde protestiert – infor<lb break="no"/>mierte. <name type="person" ref="per:97963">Slavik</name> selbst nimmt an, dass wir gegen die Gebühren<lb break="no"/>politik im Rathaus entsprechende Stimmung machen. Unsere<lb/>
+<pb n="13-1531" facs="13_1972-12-19_1531.jpg"/>Funktionäre glaube ich attackieren teilweise <name type="person" ref="per:97582">Jacobi</name> deshalb,<lb/>
+weil sie der Meinung sind, man sollte jetzt bereits Vorkehrungen<lb/>
+treffen, wer anstelle der Genossinnen und Genossen, die 1974<lb/>
+bei den Gemeinderatswahlen auf alle Fälle ausscheiden, eben<lb/>
+jetzt schon ihre Nachfolge heranziehen sollten. <name type="person" ref="per:112037">Tischler</name><lb/>
+selbst glaubt, dass <name type="person" ref="per:97582">Jacobi</name> aber noch nicht daran denkt,<lb/>
+wirklich in Pension zu gehen. Dies kann natürlich auch ein<lb/>
+Grund sein, dass sie eben <name type="person" ref="per:97963">Slavik</name> über alle Details sehr genau in<lb break="no"/>formiert, allerdings fürchte ich nicht ganz objektiv. Ich bin sicher<lb break="no"/>lich kein starker Politiker, <name type="person" ref="per:98053">Wanke</name> meint sogar mit Recht, ich<lb/>
+habe ein gebrochenes Verhältnis zur Macht und als ich ihm früher<lb/>
+erklärte, ich sei überhaupt kein Politiker, hätte er dies<lb/>
+nicht zur Kenntnis nehmen wollen, kommt aber jetzt doch immer<lb/>
+mehr drauf, dass die stimmt, weshalb ich mich mit ruhigem Ge<lb break="no"/>wissen nicht als starken Politiker bezeichnen kann. Als dieser<lb/>
+betrachte ich aber meine Aufgabe nicht darin, irgendwelche Infor<lb break="no"/>mationen, die wir über andere Personen zukommen oder über<lb/>
+Zustände sofort aufgebauscht und womöglich entstellt weiterzu<lb break="no"/>geben, sondern wohl die richtigen Informationen, besonders wenn<lb/>
+ich gefragt werde, an die Stellen weiterzuleiten, die es wissen<lb/>
+müssen und die vor allem daraus Konsequenzen ziehen sollten,<lb/>
+um sie zu ändern. Leider komme ich immer mehr drauf, dass<lb/>
+meistens genau das Gegenteil geschieht. Vielleicht ist dies mensch<lb break="no"/>lich verständlich in der Politik üblich, entspricht aber absolut<lb/>
+nicht meinem Stil. Ich werde mich in dieser Frage kaum ändern<lb/>
+können.<lb/>
+</p>
+            <p xml:space="preserve">Im Parlament konnte spät abends dann doch nicht die Abstimmung über<add>[das]</add><lb/>
+Kapitel Gesundheitswesen erfolgen, da nach dem Schlussreferat<lb/>
+von <name type="person" ref="per:107938">Leodolter</name> <name type="person" ref="per:98091">Withalm</name> am nächsten Tag erst replizieren wollte.<lb/>
+Da durch hätte er die Öffentliche Meinung, d.h. die Massen<lb break="no"/>medien gehabt, während <name type="person" ref="per:107938">Leodolter</name> natürlich vollkommen untergegangen<lb/>
+wäre, deshalb wurde die Debatte lustlos weitergeführt und dann<lb/>
+unterbrochen. Trotzdem bin ich überzeugt, dass Mittwoch Abends<lb/>
+die Debatte endgültig zu Ende sein wird und das Budget beschlossen<lb/>
+da die Abgeordneten nach Hause fahren wollen und es sich am<lb/>
+Samstag aus herausgestellt hat, das sie da sehr diszipliniert die<lb/>
+Diskussion bestreiten.<lb/>
+</p>
+            <pb n="13-1532" facs="13_1972-12-19_1532.jpg"/>
+            <p xml:space="preserve"><name type="person" ref="per:107938">Leodolter</name> und <name type="person" ref="per:97755">Moser</name> haben mit mir vereinbart, den Rennweg jetzt<lb/>
+einmal für das Handelsministerium zu erwerben. <name type="person" ref="per:97755">Moser</name> wollte eine<lb/>
+dezidierte Erklärung von mir, dass wir dort einziehen möchten. Da<lb/>
+wir keine andere Möglichkeit derzeit konkret haben, habe ich mit<lb/>
+<name type="person" ref="per:107938">Leodolter</name> vereinbart, dass er jetzt versuchen soll, so schnell<lb/>
+wie möglich den Rennweg zu erwerben und wir, wenn keine andere Möglich<lb break="no"/>keit besteht, dann tatsächlich mit der Aussenhandelsstelle dorthin<lb/>
+übersiedeln müssen. Sollte eine bessere Lösung für uns zustande<lb break="no"/>kommen, dann werde ich selbstverständlich sehr dafür sein, dass<lb/>
+<name type="person" ref="per:107938">Leodolter</name> für ihr Gesundeninstitut dieses Objekt bekommt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: <name type="person" ref="per:97755">Moser</name> erklärt mir ausdrücklich, dass er bis<lb/>
+jetzt noch nichts unternommen hat, weil keine endgültige Zusage un<lb break="no"/>sererseits vorlag. Ich glaube, dass wir jetzt uns zumindestens ein<lb break="no"/>mal auf dieses Projekt konzentrieren sollen. Wenn die Chinesen dann<lb/>
+nicht in die Metternichgasse einziehen wollen, dann haben wir immer<lb/>
+noch die Möglichkeit, das BAWAG-Gebäude <name type="person" ref="per:107938">Leodolter</name> zu überlassen, die<lb/>
+sich sehr freuen würde.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="13_1524_01" facs="13_1972-12-19_1524-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 19.12.1972</head>
+         </div>
+         <pb n="13_1524_02" facs="13_1972-12-19_1524-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+         <pb n="13_1532_01" facs="13_1972-12-19_1532-01.jpg"/>
+         <pb n="13_1532_02" facs="13_1972-12-19_1532-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesordnung 53. Ministerratssitzung, 19.12.1972</head>
+            <gap reason="sampling"/>
+            <pb n="13_1532_03" facs="13_1972-12-19_1532-03.jpg"/>
+            <gap reason="sampling"/>
+            <pb n="13_1532_04" facs="13_1972-12-19_1532-04.jpg"/>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittwoch, der 17. November 1982</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band67_1982-11-17</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1982-11-17">Mittwoch, 17. November 1982</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-12-03">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="67-1341" facs="67_1982-11-17_1341.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Mittwoch, 17. November 1982<lb/>
+</p>
+            <p xml:space="preserve">Der Chefredakteur <name type="person" ref="per:1138322">Horschitz</name> vom Wirtschafts-Kurier in München hat<lb/>
+in seinem Interview sich auf wenige spezifische Fragen zwischen<lb/>
+Bayern und Österreich beschränkt. Am meisten interessierte er sich<lb/>
+für die Stellungnahme Österreichs zum Rhein-Main-Donau-Kanal, er meinte,<lb/>
+man könnte sogar mit finanzieller Unterstützung Österreichs einen<lb/>
+bayrisch-österreichischen Vertrag zur Beendigung des Kanals schlie<lb break="no"/>ßen. In diesem Fall erwähnte er vom wirtschaftlichen Standpunkt aus<lb/>
+gesehen die uralte Idee einer Donauföderation, ich ersuchte ihn dies,<lb/>
+da ich sofort negativ auf solche Ideen, wenn auch sehr höflich, rea<lb break="no"/>gierte, nicht zu publizieren, weil er dadurch der Idee des Kanals<lb/>
+und dessen Verwirklichung nur schaden könnte.<lb/>
+</p>
+            <p xml:space="preserve">Der bulgarische Botschafter <name type="person" ref="per:113027">Georgiew</name> ersuchte mich als Vorsitzender<lb/>
+der bulgarisch-österreichischen Gemischten Kommission um Interven<lb break="no"/>tion beim Verkehrsministerium, damit die Vereinbarung von Balkan Air<lb/>
+mit der AUA über Chartertarife von Österreich nach Bulgarien von<lb/>
+1.950 auf 2.000 S erhöht werden könnte. Ich erklärte sofort, ich werde<lb/>
+mit der AUA darüber sprechen.<lb/>
+</p>
+            <p xml:space="preserve">Dir. <name type="person" ref="per:139706">Papousek</name> und sein Frachtfachmann <name type="person" ref="per:128916">Kotrba</name> erklärten mir dann, daß<lb/>
+die übergebene Note die Situation falsch darstellt. Balkan Air und<lb/>
+AUA hatten sich bereits geeinigt. Jetzt wollen sie noch einmal eine<lb/>
+weitere Verbesserung ihrer Position durch eine falsche Intervention<lb/>
+erreichen. Ich habe abends dann dem bulgarischen Botschafter von<lb/>
+dieser Einigung Mitteilung gemacht und ersucht, er sollte sich direkt<lb/>
+mit den beiden Herren der AUA zusammensetzen, was dann auch geschehen<lb/>
+ist.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Das Ergebnis der Aussprache nach Erhalt des<lb/>
+Berichtes der AUA dem Verkehrsministerium mit dem Memorandum über<lb break="no"/>mitteln.</p>
+            <p xml:space="preserve">Bei der Ankunft des tschechischen Staatspräsidenten Dr. <name type="person" ref="per:127063">Husak</name> waren<lb/>
+ungewöhnlich starke Sicherheitsmaßnahmen vorgesehen. Etliche Organisa<lb break="no"/>tionen hatten Protestkundgebungen beabsichtigt, manche auch dann<lb/>
+tatsächlich durchgeführt. Die Zeitungen berichteten über diesen Besuch<lb/>
+bis jetzt einigermaßen erträglich, der Kurier mit einem Interview<lb/>
+eines Dissidenten, der <name type="person" ref="per:127063">Husak</name> als Galionsfigur bezeichnete. Niemand<lb/>
+<pb n="67-1342" facs="67_1982-11-17_1342.jpg"/>weiß aber in Wirklichkeit, ob nicht gerade der neue Kremlchef<lb/>
+<name type="person" ref="per:1137846">Andropow</name>, der angeblich <add>[wie?]</add> <name type="person" ref="per:114115">Kadar</name> in Ungarn ebenfalls eine liberalere<lb/>
+Politik macht, auch in der CSSR gegenüber dem härteren Zentralsekre<lb break="no"/>tär <name type="person" ref="per:131771">Bilak</name>, den Staatspräsidenten <name type="person" ref="per:127063">Husak</name> mehr beschützen will. Wir<lb/>
+können an einem liberaleren Kurs nur interessiert sein.<lb/>
+</p>
+            <p xml:space="preserve">Mit dem mitreisenden Außenhandelsminister <name type="person" ref="per:133292">Urban</name> und seinem SC <name type="person" ref="per:1138323">Keller</name><lb/>
+hatte ich dann in ihrer Residenz im Imperial ein Arbeitsessen, dort<lb/>
+konnte ich aufgrund der von mir ihm übergebenen österreichischen<lb/>
+Schwerpunktliste insbesondere auf die Crackanlage, Anbotswert ca.<lb/>
+2 Mrd. S, der VÖEST-Alpine verweisen. Ich habe erklärt, daß man in<lb/>
+Österreich stets bei so großen Staatsbesuchen erwartet, daß auch ein<lb/>
+großes Projekt sehr konkret besprochen und womöglich gleich abgeschlos<lb break="no"/>sen wird. Dies war z.B. beim letzten Besuch des <choice><choice><sic>deutschen Staatsprä<lb break="no"/>sidenten</sic><corr>DDR-Staats- und Parteichefs</corr></choice></choice> <name type="person" ref="per:114104">Honecker</name> ebenfalls der Fall. Hier haben angeblich im Flug<lb break="no"/>zeug nach Wien der im Politbüro zuständige Dr. <name type="person" ref="per:114101">Mittag</name> mit <name type="person" ref="per:114104">Honecker</name><lb/>
+endgültig ihre Zustimmung gegeben, um eben einem solchen Staatsbesuch<lb/>
+die notwendige wirtschaftliche Unterstützung zu geben. <name type="person" ref="per:133292">Urban</name> meinte,<lb/>
+die übrigen 5 Offerenten seien mehr oder minder schon ausgeschieden,<lb/>
+der Preis von 3,2 Mrd. Tschechenkronen aber sei noch zu hoch, es<lb/>
+müßte ein Preis unter 3 Mrd. vereinbart werden. Gleichzeitig erwartet<lb/>
+er eine Reziprozität, wir würden sagen, eine Kooperation zwischen <add>[der]</add><lb/>
+VÖEST-Alpine und CSSR-Betrieben.<lb/>
+</p>
+            <p xml:space="preserve">Ich habe über diesen Punkt dann sofort mit <name type="person" ref="per:97315">Apfalter</name> gesprochen, der<lb/>
+ein eigenes Memorandum für <name type="person" ref="per:97668">Kreisky</name> verfaßt hat, daß ich dieses<lb/>
+Memorandum <name type="person" ref="per:133292">Urban</name> übergeben sollte.<lb/>
+</p>
+            <p xml:space="preserve">Der weitere wichtige Punkt war die Reduzierung der Schnittholzimporte<lb/>
+nach Österreich. <name type="person" ref="per:133292">Urban</name> erklärte zwar, er könne die österreichische<lb/>
+Argumentation, daß damit der österreichische Markt gestört wird, bei<lb/>
+nur 6 % Anteil nicht akzeptieren. Für mich war aber entscheidend, daß<lb/>
+er letzten Endes dann zustimmte, für das Jahr 82 maximal 400.000 Fest<lb break="no"/>meter, die bereits alle geschlossen sind, zu liefern, die Detailauf<lb break="no"/>stellung wird er mir noch zukommen lassen, für 83 ist er bereit eine<lb/>
+operative Senkung nach Bedürfnis der Länder vorzunehmen. Ein Selbstbe<lb break="no"/>schränkungsabkommen lehnte er allerdings aus für mich verständlichen<lb/>
+Gründen ab.<lb/>
+</p>
+            <p xml:space="preserve">Zu den einzelnen Punkten unserer Wunschliste wird er noch im Laufe<lb/>
+des Aufenthaltes nach telefonischer Rücksprache mit Prag konkret<lb/>
+Stellung nehmen.<lb/>
+</p>
+            <pb n="67-1343" facs="67_1982-11-17_1343.jpg"/>
+            <p xml:space="preserve">Gleichzeitig überreichte er mir jetzt eine Schwerpunktliste der<lb/>
+tschechoslowakischen Wünsche, die Tschechen haben also meine jahr<lb break="no"/>zehntelang geübte Methode jetzt übernommen. Ich habe sofort die<lb/>
+Handelskammer und alle beteiligten Firmen davon verständigt und zu<lb/>
+meiner Freude noch bis spät abends dann die notwendigen Informationen<lb/>
+entweder über Dr. <name type="person" ref="per:97474">Gleißner</name>, unserem österreichischen Handelsdelegierten<lb/>
+in Prag, <name type="person" ref="per:132704">Winkler</name>, und <name type="person" ref="per:130206">Marboe</name> erhalten. Auch <name type="person" ref="per:108746">Haffner</name> ist es geglückt<lb/>
+mit Firmen Kontakte aufzunehmen und auch Informationen zu bekommen.<lb/>
+Die zuständige Sektion ist nämlich durch Kur und Krankheit der betref<lb break="no"/>fenden Referentinnen und Referenten ausgefallen.<lb/>
+</p>
+            <p xml:space="preserve">Beim Abendessen hat Außenminister <name type="person" ref="per:108328">Pahr</name> mir und Landwirtschaftsminister<lb/>
+<name type="person" ref="per:97511">Haiden</name> mitgeteilt, Außenminister <name type="person" ref="per:134235">Chnoupek</name> hätte ihm erklärt, die Tscheche<lb/>
+würden mehr als die 70.000 to Mais und 100.000 to Weizen noch kaufen.<lb/>
+<name type="person" ref="per:97511">Haiden</name> mußte ihm bestätigen, daß er keine offenen Mengen mehr hat,<lb/>
+was ich die ganze Zeit schon vermutete und daher ein solches Angebot<lb/>
+erst gar nicht stellte.<lb/>
+</p>
+            <p xml:space="preserve">Die Schwerpunktliste der Tschechen habe ich dann abends mit Außenhan<lb break="no"/>delsminister <name type="person" ref="per:133292">Urban</name> nur andeutungsweise besprochen, Bundespräsident<lb/>
+<name type="person" ref="per:97632">Kirchschläger</name> beabsichtigt nämlich am nächsten Tag eine eigene Ar<lb break="no"/>beitsgruppe für Wirtschaftsfragen einzusetzen. Ich berichtete <name type="person" ref="per:97632">Kirch<lb break="no"/>schläger</name> nämlich über die bisherigen Arbeitsgespräche, <name type="person" ref="per:97632">Kirchschläger</name><lb/>
+war damit sehr zufrieden, meinte aber, er bräuchte diese Wirtschafts<lb break="no"/>kommission, damit auch eine zweite Kommission für humanitäre Fragen<lb/>
+gebildet werden kann. Mit dieser eher ungewöhnlichen Vorgangsweise<lb/>
+will er bei den Tschechen mehr als vielleicht sonst üblich erreichen.<lb/>
+</p>
+            <p xml:space="preserve">Dir. <name type="person" ref="per:116035">Brandtner</name>, Fa. Grundig, hat nach Rücksprache mit <name type="person" ref="per:126281">Max Grundig</name> vor<lb break="no"/>geschlagen, man soll für eine geringere Anzahl von Farbfernsehröhren,<lb/>
+die sie aus Japan importieren müssen, den vorgesehenen Zoll von 15<lb/>
+% auf 5 % senken. Ich habe sofort versprochen mit dem Philips-GD<lb/>
+<name type="person" ref="per:126973">Lap</name> darüber Verhandlungen aufzunehmen. <name type="person" ref="per:116035">Brandtner</name> glaubt nicht, daß<lb/>
+es gelingen wird zu einem Kompromiß zu kommen. Im bayrischen Fern<lb break="no"/>sehen hat er gehört, daß die Fa. Grundig mit der französischen Firma<lb/>
+Thomson-Brandt eine große Kooperation bei der sogenannten Braunware<lb/>
+beabsichtigt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG AN <name type="person" ref="per:111737">MARSCH</name> UND <name type="person" ref="per:108746">HAFFNER</name>: Was wissen wir davon?<lb/>
+</p>
+            <p xml:space="preserve">Die Kunstemailschalenproduktionsfirma ARTA hat im 2. Bez. eine Pro<lb break="no"/>duktionsstätte, auf einer anderen Adresse wieder ein kleines Büro,<lb/>
+<pb n="67-1344" facs="67_1982-11-17_1344.jpg"/>alles nur mit Hilfe von Hausbesorgern zu finden. Trotzdem habe ich<lb/>
+gerne das Staatswappen auch bei den paar Beschäftigten persönlich<lb/>
+dem Besitzer überreicht, da ich diese Emailwerkstätte selbst gerne<lb/>
+anschauen wollte. Überrascht war ich, als ich ein sehr lustig ge<lb break="no"/>maltes Karikaturteller von mir über Wanderbares Österreich neben<lb/>
+einer emaillierten Rauchergarnitur bekommen habe.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Außenhandelstagung Westeuropa wurde von allen Handelsdele<lb break="no"/>gierten festgestellt, daß die Exportbemühungen dort jetzt auf frucht<lb break="no"/>baren Boden stoßen und bei oft gleichbleibenden Importen unsere Ex<lb break="no"/>porte wesentlich erhöht werden können. Wir sind allerdings bei fast<lb/>
+allen westeuropäischen Staaten passiv. Eine besonders lange Diskussion<lb/>
+nahmen die jetzt von der französischen Regierung erlassenen nichttarifa<lb break="no"/>rischen Hemmnisse wie nur Verwendung der französischen Sprache,<lb/>
+Einschränkung für die Zollabfertigung auf Spezialzollämter, mitten<lb/>
+in Frankreich gelegen, für Videorecorder z.B. Dr. <name type="person" ref="per:97474">Gleißner</name> und<lb/>
+Handelsdelegierter <name type="person" ref="per:127903">Lukas</name> werden mit dem Handelsministerium unverzüglich<lb/>
+jetzt alle einzelnen Maßnahmen und unsere Gegenmaßnahmen besprechen,<lb/>
+die sie mir dann vorschlagen werden.<lb/>
+</p>
+            <p xml:space="preserve">Der Vorstand und auch die Betriebsratsobleute von Gräf &amp; Stift<lb/>
+sprachen bei mir vor, um mir mitzuteilen, daß die Fa. MAN, die bis jetzt<lb/>
+bis 600 LKW im Jahr in Österreich, allerdings unter Zulieferung von<lb/>
+ihren eigenen Bestandteilen und teilweise durch Produktion öster<lb break="no"/>reichischer Bestandteile, diese LKW hier zusammenbauen ließ, nächstes<lb/>
+Jahr keinen LKW nach Österreich in Auftrag geben kann. In München<lb/>
+stehen 300 LKW noch immer im Hof auf Lager. In Deutschland, aber auch<lb/>
+in Österreich, ja sogar weltweit haben jetzt die Volvo und Scania durch<lb/>
+die 16 %-ige Abwertung der Schwedenkrone einen ungeheuren Verkaufs<lb break="no"/>vorteil. Verteidigungsminister <name type="person" ref="per:97879">Rösch</name> hat ihnen zugesagt, er könnte<lb/>
+entsprechende LKW für das Bundesheer kurzfristig kaufen, wenn der Finanz<lb break="no"/>minister die zusätzlichen Budgetmittel dafür bereitstellen kann.<lb/>
+Gräf &amp; Stift müßte ansonsten von den 1000 Beschäftigten 1/4 abbauen.<lb/>
+Ich erklärte mich zu jeder Unterstützung der Firma bereit, wir einigten<lb/>
+uns sofort darauf, daß ich die notwendigen Unterlagen auch für ein<lb/>
+militärisches Fahrzeug bei meiner Reise nach Saudi-Arabien und den<lb/>
+Golfstaaten für Gräf &amp; Stift mitnehmen und dort verteilen werde.<lb/>
+</p>
+            <p xml:space="preserve">Erfreulich bei dieser Aussprache war nur, daß GD <name type="person" ref="per:113108">Daimer</name> mitteilte,<lb/>
+sie hätten sich jetzt mit SDP über den gemeinsam geplanten österreichi<lb break="no"/>schen Postautobus geeinigt. Wäre eine solche Einigung nicht zustande<lb/>
+gekommen, hätte ich GD <name type="person" ref="per:121800">Übleis</name> vorgeschlagen gegebenenfalls die not<lb break="no"/><pb n="67-1345" facs="67_1982-11-17_1345.jpg"/>wendigen Busse bei wesentlich geringeren Preisen zu importieren.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name> <add>erl. <name type="person" ref="per:125291">Ma.</name></add>: Bitte mit <name type="person" ref="per:121800">Übleis</name> verbinden.<lb/>
+</p>
+            <p xml:space="preserve">Staatssekretär <name type="person" ref="per:97343">Beil</name>, Botschafter <name type="person" ref="per:122250">Schramm</name> und sein Österreichreferent<lb/>
+<name type="person" ref="per:125951">Reh</name> besuchten mich, um die im <name type="person" ref="per:97668">Kreisky</name>-<name type="person" ref="per:114101">Mittag</name>-Abkommen vorgesehenen<lb/>
+Abschlüsse auch mir neuerdings zu bestätigen. Zusätzliche Konsumgüter<lb/>
+wie 3 1/2 Mio. Mark Pralinen, wie die Deutschen sagen, 5.000 hl<lb/>
+Flaschenweine wurden von ihm besonders erwähnt, überrascht war ich<lb/>
+zu hören, daß sie noch um weitere 3 Mio. Mark Süßwaren kaufen würden,<lb/>
+wenn die österreichische Industrie und insbesondere die Österreichische<lb/>
+Kontrollbank dies finanzieren würde.<lb/>
+</p>
+            <p xml:space="preserve">Der Grund seiner Intervention bei mir war aber primär, daß, wie mir<lb/>
+<name type="person" ref="per:97315">Apfalter</name> vorher schon mitteilte, die ersten 400.000 to Öl mit einem<lb/>
+Zahlungsziel von 270 Tagen von der DDR-Seite akzeptiert würden, <choice><choice><sic>die</sic><corr>bei den</corr></choice></choice><lb/>
+zweiten 400.000 für das nächste erste Halbjahr muß <name type="person" ref="per:97343">Beil</name> aber auf<lb/>
+die vereinbarten 360 Tage Ziel bestehen. Ich erklärte ihm, daß ich<lb/>
+bereit bin mit <name type="person" ref="per:97315">Apfalter</name> zu versuchen einen Ausweg zu finden. Die<lb/>
+Widerstände aber gegen diese Ölkreditierung in Österreich werden immer<lb/>
+stärker, ich konnte ihn auf die diesbezüglichen Artikel in der<lb/>
+Kronen-Zeitung und im Profil verweisen. <name type="person" ref="per:97343">Beil</name> sagte, vor einem Jahr war<lb/>
+die Finanzsituation in der DDR viel schlechter, jetzt haben sie die<lb/>
+Importe gebremst, kriegen mehr Einnahmen aus den deutsch-deutschen<lb/>
+Verkehr und sind pünktliche Zahler.<lb/>
+</p>
+            <p xml:space="preserve">Dieses Problem habe ich dann abends beim Empfang des Bundespräsidenten<lb/>
+mit dem Präs. der OeNB, <name type="person" ref="per:97647">Koren</name>, besprochen, ohne über Details mit ihm<lb/>
+zu reden. <name type="person" ref="per:97647">Koren</name> erklärte rundweg, die Nationalbank kann einer Erhöhung<lb/>
+des Kreditrahmens, ja überhaupt einer weiteren Abwicklung der Ge<lb break="no"/>schäfte wie bis jetzt nicht zustimmen. Da ich ihn immer wieder fragen<lb/>
+welchen Ausweg er dann hatn und er immer nur meinte, dann könne man<lb/>
+die VÖEST-Produkte gleich in die Donau werfen, das sei genau das<lb/>
+selbe Ergebnis, gerieten wir, obwohl wir alte Studienkollegen sind,<lb/>
+hart aneinander. Niemand kann nämlich aus dieser verzwickten Finanz<lb break="no"/>situation nicht nur der Oststaaten, sondern auch der Entwicklungslän<lb break="no"/>der und jetzt sogar auch insbesondere von Südamerika von der Banker<lb break="no"/>seite anderes vorschlagen, als daß man eben dieses ganze Problem vor<lb/>
+sich herschiebt. <name type="person" ref="per:97647">Koren</name> ist derzeit bei den Verhandlungen mit der Um<lb break="no"/>schuldung von Jugoslawien besonders beschäftigt und meint, dort wird<lb/>
+es jetzt zum Krach kommen. Amerikaner werden keinerlei Unterstützung<lb/>
+geben und es werden damit wie ein Dominospiel alle anderen Oststaaten<lb/>
+<pb n="67-1346" facs="67_1982-11-17_1346.jpg"/>auch früher oder später, er glaubt sogar früher, umfallen. <name type="person" ref="per:97647">Koren</name> meint,<lb/>
+innerhalb von 2 Monaten, auf alle Fälle vor der nächsten Nationalrats<lb break="no"/>wahl, wird uns das Ganze auf den Kopf fallen. Ich teile diese Meinung<lb/>
+nicht und erklärte, wir werden ja sehen, wie es jetzt weitergeht. Eine<lb/>
+so harte Auseinandersetzung habe ich mit noch keinem Banker bis jetzt<lb/>
+gehabt.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="67_1340_05" facs="67_1982-11-17_1340-05.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 17.11.1982</head>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Montag, der 20. März 1972 bis Freitag, der 24. März 1972</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band10_1972-03-20</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1972-03-20">Montag, 20. März 1972</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-09-27">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="10-0396" facs="10_1972-03-20_0396.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Montag, 20. März 1972<lb/>
+</p>
+            <p xml:space="preserve">Jour fixe mit <name type="person" ref="per:97769">Mussil</name> gibt mir die Gelegenheit auf die Brüsseler<lb/>
+Verhandlungen zu sprechen zu kommen. Wir werden die ganzen land<lb break="no"/>wirtschaftlichen Verarbeitungsprodukte 10959 verlangen. Die Landwirt<lb break="no"/>schaft, die ja bekanntlich auch den Vorgehen jetzt wieder zugestimmt<lb/>
+hat, wünscht nur die Erstattung bereits jetzt um die Regierung unter<lb/>
+Druck zu setzen. <name type="person" ref="per:97769">Mussil</name> kann dies nicht bestreiten. Ebenso verhält<lb/>
+es sich mit den Salzfolgeprodukten die von der Handelskammer genau<lb/>
+zu demselben Zweck nur verlangt werden. Ich weise darauf hin, daß<lb/>
+es notwendig ist und ich es am vergangen Freitag spät abends noch<lb/>
+der Delegation die nach Brüssel fährt empfohlen habe, daß die Inter<lb break="no"/>essenvertreter <choice><choice><sic>boulvard</sic><corr>Pouvoir?</corr></choice></choice> haben, entsprechende Verhandlungen in Brüssel<lb/>
+gegebenenfalls führen zu können. Ich erwarte nämlich, daß die<lb/>
+Kommission eine detaillierte Information wünscht und daß man dann<lb/>
+wahrscheinlich auf entsprechende konkrete Aussagen wird verzichten<lb/>
+müssen, d.h. auf die konkrete Schlußfolgerung der Satzfolgeprodukte<lb/>
+als sensible Produkte aufgenommen werden, letztlich verzichten muß.<lb/>
+<name type="person" ref="per:97769">Mussil</name> nimmt dies zur Kenntnis. Er ersucht nur daß unverzüglich von<lb/>
+Brüssel in einem Bericht gegeben werden soll. Diese Forderung ist<lb/>
+mir eigentlich unverständlich, da ja selbst <name type="person" ref="per:97474">Gleißner</name> diesmal bei<lb/>
+den Verhandlungen anwesend sein wird.<lb/>
+</p>
+            <p xml:space="preserve">Anmerkung für <name type="person" ref="per:98053">WANKE</name>:<lb/>
+Trotzdem bitte unverzüglich bei Kabeleinlauf oder telefonischer<lb/>
+Mitteilung weiter berichten.<lb/>
+</p>
+            <p xml:space="preserve">Zusammen mit der Mehrwertsteuer erwähnte er, daß innerhalb der ÖVP<lb/>
+schwere Kämpfe stattfinden, so u.a. verlangen die Agrarier jetzt<lb/>
+das Wein als Agrarprodukt behandelt werden soll. Er selbst überlegt<lb/>
+jetzt ob die Entlastung, d.h. der Vorsteuerabzug nicht auch wie in<lb/>
+Brüssel, wo ein ganzes Buch als Verordnung rausgekommen ist, auch<lb/>
+in Österreich angestrebt werden müßte. Wenn eine Firma dies nicht<lb/>
+macht, dann müßte die Bundesregierung das Preistreibereigesetz an<lb break="no"/>wenden können. Überhaupt glaubt er, daß in der Diskussion über die<lb/>
+Wirtschaftsbeiratsstudie über Preise er sich mehr oder minder schon<lb/>
+geistig durchgerungen hat, das Preisregelungsgesetz novelliert ge<lb break="no"/><pb n="10-0397" facs="10_1972-03-20_0397.jpg"/>hört. Eine Vorstellung ist, daß man im Kartellgesetz den Kartell<lb break="no"/>ausschuß jetzt durch einen Beamtenapparat vergrößern müßte. Dieser<lb/>
+hätte dann festzustellen, ob Wettbewerbspreise in einem bestimmten<lb/>
+Produkt bei gewissen Firmen bestehen. Wo dies nicht der Fall ist,<lb/>
+sollte der Beamtenapparat den Preisbehörden vorschlagen können, in<lb/>
+6 Monaten Preisregelung für gewissen Produkte zu ergreifen. Ich<lb/>
+erkläre sofort, daß dies ein viel zu komplizierter Weg ist, um<lb/>
+im Zusammenhang mit der Mehrwertsteuer aber auch in weiterer Folge<lb/>
+mit der zu erwartenden ununterbrochenen Preiserhöhungstendenz wirk<lb break="no"/>sam sein zu können. Auf alle Fälle kommen wir immer mehr doch jetzt<lb/>
+in die Situation, wo die Handelskammer bereit sein wird, gewissen<lb/>
+Änderungen zuzustimmen.<lb/>
+</p>
+            <p xml:space="preserve">Betreffend sein Telegramm, daß mit 1.4. das Ofenheizöl erhöht werden<lb/>
+müßte und sein Hinweis auf meine Verwendungszusage erkläre ich ihm,<lb/>
+daß er doch die TV-Sendung über Preisdiskussion <name type="person" ref="per:97668">Kreisky</name> - <name type="person" ref="per:97917">Schleinzer</name><lb/>
+gesehen hat. Es wurde von seiten <name type="person" ref="per:97917">Schleinzers</name> ausdrück<lb break="no"/>lich darauf hingewiesen, daß jetzt weitere Heizölpreiserhöhungen<lb/>
+die Regierung beschließen wird und auf den Zwischenruf,<lb/>
+was dafür die Regierung<add>[Rest der Zeile überschrieben, Anm.]</add>,<lb/>
+erklärte er dezidiert, man sollte doch <name type="person" ref="per:97985">Staribacher</name> fragen. Unter<lb break="no"/>stützt wurde <name type="person" ref="per:97917">Schleinzer</name> in diesem Fall sogar von <name type="person" ref="per:97647">Koren</name>. Daß ich jetzt<lb/>
+darauf das Ministerkomitee für Preisfragen beschäftigen werde, ist auf<lb/>
+Grund dieser Äußerungen selbstverständlich. Damit habe ich meine<lb/>
+Verwendungszusage erfüllt. <name type="person" ref="per:97769">Mussil</name> sieht ein und war sehr unglücklich<lb/>
+über die entsprechenden TV-Bemerkungen, daß damit der Termin 1.4.<lb/>
+sicherlich vorüberziehen wird.<lb/>
+</p>
+            <p xml:space="preserve">Betreffend die Zuckerpreisverhandlungen teilte er mit, daß die Zucker<lb break="no"/>industrie den Vertrag bereits unterschrieben hat. Da ich ihn aber<lb/>
+gegenzeichnen müßte kann ich nur erklären, daß ich bis heute noch<lb/>
+keine Unterschrift unter einen Vertrag setzen konnte. Dann zieht er<lb/>
+sofort zurück und meinte, daß die Zuckerindustrie bereits Löhne be<lb break="no"/>zahlt. Auch dies ist mir nicht bekannt. Er beschwert sich allerdings<lb/>
+mit Recht, daß <choice><choice><sic>seines dafürhalten</sic><corr>nach seinem Dafürhalten?</corr></choice></choice>, wenn es zu einer Preisgesetz<lb break="no"/>änderung kommt, die Regierung irgendwie verpflichtet werden müßte,<lb/>
+innerhalb von 6 Monaten einen Antrag zur Entscheidung zu bringen.<lb/>
+Er meinte, daß auch <name type="person" ref="per:97358">Bock</name> bereits immer wieder es gehandhabt hat,<lb/>
+<pb n="10-0398" facs="10_1972-03-20_0398.jpg"/>unliebsame Preiserhöhungsanträge insbesondere dann auch in der<lb/>
+ÖVP-Alleinregierung, ganz einfach zurückzustauen und kein Ver<lb break="no"/>fahren resp. Entscheidung herbeizuführen.<lb/>
+</p>
+            <p xml:space="preserve">Die Handelskammer wird ein Schreiben an mich richten, wo die<lb/>
+Bürges von 200.000 auf 300.000 die Werbesteuerleistung für die<lb/>
+Gewerbestrukturverbesserung von 3 % reserviert für diesen Zweck<lb/>
+auf 5 % erhöht werden soll und daß weiters für abwanderungsge<lb break="no"/>fährdete Gebiete 20 Mio. S für Rationalisierung im Rahmen der<lb/>
+Bürges zur Verfügung gestellt werden müssen. Ich erkläre ihm,<lb/>
+daß es vollkommen sinnlos ist ein solches Schreiben an mich zu<lb/>
+richten, denn ich werden ihnen max. zurückschreiben, daß ich da<lb break="no"/>für nicht zuständig bin und der Finanzminister diese ganze Frage<lb/>
+zu bearbeiten und letzten Endes zu entscheiden hat. Eine Ver<lb break="no"/>wendungszusage mache ich nicht, da ich auf dem Standpunkt stehe,<lb/>
+ein Finanzminister war bis jetzt bereit die Gewerbesteuerbeitrag<lb/>
+von 3 % auf 5 % zu erhöhen. Ich verweise gleichzeitig auf das starke<lb/>
+Anwachsen der Kreditanträge und daß ich jetzt überhaupt verlangen<lb/>
+mußte, dies ganze Problem neu zu überdenken. Bei dieser Gelegenheit<lb/>
+mache ich darauf aufmerksam, daß <name type="person" ref="per:97649">Korinek</name> erklärte, die Unterlagen<lb/>
+nicht so schnell liefern zu können und ich deshalb darauf bestehen<lb/>
+muß, daß eine Ergänzung der Geschäftsführung erfolgt. <name type="person" ref="per:97769">Mussil</name> will<lb/>
+wissen, wie lange der Vertrag von <name type="person" ref="per:97649">Korinek</name> noch läuft, da noch ins<lb break="no"/>besondere <name type="person" ref="per:113824">Hönlinger</name> scheinbar schon dessen Nachfolge antreten möchte.<lb/>
+<name type="person" ref="per:97649">Korinek</name> dürfte keine sehr starke Stütze innerhalb der Handelskammer<lb/>
+haben. Auch der Bürges-Aufsichtsrat, der bis Juni 1972 nur be<lb break="no"/>stellt ist und dann verlängert werden müßte, oder ausgetauscht werden<lb/>
+kann, wird von ihm zur Sprache gebracht.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97469">Gehart</name> hat an die Handelskammer geschrieben, daß im Rahmen der<lb/>
+Raumordnung die zentralen Orte und Gebiete von den einzelnen Ländern<lb/>
+kann man dem Handelsministerium durch Ausfüllung eines<lb/>
+umfangreichen Fragebogens mitgeteilt werden sollten. Sie meint es gibt<lb/>
+regionalpolitisch einige Ländern, wo auch noch keine Konzepte existie<lb break="no"/>ren. Ich bemerke, daß ihm diese Aussendung sehr unangenehm ist, er<lb/>
+sie aber trotzdem durchführen wird, wenn wir darauf bestehen. Um ihm<lb/>
+vielleicht in der einen oder anderen Frage entgegenzukommen <choice><choice><sic>wage</sic><corr>schlage?</corr></choice></choice> ich<lb/>
+vor, daß <name type="person" ref="per:97469">Gehart</name> und er schlägt <name type="person" ref="per:137215">Hecke</name> vor, noch Besprechungen führen<lb/>
+<pb n="10-0399" facs="10_1972-03-20_0399.jpg"/>soll. <name type="person" ref="per:97769">Mussil</name> hat aber bereits zur Kenntnis genommen, daß eine solche<lb/>
+Ausfüllung eines Fragebogens notwendig ist, ihm auch zustimmt, nur<lb/>
+hat er scheinbar ein oder die andere Frage die ihn besonders hart<lb/>
+trifft.<lb/>
+</p>
+            <p xml:space="preserve">Anmerkung für <name type="person" ref="per:98053">WANKE</name>:<lb/>
+Bitte diesen Fragebogen noch einmal gemeinsam mit <name type="person" ref="per:97469">Gehart</name>, <name type="person" ref="per:137215">Hecke</name><lb/>
+und Dir durchzubesprechen, um ihm vielleicht in der einen oder<lb/>
+anderen Frage entgegenzukommen.<lb/>
+</p>
+            <p xml:space="preserve">Mit <name type="person" ref="per:97584">Jagoda</name> besprechen wir jetzt die Forderungen der Landwirtschaft<lb/>
+zur Gewerbeordnung. Es gelingt einen weitgehenden Akkord zu erzielen.<lb/>
+<name type="person" ref="per:97769">Mussil</name> muß natürlich noch seine Stellen befragen, doch glaube ich,<lb/>
+daß wir jetzt endgültig eine Kompromißlösung gefunden haben, die<lb/>
+auch die Handelskammer akzeptiert. Die Landwirtschaft fürchte ich,<lb/>
+wird eine endgültige Zustimmung erst im Parlament fällen. Auf alle<lb/>
+Fälle kann jetzt die Regierungsvorlage auch in diesem Punkt jetzt<lb/>
+endgültig festgelegt werden.<lb/>
+</p>
+            <p xml:space="preserve">Die erste Frühstücksrunde bei mir ist ein großer Erfolg. Ich habe<lb/>
+bezweifelt, daß <name type="person" ref="per:97646">Koppe</name> im Stande sein wird, fünf oder sechs Journalisten<lb/>
+aufzutreiben. In Wirklichkeit kamen fast 1 Dtzd. Die Diskussion be<lb break="no"/>ginnt mit der Gewerbeordnung, wofür <name type="person" ref="per:97646">Koppe</name> auch MR. <name type="person" ref="per:137068">Mache</name> und S.Chef<lb/>
+<name type="person" ref="per:97584">Jagoda</name> geladen hat. Da ich gerade von der sehr aktuellen Besprechung<lb/>
+komme und mich auch sonst schon einigermaßen auskenne, wird es eine<lb/>
+ganz interessante Diskussion mit Journalisten, unterstützt durch<lb/>
+<name type="person" ref="per:97584">Jagoda</name>. Auch die anderen Fragen betreffend EWG und sonstigen Akti<lb break="no"/>vitäten ist nicht allzu schwer zu beantworten. Wirklich in Verlegen<lb break="no"/>heit komme ich nur wie ein Redakteur frage über die Mehrwertsteuer<lb/>
+deren Auswirkung auf einzelnen Produkte, insbesondere auf Benzin.<lb/>
+Da hier noch keine konkreten Aussagen des Finanzministers vorliegen,<lb/>
+die der Vorsteuerabzug erfolgen soll, resp. ob die Mineralölsteuer<lb/>
+in die Berechnungen einbezogen werden soll oder nicht, auf die dann<lb/>
+die Mehrwertsteuer draufkommt, schwimme ich ganz fürchterlich. Zum<lb/>
+Glück kann ich mich über dieses Problem hinwegturnen.<lb/>
+</p>
+            <p xml:space="preserve">Mit Prof. <name type="person" ref="per:117679">Frisch</name>, dem Dozenten, der jetzt eine <choice><choice><sic>Prof. Technik</sic><corr>Professur an der Technischen Universität</corr></choice></choice> bekommt<lb/>
+und als Antrittsvorlesung über die Inflation in Österreich spricht,<lb/>
+kann ich mich sehr schnell einigen. Ich werde bei dieser Antritts<lb break="no"/><pb n="10-0400" facs="10_1972-03-20_0400.jpg"/>vorlesung anwesend sein und <name type="person" ref="per:97646">Koppe</name> wird vielleicht sogar noch<lb/>
+das Fernsehen dadurch mobilisieren können. <name type="person" ref="per:117679">Frisch</name> selbst hat<lb/>
+eine Theorie entwickelt, die genau dort hintrifft, was ich vor<lb/>
+Jahren bereits unserer wissenschaftl. Abteilung<lb/>
+in der Arbeiterkammer empfohlen habe. Er gibt nämlich der säkularen<lb/>
+Inflation zur Entwicklung jetzt endgültig eine theoretische<lb/>
+Begründung. Da sie sich mit meiner Auffassung 100 %-ig deckt und<lb/>
+ich sogar in den vergangenen Jahrzehnten schon immer verlangt<lb/>
+habe, daß die Arbeiterkammer jetzt endlich eine kleine theoretische<lb/>
+Unterlage für diese praktische Erfahrung, die wir alle gemacht<lb/>
+haben, liefern soll, haben wir sofort einen Akkord zwischen uns<lb/>
+beiden hergestellt. Dozent Dr. <name type="person" ref="per:97728">Edi März</name>, der ja bis jetzt zu<lb/>
+mindestens auch Leiter der wirtschaftswissenschaftl. Abteilung<lb/>
+der AK ist, wird zwar sicher erklären, daß er dies schon immer<lb/>
+gesagt hat. Eine kleine theoretische Arbeit hat er darüber aber<lb/>
+nie arbeiten lassen resp. selbst geliefert. So bleibt bis jetzt<lb/>
+<name type="person" ref="per:117679">Frisch</name> überlassen, dieses Gebiet zum ersten Mal theoretisch durch<lb break="no"/>ackert zu haben und jetzt sogar eine Theorie aufstellen zu können.<lb/>
+Ich bedauere zutiefst, daß es so lange gedauert hat, bis jetzt<lb/>
+endlich für meine Theorie, daß nämlich die säkulare Inflation gar<lb/>
+nicht aufzuhalten ist, bestätigt wird. Vielleicht ist der jetzige<lb/>
+Zeitpunkt gerade nicht sehr günstig und die ganze Theorie wird<lb/>
+im politischen Tageskampf hart attackiert werden. Vielleicht ist<lb/>
+es aber gerade jetzt von entscheidendster Bedeutung, daß man auch<lb/>
+aus der praktischen Erfahrung endlich eine theoretische Untersuchung<lb/>
+beginnt, um damit die Theorie zu beweisen, daß, wenn Wachstum Vor<lb break="no"/>rang hat, dann automatisch eben Preissteigerungen sich ergeben.<lb/>
+Auf alle Fälle werden wir jetzt endlich durch <name type="person" ref="per:117679">Frisch</name> auf einen<lb/>
+neuen Weg in der Theorie hingewiesen werden. Meine Forderung,<lb/>
+Wachstum hat Priorität vor Stabilität und andererseits mäßig aber<lb/>
+regelmäßig werden die Preise steigen, wird damit eigentlich theor.<lb/>
+untermauert.<lb/>
+</p>
+            <p xml:space="preserve">Anmerkung für <name type="person" ref="per:97646">KOPPE</name>:<lb/>
+Bitte propagandistisch alle Vorbereitungen treffen.<lb/>
+</p>
+            <pb n="10-0401" facs="10_1972-03-20_0401.jpg"/>
+            <p xml:space="preserve">In der Ministerratsvorbesprechung ersuche ich <name type="person" ref="per:98055">Weihs</name>,<lb/>
+das Weinkontingent den Weinstaaten gegenüber zu vergrößern.<lb/>
+<name type="person" ref="per:98055">Weihs</name> erklärte, er habe es erst vor ganz kurzer Zeit auf<lb/>
+240.000 hl erhöht. Bis zum April wäre damit die Einfuhrwünsche<lb/>
+des Handels weitestgehend befriedigt. Der Handel müßte noch<lb/>
+eine Lagermeldung machen, damit er weitere Überlegungen anstellen<lb/>
+könnte. Angeblich bekommt er diese Ziffern vom Handel nicht. Sollte<lb/>
+sich ergeben, daß tatsächlich keine Lager vorhanden sind, oder<lb/>
+nur geringe Lager, wenn insbesondere im Vergleich zum Vorjahr,<lb/>
+dann ist er bereit, weitere Aufstockungen vorzunehmen.<lb/>
+</p>
+            <p xml:space="preserve">Anmerkung für <name type="person" ref="per:98053">WANKE</name>:<lb/>
+Bitte dies mit <name type="person" ref="per:97819">Pleschiutschnig</name> besprechen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> berichtet über die Ausstellung der Dokumente betreffend<lb/>
+den Amtssitz der UNIDO. Alle Akten von 66 bis 1972 werden auf<lb break="no"/>gelegt. Die Ministerien die davon betroffen sind, das Handels<lb break="no"/>ministerium scheidet allerdings aus, sollen Beamte abstellen,<lb/>
+die Auskünfte geben können. 12.000 Meter Tonbänder werden<lb/>
+zur Verfügung stehen, die einzelne Leute, wenn sie konkrete Fragen<lb/>
+haben, gegebenenfalls abhören können. Über <name type="person" ref="per:97761">Hartburg</name>, den Präsidenten<lb/>
+der Ingenieurkammer, hat <name type="person" ref="per:97668">Kreisky</name> bis jetzt abgelehnt, da er so<lb break="no"/>wohl bei <name type="person" ref="per:136480">Pelli</name> als auch <name type="person" ref="per:97981">Staber</name> als Partei in Erscheinung getreten<lb/>
+ist. Dagegen haben natürlich die drei Vizepräsidenten, die er ein<lb break="no"/>geladen hat, eine Verhandlung ohne den Präsidenten abgelehnt.<lb/>
+Nun wird <name type="person" ref="per:97668">Kreisky</name> eine Aussprache mit dem gesamten Vorstand, aber<lb/>
+auch den Vorstand des IAKW d. i. die Firma die den Sitz errichten<lb/>
+wird und den Aufsichtsrat dieser Institution gemeinsam abführen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> berichtet von einem Schreiben des Gesundheitsminister über<lb/>
+die Tabakwerbung, die verboten gehört. Ich kann ergänzend sofort<lb/>
+mitteilen, daß eine solche freiwillige Selbstbeschränkung von der<lb/>
+Tabakregie bereits beschlossen ist, da auch in der Bundesrepublik<lb/>
+eine solche jetzt Platz greifen wird. Auf die Werbung in den Zeit<lb break="no"/>schriften und Illustrierten kann nicht verzichtet werden. Damit er<lb break="no"/>kläre ich ist hoffentlich der Gesetzesantrag über das Verbot einer<lb/>
+Tabakwerbung hinfällig. Dies wird von niemandem widersprochen.<lb/>
+</p>
+            <pb n="10-0402" facs="10_1972-03-20_0402.jpg"/>
+            <p xml:space="preserve"><name type="person" ref="per:108224">Lütgendorf</name> berichtet, daß am 10.4. der Landesverteidigungsrat<lb/>
+sich mit der wirtschaftlichen Verteidigung beschäftigen wird.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> bringt einen Brief zur Kenntnis, wo die Offiziersgesellschaft<lb/>
+ihm gratuliert über die Grundsatzerklärung. Ein solches Grundsatz<lb break="no"/>dokument soll auch für die wirtschaftliche Landesverteidigung von<lb/>
+mir als zuständigem Minister ausgearbeitet werden. <name type="person" ref="per:97668">Kreisky</name> meinte<lb/>
+allerdings dann selbst, daß dies sofort durch die einzelnen noch<lb/>
+abgeändert werden kann. So wie dies auch bei der Grundsatzerklärung<lb/>
+bei der allgemeinen Verteidigungsdoktrin der Fall war. Bei dieser<lb/>
+Gelegenheit müßte man auch die Bergwerke beachten. Kupfer, Salz und<lb/>
+subsidär Kohle<add>[?]</add> müßten eben eine Förderung erfahren, im Sinne und im<lb/>
+Interesse der wirtschaftlichen Landesverteidigung. <name type="person" ref="per:97632">Kirchschläger</name><lb/>
+hat seinerzeit bereits einen Entwurf über neutralitätspolitische<lb/>
+Gesichtspunkte für diese Bergwerke ausgearbeitet. Ich habe <name type="person" ref="per:97632">Kirch<lb break="no"/>schläger</name> ersucht er soll mir eine solche Abschrift dieses Gutachtens<lb/>
+zukommen lassen.<lb/>
+</p>
+            <p xml:space="preserve">Anmerkung für <name type="person" ref="per:98053">WANKE</name>:<lb/>
+Bitte dies entweder vom Bundeskanzleramt, für das <name type="person" ref="per:97632">Kirchschläger</name> das<lb/>
+Gutachten erstellt hat, oder vom Außenamt selbst verlangen.<lb/>
+</p>
+            <p xml:space="preserve">Ich erkläre, daß bereits in meinem Ministerium über diese Verteidig<lb break="no"/>ungsdoktrin eine Besprechung stattgefunden hat und schlage vor, daß<lb/>
+die Sekretäre der daran interessierten Ministerien zusammenkommen<lb/>
+sollen. <name type="person" ref="per:97668">Kreisky</name> ist damit einverstanden, wünscht nur, daß wir die<lb/>
+Federführung in dieser Frage in die Hand nehmen. Am Ende der Sitzung<lb/>
+habe ich Gelegenheit <name type="person" ref="per:98053">Wanke</name> den Sekretär von <name type="person" ref="per:108224">Lütgendorf</name>, der gleich<lb break="no"/>zeitig auch der Verbindungsmann <name type="person" ref="per:97668">Kreiskys</name> während der ganzen Militär<lb break="no"/>debatte seit 1970 ist, O.Leutn. <name type="person" ref="per:139787">Schaffler</name> vorzustellen. Die beiden<lb/>
+werden jetzt alles nötige veranlassen, daß spätestens bei der letzten<lb/>
+Ministerratsvorbesprechung vor dem 10. Mai ein Papier vorgelegt werden<lb/>
+kann. Bezüglich der Bergbauförderung berichte ich, daß dieses Gesetz<lb/>
+mit Ende 1972 abläuft und die neuen Gesetze nach meiner Vorstellung<lb/>
+nicht mehr das Defizit des Bergbaues allein die Grundlage für die<lb/>
+Unterstützung sein kann. Ich selbst habe die Bergbehörde bereits an<lb break="no"/>gewiesen, daß sie Entwürfe ausarbeiten soll, die auf die weitere<lb/>
+Entwicklung des Bergbaues insbesondere deren Investitionstätigkeit<lb/>
+und Förderung Rücksicht nehmen müßte. Dies bisherigen Besprechungen<lb/>
+aber mit den Ministerienvertretern zeigten klar und deutlich, daß<lb/>
+<pb n="10-0403" facs="10_1972-03-20_0403.jpg"/>die an der bisherigen Praxis weil sie am billigsten kommt, festhalten<lb/>
+wollen. <name type="person" ref="per:97668">Kreisky</name> meinte, die anderen Ministerienvertreter würden ent<lb break="no"/>sprechende Weisungen bekommen.<lb/>
+</p>
+            <p xml:space="preserve">Anmerkung für <name type="person" ref="per:98053">WANKE</name>:<lb/>
+Bitte die Verhandlungen in dieser Richtung mit Bergbau und den Ver<lb break="no"/>tretern der anderen Ministerien führen.<lb/>
+</p>
+            <p xml:space="preserve">Da ich die weitere Entwicklung auf diesem Gebiet im Laufe 1972<lb/>
+noch abwarten wollte, und auch derzeit noch will, können wir den<lb/>
+Gesetzentwurf sicherlich noch für die Herbstsaison vorbereiten.<lb/>
+Wir müssen allerdings daran denken, daß die Begutachtungsfrist<lb/>
+eingehalten werden muß. Ich glaube, daß wir daher spätestens im<lb/>
+Juni mit einem diesbezüglichen Entwurf an die Kammern und andere<lb/>
+Ministerien herantreten sollten. Vielleicht ist es allerdings not<lb break="no"/>wendig, daß wir zu einem früheren Zeitpunkt bereits eine Aussendung<lb/>
+vornehmen müßten. Hier müßte man mit <name type="person" ref="per:112956">Schwarz</name> den Terminkalender<lb/>
+und insbesondere mit SR <name type="person" ref="per:108609">Sterk</name> abbesprechen.<lb/>
+</p>
+            <p xml:space="preserve">Anmerkung für <name type="person" ref="per:98053">WANKE</name>:<lb/>
+Bitte bedenken, daß die OB sehr langsam arbeitet, siehe neues<lb/>
+Berggesetz.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:98034">Veselsky</name> schneidet die Frage an ob die Seilbahnen nicht auch in<lb/>
+das Verkehrsministerium wünscht, von der ÖROK untersucht werden<lb/>
+sollte. Auch die ÖBB-Nebenbahnen-Probleme sollen von dieser Planungs<lb break="no"/>gesellschaft, wenn die Ländergutachten vorliegen, behandelt werden.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> ist gegen die Seilbahnen, daß diese in der Kommission ver<lb break="no"/>handelt werden. Bezüglich der Nebenbahnen meinte insbesondere <name type="person" ref="per:97879">Rösch</name>,<lb/>
+daß hier doch kaum die ÖROK andere Stellungnahmen beziehen würde,<lb/>
+als die Ländergutachten. Da die ÖBB derzeit einen Gesetzesauftrag<lb/>
+haben, nach betriebswirtschaftlichen Gesichtspunkten vorzugehen,<lb/>
+müßte eine Gesetzesänderung ins Auge gefaßt werden, damit auch<lb/>
+die volkswirtschaftlichen Gesichtspunkte in Hinkunft wieder berück<lb break="no"/>sichtigt werden können.<lb/>
+</p>
+            <pb n="10-0404" facs="10_1972-03-20_0404.jpg"/>
+            <p xml:space="preserve"><name type="person" ref="per:108224">Lütgendorf</name> ersuchte <name type="person" ref="per:97668">Kreisky</name>, und dieser stimmte zu, daß für<lb/>
+die Personalvertretungsgesetz, welches jetzt in Kraft getreten<lb/>
+ist, Richtlinien erstellt werden sollten.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> und <name type="person" ref="per:97879">Rösch</name> berichten über die Ergebnisse der NÖ. Gemeinde<lb break="no"/>ratswahlen. <name type="person" ref="per:97668">Kreisky</name> meinte, daß es gelungen ist, Pöchlarn die<lb/>
+absoluten Mehrheit zu erhalten, daß bei Waidhofen doch 200<lb/>
+Stimmen mehr gewonnen werden konnten, Sigmundsherberg, Schrems<lb/>
+und Wolfsthal der Bürgermeister behalten werden konnte und daß<lb/>
+auch in Amstetten die Ergebnisse vom 10. Oktober noch 700 Stimmen<lb/>
+dazukommen. Aber auch die ÖVP hat sich dort gehalten. In St.<lb/>
+Pölten, wo er angenommen hat, daß 2 Mandate an die KP verloren<lb break="no"/>gehen, ist nur 1 Mandat, das 25., knapp in der letzten Wahl abge<lb break="no"/>sichert war, verloren gegangen. Es hätte sich dort die Relation<lb/>
+der Landtagswahlen um 1.500 weniger, bei NR-Wahlen um 3.000 weniger<lb/>
+wieder bestätigt. In Traiskirchen haben wir deshalb schlechter ab<lb break="no"/>geschnitten, weil <name type="person" ref="per:139790">Drimmel</name> doch die Splitterliste als 2. SPÖ-Liste<lb/>
+geführt hat. In den Bauerngemeinden, wo <name type="person" ref="per:97743">Minkowitsch</name> und <name type="person" ref="per:114996">Reiter</name>,<lb/>
+der Präs. d. Gemeindebundes zu Hause sind, verlor die ÖVP jeweils<lb/>
+1 Mandat. Die Namenslisten, die von seiten der SPÖ aufgestellt<lb/>
+wurden und 1.160 Stimmen umfaßt, dazurechnet, dann hat die SPÖ<lb/>
+nur 17 Stimmen bei 52.000 Summe verloren und + 17 Mandate gewonnen.<lb/>
+Für die VP ergibt sich ein Verlust von 800 Stimmen und 22 Mandate<lb/>
+weniger. Ebenfalls unter Aufrechnung der ÖVP bekannten Namenslisten.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> schließt daraus, daß kein allgemeiner Trend gegen die<lb/>
+Regierung festgestellt werden konnte, sonst hätte man dies deutlicher<lb/>
+bemerken müßte. Mit dieser Ansicht steht er allerdings gegen die<lb/>
+Meinungsforschungsergebnisse insbesondere von der SWS von <name type="person" ref="per:97627">Kienzl</name>.<lb/>
+Dieser soll auf Grund der letzten Ergebnisse der Umfrage ein aus<lb break="no"/>gesprochen negatives Bild <name type="person" ref="per:97668">Kreisky</name> mitgeteilt haben.<lb/>
+</p>
+            <p xml:space="preserve">Eine Aussprache aller fünf am Stubenring beherbergten Minister er<lb break="no"/>gibt, daß wir das Ansuchen der Personalvertretung das Buffet zu<lb/>
+übernehmen, kategorisch abgelehnt wird. Ich werde beauftragt, einen<lb/>
+Brief im Namen aller fünf zu entwerfen und die Begründung dieser<lb/>
+Ablehnung zu übernehmen. Wir werden in dem Schreiben darauf hin<lb break="no"/>weisen, daß wir eine Werksküche extra für die Belegschaft errichtet,<lb/>
+<pb n="10-0405" facs="10_1972-03-20_0405.jpg"/>auch bezahlt haben, daß aber die Führung eines Buffetbetriebes<lb/>
+durch einen Bediensteten nicht durch eine Subvention des Staates<lb/>
+durch Bereitstellung von Dienstposten erfolgen könne. Auch andere<lb/>
+sachliche Gründe können noch angeführt werden. Ich stelle mir vor,<lb/>
+daß ich zwar jetzt einen solche Entwurf ausarbeiten lasse, denn<lb/>
+alle fünf dann unterschreiben sollen. Im Kopf müßte aber schon<lb/>
+zum Ausdruck kommen, daß dies eine Arbeit aller fünf Minister ist.<lb/>
+Da wir kein Kopfpapier haben, müßte die Form erst richtig gefunden<lb/>
+werden. Wichtig ist vor allem, daß man den Entwurf dann mit den<lb/>
+Sekretären der einzelnen Ministern bespricht.<lb/>
+</p>
+            <p xml:space="preserve">Anmerkung für <name type="person" ref="per:97543">HEINDL</name>:<lb/>
+Entwurf vorbereiten und mit Sekretären abstimmen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="10_0395_01" facs="10_1972-03-20_1972-03-24_0395-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 20./21./24.3.1972</head>
+         </div>
+         <pb n="10_0395_02" facs="10_1972-03-20_1972-03-24_0395-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

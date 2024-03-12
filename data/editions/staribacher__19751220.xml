@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der 20. Dezember 1975</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band28_1975-12-20</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1975-12-20">Samstag, 20. Dezember 1975</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-12-11">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="28-1516" facs="28_1975-12-20_1516.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Samstag, 20. Dezember 1975<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:133082">Auracher</name> berichtet mir, dass es nun gelungen ist für das Zucker-<lb/>
+und Bierkartell wie er sich ausdrückt, einigermassen akzeptable<lb/>
+Lösungen zu finden. Im Bierkartell wurden die fast unbeweglichen<lb/>
+festen Gebietsabgrenzungen aufgelockert. Insbesondere wurde für<lb/>
+die Diskonter und Kaufhäuser, die grössere Mengen absetzen, die<lb/>
+Möglichkeit geschaffen, dass sie jederzeit die Brauereien wechseln<lb/>
+können. Dies bedeutet in meinen Augen, dass jetzt wieder die kleinere<lb/>
+Händler benachteiligt werden. Auf den ersten Blick mag dies nicht<lb/>
+sofort ins Auge springen. Wenn der Diskonter aber die Möglich<lb break="no"/>keit hat die Brauerei jederzeit zu wechseln, wird er dies tun<lb/>
+und entsprechende besondere Konditionen verlangen und auch be<lb break="no"/>kommen. Der kleinere wird nach wie vor aber an die offiziellen<lb/>
+Preise gebunden sein. Auf der einen Seite beklagt man die Nah<lb break="no"/>versorgungsprobleme und ist bereit von seitens der Arbeiterkammer<lb/>
+und Gewerkschaftsbund weitestgehende Konzessionen zu machen, auf<lb/>
+der anderen Seite verschlechtert man die Konkurrenzbedingungen<lb/>
+und Verhältnisse zwischen den Diskontmärkten und den kleineren<lb/>
+Kaufleuten. Hier glaube ich wird es notwendig sein, dass wir selbst<lb/>
+eine konsequentere Politik machen. Dieses ganze Problem muss ein<lb break="no"/>mal ernstlich durchgedacht werden.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG für <name type="person" ref="per:114508">TIEBER</name> und <name type="person" ref="per:98053">WANKE</name>: Bitte in der Grundsatzgruppe ent<lb break="no"/>sprechende Unterlagen erarbeiten.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:133082">Auracher</name> teilte mir freudig mit, dass die INPADOC jetzt 5 Millionen<lb/>
+Schilling Umsatz macht. Er war sehr erstaunt von mir zu hören,<lb/>
+dass ich dies wohl anerkenne, aber doch feststellen muss, dass er<lb/>
+über 20 Millionen Schilling Kosten hat. Als er seinerzeit die<lb/>
+Inpadoc übernahm, meinte er, wie ich ihn erinnerte, er würde sogar<lb/>
+mit Gewinn arbeiten. Ich habe ihm damals sofort erklärt, wenn<lb/>
+er kostendeckend arbeitet, ist das ein gigantischer Erfolg. Er<lb/>
+hat dies niemals erreicht und wird es wahrscheinlich auch in<lb/>
+Zukunft nicht.<lb/>
+</p>
+         </div>
+      </body>
+      
+   </text>
+</TEI>

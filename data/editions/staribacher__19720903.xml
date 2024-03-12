@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sonntag, der  3. September 1972</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band12_1972-09-03</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1972-09-03">Sonntag, 3. September 1972</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-10-23">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="12-1041" facs="12_1972-09-03_1041.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Sonntag, 3. September 1972<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:140154">Gerda Rischawy</name> erzählte mir, daß sie große Schwierigkeiten in ihrer<lb/>
+Postdienststelle hat, das ihr seinerzeit zugesagte Sozialressort tat<lb break="no"/>sächlich zu bekommen. Generalpostdirektor <name type="person" ref="per:140156">Schaginger</name> hat noch bevor in Pen<lb break="no"/>sion ging, durch eine Personalmaßnahme einen Abteilungsleiter vorge<lb break="no"/>setzt, wonach sie keine Möglichkeit hat, daher jemals Abteilungsleiter<lb/>
+zu werden, außer sie bekommt ein eigenes Sozialreferat, welches man<lb/>
+seinerzeit in Aussicht genommen hat. Nun hat sich der sehr tüchtige<lb/>
+Sekretär von <name type="person" ref="per:97461">Frühbauer</name> SR <name type="person" ref="per:121800">Übleis</name> für dieses Referat sehr interessiert.<lb/>
+<name type="person" ref="per:121800">Übleis</name> selbst ist vor 2 Jahren Obmann der Sportsektion von der Post<lb/>
+geworden und hat diesen Verein sehr ausgebaut und gut geführt. Nun<lb/>
+möchte er, wenn er einmal von <name type="person" ref="per:97461">Frühbauer</name> als Sekretär ausscheidet ein<lb/>
+Sportreferat bekommen. Da dies aber, <choice><choice><sic>die</sic><corr>wie</corr></choice></choice> <name type="person" ref="per:140157">Schweiger</name> der Obmann der Ge<lb break="no"/>werkschaft der Postbediensteten zu erkennen gegeben hat, unmöglich und<lb/>
+deshalb wird wahrscheinlich ein Sport- und Sozialreferat geschaffen<lb/>
+werden. <name type="person" ref="per:140154">Rischawy</name> ersucht mich bei <name type="person" ref="per:97461">Frühbauer</name> zu intervenieren, daß<lb/>
+ich ihr zusage, erkläre aber, daß ich kaum eine Chance sehe, daß es<lb/>
+zu ihren Gunsten entschieden wird. Da, wie sie sich ausdrückte, dies<lb/>
+ihre letzte Chance ist, frage ich wieweit sie überhaupt an der Post noch<lb/>
+hängt. Da wir doch dringend sozialistische Min.Räte bräuchten wäre es<lb/>
+sicher, wenn sie einverstanden wäre, eine Möglichkeit sie über die<lb/>
+Energiesektion bei dem großen Kompetenzgesetz dann ins Handelsminister<lb break="no"/>ium einzuschleusen. Interessanterweise hat <name type="person" ref="per:140154">Rischawy</name> auch die üblichen<lb/>
+Bedenken von einem Beamten. Sie meint, daß wenn sie als Fremde dann in<lb/>
+das Handelsministerium kommen würde ihr einen ungeheuren Widerstand er<lb break="no"/>warten müßte. Da sie aber die Materie, die sie hier eventuell zu be<lb break="no"/>arbeiten hat, nicht in Detail kennt, sondern sich erst einarbeiten<lb/>
+müßte, bestünde die Gefahr, daß sie nicht einen so guten Vorgesetzten<lb/>
+abgibt als sie dies gewöhnt war und vor allem auch in Hinkunft sein<lb/>
+möchte. Ich rede ihr natürlich nicht zu, sondern habe nur eine solche<lb/>
+Variation in die Diskussion geworfen. Ich erklärte, daß das Wissen<lb break="no"/>schaftsministerium gegründet wurde, einige Beamte der Postdirektion<lb/>
+Wien ohne entsprechende Sachkenntnisse in dieses Ministerium gegangen<lb/>
+sind. Sie selbst hält eine solche Vorgangsweise für nicht opportun und<lb/>
+nicht zu sagen unverantwortlich.<lb/>
+</p>
+            <p xml:space="preserve">Anmerkung für <name type="person" ref="per:97543">HEINDL</name>:<lb/>
+Bitte besprich dieses Problem einmal mit <name type="person" ref="per:140154">Rischawy</name>.<lb/>
+</p>
+         </div>
+      </body>
+      
+   </text>
+</TEI>

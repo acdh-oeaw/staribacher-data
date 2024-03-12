@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sonntag, der 15. September 1974</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band22_1974-09-15</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1974-09-15">Sonntag, 15. September 1974</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2017-01-11">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band22/">
+      <body>
+         <pb n="22-1079" facs="22_1974-09-15_1079.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Sonntag, den 15. September 1974</p><p xml:space="preserve">Ausserordentlicher Ministerrat verlief ursprünglich wie erwartet.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> meinte, wir würden bis 13.00 Uhr fertig sein, da ja nur zwei<lb/>
+nicht gehaltenen Vorbesprechungen die Materie anhäuften. Wie es jetzt<lb/>
+war, hätten wir eine grössere Mehrheit als im 71 Jahr, da die ÖVP<lb/>
+total abgewertet hat. Dies ist eine Folge des Nominierungsvorganges<lb/>
+für die Bundespräsidentenwahl und vor allem mal das Resultat. Viel<lb break="no"/>leicht kann es jetzt zu einer Opferung von <name type="person" ref="per:97641">Kohlmaier</name> kommen, doch<lb/>
+müßte er lange genug gehalten werden, damit sich dieses Opfer dann<lb/>
+auszahlt. Jetzt zeigt sich wieder die SPÖ-Neigung zur Selbstver<lb break="no"/>nichtung. Alles wär in schönster Ordnung, daß ist die Personal<lb break="no"/>diskussion in Oberösterreich. Steiermark hat das Vorwahlsystem, auch<lb/>
+nicht den grossen Anteil, aber dort wurde geschwindelt. In Vorarlberg<lb/>
+sucht <name type="person" ref="per:112618">Ortner</name> jetzt eine Fussach-Stimmung wegen seines Freundes <name type="person" ref="per:97326">Bacher</name><lb/>
+zu erzielen, aber wegen der Wahlen die Generalintendantenbestellung<lb/>
+verschieben, würde damit gar nichts erreicht, denn gerade wenn es kein<lb/>
+Sozialist wird, besteht größere Hoffnung die ganzen Angriffe wegen des<lb/>
+Staatsregierungs- oder Parteirundfunks daneben gehen. Was den National<lb break="no"/>ratswahltermin betrifft, so ist er für auslaufen, da wir dieses letzte<lb/>
+Jahr brauchen und die ÖVP-Sabotage noch bewiesen werden muss. Nur<lb/>
+bei außergewöhnlichen Umständen, z.B. im Zusammenhang mit den Budget<lb break="no"/>auflösungsanträgen, was sicherlich nicht zutrifft, daß die sozialistische<lb/>
+Seite Mandate verliert, dazu führen, daß nicht im Oktober 75 gewählt wird.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> ist aber derzeit auf der absoluten Linie Auslaufen der Legis<lb break="no"/>laturperiode, da vorzeitige Wahlen zumindestens schlechte Wahlbeteili<lb break="no"/>gung bringen können und dies für uns ungünstig wäre. Volkspartei will<lb/>
+außer der Handelskammer auf alle Fälle mit den Freiheitlichen zusammen<lb break="no"/>gehen, siehe Graz und Klagenfurt. Die Sozialisten müssten jetzt darauf<lb/>
+hinweisen, daß sie mit fortschrittlichen Liberalen versuchen, jetzige<lb/>
+absolute Mehrheit und wenn möglich noch grössere Erfolge, siehe <name type="person" ref="per:97632">Kirch<lb break="no"/>schläger</name>-Wahl, zu erreichen. Für die Jugend ist jeder Proporz ein<lb/>
+Synonym für Parteiherrschaft. Was wir brauchen, ist mehr Selbstachtung<lb/>
+in dem Österreich schwach ist, da der deutsche Nachbar dies am stärksten<lb/>
+entwickelt hat. In Deutschland haben sie mit 6.9 % Preisteuerung die<lb break="no"/>selben Schwierigkeiten wie wir mit 9.9 %. Ausserdem haben sie noch<lb/>
+700.000 Arbeitslose und erwarten für Feber 1,000.000.</p><pb n="22-1080" facs="22_1974-09-15_1080.jpg"/><p xml:space="preserve"><name type="person" ref="per:97311">Androsch</name> ergänzte, daß die österreichische Wirtschaft sehr gut dasteht.<lb/>
+Die Österreichische Kontrollbank hätte für 1974 8 Milliarden Schilling<lb/>
+Kredite geben sollen und war nach einem halben Jahr bereits mit den<lb/>
+8 Milliarden zu Ende. Über 3 Milliarden wird derzeit verhandelt<lb/>
+zusätzlich der Gasgeschäfte 2 Milliarden für die Sowjetunion,<lb/>
+2 Milliarden für Algerien und für Polen mit Wunsch von 3 Milliarden,<lb/>
+wo allerdings die Konditionen noch vollkommen offen sind. Das erwartete<lb/>
+Handelsbilanzdefizit von 49 Milliarden wird nur 40 Milliarden betragen. Im<lb/>
+September werden die Preise wieder kräftig über 10 % liegen und dann<lb/>
+allerdings wesentlich abnehmen, sodass trotz der Spitalpreiserhöhung,<lb/>
+der Zigaretten- und der Telefonerhöhungen nur durchschnittlich 9.5 %<lb/>
+rauskommen werden. Fürs erste Halbjahr 1975 erwartet er 8.5 bis 9.5 %.</p><p xml:space="preserve">Die Ausgaben von 1973 des Budgets von 141 Milliarden werden 1974<lb/>
+auf 170 Milliarden steigen, obwohl nur 160 präliminiert waren. 8.5 Milliar<lb break="no"/>den davon machen die Richtzahlenerhöhungen und die Anpassungsetappen<lb/>
+aus. Das erste und das zweite BÜG werden 10.9 Milliarden auf 12.9 Milli<lb break="no"/>arden erhöht plus die 860 Millionen Stabilisierungsquote. Die weiteren<lb/>
+3 Milliarden, die noch gewünscht werden, seien schwer, wenn nicht zu<lb/>
+sagen überhaupt nicht finanzierbar. 1970 bis 1974 wurden 17 Milliarden<lb/>
+Schilling Kredite aufgenommen dafür aber 78 Milliarden Schilling<lb/>
+Vermögenswerte geschaffen.</p><p xml:space="preserve">Das Budget 75 steht unter dem Zeichen der Preissteuersenkungen, die<lb/>
+in Summe Ende 1975, 79 Milliarden Schilling Mindereinnahmen dem<lb/>
+Staat gebracht haben. Allein im Jahre 1975 ist es 37 Milliarden, die<lb/>
+insgesamt entfallen und da davon der Bund 20 Milliarden tragen muss.<lb/>
+Zölle bringen 3 Milliarden weniger, Ausgabenwünsche erhöhten sich aber<lb/>
+von 170 Milliarden auf 189 Milliarden, die durch einvernehmliche Ver<lb break="no"/>handlungen auf 184.5 Milliarden gesenkt werden konnten. Dadurch ver<lb break="no"/>ringert sich das Defizit von 24 Milliarden auf 16.4 Milliarden. Es war<lb/>
+nur möglich, daß so wie alle Jahre minus 3 % Aktivitätsaufwand für<lb/>
+das Personal angenommen wurde, obwohl nicht genau feststeht, ob man<lb/>
+dies wirklich erreichen kann, sowie eine 3 % Einsparung nicht zweckgemäß<lb/>
+ausgaben, allerdings auf den Juni-Entwurf. Für 1976 rechnet der Wirt<lb break="no"/>schaft- und Sozialbeirat mit 20 Milliarden Schilling Defizit, 1977<lb/>
+27 Milliarden Schilling, 1978 30 Milliarden Schilling Defizit, was<lb/>
+nicht finanzierbar ist. Es konnte nach Verhandlungen mit den Ressorts<lb/>
+vollkommene Einstimmigkeit erreicht werden. Die Österreichischen<lb/>
+Bundesbahnen haben zwischen 1969 und 1971 4.6 Milliarden investiert<lb/>
+zwischen 1972 und 1974 10.4 Milliarden. Der Post wurde die 3.4 Milliarden<lb/>
+<pb n="22-1081" facs="22_1974-09-15_1081.jpg"/>Investitionen auf 4.8 Milliarden in 1975 erhöht. Schwierigkeiten gibt<lb/>
+es im Hochbau für die Hochschulen und ganz besonders beim Wasserwirt<lb break="no"/>schaftsfonds. Gegenanträge für 23 Mia S und 780 Mill. können maximal<lb/>
+erfüllt werden und dies sind Verpflichtungen aus alten Genehmigungen.<lb/>
+Wie dem Wasserwirtschaftsfonds geholfen werden kann, resp. Investitionen<lb/>
+für Investitionen für Infrastruktur durchgeführt werden und finanziert<lb/>
+werden können, muss man in der nächsten Zeit diskutieren. Eine Möglich<lb break="no"/>keit wäre, den Wohnbauanteil von der Einkommens- und Lohnsteuer zu er<lb break="no"/>höhen. Der zweite wäre die Gewerbesteuer mit einem Anteil zu belasten.<lb/>
+Die dritte ist, die 30 S Wohnungsbeihilfe, die 1,5 Mia S ausmacht, über<lb break="no"/>zuführen. Bezüglich der Vermögenssteuer und Mehrwertsteuer müsse man<lb/>
+Überlegungen anstellen. Andererseits hat die Strassenbaufinanzierung<lb/>
+von 1971 6,1 Mia auf 8,3 Mia 1974 gestiegen ist, kein grösseres Volumen<lb/>
+gebracht, sondern nur Auffangen der Preissteigerungen. Nächstes Jahr wird<lb/>
+es einen 10 %-igen Minderverbrauch geben und 10 % werden für die Land<lb break="no"/>wirtschaft und die ÖBB abgezogen werden. Deshalb möchte er anstelle einer<lb/>
+Benzinpreissenkung um 10 Gr. die Mineralölsteuer erhöhen. Die zu er<lb break="no"/>wartenden 350 Mill. könnte man zweckbinden für die Südautobahn und die<lb/>
+Phyrnbahn. Bergbauförderung betrage 180 Mill. und müsse überlegt werden.<lb/>
+Bei den Marktordnungsgesetzen sollte die Auszahlung über die Postspar<lb break="no"/>kasse erfolgen und nicht über die Raiffeisenkassen. Zum Schluss erwähnte<lb/>
+er, dass es ein Problem Österr. Draukraftwerke gibt. <name type="person" ref="per:97755">Moser</name> ergänzte,<lb/>
+dass der Wasserwirtschaftsfonds 343 Mill. Abgang hat und keine neue<lb/>
+Anleihe mehr helfen kann, weil diese den finanziellen Anleihedienst der<lb/>
+früheren Anleihen nur abdecken kann. Im Strassenbau hat er 1974 1 Mia<lb/>
+auf 1975 verschoben, sodass er die Mindererlöse 700 Mill. die ÖBB und<lb/>
+Landwirtschaft 700 Mill. und weitere 700 Mill. gerade noch im Anfang<lb/>
+1975 verkraften kann. Die Bauarbeiter protestieren jetzt schon, weil<lb/>
+25.000 weniger beschäftigt sind, allerdings meistens Gastarbeiter und<lb/>
+Arbeiter, die unverzüglich in eine andere Branche umwechseln konnten.<lb/>
+<name type="person" ref="per:108223">Lausecker</name> berichtet und <name type="person" ref="per:98066">Robert Weisz</name> ergänzt, dass mit den öffentlich<lb/>
+Bediensteten es grosse Schwierigkeiten gibt. Im Juli 1975 sind 12 % fällig,<lb/>
+1 % = 600 Mill. Trotzdem geben andere Städte und Länder, z.B. Innsbruck<lb/>
+2.000 S, Kärnten 1.500 S Teuerungsabgeltung. <name type="person" ref="per:97668">Kreisky</name> wehrt sich dagegen<lb/>
+und kritisiert insbesondere die Arbeitszeitverkürzung bei den Lehrern.<lb/>
+und will maximal 1/2 Stunde zugestehen. Die Zeit ist schon sehr weit<lb/>
+fortgeschritten, aber <name type="person" ref="per:97668">Kreisky</name> fragt, ob irgend jemand etwas besonders<lb/>
+hat, worauf er vorschlägt, jedes Ressort soll jetzt einen Gesamtüberblick:<lb/>
+Versprochen – gehalten und als zweites dann die neue Parole: Damit es<lb/>
+in Österreich weiter vorwärtsgeht, geben. <name type="person" ref="per:97668">Kreisky</name> hatte schon bei der<lb/>
+<pb n="22-1082" facs="22_1974-09-15_1082.jpg"/>Bemerkung <name type="person" ref="per:97311">Androsch's</name> über die ÖDK gemeint, er müsse nachher mit<lb/>
+mir darüber reden und ich hatte angenommen, dass wir dies aus<lb break="no"/>führlich in einem kleineren Kreis machen. Jetzt hat er es dann<lb/>
+doch angeschnitten, ich hatte meine Bedenken geltend gemacht.<lb/>
+Bei der Zusammenfassung wegen der Presse kam er wieder auf die Spar<lb break="no"/>massnahmen zu sprechen und meinte, ich müsse hier eine grossange<lb break="no"/>legte Atkion statten. Ich erwiderte, dass die konkreten Arbeiten<lb/>
+eingeleitet sind, er wollte aber scheinbar nur eine grössere<lb/>
+Aufklärungsaktion. Da ich nicht bereit war, ohne Detail<lb break="no"/>informationen und vor allein einmal ohne budgetäre Deckung<lb/>
+darauf sofort einzugehen, meinte er, er wird das halt in seinem<lb/>
+Ressort selbst machen. Bei dieser äusserst kritischen Stimmung<lb/>
+wollte ich keine wie immer geartete Frage mehr zur Sprache bringen<lb/>
+und habe deshalb auch weder unser Papier verteilt noch besprochen.</p><p xml:space="preserve">Das Freundschaftstreffen in Mannersdorf war ein gigantischer<lb/>
+Erfolg. Ungeheuer viel Teilnehmer, auf Wunsch <name type="person" ref="per:97879">Rösch's</name> ist auch ein<lb/>
+richtiger Schmäh gelaufen.</p></div>
+      </body>
+      <back>
+         <pb n="22_1078_01" facs="22_1974-09-15_1078-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 15.9.1974</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="22_1078_02" facs="22_1974-09-15_1078-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+   </text>
+</TEI>

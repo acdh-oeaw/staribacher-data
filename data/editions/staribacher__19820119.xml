@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstag, der 19. Jänner 1982</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band63_1982-01-19</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1982-01-19">Dienstag, 19. Januar 1982</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-09-12">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="63-0050" facs="63_1982-01-19_0050.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Dienstag, 19. Jänner 1982<lb/>
+</p>
+            <p xml:space="preserve">GD <name type="person" ref="per:125821">Krischai</name> und sein Kalkulant Dr. <name type="person" ref="per:133687">Kandler</name> von ESSO haben wie sie mir<lb/>
+erklären, wegen der Diskussion über die Benzinpreise ihre 81 Bilanz<lb/>
+schnell erstellt. Diese zeitigt zum Unterschied vom Jahre 1980 wo sie<lb/>
+noch 42 Mio. Gewinn hatten, einen Verlust von 51 Mio. S. Erstmals seit<lb/>
+16 Jahren legt ESSO also in aller Öffentlichkeit eine Verlustbilanz<lb/>
+vor. Ich versuche zu ergründen, bei welchem Benzinpreis sie als Multi<lb/>
+einer ÖMV-Preissenkung folgen würden, bekomme darauf aber keine Ant<lb break="no"/>wort.<lb/>
+</p>
+            <p xml:space="preserve">Dir. <name type="person" ref="per:111752">Münzner</name> von VW Wolfsburg und sein österreichischer Vertreter<lb/>
+<name type="person" ref="per:123317">Matousek</name> haben bei Finanzminister <name type="person" ref="per:97891">Salcher</name> wegen der doch noch zu geneh<lb break="no"/>migenden Aluminiumexporte nach Japan als <choice><choice><sic>autotiver</sic><corr>automotiver?</corr></choice></choice> Teil vorgesprochen<lb/>
+und dabei schärfstens dagegen protestiert. Auch mir erörtert <name type="person" ref="per:111752">Münzner</name>,<lb/>
+daß dieser Wunsch der VMW Ranshofen, GD <name type="person" ref="per:116449">Streicher</name>, für VW unakzeptabel<lb/>
+ist. Sie sind bereit für wenn Verzicht eine wesentliche Vergrößerung des<lb/>
+Alufelgenauftrages mit <name type="person" ref="per:116449">Streicher</name> zu verhandeln. Außerdem gibt es die<lb/>
+Möglichkeit Mitte der 80er-Jahre 15.000 to Druckgußaluminium nach<lb/>
+Deutschland zu exportieren, VW hat eine neue Aluminiumgießerei derzeit<lb/>
+30.000 to zu errichten. <name type="person" ref="per:111752">Münzner</name> möchte nur 20.000 Kokillenguß mit einem<lb/>
+Investitionsaufwand von 170 Mio. DM selbst errichten, die Druckgußpro<lb break="no"/>duktion möchte er ins Ausland verlegen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:111737">MARSCH</name> UND <name type="person" ref="per:108746">HAFFNER</name>: Bitte dieses interessante Projekt<lb/>
+sofort mit österreichischen Firmen vertraulichst besprechen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:111752">Münzner</name> hat jetzt mit seinem neuen GD und Nachfolger von <name type="person" ref="per:140559">Schmücker</name>, <name type="person" ref="per:151120">Hahn</name>,<lb/>
+der seinerzeit bei VW war und dann aber zu Gummifirma Conti gegangen<lb/>
+ist, ein gemeinsames Team zu bilden. Die Niedersachsen im Aufsichtsrat<lb/>
+haben den Ausschlag gegeben, daß nicht er sondern <name type="person" ref="per:151120">Hahn</name> als Generaldirek<lb break="no"/>tor bestellt wurde. Der Aufsichtsrat wünscht aber eine engste Zusammen<lb break="no"/>arbeit der beiden. <name type="person" ref="per:111752">Münzner</name> erklärt mir gegenüber er hätte die General<lb break="no"/>direktion angenommen wenn man sie ihm angeboten hätte, sich aber nie<lb break="no"/>mals darum beworben. Die Belastung die ja auch letzten Endes <name type="person" ref="per:140559">Schmückers</name><lb/>
+Gesundheit ruinierte, sei seiner Familie ein warnendes Beispiel gewesen.<lb/>
+Der Neuösterreicher <name type="person" ref="per:111752">Münzner</name> wird jetzt mit dem Altösterreich <name type="person" ref="per:151120">Hahn</name> ins<lb break="no"/>besondere ihrem Forschungschef Österreicher <name type="person" ref="per:150647">Fiala</name>, eine wirklich fast<lb/>
+schon österreichische Geschäftsführung bei VW abgeben. <name type="person" ref="per:111752">Münzner</name> teilt<lb/>
+mir auch mit, daß bis zum Opernball, an dem er selbstverständlich wieder<lb/>
+<pb n="63-0051" facs="63_1982-01-19_0051.jpg"/>teilnehmen wird, der Vertrag mit <choice><choice><sic>SDP</sic><corr>Steyr-Daimler-Puch</corr></choice></choice> über den Allradantrieb fertig<lb/>
+sein wird. Er hat in Deutschland durchgesetzt, daß die ursprüngliche<lb/>
+Idee Österreich produziert nach Weisung der VW mit einem Kostenschema<lb/>
+der VW, über das Vertriebsnetz der VW dieses Allradauto und kann daher<lb/>
+nicht auch noch das ganze Risiko als SDP übernehmen. Die Frage der<lb/>
+Stückzahlschwankungen wird daher auch für SDP befriedigt gelöst werden.<lb/>
+</p>
+            <p xml:space="preserve">Im deutschen Rohstoffausschuß der Autoindustrie hat man <name type="person" ref="per:111752">Münzner</name> darüber<lb/>
+berichtet, über die Japanexporte eingehend diskutiert, sowohl er als<lb/>
+auch <name type="person" ref="per:134113">Schäfer</name> von BMW und auch der deutsche <name type="person" ref="per:1137521">Kantzke</name> hätten dort eindeu<lb break="no"/>tig festgestellt, daß echte Kompensationsgeschäfte, wie sie eben die<lb/>
+deutschen Autoexportfirmen mit Österreich machen, akzeptabel seien,<lb/>
+dagegen nicht das japanische Ocean ? und deren System nämlich nicht um<lb/>
+das Importland in Wirklichkeit zu kümmern. Dieser Hinweis zeigt mir,<lb/>
+daß die deutsche Industrie zwar sich innerhalb des Wirtschaftsministeri<lb break="no"/>ums schwer durchsetzen kann aber meine Japanstellungnahme goutiert. Die<lb/>
+französische restriktive Importpolitik für Autos mit Japan hat sie<lb/>
+ein Selbstbeschränkungsabkommen gegen den Fortschritt der deutschen Ex<lb break="no"/>porte von Dieselfahrzeuge auch auf dem PKW-Sektor, wehrt sie sich jetzt<lb/>
+schon obwohl innerhalb einer EG ein solches Verhalten unerklärlich ist.<lb/>
+Die deutsche Autoindustrie fürchtet daher, daß sie allein dem japani<lb break="no"/>schen Konkurrenzkampf besonders ausgesetzt wird. Mein Versuch einer<lb/>
+japanischen Abwehr wird daher tatsächlich gebührend in Deutschland be<lb break="no"/>achtet. Ich erkläre <name type="person" ref="per:111752">Münzner</name> sofort, daß andererseits die Japaner eben<lb/>
+weil sie mit der EG sprich Deutschland diesen großen Absatzkrieg führen<lb/>
+werden resp. schon führen, gerade für die österreichischen Wünsche nur<lb/>
+schwer ein Entgegenkommen zeigen. Ich habe SC <name type="person" ref="per:111737">Marsch</name> ersucht, er soll<lb/>
+daher die Frage der Fa. Gentrade, Geschäftsführer <name type="person" ref="per:146014">Langer</name>, von Tarbuk,<lb/>
+der dahintersteht, welche die Aluminiumexporte gar nicht nach Japan<lb/>
+verkauft, genau prüfen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte dieser Frage besonderes Augenmerk zuwen<lb break="no"/>den.<lb/>
+</p>
+            <p xml:space="preserve">Vor der Ministerratssitzung teilt mir <name type="person" ref="per:108223">Lausecker</name> mit, daß LH <name type="person" ref="per:118211">Keßler</name>,<lb/>
+sein Wirtschaftsreferent <name type="person" ref="per:114554">Rümmele</name> vor allem sein Finanzreferent <name type="person" ref="per:116913">Mandl</name><lb/>
+bei ihm waren und erstmals jetzt erklärt haben, daß doch ein Kraftwerks<lb break="no"/>projekt für die Bregenzer Ache vorgelegt wird. Bis jetzt haben die<lb/>
+Vorarlberger immer versucht, die ÖBB allein entscheiden zu lassen, ob<lb/>
+sie die verschüttete Bregenzer Waldbahn wieder in Betrieb nehmen wird.<lb/>
+Jetzt gibt es 5 Kraftwerksvarianten, drei davon sehen auch vor, daß eine<lb/>
+<pb n="63-0052" facs="63_1982-01-19_0052.jpg"/>Bahn neu errichtet, möglich wäre. <name type="person" ref="per:108223">Lausecker</name> bittet nun, daß wir uns<lb/>
+diese Varianten vom E-Wirtschaftsstandpunkt genau ansehen, so schnell<lb/>
+als möglich ein Urteil fällen und dies insbesondere mit Bgm. <name type="person" ref="per:97732">Mayer</name><lb/>
+von Bregenz besprechen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Bitte sofort diese Kraftwerksprojekte vorlegen<lb/>
+lassen.<lb/>
+</p>
+            <p xml:space="preserve">In der <choice><choice><sic>MRV</sic><corr>Ministerratsvorbesprechung</corr></choice></choice> die <name type="person" ref="per:113083">Sinowatz</name> führt, nachdem <name type="person" ref="per:97668">Kreisky</name> neuerdings an Grippe<lb/>
+erkrankt ist, berichtet <name type="person" ref="per:97444">Fischer</name> zuerst über die Parlamentstage am<lb/>
+Mittwoch und Donnerstag, der AKH-Bericht wird wegen <name type="person" ref="per:97668">Kreiskys</name> Erkran<lb break="no"/>kung auf Februar verschoben. Ebenso die Nichtdiskriminierung der Frau<lb/>
+und der Kunstbericht. Die beiden Tage wird daher der Sozialbericht und<lb/>
+der Finanzschuldenbericht diskutiert werden, die ÖVP wird aber haupt<lb break="no"/>sächlich ihre <choice><choice><sic>IKKW</sic><corr>IAKW?</corr></choice></choice>-Finanzierungsgesetzinitiativanträge lose im Parlament<lb/>
+aufziehen. Auch ein Geschäftsordnungsproblem hat sich dabei ergeben,<lb/>
+die ÖVP möchte, daß über diesen Initiativantrag im Plenum abgestimmt<lb/>
+wird, damit sie dann über diesen abgelehnten Gesetzentwurf eine Volks<lb break="no"/>abstimmung verlangen kann. Nach 62-jähriger Ausschußberichttradition<lb/>
+aber, wird nicht der Initiativantrag im Parlament zur Abstimmung ge<lb break="no"/>langen, sondern eben der negative Ausschußbericht. Dadurch gibt es<lb/>
+keinen Gesetzesantrag über den eine Volksabstimmung dann erfolgen<lb/>
+könne. Dies hat die ÖVP nicht beachtet und sich daher auf eine falsche<lb/>
+Konzeption festgelegt. Die Geschäftsordnung des Nationalrates ist<lb/>
+kompliziert und Klubobmann <name type="person" ref="per:97444">Fischer</name> beherrscht sie perfekt.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:113083">Sinowatz</name> macht aber darauf aufmerksam, daß die ÖVP mit ihrem Volksbe<lb break="no"/>gehren über das Konferenzzentrum alle Länder mobilisieren wird, ihm er<lb break="no"/>scheint es notwendig, daß man von der Regierung jedes einzelne Ressort<lb/>
+dokumentiert, was alles für die Länder geschehen ist. Am Schulbausektor<lb/>
+wurde z.B. im letzten Jahrzehnt fast ausschließlich bevorzugt und in<lb/>
+Wien fast gar nichts gebaut. Mir erscheint es notwendig und der Klub<lb/>
+wird mir dies immer wieder bestätigen, daß die Regierung dringendst<lb/>
+ein Weißbuch herausgeben sollte, wo über diese Aktivitäten für die<lb/>
+Bundesländer außerhalb Wiens der 70er-Jahre nachgewiesen wird und<lb/>
+insbesondere auch jetzt die zukünftige Bautätigkeit dokumentiert wird.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Bitte dies mit <name type="person" ref="per:97668">Kreisky</name>-Büro besprechen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:108223">Lausecker</name> berichtet, daß jetzt der Rechnungshof nach wie vor darauf<lb/>
+beharrt, daß er über die Gehaltsabschlüsse der Bediensteten sehr wohl<lb/>
+das Recht hat, kritisch Stellung zu nehmen. Der Verfassungsdienst hat<lb/>
+<pb n="63-0053" facs="63_1982-01-19_0053.jpg"/>aber dieses Recht des Rechnungshofes bestritten. Ich glaube auch, daß<lb/>
+es unzulänglich ist, daß wenn Vertragspartner aufgrund von gesetzlicher<lb/>
+Grundlage sei es im privaten Bereit oder öffentlichen Dienst Vereinba<lb break="no"/>rungen treffen, dann nicht der Rechnungshof nachher seinen Senf dazu<lb break="no"/>geben sollte. In diesem Fall würde die autonome Lohn- und Gehaltspoli<lb break="no"/>tik der Gewerkschaften beträchtlich eingeschränkt.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97372">Broda</name> berichtet, daß es jetzt möglich war, mit Niederösterreich eine<lb/>
+Vereinbarung über Zusammenlegung von Bezirksgerichten zu erreichen.<lb/>
+Die Niederösterreicher wünschen aber dafür eine gewisse Kompensation<lb/>
+z.B. für das Bezirksgericht Allentsteig eine kleine Grundstücksabtretung<lb/>
+des Truppenübungsplatzes. Da auch andere Ministerien solche Kompensa<lb break="no"/>tionswünsche zu erfüllen hätten, wird Staatssekretär <name type="person" ref="per:112992">Löschnak</name> beauf<lb break="no"/>tragt, die Koordination vorzunehmen.<lb/>
+</p>
+            <p xml:space="preserve">Landwirtschaftsminister <name type="person" ref="per:97511">Haiden</name> berichtet, daß in der Biospritfrage er<lb/>
+jetzt mit Präs. <name type="person" ref="per:97346">Benya</name> und <name type="person" ref="per:97386">Czettel</name> vereinbart hat, daß über das Ausmaß<lb/>
+des Beimischungszwanges die Liefermöglichkeit insbesondere die Kosten<lb/>
+und Preisauswirkungen die Wirtschaftspartner die Gespräche weiterfüh<lb break="no"/>ren sollten. <name type="person" ref="per:97511">Haiden</name> möchte also jetzt das Komitee abschließen und die<lb/>
+Wirtschaftspartner eigentlich mit der praktischen Durchführung und Hand<lb break="no"/>habung beauftragen. Ich deponiere neuerdings, daß AK und ÖGB sich ganz<lb/>
+entschieden gegen die vorgesehenen Biospritprojekte aussprechen. Ich<lb/>
+erkläre bei dieser Gelegenheit überhaupt gleich die ganze Benzinpreis<lb break="no"/>situation. Ich informiere die Regierung über die beabsichtigte Politik<lb/>
+der ÖMV. Wenn sie eine entsprechende Verlängerung der Preisfreigabe<lb/>
+bekommt würde sie den Super um 30 und den Normalbenzin um 20 Groschen<lb/>
+senken. Die Regierung nimmt meinen Bericht und vor allem den Vorschlag<lb/>
+<name type="person" ref="per:97511">Haidens</name> zur Kenntnis.<lb/>
+</p>
+            <p xml:space="preserve">Zur VÖEST-Alpine Stahlwerkseröffnung nach Nigeria wird <name type="person" ref="per:112992">Löschnak</name> dele<lb break="no"/>giert.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:111740">Dallinger</name> berichtet, daß Mitte Jänner 147.000 Arbeitslose sind, um 47.000<lb/>
+mehr als im Vorjahr. Bis Ende Jänner fürchtet er, daß 155.000 kommen<lb/>
+werden, das sind 5,5 % Arbeitslosenrate. Über 47.000 Bauarbeiter sind<lb/>
+arbeitslos. Die regionale Verteilung ist es mit Wien + 11.000 gegen<lb break="no"/>über dem Vorjahr die Spitze, OÖ 8.000, Stmk. 8.400, NÖ 8.000 und Ktn.<lb/>
+3.600 mehr. Die Bauarbeiter in der Stmk. sind mit 10.800 das stärkste<lb/>
+Kontingent. Dann folgt NÖ mit 8.800 und 4.000 im Bgld. Die Hauptschwie<lb break="no"/>rigkeit ist, daß jetzt nach dem Baugipfel und der Regierungsklausur<lb/>
+die Bauvorhaben doch zu spät beginnen werden.<lb/>
+</p>
+            <pb n="63-0054" facs="63_1982-01-19_0054.jpg"/>
+            <p xml:space="preserve">Innenminister <name type="person" ref="per:110923">Lanc</name> berichtet über die Aussprache der Innenminister von<lb/>
+Italien, Deutschland, Schweiz in Bernstein. Dort wurde die Frage der Ent<lb break="no"/>führung des NATO-Generals diskutiert. Vertraulich wurde auch der US-<lb/>
+Botschafter zugezogen. Es gab auch ein Gerücht, daß der NATO-General<lb/>
+nach Kärnten gebracht worden sei. Darüber gibt es aber keine konkreten<lb/>
+Anhaltspunkte.<lb/>
+</p>
+            <p xml:space="preserve">Im Prozeß gegen die Synagogenattentäter und den <name type="person" ref="per:97786">Nittel</name>-Mörder wird jetzt<lb/>
+behauptet, <name type="person" ref="per:110923">Lanc</name> einer Geschenkannahme verdächtigt, und auch die <name type="person" ref="per:97668">Kreisky</name>-<lb/>
+Entführung groß aufgebauscht. <name type="person" ref="per:110923">Lanc</name> meint, diese Arabergruppe besteht<lb/>
+jetzt sein 10 Jahren und hätte noch niemals eine Entführung durchge<lb break="no"/>führt. Das vom Terroristen <name type="person" ref="per:1137522">Rajeh</name> herausgegebene Flugblatt im 81er-<lb/>
+Jahr sei genauso unsinnig als die Behauptung <name type="person" ref="per:110923">Lanc</name> oder die österreichi<lb break="no"/>sche Regierung sei mit dem Waffentransport der in Schwechat aufgeflo<lb break="no"/>gen ist, verstrickt gewesen. Genaueres über die Beschuldigungen sagt<lb/>
+<name type="person" ref="per:110923">Lanc</name> allerdings nicht. Stellt nur eindeutig fest, daß alles nicht stimmt.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:113083">Sinowatz</name> berichtet dann über die Auslieferung und gleichzeitig erfolgte<lb/>
+Verhaftung des burgenländischen LAbg. <name type="person" ref="per:1137523">Rauchwarter</name> mit einem Dutzend<lb/>
+Firmen, zuletzt aber mit der Wohnbaugenossenschaft Ost, hat er einen<lb/>
+finanziellen Schaden verursacht, der größer ist, als die klagbare Scha<lb break="no"/>denssumme im AKH-Prozeß. In dieser Wohnbaugenossenschaft Ost sind nur<lb/>
+ÖVP-Funktionäre involviert, die Gefahr besteht, daß 1.500 Mitglieder<lb/>
+und zukünftige Mieter bereits ihre Anzahlung geleistet haben und daß<lb/>
+alles jetzt verloren ist. <name type="person" ref="per:1137523">Rauchwarter</name> war der LAbg., welcher als bur<lb break="no"/>genländischer Beamter auch erklärt hat, er wird sein burgenländisches<lb/>
+Mandat, Funktionsgebühr nicht nehmen sondern sozialen Zwecken zuführen,<lb/>
+in Wirklichkeit hat er aus diesem Fonds dann nur Parteispenden oder<lb/>
+Parteiaktivitäten finanziert. Alles das hoffen die Burgenländer wird<lb/>
+jetzt ans Tageslicht kommen. Wir sind sehr gespannt, wie die sogenannte<lb/>
+unabhängige Presse darauf reagieren wird.<lb/>
+</p>
+            <p xml:space="preserve">Im Ministerrat wurde nur das Bundesforstgesetz zurückgestellt. Außen<lb break="no"/>minister <name type="person" ref="per:108328">Pahr</name> berichtete dann, daß Liechtenstein 1 Mio. S für die polni<lb break="no"/>schen Flüchtlinge in Österreich der Regierung zur Verfügung gestellt<lb/>
+hat. Für das kleine Liechtenstein ein beachtlicher Betrag.<lb/>
+</p>
+            <p xml:space="preserve">Die Benzinpreissitzung mit den Landeshauptleuten verlief ganz anders als<lb/>
+GD <name type="person" ref="per:97337">Bauer</name> aber auch ich angenommen hatten. <name type="person" ref="per:97337">Bauer</name> hat mir noch vorher mit<lb break="no"/>geteilt, daß eine Aussprache mit den Multis im Rahmen des Fachverbandes<lb/>
+ihn <choice><choice><sic>den</sic><corr>dem</corr></choice></choice> größten Angriff wegen seiner Preissenkungsabsicht ausgesetzt hat.<lb/>
+</p>
+            <pb n="63-0055" facs="63_1982-01-19_0055.jpg"/>
+            <p xml:space="preserve"><name type="person" ref="per:97337">Bauer</name> hat angenommen, daß die Landeshauptleute seinen Vorschlag freudig<lb/>
+akzeptieren und sofort erklären, bis Jahresende soll die Preisbildung<lb/>
+ausgesetzt werden. Mit letzterem wären alle Landeshauptleute einver<lb break="no"/>standen gewesen, verlangten aber eine wesentlich höhere Preissenkung<lb/>
+als die vorgesehenen 30 Groschen für Super und 20 für Normalbenzin.<lb/>
+Sehr konkret verlangte Insbesondere Burgenland LRat <name type="person" ref="per:98037">Vogl</name>, daß minde<lb break="no"/>stens 50 Groschen, am besten aber 70 Groschen abgesenkt werden müßten.<lb/>
+Auch die Vertreter der westlichen Länder <name type="person" ref="per:114554">Rümmele</name>, Vlbg., und <name type="person" ref="per:112937">Huber</name> Tirol,<lb/>
+waren mit dem Vorschlag von <name type="person" ref="per:97337">Bauer</name> nicht einverstanden. Dieser versuchte<lb/>
+nämlich sogar auch<add>[für]</add> den Heizöl extra leicht 6.50 S Preis einen Erhöhungs<lb break="no"/>antrag durchzubringen. Dieser Preis ist noch amtlich preisgeregelt<lb/>
+und die Landeshauptleute aber auch ich haben eine Erhöhung ganz ent<lb break="no"/>schieden abgelehnt. Als Kompensation meinte <name type="person" ref="per:97337">Bauer</name>, müsse man dann den<lb/>
+Dieselpreis entsprechend erhöhen. Auch hier stieß er sofort auf den<lb/>
+heftigsten Widerstand der Wirtschafts-ÖVP-Landesräte <name type="person" ref="per:111326">Schauer</name>, NÖ und<lb/>
+<name type="person" ref="per:112937">Huber</name>, Tirol. <name type="person" ref="per:97337">Bauer</name> verlangte dann, daß nicht nur die Benzinpreise son<lb break="no"/>dern alle Ölpreise aus der Paritätischen Kommission herausgenommen ge<lb break="no"/>hören, so würde eine wirklich freie Preisbildung wie in der Schweiz und<lb/>
+in Deutschland dann in Österreich spielen. Auch dies wurde von allen<lb/>
+Landeshauptleuten entschiedenst abgelehnt. <name type="person" ref="per:97337">Bauer</name> hat dann resigniert<lb/>
+festgestellt, unter diesen Umständen erscheint es auch ihm besser, die<lb/>
+amtliche Preisregelung für Benzin wieder einzuführen. <name type="person" ref="per:97337">Bauer</name> hatte ge<lb break="no"/>hofft, daß in diesem Fall die Landeshauptleute sofort gegen eine solche<lb/>
+Idee sich entschieden aussprechen werden. Hier wurde er aber gründlich<lb/>
+enttäuscht. Nachdem er immer wieder erklärt hat, die Multis würden<lb/>
+überhaupt nichts machen, beschlossen die Landeshauptleute ich sollte<lb/>
+in der Preisprüfung untersuchen, ob die 20 und 30 Groschen wirklich das<lb/>
+Maximum von seiten der Ölwirtschaft und wenn die Interessensvertreter<lb/>
+zustimmen, daß von ihrem Standpunkt das Minimum akzeptabel ist, dann<lb/>
+soll die Preisfreigabe verlängert werden, kommt ein solcher Beschluß<lb/>
+in der Preiskommission nicht zustande dann müsse man eben den Preis<lb/>
+amtlich regeln und natürlich wesentlich tiefer festsetzen als die 20<lb/>
+und 30 Groschen. Interessant war, daß auch dann bei der Aussprache mit<lb/>
+der Presse und Fernsehen, einzelne Landesräte wie <name type="person" ref="per:98037">Vogl</name>, Burgenland,<lb/>
+<name type="person" ref="per:113008">Radlegger</name>, Salzburg ganz dezidiert den ÖMV-Vorschlag als vollkommen<lb/>
+ungenügend darstellten.<lb/>
+</p>
+            <p xml:space="preserve">Darüber wurde ich dann ersucht im Klub der SPÖ auch zu berichten und ich<lb/>
+habe dort bereits mitgeteilt, daß mit größter Wahrscheinlichkeit es<lb/>
+mit 1. Februar es zu einer amtlichen Preisregelung kommen wird. GD<lb/>
+<name type="person" ref="per:97337">Bauer</name> hat zwar anschließend mir noch zugeflüstert, bitte reden wir noch<lb/>
+weiter über diese Frage, was ich ihm selbstverständlich zusicherte.<lb/>
+</p>
+            <pb n="63-0056" facs="63_1982-01-19_0056.jpg"/>
+            <p xml:space="preserve">Scheinbar wird <name type="person" ref="per:97337">Bauer</name> versuchen, jetzt den Internationalen klarzumachen<lb/>
+was eine amtliche Preisregelung für sie bedeutet. Ich gebe mich aller<lb break="no"/>dings keiner Illusion hin, daß dann der Versuch unternommen wird, diese<lb/>
+amtliche Preisregelung auch wenn sie durch Verordnung erfolgt, beim<lb/>
+Verfassungsgerichtshof anzufechten. Über den Ausgang der Verhandlung<lb/>
+habe ich auch Gen.Sekr. <name type="person" ref="per:112978">Kehrer</name> von der Handelskammer sofort informiert.<lb/>
+Dieser war einigermaßen erschüttert, weil er fest angenommen hat, die<lb/>
+Landeshauptleute würden der Ölwirtschaft Schützenhilfe leisten, daß<lb/>
+aber durch das ungeschickte Verhalten beim besten Willen nicht möglich<lb/>
+ist.<lb/>
+</p>
+            <p xml:space="preserve">Mit den Landeshauptleuten besprach ich dann auch noch die Tarife für<lb/>
+die Überschußenergie von Kleinkraftwerken, die an Landesgesellschaften<lb/>
+verkauft wird. Für landesüberschreitende Stromabgaben wurde in meiner<lb/>
+Verordnung eine Erhöhung des Ansatzes um 5 % dekretiert. Die Landes<lb break="no"/>räte waren nur bereit auch im Land eine solche Lösung zu akzeptieren<lb/>
+wenn womöglich gleichzeitig auch die Verbund sich verpflichtet, Über<lb break="no"/>schußstrom des Landes zu ähnlichen Bedingungen abzunehmen. Hier habe<lb/>
+ich insbesondere LH <name type="person" ref="per:97461">Frühbauer</name> aufmerksam gemacht, daß dies zwischen<lb/>
+den Landes-E-Gesellschaften und der Verbund zu verhandeln wäre. Ich<lb/>
+halte eine Dekretierung durch das Ministerium ohne eine solche zuerst<lb/>
+versuchte freiwillige Lösung zwischen Verbund und Landesgesellschaften<lb/>
+nicht für zweckmäßig.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Bitte Jour fixe <name type="person" ref="per:97453">Fremuth</name> setzen.<lb/>
+</p>
+            <p xml:space="preserve">Im Klub ist der Bericht von <name type="person" ref="per:97668">Kreisky</name> ausgefallen, weshalb <name type="person" ref="per:111740">Dallinger</name> über<lb/>
+die Sozialfrage, <name type="person" ref="per:113083">Sinowatz</name> dann über <name type="person" ref="per:1137523">Rauchwarter</name>, <name type="person" ref="per:97511">Haiden</name> über<lb/>
+Biosprit, ich über Benzinpreis und <name type="person" ref="per:108328">Pahr</name> über das Konferenzzentrum be<lb break="no"/>richteten. Beim letzteren Punkt gab es eine heftige Diskussion über<lb/>
+die ÖVP-Angriffe aber ganz besonders gegen die von den Medien entfachte<lb/>
+Kampagne als Regierung wehren sollten.<lb/>
+</p>
+            <p xml:space="preserve">Beim Empfang des Präsidiums des Parlaments ist auch der ehem. Vizekanz<lb break="no"/>ler <name type="person" ref="per:97818">Pittermann</name> mit seiner Tochter gekommen. Ich ließ ihn mit dem Auto<lb/>
+abholen und habe ihn dort auch so lange ich anwesend war betreut. Einige<lb/>
+kamen zu ihm um ihn zu begrüßen. Ganz wenige aber haben sich wirklich<lb/>
+um ihn geschert. Furchtbar wenn man als ehemaliger Politiker insbeson<lb break="no"/>dere dann, wenn man so krank ist wie <name type="person" ref="per:97818">Pittermann</name>, er sieht nicht nur<lb/>
+jetzt gar nichts sondern kann auch kaum noch gehen, verständlicherweise<lb/>
+Kontakt mit der Vergangenheit haben will. So <choice><choice><sic>wenige</sic><corr>wenig?</corr></choice></choice> von seinen ehemaligen<lb/>
+Mitstreitern beachtet wird. Eigentlich sind mehr politisch Andersdenken<lb break="no"/><pb n="63-0057" facs="63_1982-01-19_0057.jpg"/>de zu unserem Tisch gekommen als eigene Genossen. Sicherlich war es<lb/>
+auch das schlechte Gewissen vieler, weil sie sich gar nicht um ihn<lb/>
+kümmerten, die auch jetzt dachten, nur keinen Kontakt mit ihm aufnehmen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:125291">MARTIN</name>: Bitte entsprechende Besuchstermine unbedingt<lb/>
+einplanen.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Sektionsleitersitzung auf der Landstraße gab es eine ganz<lb/>
+harte Diskussion über die Situation in Wien. Erstmals wurde auf eine<lb/>
+Ablösung von <name type="person" ref="per:97488">Gratz</name> durch <name type="person" ref="per:116209">Zilk</name>, als Gerücht wie man sagte, aber auch<lb/>
+über die ganze personelle unbefriedigende Stadtratszusammensetzung ganz<lb/>
+offen und hart diskutiert. Was mich aber am meisten erschüttert war,<lb/>
+daß obwohl man mich immer ausnimmt, die anderen Mandatare der Land<lb break="no"/>straße wegen viel zu geringer Aktivität in den Sektionen ebenfalls<lb/>
+hart kritisiert wurden.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Darüber müssen wir in unserem Präsidium einge<lb break="no"/>hend sprechen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="63_0049_01" facs="63_1982-01-19_0049-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 19.1.1982</head>
+         </div>
+         <pb n="63_0049_02" facs="63_1982-01-19_0049-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+         <pb n="63_0057_01" facs="63_1982-01-19_0057-01.jpg"/>
+         <pb n="63_0057_02" facs="63_1982-01-19_0057-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesordnung 116. Ministerratssitzung, 19.1.1982</head>
+         </div>
+         <pb n="63_0057_03" facs="63_1982-01-19_0057-03.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Nachtrag TO 116. Ministerratssitzung, 19.1.1982</head>
+         </div>
+         <pb n="63_0057_04" facs="63_1982-01-19_0057-04.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>hs. Notizen (Nachtrag TO MR-Sitzung Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

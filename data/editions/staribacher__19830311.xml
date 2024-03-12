@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der 11. März 1983</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band69_1983-03-11</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1983-03-11">Freitag, 11. März 1983</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-12-16">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="69-0330" facs="69_1983-03-11_0330.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Freitag, 11. März 1983<lb/>
+</p>
+            <p xml:space="preserve">Die BAWAG-Hauptversammlung, zu der ja nur 2 Aktionärsvertreter, Präs.<lb/>
+<name type="person" ref="per:97346">Benya</name> für den ÖGB, GD <name type="person" ref="per:113061">Kadits</name> für die Konsumgenossenschaft, erschienen sind,<lb/>
+ist trotzdem ein Ereignis für hunderte von Teilnehmern. Die BAWAG mietet<lb/>
+den Festsaal vom Intercont<add>[inental,]</add> GD <name type="person" ref="per:114047">Flöttl</name> hält seinen bekannt optimistischen<lb/>
+Tätigkeitsbericht. Diesmal erklärte er, 1982 war das beste Bankjahr der<lb/>
+BAWAG, starke Expansion, aber keine finanzielle Festigung, von der <name type="person" ref="per:114047">Flöttl</name><lb/>
+allerdings nicht sprach.<lb/>
+</p>
+            <p xml:space="preserve">Bei dem Buffet kam ich zufällig zwischen <name type="person" ref="per:97346">Benya</name> und <name type="person" ref="per:111740">Dallinger</name> zu sitzen.<lb/>
+<name type="person" ref="per:111740">Dallinger</name> versuchte <name type="person" ref="per:97346">Benya</name> klarzumachen, daß die Arbeitszeitverkür<lb break="no"/>zung, die er jetzt überall predigt, von der Arbeiterschaft, also von unten<lb/>
+verlangt wird. Er hätte dies z.B. wieder in Oberösterreich bei einer<lb/>
+großen Konferenz festgestellt. <name type="person" ref="per:97346">Benya</name> replizierte sofort, aber die Träger<lb/>
+dieser Arbeitszeitverkürzung seien Funktionäre der Privatangestellten.<lb/>
+Zuerst also wird bei den Privatangestellten beschlossen, Arbeitszeitver<lb break="no"/>kürzungen durchzuziehen, betrieblich wird sich dies nämlich sehr schwer<lb/>
+machen lassen, und dann kommt der Druck auch wieder von den Privatange<lb break="no"/>stelltenfunktionären bei Konferenzen. <name type="person" ref="per:111740">Dallinger</name> <choice><choice><sic>prellt</sic><corr>prescht?</corr></choice></choice> also vor, verärgert<lb/>
+alle Leute im ÖGB, will dieses Problem aber erst Ende der 80-er Jahre<lb/>
+lösen.<lb/>
+</p>
+            <p xml:space="preserve">Beim Jour fixe mit AK und ÖGB berichtete <name type="person" ref="per:97584">Jagoda</name>, daß die Gewerbestruktur<lb break="no"/>verbesserungsgesetzrichtlinien über die Zinsobergrenze jetzt wieder<lb/>
+verhandelt werden müssen. Der Vertreter der Banken in der HK, <name type="person" ref="per:119822">Bronold</name>, schlägt<lb/>
+1 % über die Anleihen vor, <name type="person" ref="per:97584">Jagoda</name> wird ihm höchstens 1/2 % zugestehen.<lb/>
+Eine ähnliche Regelung soll bei der Stammaktion Platz greifen.<lb/>
+</p>
+            <p xml:space="preserve">Die Anregung der LUGA den Semmelpreis, der jetzt im April fällig wird,<lb/>
+womöglich mit dem amtlichen Brotpreis gleichzeitig zu erhöhen, wird<lb/>
+von AK und ÖGB unterstützt. Da die Bauern bereits jetzt wieder eine<lb/>
+Getreidepreiserhöhung eingereicht haben, wird, da sicherlich im April<lb/>
+durch die Wahlen keine Preiserhöhungen mehr genehmigt werden, das ganze<lb/>
+Problem im Mai, Juni zur Verhandlung kommen und frühestens im Juli ge<lb break="no"/>löst werden und der neue Getreide-, Mehl, Brot- und Semmelpreis gleichzei<lb break="no"/>tig im Juli beschlossen werden. Für die Getreideexporte wurden heuer<lb/>
+um 400 Mio. Stützung ausgegeben, 200 Mio. trägt der Bund; da die Bauern<lb/>
+mit einem Verwertungsbeitrag, der zu gering festgesetzt wurde, den Stütz<lb break="no"/>anteil nicht aufbringen können, wurden jetzt Kredite aufgenommen und der<lb/>
+<pb n="69-0331" facs="69_1983-03-11_0331.jpg"/>Bund wird auch die Zinsen für diese Kredite tragen. Der Verwertungsbeitrag<lb/>
+beträgt für Weizen schon 26,5 Groschen pro kg, müßte jetzt einmal, um die<lb/>
+Schulden des laufenden Jahres abzahlen zu können, um 17 Groschen erhöht<lb/>
+werden.<lb/>
+</p>
+            <p xml:space="preserve">GD <name type="person" ref="per:97498">Grünwald</name>, ÖIAG, berichtet über die Auftrags- und Ertragssituation der<lb/>
+Verstaatlichten, die Aufträge nehmen überall zu, die finanziellen Ergeb<lb break="no"/>nisse nehmen leider nicht im selben Ausmaß ab. Der 3-1/2-Mrd.-S-Zuschuß,<lb/>
+den die ÖIAG bis jetzt bekommen hat, wird höchstens bis zur Mitte des<lb/>
+Jahres reichen.<lb/>
+</p>
+            <p xml:space="preserve">Die Frage, ob im Lavanttal durch die GKB Kohle gewonnen werden soll,<lb/>
+müßte man nach Vorschlag von <name type="person" ref="per:97498">Grünwald</name> durch eine ausländische Betriebs<lb break="no"/>prüferfirma kontrollieren lassen. Booz Allen <add>[Hamilton]</add> hat z.B. für die Kontrolle<lb/>
+der VEW 15 Mio. S bekommen, insgesamt für die gesamte Stahlindustrie<lb/>
+sind es gut und gerne 40 Mio. S <name type="person" ref="per:97498">Grünwald</name> meint aber, damit hätte man sich<lb/>
+Milliarden ersparen können, wenn man die Prüfungsvorschläge verwirklicht<lb/>
+hätte. Zum Teil, meint aber <name type="person" ref="per:97498">Grünwald</name>, wäre es ohne diese Prüfung nicht<lb/>
+möglich gewesen in den geprüften Unternehmungen, insbesondere bei den<lb/>
+VEW, dann doch gewisse Ersparnisse durchzusetzen. Ich werde diesen Weg<lb/>
+kaum gehen, für mich ist dies ein zu aufwendiger für den verhältnis<lb break="no"/>mäßig geringen Erfolg.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97646">Koppe</name> berichtet, daß der VKI sich mit der Messe jetzt bezüglich der<lb/>
+Preisauszeichnung geeinigt hat, er konnte feststellen, daß auf der<lb/>
+Messe jetzt 100 Firmen ca. keine Preisauszeichnung vorgenommen haben, die<lb/>
+Messedirektion hat angeblich erklärt, sie würden Firmen, die sich hart<lb break="no"/>näckig weigern, in Hinkunft keinen Stand mehr vermieten. Ich habe die<lb/>
+AK neuerdings gewarnt gegenüber der Wiener Messe eine zu harte Politik<lb/>
+einzuschlagen, ich kann mir nicht vorstellen, daß die Messe, die an<lb/>
+einem dauernden Ausstellerschwund leidet, allen Ernstes eine größere<lb/>
+Anzahl von Messeausstellern, nur weil sie keine Preisauszeichnung vor<lb break="no"/>nehmen, den Stand nicht mehr vermieten wird. Alle anderen Messen in<lb/>
+Österreich scheren sich nämlich um die Preisauszeichnung nicht oder zu<lb break="no"/>mindestens fast nichts, die AK in den Bundesländern entwickeln auch<lb/>
+keinesfalls diese Aktivität wie die Wiener AK; wenn die Wiener Messe<lb/>
+einmal aus welchen Grünen auch immer ihre schlechte Situation erklären<lb/>
+wird müssen, wäre schon die Ausrede, daß sie durch die <add>[von der]</add> AK Wien immer<lb/>
+wieder durchgeführten Attacken geschädigt wurde.<lb/>
+</p>
+            <p xml:space="preserve">SC <name type="person" ref="per:111737">Marsch</name> berichtet über die Verhandlungen mit GD <name type="person" ref="per:134250">Bettschart</name> von Nestle.<lb/>
+Grimmenstein kann auf die Dauer wahrscheinlich nicht aufrechterhalten<lb/>
+<pb n="69-0332" facs="69_1983-03-11_0332.jpg"/>werden, die ÖMOLK, auch als Exportvereinigung der Genossenschaften harte<lb/>
+Konkurrenz von Nestle, dominiert diese Sparte vollkommen. Nestle wollte<lb/>
+z.B. mit der Fa. Hipp zu einem Arrangement kommen, die Genossenschaften<lb/>
+haben Hipp für die Agrarindustrie in Gmünd zur Kooperation gewonnen.<lb/>
+</p>
+            <p xml:space="preserve">Die Masterfoods haben jetzt die Futtermittelverordnungsformulierung akzep<lb break="no"/>tiert, damit stünde theoretisch einer Produktion von Hunde- und Katzen<lb break="no"/>futter in Österreich nichts mehr entgegen. Die AK hat nach wie vor<lb/>
+veterinäre Bedenken, was mir nicht ganz erklärlich ist.<lb/>
+</p>
+            <p xml:space="preserve">Dr. <name type="person" ref="per:109811">Burian</name> von der Grundsatzabteilung berichtet über die Verhandlungen<lb/>
+mit den Italienern zwecks Einschießung der 140 Mio. für Pöls. Die Italiener<lb/>
+möchten eine Fristerstreckung bis Ende September, auch dann ist mehr<lb/>
+als fraglich, ob sie einzahlen werden. Jetzt wird auf alle Fälle ein<lb/>
+neuer Syndikatsvertrag verhandelt, der noch in diesem Monat beschlossen<lb/>
+werden soll.<lb/>
+</p>
+            <p xml:space="preserve">Dir. <name type="person" ref="per:97676">Lachs</name> von der OeNB berichtet über die Leistungsbilanzentwicklung,<lb/>
+die Behauptung der Handelskammer, daß diese Verbesserung ausschließlich<lb/>
+auf terms of trade zurückzuführen ist, kann nicht stimmen, dies hätte<lb/>
+sonst bedeuten müssen, daß man für Maschinen und Anlagen bis zu 25 %<lb/>
+Preissteigerung hätte erzielen müssen. Die Verbesserung ergibt sich<lb/>
+größtenteils doch aus der Exportsteigerung, wo auch im Jänner wiederum<lb/>
+eine 10 %-ige zu verzeichnen ist. Dadurch hat sich die Handelsbilanz<lb/>
+im Jänner um 1 1/2 Mrd., aber auch die Dienstleistungsbilanz wieder um<lb/>
+1 Mrd. verbessert. Allerdings ist letztere Post darauf zurückzuführen,<lb/>
+daß im Vorjahr Banken falsch der Nationalbank gemeldet haben, unbeabsich<lb break="no"/>tigt wurden konsularische und diplomatische Vertretungsaufwendungen durch<lb/>
+eine durch den OPEC-Fonds eine Mrd. S Kapitalverkehr falsch verbucht.<lb/>
+Dadurch ergibt sich im jetzigen Jänner dieses günstigere Ergebnis.<lb/>
+Erstmals machen sich auch GM-Motor- und Getriebeexporte bemerkbar, bei<lb/>
+voller Kapazitätsauslastung wird noch heuer die Handelsbilanz um 3 Mrd.<lb/>
+S durch die GM-Exporte verbessert.<lb/>
+</p>
+            <p xml:space="preserve">Interessanterweise wurden dann von allen die verbesserten Prognoseziffern,<lb/>
+die noch nicht offiziell bekannt sind, diskutiert. Der Verbraucherpreis<lb break="no"/>index wird jetzt statt 4,2 % Jahressteigerung auf 3,7 bis 3,8 % runter<lb break="no"/>revidiert, die Arbeitslosenrate von 4,6 % auf 4,4 %, die Bruttoinlands<lb break="no"/>produktsteigerung um 1/2 % wird lt. <name type="person" ref="per:126867">Kausel</name> 3 1/2 % betragen, soviel<lb/>
+nehmen allerdings nicht einmal die größten Optimisten an, eine Steigerung<lb/>
+wird es aber sicherlich geben.<lb/>
+</p>
+            <pb n="69-0333" facs="69_1983-03-11_0333.jpg"/>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:111737">MARSCH</name> UND <name type="person" ref="per:109811">BURIAN</name>: Bitte die Unterlagen vom WIFO ver<lb break="no"/>schaffen.<lb/>
+</p>
+            <p xml:space="preserve">Auf der Wiener Messe wurden die Preise der Ministerien und der Handels<lb break="no"/>kammer verliehen. Über 30 Erfindungen hatten sich gemeldet, 3 hat<lb/>
+das Handelsministerium mit 3.000 S, 3 die Handelskammer mit 5.000 S<lb/>
+und 3 das Wissenschaftsministerium mit Pokalen ausgezeichnet. Ich habe<lb/>
+dem RRat <name type="person" ref="per:1138708">Sekira</name>, der uns in dieser Jury vertritt, aufmerksam gemacht,<lb/>
+man hätte mir schon längst sagen müssen, daß die HK 5.000 S und wir<lb/>
+nur 3.000 S <add>[bereitstellen]</add>. Bei aller Sparsamkeit, diese Diskriminierung wäre nicht<lb/>
+notwendig und zweckmäßig gewesen.<lb/>
+</p>
+            <p xml:space="preserve">Arch. <name type="person" ref="per:1138709">Brenner</name> vom Österr. Patentinhaber- und Erfinderverband hat vorge<lb break="no"/>schlagen, daß Studien über den Umweltschutz, über die Abfallwiederverwer<lb break="no"/>tung, überhaupt über Auftragserfindungen vom Handelsministerium und<lb/>
+Wissenschaftsministerium vergeben werden sollten. Diese Studien be<lb break="no"/>kommen heute ausschließlich Universitäten und sonstige Institute, nicht<lb/>
+aber ein Einzelerfinder. Ich versprach mit dem Wissenschaftsministerium<lb/>
+diese Frage prüfen zu lassen und ihm dann schriftlich eine Antwort zu<lb/>
+geben.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR HAFFNER: Bitte <name type="person" ref="per:1138708">Sekira</name> soll Entsprechendes veranlassen.<lb/>
+</p>
+            <p xml:space="preserve">In der Bezirksjahresversammlung Leopoldsdorf, wo eine große Zuckerfabrik<lb/>
+besteht und wo man mich sehr freudig begrüßt hat, gab es dann nach meinem<lb/>
+Referat und zuerst einer langsam anlaufenden Diskussion, als ich selbst<lb/>
+die Privilegien provozierte, eine umso heftigere und längere. Ich habe<lb/>
+einmal mehr feststellen können, daß es eine einzige Möglichkeit gibt<lb/>
+über diese sicherlich für manche unangenehmen Fragen frei zu diskutieren.<lb/>
+Als der Vorsitzende beabsichtigte diese Diskussion zu unterbrechen<lb/>
+resp., fast würde man sagen, abzuwürgen, habe ich mich sofort dagegen ausge<lb break="no"/>sprochen und erklärt, es hilft gar nichts, wenn man darüber schweigt<lb/>
+oder nicht hier diskutiert, am Montag in der Fabrik werden die Genossen<lb/>
+von den anderen gefragt werden, na, hat der <name type="person" ref="per:97985">Staribacher</name> auch über seinen<lb/>
+Bezug und seine Privilegien gesprochen oder hat er euch nur erklärt,<lb/>
+man soll ja recht brav sozialistisch wählen, diese, meine Auffassung<lb/>
+wurde von den Teilnehmern mit Beifall aufgenommen, aber dafür umso länger<lb/>
+und härter diskutiert.<lb/>
+</p>
+         </div>
+      </body>
+      
+   </text>
+</TEI>

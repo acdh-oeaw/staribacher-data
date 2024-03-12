@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Donnerstag, der 10. Mai 1973</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band16_1973-05-10</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1973-05-10">Donnerstag, 10. Mai 1973</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-10-10">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band16/">
+      <body>
+         <pb n="16-0537" facs="16_1973-05-10_0537.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Donnerstag, 10. Mai 1973</p><p xml:space="preserve">Im Unterausschuss des Handelsausschusses wegen der Gewerbeordnung ent<lb break="no"/>spann sich gleich bei Beginn eines grosse und lange Diskussion, wie die<lb/>
+nächsten Tage, wo bereits Sitzungen reserviert werden, Verschiebungen<lb/>
+oder gar Absagen erfolgen könnten. Immer wieder haben einzelne Abge<lb break="no"/>ordnete der ÖVP aber auch der FPÖ erklärt, dass sie zu diesen und jenen<lb/>
+Termine, obwohl seinerzeit diese Termine einvernehmlich reserviert wurden,<lb/>
+keine Zeit hätten. Natprlich musste letzten Endes auch die soz. SEite<lb/>
+Vorsitzender ist <name type="person" ref="per:97758">Müller</name>, da <name type="person" ref="per:112996">Staudinger</name> scheinbar krank war oder zumindestens<lb/>
+abwesend, der ÖVP nachgehen. Zur grössten VErwunderung hat sich dann im<lb/>
+Laufe der Diskussion herausgestellt, dass wir abends wider erwarten bereits<lb/>
+mit dem erstenDurchgang durch die ganze Gewerbeordnung fertig waren.<lb/>
+Die hauptsächlichste Arbeit beginnt allerdings erst jetzt beim zweiten<lb/>
+Durchgang. Alle offene und strittigen Punkte sind jetzt zu verhnadeln.<lb/>
+Die ÖVP, die bereits mit den landw. Genossenschaften sehr weit in ihrer<lb/>
+eigenen <choice><choice><sic>Melingungsbildung</sic><corr>Meinungsbildung?</corr></choice></choice> vorwärtsgekommen ist, braucht noch, wie sie<lb/>
+sagt, ein ganz kleines Stückerl, und dann hat sie auch dieses Problem<lb/>
+intern gelöst. Dann erst wird man der SPÖ-Seite die VOrschläge des ÖVP-<lb/>
+Klubs präsentieren. DArüber hinaus haben wir auch veile offene Punkte<lb/>
+in die zweite Runde gegeben, damit man gegen die ÖVP abe auch gegen die<lb/>
+FPÖ etwas zum Abtauschen hat. Zum Glück habe ich seinerzeit durchge<lb break="no"/>setzt, dass die Experten laufend die offenen Probleme behandeln und<lb/>
+vor allem einmal FOrmulierungen finden, die bereits jetzt für die gante<lb/>
+Gewerbeordnung vorliegen. Zum Schluss habe ich auch noch verlangt, das<lb/>
+in der zweiten Lesung, wenn man so sagen darf, keine allgemeinen Diskus<lb break="no"/>sionen mehr stattfinden sollten, sondernwirklich nur auf Grund von kon<lb break="no"/>kretenVorschlägen und konkreten Formulierungen, die schriftlich vorgelegt<lb/>
+werden müssen, diskutiert werden sollten. <name type="person" ref="per:97769">Mussil</name> meinte,ironisch, a-ler<lb/>
+dings hat er dies sehr ernst gemeint, dass mir ein solcher Vorschlag als<lb/>
+Minister eigentlich nicht zusteht, sondern dass dies Afugabe der soz. Spre<lb break="no"/>cher wäre. IN diesem Fall erklärte ich, dass ich an Stelle von <name type="person" ref="per:115155">Skritek</name><lb/>
+jetzt als Abgeordneter und nicht als Minister gesprochen habe. Interessant<lb/>
+war, dass bis jetzt bei den Sitzungen weder Experten ausser ZS <name type="person" ref="per:98000">Swoboda</name><lb/>
+vom Freien Wirtschaftsverband und Senatsrat <name type="person" ref="per:146990">Leitner</name> vn Wien, weder <name type="person" ref="per:133082">Auracher</name><lb/>
+noch <name type="person" ref="per:97676">Lachs</name>, noch <name type="person" ref="per:137217">Mrkwitschka</name> jemals an einer Sitzung teilgenommen haben.<lb/>
+Auch die soz. Abgeordneten <name type="person" ref="per:115155">Skritek</name>, <name type="person" ref="per:97558">Hobl</name>, <name type="person" ref="per:137298">Egg</name> und <name type="person" ref="per:98010">Teschl</name> waren wenn über<lb break="no"/>haupt nur ganz sporadisch anwesend. Aber auch die ÖVP-Abgeordneten haben<lb/>
+weitestgehend geschwänzt. Ich behaupte allerdings, dass dies zum schnellen<lb/>
+Abschluss der Gewerbeordnung nur förderlich ist. Am meisten hat bis<lb/>
+<pb n="16-0538" facs="16_1973-05-10_0538.jpg"/>jetzt der Rechtsanwalt Dr. <name type="person" ref="per:149124">Rabor</name>, der für die FPÖ als Experte<lb/>
+nominiert wurde, insbesondere die Wünsche der Freien Berufe und ganz<lb/>
+besonders der RA-Kammer vertreten und bei jedem Paragraphen fast BEdenken<lb/>
+oder Änderungswünsche geäussert. Wenn es mir nicht gelungen wäre, am<lb/>
+Anfang die Expertenrunde durchzusetzen, bin ich überzeugt, würden wir heute<lb/>
+noch nicht annähernd so weit sein. Ich wollte natürlich sofort anschliessen<lb/>
+für die reservierten Termine der nächsten Woche die zweite Runde einläuten<lb/>
+hier aber haben mir alle einen Strich durch die REchnung gemacht und er<lb break="no"/>klrt, man bräuchte Zeit, um sich zu überlegen, wie in welche Punkte für<lb/>
+jede einzelne GRuppe von Entscheidung sind und welche man abtauschen<lb/>
+könnte. Das Ganze nennt man dann schöpferische Pause. In Wirklichkeit<lb/>
+wird jetzt nichts als ein Kuhhandel beginnen. Allerdings, so hoffe ich,<lb/>
+wird es sich dabei nicht um wirklich grundsätzliche Probleme handeln,<lb/>
+über diese bin ich überzeugt, müsste es gelingen eine einvernehmliche<lb/>
+Lösung zu erzielen. Trotzdem war es für mich interessant und typisch,<lb/>
+wie die einzelnen Lobbies agieren und wie nicht nur die ÖVP-Seite<lb/>
+sondern sogar auch usnere von der FPÖ ganz zu schweigen, immer wieder<lb/>
+dne Lobbies teilweise nachgegeben haben. Letztn Endes wird gar nicemand<lb/>
+dann mehr feststellen können, wlche Üerlegung in dem einen oder anderen<lb/>
+Fall z.B. warum die Tapezierer sich dann doch durchgesetzt haben und<lb/>
+Maler nicht spelieren,dürfen, zu einer solchen Entscheidung geführt haben.<lb/>
+Ein anderes Beispiel, es haben die Beamten der Landesregierung seit je her<lb/>
+gerne die Genehmigung für Lagerung von Öl in zweiter Instanz, d.h. bei<lb/>
+sich behalten und sich deshalb auch schwer dagegen, dass in Hinkunft die<lb/>
+Tankstellengenehmigungen, wo gleicheztig Öllagerung vorgenommen wird,<lb/>
+in die ernste Instanz kommen sollte. Abgesehen aber von so Kleinigikeiten<lb/>
+die naütrlich für dne einezlnen Fall oder für die einzelne Gruppe schon<lb/>
+grössere BEduetung haben, wird es aber gelingen, eine einvernehmlich und<lb/>
+wie ich glaube doch modernere Gewerbeordnung zustandezubringen. Allerdings<lb/>
+wäre es ideal, wenn wir sehr bald endgültig fertig wären, <name type="person" ref="per:97769">Mussil</name> ist<lb/>
+bestrebt, unter allen Umständen die Beschlussfassung erst im Herbst 1973<lb/>
+vorzunehmen. MIr wäre es recht, wenn es noch gelänge, im Juli eine<lb/>
+endgültige Genehmigung d.h. Beschlussfassung zu erreichen. Nicht zuletzt<lb/>
+werden wir anschliessend eine lange Zeit brauchen, um die Duchrführungs<lb break="no"/>verordnungen erlassen zu können. Die Legisvakanz wird daher mindetens<lb/>
+6 Monate betragen müssen. Zweckmässig wäre es aber keinesfalls, wenn<lb/>
+wri die neue Gewerbeordnung erst im Jahre 1975 wirksam hätten, denn<lb/>
+durch die Umstellung werden sich doch in dem einen oder anderen Fall<lb/>
+Unzulänglichkeiten herausstellen. Dies in einem <choice><choice><sic>Wahlkhar</sic><corr>Wahljahr?</corr></choice></choice> ist nicht<lb/>
+gerade sehr günstig.</p><pb n="16-0539" facs="16_1973-05-10_0539.jpg"/><p xml:space="preserve">Kreisky hat LH <name type="person" ref="per:112031">Maurer</name> eingeladen, er ist mit <name type="person" ref="per:97389">Czettel</name> und <name type="person" ref="per:97703">Ludwig</name>, seinen<lb/>
+Stellevertretern, gekommen, um die Probleme NÖ zu besprchen. <name type="person" ref="per:97668">Kreisky</name><lb/>
+hat einleitend darauf hingewiesen, dass im ERP-Sonderprogramm jetzt<lb/>
+200 Mill. vorgesehen sind. 100 Mill so wie bisher für die Kohlenge<lb break="no"/>biete, 100 Mill. für die tote Grenze. Darüber hinaus hatte er sich<lb/>
+bereiterklärt, in der Kommunalkredit AG Vorrang dieser toten Grenze<lb/>
+einzuräumen. Derzeit ist der Vorsitzende <name type="person" ref="per:98091">Withalm</name>, wechselt aber<lb/>
+mit <name type="person" ref="per:97668">Kreisky</name> ab. Aus dieser Kommunalkredit AG kennt er <name type="person" ref="per:98091">Withalm</name> sehr genau<lb/>
+und meint,, wenn er dort Schwierigkeiten machen würde, würde er hatl in<lb/>
+anderen Wünschen sich sturstellen. Er nimmt an, dass <name type="person" ref="per:98091">Withalm</name> als Nieder<lb break="no"/>österreicher und er auch dem toten Grenzgebiet Vorrang geben wird.<lb/>
+Niederösterreich hat eine Entwicklungsgesellschaft gegründet, ähnlich<lb/>
+wie der Bund dies mit den Gemeinden bei Aichfeld-Murboden getan hat und<lb/>
+<name type="person" ref="per:97668">Kreisky</name> hat angeboten, dass man auf Wunsch von Bundesseite dieser Ent<lb break="no"/>wicklungsgesellschaft beitreten würde Fehlinvestitionen wie dies z.B.<lb/>
+auf bayrischer SEite im GEbiet von der Gemeinde Hof geschehen ist,<lb/>
+wie ihm Staatssekretär <name type="person">Schönhorn</name> mitgeteilt hat, sollten aber vermieden<lb/>
+werden. Das Büro für Raumplanung hat in seinem HAus für die Grenzgebiete<lb/>
+CSSR, Ungarn und Jugoslawien eine Diskussionsgrundlage ausgearbeitet,<lb/>
+die er auch der ÖROK zur VErfügung stellen möchten. Die Nebenbahnen,<lb/>
+die sich als <choice><choice><sic>umweltfreudig</sic><corr>umweltfreundlich</corr></choice></choice> herausgestellt haben, dürften nicht aufge<lb break="no"/>lassen werdne und auch der Donauraumausbau würde fortschreiten und dann<lb/>
+die Nebenbahnen dringendst notwendig machen. <name type="person" ref="per:97668">Kreisky</name> hat dann <name type="person" ref="per:114573">Lenert</name>,<lb/>
+er war für Sozialminister <name type="person" ref="per:97525">Häuser</name> erschienen, mich und <name type="person" ref="per:97755">Moser</name> und <name type="person" ref="per:97461">Frühbauer</name><lb/>
+aufgefordert zu sagen, was die einzelnen Ministerien beigetragen haben.<lb/>
+Zum GLück hatte ich sehr brauchbare UNterlagen von <name type="person" ref="per:97469">Gehart</name> bekommen und<lb/>
+habe daher auf usnere Aktivitäten hingewiesen, ohne allerdings konkrete<lb/>
+Projekte zu nennen. Alle anderen Minister haben sich genauso verhalten.</p><p xml:space="preserve"><name type="person" ref="per:112031">Maurer</name> selbst hat dann darauf hingewiesen, dass sie ein Gesetz beschlos<lb break="no"/>sen haben, <name type="person" ref="per:97469">Gehart</name> hatte es mir beigelegt gehabt, dass sie 20.000 S<lb/>
+pro Arbeitsplatz bezahlen. Er hat den Bund eingeladen, ebenfalls dort<lb/>
+wo das Land 20.000 S gibt denselben BEtrag zu geben, dann würde ein<lb/>
+noch grösserer Anreiz für Investitionen in diesem Gebiet entstehen.<lb/>
+<name type="person" ref="per:97389">Czettel</name> hat allerdings dann in seinem Beitrag erwidert, dass die Firma<lb/>
+Weidinger in Dietmanns Investitionen für 300 Beschäftigten durchgeführt<lb/>
+hat und derzeit nur 80 Beschäftigte bekommt. Ich glaube nämlich, dass<lb/>
+wirklich eine objektive Untersuchung ergeben würde, dass eine solche<lb/>
+Investitionstätigkeit in grossem Umfang in gewissen Gebieten gar nicht<lb/>
+mehr zielführend ist, weil keine Arbeitskräfte zur VErfügung stehen.</p><pb n="16-0540" facs="16_1973-05-10_0540.jpg"/><p xml:space="preserve"><name type="person" ref="per:112031">Maurer</name> hat dann noch viel Blabla aber wenig konkrete Forderungen gestellt<lb/>
+Er meinte, dass die Landesregierung die Industrieflächen sich sichert,<lb/>
+dass der E+E-Fonds siene GRenze von mindestens 2,5 Mill, wo er erst<lb/>
+kreditiert, herabsetzen sollte, ich habe sofort darauf verwiesen, dann<lb/>
+soll sich diese Firma bei der Gewerbestruktur melden, der Fremdenverkehr<lb/>
+soll die Bäder und Freizeiteinrichtungen ausbauen und der Bund hier<lb/>
+grössere Unterstützung gewähren usw. <name type="person" ref="per:97389">Czettel</name> dagegen hat wirklich drei<lb/>
+konkrete Vorschläge gemacht. Der Bund soll der Industrieansiedlungs<lb break="no"/>gesellschaft den das Land gegründet hat beitreten. Dies will sicherlich<lb/>
+die ÖVP nicht. Mit Hilfe der Arbeitsmarktförderung sollten Umschulungs<lb break="no"/>tätigkeiten und Aktivitäten in Nö Grenzraum entwickelt werden, Konkret<lb/>
+wünscht er, dass in 24 Betrieben, die über 100 Beschäfigte haben, ins<lb break="no"/>gesamte sind es 12000 Beschäftigte in diesem GEbiet, konkrete UNter<lb break="no"/>suchungen über Investitionswünsche, Arbeitsmarktlage usw. da Handels<lb break="no"/>ministerium mit der Landesregierung uNd der Handelskammer durchführen<lb/>
+sollte. Ich habe <name type="person" ref="per:97389">Czettel</name> bereits vor der Sitzung zugesagt, dass <name type="person" ref="per:146202">Ebner</name><lb/>
+von uns, den er genau kennt und von dem er sehr beeindruckt war, Diese<lb/>
+Arbeit sofort in Angriff nehmen wird, sobald er mit den oö. Arbeiten<lb/>
+fertig ist.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97469">GEHART</name>: <name type="person" ref="per:97389">Czettel</name> wird die Liste schicken, bitte sich mit<lb/>
+ihm ins Einvernehmen setzen und <name type="person" ref="per:146202">Ebner</name> so schnell<lb/>
+wie möglich, vielleicht mit <name type="person" ref="per:97607">Jonas</name> zu dieser umfang<lb break="no"/>reichen Arbeit ansetzen. Vorsichtig aber bei konkre<lb break="no"/>ten Zusagen von Krediten oder sonstige Unterstützun<lb break="no"/>gen.</p><p xml:space="preserve">Interessant waren die Ausführung des Stellvertreters <name type="person" ref="per:97703">Ludwig</name>, der auch<lb/>
+für die Raumplanung usw. zuständig ist. Er meinte, dass in den Grenz<lb break="no"/>gebieten in den letzten zehn Jahren 7 % abgewandert. TRotzdem sind<lb/>
+nach Aussage von <name type="person" ref="per:97703">Ludwig</name> in Zwettl 800 in Horn 350 und in anderen Ge<lb break="no"/>bieten Arbeitskräfte frei. Ingsgesamt wurden zwar in dem Grenzbe<lb break="no"/>zirk in der letzten ZEit 1.200 Dauerarbeitsplätze geschaffen. Derzeit<lb/>
+sind in Poysdorf Verhandlungen mit der Firma Gebauer imGange,<lb/>
+die eine Fabrik mit 300 Beschäftigten, allerdings mit einer zusätzlichen<lb/>
+Sonderunterstützung von 6 Mill. in Zwettl die Firma ERGE und in<lb/>
+anderen GEbieten Ansiedlungen erfolgen sollen. Insgesamt wurden und<lb/>
+werden 200 Mill. 3 dafür vom Lande aufgebracht. Im Finanzausgleichsge<lb break="no"/>setz wurde NÖ dadurch benachteiligt, dass bis jetzt 27,8 % und in<lb/>
+Hinkunft nur mehr 19 % bekommen wird. Dies bedeutet von 6 – 7 Mill. 8<lb/>
+weniger. Die Schulen müssten in dieser Gegend schnell errichtet werden<lb/>
+dies trifft ganz besonders für die Kindergärtnerschule in Mistelbach<lb/>
+und in der HTL in Hollabrunn sowie im Horner Bezirk zu.</p><pb n="16-0541" facs="16_1973-05-10_0541.jpg"/><p xml:space="preserve">Die Spitäler müssten kurfristig jetzt endgültig vom Bund mitsaniert<lb/>
+werden. Bis 1977 wird da Land 1 Mia und die Gemeinden 500 Mill. aufzu<lb break="no"/>bringen haben. Davon bedarf St. Pölten 400, Zwettl 250 und auch Waidhofen<lb/>
+und Mistelbach entsprechende Zuschüsse. Wenn für die Bergbaugebiete 300<lb/>
+Mill. S Bergbauernförderung Sonderprogramm zur Verfügung gestellt werde<lb/>
+dann müsstne auch dieses Programm die Bauern an der GRenze einbezogen<lb/>
+werden. <name type="person" ref="per:97703">Ludwig</name> hat also einen allumfassenden VOrschlag, wenn man sie<lb/>
+sagen will, ein grosses Sanierungskonzept für NÖ der Bundesregierung<lb/>
+mitgeteilt. Letzten Endes aber wurden keinerlei konkrete Beschlüsse<lb/>
+gefasst, sondern so wie immer <name type="person" ref="per:114644">Kolpacher</name> von Büro <name type="person" ref="per:97668">Kreisky</name> und <name type="person" ref="per:146294">Fiedelbauer</name><lb/>
+von der NÖ Landesregierung beauftragt, übe die Einzelwünsche weiter<lb/>
+Kontakt zu halten und nach vier Wochen einen konkreten Vorschlag dann<lb/>
+zu unterbreiten.</p><p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> hat dann die soz. Minister und LH-Stellv. <name type="person" ref="per:97389">Czettel</name> zu sich gebe<lb break="no"/>ten undum zu erklären, warum er jetzt ganz besonders für die Nieder<lb break="no"/>österreicher eintritt. Er fürchtet nun, dass er als nö. Abgeordneter<lb/>
+1974, wo Landtagswahlen sind, hart attackiert werden wird. Man wird ihm<lb/>
+vorwerfen, dass er Milliarden Schilling für das Arlbergtunnelprojekt<lb/>
+Milliarden Schilling für die anderen Bundesländer, letzten Endes aber<lb/>
+immer nur für die westlichen aufgebracht hat, und sich überhaupt nicht<lb/>
+um sein eigenes Land, nämlich NÖ, gekümmert hat. Dem will er nun<lb/>
+entgehen, indem er eben auch dokumentiert, dass er für NÖ etwas macht.<lb/>
+Er ersuchte die Minister inständig, dass sie ihn in dieser Situation<lb/>
+unterstützen.</p><p xml:space="preserve">ICh bin sehr gespannt, wie lange es dauern wird , bis endlich dann einmal<lb/>
+die Wiener aufstehen und sich gegen die Bevorzugung der Bundesländer aus<lb/>
+sprechen. Die von <name type="person" ref="per:97668">Kreisky</name> geübte Methode, schwerpunktmässig einzelne<lb/>
+GEbiete zu bevorzugen, begonnen hat dies mit Vorarlberg, weil wir<lb/>
+dort in Bregenz den Bürgermeister gegen die Mehrheitspartei der ÖVP<lb/>
+durchsetzen konnten, und hat sich letzten Endes so ziemlich alle<lb/>
+westlichen Bundesländer erstreckt. Jetzt soll auch in NÖ Aktivität<lb/>
+entfaltet werden. Dies hat er auch letzten Endes <name type="person" ref="per:112031">Maurer</name> zugesagt, weil<lb/>
+er im Rahmen der ÖROK nur grosse Schwierigkeiten hat und weitere er<lb break="no"/>wartet. Andererseits hat die Steiermark mit Aichfeld-Murboden eine ge<lb break="no"/>wisse Bevirzugung erhalten, die allerdings sich auch nicht als Vorteil<lb/>
+für die Bundespolitik durchsetzt. Die Steirer spielen dies ganz bewusst<lb/>
+herunter und erklären, dass es sich her um selbstverständliche Leistunge<lb/>
+handelt, die sowieso erfolgen hätten müssen. Ich persönlich glabue ja, d<lb/>
+<pb n="16-0542" facs="16_1973-05-10_0542.jpg"/>jedwede einseitige Bevorzugung letzten Endes nicht positiv sondern<lb/>
+nergaitv sich niederschlägt : Alle, die nicht daran teilhaben können,<lb/>
+sind verärgert, die die es erreicht haben, sagen dann es war ja selbst<lb break="no"/>verständlich und stellen nur weitere Forderungen. Im FAlle der Landes<lb break="no"/>regierungen und Landeshauptleute hätte man sie gegenseitig ausspielen<lb/>
+müssen, indem man ihnen vorschlägt: bitte sehr, so und so viele BEträge<lb/>
+stehen zur VErfügung, wenn ihr euch im konkreten selbst einigt. Damit<lb/>
+der Bund stärker in ERscheinung tritt, hätte er dann können die geeinigte<lb/>
+Ziffern nicht mit dem Land gemeinsam sondern selbständig und für eigene<lb/>
+Projekte vergeben können.</p><p xml:space="preserve">Beim 3. Bezirk im Blumenschmuck von den Gemeindemietern orgnaisiert,<lb/>
+und bei de Fa. Persil abgewickelt, hat mir Gen.Dir. <name type="person" ref="per:116375">Lobner</name>, der sehr<lb/>
+verörgert war, dass er gestern nicht anwesend war, dann später seine<lb/>
+GEschäfsfüphrung vorgestellt. <name type="person" ref="per:116375">Lobner</name> hat jetzt einen Mann aus der BRD,<lb/>
+ich habe es an der Aussprache erkannt, vielleicht ein vom Henkel-Konzern<lb/>
+geschickter. Auf alle Fälle habe ich sie aufmerksam gemacht, dass von<lb/>
+Seiten der Umweltschützer und auch der Konsumenten, weitere WÜnsche an<lb/>
+die Waschmittelindustrie herangetragen werden. Ich habe ihnen verspro<lb break="no"/>chen, dass wir uns vorzeitig über die Probleme sehr genau unterhalten<lb/>
+sollen, damit wir Lösungen finden, die für den Umweltschutz erträglich<lb/>
+und daher als Mindestforderung erfüllt werden müssen, andererseits<lb/>
+aber natürlich auch die Waschmittelindustrie nicht vor finanzielle<lb/>
+unlösbare Aufgabenn stellen. Klar warne wir uns alle, dass der Umwelt<lb break="no"/>schutz Geld ksoten wird und dass dieser letzten Endes auch vonden<lb/>
+Konsumenten wird getragen werden müssen.</p></div>
+      </body>
+      <back>
+         <pb n="16_0536_01" facs="16_1973-05-10_0536-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 10.5.1973</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="16_0536_02" facs="16_1973-05-10_0536-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Montag, der 27. September 1976</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band32_1976-09-27</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1976-09-27">Montag, 27. September 1976</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-02-05">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="32-1047" facs="32_1976-09-27_1047.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Montag, 27. Sept. 1976<lb/>
+</p>
+            <p xml:space="preserve">Beim Jour fixe kündigte <name type="person" ref="per:97769">Mussil</name> an, dass Komm.Rat <name type="person" ref="per:111717">Schönbichler</name>,<lb/>
+Obmann von<add>[der]</add> Sektion Handel, mit ihm und seinen Gross- und Klein<lb break="no"/>händlervertretern bei mir vorsprechen will. Wahrscheinlich geht<lb/>
+es ihnen jetzt um das Problem der Nahversorgung.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98072">WIESINGER</name>: Bitte Termin vereinbaren.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97769">Mussil</name> teilte mir mit, dass morgen ein Handelsausschuss stattfinden<lb/>
+wird, wo die beiden freiheitlichen Initiativanträge Altölgesetz<lb/>
+und Ladenschlussregelung auf der Tagesordnung sind. Ich war sehr<lb/>
+erstaunt, dass niemand bei uns wusste, dass überhaupt ein Handels<lb break="no"/>ausschuss stattfindet. Hätte mich <name type="person" ref="per:97769">Mussil</name> nicht aufmerksam gemacht,<lb/>
+ich wäre wahrscheinlich überhaupt nicht dort erschienen. <name type="person" ref="per:97769">Mussil</name><lb/>
+möchte unbedingt, dass wir beide Initiativanträge nicht genehmigen.<lb/>
+Für Altöl habe ich jetzt einen Gesetzentwurf in Begutachtung geschickt<lb/>
+und wir hoffen, dass es gelingt, die FPÖ davon zu überzeugen, beide<lb/>
+gemeinsam in einem Unterausschuss des Handelsausschusses zu behandeln.<lb/>
+Bezüglich des Ladenschlusses gibt es für uns eine einzige Chance, die<lb/>
+ganze Materie in unseren Nahversorgungsausschuss zu verlegen. <name type="person" ref="per:97769">Mussil</name><lb/>
+wollte, wenn es irgendwie geht, überhaupt dass wir beide Initiativen<lb/>
+der FPÖ sofort ablehnen. Diese Taktik entspricht aber nicht meiner<lb/>
+Politik. Ich habe auch ÖVP-Initiativen, die mir nichts ins Konzept<lb/>
+passten sofort abgelehnt sondern wie z.B. Ladenschluss-Änderung so<lb/>
+lange verhandelt, bis selbst die Handelskammer auf dem Standpunkt ge<lb break="no"/>standen ist, der jetzige Zustand soll unverändert bleiben. Ich bin<lb/>
+sehr neugierig, ob mir diese Politik auch bei der FPÖ gelingt.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97769">Mussil</name> wollte wissen, ob <name type="person" ref="per:97668">Kreisky</name> bei seinem Besuch in Ungarn irgendwel<lb break="no"/>che Besprechungen über eine Freihandelszone geführt hat. Aussenhandels<lb break="no"/>minister <name type="person" ref="per:110971">Biro</name> hat nämlich bei seinem Vortrag in der Handelskammer<lb/>
+wieder Andeutungen gemacht, dass eine Zollregelung für Ungarn uner<lb break="no"/>lässlich ist. Ich habe zwar mit <name type="person" ref="per:97668">Kreisky</name> über dieses Problem nicht<lb/>
+gesprochen, doch hat er bei der Verabschiedung von <name type="person" ref="per:97632">Kirchschläger</name><lb/>
+Staatsbesuch Bulgarien, diesem eine diesbezügliche negative Ant<lb break="no"/>wort gegeben.<lb/>
+</p>
+            <p xml:space="preserve">Die Bundeshandelskammer vermutet auf meine Frage, warum die Indu<lb break="no"/>striellenvereinigung <name type="person" ref="per:138739">Halusa</name> als neuen Generalsekretär bestellt, dass<lb/>
+dieser entweder seine Auslandsverbindungen dazu nützen wird, die<lb/>
+<pb n="32-1048" facs="32_1976-09-27_1048.jpg"/>Industriellenvereinigung stärker in die ganze Tätigkeit, die eigent<lb break="no"/>lich die Handelskammer ausübt, einzuführen oder <name type="person" ref="per:97581">Igler</name> hätte mit<lb/>
+<name type="person" ref="per:97668">Kreisky</name> über die Zollfreizonen-Vorschläge diskutiert und würde<lb/>
+sich jetzt bereits mit einem Fachmann wappnen. Wenn <name type="person" ref="per:97581">Igler</name> diese<lb/>
+Politik aber verfolgt, dann meinen <name type="person" ref="per:97893">Sallinger</name> und <name type="person" ref="per:97769">Mussil</name>, würde er<lb/>
+kaum eine zweite Legislaturperiode überstehen. Nach dem neuen<lb/>
+Statut der Industriellenvereinigung kann ein Präsident übrigens nur<lb/>
+zweimal gewählt werden und dies war bei <name type="person" ref="per:97581">Igler</name> jetzt der Fall.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> meint in der Regierungsvorbesprechung, die Industriellen<lb break="no"/>vereinigung hätte keine guten Kräfte, weshalb man auf den pensionier<lb break="no"/>ten <name type="person" ref="per:138739">Halusa</name> zurückgreifen musste. <name type="person" ref="per:97581">Igler</name> wollte, wie <name type="person" ref="per:97311">Androsch</name> meinte,<lb/>
+<name type="person" ref="per:140074">Fürstenberg</name>, doch sei er damit bei den anderen Präsidiumsmitgliedern<lb/>
+nicht durchgedrungen. <name type="person" ref="per:97581">Igler</name> bestätigte mir am Abend, dass er <name type="person" ref="per:138739">Halusa</name><lb/>
+als eine Übergangslösung betrachtet. Wenn das Statut tatsächlich<lb/>
+nur eine zweimalige Wahl vorsieht, dann war diese Statutenänderung in<lb/>
+meinen Augen nicht sehr glücklich. Der Handelskammerpräsident ist<lb/>
+kontinuierlich, wenn er nicht einen grossen Schnitzer macht und<lb/>
+wenn nicht ein tüchtigerer ihn verdrängt, während wenn der Industriel<lb break="no"/>lenpräsident jede zweite Amtsperiode wechseln muss, schwächt sich<lb/>
+die Industriellenvereinigung, wenn sie einmal einen tüchtigen<lb/>
+Präsidenten hat. Allerdings vermute ich, werde sie dann ebenfalls<lb/>
+wieder das Statut ändern, so wie sie dies ja auch nach <name type="person" ref="per:97733">Mayer-Gunthof</name><lb/>
+gemacht haben, als sie scheinbar diese Beschränkung auf zwei Amtsperioden<lb/>
+eingeschränkt hat.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97893">Sallinger</name> bedankte sich bei mir, dass ich den südkoreanischen Handels<lb break="no"/>minister einladen werde. Bei seinem Zwischenaufenthalt in Iran hat<lb/>
+man ihn wegen des Fremdenverkehrsabkommens interpelliert. Da in<lb/>
+dem Abkommen aber nach iranischem Vorschlag nur eine Gemischte<lb/>
+Kommission verankert werden soll, sehe ich keinen Grund, ein<lb/>
+solches zu schliessen. Ich glaube, dass wir überhaupt jetzt schön<lb/>
+langsam mit den vielen Gemischten Kommissionen aufhören müssen.<lb/>
+Wenn die Regierung Sparmassnahmen beschliesst, Reiseeinschränkungen<lb/>
+usw., dann können wir nicht ständig neue Gemischte Kommissionen<lb/>
+schaffen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR ALLE: Wer weiss den taktisch besten Weg aus diesem<lb/>
+Dilemma herauszukommen?<lb/>
+</p>
+            <p xml:space="preserve">Ich beschwerte mich bei <name type="person" ref="per:97893">Sallinger</name> und <name type="person" ref="per:97769">Mussil</name>, dass immer wieder<lb/>
+Schwierigkeiten sind bei der Bezahlung der Handelskammer für<lb/>
+<pb n="32-1049" facs="32_1976-09-27_1049.jpg"/>Gästeeinladungen, jetzt z.B. wurde die Frage aufgeworfen, ob der<lb/>
+EFTA-Generalsekretär <name type="person" ref="per:115599">Müller</name> von der Handelskammer bezahlt wird. Für<lb/>
+mich ist dies selbstverständlich. <name type="person" ref="per:97893">Sallinger</name> meinte, wir müssten<lb/>
+uns einmal zusammensetzen, um endgültig abzuklären, was zu bezahlen<lb/>
+ist. <name type="person" ref="per:97801">Ottahal</name> hat die Handelskammer z.B. verständigt, dass bei den Ungarn<lb/>
+16 Personen kommen. Jetzt wird für wirtschaftspolitische Kontakt<lb break="no"/>gespräche <name type="person" ref="per:108322">Meisl</name> in Stuttgart eine Vorschussleistung von 13.000 S<lb/>
+verlangt. Ich habe unverzüglich mit <name type="person" ref="per:108322">Meisl</name> nach meiner Rückkehr ge<lb break="no"/>sprochen und dieser sagte, niemals hätte er einen Vorschuss verlangt,<lb/>
+denn wenn das Essen in Stuttgart zustandekommt, dann bezahlt dies auto<lb break="no"/>matisch der österr. Handelsdelegierte. Wir vereinbarten, dass <name type="person" ref="per:97819">Plesch</name><lb/>
+eine Aussprache einladen soll, wo <name type="person" ref="per:113032">Reiger</name>, <name type="person" ref="per:108322">Meisl</name>, <name type="person" ref="per:97801">Ottahal</name> daran teil<lb break="no"/>nehmen werden. Die Repräsentationsfrage entwickelt sich schön langsam<lb/>
+zu einem Dilemma für die Regierung. Ich selbst war eigentlich auch<lb/>
+sehr erstaunt, dass entgegen meiner Weisung unter allen Umständen<lb/>
+mit den 500.000 S Budgetansatz auszukommen, in manchen Jahren Über<lb break="no"/>schreitungen bis fast 200.000 S, in manchen Jahren knapp mehr als<lb/>
+die Hälfte verbraucht werden. Ich habe jetzt neuerdings <name type="person" ref="per:97801">Ottahal</name><lb/>
+und <name type="person" ref="per:97722">Marhold</name> darauf aufmerksam gemacht, dass eine weitere Überschreitung<lb/>
+von mir nicht akzeptiert, d.h. gedeckt wird. Wenn ich dies erfahren<lb/>
+sollte, dass diese Weisung, die ich ganz selten gebe, nicht eingehalten<lb/>
+wird, gibt es einen ernsten Krach.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97819">PLESCH</name>: Bitte mache bei jeder Gelegenheit auf diese<lb/>
+Weisung aufmerksam.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97893">Sallinger</name> erkundigt sich neuerdings, ob die Betriebsanlagengenehmigung<lb/>
+<name type="person" ref="per:145640">Buchacher</name>, Hermagor, erledigt ist.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97584">JAGODA</name>: Bitte Akt vorlegen.<lb/>
+</p>
+            <p xml:space="preserve">Da ich den rumänischen Aussenhandelsminister <name type="person" ref="per:118213">Avram</name> vom Schwechat<lb/>
+abholen wollte, kam ich zu spät zum Pressefrühstück. Es war gerade<lb/>
+die Diskussion über die Donauschiffahrtsrinne im Gange. Da ich nicht<lb/>
+genau wusste, wie der Vertreter des Schiffahrtsamtes auf die harten<lb/>
+Fragen der Journalisten, wieviel kostet es, was geschieht, wenn es<lb/>
+nicht funktioniert, nur sehr zögernd zu antworten begann, hatte ich<lb/>
+mich eingemischt. Ich weiss nicht, ob ihm dies recht an, ich nehme<lb/>
+aber <choice><choice><sic>hon</sic><corr>schon?</corr></choice></choice> an, dass er als Beamter sich nicht so exponieren wollte. Für<lb/>
+den Bericht über die Polenverhandlungen stand gar kein Beamter<lb/>
+zur Verfügung, weshalb ich die erläuternden Bemerkungen machte.<lb/>
+In Wirklichkeit ist dies natürlich ein kalter Kaffee, da in der Vorwoche<lb/>
+alles abgeschlossen und wahrscheinlich auch in den Redaktionen schon<lb/>
+<pb n="32-1050" facs="32_1976-09-27_1050.jpg"/>bekannt ist, weshalb sicher niemand mehr etwas bringen wird.<lb/>
+Vielleicht die Volksstimme. Interessanterweise hat dann in der<lb/>
+Diskussion darüber ein einziges Problem Interesse gefunden, nämlich<lb/>
+der Stromliefervertrag der Polen nach Österreich. Damit im Zusammen<lb break="no"/>hang wurde das Problem erörtert, wieweit das zweite Kernkraftwerk durch<lb/>
+diese zusätzlichen Strommengen noch hinausgeschoben werden kann.<lb/>
+Hätten wir den Polenvertrag und das Kohlekraftwerk Voitsberg III<lb/>
+nicht in Aussicht, wüsste ich wirklich nicht, wie man eine Genehmigung<lb/>
+des 2. KKW hinausschieben könnte. Andererseits wieder glaube ich,<lb/>
+dass die Hoffnung, dass Redakteure bei einem Pressefrühstück<lb/>
+rege diskutieren und selbst irgendwelche Fragen und Kritiken vor<lb break="no"/>bringen, sich immer mehr als Wunschziel entpuppt. Die Oppositions<lb break="no"/>zeitungen sind entweder gar nicht oder nur sehr schwach vertreten,<lb/>
+greifen auch nicht an, die Neutralen ragen nur, was in ihre<lb/>
+Redaktionskonzeption passt und die eigenen registrieren. Die Idee,<lb/>
+mit unserem Pressefrühstück eine wöchentliche Diskussion mit den<lb/>
+Massenmedien zu haben, kann ich glaube ich auch begraben. Für<lb/>
+mich stellt sich die Frage, ob wir jetzt nicht Woche für Woche<lb/>
+neben den Berichten, die halt zufällig anfallen, ein Leitthema<lb/>
+stellen sollten. Gegebenenfalls könnten wir, wenn es sich um ein<lb/>
+bedeutendes Problem handelt, wie z.B. die Kernkraftwerksproblematik<lb/>
+ein solches Leitthema auch vielleicht über 2 oder 3 Wochen hin<lb break="no"/>ziehen. Die Frage ist nur, wie man das dafür notwendige Material<lb/>
+der Presse zur Verfügung stellt, wer soll dieses Material be<lb break="no"/>schaffen, wie soll es präsentiert werden und wie wird es von den<lb/>
+Redaktionen aufgenommen und verarbeitet.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:114508">TIEBER</name>: Gibt es eine andere Chance, das Pressefrühstück<lb/>
+nicht in Routine erstarren zu lassen?<lb/>
+</p>
+            <p xml:space="preserve">Die Gespräche mit dem Ministerpräsidenten <name type="person" ref="per:118308">Manescu</name> und <name type="person" ref="per:97668">Kreisky</name> verliefen im<lb/>
+üblichen Rahmen, <name type="person" ref="per:97668">Kreisky</name> meinte nur einleitend gleich, er könne aus<lb/>
+verfassungsrechtlichen Gründen nicht alle Abkommen selbst unter<lb break="no"/>zeichnen, er werde assistieren, aber das Wissenschaftsabkommen würde<lb/>
+Frau Minister <name type="person" ref="per:97442">Firnberg</name> betr. die Kooperation usw. unterfertigen.<lb/>
+<name type="person" ref="per:97442">Firnberg</name> berichtete dann gleich, dass neben diesen generellen Abkommen<lb/>
+jetzt bereits ein Abkommen über Energieforschung und -entwicklung, d.h.<lb/>
+ein konkreter Arbeitsauftrag vorliegt, und dass auch auf dem Sektor<lb/>
+de Atomforschung die Zusammenarbeit beabsichtigt sei. <name type="person" ref="per:97668">Kreisky</name> schnitt<lb/>
+dann die Wirtschaftsfragen an, stellte fest, dass sich im letzten Jahr<lb/>
+die Entwicklung nicht sehr positiv darstellt. <name type="person" ref="per:118308">Manescu</name> in seiner<lb/>
+<pb n="32-1051" facs="32_1976-09-27_1051.jpg"/>Erwiderung meinte sogar, von 1971–1975 ist das Aussenhandelsvolumen<lb/>
+gestiegen, 1976 wird es unter dem Niveau 1975 liegen. <name type="person" ref="per:97668">Kreisky</name> ging<lb/>
+sofort auf die Kreditwünsche ein und meinte, bei uns gäbe es keine<lb/>
+Staatskredite, ausgenommen Portugal, er meinte, damit den EFTA-Rahmen<lb/>
+von 100 Mill. $, wohl aber Kredithaftungen. Er könne sich vorstellen,<lb/>
+dass die Kontrollbank einen Rahmenkredit von 2 Mia. S gibt, wie Polen auch<lb/>
+einen für 3 Mia. bekommen hat. Für keinen Staat gibt es besonderes<lb/>
+Kreditkonditionen sondern dies sei ein normaler Exportförderungskredit.<lb/>
+<name type="person" ref="per:118308">Manescu</name> war mit dieser Auskunft nicht sehr zufrieden, denn er meint,<lb/>
+es müsse der Zinssatz für Rumänien so hoch sein wie für die Ent<lb break="no"/>wicklungsländer und 15 bis 20 Jahre gewährt werden. Die Rückzahlung<lb/>
+sollte bei Produktionsbeginn starten. Ausserdem erwartet Rumänien,<lb/>
+dass es mit den österreichischen Krediten auch in andere Länder<lb/>
+Ergänzungskäufe tätigen kann, wenn sie bei österreichischen Maschinen<lb/>
+oder Anlagen solche Ergänzungen bräuchten. <name type="person" ref="per:97668">Kreisky</name> fragte <name type="person" ref="per:98034">Veselsky</name>, ob<lb/>
+ein solcher Entwicklungsländerkreditsatz tatsächlich existiert, was<lb/>
+dieser verneinte. In der Regierungsvorbesprechung habe ich dann, da<lb/>
+<name type="person" ref="per:97311">Androsch</name> anwesend war, dieses Problem neuerdings zur Sprache gebracht,<lb/>
+<name type="person" ref="per:97311">Androsch</name> erinnerte sich, dass sehr wohl für Entwicklungsländer ein spezi<lb break="no"/>fischer Kreditsatz gegeben wurde.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108322">MEISL</name> UND <name type="person" ref="per:98040">WAIS</name>: Min.Rat <name type="person" ref="per:111706">Müller</name> solle eine Zusammenstellung<lb/>
+der Kreditmöglichkeiten und Auslastungen in Tabellenform erstellen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> war scheinbar nicht besonders interessiert oder vorbereitet,<lb/>
+selbst die Verhandlungen zu führen, weshalb er sofort erklärte, der<lb/>
+Handelsminister wird jetzt die Details referieren. Zum Glück hatte<lb/>
+ich vom Handelsdelegierten <name type="person" ref="per:139677">Orisich</name> eine schöne Zusammenstellung, welche<lb/>
+Anlagen die österreichische Firmen in den letzten Jahren offeriert<lb/>
+hatten und von der rumänischen Seit abgelehnt wurden. Ich zählte des<lb break="no"/>halb die wichtigsten auf um zu demonstrieren, dass sich Österreich<lb/>
+sehr bemühte, aber nicht zum Zuge kam. Dann erwähnte ich die Be<lb break="no"/>sprechungen, die ich mit <name type="person" ref="per:118213">Avram</name> resp. mit <name type="person" ref="per:133248">Stanciu</name> bereits vorige<lb/>
+Woche geführt hatte. Die gemeinsamen Projekte, die dann <name type="person" ref="per:118308">Manescu</name><lb/>
+auch erwähnte, sehen eine ungeheure Aktivität Österreichs in<lb/>
+Rumänien vor, ohne dass allerdings das Problem der Finanzierung<lb/>
+auch nur annähernd geregelt war. <name type="person" ref="per:118308">Manescu</name> möchte vor allem auch,<lb/>
+dass Österreich mehr maschinelle Anlagen kauft.Derzeit ist es nach<lb/>
+seinen Aufzeichnung 1:100 Maschinenexporte nach Österreich und<lb/>
+35:100 bei Maschinen und Anlagenimporten nach Rumänien. Mit Hilfe<lb/>
+<pb n="32-1052" facs="32_1976-09-27_1052.jpg"/>der Kooperationen in Rumänien aber vor allem auch in Dritt<lb break="no"/>ländern soll jetzt die rumänische Seite instandgesetzt werden,<lb/>
+mehr österreichische Waren zu beziehen. Das Prinzip wäre, dass<lb/>
+wie <name type="person" ref="per:97668">Kreisky</name> dann spezifisch erörterte, Rumänien Anteil von österr.<lb/>
+Aufträgen übernimmt und dadurch seine Zahlungsbilanz verbessert.<lb/>
+Andererseits all Österreich in Drittgeschäfte der Rumänen einsteigen,<lb/>
+wo dann die Rumänen, da Österreich als Zulieferer auftritt, die<lb/>
+Anlage erstellen kann und dann einen Grossteil des Erlöses dem österr.<lb/>
+Clearing überträgt. Den Rumänen schwebt ebenfalls eine Verdoppe<lb break="no"/>lung des Aussenhandelsvolumens innerhalb eines 5-Jahresplanes vor.<lb/>
+Die Rumänen haben mit einigen Firmen insbesondere mit Steyr-Daimler-<lb/>
+Puch konkretere Gespräche geführt. So zumindestens behaupteten<lb/>
+sie und legten auch ein Memorandum vor, wo einige Punkte erwähnt<lb/>
+wurden. Gen.Dir. <name type="person" ref="per:111400">Malzacher</name>, den ich abends dann beim Essen traf,<lb/>
+meinte, sie hätten erst zwei unverbindliche Gespräche geführt,<lb/>
+würden diese aber jetzt in Steyr fortsetzen. <name type="person" ref="per:111400">Malzacher</name> ist daran sehr<lb/>
+interessiert, ähnlich wie mit Polen, einen solchen Kooperationsvertrag<lb/>
+zustandezubringen. Jetzt werden Lastwagen von den entsprechenden<lb/>
+Ländern übernommen, später dann allerdings in hundertprozentiger<lb/>
+Kompensation wieder zurückbezahlt. Was <name type="person" ref="per:111400">Malzacher</name> dann mit diesen<lb/>
+Lieferungen anfangen wird, kann ich mir nicht sehr gut vorstellen.<lb/>
+Momentan allerdings kriegt er eine Entlastung seiner überhöhten<lb/>
+Lager. Die Oststaaten können nämlich sehr wohl jede Menge von<lb/>
+Lastwagen brauchen, besonders dann, wenn sie sie nicht sofort bezahlen<lb/>
+müssen.<lb/>
+</p>
+            <p xml:space="preserve">In die Ministerratsvorbesprechung kam ich wegen der Rumänien-<lb/>
+Verhandlungen mit <name type="person" ref="per:118213">Avram</name> zu spät. Es war von der ganzen Repräsenta<lb break="no"/>tionsdiskussion nur mehr die Frage der Pokale im Gespräch. <name type="person" ref="per:97350">Bielka</name>, der<lb/>
+auch nicht mehr besonders aufmerksam mehr scheinbar zuhörte und den<lb/>
+ich fragte, meinte nur, man hätte beschlossen, in Repräsentations<lb break="no"/>fragen jetzt in Angriff überzugehen und insbesondere die Aufwendungen<lb/>
+der Landeshauptleute herauszustreichen. <name type="person" ref="per:97668">Kreisky</name> hat von seinen<lb/>
+Bürgerversammlungen in der Steiermark wieder eine ganze Reihe von<lb/>
+Problemen gehört und zur Sprache gebracht, die ärztliche Versorgung<lb/>
+ist dort katastrophal und auch die zahnärztliche ist sehr im<lb/>
+Argen. <name type="person" ref="per:107938">Leodolter</name> erwiderte, dass 300 als Praktiker jetzt ausgebildet<lb/>
+werden soll, auch bei den Zahnärzten 130 in<lb/>
+Ausbildung sind und 60 hinzukommen. Wenn man bedenkt, dass dieses<lb/>
+Problem vor Jahrzehnten beschlossen wurde und sich jetzt auszuwirken<lb/>
+<pb n="32-1053" facs="32_1976-09-27_1053.jpg"/>beginnt, so sieht man, wie vorsichtig man bei Massnahmen vorgehen<lb/>
+sollte. Die Ärzte haben ihre Wünsche durchgesetzt, die Regierung hat<lb/>
+akzeptiert, weil man sich das Image eine hochentwickelten durch<lb/>
+Ärzte und nicht Dentisten versorgtes Land geben möchte und in der<lb/>
+Übergangsphase leidet die Bevölkerung. Überhaupt komme ich immer<lb/>
+mehr drauf, dass die Details viel zu wenige beachtet werden.<lb/>
+<name type="person" ref="per:97879">Rösch</name> z.B berichtete über die geheime Sprachenerhebung. Der Verfassungs<lb break="no"/>dienst sagte, das ist eine Angelegenheit der Gemeinden. <name type="person" ref="per:97879">Rösch</name> repli<lb break="no"/>ziert, dann gibt es 21 verschiedene Gemeindewahlordnungen. <name type="person" ref="per:97372">Broda</name><lb/>
+berichtete, dass die Industriellenvereinigung wieder eine Versicherung<lb/>
+die das Sozialministerium für Lohnausfall vorsieht, nicht machen kann,<lb/>
+weil es nicht in das Justizressort fällt und daher auch er weder<lb/>
+dafür noch dagegen sein möchte. <name type="person" ref="per:97356">Blecha</name> hat jetzt von allen europä<lb break="no"/>ischen Staaten Jugenduntersuchungen und festgestellt, dass Jugendliche<lb/>
+zum grössten Teil konservativ wählen. Warum wir dann das<lb/>
+Wahlalter von 19 auf 18 Jahre herabsetzen, was uns nach <name type="person" ref="per:97356">Blechas</name> Meinung<lb/>
+mindestens 1 Mandat kostet, ist mir unerklärlich. In Europa gibt<lb/>
+es nur 3 oder 4 Länder, darunter Schweden, die bereits das Wahlalter auf<lb/>
+18 Jahre gesenkt haben. <name type="person" ref="per:97668">Kreisky</name> meint, man müsste sich mehr um die<lb/>
+Jugend annehmen. Das Zentralsekretariat muss entsprechende Vorschläge<lb/>
+machen. Wenn bei der nächsten Wahl aber statt vier Jahrgänge der Jugendli<lb break="no"/>chen zur Wahl gehen, die mehrheitlich gegen uns sind, wir dann noch einen<lb/>
+5. Jahrgang dazunehmen, wird dies nicht gerade sehr zielführend sein.<lb/>
+Trotz der grössten Aufklärungen und Bemühungen, die Jugend zu gewinnen.<lb/>
+Kritisch wird die Situation auch durch einige Negativ-Massnahmen<lb/>
+gegen die Jugend. Die Gemeinde Wien erwartet, dass die Polizei gegebenen<lb break="no"/>falls die Arena räumt, Dies wird auch einen schlechten Eindruck auf die<lb/>
+Masse der Jugendlichen machen und wahrscheinlich auch gar nicht möglich sei.<lb/>
+Wenn die Polizei auf Aufforderung der Gemeinde Wien einschreiten müsste<lb/>
+wird vorher mir <name type="person" ref="per:97668">Kreisky</name> zu verhandeln sein. Bei alle diesen Diskussionen<lb/>
+bin ich glücklich, dass ich doch verhältnismässig wenig Exekutivarbeit<lb/>
+zu leisten habe. Wenn man von der Elektrizitätswirtschaft absieht,<lb/>
+ist eigentlich sonst kaum in meinem Ressort irgendeine kritische Stelle<lb/>
+solange die Wirtschaft normal läuft, d.h. nicht eine Krisensituation<lb/>
+im spezifischen auftritt. Allerdings muss ich auch festhalten, dass<lb/>
+bei dieser Vielzahl der Kompetenzen eine Exekution auf mehreren Ge<lb break="no"/>bieten gar nicht möglich wäre. In diesem Falle wäre es eben so wie<lb/>
+es früher im Handels- und Bautenministerium gemeinsam gewesen ist, der<lb/>
+Minister kann sich beim besten Willen nicht auch nur annähernd um<lb/>
+die ganzen Fragen kümmern.<lb/>
+</p>
+            <pb n="32-1054" facs="32_1976-09-27_1054.jpg"/>
+            <p xml:space="preserve">Die zwei Essen, mittags Bundespräsident, abends Bundeskanzler,<lb/>
+haben mich in der Auffassung verstärkt, dass wir hier eine<lb/>
+Änderung wirklich vornehmen sollten und könnten. Jetzt im Zuge<lb/>
+der Repräsentationsersparnisse und der Diskussion in der Öffent<lb break="no"/>lichkeit wäre die Gelegenheit, diese sinnlosen Essen einzuschränken.<lb/>
+Alle stöhnen darunter, niemand will sie angeblich und das Proto<lb break="no"/>koll schleppt sie weiter fort, als wenn nichts geschehen wäre<lb/>
+oder nichts geschieht. Der Schah hat beim Staatsbesuch in Iran<lb/>
+sogar schon einen Anfang gemacht. Das Conterdinner – wie es so<lb/>
+schön heisst – ist entfallen. Meiner Meinung nach könnte man inso<lb break="no"/>fern noch weiter gehen, als man bei jedem Staatsbesuch ein<lb/>
+einziges Essen des höchsten Repräsentanten gibt, kein Gegenessen<lb/>
+und damit alle zufrieden wären. Wer wird dies aber durchsetzen?<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:108224">Lütgendorf</name> erklärte mir, er sei sich darüber klar gewesen, dass<lb/>
+früher oder später die Frage des Atommülls bei ihm landen wird.<lb/>
+<name type="person" ref="per:108224">Lütgendorf</name> ist aber der Meinung, dass der Truppenübungsplatz<lb/>
+Allentsteig unter gar keinen Umständen in Frage kommt. Dort hätte<lb/>
+er – wie er sich ausdrückte – oft hunderttausende Soldaten im<lb/>
+Einsatz- Seiner Meinung nach sollte man das Lizum – ein Artillerie<lb break="no"/>übungsplatz im Gebirge – dafür heranziehen. Wir einigten uns darauf,<lb/>
+dass <name type="person" ref="per:108224">Lütgendorf</name> jetzt einen Mann seines Vertrauens zu Sekt.Chef <name type="person" ref="per:107937">Frank</name><lb/>
+schicken wird, damit dieses Problem abgeklärt wird.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="32_1046_01" facs="32_1976-09-27_1046-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 27.9.1976</head>
+         </div>
+         <pb n="32_1046_02" facs="32_1976-09-27_1046-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

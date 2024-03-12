@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstag, der 23. Oktober 1973</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band18_1973-10-23</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1973-10-23">Dienstag, 23. Oktober 1973</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-08-30">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band18/">
+      <body>
+         <pb n="18-1157" facs="18_1973-10-23_1157.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Dienstag, 23. Oktober 1973</p><p xml:space="preserve"><name type="person" ref="per:97543">Heindl</name> hat mit Min.Rat <name type="person" ref="per:112946">Schleifer</name> die zukünftige Tätigkeit von<lb/>
+ihm und seiner Abteilung besprochen. Die Zusammenfassung der<lb/>
+Preiskompetenzen im Handelsministerium gibt ungeheuerliche<lb/>
+Personalschwierigkeiten, sowohl im Handelsministerium als auch<lb/>
+im Landwirtschaftsministerium ja selbst im Verkehrsministerium<lb/>
+gibt es aus der seinerzeitigen Preisregelung eigene Abteilungen<lb/>
+und lang eingesessene Ministerialräte. Diese, dem Innenministerium<lb/>
+Min.Rat <name type="person" ref="per:112051">Singer</name> unterstellen, muss zu ganz grossen Reibungen führen.<lb/>
+<name type="person" ref="per:97584">Jagoda</name> ist als verantwortlicher Sektionschef über diese Situation<lb/>
+auch nicht sehr glücklich. Durch das Herausnehmen von der Preis<lb break="no"/>bestimmung aus der Abteilung <name type="person" ref="per:112946">Schleifer</name> können wir zumindestens bei<lb/>
+uns im Haus die Schwierigkeit umschiffen. <name type="person" ref="per:112946">Schleifer</name> ist einver<lb break="no"/>standen, wenn er die wirtschaftliche Landesverteidigung bekommt.<lb/>
+Andererseits möchte er nicht, dass wir jetzt schon <name type="person" ref="per:125823">Hanisch</name> gegen<lb break="no"/>über erklären, dass dies die neue Konzeption ist. <name type="person" ref="per:125823">Hanisch</name> selbst<lb/>
+rechnet fest mit einer Verlängerung. Da ich dafür einen Ministerrats<lb break="no"/>beschluss bräuchte, denke ich nicht daran einen solchen zu stellen.<lb/>
+<name type="person" ref="per:125823">Hanisch</name> selbst hat auch mir gegenüber noch niemals ein solches Ansin<lb break="no"/>nen gestellt, sondern versucht, alle heute mit ihm zusammenarbeiten<lb break="no"/>den Stellen zu gewinnen, damit diese für eine Verlängerung seines<lb/>
+Vertrages eintreten. <name type="person" ref="per:125823">Hanisch</name> glaubt auch, dass ich an ihn herantreten<lb/>
+müsste. Da die jetzige Situation nach seiner Meinung sehr geeignet<lb/>
+ist. Die Abteilung <name type="person" ref="per:112946">Schleifer</name> wird endgültig die wirtschaftliche<lb/>
+Landesverteidigung und Rohstofflenkung, wie sie <name type="person" ref="per:125823">Hanisch</name> derzeit hat,<lb/>
+mit 1. Jänner 1974 übernehmen. Die legislative Seite der Roh<lb break="no"/>stofflenkung sollte wie bisher bei Min.Rat <name type="person" ref="per:113621">Anreiter</name> bleiben.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">Heindl</name>: Die juristische Seite muss bei <name type="person" ref="per:113621">Anreiter</name> bleiben<lb/>
+damit sie dann zu <name type="person" ref="per:112956">Schwarz</name> früher oder später<lb/>
+kommt.</p><p xml:space="preserve">NR <name type="person" ref="per:97752">Mondl</name> hat mich im Parlament gefragt, ob er in der wirtschaftlichen<lb/>
+Landesverteidigung weitere Besprechungen zwischen <name type="person" ref="per:127586">Tödling</name>, <name type="person" ref="per:97515">Hanreich</name><lb/>
+und mir als Parteiverantwortlicher organisieren soll. Ich habe ihm<lb/>
+sofort bestätigt, dass ich darauf grössten Wert lege, da die Kon<lb break="no"/>tinuität zumindestens unserer Bestrebung, zu einer gemeinsamen<lb/>
+Verteidigungsdoktrin zu kommen, aufrechterhalten werden muss.</p><p xml:space="preserve">Im Klub hat <name type="person" ref="per:97356">Blecha</name> den Initiativantrag wegen der Wehrgesetznovelle<lb/>
+<pb n="18-1158" facs="18_1973-10-23_1158.jpg"/>sehr objektiv vorgetragen. Durch die Aufhebung des Verwaltungs<lb break="no"/>gerichtshofes, dass wenn einer 16 Tage Wehrübung gemacht hat, er<lb/>
+keine Instruktion- und Inspektionsdienst mehr machen kann, würde<lb/>
+die Bereitschaftstruppe zusammenbrechen. Weiters hat sich heraus<lb break="no"/>gestellt, dass der Entschluss dadurch die vier Monate nachdem sie be<lb break="no"/>reits Wehrdienst machen von diesen widerrufen werden kann, dazu ge<lb break="no"/>führt, dass sich viele zuerst als Kraftfahrer alle Führerscheintypen<lb/>
+ausbilden liessen, dies ist nur für Durchdiener vorgesehen, dann nach<lb/>
+drei Monaten den Führerschein bekommen und innerhalb der vier Monate<lb/>
+eben ihren seinerzeitigen Beschluss durchzudienen, widerrufen. Des<lb break="no"/>halb wird diese Revisionsmöglichkeit auf 8 Tage beschränkt. Auch an<lb/>
+diesem Beispiel, das <name type="person" ref="per:97356">Blecha</name>, d.h. eigentlich unsere jungen Abgeordneten<lb/>
+und ehemaligen linken Junge Generation-Leute, die immer gegen die<lb/>
+Wehrprobleme sehr skeptisch ja abgeneigt gewesen sind, zeigt, dass<lb/>
+in der konkreten Arbeit sie letzten Endes auch nichts anderes können<lb/>
+als positive Vorschläge erstatten. Da <name type="person" ref="per:108224">Lütgendorf</name> nicht im Klub ist<lb/>
+und ich während der Erklärung des Finanzministers lange neben ihm auf<lb/>
+der Regierungsbank neben ihm gesessen bin, kamen wir über dieses<lb/>
+Phänomen zu sprechen und <name type="person" ref="per:108224">Lütgendorf</name> meinte, dass die soz. jungen<lb/>
+Abgeordneten sehr positiv mitarbeiten. Für mich ist das nur eine<lb/>
+weitere Bestätigung, dass man in Wirklichkeit nur trachten muss, die<lb/>
+Probleme sachlich mit allen Gruppen zu besprechen, dann kann man in<lb/>
+den meisten Fällen auf eine positive Mitarbeit rechnen. Nur wer bei der<lb/>
+Mitarbeit ausgeschaltet wird, hat Gelegenheit und nützt sie natürlich<lb/>
+auch dann, dagegen Opposition zu machen, ohne Details zu kennen und<lb/>
+Probleme lösen zu müssen.</p><p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> analysierte im Klub die Wahlniederlage in Oberösterreich und<lb/>
+den Wahlsieg in Wien. Auf Grund von IFES-Erhebungen. Dort hat <name type="person" ref="per:97356">Blecha</name> ihm<lb/>
+bereits im September gesagt, dass die Oberösterreicher schlecht liegen<lb/>
+mit 43 % Prognose, wie sich jetzt bestätigt hat, hat die ÖVP damals<lb/>
+auch schon mit 47 % geführt, jetzt sogar auf 48 % erhöht. <name type="person" ref="per:97356">Blecha</name> führt<lb/>
+dies auf die Auseinandersetzung zwischen <name type="person" ref="per:114604">Hillinger</name> und <name type="person" ref="per:125380">Fridl</name> zurück.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> meinte dann ein wenig verbrämt, dass eben der späte Beschluss<lb/>
+der oberösterreichischen Landesregierung dazu beigetragen hat. Er hätte<lb/>
+im letzten Moment in Oberösterreich versucht, dieses Handikap zu be<lb break="no"/>seitigen. Richtig ist, dass <name type="person" ref="per:134509">Demuth</name> knapp vor der Wahlkampagne sein Mandat<lb/>
+zurücklegte. Dass dann eine lange Diskussion war, ob nicht doch <name type="person" ref="per:114936">Hartl</name><lb/>
+sein Nachfolger werden soll, dass man sich dann in einer Kampfabstimmung<lb/>
+für <name type="person" ref="per:125380">Fridl</name> entschieden hat. Weiters aber dann in der Diskussion <name type="person" ref="per:114604">Hillinger</name>,<lb/>
+der zuerst für <name type="person" ref="per:125380">Fridl</name> eingetreten ist, selbst Ambitionen gezeigt hat und<lb/>
+<pb n="18-1159" facs="18_1973-10-23_1159.jpg"/>damit unsere Funktionäre unsicher gemacht hat. Für mich ist es nur<lb/>
+ein weiterer Beweis meiner Behauptung, die ich seit eh und je aufge<lb break="no"/>stellt habe: Ein Streit innerhalb einer Partei kann nur letzten<lb/>
+Endes nicht nur die Funktionäre verunsichern, sondern auch die Wähler<lb/>
+abhalten, diese Partei zu wählen. Die Einheit und Geschlossenheit gerade<lb/>
+einer sozialistischen Partei ist die Voraussetzung um überhaupt zu<lb/>
+einem Wahlerfolg zu gelangen. Etwaige Differenzen dürfen nur in den<lb/>
+kleinsten oberen Gremien ausgetragen werden und keinesfalls in die<lb/>
+Öffentlichkeit dringen.</p><p xml:space="preserve">Die fast über 2 1/2 Stunden dauernde Rede des Finanzministers war<lb/>
+einmal lang. Noch niemals hat ein Finanzminister eine so ausführliche<lb/>
+und ins Detail gehende Budgetrede gehalten. Ich weiss nicht, was <name type="person" ref="per:97311">Androsch</name><lb/>
+dazu veranlasst hat, scheinbar waren seine Propagandisten der Meinung,<lb/>
+er müsste sich hier besonders profilieren. Vielleicht war es auch<lb/>
+eine gewisse Rache, da er bei der letzten Budgetrede in seiner Konzepti<lb break="no"/>on gestört wurde. Damals war eine Sitzung vor der Budgetrede-Sitzung und<lb/>
+die ÖVP hat eine dringliche Anfrage eingebracht, um seine Budgetrede,<lb/>
+wie er glaubte, eben auf den späten Nachmittag zu verschieben. Dies<lb/>
+ist allerdings eine Vermutung von mir denn ich denke nicht daran<lb/>
+über dieses Problem mit jemanden geschweige denn mit ihm zu sprechen.<lb/>
+Auf alle Fälle aber wäre es eine richtige Retourkutsche gewesen, denn<lb/>
+jetzt hat die ÖVP das Interesse gehabt in der zweiten Sitzung über die<lb/>
+Erklärung des Bundeskanzlers zur Geisel-Affäre früher die Diskussion<lb/>
+zu beginnen, damit noch entsprechende viele Redner von ihr in die<lb/>
+Abendberichterstattung und natürlich vor allem einmal in die Zeitungen<lb/>
+zu kommen. Ich habe für diese taktischen Überlegungen nicht sehr viel<lb/>
+Verständnis. Sicherlich ist dies aber darauf zurückzuführen, dass ich<lb/>
+in den seltensten Fällen persönlich an solchen Auseinandersetzungen<lb/>
+engagiert bin. Wenn man die backbencher rückwärts beachtet und<lb/>
+ich selbst bin ja nicht zuletzt deshalb auf meinem uralten Stammsitz<lb/>
+in der letzten Reihe geblieben, so kann man immer wieder erleben,<lb/>
+wie emotionell hier die Probleme nicht nur diskutiert sondern vor<lb/>
+allem einmal auch in Zwischenrufen und Angriffen dokumentiert werden.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> oder <name type="person" ref="per:97356">Blecha</name>, die so etwas genau kennen, ja sogar einkalkulieren<lb/>
+und lenken, sind dabei die geschickten Regisseure, ich habe die<lb/>
+beiden deshalb genannt, weil der eine als Parteiobmann und Bundes<lb break="no"/>kanzler, der andere als IFES-Chef und Soziologe genau wissen, wie<lb/>
+so etwas zustandekommt und wie man eine solche Situation nützen<lb/>
+kann. Natürlich werden sie letzten Endes dann doch irgendwann einmal<lb/>
+<pb n="18-1160" facs="18_1973-10-23_1160.jpg"/>auch persönlich engagierter und sind in einem oder anderen Moment<lb/>
+emotionell geladen und äussern sich dann auch entsprechend. Aber<lb/>
+man kann beobachten, wie schnell sie sich wieder in ihrer Gewalt<lb/>
+haben und da fällt mir immer der Ausspruch <name type="person" ref="per:97668">Kreiskys</name> ein, ich ärgere<lb/>
+mich dann, wenn ich will und nicht wenn die anderen glauben, mich<lb/>
+ärgern zu können.</p><p xml:space="preserve">Der Arbeitsausschuss Preise hat jetzt ein Papier in Arbeit, das eine<lb/>
+gute Grundlage für Verhandlungen mit der ÖVP, d.h. mit der Handelskam<lb break="no"/>mer sein kann. Für mich erschütternd war, wie wenig eigentlich Inter<lb break="no"/>esse von Ökonomen bestehen, die sich mit diesem so wichtigen Problem<lb/>
+beschäftigen sollten. Wir haben seinerzeit bestimmt, dass jeder, der<lb/>
+sich dafür interessiert, von der ökonomischen Konferenz, daran teilnehmen<lb/>
+kann und es ist auf ein halbes Dutzend zusammengeschrumpft, die meistens<lb/>
+aus eigentlich persönlichen Interessenten bestehen. Die Mitarbeit<lb/>
+von entscheidenden Organisationen, die ausser der Arbeiterkammer und<lb/>
+dem ÖGB von diesen Problemen berührt sind, ist eigentlich ausgeblie<lb break="no"/>ben. Nicht dass es mich stört, ich möchte es nur festhalten. Es zeigt<lb/>
+sich für mich auch hier wieder das Phänomen, dass sich nur jemand mit<lb/>
+einem Problem beschäftigt, wenn er unmittelbar davon betroffen ist<lb/>
+und womöglich unter einer unmittelbaren Entscheidung oder Entscheidungs<lb break="no"/>notwendigkeit steht.Ansonsten ist eine so wichtige Frage wie Preise<lb/>
+für ihn nur eine Angelegenheit, die schon die Regierung oder der ÖGB<lb/>
+erledigen werden. Die beiden habe ich jetzt aufgezählt , da sie<lb/>
+entweder die Staatsmacht oder die Sozialpartnerschaft verkörpern.</p><p xml:space="preserve"><name type="person" ref="per:114658">Kahane</name>, der Besitzer von der Zitronensäurefabrik in NÖ möchte von der<lb/>
+Zuckerrohstoffseite zu Weizen überwechseln. Zu diesem Zweck bräuchte<lb/>
+er 35.000 t Futterweizen jährlich, um sie auf Stärkemilch zu verar<lb break="no"/>beiten als Rohausgangsbasis für seine Zitronensäureproduktion. Die<lb/>
+anfallende Stärke soll exportiert werden. Hier wird er natürlich mit<lb/>
+der Gmünder Landwirtschaftlichen Stärkefabrik in Kollision kommen.<lb/>
+Er möchte deshalb nur auf Ministerebene dieses Problem besprechen.<lb/>
+Seinerzeit hat er mit dem Landwirtschaftsminister über Landwirt<lb break="no"/>schaftsprobleme Besprechungen begonnen und ist über die Ministerial<lb break="no"/>bürokratie dann bei einem Getreidehändler, er hat hier <name type="person" ref="per:58381">Mautner</name> und<lb/>
+<name type="person" ref="per:147728">Panny</name> erwähnt, gelandet. Er möchte nicht in diesem Kreis Verhandlungen<lb/>
+führen, da er natürlich dort kaum eine Chance hat, seine Ideen<lb/>
+durchzusetzen. Jetzt fürchtet er, dass die landwirtschaftliche Genossen<lb break="no"/>schaft gegen ihn opponieren wird. Ich habe ihm nur versprochen, dass<lb/>
+<pb n="18-1161" facs="18_1973-10-23_1161.jpg"/>ich mit <name type="person" ref="per:98055">Weihs</name> über dieses Problem reden werde, was ich dann sofort<lb/>
+in der Nationalratssitzung auch am Abend getan habe und <name type="person" ref="per:98055">Weihs</name> ist be<lb break="no"/>reit, ihn zu empfangen und das Problem mit ihm zu besprechen. <name type="person" ref="per:98055">Weihs</name><lb/>
+meint allerdings, dass er ihn finanziell nicht durch Kredite oder<lb/>
+sonstige Aktionen unterstützen könne. <name type="person" ref="per:114658">Kahane</name> ist angeblich fest ent<lb break="no"/>schlossen, auf diese Weizenbasis umzusteigen, da der Weizen mit<lb/>
+2.20 S von ihm noch als höchster Verarbeitspreis akzeptiert werden kann,<lb/>
+er muss allerdings für diese Anlage 80 Mill. S Investitionen vornehmen.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name>: Bitte verständige <name type="person" ref="per:97819">Pleschiutschnig</name> über die Aus<lb break="no"/>sprachen, die ich mit <name type="person" ref="per:114658">Kahane</name> und <name type="person" ref="per:98055">Weihs</name> geführt habe.</p><p xml:space="preserve">Die zweite grosse Sitzung des Finanzministers, <name type="person" ref="per:98034">Veselsky</name> und mir mit<lb/>
+den Banken, Austro-Ferngas, ÖMV, ÖNB usw. hat auch kein endgültiges<lb/>
+Ergebnis gebracht. Das Projekt ist natürlich riesengross und wird<lb/>
+sicherlich an die 7 Mia S betragen. Die Austria-Ferngas versucht<lb/>
+natürlich jetzt so weit wie möglich Bundeshaftung und Zinsenzuschuss<lb/>
+aus Entwicklungshilfe-Geldern zu bekommen. Mit 1.1.1974 würde sie<lb/>
+schon 280 Mill. S benötigen. <name type="person" ref="per:97311">Androsch</name> sagt mit Recht, dafür hat er im jetzt<lb/>
+eben eingebrachten Budget keine Deckung. Auch für die Bundeshaftung müsste<lb/>
+er gesetzliche Regelungen vorsehen. Für die Exportförderung der VÖEST als<lb/>
+Generalunternehmer sind fast 2 Mia S notwendig Bundeshaftung zu bekommen.<lb/>
+Die Banken hoffen auf der anderen Seite, dass für einen ähnlichen gleich<lb/>
+grossen Betrag für die Freikredite ebenfalls Bundeshaftung bekommen.<lb/>
+Gigantische Beträge. Ich weiss nicht, ob <name type="person" ref="per:97311">Androsch</name> mit seiner Idee der<lb/>
+50 %-igen Beteiligung durchdringt. Wenn aber die Länder ausserstande<lb/>
+sind eine Finanzierung resp. Landeshaftung in dem grossen Umfang anbie<lb break="no"/>ten zu können und vor allem das Konsortium, das der Sonatrach gegenüber<lb/>
+steht, entsprechende Bundeshaftung wollen, dann muss ja früher oder<lb/>
+später der Plan <name type="person" ref="per:97668">Kreiskys</name> aufgehen, dass man den Staat an der Austria-<lb/>
+Ferngas beteiligen wird müssen, auch dann wenn die Länder dagegen sind.<lb/>
+<name type="person" ref="per:97496">Gruber</name> selbst meinte, es hätten die LH eine Aussprache mit <name type="person" ref="per:97668">Kreisky</name><lb/>
+<name type="person" ref="per:97311">Androsch</name> und mir gewünscht und er hofft, dass dies bald zustandekommt,<lb/>
+damit die politische Voraussetzung geklärt wird, wie das Geschäft weiter<lb/>
+abgewickelt werden kann. Mit anderen Worten, ob der Bund als Austria-<lb/>
+Ferngas-Teilhaber in Erscheinung treten kann und soll. <name type="person" ref="per:97496">Gruber</name> weist mit<lb/>
+Recht darauf hin, dass noch gar nicht sicher ist, ob das Konsortium<lb/>
+VÖEST-Mannesmann und andere europäische Firmen den Zuschlag für den<lb/>
+Ausbau des Hafens und der sonstigen Anlagen bekommen wird oder ob<lb/>
+nicht die Japaner oder Amerikaner bessere Offerte legen. In diesem<lb/>
+Fall würde die gebundene Kreditfinanzierung sofort entfallen. <name type="person" ref="per:97315">Abfalter</name><lb/>
+<pb n="18-1162" facs="18_1973-10-23_1162.jpg"/>von der VÖEST andererseits hält fest, dass ja das ungünstige Ge<lb break="no"/>schäft so eine schwierige Kalkulation ergibt. Normalerweise schliesst<lb/>
+man nicht 15 – 18-jährige Kreditverträge für Lieferungen von Anlagen mit<lb/>
+6,75 % Zinssatz ab. Trotzdem kamen wir überein, dass der Vertrag, der<lb/>
+Sonatrach mit der Austria-Ferngas über das Konsortium noch immer für die<lb/>
+Energiepreiserstellung der Achtzigerjahre als günstig zu betrachten ist.<lb/>
+<name type="person" ref="per:97311">Androsch</name> hat auch einleitend von der Austria-Ferngas-Vertretung<lb/>
+als auch von der ÖMV und letzten Endes von mir sich bestätigen lassen,<lb/>
+dass wir erstens dieses Gas dringend brauchen und dass zweitens keine<lb/>
+andere Substitutionsmöglichkeit für diese Energie gegeben ist. Da<lb/>
+die Austria-Ferngas-Vertreter auch <name type="person" ref="per:97865">Reisinger</name> uns unbedingt einreden<lb/>
+wollten, dass der Beschluss womöglich schon sofort fallen müsste,<lb/>
+sah ich mich veranlasst, doch darauf hinzuweisen, dass in Wirklichkeit<lb/>
+bereits der Dampfer abgefahren ist. Nachdem die Länder über ihre Ver<lb break="no"/>treter in der Austria-Ferngas den Vertrag im Konsortium mit unter<lb break="no"/>fertigt haben, ist es jetzt nur mehr eine Frage, wer sich aller an<lb/>
+diesem Geschäft beteiligen muss resp. woher eventuelle Stützungsmittel<lb/>
+kommen können. Niemand kann mehr diesen Vertrag zum Scheitern bringen,<lb/>
+resp. die Verantwortung übernehmen, wenn dieser Vertrag scheitern<lb/>
+würde.</p><p xml:space="preserve"/></div>
+      </body>
+      <back>
+         <pb n="18_1156_01" facs="18_1973-10-23_1156-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 23.10.1973</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="18_1156_02" facs="18_1973-10-23_1156-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="18_1162_01" facs="18_1973-10-23_1162-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesordnung 91. Ministerratssitzung, 23.10.1973</head>
+            <gap reason="sampling"/>
+            <pb n="18_1162_02" facs="18_1973-10-23_1162-02.jpg"/>
+            <gap reason="sampling"/>
+         </div>
+         <pb n="18_1162_03" facs="18_1973-10-23_1162-03.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Information des Herrn BM zu TOP 6 (Familienberatungsförderungsgesetz)</head>
+            <gap reason="sampling"/>
+         </div>
+      </back>
+   </text>
+</TEI>

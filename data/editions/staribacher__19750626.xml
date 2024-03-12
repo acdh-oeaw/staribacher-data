@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Donnerstag, der 26. Juni 1975</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band26_1975-06-26</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1975-06-26">Donnerstag, 26. Juni 1975</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-11-27">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="26-0791" facs="26_1975-06-26_0791.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Donnerstag, 26. Juni 1975<lb/>
+</p>
+            <p xml:space="preserve">In der ÖGB-Fraktion sagt mit Obmann der Postarbeiter <name type="person" ref="per:140157">Schweiger</name>, dass<lb/>
+die Altpapieraktion bezüglich der Einsammlung von Telefonbüchern nicht<lb/>
+funktioniert. Jetzt wo sie dies mit den Handelsministerium-Vertretern<lb/>
+zentral geregelt haben, kommt es zu irrsinnigen Kosten für die Post.<lb/>
+Derzeit muss das Telefonbuch im Südbahnhof gelagert werden, dann von<lb/>
+privaten Firmen in die einzelnen Bezirke transportiert und von dort<lb/>
+dann entsprechend verteilt werde. Früher war es disloziert, kam wesent<lb break="no"/>lich billiger die Einsammlung funktioniert jetzt trotzdem nicht.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:113038">REIM</name>: Bitte sich sofort mit <name type="person" ref="per:140157">Schweiger</name> ins Einvernehmen<lb/>
+setzen.<lb/>
+</p>
+            <p xml:space="preserve">Im ÖGB-Bundesvorstand hat <name type="person" ref="per:122974">Altenburger</name> ein längeres Co-Referat gehalten,<lb/>
+d.h. eigentlich nur einen Diskussionsbeitrag zum <name type="person" ref="per:97346">Benya</name>-Referat, als je<lb/>
+zuvor. Dafür stimmte dann die christliche Fraktion für die gemeinsame<lb/>
+Presse-Erklärung, wie jetzt eigentlich die Resolution heisst, die<lb/>
+der Bundesvorstand nach jeder seiner Sitzung beschliesst. Dies ist nach<lb/>
+aussenhin von einer grösseren Bedeutung, weil es immer nur die KPÖ ist,<lb/>
+die gegen die gemeinsamen Erklärungen auftritt. <name type="person" ref="per:122974">Altenburger</name> wendete<lb/>
+sich expressis verbis auch gegen das Handelsministerium und ganz<lb/>
+besonders gegen mich und meinte, dass bei den Preisen nur herumgestochert<lb/>
+wird. Natürlich musste ich mich dann auch nach ihm sofort zu Wort<lb/>
+melden und erklärte unsere Preispolitik. Ganz besonders aber unterstrich<lb/>
+ich, dass das Parlament das Preisgesetz, das ich vor Monaten eingebracht<lb/>
+hatte, abgelehnt hat.<lb/>
+</p>
+            <p xml:space="preserve">Der FPÖ-Delegierte <name type="person" ref="per:113375">Kindl</name> von Semperit, der der Entschliessung zustimmte,<lb/>
+verwies darauf, dass in Gummiwaren jetzt eine harte Konkurrenz ist.<lb/>
+Als Beispiel erwähnte er Gummistiefel, deren Herstellungskosten, also<lb/>
+ohne Gewinn, Semperit 92.– S kosten, während sie Jugoslawien um<lb/>
+45.– S frei Grenze liefert. <name type="person" ref="per:122974">Altenburger</name> wieder beschwerte sich, dass<lb/>
+viele Waren in anderen europäischen Staaten wesentlich billiger sind<lb/>
+als in Österreich, z.B. verwies er auf die Autos.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name>: Die Arbeiterkammer und der ÖGB hatten seinerzeit<lb/>
+eine Zusammenstellung von Markenartikeln in den verschiedensten Ländern<lb/>
+gemacht. Eine solche wäre jetzt sehr interessant, ohne die Öffentlich<lb break="no"/>keit sofort davon zu informieren.<lb/>
+</p>
+            <pb n="26-0792" facs="26_1975-06-26_0792.jpg"/>
+            <p xml:space="preserve">Der iranische Botschafter <name type="person" ref="per:114913">Namdar</name> kam wegen des Besuches seines<lb/>
+Ministers- Bei dieser Gelegenheit fragte er sofort, ob wir mit den<lb/>
+Ägyptern – <name type="person" ref="per:140592">Osman</name> – auch die Bezahlung der ägyptischen Projekte be<lb break="no"/>sprochen hatten. Insbesondere wollte er wissen, wieweit Iran ver<lb break="no"/>pflichtet wurde. Ich erklärte ihm sofort, dass ich dazu keine wie<lb/>
+immer geartete Ermächtigung von Seiten der Iranischen Minister oder<lb/>
+auch des Schah gehabt hätte. Der Schah hat seinerzeit nur gegenüber<lb/>
+<name type="person" ref="per:97668">Kreisky</name> und mir erklärt, dass sich Iran, wenn die Projekte von Ägypten<lb/>
+gewünscht werden und Österreich sie durchführen kann, Iran finanzieren<lb/>
+könnte. Ich übergab dem Botschafter daher sofort das gemeinsam er<lb break="no"/>arbeitete Kommunique und verwies darauf, dass ich mit dem iranischen<lb/>
+Handelsminister die entsprechenden Detailgespräche führen werde.<lb/>
+Mir ist vollkommen klar, dass ohne die iranische Finanzierung nur ein<lb/>
+Teil dieser Projekte zustandekommen könnte. <name type="person" ref="per:114913">Namdar</name> war sehr einver<lb break="no"/>standen, dass ich das Programm durch entsprechenden Einsatz meiner Per<lb break="no"/>son nicht nur anreichere, sondern auch deutlich zu erkennen gab, welche<lb/>
+Bedeutung ich diesem Besuch beimesse.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97377">BUKOWSKI</name>: Sonntag abends sollten wir in kleinstem Kreis<lb/>
+in Donauturm-Restaurant sicherlich als Attraktion zu Abend essen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:114913">Namdar</name> intervenierte auch dann für 5 Perser, die grössere Strafen zu<lb/>
+erwarten haben, einer befindet sich noch in Haft, weil ihre Bücher<lb/>
+nicht in Ordnung waren. Er ersuchte, ich sollte diesbezüglich mit<lb/>
+<name type="person" ref="per:97311">Androsch</name> sprechen. Er verbürge sich, dass es nie mehr vorkommen würde,<lb/>
+andererseits aber seine vorgesetzte Stelle eine Intervention für diese<lb/>
+5 ganz entschieden ablehnt. Ich versprach nur mit <name type="person" ref="per:97311">Androsch</name> über dieses<lb/>
+Problem zu sprechen. Min.Rat <name type="person" ref="per:97426">Fälbl</name> sagte mir anschliessend, dass<lb/>
+es sich dabei um eine ganz grosse Affäre und Steuerhinterziehung handelt.<lb/>
+</p>
+            <p xml:space="preserve">In der Sektionsleitersitzung brachte ich den Vorwurf von <name type="person" ref="per:110981">Pelzl</name> zur<lb/>
+Sprache, dass wenn er nicht in Amerika an der Tagung der Sicherheits<lb break="no"/>institute teilnehmen kann, für den österreichischen Bergbau die gröss<lb break="no"/>te Gefahr wegen nicht zeitgemässer Sicherung der dort Beschäftigten<lb/>
+ausgesetzt wäre. Ich unterstrich die Bedeutung der Sicherheit, die ich<lb/>
+immer wieder zum Ausdruck gebracht habe, erklärte mich aber auser<lb break="no"/>stande zu entscheiden, ob tatsächlich ein solcher ursächlicher Zu<lb break="no"/>sammenhang besteht. Leiter der OB <name type="person" ref="per:97467">Gasser</name> erklärte dies für einen Unsinn.<lb/>
+Min.Rat <name type="person" ref="per:97801">Ottahal</name> wieder ergänzte, dass die Ausgaben für die Auslands<lb break="no"/>reisen wesentlich reduziert werden müssen. Das Präsidium bei uns hat<lb/>
+<pb n="26-0793" facs="26_1975-06-26_0793.jpg"/>angenommen, dass von der Budgetsumme 3/4 nur verbraucht werden<lb/>
+dürfen. Das Bundeskanzleramt hat aber in einem Rundschreiben jetzt fest<lb break="no"/>gehalten, dass auf Grund des Rechnungsabschlusses jetzt 1974 nur<lb/>
+3/4 verbraucht werden dürfen. Da ich zur Wirtschaftskonferenz musste,<lb/>
+konnten wir die Sektionsleitersitzung in 1 1/4 Stunden abwickeln,<lb/>
+sonst brauchen wir manchmal bis zu 3 Stunden.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98053">WANKE</name>: Hier müssten wir in Zukunft eine bessere Form<lb/>
+der Straffung durch entsprechende Protokollvorbereitung erreichen.<lb/>
+</p>
+            <p xml:space="preserve">Die Wirtschaftskonferenz verlief eigentlich ganz anders, als ich be<lb break="no"/>fürchtete. <name type="person" ref="per:97668">Kreisky</name> sprach 20 Minuten, <name type="person" ref="per:97346">Benya</name> nur 10, <name type="person" ref="per:97311">Androsch</name> 30 und<lb/>
+ich habe, obwohl ich sehr schnell redete, 20 Minuten gebraucht. Die Dis<lb break="no"/>kussion war ungebührlich diszipliniert, ein einziger von der Gewerk<lb break="no"/>schaftlichen Einheit, <name type="person" ref="per:140637">Stern</name>, Betriebsrat bei Görz, sprach von einer<lb/>
+anderen Fraktion. Die anderen Diskussionsredner kannte ich nicht alle,<lb/>
+doch waren sie scheinbar alle von der SPÖ. Ich hatte ursprünglich<lb/>
+eine riesige Angst, dass eine solche überparteiliche Betriebsräte<lb break="no"/>veranstaltung so wie die vor etlichen Jahrzehnten üblichen Konferenzen<lb/>
+des ÖGB zu harten Auseinandersetzungen führen werde. Da der ÖAAB aber<lb/>
+erklärte, nicht an der Konferenz teilzunehmen, verlief diese Konferenz<lb/>
+äusserst friedlich. Die christlichen Gewerkschafter hatten ein Rundschrei<lb break="no"/>ben an ihre Landesleitungen geschickt, unterschrieben von <name type="person" ref="per:137471">Wedenig</name>, wo<lb/>
+diese aufgefordert wurden, nur gut präparierte Delegierte zu schicken.<lb/>
+Scheinbar hat aber nachher der ÖAAB selbst diese eingeschränkte Dele<lb break="no"/>gation nicht durchgeführt. Selbst wenn <name type="person" ref="per:97668">Kreisky</name>, der diese Betriebsräte<lb break="no"/>konferenz angeregt hat, die Absicht hatte, eine Wahlplattform damit zu<lb/>
+bekommen und Wahlpropaganda zu betreiben, so verstehe ich nicht, dass<lb/>
+der ÖAAB und vor allem einmal die KPÖ nicht die Gelegenheit nutze,<lb/>
+dort entsprechend in Erscheinung zu treten. Ich kann mir nicht vorstel<lb break="no"/>len, dass wir in der Vergangenheit als wie in Opposition waren ja selbst<lb/>
+in der Koalitionszeit eine solche Chance des Gegners ausgelassen hätten.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="26_0790_01" facs="26_1975-06-26_0790-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 26.6.1975</head>
+         </div>
+         <pb n="26_0790_02" facs="26_1975-06-26_0790-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

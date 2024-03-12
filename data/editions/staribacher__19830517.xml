@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstag, der 17. Mai 1983</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band70_1983-05-17</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1983-05-17">Dienstag, 17. Mai 1983</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-12-18">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="70-0618" facs="70_1983-05-17_0618.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Dienstag, 17. Mai 1983<lb/>
+</p>
+            <p xml:space="preserve">Der Präs. der ungar. HK, <name type="person" ref="per:116360">Kallos</name>, und der GD v.d. Metallimpex, Dr. <name type="person" ref="per:146465">Russay</name>,<lb/>
+kamen nach Wien, um von mir die Orden persönlich überreicht zu bekommen.<lb/>
+Überrascht war ich, daß auch Präs. <name type="person" ref="per:97893">Sallinger</name>, GSekr. <name type="person" ref="per:112978">Kehrer</name> und noch ein<lb/>
+halbes Dutzend von HK-Funktionären und Beamten gekommen sind.<lb/>
+</p>
+            <p xml:space="preserve">Sts. <name type="person" ref="per:109808">Albrecht</name> hatte mit <name type="person" ref="per:97893">Sallinger</name> bei dieser Gelegenheit, die ja für mich<lb/>
+so wertvolles Familientratscherl<add> [ist? ]</add>, wie sie mir nachher sagte, hatte <name type="person" ref="per:97893">Sallin<lb break="no"/>ger</name> sie gebeten, sie möge unbedingt darauf drängen, daß wir uns bei ihm<lb/>
+sozusagen zur Verabschiedung in absehbarer Zeit treffen müßten.<lb/>
+</p>
+            <p xml:space="preserve">GSekr. <name type="person" ref="per:112978">Kehrer</name>, mit dem ich längere Zeit wegen dem Ausbau einer Exportagen<lb break="no"/>tur für Klein- u. Mittelbetriebe neuerdings diskutierte, glaubt, daß sie<lb/>
+mit der Unterstützung von Einzelbetrieben, die einem Exportring angehören<lb/>
+oder beauftragen, wie z.B. i.d. Stmk., genug tun. Er teilte mir zwar mit,<lb/>
+daß jetzt der Präsident der steir. HK, <name type="person" ref="per:151828">Kaufmann</name>, mit Präs. <name type="person" ref="per:97893">Sallinger</name> eine<lb/>
+diesbezügliche Aussprache auch haben wird. Dieser Aussprache möchte<lb/>
+er nicht vorgreifen, aber ich habe den Eindruck, die HK macht nach wie<lb/>
+vor hinhaltenden Widerstand.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR SC <name type="person" ref="per:108322">MEISL</name> UND <name type="person" ref="per:108746">HAFFNER</name>: Diese Taktik besonders beachten, da<lb/>
+sie sicherlich schiefgehen wird.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:122020">Giuli</name> war einer der wenigen, dem ich angeblich sehr viel geholfen habe<lb/>
+und der sich unbedingt bei mir verabschieden wollte. Wenn dann bei solchen<lb/>
+Aussprachen die Betreffenden aufzählen, was ich alles für sie getan habe,<lb/>
+wundere ich mich persönlich jetzt im Nachhinein, daß mir dies eigentlich<lb/>
+früher gar nicht so aufgefallen ist.<lb/>
+</p>
+            <p xml:space="preserve">Die Ministerratssitzung begann diesmal sofort und es war gar keine Vorbe<lb break="no"/>sprechung. <name type="person" ref="per:97668">Kreisky</name> meinte, die einzige Frage<del>, die</del> <corr>[war]</corr> dann <del>doch</del> <corr>[noch,]</corr> wer bei dem<lb/>
+Sudetendt. Tag diesmal teilnimmt. <name type="person" ref="per:113083">Sinowatz</name> war das letzte Mal, jetzt wurde<lb/>
+von ihm vorgeschlagen, daß Sts. <name type="person" ref="per:112992">Löschnak</name> gehen soll.<lb/>
+</p>
+            <p xml:space="preserve">Im MR berichtete dann <name type="person" ref="per:111740">Dallinger</name> über die Arbeitsmarktsituation, 120.000<lb/>
+Arbeitslose Mitte Mai, d.s. 4,3 %. Die Abnahme erfolgte 2 x so rasch in<lb/>
+absoluten Ziffern als Mitte Mai des Vorjahres. Auch die Jugendarbeitslosig<lb break="no"/>keit bis 25 Jahre hat jetzt nur mehr 4,3 %. Im Jahresschnitt rechnet <name type="person" ref="per:111740">Dallin<lb break="no"/>ger</name>, daß wir mit einer Arbeitslosenrate von 4,5 % durchkommen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> ergriff dann wie er sagt in der letzten Sitzung noch einmal das<lb/>
+Wort. Er wird dem Bundespräsidenten jetzt Mitteilung machen, daß die Ge<lb break="no"/><pb n="70-0619" facs="70_1983-05-17_0619.jpg"/>spräche abgeschlossen sind und daß er <name type="person" ref="per:113083">Sinowatz</name> mit der Regierungsbildung<lb/>
+betrauen soll. Der Parteitag wird das letzten Endes zu bestätigen haben.<lb/>
+Er wird Freitag wegfahren, möchte allen Mitgliedern der Bundesregierung<lb/>
+für die 13 Jahre aufrichtig danken. Es wurden große Reformen verwirklicht<lb/>
+auf allen Gebieten. Er möchte nicht pathetische Worte sagen, die ja viel<lb/>
+weniger Sinn geben, als die Tatsachen. Die 1. sozialdemokratische Re<lb break="no"/>gierung in der Rep. Ö. hat in dieser Zeit Österreich von Grund auf verän<lb break="no"/>dert. Am Parteitag wird er nur kurz berichten. Für ihn ist es eine große<lb/>
+Erleichterung, daß die Gewähr besteht, daß die Politik fortgesetzt werden<lb/>
+wird. Er möchte das hohe Maß der Zusammenarbeit und ganz besonders die<lb/>
+Geduld, die alle für ihn aufgebracht haben, neu herausstreichen. Alle<lb/>
+wurden nicht zuletzt durch ihn optimal gefordert. Noch niemals hat es<lb/>
+vorher einen solchen Geist der Freundschaft in der Regierung gegeben und<lb/>
+er kennt Regierungen jetzt schon in allen Schattierungen und jahrzehnte<lb break="no"/>lang.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:113083">Sinowatz</name> erwiderte dann, seit 45 die provisorische Staatsregierung gebil<lb break="no"/>det wurde, sind 38 Jahre vergangen, 1/3 von dieser Zeit hat <name type="person" ref="per:97668">Kreisky</name> die<lb/>
+Politik gestaltet. Es war eine lange Dauer der Arbeit für Österreich, wo<lb break="no"/>zu erst niemand an die Lebensfähigkeit Österreichs geglaubt hat. Alle<lb/>
+haben sehr viel von <name type="person" ref="per:97668">Kreisky</name> gelernt, insbesondere Gesinnungsstärke und<lb/>
+Selbständigkeit des Denkens. Jeder konnte selbstständige gute Arbeit un<lb break="no"/>ter seiner Führung leisten. <name type="person" ref="per:113083">Sinowatz</name> bedankte sich dann auch <choice><choice><sic>an alle</sic><corr>bei allen</corr></choice></choice>.<lb/>
+Niemand <add>[von der ersten Stunde]</add> <del>mehr</del> wird dann <add>[mehr]</add> in der neuen Regierung sein <del>von der ersten Stunde an</del>,<lb/>
+die neue Regierung wird viele Schwierigkeiten haben und alles wird an<lb break="no"/>ders sein. Die Freundschaft aber möchte er besonders herausstreichen.<lb/>
+</p>
+            <p xml:space="preserve">Beim Bundesparteitag berichtete dann <name type="person" ref="per:97668">Kreisky</name> wie erwartet doch nicht so<lb/>
+kurz. Zuerst, daß man die Wahlergebnisse, die ja in Gemeinden und Ländern<lb/>
+so verschieden sind, genau analysieren müsse. Dies höre ich immer nach<lb/>
+jeder Wahl. Die Analysen von IFES liegen jetzt längst vor. Im Detail be<lb break="no"/>schäftigt sich aber im Grunde genommen dann keine Körperschaft mehr damit.<lb/>
+Vielleicht geschieht dies in kleinsten Kreisen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> ging dann auf die Verhandlungen im Prinzip mit der ÖVP und FPÖ ein<lb/>
+<choice><choice><sic>Die</sic><corr>Mit der</corr></choice></choice> VP mit ihrer populistischen Politik, vor der <name type="person" ref="per:97668">Kreisky</name> sie lange vor<lb/>
+der Wahl schon gewarnt hat, <add>[habe es]</add> keine Gesprächsbasis mehr gegeben. Ausschlag<lb break="no"/>gebend war dann auch das Schlagwort Regierung der Partnerschaft, die auch<lb/>
+zu keinem Ergebnis geführt hätte, da die ÖVP-NR so wie bis jetzt argumen<lb break="no"/>tieren und handeln wollten.<lb/>
+</p>
+            <p xml:space="preserve">Mit den Freiheitlichen hatte <name type="person" ref="per:97668">Kreisky</name> natürlich schon immer Vorgespräche<lb/>
+geführt, sie seien in der Regierung unerfahren und müssen einen harten<lb/>
+<pb n="70-0620" facs="70_1983-05-17_0620.jpg"/>Lernprozeß durchmachen.<lb/>
+</p>
+            <p xml:space="preserve">Die Sozialpartner seien zwar nicht gesetzlich fundiert, aber garantieren<lb/>
+einen Interessensausgleich. Die der VP-Angehörigen beklagen sich<lb/>
+ständig, daß sie sich innerhalb ihrer Partei nicht durchsetzen können.<lb/>
+</p>
+            <p xml:space="preserve">Eigentlich hat <name type="person" ref="per:97668">Kreisky</name> nichts besonders Neues gesagt. Interessant war nur<lb/>
+die Art, wie er es jetzt darstellt. Noch interessanter und nicht nur für<lb/>
+den Parteitag und auch für mich beeindruckend war, daß, als er erwähnte,<lb/>
+jetzt 50 Jahre in der Politik für diese Partei zu arbeiten und von dieser<lb/>
+Partei das entsprechende Vertrauen gehabt zu haben, er fast in Tränen<lb/>
+ausgebrochen ist und daher nicht mehr weitersprechen konnte. Dies hatte<lb/>
+ich bei <name type="person" ref="per:97668">Kreisky</name>, den ich ja jahrzehntelang jetzt kenne, noch nie erlebt.<lb/>
+Spurlos geht auch bei einem so kalten oder zumindest nach außen hin kal<lb break="no"/>ten Politiker dieses Ereignis, nämlich Abschied zu nehmen von der Politik,<lb/>
+auch nicht vorüber.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:113083">Sinowatz</name> hielt dann auch das Hauptreferat und hat dies sehr gut aufgebaut<lb/>
+und auch gehalten. Die Argumentation der ÖVP, die große Koalition hätte<lb/>
+eine größere Quanität von Abgeordneten gehabt, sagt er, ist zu wenig, auf<lb/>
+die qualitative Einstellung kommt es an. Die Regierung muß manövrier<lb break="no"/>fähig sein und entscheidungsfähig bleiben. Die VP wollte, daß wir, für<lb/>
+ihn ganz klar, bei den Verhandlungen eigentlich nur den Wahlkampf fort<lb break="no"/>setzen, es ging sogar so weit bis zur Phraseologie. Daß die Regierung von<lb/>
+Sozialisten gebildet werden muß, ergibt sich schon daraus, daß wir jetzt<lb/>
+nicht nur die stärkste Partei sind, sondern mit 48 % im Verhältnis zu<lb/>
+den Schweden, die mit 45, zu den Konservativen in Großbritannien, die mit<lb/>
+44, und der <choice><choice><sic>christl.-demokratia</sic><corr>Democrazia Cristiana</corr></choice></choice> mit Italien mit 38 % die Regierung bilden<lb/>
+und die Verantwortung übernehmen.<lb/>
+</p>
+            <p xml:space="preserve"><choice><choice><sic>Drei</sic><corr>Über drei?</corr></choice></choice> große Bereiche, berichtet er dann kurz, <add>[sei?]</add> bei den Verhandlungen <add>[eine Einigung?]</add> erzielt<lb/>
+worden, 1. die Grundsätze der Zusammenarbeit im Parlament, in der Regierung<lb/>
+für die nächsten 4 Jahre, 2. dann über die einzelnen Sachgebiete, 3. dann<lb/>
+über die Ressortaufteilung. Bei dieser Gelegenheit verwies dann <name type="person" ref="per:113083">Sinowatz</name><add> [darauf]</add>,<lb/>
+daß <name type="person" ref="per:97807">Peter</name> jetzt aus freien Stücken auf eine Kandidatur zum 3. Präsidenten<lb/>
+des NR verzichtet hat.<lb/>
+</p>
+            <p xml:space="preserve">Zum Schluß kam <name type="person" ref="per:113083">Sinowatz</name> dann auf die neue Regierung, der keiner der ersten<lb/>
+Stunde mehr angehören wird und auch keiner, der die 1. Mehrheitsregierung<lb/>
+1971 gebildet hat. Er verlangt ein ganzheitliches Denken in der Politik<lb/>
+und es war immer schon soz. Politik Wirtschaftswachstum, Technik und<lb/>
+Lebensqualität und Lebensraum gegenseitig abzustimmen. Er meinte, <choice><choice><sic>seine</sic><corr>es sei eine?</corr></choice></choice><lb/>
+neue Partnerschaft der Generationen notwendig. Eine Verbindung zwischen<lb/>
+<pb n="70-0621" facs="70_1983-05-17_0621.jpg"/>Theorie und Praxis. Ideenutopien seien notwendig. Unter Pragmatik ver<lb break="no"/>steht er eben nichts anderes als Suchen nach praktikablen Lösungen. Beson<lb break="no"/>ders strich er dann die Solidarität innerhalb der Soz. Partei heraus, die<lb/>
+noch wachsen muß. Es müßte eine bewußte Solidarität gemacht <add>[werden]</add> und dürfe<lb/>
+nicht nur Schlagwort und Denkmalpflege sein. Unter dieser Solidarität<lb/>
+müsse sich dann jeder unterordnen und er wird in Hinkunft darauf drängen.<lb/>
+Er erhielt dafür vom Parteitag einen frenetischen Beifall.<lb/>
+</p>
+            <p xml:space="preserve">Über die beiden Referate gab es dann stundenlange Diskussionen; wie zu<lb/>
+erwarten, haben sich die Junge Generation und die SJ gegen die Regierungs<lb break="no"/>beteiligung ausgesprochen und wollten, daß wir unbedingt in die Opposition<lb/>
+gehen und waren nicht bereit davon abzugeben. Ich glaube ja, daß es über<lb break="no"/>haupt scheinbar in der Partei jetzt üblich ist, daß wenn irgendwo ein<lb/>
+Problem auftaucht, zuerst, bevor dieses Problem in den Gremien besprochen<lb/>
+werden kann, in den Massenmedien dargestellt, die Stellungnahmen von<lb/>
+einzelnen, oft dafür gar nicht Zuständigen verlangt werden und abgegeben<lb/>
+werden und dann eine gewisse Gruppe sich präjudiziert hat. Der Parteitag<lb/>
+war sichtlich erleichtert, daß es keine heftige Diskussion mehr wegen<lb/>
+der Kandidatur <name type="person" ref="per:97807">Peters</name> zum 3. NR-Präsidenten geben wird, obwohl natürlich<lb/>
+alle, die es sich vorgenommen haben, dagegen zu polemisieren, es trotz<lb break="no"/>dem eben ein wenig <choice><choice><sic>gewandelt</sic><corr>?</corr></choice></choice> haben. Bei der Abstimmung kam es dann, wie<lb/>
+zu erwarten, zu einer überwältigenden Bestätigung der Politik in Form<lb/>
+der Resolution des Parteivorstandes an den Parteitag, 18 Stimmen von <add>[der]</add><lb/>
+Jungen Generation und SJ-Leuten waren dagegen. Man kann sagen, diese<lb/>
+blau-rote Koalition war damit bestätigt.<lb/>
+</p>
+            <p xml:space="preserve">Mit Präs. <name type="person" ref="per:97757">Mühlbacher</name> besprach ich die gewünschten KR der Statistik des<lb/>
+Außenhandels. <name type="person" ref="per:97757">Mühlbacher</name> hat mir vier als notwendig bezeichnet und mein<lb break="no"/>te mit recht, man könne alle anderen auf alle Fälle zurückstellen.<lb/>
+</p>
+            <p xml:space="preserve">Bei dieser Gelegenheit habe ich mich mit <name type="person" ref="per:97757">Mühlbacher</name> lange und breit un<lb break="no"/>terhalten, wie er jetzt in der BuKa seine Position als Freier Writschafts<lb break="no"/>verband wird halten können. Er fürchtet, daß die Freiheitlichen jetzt doch<lb/>
+durch den Handelsminister <name type="person" ref="per:122970">Steger</name> stärkeren Einfluß bekommen können.<lb/>
+<name type="person" ref="per:97893">Sallinger</name> macht sich zwar jetzt sehr stark, aber es ist sehr fraglich,<lb/>
+ob er diese ablehnende Haltung durchhält. Ich persönlich glaube, und <name type="person" ref="per:97757">Mühl<lb break="no"/>bacher</name> hat mir dies auch bestätigt, daß <name type="person" ref="per:97893">Sallinger</name> früher oder später es<lb/>
+sich mit den Freiheitlichen regeln wird. Damit besteht die große Gefahr,<lb/>
+daß die Freiheitlichen dann als neue Gruppe dann auch bei den HK-Wahlen<lb/>
+selbständig auftreten. Jetzt sind sie ja meistens in einer Wahlgemein<lb break="no"/>schaft mit dem Wirtschaftsbund und <add>[können]</add> dadurch dann den Freien Wirtschafts<lb break="no"/>verband stimmenmäßig überflügeln.<lb/>
+</p>
+            <pb n="70-0622" facs="70_1983-05-17_0622.jpg"/>
+            <p xml:space="preserve">Mit <name type="person" ref="per:114075">Erich Schmidt</name> besprach ich zum ersten Mal, wie er sich im Haus die<lb/>
+weitere Arbeit vorstellt. Er glaubt, daß <name type="person" ref="per:122970">Steger</name> ihm weitestgehend freie<lb/>
+Hand geben wird und er ziemlich die Politik nicht nur beeinflussen, son<lb break="no"/>dern sogar machen kann. Er befürchtete, daß ich die von der Energiesek<lb break="no"/>tion mir z.B. mir übergebenen Probleme alle dem <name type="person" ref="per:122970">Steger</name> mitteilen werde.<lb/>
+Ich erklärte sofort, daß ich keinesfalls daran denke, aber doch wichtige<lb/>
+Entscheidungen, die jetzt anstehen, ihm zur Kenntnis bringen werde. Ich<lb/>
+habe mir vorgestellt, daß es bei jeder Sektion ein bis zwei Fragen sind,<lb/>
+die jetzt zu entscheiden wären, z.B. Donaukraftwerk Hainburg, Kernkraft<lb break="no"/>werk Zwentendorf, Getreide-, Milch- und Heizöl-extra-leicht-Preisbildung,<lb/>
+Lehrlingsausbildung im Sozialministerium, die Reisen, die für den Mini<lb break="no"/>ster in nächster Zeit anstehen, die Frage der Pölser Papierfabrik, um nur<lb/>
+die wichtigsten zu nennen. <name type="person" ref="per:114075">Schmidt</name> ersuchte mich, wir sollten Donnerstag<lb/>
+um 8.30 Uhr ein diesbezügliches Gespräch im HGI führen, womit ich sofort<lb/>
+einverstanden war.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte Termin vormerken.<lb/>
+</p>
+            <p xml:space="preserve">Unser neuer Bezirksvorsteher <name type="person" ref="per:1138597">Bergen</name> hat mit dem alten, aber vor allem mal<lb/>
+auch mit dem Klub seine Ideen besprochen. Eine Aussprache mit <name type="person" ref="per:144759">Reviczky</name>,<lb/>
+unserem derzeitigen Bezirksvorsteher, erscheint dringend notwendig, wes<lb break="no"/>halb wir für 10 Uhr mit dem Präsidium im HGI einen Termin vereinbart haben<lb/>
+und ich beabsichtige Donnerstag um 16 Uhr zu den Bezirksmandataren auch<lb/>
+zu gehen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:125291">MARTIN</name>: Bitte diese beiden Termine vormerken.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="70_0617_01" facs="70_1983-05-17_0617-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 17.5.1983</head>
+         </div>
+         <pb n="70_0622_01" facs="70_1983-05-17_0622-01.jpg"/>
+         <pb n="70_0622_02" facs="70_1983-05-17_0622-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesordnung 177. Ministerratssitzung, 17.5.1983</head>
+         </div>
+         <pb n="70_0622_03" facs="70_1983-05-17_0622-03.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Nachtrag TO 177. Ministerratssitzung, 17.5.1983</head>
+         </div>
+         <pb n="70_0622_04" facs="70_1983-05-17_0622-04.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>hs. Notizen (Nachtrag TO MR-Sitzung Rückseite)</head>
+         </div>
+         <pb n="70_0622_05" facs="70_1983-05-17_0622-05.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Antrag SPÖ-Bauern Bundesparteitag 1983</head>
+         </div>
+         <pb n="70_0622_06" facs="70_1983-05-17_0622-06.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>hs. Notizen (Antrag SPÖ-Bauern Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

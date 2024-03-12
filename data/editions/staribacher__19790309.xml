@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der  9. März 1979</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band47_1979-03-09</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1979-03-09">Freitag, 9. März 1979</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-07-18">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="47-0307" facs="47_1979-03-09_0307.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Freitag, 9. März 1979<lb/>
+</p>
+            <p xml:space="preserve">General <name type="person" ref="per:119825">Etoile</name>, mit GD vom französischen Flugzeugwerk Dassault,<lb/>
+ist mit seinem Österreichvertreter <name type="person" ref="per:123336">Saar-Demichel</name> erschienen,<lb/>
+um mir umständlich eine Stunde lang nur eines klarzumachen,<lb/>
+nach Auffassung dieser Firma sei Österreich ver<lb break="no"/>pflichtet, ihre Abfangjäger zu kaufen, da sie den Kürassier<lb/>
+für Steyr-Daimler-Puch seit 71 vertreiben. Für <del>Libyen</del>, Tunesien,<lb/>
+Marokko, jetzt auch in Saudi-Arabien für Somaliland, Jemen, den<lb/>
+Libanon sollen die Verhandlungen am 24. März beginnen, den Kürassier<lb/>
+zu vertreiben. Steyr-Daimler-Puch hat dafür 3,6 Mia. S jährlich<lb/>
+liefern können. Für das Saudi-Geschäft und Thailand und Kolumbien<lb/>
+sollen jetzt 3 Mia. dazukommen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte mit Steyr-Daimler-Puch checken.<lb/>
+</p>
+            <p xml:space="preserve">Wenn das Flugzeuggeschäft zustandekommt, würden sie dann Ranshofen<lb/>
+Aluminium, dicke Bleche für die Luftfahrt in mehreren hundert Tonnen<lb/>
+bestellen. Ausserdem sollen Nahrungsmittel für 15 Mio. ffrs. gekauft<lb/>
+werden. Zuletzt wird <name type="person" ref="per:123336">Saar-Demichel</name> auf dessen Schreibtisch an<lb break="no"/>geblich das indonesische Papierprojekt liegt und an dem die<lb/>
+VÖEST besonders interessiert ist, dieses Projekt grösstenteils<lb/>
+nach Österreich vergeben. Die Flugzeugfabrik Dassault wird sich ausser<lb break="no"/>dem am Österreich-Haus in Paris, das ebenfalls <name type="person" ref="per:123336">Saar-Demichel</name><lb/>
+errichten möchte, beteiligen. Meine konkrete Antwort auf diese<lb/>
+in Wirklichkeit ja nur Andeutungen war, zuerst muss Minister <name type="person" ref="per:97879">Rösch</name><lb/>
+entscheiden, ob er Flugzeuge und welche Flugzeuge er kauft.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Frag bei <name type="person" ref="per:97879">Rösch</name> im Ministerbüro, wie es<lb/>
+dort ausgegangen ist.<lb/>
+</p>
+            <p xml:space="preserve">Ein gewisser Prof. <name type="person" ref="per:150221">Coogan</name> wird 50 Politiker in Österreich inter<lb break="no"/>viewen über die Willensbildung, Gesetzwerdung, die politischen<lb/>
+Verhältnisse in Österreich zu untersuchen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Bitte versuch das Ergebnis zu bekommen.<lb/>
+</p>
+            <p xml:space="preserve">Das Pressegespräch mit dem Energiesparbeirat war verhältnismässig<lb/>
+schlecht besucht. Erstens war es zu früh – 9.45 Uhr – zweitens<lb/>
+fiel es eben ausser unseren üblichen Rahmen. Prof. <name type="person" ref="per:97762">Musil</name> berichtete<lb/>
+über die Tätigkeit der Arbeitsausschüsse und Sekt.Chef <name type="person" ref="per:107937">Frank</name><lb/>
+<pb n="47-0308" facs="47_1979-03-09_0308.jpg"/>dann über die Konsequenzen, die das Handelsministerium gezogen hat.<lb/>
+Der langen Reden im wahrsten Sinne des Wortes kurzer Sinn: Es<lb/>
+geschieht einiges. In der Diskussion waren die Redakteure aber<lb/>
+nur daran interessiert zu erfahren, was geschieht zur 5 %-igen<lb/>
+Öleinsparung auf Empfehlung der IEA und wie soll Prof. <name type="person" ref="per:114484">Lenz</name><lb/>
+eine Geschwindigkeitsbeschränkung auf 80 km durchsetzen. Von mir<lb/>
+wollten man wissen, ob ich die Empfehlung Prof. <name type="person" ref="per:114484">Lenz</name>, den Treib<lb break="no"/>stoff zu verteuern und mit einer Lebenshaltungskostenindex-Steigerung<lb/>
+immerzu verbinden, akzeptiere. Hier verwies ich auf meine Konsens<lb break="no"/>politik und dass ich Gespräche, wenn entsprechende Anträge von der<lb/>
+Ölindustrie vorliegen, führen werde. Insbesondere Redakteur <name type="person" ref="per:97479">Graber</name><lb/>
+von der Presse war nicht befriedigt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Im FS ist gar nichts gekommen, was kam<lb/>
+in den Zeitungen?<lb/>
+</p>
+            <p xml:space="preserve">Bei der Sektionsleiter-Sitzung wurde festgestellt, dass wir mit den<lb/>
+Inlands- und Auslandsreisen sowie Repräsentationskosten unterhalb<lb/>
+unserer Tangenten liegen. Dies muss unbedingt so bleiben, denn<lb/>
+sollte tatsächlich das Ministerium verlorengehen, dann soll der<lb/>
+Nachfolger nicht behaupten können, er hätte überzogene Budgetaus<lb break="no"/>gaben vorgefunden. Dies habe ich allerdings den Sektionsleitern<lb/>
+nicht gesagt.<lb/>
+</p>
+            <p xml:space="preserve">Bei den Überstundenregelungen liegen wir in der Zentralverwaltung<lb/>
+um 2 % drüber, im Patentamt minus 1,3 % und bei den Berghauptmann<lb break="no"/>schaften minus 2,9 %, im Schnitt also um 0,7 % über Jänner und<lb/>
+Feber. Im Vorjahr haben wir minus 3,35 % erzielt. Bei Überstunden<lb/>
+muss gespart werden, denn in der Zentralverwaltung geht der Personal<lb break="no"/>vertreter <name type="person" ref="per:112989">Herold</name> angeblich in die Kanzleien und sagt, macht nur<lb/>
+Überstunden, was diese sowieso gerne machen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Hier müsste man konkretere Beweise haben.<lb/>
+</p>
+            <p xml:space="preserve">Im Personal wurde <name type="person" ref="per:140655">Martinek</name> auf den Posten von <name type="person" ref="per:97819">Pleschiutschnig</name> ge<lb break="no"/>setzt, <name type="person" ref="per:113001">Leupold</name>, die am 1. Mai im BKA übernommen wird, kann nachbe<lb break="no"/>setzt werden. Die Abteilung <name type="person" ref="per:108321">Rameder</name> bekommt einen Immobilienmakler<lb/>
+Dr. <name type="person" ref="per:150222">Topnik</name>, der einen sehr guten Eindruck macht, für eine Probe<lb break="no"/>zeit von 6 Monaten. Die Absicht, den Oberkommissär <name type="person" ref="per:150223">Malosek</name> derzeit<lb/>
+in der Sektion V für Bergbauförderung zuständig, rüberzugeben,<lb/>
+kann nicht entsprochen werden, da <name type="person" ref="per:107937">Frank</name> ihn dringend braucht.<lb/>
+</p>
+            <pb n="47-0309" facs="47_1979-03-09_0309.jpg"/>
+            <p xml:space="preserve"><name type="person" ref="per:107937">Frank</name> hat ausserdem versucht, Dipl.Ing. <name type="person" ref="per:127783">Hein</name> vom Patentamt<lb/>
+der ein technischer Mathematiker ist, in die Energiesektion<lb/>
+hinüberzuholen. Präs. <name type="person" ref="per:97688">Leberl</name> hat sich darüber mit Recht sehr<lb/>
+aufgeregt, weil er auf dem Standpunkt steht, <name type="person" ref="per:107937">Frank</name> hätte mit<lb/>
+ihm reden müssen. <name type="person" ref="per:107937">Frank</name> hat dies auch dann letzten Endes einge<lb break="no"/>sehen und ausdrücklich auf <name type="person" ref="per:127783">Hein</name> verzichtet.<lb/>
+</p>
+            <p xml:space="preserve">Das Referat von <name type="person" ref="per:117657">Potocnik</name>, der derzeit in Paris ist bei der IEA,<lb/>
+aber dem BKA nur dienstzugeteilt, kann nicht endgültig durch Frau<lb/>
+<name type="person" ref="per:116120">Hille</name> besetzt werden. Sie wird nur die Geschäftsführung jetzt über<lb break="no"/>nehmen.<lb/>
+</p>
+            <p xml:space="preserve">Der Berghauptmann von Innsbruck <name type="person" ref="per:117028">Mernik</name> wird definitiv bestellt<lb/>
+als Zweitzugeteilter, der, wie mir <name type="person" ref="per:107937">Frank</name> ausdrücklich ver<lb break="no"/>sichert, notwendig ist, Dipl.Ing. <name type="person" ref="per:150224">Jungwirth</name> eingestellt. Dies<lb/>
+wird grössere Schwierigkeiten mit dem Rechnungshof ergeben.<lb/>
+Wie mir 4 Rechnungshofbeamte unter Anwesenheit von OB – <name type="person" ref="per:108609">Sterk</name><lb/>
+mitteilte, sind die Berghauptmannschaften überbesetzt. Im Gesetz<lb/>
+steht, dass nach Sitz und Anzahl der Bedürfnisse solche zu er<lb break="no"/>richten sind. Innsbruck und Klagenfurt aber auch zwei in der<lb/>
+Steiermark sind überzählig. Aufnahmen erfolgen, ohne dass es <name type="person" ref="per:108609">Sterk</name><lb/>
+von der dafür zuständigen Abteilung in der Bergbehörde erfährt.<lb/>
+<name type="person" ref="per:107937">Frank</name> kooperiert also schon gar nicht mehr mit <name type="person" ref="per:108609">Sterk</name>.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: <name type="person" ref="per:112949">Kazda</name> muss hier äusserst vorsichtig vorgehen.<lb/>
+</p>
+            <p xml:space="preserve">Der Rechnungshofbericht hat ergeben, dass wir 78 Bundesgesetzblätter<lb/>
+36 Kursbücher, 58 Amtskalender und viel zu viele Tageszeitungen<lb/>
+in den Ministerien haben. Hier wird <name type="person" ref="per:112949">Kazda</name> eine entsprechende<lb/>
+Kürzung vornehmen und alle Sektionschefs haben dem zugestimmt.<lb/>
+Ausserdem verlangt der Rechnungshof eine bessere Regelung der<lb/>
+von 9 schon auf 3 reduzierten Dienstwagen. In Hinkunft müssen die<lb/>
+Abteilungsleiter schriftlich diese anfordern.<lb/>
+</p>
+            <p xml:space="preserve">Über die materiellen Probleme wurden viele Fragen geklärt. Grosse<lb/>
+Gefahr besteht, dass die Parteistellung im Betriebsanlagever<lb break="no"/>fahren wesentlich erweitert wird. Jetzt soll ein verstärkter Senat<lb/>
+im Verwaltungsgerichtshof entschieden haben, dass eine 7 km entfernte<lb/>
+Partei von einem Steinbruch ebenfalls beim Verfahren hätte gehört<lb/>
+werden müssen. Wenn dies so weitergeht, wird es zu wesentlichen Ver<lb break="no"/>zögerungen der Verfahren kommen oder unzählige Beamte zusätzlich<lb/>
+<pb n="47-0310" facs="47_1979-03-09_0310.jpg"/>eingesetzt werden müssen. Diese Entwicklung muss man der<lb/>
+Handelskammer klarmachen, <name type="person" ref="per:97584">Jagoda</name> wird dies bei der Enquete<lb/>
+über die Gewerbeordnung zur Sprache bringen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:107937">Frank</name> wehrt sich, dass bei der Deklarationspflicht für Geschirr<lb break="no"/>spülmaschinen, Kühlschränke, Backrohre für die Normen auf die<lb/>
+anerkannten Regeln der Technik verwiesen wird. Er möchte, wie<lb/>
+dies im Elektrotechnik-Gesetz auch geschehen ist, auch die<lb/>
+genauen Bestimmungen in die Verordnung aufnehmen. Das halte ich<lb/>
+für ganz unmöglich, weil dann die Überprüfung noch schwieriger wird<lb/>
+als dies jetzt schon der Fall sein wird.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Bitte hier äusserst vorsichtig vorgehen.<lb/>
+</p>
+            <p xml:space="preserve">Das BFI, Dr. <name type="person" ref="per:114577">Ingrisch</name>, bekommt derzeit 20 %, das WIFI 80 % der<lb/>
+Subvention. Im Sozialministerium bekommt das Wifi nur 2 Teile,<lb/>
+währenddem das BFI 3 Teile bekommt. <name type="person" ref="per:114577">Ingrisch</name> möchte dies daher<lb/>
+auch im Handelsministerium ändern. <name type="person" ref="per:114539">Kirchmair</name> vom WIFI meint,<lb/>
+die Entscheidung müsste der Handelsminister treffen. Dass ich<lb/>
+dies auf keinen Fall vor den Wahlen mache, ist glaube ich jedem<lb/>
+klar. Ich habe <name type="person" ref="per:97584">Jagoda</name> vorgeschlagen, gegebenenfalls eine Sonder<lb break="no"/>subvention mit einem Sonderauftrag dem BFI zu geben.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Bitte <name type="person" ref="per:114577">Ingrisch</name> informieren lassen.<lb/>
+</p>
+            <p xml:space="preserve">Schliesslich stellte ich die wichtige Frage zur Diskussion,<lb/>
+dass ich auf keinen Fall durchlassen würde, wenn irgendjemand<lb/>
+"e.h. <name type="person" ref="per:97985">Staribacher</name>" zeichnet und ich nicht den Akt vorher unterschrie<lb break="no"/>ben habe. Alle Sektionschef meinten, dies sei selbstverständlich,<lb/>
+weil es ja auch der Kanzleiordnung entspricht. Sie waren eigentlich<lb/>
+schon sehr verwundert, dass bei uns ein Fall – <name type="person" ref="per:97801">Ottahal</name> hat einen<lb/>
+Ministerratsvortrag weitergeben, ohne dass ich ihn unterschrieben<lb/>
+hatte – geschehen ist.<lb/>
+</p>
+            <p xml:space="preserve">Der Jour fixe mit AK und ÖGB beschränkte sich nur auf Energie<lb break="no"/>fragen. Preiserhöhungen trotz der geringen Ölanlieferungen sollten<lb/>
+jetzt nicht durchgeführt werden und die Reduzierung des Ölver<lb break="no"/>brauches sind beide Institutionen einverstanden, sollen in einem<lb/>
+Planspiel gerechnet werden. Sie waren sehr überrascht, dass wir<lb/>
+<pb n="47-0311" facs="47_1979-03-09_0311.jpg"/>10,290.000 t 1978 verbrauchten und selbst bei der 5 %-igen<lb/>
+Reduzierung nur 10,120.000 t verbrauchen dürfen. Die IEA geht<lb/>
+nämlich, was alle übersehen, von den Planziffern aus, die ja<lb/>
+heuer 10,650.000 t betragen sollen. Diese Einsparung müsste möglich<lb/>
+sein, ohne es zu wesentlichen die Konsumenten belastenden Vor<lb break="no"/>schriften zu kommen. Da wird 1978 9,2 % mehr verbraucht haben<lb/>
+als 1977, müsste jetzt diese Einsparung zu erreichen sein.<lb/>
+</p>
+            <p xml:space="preserve">Die KKWP-Betriebsräte waren wegen der Weiterbeschäftigung der<lb/>
+40 Leute auch in der Arbeiterkammer. Diese vertrat allen Ernstes<lb/>
+den Standpunkt, es wäre zweckmässig, diese Arbeitsgruppe zusammen<lb/>
+zu lassen. Sie konnte mir allerdings auch nicht sagen, wie die<lb/>
+2 Mio. S Lohnkosten pro Monat aufgebracht werden sollen. <name type="person" ref="per:114075">Schmidt</name><lb/>
+und <name type="person" ref="per:113026">Tumpel</name> vom ÖGB waren dagegen meiner Meinung, man muss die Leute<lb/>
+so schnell wie möglich in die E-Wirtschaft integrieren. d.h.<lb/>
+bei den Gesellschaften wieder einstellen.<lb/>
+</p>
+            <p xml:space="preserve">MR <name type="person" ref="per:108609">Sterk</name> beschwerte sich bei mir, dass <name type="person" ref="per:107937">Frank</name> nicht mehr mit ihm<lb/>
+kooperiert und er von Personalentscheidungen innerhalb der OB<lb/>
+und den Berghauptmannschaften nichts erfährt. <name type="person" ref="per:108609">Sterk's</name> Meinung<lb/>
+ist, auf Grund des Prüfungsberichtes der Rechungshofbeamten<lb/>
+könnten wir jetzt die Reorganisation der Berghauptmannschaften<lb/>
+sofort durchführen. Dagegen hatte ich grosse Bedenken, denn alle<lb/>
+Landeshauptleute haben sich bei mir schon über solche Ideen bitter<lb/>
+beschwert und dagegen ausgesprochen. Dies hatte ich dann auch den<lb/>
+Rechnungshofbeamten klar und deutlich gesagt. Ich bin neugierig,<lb/>
+ob in dem Rechnungshofbericht tatsächlich die Stellungnahmen der<lb/>
+Landeshauptleute entsprechend wiedergegeben werden. Dass insbesondere<lb/>
+die Berghauptmannschaften und die Oberste Bergbehörde freie<lb/>
+Kapazitäten hat, ist mir klar. In Hinkunft soll aber diese Organi<lb break="no"/>sation stärker für die Rohstoffgewinnung und für die Aufsuchungs<lb break="no"/>arbeiten herangezogen werden. Jetzt sind sie historisch bedingt<lb/>
+reine Bergbauüberwachungsorgane mit jahrhundertelanger historischer<lb/>
+Tradition. Dass einzelne Abteilungen ein Eigenleben entwickeln,<lb/>
+dass sie sich viel berichten lassen und dann 12 Seiten historische<lb/>
+Stellungen erfolgen, die selbstverständlich nur abgelegt werden,<lb/>
+was mich nicht verwundert. Privatrechtliche Verträge fehlen noch,<lb/>
+offene Berufungen aus dem Jahre 1964 und 1966, 900 offene Geschäfts<lb break="no"/>stücke im Jahre 1978, das war mich schon eine unangenehme Über<lb break="no"/>raschung. Dass die Bergbauförderung 1978 ohne Gesetz erfolgte, weil<lb/>
+<pb n="47-0312" facs="47_1979-03-09_0312.jpg"/>es ausgelaufen ist, jetzt haben wir schon wieder ein neues,<lb/>
+bemerkte ich sofort, dass die Sakog 77 18 Mio. Bergbauförderung<lb/>
+kriegt, obwohl sie einen Gewinn von 6 Mio. hat, wurde hart<lb/>
+kritisiert. Beanstandet wurde aber, dass sowohl <name type="person" ref="per:108609">Sterk</name> als vom<lb/>
+Finanzministerium <name type="person" ref="per:126963">Roch</name> sowie <name type="person" ref="per:150225">Wittmann</name> vom BKA gleichzeitig<lb/>
+Aufsichtsräte der Sakog sind, die letzten Endes aber dann<lb/>
+die Bergbauförderung auch für die Sakog verteilen. Ich habe<lb/>
+zu den einzelnen Punkten nicht Stellung genommen, obwohl ich<lb/>
+dies sofort hätte tun können, weil ich kein Interesse daran<lb/>
+habe, jetzt schon mein Einverständnis oder meine Gegendarstellung<lb/>
+zu den kritisierten Punkten dem Rechnungshof darzulegen.<lb/>
+Seit den letzten Prüfungen des Rechnungshofes bin ich zu einer<lb/>
+einzigen Erkenntnis gekommen, man muss äusserst vorsichtig<lb/>
+vorgehen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="47_0306_01" facs="47_1979-03-09_0306-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 9.3.1979</head>
+         </div>
+         <pb n="47_0306_02" facs="47_1979-03-09_0306-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

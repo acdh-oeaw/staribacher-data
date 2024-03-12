@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittwoch, der  7. Jänner 1981</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band58_1981-01-07</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1981-01-07">Mittwoch, 7. Januar 1981</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-03-15">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="58-0005" facs="58_1981-01-07_0005.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Mittwoch, 7. Jänner 1981<lb/>
+</p>
+            <p xml:space="preserve">In der Lebensmittelarbeitergewerkschaft hat sich Frau <name type="person" ref="per:128048">Horn</name>, die<lb/>
+größte Pferdefleischhauerin von Österreich, beschwert, daß sie fast<lb/>
+keine inländischen Pferde mehr bekommt. 1979 noch 150 t, 1980 nur<lb/>
+mehr 59 t, auch aus den Verträgen mit Polen bekommt sie, obwohl sie<lb/>
+S 5,–– pro kg Lebendgewicht mehr bezahlen würde, keine Lieferungen<lb/>
+in der letzten Zeit. Die Polen liefern, sofern sie überhaupt welche<lb/>
+aufbringen können, nach Frankreich, wo sie um S 7,–– mehr bekommen.<lb/>
+Angeblich nehmen die Polen aber im heurigen Jahr die Lieferungen<lb/>
+nach Österreich wieder auf. Ich interveniere bei Landwirtschaftsmini<lb break="no"/>ster <name type="person" ref="per:97511">Haiden</name>, dieser sagt mir zu, er wird die Exporte genau prüfen.<lb/>
+Derzeit werden Schlachtpferde, als Nutzpferde deklariert, in die EG<lb/>
+geliefert. Dafür muß aber das Landwirtschaftsministerium und das ent<lb break="no"/>sprechende Bundesland subventionieren.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Die Abteilung soll dies genau verfolgen.<lb/>
+</p>
+            <p xml:space="preserve">Beim Jour-Fixe mit Verbund-GD <name type="person" ref="per:97453">Fremuth</name> ersucht mich dieser, man soll<lb/>
+das erst jetzt im Parlament beschlossene Dampfkesselemissionsgesetz<lb/>
+schon wieder dahingehend novellieren, daß die Übergangszeit für alte<lb/>
+Kohlekraftwerke, die nach fünf Jahren umgestellt werden müßten oder<lb/>
+stillzulegen sind, auf zehn Jahre erstrecken. <name type="person" ref="per:97453">Fremuth</name> gibt allerdings<lb/>
+zu, daß er mit 7 Jahren auch durchkommen würde. Niemand wird ernst<lb break="no"/>lich jetzt eine Novelle nach so kurzer Zeit durchführen, sondern ge<lb break="no"/>gebenenfalls vor Ablauf der Fünf-Jahres-Frist etwas unternehmen.<lb/>
+</p>
+            <p xml:space="preserve">Bezüglich der gemischten sowjetisch-österr. Kommission verständige ich<lb/>
+den anrufenden Botschafter <name type="person" ref="per:114156">Hinteregger</name>, daß den Vorsitz <name type="person" ref="per:97453">Fremuth</name> auf<lb/>
+Wunsch der Industrie übernehmen wird. Der Ausschuß wird Elektrizitäts-<lb/>
+und elektrotechnischer Ausschuß heißen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: MR <name type="person" ref="per:97426">Fälbl</name> soll das Nötige veranlassen.<lb/>
+</p>
+            <p xml:space="preserve">Da in einer Aussendung Bgm. <name type="person" ref="per:97488">Gratz</name> sich für einen neuen Elektrizitäts<lb break="no"/>tarif ausgesprochen hat, veranlasse ich, daß MR <name type="person" ref="per:109811">Burian</name> die notwendi<lb break="no"/>gen Verhandlungen sofort aufnimmt. <name type="person" ref="per:97453">Fremuth</name> ist damit einverstanden,<lb/>
+er wünscht auch, daß der SAFE-Versuchstarif auch jetzt in anderen<lb/>
+Bundesländern eingeführt wird. Abends ruft dann GD <name type="person" ref="per:97865">Reisinger</name> an und<lb/>
+teilt mir mit, daß diese Aussendung dadurch zustande kam, daß im<lb/>
+Stadtsenat, wo keine Beamten sind, Bgm. <name type="person" ref="per:97488">Gratz</name> und Stadtrat <name type="person" ref="per:97786">Nittel</name>,<lb/>
+um ihren Tariferhöhungsantrag mit 1. Jänner durchzubringen, erklärt<lb/>
+<pb n="58-0006" facs="58_1981-01-07_0006.jpg"/>haben, es wird jetzt selbstverständlich über die neuen Strompreise<lb/>
+in Hinkunft mit der Opposition eingehend diskutiert und neue Modelle<lb/>
+gesucht. Niemals aber kann es nach <name type="person" ref="per:97865">Reisinger</name> das SAFE-Modell für<lb/>
+Wien geben. Selbst die Stadt Salzburg hat große Schwierigkeiten. Ich<lb/>
+erkläre, daß Bgm. <name type="person" ref="per:97488">Gratz</name> öffentlich gesagt hat, es kommt ein neues<lb/>
+Modell und ich deshalb darauf bestehe, daß jetzt unverzüglich Ver<lb break="no"/>handlungen über ein solches Modell aufgenommen werden.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: MR <name type="person" ref="per:109811">Burian</name> soll die Gespräche und Verhandlun<lb break="no"/>gen unmittelbar beginnen.<lb/>
+</p>
+            <p xml:space="preserve">Der Donauausbau wird auch dann, wenn Naturschützer wegen der Auland<lb break="no"/>schaft unbedingt für die teurere Variante nicht im Trockenen, sondern<lb/>
+im Strom zu bauen, die übrigens zwei Jahre länger dauert, verlangen,<lb/>
+wie bisher durchgeführt. Bezüglich der Gutachtertätigkeit für die<lb/>
+Stufe Wachau, Prof. <name type="person" ref="per:123772">Grubinger</name>, wird <name type="person" ref="per:97453">Fremuth</name> mit Dir. <name type="person" ref="per:114580">Kobilka</name>, DoKW,<lb/>
+reden.<lb/>
+</p>
+            <p xml:space="preserve">Die von mir verlangte Reduzierung der Aufsichtsräte in den Sonderge<lb break="no"/>sellschaften wird von <name type="person" ref="per:97453">Fremuth</name> geprüft, er selbst möchte bei dieser<lb/>
+Gelegenheit den Einfluß der Länder zugunsten des Bundes vergrößern.<lb/>
+Die Personalfrage der Energiesektion wird mit <name type="person" ref="per:97543">Heindl</name> und <name type="person" ref="per:97453">Fremuth</name> da<lb break="no"/>hingehend besprochen, daß jetzt eine endgültige Fixierung früher oder<lb/>
+später erfolgen muß. <name type="person" ref="per:97543">Heindl</name> tritt für die Zusage, die man <name type="person" ref="per:123367">Hladik</name> ge<lb break="no"/>macht hat, Abteilungsleiter-Stellvertreter, unbedingt ein.<lb/>
+</p>
+            <p xml:space="preserve">Mit SL <name type="person" ref="per:111001">Peyerl</name> bespreche ich auf dessen Wunsch die weitere Vorgangs<lb break="no"/>weise. <name type="person" ref="per:111001">Peyerl</name> und <name type="person" ref="per:112949">Kazda</name> als Präsidialist haben gute Möglichkeiten<lb/>
+jetzt mit der Personalvertretung zweckmäßige Vereinbarungen zu tref<lb break="no"/>fen, denn ich erkläre <name type="person" ref="per:111001">Peyerl</name>, warum ich bis jetzt für ein Streichen<lb/>
+der drei Abteilungen, die jetzt durch Pensionierung frei werden, bis<lb/>
+jetzt eingetreten bin. Sollte es nämlich zu keinen vernünftigen Be<lb break="no"/>setzungsvorschlägen kommen, dann habe ich einen guten objektiven<lb/>
+Grund die Sektion um etliche Abteilungen zu kürzen. Keine andere Sek<lb break="no"/>tion hat 13 Abteilungen. Bezüglich der Stellvertretung will <name type="person" ref="per:111001">Peyerl</name><lb/>
+noch zuwarten. Er betrachtet eine Bestellung von irgend einem der<lb/>
+drei Kandidaten <name type="person" ref="per:123367">Hladik</name>, <name type="person" ref="per:110944">Zluwa</name> und <name type="person" ref="per:109811">Burian</name> als verfrüht.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:111001">Peyerl</name> war auch bei der letzten Generalversammlung der EVA. GD <name type="person" ref="per:113069">Weiser</name><lb/>
+hat dort seine kommende Arbeit vorgeschlagen, ihm schwebte allen<lb/>
+Ernstes vor, beauftragt zu werden, die Kompetenzfragen zu klären,<lb/>
+durch entsprechende Unterstützung der Fachleute aus den Ministerien.<lb/>
+</p>
+            <pb n="58-0007" facs="58_1981-01-07_0007.jpg"/>
+            <p xml:space="preserve">Selbst der Vorsitzende <name type="person" ref="per:97668">Kreisky</name> mußte dann, als <name type="person" ref="per:111001">Peyerl</name> ihm mitteilte,<lb/>
+daß dies bereits aus der parlamentarischen Besprechung mit den Oppo<lb break="no"/>sitionsparteien vereinbart wurde, feststellen, daß diese Doppelge<lb break="no"/>leisigkeit nicht zweckmäßig wäre. Wir einigten uns mit <name type="person" ref="per:111001">Peyerl</name> dahin<lb break="no"/>gehend, daß er versuchen wird jetzt <name type="person" ref="per:113069">Weiser</name> zu zweckmäßigen Arbeiten<lb/>
+über Energieeinsparungsmaßnahmen, die das Ministerium seit 1973 be<lb break="no"/>reits vorgeschlagen hat, einzuspannen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Bitte laß Dir darüber berichten.<lb/>
+</p>
+            <p xml:space="preserve">Im Ministerrat berichtet <name type="person" ref="per:97668">Kreisky</name>, daß jetzt die in der Partei die<lb/>
+Arbeit aufnehmende Wirtschaftskommission nicht im luftleeren Raum<lb/>
+arbeiten dürfte. Es handelt sich um eine Ergänzung des laufenden Re<lb break="no"/>gierungsprogramms. Das Wirtschaftsprogramm der 80er Jahre soll eine<lb/>
+Fortschreibung und Ausbreitung der Aktivitäten sein. Inhaltlich wird<lb/>
+es und soll es eben für die 80er Jahre ausgestaltet werden, der Be<lb break="no"/>völkerung muß man es aber bewußt machen. Trotz der heute in den Medien<lb/>
+und den Fakten pessimistischen Stimmung, trotz der von der VP vielen<lb/>
+alternativen Vorschläge und Programmen, die allein durch ihre Viel<lb break="no"/>falt untergegangen sind, muß dieses Wirtschaftsprogramm der 80er Jah<lb break="no"/>re von Fachleuten, und <name type="person" ref="per:97668">Kreisky</name> zählt auch die Politiker zu diesen,<lb/>
+jetzt neu erarbeitet werden. Dann wird es in der Partei zur Diskussi<lb break="no"/>on gestellt, selbstverständlich auch bei den gegnerischen Ökonomen,<lb/>
+deren Kritik wird man dann, soweit sie sachlich begründet ist, berück<lb break="no"/>sichtigen und auch in das Programm aufnehmen. Die Kritik kann dann<lb/>
+aber auch wesentlich dazu beitragen, um dann im Parlament, wo ja über<lb/>
+dieses Programm diskutiert wird werden, schon die Gegenargumente zu<lb/>
+formulieren. Der kommende Parteitag dann im Frühjahr 81 muß das Ganze<lb/>
+beschließen. Der Parteitag würde dadurch vorverlegt werden, denn der<lb/>
+letzte war im November 79. Wichtig ist, daß in dieser Wirtschafts<lb break="no"/>kommission dann die zuständigen Ressortminister den Vorsitz in den<lb/>
+Arbeitsgruppen führen müssen. Die Minister müssen nämlich die ent<lb break="no"/>sprechende Beeinflussung vornehmen bei der Erstellung des Programmes,<lb/>
+denn sie müssen ja letzten Endes auch die Durchführung garantieren.<lb/>
+Das Programm muß sich an die Realitäten halten und darf nicht im<lb/>
+luftleeren Raum erstellt werden. Diese großen Investitionsprogramme<lb/>
+der Vergangenheit haben sich gut bewährt. Das erste war unter <name type="person" ref="per:98043">Wald<lb break="no"/>brunner</name>, das zweite war das große Wirtschaftsprogramm 68, das dritte<lb/>
+das Investitionsprogramm im Anschluß an die Ölkrise und jetzt kommt<lb/>
+ein neues, die Minister sollen entsprechende Vorschläge bereits vor<lb break="no"/>bereiten. Vor allem muß jetzt klargestellt werden, was bereits ver<lb break="no"/><pb n="58-0008" facs="58_1981-01-07_0008.jpg"/>wirklicht wurde und was vom Standpunkt der einzelnen Ressorts ge<lb break="no"/>schehen müßte. Das Ganze soll in einer Tabelle zusammengefaßt werden.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG AN ALLE: Sekt.Chefs und Büro muß unverzüglich diese Zu<lb break="no"/>sammenstellung durchführen.<lb/>
+</p>
+            <p xml:space="preserve">Die Erfüllung dieses Investitionsprogrammes wird wesentlich schwieri<lb break="no"/>ger sein als das letzte. Auf der einen Seite sind nicht mehr soviele<lb/>
+Infrastrukturmaßnahmen notwendig und möglich als in den 70er Jahren,<lb/>
+auf der anderen Seite aber sind derzeit keine finanziellen Reserven<lb/>
+vorhanden. 1982 wird die höchste Schuldenrückzahlung aus dem Budget<lb/>
+notwendig sein, gleichzeitig muß aber auch über eine Steuerreform ver<lb break="no"/>handelt werden. Was dabei herauskommt, kann kein Mensch jetzt vorher<lb break="no"/>sagen. Notwendig ist es aber, daß bei jeder Maßnahme, die von seiten<lb/>
+der Ressorts vorgeschlagen wird und das Wirtschaftsprogramm eingehen<lb/>
+soll, die Kosten festzulegen sind.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97311">Androsch</name> war in Lech noch immer durch die Lawinengefahr eingeschlossen<lb/>
+und konnte daher an diesem Ministerrat nicht teilnehmen. Ich nehme<lb/>
+allerdings nicht an, daß er sich, auch aus budgetären Gründen viel<lb break="no"/>leicht notwendig, gegen diese groß angelegte Konzeption gewendet hätte.<lb/>
+<name type="person" ref="per:97891">Salcher</name> auf der anderen Seite ist noch nicht für Finanzen verantwort<lb break="no"/>lich, kennt daher die Detailsituation im Finanzministerium noch nicht<lb/>
+so genau. <name type="person" ref="per:97668">Kreisky</name> wieder möchte einen großen Innovationsprozeß nicht<lb/>
+zuletzt durch eine riesige Investitionsförderung einleiten. Ich danke<lb/>
+Gott an jedem Morgen, daß ich mich nicht muß um die Finanzen sorgen.<lb/>
+Wie das Ganze nämlich zu finanzieren ist, weiß eigentlich derzeit noch<lb/>
+niemand. <name type="person" ref="per:97668">Kreisky</name> hat <choice><choice><sic>in</sic><corr>[Bad]</corr></choice></choice> Hofgastein festgestellt, daß der Fremdenver<lb break="no"/>kehr ganz fantastisch läuft. Ausländische Freunde, die mit Bauern<lb/>
+Gespräche geführt haben, haben auch festgestellt, daß<add>[sich]</add> die Bergbauern<lb/>
+sehr positiv zur Regierung geäußert haben, daß eigentlich überall<lb/>
+eine starke Prosperität bis jetzt vorherrscht und daß daher die Zu<lb break="no"/>kunft Österreichs trotz der krisenhaften Entwicklung rund um Öster<lb break="no"/>reich und trotz der gewissen Schwächen in gewissen Regionen beacht<lb break="no"/>lich ist. Österr. wirtschaftliche Stärke im letzten Jahrzehnt stimmt<lb/>
+selbst <name type="person" ref="per:97668">Kreisky</name> nicht so pessimistisch, wie er es früher gewesen ist.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:111740">Dallinger</name> berichtet, daß 81 die Arbeitsmarktlage schwieriger wird.<lb/>
+Im Dezember sind um 20.000 Beschäftigte mehr, aber gleichzeitig auch<lb/>
+um 13.000 Arbeitslose mehr, 12.000 davon Männer nur 322 Frauen, da<lb break="no"/>her kommen diese zusätzlichen Arbeitslosen aus den Produktionsberei<lb break="no"/>chen. Für das ganze Jahr wurde durch die Prognose eine Arbeitslosen<lb break="no"/>rate von 2,2 % angenommen, tatsächlich ist sie nur 1,9 % durch die<lb/>
+<pb n="58-0009" facs="58_1981-01-07_0009.jpg"/>hohe Beschäftigungslage. Bei der Firma Funder werden 4 bis 500 frei<lb break="no"/>gesetzt, Eumig 1500, die VEW muß die <choice><choice><sic>dreimonatliche</sic><corr>dreimonatige</corr></choice></choice> Kurzarbeit, der<lb break="no"/>zeit 2.400, mit weiteren 1.500 noch verstärken, Kurzarbeit ist laut<lb/>
+Gesetz zeitlich begrenzt, weshalb eine andere Lösung gesucht werden<lb/>
+muß.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:111740">Dallinger</name> kommt auch auf die Glasfabrik, die die ÖIAG gemeinsam mit<lb/>
+Amerikanern bauen will, zu sprechen. Ich melde mich wegen der Firma<lb/>
+Kneissl, informiere, daß ich jetzt mit LH <name type="person" ref="per:98048">Wallnöfer</name>, der CA und dem<lb/>
+Bund je S 10 Mio. gezahlt werden würde. Eine Aussprache, die ich mit<lb/>
+dem Masseverwalter hatte, zeigte mir deutlich, daß noch andere Inter<lb break="no"/>essenten sind, doch die deutsch-Schweiz-österr. Gruppe die größte<lb/>
+Chance hat. Bezüglich des Glasprojektes teile ich mit, daß das Han<lb break="no"/>delsministerium vor sechs Jahre diesbezüglich mit der Brunner Glas<lb break="no"/>fabrik Untersuchungen anstellte. Eine Floating-Produktion bedingt<lb/>
+40 Mio. m², Österreich braucht höchstens 10 bis 11 Mio. Der Rest<lb/>
+müßte exportiert werden, in die Oststaaten keine Chance, denn dort<lb/>
+wurden eigene Floatinganlagen errichtet. Im süddeutschen Raum gibt<lb/>
+es ebenfalls eine, wodurch die Exportmöglichkeiten sehr begrenzt sind.<lb/>
+Darüber gibt es noch Schwierigkeiten, die <name type="person" ref="per:97668">Kreisky</name> selbst zugibt, mit<lb/>
+der Lizenzvergabe. <name type="person" ref="per:97668">Kreisky</name> meint, ich sollte diesbezüglich mit GD<lb/>
+<name type="person" ref="per:97498">Grünwald</name> von der ÖIAG sprechen. Ich erkläre, daß ich dies während<lb/>
+des Weihnachtsurlaubes reichlichst getan habe.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR SEKTIONSCHEF <name type="person" ref="per:111737">MARSCH</name>: Bitte mit <name type="person" ref="per:97498">Grünwald</name> die Details be<lb break="no"/>sprechen.</p>
+            <p xml:space="preserve"><name type="person" ref="per:111741">Sekanina</name> berichtet, daß<add>[er]</add> bei einer Betriebsversammlung in Mürzzuschlag,<lb/>
+VEW, gewesen ist. Dort ist man auf Versprechungen sehr allergisch.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> macht sofort den Zwischenruf, wir hätten gar nichts ver<lb break="no"/>sprochen, sondern der ÖAAB ist der, der jetzt sagt, 5 Mio. S müßte<lb/>
+man dort reinstecken.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:111741">Sekanina</name> berichtet dann auch, daß Eumig in Wr. Neudorf von 3.000 Be<lb break="no"/>schäftigen jetzt auf 580 reduziert werden soll.<lb/>
+</p>
+            <p xml:space="preserve">Die wichtigste Frage ist aber die Infrastruktur, Straßenausbau. Die<lb/>
+S 6 und S 36 Schnellstraße von Seebenstein bis Judenburg kann, wenn er<lb/>
+entsprechende Finanzierung gesichert wird, bis 1985 fertig sein.<lb/>
+Ansonsten dauert es bis 1990. Bezüglich der Südautobahn bekommt er<lb/>
+jetzt eine Konfrontation mit seinem Straßenbaureferent, Sekt.Chef<lb/>
+<name type="person" ref="per:128083">Raschauer</name>, und den Beamten der NÖ Landesregierung. Diese wollen unbe<lb break="no"/>dingt die Autobahn wie geplant weiterbauen und jetzt einmal den Halb<lb break="no"/><pb n="58-0010" facs="58_1981-01-07_0010.jpg"/>ausbau starten. Er selbst aber will verbilligte Variante im Wechsel<lb break="no"/>gebiet, allein 1 Mrd. weniger, und gleich den Vollausbau durchführen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> bemerkt dazu, daß diese Infrastruktur dringendst notwendig ist,<lb/>
+er hat diese Straße seit 1970 verlangt, immer wieder hat man ihn vom<lb/>
+Bautenministerium zugesagt, es wird schon gebaut. Die Föderalisierung<lb/>
+der Straßenplanung ist falsch und kostspielig. Die Konfrontation wird<lb/>
+von <name type="person" ref="per:97668">Kreisky</name> begrüßt, wenn <name type="person" ref="per:111741">Sekanina</name> wird und muß sich gegen diese Büro<lb break="no"/>kratie und die Länder durchsetzen.<lb/>
+</p>
+            <p xml:space="preserve">Die Krisensituation in Mur-Mürz-Furche bleibt bestehen, da 5–7000<lb/>
+Beschäftigte in der Verstaatlichten in diesem Gebiet zuviel sind.<lb/>
+Die Ankündigung <name type="person" ref="per:111740">Dallingers</name>, daß jetzt Schicht- und Schwerstarbeiter<lb/>
+früher in Pension gehen werden, bringt eine gewisse Entlastung. Wenn<lb/>
+aber Hönigsberg und Judenburg rationalisiert werden, müssen wieder<lb/>
+neue Arbeitsplätze dafür geschaffen werden. In Judenburg aber, wo die<lb/>
+Mehrheit für ein Stillegen des kranken Betriebs plädiert, wird man<lb/>
+1500 Beschäftigte halten müssen, d.h. der Betrieb Judenburg bleibt<lb/>
+bestehen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97311">Androsch</name> hat an <name type="person" ref="per:97668">Kreisky</name> einen Brief geschrieben, wo er für eine stär<lb break="no"/>kere Förderung der Steyr-Daimler-Puch eintritt. Gemeinsam mit BMW ist<lb/>
+jetzt das große Forschungsprojekt über Dieselmotoren in Steyr ange<lb break="no"/>laufen. Steyr-Daimler-Puch, aber auch die Deutschen fühlen sich durch<lb/>
+die starke Förderung von General Motors stark diskriminiert. Das Land<lb/>
+OÖ hat nur 140 Mio. zu diesem Projekt gegeben, die Wiener für General<lb/>
+Motors 800 Mio., die Stadt Steyr 41 Mio., insgesamt also wurde dann<lb/>
+gesagt Land und Stadt zusammen nur 155 Mio. Hier muß von mir ein Hör<lb break="no"/>fehler vorliegen. Für eine Gesamtsumme von 300 Mio. wurden ERP-Mittel<lb/>
+gegeben, was eine Zinsersparnis von 26 Mio. nach den niedrigeren Zin<lb break="no"/>sen noch ergibt. Von der Zinsenzuschußaktion der Bundesregierung wur<lb break="no"/>den 133 Mio. gegeben, Forschungsförderungsfonds und direkte Subven<lb break="no"/>tion des Wissenschaftsministeriums 39, also insgesamt 196 Mio. S. Zu<lb/>
+den 155 Mio. dazu ergibt dies zusammen 351 Mio., dies ist für das<lb/>
+Projekt mit 6,7 Mrd. S zu wenig. <name type="person" ref="per:97311">Androsch</name> schlägt eine mindestens<lb/>
+15%ige Subvention vor. Der <name type="person" ref="per:97668">Kreisky</name>-Vorschlag 1/3 zu 2/3 soll sich<lb/>
+das Land OÖ beteiligen, wurde von LH <name type="person" ref="per:112001">Ratzenböck</name> abgelehnt. Nach <name type="person" ref="per:97311">An<lb break="no"/>droschs</name> Vorschlag soll ein weiterer Zinsenzuschuß von 75 Mio. für die<lb/>
+SDP gegeben werden. <name type="person" ref="per:110169">Nußbaumer</name> wirft ein, daß die jetzigen Zinsenzu<lb break="no"/>schußanträge bereits ein BÜG von 40 Mio. S notwendig machen, da<lb/>
+die Mittel erschöpft sind. Aus dem Forschungsförderungsfonds sollen<lb/>
+<pb n="58-0011" facs="58_1981-01-07_0011.jpg"/>weitere 150. Mio. S gegeben werden. Auch dafür ist ein Büg für das<lb/>
+Jahr 81 und 82 notwendig. Weiters müßten noch aus den Arbeitsmarkt<lb break="no"/>förderungen 81 30 Mio. gegeben werden. Auch hier wird sofort von<lb/>
+<name type="person" ref="per:111740">Dallinger</name> festgestellt, er bräuchte ein Büg. <name type="person" ref="per:97668">Kreisky</name> meint, in der<lb/>
+jetzigen Phase könnte man keinesfalls Anfang Jänner ein Budgetüber<lb break="no"/>schreitungsgesetz beschließen. Da die Bauzeit für dieses Großprojekt<lb/>
+3 Jahre beträgt, wird jetzt noch genau zu prüfen sein, er nimmt an<lb/>
+daß Steyr-Daimler-Puch zu viel verlangt hat.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> kommt dann gleich mit einer neuen finanziellen Belastung.<lb/>
+Im Jahr der Behinderten schlägt er vor, einen Nationalfonds zu grün<lb break="no"/>den. Die österr. Bevölkerung hat eine ungeheure Opferbereitschaft ge<lb break="no"/>zeigt, unter Mithilfe der Medien müßte daher für Behinderte jetzt der<lb/>
+Nationalfonds 25 bis 50 Mio. S leicht aufbringen. Die österr. Bundes<lb break="no"/>regierung soll sich verpflichten, diesen Betrag dann wieder zu ver<lb break="no"/>doppeln. Diese Opferbereitschaft ist ja fast eine freiwillige Steuer<lb break="no"/>leistung. Bei Krebs, Vietnam, Katastrophe jetzt in Italien und in<lb/>
+vergangenen Katastrophenaufrufen hat sich diese Methode gut bewährt.<lb/>
+Der Bund wird aber nicht subsidiär für die Länder einspringen, die<lb/>
+Länder haben hier die ausschließliche Kompetenz. <name type="person" ref="per:97668">Kreisky</name> behält sich<lb/>
+vor bei dem Festakt über die Behinderten diesen Nationalfonds zu ver<lb break="no"/>künden. Alle Staatssekretärinnen bestätigen diese zweckmäßige Einrich<lb break="no"/>tung. <name type="person" ref="per:109808">Albrecht</name> kann darauf verweisen, daß sie bereits mit Gewerbetrei<lb break="no"/>benden Verhandlungen über Behindertenspielzeug und -geräte geführt<lb/>
+hat. Justizminister <name type="person" ref="per:97372">Broda</name> trägt auch zur Behindertenfrage bei, indem<lb/>
+er ein Sachwaltergesetz im Nationalrat einbringt. <name type="person" ref="per:112992">Löschnak</name> verweist<lb/>
+darauf, daß jetzt im Stellenplan 81 für 30 Behinderte Plätze reser<lb break="no"/>viert sind, diese dürfen allerdings nur durch den Bundespräsidenten<lb/>
+und den Bundeskanzler bei entsprechender Intervention von Behinderten<lb/>
+besetzt werden. <name type="person" ref="per:97668">Kreisky</name> meint zuletzt, daß dringend notwendig ist,<lb/>
+daß die Ämter eine neue Einstellung zu Behinderten bekommen. Am Bei<lb break="no"/>spiel seiner Tochter, die leicht behindert ist, als Kindergärtnerin<lb/>
+in den schwierigen Auer-Welsbach-Park Behindertenkinder gar zwar ver<lb break="no"/>wendet wird und sich dort glänzend bewährt, durch ihre Behinderung<lb/>
+aber nicht pragmatisiert wird. Er wünscht keinerlei Intervention.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:125291">MARTIN</name>: Bitte nächsten Wr. Vorstand erinnern.<lb/>
+</p>
+            <p xml:space="preserve">Den Vorsitz unter Vorbereitung Kommission für diesen Nationalfonds<lb/>
+wird der Sozialminister mit dem Gesundheitsminister haben. Die<lb/>
+weiblichen Staatssekretäre werden zugezogen. Länder sind nur dann<lb/>
+<pb n="58-0012" facs="58_1981-01-07_0012.jpg"/>heranzuziehen, wenn sie sich auch bereiterklären, etwas zu bezahlen.<lb/>
+Selbstverständlich werden Behindertenorganisationen berücksichtigt.<lb/>
+</p>
+            <p xml:space="preserve">Eine gewisse <name type="person" ref="per:128246">Judith Haag</name> möchte ein großes Konzept der Rohstoffunter<lb break="no"/>suchung und Rohstoffsicherung und Ausbeutung im internationalen Maß<lb break="no"/>stab starten. Sie hat bei <name type="person" ref="per:97668">Kreisky</name>, <name type="person" ref="per:97442">Firnberg</name>, <name type="person" ref="per:108328">Pahr</name> auch interveniert.<lb/>
+Finanziert soll das ganze durch die Weltbank werden und durch arab.<lb/>
+Staaten. Österreich, wird wie <name type="person" ref="per:108328">Pahr</name> sagt, seine guten Dienste zur Ver<lb break="no"/>fügung stellen, der Amtssitz dieser Organisation könnte in Wien sein.<lb/>
+</p>
+            <p xml:space="preserve">Irak bemüht sich jetzt um den Vorsitz bei der UNO, die Frage ob<lb/>
+Österreich unterstützt, kommt gar nicht zur Diskussion, denn <name type="person" ref="per:108328">Pahr</name><lb/>
+selbst erklärt sofort, Irak hat dafür als kriegführender Staat über<lb break="no"/>haupt keine Aussicht.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> erwähnt, daß jetzt das Gastspiel des Burgtheaters in der<lb/>
+Sowjetunion doch weiterverhandelt wird. Das Burgtheater besteht aber<lb/>
+darauf, daß der CSSR-Teilnehmer <name type="person" ref="per:128241">Pavel Landovský</name> in einer stummen<lb/>
+Rolle wieder daran teilnimmt. Dies kann <name type="person" ref="per:97668">Kreisky</name>, aber auch ich wirk<lb break="no"/>lich nicht verstehen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> hat den polnischen Restaurator <name type="person" ref="per:126408">Zinn</name> für <name type="person" ref="per:111741">Sekanina</name>, Schloßhof-<lb/>
+Renovierung, vermittelt. Jetzt dürfte die Bundesgebäudeverwaltung<lb/>
+Schwierigkeiten mit der Renovierung machen. <name type="person" ref="per:111741">Sekanina</name> erklärt, daß die<lb/>
+kleine Renovierung 350 Mio. kosten würde und die größere 500 Mio.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> möchte im Schloßhof ein österr.-franz. Management-Ausbildungs<lb break="no"/>institut, ähnlich wie IASA in Laxenburg, einquartieren. Da in der<lb/>
+Nähe der CSSR-Grenze ist, schwebt ihn für die Zukunft ein ohne Visa<lb/>
+freier Personenverkehr zwischen Ost und West vor. <name type="person" ref="per:111741">Sekanina</name> erörtert,<lb/>
+die Hauptschwierigkeit liegt darin, daß wenn <name type="person" ref="per:126408">Zinn</name> hier tätig wird, er<lb/>
+sich einen österr. Architekten aufgrund der gesetzlichen Bestimmungen<lb/>
+nehmen muß, dann würden S 40 Mio. Gebühren erwachsen. Ohne österr.<lb/>
+Architekten geht es nicht.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:110169">Nußbaumer</name> berichtet, daß jetzt für die Zinsenzuschußaktion Anträge<lb/>
+für 170 Mio. S vorliegen. 130 sind nur mehr vorhanden, 40 noch offen.<lb/>
+Da ein BÜG nicht in Frage kommt, schlägt er vor, man soll neuerdings<lb/>
+prüfen und wenn 1/3 nur mit 3 % Zinsenzuschuß, 2/3 aber mit 2 % nur<lb/>
+subventioniert werden, dann geht es sich aus. Das eine Drittel mit<lb/>
+3 % würde allein schon durch feste Zusagen der Steyr-Daimler-Puch<lb/>
+blockiert sein.<lb/>
+</p>
+            <pb n="58-0013" facs="58_1981-01-07_0013.jpg"/>
+            <p xml:space="preserve">Staatssekretär <name type="person" ref="per:111408">Eypeltauer</name> informiert <name type="person" ref="per:97668">Kreisky</name>, daß es jetzt zwischen<lb/>
+dem Bgm. <name type="person" ref="per:114604">Hillinger</name> und ihr zu einem großen Streit wegen der Abwärme<lb break="no"/>verwertung der Vöest gibt. <name type="person" ref="per:114604">Hillinger</name> beschuldigt <name type="person" ref="per:111408">Eypeltauer</name>, daß sie<lb/>
+sich für ESSO eingesetzt hat. Dadurch sind die Stadtwerke ESG ausge<lb break="no"/>schieden worden. Ich informiere <name type="person" ref="per:97668">Kreisky</name>, daß die die Abwärmeverwertung<lb/>
+der Vöest-Alpine nicht zuletzt auf Vorschlag vom Handelsministerium<lb/>
+erfolgt ist. <name type="person" ref="per:97668">Kreisky</name> meint, <name type="person" ref="per:114604">Hillinger</name> könne sich hier nicht dagegen<lb/>
+stellen, und ersucht mich, ich sollte mich als Vermittler einschalten<lb/>
+und meine guten Dienste anbieten.<lb/>
+</p>
+            <p xml:space="preserve">Nach einer Aussprache mit GD <name type="person" ref="per:125821">Krischai</name>, ESSO, und dem dafür Verant<lb break="no"/>wortlichen in der Firma Esso, <name type="person" ref="per:128472">Mraz</name>, telefoniere ich auch mit <name type="person" ref="per:114604">Hillinger</name>.<lb/>
+Die ESG hat 64 GW, die Firma Esso 110 GW, die ESG, GD <name type="person" ref="per:128469">Kubin</name> kann sei<lb break="no"/>ne Abwärme nicht zweckmäßig nützen und versucht daher durch Aufgra<lb break="no"/>bungsverhinderung der ESSO sich eine bessere Verhandlungsposition<lb/>
+und Absatzmöglichkeit zu schaffen. Nach Meinung von <name type="person" ref="per:125821">Krischai</name>, und<lb/>
+auch <name type="person" ref="per:114604">Hillinger</name> gibt mir dies dann zu, kann man bei zweckmäßiger Ab<lb break="no"/>grenzung für beide entsprechende Abwärmemöglichkeiten schaffen. Esso<lb/>
+hat bereits im Bindermichl 3500 Wohnungen, wird neue 2.000 Wohnungen<lb/>
+bei Oed bekommen, auch das Hotel Waldegg, ehemaliges Esso-Hotel, wird<lb/>
+angeschlossen. Darüber ist die ÖBB angeschlossen, das Landeskranken<lb break="no"/>haus und WIFI werden verhandelt. Für eine große Siedlung in Ebelsberg,<lb/>
+Auwiesen gibt es aber für alle noch entsprechende Ausdehnungsmöglich<lb break="no"/>keiten.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:114604">Hillinger</name> behauptet mir gegenüber, daß die Vöest, GD <name type="person" ref="per:97315">Apfalter</name>, die<lb/>
+ESG nicht entsprechend behandelt hat. Da vom Vöest-Vorstand zwei<lb/>
+schwarze Direktoren <name type="person" ref="per:132713">Fegerl</name> und <name type="person" ref="per:128470">Pfeil</name> verhandelt haben, wurde dann un<lb break="no"/>verzüglich abgebrochen und die Vöest hat mit Esso, ohne daß die Ge<lb break="no"/>meinde davon wußte, an einem 20-jährigen unkündbaren Vertrag abge<lb break="no"/>schlossen. <name type="person" ref="per:97315">Apfalter</name> erklärt mir wieder, der Hauptgrund war, daß die<lb/>
+ESG nur 16 g bezahlen wollte, während die ESSO 24 g breit ist zu be<lb break="no"/>zahlen. Die Vöest muß 180 Mio. S investieren, die ESG hat behauptet<lb/>
+120 Mio. in den Leitungsbau investieren zu müssen, weshalb sich eine<lb/>
+Subvention von 300 Mio. S als notwendig erwiesen hätte. Scheinbar<lb/>
+rechnete man damit, daß das Handelsministerium diese Beträge aufbrin<lb break="no"/>gen kann. ESSO rechnet mit keinerlei Subvention, sie braucht nur<lb/>
+S 30 Mio. Investitionen für Leitungsbau und 5 Mio. für eine Pumpsta<lb break="no"/>tion. Das alles kann sie aus eigenen Mitteln finanzieren und trotzdem<lb/>
+24 g der Vöest bezahlen. <name type="person" ref="per:125821">Krischai</name> hat nach längerer Aussprache eben<lb break="no"/>so wie <name type="person" ref="per:114604">Hillinger</name> dann am Telefon zugesichert, daß sie bereit wären,<lb/>
+sich zusammenzusetzen und eine Abgrenzung zu versuchen. Ich habe an<lb/>
+<pb n="58-0014" facs="58_1981-01-07_0014.jpg"/>beide appelliert, so schnell als möglich zu einer Einigung zu kommen.<lb/>
+Sollte dies wider Erwarten nicht eintreffen, so werde ich unter mei<lb break="no"/>nem Vorsitz eine diesbezügliche Besprechung einberufen.<lb/>
+</p>
+            <p xml:space="preserve">GD <name type="person" ref="per:126973">Lap</name> von Philips ist voller Hoffnung, daß die Fernsehröhrenpro<lb break="no"/>duktion in Österreich verstärkt werden kann. Bezüglich des Wunsches<lb/>
+der Firma Grundig, 120.000 Stück Fernsehröhren aus Japan zollfrei ein<lb break="no"/>zuführen, ist er zwar sehr traurig, nimmt aber diese Kompromißlösung,<lb/>
+ohne sich dazu zu äußern, zur Kenntnis. Grundig hat ja 150.000 ver<lb break="no"/>langt, der Philips-Vorstandsvertreter 100.000 zugestanden. 120.000<lb/>
+als Kompromiß kann also eine Lösung für alle sein. Ich informiere<lb/>
+Sekt.Chef <name type="person" ref="per:108322">Meisl</name> sofort über dieses Ergebnis. <name type="person" ref="per:108322">Meisl</name> wird aktmäßig<lb/>
+nach nochmaliger Rücksprache mit dem Philips-Vorstand die Angelegen<lb break="no"/>heit in diesem Sinne bereinigen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Jour-Fixe AK und HK setzen.<lb/>
+</p>
+            <p xml:space="preserve">Die kath. Jungschar führt Jahr für Jahr Sternsingen durch. Bis jetzt<lb/>
+ist der Sternträger mit den heiligen drei Königen gekommen. Dafür<lb/>
+haben die Frau Staatssekretär <name type="person" ref="per:109808">Albrecht</name> und ich jeweils je S 500,–– und<lb/>
+entsprechende Bonbonnieren vorbereitet. Diesmal kamen aber nicht vier,<lb/>
+sondern acht. Die kath. Jungschar ist hier wirklich sehr aktiv.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:125291">MARTIN</name>: Bitte nächstes Mal erkundigen, wieviele kommen,<lb/>
+damit wir entsprechende kleine Präsente haben.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="58_0004_01" facs="58_1981-01-07_0004-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 7.1.1981</head>
+         </div>
+         <pb n="58_0004_02" facs="58_1981-01-07_0004-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+         <pb n="58_0014_01" facs="58_1981-01-07_0014-01.jpg"/>
+         <pb n="58_0014_02" facs="58_1981-01-07_0014-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesordnung 70. Ministerratssitzung, 7.1.1981</head>
+            <gap reason="sampling"/>
+            <pb n="58_0014_03" facs="58_1981-01-07_0014-03.jpg"/>
+         </div>
+         <pb n="58_0014_04" facs="58_1981-01-07_0014-04.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>hs. Notizen (TO Ministerratssitzung Rückseite)</head>
+         </div>
+         <pb n="58_0014_05" facs="58_1981-01-07_0014-05.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Entwurf TO 70. Ministerratssitzung, 7.1.1981</head>
+         </div>
+         <pb n="58_0014_06" facs="58_1981-01-07_0014-06.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>hs. Notizen (Entwurf TO MR-Sitzung Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

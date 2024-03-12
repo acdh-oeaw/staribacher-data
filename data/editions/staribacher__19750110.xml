@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der 10. Jänner 1975</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band24_1975-01-10</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1975-01-10">Freitag, 10. Januar 1975</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-11-14">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="24-0028" facs="24_1975-01-10_0028.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Freitag, 10. Jänner 1975<lb/>
+</p>
+            <p xml:space="preserve">Im Unterausschuss für das Elektrizitätswirtschaftsgesetz<lb/>
+wurde zum viertenmal von der ÖVP der Versuch gemacht, die Wün<lb break="no"/>sche der Handelskammer durchzusetzen. Man ist sich eigentlich<lb/>
+über alles einig, bis auf den Punkt, ob auch Gemeinschaftskraft<lb break="no"/>werke von Unternehmen entstehen sollten oder ob Unternehmungen<lb/>
+an ihre mindestens mit 25 % Beteiligung ausgestatteten Töchter<lb/>
+Strom liefern dürfen. Experten wurden gehört und ich weiss<lb/>
+nicht was noch alles auch von der ÖVP inszeniert, um mit<lb/>
+dieser Idee durchzudringen. Zum Schluss hat der Vorsitzende<lb/>
+Abg. <name type="person" ref="per:139888">Blenk</name> nur mehr die Möglichkeit gesehen, dass sie versuchen,<lb/>
+innerhalb ihrer eigenen Partei zwischen den Elektrizitätsver<lb break="no"/>sorgungsunternehmungen und der Handelskammer zu einer Einigung<lb/>
+zu gelangen. Wenn dies der Fall wäre, dann würden wir dieses<lb/>
+Problem neuerdings bei der letzten und nächsten Ausschussitzung<lb/>
+diskutieren. Ansonsten soll nur mehr eine Redaktionssitzung<lb/>
+stattfinden. Als ich die Sitzung verliess, hat mir dann Min.Rat<lb/>
+<name type="person" ref="per:139463">Schmidt</name> von unserer E-Sektion zugeflüstert, dass es eigentlich<lb/>
+auf Grund des zweiten Verstaatlichungsgesetzes gar keine Möglich<lb break="no"/>keit gibt, dass Privatunternehmer Strom in Österreich leiten, denn<lb/>
+dies sei soweit es sich um Ländergrenzen handelt, innerhalb des<lb/>
+Landes auf alle Fälle den Landesgesellschaften und soweit es sich um<lb/>
+über Länder hinausgehende Leitungen handelt, dem Bund vorbe<lb break="no"/>halten. Ich habe dies natürlich sofort <name type="person" ref="per:139888">Blenk</name> und <name type="person" ref="per:112149">Gorton</name> mitgeteilt<lb/>
+die dies prüfen wollen. Ich zweifle nicht, dass dies zutrifft,<lb/>
+nur frage ich mich, warum dann dieser Beamte nicht bereits dies<lb/>
+schon bei der ersten Sitzung erklärt hat.<lb/>
+</p>
+            <p xml:space="preserve">Dr. <name type="person" ref="per:114709">Krebs</name>, FV-Direktor von Wien, hat den Wunsch, dass auch die<lb/>
+Wiener Belange mehr berücksichtigt werden. Er verwies darauf,<lb/>
+dass im Städtetourismus bis jetzt fast nichts geschehen ist<lb/>
+und dass vor allem auch die Propaganda für Wien in den Bundes<lb break="no"/>ländern aber vor allem auch in der ÖFVW stärker betrieben werden<lb/>
+soll. Von der Ausstellung "Urlaub in Österreich", die das<lb/>
+Verkehrsministerium bis jetzt in der Sezession machte, hält er mit<lb/>
+Recht überhaupt nichts und die jetzt an diese Stelle tretende<lb/>
+Multimediaschau möchte er, dass auch zu den Messen nach Innsbruck,<lb/>
+Graz usw. kommt und nicht nur auf der Wiener Messe gezeigt wird.<lb/>
+</p>
+            <pb n="24-0029" facs="24_1975-01-10_0029.jpg"/>
+            <p xml:space="preserve"><name type="person" ref="per:111367">Würzl</name> wird sich dieses Problems annehmen.<lb/>
+</p>
+            <p xml:space="preserve">Die Bürobesprechung hatte ich gewünscht, damit wir über die personel<lb break="no"/>len Probleme insbesondere Aktiven Einsatz der Ministerialbeamten<lb/>
+reden. Derzeit ist es nach wie vor so, dass wenn irgendwelche<lb/>
+aktive Probleme auftauchen, ein Beamter dafür ressortmässig nur<lb/>
+zuständig ist, und dieser meistens auch von den anderen kaum un<lb break="no"/>terstützt wird. Meine diesbezügliche Intervention z.B. bei Sekt.<lb/>
+Chef <name type="person" ref="per:107939">Römer</name> hat dazu geführt, dass er dann doch für <name type="person" ref="per:108746">Haffner</name> eine<lb/>
+Arbeitsgruppe oder wie es jetzt so schön heisst Projektteam ein<lb break="no"/>setzte, wieder allerdings aus <name type="person" ref="per:97493">Gröger</name> und <name type="person" ref="per:140290">Mitterhauser</name>. Immer wieder<lb/>
+werden die jungen aktiven Leute zusammengefasst und die anderen<lb/>
+bleiben mehr oder minder ungeschoren. <name type="person" ref="per:97543">Heindl</name> ist der Meinung, dass<lb/>
+es uns aber auf diese Weise niemals gelingen wird, eine grössere<lb/>
+Aktivität des Hauses zu erreichen. Er meint, wir sollten die Ver<lb break="no"/>antwortung ausschliesslich dort belassen, wo sie auch auf Grund der<lb/>
+Geschäftseinteilung ist, d.h. den Sektionschefs den Abteilungsleiter<lb/>
+gegebenenfalls den Referenten dafür verantwortlich machen und er<lb/>
+wird sich dann schon die notwendige Unterstützung holen. Hier<lb/>
+glaube ich irrt <name type="person" ref="per:97543">Heindl</name>, denn liegt die ressortmässige Zuteilung bei<lb/>
+einem aktiven Mann, dann wir dieser sein möglichstes tun, aber sehr<lb/>
+bald dann an unzulänglicher Unterstützung scheitern, liegt sie bei<lb/>
+einem reinen Bürokraten, wird er einen Akt anlegen und ganz ein<lb break="no"/>fach eben nur einen Bruchteil der Arbeit, die notwendig wäre, leisten.<lb/>
+Das einzige, was sicher ist, er wird in kürzester Zeit in Kranken<lb break="no"/>stand gehen, weil er sich überfordert vorkommen wird.<lb/>
+</p>
+            <p xml:space="preserve">Typisch für unser Bürogespräch war auch, dass wir weniger über<lb/>
+dieses langfristige Problem uns unterhielten als sofort beim Zucker<lb/>
+und die Versorgung mit Zucker landeten. <name type="person" ref="per:97646">Koppe</name> hat vom propagandi<lb break="no"/>stischen Standpunkt vollkommen recht. als er mir nachher empfahl,<lb/>
+wir sollten unter allen Umständen ein Süssbuch vorbereiten oder<lb/>
+zumindestens ankündigen, damit wir aus der Verteidigung heraus<lb/>
+in die Offensive kommen. Wenn ich dies bis jetzt nicht getan habe<lb/>
+und auch jetzt glaube, dass der Zeitpunkt noch zu früh ist, so deshalb,<lb/>
+weil wir eigentlich selbst noch nicht genau wissen, wie wir aus die<lb break="no"/>sem Schlamassel herauskommen. Die Zuckerindustrie, die anschliessend<lb/>
+daran vorgesprochen hat, <name type="person" ref="per:117100">Habig</name>, <name type="person" ref="per:137218">Angyan</name> und <name type="person" ref="per:117098">Vogler</name>, meint noch<lb/>
+immer, die einzige Lösung ist, den Zuckerpreis auf 10.– S zu erhöhen,<lb/>
+<pb n="24-0030" facs="24_1975-01-10_0030.jpg"/>dann würden ihrer Meinung nach sofort alle Hamsterkäufe aufhören<lb/>
+und man könnte jede Zuckerkontingentierung freigeben. Diese Meinung<lb/>
+teile ich deshalb nicht, weil bekanntlich auch bei einem 10.-S-Preis<lb/>
+noch immer der Weltmarktpreis wesentlich höher liegt und deshalb<lb/>
+die zuckerverarbeitende Industrie alles daran setzen wird, um sich<lb/>
+mit diesem noch immer verhältnismässig billigeren Inlandszucker einzud<lb break="no"/>ecken. Auch wenn die Exporte einigermassen gestoppt sind, bin ich<lb/>
+überzeugt davon, dass noch immer grössere Mengen Zucker ins Ausland<lb/>
+in verarbeiteten Produkten gehen. Die einzige Möglichkeit wäre,<lb/>
+den Zucker zuerst auf einen Irrsinnspreis von 15 – 20.– S zu erhöhen,<lb/>
+um dann eine Woche darauf zu erklären, dieser Preis ist jetzt fallend<lb/>
+und wir auf 10.– S zurückgenommen. Dann würde wahrscheinlich bei<lb/>
+15.– bis 20.– S niemand mehr Zucker zusätzlich kaufen und wenn man<lb/>
+den Preis dann senkt, würde er sich auf eine normale Versorgung<lb/>
+einpendeln. So würde zumindestens ein freie Zuckerpreismarkt reagieren<lb/>
+nur die preisgeregelte Möglichkeit gibt es aus politischen<lb/>
+Gründen nicht.<lb/>
+</p>
+            <p xml:space="preserve">Die Zuckerindustrie wollte mir allerdings nur auseinandersetzen, dass<lb/>
+es von ihrem Standpunkt unmöglich ist, dass ich jetzt einen Rüben<lb break="no"/>preis festlege, da sie auf Grund ihres privatwirtschaftlichen Ver<lb break="no"/>trages nur dann einen höheren Rübenpreis zahlen, wenn sie gleichzeitig<lb/>
+auch den entsprechenden Verbraucherpreis festgesetzt bekommen. Da<lb/>
+ich mich-in ihren privatwirtschaftlichen Vertrag überhaupt nicht<lb/>
+einmische, habe ich sofort erklärt, dass dies ihr Problem ist. Für<lb/>
+mich ist nur entscheidend, dass im Laufe des Monats Jänner die Rübenbau<lb break="no"/>ern wissen müssen, dass sie einen höheren Rübenpreis bekommen, damit<lb/>
+sie gegebenenfalls doch noch vereinzelt ihre Rübenanbaufläche ver<lb break="no"/>grösseren. Sicher ist und hier hat <name type="person" ref="per:97543">Heindl</name> vollkommen recht, dass<lb/>
+die Rübenbauern bereits im vorigen Herbst, als sie die Anbauüber<lb break="no"/>legungen anstellten, die entsprechenden Feldvorbereitungen getroffen<lb/>
+haben. Wenn sie damals bereit waren, mehr Rübe anzubauen, so werden<lb/>
+sie das auch heuer bestimmt tun. Vielleicht kann noch ein höherer<lb/>
+Rübenpreis ein bisschen dazu beitragen, die Anbaufläche zu sichern.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:98040">WAIS</name> UND <name type="person" ref="per:113038">REIM</name>: Wir sollten mehr die agrarpolitischen<lb/>
+und agrartechnischen Überlegungen bei solchen Problemen kennen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="24_0027_01" facs="24_1975-01-10_0027-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 10.1.1975</head>
+         </div>
+      </back>
+   </text>
+</TEI>

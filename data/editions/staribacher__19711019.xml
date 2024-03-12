@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstag, der 19. Oktober 1971</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band08_1971-10-19</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1971-10-19">Dienstag, 19. Oktober 1971</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-09-11">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="08-1205" facs="08_1971-10-19_1205.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Dienstag 19. Oktober 1971<lb/>
+</p>
+            <p xml:space="preserve">Die nationalen Fluglinien sollen durch Vereinbarungen geschützt<lb/>
+werden, damit Charterflugzeuge nicht Liniendienst versehen. Des<lb break="no"/>halb gibt es eine internationale d.h. europäische Bestimmung,<lb/>
+dass Charterreisen mindestens eine Woche dauern sollen. Diese<lb/>
+Bestimmung wird aber – das behaupten zumindestens die englischen<lb/>
+Veranstalter – in zwanzig Staaten nicht eingehalten. Nur Wien, d.h.<lb/>
+Österreich hält sich genau an diese Bestimmung. Den schweizerischen<lb/>
+Chartergesellschaften wurde deshalb die Landung in Wien verboten und<lb/>
+sie wichen aus Bratislava aus. Die Fremdenverkehrszeitung Austia-<lb/>
+Tourist hat dieses Problem aufgegriffen und die Regierung hart<lb/>
+attackiert. Jetzt wurden sogar englische Fluggesellschaften aus<lb break="no"/>geschlossen. Eine englische Frauenzeitung in Lancaster wollte im<lb/>
+Oktober 4 Charterflüge nach Österreich veranstalten. Da eine Ver<lb break="no"/>einbarung existiert, dass nur pro Firma 1<add>[Flug]</add> möglich ist pro Monat,<lb/>
+wurden sie nicht erlaubt. Die Zeitung resp. die Reisebüros waren<lb/>
+aber imstande, vier verschiedene Gesellschaften für diese Flüge<lb/>
+zu finden, sodass das Ministerium die Oberste Luftfahrtbehörde<lb/>
+– Verkehrsministerium – nichts dagegen machen konnte. Einer<lb/>
+anderen Veranstaltergruppe, der man noch in Österreich zugesagt<lb/>
+hat, dass die Behörden sie unterstützen werden, wenn sie Gäste nach<lb/>
+Österreich bringen, hat diese Möglichkeit nicht gehabt oder nicht ge<lb break="no"/>wusst. Die Oberste Luftfahrtbehörde hat deshalb auf Intervention<lb/>
+der AUA diese Charterflüge nicht genehmigt. Die Zeitungen griffen<lb/>
+dieses Problem natürlich auf und haben die Regierung insbesondere<lb/>
+<name type="person" ref="per:97461">Frühbauer</name> aber auch mich hart attackiert. Nach einer Rücksprache<lb/>
+mit Sekt.<add>[-Chef]</add> <name type="person" ref="per:137381">Fischer</name> – durch die Abwesenheit von <name type="person" ref="per:97461">Frühbauer</name> bedingt –<lb/>
+habe ich den Eindruck gewonnen, dass man im Verkehrsministerium<lb/>
+dieser Entscheidung nicht sehr sicher gewesen ist. <name type="person" ref="per:137381">Fischer</name> meinte,<lb/>
+dies sei eine hochpolitische Frage und müsste von der Regierung<lb/>
+entschieden werden. Nach telefonischer Rücksprache mit <name type="person" ref="per:97461">Frühbauer</name>,<lb/>
+der in Kärnten war, konnten wir uns dann noch vor dem Ministerrat<lb/>
+doch auf eine Lösung einigen. Er wird bis auf Feber alle Ansuchen<lb/>
+genehmigen und damit uns eine Zeitpause geben, wo wir dieses<lb/>
+Problem dann ernstlich diskutieren und entscheiden können. Ich<lb/>
+halte es für ein Fremdenverkehrsland für vollkommen unmöglich,<lb/>
+wenn solche administrative Beschränkungen, die ja einer nationalen<lb/>
+<pb n="08-1206" facs="08_1971-10-19_1206.jpg"/>Luftlinie auch nichts helfen und unserem Image als Fremdenverkehrs<lb break="no"/>land sehr schaden, gehandhabt werden. Präs. <name type="person" ref="per:137876">Walsh</name>, der ist der Vor<lb break="no"/>sitzende des englischen Reisebüroverbandes ABTA, hat in dieser Ange<lb break="no"/>legenheit interveniert. Dr. <name type="person" ref="per:115175">Norden</name> von Autria-Tourist, den ich<lb/>
+von dem Ergebnis verständigt habe, wird sich mit den Engländern ins<lb/>
+Einvernehmen setzen und die positive Erledigung mitteilen. Dr. <name type="person" ref="per:115175">Norden</name><lb/>
+teilte mir auch mit, dass durch die Ablehnung der Landung der Schweizer<lb/>
+Firma BALAIR, <name type="person" ref="per:130192">Kreis</name>, der Flughafendirektor, behauptet, dass ihm dadurch<lb/>
+173.000 S an Landegebühren entgangen sind. Im Gesetz steht drinnen,<lb/>
+dass bei einer Prüfung eines solchen Ansuchens die gesamtwirtschaft<lb break="no"/>liche Nutzung berücksichtigt werden muss. Für mich ist es weniger hier<lb/>
+eine Frage, ob jemand 100.000 S mehr oder minder nicht verdient oder<lb/>
+verdient, sondern dass mit einer solchen Einstellung der Eindruck<lb/>
+in der Welt verstärkt wird, dass Österreich gar nicht so fremdenver<lb break="no"/>kehrsfreundlich, sondern vielleicht sogar fremdenverkehrsfeindlich ist.<lb/>
+Mir vollkommen unerklärlich ist aber, dass auf eine Abschrift eines<lb/>
+Briefes, wie ich ihn jetzt in die Hand bekommen habe und wo klar und<lb/>
+deutlich ersichtlich, dass auch unser Haus, Dr. <name type="person" ref="per:134297">Karwinsky</name>, davon ge<lb break="no"/>wusst hat, mir überhaupt keine Mitteilung zugegangen ist. In diesem<lb/>
+Falle hätte ich unverzüglich telefonisch informiert werden müssen, damit<lb/>
+ich mit <name type="person" ref="per:97461">Frühbauer</name> die Verhandlungen aufnehme um zu einer Lösung zu<lb/>
+kommen. Statt dessen hat man wahrscheinlich einen Akt angelegt und<lb/>
+die ganze Sache auf sich beruhen lassen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Bitte, den Fall genau untersuchen und für die<lb/>
+nächste Sektionsleitersitzung eine entsprechende Stellungnahme vor<lb break="no"/>bereiten. Ich werde nämlich dezidiert erklären, d.h. ausnahmsweise<lb/>
+wirklich eine Weisung geben, dass in solchen Fällen unverzüglich te<lb break="no"/>lefonisch mir Mitteilung gemacht werden muss, damit ich versuchen<lb/>
+kann, Abhilfe zu schaffen.<lb/>
+</p>
+            <p xml:space="preserve">In der Sektionsleiterbesprechung habe ich nämlich neuerdings darauf<lb/>
+hingewiesen, dass das Telefon ein gutes Kommunikationsmittel des<lb/>
+20. Jahrhunderts ist. Zu meinem grössten Bedauern wird es noch immer<lb/>
+nicht benützt. Die Erklärung liegt darin, dass jeder einzelne Beamte,<lb/>
+wenn er eine schriftliche Mitteilung macht, d.h. einen Akt anlegt,<lb/>
+dann die Gewähr hat, dass sein Vorgesetzter diesen Akt sieht, ihn<lb/>
+approbiert und er damit jedweder Sorge enthoben ist, dass er gegen irgend<lb break="no"/>welche Meinungen seiner Vorgesetzten verstösst. Wenn er sich direkt mit<lb/>
+mir in Verbindung setzt, wird der Vorgesetzte ausgeschaltet und er weiss<lb/>
+<pb n="08-1207" facs="08_1971-10-19_1207.jpg"/>ausserdem nicht, ob er damit nicht grosse Schwierigkeiten inner<lb break="no"/>halb der Hierarchie hat. Hier gilt der Guundsatz, red' nicht mit<lb/>
+deinem Fürscht, wenn Du nicht gerufen wirst. Eine schreckliche<lb/>
+Arbeitsmethode. Vielleicht war es Zufall, aber nach der Sektions<lb break="no"/>leitersitzung wurde ich dann doch von <name type="person" ref="per:97867">Reiterer</name> telefonisch ver<lb break="no"/>ständigt, dass die dänische Regierung, Min.Präs. <name type="person" ref="per:137877">Krag</name>, im Reichs<lb break="no"/>tag eine Importsteuer von 10 % – ähnlich den Amerikanern – einbringen<lb/>
+will. Lebensmittel und Rohstoffe sind ausgenommen und ein Abbauplan<lb/>
+ist dieser 10 %-igen surcharge ist für 1.4.1973, wo Dänemark de<lb/>
+facto der EWG beitritt, vorgesehen. Ich konnte diese Mitteilung bei<lb/>
+<name type="person" ref="per:97311">Androsch</name> gleich als Aufhänger benützen, um seine Zustimmung für die<lb/>
+Änderung der Bedingungen des Gewerbestrukturverbesserungsgesetzes<lb/>
+zu erhalten.<lb/>
+</p>
+            <p xml:space="preserve">Im Gewerbestrukturverbesserungsgesetz haben wir durch die Normalfälle<lb/>
+einen Überhang für das nächste Jahr von 40 Mill. S, das ist mehr<lb/>
+als 2/3 der gesamten Einnahmen. Um diese Normalfälle abwickeln zu<lb/>
+können, hätten sich die Banken bereiterklärt, die ursprünglich darauf<lb/>
+bestanden haben, dass sie bei der Zuteilung des Kredites sofort die<lb/>
+Zinsenstützung auf einmal ausbezahlt bekommen, diese Zinsstützung<lb/>
+in Jahresraten zu akzeptieren. Für mich ist es vollkommen uner<lb break="no"/>klärlich, wieso die Banken auf diesen Vorteil, den sie sich bei der<lb/>
+Erstellung des Gesetzes zwischen Finanzminister <name type="person" ref="per:97647">Koren</name>, dem BHK-<lb/>
+Sekretär <name type="person" ref="per:97769">Mussil</name> und dem Gesch.-Führer von der Bürges <name type="person" ref="per:97649">Korinek</name> heraus<lb break="no"/>gefetzt haben, verzichten. Vielleicht haben sie gegenüber ihren<lb/>
+eigenen Kunden ein schlechtes Gefühl und sind deshalb bereit, mit<lb/>
+einer Lösung, wonach sie nach Ratenanfall die entsprechende Stützung<lb/>
+erst bekommen, einverstanden zu sein. Vielleicht aber steckt auch ein<lb/>
+Wurm in dieser ganzen Sache. Ich bin deshalb sehr froh, dass <name type="person" ref="per:97311">An<lb break="no"/>drosch</name> erklärt hat, er wird dieses Problem von seinen Herren kurz<lb break="no"/>fristig überprüfen lassen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Bitte feststellen, ob vielleicht auch bei uns<lb/>
+jemand draufkommt, was der Grund ist, dass die Banken jetzt eine sol<lb break="no"/>che Schwenkung um 180 Grad vorgenommen haben.<lb/>
+</p>
+            <p xml:space="preserve">Im Ministerrat haben wir das Budget beschlossen, damit es bis zum<lb/>
+22. Oktober – wie das Gesetz es vorsieht – im Nationalrat eingebracht<lb/>
+werden kann. Da mit Ende der Legislaturperiode die ganzen Gesetze,<lb/>
+die nicht erledigt sind, als null und nichtig gelten, müssen wir<lb/>
+<pb n="08-1208" facs="08_1971-10-19_1208.jpg"/>das Finanzgesetz neuerdings beschliessen und dem neuen National<lb break="no"/>rat zuleiten.<lb/>
+</p>
+            <p xml:space="preserve">Ich hatte vor der Sitzung Landwirtschaftsminister <name type="person" ref="per:98055">Weihs</name> über meine<lb/>
+Verhandlungen in Venedig informiert und daher in seinem und des<lb/>
+Aussenministers Namen einen kurzen mündlichen Bericht für das<lb/>
+Protokoll gegeben. Ich berichtete aber nur die Tatsache, dass ich<lb/>
+mit Staatssekretär <name type="person" ref="per:137353">Belci</name> zusammengekommen bin, um Agrarprobleme<lb/>
+im Rahmen der EWG-Verhandlungen zu besprechen und gar nichts<lb/>
+über den Inhalt.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97632">Kirchschläger</name> berichtete, dass nun eine SALT-Konferenz beginnen<lb/>
+wird, die mit ganz kurzer Unterbrechung zu Weihnachten bis zur<lb/>
+<name type="person" ref="per:127591">Nixon</name>-Reise zu Sowjetunion dauern wird. Das Ergebnis wird das<lb/>
+erste Mal nach dem zweiten Weltkrieg zu einen tatsächlichen<lb/>
+Rüstungsstopp führen, wenn nicht neuerdings etwas dazwischen<lb/>
+kommen sollte.<lb/>
+</p>
+            <p xml:space="preserve">Die Regierung beschloss die Demission und wir begaben uns an<lb break="no"/>schliessend sofort zum Bundespräsidenten. Der Bundespräsident<lb/>
+betraute uns mit der Führung der Geschäfte und fragte anschlies<lb break="no"/>send, was im Ministerrat heute gewesen sei. <name type="person" ref="per:97668">Kreisky</name> hatte sofort<lb/>
+einen guten Gag – er hat nämlich als er die Demission im Minister<lb break="no"/>rat mitteilte, eine Unruhe bemerkt, allerdings, weil <name type="person" ref="per:98055">Weihs</name> und<lb/>
+ich über irgendetwas anderes gerade gesprochen haben. Darauf meinte<lb/>
+<name type="person" ref="per:97668">Kreisky</name>, ob jemand gegen die Demission Stellung nehmen würde. Was<lb/>
+natürlich allgemeines Gelächter auslöste. Diesen Gag benützte er<lb/>
+aber jetzt, um dem Bundespräsidenten zu sagen, dass einige Mit<lb break="no"/>glieder nicht demissionieren wollten.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97668">Kreisky</name> hat gestern mit Gen.Direktor <name type="person" ref="per:97470">Geist</name> von der ÖIAG und <name type="person" ref="per:108224">Lütgen<lb break="no"/>dorf</name> das Problem Hirtenberg besprochen. Als neue Variante schwebt<lb/>
+ihm vor, dass die 20 %-ige Beteiligung der Franzosen in Hirtenberg<lb/>
+ausgebaut werden könnte, wenn die Franzosen ein Konzept der Pro<lb break="no"/>duktionsaufrechterhaltung liefern. Die Übertragung von Hirtenberg,<lb/>
+d.h. den Kauf von <name type="person" ref="per:117013">Mandl</name> durch die Stickstoffwerke, <name type="person" ref="per:112054">Buchner</name>, wurde<lb/>
+überhaupt nicht mehr in Erwägung gezogen. Ich glaube, wir sollten<lb/>
+deshalb diesen Plan, den ich von allem Anfang an nicht viel Chancen<lb/>
+gegeben hatte, da <name type="person" ref="per:112054">Buchner</name> auf der einen Seite bei <name type="person" ref="per:97668">Kreisky</name> und<lb/>
+<name type="person" ref="per:97311">Androsch</name> nicht sehr beliebt ist und auf der anderen Seite aber<lb/>
+<pb n="08-1209" facs="08_1971-10-19_1209.jpg"/>auch gar keine Liquidmittel dafür zu Verfügung hat, weiter zu ver<lb break="no"/>folgen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: <name type="person" ref="per:112049">Rimsky</name> versucht natürlich alle Möglichkeiten auszu<lb break="no"/>nützen, um doch im Gespräch zu bleiben. Ich befürchte aber, dass jedwede<lb/>
+Verhandlung mit den Stickstoffwerken nur verlorener Zeitaufwand ist.<lb/>
+</p>
+            <p xml:space="preserve">In der Dienstbesprechung wurde uns auch mitgeteilt, dass in der Bundes<lb break="no"/>prüfanstalt für Kraftfahrzeuge noch immer keine Heizungsmöglichkeit<lb/>
+existiert. Ein Lokomobil, welches man dort aufgestellt hat, funktioniert<lb/>
+nicht. Da wir infolge der Wahlpropaganda auf alle Fälle die Dienst<lb break="no"/>stellen besuchen wollten, benützte ich die Gelegenheit, um sofort spon<lb break="no"/>tan zu erklären, ich werde mir die ganze Sache ansehen. Ich ersuchte<lb/>
+<name type="person" ref="per:97915">Schipper</name> mitzukommen. Tatsächlich steht ein Lokomobil jetzt dort<lb/>
+und tatsächlich werden auch von Firmen die Anschlüsse durch entsprechende<lb/>
+Schweissung der Rohre vorbereitet. Die eine Firma arbeitet wirklich<lb/>
+fleissig und sicherlich zeitgerecht bis Freitag fertig werden. Den<lb/>
+Anschluss aber für die Kraftfahrprüfanstalt hat eine andere Firma<lb/>
+bekommen. Für mich ist dies vollkommen unerklärlich, da nämlich nur<lb/>
+im selben Raum verschiedene andere Röhrln angeschweisst werden müssten.<lb/>
+Die Ingenieur vom Bautenministerium haben allerdings mit Kopf verbürgt<lb/>
+wie ich von ihnen verlangt habe – dass spätestens nächsten Montag die<lb/>
+Heizung funktionieren wird. Da die Arbeiter sehr ungläubig dreinschauten<lb/>
+fragte ich sie beim Hinausgehen, ob sie auch dieser Meinung sind.<lb/>
+Bei der Gelegenheit erfuhr ich eben, dass eine andere Firma den Anschluss<lb/>
+dann vornehmen wird. Dies hat der Ingenieur aber auch nicht gewusst u.<lb/>
+den Bauleiter gefragt, ob tatsächlich bis Freitag alles fix und fertig<lb/>
+sein wird, was dieser bejahte.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:97543">HEINDL</name>: Bitte, Freitag erkundigen, ob dies tatsächlich<lb/>
+der Fall ist.<lb/>
+</p>
+            <p xml:space="preserve">Beim Durchgang durch die einzelnen Räume konnte man verschiedene Reak<lb break="no"/>tionen auf meine Frage, ob es sehr kalt ist und dass am Montag ja<lb/>
+dann die Heizung endgültig funktionieren wird, feststellen. Ein Be<lb break="no"/>diensteter meinte sogar, wir haben im 45er-Jahr mehr gefroren. Was stimmt,<lb/>
+was mich aber umso mehr überraschte, dass ein Bediensteter einen sol<lb break="no"/>chen Vergleich anstellt und damit eigentlich zum Ausdruck bringt, dass<lb/>
+er Verständnis für die jetzige Lage hat. Ich selbst muss allerdings<lb/>
+gestehen, dass ich dafür gar kein Verständnis habe, denn man hätte<lb/>
+dies alles schon vor etlichen Wochen in Angriff nehmen können und nicht<lb/>
+erst zuwarten, bis im letzten Moment irgendwelche Aufträge vom Minister<lb/>
+<pb n="08-1210" facs="08_1971-10-19_1210.jpg"/>kommen, damit für die Heizung der Bediensteten gesorgt wird. Der Leiter<lb/>
+des Amtes und sein Stellvertreter wollten bei dieser Gelegenheit von<lb/>
+mir die Zustimmung, dass sie doch den Elektromechaniker einstellen<lb/>
+können. Wie wir dabei in Erfahrung bringen konnten, hatte der Mann bereits<lb/>
+bei seiner Firma gekündigt, war auch bereits bei der Bundesprüfanstalt<lb/>
+eingestellt und rechnet nun fest, angestellt zu werden. Das Präsidium<lb/>
+hätte eine Zusage der Bundesprüfanstalt gegeben und nun könnten sie<lb/>
+diese Zusage nicht einlösen, weil ich auf dem Standpunkt stehe, dieser<lb/>
+Dienstposten sollte aufgespart werden. Mit dem Polizeipräsident <name type="person" ref="per:131046">Holaubek</name><lb/>
+habe ich auch vereinbart, dass er den abberufenen Polizisten, der dies<lb/>
+bis jetzt prüft, durch einen anderen ersetzt. Jetzt stellte sich dann<lb/>
+heraus, dass wir nicht einen Dienstposten frei haben, sondern dass wir<lb/>
+angeblich drei freie Dienstposten haben und deshalb mit Recht einen<lb/>
+Mann aufnehmen könnten. <name type="person" ref="per:97543">Heindl</name> hat dann mit <name type="person" ref="per:114994">Böhm</name> eine richtige Lösung<lb/>
+gefunden. Wir wollten nämlich den Elektromechaniker nicht schädigen<lb/>
+der in seiner Firma bereits gekündigt hat und auf der anderen Seite<lb/>
+aber nicht auf den Dienstposten verzichten wollte. So einigte sich <name type="person" ref="per:97543">Heindl</name><lb/>
+mit <name type="person" ref="per:114994">Böhm</name>, dass man zwar den Mann jetzt fix aufnimmt, gleichzeitig aber<lb/>
+mitgeteilt wird, dass der nächste der in Pension<lb/>
+geht in der Prüfanstalt nicht mehr ersetzt wird. Mein Eindruck war,<lb/>
+wie ich dort hingekommen bin, dass überhaupt sehr viele Leute herum<lb break="no"/>stehen, aber vielleicht ist das darauf zurückzuführen, dass nicht gerade<lb/>
+ein Stoss von überprüften Fahrzeugen anwesend war. Ich könnte mir<lb/>
+nämlich schon vorstellen, dass doch eine stossartige Abfertigung von<lb/>
+Fahrzeugen notwendig sein kann. Allerdings gebe ich zu bedenken, dass<lb/>
+wenn ab 1. Jänner die Kraftfahrverbände und insbesondere auch die Werk<lb break="no"/>stätten, die sich um die Kontrolle bemühen und bewerben, eingeschaltet<lb/>
+werden, dass kann ich mir sehr gut vorstellen, dass die Prüfanstalt in<lb/>
+kürzester Zeit kaum mehr die Vollbeschäftigung haben wird wie sie jetzt<lb/>
+zumindestens zu Stosszeiten zu verzeichnen hat. Ich persönlich würde näm<lb break="no"/>lich auch als Kraftfahrer immer die ARBÖ-Prüfstelle vorziehen als in<lb/>
+die Singrienergasse fahren und dort sogar noch 100 S Gebühren zu bezahlen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:98053">Wanke</name> hat mir Prof. <name type="person" ref="per:133317">Knapp</name> Verhandlungen geführt, damit er unsere Beamten<lb/>
+durch Vorträge aber vor allem einmal durch entsprechende Diskussion<lb/>
+schulen sollte und damit die Beamten auf ein höheres volkswirtschaftlichen<lb/>
+Niveau zu heben. Der ursprüngliche Sinn unserer ganzen Aktion war aber,<lb/>
+dass wir durch die Diskussion und durch gruppendynamische Vortragsmetho<lb break="no"/>den die Hierarchie auch in dieser Frage endgültig durchbrechen. Wir<lb/>
+haben uns vorgestellt, dass – wenn junge Leute sich wissenschaftlich<lb/>
+<pb n="08-1211" facs="08_1971-10-19_1211.jpg"/>und fachlich qualifizieren, in der Diskussion zeigen, was sie<lb/>
+können, dann auch bereit sein werden, gegenüber ihren Vorgesetzten<lb/>
+ihre Meinung zu vertreten. Ich selbst habe mir deshalb vorgenommen,<lb/>
+bei diesen Vorträgen nicht nur anwesend zu sein, sondern auch in<lb/>
+weiterer Folge die jungen Beamten zu ermutigen, ihre Meinung jeder<lb break="no"/>mann auch mir gegenüber zu vertreten. <name type="person" ref="per:98053">Wanke</name> selbst hat mir berichtet,<lb/>
+dass <name type="person" ref="per:133317">Horst Knapp</name> von dieser missionarischen Tätigkeit begeistert ge<lb break="no"/>wesen ist und er damit rechnet, dass wir einen ganz neuen Stil des<lb/>
+Vortrages und der Arbeitsgruppe und Arbeitsgruppendynamik bei uns<lb/>
+im Ministerium einführen könnten. Für die Vorträge hat <name type="person" ref="per:97915">Schipper</name> den<lb/>
+Vorsitz übernommen und <name type="person" ref="per:114994">Böhm</name> hat mit <name type="person" ref="per:97915">Schipper</name> gemeinsam vereinbart,<lb/>
+dass <name type="person" ref="per:133317">Horst Knapp</name> 3.000.– S pro Vortrag bekommen sollte. Für drei<lb/>
+Vorträge wären das 9.000.– S, ein verhältnismässig ganz schöner Betrag.<lb/>
+Zu meiner grössten Verwunderung hat dann <name type="person" ref="per:133317">Knapp</name> einen sehr interessanten<lb/>
+Vortrag verlesen, der aber wahrlich nicht die Grundlage eines Lehr<lb break="no"/>vortrages und schon gar nicht eines Diskussionsvortrages sein konnte.<lb/>
+Bei dem Vortrag selbst hat er noch mit einem Bleistift einige Druckfehler<lb/>
+oder Worte ausgebessert, d.h. er wird diesen ganzen Vortrag garantiert<lb/>
+in seinen Finanznachrichten oder sonstwo abdrucken. Eine an<lb break="no"/>schliessende Aussprache mit ihm hat mich in der Überzeugung gestärkt,<lb/>
+dass er gar nicht daran denkt, diese missionarische Tätigkeit bei<lb/>
+uns im Handelsministerium durchzuführen. Er meinte nur, es hätte<lb/>
+ihm <name type="person" ref="per:97915">Schipper</name> mitgeteilt, dass auch hauseigene Leute jetzt weitere<lb/>
+Vorträge halten werden und er sich's überlegen wird, ob er daran eventuel<lb break="no"/>le Diskussionen anschliessend als Diskussionsleiter führen wird.<lb/>
+Darüber hinaus zeigte er überhaupt kein Animo, neue Methoden, die <name type="person" ref="per:98053">Wanke</name><lb/>
+mit ihm besprochen hat, auch tatsächlich einzuführen. Hatte <name type="person" ref="per:98053">Wanke</name> noch<lb/>
+gehofft, dass er wegen des Honorars solche Diskussionen leiten würde,<lb/>
+so stellte sich bald heraus, als ich ihn fragte, ob die finanzielle<lb/>
+Sache erledigt sei, ja für die Vorträge, das andere müsse er sich<lb/>
+alles noch überlegen. <name type="person" ref="per:98053">Wanke</name> war über das Ergebnis sehr erschüttert<lb/>
+und meinte, hier müsste etwas vorgefallen sein zwischen den Aus<lb break="no"/>sprachen, die er gehabt hat und der jetzigen müsste irgendwo eine Inter<lb break="no"/>vention oder ein Abblocken dieser Idee erfolgt sein. Leider werden wir<lb/>
+nie darauf kommen, was hier tatsächlich geschehen ist.<lb/>
+</p>
+            <p xml:space="preserve">Der ungarische Gewerkschaftspräsident <name type="person" ref="per:137878">Gáspár</name>, der mich auch besuchen<lb/>
+kommt, hat in der ungarischen Botschaft einen Empfang gegeben und<lb/>
+nach einem Prinzip, das <name type="person" ref="per:97646">Koppe</name> aufgestellt hat, dass wir unbedingt<lb/>
+mit den Gewerkschaften mehr Kontakt suchen sollten, habe ich auch<lb/>
+<pb n="08-1212" facs="08_1971-10-19_1212.jpg"/>diese Veranstaltung kurz besucht. Tatsächlich waren dort fast<lb/>
+nur Gewerkschafter geladen und ich konnte mich mit <name type="person" ref="per:97346">Benya</name> und einigen<lb/>
+anderen Kollegen unterhalten. Zu einer Besprechung in einem klei<lb break="no"/>nen Rahmen mit <name type="person" ref="per:97346">Benya</name>, <name type="person" ref="per:97563">Hofstetter</name>, <name type="person" ref="per:111741">Sekanina</name> und dem ung. Präsidenten<lb/>
+konnte ich dann nur zur Begrüssung mehr gehen, da ich im Bezirk<lb/>
+eine Ausschussitzung hatte. Mit dem Handelsrat <name type="person" ref="per:136802">Kövari</name> der ung.<lb/>
+Botschaft führte ich aber ein längeres Gespräch und er versicherte<lb/>
+mir neuerdings, dass <name type="person" ref="per:97331">Baczoni</name>, der Vizeaussenhandelsminister, in<lb/>
+Ungarn, unsere Idee, nämlich ähnliche dem polnischen Vertrag<lb/>
+auch einen ungarischen Handelsvertrag zu erstellen, ernstlich<lb/>
+prüfen wird und er selbst glaubt auch, dass es eine Lösung geben<lb/>
+wird.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="08_1204_01" facs="08_1971-10-19_1204-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 19.10.1971</head>
+         </div>
+         <pb n="08_1212_01" facs="08_1971-10-19_1212-01.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Ergänzung Tagebuchseite 1207</head>
+         </div>
+         <pb n="08_1212_02" facs="08_1971-10-19_1212-02.jpg"/>
+         <pb n="08_1212_03" facs="08_1971-10-19_1212-03.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesordnung 73. Ministerratssitzung, 19.10.1971</head>
+         </div>
+         <pb n="08_1212_04" facs="08_1971-10-19_1212-04.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Nachtrag TO 73. Ministerratssitzung, 19.10.1971</head>
+         </div>
+         <pb n="08_1212_05" facs="08_1971-10-19_1212-05.jpg"/>
+         <pb n="08_1212_06" facs="08_1971-10-19_1212-06.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>SL-Besprechung 19.10.1971</head>
+         </div>
+         <pb n="08_1212_07" facs="08_1971-10-19_1212-07.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>hs. Notizen (Typoskript SL-Besprechung Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sonntag, der 10. Dezember 1972</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band13_1972-12-10</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1972-12-10">Sonntag, 10. Dezember 1972</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-11-03">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="13-1482" facs="13_1972-12-10_1482.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Sonntag, 10. Dezember 1972<lb/>
+</p>
+            <p xml:space="preserve">Der polnische Vizeministerpräsident <name type="person" ref="per:140274">Mitrega</name>, dem die Kohlenproduktion<lb/>
+und die Investitionspolitik in Polen untersteht, wurde von der Polkarbon<lb/>
+zur 25-Jahr-Feier nach Österreich geladen. Min.Rat <name type="person" ref="per:97426">Fälbl</name> hat sich sehr<lb/>
+bemüht, dass ich zustimme, dass mit diesem Vizeministerpräsidenten<lb/>
+eine Aussprache am Sonntag in der Krainerhütte stattfindet. <name type="person" ref="per:97880">Rosen<lb break="no"/>strauch</name>, der Leiter der Polkarbon, hat ihn dort untergebracht und ein<lb/>
+Essen gegeben. Da die VÖEST, <name type="person" ref="per:97644">Koller</name> und <name type="person" ref="per:97729">Matthes</name>, ein grosses Interesse<lb/>
+daran haben, dass ich bei den Polen interveniere, habe ich auch nicht<lb/>
+zuletzt deshalb diese Einladung angenommen. Zuerst war mir nicht ganz<lb/>
+klar, wer eigentlich dieses Essen veranstaltet. Zum Glück habe ich<lb/>
+im letzten Moment noch ein Fernschreiben von der VÖEST bekommen, wo<lb/>
+sie mir mitteilt, dass mit dem neuen Kohlenvertrag 1969 von Seiten der<lb/>
+Polen, die bis zu diesem Zeitpunkt bestandene Koppelung von poln.<lb/>
+Kohlenexporten gegen VÖEST-Exporte gekündigt haben. Nun kauft die VÖEST<lb/>
+400.000 t Kohle und das Aussenhandelsministerium möchte, dass sie<lb/>
+wenn sie die Zementfabrik bekommen, dann noch zusätzlich Kohle über<lb break="no"/>nehmen. Selbst <name type="person" ref="per:97880">Rosenstrauch</name>, der Vertreter der Polkarbon, erklärte,<lb/>
+dass dies die VÖEST nicht imstande ist. Seiner Meinung nach könnten maxi<lb/>
+mal zusätzlich 100.000 t von der VÖEST übernommen werden. <name type="person" ref="per:140274">Mitrega</name> si<lb break="no"/>cherte mir zu, dass wenn die Technologie der Zementfabrik in Ordnung<lb/>
+ist und wenn die VÖEST die entsprechenden technischen Wünsche der Polen<lb/>
+erfüllen kann, an diesem Punkt wegen der Kohlenübernahme es nicht schei<lb break="no"/>tern soll. Die Polen sind davon überzeugt, dass auf lange Sicht gesehen,<lb/>
+polnische Kohle nach wie vor der wichtigste Energieträger nicht nur<lb/>
+für Polen selbst, sondern auch für die anderen europäischen Staaten<lb/>
+sein wird. In Amerika wird jetzt gerade eine Versuchsfabrik er<lb break="no"/>richtet, um aus Kohle 9.000 kal-hältiges<add>[?]</add> Methangas zu erzeugen. Wenn<lb/>
+diese Technologie gelöst ist, dann wird auch Polen zur Gasproduktion<lb/>
+aus Kohle übergehen. So wie heute die Kohle in Polen verstromt wird,<lb/>
+wird man dann auch Gas aus Kohle produzieren. Die Polen hätten leicht<lb/>
+die Möglichkeit uns 100 Megawatt Strom zu exportieren. Leider sind<lb/>
+keine Leitungen zwischen Polen über die CSSR nach Österreich vorhanden<lb/>
+und frei. Mein Hinweis, dass man gegebenenfalls über Ostdeutschland,<lb/>
+Westdeutschland nach Westösterreich einspeisen könnte, wird von polni<lb break="no"/>scher Seite überprüft werden, doch gibt man diesem Plan nicht viele<lb/>
+Möglichkeiten und Chancen, da die Ostdeutschen sich wahrscheinlich dage<lb break="no"/>gen aussprechen würden.<lb/>
+</p>
+            <pb n="13-1483" facs="13_1972-12-10_1483.jpg"/>
+            <p xml:space="preserve">Da ich noch nie in der Krainerhütte gewesen bin, die in Wirklichkeit<lb/>
+jetzt ein nobles Hotel wurde, hat mich der Besitzer <name type="person" ref="per:140275">Dietmar</name> dann<lb/>
+durchgeführt. Wenn ich mir vorstelle, wie das in der ersten Republik eine<lb/>
+unbedeutende schutzhüttenähnliche Gaststätte war, und nun mit 18 Mio. S<lb/>
+ein neuer Hoteltrakt gebaut wurde, so kann man sehen, wie auch in<lb/>
+der Umgebung Wiens der Fremdenverkehr aufblühen kann. Die Krainerhütte<lb/>
+wird heute – und de Besitzer hat dies sehr geschickt so angelegt –<lb/>
+als Tagungsstätte verwendet. Er hat 3, wenn notwendig sogar 4 Konferenz<lb break="no"/>räume. Dadurch überbrückt er die tote Wintersaison. Swimmingpool, Sauna,<lb/>
+alles im Haus.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="13_1481_01" facs="13_1972-12-10_1481-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 10.12.1972</head>
+         </div>
+      </back>
+   </text>
+</TEI>

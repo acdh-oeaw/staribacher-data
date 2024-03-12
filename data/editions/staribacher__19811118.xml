@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittwoch, der 18. November 1981</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band62_1981-11-18</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1981-11-18">Mittwoch, 18. November 1981</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-07-17">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="62-1333" facs="62_1981-11-18_1333.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Mittwoch, 18. November 1981<lb/>
+</p>
+            <p xml:space="preserve">Jour fixe mit den Vorstandsdirektoren <name type="person" ref="per:97453">Fremuth</name> und <name type="person" ref="per:114747">Zach</name> der Verbundge<lb break="no"/>sellschaft, das allerdings in meinem Tagesprogramm gar nicht vorgesehen<lb/>
+war. Die Verbund überlegt, das linke Gebiet der oberen Salzach durch<lb/>
+Regierungsbeschluß als Großkraftwerk beschließen zu lassen. Dies wäre<lb/>
+eine Kampfansage gegen den Landeshauptmann <name type="person" ref="per:113822">Haslauer</name>, der ja jetzt die<lb/>
+Vereinbarung zwischen Verbund und SAFE bezüglich des Ausbaus der<lb/>
+rechten Berge, Venedigergruppe usw. jetzt geändert haben will. Die Salz<lb break="no"/>burger Landesregierung, insbesondere LH-Stv. <name type="person" ref="per:110148">Moritz</name>, möchten in diesem<lb/>
+Gebiet nicht nur die Kernzone des Nationalparkes, sondern auch die Außen<lb break="no"/>zone von Krafwerken frei haben. Dies widerspricht aber der gegenteiligen<lb/>
+und erst vor kurzem abgeschlossenen, einstimmig ausgehandelten Vereinba<lb break="no"/>rung, der letzten Endes auch sogar die Naturschützer indirekt zugestimmt<lb/>
+haben. Da ich eine solche Konfrontation mit der Salzburger Landesregie<lb break="no"/>rung jetzt nicht für zweckmäßig halte, schlage ich vor, man sollte mir<lb/>
+einen Brief mit dem Sachverhalt schreiben, ich würde dann der Verbund<lb/>
+mitteilen, daß alle Schritte, die die TKW für notwendig halten, vorbe<lb break="no"/>reitet werden sollten. <name type="person" ref="per:114747">Zach</name>, der mit LH <name type="person" ref="per:113822">Haslauer</name> fraktionell geredet<lb/>
+hat, meinte, dieser hätte ihm erklärt, dies sollten wir uns nur trauen,<lb/>
+wenn es nicht anders geht, werden wir sehr wohl uns trauen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Die Energiesektion über diesen Schritt vorbe<lb break="no"/>reiten.<lb/>
+</p>
+            <p xml:space="preserve">Wien und Niederösterreich <choice><choice><sic>hat</sic><corr>haben</corr></choice></choice> jetzt bei den Wasserrechtsverhandlungen,<lb/>
+und sicherlich auch dann bei den Bauverhandlungen, Schwierigkeiten für<lb/>
+das Donaukraftwerk Greifenstein gemacht, weil <choice><choice><sic>es</sic><corr>sie?</corr></choice></choice> eine Beteiligung an<lb/>
+der DoKW erzwingen <choice><choice><sic>will</sic><corr>wollen?</corr></choice></choice>. Die Verbund wäre bereit, eine 12 %-ige Betei<lb break="no"/>ligung zuzusagen, diese könnte sogar noch auf 12 1/2 % für jedes Bun<lb break="no"/>desland erhöht werden, wenn es gelingt, das vor längerer Zeit den Kärnt<lb break="no"/>nern zugesagte 8 %-ige Eintrittsrecht entsprechend zu modifizieren. Mit<lb/>
+Wien und Niederösterreich wird derzeit über die Bedingung verhandelt, die<lb/>
+Selbstkosten + 2 Groschen Peagierung + 5 Groschen Wagniszuschlag. Strit<lb break="no"/>tig ist noch, ob es sich um die Basisberechnung aufgrund des Verbund<lb break="no"/>tarif 12 oder Verbundtarif 13, den der jetzt erst kommen wird, handeln<lb/>
+wird. Den Kärntnern wurde seinerzeit zugesagt, ohne irgendwelche Festle<lb break="no"/>gung der Kosten resp. der Preise.<lb/>
+</p>
+            <p xml:space="preserve">GD <name type="person" ref="per:97453">Fremuth</name> hat mit GD <name type="person" ref="per:116449">Streicher</name> von den VMW wegen des Strompreises in<lb/>
+Ranshofen, Aluminiumproduktion, Verhandlungen geführt, <name type="person" ref="per:116449">Streicher</name> möchte die<lb/>
+<pb n="62-1334" facs="62_1981-11-18_1334.jpg"/>ca. <del>18</del><add>14,5 (für Ranshofen)</add> %-ige Erhöhung des Verbundtarifes nicht akzeptieren. Da er bei<lb/>
+meinem Besuch in Braunau erklärt hat, dies wird er sich mit <name type="person" ref="per:97453">Fremuth</name> schon<lb/>
+ausmachen, mische ich mich bis jetzt natürlich in diese Verhandlungen<lb/>
+nicht ein.<lb/>
+</p>
+            <p xml:space="preserve">Vom sowjetischen Staatskomitee für Entwicklungshilfe ist Herr <name type="person" ref="per:134266">Wowtschenko</name><lb/>
+bei <name type="person" ref="per:97453">Fremuth</name> gewesen und beschwerte sich, daß die Finnen mit der SU in<lb/>
+Entwicklungsländern gemeinsam große Projekte verwirklichen, die Öster<lb break="no"/>reicher sich aber dafür überhaupt nicht interessieren. <name type="person" ref="per:134266">Wowtschenko</name> soll<lb/>
+ebenfalls für die Atommüllagerung zuständig sein. Dies kann ich mir<lb/>
+beim besten Willen nicht vorstellen, bin aber gerne bereit, mit <name type="person" ref="per:97453">Fremuth</name><lb/>
+und <name type="person" ref="per:134266">Wovcenko</name> eine Aussprache zu führen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: <name type="person" ref="per:97453">Fremuth</name> soll vorsichtigst bei dem sowjetischen<lb/>
+Botschafter <name type="person" ref="per:114403">Jefremow</name> vorfühlen.<lb/>
+</p>
+            <p xml:space="preserve">Dir. <name type="person" ref="per:114747">Zach</name> beschwert sich, daß bei der seinerzeitigen Reduzierung der<lb/>
+Aufsichtsräte in den Sondergesellschaften der Verbund, insbesondere die<lb/>
+Verbund-Direktoren, und dort wieder die ÖVP-Fraktion, mit ihren Ideen nicht<lb/>
+durchgedrungen ist. Die Präsidenten der Sondergesellschaften in den<lb/>
+Aufsichtsräten sind meistens Landesvertreter. Jetzt hat er, oder glaubt<lb/>
+er zu bemerken, daß große Schwierigkeiten dadurch entstehen, daß diese<lb/>
+Vertreter die Bundesinteressen nicht entsprechend wahrnehmen. Ich er<lb break="no"/>kläre <name type="person" ref="per:114747">Zach</name> sofort, daß er mir jeden einzelnen Fall mitteilen soll, ich<lb/>
+werde dann den Landesvertreter, ganz egal ob es ein Landeshauptmann oder<lb/>
+ein Stellvertreter ist, an seine Pflichten als Bundesmandatar erinnern,<lb/>
+sollte dies nicht genügen, bin ich dann selbstverständlich bereit, ent<lb break="no"/>sprechende Konsequenzen zu ziehen.<lb/>
+</p>
+            <p xml:space="preserve">Die Frage, ob die Verbund ihr Ausbauprogramm reduzieren soll, wenn jetzt<lb/>
+der Energieverbrauch doch beträchtlich zurückgeht, wird von mir ent<lb break="no"/>schieden abgelehnt. Wir haben keinerlei Energiereserveleistung, außer<lb break="no"/>dem würde die jetzige Konjunkturlage alles andere erfordern als eine<lb/>
+Reduzierung unseres Ausbauprogramms. Der Ausweg, diese größere Kapazität<lb/>
+dann günstig zu nützen, ist, die koordinierten Verträge über die Bezüge<lb/>
+der Landesgesellschaften durch die Verbund zu erhöhen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Bitte der Energiesektion diese Politik klar<lb break="no"/>machen.</p>
+            <p xml:space="preserve"><name type="person" ref="per:97453">Fremuth</name> befürchtet, daß der Bundeskanzler jetzt bei seinem Ungarnbesuch<lb/>
+<pb n="62-1335" facs="62_1981-11-18_1335.jpg"/>über das Braunkohlekraftwerk im Burgenland voreilige Zusagen bezüglich<lb/>
+der Errichtung gegebenenfalls in Ungarn machen könnte. So etwas befür<lb break="no"/>chte ich in keiner Weise, eher ist anzunehmen, daß die Ungarn wegen ei<lb break="no"/>ner Beteiligung an der Lignitabbaugesellschaft in Ungarn an Österreich<lb/>
+herantreten werden. Dagegen hätte <name type="person" ref="per:97453">Fremuth</name> aber gar nichts einzuwenden.<lb/>
+<name type="person" ref="per:97668">Kreisky</name> ist in meinen Augen viel zu vorsichtig, um hier so konkrete Ge<lb break="no"/>spräche zu führen.<lb/>
+</p>
+            <p xml:space="preserve">Die beiden Direktoren wünschen meine Zustimmung, daß sie mit Sekretär<lb/>
+<name type="person" ref="per:107956">Satzinger</name> über<add>[seine]</add> Bestellung zum Direktor der Verbundplan verhandeln können.<lb/>
+Dagegen habe ich gar nichts einzuwenden, wenn sich es <name type="person" ref="per:107956">Satzinger</name> ver<lb break="no"/>bessert und entsprechend personell und finanziell in der Verbund ver<lb break="no"/>ankert wird. Bis jetzt habe ich allen meinen Dutzend Sekretären, die<lb/>
+ich schon hatte, jedwede Unterstützung gegeben, wenn sie ihre Laufbahn<lb/>
+entsprechend geändert haben, unter der Voraussetzung, daß sie es sich<lb/>
+wirklich verbessern.<lb/>
+</p>
+            <p xml:space="preserve">SC <name type="person" ref="per:111001">Peyerl</name> bringt mir den MRV bezüglich des Energieberichtes, bei dieser<lb/>
+Gelegenheit erklärt er mir die weitere Vorgangsweise bezüglich des<lb/>
+Maßnahmenkatalogs und des seinerzeitigen Ministerratsbeschlusses über<lb/>
+die terminliche Abwicklung. Mit Genugtuung stelle ich fest, daß wir<lb/>
+in dieser Frage vollkommen übereinstimmen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Bitte gestrige Aufzeichnung auch beachten.<lb/>
+</p>
+            <p xml:space="preserve">GD <name type="person" ref="per:112054">Buchner</name> von der Chemie Linz hat, wie erwartet, große Schwierigkeiten<lb/>
+wegen seines Stickstoffdüngerabsatzes. Die WÖV, GD <name type="person" ref="per:117174">Lunacek</name>, wird jetzt<lb/>
+wahrscheinlich aus Ungarn und anderen Oststaaten billigere Stickstoff<lb break="no"/>mengen importieren. Chemie Linz hat mit den Ungarn eine 5.000-to-Ab<lb break="no"/>nahme und 5.000-to-Option vereinbart, die sie selbst übernehmen. Nach<lb/>
+dem neuen ungarischen Wirtschaftssystem kann aber unabhängig von diesen<lb/>
+offiziellen Außenhandelsverkaufsorganisationen und Stellen jetzt auch<lb/>
+jeder Betrieb, wenn er größere Überschüsse hat und sie im Ausland gut<lb/>
+verkaufen kann, den Export tätigen. <name type="person" ref="per:112054">Buchner</name> ersucht mich, bei meinem<lb/>
+Ungarnbesuch dann entsprechend zu intervenieren. Ich schlage ihm vor,<lb/>
+er soll mir eine diesbezügliche schriftliche Information geben, ich<lb/>
+bin gerne bereit, die notwendigen Schritte bei meinem Ungarnbesuch zu<lb/>
+machen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte entsprechend vorbereiten.<lb/>
+</p>
+            <p xml:space="preserve">Die DDR hat ähnliche Konstruktionen mit ihrer Handelsfirma Intrac. Dort<lb/>
+<pb n="62-1336" facs="62_1981-11-18_1336.jpg"/>wird insbesondere über diese Handelsfirma nach Westdeutschland, selbst<lb/>
+auch österreichische Chemieprodukte als DDR-Erzeugnis, exportiert. Da<lb break="no"/>gegen hat <name type="person" ref="per:112054">Buchner</name> natürlich nichts einzuwenden, ganz im Gegenteil hofft<lb/>
+er auf einen stärkeren Ausbau.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Bitte versuch' streng vertraulich über unsere Ab<lb break="no"/>teilung mehr zu erfahren.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:112054">Buchner</name> bestreitet ganz entschieden, daß die Ennser Acrylfaserproduktion<lb/>
+eine Fehlinvestition sei. 1980 hätte sie zwar noch 150 Mio. Verlust ge<lb break="no"/>macht, heuer aber werden bereits die Herstellkosten gedeckt.<lb/>
+</p>
+            <p xml:space="preserve">Die Trichlorphenolproduktion in Linz wird auf die Dauer nicht aufrechtzu<lb break="no"/>erhalten sein, die Umweltschützer wehren sich zu stark dagegen. <name type="person" ref="per:112054">Buchner</name><lb/>
+beabsichtigt, dann diesen Betrieb nach Ungarn oder in die DDR zu verle<lb break="no"/>gen. Dort könne sie gewinnbringend produzieren, hier würden wir aller<lb break="no"/>dings 100 Arbeitsplätze verlieren.<lb/>
+</p>
+            <p xml:space="preserve">Die Glaswollproduktionsfabrik in Stockerau, <name type="person" ref="per:115642">Haider</name>, hat sich mit der Be<lb break="no"/>schwerde an mich gewandt, daß Chemie Linz aus Holland Mineralwolle zur<lb/>
+Wärmedämmung importiert, obwohl in Österreich genug Produktionsfabriken<lb/>
+vorhanden sind. Ich dränge auf GD <name type="person" ref="per:112054">Buchner</name>, der letzten Endes dann auch<lb/>
+zustimmt, sich mit der Firma Haider zusammenzusetzen, um ein gemeinsames<lb/>
+Verkaufsprogramm zu erstellen. Chemie Linz braucht zur Vollendung ihrer<lb/>
+Palette Wärmedämmungsmaterial, ich vermittle dann zwischen beiden Fir<lb break="no"/>men <choice><choice><sic>sofortin ein</sic><corr>sofort in einem?</corr></choice></choice> Telefongespräch die notwendige Besprechung.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Laß Dir bitte berichten, welche Erfolge diese<lb/>
+Vermittlung hatte.<lb/>
+</p>
+            <p xml:space="preserve">Der neue österreichische Botschafter in der SU, <name type="person" ref="per:131032">Liedermann</name>, informiert<lb/>
+mich, daß Ministerpräsident <name type="person" ref="per:127768">Tichonow</name> noch immer wegen der nicht zeitge<lb break="no"/>rechten Zurverfügungstellung der Vöest-Alpine-Unterlagen für das 500.000-<lb/>
+to-Stahlwerk sehr verstimmt ist. Bezüglich der Gaslieferungen, wo er<lb/>
+nicht mehr weiß als wie ich, teilt er meine Meinung, daß wir uns nur<lb/>
+insoferne in die Verhandlungen zwischen ÖMV, Vöest-Alpine, Kontrollbank<lb/>
+einschalten sollen, als dies von den österreichischen Firmen gewünscht<lb/>
+wird. Da er noch weniger Informationen besitzt als ich, vermittle ich<lb/>
+ihm sofort ein Gespräch mit GD <name type="person" ref="per:97337">Bauer</name> von der ÖMV. Bei dieser Gelegenheit<lb/>
+teilt mir <name type="person" ref="per:97337">Bauer</name> mit, er ist fest davon überzeugt, daß die Ruhrgas, GD<lb/>
+<name type="person" ref="per:130199">Liesen</name>, jetzt bereits mit dem sowjetischen Außenhandelsminister <name type="person" ref="per:126517">Ossipow</name><lb/>
+<pb n="62-1337" facs="62_1981-11-18_1337.jpg"/>den Gasvertrag abgeschlossen hat. Dieser ist nämlich jetzt bereits nach<lb/>
+Paris weitergereist, <name type="person" ref="per:97337">Bauer</name> wird von <name type="person" ref="per:130199">Liesen</name> in den nächsten Tagen die<lb/>
+entsprechenden Unterlagen bekommen und mich dann sofort informieren.<lb/>
+</p>
+            <p xml:space="preserve">Die Tiroler Handelskammer, WIFI und die Fremdenverkehrsverbände haben<lb/>
+im Kaufhaus Gerngroß die Tiroler Weihnachten eingerichtet. Bei meiner<lb/>
+Begrüßungsansprache habe ich besonders<add>[darauf]</add> verwiesen, daß dies auch ein<lb/>
+neuer Zug zu "kauft mehr österreichische Waren" ist. Bis jetzt hat<lb/>
+Gerngroß meistens ausländische Verkaufsausstellungen gehabt. GD <name type="person" ref="per:111704">Zlabin<lb break="no"/>ger</name> hat darauf verwiesen, daß er jetzt nur mehr 12 % Importwaren in<lb/>
+seinem Kaufhaus führt. Gleichzeitig hat er zugegeben, daß dies doch<lb/>
+auf die Intervention von mir vor etlichen Jahren insbesondere jetzt<lb/>
+immer alles geprüft wird, ob man nicht mehr österreichische Waren noch<lb/>
+übernehmen könnte. Der Schweizer Kapitalvertreter von Jelmoli hat mir<lb/>
+diese Politik auch bestätigt. Eröffnet hat die Ausstellung Bgm. <name type="person" ref="per:114375">Lugger</name>,<lb/>
+der sehr lobende Worte über mich gefunden hat.<lb/>
+</p>
+            <p xml:space="preserve">LRat <name type="person" ref="per:112216">Bassetti</name>, der ebenfalls eine Ansprache hielt, hat mir dann mitge<lb break="no"/>teilt, daß er jetzt neuerdings versuchen wird, wegen der ÖFVW-Statuten<lb break="no"/>änderung einen Kompromiß zu erzielen. Ich wäre mit jedem Kompromiß ein<lb break="no"/>verstanden, wenn alle Bundesländer zustimmen. <name type="person" ref="per:112216">Bassetti</name> nimmt an, daß<lb/>
+er insbesondere mit Frau Vizebürgermeister <name type="person" ref="per:97899">Sandner</name> einen solchen Kompromiß<lb/>
+finden wird, <name type="person" ref="per:97899">Sandner</name> hat mich aber dann anschließend telefonisch ver<lb break="no"/>ständigt, daß der Fremdenverkehrsdirektor von Wien, Dr. <name type="person" ref="per:114709">Krebs</name>, ihr mitge<lb break="no"/>teilt hat, jetzt seien schon 5 Länder gegen den ÖVP-Vorschlag. Da auch<lb/>
+bei meinem letzten Salzburgbesuch LRat <name type="person" ref="per:117626">Baumgartner</name>, ein Freiheitlicher,<lb/>
+mir freimütig erklärte, das letztemal sei er durch Regierungsbeschluß<lb/>
+auf den ÖVP-Vorschlag gebunden gewesen, diesmal sei er aber frei, kann<lb/>
+ich mir gut vorstellen, daß tatsächlich immer weniger Länder den ÖVP-<lb/>
+Plan, die Handelskammer hat automatisch immer den ersten Stellvertreter<lb/>
+von mir, immer weniger Chance hat, durchzugehen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:108746">HAFFNER</name>: Nächstes Jour fixe <name type="person" ref="per:111736">Zolles</name> setzen.<lb/>
+</p>
+            <p xml:space="preserve">In der Bundesparteivorstandssitzung hat <name type="person" ref="per:97668">Kreisky</name> in seinem politischen<lb/>
+Bericht dasselbe gesagt wie in der Ministerratsvorbesprechung, insbe<lb break="no"/>sondere kommt er jetzt immer wieder auf die Problematik der Personal<lb break="no"/>frage in der verstaatlichten Industrie zu sprechen. Er befürchtet, mit<lb/>
+Bundesparteiobmann <name type="person" ref="per:111325">Mock</name> zu keinem personellen Akkord bezüglich des 4.<lb/>
+Vorstandsdirektors bei der Vöest-Alpine zu kommen. Diesmal hat er keine<lb/>
+Bemerkung mehr über die gegensätzliche Auffassung von den Freunden des<lb/>
+<pb n="62-1338" facs="62_1981-11-18_1338.jpg"/>ÖGB gemacht, sondern nur gemeint, er werde der Volkspartei keine volle<lb/>
+Konzession geben können, aber er wird weiter verhandeln. Leitender Se<lb break="no"/>kretär <name type="person" ref="per:97563">Hofstetter</name>, mit dem ich morgens über diese Problematik gesprochen<lb/>
+habe, hat dann im Parteivorstand festgestellt, daß man natürlich weiter<lb/>
+verhandeln kann, aber doch auch die Stellungnahme des ÖGB berücksichtigen<lb/>
+muß.<lb/>
+</p>
+            <p xml:space="preserve">Die Volksabstimmung in Wien betrachtet <name type="person" ref="per:97668">Kreisky</name> für <name type="person" ref="per:109293">Busek</name> dieselbe Nie<lb break="no"/>derlage wie <name type="person" ref="per:126988">Krainer</name> in der Steiermark. <choice><choice><sic>Das</sic><corr>Beim</corr></choice></choice> Konferenzzentrum wird daher,<lb/>
+auch dann wenn die ÖVP jetzt für ihren Antrag eine Frist gesetzt hat,<lb/>
+im Nationalrat nicht endgültig der Bau abgelehnt, sondern eben erklärt,<lb/>
+man wird dies für die späten 80er-Jahre zurückstellen, um dann eine<lb/>
+entsprechende Entscheidung zu fällen. Neuerdings hat der politische Be<lb break="no"/>richt von <name type="person" ref="per:97668">Kreisky</name> dann so geendet, daß eine überwältigende Mehrheit,<lb/>
+über 70 %, eine große Koalition aufgrund der Meinungsumfragen bevorzugen.<lb/>
+Er müsse dies in der Politik berücksichtigen, damit wir die nächsten<lb/>
+Wahlen so gewinnen, daß wir wieder eine absolute Mehrheit haben.<lb/>
+</p>
+            <p xml:space="preserve">In der Diskussion gab es dann einige Wortmeldungen. <name type="person" ref="per:97511">Haiden</name> insbesondere<lb/>
+hat darauf verwiesen, daß die Landwirtschaftskammerwahlen in Kärnten<lb/>
+gar nicht so schlecht ausgegangen sind, der Bauernbund hat nur 2 Mandate<lb/>
+vom Allgemeinen Bauernverband gewonnen, die Freiheitlichen 1 Mandat,<lb/>
+der Arbeitsbauernbund hat immerhin ein halbes Prozent Stimmen dazuge<lb break="no"/>wonnen. LH <name type="person" ref="per:98038">Wagner</name> ergänzt, daß der Arbeitsbauernbund in keinem Land so<lb/>
+stark ist wie in Kärnten, dort hat er 8 Mandate in der Landwirtschafts<lb break="no"/>kammer und stellt den Vizepräsidenten. Der Bauernbund hat dort nur, wenn<lb/>
+man die 20 %-ige Stimmenenthaltung berücksichtigt, nur 50 % der Wähler.<lb/>
+</p>
+            <p xml:space="preserve">Im Schlußwort hat dann <name type="person" ref="per:97668">Kreisky</name> insbesondere seinen außenpolitischen<lb/>
+Teil nochmals ergänzt und meinte, in der SU sei <name type="person" ref="per:108330">Gromyko</name>, den er genau<lb/>
+kennt, der Sture und Starke und mache <name type="person" ref="per:108324">Breschnew</name> wegen der Entspannungs<lb break="no"/>politik größere Schwierigkeiten. In Amerika ist es wieder <name type="person" ref="per:134239">Weinberger</name>,<lb/>
+der <name type="person" ref="per:126232">Reagan</name> hier hemmt. Die große Hoffnung liegt jetzt bei Bundeskanzler<lb/>
+<name type="person" ref="per:114106">Schmidt</name>, als Vermittler zwischen den beiden Großmächten aufzutreten.<lb/>
+In Deutschland gibt es wieder innerhalb der Partei große Schwierigkeiten.<lb/>
+Der französische Präsident <name type="person" ref="per:133649">Mitterrand</name> müßte aufgewertet werden, aller<lb break="no"/>dings meint <name type="person" ref="per:97668">Kreisky</name>, diese machen eine auf großen Widerstand stoßende<lb/>
+Wirtschaftspolitik, Verstaatlichung usw., die er anders machen würde.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97488">Gratz</name> berichtete über die Volksabstimmung, Zentralsekretär <name type="person" ref="per:97727">Marsch</name> über<lb/>
+die organisatorischen Fragen. Die Betriebsbesuche der Minister und Abge<lb break="no"/>ordneten sollen jetzt über die Parteisekretariate gestreut werden.<lb/>
+</p>
+            <pb n="62-1339" facs="62_1981-11-18_1339.jpg"/>
+            <p xml:space="preserve">Ich bin von diesem Beschluß nicht betroffen, weil ja das Büro bei uns<lb/>
+sowieso alles an die Landessekretariate meldet. Mit der Jugend wird am<lb/>
+13. Februar nächsten Jahres ein größeres Gespräch stattfinden, die<lb/>
+Frauen werden im März entsprechend aktiv werden, der Erste Mai steht unter<lb/>
+der Parole, die das Präsidium beschlossen hat: Arbeit, Freiheit Frieden.<lb/>
+Den Ersten Mai können wir nicht aufgeben, sonst nehmen ihn sofort andere<lb/>
+Organisationen. Der Mitgliedsbeitrag für die Sozialistische Internatio<lb break="no"/>nale wird auf 1 <choice><choice><sic>Mir</sic><corr>Mio</corr></choice></choice>. 083.000 S festgesetzt, ein verhältnismäßig sehr hoher<lb/>
+Betrag.<lb/>
+</p>
+            <p xml:space="preserve">Eine Sportkommission wird beschlossen, <choice><choice><sic>und</sic><corr>unter?</corr></choice></choice> Vorsitz des Ministers <name type="person" ref="per:113083">Sinowatz</name><lb/>
+und Stadtrat <name type="person" ref="per:123210">Heller</name>, <name type="person" ref="per:97879">Rösch</name> meint, der neben mir sitzt, dies ist ein<lb/>
+kleines Parlament. Nebenbei bemerkt, <name type="person" ref="per:97879">Rösch</name> ist sehr verärgert, daß<lb/>
+<name type="person" ref="per:97668">Kreisky</name>, wie auch unerklärlicherweise den Absagebrief des Mirage-Kaufes<lb/>
+an den Vorsitzenden des Landesverteidigungsausschusses, <name type="person" ref="per:125822">Josseck</name>, geschickt<lb/>
+hat, ohne mit ihm darüber zu sprechen.<lb/>
+</p>
+            <p xml:space="preserve">Der Parteivorstand beschließt, daß auch Bundesauszeichnungen für Funkti<lb break="no"/>onäre und Sekretäre der SPÖ angestrebt werden sollen. <name type="person" ref="per:134241">Hartmann</name> wird<lb/>
+von der Partei ausgeschlossen, nach einem Schiedsgerichtsverfahren, der<lb/>
+zweite Ausschluß von <name type="person" ref="per:134243">Großer</name> wird in ein zehnjähriges Funktionsverbot<lb/>
+umgewandelt.<lb/>
+</p>
+            <p xml:space="preserve">Anstelle des NR <name type="person" ref="per:134244">Koller</name> kommt <name type="person" ref="per:134246">Gossi</name> vom Burgenland, anstelle des steiri<lb break="no"/>schen NR-Abg. <name type="person" ref="per:134252">Krenn</name> wird noch die Steirische Partei entsprechende Vor<lb break="no"/>schläge machen. Der jetzige Vizebürgermeister <name type="person" ref="per:113113">Stoiser</name> wird Bundesrat,<lb/>
+der Bez.Obmann von Graz, der aktive junge Genosse <name type="person" ref="per:133385">Stingl</name>, wird jetzt<lb/>
+endlich Vizebürgermeister. <name type="person" ref="per:97892">Sallaberger</name> wird als Landesparteisekretär<lb/>
+bestätigt. <name type="person" ref="per:97727">Marsch</name> macht die Bemerkung, daß er sich schon in so kurzer<lb/>
+Zeit gut bewährt hat. In den ERP-Fachkommissionen, Land und Forstwirt<lb break="no"/>schaft, wird <name type="person" ref="per:134255">Zingerle</name> durch <name type="person" ref="per:134253">Zelling</name>, Bgm. von Obdach in der Steiermark,<lb/>
+ersetzt, in Verkehrsunterkommission kommt anstelle Dkfm. <name type="person" ref="per:97995">Stockinger</name> <name type="person" ref="per:134254">Fink</name><lb/>
+von der <choice><choice><sic>Slb</sic><corr>Sbg.</corr></choice></choice>. AK.<lb/>
+</p>
+            <p xml:space="preserve">Bei den Resolutionen <choice><choice><sic>wird</sic><corr>gibt es</corr></choice></choice> über die der Elin-Soz.-Betriebsrätefraktion,<lb/>
+die verlangt, die österreichischen Klimatechnikschulden sind abzuschrei<lb break="no"/>ben und eine 500-Mio.-S-Subvention der Elin zu geben, doch eine größere<lb/>
+Diskussion zwischen <name type="person" ref="per:97727">Marsch</name> und leitendem Sekretär <name type="person" ref="per:123789">Hofstetter</name>. Die soz.<lb/>
+Betriebsratsfraktionen müssen mit den soz. Gewerkschaftsfraktionen mehr<lb/>
+kooperieren.<lb/>
+</p>
+            <p xml:space="preserve">Mit Finanzminister <name type="person" ref="per:97891">Salcher</name>, Bgm. <name type="person" ref="per:97488">Gratz</name> und <name type="person" ref="per:97892">Sallaberger</name> und unserer Be<lb break="no"/>zirkssekretärin <name type="person" ref="per:112037">Tischler</name> wird das Problem der Auflassung der Rennwegka<lb break="no"/><pb n="62-1340" facs="62_1981-11-18_1340.jpg"/>serne neuerdings besprochen. Vor 8 Jahren wurde dieses Projekt in An<lb break="no"/>griff genommen. Der richtige Regierungsbeschluß war damals, die Kasernen<lb/>
+in den Städten den Gemeinden abzutreten, damit dieser wertvolle Raum<lb/>
+besser genützt wird, die Kasernen können auch am Stadtrand angesiedelt<lb/>
+werden. Da sich ein Verkauf als unmöglich erweist, die m²-Kosten wären<lb/>
+zu hoch, wird die Gemeinde Wien jetzt Ersatzgrundstücke suchen, die ge<lb break="no"/>gebenenfalls mit der Rennwegkaserne dann abgetauscht werden können. Mit<lb/>
+dieser Vorgangsweise sind alle einverstanden. Da es der einzige Weg ist.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97891">Salcher</name> teilt mir bei dieser Gelegenheit mit, daß an ihn die Forderung<lb/>
+herangetragen wurde, er möge so wie <name type="person" ref="per:97311">Androsch</name> die Energiekoordinierung<lb/>
+resp. die endgültige Vorantreibung dieser großen Maßnahmen, die unter<lb/>
+<name type="person" ref="per:97311">Androsch</name> beschlossen wurden, fortsetzen. <name type="person" ref="per:97891">Salcher</name> hat sofort erklärt, dies<lb/>
+ist die Kompetenz des Handelsministeriums, dafür wird jetzt überall er<lb break="no"/>zählt, er ist eben nicht so stark wie <name type="person" ref="per:97311">Androsch</name>. Diese Behauptung stellt<lb/>
+insbesondere <name type="person" ref="per:130518">Dibold</name> auf, ehem. AZ-Redakteur, der jetzt von der CA bezahlt<lb/>
+wird und bei Extrablatt arbeitet. <name type="person" ref="per:97985">Staribacher</name> wieder wird die <choice><choice><sic>lachse</sic><corr>laxe</corr></choice></choice><lb/>
+Art seiner Energiepolitik fortsetzen. <name type="person" ref="per:97891">Salcher</name> und ich haben aber in die<lb break="no"/>ser Frage ein vollkommen klares und, wie ich glaube, auch richtiges Kon<lb break="no"/>zept.</p>
+            <p xml:space="preserve">Die Energiepolitik habe ich dann auch Gelegenheit, in der Sekt. I u. II<lb/>
+am Abend vorzutragen und dann auch zu diskutieren. Diese Sektion wird<lb/>
+vom Bildungssekretär der Wiener Organisation, <name type="person" ref="per:114118">Woller</name>, geleitet. Dort sind<lb/>
+auch viele Jugendliche verankert, die Diskussion ist auch daher ent<lb break="no"/>sprechend interessant, wenn auch teilweise sehr hart. Insbesondere hat<lb/>
+ein Siemens-Arbeiter, <name type="person" ref="per:134257">Haller</name>, mit dem in der Energiesektion arbeitenden<lb/>
+Dr. <name type="person" ref="per:127783">Hein</name> eine kleinere Kontroverse. Gefühlsmäßig sagen die Arbeiter, es<lb/>
+sollten die jungen Leute, die solche Forderungen aufstellen, erst unter<lb/>
+den Bedingungen arbeiten müssen, die er selbst schon in arabischen Län<lb break="no"/>dern mitgemacht hat. Dann würden sie ganz andere Meinungen vertreten.<lb/>
+Dies ist eine alte Problematik, Theorien, insbesondere von jungen Leuten<lb/>
+leicht übernommen, oder vielleicht sogar selbst aufgestellt, lassen<lb/>
+sich furchtbar leicht mit Parolen vertreten, die Arbeit in der Praxis<lb/>
+sieht dann halt meistens anders aus.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="62_1332_07" facs="62_1981-11-18_1332-07.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 18.11.1981</head>
+         </div>
+         <pb n="62_1332_08" facs="62_1981-11-18_1332-08.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>

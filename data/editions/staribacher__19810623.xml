@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstag, der 23. Juni 1981</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band60_1981-06-23</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1981-06-23">Dienstag, 23. Juni 1981</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-06-25">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="60-0784" facs="60_1981-06-23_0784.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Dienstag, 23. Juni 1981<lb/>
+</p>
+            <p xml:space="preserve">Beim Jour fixe mit der HK, Präs. <name type="person" ref="per:97893">Sallinger</name> ist in der Mongolei, mit<lb/>
+<name type="person" ref="per:112978">Kehrer</name> daher allein, erklärt dieser, auf meine neuerliche Anfrage<lb/>
+wegen der Anschlußgebühren für Sauna, die HK sieht keine Veranlassung,<lb/>
+dieses Problem aufzugreifen. Die Elektrizitätsunternehmer verrechnen<lb/>
+den Gewerbetarif, 3.000 S/KW Anschlußgebühr, die Konsumenten können<lb/>
+jetzt anhand dieses Beispiels sehen, wie sehr Gewerbe gegenüber dem<lb/>
+Haushalt benachteiligt ist.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Die Sauna-Importeure sollen sich an die<lb/>
+HK als ihre Vertretung wenden.<lb/>
+</p>
+            <p xml:space="preserve">Der Elektrzitätspreiserhöhung von 1,19 S auf 1,27 S für Wien und NÖ<lb/>
+wird von der HK nolens volens auch zugestimmt. Sollte es zu einer<lb/>
+Akkordierung dann der allgemeinen Preiserhöhung, Wünsche der Elektri<lb break="no"/>zitätsunternehmer kommen, so dürfe diese maximal 30 % betragen, da<lb/>
+ansonsten für einzelne Landesgesellschaften, z.B. die Steiermark, ein<lb/>
+zu hoher Akonto-Satz ausbezahlt wird. Dr. <name type="person" ref="per:116126">Oberndorfer</name> wird diesbezüglich<lb/>
+eine solche Stellungnahme im Vorprüfungsverfahren der Preiskommission<lb/>
+abgeben.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Wie läuft die Sache bei MR <name type="person" ref="per:109811">Burian</name>?<lb/>
+</p>
+            <p xml:space="preserve">Bezüglich des Wunsches von Gen.Konsul <name type="person" ref="per:131037">Nowotny</name> in Amerika und National<lb break="no"/>bank-GenDir. <name type="person" ref="per:97627">Kienzl</name>, daß Dr. <name type="person" ref="per:126405">Klose</name> von der HK mit ÖGB, NR <name type="person" ref="per:114075">Schmidt</name>, über<lb/>
+die Sozialpartnerschaft bei der Veranstaltung Enterprise Institut in<lb/>
+Washington mitwirkt, wird <name type="person" ref="per:112978">Kehrer</name> auf meine Intervention dies neuer<lb break="no"/>dings prüfen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Bitte mit <name type="person" ref="per:126405">Klose</name> und <name type="person" ref="per:97627">Kienzl</name> sprechen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:112978">Kehrer</name> erklärt Sts. <name type="person" ref="per:109808">Albrecht</name>, wie es zu der Belangsendung der HK, wo<lb/>
+der Frauenbusen eine Rolle gespielt hat gekommen ist. Es existiert<lb/>
+ein Redaktions- u. Gestaltungsteam für die Belangsendungen, der Ver<lb break="no"/>treter der HK in diesem Team, der Pressereferent der HK, Dr. <name type="person" ref="per:114471">Steinacker</name>,<lb/>
+hat dort zweimal größte Bedenken gegen diese Szene geäußert. Beide<lb/>
+Male wurde er in dem Redaktionskomitee überstimmt, die Regie <choice><choice><sic>für</sic><corr>führt</corr></choice></choice> sogar<lb/>
+eine Frau, die diese Szene überhaupt nicht anstößig findet. <name type="person" ref="per:112978">Kehrer</name> hat<lb/>
+die Szene noch nicht gesehen, ich habe ihm vorgeschlagen, wir sollten<lb/>
+<pb n="60-0785" facs="60_1981-06-23_0785.jpg"/>sie beim nächsten Jour fixe auf Videoband vorführen. Sts. <name type="person" ref="per:109808">Albrecht</name><lb/>
+hat mir mit dieser Intervention sehr geholfen. Ich glaube, es ist<lb/>
+zweckmäßig, wenn wir tatsächlich darauf bestehen, daß <name type="person" ref="per:97893">Sallinger</name> und<lb/>
+ich sich diese Belangsendung gemeinsam ansehen. Diese Hartnäckigkeit<lb/>
+von <name type="person" ref="per:109808">Albrecht</name> macht sich in Zukunft noch sehr bezahlt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109808">ALBRECHT</name>: Bitte veranlasse alles, daß beim nächsten<lb/>
+Jour fixe diese Belangsendung vorgeführt werden kann.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:112978">Kehrer</name> erinnert mich noch einmal, daß ein Regionalabkommen mit<lb/>
+Ungarn auch dann, wenn es die Landesregierung und insbesondere der<lb/>
+HK-Präs. und gleichzeitig Wirtschaftssprecher im Nationalrat, <name type="person" ref="per:97487">Graf</name>,<lb/>
+wünscht, von der Bundeshandelskammer auf das entschiedenste abge<lb break="no"/>lehnt wird. <name type="person" ref="per:112978">Kehrer</name> sieht darin ein Präjudiz für jugoslawische Ge<lb break="no"/>spräche. Er verlangt von mir einen negativen Ministerratsbeschluß,<lb/>
+wie dies auch in Jugoslawien geschehen ist. Dazu erkläre ich sofort,<lb/>
+dies könne ich derzeit auf keinen Fall machen, da zum Unterschied<lb/>
+vom jugoslawischen Wunsch, wo die Landesregierung und alle Interessen<lb break="no"/>vertretungen in Kärnten ganz entschieden dagegen waren, eine gegen<lb break="no"/>teilige Stellungnahme im Burgenland vorliegt. Ich sehe die einzige<lb/>
+Möglichkeit darin, daß wir zwar auch zu keinem Accordino-ähnlichen<lb/>
+Abkommen mit Ungarn über das Burgenland kommen, doch dieser Weg<lb/>
+vorsichtigst über interministerielle Besprechungen, der Verfassungs<lb break="no"/>dienst wird sich sicher dagegen aussprechen und gegebenenfalls für<lb/>
+eine kleine Grenzverkehrsverbesserung als maximales Zugeständnis an<lb/>
+die Ungarn kommen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR SC <name type="person" ref="per:108322">MEISL</name> UND <name type="person" ref="per:108746">HAFFNER</name><add>[hs. korrigiert, Anm.]</add>: Wie stehen die derzeitigen Ver<lb/>
+handlungen mit Ungarn?<add>Info bei Haffner</add><lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:112978">Kehrer</name> bestätigt, daß die Novelle zur Gewerbeordnung inhaltlich mit<lb/>
+der HK bis auf den letzten Beistrich abgestimmt ist, und daher auch<lb/>
+von dieser zugestimmt wird. Scharf spricht sich <name type="person" ref="per:112978">Kehrer</name> dagegen aus,<lb/>
+daß diese Bestimmungen in die Gewerbeordnung aufgenommen werden, er<lb/>
+wünscht so wie die ÖVP, daß dies im Energielenkungsgesetz geregelt<lb/>
+wird. Ich gestehe <name type="person" ref="per:112978">Kehrer</name> zu, daß er, als Wächter der Oppositionspartei,<lb/>
+als einziger die Aufbrechung der Wirtschaftspaketlösung durch den<lb/>
+Einbau dieser Bestimmungen in die Gewerbeordnung bemerkt hat. Ausge<lb break="no"/>löst wurde dieses Verlangen aber durch den Wunsch der Länder. Dort<lb/>
+<pb n="60-0786" facs="60_1981-06-23_0786.jpg"/>steht deutlich in ihrem Forderungspapier, daß die Gewerbeordnung<lb/>
+in diesen Punkten, die jetzt <name type="person" ref="per:97584">Jagoda</name> so geschickt verhandelt hat,<lb/>
+aufgenommen werden soll. Diese weitgehende Forderung des Energie<lb break="no"/>einsparens, die nach Meinung von der HK auf Mindestaufwendungen<lb/>
+für Energieeinsatz bei Verpackung usw. vorsieht, ängstigt jetzt die<lb/>
+HK. <name type="person" ref="per:112978">Kehrer</name> erklärt aber, <choice><choice><sic>daß</sic><corr>[er?]</corr></choice></choice> auf alle Fälle zu den Zusagen und zum<lb/>
+Inhalt der Novelle steht. Da ich klar und deutlich erkläre, daß<lb/>
+jetzt die Regierungsvorlage diese Bestimmung in der Gewerbeordnungs<lb break="no"/>novelle beinhalten wird, muß <name type="person" ref="per:112978">Kehrer</name> zugeben, daß man erst im Parla<lb break="no"/>ment bei Behandlung des Energiesicherungsgesetzes von der ÖVP-Seite<lb/>
+versuchen wird, diese Bestimmungen auch dort aufzunehmen. Die Taktik<lb/>
+geht voll auf, daß jetzt endlich der archimedische Punkt gefunden ist,<lb/>
+wo man bezüglich Energiemaßnahmen die ÖVP zwingen kann, etwas zu tun,<lb/>
+wenn gedroht wird, ansonsten einfach-gesetzlich diese Bestimmungen in<lb/>
+die Gewerbeordnung aufzunehmen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR SC <name type="person" ref="per:97584">JAGODA</name> UND <name type="person" ref="per:107956">SATZINGER</name>: Bitte Gespräch mit Energie<lb break="no"/>sprecher <name type="person" ref="per:97543">Heindl</name> und uns darüber abführen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:112978">Kehrer</name> frägt, ob die Kreditinstitute bezüglich der gestützten Kredit<lb break="no"/>obergrenzen bei mir schon vorgesprochen haben. Ich informiere ihn über<lb/>
+die Vorsprache der einzelnen Institutsvertreter, und daß darüber jetzt<lb/>
+mit SC <name type="person" ref="per:97584">Jagoda</name> weitere Gespräche stattfinden. <name type="person" ref="per:97584">Jagoda</name> steht allerdings<lb/>
+mit Recht auf dem Standpunkt, daß vorerst die HK dazu Stellung nehmen<lb/>
+soll. Der Bankensyndikus <name type="person" ref="per:119822">Bronold</name> wird diesbezügliche Gespräche und<lb/>
+Koordinierung in der HK veranlassen. Ich selbst erkläre neuerdings,<lb/>
+daß ich keine Veranlassung sehe, den Wünschen der Kreditinstitute<lb/>
+Rechnung zu tragen. Der Beirat in der Bürges hat bisher diese meine<lb/>
+Stellungnahme voll gedeckt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR SC <name type="person" ref="per:97584">JAGODA</name> UND <name type="person" ref="per:109811">BURIAN</name>: Wie sollen die Verhandlungen<lb/>
+weiterlaufen?<lb/>
+</p>
+            <p xml:space="preserve">Die Fa. Rehli-Modell hat eine Bekleidungsförderung angesprochen, die<lb/>
+Prüfung hat einhellig ergeben, daß alle Voraussetzungen gegeben sind.<lb/>
+Die AK und der ÖGB haben jetzt Einspruch erhoben, weil dort kein<lb/>
+Betriebsrat existiert.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Was ist hier los?<lb/>
+</p>
+            <pb n="60-0787" facs="60_1981-06-23_0787.jpg"/>
+            <p xml:space="preserve"><name type="person" ref="per:112978">Kehrer</name> will neuerdings von mir wissen, ob jetzt Hrabak das Dekret<lb/>
+zur Führung des Staatswappens bekommt. Ich verweise darauf, daß<lb/>
+auf Intervention der Konsumentenvertreter geprüft werden muß, ob man<lb/>
+überhaupt einer Gruppe für die die Führung des Staatswappens im<lb/>
+Briefkopf,<add>[ob?]</add> nicht eine Täuschung der Konsumenten dann vorliegt, daß<lb/>
+der Wohnungssucher oder ein sonstig Anfragender optisch dieses<lb/>
+Staatswappen als halbamtliches Siegel ähnlich den Zivilingenieuren<lb/>
+oder den Notaren betrachtet. SC <name type="person" ref="per:97584">Jagoda</name> erklärte, er wird jetzt in<lb/>
+einer Arbeitsgruppe dieses Problem eingehend untersuchen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Wie steht der Fall?<lb/>
+</p>
+            <p xml:space="preserve">In der Ministerratsvorbesprechung teilt <name type="person" ref="per:113083">Sinowatz</name> mit, daß jetzt<lb/>
+<name type="person" ref="per:97668">Kreisky</name> in Mönchhof bei den Schwestern eine Erholungskur mit Massage<lb/>
+usw. macht. Mönchhof ist heute ein beträchtliches gewerbliches Unter<lb break="no"/>nehmen, von einer Oberin sehr weltlich und geschickt geführt, mit<lb/>
+riesigem Erfolg. Ich bin neugierig, wie es <name type="person" ref="per:97668">Kreisky</name> nach der Kur gehen<lb/>
+wird.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:97891">Salcher</name> berichtet über die Steuerverhandlung mit dem ÖGB. Die 12 Mrd.<lb/>
+Forderung Steuermäßigung des ÖGB wurde zuerst auf 10 Mrd. reduziert<lb/>
+und konnte von ihm jetzt auf 9 Mrd. einvernehmlich abgeschlossen werden.<lb/>
+Sechs mit Jänner 82, drei mit Jänner 83. Den Bund kosten diese neun<lb/>
+Mrd. ca. 2,8 Mrd. netto. Mir gefällt bei dieser Regelung, die größten<lb break="no"/>teils aus Erhöhung von Absetzbeträgen für Arbeitnehmer, Alleinerhalter,<lb/>
+in der zweiten Etappe allgemeiner Absetzbetrag, Pensionistenabsetzbe<lb break="no"/>trag, dann noch zusätzlich und einer Tarifreform, die nur bis 28.000 S<lb/>
+geht, sehr. Da kommen wirklich die kleineren Einkommensbezieher am<lb/>
+besten weg. Ich bin sehr gespannt, was die ÖVP machen wird. Die HK<lb/>
+wird schärfstens dagegen protestieren.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:113083">Sinowatz</name> verlangt von mir einen Bericht über die Benzinpreiserhöhungs<lb break="no"/>verhandlungen. Ich nütze die Gelegenheit, um gleichzeitig auch die<lb/>
+Elektrizitätspreiserhöhung darzulegen und darauf zu verweisen, daß<lb/>
+die Schwierigkeiten jetzt beim Bau der Elektrizitätskraftwerke von<lb/>
+den Natur- u. Umweltschützern immer größer werden. Ich könnte es mir<lb/>
+leicht machen und auch den Weg des geringsten Widerstandes gehen, da<lb/>
+wir vielleicht noch paar Jahre dies überbrücken können, dann aber<lb/>
+der Kladderadatsch kommt, wo ich sicher nicht mehr Energieminister bin.<lb/>
+</p>
+            <pb n="60-0788" facs="60_1981-06-23_0788.jpg"/>
+            <p xml:space="preserve">Die Nachfolger werden aber schon aufgrund der jetzigen Stellung<lb break="no"/>nahmen der Bundesregierung auf uns garantiert schimpfen.<lb/>
+</p>
+            <p xml:space="preserve">Gesundheitsminister <name type="person" ref="per:117200">Steyrer</name> berichtet über die ÖMV-Verhandlung<lb/>
+bezüglich der Bleisenkung. Für Normalbenzin wird 0,4 auf 0,15 1982<lb/>
+durchgeführt, durch Isomerate, die zugekauft werden müssen. Bei<lb/>
+Superbenzin ist dies wesentlich schwieriger. Dort kann 85 erst durch<lb/>
+eine neue Benzolextraktionsanlage, die dann Superbenzin <choice><choice><sic>herstellen</sic><corr>herstellt</corr></choice></choice>,<lb/>
+durch ein Verfahren, das führend in Europa sein wird. Um aber 1983<lb/>
+bereits auch den Bleigehalt auf 0,15, also ein Jahr später als bei<lb/>
+Normalbenzin, senken zu können, müssen Aromate beigesetzt werden. Da<lb/>
+Benzol dafür nicht in Frage kommt, die Werte werden ab diesem Zeit<lb break="no"/>punkt kleiner sein als in der BRD, Deutschland 33, Österreich 26,<lb/>
+Xylol und Toluol beigesetzt. Wie weit diese Vorgangsweise krebsfördernd<lb/>
+ist, kann im Detail nicht festgestellt werden.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:108223">Lausecker</name> erklärt, daß am 29. Juni eine interministerielle Sitzung<lb/>
+stattfindet. Dort wird zu klären sein, ob die Bleigehaltssenkung<lb/>
+über die Kraftfahrgesetz-Durchführungsverordnung, wie dies auch von<lb/>
+mir 1972 und 73 erlassen wurde, oder ob nicht doch ein neues Gesetz<lb/>
+notwendig ist. Ich selbst versichere <name type="person" ref="per:108223">Lausecker</name>, daß ich diese Kompe<lb break="no"/>tenz nicht wünsche. Auch dann, wenn jetzt die verfassungsmäßige Über<lb break="no"/>prüfung vom Handelsministerium, Dr. <name type="person" ref="per:110944">Zluwa</name>, verlangt wurde.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Bitte stelle dies mit <name type="person" ref="per:110944">Zluwa</name> eindeutig klar.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:111740">Dallinger</name> berichtet über die schwierige Situation in der Sozialver<lb break="no"/>sicherung. Vorher stellt er fest, daß der Index durch die Benzin- und<lb/>
+Elektrizitätspreiserhöhung natürlich belastet wird. Ich erkläre dort<lb/>
+dezidiert nicht die Wirtschaftsforschungsprognose mit 6,75, sondern<lb/>
+garantiert 7 % wird die heurige Verteuerung ausmachen. Die Lohnver<lb break="no"/>handlungen mit der Eisen- u. Stahlindustrie, wo die Unternehmer im<lb/>
+Herbst eine Ausnahme wünschen, werden äußerst schwierig sein. Selbst<lb/>
+wenn 7 % Bruttolohn durchgesetzt wird, ergibt es netto einen Reallohn<lb break="no"/>verlust. Darüber hinaus müssen die Krankenkassen, von neun sind sechs<lb/>
+defizitär, saniert werden. Die Wiener Kasse hat das Hanuschkrankenhaus,<lb/>
+welches furchtbar belastet und daher von der Gemeinde Wien auch 500 Mio.<lb/>
+S Kredit bekommen hat, die jetzt zurückgezahlt werden müssen.<lb/>
+</p>
+            <pb n="60-0789" facs="60_1981-06-23_0789.jpg"/>
+            <p xml:space="preserve">Einigkeit herrscht auf meinen Vorschlag, daß jetzt außer dem Bleigehalt<lb break="no"/>senken ein Beimischungszwang theoretisch durch Verordnung festgelegt<lb/>
+werden soll. Die Verordnung muß aber so gestaltet werden, daß die<lb/>
+Bauern daraus nicht eine Berechtigung ableiten können, jedwede Ethanol<lb break="no"/>menge zu jedwedem Preis zu erzeugen, und die Mineralölindustrie muß sie<lb/>
+übernehmen. Bevor diese Verordnung, die mengenmäßig genau festlegt welche<lb/>
+Menge und zu welchem Preis übernommen wird, erlassen wird, muß mit der<lb/>
+Mineralölindustrie ein Einvernehmen erzielt werden. Der ÖVP-Gesundheits<lb break="no"/>sprecher hat erklärt, er wird ja die Bleisenkung akzeptieren und zu<lb break="no"/>stimmen, wenn gleichzeitig ein Beimischungszwang für Ethanol kommt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Ich möchte jetzt einmal genau wissen, wieviel<lb/>
+Blei durch Ethanol tatsächlich ersetzt werden kann.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:110923">Lanc</name> berichtet über die Genehmigung der Panzerexporte. Diesmal hat<lb/>
+Steyr-Daimler-Puch, bevor es den Vertrag unterfertigt, um Exportge<lb break="no"/>nehmigung angesucht, die Kommission, Bundeskanzler, Außenminister,<lb/>
+Verteidigungsminister und Innenminister haben jetzt zugestimmt. Aufge<lb break="no"/>flogen ist die ganze Angelegenheit, weil die argentinische Zeitung<lb/>
+La Prensa dies Geschäft aus Konkurrenzgründen aufzeigte. Schwierig<lb break="no"/>keiten sind nach Meinung <name type="person" ref="per:110923">Lanc</name>', weil im Gesetz steht, die Neutralitäts<lb break="no"/>gesichtspunkte oder andere gleichzuhaltende Bedenken. Diese Bestimmung<lb/>
+ist nicht ausjudiziert, in den erläuternden Bemerkungen <choice><choice><sic>steht</sic><corr>sind</corr></choice></choice> dann noch<lb/>
+humanitäre Gesichtspunkte auch erwähnt. Diese Bestimmung ist erst im<lb/>
+Parlament ins Gesetz aufgenommen worden. <name type="person" ref="per:108223">Lausecker</name> stellt fest und dies<lb/>
+wird dann auch in der Fraktion des ÖGB, Zentralsekretär <name type="person" ref="per:132612">Schmölz</name> und<lb/>
+<name type="person" ref="per:97346">Benya</name>, bestätigt, daß <name type="person" ref="per:97842">Prechtl</name> nicht namens des ÖGB sprechen kann. <name type="person" ref="per:110169">Nuss<lb break="no"/>baumer</name> erwähnt, daß in Frankreich jetzt das Verteidigungsministerium<lb/>
+die Waffenexporte in die Industrie verlegt, dort werden kleinere Händ<lb break="no"/>ler eingeschaltet, die Waffenexporte werden weitergehen um, die Zahlungs<lb break="no"/>bilanz zu verbessern. Staatssekr. <name type="person" ref="per:111408">Eypeltauer</name> berichtet, daß im Linzer<lb/>
+Parteivorstand über das Verhalten <name type="person" ref="per:97842">Prechtls</name> hart diskutiert und kri<lb break="no"/>tisiert wurde. Insbesondere<add>[hat]</add> der Vöest-Obmann, NR-Abg. <name type="person" ref="per:128858">Ruhaltinger</name>,<lb/>
+darauf aufmerksam gemacht, daß <name type="person" ref="per:97842">Prechtl</name> immerhin ein oö. Mandat im National<lb break="no"/>rat vertritt. Klubobmann <name type="person" ref="per:97444">Fischer</name> meint, wenn es jetzt zu Schwierigkeiten<lb/>
+bei jedem Waffenexport kommen wird, müßte man halt eine Gesetzesände<lb break="no"/>rung vornehmen, die dann die Waffenexporte nicht so leicht machen könn<lb break="no"/>te.</p>
+            <p xml:space="preserve">Bei der Fraktionssitzung im ÖGB kann <name type="person" ref="per:97444">Fischer</name> dann allerdings erleben,<lb/>
+wie einheitlich die Gewerkschaftsfraktion für diese Waffenexporte ein<lb break="no"/><pb n="60-0790" facs="60_1981-06-23_0790.jpg"/>tritt und das Verhalten <name type="person" ref="per:97842">Prechtls</name>, in die Öffentlichkeit zu gehen und<lb/>
+hier große Drohungen auszustoßen, die er niemals durchsetzen kann, hef<lb break="no"/>tigst kritisiert wird. Am Abend versuchen dann 50 Studenten und sicher<lb break="no"/>lich kath. und soz. Jugendliche, die Verladung der Panzer zu verhindern<lb/>
+und das Gleis zu blockieren. Die Steyr-Daimler-Puch-Arbeiter aber räu<lb break="no"/>men die Geleise. Die gefürchtete Konfrontation ist eingetreten und<lb/>
+Gott sei Dank glimpflich verlaufen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:113083">Sinowatz</name> stellt dann fest, daß die Regierung zu dem Exportbeschluß<lb/>
+einheitlich steht. <name type="person" ref="per:111740">Dallinger</name> meint nur, man müsse die ganze Frage jetzt<lb/>
+neuerdings überdenken, in Deutschland gibt es jetzt Friedensmärsche,<lb/>
+weltweit eine neue Situation, seit dem Gesetz-werden 1977 der Export<lb break="no"/>genehmigungsverfahren hat sich etliches geändert.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:109051">Dohnal</name> berichtet über ihre Aktivität zur Förderung der Frauen im öffent<lb break="no"/>lichen Dienst, ihre Vorschläge entsprechend der Regierungserklärung<lb/>
+und der UNO-Konvention, die sie in Kopenhagen 1980 für Österreich unter<lb break="no"/>schrieben hat. Ich habe diese Arbeit flüchtig überflogen. Die Forde<lb break="no"/>rungen treffen nicht nur für Frauen, sondern auch für Männer zu. Besser<lb break="no"/>behandlung der niederrangigen Beamten usw. Neu für mich ist, daß in<lb/>
+jedem Ministerium eine Kontaktfrau bestimmt wird. Ich frage Staatssekr.<lb/>
+<name type="person" ref="per:109808">Albrecht</name>, ob die gewählt soll werden, dann ist es sicherlich eine<lb/>
+Oppositionsvertreterin, die auch <name type="person" ref="per:109051">Dohnal</name> große Schwierigkeiten machen<lb/>
+wird, wenn die Konktaktfrau bestimmt wird vom Ressortleiter, wird es<lb/>
+auch nicht gerade die ideale Lösung sein. Ich fürchte, <name type="person" ref="per:109051">Dohnal</name> hat sich<lb/>
+das ganze viel zu wenig überlegt. <name type="person" ref="per:113083">Sinowatz</name> stellt fest, daß jetzt<lb/>
+bis 15. Aug. entsprechende Einwände von den Ressorts kommen sollen.<lb/>
+<name type="person" ref="per:109051">Dohnal</name> allerdings wird diese Forderungen bereits vorher, und zwar gleich<lb/>
+morgen, in der Presse vorstellen. Ich vereinbare mit Staatssekr.<lb/>
+<name type="person" ref="per:109808">Albrecht</name>, daß sie im Handelsressort die Koordination durchführen wird.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:109811">BURIAN</name>: Bitte sofort mit <name type="person" ref="per:109808">Albrecht</name> und <name type="person" ref="per:116120">Hille</name> insbes.<lb/>
+die Frage Kontaktfrau besprechen.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:110923">Lanc</name> berichtet über den immer stärker werdenden Flüchtlingsstrom.<lb/>
+Die Asylwerber wurden von Österreich jetzt betreut und Auswanderungs<lb break="no"/>möglichkeiten in die USA, Kanada und Australien vermittelt. Jetzt hat<lb/>
+die südafrikanische Botschaft auch ersucht Flüchtlinge zu bekommen,<lb/>
+<name type="person" ref="per:110923">Lanc</name> wird nicht verhindern, daß die Südafrikaner werben, Österreich<lb/>
+wird aber nicht vermitteln.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="per:112992">Löschnak</name> ersucht, daß die Gegenzeichnung der vom Bundesrat zu beschlie<lb break="no"/><pb n="60-0791" facs="60_1981-06-23_0791.jpg"/>ßenden Gesetze am Freitag von 8.00 bis 12.00 Uhr erfolgen muß.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:125291">MARTIN</name>: Bitte entsprechend einplanen.<lb/>
+</p>
+            <p xml:space="preserve">Im Ministerrat wird nur über die Abwesenheit und den Gesundheits<lb break="no"/>zustand <name type="person" ref="per:97668">Kreiskys</name> von <name type="person" ref="per:113083">Sinowatz</name> kurz berichtet. Die Tagesordnung abge<lb break="no"/>wickelt und dann etliche Auslandsreisen und deren Vertretungen fest<lb break="no"/>gestellt.</p>
+            <p xml:space="preserve">Nach dem Ministerrat werde ich im Pressefoyer von Ö3 zum Fußballmatch<lb/>
+der Sekretäre der Bundesminister gegen die Presse interviewt. Ich er<lb break="no"/>kläre dies als das größte Match des Jahrhunderts, die Geheimwaffe ist,<lb/>
+daß die Sekretäre die Presse vernichtend schlagen werden, der Teamchef<lb/>
+<name type="person" ref="per:111741">Sekanina</name> steht unter Zugzwang, wenn sein Konzept keinen Erfolg hat,<lb/>
+dann ist seine pol. Karriere zu Ende und auch<add>[als]</add> Fußballbundpräsident<lb/>
+wird er abgesetzt. Mein Verhältnis zum Team, Redakteur <name type="person" ref="per:123301">Vecsei</name> hat er<lb break="no"/>klärt, ich sei der Präsident dieses Sekretärsvereines, viel schlechter<lb/>
+als er als Fußballpräsident zu dem Trainer und Mannschaftscoach <name type="person" ref="per:113042">Stotz</name>.<lb/>
+</p>
+            <p xml:space="preserve">Die österr.-libysche Kommission bringt für mich eine große Enttäuschung.<lb/>
+Der libysche Versorungsminister hat immer angedeutet, er wird die Projekte<lb/>
+der Libyer in der Gemischten Kommission vortragen, es wird keine Pro<lb break="no"/>bleme geben und Libyen will alles in Österreich kaufen. Ich hatte<lb/>
+gestern schon beim ersten Kontakt vermutet, daß es keine Probleme nach<lb/>
+libyscher Meinung gibt, und das jedes Problem, das sie lösen, dann 10 neue<lb/>
+Probleme bringt. Tatsächlich hat er dann allgemein nur gesprochen über<lb/>
+die großen Errungenschaften in Libyen, daß sie nicht den Terror expor<lb break="no"/>tieren und unterstützen, daß <name type="person" ref="per:97668">Kreisky</name> mit ihnen gemeinsam für die Palästi<lb break="no"/>nenser gegen den amerikanischen Imperialismus kämpfen, daß wir alle<lb/>
+gemeinsam die soz. Staaten errichten werden, nur über die konkreten<lb/>
+Geschäfte hat er überhaupt nichts gesagt, sondern gemeint, da hat er<lb/>
+alle Experten mit, und diese werden in den Unterkommissionen entsprechende<lb/>
+Vorschläge unterbreiten.<lb/>
+</p>
+            <p xml:space="preserve">Die Unterkommissionen haben dann nachmittags getagt, eine Aufgliederung<lb/>
+in Unterkommissionen war aber gar nicht möglich, weil die Libyer wieder<lb/>
+nur als gesamte Kommission verhandeln wollten. Zuerst ging es, wie man<lb/>
+mir berichtet, nur sehr zäh, und später hat sich die ganze Frage eine<lb/>
+bißchen gelockert.<lb/>
+</p>
+            <p xml:space="preserve">Die Kohlenbergbauvorstände sind mit dem Fachgruppensekretär Mag. <name type="person" ref="per:133349">Prinz</name><lb/>
+gekommen, um auf die weitere Unterstützung durch das Handelsministerium<lb/>
+<pb n="60-0792" facs="60_1981-06-23_0792.jpg"/>hinzuweisen. Ich selbst erklärte mich im Prinzip dazu bereit, doch<lb/>
+verlangte ich, daß die Kohleversorgung tatsächlich gesichert ist. Er<lb break="no"/>klärungen des Kohlenbergbaus, sie selber werden jetzt auch Kohle aus<lb/>
+Jugoslawien importieren, tragen nicht zur Vereinfachung des Problems<lb/>
+bei. 46.000 to, die jetzt endlich aufgeteilt sind, und die mit 1. Juni<lb/>
+aus Jugoslawien importiert werden können, laufen langsam an. Die in<lb break="no"/>ländische Produktion hat bis Mai um 25 % mehr ausgeliefert als für den<lb/>
+Hausbrand vorgesehen war. Die GKB hat um 10 % gesteigert und wird<lb/>
+340.000 to liefern, die WTK um 5 % und wird 45.000 to liefern, die<lb/>
+SAKOG hat schon in den letzten Jahren wesentlich erhöht und wird<lb/>
+180.000 to<add>[liefern]</add>, insgesamt werden also 565.000 to für den Hausbrand zur<lb/>
+Verfügung stehen. Derzeit gibt es bei der GKB 85.000 auf Lager, bei<lb/>
+der SAKOG 20.000 to. GD <name type="person" ref="per:123366">Heller</name> von der SAKOG frägt an, ob er die<lb/>
+20.000 to Exporte nach Bayern fortsetzen soll. Für die Feinkohle<lb/>
+können 10.000 ohne weiteres exportiert werden. 10.000 für den Haus<lb break="no"/>brand sollte er erst schön langsam reduzieren. Auch die Feinkohle<lb/>
+kann nur bis 85 geliefert werden, dann wird diese Kohle für Rieders<lb break="no"/>bach II gebraucht. Die SAKOG wird in Hinkunft 420.000 für die OKA,<lb/>
+100.000 für das Fernheizwerk in Salzburg und 100.000 to für den Haus<lb break="no"/>brand zur Verfügung stellen. Für Riedersbach II muß dann die OKA<lb/>
+noch immer größte Mengen importieren. Der Bergbau möchte gern, daß ich<lb/>
+wieder einmal in eine Grube einfahre, was ich im Prinzip zusagte.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="per:107956">SATZINGER</name>: Vielleicht kann für Sommer irgend etwas<lb/>
+organisieren.<add>[hs. Ergänzung: vielleicht mit Presse]</add><lb/>
+</p>
+            <p xml:space="preserve">Der österr. Botschafter Dr. <name type="person" ref="per:133364">Strasser</name> geht nach Berlin. Mit MR <name type="person" ref="per:114560">Tschach</name><lb/>
+und ihm bespreche ich die weitere Vorgangsweise. <name type="person" ref="per:133364">Strasser</name> erkennt<lb/>
+die Notwendigkeit, mit Dr. <name type="person" ref="per:114101">Mittag</name> und <name type="person" ref="per:97343">Beil</name> engsten Kontakt zu halten.<lb/>
+</p>
+            <p xml:space="preserve">In der ÖGB-Fraktion berichtet <name type="person" ref="per:97563">Hofstetter</name> über die Steuerverhandlungen.<lb/>
+Ich werde aufgefordert, über die Energiepreise zu berichten. An mein<lb/>
+Referat schließt sich eine heftige Diskussion. Alle Gewerkschafter<lb/>
+sind empört über das Verhalten von <name type="person" ref="per:97511">Haiden</name> und <name type="person" ref="per:117200">Steyrer</name>. Insbesondere,<lb/>
+daß die mit dem Kurier-Flugzeug geflogen sind und dort Aussagen<lb/>
+machen, erscheint den Bauarbeitern unerklärlich. Mit Klubobmann<lb/>
+<name type="person" ref="per:97444">Fischer</name> diskutiere ich über die Vorgangsweise bezüglich National<lb break="no"/>park. Anschließend an die Fraktionssitzung vereinbare ich mit <name type="person" ref="per:97627">Heinz<lb/>
+Kienzl</name> und ihm, daß man doch um einen Weg gehen sollte, mit den<lb/>
+Gemeinden und der Elektrizitätswirtschaft sich einigen, und dann<lb/>
+sofort die verbliebene Grenze dann endgültig festlegen. <name type="person" ref="per:97444">Fischer</name><lb/>
+<pb n="60-0793" facs="60_1981-06-23_0793.jpg"/>bezweifelt allerdings, ob die Länder bereit sind, die Kompetenz<lb/>
+an den Bund abzutreten. Die ÖVP wird, und das habe ich immer<lb/>
+erklärt, dem sicherlich nicht zustimmen.<lb/>
+</p>
+            <p xml:space="preserve">Zen.Sekr. <name type="person" ref="per:97741">Millendorfer</name> von den Bauarbeitern kritisiert dann auf<lb/>
+das heftigste das Vergabegesetz und macht mich dafür noch mit<lb break="no"/>verantwortlich. Ich erkläre ihm dezidiert, daß ich in der Re<lb break="no"/>gierungsvorbesprechung dagegen aufgetreten bin, weil ich auch<lb/>
+befürchte, daß dann die protektionistische Heranziehung österr.<lb/>
+Unternehmer bei Ausschreibungen nicht mehr möglich sein wird.<lb/>
+<name type="person" ref="per:97386">Czettel</name> verweist darauf, daß er mit <name type="person" ref="per:97668">Kreisky</name> vereinbart hat, bevor<lb/>
+dieses Gesetz die Regierung verläßt, noch mit der Fraktion abzu<lb break="no"/>sprechen. Eine harte Diskussion gibt es wegen der Verlautbarung<lb/>
+von <name type="person" ref="per:97842">Prechtl</name> und auch den Äußerungen <name type="person" ref="per:111740">Dallingers</name> wegen der 30 S.<lb/>
+Dieser erklärt zwar nachher, wieso es dazu gekommen ist, und <choice><choice><sic>sein</sic><corr>seinen</corr></choice></choice><lb/>
+Vorschlag, meint <name type="person" ref="per:97386">Czettel</name> als Vorsitzender abschließend, hätte er<lb/>
+eben vorher in der Fraktion besprechen sollen und nicht in die<lb/>
+Öffentlichkeit gehen. <name type="person" ref="per:111740">Dallinger</name> gibt dieser Kritik recht und meint,<lb/>
+es handelt sich halt hier um eine spät-pubertäre Phase, die er<lb/>
+jetzt überwunden hat.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Sektionsleiter-Sitzung gibt es nur eine harte Diskussion<lb/>
+wegen der Panzer. Geteilte Meinung innerhalb der sozialistischen<lb/>
+Funktionäre der Landstraße.<lb/>
+</p>
+            <p xml:space="preserve">Das Match des Jahrhunderts endet mit 6:0<add>[hs. korrigiert, Anm.]</add> für die Sekretäre.<lb/>
+<name type="person" ref="per:109811">Burian</name> ist der blendendste Spieler. Die Niederlage für die Presse<lb/>
+ist eklatant. Einsame Spitze aber ist die Pressesekretärin im<lb/>
+Bautenministerium<add>[hs. korrigiert, Anm.]</add>, die spielt besser als die Männer. Die<lb/>
+Niederlage der Presse ist verheerend. Sts. <name type="person" ref="per:123215">Fast</name>, die neben mir<lb/>
+sitzt, meint scherzhaft, hoffentlich wirkt sich dies nicht auf<lb/>
+die Berichterstattung aus.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back>
+         <pb n="60_0783_01" facs="60_1981-06-23_0783-01.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesprogramm, 23.6.1981</head>
+         </div>
+         <pb n="60_0783_02" facs="60_1981-06-23_0783-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
+         </div>
+         <pb n="60_0793_01" facs="60_1981-06-23_0793-01.jpg"/>
+         <pb n="60_0793_02" facs="60_1981-06-23_0793-02.jpg"/>
+         <div type="attachment" subtype="cabinetAgenda">
+            <head>Tagesordnung 93. Ministerratssitzung, 23.6.1981</head>
+         </div>
+         <pb n="60_0793_03" facs="60_1981-06-23_0793-03.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>Nahctrag TO Ministerratssitzung, 23.6.1981</head>
+         </div>
+         <pb n="60_0793_04" facs="60_1981-06-23_0793-04.jpg"/>
+         <div type="attachment" subtype="other">
+            <head>hs. Notizen (TO MR-Sitzung Rückseite)</head>
+         </div>
+      </back>
+   </text>
+</TEI>
