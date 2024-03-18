@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# Run just once from the top directory to add a xml:id attrib to  the TEI
+# files in data/editions. It uses the file name without extension
 import os
 from acdh_tei_pyutils.tei import TeiReader, ET
 
