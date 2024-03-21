@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="staribacher__19700906">
   <teiHeader>
       <fileDesc>
@@ -45,91 +46,91 @@
    </teiHeader>
   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band02/">
       <body>
-         <pb n="02-0482" facs="02_1970-09-06_0482.jpg"/>
+         <pb n="02-0482" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band02/02_1970-09-06_0482.jp2/full/pct:100/0/default.jpg"/>
          <div type="entry">
             <dateline>
                <date when="1970-09-06">Sonntag, 6. September 1970</date>
             </dateline>
-            <p xml:space="preserve">Die Messe-Er&#246;ffnung gab mir Gelegenheit einige Gedanken des<lb/>
-Ministeriums beim Publikum auszubreiten, das haupts&#228;chlich<lb/>
+            <p xml:space="preserve" id="Band02_1970-09-06_01">Die Messe-Eröffnung gab mir Gelegenheit einige Gedanken des<lb/>
+Ministeriums beim Publikum auszubreiten, das hauptsächlich<lb/>
 aus Wirtschaftsleuten bestand. Ich versuchte insbesondere die<lb/>
 Angriffe, die in letzter Zeit gegen das Konsumentenforum aber ins<lb break="no"/>besondere gegen den Aussenhandelsrat gestartet wurden von Seiten<lb/>
-<rs type="person" ref="#per__97769">Mussils</rs> &#8211; ohne seinen Namen zu nennen - als ein Missverst&#228;ndnis hin<lb break="no"/>zustellen. Es war zweifelsohne eine hochpolitische Rede, von der<lb/>
+<rs type="person" ref="#per__97769">Mussils</rs> – ohne seinen Namen zu nennen - als ein Missverständnis hin<lb break="no"/>zustellen. Es war zweifelsohne eine hochpolitische Rede, von der<lb/>
 allerdings nicht weiss, wie sie noch ankommen wird. Die<lb/>
 Industrie1lenvereinigungsvertreter, <rs type="person" ref="#per__97733">Mayer-Gunthof</rs>, sagte mir,<lb/>
-allerdings anschliessend, er sei mit allem einverstanden, nur bez&#252;glich<lb/>
-der Arbeitskr&#228;fte m&#252;sste etwas geschehen. Ich hatte von H&#228;user er<lb break="no"/>fahren, dass sowieso jetzt zwischen Gewerkschaftsbund und Unternehmer<lb break="no"/>vertreter auf Interessensvertretungsbasis die Verhandhngen &#252;ber<lb/>
-ein Fremdarbeiter- ich w&#252;rde eher sagen, Gastarbeitergesetz aufge<lb break="no"/>nommen werden. Ich hatte &#252;ber diese Rede sehr lange nachgedacht und<lb/>
+allerdings anschliessend, er sei mit allem einverstanden, nur bezüglich<lb/>
+der Arbeitskräfte müsste etwas geschehen. Ich hatte von Häuser er<lb break="no"/>fahren, dass sowieso jetzt zwischen Gewerkschaftsbund und Unternehmer<lb break="no"/>vertreter auf Interessensvertretungsbasis die Verhandhngen über<lb/>
+ein Fremdarbeiter- ich würde eher sagen, Gastarbeitergesetz aufge<lb break="no"/>nommen werden. Ich hatte über diese Rede sehr lange nachgedacht und<lb/>
 sie einige Male durchexerziert. Trotzdem glaube ich, ich werde<lb/>
-mich dazu durchringen m&#252;ssen, so kurze Ansprachen - ich wollte nicht<lb/>
-l&#228;nger als maximal 15 Minuten reden -ich glaube es war sogar k&#252;rzer,<lb/>
+mich dazu durchringen müssen, so kurze Ansprachen - ich wollte nicht<lb/>
+länger als maximal 15 Minuten reden -ich glaube es war sogar kürzer,<lb/>
 kann man nicht frei sprechen, sondern muss sich dazu entschliessen,<lb/>
-(wortw&#246;rtlich) herunterzulesen.</p>
-            <p xml:space="preserve">Bei dem anschliessenden Messerundgang ben&#252;tzte ich die Gelegenheit,<lb/>
+(wortwörtlich) herunterzulesen.</p>
+            <p xml:space="preserve" id="Band02_1970-09-06_02">Bei dem anschliessenden Messerundgang benützte ich die Gelegenheit,<lb/>
 um <rs type="person" ref="#per__97893">Sallinger</rs> erstens darauf aufmerksam zu machen, dass harte An<lb break="no"/>griffe gegen die Bundeskammer auf dem Weinsektor derzeit in der Presse<lb/>
-zu finden sind. Nach unseren Exportziffern h&#228;tten nur 22.000 hl Wein<lb/>
-nach Westdeutschland geliefert werden k&#246;nnen, w&#228;hrend nach der deut<lb break="no"/>schen Statistik 115.000 hl Wein aus &#214;sterreich geliefert wurden. Da<lb/>
+zu finden sind. Nach unseren Exportziffern hätten nur 22.000 hl Wein<lb/>
+nach Westdeutschland geliefert werden können, während nach der deut<lb break="no"/>schen Statistik 115.000 hl Wein aus Österreich geliefert wurden. Da<lb/>
 die Statistiken nicht angezweifelt werden, so muss es sich hier um<lb/>
-verschnittene Weine handeln, die mit &#246;sterreichischen Ursprungszeug<lb break="no"/>nissen nach Deutschland geliefert werden. Laut Ursprungszeugnis &#8211;<lb/>
-regelung d&#252;rfte 1/3 ausl&#228;ndischer Weine zu &#246;sterreichischen Weinen<lb/>
-geschnitten werden und es sind noch immer &#246;sterreichische Weine.<lb/>
-Dies erkl&#228;rt allerdings nicht diese grosse Diskrepanz zwischen<lb/>
-22.000 und 115.000 hl. <rs type="person" ref="#per__97893">Sallinger</rs> sagte mir zu, er werde unverz&#252;glich<lb/>
-diese Frage pr&#252;fen lassen, fragte auch dann im Handelskammerpavillon<lb/>
-<pb n="02-0483" facs="02_1970-09-06_0483.jpg"/>den Kammeramtsdirektor von Wien, Dr. <rs type="person" ref="#per__98112">Z&#246;llner</rs>, von dem er keine<lb/>
-gute Meinung hat, und bekam auch tats&#228;chlich keine befriedigende<lb/>
-Antwort. <rs type="person" ref="#per__98112">Z&#246;llner</rs> erwiderte nur, ja ja, das kann schon m&#246;glich sein,<lb/>
-aber das ist nicht wahr und war nicht bereit, Anfangs &#252;berhaupt<lb/>
+verschnittene Weine handeln, die mit österreichischen Ursprungszeug<lb break="no"/>nissen nach Deutschland geliefert werden. Laut Ursprungszeugnis –<lb/>
+regelung dürfte 1/3 ausländischer Weine zu österreichischen Weinen<lb/>
+geschnitten werden und es sind noch immer österreichische Weine.<lb/>
+Dies erklärt allerdings nicht diese grosse Diskrepanz zwischen<lb/>
+22.000 und 115.000 hl. <rs type="person" ref="#per__97893">Sallinger</rs> sagte mir zu, er werde unverzüglich<lb/>
+diese Frage prüfen lassen, fragte auch dann im Handelskammerpavillon<lb/>
+<pb n="02-0483" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band02/02_1970-09-06_0483.jp2/full/pct:100/0/default.jpg"/>den Kammeramtsdirektor von Wien, Dr. <rs type="person" ref="#per__98112">Zöllner</rs>, von dem er keine<lb/>
+gute Meinung hat, und bekam auch tatsächlich keine befriedigende<lb/>
+Antwort. <rs type="person" ref="#per__98112">Zöllner</rs> erwiderte nur, ja ja, das kann schon möglich sein,<lb/>
+aber das ist nicht wahr und war nicht bereit, Anfangs überhaupt<lb/>
 sich dagegen zur Wehr zu setzen. <rs type="person" ref="#per__97893">Sallinger</rs> hat ihm allerdings dann<lb/>
-F&#252;sse gemacht und ich bin neugierig, nachdem ja nicht nur Wien<lb/>
-sondern alle Landeskammern Ursprungszeugnisse ausstellen k&#246;nnen,<lb/>
-ob die Bundeskammer mir tats&#228;chlich einen umfassenden Bericht zur<lb/>
-Verf&#252;gung stellen wird.</p>
-            <p xml:space="preserve">Der Handelskammerpavillon von Wien ist neu gestaltet, d.h. es wurden<lb/>
-jetzt in viel st&#228;rkerem Masse moderne Ausstellungsideen, wie wir<lb/>
+Füsse gemacht und ich bin neugierig, nachdem ja nicht nur Wien<lb/>
+sondern alle Landeskammern Ursprungszeugnisse ausstellen können,<lb/>
+ob die Bundeskammer mir tatsächlich einen umfassenden Bericht zur<lb/>
+Verfügung stellen wird.</p>
+            <p xml:space="preserve" id="Band02_1970-09-06_03">Der Handelskammerpavillon von Wien ist neu gestaltet, d.h. es wurden<lb/>
+jetzt in viel stärkerem Masse moderne Ausstellungsideen, wie wir<lb/>
 sie in der Arbeiterkammer seit Jahren verfolgt haben, aufgenommen.<lb/>
-Bei dem anschliessenden Gulasch-Fr&#252;hst&#252;ck kam ich neben <rs type="person" ref="#per__97893">Sallinger</rs><lb/>
+Bei dem anschliessenden Gulasch-Frühstück kam ich neben <rs type="person" ref="#per__97893">Sallinger</rs><lb/>
 zu sitzen, um mit ihm doch einige politische Gesichtspunkte der<lb/>
-letzten Zeit zu er&#246;rtern. <rs type="person" ref="#per__97755">Moser</rs> sass neben uns und ich glaube auch<lb/>
-er wurde von <rs type="person" ref="#per__97893">Sallinger</rs> in einigen Fragen mit W&#252;nschen der Handels<lb break="no"/>kammer befasst. U.a. w&#252;nschte <rs type="person" ref="#per__97893">Sallinger</rs>, dass endlich einmal die<lb/>
-Strengbergsache liquidiert wird, d.h. dass die Firmen ihre ausst&#228;n<lb break="no"/>digen Gelder bekommen, da bis jetzt kein Minister diese Liquidation<lb/>
-durchgef&#252;hrt hat. <rs type="person" ref="#per__97755">Moser</rs> sage, er beabsichtige, tats&#228;chlich jetzt<lb/>
-die Betr&#228;ge endlich zur Auszahlung zu bringen. Allerdings muss er<lb/>
+letzten Zeit zu erörtern. <rs type="person" ref="#per__97755">Moser</rs> sass neben uns und ich glaube auch<lb/>
+er wurde von <rs type="person" ref="#per__97893">Sallinger</rs> in einigen Fragen mit Wünschen der Handels<lb break="no"/>kammer befasst. U.a. wünschte <rs type="person" ref="#per__97893">Sallinger</rs>, dass endlich einmal die<lb/>
+Strengbergsache liquidiert wird, d.h. dass die Firmen ihre ausstän<lb break="no"/>digen Gelder bekommen, da bis jetzt kein Minister diese Liquidation<lb/>
+durchgeführt hat. <rs type="person" ref="#per__97755">Moser</rs> sage, er beabsichtige, tatsächlich jetzt<lb/>
+die Beträge endlich zur Auszahlung zu bringen. Allerdings muss er<lb/>
 noch ein Forum schaffen, um sich gegen die Angriffe, die er sonst<lb/>
-von Seiten des Rechnungshofes erwarten m&#252;sste, abzudecken und vor<lb/>
+von Seiten des Rechnungshofes erwarten müsste, abzudecken und vor<lb/>
 allem auch gegebenenfalls Angriffe des politischen Gegners abwehren<lb/>
-zu k&#246;nnen. <rs type="person" ref="#per__97893">Sallinger</rs> sagte sofort zu, er w&#252;rde innerhalb seiner<lb/>
-Partei die diesbez&#252;gliche Deckung &#252;bernehmen, was uns allerdings<lb/>
-nur veranlasste, darauf hinzuweisen, dass den &#214;AAB doch in Wirklich<lb break="no"/>keit kein Mensch mehr kontrollieren kann. Bei dieser Gelegenheit<lb/>
-meinte <rs type="person" ref="#per__97893">Sallinger</rs>, er h&#228;tte aber bewiesen, dass in der letzten Zeit<lb/>
+zu können. <rs type="person" ref="#per__97893">Sallinger</rs> sagte sofort zu, er würde innerhalb seiner<lb/>
+Partei die diesbezügliche Deckung übernehmen, was uns allerdings<lb/>
+nur veranlasste, darauf hinzuweisen, dass den ÖAAB doch in Wirklich<lb break="no"/>keit kein Mensch mehr kontrollieren kann. Bei dieser Gelegenheit<lb/>
+meinte <rs type="person" ref="#per__97893">Sallinger</rs>, er hätte aber bewiesen, dass in der letzten Zeit<lb/>
 er mit seinen ldeen sehr wohl durchkomme, siehe z.B. die Bestellung<lb/>
-vom Klubobmann, obwohl der &#214;AAB mit grossen Reden und Festlegungen.<lb/>
-sei es von <rs type="person" ref="#per__97714">Maleta</rs> pers&#246;nlich oder von Beschl&#252;ssen dieses Gremiums<lb/>
-die Sache pr&#228;judizieren will. Auf alle F&#228;lle geht der Streit inner<lb break="no"/>halb der &#214;VP &#252;ber diese Frage ganz sch&#246;n weiter.</p>
-            <p xml:space="preserve">Die Er&#246;ffnung der Landwirtschaftsschau hatte der Landwirtschafts<lb break="no"/>minister nicht vornehmen k&#246;nnen, da er sich in Tirol befindet und<lb/>
-er hat dazu Sekt. Chef <rs type="person" ref="#per__140306">Schratt</rs> beauftragt.Dies n&#252;tzte der Pr&#228;sident<lb/>
-<pb n="02-0484" facs="02_1970-09-06_0484.jpg"/>der Landwirtschaftskammer <rs type="person" ref="#per__113056">Bierbaum</rs> dazu, um einerseits sein grosses<lb/>
-Bedauern dar&#252;ber zum Ausdruck zu bringen und andererseits in seiner<lb/>
+vom Klubobmann, obwohl der ÖAAB mit grossen Reden und Festlegungen.<lb/>
+sei es von <rs type="person" ref="#per__97714">Maleta</rs> persönlich oder von Beschlüssen dieses Gremiums<lb/>
+die Sache präjudizieren will. Auf alle Fälle geht der Streit inner<lb break="no"/>halb der ÖVP über diese Frage ganz schön weiter.</p>
+            <p xml:space="preserve" id="Band02_1970-09-06_04">Die Eröffnung der Landwirtschaftsschau hatte der Landwirtschafts<lb break="no"/>minister nicht vornehmen können, da er sich in Tirol befindet und<lb/>
+er hat dazu Sekt. Chef <rs type="person" ref="#per__140306">Schratt</rs> beauftragt.Dies nützte der Präsident<lb/>
+<pb n="02-0484" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band02/02_1970-09-06_0484.jp2/full/pct:100/0/default.jpg"/>der Landwirtschaftskammer <rs type="person" ref="#per__113056">Bierbaum</rs> dazu, um einerseits sein grosses<lb/>
+Bedauern darüber zum Ausdruck zu bringen und andererseits in seiner<lb/>
 Rede einige wirklich unsachliche Passagen aufzunehmen. <rs type="person" ref="#per__97311">Androsch</rs> neben<lb/>
-mir meinte, dies sollte sich einmal ein Gewerkschaftsbundpr&#228;sident<lb/>
-oder Arbeiterkammerpr&#228;sident erlauben. Ich pers&#246;nlich habe diesen<lb/>
+mir meinte, dies sollte sich einmal ein Gewerkschaftsbundpräsident<lb/>
+oder Arbeiterkammerpräsident erlauben. Ich persönlich habe diesen<lb/>
 Angriff nicht als so krass empfunden, allerdings hat die Rede sehr<lb/>
 viel Unsachlichkeit auch beinhaltet. Z.B. hat <rs type="person" ref="#per__113056">Bierbaum</rs> behauptet,<lb/>
-wenn wir heuer nicht gen&#252;gend Brotgetreide ernten k&#246;nnen und wir Ge<lb break="no"/>treide importieren, dass dann dem Staat daraus grosse finanzielle<lb/>
+wenn wir heuer nicht genügend Brotgetreide ernten können und wir Ge<lb break="no"/>treide importieren, dass dann dem Staat daraus grosse finanzielle<lb/>
 Belastungen erwachsen. Genau das Gegenteil ist richtig, da bekanntlicher<lb break="no"/>weise Brotgetreide wesentlich billiger aus dem Ausland importiert<lb/>
-werden kann. Ich ventilierte die Idee &#8211; und <rs type="person" ref="#per__97311">Androsch</rs> war davon nicht<lb/>
-begeistert &#8211; gegebenenfalls zu erkl&#228;ren, dass mich der Landwirtsehaftsm<lb break="no"/>inister <rs type="person" ref="#per__98055">Weihs</rs> beauftragt hatte, die Er&#246;ffnung vorzunehmen und ent<lb break="no"/>sprechend sofort auf <rs type="person" ref="#per__113056">Bierbaum</rs> Referat aus dem Stegreif zu reagieren.<lb/>
-Sowohl <rs type="person" ref="#per__97311">Androsch</rs> als auch <rs type="person" ref="#per__97879">R&#246;sch</rs> meinten, dies h&#228;tte ich vorher ank&#252;ndigen<lb/>
-m&#252;ssen und es g&#228;be jetzt keine M&#246;glichkeit mehr. Ich ben&#252;tzte aller<lb break="no"/>dings dann den Rundgang, um den Kammeramtsdirektor Hofrat Dr. <rs type="person">Bertl</rs><lb/>
+werden kann. Ich ventilierte die Idee – und <rs type="person" ref="#per__97311">Androsch</rs> war davon nicht<lb/>
+begeistert – gegebenenfalls zu erklären, dass mich der Landwirtsehaftsm<lb break="no"/>inister <rs type="person" ref="#per__98055">Weihs</rs> beauftragt hatte, die Eröffnung vorzunehmen und ent<lb break="no"/>sprechend sofort auf <rs type="person" ref="#per__113056">Bierbaum</rs> Referat aus dem Stegreif zu reagieren.<lb/>
+Sowohl <rs type="person" ref="#per__97311">Androsch</rs> als auch <rs type="person" ref="#per__97879">Rösch</rs> meinten, dies hätte ich vorher ankündigen<lb/>
+müssen und es gäbe jetzt keine Möglichkeit mehr. Ich benützte aller<lb break="no"/>dings dann den Rundgang, um den Kammeramtsdirektor Hofrat Dr. <rs type="person">Bertl</rs><lb/>
 auf die Unrichtigkeit des Referats aufmerksam zu machen. Da er dies<lb/>
-bezweifelte, suchte ich den Gen.Direktor <rs type="person" ref="#per__140177">Gr&#252;n</rs> <add>[evtl. Falschidentifikation, Anm.]</add>, der die Importe zu<lb/>
-t&#228;tigen hat und konfrontierte diesen mit diesen falschen Behauptungen<lb break="no"/>. Sie versuchten nat&#252;rlich ein R&#252;ckzugsgefecht, gaben mir aber letzten<lb/>
-Endes in der sachlichen Darstellung recht. H&#228;tte der Herr Pr&#228;sident<lb/>
-frei gesprochen, dann h&#228;tte man k&#246;nnen sagen, es ist ihm eben in der<lb/>
+bezweifelte, suchte ich den Gen.Direktor <rs type="person" ref="#per__140177">Grün</rs> <add>[evtl. Falschidentifikation, Anm.]</add>, der die Importe zu<lb/>
+tätigen hat und konfrontierte diesen mit diesen falschen Behauptungen<lb break="no"/>. Sie versuchten natürlich ein Rückzugsgefecht, gaben mir aber letzten<lb/>
+Endes in der sachlichen Darstellung recht. Hätte der Herr Präsident<lb/>
+frei gesprochen, dann hätte man können sagen, es ist ihm eben in der<lb/>
 freien Rede passiert. Da er aber die Rede heruntergelesen hat, gibt<lb/>
-es hief&#252;r diese Ausrede nicht. Man sieht also, auch frei reden hat<lb/>
-gewisse Vorteile. Abschliessend besuchte ich den sehr seri&#246;s aufgebauten<lb/>
-Arbeiterkammerpavillon. Man sieht eine neue &#196;ra ist auch dort angebrochen</p>
+es hiefür diese Ausrede nicht. Man sieht also, auch frei reden hat<lb/>
+gewisse Vorteile. Abschliessend besuchte ich den sehr seriös aufgebauten<lb/>
+Arbeiterkammerpavillon. Man sieht eine neue Ära ist auch dort angebrochen</p>
          </div>
       </body>
     

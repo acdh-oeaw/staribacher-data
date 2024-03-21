@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="staribacher__19700613">
   <teiHeader>
       <fileDesc>
@@ -45,95 +46,95 @@
    </teiHeader>
   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band02/">
       <body>
-         <pb n="02-0254" facs="02_1970-06-13_0254.jpg"/>
+         <pb n="02-0254" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band02/02_1970-06-13_0254.jp2/full/pct:100/0/default.jpg"/>
          <div type="entry">
             <dateline>
                <date when="1970-06-13">Samstag, 13. Juni 1970</date>
             </dateline>
-            <p xml:space="preserve">Bei der Vorstandsfraktionssitzung in der Arbeiterkammer wurde<lb/>
-ich aufgefordert, einen &#220;berblick &#252;ber die Arbeiten des Ressorts<lb/>
+            <p xml:space="preserve" id="Band02_1970-06-13_01">Bei der Vorstandsfraktionssitzung in der Arbeiterkammer wurde<lb/>
+ich aufgefordert, einen Überblick über die Arbeiten des Ressorts<lb/>
 zu geben. Ich hatte allerdings die Absicht und habe das dann<lb/>
-auch durchgef&#252;hrt, nicht allein &#252;ber die Ressortprobleme zu<lb/>
-sprechen. Vorschl&#228;ge &#252;ber den Konsumentenrat wurden von der<lb/>
+auch durchgeführt, nicht allein über die Ressortprobleme zu<lb/>
+sprechen. Vorschläge über den Konsumentenrat wurden von der<lb/>
 Vorstandsfraktion einhellig gebilligt. Auch <rs type="person" ref="#per__97346">Benya</rs> war der Meinung,<lb/>
-dass der Konsumentenrat aufgebaut werden soll. &#220;ber die organisa<lb break="no"/>torischen Voraussetzungen und &#252;ber die Beschickung m&#252;sste noch<lb/>
+dass der Konsumentenrat aufgebaut werden soll. Über die organisa<lb break="no"/>torischen Voraussetzungen und über die Beschickung müsste noch<lb/>
 im Detail verhandelt werden. In der Diskussion fragte <rs type="person" ref="#per__97570">Hrdlitschka</rs>,<lb/>
 ob wir an den Konsumentenrat, der seinerzeit beim Bundeskanzler<lb/>
-<rs type="person">Klaus</rs> von <rs type="person">B&#252;rkle</rs> geleitet war und wo Robert Bauer von den Lebens<lb break="no"/>mittelarbeitern als Sekret&#228;r fungierte, Geld vom Handelsministerium<lb/>
+<rs type="person">Klaus</rs> von <rs type="person">Bürkle</rs> geleitet war und wo Robert Bauer von den Lebens<lb break="no"/>mittelarbeitern als Sekretär fungierte, Geld vom Handelsministerium<lb/>
 bekommen hatte.</p>
-            <p xml:space="preserve">ANMERKUNG f&#252;r <rs type="person" ref="#per__97646">Koppe</rs>: Bitte, nachschauen, ob und wie dieser Konsumen<lb break="no"/>tenrat finanziert wurde, gegebenenfalls Dr. <rs type="person" ref="#per__97587">Jankowitsch</rs> vom Bundes<lb break="no"/>kanzler fragen.</p>
-            <p xml:space="preserve">Koll. <rs type="person" ref="#per__97357">Bl&#252;mel</rs> machte ich glaube sehr richtig den Einwand, dass<lb/>
+            <p xml:space="preserve" id="Band02_1970-06-13_02">ANMERKUNG für <rs type="person" ref="#per__97646">Koppe</rs>: Bitte, nachschauen, ob und wie dieser Konsumen<lb break="no"/>tenrat finanziert wurde, gegebenenfalls Dr. <rs type="person" ref="#per__97587">Jankowitsch</rs> vom Bundes<lb break="no"/>kanzler fragen.</p>
+            <p xml:space="preserve" id="Band02_1970-06-13_03">Koll. <rs type="person" ref="#per__97357">Blümel</rs> machte ich glaube sehr richtig den Einwand, dass<lb/>
 wir diese Institution unbedingt anders als Konsumentenrat betiteln<lb/>
-sollen, damit er sich deutlich von der seinerzeitigen Einf&#252;hrung<lb/>
+sollen, damit er sich deutlich von der seinerzeitigen Einführung<lb/>
 <rs type="person">Klaus</rs> in seinem Bundeskanzleramt unterscheidet. <rs type="person" ref="#per__97346">Benya</rs> teilte<lb/>
-mit, dass er mit <rs type="person" ref="#per__97326">Bacher</rs> eine Aussprache gehabt h&#228;tte, weil die<lb/>
+mit, dass er mit <rs type="person" ref="#per__97326">Bacher</rs> eine Aussprache gehabt hätte, weil die<lb/>
 Verhandlungen zwischen der Gewerkschaft und dem Rundfunk ins Stocken<lb/>
-geraten sind. <rs type="person" ref="#per__97326">Bacher</rs> hatte sich vorgestellt, dass seine Verein<lb break="no"/>barungen mit den Betriebsr&#228;ten eine Vereinbarung mit der Gewerk<lb break="no"/>schaft &#252;ber etwaige kollektivvertragliche Lohnregelungen er&#252;brigen<lb/>
-w&#252;rde. Er wurde nun eines Besseren belehrt und hat sich bereiter<lb break="no"/>kl&#228;rt, die L&#246;hne um + 2,9 % zu erh&#246;hen und ausserdem die Zulage um<lb/>
-5,9 Mio S f&#252;r das halbe Jahr ebenfalls neuerdings zu erh&#246;hen.<lb/>
-Betreffend seiner Forderung, nicht in die Parit&#228;tische Kommission<lb/>
+geraten sind. <rs type="person" ref="#per__97326">Bacher</rs> hatte sich vorgestellt, dass seine Verein<lb break="no"/>barungen mit den Betriebsräten eine Vereinbarung mit der Gewerk<lb break="no"/>schaft über etwaige kollektivvertragliche Lohnregelungen erübrigen<lb/>
+würde. Er wurde nun eines Besseren belehrt und hat sich bereiter<lb break="no"/>klärt, die Löhne um + 2,9 % zu erhöhen und ausserdem die Zulage um<lb/>
+5,9 Mio S für das halbe Jahr ebenfalls neuerdings zu erhöhen.<lb/>
+Betreffend seiner Forderung, nicht in die Paritätische Kommission<lb/>
 zu gehen, teilte er mit, dass der Aufsichtsratvorsitzende, in dem<lb/>
-Fall <rs type="person">Kranzelmeier</rs>, auch w&#228;hrend der <rs type="person" ref="#per__97634">Klaus</rs>&#228;ra &#252;ber die Stellung<lb break="no"/>nahmen des Parit&#228;tischen Unterausschusses f&#252;r Preisfragen und &#252;ber<lb/>
-die Parit&#228;tische Kommission nicht genau informiert hatte. Da das<lb/>
-Ministerium am Montag bereits den Budgetentwurf f&#252;r das Jahr 1971<lb/>
-dem Finanzministerium &#252;bermitteln muss, und ich auf alle F&#228;lle<lb/>
-<pb n="02-0255" facs="02_1970-06-13_0255.jpg"/>auch mit den Sektionsleitern &#252;ber die Budgetentwurf durchf&#252;hren<lb/>
-wollte, musste ich sie f&#252;r Samstag vormittag in das Amt bitten.<lb/>
-Angeblich hat sie das &#252;berhaupt nicht gest&#246;rt, sondern sie waren<lb/>
+Fall <rs type="person">Kranzelmeier</rs>, auch während der <rs type="person" ref="#per__97634">Klaus</rs>ära über die Stellung<lb break="no"/>nahmen des Paritätischen Unterausschusses für Preisfragen und über<lb/>
+die Paritätische Kommission nicht genau informiert hatte. Da das<lb/>
+Ministerium am Montag bereits den Budgetentwurf für das Jahr 1971<lb/>
+dem Finanzministerium übermitteln muss, und ich auf alle Fälle<lb/>
+<pb n="02-0255" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band02/02_1970-06-13_0255.jp2/full/pct:100/0/default.jpg"/>auch mit den Sektionsleitern über die Budgetentwurf durchführen<lb/>
+wollte, musste ich sie für Samstag vormittag in das Amt bitten.<lb/>
+Angeblich hat sie das überhaupt nicht gestört, sondern sie waren<lb/>
 wie mir <rs type="person" ref="#per__98053">Wanke</rs> mitteilte, sehreinverstanden.<lb/>
 Die Budgetsektion hatte einen ersten Entwurf ausgearbeitet, der<lb/>
-f&#252;r den Sachaufwand einen Aufwand von 522 MiomS gegen&#252;ber dem<lb/>
-Rechnungsjahr 1969 von 260 und gegen&#252;ber dem Budgetvoranschlag 1970<lb/>
-von 388 Mio S aufgemacht h&#228;tte. Der Finanzminister hat im Hinblick<lb/>
-auf die kritische Budgetsituation 1971 und in Durchf&#252;hrung der Be<lb break="no"/>schl&#252;sse der Bundesregierung eine 11 %-ige K&#252;rzung des Ermessens<lb break="no"/>kredites f&#252;r jedes einzelen Ministerium angeordnet. Diese Vorgangs<lb break="no"/>weise war notwendig, da die Regierung &#252;bereingekommen ist, nicht<lb/>
+für den Sachaufwand einen Aufwand von 522 MiomS gegenüber dem<lb/>
+Rechnungsjahr 1969 von 260 und gegenüber dem Budgetvoranschlag 1970<lb/>
+von 388 Mio S aufgemacht hätte. Der Finanzminister hat im Hinblick<lb/>
+auf die kritische Budgetsituation 1971 und in Durchführung der Be<lb break="no"/>schlüsse der Bundesregierung eine 11 %-ige Kürzung des Ermessens<lb break="no"/>kredites für jedes einzelen Ministerium angeordnet. Diese Vorgangs<lb break="no"/>weise war notwendig, da die Regierung übereingekommen ist, nicht<lb/>
 ein ausgeglichenes Budget mit einem Maximaldefizit von ca. 9,5 Mia<lb/>
 S vorzulegen, sondern auch nicht wie in der vergangengen Jahren<lb/>
-zuerst entsprechende Anforderungen der Ressorts an das Finanz<lb break="no"/>ministerium zu &#252;bermitteln und dann in der &#214;ffentlichkeit immer<lb/>
-wieder die Angriffe zu h&#246;ren, wieso so und so viel hunderte Millionen<lb/>
-bei jedem Ressort jetzt nachgelassen werden k&#246;nnen oder m&#252;ssen.<lb/>
-Unser Voranschlag w&#252;rde sich demnach von 388 Mio und ca. 34 Mio<lb/>
-verk&#252;rzen und 354 Mio ca betragen. Da mit diesem Betrag unter gar<lb/>
-keinen Umst&#228;nden das Auslangen gefundenwerden kann &#8211; es gibt einige<lb/>
-Verpflichtungen, die bereits vom Finanzministerium in den vergan<lb break="no"/>genen Jahren genehmigt wurden und deshalb weiter fortgef&#252;hrt werden &#8211;<lb/>
-ergibt dies tats&#228;chliche Budgetvoranschlag f&#252;r das Jahr 1971 von<lb/>
+zuerst entsprechende Anforderungen der Ressorts an das Finanz<lb break="no"/>ministerium zu übermitteln und dann in der Öffentlichkeit immer<lb/>
+wieder die Angriffe zu hören, wieso so und so viel hunderte Millionen<lb/>
+bei jedem Ressort jetzt nachgelassen werden können oder müssen.<lb/>
+Unser Voranschlag würde sich demnach von 388 Mio und ca. 34 Mio<lb/>
+verkürzen und 354 Mio ca betragen. Da mit diesem Betrag unter gar<lb/>
+keinen Umständen das Auslangen gefundenwerden kann – es gibt einige<lb/>
+Verpflichtungen, die bereits vom Finanzministerium in den vergan<lb break="no"/>genen Jahren genehmigt wurden und deshalb weiter fortgeführt werden –<lb/>
+ergibt dies tatsächliche Budgetvoranschlag für das Jahr 1971 von<lb/>
 400 Mio S. Bei diesen Verhandlungen und Besprechungen habe ich den<lb/>
 Eindruck, dass die einzelnen Abteilungen ganz einfach glauben, je<lb/>
-mehr Geld sie verf&#252;gen, umso gr&#246;sseres Ansehen kriegen sie, das<lb/>
-stimmt zweifelsohne, f&#252;r aber dazu und ist wahrscheinlich nicht nur<lb/>
-in meinem Ressorts sondern &#252;berall, dass es ganz einfach zu den<lb/>
+mehr Geld sie verfügen, umso grösseres Ansehen kriegen sie, das<lb/>
+stimmt zweifelsohne, für aber dazu und ist wahrscheinlich nicht nur<lb/>
+in meinem Ressorts sondern überall, dass es ganz einfach zu den<lb/>
 krotesksten Forderungen kommt. Selbst wenn ein Ministerialrat nur<lb/>
 ein paar zehntausende Schilling zu verteilen hat, glaubt er schon,<lb/>
-er hat damit ein gr&#246;sseres pers&#246;nliches Ansehen und ist nat&#252;rlich<lb/>
-bestrebt, diese Ausgabe nat&#252;rlich im Budget unterzubringen.Meiner<lb/>
-Meinung nach m&#252;ssten wir das ganze System &#228;ndern, dies geht aller<lb break="no"/>dings nicht von meinem Ressort aus allein, sondern es m&#252;ssten Be<lb break="no"/>strebungen von der Bundesregierurg einsetzen, ein anderes admini<lb break="no"/>stratives System auch der Geldverwaltung einzuf&#252;hren. Wenn ich be<lb break="no"/>r&#252;cksichtige, dass zu dem Sachaufwand ca. 400 Mio S noch 100 Mio S<lb/>
-<pb n="02-0256" facs="02_1970-06-13_0256.jpg"/>Personalaufwand dazukommt, f&#252;r das Jahr 1971 werde es sogar<lb/>
-113 Mio S sein, so ergibt sich f&#252;r mich ein sehr unzweckm&#228;ssiges<lb/>
-Verh&#228;ltnis zwischen den einzelnen Quoten. Da s&#228;mtliche Ausgaben<lb/>
-mit dem Finanzministerium abbesprochen werden m&#252;ssen, frage ich<lb/>
-mich, ob es hier nicht wirklich organisatorische &#196;nderungen bed&#252;rfe,<lb/>
+er hat damit ein grösseres persönliches Ansehen und ist natürlich<lb/>
+bestrebt, diese Ausgabe natürlich im Budget unterzubringen.Meiner<lb/>
+Meinung nach müssten wir das ganze System ändern, dies geht aller<lb break="no"/>dings nicht von meinem Ressort aus allein, sondern es müssten Be<lb break="no"/>strebungen von der Bundesregierurg einsetzen, ein anderes admini<lb break="no"/>stratives System auch der Geldverwaltung einzuführen. Wenn ich be<lb break="no"/>rücksichtige, dass zu dem Sachaufwand ca. 400 Mio S noch 100 Mio S<lb/>
+<pb n="02-0256" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band02/02_1970-06-13_0256.jp2/full/pct:100/0/default.jpg"/>Personalaufwand dazukommt, für das Jahr 1971 werde es sogar<lb/>
+113 Mio S sein, so ergibt sich für mich ein sehr unzweckmässiges<lb/>
+Verhältnis zwischen den einzelnen Quoten. Da sämtliche Ausgaben<lb/>
+mit dem Finanzministerium abbesprochen werden müssen, frage ich<lb/>
+mich, ob es hier nicht wirklich organisatorische Änderungen bedürfe,<lb/>
 um zu einer wirklich rationelleren Verwaltung zu kommen. Ich<lb/>
-glaube, dies w&#228;re eine Grundsatz&#252;berlegung der Gruppe <rs type="person">Vak</rs>, <rs type="person" ref="#per__97453">Fremuth</rs><lb/>
+glaube, dies wäre eine Grundsatzüberlegung der Gruppe <rs type="person">Vak</rs>, <rs type="person" ref="#per__97453">Fremuth</rs><lb/>
 und <rs type="person" ref="#per__97868">Reithofer</rs> wert.</p>
-            <p xml:space="preserve">ANMERKUNG f&#252;r <rs type="person" ref="#per__98053">Wanke</rs>: Ich glaube, wir sollten eine solche Aussprache<lb/>
-mit den Genossen in diesem Punkt herbief&#252;hren.</p>
-            <p xml:space="preserve">Anschliessend an die Sitzung kam Sekt.Chef <rs type="person" ref="#per__97867">Reiterer</rs> zu mir und<lb/>
-meinte, wir sollten &#8211; er wurde zumindestens von <rs type="person" ref="#per__137933">Marquet</rs> vom Aussen<lb break="no"/>amt verst&#228;ndigt &#8211; eine Demarge bei unserem Botschaftern in den<lb/>
-sechs EWG-L&#228;ndern vorbereiten, dass &#214;sterreich auf die Interims<lb break="no"/>l&#246;sung verzichtet. Ich widersprach sosofrt einer solche Idee<lb/>
-da ich weiss, dass <rs type="person" ref="#per__97632"><sic>Krichschl&#228;ger</sic></rs> hier mit,Recht eine ganz andere<lb/>
-Politik verfolgt, n&#228;mlich zu beweisen, dass <rs type="person" ref="#per__97668">Kreisky</rs> und er aber<lb/>
-letzten Endes auch ich an dieser Interinmsl&#246;sung festhalten, wenn<lb/>
+            <p xml:space="preserve" id="Band02_1970-06-13_04">ANMERKUNG für <rs type="person" ref="#per__98053">Wanke</rs>: Ich glaube, wir sollten eine solche Aussprache<lb/>
+mit den Genossen in diesem Punkt herbieführen.</p>
+            <p xml:space="preserve" id="Band02_1970-06-13_05">Anschliessend an die Sitzung kam Sekt.Chef <rs type="person" ref="#per__97867">Reiterer</rs> zu mir und<lb/>
+meinte, wir sollten – er wurde zumindestens von <rs type="person" ref="#per__137933">Marquet</rs> vom Aussen<lb break="no"/>amt verständigt – eine Demarge bei unserem Botschaftern in den<lb/>
+sechs EWG-Ländern vorbereiten, dass Österreich auf die Interims<lb break="no"/>lösung verzichtet. Ich widersprach sosofrt einer solche Idee<lb/>
+da ich weiss, dass <rs type="person" ref="#per__97632"><sic>Krichschläger</sic></rs> hier mit,Recht eine ganz andere<lb/>
+Politik verfolgt, nämlich zu beweisen, dass <rs type="person" ref="#per__97668">Kreisky</rs> und er aber<lb/>
+letzten Endes auch ich an dieser Interinmslösung festhalten, wenn<lb/>
 es zu einer solchen kommen kann. Eine Demarge, die jetzt darauf<lb/>
-hinauslaufen w&#252;rde, dass die neue Bundesregierung eine andere<lb/>
-Politik auf diesem Sektor machen &#252;wrde, k&#246;nnte nur dazu f&#252;hren,<lb/>
-uns im st&#228;rkerem Masse noch anzugreifen als dies wahrscheinlich<lb/>
-in den n&#228;chsten Monaten sowieso der Fall sein wird. Ich bin n&#228;mlich<lb/>
-fest davon &#252;berzeugt, dass es zu keiner Interimsl&#246;sung kommen wird<lb/>
-und deshalb die &#214;VP behaupten wird, dass es nur der unzul&#228;nglichen<lb/>
-Politik der sozialistischen Alleinregierung zur&#252;ckzuf&#252;hren ist.<lb/>
-<rs type="person" ref="#per__97632">Kirchschl&#228;ger</rs> soll, bevor dieser Schritt unternommen wird, um seine<lb/>
-Zustimmung gebeten werden. Es ist sowieso erst am Montag m&#246;glich,<lb/>
+hinauslaufen würde, dass die neue Bundesregierung eine andere<lb/>
+Politik auf diesem Sektor machen üwrde, könnte nur dazu führen,<lb/>
+uns im stärkerem Masse noch anzugreifen als dies wahrscheinlich<lb/>
+in den nächsten Monaten sowieso der Fall sein wird. Ich bin nämlich<lb/>
+fest davon überzeugt, dass es zu keiner Interimslösung kommen wird<lb/>
+und deshalb die ÖVP behaupten wird, dass es nur der unzulänglichen<lb/>
+Politik der sozialistischen Alleinregierung zurückzuführen ist.<lb/>
+<rs type="person" ref="#per__97632">Kirchschläger</rs> soll, bevor dieser Schritt unternommen wird, um seine<lb/>
+Zustimmung gebeten werden. Es ist sowieso erst am Montag möglich,<lb/>
 wenn er sich in Budapest mit dem Staatsbesuch von <rs type="person" ref="#per__97607">Jonas</rs> befindet.</p>
-            <p xml:space="preserve">ANMERKUNG: Bitte, Aktennotiz f&#252;r <rs type="person" ref="#per__97632">Kirchschl&#228;ger</rs></p>
+            <p xml:space="preserve" id="Band02_1970-06-13_06">ANMERKUNG: Bitte, Aktennotiz für <rs type="person" ref="#per__97632">Kirchschläger</rs></p>
          </div>
       </body>
     

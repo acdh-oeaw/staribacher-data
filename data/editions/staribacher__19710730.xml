@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="staribacher__19710730">
    <teiHeader>
       <fileDesc>
@@ -11,7 +12,7 @@
             </respStmt>
             <respStmt>
                <resp>Digitisation, OCR correction and named entities tagging</resp>
-               <persName>Thomas Tretzm&#252;ller</persName>
+               <persName>Thomas Tretzmüller</persName>
             </respStmt>
          </titleStmt>
          <publicationStmt>
@@ -45,69 +46,69 @@
    </teiHeader>
    <text>
       <body>
-         <pb n="07-0945" facs="07_1971-07-30_0945.jpg"/>
+         <pb n="07-0945" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band07/07_1971-07-30_0945.jp2/full/pct:100/0/default.jpg"/>
          <div type="entry">
-            <p xml:space="preserve">Freitag, 30. Juli 1971<lb/>
+            <p xml:space="preserve" id="Band07_1971-07-30_01">Freitag, 30. Juli 1971<lb/>
 </p>
-            <p xml:space="preserve"><rs type="person" ref="#per__137417">Aglas</rs>, der B&#228;der-Journal-Herausgeber, m&#246;chte ein Institut f&#252;r<lb/>
-B&#228;derbau und B&#228;dertechnik gr&#252;nden. Er hat Vorstellungen, dass<lb/>
-in den n&#228;chsten Jahren gerade auf diesem Sektor viel durch Planung<lb/>
-verhindert werden k&#246;nnte. Nach einer Umfrage, die er gemacht hat,<lb/>
-sollen bis 1975 768 B&#228;der in &#214;sterreich gebaut werden und viele<lb/>
-B&#228;dergemeinden haben sich bei ihm gemeldet. Die Bausumme w&#252;rde<lb/>
+            <p xml:space="preserve" id="Band07_1971-07-30_02"><rs type="person" ref="#per__137417">Aglas</rs>, der Bäder-Journal-Herausgeber, möchte ein Institut für<lb/>
+Bäderbau und Bädertechnik gründen. Er hat Vorstellungen, dass<lb/>
+in den nächsten Jahren gerade auf diesem Sektor viel durch Planung<lb/>
+verhindert werden könnte. Nach einer Umfrage, die er gemacht hat,<lb/>
+sollen bis 1975 768 Bäder in Österreich gebaut werden und viele<lb/>
+Bädergemeinden haben sich bei ihm gemeldet. Die Bausumme würde<lb/>
 ca. 7,6 Mia. S nach seiner Berechnung ausmachen. Derzeit baut<lb/>
-insbesondere die Vereinigten Metallwerke Ranshofen 30 St&#252;ck<lb/>
-pro Jahr Alu-B&#228;der. Die V&#214;EST hat sich nun ebenfalls auf dieses<lb/>
-lukrative Gesch&#228;ft gest&#252;rzt und hat f&#252;r die Ramsau in der Steier<lb break="no"/>mark ein Stahlbecken geliefert. Wahrscheinlich werden die V&#214;EST<lb/>
+insbesondere die Vereinigten Metallwerke Ranshofen 30 Stück<lb/>
+pro Jahr Alu-Bäder. Die VÖEST hat sich nun ebenfalls auf dieses<lb/>
+lukrative Geschäft gestürzt und hat für die Ramsau in der Steier<lb break="no"/>mark ein Stahlbecken geliefert. Wahrscheinlich werden die VÖEST<lb/>
 und die Vereinigten Metallwerke sich auf diesem Sektor ebenfalls<lb/>
-eine erbitterte Konkurrenz liefern. Die B&#228;der aber werden in den<lb/>
-einzelnen Gebieten &#252;berhaupt nicht geplant oder koordiniert.<lb/>
+eine erbitterte Konkurrenz liefern. Die Bäder aber werden in den<lb/>
+einzelnen Gebieten überhaupt nicht geplant oder koordiniert.<lb/>
 So hat z.B. Lenzing ein Bad im Bau, das 28 Mill. kostet, Attnang-<lb/>
-Puchheim hat bereit eine Baugrube ausgehoben und V&#246;cklabruck hat<lb/>
+Puchheim hat bereit eine Baugrube ausgehoben und Vöcklabruck hat<lb/>
 ebenfalls ein Hallenbad geplant. Insgesamt werden diese 3 Gemeinden<lb/>
-70 Mill. S f&#252;r die B&#228;der aufwenden. Dem gegen&#252;ber z.B. hat in<lb/>
-Rohrbach in O&#214; die Firma Berg, die 5 km davon entfernt ist, mit<lb/>
+70 Mill. S für die Bäder aufwenden. Dem gegenüber z.B. hat in<lb/>
+Rohrbach in OÖ die Firma Berg, die 5 km davon entfernt ist, mit<lb/>
 1 Mio. S sich bei Rohrbach in die Errichtung des Freibades einge<lb break="no"/>kauft. Mit Hilfe eines Gelegenheitsautobus-Pendlers, wenn das<lb/>
-Wetter sch&#246;n ist, werden die G&#228;ste von Berg und die Einheimischen<lb/>
+Wetter schön ist, werden die Gäste von Berg und die Einheimischen<lb/>
 nach Rohrbach transportiert. Man sieht, dass es gelegentlich auch<lb/>
 Absprachen in einzelnen Gemeinden gibt. In der <choice><choice><sic>Steiermark</sic><corr>?</corr></choice></choice> hat in<lb/>
-Tamsweg <rs type="person" ref="#per__137418">Scharnow</rs> ein Bad verlangt. Andererseits hat in O&#214; in <choice><choice><sic>Klafer</sic><corr>Klaffer</corr></choice></choice><lb/>
-der B&#252;rgermeister erkl&#228;rt, er m&#252;sste ein Bad errichten, da ihm<lb/>
+Tamsweg <rs type="person" ref="#per__137418">Scharnow</rs> ein Bad verlangt. Andererseits hat in OÖ in <choice><choice><sic>Klafer</sic><corr>Klaffer</corr></choice></choice><lb/>
+der Bürgermeister erklärt, er müsste ein Bad errichten, da ihm<lb/>
 die Jugend bereits mitgeteilt hat, wenn nicht bald ein Bad kommt,<lb/>
-werden sie ihn das n&#228;chste Mal nicht mehr w&#228;hlen. Einzelne B&#252;rger<lb break="no"/>meister wissen z.B. nicht einmal, dass es Landesubventionen oder<lb/>
-Zinsenzusch&#252;sse auf Grund des Finanzausgleichsgesetzes durch das<lb/>
-Handelsministerium gibt, wie z.B. das sch&#246;ne in B&#228;rnbach bei<lb/>
+werden sie ihn das nächste Mal nicht mehr wählen. Einzelne Bürger<lb break="no"/>meister wissen z.B. nicht einmal, dass es Landesubventionen oder<lb/>
+Zinsenzuschüsse auf Grund des Finanzausgleichsgesetzes durch das<lb/>
+Handelsministerium gibt, wie z.B. das schöne in Bärnbach bei<lb/>
 Voitsberg errichtete Freibad, das 8 Mio. S kostete, beweist.<lb/>
-<rs type="person" ref="#per__137417">Aglas</rs> will nun ausser seinem B&#228;derjournal, das er ohne Subvention<lb/>
-herausbringt, dieses Institut f&#252;r B&#228;derbau und B&#228;dertechnik<lb/>
-gr&#252;nden, ohne auch eine Subvention daf&#252;r zu verlangen, aber<lb/>
-nur unterst&#252;tzt werden will. Ich habe ihm versprochen, dass Sekt.<lb/>
-Rat <rs type="person" ref="#per__111367">W&#252;rzl</rs> sich mit ihm ins Einvernehmen setzen wird.<lb/>
+<rs type="person" ref="#per__137417">Aglas</rs> will nun ausser seinem Bäderjournal, das er ohne Subvention<lb/>
+herausbringt, dieses Institut für Bäderbau und Bädertechnik<lb/>
+gründen, ohne auch eine Subvention dafür zu verlangen, aber<lb/>
+nur unterstützt werden will. Ich habe ihm versprochen, dass Sekt.<lb/>
+Rat <rs type="person" ref="#per__111367">Würzl</rs> sich mit ihm ins Einvernehmen setzen wird.<lb/>
 </p>
-            <pb n="07-0946" facs="07_1971-07-30_0946.jpg"/>
-            <p xml:space="preserve">Durch die klimatische Bedingung bedingt, kommen f&#252;r &#214;sterreich<lb/>
-nur Hallenb&#228;der in Frage. Trotzdem werden immer wieder auch<lb/>
-Freib&#228;der mit viel Aufwand auch errichtet. Ich habe deshalb<lb/>
+            <pb n="07-0946" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band07/07_1971-07-30_0946.jp2/full/pct:100/0/default.jpg"/>
+            <p xml:space="preserve" id="Band07_1971-07-30_03">Durch die klimatische Bedingung bedingt, kommen für Österreich<lb/>
+nur Hallenbäder in Frage. Trotzdem werden immer wieder auch<lb/>
+Freibäder mit viel Aufwand auch errichtet. Ich habe deshalb<lb/>
 <rs type="person" ref="#per__137417">Aglas</rs> vorgeschlagen, er sollte seine ganze Propaganda darauf<lb/>
-richten und seine Untersuchungen, dass Freib&#228;der durch &#220;ber<lb break="no"/>deckung dann doch in Hallenb&#228;der umgewandelt werden k&#246;nnen. Er<lb/>
-hat mir erkl&#228;rt, es gibt einen Architekt <rs type="person" ref="#per__137419">Linecker</rs>, der Tragluft<lb break="no"/>hallen von 6&#8211;8 Mill. S incl. aller Innenausstattung herstellen<lb/>
-kann. Das Wichtigste aber bei der B&#228;derkonzeption oder &#220;berlegung<lb/>
-muss f&#252;r die Gemeinde, den Fremdenverkehrsverein oder auch den<lb/>
+richten und seine Untersuchungen, dass Freibäder durch Über<lb break="no"/>deckung dann doch in Hallenbäder umgewandelt werden können. Er<lb/>
+hat mir erklärt, es gibt einen Architekt <rs type="person" ref="#per__137419">Linecker</rs>, der Tragluft<lb break="no"/>hallen von 6–8 Mill. S incl. aller Innenausstattung herstellen<lb/>
+kann. Das Wichtigste aber bei der Bäderkonzeption oder Überlegung<lb/>
+muss für die Gemeinde, den Fremdenverkehrsverein oder auch den<lb/>
 Einzelnen sein, dass die Errichtung des Bades zwar viele Millionen<lb/>
 kostet, aber gar nicht der entscheidende Faktor ist. Entscheidend<lb/>
 sind nach wie vor dann die Betriebskosten.<lb/>
 </p>
-            <p xml:space="preserve"/>
+            <p xml:space="preserve" id="Band07_1971-07-30_04"/>
          </div>
       </body>
       <back>
-         <pb n="07_0944_01" facs="07_1971-07-30_0944-01.jpg"/>
+         <pb n="07_0944_01" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band07/07_1971-07-30_0944-01.jp2/full/pct:100/0/default.jpg"/>
          <div type="attachment" subtype="cabinetAgenda">
             <head>Tagesprogramm, 30.7.1971</head>
          </div>
-         <pb n="07_0944_02" facs="07_1971-07-30_0944-02.jpg"/>
+         <pb n="07_0944_02" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band07/07_1971-07-30_0944-02.jp2/full/pct:100/0/default.jpg"/>
          <div type="attachment" subtype="cabinetAgenda">
-            <head>hs. Notizen (Tagesprogramm R&#252;ckseite)</head>
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
          </div>
       </back>
    </text>
