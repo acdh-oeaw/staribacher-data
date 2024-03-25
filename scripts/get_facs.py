@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 #adjusts the facs urls and adds ids to the p elements
 
 from lxml import etree
@@ -12,11 +13,11 @@ xml_files = [f for f in os.listdir(folder_path) if f.endswith('.xml')]
 for xml_file in xml_files:
     xml_file_path = os.path.join(folder_path, xml_file)
     xml_doc = TeiReader(xml_file_path)
-    root = xml_doc.tree.getroot()   
-    
+    root = xml_doc.tree.getroot()
+
     #change facs url
     imgs = root.findall('.//'+namespace+'pb')
-    
+
     for img in imgs:
         img_str = img.get('facs')
         volume = img_str.split('_')[0]
@@ -27,12 +28,12 @@ for xml_file in xml_files:
     #create IDs for p elements
     doc_id = xml_doc.any_xpath('//tei:idno[@type="signature"]/text()')[0]
     paras = root.findall('.//'+namespace+'p')
-    
+
     i = 0
     for para in paras:
         i += 1
         para_id = doc_id + '_' + "{:02}".format(i)
         para.set('id', para_id)
-    
+
     #write to file
     xml_doc.tree_to_file(xml_file_path)
