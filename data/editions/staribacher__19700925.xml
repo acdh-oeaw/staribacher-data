@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="staribacher__19700925">
   <teiHeader>
       <fileDesc>
@@ -44,147 +45,144 @@
    </teiHeader>
   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band02/">
       <body>
-         <pb n="02-0573" facs="02_1970-09-25_0573.jpg"/>
+         <pb n="02-0573" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band02/02_1970-09-25_0573.jp2/full/pct:100/0/default.jpg"/>
          <div type="entry">
-            <dateline>
-               <date when="1970-09-25">Freitag, 25. September 1970</date>
-            </dateline>
-            <p xml:space="preserve">Vertreter der Union Corporation, S&#252;dafrika, hatten sich endlich<lb/>
-jetzt einmal gemeldet. Prinz <rs type="person">Hohenlohe</rs>, der Vorsitzende und Repr&#228;<lb break="no"/>sentant dieser Gesellschaft in &#214;sterreich und ihr direkter Vertre<lb break="no"/>ter, Dr. <rs type="person">Wiebols</rs>, ein Geologe, kamen, um mir &#252;ber die Entwicklung<lb/>
-in Tirol zu berichten, wo sie selbst jetzt bereits sp&#252;ren, dass der<lb/>
-Widerstand sehr gross sein wird. Dr. <rs type="person">Wiebols</rs> allerdings erkl&#228;rte,<lb/>
-wo immer eine Lagerst&#228;tte auf der Welt gefunden, diese auch tats&#228;chlich<lb/>
-abgebaut wird. Fr&#252;her oder sp&#228;ter sind die Leute dann totfroh, dass<lb/>
-sich jemand dieser T&#228;tigkeit annimmt. Er verwies auf <rs type="person">Rockefeller</rs> in<lb/>
+            <p xml:space="preserve" xml:id="Band02_1970-09-25_01">Vertreter der Union Corporation, Südafrika, hatten sich endlich<lb/>
+jetzt einmal gemeldet. Prinz <rs type="person">Hohenlohe</rs>, der Vorsitzende und Reprä<lb break="no"/>sentant dieser Gesellschaft in Österreich und ihr direkter Vertre<lb break="no"/>ter, Dr. <rs type="person">Wiebols</rs>, ein Geologe, kamen, um mir über die Entwicklung<lb/>
+in Tirol zu berichten, wo sie selbst jetzt bereits spüren, dass der<lb/>
+Widerstand sehr gross sein wird. Dr. <rs type="person">Wiebols</rs> allerdings erklärte,<lb/>
+wo immer eine Lagerstätte auf der Welt gefunden, diese auch tatsächlich<lb/>
+abgebaut wird. Früher oder später sind die Leute dann totfroh, dass<lb/>
+sich jemand dieser Tätigkeit annimmt. Er verwies auf <rs type="person">Rockefeller</rs> in<lb/>
 Amerika, der zuerst ermordet werden sollte von den Siedlern und dann<lb/>
 aber letzten Endes zum Reichtum Amerikas so wesentlich beigetragen hat.<lb/>
-<rs type="person">Wiebols</rs> erkl&#228;rte mir, dass er mit der Bev&#246;lkerung im besten Einvernehmen<lb/>
-arbeite u.a. h&#228;tte er in Wiesenschrank dem Bauern <rs type="person">Bachler</rs>, der von der<lb/>
+<rs type="person">Wiebols</rs> erklärte mir, dass er mit der Bevölkerung im besten Einvernehmen<lb/>
+arbeite u.a. hätte er in Wiesenschrank dem Bauern <rs type="person">Bachler</rs>, der von der<lb/>
 Landwirtschaftskammer beraten wurde, einen Vertrag angeboten, der<lb/>
-g&#252;nstiger gewesen ist, als dieser angenommen hat. Anstelle der 3.- S<lb/>
-je m2 Pachtzins f&#252;r 6 Monate h&#228;tte er ihm 10.- S pro m2 angeboten.<lb/>
-Mit <rs type="person">Foidl</rs> konnte er deshalb zu keiner Einigung kommen, da dieser ur<lb break="no"/>spr&#252;nglich f&#252;r 200 m2 20.000.- S verlangt hat und in weiterer Folge<lb/>
-noch geglaubt hat, er k&#246;nne dies noch hinaufsteigern. Ich erkl&#228;rte,<lb/>
+günstiger gewesen ist, als dieser angenommen hat. Anstelle der 3.- S<lb/>
+je m2 Pachtzins für 6 Monate hätte er ihm 10.- S pro m2 angeboten.<lb/>
+Mit <rs type="person">Foidl</rs> konnte er deshalb zu keiner Einigung kommen, da dieser ur<lb break="no"/>sprünglich für 200 m2 20.000.- S verlangt hat und in weiterer Folge<lb/>
+noch geglaubt hat, er könne dies noch hinaufsteigern. Ich erklärte,<lb/>
 den Herren, dass ich eine andere Meinung zu dieser Frage habe, ich<lb/>
-glaube, dass die Entwicklung sich jetzt gegen die Bergwerksgesell<lb break="no"/>schaft immer st&#228;rker richtet und richten wird und dass kein Bauer<lb/>
+glaube, dass die Entwicklung sich jetzt gegen die Bergwerksgesell<lb break="no"/>schaft immer stärker richtet und richten wird und dass kein Bauer<lb/>
 mehr auch nur einen Quadratmeter Grund an sie verpachtet, weil er<lb/>
 damit automatisch als ein Judas von Tirol, der seine Heimat an Afrika<lb/>
-verkauft, dargestellt wird. Ich empfahl der Gesellschaft &#8211; da ich mich<lb/>
-nicht in ein paar Jahren als schuldig bekennen m&#252;sste, sie nicht<lb/>
-richtig informiert zu haben &#8211; die Bohrungen und das Bergwerksprojekt<lb/>
+verkauft, dargestellt wird. Ich empfahl der Gesellschaft – da ich mich<lb/>
+nicht in ein paar Jahren als schuldig bekennen müsste, sie nicht<lb/>
+richtig informiert zu haben – die Bohrungen und das Bergwerksprojekt<lb/>
 in diesem Raum einzustellen. Ich erwiderte, dass es doch sicher in<lb/>
-Tirol und in &#214;sterreich noch viele andere Lagerst&#228;tten gibt, die<lb/>
-von Tirol gerne abgebaut werden w&#252;rden. um ihnen die kritische Situation<lb/>
+Tirol und in Österreich noch viele andere Lagerstätten gibt, die<lb/>
+von Tirol gerne abgebaut werden würden. um ihnen die kritische Situation<lb/>
 zu zeigen, zeigte ich <rs type="person">Wiebols</rs> das Memonandum von Hofrat <rs type="person">Kirchmeyr</rs> und<lb/>
-versprach ihnen eine Kopier der Versammlung und vor allem der Dis<lb break="no"/>kussion mit den Verantwortlichen des Bezirkes Kitzb&#252;hel, den sogenannten<lb/>
-Opion Leaders &#8211; den Meinungsbildern &#8211; wie ich sie bezeichne. <rs type="person">Hohenlohe</rs><lb/>
-und auch Dr. <rs type="person">Wiebols</rs> &#8211; dieser allerdings weniger &#8211; waren &#252;ber meine<lb/>
-Ausf&#252;hrungen insofern erfreut, als sie erstens die Wahrheit erfuhren<lb/>
-und zweitens ich ihnen doch auch best&#228;tigte, dass ein Bohren und<lb/>
-<pb n="02-0574" facs="02_1970-09-25_0574.jpg"/>eine Berwerkserrichtung in diesem Raum fast unm&#246;glich sein w&#252;rde<lb/>
-und versprache, ihrer Gesellschaft unverz&#252;glich zu berichten.</p>
-            <p xml:space="preserve">Die Schweizer Delegation &#252;ber die Vorbereitungen der EWG-Verhandlungen<lb/>
+versprach ihnen eine Kopier der Versammlung und vor allem der Dis<lb break="no"/>kussion mit den Verantwortlichen des Bezirkes Kitzbühel, den sogenannten<lb/>
+Opion Leaders – den Meinungsbildern – wie ich sie bezeichne. <rs type="person">Hohenlohe</rs><lb/>
+und auch Dr. <rs type="person">Wiebols</rs> – dieser allerdings weniger – waren über meine<lb/>
+Ausführungen insofern erfreut, als sie erstens die Wahrheit erfuhren<lb/>
+und zweitens ich ihnen doch auch bestätigte, dass ein Bohren und<lb/>
+<pb n="02-0574" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band02/02_1970-09-25_0574.jp2/full/pct:100/0/default.jpg"/>eine Berwerkserrichtung in diesem Raum fast unmöglich sein würde<lb/>
+und versprache, ihrer Gesellschaft unverzüglich zu berichten.</p>
+            <p xml:space="preserve" xml:id="Band02_1970-09-25_02">Die Schweizer Delegation über die Vorbereitungen der EWG-Verhandlungen<lb/>
 hatte eine Arbeitstagung bei uns im Hause und <rs type="person" ref="#per__98053">Wanke</rs> und ich kamen<lb/>
-unangemeldet hinein, um die Atmosph&#228;re der Verhandlungen feststellen<lb/>
-zu k&#246;nnen. Ich hatte den Eindruck, dass es sich hier wirklich um<lb/>
-Gespr&#228;che zwischen Freunden handelt wobei allerdings nat&#252;rlich die<lb/>
-Schweizer eigentlich noch mehr als wir Vorbehalte bez&#252;glich eines<lb/>
-EWG-Arrangements haben. <rs type="person" ref="#per__118681">Jolles</rs> und <rs type="person">Weidenauer</rs> d&#252;rften aber &#228;usserst<lb/>
-t&#252;chtige Leute sein und sie d&#252;rften auch bereits in der Schweiz<lb/>
-wesentlich mehr Vorarbeiten geleistet haben als wir in &#214;sterreich.<lb/>
+unangemeldet hinein, um die Atmosphäre der Verhandlungen feststellen<lb/>
+zu können. Ich hatte den Eindruck, dass es sich hier wirklich um<lb/>
+Gespräche zwischen Freunden handelt wobei allerdings natürlich die<lb/>
+Schweizer eigentlich noch mehr als wir Vorbehalte bezüglich eines<lb/>
+EWG-Arrangements haben. <rs type="person" ref="#per__118681">Jolles</rs> und <rs type="person">Weidenauer</rs> dürften aber äusserst<lb/>
+tüchtige Leute sein und sie dürften auch bereits in der Schweiz<lb/>
+wesentlich mehr Vorarbeiten geleistet haben als wir in Österreich.<lb/>
 Bei diesen Verhandlungen in Wien aber bestand der grosse Vorteil,<lb/>
-dass &#214;sterreich bereits ein Papier, welches zur Er&#246;ffnungserkl&#228;rung<lb/>
+dass Österreich bereits ein Papier, welches zur Eröffnungserklärung<lb/>
 als Grundlage dienen soll, vorbereitet hatte. Die Schweizer stimmten<lb/>
-im Grossen und Ganzen diesem Papier zu, erkl&#228;rten nur, dass sie durch<lb/>
-die Er&#246;ffnungserkl&#228;rung 1962 bez&#252;glich einer eventuellen Harmonisierung<lb/>
-doch auch gebunden seien und gerne auch dieser Er&#246;ffnungserkl&#228;rungszu<lb break="no"/>sage herauskommen wollten. &#214;sterreich wieder hat ja bereits durch<lb/>
-10 Jahre ihre Stellungnahme modifiziert und sich vor allem immer st&#228;rker<lb/>
+im Grossen und Ganzen diesem Papier zu, erklärten nur, dass sie durch<lb/>
+die Eröffnungserklärung 1962 bezüglich einer eventuellen Harmonisierung<lb/>
+doch auch gebunden seien und gerne auch dieser Eröffnungserklärungszu<lb break="no"/>sage herauskommen wollten. Österreich wieder hat ja bereits durch<lb/>
+10 Jahre ihre Stellungnahme modifiziert und sich vor allem immer stärker<lb/>
 in eine Harmonisierung hineintreiben lassen. Allerdings trifft uns<lb/>
-das Problem der Harmonisierung der Aussenz&#246;lle weniger, weil &#214;ster<lb break="no"/>reich hohe Z&#246;lle hat, w&#228;rhrend die Schweiz, wenn sie harmonisiert,<lb/>
-durch ihren niedrigen Zolltraf ihre Z&#246;lle anheben muss. Deshalb wird<lb/>
+das Problem der Harmonisierung der Aussenzölle weniger, weil Öster<lb break="no"/>reich hohe Zölle hat, wärhrend die Schweiz, wenn sie harmonisiert,<lb/>
+durch ihren niedrigen Zolltraf ihre Zölle anheben muss. Deshalb wird<lb/>
 die Schweiz der EWG ein perfektes Ursprun_gszeugnissystem anbieten,<lb/>
-ich f&#252;rchte allerdings, dass die EWG dies nicht akzeptieren wird., da<lb/>
+ich fürchte allerdings, dass die EWG dies nicht akzeptieren wird., da<lb/>
 Ursprungszeugnisse ja nie funktionieren. Die Schweiz steht mit der<lb/>
-EWG auch auf einer wesentlich h&#246;heren Handelsstufe, denn manchmal<lb/>
-ist sie sogar an zweiter Stelle mit den Nicht-EWG-L&#228;ndern, w&#228;hrend<lb break="no"/>dem &#214;sterreich an f&#252;nfter Stelle rangiert. Die Schweiz hat derzeit<lb/>
-5,8 Mia sfr Warendefizit und nur plus 1,3 Mia sfr. Dienst<lb break="no"/>leistungs&#252;berschu&#223;. Beide kamen &#252;berein, da&#223; bei der Er&#246;ffnung insbe<lb break="no"/>sondere die positive Neutralit&#228;t der Schweiz und &#214;sterreichs vorge<lb break="no"/>legt werden sollen und nicht als Entschuldigung der EWG mitgeteilt<lb/>
-werden, denn er nimmt an da&#223; nach der Haagener Erkl&#228;rung die Neutra<lb break="no"/>lit&#228;t nicht mehr vergewaltigt werden wird, sondern ganz im Gegen<lb break="no"/>teil einen wesentlichen Bestandteil zwischen dem Vertrag, den die<lb/>
+EWG auch auf einer wesentlich höheren Handelsstufe, denn manchmal<lb/>
+ist sie sogar an zweiter Stelle mit den Nicht-EWG-Ländern, während<lb break="no"/>dem Österreich an fünfter Stelle rangiert. Die Schweiz hat derzeit<lb/>
+5,8 Mia sfr Warendefizit und nur plus 1,3 Mia sfr. Dienst<lb break="no"/>leistungsüberschuß. Beide kamen überein, daß bei der Eröffnung insbe<lb break="no"/>sondere die positive Neutralität der Schweiz und Österreichs vorge<lb break="no"/>legt werden sollen und nicht als Entschuldigung der EWG mitgeteilt<lb/>
+werden, denn er nimmt an daß nach der Haagener Erklärung die Neutra<lb break="no"/>lität nicht mehr vergewaltigt werden wird, sondern ganz im Gegen<lb break="no"/>teil einen wesentlichen Bestandteil zwischen dem Vertrag, den die<lb/>
 EWG mit den neutralen Staaten treffen wird, sein wird. Bei den<lb/>
-Er&#246;ffnungsgespr&#228;chen vor den Ministern wird dieser Punkt besonders<lb/>
-herausgestrichen werden. Wenn dann die Gespr&#228;chsphase in die Kommis<lb break="no"/>sionen<pb n="02-0575" facs="02_1970-09-25_0575.jpg"/>verlegt wird, dann wird man &#8211; wenn es sich um die Detailprobleme<lb/>
-handelt und der Inhalt des Vertrages besprochen wird &#8211; eben immer<lb/>
-wieder auf die Erkl&#228;rung bei der Er&#246;ffnungssitzung betreffend die<lb/>
-Neutralit&#228;t berufen. Die Schweizer bef&#252;rchten, da&#223; die Engl&#228;nder<lb/>
-bei diesen Verhandlungen uns in den R&#252;cken schie&#223;en werden, weil<lb/>
-sogar die Iren sie haben wissen lassen, da&#223; sie kaum Verst&#228;ndnis<lb/>
-f&#252;r die Schweizer Belange haben. Bei den D&#228;nen wieder wartet man,<lb/>
-da&#223; sie ihre landwirtschaftliche Produktion nach beiden Vertrags<lb break="no"/>teilen, sowohl der EWG als auch dann den neutralen Staaten verkaufen<lb/>
+Eröffnungsgesprächen vor den Ministern wird dieser Punkt besonders<lb/>
+herausgestrichen werden. Wenn dann die Gesprächsphase in die Kommis<lb break="no"/>sionen<pb n="02-0575" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band02/02_1970-09-25_0575.jp2/full/pct:100/0/default.jpg"/>verlegt wird, dann wird man – wenn es sich um die Detailprobleme<lb/>
+handelt und der Inhalt des Vertrages besprochen wird – eben immer<lb/>
+wieder auf die Erklärung bei der Eröffnungssitzung betreffend die<lb/>
+Neutralität berufen. Die Schweizer befürchten, daß die Engländer<lb/>
+bei diesen Verhandlungen uns in den Rücken schießen werden, weil<lb/>
+sogar die Iren sie haben wissen lassen, daß sie kaum Verständnis<lb/>
+für die Schweizer Belange haben. Bei den Dänen wieder wartet man,<lb/>
+daß sie ihre landwirtschaftliche Produktion nach beiden Vertrags<lb break="no"/>teilen, sowohl der EWG als auch dann den neutralen Staaten verkaufen<lb/>
 wollen und deshalb nur diese Sonderinteressen sehen werden.</p>
-            <p xml:space="preserve">Bei der Arbeitssitzung mit <rs type="person">Ceausescu</rs> wo auch der Handelsminister<lb/>
-<rs type="person">Burtica</rs> anwesend war, berichtete ich &#252;ber die Verhandlungen betref<lb break="no"/>fend der Kooperation. Da die &#246;sterreichische Kontrollbank mit <rs type="person" ref="#per__115651">Cifer</rs><lb/>
-f&#252;r die Beregnungsanlagen und <rs type="person" ref="#per__97315">Abfalter</rs> f&#252;r die Verzinkungsanlagen<lb/>
-ganz konkrete Vorschl&#228;ge gemacht haben, konnte ich der Kommission<lb/>
-mitteilen, da&#223; die ersten Besprechungen sehr positiv verlaufen sind.<lb/>
-Ich hatte allerdings vorher bereits <rs type="person">Burtica</rs> mitgeteilt, da&#223; die<lb/>
-Zinss&#228;tze, die mit 8 1/2 % von der Kontrollbank angeschlagen wurden<lb/>
-und die auf gr&#246;&#223;tes Erstaunen von seiten der Rum&#228;nen gesto&#223;en sind,<lb/>
-da&#223; man &#252;ber diese Zinss&#228;tze noch reden k&#246;nnte. Ich habe nicht den<lb/>
-Fehler gemacht bereits zu sagen, in welcher H&#246;he letzten Endes<lb/>
+            <p xml:space="preserve" xml:id="Band02_1970-09-25_03">Bei der Arbeitssitzung mit <rs type="person">Ceausescu</rs> wo auch der Handelsminister<lb/>
+<rs type="person">Burtica</rs> anwesend war, berichtete ich über die Verhandlungen betref<lb break="no"/>fend der Kooperation. Da die österreichische Kontrollbank mit <rs type="person" ref="#per__115651">Cifer</rs><lb/>
+für die Beregnungsanlagen und <rs type="person" ref="#per__97315">Abfalter</rs> für die Verzinkungsanlagen<lb/>
+ganz konkrete Vorschläge gemacht haben, konnte ich der Kommission<lb/>
+mitteilen, daß die ersten Besprechungen sehr positiv verlaufen sind.<lb/>
+Ich hatte allerdings vorher bereits <rs type="person">Burtica</rs> mitgeteilt, daß die<lb/>
+Zinssätze, die mit 8 1/2 % von der Kontrollbank angeschlagen wurden<lb/>
+und die auf größtes Erstaunen von seiten der Rumänen gestoßen sind,<lb/>
+daß man über diese Zinssätze noch reden könnte. Ich habe nicht den<lb/>
+Fehler gemacht bereits zu sagen, in welcher Höhe letzten Endes<lb/>
 abgeschlossen werden wird. Ebenso meinte <rs type="person">Burtica</rs> ob nicht eine<lb/>
-M&#246;glichkeit best&#252;nde, die Laufdauer von 7 1/2 Jahren zu verl&#228;ngern.<lb/>
-Nach R&#252;cksprache mit <rs type="person" ref="#per__97518">Haschek</rs> von der Kontrollbank, konnte ich ihm<lb/>
+Möglichkeit bestünde, die Laufdauer von 7 1/2 Jahren zu verlängern.<lb/>
+Nach Rücksprache mit <rs type="person" ref="#per__97518">Haschek</rs> von der Kontrollbank, konnte ich ihm<lb/>
 auch Andeutung einer Zusage machen. Der Rahmen von 20 Mio $ wurde<lb/>
-allgemein als befriedigend angesehen und auch akzeptiert. Bez&#252;glich<lb/>
-des Bew&#228;sserungsprojektes sprach ich wunschgem&#228;&#223; noch mit dem<lb/>
+allgemein als befriedigend angesehen und auch akzeptiert. Bezüglich<lb/>
+des Bewässerungsprojektes sprach ich wunschgemäß noch mit dem<lb/>
 Dr. <rs type="person">Banc</rs>, Vizeminister, der letzten Endes,wie <rs type="person" ref="#per__115651">Cifer</rs> meint, in<lb/>
-Rum&#228;nien die Entscheidung treffen wird. Er sagte mir zu, da&#223; er<lb/>
-dieses Problem sehr genau auch pr&#252;fen wird. Allerdings h&#228;tten sie<lb/>
-noch andere Projekte, wie <rs type="person">Burtica</rs> mir mitteilte. Scheinbar d&#252;rften<lb/>
-sie an diesem Bew&#228;sserungsprojekt Interesse haben, aber es ist<lb/>
-nicht sicher ob sie dies nicht mit anderen L&#228;ndern machen werden.<lb/>
-Die erste Tranche wurde ja an Engl&#228;nder vergeben, wie mir <rs type="person">Banc</rs><lb/>
-mitteilte und die anderen Projekte sind derzeit noch nicht end<lb break="no"/>g&#252;ltig beschlossen. Allzusehr wollte ich mich auch nicht f&#252;r dieses<lb/>
-Projekt einsetzen, denn sonst mu&#223;te der Eindruck entstehen, wir<lb/>
-h&#228;tten hier ein ganz besonderes &#8211; oder ich gar pers&#246;nlich ein ganz<lb/>
-besonderes &#8211; Interesse. Sicher ist es unangenehm, wenn <rs type="person" ref="#per__115651">Cifer</rs> hier<lb/>
+Rumänien die Entscheidung treffen wird. Er sagte mir zu, daß er<lb/>
+dieses Problem sehr genau auch prüfen wird. Allerdings hätten sie<lb/>
+noch andere Projekte, wie <rs type="person">Burtica</rs> mir mitteilte. Scheinbar dürften<lb/>
+sie an diesem Bewässerungsprojekt Interesse haben, aber es ist<lb/>
+nicht sicher ob sie dies nicht mit anderen Ländern machen werden.<lb/>
+Die erste Tranche wurde ja an Engländer vergeben, wie mir <rs type="person">Banc</rs><lb/>
+mitteilte und die anderen Projekte sind derzeit noch nicht end<lb break="no"/>gültig beschlossen. Allzusehr wollte ich mich auch nicht für dieses<lb/>
+Projekt einsetzen, denn sonst mußte der Eindruck entstehen, wir<lb/>
+hätten hier ein ganz besonderes – oder ich gar persönlich ein ganz<lb/>
+besonderes – Interesse. Sicher ist es unangenehm, wenn <rs type="person" ref="#per__115651">Cifer</rs> hier<lb/>
 schon sehr viele Ingenieur- und Consulting-Stunden aufgewendet hat<lb/>
-und jetzt vielleicht die Schweizer Gesellschaft, f&#252;r die er dieses<lb/>
-<pb n="02-0576" facs="02_1970-09-25_0576.jpg"/>Projekt verarbeitet hat, der alleinige Kontrahent wird. Beim Abflug<lb/>
-des Ministerpr&#228;sidenten sagte mir noch der Sektionschef <rs type="person" ref="#per__97601">Jiresch</rs>, da&#223;<lb/>
-er von dem Protokoll aber insbesondere &#8211; wie er sich ausdr&#252;ckte &#8211;<lb/>
-von den Hofschranzen &#8211; sehr ersch&#252;ttert sei und in Wirklichkeit nicht<lb/>
-verstehen k&#246;nnte, da&#223; dies alles noch m&#246;glich ist. Ich wei&#223; nicht,<lb/>
-wieweit er mir hier entgegenkommen will, oder wie weit er hier wirk<lb break="no"/>lich auch von dem Protokoll genauso genug hat wie ich. Er mu&#223; sich<lb/>
+und jetzt vielleicht die Schweizer Gesellschaft, für die er dieses<lb/>
+<pb n="02-0576" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band02/02_1970-09-25_0576.jp2/full/pct:100/0/default.jpg"/>Projekt verarbeitet hat, der alleinige Kontrahent wird. Beim Abflug<lb/>
+des Ministerpräsidenten sagte mir noch der Sektionschef <rs type="person" ref="#per__97601">Jiresch</rs>, daß<lb/>
+er von dem Protokoll aber insbesondere – wie er sich ausdrückte –<lb/>
+von den Hofschranzen – sehr erschüttert sei und in Wirklichkeit nicht<lb/>
+verstehen könnte, daß dies alles noch möglich ist. Ich weiß nicht,<lb/>
+wieweit er mir hier entgegenkommen will, oder wie weit er hier wirk<lb break="no"/>lich auch von dem Protokoll genauso genug hat wie ich. Er muß sich<lb/>
 allerdings ja danach halten, ich selbst kann mir erlauben, mich glatt<lb/>
-dar&#252;ber hinwegzusetzen. Unter anderem ein sehr interessantes Detail: als<lb/>
-meine Frau bei einem Tisch &#8211; bevor das Essen begonnen hatte &#8211; im<lb/>
-Vorraum mit Frau <rs type="person" ref="#per__97609">Jonas</rs> Platz genommen hatte &#8211; kam ein "Protokollist"<lb/>
-und erkl&#228;rte "au&#223;er der Frau Au&#223;enminister, bitte, alle Damen auf<lb break="no"/>stehen". Meine Frau antwortete Gottsei Dank "nein, ich bleib hier<lb/>
-sitzen" und nachdem sie ihren Namen genannt hatte, hat er nat&#252;rlich<lb/>
-ihr sofort die Hand gek&#252;&#223;t und sich tausendmal entschuldigt. Beim<lb/>
-Abflug wurden wieder die 21 Kanonensch&#252;sse abgefeuert und ich bin<lb/>
-wirklich beim ersten ein bi&#223;chen erschrocken, weil diese bl&#246;de Balle<lb break="no"/>rei mir auf die Nerven geht. <rs type="person" ref="#per__97668">Kreisky</rs> sagte zu mir, dies m&#252;&#223;te auch<lb/>
-eine neue Einf&#252;hrung der &#214;VP-Regierung sein, denn er k&#246;nnte sich<lb/>
-nicht erinnern, da&#223; fr&#252;her Salut gefeuert wurde. Ich glaube wirklich,<lb/>
-da&#223; sch&#246;n langsam alle immer mehr auf meine Linie einschwenken und<lb/>
+darüber hinwegzusetzen. Unter anderem ein sehr interessantes Detail: als<lb/>
+meine Frau bei einem Tisch – bevor das Essen begonnen hatte – im<lb/>
+Vorraum mit Frau <rs type="person" ref="#per__97609">Jonas</rs> Platz genommen hatte – kam ein "Protokollist"<lb/>
+und erklärte "außer der Frau Außenminister, bitte, alle Damen auf<lb break="no"/>stehen". Meine Frau antwortete Gottsei Dank "nein, ich bleib hier<lb/>
+sitzen" und nachdem sie ihren Namen genannt hatte, hat er natürlich<lb/>
+ihr sofort die Hand geküßt und sich tausendmal entschuldigt. Beim<lb/>
+Abflug wurden wieder die 21 Kanonenschüsse abgefeuert und ich bin<lb/>
+wirklich beim ersten ein bißchen erschrocken, weil diese blöde Balle<lb break="no"/>rei mir auf die Nerven geht. <rs type="person" ref="#per__97668">Kreisky</rs> sagte zu mir, dies müßte auch<lb/>
+eine neue Einführung der ÖVP-Regierung sein, denn er könnte sich<lb/>
+nicht erinnern, daß früher Salut gefeuert wurde. Ich glaube wirklich,<lb/>
+daß schön langsam alle immer mehr auf meine Linie einschwenken und<lb/>
 wenn wir nur Zeit genug haben, auch das Protokoll wirklich noch<lb/>
-ge&#228;ndert werden wird.</p>
-            <p xml:space="preserve">Bei der heutigen Diskussion mit <rs type="person" ref="#per__114511">Muliar</rs> haben wir uns ein Lastauto<lb/>
-besorgt und konnten daher auf dem Pritschenwagen entsprechend &#252;ber<lb/>
-die Menge hinweg unsere Doppelkonference abf&#252;hren. Interessanter<lb break="no"/>weise waren diesmal auch Zeitungen anwesend und Frau <rs type="person">Gr&#246;bmannsperger</rs><lb/>
+geändert werden wird.</p>
+            <p xml:space="preserve" xml:id="Band02_1970-09-25_04">Bei der heutigen Diskussion mit <rs type="person" ref="#per__114511">Muliar</rs> haben wir uns ein Lastauto<lb/>
+besorgt und konnten daher auf dem Pritschenwagen entsprechend über<lb/>
+die Menge hinweg unsere Doppelkonference abführen. Interessanter<lb break="no"/>weise waren diesmal auch Zeitungen anwesend und Frau <rs type="person">Gröbmannsperger</rs><lb/>
 vom "Kurier" wollte unbedingt von mir die Spitznamen der Regierungs<lb break="no"/>mitglieder erfahren. Es tat mir unendlich leid, ihr in dieser<lb/>
-Beziehung nicht helfen zu k&#246;nnen, meinen hatte sie nat&#252;rlich schon<lb/>
-l&#228;ngst gewu&#223;t.</p>
-            <p xml:space="preserve">Abends hatte ich noch eine Diskussion mit der Jungen Generation &#8211;<lb/>
-ein sogenanntes "&#214;sterreich-Gespr&#228;ch" in Schwechat in der K&#246;rner<lb break="no"/>Halle. Ich halte von diesen gar nichts mehr, da h&#246;chstens einige<lb/>
-Genossen hinkommen und ein paar KP-ler und nat&#252;rlich sind 20 Leute,<lb/>
-die man informieren kann, auch von Bedeutung &#8211; aber wir m&#252;&#223;ten<lb/>
+Beziehung nicht helfen zu können, meinen hatte sie natürlich schon<lb/>
+längst gewußt.</p>
+            <p xml:space="preserve" xml:id="Band02_1970-09-25_05">Abends hatte ich noch eine Diskussion mit der Jungen Generation –<lb/>
+ein sogenanntes "Österreich-Gespräch" in Schwechat in der Körner<lb break="no"/>Halle. Ich halte von diesen gar nichts mehr, da höchstens einige<lb/>
+Genossen hinkommen und ein paar KP-ler und natürlich sind 20 Leute,<lb/>
+die man informieren kann, auch von Bedeutung – aber wir müßten<lb/>
 Mittel und Wege finden, wie wir an Neutrale herankommen, die letzten<lb/>
-Endes dann wirklich was da diskutiert wird weitergeben oder zumin<lb break="no"/>destens neutralisiert werden k&#246;nnen.</p>
+Endes dann wirklich was da diskutiert wird weitergeben oder zumin<lb break="no"/>destens neutralisiert werden können.</p>
          </div>
       </body>
       <back>
-         <pb n="02_0572_01" facs="02_1970-09-25_0572-01.jpg"/>
+         <pb n="02_0572_01" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band02/02_1970-09-25_0572-01.jp2/full/pct:100/0/default.jpg"/>
          <div type="attachment" subtype="cabinetAgenda">
             <head>Tagesprogramm, 25.9.1970</head>
             <gap reason="sampling"/>

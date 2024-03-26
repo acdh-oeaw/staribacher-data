@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="staribacher__19700602">
   <teiHeader>
       <fileDesc>
@@ -44,234 +45,231 @@
    </teiHeader>
   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band02/">
       <body>
-         <pb n="02-0205" facs="02_1970-06-02_0205.jpg"/>
+         <pb n="02-0205" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band02/02_1970-06-02_0205.jp2/full/pct:100/0/default.jpg"/>
          <div type="entry">
-            <dateline>
-               <date when="1970-06-02">Dienstag 2.6.</date>
-            </dateline>
-            <p xml:space="preserve">Besprechung mit Schweizer Botschafter <rs type="person">Weitenauer</rs>, Botschaftsrat<lb/>
+            <p xml:space="preserve" xml:id="Band02_1970-06-02_01">Besprechung mit Schweizer Botschafter <rs type="person">Weitenauer</rs>, Botschaftsrat<lb/>
 <rs type="person" ref="#per__148069">Zimmermann</rs> und Sekt.Chef <rs type="person" ref="#per__97867">Reiterer</rs> und Min.Rat <rs type="person" ref="#per__108322">Meisl</rs>. Der Schweizer<lb/>
-Botschafter er&#246;rterte, dass er sich sowohl in der Frage der Inte<lb break="no"/>gration als auch der Investorenpolitik mit <rs type="person" ref="#per__97749">Mitterer</rs>, meinem Vor<lb break="no"/>g&#228;nger sehr gut gesprochenh&#228;tte. Er allerdings w&#252;rde es sehr<lb/>
-begr&#252;ssen, wenn in der Integrationsfrage eine Systematisierung<lb/>
-Platz greifen w&#252;rde. Im weiteren Gespr&#228;ch ergab sich dann daraus,<lb/>
-dass er sich vorstellen w&#252;rde, dass die Zusammenarbeit doch in<lb/>
-den Details zwischen der Schweiz und &#214;sterreich bei Integrations<lb break="no"/>fragen Platz greifen sollte. Ihm selbst ist vorgeschwebt, dass<lb/>
+Botschafter erörterte, dass er sich sowohl in der Frage der Inte<lb break="no"/>gration als auch der Investorenpolitik mit <rs type="person" ref="#per__97749">Mitterer</rs>, meinem Vor<lb break="no"/>gänger sehr gut gesprochenhätte. Er allerdings würde es sehr<lb/>
+begrüssen, wenn in der Integrationsfrage eine Systematisierung<lb/>
+Platz greifen würde. Im weiteren Gespräch ergab sich dann daraus,<lb/>
+dass er sich vorstellen würde, dass die Zusammenarbeit doch in<lb/>
+den Details zwischen der Schweiz und Österreich bei Integrations<lb break="no"/>fragen Platz greifen sollte. Ihm selbst ist vorgeschwebt, dass<lb/>
 z.B. wie das bei der letzten GATT-Sitzung der Fall war, wo die<lb/>
-VAR Beitrittserkl&#228;rungen abgegeben hatte, dass Schweiz und &#214;ster<lb break="no"/>reich eine gemeinsame gleichlautende Erkl&#228;rung dazu abgab. Im<lb/>
+VAR Beitrittserklärungen abgegeben hatte, dass Schweiz und Öster<lb break="no"/>reich eine gemeinsame gleichlautende Erklärung dazu abgab. Im<lb/>
 schwebte weiter vor, dass so wie in der Kennedy-Runde die nordischen<lb/>
 Staaten eine einzige Sprecher nominiert haben, vielleich also<lb/>
-auch &#214;sterreich und die Schweiz gemeinsam bei Integrationfragen<lb/>
-auftreten k&#246;nnten. Er verwies insbesondere auf die r&#252;hrige Ar<lb break="no"/>beit des derzeitigen Botschafters <rs type="person" ref="#per__97350">Bielka</rs> in Bern. Seiner Meinung<lb/>
-nach - nach Meinung <rs type="person">Weitenauer</rs> &#8211; sei die Schweiz der einzige<lb/>
-Alliierte mit &#214;sterreich und beide m&#252;ssten sich eng verb&#252;nden.<lb/>
-Die Integrationspolitik der beiden L&#228;nder m&#252;sste doch in der<lb/>
-Bekr&#228;fitung der Neutralit&#228;t enden. Ein Beitritt zur EWG k&#228;me<lb/>
-f&#252;r die beiden Staaten nicht in Frage. Auch eine Zollunion<lb/>
+auch Österreich und die Schweiz gemeinsam bei Integrationfragen<lb/>
+auftreten könnten. Er verwies insbesondere auf die rührige Ar<lb break="no"/>beit des derzeitigen Botschafters <rs type="person" ref="#per__97350">Bielka</rs> in Bern. Seiner Meinung<lb/>
+nach - nach Meinung <rs type="person">Weitenauer</rs> – sei die Schweiz der einzige<lb/>
+Alliierte mit Österreich und beide müssten sich eng verbünden.<lb/>
+Die Integrationspolitik der beiden Länder müsste doch in der<lb/>
+Bekräfitung der Neutralität enden. Ein Beitritt zur EWG käme<lb/>
+für die beiden Staaten nicht in Frage. Auch eine Zollunion<lb/>
 sie unakzeptabel, da die Trade Making Power oder wie er sie<lb/>
-bezeichnen w&#252;rde, die Autonomie der Handelspolitik nicht auf<lb/>
-einen Beamten der EWG &#252;bertragen werden k&#246;nnte. Dies w&#252;rde den<lb/>
-Interessen der Schweiz unter allen Umst&#228;nden widersprechen und<lb/>
+bezeichnen würde, die Autonomie der Handelspolitik nicht auf<lb/>
+einen Beamten der EWG übertragen werden könnte. Dies würde den<lb/>
+Interessen der Schweiz unter allen Umständen widersprechen und<lb/>
 sei deshalb unakzeptabel, so bliebe nur die Frage, wie weit durch<lb/>
-Pr&#228;ferenzebkommen die Schweiz und &#214;sterreich sich absichern k&#246;nnten.<lb/>
-Seiner Meinung nach w&#228;re das idealste, wenn die Schweiz mit der<lb/>
-EWG so wie &#214;sterreich oder vielleicht gar die ganzen restlichen<lb/>
-EFTA-L&#228;nder eine Freihandelszone bilden k&#246;nnten. Er selbst k&#246;nnte<lb/>
-nicht verstehen, wieso &#214;sterreich so dr&#228;ngt, mit der EWG zu<lb/>
+Präferenzebkommen die Schweiz und Österreich sich absichern könnten.<lb/>
+Seiner Meinung nach wäre das idealste, wenn die Schweiz mit der<lb/>
+EWG so wie Österreich oder vielleicht gar die ganzen restlichen<lb/>
+EFTA-Länder eine Freihandelszone bilden könnten. Er selbst könnte<lb/>
+nicht verstehen, wieso Österreich so drängt, mit der EWG zu<lb/>
 einem Arrangement zu kommen. Ob das eine Frage der Wirtschaft sei,<lb/>
-denn er k&#246;nnte in der Schweiz nur feststellen, dass die Schweizer<lb/>
-Wirtschaft &#252;berhaupt nicht daran interessiert sei und erst aufge<lb break="no"/>kl&#228;rt werden m&#252;sste. Ein Schweizer konservatives Verhalten m&#252;sste<lb/>
-<pb n="02-0206" facs="02_1970-06-02_0206.jpg"/>dabei ber&#252;cksichtigt werden, da die Vereinbarungen mit der EWG<lb/>
-auf alle F&#228;lle dem Volk zur Abstimmung vorgelegt werden. Er<lb/>
-meinte, es m&#252;sste auf alle F&#228;lle auch in &#214;sterreich nochmals<lb/>
-&#252;berlegt werden, ob ein Rennen in der EWG zweckm&#228;ssig w&#228;re.<lb/>
+denn er könnte in der Schweiz nur feststellen, dass die Schweizer<lb/>
+Wirtschaft überhaupt nicht daran interessiert sei und erst aufge<lb break="no"/>klärt werden müsste. Ein Schweizer konservatives Verhalten müsste<lb/>
+<pb n="02-0206" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band02/02_1970-06-02_0206.jp2/full/pct:100/0/default.jpg"/>dabei berücksichtigt werden, da die Vereinbarungen mit der EWG<lb/>
+auf alle Fälle dem Volk zur Abstimmung vorgelegt werden. Er<lb/>
+meinte, es müsste auf alle Fälle auch in Österreich nochmals<lb/>
+überlegt werden, ob ein Rennen in der EWG zweckmässig wäre.<lb/>
 Ich stellte dazu fest, dass im Prinzip sowohl der Bundeskanzler<lb/>
-als auch der Aussenminister und auch ich pers&#246;nlich stets daf&#252;r<lb/>
-eingetreten sind, dass die Neutralit&#228;t &#214;sterreichs &#252;ber jedwede<lb/>
+als auch der Aussenminister und auch ich persönlich stets dafür<lb/>
+eingetreten sind, dass die Neutralität Österreichs über jedwede<lb/>
 wirtschaftliche Gesichtspunkte gestellt werden muss und gestellt<lb/>
-wird. Er war &#252;ber diese Zusage sehr erfreut. Ich erkl&#228;rte, weiters,<lb/>
-dass ich nicht glaube, dass jetzt - obwohl wir uns sehr bem&#252;hen -<lb/>
-in kurzer Zeit ein Abschluss zwischen &#214;sterreich und der EWG<lb/>
+wird. Er war über diese Zusage sehr erfreut. Ich erklärte, weiters,<lb/>
+dass ich nicht glaube, dass jetzt - obwohl wir uns sehr bemühen -<lb/>
+in kurzer Zeit ein Abschluss zwischen Österreich und der EWG<lb/>
 zu erreichen ist. Ich wies weiters darauf hin, dass der Aussen<lb break="no"/>minister ja bereits bei der Tagung der EFTA in Genf mit dem<lb/>
-Schweizer Kollegen &#252;ber dieses Problem sehr eingehend gesprochen<lb/>
+Schweizer Kollegen über dieses Problem sehr eingehend gesprochen<lb/>
 hatte und der Aussenminister hier die einhellige Meinung der<lb/>
-&#246;sterreichischen Bundesregierung vertreten hat. Was das gemeinsame<lb/>
-Vorgehen der Schweiz und &#214;sterreich betrifft, erwiderte ich,<lb/>
-dass ja der Bundeskanzler traditionsgem&#228;ss mit dem Aussenminister<lb/>
-in der n&#228;chsten Zeit in die Schweiz als erste Auslandsreise kommen<lb/>
-wird und sich dort sicher die M&#246;glichkeit ergeben wird, &#252;ber Details<lb/>
+österreichischen Bundesregierung vertreten hat. Was das gemeinsame<lb/>
+Vorgehen der Schweiz und Österreich betrifft, erwiderte ich,<lb/>
+dass ja der Bundeskanzler traditionsgemäss mit dem Aussenminister<lb/>
+in der nächsten Zeit in die Schweiz als erste Auslandsreise kommen<lb/>
+wird und sich dort sicher die Möglichkeit ergeben wird, über Details<lb/>
 zu sprechen. Ich war in einem einzeige Punkt mit dem Schweizer<lb/>
-Botschafter nicht einer Meinung, er wollte, dass wenn &#214;sterreich<lb/>
+Botschafter nicht einer Meinung, er wollte, dass wenn Österreich<lb/>
 und die Schweiz erst nach den Beitrittsverhandlungen Englands und<lb/>
 den anderen Staaten zur EWG zur Verhandlungen kommen wird, einen<lb/>
 Vorteil darin sehen, dass dann die EWG leichter mit uns verhandeln<lb/>
-w&#252;rde, weil dann keinerlei Pr&#228;zedenzf&#228;lle damit mehr verbunden<lb/>
-sind. Ich sagte, die EWG wird es immer wieder andere L&#228;nder geben,<lb/>
-die sich um Sondervereinbarungen bem&#252;hen und sie nat&#252;rlich auch<lb/>
-wenn sie &#214;sterreich und der Schweiz besonderes Zugest&#228;ndnisse<lb/>
-machen wird, dies als Pr&#228;zedenzf&#228;lle f&#252;r andere Staaten betrachten.<lb/>
-Wird. Ich versuchte, ihm dadurch zu erkl&#228;ren, dass &#214;sterreich<lb/>
-schon allein um die Kontinuit&#228;t zu wahren, nach wie vor dr&#228;ngen<lb/>
-wird, dass spezielle Verhandlungen jetzt doch noch mit &#214;sterreich<lb/>
-gew&#252;hrt werden. Der Schweizer Botschafter hatte dann noch einen<lb/>
-speziellen Wunsch bez&#252;glich K&#228;se-Absch&#246;pfung und zwar handelt es<lb/>
+würde, weil dann keinerlei Präzedenzfälle damit mehr verbunden<lb/>
+sind. Ich sagte, die EWG wird es immer wieder andere Länder geben,<lb/>
+die sich um Sondervereinbarungen bemühen und sie natürlich auch<lb/>
+wenn sie Österreich und der Schweiz besonderes Zugeständnisse<lb/>
+machen wird, dies als Präzedenzfälle für andere Staaten betrachten.<lb/>
+Wird. Ich versuchte, ihm dadurch zu erklären, dass Österreich<lb/>
+schon allein um die Kontinuität zu wahren, nach wie vor drängen<lb/>
+wird, dass spezielle Verhandlungen jetzt doch noch mit Österreich<lb/>
+gewührt werden. Der Schweizer Botschafter hatte dann noch einen<lb/>
+speziellen Wunsch bezüglich Käse-Abschöpfung und zwar handelt es<lb/>
 sich darum, dass die Vorarlberger in die Schweiz um 4 Franken<lb/>
-exportiert hatten und dann eine Vereinbarung mit <rs type="person" ref="#per__97851">Pultar</rs> &#252;ber diesen<lb/>
+exportiert hatten und dann eine Vereinbarung mit <rs type="person" ref="#per__97851">Pultar</rs> über diesen<lb/>
 Punkt zustandekam, dass in Zukunft hier nicht mehr Unterbietungen<lb/>
-stattfinden werden, sondern die Betr&#228;ge, die da abgesch&#246;pft wer<lb break="no"/>den nach Wien zentral abgef&#252;hrt werden.</p>
-            <pb n="02-0207" facs="02_1970-06-02_0207.jpg"/>
-            <p xml:space="preserve">Sekt.Chef <rs type="person" ref="#per__97867">Reiterer</rs> sagte mir nach der Sitzung, dass die<lb/>
-Vorgangsweise der Schweizer &#228;usserst ungew&#246;hnlich ist,<lb/>
-<rs type="person">Weitenauer</rs> sei ein sehr t&#252;chtiger, aber bis jetzt sehr unzu<lb break="no"/>g&#228;nglicher Mann gewesen und es sei deshalb das erst Mal, dass<lb/>
-er erlebt h&#228;tte, dass ein Schweizer Botschafter mehr oder minder<lb/>
-um die Unterst&#252;tzurg &#214;sterreichs in ihrer Politik angesucht hatte.<lb/>
+stattfinden werden, sondern die Beträge, die da abgeschöpft wer<lb break="no"/>den nach Wien zentral abgeführt werden.</p>
+            <pb n="02-0207" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band02/02_1970-06-02_0207.jp2/full/pct:100/0/default.jpg"/>
+            <p xml:space="preserve" xml:id="Band02_1970-06-02_02">Sekt.Chef <rs type="person" ref="#per__97867">Reiterer</rs> sagte mir nach der Sitzung, dass die<lb/>
+Vorgangsweise der Schweizer äusserst ungewöhnlich ist,<lb/>
+<rs type="person">Weitenauer</rs> sei ein sehr tüchtiger, aber bis jetzt sehr unzu<lb break="no"/>gänglicher Mann gewesen und es sei deshalb das erst Mal, dass<lb/>
+er erlebt hätte, dass ein Schweizer Botschafter mehr oder minder<lb/>
+um die Unterstützurg Österreichs in ihrer Politik angesucht hatte.<lb/>
 Ich selbst, der ich doch als EFTA-Partisane gelte, hatte deshalb<lb/>
-darauf hingewisen, dass sich &#214;sterreich nach wie vor bem&#252;hen<lb/>
+darauf hingewisen, dass sich Österreich nach wie vor bemühen<lb/>
 muss, um mit der EWG zu einem Sonderarrangement zu kommen, weil<lb/>
-wir glaube ich politisch die Kontinuit&#228;t aufrechterhalten m&#252;ssen,<lb/>
-d.h., dass uns die &#214;VP nicht vorwerfen kann, wir haben sofort<lb/>
-einen Kurswechsel vorgenommen und die Bem&#252;hungen mit der EWG<lb/>
-ein Arrangement zu erhalten, abgebrochen. Ich glaube, wir m&#252;ssen<lb/>
-allein aus innerpolitischen Gr&#252;nden alles daran setzen, die Ver<lb break="no"/>handlungen mit der EWG weiter fortzuf&#252;hren, obwohl ich davon &#252;ber<lb break="no"/>zeugt bin, dass es uns nicht gelingen wird, die Staaten davon<lb/>
-zu &#252;berzeugen, insbesondere Frankreich, dass ein Sonderarrangement<lb/>
-jetzt und unverz&#252;glich in Angriff genommen werden sollte. Ich<lb/>
+wir glaube ich politisch die Kontinuität aufrechterhalten müssen,<lb/>
+d.h., dass uns die ÖVP nicht vorwerfen kann, wir haben sofort<lb/>
+einen Kurswechsel vorgenommen und die Bemühungen mit der EWG<lb/>
+ein Arrangement zu erhalten, abgebrochen. Ich glaube, wir müssen<lb/>
+allein aus innerpolitischen Gründen alles daran setzen, die Ver<lb break="no"/>handlungen mit der EWG weiter fortzuführen, obwohl ich davon über<lb break="no"/>zeugt bin, dass es uns nicht gelingen wird, die Staaten davon<lb/>
+zu überzeugen, insbesondere Frankreich, dass ein Sonderarrangement<lb/>
+jetzt und unverzüglich in Angriff genommen werden sollte. Ich<lb/>
 stimme bei allem Vorbehalt, den man der Schweizer Politik ent<lb break="no"/>gegenbringen muss denn die Schweizer werden immer ihre Wehr<lb break="no"/>politik oder ihre Aussenhandelspolitik, ihre Integrationspolitik<lb/>
-prim&#228;r nach ihren schweizerischen Interessen ausrichten, doch<lb/>
-dem Verlangen des Botschafters <rs type="person">Weitenauer</rs> zu, dass wir uns bem&#252;hen<lb/>
-sollten als beiden neutralen Staaten hier gemeinsam weitest<lb break="no"/>gehend vorzugehen. Ich k&#246;nnte mir sehr gut vorstellen, dass im<lb/>
-Rahmen der j&#228;hrlich zweimal stattfindenden Besprechungen zwischen<lb/>
-der Schweiz und &#214;sterreich diese Detailarbeit und Detailbespre<lb break="no"/>chungen sowohl in Bern als auch in Wien aufgenommen werden.</p>
-            <p xml:space="preserve">ANMERKUNG: Bitte, diese Aktennotiz f&#252;r <rs type="person" ref="#per__97668">Kreisky</rs> und Aussenminister<lb/>
-<rs type="person" ref="#per__97632">Kirchschl&#228;ger</rs> bereitstellen !</p>
-            <p xml:space="preserve">Nach tagelangem Bem&#252;hen ist es mir endlich gelungen, Kontakt<lb/>
+primär nach ihren schweizerischen Interessen ausrichten, doch<lb/>
+dem Verlangen des Botschafters <rs type="person">Weitenauer</rs> zu, dass wir uns bemühen<lb/>
+sollten als beiden neutralen Staaten hier gemeinsam weitest<lb break="no"/>gehend vorzugehen. Ich könnte mir sehr gut vorstellen, dass im<lb/>
+Rahmen der jährlich zweimal stattfindenden Besprechungen zwischen<lb/>
+der Schweiz und Österreich diese Detailarbeit und Detailbespre<lb break="no"/>chungen sowohl in Bern als auch in Wien aufgenommen werden.</p>
+            <p xml:space="preserve" xml:id="Band02_1970-06-02_03">ANMERKUNG: Bitte, diese Aktennotiz für <rs type="person" ref="#per__97668">Kreisky</rs> und Aussenminister<lb/>
+<rs type="person" ref="#per__97632">Kirchschläger</rs> bereitstellen !</p>
+            <p xml:space="preserve" xml:id="Band02_1970-06-02_04">Nach tagelangem Bemühen ist es mir endlich gelungen, Kontakt<lb/>
 mit Generaldirektor <rs type="person" ref="#per__141619">Seiffert</rs> von der Unilever herzustellen. Er<lb/>
-best&#228;tigte, dass die Unilever beabsichtigt, nachdem sie 16 Jahre<lb/>
-den Thea-Preis und 13 Jahre den Rama-Preis unver&#228;ndert gelassen<lb/>
-hat, mit 1. Juli diese Preise mit 30 Groschen, das w&#228;ren 6,3 %,<lb/>
-zu erh&#246;hen. Er k&#246;nnte sich vorstellen, dass wir im Herbst die<lb/>
-Umsatzsteuer von 5,5 auf 1,7 %, wie er bis vor einigen Jahren be<lb break="no"/>standen hat, absenken und er w&#252;rde sofort die entsprechende Preis-<lb/>
-<pb n="02-0208" facs="02_1970-06-02_0208.jpg"/>erh&#246;hung r&#252;ckg&#228;ngig machen. Ich verlangte von ihm die Unterlagen,<lb/>
-und er sagte mir, es w&#252;rde der Generaldirektor von Kunerol<lb/>
-<rs type="person" ref="#per__97936">Seefranz</rs> sich mit mir, wenn er vom Ausland zur&#252;ckkomt, sofort<lb/>
+bestätigte, dass die Unilever beabsichtigt, nachdem sie 16 Jahre<lb/>
+den Thea-Preis und 13 Jahre den Rama-Preis unverändert gelassen<lb/>
+hat, mit 1. Juli diese Preise mit 30 Groschen, das wären 6,3 %,<lb/>
+zu erhöhen. Er könnte sich vorstellen, dass wir im Herbst die<lb/>
+Umsatzsteuer von 5,5 auf 1,7 %, wie er bis vor einigen Jahren be<lb break="no"/>standen hat, absenken und er würde sofort die entsprechende Preis-<lb/>
+<pb n="02-0208" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band02/02_1970-06-02_0208.jp2/full/pct:100/0/default.jpg"/>erhöhung rückgängig machen. Ich verlangte von ihm die Unterlagen,<lb/>
+und er sagte mir, es würde der Generaldirektor von Kunerol<lb/>
+<rs type="person" ref="#per__97936">Seefranz</rs> sich mit mir, wenn er vom Ausland zurückkomt, sofort<lb/>
 ins Einvernehmen setzen. Ich halte eine solche Vorgangsweise,<lb/>
-dass zuerst der Preis erh&#246;ht wird und anschliessend daran die<lb/>
-Steuern gesenkt werden, zur&#252;ckgef&#252;hrt wird, f&#252;r unm&#246;glich. Ich<lb/>
+dass zuerst der Preis erhöht wird und anschliessend daran die<lb/>
+Steuern gesenkt werden, zurückgeführt wird, für unmöglich. Ich<lb/>
 schlage deshalb vor, wir sollten der Unilever die Chance geben,<lb/>
-dass die Umsatzsteuer jetzt gesenkt werden kann. Ausserdem w&#252;rden<lb/>
-wir dadurch die &#214;VP im Parlament vor eine ungeheure Entscheidung<lb/>
-stellen. Wenn sie n&#228;mlich, was zu erwarten ist, wegen der Bauern<lb/>
-die Umsatzsteuersenkung ablehnt, dann k&#246;nnen wir erkl&#228;ren, dass<lb/>
-sie f&#252;r die Margarinepreiserh&#246;hung verantwortlich ist. Senkt sie<lb/>
+dass die Umsatzsteuer jetzt gesenkt werden kann. Ausserdem würden<lb/>
+wir dadurch die ÖVP im Parlament vor eine ungeheure Entscheidung<lb/>
+stellen. Wenn sie nämlich, was zu erwarten ist, wegen der Bauern<lb/>
+die Umsatzsteuersenkung ablehnt, dann können wir erklären, dass<lb/>
+sie für die Margarinepreiserhöhung verantwortlich ist. Senkt sie<lb/>
 dagegen die Umsatzsteuer, wie sie bis vo etlichen Jahren noch mit<lb/>
-1,7 % gewesen ist, dann bedeutet das, dass wir eine Margarineverteu<lb break="no"/>erung verhindern k&#246;nnen. Ich glaube deshalb, es m&#252;sste der Fi<lb break="no"/>nanzminister unverz&#252;glich einen solchen Gesetzentwurf, der im<lb/>
+1,7 % gewesen ist, dann bedeutet das, dass wir eine Margarineverteu<lb break="no"/>erung verhindern können. Ich glaube deshalb, es müsste der Fi<lb break="no"/>nanzminister unverzüglich einen solchen Gesetzentwurf, der im<lb/>
 Rahmen der preisstabilisierenden Massnahmen ja auch vom Innen<lb break="no"/>ministerium gefordert wurde, einbringen. Bei dieser Gelegenheit<lb/>
-k&#246;nnten wir auch gleichzeitig die Umsatzsteuersenkung f&#252;r Braunkohle<lb/>
-einreichen. Auf Grund des Bergbauf&#246;rderungsgesetzes stehen uns<lb/>
-heuer f&#252;r die St&#252;tzung der Kohle 40,750.000 S zur Verf&#252;gung. Die<lb/>
-Antr&#228;ge aber lauten auf 124,900.000 S. Da wir auch in Zukunft<lb/>
-kaum die notwendigen Mittel werden bereitstellen k&#246;nnen, w&#228;re<lb/>
-es zu &#252;berlegen, ob man nicht die Umsatzsteuer von derzeit 5,5 %<lb/>
+könnten wir auch gleichzeitig die Umsatzsteuersenkung für Braunkohle<lb/>
+einreichen. Auf Grund des Bergbauförderungsgesetzes stehen uns<lb/>
+heuer für die Stützung der Kohle 40,750.000 S zur Verfügung. Die<lb/>
+Anträge aber lauten auf 124,900.000 S. Da wir auch in Zukunft<lb/>
+kaum die notwendigen Mittel werden bereitstellen können, wäre<lb/>
+es zu überlegen, ob man nicht die Umsatzsteuer von derzeit 5,5 %<lb/>
 auf 1,7 % absenkt, wo wie es die Landwirtschaft als Urproduktion<lb/>
-hat. Dadurch w&#252;rden sich die GKB ca. 18 Mio, die SAGOK 3 Mio und<lb/>
+hat. Dadurch würden sich die GKB ca. 18 Mio, die SAGOK 3 Mio und<lb/>
 GDK 4 Mio 8 Umsatzsteuer ersparen, das macht zusammen einen Be<lb break="no"/>trag von 25 Mio S aus. Der Fachverbandsvertreter, Dr. <rs type="person" ref="#per__136470">Denk</rs>, hat<lb/>
 allerdings gemeint, es seien 35 Mio, aber ich glaube, dass diese<lb/>
-Ziffer nicht stimmt, d.h &#220;berpr&#252;fungen in meinem Ressort haben<lb/>
+Ziffer nicht stimmt, d.h Überprüfungen in meinem Ressort haben<lb/>
 schon ergeben, dass diese Ziffer als zu hoch zu bezeichnen ist.<lb/>
-Ich schlage deshalb vor, dass wir unverz&#252;glichst diese beiden<lb/>
-Umsatzsteuerantr&#228;ge ins Parlament bringen, um dadurch auf der<lb/>
+Ich schlage deshalb vor, dass wir unverzüglichst diese beiden<lb/>
+Umsatzsteueranträge ins Parlament bringen, um dadurch auf der<lb/>
 einen Seite eine Preisverteuerung und auf der anderen Seite eine<lb/>
-Erleichterung f&#252;r den Bergbauf&#246;rderungsfonds erreichen k&#246;nnen.</p>
-            <p xml:space="preserve">ANMERKUNG: Bitte, diese Aktennotiz f&#252;r <rs type="person" ref="#per__97311">Androsch</rs> fertig machen.</p>
-            <pb n="02-0209" facs="02_1970-06-02_0209.jpg"/>
-            <p xml:space="preserve">Bei der Klubtagung am Nachmittag.wurden nur unbedeutende Refe<lb break="no"/>rate gehalten und vor allem auch die Taktik besprochen Interessant<lb/>
+Erleichterung für den Bergbauförderungsfonds erreichen können.</p>
+            <p xml:space="preserve" xml:id="Band02_1970-06-02_05">ANMERKUNG: Bitte, diese Aktennotiz für <rs type="person" ref="#per__97311">Androsch</rs> fertig machen.</p>
+            <pb n="02-0209" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band02/02_1970-06-02_0209.jp2/full/pct:100/0/default.jpg"/>
+            <p xml:space="preserve" xml:id="Band02_1970-06-02_06">Bei der Klubtagung am Nachmittag.wurden nur unbedeutende Refe<lb break="no"/>rate gehalten und vor allem auch die Taktik besprochen Interessant<lb/>
 war, dass <rs type="person" ref="#per__97646">Koppe</rs> zwar erwartete, dass auf der Wiener Konferenz<lb/>
-&#252;ber das Koksproblem diskutiert w&#252;rde werden, ich habe es in meinem<lb/>
-Referat allerdings gar nicht erw&#228;hnt, es kam auch dort &#252;berhaupt<lb/>
-nicht zur Sprache, Interessant war aber, dass beim Klub &#252;ber dieses<lb/>
-Problem, obwohl ich dort &#252;berhaupt kein Referat gehalten hatte, durch<lb/>
+über das Koksproblem diskutiert würde werden, ich habe es in meinem<lb/>
+Referat allerdings gar nicht erwähnt, es kam auch dort überhaupt<lb/>
+nicht zur Sprache, Interessant war aber, dass beim Klub über dieses<lb/>
+Problem, obwohl ich dort überhaupt kein Referat gehalten hatte, durch<lb/>
 Anfragen festzustellen war, dass unsere Genossen sich in den Details<lb/>
-nicht ausgekannt haben. Es wird sehr zweckm&#228;ssig sein und <rs type="person" ref="#per__97646">Koppe</rs><lb/>
-muss das unverz&#252;glichst vorbereiten, eine diesbezpgliche Information<lb/>
-dem Klub zur Verf&#252;gung zu stellen. <rs type="person" ref="#per__97488">Gratz</rs> er&#246;rterte sein Schulpro<lb break="no"/>gramm, wobei er darauf hinwies, dass das Verh&#228;ltnis der berufsbilden<lb break="no"/>den zu den allgemeinbildenden h&#246;heren Schulen derzeit 1 : 3 ist<lb/>
-und er unbedingt darauf hindr&#228;ngen wird, dass berufsbildende Schulen<lb/>
-in den n&#228;chsten Monaten und Jahren wom&#246;glich vermehrt werden. Sein<lb/>
-ideales Verh&#228;ltnis w&#228;re 2: 3, denn er steht mit Recht auf dem Stand<lb break="no"/>punkt, dass es ganz sinnlos ist, wenn man in gr&#246;sserer Menge Matu-<lb break="no"/>ranten produziert, von denen letztlich nur ein Teil,davon gebraucht<lb/>
-wird. Er wird deshalb wom&#246;glich nur Oberschulen in der n&#228;chsten Zeit<lb/>
+nicht ausgekannt haben. Es wird sehr zweckmässig sein und <rs type="person" ref="#per__97646">Koppe</rs><lb/>
+muss das unverzüglichst vorbereiten, eine diesbezpgliche Information<lb/>
+dem Klub zur Verfügung zu stellen. <rs type="person" ref="#per__97488">Gratz</rs> erörterte sein Schulpro<lb break="no"/>gramm, wobei er darauf hinwies, dass das Verhältnis der berufsbilden<lb break="no"/>den zu den allgemeinbildenden höheren Schulen derzeit 1 : 3 ist<lb/>
+und er unbedingt darauf hindrängen wird, dass berufsbildende Schulen<lb/>
+in den nächsten Monaten und Jahren womöglich vermehrt werden. Sein<lb/>
+ideales Verhältnis wäre 2: 3, denn er steht mit Recht auf dem Stand<lb break="no"/>punkt, dass es ganz sinnlos ist, wenn man in grösserer Menge Matu-<lb break="no"/>ranten produziert, von denen letztlich nur ein Teil,davon gebraucht<lb/>
+wird. Er wird deshalb womöglich nur Oberschulen in der nächsten Zeit<lb/>
 schaffen und dadurch auch schon in der Verwaltung das Schulkonzept<lb/>
 verwegzunehmen. Er wird zwar noch in die Schulreformkommission<lb/>
 gehen, denn er will in engster Zusammenarbeit mit allen Beteiligten<lb/>
-arbeiten, hat aber die feste Absicht, Gesamtschulen f&#252;r 10- bis 14-<lb/>
-j&#228;hrige zu errichten, und zwar soll in 10 % Schulversuche im<lb/>
+arbeiten, hat aber die feste Absicht, Gesamtschulen für 10- bis 14-<lb/>
+jährige zu errichten, und zwar soll in 10 % Schulversuche im<lb/>
 Jahre 1971 bis 1975 gemacht werden. Seiner Meinung nach und ich<lb/>
-teilte diese Auffassung, kann eine Entwicklung, die einmal eingelei<lb break="no"/>tet ist, dann kaum mehr so leicht r&#252;ckg&#228;ngig gemacht werden, Mit<lb/>
+teilte diese Auffassung, kann eine Entwicklung, die einmal eingelei<lb break="no"/>tet ist, dann kaum mehr so leicht rückgängig gemacht werden, Mit<lb/>
 diesen Gesamtschulen sollen aber nicht Einheitsschulen geschaffen<lb/>
 werden, sondern es soll eben nach Begabung und Leistungen in den<lb/>
 Hauptschulen schon versucht werden, eine Auslese durchzusetzen<lb/>
 und in der weiteren Folge dann in den Oberstufen die ebenfalls<lb/>
-vereinfacht werden m&#252;ssen, denn derzeit sind 12 Formen des Gymna<lb break="no"/>siums &#252;blich, dann ausgew&#228;hlt werden, wer eigentlich und in<lb/>
-welche Richtung die Begabung des einzelnen Sch&#252;lers geht. Seiner<lb/>
-Meinung nach w&#228;re es ideal, einen einzigen Gymnasium-Typ zu<lb/>
-schaffen und mit Kern- und Kursf&#228;chern dann entsprechende Wahl<lb break="no"/><pb n="02-0210" facs="02_1970-06-02_0210.jpg"/>m&#246;glichkeiten dem Sch&#252;ler zu geben. Um &#252;ber die Schwierigkeit des<lb/>
-neunten Schuljahres hinwegzukommen k&#246;nnte er sich vorstellen, dass<lb/>
-man auch nach vier Jahren, wenn man die Lern- und Kursf&#228;cher ent<lb break="no"/>sprechend belegt,und auch entsprechende Pr&#252;fungen abgelegt hat<lb/>
-schon zur Matura antreten kann. Es w&#228;re dann ein neunj&#228;hriges Schul<lb break="no"/>system aber mit der M&#246;glichkeit, dass wenn jemand die materiellen<lb/>
-Voraussetzungen mitbringt und pr&#252;fungsm&#228;ssig besteht, schon nach<lb/>
-acht Jahren maturieren kann. Bez&#252;glich des neuen Ministeriums f&#252;r<lb/>
-Wissenschaft und Forschung &#252;ber das <rs type="person" ref="#per__97442">Firnberg</rs> referierte, ergab sich<lb/>
+vereinfacht werden müssen, denn derzeit sind 12 Formen des Gymna<lb break="no"/>siums üblich, dann ausgewählt werden, wer eigentlich und in<lb/>
+welche Richtung die Begabung des einzelnen Schülers geht. Seiner<lb/>
+Meinung nach wäre es ideal, einen einzigen Gymnasium-Typ zu<lb/>
+schaffen und mit Kern- und Kursfächern dann entsprechende Wahl<lb break="no"/><pb n="02-0210" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band02/02_1970-06-02_0210.jp2/full/pct:100/0/default.jpg"/>möglichkeiten dem Schüler zu geben. Um über die Schwierigkeit des<lb/>
+neunten Schuljahres hinwegzukommen könnte er sich vorstellen, dass<lb/>
+man auch nach vier Jahren, wenn man die Lern- und Kursfächer ent<lb break="no"/>sprechend belegt,und auch entsprechende Prüfungen abgelegt hat<lb/>
+schon zur Matura antreten kann. Es wäre dann ein neunjähriges Schul<lb break="no"/>system aber mit der Möglichkeit, dass wenn jemand die materiellen<lb/>
+Voraussetzungen mitbringt und prüfungsmässig besteht, schon nach<lb/>
+acht Jahren maturieren kann. Bezüglich des neuen Ministeriums für<lb/>
+Wissenschaft und Forschung über das <rs type="person" ref="#per__97442">Firnberg</rs> referierte, ergab sich<lb/>
 eine kurze Diskussion, das <rs type="person">Luptuwicz</rs> auf dem Standpunkt gestanden<lb/>
-ist, die Forschung sei Wisschaft und man h&#228;tte das eigentlich gar<lb/>
-nicht besonders herausstreichen m&#252;ssen. Ich musste mich bei der Ge<lb break="no"/>legenheit zu Wort melden, um darauf hinzuweisen, dass wenn man die<lb/>
-Forschung in die Wissenschaft schon in den Namen integriert h&#228;tte<lb/>
-ist eine grosse Ablehnung oder eine noch gr&#246;ssere Ablehnung von Seiten<lb/>
-der Industrie und des Gewerbes da gegeben h&#228;tte. Ich halte deshalb<lb/>
-die Trennung zwischen Wissenschaft und Forschung f&#252;r sehr wichtig,<lb/>
+ist, die Forschung sei Wisschaft und man hätte das eigentlich gar<lb/>
+nicht besonders herausstreichen müssen. Ich musste mich bei der Ge<lb break="no"/>legenheit zu Wort melden, um darauf hinzuweisen, dass wenn man die<lb/>
+Forschung in die Wissenschaft schon in den Namen integriert hätte<lb/>
+ist eine grosse Ablehnung oder eine noch grössere Ablehnung von Seiten<lb/>
+der Industrie und des Gewerbes da gegeben hätte. Ich halte deshalb<lb/>
+die Trennung zwischen Wissenschaft und Forschung für sehr wichtig,<lb/>
 weil auch die beiden Fonds ja erhalten bleiben sollen und auch<lb/>
-erhalten bleiben werden. Nachdem die Verhandlungen mit der FP&#214; ja<lb/>
+erhalten bleiben werden. Nachdem die Verhandlungen mit der FPÖ ja<lb/>
 bis jetzt schon gezeigt haben, dass unsere Taktik richtig war,<lb/>
-dass wenn wir auch den Forschungsf&#246;rderungsfonds jetzt scheinbar<lb/>
-dem Ministerium f&#252;r Wissenschaft und Forschung &#252;bertragen, ja<lb/>
+dass wenn wir auch den Forschungsförderungsfonds jetzt scheinbar<lb/>
+dem Ministerium für Wissenschaft und Forschung übertragen, ja<lb/>
 letzten Endes doch im Handelsressort bleiben wird, weil das es der<lb/>
-&#214;VP erschweren wird, dagegen zustimmen, vor allem einmal es der<lb/>
-Freiheitlichen Partei erm&#246;glichen wird, daf&#252;r zu sein, dass dieses<lb/>
-Ministerium geschaffen wird. F&#252;r die SP&#214; erkl&#228;rte <rs type="person" ref="#per__97668">Kreisky</rs> w&#228;re das<lb/>
+ÖVP erschweren wird, dagegen zustimmen, vor allem einmal es der<lb/>
+Freiheitlichen Partei ermöglichen wird, dafür zu sein, dass dieses<lb/>
+Ministerium geschaffen wird. Für die SPÖ erklärte <rs type="person" ref="#per__97668">Kreisky</rs> wäre das<lb/>
 ein sehr schwerer Schlag, wenn es zu diesem kleinen Kompetenzgesetz<lb/>
-nicht kommen w&#252;rde, da gerade das eine Prestigefrage auch f&#252;r die<lb/>
-neue Bundesregierung ist. Seiner Meinung nach k&#246;nnte alle Zugest&#228;ndnisse<lb/>
+nicht kommen würde, da gerade das eine Prestigefrage auch für die<lb/>
+neue Bundesregierung ist. Seiner Meinung nach könnte alle Zugeständnisse<lb/>
 im Gesetzentwurf gemacht werden nur eine Trennung zwischen Forschung<lb/>
 und Lehre, d.h. dass also die Hochschulsektionen nicht in dieses<lb/>
-Ministerium k&#228;men, sei seiner Meinung nach unm&#246;glich. Bez&#252;glich<lb/>
-des grossen Kompetenzgesetzes kamen wir &#252;berein, dass <rs type="person">Vak</rs>, von<lb/>
-dem ich h&#246;re, dass er mit seiner Arbeitsgruppe jetzt schon ziemlich<lb/>
+Ministerium kämen, sei seiner Meinung nach unmöglich. Bezüglich<lb/>
+des grossen Kompetenzgesetzes kamen wir überein, dass <rs type="person">Vak</rs>, von<lb/>
+dem ich höre, dass er mit seiner Arbeitsgruppe jetzt schon ziemlich<lb/>
 fertig ist, einen Vorschlag ausarbeiten wird, den wir dann in der<lb/>
-Regierung besprechen k&#246;nnten und wo dann mit der &#214;VP im Parlament<lb/>
-dar&#252;ber zu verhandeln sein wird. Wenn dieser Vorschlag"administrative<lb/>
-Vernunft" ausstrahlt, dann wird es der &#214;sterreichischen Volkspartei<lb/>
-schwer fallen, hier dagegen zustimmen, obwohl ich fest davon &#252;berzeugt<lb/>
+Regierung besprechen könnten und wo dann mit der ÖVP im Parlament<lb/>
+darüber zu verhandeln sein wird. Wenn dieser Vorschlag"administrative<lb/>
+Vernunft" ausstrahlt, dann wird es der Österreichischen Volkspartei<lb/>
+schwer fallen, hier dagegen zustimmen, obwohl ich fest davon überzeugt<lb/>
 bin, dass das grosse Kompetenzgesetz sicherlich von ihr und von der<lb/>
-<pb n="02-0211" facs="02_1970-06-02_0211.jpg"/>kaum wird akzeptiert werden. Aber wir haben dann als Regierung<lb/>
+<pb n="02-0211" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band02/02_1970-06-02_0211.jp2/full/pct:100/0/default.jpg"/>kaum wird akzeptiert werden. Aber wir haben dann als Regierung<lb/>
 dargelegt, dass wir einen Vorschlag vorlegen konnten, der so gut<lb/>
 ist, dass mit sachlichen Argumenten kaum etwas dagegen einzuwenden<lb/>
-ist und dass es vor allem uns in der Regierung gegl&#252;ckt ist,<lb/>
-die Interessengegens&#228;tze, die die &#214;sterreichische Volkspartei<lb/>
+ist und dass es vor allem uns in der Regierung geglückt ist,<lb/>
+die Interessengegensätze, die die Österreichische Volkspartei<lb/>
 in den vergangenen vier Jahren gehabt hat und die letzen Endes<lb/>
-auch dazu gef&#252;hrt haben, dass der Entwurf von <rs type="person">Klaus</rs> nicht einmal<lb/>
-in der Regierung verabschiedet werden konnte, von uns &#252;berwunden<lb/>
+auch dazu geführt haben, dass der Entwurf von <rs type="person">Klaus</rs> nicht einmal<lb/>
+in der Regierung verabschiedet werden konnte, von uns überwunden<lb/>
 sind.</p>
-            <p xml:space="preserve"/>
+            <p xml:space="preserve" xml:id="Band02_1970-06-02_07"/>
          </div>
       </body>
       <back>
-         <pb n="02_0211_01" facs="02_1970-06-02_0211-01.jpg"/>
+         <pb n="02_0211_01" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band02/02_1970-06-02_0211-01.jp2/full/pct:100/0/default.jpg"/>
          <div type="attachment" subtype="cabinetAgenda">
             <head>Tagesordnung 7. Ministerratssitzung, 2.6.1970</head>
             <gap reason="sampling"/>
-            <pb n="02_0211_02" facs="02_1970-06-02_0211-02.jpg"/>
+            <pb n="02_0211_02" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band02/02_1970-06-02_0211-02.jp2/full/pct:100/0/default.jpg"/>
             <gap reason="sampling"/>
-            <pb n="02_0211_03" facs="02_1970-06-02_0211-03.jpg"/>
+            <pb n="02_0211_03" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band02/02_1970-06-02_0211-03.jp2/full/pct:100/0/default.jpg"/>
             <gap reason="sampling"/>
          </div>
-         <pb n="02_0211_04" facs="02_1970-06-02_0211-04.jpg"/>
+         <pb n="02_0211_04" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band02/02_1970-06-02_0211-04.jp2/full/pct:100/0/default.jpg"/>
          <div type="attachment" subtype="other">
-            <head>hs. Notizen (R&#252;ckseite MR-TO)</head>
+            <head>hs. Notizen (Rückseite MR-TO)</head>
             <gap reason="sampling"/>
          </div>
       </back>

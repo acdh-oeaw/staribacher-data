@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="staribacher__19700907">
   <teiHeader>
       <fileDesc>
@@ -44,188 +45,185 @@
    </teiHeader>
   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band02/">
       <body>
-         <pb n="02-0486" facs="02_1970-09-07_0486.jpg"/>
+         <pb n="02-0486" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band02/02_1970-09-07_0486.jp2/full/pct:100/0/default.jpg"/>
          <div type="entry">
-            <dateline>
-               <date when="1970-09-07">Montag. den 7. September 1970</date>
-            </dateline>
-            <p xml:space="preserve">Pr&#228;sident <rs type="person" ref="#per__114610">Kandutsch</rs> vom Rechnungshof mit dem Reorganisations<lb break="no"/>fachmann Min.Rat <rs type="person">Kohl</rs>, mit dem zust&#228;ndigen ersten Stellv. Referenten<lb/>
-f&#252;r das Handelsministerium Dr. und mit dem IBM-Fach<lb break="no"/>mann, der derzeit im Rechnungshof greifbar ist ...<lb/>
+            <p xml:space="preserve" xml:id="Band02_1970-09-07_01">Montag. den 7. September 1970</p><p xml:space="preserve" xml:id="Band02_1970-09-07_02">Präsident <rs type="person" ref="#per__114610">Kandutsch</rs> vom Rechnungshof mit dem Reorganisations<lb break="no"/>fachmann Min.Rat <rs type="person">Kohl</rs>, mit dem zuständigen ersten Stellv. Referenten<lb/>
+für das Handelsministerium Dr. und mit dem IBM-Fach<lb break="no"/>mann, der derzeit im Rechnungshof greifbar ist ...<lb/>
 Die Aussprache war angeregt worden von mir, um ihm die Vertreter<lb/>
-des Ministerb&#252;ros, <rs type="person" ref="#per__98053">Wanke</rs>, <rs type="person" ref="#per__97543">Heindl</rs> und <rs type="person" ref="#per__97646">Koppe</rs>, vorzustellen, damit<lb/>
-sie &#8211; wenn sie dann einmal das Handelsministerium pr&#252;fen m&#252;ssen<lb break="no"/>nicht &#252;berrascht sind, eine solche starke Besetzung vorzufinden.<lb/>
-Ich hatte <rs type="person" ref="#per__114610">Kandutsch</rs> vor l&#228;ngerer Zeit schon gesagt, dass ich die<lb/>
+des Ministerbüros, <rs type="person" ref="#per__98053">Wanke</rs>, <rs type="person" ref="#per__97543">Heindl</rs> und <rs type="person" ref="#per__97646">Koppe</rs>, vorzustellen, damit<lb/>
+sie – wenn sie dann einmal das Handelsministerium prüfen müssen<lb break="no"/>nicht überrascht sind, eine solche starke Besetzung vorzufinden.<lb/>
+Ich hatte <rs type="person" ref="#per__114610">Kandutsch</rs> vor längerer Zeit schon gesagt, dass ich die<lb/>
 Anregung, die er einmal bei einer Regierungsvorbesprechung gemacht<lb/>
-hat, wir sollten uns die Organisationen der Ministerien &#252;berlegen,<lb/>
+hat, wir sollten uns die Organisationen der Ministerien überlegen,<lb/>
 bereits aufgegriffen und verwirklicht hatten. Der tiefere Grund<lb/>
-war allerdings, dass ich unbedingt ein besseres Verh&#228;ltnis<lb/>
+war allerdings, dass ich unbedingt ein besseres Verhältnis<lb/>
 zwischen Rechnungshof und Handelsministerium herstellen wollte<lb/>
 besonders im Hinblick auf die Kontrolle, die der Rechnungshof<lb/>
-jetzt bei zwei Abteilungen im Hause durchgef&#252;hrt hat und dabei<lb/>
+jetzt bei zwei Abteilungen im Hause durchgeführt hat und dabei<lb/>
 einen verheerenden Bericht verfasst hat. Die Rechnungshofleute<lb/>
-stimmten mit unseren Vorschl&#228;gen 100 %-ig &#252;berein . Da Sekt.<lb/>
+stimmten mit unseren Vorschlägen 100 %-ig überein . Da Sekt.<lb/>
 Chef <rs type="person" ref="#per__97915">Schipper</rs>, bevor die Herren kamen, fragte, ob er ebenfalls bei<lb/>
-dieser Sitzung anwesend sein soll, erkl&#228;rte ich ihm rundheraus, dass<lb/>
-ich zuerst mit dem Rechnungshof allein mit dem Ministerb&#252;ro allein<lb/>
+dieser Sitzung anwesend sein soll, erklärte ich ihm rundheraus, dass<lb/>
+ich zuerst mit dem Rechnungshof allein mit dem Ministerbüro allein<lb/>
 sprechen wollte, da ich auf dem Standpunkt stehe, dass ich hier zuerst<lb/>
-h&#246;ren will, was der Rechnungshof dazu sagt, aber ich ihn dann selbst<lb break="no"/>verst&#228;ndlich dazu bitten werde, wenn wir &#252;ber das Haus sprechen.<lb/>
+hören will, was der Rechnungshof dazu sagt, aber ich ihn dann selbst<lb break="no"/>verständlich dazu bitten werde, wenn wir über das Haus sprechen.<lb/>
 Ich habe dies dann auch getan, und bei der Gelegenheit stellte sich<lb/>
 heraus, dass eventuelle Anregungen, die der Rechnungshof machen<lb/>
-w&#252;rde, bei uns wirklich schon verwirklicht sind. Unter anderem woll<lb break="no"/>te er wissen, wer eigentlich die Anweisungen f&#252;r die F&#246;rderungs<lb break="no"/>mitteln gibt und <rs type="person" ref="#per__97915">Schipper</rs> sagte, dass ich sofort verf&#252;gt hatte,<lb/>
+würde, bei uns wirklich schon verwirklicht sind. Unter anderem woll<lb break="no"/>te er wissen, wer eigentlich die Anweisungen für die Förderungs<lb break="no"/>mitteln gibt und <rs type="person" ref="#per__97915">Schipper</rs> sagte, dass ich sofort verfügt hatte,<lb/>
 alle Akte vorgelegt zu bekommen. Da wir nur eine kleine IBM 360-er<lb/>
 Anlage in der Metternichgasse stehen haben, wird er, wenn es die<lb/>
-Zeit des IBM-Fachmannes des Rechnungshofes erm&#246;glicht, dort eine<lb/>
-&#220;berpr&#252;fung der Zweckm&#228;ssigkeit und eventuell Reorganisation vorge<lb break="no"/>nommen werden.</p>
-            <p xml:space="preserve"><rs type="person" ref="#per__97684">Langer-Hansel</rs> kam, um sich von mir zu verabschieden, weil er<lb/>
-in Urlaub geht und mir mitzuteilen, dass er das Expos&#233;, welches<lb/>
+Zeit des IBM-Fachmannes des Rechnungshofes ermöglicht, dort eine<lb/>
+Überprüfung der Zweckmässigkeit und eventuell Reorganisation vorge<lb break="no"/>nommen werden.</p>
+            <p xml:space="preserve" xml:id="Band02_1970-09-07_03"><rs type="person" ref="#per__97684">Langer-Hansel</rs> kam, um sich von mir zu verabschieden, weil er<lb/>
+in Urlaub geht und mir mitzuteilen, dass er das Exposé, welches<lb/>
 ich erwarte, vorlegen wird. Es wird nur mehr reingeschrieben.</p>
-            <pb n="02-0487" facs="02_1970-09-07_0487.jpg"/>
-            <p xml:space="preserve">In diesem Expos&#233; hat er die Zentralstelle von 70 auf 60 Besch&#228;ftigte<lb/>
-reduziert, er h&#228;tte auch noch einen Organisationsplan f&#252;r 36 Besch&#228;f<lb break="no"/>tigte, aber den will er nicht einmal mir zeigen, ich werde mir<lb/>
+            <pb n="02-0487" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band02/02_1970-09-07_0487.jp2/full/pct:100/0/default.jpg"/>
+            <p xml:space="preserve" xml:id="Band02_1970-09-07_04">In diesem Exposé hat er die Zentralstelle von 70 auf 60 Beschäftigte<lb/>
+reduziert, er hätte auch noch einen Organisationsplan für 36 Beschäf<lb break="no"/>tigte, aber den will er nicht einmal mir zeigen, ich werde mir<lb/>
 deshalb einmal die erste Phase ansehen. Noch immer geht er davon aus,<lb/>
-eine elektronische Datenverarbeitung anzuschaffen, obwohl daf&#252;r weder<lb/>
+eine elektronische Datenverarbeitung anzuschaffen, obwohl dafür weder<lb/>
 Budgetmittel vorhanden sind, noch die Fachleute.</p>
-            <p xml:space="preserve">Komm.Rat <rs type="person" ref="#per__148988">Pflaum</rs>, der die KFZ-Reparaturwerkst&#228;tten im Fachverband<lb/>
+            <p xml:space="preserve" xml:id="Band02_1970-09-07_05">Komm.Rat <rs type="person" ref="#per__148988">Pflaum</rs>, der die KFZ-Reparaturwerkstätten im Fachverband<lb/>
 der Industrie vertritt, wollte, nachdem er bei Sekt.Chef <rs type="person">Habel</rs><lb/>
 vorgesprochen hatte, einen Termin mit meinem Sekretariat vereinbaren.<lb/>
-Da ich zuf&#228;lligerweise im Vorzimmer stand, sagte ich, aber kommen Sie<lb/>
+Da ich zufälligerweise im Vorzimmer stand, sagte ich, aber kommen Sie<lb/>
 doch gleich herein, das erledigen wird doch sofort: Service an der<lb/>
 Wirtschaft. Er beschwerte sich, dass der gewerbliche Vorsteher <rs type="person">Aulehla</rs><lb/>
-unbedingt haben will, dass die grossen KFZ-Reparaturwerkst&#228;tten wie<lb/>
-z.B. Opel-Beyschlag &#8211; er selbst kommt aus der Fa. Tarbuk &#8211; als Ge<lb break="no"/>werbebetriebe kategorisiert werden sollen und deshalb einen Gewerbe<lb break="no"/>schein br&#228;uchten. Die Bundeskammer h&#228;tte zwar bereits so entschieden,<lb/>
-dass dies eine fabriksm&#228;ssige Produktion sei und der Verwaltungs<lb break="no"/>gerichtshof h&#228;tte dies auch best&#228;tigt, doch <rs type="person">Aulehla</rs> hat nun ein<lb/>
-neues Verfahren mit einer Vers&#228;umnisbeschwerde beim Verwaltungs<lb break="no"/>gerichtshof eingebracht. Ich versicherte <rs type="person" ref="#per__148988">Pflaum</rs>, dass ich nat&#252;rlich<lb/>
-f&#252;r eine Auflockerung der Gewerbeordnung eintrete, wie ihm ja be<lb break="no"/>kannt sei, und deshalb eine weitere Einschr&#228;nkung keinesfalls beab<lb break="no"/>sichtige.</p>
-            <p xml:space="preserve">Bei der Er&#246;ffnung der s&#252;dkoreanischen Handelsmission hatte ich Ge<lb break="no"/>legenheit, <rs type="person" ref="#per__97893">Sallinger</rs> mitzuteilen, dass die Polen bei den jetzigen<lb/>
+unbedingt haben will, dass die grossen KFZ-Reparaturwerkstätten wie<lb/>
+z.B. Opel-Beyschlag – er selbst kommt aus der Fa. Tarbuk – als Ge<lb break="no"/>werbebetriebe kategorisiert werden sollen und deshalb einen Gewerbe<lb break="no"/>schein bräuchten. Die Bundeskammer hätte zwar bereits so entschieden,<lb/>
+dass dies eine fabriksmässige Produktion sei und der Verwaltungs<lb break="no"/>gerichtshof hätte dies auch bestätigt, doch <rs type="person">Aulehla</rs> hat nun ein<lb/>
+neues Verfahren mit einer Versäumnisbeschwerde beim Verwaltungs<lb break="no"/>gerichtshof eingebracht. Ich versicherte <rs type="person" ref="#per__148988">Pflaum</rs>, dass ich natürlich<lb/>
+für eine Auflockerung der Gewerbeordnung eintrete, wie ihm ja be<lb break="no"/>kannt sei, und deshalb eine weitere Einschränkung keinesfalls beab<lb break="no"/>sichtige.</p>
+            <p xml:space="preserve" xml:id="Band02_1970-09-07_06">Bei der Eröffnung der südkoreanischen Handelsmission hatte ich Ge<lb break="no"/>legenheit, <rs type="person" ref="#per__97893">Sallinger</rs> mitzuteilen, dass die Polen bei den jetzigen<lb/>
 Verhandlungen folgende unabdingbare Forderungen gestellt hatten,<lb/>
-dass mit 1.1.1972 die Multilateralisierung und mit 1.1.1974 die Libe<lb break="no"/>ralisierung Platz greifen sollte. W&#252;rden diese nicht akzeptiert werden,<lb/>
+dass mit 1.1.1972 die Multilateralisierung und mit 1.1.1974 die Libe<lb break="no"/>ralisierung Platz greifen sollte. Würden diese nicht akzeptiert werden,<lb/>
 so drohen sie mit Abbruch der Verhandlungen. Ich ersuchte ihn, er sollte<lb/>
-mir unverz&#252;glich morgen einen Termin geben, der dann auch nach l&#228;ngerem<lb/>
+mir unverzüglich morgen einen Termin geben, der dann auch nach längerem<lb/>
 Hin und Her zustandekam, da ich den Sekt.Chef <rs type="person" ref="#per__97867">Reiterer</rs> die Mitteilung<lb/>
-zukommen lassen muss, wie er den <rs type="person" ref="#per__97426">F&#228;lbl</rs> in Polen den Auftrag zur<lb/>
+zukommen lassen muss, wie er den <rs type="person" ref="#per__97426">Fälbl</rs> in Polen den Auftrag zur<lb/>
 Weiterverhandlung geben soll. Die Industriellenvereinigungsvertreter,<lb/>
-die dort waren, waren alle &#252;ber diese Forderung sehr ersch&#252;ttert, ich<lb/>
-selbst finde sie aber ganz nat&#252;rlich und habe sie eigentlich erwartet.<lb/>
+die dort waren, waren alle über diese Forderung sehr erschüttert, ich<lb/>
+selbst finde sie aber ganz natürlich und habe sie eigentlich erwartet.<lb/>
 Nur <rs type="person" ref="#per__97867">Reiterer</rs> selbst glaubte ja bei Abfahrt der Delegation eine Weisung<lb/>
-geben zu k&#246;nnen, dass erst die Verhandlungen so gef&#252;hrt werden k&#246;nnen,<lb/>
-<pb n="02-0488" facs="02_1970-09-07_0488.jpg"/>dass mit 1.1.1973 fr&#252;hestens die Multilateralisierung, allerdings<lb/>
+geben zu können, dass erst die Verhandlungen so geführt werden können,<lb/>
+<pb n="02-0488" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band02/02_1970-09-07_0488.jp2/full/pct:100/0/default.jpg"/>dass mit 1.1.1973 frühestens die Multilateralisierung, allerdings<lb/>
 gleichzeitig mit der Liberalisierung Platz greifen sollte. Man<lb/>
 wird nun versuchen, bei den Verhandlungen eine escape clause<lb/>
-einzuf&#252;hren. d.h. dass Entliberalisierung ohne Konsultation<lb/>
-die Liberalisierung soll sich allerdings auf einige H&#228;rtef&#228;lle<lb/>
+einzuführen. d.h. dass Entliberalisierung ohne Konsultation<lb/>
+die Liberalisierung soll sich allerdings auf einige Härtefälle<lb/>
 nicht erstrecken.</p>
-            <p xml:space="preserve"><rs type="person" ref="#per__97668">Kreisky</rs> gab f&#252;r den Ministerpr&#228;sidenten <rs type="person" ref="#per__147693">Osswald</rs> ein Mittagessen<lb/>
+            <p xml:space="preserve" xml:id="Band02_1970-09-07_07"><rs type="person" ref="#per__97668">Kreisky</rs> gab für den Ministerpräsidenten <rs type="person" ref="#per__147693">Osswald</rs> ein Mittagessen<lb/>
 und ebenso am Abend mit der Gewerkschaftsfraktion hatten wir<lb/>
-Gelegenheit, die Regierung und der Genosse, &#252;ber Hessen zu sprechen.<lb/>
+Gelegenheit, die Regierung und der Genosse, über Hessen zu sprechen.<lb/>
 Es ist interessant, dass <rs type="person" ref="#per__147693">Osswald</rs> als seinerzeitiger Finanzreferent<lb/>
 des Landes ein ungeheures wirtschaftliches Wissen hat und ich<lb/>
 hoffe, dass er in der Politik genauso erfolgreich ist wie auf<lb/>
-seinem Fachgebiet. Und wenn dies f&#252;r &#214;sterreich, d.h. f&#252;r Wien<lb/>
-auch noch zutreffen wird, wenn <rs type="person" ref="#per__97963">Slavik</rs> den B&#252;rgermeister <rs type="person" ref="#per__97718">Marek</rs><lb/>
-dann abl&#246;st, dann glaube ich k&#246;nnten wir &#252;ber die Entwicklung<lb/>
+seinem Fachgebiet. Und wenn dies für Österreich, d.h. für Wien<lb/>
+auch noch zutreffen wird, wenn <rs type="person" ref="#per__97963">Slavik</rs> den Bürgermeister <rs type="person" ref="#per__97718">Marek</rs><lb/>
+dann ablöst, dann glaube ich könnten wir über die Entwicklung<lb/>
 beruhigt sein.</p>
-            <p xml:space="preserve">Beim Wiener Ausschuss, an dem ich, da er ausnahmsweise auf 15 Uhr vor<lb break="no"/>verlegt wurde, teilnehmen konnte, musste ich leider feststellen,<lb/>
+            <p xml:space="preserve" xml:id="Band02_1970-09-07_08">Beim Wiener Ausschuss, an dem ich, da er ausnahmsweise auf 15 Uhr vor<lb break="no"/>verlegt wurde, teilnehmen konnte, musste ich leider feststellen,<lb/>
 dass die Terminabsprachen noch immer nicht stimmen. Es hat z.B.<lb/>
 die BO Hernals mit <rs type="person" ref="#per__97543">Heindl</rs> vereinbart, dass ich vor Vertrauens<lb break="no"/>personen, angeblich 600 Personen, am Mittwoch um 19.30 Uhr ein<lb/>
 Referat mit anschliessender Diskussion halten soll und gleichzeitig<lb/>
 wurde jetzt mit dem jugoslawischen Aussenhandelsminister ein Essen<lb/>
 vereinbart, das ich um 20 Uhr im Imperial geben sollte.Ich hoffe,<lb/>
 dass es gelingt eine Verschiebung dieses Essens zu erreichen.</p>
-            <p xml:space="preserve">Bei der Ministerratsvorbepsrechung teilte <rs type="person" ref="#per__97668">Kreisky</rs> mit, das<lb/>
+            <p xml:space="preserve" xml:id="Band02_1970-09-07_09">Bei der Ministerratsvorbepsrechung teilte <rs type="person" ref="#per__97668">Kreisky</rs> mit, das<lb/>
 gegen die Wochenpresse doch gerichtliche Schritte in der Schweiz<lb/>
 ergreifen wird. Er hat den eindeutigen Beweis, dass es sich um<lb/>
-eine F&#228;lschung handelt, denn nach Mitteilung der &#246;sterreichischen<lb/>
+eine Fälschung handelt, denn nach Mitteilung der österreichischen<lb/>
 kriminalistischen Stellen wurde die inkriminierte Behauptung,<lb/>
-<rs type="person">Wiesenthal</rs> sei ein j&#252;discher Faschist nach eindeutiger Aussage<lb/>
+<rs type="person">Wiesenthal</rs> sei ein jüdischer Faschist nach eindeutiger Aussage<lb/>
 von Wiener aber auch von Dr. <rs type="person">Arna</rs> als Frankfurter Spezialist<lb/>
-sp&#228;ter erst hinzugef&#252;gt. Nach Mitteilung <rs type="person" ref="#per__97668">Kreisky</rs> gibt das &#252;ber<lb break="no"/>ixte, welches angeblich durchgef&#252;hrt werden sollte, keine Maschine<lb/>
-im BKA, die ein solche X &#252;berhaupt hat. Es gibt nun vier M&#246;glich<lb/>
-keiten, 1. &#167; 296 Beleidigung ausl&#228;ndischer Regierungsmitglieder<lb/>
-<pb n="02-0489" facs="02_1970-09-07_0489.jpg"/>die von Vertretern in der Schweiz eingebracht werden k&#246;nnte.<lb/>
+später erst hinzugefügt. Nach Mitteilung <rs type="person" ref="#per__97668">Kreisky</rs> gibt das über<lb break="no"/>ixte, welches angeblich durchgeführt werden sollte, keine Maschine<lb/>
+im BKA, die ein solche X überhaupt hat. Es gibt nun vier Möglich<lb/>
+keiten, 1. § 296 Beleidigung ausländischer Regierungsmitglieder<lb/>
+<pb n="02-0489" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band02/02_1970-09-07_0489.jp2/full/pct:100/0/default.jpg"/>die von Vertretern in der Schweiz eingebracht werden könnte.<lb/>
 2. Das Privatanklagedelikt, wobei allerdings der Betreffende<lb/>
-pers&#246;nlich vor dem Bezirksrichter erscheinen muss, 3. die presse<lb break="no"/>rechtliche Beleidigung, wo ebenfalls pers&#246;nliches Erscheinen vor<lb/>
+persönlich vor dem Bezirksrichter erscheinen muss, 3. die presse<lb break="no"/>rechtliche Beleidigung, wo ebenfalls persönliches Erscheinen vor<lb/>
 dem Bezirksrichter notwendig ist oder 4. die Zivilrechtliche<lb/>
 Schadenersatzklage, die anwartschaftlich vertreten wird. Da<lb/>
-die Gefahr besteht, dass in der Schweiz ebenso wie in &#214;sterreich<lb/>
+die Gefahr besteht, dass in der Schweiz ebenso wie in Österreich<lb/>
 die Richter, wenn es sich um Regierungsmitglieder oder Politiker<lb/>
-handelt, umso mehr beweisen wollen, wie unabh&#228;ngig sie sind, in<lb/>
+handelt, umso mehr beweisen wollen, wie unabhängig sie sind, in<lb/>
 Wirklichkeit im Falle einer gleichwertigen Zeugenaussage oder Tat<lb break="no"/>sachenmaterial immer zuungunsten der Politiker entscheiden, wird<lb/>
 vorher noch mit einem Anwalt des Vertrauens die entsprechenden<lb/>
 Massnahmen besprochen.<lb/>
-Die Aussprache <rs type="person" ref="#per__97668">Kreiskys</rs> mit den 50 Gener&#228;len wird dazu dienen,<lb/>
-um die &#214;ffentlichkeit und vielleicht auch einen Teil der Gener&#228;le<lb/>
-davon zu &#252;berzeugen, dass die SP&#214; eine alte Wehrtradition aus<lb/>
+Die Aussprache <rs type="person" ref="#per__97668">Kreiskys</rs> mit den 50 Generälen wird dazu dienen,<lb/>
+um die Öffentlichkeit und vielleicht auch einen Teil der Generäle<lb/>
+davon zu überzeugen, dass die SPÖ eine alte Wehrtradition aus<lb/>
 der Zeit der Volkswehr in der ersten Republik schon besitzt und<lb/>
-ausserdem der Parteivorstand unverz&#252;glich vor Staatsvertragsab<lb break="no"/>schluss bereits beschlossen hat, ein Bundesheer &#8211; die allgemeine<lb/>
-Wehrpflicht einzuf&#252;hren. Derzeit d&#252;rfte die Generalit&#228;t, insbesondere<lb/>
+ausserdem der Parteivorstand unverzüglich vor Staatsvertragsab<lb break="no"/>schluss bereits beschlossen hat, ein Bundesheer – die allgemeine<lb/>
+Wehrpflicht einzuführen. Derzeit dürfte die Generalität, insbesondere<lb/>
 <rs type="person">Bach</rs> davon ausgehen, dass sie mit einem unfangreichen auch finan<lb break="no"/>ziell stark zu belastenden Forderungskatalog in Wirklichkeit sich<lb/>
 die 6 Monate Wehrdienstzeit sich abkaufen lassen wollen.</p>
-            <p xml:space="preserve">Der Sozialminister beantragte, ob die Regierung einer UNO-Konferenz<lb/>
-&#252;ber Suchtgift vom 11.1. bis 19.2. zustimmen wird. Ebenso machte<lb/>
+            <p xml:space="preserve" xml:id="Band02_1970-09-07_10">Der Sozialminister beantragte, ob die Regierung einer UNO-Konferenz<lb/>
+über Suchtgift vom 11.1. bis 19.2. zustimmen wird. Ebenso machte<lb/>
 er Mitteilung, dass bereits 1957 eine Zusage, die Sozial- und<lb/>
-Arbeitsminister zu einer Europa-Konferenz einzuladen, wieder aus<lb break="no"/>gesprochen werden sollte. Das &#196;ussere machte darauf aufmerksam,<lb/>
-dass eine Europa-Ministerkonferenz &#252;ber die Umwelt im Herbst 1971<lb/>
+Arbeitsminister zu einer Europa-Konferenz einzuladen, wieder aus<lb break="no"/>gesprochen werden sollte. Das Äussere machte darauf aufmerksam,<lb/>
+dass eine Europa-Ministerkonferenz über die Umwelt im Herbst 1971<lb/>
 ebenfalls kommen sollte. Da jede solcher Konferenzen ca. 250.000 S<lb/>
 kostet, wurde trotzdem festgehalten, dass alle internationale und<lb/>
-europ&#228;ischen Veranstaltungen wom&#246;glich nach &#214;sterreich gebracht werden<lb/>
-sollen. Bei der n&#228;chsten Landeshauptleute-Konferenz wird wieder<lb/>
-&#252;ber das Forderungsprogramm der L&#228;nder gesprochen werden, wobei<lb/>
+europäischen Veranstaltungen womöglich nach Österreich gebracht werden<lb/>
+sollen. Bei der nächsten Landeshauptleute-Konferenz wird wieder<lb/>
+über das Forderungsprogramm der Länder gesprochen werden, wobei<lb/>
 noch immer die Frage offen ist, ob dieses Forderungsprogramm als<lb/>
-Ganzes nur erf&#252;llt werden soll, damit insbesondere die Gemeinde<lb/>
-Wien die Gleichstellung mit den anderen L&#228;ndern erreichen kann,<lb/>
-was n&#228;mlich die zweite Instanz, die bis zum Jahre 1934 beim Land<lb/>
+Ganzes nur erfüllt werden soll, damit insbesondere die Gemeinde<lb/>
+Wien die Gleichstellung mit den anderen Ländern erreichen kann,<lb/>
+was nämlich die zweite Instanz, die bis zum Jahre 1934 beim Land<lb/>
 Wien ist und nicht alles gleich an die Bundesministerien geht.</p>
-            <pb n="02-0490" facs="02_1970-09-07_0490.jpg"/>
-            <p xml:space="preserve"><rs type="person">Wondrack</rs> berichtete, dass der Unterausschuss des familien<lb break="no"/>politischen Beirates jetzt vor eine kritische Situation ge<lb break="no"/>stellt wird, weil die Arbeiterkammervertreter, <rs type="person" ref="#per__146937">Krebs</rs>, <rs type="person">Freisinger</rs><lb/>
-und vom &#214;GB <rs type="person" ref="#per__131467">Metzger</rs>, immer wieder aufgefordert werden, zu dem<lb/>
-Verlangen der &#214;VP Stellung zu nehmen.<lb/>
-Die katholische Arbeiterjugend will f&#252;r Kinder &#252;ber 10 Jahre,<lb/>
-dass die Kinderbeihilfe um 80.-S erh&#246;ht wird, w&#228;hrend unsere<lb/>
+            <pb n="02-0490" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band02/02_1970-09-07_0490.jp2/full/pct:100/0/default.jpg"/>
+            <p xml:space="preserve" xml:id="Band02_1970-09-07_11"><rs type="person">Wondrack</rs> berichtete, dass der Unterausschuss des familien<lb break="no"/>politischen Beirates jetzt vor eine kritische Situation ge<lb break="no"/>stellt wird, weil die Arbeiterkammervertreter, <rs type="person" ref="#per__146937">Krebs</rs>, <rs type="person">Freisinger</rs><lb/>
+und vom ÖGB <rs type="person" ref="#per__131467">Metzger</rs>, immer wieder aufgefordert werden, zu dem<lb/>
+Verlangen der ÖVP Stellung zu nehmen.<lb/>
+Die katholische Arbeiterjugend will für Kinder über 10 Jahre,<lb/>
+dass die Kinderbeihilfe um 80.-S erhöht wird, während unsere<lb/>
 Absicht ja bereits im Juni festgelegt wurde, dass ein Teil der<lb/>
-zur Verf&#252;gung stehenden Mittel zur Aufstockung der Kinderbeihilfe,<lb/>
+zur Verfügung stehenden Mittel zur Aufstockung der Kinderbeihilfe,<lb/>
 ein Teil aber zur Familienpolitischen Massnahmen besonderer Art<lb/>
 verwendet werden soll. Darunter kann man sich z.B. vorstellen,<lb/>
-dass Stipendien f&#252;r die oberen Klassen der Mittelschule, Geundheits<lb break="no"/>pflege f&#252;r Kinder und f&#252;r besonders gehirngesch&#228;digte Kinder usw.<lb/>
+dass Stipendien für die oberen Klassen der Mittelschule, Geundheits<lb break="no"/>pflege für Kinder und für besonders gehirngeschädigte Kinder usw.<lb/>
 zu verstehen sind, d.h. mit anderen Worten, dass Massnahmen aus<lb/>
 dem Familienlastenausgleichsfonds bezahlt werden sollen, die<lb/>
-allgemein der Bev&#246;lkerung und den Kindern zugutekommt und nicht<lb/>
-nur Erh&#246;hung um linear 10.- 20, oder mehr Schilling. Die lineare<lb/>
-Erh&#246;hung um 20. S w&#252;rde sicher 700.Mi11. S kosten und die<lb/>
-Erh&#246;hung der Geburtenbeihilfe um 300 S ca. 35 Mill. S. Die Fraktion<lb/>
-kam &#252;berein, dass wenn man mit der &#214;VP in Familienpolitischen Bei<lb break="no"/>rat eine Diskussion beginnt, wonach die Erh&#246;hung nicht 20.- sondern<lb/>
-40.- oder 50.- S sein sollte, so wird man in der &#214;ffentlichkeit<lb/>
+allgemein der Bevölkerung und den Kindern zugutekommt und nicht<lb/>
+nur Erhöhung um linear 10.- 20, oder mehr Schilling. Die lineare<lb/>
+Erhöhung um 20. S würde sicher 700.Mi11. S kosten und die<lb/>
+Erhöhung der Geburtenbeihilfe um 300 S ca. 35 Mill. S. Die Fraktion<lb/>
+kam überein, dass wenn man mit der ÖVP in Familienpolitischen Bei<lb break="no"/>rat eine Diskussion beginnt, wonach die Erhöhung nicht 20.- sondern<lb/>
+40.- oder 50.- S sein sollte, so wird man in der Öffentlichkeit<lb/>
 kaum einen guten Eindruck erwecken. Man sollte deshalb im familien<lb break="no"/>politischen Beirat, wenn sich der Unterausschuss nicht einigen<lb/>
 kann, dieses Problem eingehend diskuierten, ob und inwieweit nicht<lb/>
-die &#214;ffentlichkeit viel mehr erwartet, dass f&#252;r die Kinder im alle<lb/>
+die Öffentlichkeit viel mehr erwartet, dass für die Kinder im alle<lb/>
 gemeinen mehr geschieht. Laut einer Erhebung von <rs type="person" ref="#per__97356">Blecha</rs> sind<lb/>
-38 % der Befragten f&#252;r eine Aufbesserung, wobei 12 % militant eine<lb/>
-solche verlangen, interessanterweise sind mehrheitlich SP&#214;-W&#228;hler<lb/>
-subsummiert. 49 % sind gegen eine Aufbesserung und w&#252;rden familien<lb break="no"/>politische Massnahmen besonderer Art bevorzugen. 8 % sind unentschieden<lb/>
-und 8 % sind der Meinung, es sei derzeit schon genug f&#252;r die Kinder<lb/>
+38 % der Befragten für eine Aufbesserung, wobei 12 % militant eine<lb/>
+solche verlangen, interessanterweise sind mehrheitlich SPÖ-Wähler<lb/>
+subsummiert. 49 % sind gegen eine Aufbesserung und würden familien<lb break="no"/>politische Massnahmen besonderer Art bevorzugen. 8 % sind unentschieden<lb/>
+und 8 % sind der Meinung, es sei derzeit schon genug für die Kinder<lb/>
 getan.</p>
-            <p xml:space="preserve">Das &#196;ussere &#8211; <rs type="person" ref="#per__97632">Kirchschl&#228;ger</rs> - teilte mit, dass der Nuntius bei<lb/>
-ihm vorgesprochen hat und unverz&#252;gliche Verhandlungen wieder<lb/>
-verlangt, die er bereits vor zwei Jahren von der &#214;VP abgelehnt<lb/>
-bekommen hatte, um &#252;ber die Personalkosten in den katholischen Schule<lb/>
+            <p xml:space="preserve" xml:id="Band02_1970-09-07_12">Das Äussere – <rs type="person" ref="#per__97632">Kirchschläger</rs> - teilte mit, dass der Nuntius bei<lb/>
+ihm vorgesprochen hat und unverzügliche Verhandlungen wieder<lb/>
+verlangt, die er bereits vor zwei Jahren von der ÖVP abgelehnt<lb/>
+bekommen hatte, um über die Personalkosten in den katholischen Schule<lb/>
 die lt. Vereinbarung derzeit 60 % betragen sollten, aufzunehmen.</p>
-            <pb n="02-0491" facs="02_1970-09-07_0491.jpg"/>
-            <p xml:space="preserve">Er w&#252;nscht eine Erh&#246;hung auf 100 %-ige &#220;bernahme des Staates<lb/>
+            <pb n="02-0491" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band02/02_1970-09-07_0491.jp2/full/pct:100/0/default.jpg"/>
+            <p xml:space="preserve" xml:id="Band02_1970-09-07_13">Er wünscht eine Erhöhung auf 100 %-ige Übernahme des Staates<lb/>
 der Personallasten, die ca. 49 Mill. S Mehrkosten verursachen<lb/>
-w&#252;rden, denn derzeit werden nicht 60 % sondern de facto bereits 81<lb/>
-Prozent vom Staate gezahlt. Es werden selbstverst&#228;ndlich<lb/>
+würden, denn derzeit werden nicht 60 % sondern de facto bereits 81<lb/>
+Prozent vom Staate gezahlt. Es werden selbstverständlich<lb/>
 diese Verhandlungen aufgenommen werden, um erstens einmal zu doku<lb break="no"/>mentieren, dass diese Bundesregierung hier viel elastischer und<lb/>
-viel zuvorkommender ist als die &#214;VP-Regierung und zweitens einmal<lb/>
-um sich doch bei dieser Gelegenheit best&#228;tigen zu lassen, dass die<lb/>
-derzeit schon erh&#246;hten Perzentziffern in Wirklichkeit auch von der<lb/>
+viel zuvorkommender ist als die ÖVP-Regierung und zweitens einmal<lb/>
+um sich doch bei dieser Gelegenheit bestätigen zu lassen, dass die<lb/>
+derzeit schon erhöhten Perzentziffern in Wirklichkeit auch von der<lb/>
 katholischen Kirche und ihren Organisationen anerkannt werden soll.</p>
-            <p xml:space="preserve">Die Besprechung mit der Gewerkschaftsfraktion und der Bundesregierung<lb/>
-mit <rs type="person" ref="#per__97632">Kirchschl&#228;ger</rs> in der SP&#214; war ein Versuch, der jeden ersten<lb/>
+            <p xml:space="preserve" xml:id="Band02_1970-09-07_14">Die Besprechung mit der Gewerkschaftsfraktion und der Bundesregierung<lb/>
+mit <rs type="person" ref="#per__97632">Kirchschläger</rs> in der SPÖ war ein Versuch, der jeden ersten<lb/>
 Montag im Monat fortgesetzt werden soll.<lb/>
 Termin bitte sperren !</p>
          </div>
       </body>
       <back>
-         <pb n="02_0484_01" facs="02_1970-09-07_0484-01.jpg"/>
+         <pb n="02_0484_01" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band02/02_1970-09-07_0484-01.jp2/full/pct:100/0/default.jpg"/>
          <div type="attachment" subtype="cabinetAgenda">
             <head>Tagesprogramm, 7.9.1970</head>
             <gap reason="sampling"/>

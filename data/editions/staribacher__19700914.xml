@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="staribacher__19700914">
   <teiHeader>
       <fileDesc>
@@ -44,178 +45,175 @@
    </teiHeader>
   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band02/">
       <body>
-         <pb n="02-0517" facs="02_1970-09-14_0517.jpg"/>
+         <pb n="02-0517" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band02/02_1970-09-14_0517.jp2/full/pct:100/0/default.jpg"/>
          <div type="entry">
-            <dateline>
-               <date when="1970-09-14">Montag, der 14. September 1970</date>
-            </dateline>
-            <p xml:space="preserve">Da die Klausurtagung bereits um 1/2 10 Uhr in V&#246;slau begann,<lb/>
-mu&#223;te ich um 7 Uhr die Bundeskammer und vor allem alle aus<lb/>
-Polen zur Verf&#252;gung stehenden Delegierten zu den Handelsver<lb break="no"/>tragsverhandlungen in mein B&#252;ro bitten. Ausgel&#246;st wurde diese<lb/>
-Sitzung da die Bundeskammer, Generalsekret&#228;r <rs type="person" ref="#per__97769">Mussil</rs>, erkl&#228;rte,<lb/>
-da&#223; wenn die Polen nicht bereit w&#228;ren uns eine entsprechende<lb/>
-Escape-Klausel - das hei&#223;t eine Sicherung f&#252;r die Industrie<lb/>
-auf Preis-Unterbietung - zur Verf&#252;gung zu stellen, dann die<lb/>
+            <p xml:space="preserve" xml:id="Band02_1970-09-14_01">Montag, der 14. September 1970</p><p xml:space="preserve" xml:id="Band02_1970-09-14_02">Da die Klausurtagung bereits um 1/2 10 Uhr in Vöslau begann,<lb/>
+mußte ich um 7 Uhr die Bundeskammer und vor allem alle aus<lb/>
+Polen zur Verfügung stehenden Delegierten zu den Handelsver<lb break="no"/>tragsverhandlungen in mein Büro bitten. Ausgelöst wurde diese<lb/>
+Sitzung da die Bundeskammer, Generalsekretär <rs type="person" ref="#per__97769">Mussil</rs>, erklärte,<lb/>
+daß wenn die Polen nicht bereit wären uns eine entsprechende<lb/>
+Escape-Klausel - das heißt eine Sicherung für die Industrie<lb/>
+auf Preis-Unterbietung - zur Verfügung zu stellen, dann die<lb/>
 Verhandlungen mit Polen unterbrochen werden sollen. Der Ver-</p>
-            <p xml:space="preserve">treter der Nationalbank hatte n&#228;mlich bei den polnischen<lb/>
+            <p xml:space="preserve" xml:id="Band02_1970-09-14_03">treter der Nationalbank hatte nämlich bei den polnischen<lb/>
 Verhandlungen eine Vorverlegung der Multilateralisierung mit<lb/>
-Polen mit 1.I.1971, die Bundeskammer aber erst &#8211; und <rs type="person" ref="#per__97867">Reiterer</rs><lb/>
-hat sich diesem Vorschlag angeschlossen &#8211; mit 1.I.1973 w&#252;nschen,<lb/>
-gedroht, er w&#252;rde die Verhandlungen sofort verlassen. Tatsache<lb/>
-ist, da&#223; die Verhandlungen sehr schlecht vorbereitet waren. Es<lb/>
-hat die Nationalbank, Dkfm. <rs type="person" ref="#per__97459">Fr&#246;hlich</rs>, zu den Vorbesprechungen<lb/>
+Polen mit 1.I.1971, die Bundeskammer aber erst – und <rs type="person" ref="#per__97867">Reiterer</rs><lb/>
+hat sich diesem Vorschlag angeschlossen – mit 1.I.1973 wünschen,<lb/>
+gedroht, er würde die Verhandlungen sofort verlassen. Tatsache<lb/>
+ist, daß die Verhandlungen sehr schlecht vorbereitet waren. Es<lb/>
+hat die Nationalbank, Dkfm. <rs type="person" ref="#per__97459">Fröhlich</rs>, zu den Vorbesprechungen<lb/>
 diesen Wunsch nicht entsprechend deponiert, vor allem hat er<lb/>
-nicht darauf hingewiesen, da&#223; die Nationalbank im Direktorium<lb/>
-und vorher schon in Besprechungen mit der polnischen National<lb break="no"/>bank einen fr&#252;heren Termin als 1.I.1973 unbedingt erreichen<lb/>
-wollte. <rs type="person" ref="#per__97922">Schmitz</rs> hatte mir mitgeteilt, da&#223; beim Internationalen<lb/>
-W&#228;hrungsfonds der ehemalige Bundesminister f&#252;r Handel, <rs type="person" ref="#per__97749">Mitterer</rs>,<lb/>
-Zusicherungen gemacht h&#228;tte, da&#223; in ein bis eineinhalb Jahre<lb/>
-nach Abschlu&#223; des russischen mulitilateralen Vertrages sofort<lb/>
+nicht darauf hingewiesen, daß die Nationalbank im Direktorium<lb/>
+und vorher schon in Besprechungen mit der polnischen National<lb break="no"/>bank einen früheren Termin als 1.I.1973 unbedingt erreichen<lb/>
+wollte. <rs type="person" ref="#per__97922">Schmitz</rs> hatte mir mitgeteilt, daß beim Internationalen<lb/>
+Währungsfonds der ehemalige Bundesminister für Handel, <rs type="person" ref="#per__97749">Mitterer</rs>,<lb/>
+Zusicherungen gemacht hätte, daß in ein bis eineinhalb Jahre<lb/>
+nach Abschluß des russischen mulitilateralen Vertrages sofort<lb/>
 auch die anderen Oststaaten nachgezogen werden. Da ich diese<lb/>
 Mitteilung <rs type="person" ref="#per__97867">Reiterer</rs> sofort sagte, er sie aber heftigst bestritt,<lb/>
 kam es bei einer Aussprache mit <rs type="person" ref="#per__97922">Schmitz</rs>, <rs type="person" ref="#per__97867">Reiterer</rs> und mir zur<lb/>
-Konfrontation, wobei <rs type="person" ref="#per__97922">Schmitz</rs> sofort zur&#252;ckzog und erkl&#228;rte es<lb/>
-seien 2 bis 2 1/2 Jahre gewesen. Tatsache ist, da&#223; <rs type="person" ref="#per__146804">Kartal</rs>, der<lb/>
-Vertreter der Nationalbank bei unserem Gespr&#228;ch einleitend fest<lb break="no"/>hielt,da&#223; unter allen Umst&#228;nden der 1.I.1972 &#8211; der aber nebenbei<lb/>
-bemerkt von uns auch bereits akzeptiert wurde &#8211; der &#228;u&#223;erste<lb/>
-Termin f&#252;r die Multilateralisierung sei. Betreffend die Liberali<lb break="no"/>sierung haben die Polen sich bereiterkl&#228;rt, da&#223; das Endstadium<lb/>
-mit 1.I.1975 eintreten k&#246;nnte und da&#223; bis dorthin aber eine<lb/>
+Konfrontation, wobei <rs type="person" ref="#per__97922">Schmitz</rs> sofort zurückzog und erklärte es<lb/>
+seien 2 bis 2 1/2 Jahre gewesen. Tatsache ist, daß <rs type="person" ref="#per__146804">Kartal</rs>, der<lb/>
+Vertreter der Nationalbank bei unserem Gespräch einleitend fest<lb break="no"/>hielt,daß unter allen Umständen der 1.I.1972 – der aber nebenbei<lb/>
+bemerkt von uns auch bereits akzeptiert wurde – der äußerste<lb/>
+Termin für die Multilateralisierung sei. Betreffend die Liberali<lb break="no"/>sierung haben die Polen sich bereiterklärt, daß das Endstadium<lb/>
+mit 1.I.1975 eintreten könnte und daß bis dorthin aber eine<lb/>
 schrittweise weitere Liberalisierung Platz greifen sollte.<lb/>
-<rs type="person" ref="#per__97769">Mussil</rs> wollte schon in der Vorwoche, da&#223; wir gegebenenfalls die<lb/>
-Verhandlungen unterbrechen, nur mein Hinweis, da&#223; wir dann in<lb/>
-drei Monaten weiterverhandeln m&#252;ssen und sicherlich auch kein<lb/>
-<pb n="02-0518" facs="02_1970-09-14_0518.jpg"/>besseres Resultat erzielen konnten, veranlasste ihn letzten Endes<lb/>
-doch folgender L&#246;sung zuzustimmen: Wir werden versuchen, den Brief<lb/>
+<rs type="person" ref="#per__97769">Mussil</rs> wollte schon in der Vorwoche, daß wir gegebenenfalls die<lb/>
+Verhandlungen unterbrechen, nur mein Hinweis, daß wir dann in<lb/>
+drei Monaten weiterverhandeln müssen und sicherlich auch kein<lb/>
+<pb n="02-0518" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band02/02_1970-09-14_0518.jp2/full/pct:100/0/default.jpg"/>besseres Resultat erzielen konnten, veranlasste ihn letzten Endes<lb/>
+doch folgender Lösung zuzustimmen: Wir werden versuchen, den Brief<lb/>
 den Polen der Bundesrepublik Deutschland bereit ist zuzugestehen,<lb/>
-auch f&#252;r &#214;sterreich zu erreichen, zuz&#252;glich aber bereits die verein<lb break="no"/>barten Formulierungen betreffend der Multialteralisierung und ins<lb break="no"/>besondere der Liberalisierung, wonach die Termine 1.1.1972 und 1.1.75<lb/>
+auch für Österreich zu erreichen, zuzüglich aber bereits die verein<lb break="no"/>barten Formulierungen betreffend der Multialteralisierung und ins<lb break="no"/>besondere der Liberalisierung, wonach die Termine 1.1.1972 und 1.1.75<lb/>
 Liberalisierung festgesetzt sind, wobei allerdings die jetzt zuge<lb break="no"/>standenen Regelungen, wie sie im GATT beim Polenbeitritt festgelegt<lb/>
 wurden, auch weiterhin im Briefwechsel festliegen sollten. Wenn<lb/>
-die Polen nicht bereit sind, den zus&#228;tzlichen deutschen Brief zu<lb/>
+die Polen nicht bereit sind, den zusätzlichen deutschen Brief zu<lb/>
 akzeptieren, dann wird auf dem jetzigen Vorschlag abgeschlossen.<lb/>
-Mir kam es prim&#228;r bei den Verhandlungen darauf an, dass es zu keiner<lb/>
-Unterbrechung der Verhandlungen kommen sollte, denn dies w&#252;rde<lb/>
-wahrscheinlich &#8211; zumindestens unterschwellig von <rs type="person" ref="#per__97769">Mussil</rs> dazu benutzt<lb/>
-werden, die Unf&#228;higkeit der derzeitigen Regierung herauszustreichen.<lb/>
-Andererseits hatte ich unter allen Umst&#228;nden daf&#252;r zu sorgen, dass<lb/>
-auch die Bundeskammer und deren Vertreter de L&#246;sung zustimmen, denn<lb/>
-der Vorschlag, den <rs type="person" ref="#per__97893">Sallinger</rs> u d <rs type="person" ref="#per__97769">Mussil</rs> einige Male schon gemacht h&#228;tte<lb/>
-dann m&#252;sste halt das Handelsministerium allein entscheiden, war f&#252;r mich<lb/>
-deshalb unakzeptabel, denn sie sich in Wirklichkeit von einer Verant<lb break="no"/>wortung dr&#252;cken wollten, um dann besser noch angreifen zu k&#246;nnen.</p>
-            <p xml:space="preserve">In der Regierungsklausur in V&#246;slau besch&#228;ftigte sich gr&#246;sstenteils<lb/>
+Mir kam es primär bei den Verhandlungen darauf an, dass es zu keiner<lb/>
+Unterbrechung der Verhandlungen kommen sollte, denn dies würde<lb/>
+wahrscheinlich – zumindestens unterschwellig von <rs type="person" ref="#per__97769">Mussil</rs> dazu benutzt<lb/>
+werden, die Unfähigkeit der derzeitigen Regierung herauszustreichen.<lb/>
+Andererseits hatte ich unter allen Umständen dafür zu sorgen, dass<lb/>
+auch die Bundeskammer und deren Vertreter de Lösung zustimmen, denn<lb/>
+der Vorschlag, den <rs type="person" ref="#per__97893">Sallinger</rs> u d <rs type="person" ref="#per__97769">Mussil</rs> einige Male schon gemacht hätte<lb/>
+dann müsste halt das Handelsministerium allein entscheiden, war für mich<lb/>
+deshalb unakzeptabel, denn sie sich in Wirklichkeit von einer Verant<lb break="no"/>wortung drücken wollten, um dann besser noch angreifen zu können.</p>
+            <p xml:space="preserve" xml:id="Band02_1970-09-14_04">In der Regierungsklausur in Vöslau beschäftigte sich grösstenteils<lb/>
 mit dem grossen Kompetenzgesetz, wobei <rs type="person">Vak</rs>, der von der Zentral<lb break="no"/>sparkasse das Organisationsteam, welches ich seinerzeit angeregt<lb/>
-hatte, das sich mit dem grossen Kompetenzgesetz besch&#228;ftigt hatte,<lb/>
-leitet, referierte &#252;ber seine Vorstellungen und legte einen diese<lb/>
-bez&#252;glichen Entwurf vor. Die Diskussion konzentrierte sich dann<lb/>
+hatte, das sich mit dem grossen Kompetenzgesetz beschäftigt hatte,<lb/>
+leitet, referierte über seine Vorstellungen und legte einen diese<lb/>
+bezüglichen Entwurf vor. Die Diskussion konzentrierte sich dann<lb/>
 auf das Problem, ob Komitees eingesetzt werden sollten in den<lb/>
 Ministerien mit den verschiedensten Aufgabe betraut, oder ob<lb/>
-nicht letzten Endes doch ausschliesslich die Minister verantwort<lb break="no"/>lich sein sollten. Obwohl der Vorschlag <rs type="person">Vak's</rs> f&#252;r eine solche<lb/>
-klare Trennung gar nicht vorgenommen hatte, n&#228;mlich entweder Komitee<lb/>
+nicht letzten Endes doch ausschliesslich die Minister verantwort<lb break="no"/>lich sein sollten. Obwohl der Vorschlag <rs type="person">Vak's</rs> für eine solche<lb/>
+klare Trennung gar nicht vorgenommen hatte, nämlich entweder Komitee<lb/>
 oder Ministerverantwortung, so spitzte sich doch die Diskussion auf<lb/>
 diesen Umstand zu. Die Idee von <rs type="person">Vak</rs>, die ich nebenbei bemerkt im<lb/>
-Handelsministerium schon l&#228;ngst verwirklicht hatte und in Wirk<lb break="no"/>lichkeit bereits in der Arbeiterkammer erprobt, n&#228;mlich Stabsabteilung<lb/>
-zu schaffen, die einen Minister entsprechend ber&#228;t und<lb/>
-<pb n="02-0519" facs="02_1970-09-14_0519.jpg"/>nat&#252;rlich damit auch de facto Entscheidungen im weitesten Sinne vor<lb break="no"/>greift und das bisherige Sektionssystem als Liniensystem weiter be<lb break="no"/>stehen zu lassen, fand nicht die einhellige Zustimmung. Mein Hinweis,<lb/>
-dass die Sektionen in ihrer Selbst&#228;ndigkeit kaum vom Minister koordi<lb break="no"/>niert werden k&#246;nnen, wurden dahingehend beantwortet, dass es ja m&#246;glich<lb/>
-w&#228;re z.B. wie im Aussenministerium einen Generalsekret&#228;r zu bestellen,<lb/>
-der dann die Koordination durchzuf&#252;hren h&#228;tte. Ich glaube, dass noch<lb/>
+Handelsministerium schon längst verwirklicht hatte und in Wirk<lb break="no"/>lichkeit bereits in der Arbeiterkammer erprobt, nämlich Stabsabteilung<lb/>
+zu schaffen, die einen Minister entsprechend berät und<lb/>
+<pb n="02-0519" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band02/02_1970-09-14_0519.jp2/full/pct:100/0/default.jpg"/>natürlich damit auch de facto Entscheidungen im weitesten Sinne vor<lb break="no"/>greift und das bisherige Sektionssystem als Liniensystem weiter be<lb break="no"/>stehen zu lassen, fand nicht die einhellige Zustimmung. Mein Hinweis,<lb/>
+dass die Sektionen in ihrer Selbständigkeit kaum vom Minister koordi<lb break="no"/>niert werden können, wurden dahingehend beantwortet, dass es ja möglich<lb/>
+wäre z.B. wie im Aussenministerium einen Generalsekretär zu bestellen,<lb/>
+der dann die Koordination durchzuführen hätte. Ich glaube, dass noch<lb/>
 immer bei einem grossteil unserer Genossen und insbesondere der jetzt<lb/>
-daf&#252;r zust&#228;ndigen Minister von der Annahme ausgegangen wird, ein Einzelner<lb/>
-k&#246;nnte als Generalsekret&#228;r oder als B&#252;roleiter oder vielleicht gar der<lb/>
+dafür zuständigen Minister von der Annahme ausgegangen wird, ein Einzelner<lb/>
+könnte als Generalsekretär oder als Büroleiter oder vielleicht gar der<lb/>
 Minister selbst diese Arbeit erledigen. Ich selber bin es auf gar keinen<lb/>
 Fall imstande und ich glaube deshalb, das einzige System ist eben eine<lb/>
 Stabsabteilung sich einzurichten.</p>
-            <p xml:space="preserve">Die Reorganisation der Bundesministerien soll prim&#228;r dahingehend aufgebaut<lb/>
+            <p xml:space="preserve" xml:id="Band02_1970-09-14_05">Die Reorganisation der Bundesministerien soll primär dahingehend aufgebaut<lb/>
 werden, dass es nicht mehr dazu kommt, dass ein Ministerium, wie z.B.<lb/>
 Land- und Forstwirtschaft, alle Kompetenzen, die nur irgendwie die<lb/>
 Bauern betreffen, bei sich hat, es wird deshalb sowohl die Schule vom<lb/>
 Unterrichtsministerium und das Arbeitsrecht der Landarbeiter an das<lb/>
 Sozialministerium abgetreten werden. Es wird zwar bei Doppelkompetenzen<lb/>
-resp. Kompetenz&#252;berschneidungen mit den einzelnen Ministerien dennoch<lb/>
-bleiben, aber es ist dies die einzige M&#246;glichkeit, doch eine entspre<lb break="no"/>chende sachliche Gliederung, d.h eine funktionelle Gliederung zu ver<lb break="no"/>suchen. Sowohl <rs type="person" ref="#per__97668">Kreisky</rs> als auch <rs type="person" ref="#per__97818">Pittermann</rs> waren der Meinung, dass<lb/>
-es gelingen wird, dieses grosse Kompetenzgesetz im Parlament auch tat<lb break="no"/>s&#228;chlich durchzubringen.<lb/>
-Betreffend die interministeriellen Kommission wies <rs type="person" ref="#per__97632">Kirchschl&#228;ger</rs> darauf<lb/>
+resp. Kompetenzüberschneidungen mit den einzelnen Ministerien dennoch<lb/>
+bleiben, aber es ist dies die einzige Möglichkeit, doch eine entspre<lb break="no"/>chende sachliche Gliederung, d.h eine funktionelle Gliederung zu ver<lb break="no"/>suchen. Sowohl <rs type="person" ref="#per__97668">Kreisky</rs> als auch <rs type="person" ref="#per__97818">Pittermann</rs> waren der Meinung, dass<lb/>
+es gelingen wird, dieses grosse Kompetenzgesetz im Parlament auch tat<lb break="no"/>sächlich durchzubringen.<lb/>
+Betreffend die interministeriellen Kommission wies <rs type="person" ref="#per__97632">Kirchschläger</rs> darauf<lb/>
 hin, dass ein Kabinett einmal 58 zustandegebracht hatte, die allerdings<lb/>
 dann nicht mehr arbeiteten, ja man wusste nicht einmal wer und wieviele<lb/>
 es insgesamt gegeben hat. Deshalb werden in Zukunft interministerielle<lb/>
-Kommissionen nur noch eingesetzt werden, mit einem ganz konkreten Auf<lb break="no"/>trag und mit einer zeitlichen Limitierung, dann m&#252;ssen sie dem Mini<lb break="no"/>sterrat wieder berichten und k&#246;nnen verl&#228;ngert werden oder sind automatisch<lb/>
-aufgel&#246;st.<lb/>
+Kommissionen nur noch eingesetzt werden, mit einem ganz konkreten Auf<lb break="no"/>trag und mit einer zeitlichen Limitierung, dann müssen sie dem Mini<lb break="no"/>sterrat wieder berichten und können verlängert werden oder sind automatisch<lb/>
+aufgelöst.<lb/>
 Ein weiteres Problem war, ob der Kompetenzkatalog, den <rs type="person" ref="#per__97700">Loebenstein</rs><lb/>
-ausgearbeitet hatte, als eine Ab&#228;nderung nur der derzeitigen Kompetenz<lb break="no"/>lage bringen soll oder ob er umfassend aufgebaut werden sollte. Man<lb/>
-entschloss sich, dass dies als eine taxative Aufz&#228;hlung erfolgen sollte<lb/>
-und alle gesetzlichen Grundlagen von den kaiserlichen Verordnungen ange<lb break="no"/>fangen, damit aufgehoben werden. Sollte sich im Laufe der Zeit heraus<lb break="no"/><pb n="02-0520" facs="02_1970-09-14_0520.jpg"/>stellen, dass einige Kompetenzen vergessen wurden oder irgendwelche<lb/>
+ausgearbeitet hatte, als eine Abänderung nur der derzeitigen Kompetenz<lb break="no"/>lage bringen soll oder ob er umfassend aufgebaut werden sollte. Man<lb/>
+entschloss sich, dass dies als eine taxative Aufzählung erfolgen sollte<lb/>
+und alle gesetzlichen Grundlagen von den kaiserlichen Verordnungen ange<lb break="no"/>fangen, damit aufgehoben werden. Sollte sich im Laufe der Zeit heraus<lb break="no"/><pb n="02-0520" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band02/02_1970-09-14_0520.jp2/full/pct:100/0/default.jpg"/>stellen, dass einige Kompetenzen vergessen wurden oder irgendwelche<lb/>
 andere gesetzliche Grundlagen noch existieren, dann wird<lb/>
-man im Einzelfall eine Regelung treffen. F&#252;r die Durchf&#252;hrung der<lb/>
+man im Einzelfall eine Regelung treffen. Für die Durchführung der<lb/>
 Gesetze wird ja ausschliesslich die Vollzugsklausel in den einzelnen<lb/>
 Gesetzen massgebend sein. Bei dieser Gelegenheit wird man auch<lb/>
 die Rechtsbereinigungskommission, die 1945 bis 1949 im Nationalrat<lb/>
 gute Arbeit geleistet hat, sich dann aber in eine Ressortierungskommission<lb/>
-verwandelt hat, wieder aktivieren, um eine wirklich zweckm&#228;ssig Rechts<lb break="no"/>bereinigung durchzuf&#252;hren. Ein Vorschlag von <rs type="person" ref="#per__98034">Veselsky</rs>, dass es dringend n<lb break="no"/>otwendig w&#228;re, dass die Minister entsprechende Daten einer Stelle<lb/>
-mitteilen, damit die eine vorausschauende T&#228;tigkeit erf&#252;llen k&#246;nnte<lb/>
-und das Informationsbed&#252;rfnis der einzelnen Stellen besser befriedigend<lb/>
+verwandelt hat, wieder aktivieren, um eine wirklich zweckmässig Rechts<lb break="no"/>bereinigung durchzuführen. Ein Vorschlag von <rs type="person" ref="#per__98034">Veselsky</rs>, dass es dringend n<lb break="no"/>otwendig wäre, dass die Minister entsprechende Daten einer Stelle<lb/>
+mitteilen, damit die eine vorausschauende Tätigkeit erfüllen könnte<lb/>
+und das Informationsbedürfnis der einzelnen Stellen besser befriedigend<lb/>
 und damit, also zu einer zentraleren Lenkung der Regierungspolitik zu<lb/>
 kommen, wurde von <rs type="person" ref="#per__97668">Kreisky</rs> gleich entschieden abgelehnt. Er steht auf<lb/>
-dem Standpunkt, dass das Problem nicht mehr jetzt des Besser<lb break="no"/>wissens und Begutachtens ist, sondern das Problem, dass man jetzt re<lb break="no"/>gieren m&#252;sste. Seiner Meinung nach sie die Regierungserkl&#228;rung bindend,<lb/>
-ausserdem w&#252;rden Parteitage entsprechende Erg&#228;nzungen beschliessen und<lb/>
-die Ministerratsvorbesprechung geben die M&#246;glichkeit und auch die Grund<lb break="no"/>lage um koordinierend einzugreifen, wenn die Minister in ihrer Verant<lb break="no"/>wortung eine solche Koordnination oder Informationen an ihre Kollegen<lb/>
-weitergeben. <rs type="person" ref="#per__97525">H&#228;user</rs> teilte mit, dass er infolge der Gr&#246;sse seines<lb/>
+dem Standpunkt, dass das Problem nicht mehr jetzt des Besser<lb break="no"/>wissens und Begutachtens ist, sondern das Problem, dass man jetzt re<lb break="no"/>gieren müsste. Seiner Meinung nach sie die Regierungserklärung bindend,<lb/>
+ausserdem würden Parteitage entsprechende Ergänzungen beschliessen und<lb/>
+die Ministerratsvorbesprechung geben die Möglichkeit und auch die Grund<lb break="no"/>lage um koordinierend einzugreifen, wenn die Minister in ihrer Verant<lb break="no"/>wortung eine solche Koordnination oder Informationen an ihre Kollegen<lb/>
+weitergeben. <rs type="person" ref="#per__97525">Häuser</rs> teilte mit, dass er infolge der Grösse seines<lb/>
 Apparates und der nachgeordneten Dienststellen, ausserstande ist, alle<lb/>
-Erl&#228;sse, bevor sie ver&#246;ffentlicht werden, zu kennen, er hat jetzt nur<lb/>
-eingef&#252;hrt, dass ihm alle Erl&#228;sse nachher zur Kenntnis zu bringen sind<lb/>
-und seine Sektionschefs haben eine gewisse Approbationserm&#228;chtigung, auf<lb/>
-die sie gr&#246;ssten Wert legen, dass sie unver&#228;ndert bleiben. <rs type="person" ref="#per__98055">Weihs</rs> teilte<lb/>
+Erlässe, bevor sie veröffentlicht werden, zu kennen, er hat jetzt nur<lb/>
+eingeführt, dass ihm alle Erlässe nachher zur Kenntnis zu bringen sind<lb/>
+und seine Sektionschefs haben eine gewisse Approbationsermächtigung, auf<lb/>
+die sie grössten Wert legen, dass sie unverändert bleiben. <rs type="person" ref="#per__98055">Weihs</rs> teilte<lb/>
 mit, dass er alle Wochen eine Sektionsleitersitzung hat und dort mitge<lb/>
-teilt bekommt, dass in der n&#228;chsten Woche beabsichtigt ist und jeder Er<lb break="no"/>lass vorher genehmigt werden muss. Die anderen Minister &#228;usserten sich zu<lb/>
-diesem Problem nicht, nur der Aussenminister sagte, dass der Generalsekre<lb break="no"/>t&#228;r bei ihm jede Woche eine Besprechung mit den Sektionsleitern abh&#228;lt<lb/>
-und dadurch ein einheitliche F&#252;hrung der Sektionen gew&#228;hrleistet ist.<lb/>
+teilt bekommt, dass in der nächsten Woche beabsichtigt ist und jeder Er<lb break="no"/>lass vorher genehmigt werden muss. Die anderen Minister äusserten sich zu<lb/>
+diesem Problem nicht, nur der Aussenminister sagte, dass der Generalsekre<lb break="no"/>tär bei ihm jede Woche eine Besprechung mit den Sektionsleitern abhält<lb/>
+und dadurch ein einheitliche Führung der Sektionen gewährleistet ist.<lb/>
 Ich selbst habe ja auch jede Woche Sektionsleiterbesprechungen, wobei<lb/>
-ich allerdings nicht genau weiss, ob diese dann auch tats&#228;chlich dazu<lb/>
-f&#252;hren, meine Intentionen durchzusetzen und noch viel weniger weiss ich<lb/>
+ich allerdings nicht genau weiss, ob diese dann auch tatsächlich dazu<lb/>
+führen, meine Intentionen durchzusetzen und noch viel weniger weiss ich<lb/>
 eigentlich, ob nicht wirklich generelle Entscheidungen, und dies sind<lb/>
-ja Erl&#228;sse, aus dem Haus hinausgehen, ohne dass ich davon vorher in<lb break="no"/>formiert bin. <rs type="person" ref="#per__97668">Kreisky</rs> fasste zusammen, dass es zwei M&#246;glichkeiten gibt,<lb/>
-entweder man versucht eine perfektionistische L&#246;sung, die uns nicht<lb/>
+ja Erlässe, aus dem Haus hinausgehen, ohne dass ich davon vorher in<lb break="no"/>formiert bin. <rs type="person" ref="#per__97668">Kreisky</rs> fasste zusammen, dass es zwei Möglichkeiten gibt,<lb/>
+entweder man versucht eine perfektionistische Lösung, die uns nicht<lb/>
 gelingen wird, oder wir beginnen eine Reform und es wird sich dann erst<lb/>
-<pb n="02-0521" facs="02_1970-09-14_0521.jpg"/>herausstellen, welche Probleme noch zu l&#246;sen sind. Die Reform soll aber<lb/>
-die Initiative ausl&#246;sen und eben schauen, ob und inwieweit entsprechende<lb/>
-L&#246;sungen m&#246;glich sind. In der &#196;ra <rs type="person">Klaus</rs> wurde insbesondere auch das<lb/>
+<pb n="02-0521" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band02/02_1970-09-14_0521.jp2/full/pct:100/0/default.jpg"/>herausstellen, welche Probleme noch zu lösen sind. Die Reform soll aber<lb/>
+die Initiative auslösen und eben schauen, ob und inwieweit entsprechende<lb/>
+Lösungen möglich sind. In der Ära <rs type="person">Klaus</rs> wurde insbesondere auch das<lb/>
 Problem der elektronischen Datenverarbeitung in Angriff genommen, wobei<lb/>
 nicht nur verschiedene Systeme in den verschiedensten Ministerien und<lb/>
 Dienststellen angewendet wurde, sondern auch die Beamten zuerst von den<lb/>
 Firmen eingeladen wurden und dann auch noch sich gegenseitig besucht<lb/>
-haben, d.h. also die Italiener sind nach &#214;sterreich gekommen und in der<lb/>
-Erwartung, dass in Zukunft auch die &#246;sterreichischen Beamten nach Italien<lb/>
-usw. eingeladen werden. Sicher ist, dass eine Zentralisierung hier not<lb break="no"/>wendig ist und dass vor allem auch es m&#246;glich sein m&#252;sste, die Buchhaltungen<lb/>
+haben, d.h. also die Italiener sind nach Österreich gekommen und in der<lb/>
+Erwartung, dass in Zukunft auch die österreichischen Beamten nach Italien<lb/>
+usw. eingeladen werden. Sicher ist, dass eine Zentralisierung hier not<lb break="no"/>wendig ist und dass vor allem auch es möglich sein müsste, die Buchhaltungen<lb/>
 endlich alle zentral so wie das Zentralbesoldungsamt zu erfassen und<lb/>
 mit elektronischen Datenverarbeitungen auszustatten. Der Finanzminister<lb/>
-erkl&#228;rte, dass er dies bereits eingeleitet hat.</p>
-            <p xml:space="preserve">Es wurden dann an Hand von einzelnen Gebieten, z.B. Wirtschaft, Sozial<lb break="no"/>politik, Kultur usw. die Abgrenzung vorgenommen und ich konnte die<lb/>
+erklärte, dass er dies bereits eingeleitet hat.</p>
+            <p xml:space="preserve" xml:id="Band02_1970-09-14_06">Es wurden dann an Hand von einzelnen Gebieten, z.B. Wirtschaft, Sozial<lb break="no"/>politik, Kultur usw. die Abgrenzung vorgenommen und ich konnte die<lb/>
 Kompetenzen, die ja schon beabsichtigt waren, in meinem Ministerium zu<lb/>
 vereinen ohne den geringsten Widerstand sofort erhalten. Ja ich hatte<lb/>
 sogar den Eindruck, dass die meisten froh waren, diese Kompetenzen<lb/>
 los zu werden. Die Zusammenfassung, nachdem es in einem einzigen Punkt<lb/>
-eine Debatte gegeben hat, ob n&#228;mlich die Katastrophenfonds- Lawinen<lb break="no"/>schutz- und Wasserverbauung beim Landwirtschaftsminister oder beim<lb/>
-Bautenminister richtig w&#228;ren, veranlasst mich zu der Bemerkung, wo Kom<lb break="no"/>petenzen abgegeben wurden, die nicht dotiert sind, dort hat es keine<lb/>
+eine Debatte gegeben hat, ob nämlich die Katastrophenfonds- Lawinen<lb break="no"/>schutz- und Wasserverbauung beim Landwirtschaftsminister oder beim<lb/>
+Bautenminister richtig wären, veranlasst mich zu der Bemerkung, wo Kom<lb break="no"/>petenzen abgegeben wurden, die nicht dotiert sind, dort hat es keine<lb/>
 Schwierigkeiten gegeben, sie wurden mir sofort zugeschanzt, wo es dagegen<lb/>
-im Kompetenzen geht, die irgendwie mit gr&#246;sseren Posten im Budget dotiert<lb/>
+im Kompetenzen geht, die irgendwie mit grösseren Posten im Budget dotiert<lb/>
 sind, dort gibt es eine Diskussion.</p>
-            <p xml:space="preserve">Die Budgetbesprechungen waren verh&#228;ltnism&#228;ssig sehr kurz, denn es handelt<lb/>
-sich nur mehr um Detailfragen, die die 100 Mill. die f&#252;r Schwerpunkt<lb/>
+            <p xml:space="preserve" xml:id="Band02_1970-09-14_07">Die Budgetbesprechungen waren verhältnismässig sehr kurz, denn es handelt<lb/>
+sich nur mehr um Detailfragen, die die 100 Mill. die für Schwerpunkt<lb/>
 Schulbau mehr von dem Bautenminister verwaltet werden soll, nachdem<lb/>
 das Unterrichtsministerium und das Wissenschaftsministerium beschlossen<lb/>
 haben, diesen Betrag mit 60 Mill. Unterricht und 40 Mill. Wissenschaft<lb/>
 aufzuteilen. Ebenso gab es eine ganz kurze Diskussion, ob <rs type="person" ref="#per__98055">Weihs</rs> mit seinen<lb/>
-plus 300 Mill, die er f&#252;r die Landwirtschaft zur Verf&#252;gung steht, durch<lb break="no"/>kommt. <rs type="person" ref="#per__98055">Weihs</rs> wollte nat&#252;rlich noch f&#252;r die Treibstoffeverbilligung<lb/>
-die heuer 218 Mill. und im n&#228;chsten Jahr nur 194 Mill. betragen, wird<lb/>
-durchsetzen, da die 70 Groschen Dieselpreiserh&#246;hung, nach seiner Be<lb break="no"/>rechnung die Landwirtschaft bei 90.000 t mit 63 Mill. S zus&#228;tzlich be<lb break="no"/>lasten wird, <rs type="person" ref="#per__97311">Androsch</rs> blieb aber hart und hat keine weiteren Zusagen mehr<lb/>
-gemacht. Betreffend des &#220;berschusses f&#252;r Familienlasten von 1,3 Mill. S<lb/>
-dies hat der Familienlastenausgleichfonds im n&#228;chsten Jahr &#220;berschuss fest<lb break="no"/><pb n="02-0522" facs="02_1970-09-14_0522.jpg"/>gelegt wurde, dass die Geburtenbeihilfe von 1.700.- auf S 2.000.- welches<lb/>
+plus 300 Mill, die er für die Landwirtschaft zur Verfügung steht, durch<lb break="no"/>kommt. <rs type="person" ref="#per__98055">Weihs</rs> wollte natürlich noch für die Treibstoffeverbilligung<lb/>
+die heuer 218 Mill. und im nächsten Jahr nur 194 Mill. betragen, wird<lb/>
+durchsetzen, da die 70 Groschen Dieselpreiserhöhung, nach seiner Be<lb break="no"/>rechnung die Landwirtschaft bei 90.000 t mit 63 Mill. S zusätzlich be<lb break="no"/>lasten wird, <rs type="person" ref="#per__97311">Androsch</rs> blieb aber hart und hat keine weiteren Zusagen mehr<lb/>
+gemacht. Betreffend des Überschusses für Familienlasten von 1,3 Mill. S<lb/>
+dies hat der Familienlastenausgleichfonds im nächsten Jahr Überschuss fest<lb break="no"/><pb n="02-0522" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band02/02_1970-09-14_0522.jp2/full/pct:100/0/default.jpg"/>gelegt wurde, dass die Geburtenbeihilfe von 1.700.- auf S 2.000.- welches<lb/>
 36 Mill. S kostet und der andere Betrag aber dann geteilt werden soll,<lb/>
 es sollten Gerneinschaftseinrichtungen geschaffen werden und nicht so<lb/>
-wie die &#214;VP vorschl&#228;gt, die Kinderbeihilfe um 50.- S pro Monat erh&#246;ht<lb/>
-Dies wird noch eine heftige Diskussion ausl&#246;sen.</p>
+wie die ÖVP vorschlägt, die Kinderbeihilfe um 50.- S pro Monat erhöht<lb/>
+Dies wird noch eine heftige Diskussion auslösen.</p>
          </div>
       </body>
       <back>
-         <pb n="02_0516_01" facs="02_1970-09-14_0516-01.jpg"/>
+         <pb n="02_0516_01" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band02/02_1970-09-14_0516-01.jp2/full/pct:100/0/default.jpg"/>
          <div type="attachment" subtype="cabinetAgenda">
             <head>Tagesprogramm, 14.9.1970</head>
             <gap reason="sampling"/>

@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="staribacher__19700728">
   <teiHeader>
       <fileDesc>
@@ -44,160 +45,157 @@
    </teiHeader>
   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band02/">
       <body>
-         <pb n="02-0421" facs="02_1970-07-28_0421.jpg"/>
+         <pb n="02-0421" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band02/02_1970-07-28_0421.jp2/full/pct:100/0/default.jpg"/>
          <div type="entry">
-            <dateline>
-               <date when="1970-07-28">Dienstag, 28. Juli</date>
-            </dateline>
-            <p xml:space="preserve">Bei der Ministerratsvorbesprechung teilte <rs type="person" ref="#per__97668">Kreisky</rs> mit, da&#223; an dem<lb/>
+            <p xml:space="preserve" xml:id="Band02_1970-07-28_01">Bei der Ministerratsvorbesprechung teilte <rs type="person" ref="#per__97668">Kreisky</rs> mit, daß an dem<lb/>
 "Spiegel"-Artikel kein Wort wahr sei. Seiner Mitteilung nach hat<lb/>
 <rs type="person">Sandner</rs>, die Spiegel-Korrespondentin, das Material aus Hamburg<lb/>
-bekommen und angeblich als so schl&#252;&#223;ig empfunden, da&#223; sie gesagt hat<lb/>
-dies k&#246;nnte in Druck gehen. Nach ihrer Mitteilung ist also dieses<lb/>
-Material von Deutschland gekommen. Ich pers&#246;nlich bin &#252;berzeugt, da&#223;<lb/>
-einige Genossen &#8211; vielleicht in den Bundesl&#228;ndern st&#228;rker als in<lb/>
-Wien &#8211; sich als Mittelsm&#228;nner gerne zur Verf&#252;gung stellen werden,<lb/>
-um gegebenenfalls eine kleine Koalition SP&#214;-FP&#214; zustande zu bringen.<lb/>
-So ist ja bekannt, da&#223; <rs type="person">Huemer</rs>, der ehemalige Direktor von den Stick<lb break="no"/>stoffwerken, bereits vor Jahren einen Brief an die Parteileitung<lb/>
-geschrieben hat, wo er erkl&#228;rte, man sollte mit der FP&#214; zusammen<lb break="no"/>gehen und er w&#252;rde gern der Verbindungsmann sein. Ebenso hat sich<lb/>
-<rs type="person" ref="#per__146932">Kraus</rs>, von der Donau-Finanz &#8211; ein alter VdUler &#8211; mit <rs type="person" ref="#per__135638">Fischerlehner</rs><lb/>
-einem Sekret&#228;r der SP&#214;-Zentrale getroffen, um ihm zu erkl&#228;ren er<lb/>
-w&#252;rde gerne vermitteln, da&#223; die Parteif&#252;hrung mit <rs type="person" ref="#per__97807">Peter</rs> besseren<lb/>
-Kontakt h&#228;tte. <rs type="person" ref="#per__97668">Kreisky</rs> selbst hat alle diese Ansinnen deshalb abge<lb break="no"/>lehnt, weil er auf dem Standpunkt steht, er kann sowieso jederzeit<lb/>
-mit <rs type="person" ref="#per__97807">Peter</rs> sprechen und wenn er dies tut, dann informiert er unmittel<lb break="no"/>bar anschlie&#223;end die &#214;ffentlichkeit. Ebenso hat er ja als Partei<lb break="no"/>obmann und dann als Bundeskanzler auch mit Dr. <rs type="person" ref="#per__98091">Withalm</rs> entsprechenden<lb/>
-Kontakt. Ich pers&#246;nlich glaube, da&#223; es sehr unzweckm&#228;&#223;ig w&#228;re,<lb/>
-eine kleine Koalition mit der FP&#214; anzustreben. Ich bin auch &#252;ber<lb break="no"/>zeugt, da&#223; derzeit ganz konkrete &#220;berlegungen in dieser Richtung<lb/>
-von <rs type="person" ref="#per__97668">Kreisky</rs> garnicht angestellt werden, sondern da&#223; nat&#252;rlich auch<lb/>
-diese Variation von manchen Genossen &#252;berlegt wird, um eine st&#228;rkere<lb/>
-Mehrheit im Parlament zu finden. Ich glaube, da&#223; vor den Wahlen in<lb/>
-Wien &#8211; am 4. Oktober &#8211; keine wie immer gearteten konkreten Schritte<lb/>
-von niemandem getan werden, da&#223; man allerdings nach dem Wahlausgang<lb/>
+bekommen und angeblich als so schlüßig empfunden, daß sie gesagt hat<lb/>
+dies könnte in Druck gehen. Nach ihrer Mitteilung ist also dieses<lb/>
+Material von Deutschland gekommen. Ich persönlich bin überzeugt, daß<lb/>
+einige Genossen – vielleicht in den Bundesländern stärker als in<lb/>
+Wien – sich als Mittelsmänner gerne zur Verfügung stellen werden,<lb/>
+um gegebenenfalls eine kleine Koalition SPÖ-FPÖ zustande zu bringen.<lb/>
+So ist ja bekannt, daß <rs type="person">Huemer</rs>, der ehemalige Direktor von den Stick<lb break="no"/>stoffwerken, bereits vor Jahren einen Brief an die Parteileitung<lb/>
+geschrieben hat, wo er erklärte, man sollte mit der FPÖ zusammen<lb break="no"/>gehen und er würde gern der Verbindungsmann sein. Ebenso hat sich<lb/>
+<rs type="person" ref="#per__146932">Kraus</rs>, von der Donau-Finanz – ein alter VdUler – mit <rs type="person" ref="#per__135638">Fischerlehner</rs><lb/>
+einem Sekretär der SPÖ-Zentrale getroffen, um ihm zu erklären er<lb/>
+würde gerne vermitteln, daß die Parteiführung mit <rs type="person" ref="#per__97807">Peter</rs> besseren<lb/>
+Kontakt hätte. <rs type="person" ref="#per__97668">Kreisky</rs> selbst hat alle diese Ansinnen deshalb abge<lb break="no"/>lehnt, weil er auf dem Standpunkt steht, er kann sowieso jederzeit<lb/>
+mit <rs type="person" ref="#per__97807">Peter</rs> sprechen und wenn er dies tut, dann informiert er unmittel<lb break="no"/>bar anschließend die Öffentlichkeit. Ebenso hat er ja als Partei<lb break="no"/>obmann und dann als Bundeskanzler auch mit Dr. <rs type="person" ref="#per__98091">Withalm</rs> entsprechenden<lb/>
+Kontakt. Ich persönlich glaube, daß es sehr unzweckmäßig wäre,<lb/>
+eine kleine Koalition mit der FPÖ anzustreben. Ich bin auch über<lb break="no"/>zeugt, daß derzeit ganz konkrete Überlegungen in dieser Richtung<lb/>
+von <rs type="person" ref="#per__97668">Kreisky</rs> garnicht angestellt werden, sondern daß natürlich auch<lb/>
+diese Variation von manchen Genossen überlegt wird, um eine stärkere<lb/>
+Mehrheit im Parlament zu finden. Ich glaube, daß vor den Wahlen in<lb/>
+Wien – am 4. Oktober – keine wie immer gearteten konkreten Schritte<lb/>
+von niemandem getan werden, daß man allerdings nach dem Wahlausgang<lb/>
 sehen wird, ob und inwieweit die parlamentarische Arbeit fortgesetzt<lb/>
 werden kann, wobei es bis jetzt ja ganz gut gegangen ist, weil die<lb/>
-&#214;VP nicht imstande war ein konkretes Oppositionsprogramm vorzulegen<lb/>
-und die FP&#214; nat&#252;rlich keinerlei Neuwahlen jetzt brauchen kann und<lb/>
-deshalb wahrscheinlich kaum einen Mi&#223;trauensantrag der &#214;VP unter<lb break="no"/>st&#252;tzen w&#252;rde.<lb/>
-Bei der Ministerratsvorbesprechung kam au&#223;erdem noch die Frage der<lb/>
+ÖVP nicht imstande war ein konkretes Oppositionsprogramm vorzulegen<lb/>
+und die FPÖ natürlich keinerlei Neuwahlen jetzt brauchen kann und<lb/>
+deshalb wahrscheinlich kaum einen Mißtrauensantrag der ÖVP unter<lb break="no"/>stützen würde.<lb/>
+Bei der Ministerratsvorbesprechung kam außerdem noch die Frage der<lb/>
 Sektionschefsposten zur Diskussion, weil das Wissenschaftsministerium<lb/>
-<pb n="02-0422" facs="02_1970-07-28_0422.jpg"/>einen Sektionschefsposten erhalten wird, weil es sonst nur einen<lb/>
-einzigen Sektionsleiter bzw. Sektionschefsposten h&#228;tte. Der Land<lb break="no"/>wirtschaftsminister und Bauten und viele andere und nat&#252;rlich auch<lb/>
-ich, k&#252;ndigten sofort an, da&#223; auch wir Sektionschefsposten brauchen,<lb/>
+<pb n="02-0422" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band02/02_1970-07-28_0422.jp2/full/pct:100/0/default.jpg"/>einen Sektionschefsposten erhalten wird, weil es sonst nur einen<lb/>
+einzigen Sektionsleiter bzw. Sektionschefsposten hätte. Der Land<lb break="no"/>wirtschaftsminister und Bauten und viele andere und natürlich auch<lb/>
+ich, kündigten sofort an, daß auch wir Sektionschefsposten brauchen,<lb/>
 da allerdings seit Jahren keine mehr vergeben wurden, ist nicht zu<lb/>
-erwarten, da&#223; irgendjemand einen solchen erhalten wird. Selbst im<lb/>
-Au&#223;enamt,konnte ich feststellen, hat der Generalsekret&#228;r &#8211; der in<lb/>
-Zukunft von <rs type="person" ref="#per__98097">Wodak</rs> besetzt wird &#8211; nur einen VIIIer-Posten.<lb/>
-Betreffend die Raumordnungspolitik teilte <rs type="person" ref="#per__97668">Kreisky</rs> mit, da&#223; die Zeit<lb/>
-der Untersuchungen vorbei sei und da&#223; deshalb ein Programm jetzt von<lb/>
-<rs type="person" ref="#per__98034">Veselsky</rs> mit den einzelnen Ressorts abgesprochen wird und die budget<lb break="no"/>m&#228;&#223;ige Ausrichtung bereits auf dieses Raumordnungsprogramm erfolgen<lb/>
+erwarten, daß irgendjemand einen solchen erhalten wird. Selbst im<lb/>
+Außenamt,konnte ich feststellen, hat der Generalsekretär – der in<lb/>
+Zukunft von <rs type="person" ref="#per__98097">Wodak</rs> besetzt wird – nur einen VIIIer-Posten.<lb/>
+Betreffend die Raumordnungspolitik teilte <rs type="person" ref="#per__97668">Kreisky</rs> mit, daß die Zeit<lb/>
+der Untersuchungen vorbei sei und daß deshalb ein Programm jetzt von<lb/>
+<rs type="person" ref="#per__98034">Veselsky</rs> mit den einzelnen Ressorts abgesprochen wird und die budget<lb break="no"/>mäßige Ausrichtung bereits auf dieses Raumordnungsprogramm erfolgen<lb/>
 soll.<lb/>
-<rs type="person" ref="#per__97488">Gratz</rs> machte die Mitteilung, da&#223; sein Schulbauprogramm - welches<lb/>
-in dieses Raumordnungskonzept eingef&#252;gt werden m&#252;&#223;te &#8211; auf alle F&#228;lle<lb/>
+<rs type="person" ref="#per__97488">Gratz</rs> machte die Mitteilung, daß sein Schulbauprogramm - welches<lb/>
+in dieses Raumordnungskonzept eingefügt werden müßte – auf alle Fälle<lb/>
 erst im September fertig sein wird und dann eine Neuverteilung der<lb/>
-Schulen vorgenommen wird, weil bis jetzt nach politischen Gesichts<lb break="no"/>punkten Schulen in manchen D&#246;rfern errichtet werden sollten, die<lb/>
-garnicht wirklichen Bedarf haben w&#228;hrend Ballungszentren vernachl&#228;&#223;igt<lb/>
+Schulen vorgenommen wird, weil bis jetzt nach politischen Gesichts<lb break="no"/>punkten Schulen in manchen Dörfern errichtet werden sollten, die<lb/>
+garnicht wirklichen Bedarf haben während Ballungszentren vernachläßigt<lb/>
 wurden.<lb/>
-In der Ministerratssitzung wurde deshalb au&#223;er der Tagesordnung von<lb/>
-<rs type="person" ref="#per__97668">Kreisky</rs> darauf hingewiesen, da&#223; raumwirksame Gesichtspunkte bei der<lb/>
-Budgetgestaltung zu ber&#252;cksichtigen sind.<lb/>
-Au&#223;erdem wurde festgehalten, da&#223; im Rum&#228;nien-Vertrag 20 Millionen<lb/>
+In der Ministerratssitzung wurde deshalb außer der Tagesordnung von<lb/>
+<rs type="person" ref="#per__97668">Kreisky</rs> darauf hingewiesen, daß raumwirksame Gesichtspunkte bei der<lb/>
+Budgetgestaltung zu berücksichtigen sind.<lb/>
+Außerdem wurde festgehalten, daß im Rumänien-Vertrag 20 Millionen<lb/>
 zinsenfreier Kredit zwar keine gesetzliche Deckung derzeit vorhanden<lb/>
-ist, da&#223; aber die Bundesregierung trotz diesem Gesichtspunkt &#8211; der<lb/>
-vom Verfassungsdienst ihr mitgeteilt wird &#8211; einen Beschlu&#223; fa&#223;t, die<lb/>
-Abwicklung sofort in Angriff zu nehmen. Es ist unm&#246;glich, da&#223; so<lb/>
-lange gewartet wird bis ein zweites Budget&#252;berschreitungsgesetz die<lb/>
+ist, daß aber die Bundesregierung trotz diesem Gesichtspunkt – der<lb/>
+vom Verfassungsdienst ihr mitgeteilt wird – einen Beschluß faßt, die<lb/>
+Abwicklung sofort in Angriff zu nehmen. Es ist unmöglich, daß so<lb/>
+lange gewartet wird bis ein zweites Budgetüberschreitungsgesetz die<lb/>
 finanzielle Deckung bringt.<lb/>
-Bautenminister <rs type="person" ref="#per__97755">Moser</rs> teilte mit, da&#223; der Br&#252;ckeneinsturz in Sobot<lb/>
+Bautenminister <rs type="person" ref="#per__97755">Moser</rs> teilte mit, daß der Brückeneinsturz in Sobot<lb/>
 genau untersucht wird, der Schaden aber nicht 17 Millionen sondern<lb/>
-nur 7 Millionen betr&#228;gt. Die Fa. Mayreder, die einige dieser Br&#252;cken<lb/>
-bereits gebaut hat und insgesamt 450 Br&#252;cken mit einer Summe von<lb/>
+nur 7 Millionen beträgt. Die Fa. Mayreder, die einige dieser Brücken<lb/>
+bereits gebaut hat und insgesamt 450 Brücken mit einer Summe von<lb/>
 1,1 Milliarden S derzeit in Bau sind.<lb/>
 Der Innenminister teilte mit und fragte um die Wohlmeinung der<lb/>
-Bundesregierung, da&#223; er eine Wahlrechtsreform ausarbeiten wird, die<lb/>
-zwar Verfassungsbestimmungen beinhaltet, aber f&#252;r 25.000 Stimmen<lb/>
-ein Mandat vorsieht. Au&#223;erdem soll es nur 9 Wahlkreise &#8211; die<lb/>
-9 Bundesl&#228;nder &#8211; und einen Wahlkreisverband geben. Wer in einem<lb/>
-<pb n="02-0423" facs="02_1970-07-28_0423.jpg"/>Wahlkreis die 5 %-Klausel &#252;berschritten hat, w&#252;rde dann an der<lb/>
-Verteilung der Mandate teilnehmen. Auch f&#252;r diese 5 %-Klausel ist<lb/>
+Bundesregierung, daß er eine Wahlrechtsreform ausarbeiten wird, die<lb/>
+zwar Verfassungsbestimmungen beinhaltet, aber für 25.000 Stimmen<lb/>
+ein Mandat vorsieht. Außerdem soll es nur 9 Wahlkreise – die<lb/>
+9 Bundesländer – und einen Wahlkreisverband geben. Wer in einem<lb/>
+<pb n="02-0423" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band02/02_1970-07-28_0423.jp2/full/pct:100/0/default.jpg"/>Wahlkreis die 5 %-Klausel überschritten hat, würde dann an der<lb/>
+Verteilung der Mandate teilnehmen. Auch für diese 5 %-Klausel ist<lb/>
 ist in diesem Fall eine Verfassungsbestimmung notwendig.<lb/>
-Ich teilte der Bundesregierung meine Verhandlungen mit der Margarine<lb break="no"/>industrie mit, da&#223; sie bereit w&#228;ren ihre Organe zu befragen, wenn<lb/>
-die Regierung tats&#228;chlich eine Umsatzsteuersenkung von 5,5 auf 1,7 %<lb/>
-vornehmen w&#252;rde. Der Ausfall &#8211; wie ich auf der Pressekonferenz<lb/>
-anschlie&#223;end gefragt wurde &#8211; bezifferte ich mit 80 &#8211; 90 Millionen.</p>
-            <p xml:space="preserve">Die Sektionschefbesprechung konnte ich nicht abhalten, weil<lb/>
-<rs type="person" ref="#per__97668">Kreisky</rs> mit mir etwas f&#252;r seine Radiorede, Donnerstag, besprach und<lb/>
-dabei die Zweckm&#228;&#223;igkeit auftauchte, da&#223; ich doch zur Pressekonferenz<lb/>
-mit die er und <rs type="person" ref="#per__97879">R&#246;sch</rs> abhielten mitgehen sollte. Nach der<lb/>
+Ich teilte der Bundesregierung meine Verhandlungen mit der Margarine<lb break="no"/>industrie mit, daß sie bereit wären ihre Organe zu befragen, wenn<lb/>
+die Regierung tatsächlich eine Umsatzsteuersenkung von 5,5 auf 1,7 %<lb/>
+vornehmen würde. Der Ausfall – wie ich auf der Pressekonferenz<lb/>
+anschließend gefragt wurde – bezifferte ich mit 80 – 90 Millionen.</p>
+            <p xml:space="preserve" xml:id="Band02_1970-07-28_02">Die Sektionschefbesprechung konnte ich nicht abhalten, weil<lb/>
+<rs type="person" ref="#per__97668">Kreisky</rs> mit mir etwas für seine Radiorede, Donnerstag, besprach und<lb/>
+dabei die Zweckmäßigkeit auftauchte, daß ich doch zur Pressekonferenz<lb/>
+mit die er und <rs type="person" ref="#per__97879">Rösch</rs> abhielten mitgehen sollte. Nach der<lb/>
 Pressekonferenz, die glaube ich ganz gut gelaufen ist, ging es zu<lb/>
-einem "Dreiergespr&#228;ch" <rs type="person" ref="#per__97668">Kreisky</rs>, <rs type="person" ref="#per__97672">Kreuzer</rs> vom Rundfunk und mir, wobei<lb/>
-<rs type="person" ref="#per__97672">Kreuzer</rs>, als Koalitionsjournalist,von <rs type="person" ref="#per__97668">Kreisky</rs> &#8211; der nat&#252;rlich noch<lb/>
-immer mit ihm gute freundschaftliche Beziehungen aufrecht erh&#228;lt &#8211;<lb/>
-bezeichnet wurde. <rs type="person" ref="#per__97672">Kreuzer</rs> selbst war nat&#252;rlich interessiert die<lb/>
-gro&#223;e Politik herauszubringen und ich sagte ihm, da&#223; ich nach wie<lb/>
-vor f&#252;r eine gro&#223;e Koalition w&#228;re, wobei ich allerdings einschr&#228;nkte,<lb/>
-da&#223; das jetzige System auch verh&#228;ltnism&#228;&#223;ig noch sehr gut geht. <rs type="person" ref="#per__97668">Kreisky</rs><lb/>
-selbst meinte, da&#223; es weder eine gro&#223;e noch derzeit eine kleine Koali<lb break="no"/>tion geben w&#252;rde, sondern da&#223; wir eben jetzt sehr positive Arbeit in<lb/>
-der Regierung leisten k&#246;nnen. Er erinnert sich mit Schrecken an die<lb/>
+einem "Dreiergespräch" <rs type="person" ref="#per__97668">Kreisky</rs>, <rs type="person" ref="#per__97672">Kreuzer</rs> vom Rundfunk und mir, wobei<lb/>
+<rs type="person" ref="#per__97672">Kreuzer</rs>, als Koalitionsjournalist,von <rs type="person" ref="#per__97668">Kreisky</rs> – der natürlich noch<lb/>
+immer mit ihm gute freundschaftliche Beziehungen aufrecht erhält –<lb/>
+bezeichnet wurde. <rs type="person" ref="#per__97672">Kreuzer</rs> selbst war natürlich interessiert die<lb/>
+große Politik herauszubringen und ich sagte ihm, daß ich nach wie<lb/>
+vor für eine große Koalition wäre, wobei ich allerdings einschränkte,<lb/>
+daß das jetzige System auch verhältnismäßig noch sehr gut geht. <rs type="person" ref="#per__97668">Kreisky</rs><lb/>
+selbst meinte, daß es weder eine große noch derzeit eine kleine Koali<lb break="no"/>tion geben würde, sondern daß wir eben jetzt sehr positive Arbeit in<lb/>
+der Regierung leisten können. Er erinnert sich mit Schrecken an die<lb/>
 Koalitionsministerratssitzungen, wo also stundenlang oft um Kleinig<lb break="no"/>keiten und unbedeutende Fragen gestritten wurde.<lb/>
-Beim Fremdenverkehrsausschu&#223; wurde der Ratio-Bericht diskutiert und<lb/>
-die vom Arbeitsausschu&#223; vorgelegte Gegenstellungnahme einstimmig<lb/>
-angenommen. Die Gesch&#228;ftsf&#252;hrung, <rs type="person" ref="#per__97684">Langer-Hansel</rs>, wurde beauftragt<lb/>
-einen Entwurf &#252;ber eine Reorganisation vorzulegen, der die positiven<lb/>
-Punkte des Ratioberichtes, aber auch die Vorschl&#228;ge die sie von der<lb/>
-Bundeshandelskammer, Dr. <rs type="person" ref="#per__114586">Zedek</rs>, als auch von den L&#228;ndervertretern<lb/>
-der Gesch&#228;ftsf&#252;hrung vor etlichen Jahren bereits vorgeschlagen wurden.<lb/>
-Ich konnte den Vertretern der L&#228;nder versichern, da&#223; ich weder beabsich<lb break="no"/>tige eine neue &#220;berpr&#252;fung durch eine Pr&#252;fgesellschaft vorzunehmen,<lb/>
+Beim Fremdenverkehrsausschuß wurde der Ratio-Bericht diskutiert und<lb/>
+die vom Arbeitsausschuß vorgelegte Gegenstellungnahme einstimmig<lb/>
+angenommen. Die Geschäftsführung, <rs type="person" ref="#per__97684">Langer-Hansel</rs>, wurde beauftragt<lb/>
+einen Entwurf über eine Reorganisation vorzulegen, der die positiven<lb/>
+Punkte des Ratioberichtes, aber auch die Vorschläge die sie von der<lb/>
+Bundeshandelskammer, Dr. <rs type="person" ref="#per__114586">Zedek</rs>, als auch von den Ländervertretern<lb/>
+der Geschäftsführung vor etlichen Jahren bereits vorgeschlagen wurden.<lb/>
+Ich konnte den Vertretern der Länder versichern, daß ich weder beabsich<lb break="no"/>tige eine neue Überprüfung durch eine Prüfgesellschaft vorzunehmen,<lb/>
 die in Wirklichkeit ja nur viel Geld kostet und kaum positive<lb/>
-Ergebnisse zeitigen, weil die Reorganisationsma&#223;nahmen ja von ihnen<lb/>
-nur vorgeschlagen, aber de facto nie durchgef&#252;hrt werden, noch da&#223;<lb/>
-ich beabsichtige die Kompetenzen der L&#228;nder in irgendeiner Weise<lb/>
-<pb n="02-0424" facs="02_1970-07-28_0424.jpg"/>einzuschr&#228;nken. Es kam &#252;bereinstimmend die Meinung zutage, da&#223; es<lb/>
-zweckm&#228;&#223;ig w&#228;re zu versuchen, das Mi&#223;trauen der letzten Jahre und<lb/>
+Ergebnisse zeitigen, weil die Reorganisationsmaßnahmen ja von ihnen<lb/>
+nur vorgeschlagen, aber de facto nie durchgeführt werden, noch daß<lb/>
+ich beabsichtige die Kompetenzen der Länder in irgendeiner Weise<lb/>
+<pb n="02-0424" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band02/02_1970-07-28_0424.jp2/full/pct:100/0/default.jpg"/>einzuschränken. Es kam übereinstimmend die Meinung zutage, daß es<lb/>
+zweckmäßig wäre zu versuchen, das Mißtrauen der letzten Jahre und<lb/>
 die Streitigkeiten, die eine konstruktive Arbeit nur behindern in<lb/>
-irgendeiner Weise abzubauen. Ich selbst versicherte, da&#223; ich alles<lb/>
+irgendeiner Weise abzubauen. Ich selbst versicherte, daß ich alles<lb/>
 daransetzen werde um, wenn ich ein entsprechendes Fremdenverkehrs<lb break="no"/>konzept vorlegen werde, dies dann mit ihnen gemeinsamzu erarbeiten<lb/>
-um wirklich so viel wie m&#246;glich &#8211; trotz der finanziellen knappen<lb/>
-Mittel &#8211; eine zweckm&#228;&#223;ige Fremdenverkehrspolitik zu betreiben.<lb/>
-Beim anschlie&#223;enden Arbeitsausschu&#223; blieb ich zwar bis zum Schlu&#223;,<lb/>
-aber ich hatte oft das Gef&#252;hl, da&#223; hier sehr viel herumgeredet wird<lb/>
-ohne da&#223; ein konkretes Konzept dem zugrundeliegt. Au&#223;erdem wird<lb/>
-von <rs type="person" ref="#per__97684">Langer-Hansel</rs> leider nicht abgestimmt in welcher Gr&#246;&#223;enordnung<lb/>
-er sich in Zukunft bewegen sollte und vor allem in welcher budget<lb break="no"/>m&#228;&#223;igen Gr&#246;&#223;enordnung er sich bewegen kann. So hat er seine Leute<lb/>
-mit den EDV-Firmen (IBM/Pool/usw.) in Kontakt gebracht um eine elek<lb break="no"/>trische Datenverarbeitung zu installieren. Dies w&#252;rde einen Jahres<lb break="no"/>aufwand von wahrscheinlich 1 Million S notwendig machen und er<lb/>
-glaubte, da&#223; dies bei der Arbeitsausschu&#223;sitzung &#8211; zumindest in der<lb/>
-Grundsatzentscheidung &#8211; bewilligt bekommen w&#252;rde. Ich habe zwar keine<lb/>
-Stimme in diesem Arbeitsausschu&#223; und mische mich daher in die Detail<lb break="no"/>besprechungen nicht ein, mu&#223;te aber doch bei der Gelegenheit sagen,<lb/>
-da&#223; ich vom Ausschu&#223; die maximale Erm&#228;chtigung f&#252;r den Arbeitsschu&#223;<lb/>
-herauslesen kann, da&#223; sie Maschinen zur Reorganisation anschaffen,<lb/>
-die sich nicht in so einer Gr&#246;&#223;enordnung bewegen. Wenn es richtig ist,<lb/>
-da&#223; die Adrema (?)kaputt ist, so mu&#223; man eine neue Adrema (?)kaufen,<lb/>
-die 200.000 S vielleicht kosten wird. Wenn es richtig ist, da&#223; noch<lb/>
+um wirklich so viel wie möglich – trotz der finanziellen knappen<lb/>
+Mittel – eine zweckmäßige Fremdenverkehrspolitik zu betreiben.<lb/>
+Beim anschließenden Arbeitsausschuß blieb ich zwar bis zum Schluß,<lb/>
+aber ich hatte oft das Gefühl, daß hier sehr viel herumgeredet wird<lb/>
+ohne daß ein konkretes Konzept dem zugrundeliegt. Außerdem wird<lb/>
+von <rs type="person" ref="#per__97684">Langer-Hansel</rs> leider nicht abgestimmt in welcher Größenordnung<lb/>
+er sich in Zukunft bewegen sollte und vor allem in welcher budget<lb break="no"/>mäßigen Größenordnung er sich bewegen kann. So hat er seine Leute<lb/>
+mit den EDV-Firmen (IBM/Pool/usw.) in Kontakt gebracht um eine elek<lb break="no"/>trische Datenverarbeitung zu installieren. Dies würde einen Jahres<lb break="no"/>aufwand von wahrscheinlich 1 Million S notwendig machen und er<lb/>
+glaubte, daß dies bei der Arbeitsausschußsitzung – zumindest in der<lb/>
+Grundsatzentscheidung – bewilligt bekommen würde. Ich habe zwar keine<lb/>
+Stimme in diesem Arbeitsausschuß und mische mich daher in die Detail<lb break="no"/>besprechungen nicht ein, mußte aber doch bei der Gelegenheit sagen,<lb/>
+daß ich vom Ausschuß die maximale Ermächtigung für den Arbeitsschuß<lb/>
+herauslesen kann, daß sie Maschinen zur Reorganisation anschaffen,<lb/>
+die sich nicht in so einer Größenordnung bewegen. Wenn es richtig ist,<lb/>
+daß die Adrema (?)kaputt ist, so muß man eine neue Adrema (?)kaufen,<lb/>
+die 200.000 S vielleicht kosten wird. Wenn es richtig ist, daß noch<lb/>
 immer mit einer englischen Buchhaltung bei uns gearbeitet wird, dann<lb/>
-ist es notwendig, da&#223; die Fremdenverkehrswerbung sich eine mechani<lb break="no"/>sche Buchhaltungsmaschine anschafft, die man heute &#8211; nachdem sehr<lb/>
-viele Firmen auf EDV umsteigen &#8211; &#252;bertragen wahrscheinlich um<lb/>
-30.000 S bekommen kann, und wenn es richtig ist, da&#223; f&#252;r die Aus<lb break="no"/>sortierung des Ortsverzeichnisses eine maschinelle M&#246;glichkeit<lb/>
+ist es notwendig, daß die Fremdenverkehrswerbung sich eine mechani<lb break="no"/>sche Buchhaltungsmaschine anschafft, die man heute – nachdem sehr<lb/>
+viele Firmen auf EDV umsteigen – übertragen wahrscheinlich um<lb/>
+30.000 S bekommen kann, und wenn es richtig ist, daß für die Aus<lb break="no"/>sortierung des Ortsverzeichnisses eine maschinelle Möglichkeit<lb/>
 geschaffen werden kann, dann gibt es auch billigere Maschinen, die<lb/>
 ca. 30-40 maximal 50.000 S kosten und nicht unbedingt eine EDV-Anlage<lb/>
-die eben im Monat 70.000 S Miete mindestens kosten w&#252;rde und &#8211; ich<lb/>
-bin &#252;berzeugt &#8211; nicht ausgen&#252;tzt sein kann. Ich habe bei der Sitzung<lb/>
-im Ausschu&#223; als Vergleich darauf hingewiesen, da&#223; nat&#252;rlich die<lb/>
-Gesch&#228;ftsf&#252;hrung der Arbeitsausschu&#223; erm&#228;chtigt werden sollten, ent<lb break="no"/>sprechende Reorganisationen einzuleiten und nat&#252;rlich damit im<lb/>
-<pb n="02-0425" facs="02_1970-07-28_0425.jpg"/>Zusammenhang gewisse Maschinen und Ger&#228;te anzuschaffen. Ich hatte<lb/>
-darauf hingewiesen, da&#223; es zum Beispiel kaum jemanden geben w&#252;rde,<lb/>
+die eben im Monat 70.000 S Miete mindestens kosten würde und – ich<lb/>
+bin überzeugt – nicht ausgenützt sein kann. Ich habe bei der Sitzung<lb/>
+im Ausschuß als Vergleich darauf hingewiesen, daß natürlich die<lb/>
+Geschäftsführung der Arbeitsausschuß ermächtigt werden sollten, ent<lb break="no"/>sprechende Reorganisationen einzuleiten und natürlich damit im<lb/>
+<pb n="02-0425" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band02/02_1970-07-28_0425.jp2/full/pct:100/0/default.jpg"/>Zusammenhang gewisse Maschinen und Geräte anzuschaffen. Ich hatte<lb/>
+darauf hingewiesen, daß es zum Beispiel kaum jemanden geben würde,<lb/>
 der sich dagegen ausspricht, wenn anstelle des Abschleckens von<lb/>
-Briefmarken ein Schwammerl angeschafft wird. Zum Schlu&#223; konnte ich<lb/>
-mir beim Arbeitsausschu&#223; nicht verkneifen zu sagen, da&#223; eine elek<lb break="no"/>tronische Datenverarbeitung kaum als ein Schwammerl bezeichnet werden<lb/>
-kann und deshalb auch es sinnlos ist, zuerst den Ausschu&#223; in einer<lb/>
-solchen Illusion zu belassen und nachher im Arbeitsausschu&#223; zu sagen<lb/>
+Briefmarken ein Schwammerl angeschafft wird. Zum Schluß konnte ich<lb/>
+mir beim Arbeitsausschuß nicht verkneifen zu sagen, daß eine elek<lb break="no"/>tronische Datenverarbeitung kaum als ein Schwammerl bezeichnet werden<lb/>
+kann und deshalb auch es sinnlos ist, zuerst den Ausschuß in einer<lb/>
+solchen Illusion zu belassen und nachher im Arbeitsausschuß zu sagen<lb/>
 man kann elektronische Datenverarbeitungsmaschinen anschaffen.</p>
-            <p xml:space="preserve"/>
+            <p xml:space="preserve" xml:id="Band02_1970-07-28_03"/>
          </div>
       </body>
       <back>
-         <pb n="02_0425_01" facs="02_1970-07-28_0425-01.jpg"/>
+         <pb n="02_0425_01" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band02/02_1970-07-28_0425-01.jp2/full/pct:100/0/default.jpg"/>
          <div type="attachment" subtype="cabinetAgenda">
             <head>Tagesordnung 15. Ministerratssitzung, 28.7.1970</head>
             <gap reason="sampling"/>
-            <pb n="02_0425_02" facs="02_1970-07-28_0425-02.jpg"/>
+            <pb n="02_0425_02" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band02/02_1970-07-28_0425-02.jp2/full/pct:100/0/default.jpg"/>
             <gap reason="sampling"/>
          </div>
       </back>
