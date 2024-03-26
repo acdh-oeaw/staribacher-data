@@ -3,6 +3,7 @@
 # adds ids to the p elements
 # removes dataline
 
+
 from lxml import etree
 import os
 from acdh_tei_pyutils.tei import TeiReader
@@ -23,17 +24,16 @@ def remove_dateline_tag(xml_doc):
             p_elem.text = datetext_full
             div.insert(date_index, p_elem)
 
-
 def change_facs_url(root):
     url = "https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/"
     imgs = root.findall(".//" + tei_namespace + "pb")
+
     for img in imgs:
         img_str = img.get("facs")
         volume = img_str.split("_")[0]
         jpg = img_str.split(".")[0]
         new_url = url + "Band" + volume + "/" + jpg + ".jp2/full/pct:100/0/default.jpg"
         img.set("facs", new_url)
-
 
 def create_ids_for_p(xml_doc, root):
     doc_id = xml_doc.any_xpath('//tei:idno[@type="signature"]/text()')[0]
@@ -43,7 +43,6 @@ def create_ids_for_p(xml_doc, root):
         i += 1
         para_id = doc_id + "_" + "{:02}".format(i)
         para.set(xml_namespace + "id", para_id)
-
 
 def get_file_input(xml_file_path):
     xml_doc = TeiReader(xml_file_path)
