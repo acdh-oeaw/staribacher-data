@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # adjusts the facs urls
 # adds ids to the p elements
-# removes dataline 
+# removes dataline
 
 from lxml import etree
 import os
