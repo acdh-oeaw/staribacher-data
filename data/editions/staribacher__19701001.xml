@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="staribacher__19701001">
   <teiHeader>
       <fileDesc>
@@ -44,131 +45,128 @@
    </teiHeader>
   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band03/">
       <body>
-         <pb n="03-0597" facs="03_1970-10-01_0597.jpg"/>
+         <pb n="03-0597" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band03/03_1970-10-01_0597.jp2/full/pct:100/0/default.jpg"/>
          <div type="entry">
-            <dateline>
-               <date when="1970-10-01">Donnerstag, 1. Oktober 1970</date>
-            </dateline>
-            <p xml:space="preserve">F&#252;r die fachliche Information der Sektion I wurden vor langer, langer<lb/>
+            <p xml:space="preserve" xml:id="Band03_1970-10-01_01">Für die fachliche Information der Sektion I wurden vor langer, langer<lb/>
 Zeit Fachreferate errichtet. Diese Fachreferate sind mit Leuten be<lb break="no"/>setzt, die zweifelsohne wahrscheinlich sehr gute Beziehungen zu ein<lb break="no"/>zelnen Fachreferenten der Bundeskammer und der Industrie aufweisen.<lb/>
-Aber &#8211; wie mir mitgeteilt wurde &#8211; hat z. B. Min. Rat <rs type="person">Peschke</rs> f&#252;nf solche<lb/>
-Fachreferate, ohne dass er diese Gebiete im einzelnen wirklich inten<lb break="no"/>siv bearbeiten kann. Wir haben deshalb beabsichtigt, eigentliche Fach<lb break="no"/>referate f&#252;r die Industriesektion zu erichten. Die Industriesektor<lb/>
-unter <rs type="person" ref="#per__107939">R&#246;mer</rs>-F&#252;hrung hat &#252;berhaupt keinerlei fachliche Gliederung<lb/>
-und ist deshalb meiner Meinung ganz ausserstande, wirkliche Infor<lb break="no"/>mationen &#252;ber eine Industriepolitik zu geben. Deshalb ist beabsicht,<lb/>
-&#228;hnlich dem Aufbau der Fachgruppenordnung der Bundeskammer Fachrefe<lb break="no"/>rate jetzt im Industriebereich zu errichten. Nat&#252;rlich ergab sich<lb/>
-daraus sofort die gegens&#228;tzliche Auffassung von <rs type="person" ref="#per__107939">R&#246;mer</rs> gegen&#252;ber<lb/>
+Aber – wie mir mitgeteilt wurde – hat z. B. Min. Rat <rs type="person">Peschke</rs> fünf solche<lb/>
+Fachreferate, ohne dass er diese Gebiete im einzelnen wirklich inten<lb break="no"/>siv bearbeiten kann. Wir haben deshalb beabsichtigt, eigentliche Fach<lb break="no"/>referate für die Industriesektion zu erichten. Die Industriesektor<lb/>
+unter <rs type="person" ref="#per__107939">Römer</rs>-Führung hat überhaupt keinerlei fachliche Gliederung<lb/>
+und ist deshalb meiner Meinung ganz ausserstande, wirkliche Infor<lb break="no"/>mationen über eine Industriepolitik zu geben. Deshalb ist beabsicht,<lb/>
+ähnlich dem Aufbau der Fachgruppenordnung der Bundeskammer Fachrefe<lb break="no"/>rate jetzt im Industriebereich zu errichten. Natürlich ergab sich<lb/>
+daraus sofort die gegensätzliche Auffassung von <rs type="person" ref="#per__107939">Römer</rs> gegenüber<lb/>
 <rs type="person" ref="#per__97867">Reiterer</rs>. <rs type="person" ref="#per__97867">Reiterer</rs> hat vom handelspolitischen Standpunkt aus auf<lb/>
 seine Fachreferate nicht verzichtet. Deshalb hat <rs type="person" ref="#per__97915">Schipper</rs> den Vorschlag<lb/>
-gemacht,es ist zweckm&#228;ssig, neue Fachreferate zu errichten. Gott<lb/>
-sei Dank ist <rs type="person" ref="#per__97543">Heindl</rs> &#8211; leider viel zu sp&#228;t &#8211; er hat das diesbez&#252;gliche<lb/>
+gemacht,es ist zweckmässig, neue Fachreferate zu errichten. Gott<lb/>
+sei Dank ist <rs type="person" ref="#per__97543">Heindl</rs> – leider viel zu spät – er hat das diesbezügliche<lb/>
 Papier, das lange schon bekannt war, nicht genau gelesen gehabt,<lb/>
-erst im letzten Moment darauf gekommen, dass wir damit eine Zweige<lb break="no"/>leisigkeit in der Bezeichnung, aber auch in der T&#228;tigkeit nach<lb/>
-aussen hin dokumentieren. Deshalb beschlossen wir keine dekretm&#228;ssige<lb/>
+erst im letzten Moment darauf gekommen, dass wir damit eine Zweige<lb break="no"/>leisigkeit in der Bezeichnung, aber auch in der Tätigkeit nach<lb/>
+aussen hin dokumentieren. Deshalb beschlossen wir keine dekretmässige<lb/>
 Ernennung der Betreffenden, die wir vorgesehen hatten, und auch nicht<lb/>
 die Bezeichnung Fachreferat, sondern Arbeitskreis zu verwenden. Ich<lb/>
-hatte die Mitarbeiter f&#252;r diese Arbeitskreise zu mir gebeten, und<lb/>
-ihnen erkl&#228;rt, dass sie vorerst initiativ t&#228;tig werden sollten, dass<lb/>
+hatte die Mitarbeiter für diese Arbeitskreise zu mir gebeten, und<lb/>
+ihnen erklärt, dass sie vorerst initiativ tätig werden sollten, dass<lb/>
 sie keinerlei konkret umschriebenen Auftrage, oder wie ich gefragt<lb/>
-wurde, die Weisung lauten w&#252;rde, bekommen, sondern dass sie eben<lb/>
-initiativ und kreativ jetzt in dem Gebiet das ich glaube f&#252;r die<lb/>
-das zweckm&#228;ssigste ist, entsprechende Grundlagenarbeit leisten<lb/>
-sollten. Ich erkl&#228;rte ihnen, dass ich selbstverst&#228;ndlich f&#252;r jeden<lb/>
-Einzelnen, der coram publico nicht seine Bedenken oder W&#252;nsche<lb/>
-sagen wollte, unter vier Augen-Gespr&#228;che zur Verf&#252;gung stehe. Tat<lb break="no"/>s&#228;chlich kam zum Schluss nur Sekt.Rat <rs type="person" ref="#per__112190">Mock</rs> und ersuchte, dass er<lb/>
+wurde, die Weisung lauten würde, bekommen, sondern dass sie eben<lb/>
+initiativ und kreativ jetzt in dem Gebiet das ich glaube für die<lb/>
+das zweckmässigste ist, entsprechende Grundlagenarbeit leisten<lb/>
+sollten. Ich erklärte ihnen, dass ich selbstverständlich für jeden<lb/>
+Einzelnen, der coram publico nicht seine Bedenken oder Wünsche<lb/>
+sagen wollte, unter vier Augen-Gespräche zur Verfügung stehe. Tat<lb break="no"/>sächlich kam zum Schluss nur Sekt.Rat <rs type="person" ref="#per__112190">Mock</rs> und ersuchte, dass er<lb/>
 nicht beim Arbeitskreis Eisen und Metall sondern beim Arbeitskreis<lb/>
-Steine mitarbeiten w&#252;rde,da er zwar auf der montanistischen Hoch<lb break="no"/><pb n="03-0598" facs="03_1970-10-01_0598.jpg"/>schule t&#228;tig ist, aber sich in Wirklichkeit der neuen Fachrichtung<lb/>
-Steine und Erden zuwenden will. Ausserdem hatte er Bedenken, dass er nach<lb break="no"/>dem er jetzt ein modernes neues Berggesetz erarbeiten soll, daf&#252;r keine Zeit<lb/>
-haben w&#252;rde. Ich beruhigte ihn, und teilte ihm mit, dass dies ja keine<lb/>
-Angelegenheit von einem oder zwei Monaten sei, sondern langfristige Pla<lb break="no"/>nungsarbeit ist und er selbstverst&#228;ndlich in den anderen Arbeitskreis<lb/>
-&#252;berwechseln k&#246;nne. Ausser ihm meldete sich noch Min.Rat <rs type="person">Peschke</rs>, der<lb/>
-sofort erkannte, dass letzten Endes eine &#196;nderung der Gesch&#228;ftsordnung<lb/>
-ins Haus stehen w&#252;rde, wo die alten Fachgruppenreferate aufgel&#246;st und<lb/>
+Steine mitarbeiten würde,da er zwar auf der montanistischen Hoch<lb break="no"/><pb n="03-0598" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band03/03_1970-10-01_0598.jp2/full/pct:100/0/default.jpg"/>schule tätig ist, aber sich in Wirklichkeit der neuen Fachrichtung<lb/>
+Steine und Erden zuwenden will. Ausserdem hatte er Bedenken, dass er nach<lb break="no"/>dem er jetzt ein modernes neues Berggesetz erarbeiten soll, dafür keine Zeit<lb/>
+haben würde. Ich beruhigte ihn, und teilte ihm mit, dass dies ja keine<lb/>
+Angelegenheit von einem oder zwei Monaten sei, sondern langfristige Pla<lb break="no"/>nungsarbeit ist und er selbstverständlich in den anderen Arbeitskreis<lb/>
+überwechseln könne. Ausser ihm meldete sich noch Min.Rat <rs type="person">Peschke</rs>, der<lb/>
+sofort erkannte, dass letzten Endes eine Änderung der Geschäftsordnung<lb/>
+ins Haus stehen würde, wo die alten Fachgruppenreferate aufgelöst und<lb/>
 die Industriereferate, die derzeit, als Arbeitskreise bezeichnet werden<lb/>
-bestehen w&#252;rden. Ich beruhigte ihn und sagte, ich hatte ja bereits vor<lb break="no"/>gesehen und erkl&#228;rt, dass jeder in jedem Arbeitskreis, wo er will, mit<lb break="no"/>arbeiten kann und er ja selbstverst&#228;ndlich auch in anderen Arbeitskreis<lb/>
-sen mitarbeiten sollte und niemand von uns daran denkt, ihm sein T&#228;tigkeits<lb break="no"/>gebiet zu nehmen sondern ganz im Gegenteil er ja jetzt noch zus&#228;tzlich eine<lb/>
-Arbeit erbringen m&#252;sste, F&#252;r den Arbeitskreis Elektrotechnik, wo er ja<lb/>
+bestehen würden. Ich beruhigte ihn und sagte, ich hatte ja bereits vor<lb break="no"/>gesehen und erklärt, dass jeder in jedem Arbeitskreis, wo er will, mit<lb break="no"/>arbeiten kann und er ja selbstverständlich auch in anderen Arbeitskreis<lb/>
+sen mitarbeiten sollte und niemand von uns daran denkt, ihm sein Tätigkeits<lb break="no"/>gebiet zu nehmen sondern ganz im Gegenteil er ja jetzt noch zusätzlich eine<lb/>
+Arbeit erbringen müsste, Für den Arbeitskreis Elektrotechnik, wo er ja<lb/>
 durch die Zollkommission der beste Kenner sei.</p>
-            <p xml:space="preserve">Bei der Parteivorstandssitzung kam es eigentlich nur beim Bericht von<lb/>
-<rs type="person" ref="#per__97727">Marsch</rs> zu einer kurzen Anfrage von <rs type="person" ref="#per__137310">Scheibengraf</rs>, warum die Sch&#246;ller<lb/>
+            <p xml:space="preserve" xml:id="Band03_1970-10-01_02">Bei der Parteivorstandssitzung kam es eigentlich nur beim Bericht von<lb/>
+<rs type="person" ref="#per__97727">Marsch</rs> zu einer kurzen Anfrage von <rs type="person" ref="#per__137310">Scheibengraf</rs>, warum die Schöller<lb/>
 Bleckmann zwei Vorstandsdirektoren bestellt hatte zur Diskussion. <rs type="person" ref="#per__97668">Kreisky</rs><lb/>
-versuchte sich zu verteidigen oder zu erkl&#228;ren, dass Zusagen von <rs type="person" ref="#per__97668">Kreisky</rs><lb/>
-nicht vorhanden waren, dass seinerzeit <rs type="person">Kothbauer</rs> aber auch <rs type="person" ref="#per__107937">Frank</rs> erkl&#228;rt<lb/>
-hatten, es w&#252;rden keine neuen Vorstandsdirektoren bestellt werden. Hier<lb/>
-wurde wieder einmal so wie das bei den Stickstoffwerken und der &#214;MV<lb/>
-war, den lokalen Interessen &#8211; hier N&#214; &#8211; Rechnung getragen und ein unzweck<lb break="no"/>m&#228;ssiger Schritt getan. Interessant war, dass sowohl <rs type="person" ref="#per__97346">Benya</rs> als auch <rs type="person" ref="#per__111741">Sekani<lb break="no"/>na</rs>, die vis a vis von mir sassen, nicht dieser Ansicht waren, aber aus Dis<lb break="no"/>ziplin, um die einheitliche Auffassung nach aussen hin nicht zu st&#246;ren,<lb/>
-nichts gegen diese Bestellung unternahmen. Sicherlich wird dadurch die Reor<lb break="no"/>ganisation der Edelstahlwerke wieder wesentlich erschwert werden. Urspr&#252;ng<lb break="no"/>lich war geplant, dass B&#246;hler gegebenenfalls im Vorstand verst&#228;rkt wird und<lb/>
-Schoeller Bleckmann nur mehr als ein Zweigwerk letzten Endes in B&#246;hler auf<lb break="no"/>gehen sollte. Durch die derzeit gute Konjunkturlage d&#252;rften allerdings die<lb/>
-n&#246;. Interessen st&#228;rker gewesen sein und der Hinweis, dass das Werk jetzt<lb/>
+versuchte sich zu verteidigen oder zu erklären, dass Zusagen von <rs type="person" ref="#per__97668">Kreisky</rs><lb/>
+nicht vorhanden waren, dass seinerzeit <rs type="person">Kothbauer</rs> aber auch <rs type="person" ref="#per__107937">Frank</rs> erklärt<lb/>
+hatten, es würden keine neuen Vorstandsdirektoren bestellt werden. Hier<lb/>
+wurde wieder einmal so wie das bei den Stickstoffwerken und der ÖMV<lb/>
+war, den lokalen Interessen – hier NÖ – Rechnung getragen und ein unzweck<lb break="no"/>mässiger Schritt getan. Interessant war, dass sowohl <rs type="person" ref="#per__97346">Benya</rs> als auch <rs type="person" ref="#per__111741">Sekani<lb break="no"/>na</rs>, die vis a vis von mir sassen, nicht dieser Ansicht waren, aber aus Dis<lb break="no"/>ziplin, um die einheitliche Auffassung nach aussen hin nicht zu stören,<lb/>
+nichts gegen diese Bestellung unternahmen. Sicherlich wird dadurch die Reor<lb break="no"/>ganisation der Edelstahlwerke wieder wesentlich erschwert werden. Ursprüng<lb break="no"/>lich war geplant, dass Böhler gegebenenfalls im Vorstand verstärkt wird und<lb/>
+Schoeller Bleckmann nur mehr als ein Zweigwerk letzten Endes in Böhler auf<lb break="no"/>gehen sollte. Durch die derzeit gute Konjunkturlage dürften allerdings die<lb/>
+nö. Interessen stärker gewesen sein und der Hinweis, dass das Werk jetzt<lb/>
 sowieso wieder floriert, wird die notwendige Konzentration in Zukunft<lb/>
 wieder erschweren.</p>
-            <pb n="03-0599" facs="03_1970-10-01_0599.jpg"/>
-            <p xml:space="preserve">Der offizielle Vertreter der Bundeskammer &#252;ber die Frage der Gast<lb break="no"/>st&#228;tten-Konzession an Tchibo hatte ich zu mir gebeten und LAbg.<lb/>
-<rs type="person" ref="#per__97459">Fr&#246;hlich</rs>, der neue Obmann der Sektion Gastst&#228;tten hatte von sich<lb/>
+            <pb n="03-0599" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band03/03_1970-10-01_0599.jp2/full/pct:100/0/default.jpg"/>
+            <p xml:space="preserve" xml:id="Band03_1970-10-01_03">Der offizielle Vertreter der Bundeskammer über die Frage der Gast<lb break="no"/>stätten-Konzession an Tchibo hatte ich zu mir gebeten und LAbg.<lb/>
+<rs type="person" ref="#per__97459">Fröhlich</rs>, der neue Obmann der Sektion Gaststätten hatte von sich<lb/>
 aus einige Leute des Freien Wirtschaftsverbandes mitgenommen, und<lb/>
-auch <rs type="person" ref="#per__97602">Harry Jodlbauer</rs> als Vizepr&#228;sident der Wiener Handelskammer<lb/>
-ersuchte, daran teilgehmen zu d&#252;rfen, was auch von mir akzeptiert<lb/>
-wurde. Ich konnte einleitend darauf hinweisen, dass ich ja in Privatge<lb break="no"/>spr&#228;chen mit sehr vielen der Herren &#8211; ich hatte ja sogar <rs type="person" ref="#per__97459">Fr&#246;hlich</rs> in<lb/>
-seinem Betrieb aufgesucht &#8211; diskutiert hatte und deshalb nun dieses<lb/>
-Problem endg&#252;ltig l&#246;sen wollte. Ich sagte zwar nicht, ob wir positive<lb/>
+auch <rs type="person" ref="#per__97602">Harry Jodlbauer</rs> als Vizepräsident der Wiener Handelskammer<lb/>
+ersuchte, daran teilgehmen zu dürfen, was auch von mir akzeptiert<lb/>
+wurde. Ich konnte einleitend darauf hinweisen, dass ich ja in Privatge<lb break="no"/>sprächen mit sehr vielen der Herren – ich hatte ja sogar <rs type="person" ref="#per__97459">Fröhlich</rs> in<lb/>
+seinem Betrieb aufgesucht – diskutiert hatte und deshalb nun dieses<lb/>
+Problem endgültig lösen wollte. Ich sagte zwar nicht, ob wir positive<lb/>
 oder negative Entscheide treffen wollen, sondern wies nur darauf hin,<lb/>
-dass ich bef&#252;rchtete, dass die negativen Entscheide, die letzten Endes<lb/>
+dass ich befürchtete, dass die negativen Entscheide, die letzten Endes<lb/>
 beim Verwaltungsgerichtshof durch eine Berufung von Tchibo landen<lb/>
 werden, von diesen sicher in positive Bescheide umgewandelt werden.<lb/>
 Ich strich noch besonders die Initiative der Frau Min.Rat <rs type="person">Graf</rs> heraus<lb/>
-sie hat diese Entscheide nicht vom gr&#252;nen Tisch allein gemacht, sondern<lb/>
+sie hat diese Entscheide nicht vom grünen Tisch allein gemacht, sondern<lb/>
 war, wie sie mir vor der Vorbesprechung mitteilte, auch in die um<lb break="no"/>liegenden Espressi gegangen, um zu erfahren, ob und inwieweit die<lb/>
-Errichtung von Tchibo-Lokalen bisher ihren Umsatz geschm&#228;lert hatte.<lb/>
-Bei dieser Gelegenheit musste sie feststellen, dass sie ganz ungeh&#246;rige<lb/>
+Errichtung von Tchibo-Lokalen bisher ihren Umsatz geschmälert hatte.<lb/>
+Bei dieser Gelegenheit musste sie feststellen, dass sie ganz ungehörige<lb/>
 angeflegelt wurde mit der Behauptung, ob sie denn das deutsche Kapital<lb/>
-in &#214;sterreich unterst&#252;tzen wollte. Ich sprach ihr aber bei einer Vorbe<lb break="no"/>sprechung f&#252;r diese Initiative und weit &#252;ber einen Beamten hinausgehe<lb/>
-de T&#228;tigkeit den Dank aus. Die Vertreter der Bundeskammer kritisierten<lb/>
+in Österreich unterstützen wollte. Ich sprach ihr aber bei einer Vorbe<lb break="no"/>sprechung für diese Initiative und weit über einen Beamten hinausgehe<lb/>
+de Tätigkeit den Dank aus. Die Vertreter der Bundeskammer kritisierten<lb/>
 aber bei dieser Sitzung jetzt ihr Verhalten, weil sie angeblich alle<lb/>
-positiven Elemente sammelt, um ja nur Tchibo die entsprechenden Kon<lb break="no"/>zessionen geben zu k&#246;nnen. Ich war froh, dass sie bei der Sitzung<lb/>
-nicht anwesend war, denn sonst h&#228;tte sie sicherlich in Zukunft sich noch<lb/>
-mehr &#252;ber das Verhalten der Innung beklagt. Die Innungsleiter<lb/>
-selbst glauben, dass es f&#252;r sie die gr&#246;sste Existenzssicherung ist, dass<lb/>
-so wenig wie m&#246;glich neue Betriebsformen kommen, obwohl wir derzeit<lb/>
+positiven Elemente sammelt, um ja nur Tchibo die entsprechenden Kon<lb break="no"/>zessionen geben zu können. Ich war froh, dass sie bei der Sitzung<lb/>
+nicht anwesend war, denn sonst hätte sie sicherlich in Zukunft sich noch<lb/>
+mehr über das Verhalten der Innung beklagt. Die Innungsleiter<lb/>
+selbst glauben, dass es für sie die grösste Existenzssicherung ist, dass<lb/>
+so wenig wie möglich neue Betriebsformen kommen, obwohl wir derzeit<lb/>
 ja 220 Betriebsformen im Gast- und Schankgewerbe haben, manche behaupten<lb/>
-sogar, die Zahl sei 260, wenn man die Hotelgenehmigungen noch hinzuz&#228;hlt.<lb/>
+sogar, die Zahl sei 260, wenn man die Hotelgenehmigungen noch hinzuzählt.<lb/>
 Ich glaube, dass einer Entwicklung zu modernen Verkaufsformen, wo eben<lb/>
-Kaffee in einem Kaffesondergesch&#228;ft, welches als Art Kostprobe schalen<lb break="no"/>weise Kaffee billig abgibt, nicht mehr aufzuhalten ist. Der Hinweis,<lb/>
-dass das Kaffehaus heute f&#252;r den Fremdenverkehr eine bedeutende Rolle<lb/>
-spielt und deshalb unter allen Umst&#228;nden erhalten werden soll, will<lb/>
-<pb n="03-0600" facs="03_1970-10-01_0600.jpg"/>ich gar nicht bestreiten, ich glaube aber, dass die Methoden,<lb/>
-wie die Innung glaubt sie erhalten zu k&#246;nnen, hoffnungslos anti-</p>
-            <p xml:space="preserve">quiert sind und sicher keinen Erfolg zeigen werden.</p>
-            <p xml:space="preserve">Rentnerversammlung in der SP&#214;-Landstrasse waren phantastisch be<lb break="no"/>sucht und wenn es nach diesen Versammlungen geht, m&#252;ssten wir einen<lb/>
-grossen Sieg feiern k&#246;nnen. Angeblich kommen auch die Lautsprecher<lb break="no"/>wagen der &#214;VP, die im dritten Bezirk durchfahren, nicht gut an.<lb/>
-Es w&#228;re immerhin denkbar, dass es der &#214;VP so geht, wie uns l966.<lb/>
-Damals haben wir auch durch Lautsprecherwagen &#8211; ich selbst bin<lb/>
-tagelang damit herumgefahren und habe die Bev&#246;lkerung vielleicht<lb/>
-sogar maltr&#228;tiert, anstelle wie ich glaubte, mit meinen Gags erhei<lb break="no"/>tert, versucht, die Wahlparolen der Bev&#246;lkerung einzuh&#228;mmern. Der<lb/>
-Erfolg hat uns nicht recht gegeben, Vielleicht will die Bev&#246;lkerung<lb/>
-wirklich nicht diese marktschreierischen Ank&#252;ndigungen mehr h&#246;ren.</p>
-            <p xml:space="preserve">Bei Bundeskanzler <rs type="person" ref="#per__97668">Kreisky</rs> hatten wir der Schutzverbandobmann von<lb/>
-Kitzb&#252;hel<lb/>
-und ich, eine Rundfunkaufnahme f&#252;r die Sendung des Bun<lb break="no"/>deskanzlers. Er hat sofort richtig gesp&#252;rt, dass vor den Wahlen<lb/>
-keinerlei politische Aktion mehr zugkr&#228;ftiger sein k&#246;nnte, als neuer<lb break="no"/>dings f&#252;r die Tiroler und auch f&#252;r die &#252;brige Bev&#246;lkerung das Um<lb break="no"/>weltsproblem und den Schutz der Landschaft neuerdings zu dokumen<lb break="no"/>tieren.</p>
-            <p xml:space="preserve"><rs type="person" ref="#per__97867">Reiterer</rs> sch&#228;tzte glaube ich sehr, dass ich mit ihm nach Bern geflogen<lb/>
+Kaffee in einem Kaffesondergeschäft, welches als Art Kostprobe schalen<lb break="no"/>weise Kaffee billig abgibt, nicht mehr aufzuhalten ist. Der Hinweis,<lb/>
+dass das Kaffehaus heute für den Fremdenverkehr eine bedeutende Rolle<lb/>
+spielt und deshalb unter allen Umständen erhalten werden soll, will<lb/>
+<pb n="03-0600" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band03/03_1970-10-01_0600.jp2/full/pct:100/0/default.jpg"/>ich gar nicht bestreiten, ich glaube aber, dass die Methoden,<lb/>
+wie die Innung glaubt sie erhalten zu können, hoffnungslos anti-</p>
+            <p xml:space="preserve" xml:id="Band03_1970-10-01_04">quiert sind und sicher keinen Erfolg zeigen werden.</p>
+            <p xml:space="preserve" xml:id="Band03_1970-10-01_05">Rentnerversammlung in der SPÖ-Landstrasse waren phantastisch be<lb break="no"/>sucht und wenn es nach diesen Versammlungen geht, müssten wir einen<lb/>
+grossen Sieg feiern können. Angeblich kommen auch die Lautsprecher<lb break="no"/>wagen der ÖVP, die im dritten Bezirk durchfahren, nicht gut an.<lb/>
+Es wäre immerhin denkbar, dass es der ÖVP so geht, wie uns l966.<lb/>
+Damals haben wir auch durch Lautsprecherwagen – ich selbst bin<lb/>
+tagelang damit herumgefahren und habe die Bevölkerung vielleicht<lb/>
+sogar malträtiert, anstelle wie ich glaubte, mit meinen Gags erhei<lb break="no"/>tert, versucht, die Wahlparolen der Bevölkerung einzuhämmern. Der<lb/>
+Erfolg hat uns nicht recht gegeben, Vielleicht will die Bevölkerung<lb/>
+wirklich nicht diese marktschreierischen Ankündigungen mehr hören.</p>
+            <p xml:space="preserve" xml:id="Band03_1970-10-01_06">Bei Bundeskanzler <rs type="person" ref="#per__97668">Kreisky</rs> hatten wir der Schutzverbandobmann von<lb/>
+Kitzbühel<lb/>
+und ich, eine Rundfunkaufnahme für die Sendung des Bun<lb break="no"/>deskanzlers. Er hat sofort richtig gespürt, dass vor den Wahlen<lb/>
+keinerlei politische Aktion mehr zugkräftiger sein könnte, als neuer<lb break="no"/>dings für die Tiroler und auch für die übrige Bevölkerung das Um<lb break="no"/>weltsproblem und den Schutz der Landschaft neuerdings zu dokumen<lb break="no"/>tieren.</p>
+            <p xml:space="preserve" xml:id="Band03_1970-10-01_07"><rs type="person" ref="#per__97867">Reiterer</rs> schätzte glaube ich sehr, dass ich mit ihm nach Bern geflogen<lb/>
 bin. Er hatte damit Gelegenheit, endlich mit mir unter vier Augen<lb/>
-&#252;ber seine Probleme zu sprechen. Ich musste aber leider feststellen,<lb/>
-dass wir &#252;ber die Arbeitsweise anderer Meinung sind, obwohl ich es<lb/>
+über seine Probleme zu sprechen. Ich musste aber leider feststellen,<lb/>
+dass wir über die Arbeitsweise anderer Meinung sind, obwohl ich es<lb/>
 ihm nicht so deutlich zu verstehen gab. Er steht noch immer<lb/>
-auf dem Standpunkt, die beste Handelspolitik ist die Geheimdiploma<lb break="no"/>tie, wo er nicht einmal seinen engsten Mitarbeitern, den Abteilungs<lb break="no"/>leitern, &#252;ber seine Absichten Mitteilung macht. Er glaubt auch, dass<lb/>
-es unzweckm&#228;ssig war, &#252;ber die Ostpolitik, die wir gemeinsam erar<lb break="no"/>beitet haben, jetzt im Sektionsleiterprotokoll etwas auszuf&#252;hren,<lb/>
-denn mach seiner Meinung nach, w&#252;rde das nur die Verhandlungen er<lb break="no"/>schweren und ausserdem wird ja jeder Schritt im Osten sofort bekannt<lb/>
+auf dem Standpunkt, die beste Handelspolitik ist die Geheimdiploma<lb break="no"/>tie, wo er nicht einmal seinen engsten Mitarbeitern, den Abteilungs<lb break="no"/>leitern, über seine Absichten Mitteilung macht. Er glaubt auch, dass<lb/>
+es unzweckmässig war, über die Ostpolitik, die wir gemeinsam erar<lb break="no"/>beitet haben, jetzt im Sektionsleiterprotokoll etwas auszuführen,<lb/>
+denn mach seiner Meinung nach, würde das nur die Verhandlungen er<lb break="no"/>schweren und ausserdem wird ja jeder Schritt im Osten sofort bekannt<lb/>
 werden. Ich dagegen stehe auf dem Standpunkt, dass selbst wenn nur<lb/>
-drei Personen &#252;ber etwas sprechen, durch Weitergabe dieser Gespr&#228;che fr&#252;<lb break="no"/>her oder sp&#228;ter auch der Osten davon Mitteilung erh&#228;lt. Interessanterwei<lb break="no"/>se deckte sich diese Meinung auch mit der von Botschafter <rs type="person" ref="#per__137933">Marquet</rs>, den wir<lb/>
-in Bern trafen. Von umfangreichen vorbereitenden Arbeiten h&#228;lt <rs type="person" ref="#per__97867">Reiterer</rs><lb/>
-<pb n="03-0601" facs="03_1970-10-01_0601.jpg"/>auch nichts, weil er sagt, jeden Moment &#228;ndert sich die Situation.<lb/>
+drei Personen über etwas sprechen, durch Weitergabe dieser Gespräche frü<lb break="no"/>her oder später auch der Osten davon Mitteilung erhält. Interessanterwei<lb break="no"/>se deckte sich diese Meinung auch mit der von Botschafter <rs type="person" ref="#per__137933">Marquet</rs>, den wir<lb/>
+in Bern trafen. Von umfangreichen vorbereitenden Arbeiten hält <rs type="person" ref="#per__97867">Reiterer</rs><lb/>
+<pb n="03-0601" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band03/03_1970-10-01_0601.jp2/full/pct:100/0/default.jpg"/>auch nichts, weil er sagt, jeden Moment ändert sich die Situation.<lb/>
 Zum Beispiel ist er der Meinung, dass das ausgezeichnete Papier,<lb/>
-das Finanzminister <rs type="person" ref="#per__97311">Androsch</rs> von seiner Abteilung &#252;ber die EG-Probleme<lb/>
-bekommen hat, heute ja schon &#252;berholt sei und deshalb seiner Meinung<lb/>
-nach gar nie h&#228;tte erstellt werden m&#252;ssen.</p>
+das Finanzminister <rs type="person" ref="#per__97311">Androsch</rs> von seiner Abteilung über die EG-Probleme<lb/>
+bekommen hat, heute ja schon überholt sei und deshalb seiner Meinung<lb/>
+nach gar nie hätte erstellt werden müssen.</p>
          </div>
       </body>
       <back>
-         <pb n="03_0596_01" facs="03_1970-10-01_0596-01.jpg"/>
+         <pb n="03_0596_01" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band03/03_1970-10-01_0596-01.jp2/full/pct:100/0/default.jpg"/>
          <div type="attachment" subtype="cabinetAgenda">
             <head>Tagesprogramm, 1.10.1970</head>
             <gap reason="sampling"/>

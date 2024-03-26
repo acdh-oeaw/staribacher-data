@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="staribacher__19700520">
   <teiHeader>
       <fileDesc>
@@ -45,49 +46,46 @@
    </teiHeader>
   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band01/">
       <body>
-         <pb n="01-0132" facs="01_1970-05-20_0132.jpg"/>
+         <pb n="01-0132" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band01/01_1970-05-20_0132.jp2/full/pct:100/0/default.jpg"/>
          <div type="entry">
-            <dateline>
-               <date when="1970-05-20">Mittwoch, 20. Mai</date>
-            </dateline>
-            <p xml:space="preserve">Das Parlamentspr&#228;sidium hatte vereinbart, dass heute zwei NR-Sitzungen<lb/>
-stattfinden, und zwar eine Einbringungssitzung und eine Zuteilu g<lb break="no"/>sitzung. Dies verlangt die Gesch&#228;ftsordnung. Aus diesem Grunde<lb/>
-war klar, dass mindestens zwei Fragestunden starten w&#252;rden. Ich wurde<lb/>
+            <p xml:space="preserve" xml:id="Band01_1970-05-20_01">Das Parlamentspräsidium hatte vereinbart, dass heute zwei NR-Sitzungen<lb/>
+stattfinden, und zwar eine Einbringungssitzung und eine Zuteilu g<lb break="no"/>sitzung. Dies verlangt die Geschäftsordnung. Aus diesem Grunde<lb/>
+war klar, dass mindestens zwei Fragestunden starten würden. Ich wurde<lb/>
 mit 4 Fragen in die erste Fragestunde aufgenommen. Ich hatte mir<lb/>
 von den Abteilungen ein entsprechendes Material kommen lassen.<lb/>
 Leider war die Unterlage sehr unbefriedigend. Insbesonderedie An<lb break="no"/>frage von Abgeordneten <rs type="person" ref="#per__97807">Peter</rs>, ob ich beabsichtige, das Berggesetz<lb/>
-1954 zu novellieren und den L&#228;ndern einen gr&#246;sseren Einfluss<lb/>
+1954 zu novellieren und den Ländern einen grösseren Einfluss<lb/>
 zu geben, erkannte ich als eine entsprechende Einleitungsfrage.<lb/>
-Die Oberste Bergbeh&#246;rde hatte mich aber nicht darauf aufmerksam<lb/>
-gemacht, welche Fallstricke diese Frage beinhalten kann. Ich ver<lb break="no"/>langte deshalb, nachdem ich mir die Unterlagen einigermassen ange<lb break="no"/>schaut hatte, den Leiter der OB und hatte eine entsprechende deut<lb break="no"/>liche Aussprache mit ihm ,d.h. ich erkl&#228;rte ihm, dass ich unbedingt<lb/>
-in Zukunft eine Unerlage ben&#246;tige, wo bereits auf die zu erwartenden<lb/>
+Die Oberste Bergbehörde hatte mich aber nicht darauf aufmerksam<lb/>
+gemacht, welche Fallstricke diese Frage beinhalten kann. Ich ver<lb break="no"/>langte deshalb, nachdem ich mir die Unterlagen einigermassen ange<lb break="no"/>schaut hatte, den Leiter der OB und hatte eine entsprechende deut<lb break="no"/>liche Aussprache mit ihm ,d.h. ich erklärte ihm, dass ich unbedingt<lb/>
+in Zukunft eine Unerlage benötige, wo bereits auf die zu erwartenden<lb/>
 Zusatzfragen hingewiesen wird. Ich werde dieses verlangen und die<lb/>
-Kritik bei der n&#228;chsten Sektionsleiterbesprechung ganz deutlich zum<lb/>
-Ausdruck bringen. Bei der ersten Frage von Abg. <rs type="person" ref="#per__97737"><sic>Meisl</sic></rs>, ob ich be<lb break="no"/>absichtige, den aMTLICHEN Stimmzettel einzuf&#252;hren, hatte ich mich<lb/>
-vorher nicht nur &#252;ber die Details der bisherigen Verhandlungen<lb/>
-genau informiert, sondern <rs type="person" ref="#per__97893">Sallinger</rs> auch angerufen und ihm mitge<lb break="no"/>teilt, dass ich eine solche Frage nur positiv beantworten k&#246;nnte.<lb/>
-Er selbst sagte mir, ich sollte sehr zur&#252;ckhaltend sein, weil die<lb/>
-endg&#252;ltigen Verhandlungen seiner Meinung nach noch nicht abgeschlos<lb break="no"/>sen sind. Ausserdem verlangte ich um Mitteilung, ob es irgendwo<lb/>
+Kritik bei der nächsten Sektionsleiterbesprechung ganz deutlich zum<lb/>
+Ausdruck bringen. Bei der ersten Frage von Abg. <rs type="person" ref="#per__97737"><sic>Meisl</sic></rs>, ob ich be<lb break="no"/>absichtige, den aMTLICHEN Stimmzettel einzuführen, hatte ich mich<lb/>
+vorher nicht nur über die Details der bisherigen Verhandlungen<lb/>
+genau informiert, sondern <rs type="person" ref="#per__97893">Sallinger</rs> auch angerufen und ihm mitge<lb break="no"/>teilt, dass ich eine solche Frage nur positiv beantworten könnte.<lb/>
+Er selbst sagte mir, ich sollte sehr zurückhaltend sein, weil die<lb/>
+endgültigen Verhandlungen seiner Meinung nach noch nicht abgeschlos<lb break="no"/>sen sind. Ausserdem verlangte ich um Mitteilung, ob es irgendwo<lb/>
 eine Beanstandung der Wahlen von Seiten der Freiheitlichen gegeben<lb/>
 hatte. Da <rs type="person" ref="#per__97893">Sallinger</rs> diese Details nicht wusste, hatte er mich<lb/>
 dann nachher mit <rs type="person" ref="#per__97769">Mussil</rs> verbunden. <rs type="person" ref="#per__97769">Mussil</rs> selbst teilte mir mit,<lb/>
 dass nur im Burgenland und in Tirol von Seiten des Freien Wirt<lb break="no"/>schaftsverbandes Beanstandungen der Wahl vorgebracht wurden und zwar<lb/>
-weil dort einzelne Mitglieder oder W&#228;hler des FWV nicht FWV sondern<lb/>
-SP&#214; auf den Stimmzettel geschrieben hatten. Doch seien diese F&#228;lle<lb/>
-vereinzelt gewesen und auch in den &#246;rtlichen lokalen Wahlbeh&#246;rden<lb/>
-bereinigt worden. Die zweite Frage war von <rs type="person" ref="#per__97656">Kostroun</rs> &#252;ber die Ab<lb break="no"/>sicht in der Gewerbeordnungsnovelle und hatte eigentlich nur den<lb/>
+weil dort einzelne Mitglieder oder Wähler des FWV nicht FWV sondern<lb/>
+SPÖ auf den Stimmzettel geschrieben hatten. Doch seien diese Fälle<lb/>
+vereinzelt gewesen und auch in den örtlichen lokalen Wahlbehörden<lb/>
+bereinigt worden. Die zweite Frage war von <rs type="person" ref="#per__97656">Kostroun</rs> über die Ab<lb break="no"/>sicht in der Gewerbeordnungsnovelle und hatte eigentlich nur den<lb/>
 Sinn auch einen Sozialisten den Handelsminister fragen zu lassen.</p>
-            <pb n="01-0133" facs="01_1970-05-20_0133.jpg"/>
-            <p xml:space="preserve">Dieskonnte ich dadurch entnehmen, dass <rs type="person" ref="#per__97656">Kostroun</rs> mir vorher im<lb/>
+            <pb n="01-0133" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band01/01_1970-05-20_0133.jp2/full/pct:100/0/default.jpg"/>
+            <p xml:space="preserve" xml:id="Band01_1970-05-20_02">Dieskonnte ich dadurch entnehmen, dass <rs type="person" ref="#per__97656">Kostroun</rs> mir vorher im<lb/>
 Klub mitteilte, dass er nicht beabsichtigt, eine Zusatzfrage<lb/>
 zu stellen. Ich erwiderte spontan, dass ich diese Vorgangsweise<lb/>
-f&#252;r vollkommen verfehlt halte. Er sollte unter allen Umst&#228;nden<lb/>
+für vollkommen verfehlt halte. Er sollte unter allen Umständen<lb/>
 fragen, gegebenenfalls sogar sehr hart fragen, damit ja nicht der<lb/>
 Eindruck entsteht, dass hier bestellte Fragen nur zum Abdecken<lb/>
 des Ministers gestellt wurden. Solche Vorgangsweise wurde gerade<lb/>
-von mir in der abgelaufenen Legislaturperiode immer wieder kriti<lb break="no"/>siert. Er war dar&#252;ber sehr erstaunt und hatte mit mir wollen die<lb/>
+von mir in der abgelaufenen Legislaturperiode immer wieder kriti<lb break="no"/>siert. Er war darüber sehr erstaunt und hatte mit mir wollen die<lb/>
 Zusatzfragen besprechen. Da antwortete ich ihm, dass ich auch diese<lb/>
-Vorgangsweise nicht f&#252;r sehr zweckm&#228;ssig halte, da nur aus der<lb/>
+Vorgangsweise nicht für sehr zweckmässig halte, da nur aus der<lb/>
 spontanen Frage unvorbereitet auch die spontane Antwort kommt<lb/>
 und dann der Eindruck entsteht, dass es sich hier nicht um ein<lb/>
 abgekartetes Spiel handelt. Beim seinerzeitigen Sozialminister<lb/>
@@ -95,97 +93,97 @@ abgekartetes Spiel handelt. Beim seinerzeitigen Sozialminister<lb/>
 Verlesen einer vorbereiteten Antwort beantwortet hat. Es war damit<lb/>
 vollkommen klar, dass mit dem Anfragesteller nicht nur die Frage<lb/>
 sondern auch die Zusatzfragen vorher im Detail besprochen hat. Ich<lb/>
-halte eine solche Vorgangsweise nat&#252;rlich f&#252;r den Parlamentarismus und<lb/>
-f&#252;r die Fragestunde vollkommen abtr&#228;glich. Die Frage <rs type="person" ref="#per__97749">Mitterer</rs> be<lb break="no"/>treffend die Ministerb&#252;robesetzung konnte ich ohne dass ich Details<lb/>
+halte eine solche Vorgangsweise natürlich für den Parlamentarismus und<lb/>
+für die Fragestunde vollkommen abträglich. Die Frage <rs type="person" ref="#per__97749">Mitterer</rs> be<lb break="no"/>treffend die Ministerbürobesetzung konnte ich ohne dass ich Details<lb/>
 sagen musste, glaube ich zu unseren Gunsten entscheiden. Ich nehme<lb/>
 aber an, dass <rs type="person" ref="#per__97749">Mitterer</rs> dieses Thema weiterspinnen wird und es ist<lb/>
-daher sehr gut, dass wir noch die wichtigsten Argumente zur&#252;ckhalten<lb/>
-konnten. Die Frage <rs type="person" ref="#per__97807">Peters</rs> bez&#252;glich der Bergwerksgesetzes-Novelle war<lb/>
-f&#252;r mich eine Gelegenheit, ihm zu versichern, dass selbstverst&#228;nd<lb break="no"/>lich die OB wie ich mich ausdr&#252;ckte, von mir ersucht wurde, alle<lb/>
-an einem Verfahren bez&#252;glich des Bergwerksrechts Beteiligten<lb/>
+daher sehr gut, dass wir noch die wichtigsten Argumente zurückhalten<lb/>
+konnten. Die Frage <rs type="person" ref="#per__97807">Peters</rs> bezüglich der Bergwerksgesetzes-Novelle war<lb/>
+für mich eine Gelegenheit, ihm zu versichern, dass selbstverständ<lb break="no"/>lich die OB wie ich mich ausdrückte, von mir ersucht wurde, alle<lb/>
+an einem Verfahren bezüglich des Bergwerksrechts Beteiligten<lb/>
 aber auch die Nichtbeteiligten entsprechdn zu informieren. Dies bezieh<lb/>
 sich sowohl auf die Landesregierungen als auch auf die Gemeinden.<lb/>
 Ich glaube, dass diese Fragestunden an uns gegangen sind, ich weiss<lb/>
-allerdings noch nicht, ob die &#246;ffentliche Meinung, d.h. die Presse<lb/>
+allerdings noch nicht, ob die öffentliche Meinung, d.h. die Presse<lb/>
 und die Massenmedien, auch diesenEindruck vermitteln werden.<lb/>
-Die &#214;VP hatte ganz &#252;berraschend f&#252;r mich eine dringliche Anfrage<lb/>
+Die ÖVP hatte ganz überraschend für mich eine dringliche Anfrage<lb/>
 eingebracht betreffend den Artikel, den <rs type="person" ref="#per__97668">Kreisky</rs> im Spiegel wegen<lb/>
-der verbrannten Akten gegeben hat. Zum Gl&#252;ck hatte ich seinerzeit<lb/>
+der verbrannten Akten gegeben hat. Zum Glück hatte ich seinerzeit<lb/>
 als dieses Problem bei uns bekannt wurde, veranlasst, dass eine<lb/>
-Untersuchung angestellt wurde und die St&#252;cke. die gesichert wurden,<lb/>
-auch entsprechend den daf&#252;r zust&#228;ndigen Sektionschefs zur Kenntnis<lb/>
+Untersuchung angestellt wurde und die Stücke. die gesichert wurden,<lb/>
+auch entsprechend den dafür zuständigen Sektionschefs zur Kenntnis<lb/>
 gelangten. Die Untersuchungen haben damals ergeben, dass angeblich<lb/>
-<pb n="01-0134" facs="01_1970-05-20_0134.jpg"/>nur pers&#246;nliche Akte des Ministers verbrannt wurden. Dabei handelt<lb/>
+<pb n="01-0134" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band01/01_1970-05-20_0134.jp2/full/pct:100/0/default.jpg"/>nur persönliche Akte des Ministers verbrannt wurden. Dabei handelt<lb/>
 es sich aber nicht nur um Akte, die von Handelsminister <rs type="person" ref="#per__97749">Mitterer</rs><lb/>
-stammen, sondern insbesondere von seinem Vorg&#228;nger <rs type="person" ref="#per__97358">Bock</rs>. Die Vor<lb break="no"/>gangsweise des Verbrennens war auf alle F&#228;lle unzweckm&#228;ssig, das<lb/>
-sie erstens unvollst&#228;ndig gewesen ist, es kamen durch diese Methode<lb/>
+stammen, sondern insbesondere von seinem Vorgänger <rs type="person" ref="#per__97358">Bock</rs>. Die Vor<lb break="no"/>gangsweise des Verbrennens war auf alle Fälle unzweckmässig, das<lb/>
+sie erstens unvollständig gewesen ist, es kamen durch diese Methode<lb/>
 angesengte vertrauliche Berichte und Geheimberichte, die nur unter<lb/>
-Verschluss gehalten werden durften, in die &#214;ffentlichkeit und<lb/>
-zweitens war es unserer Meinung &#252;berhaupt unzweckm&#228;ssig, solches<lb/>
-Material zu verbrennen, sondern das h&#228;tte man unbedingt zu den<lb/>
-Akten geben sollen, auch dann wenn es sich &#8211; wie <rs type="person" ref="#per__97749">Mitterer</rs> behauptete<lb break="no"/>- nur um Zweit- und Drittschriften handelt, damit die dann entsprechend<lb/>
-skartiert werden k&#246;nnen , wenn die Zeit abgelaufen war.</p>
-            <p xml:space="preserve">Durch die lange Dauer der Nationalratssitzung konnte ich an der<lb/>
-Er&#246;ffnung des Konsummarktes nicht teilnehmen, ebenso nicht das<lb/>
-Vorstandsmitglied <rs type="person" ref="#per__98043">Waldbrunner</rs> und vor allem der Aufsichtsrats<lb break="no"/>vorsitzende <rs type="person" ref="#per__97346">Benya</rs>, der die Leute alle begr&#252;ssen sollte. Ich war<lb/>
-dar&#252;ber gar nicht sehr ungl&#252;cklich, denn sicher h&#228;tte ich die Ge<lb break="no"/>legenheit gehabt, auf die Wettbewerbssituation neuerdings hinzu<lb break="no"/>weisen, doch darf man nicht vergessen, dass es in der &#214;ffentlichkeit<lb/>
-sicher nicht einen sehr guten Eindruck gemacht h&#228;tte, wenn ich als<lb/>
-erste Er&#246;ffnung einer Konsumfiliale eines Grossupermarktes aufge<lb break="no"/>treten w&#228;re. Ich hatte anschliessend eine Aussprache mit V&#214;EST<lb/>
+Verschluss gehalten werden durften, in die Öffentlichkeit und<lb/>
+zweitens war es unserer Meinung überhaupt unzweckmässig, solches<lb/>
+Material zu verbrennen, sondern das hätte man unbedingt zu den<lb/>
+Akten geben sollen, auch dann wenn es sich – wie <rs type="person" ref="#per__97749">Mitterer</rs> behauptete<lb break="no"/>- nur um Zweit- und Drittschriften handelt, damit die dann entsprechend<lb/>
+skartiert werden können , wenn die Zeit abgelaufen war.</p>
+            <p xml:space="preserve" xml:id="Band01_1970-05-20_03">Durch die lange Dauer der Nationalratssitzung konnte ich an der<lb/>
+Eröffnung des Konsummarktes nicht teilnehmen, ebenso nicht das<lb/>
+Vorstandsmitglied <rs type="person" ref="#per__98043">Waldbrunner</rs> und vor allem der Aufsichtsrats<lb break="no"/>vorsitzende <rs type="person" ref="#per__97346">Benya</rs>, der die Leute alle begrüssen sollte. Ich war<lb/>
+darüber gar nicht sehr unglücklich, denn sicher hätte ich die Ge<lb break="no"/>legenheit gehabt, auf die Wettbewerbssituation neuerdings hinzu<lb break="no"/>weisen, doch darf man nicht vergessen, dass es in der Öffentlichkeit<lb/>
+sicher nicht einen sehr guten Eindruck gemacht hätte, wenn ich als<lb/>
+erste Eröffnung einer Konsumfiliale eines Grossupermarktes aufge<lb break="no"/>treten wäre. Ich hatte anschliessend eine Aussprache mit VÖEST<lb/>
 Generaldirektor <rs type="person">Koller</rs> und Verkaufsdirektor <rs type="person" ref="#per__97729">Mattes</rs> waren zu mir<lb/>
 gekommen, da ich sie aufmerksam gemacht hatte, dass die Kohlensituation<lb/>
-d.h. inbesondere die Kokssituation f&#252;r das laufende Jahr den kommenden<lb/>
-Winter &#228;usserst kritisch werden w&#252;rde. <rs type="person">Koller</rs> versprach, sich unver<lb break="no"/>z&#252;glich mit der deutschen Ruhrkohle ins Einvernehmen zu setzen, wenn<lb/>
+d.h. inbesondere die Kokssituation für das laufende Jahr den kommenden<lb/>
+Winter äusserst kritisch werden würde. <rs type="person">Koller</rs> versprach, sich unver<lb break="no"/>züglich mit der deutschen Ruhrkohle ins Einvernehmen zu setzen, wenn<lb/>
 ich ihm mitteile, mit wem Hannes <rs type="person" ref="#per__97311">Androsch</rs> bei dem SPD-Parteitag gespro<lb break="no"/>chen hat. Denn er behauptete, dass die deutschen Manager von Ruhrkohle<lb/>
 absolut unansprechbar sind, wenn man nicht ihnen mitteilen kann,<lb/>
-dass z.B. ihr <rs type="person">M&#246;ller</rs>, <rs type="person">Hart</rs> oder <rs type="person">Schillir</rs> mit uns gesprochen hat und<lb/>
+dass z.B. ihr <rs type="person">Möller</rs>, <rs type="person">Hart</rs> oder <rs type="person">Schillir</rs> mit uns gesprochen hat und<lb/>
 uns ersucht hat. mit dem und dem betreffenden Herren ins Einvernehmen<lb/>
-zu setzen. Ich habe diese Aussprache pers&#246;nlich nicht gef&#252;hrt und<lb/>
-deshalb <rs type="person" ref="#per__97311">Androsch</rs> ersucht, sich unverz&#252;glichst mit den deutschen Ge<lb break="no"/>nossen ins Einvernehmen zu setzen, damit <rs type="person" ref="#per__97729">Mattes</rs> dann von ihm die<lb/>
-Namen bekommen k&#246;nnte, an die sich die V&#214;EST wenden sollte.</p>
-            <pb n="01-0135" facs="01_1970-05-20_0135.jpg"/>
-            <p xml:space="preserve">Tatsache ist, dass die V&#214;EST, nachdem der Vertrag 1969 abgelau<lb break="no"/>fen ist, keinen wie immer gearteten Anspruch hat auf Lieferung von<lb/>
+zu setzen. Ich habe diese Aussprache persönlich nicht geführt und<lb/>
+deshalb <rs type="person" ref="#per__97311">Androsch</rs> ersucht, sich unverzüglichst mit den deutschen Ge<lb break="no"/>nossen ins Einvernehmen zu setzen, damit <rs type="person" ref="#per__97729">Mattes</rs> dann von ihm die<lb/>
+Namen bekommen könnte, an die sich die VÖEST wenden sollte.</p>
+            <pb n="01-0135" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band01/01_1970-05-20_0135.jp2/full/pct:100/0/default.jpg"/>
+            <p xml:space="preserve" xml:id="Band01_1970-05-20_04">Tatsache ist, dass die VÖEST, nachdem der Vertrag 1969 abgelau<lb break="no"/>fen ist, keinen wie immer gearteten Anspruch hat auf Lieferung von<lb/>
 Koks oder Kohle, denn die Ruhr hat ihnen die sonst 750 oder 800.000 t<lb/>
 beziehen, nur 400.000 zugesagt, von denen sie aber bis jetzt schein<lb break="no"/>bar nur 200.000 liefern wollen. <rs type="person" ref="#per__97729">Mattes</rs> hat darauf hingewiesen, dass<lb/>
 in Deutschland am besten zu erkennen ist, wie schwierig dort auch<lb/>
-die Kohlensituation ist, dass die Eisen- und Stahlwerke ihre Kapa<lb break="no"/>zit&#228;t um 8 &#8211; 10 % nicht ausn&#252;tzen k&#246;nnen, weil sie keine Kohle zur<lb/>
-Verf&#252;gung waren.</p>
-            <p xml:space="preserve">Abend war ich das erste Mal im Parteivorstand und ich habe genau<lb/>
-das best&#228;tigt gefunden, was ich ja infolge meiner langj&#228;hrigen<lb/>
-politischen T&#228;tigkeit schon kenne, dass in diesem Gremien in Wirk<lb break="no"/>lichkeit nur mehr Vollzugsbeschl&#252;sse gefasst werden, die Probleme<lb/>
+die Kohlensituation ist, dass die Eisen- und Stahlwerke ihre Kapa<lb break="no"/>zität um 8 – 10 % nicht ausnützen können, weil sie keine Kohle zur<lb/>
+Verfügung waren.</p>
+            <p xml:space="preserve" xml:id="Band01_1970-05-20_05">Abend war ich das erste Mal im Parteivorstand und ich habe genau<lb/>
+das bestätigt gefunden, was ich ja infolge meiner langjährigen<lb/>
+politischen Tätigkeit schon kenne, dass in diesem Gremien in Wirk<lb break="no"/>lichkeit nur mehr Vollzugsbeschlüsse gefasst werden, die Probleme<lb/>
 werden wo anders besprochen und die Entscheidungen auch wo anders<lb/>
-vorbereitet. Ich hatte z.B. nat&#252;rlich schon gewusst, dass der &#214;IG<lb break="no"/>Vorstand abgebaut wird und dass insbesondere von der Verbund Dr. <rs type="person">Koth<lb break="no"/>bauer</rs> als Generaldirektor eingesetzt werden soll. Dieser Bericht<lb/>
-war mir deshalb &#252;berhaupt nicht neu, genau so wenig wie die Beschluss<lb break="no"/>fassung &#252;ber die Arbeitsgruppe, die jetzt das Problem der &#214;SW-&#214;MV<lb/>
-Fusionierung bepsrechen und l&#246;sen soll. Die anderen Beschl&#252;sse<lb/>
-waren vollkommen formeller Art &#252;ber den Parteitag, &#252;ber die B&#252;cher<lb/>
-und sonstigen organisatorischen Kram wie ich es eigentlich bezeich<lb break="no"/>nen w&#252;rde. Der Bundesparteivorstand musste auch noch das Problem Land<lb break="no"/>wirtschaftsminister l&#246;sen und <rs type="person" ref="#per__97668">Kreisky</rs> konnte mitteilen, was ich auch<lb/>
-schon gewusst habe, da Weiss mit mir nachmittag bereits mit mir &#252;ber<lb/>
-seine Politik gesprochen hat, dass <rs type="person">&#214;llinger</rs> ihn ersucht hat, ihn<lb/>
-von dem Posten zu entheben auf ausdr&#252;ckliches Anraten seiner &#196;rzte<lb/>
-und dass er <rs type="person" ref="#per__97668">Kreisky</rs> vorschl&#228;gt, jetzt den Dipl.Ing. Dr. <rs type="person" ref="#per__98055">Weihs</rs> von<lb/>
-der Arbeiterkammer Graz zum neuen Landwirtschaftsminister zu be<lb break="no"/>stellen. Ich war &#252;ber diese Entscheidung sehr froh, denn ich war<lb/>
-&#252;berzeugt, dass <rs type="person">&#214;llinger</rs> auch vom Standpunkt unserer Partei eine<lb/>
-Agrarpolitik vertreten h&#228;tte, die sich ausschliesslich nach den<lb/>
-Bed&#252;rfnissen des Bauernbundes weitgehend gerichtet h&#228;tte. Ich h&#228;tte<lb/>
-ja nichts dagegen, dass er im engsten Einvernehmen mit dem Bauern<lb break="no"/>bund vorgegangen w&#228;re. Aber die Gefahr besteht ja, wie <rs type="person" ref="#per__97819">Pleschiutsch<lb break="no"/>nig</rs> uns mitgeteilt hat, dass der Bauernbund ja schon in der<lb/>
-<pb n="01-0136" facs="01_1970-05-20_0136.jpg"/>B&#252;rokratie zu erkennen gegeben hatte, dass er auch mit diesem<lb/>
+vorbereitet. Ich hatte z.B. natürlich schon gewusst, dass der ÖIG<lb break="no"/>Vorstand abgebaut wird und dass insbesondere von der Verbund Dr. <rs type="person">Koth<lb break="no"/>bauer</rs> als Generaldirektor eingesetzt werden soll. Dieser Bericht<lb/>
+war mir deshalb überhaupt nicht neu, genau so wenig wie die Beschluss<lb break="no"/>fassung über die Arbeitsgruppe, die jetzt das Problem der ÖSW-ÖMV<lb/>
+Fusionierung bepsrechen und lösen soll. Die anderen Beschlüsse<lb/>
+waren vollkommen formeller Art über den Parteitag, über die Bücher<lb/>
+und sonstigen organisatorischen Kram wie ich es eigentlich bezeich<lb break="no"/>nen würde. Der Bundesparteivorstand musste auch noch das Problem Land<lb break="no"/>wirtschaftsminister lösen und <rs type="person" ref="#per__97668">Kreisky</rs> konnte mitteilen, was ich auch<lb/>
+schon gewusst habe, da Weiss mit mir nachmittag bereits mit mir über<lb/>
+seine Politik gesprochen hat, dass <rs type="person">Öllinger</rs> ihn ersucht hat, ihn<lb/>
+von dem Posten zu entheben auf ausdrückliches Anraten seiner Ärzte<lb/>
+und dass er <rs type="person" ref="#per__97668">Kreisky</rs> vorschlägt, jetzt den Dipl.Ing. Dr. <rs type="person" ref="#per__98055">Weihs</rs> von<lb/>
+der Arbeiterkammer Graz zum neuen Landwirtschaftsminister zu be<lb break="no"/>stellen. Ich war über diese Entscheidung sehr froh, denn ich war<lb/>
+überzeugt, dass <rs type="person">Öllinger</rs> auch vom Standpunkt unserer Partei eine<lb/>
+Agrarpolitik vertreten hätte, die sich ausschliesslich nach den<lb/>
+Bedürfnissen des Bauernbundes weitgehend gerichtet hätte. Ich hätte<lb/>
+ja nichts dagegen, dass er im engsten Einvernehmen mit dem Bauern<lb break="no"/>bund vorgegangen wäre. Aber die Gefahr besteht ja, wie <rs type="person" ref="#per__97819">Pleschiutsch<lb break="no"/>nig</rs> uns mitgeteilt hat, dass der Bauernbund ja schon in der<lb/>
+<pb n="01-0136" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band01/01_1970-05-20_0136.jp2/full/pct:100/0/default.jpg"/>Bürokratie zu erkennen gegeben hatte, dass er auch mit diesem<lb/>
 Minister seine bisherige Politik fortsetzen wird und keine wie<lb/>
-immer geartete &#196;nderung eintreten w&#252;rde. <rs type="person" ref="#per__98055">Weihs</rs> hat hier eine ganz<lb/>
-andere Auffassung, f&#252;r meine Begriffe glaube ich geht er sogar<lb/>
+immer geartete Änderung eintreten würde. <rs type="person" ref="#per__98055">Weihs</rs> hat hier eine ganz<lb/>
+andere Auffassung, für meine Begriffe glaube ich geht er sogar<lb/>
 zu radikal vor. Bei der ersten Aussprache, die ich mit ihm hatte,<lb/>
-sagte er, dass er nicht nur den Getreidefonds aufl&#246;sen will und<lb/>
-die Getreidepreisst&#252;tzung abbauen &#8211; ein Vorschlag der ja auch von<lb/>
-mir seit Jahren bereits propagiert sind &#8211; sondern dass er auch<lb/>
-den Viehverkehrsfonds aufl&#246;sen wird, denn er br&#228;uchte auch diese<lb/>
-Institution keinesfalls. Bez&#252;glich der Treibstoffverbilligung<lb/>
-und der D&#252;ngemittel w&#252;rde er unter allen Umst&#228;nden auch auf das<lb/>
-Auslaufen der derzeit bestehenden gesetzlichen Bestimmungen be<lb break="no"/>stehen. Auf alle F&#228;lle werden wir sehen, wie <rs type="person" ref="#per__98055">Weihs</rs> diese Fragen an<lb break="no"/>packt, eines ist sicher f&#252;r mich, dass er sie nicht nur besser<lb/>
-l&#246;sen wird, sondern dass er auch &#8211; da er die Materie aus dem Effeff<lb/>
-beherrscht die B&#252;rokratie wirklich auf diese Linie bringen wird.<lb/>
+sagte er, dass er nicht nur den Getreidefonds auflösen will und<lb/>
+die Getreidepreisstützung abbauen – ein Vorschlag der ja auch von<lb/>
+mir seit Jahren bereits propagiert sind – sondern dass er auch<lb/>
+den Viehverkehrsfonds auflösen wird, denn er bräuchte auch diese<lb/>
+Institution keinesfalls. Bezüglich der Treibstoffverbilligung<lb/>
+und der Düngemittel würde er unter allen Umständen auch auf das<lb/>
+Auslaufen der derzeit bestehenden gesetzlichen Bestimmungen be<lb break="no"/>stehen. Auf alle Fälle werden wir sehen, wie <rs type="person" ref="#per__98055">Weihs</rs> diese Fragen an<lb break="no"/>packt, eines ist sicher für mich, dass er sie nicht nur besser<lb/>
+lösen wird, sondern dass er auch – da er die Materie aus dem Effeff<lb/>
+beherrscht die Bürokratie wirklich auf diese Linie bringen wird.<lb/>
 Da er Dipl.Ing. Agraringenieur ist kann man ihm kaum vorwerfen,<lb/>
-dass er nicht vom Fach ist, da er zweifellos die Leute jahrzehnte<lb break="no"/>lang kennt, bring-t er die besten Voraussetzungen f&#252;r dieses Amt mit.<lb/>
+dass er nicht vom Fach ist, da er zweifellos die Leute jahrzehnte<lb break="no"/>lang kennt, bring-t er die besten Voraussetzungen für dieses Amt mit.<lb/>
 Er hat zwar auch vor Jahren einen Herzinfarkt gehabt, aber mir<lb/>
-versichert, dass ihm sein Arzt bereits vor l&#228;ngerer Zeit gesagt<lb/>
-hat, dass er diesen vollkommen &#252;berwunden hat und deshalb keine<lb/>
+versichert, dass ihm sein Arzt bereits vor längerer Zeit gesagt<lb/>
+hat, dass er diesen vollkommen überwunden hat und deshalb keine<lb/>
 wie immer geartete Schwierigkeiten auf diesem Sektor zu erwwarten<lb/>
 sind.</p>
          </div>

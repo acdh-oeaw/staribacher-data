@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="staribacher__19700620">
   <teiHeader>
       <fileDesc>
@@ -45,53 +46,50 @@
    </teiHeader>
   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band02/">
       <body>
-         <pb n="02-0281" facs="02_1970-06-20_0281.jpg"/>
+         <pb n="02-0281" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band02/02_1970-06-20_0281.jp2/full/pct:100/0/default.jpg"/>
          <div type="entry">
-            <dateline>
-               <date when="1970-06-20">Samstag, 20. Juni 1970</date>
-            </dateline>
-            <p xml:space="preserve">Bei der Er&#246;ffnung unseres Erholungsheimes in Hartberg hatte<lb/>
-ich Gelegenheit mit <rs type="person" ref="#per__97346">Benya</rs> zu sprechen. Ich erz&#228;hlte ihm von unserem<lb/>
+            <p xml:space="preserve" xml:id="Band02_1970-06-20_01">Bei der Eröffnung unseres Erholungsheimes in Hartberg hatte<lb/>
+ich Gelegenheit mit <rs type="person" ref="#per__97346">Benya</rs> zu sprechen. Ich erzählte ihm von unserem<lb/>
 Sandksatenspiel und ging vor allem einmal von der Tatsache aus,<lb/>
-dass durch die Neuwahlen mir <rs type="person" ref="#per__98043">Waldbrunner</rs> gesagt, er z&#246;gere, sich<lb/>
+dass durch die Neuwahlen mir <rs type="person" ref="#per__98043">Waldbrunner</rs> gesagt, er zögere, sich<lb/>
 neuerdings zur Kandidatur zu stellen. Ich konnte feststellen, dass<lb/>
-sowohl <rs type="person" ref="#per__97346">Benya</rs> auch als <rs type="person" ref="#per__97372">Broda</rs> daf&#252;r waren, dass ich alles daran setzen<lb/>
-sollte, um <rs type="person" ref="#per__98043">Waldbrunner</rs> davon zu &#252;berzeugen, dass er als Pr&#228;sident des<lb/>
-Nationalrates f&#252;r die Partei eine Notwendigkeit ist und deshalb alle<lb/>
-seine pers&#246;nlichen, teilweise sehr begr&#252;ndeten Einw&#228;nde zur&#252;ckstelllen<lb/>
-m&#252;sste. Meine Idee, diese Probleme auch <rs type="person" ref="#per__97668">Kreisky</rs> vorzutragen, fanden die<lb/>
-Zustimmung von <rs type="person" ref="#per__97346">Benya</rs>. Wenn <rs type="person" ref="#per__98043">Waldbrunner</rs> die Pr&#228;sidentenstelle nicht mehr<lb/>
+sowohl <rs type="person" ref="#per__97346">Benya</rs> auch als <rs type="person" ref="#per__97372">Broda</rs> dafür waren, dass ich alles daran setzen<lb/>
+sollte, um <rs type="person" ref="#per__98043">Waldbrunner</rs> davon zu überzeugen, dass er als Präsident des<lb/>
+Nationalrates für die Partei eine Notwendigkeit ist und deshalb alle<lb/>
+seine persönlichen, teilweise sehr begründeten Einwände zurückstelllen<lb/>
+müsste. Meine Idee, diese Probleme auch <rs type="person" ref="#per__97668">Kreisky</rs> vorzutragen, fanden die<lb/>
+Zustimmung von <rs type="person" ref="#per__97346">Benya</rs>. Wenn <rs type="person" ref="#per__98043">Waldbrunner</rs> die Präsidentenstelle nicht mehr<lb/>
 einnehmen sollte, ich glaube allerdings dass es uns allen gelingen wird,<lb/>
-ihn davon zu &#252;berzeugen, dass er das machen muss, dies grosse Probleme<lb/>
-f&#252;r die Partei aufwerfe. Wahrscheinlich w&#252;rde <rs type="person" ref="#per__97845">Probst</rs> sich Hoffnung machen<lb/>
-dass er dann Pr&#228;sident des Nationalrates wird, w&#228;hrend eine diesbez&#252;gliche<lb/>
+ihn davon zu überzeugen, dass er das machen muss, dies grosse Probleme<lb/>
+für die Partei aufwerfe. Wahrscheinlich würde <rs type="person" ref="#per__97845">Probst</rs> sich Hoffnung machen<lb/>
+dass er dann Präsident des Nationalrates wird, während eine diesbezügliche<lb/>
 Zusage von Seiten des Parteiobmannes <rs type="person" ref="#per__97668">Kreisky</rs> an die Gewerkschaft existiert<lb/>
-dass auf alle F&#228;lle der Pr&#228;sident des Nationalrates und der Sozialmini<lb break="no"/>ster stets von den Gewerkschaften zu nominieren sei und er &#8211; <rs type="person" ref="#per__97668">Kreisky</rs> &#8211;<lb/>
-ja sogar noch bindend erkl&#228;rt hatte, er w&#252;rde auch ein Wirtschaftsressort stets<lb/>
+dass auf alle Fälle der Präsident des Nationalrates und der Sozialmini<lb break="no"/>ster stets von den Gewerkschaften zu nominieren sei und er – <rs type="person" ref="#per__97668">Kreisky</rs> –<lb/>
+ja sogar noch bindend erklärt hatte, er würde auch ein Wirtschaftsressort stets<lb/>
 in engstem Einvernehmen mit der Gewerkschaft besprechen und besetzen,<lb/>
 wenn die sozialistische Regierung eine Partei bilden sollte. <rs type="person" ref="#per__98043">Waldbrunner</rs><lb/>
 gilt deshalb als ein Gewerkschaftsmandat und <rs type="person" ref="#per__97668">Kreisky</rs> hat ja wie mein<lb/>
 Fall beweist, auch die weiteren Zusage absolut eingehalten.</p>
-            <p xml:space="preserve">Das Haus in Hartberg ist als Selbstversorgerh&#252;tte &#8211; wie ich sie bezeichnet<lb/>
-hatte &#8211; geplant, d.h wir werden dort nicht kochen und damit auch nicht<lb/>
+            <p xml:space="preserve" xml:id="Band02_1970-06-20_02">Das Haus in Hartberg ist als Selbstversorgerhütte – wie ich sie bezeichnet<lb/>
+hatte – geplant, d.h wir werden dort nicht kochen und damit auch nicht<lb/>
 wesentliche Betriebskosten haben, die Idee war ja, dass es sich selbst<lb/>
-erh&#228;lt und trotzdem war es sehr billig gelungen zu bauen. Es wurde auf<lb/>
-10 &#8211; 12 Mio von allen gesch&#228;tzt und in Wirklichkeit wird es mitsamt der<lb/>
+erhält und trotzdem war es sehr billig gelungen zu bauen. Es wurde auf<lb/>
+10 – 12 Mio von allen geschätzt und in Wirklichkeit wird es mitsamt der<lb/>
 Einrichtung mit 34 Betten auf 7 Mio S nur zu stehen kommen, wobei noch<lb/>
 ein riesiges Schwimmbad im Keller eingebaut ist, und eine Sauna und<lb/>
-andere zweckm&#228;ssige Einrichtungen in den Zimmern vorhanden sind und<lb/>
-die Aufenthaltsr&#228;ume auch &#228;usserst zweckm&#228;ssig und sehr sch&#246;n ausge<lb break="no"/>stattet sind. Man sieht also, dass wenn jemand will, dass <rs type="person" ref="#per__97357">Bl&#252;mel</rs> als.<lb/>
-Seele der Gewerkschaft aber auch als Seele dieses Baues &#8211; sich dahinter<lb break="no"/>glemmt, dass eine wirkliche zweckm&#228;ssige und billige Bauf&#252;hrung m&#246;glich<lb/>
-ist. Dank seiner T&#228;tigkeit in der Pensionsversicherungsanstalt der Ar<lb break="no"/>beiter hatte er auch Gelegenheit, den Architekten Frank zu einem verh&#228;lt<lb break="no"/>m&#228;ssig billigen Preis zu bekommen, der nicht das Interesse gehabt hat,<lb/>
-<pb n="02-0282" facs="02_1970-06-20_0282.jpg"/>recht aufwendig und luxuri&#246;s zu bauen und mit Hilfe des dortigen<lb/>
-Baureferenten <rs type="person" ref="#per__146908">Knoll</rs> gelang es, wirklich die zweckm&#228;ssigste Ausstat<lb break="no"/>tung, die zwar sehr aufwendig scheint, weil wir z.B. Alu-Fenster<lb/>
-haben, zu machen und haben einen sehr sch&#246;nen Bau dorthin gestellt.</p>
-            <p xml:space="preserve">Samstag abends kam dann <rs type="person" ref="#per__97444">Heinz Fischer</rs> und wir diskutierten das Problem<lb/>
-der Neuwahl und &#252;berlegte uns, zum Sandkastenspiel noch verschiedenste<lb/>
+andere zweckmässige Einrichtungen in den Zimmern vorhanden sind und<lb/>
+die Aufenthaltsräume auch äusserst zweckmässig und sehr schön ausge<lb break="no"/>stattet sind. Man sieht also, dass wenn jemand will, dass <rs type="person" ref="#per__97357">Blümel</rs> als.<lb/>
+Seele der Gewerkschaft aber auch als Seele dieses Baues – sich dahinter<lb break="no"/>glemmt, dass eine wirkliche zweckmässige und billige Bauführung möglich<lb/>
+ist. Dank seiner Tätigkeit in der Pensionsversicherungsanstalt der Ar<lb break="no"/>beiter hatte er auch Gelegenheit, den Architekten Frank zu einem verhält<lb break="no"/>mässig billigen Preis zu bekommen, der nicht das Interesse gehabt hat,<lb/>
+<pb n="02-0282" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band02/02_1970-06-20_0282.jp2/full/pct:100/0/default.jpg"/>recht aufwendig und luxuriös zu bauen und mit Hilfe des dortigen<lb/>
+Baureferenten <rs type="person" ref="#per__146908">Knoll</rs> gelang es, wirklich die zweckmässigste Ausstat<lb break="no"/>tung, die zwar sehr aufwendig scheint, weil wir z.B. Alu-Fenster<lb/>
+haben, zu machen und haben einen sehr schönen Bau dorthin gestellt.</p>
+            <p xml:space="preserve" xml:id="Band02_1970-06-20_03">Samstag abends kam dann <rs type="person" ref="#per__97444">Heinz Fischer</rs> und wir diskutierten das Problem<lb/>
+der Neuwahl und überlegte uns, zum Sandkastenspiel noch verschiedenste<lb/>
 Variationen. Das Problem der Neuwahl wirft derartig viele rechtliche<lb/>
-Fragen auf, die alle ungel&#246;st sind, dass ich &#252;berzeugt bin, dass<lb/>
+Fragen auf, die alle ungelöst sind, dass ich überzeugt bin, dass<lb/>
 sowohl der Verfassungsgerichtshof als auch andere Juristen, die sich<lb/>
-mit diesem Problem besch&#228;ftigen, die Grausbirnen aufsteigen.</p>
+mit diesem Problem beschäftigen, die Grausbirnen aufsteigen.</p>
          </div>
       </body>
     

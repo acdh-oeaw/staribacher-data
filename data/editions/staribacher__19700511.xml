@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="staribacher__19700511">
   <teiHeader>
       <fileDesc>
@@ -45,255 +46,252 @@
    </teiHeader>
   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band01/">
       <body>
-         <pb n="01-0085" facs="01_1970-05-11_0085.jpg"/>
+         <pb n="01-0085" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band01/01_1970-05-11_0085.jp2/full/pct:100/0/default.jpg"/>
          <div type="entry">
-            <dateline>
-               <date when="1970-05-11">Montag, 11. Mai</date>
-            </dateline>
-            <p xml:space="preserve">Die Wirtschaftstreuh&#228;nder wurden zur Angelobung eingeladen.<lb/>
-Pr&#228;sident <rs type="person" ref="#per__114377">Fritsch</rs> und Vizepr&#228;sident <rs type="person" ref="#per__114940">Burkert</rs> sind Unparteiische<lb/>
-w&#228;hrend der dritte <rs type="person" ref="#per__97485">Grabler</rs>, ein Wirtschaftsbund-Kandidat<lb/>
+            <p xml:space="preserve" xml:id="Band01_1970-05-11_01">Die Wirtschaftstreuhänder wurden zur Angelobung eingeladen.<lb/>
+Präsident <rs type="person" ref="#per__114377">Fritsch</rs> und Vizepräsident <rs type="person" ref="#per__114940">Burkert</rs> sind Unparteiische<lb/>
+während der dritte <rs type="person" ref="#per__97485">Grabler</rs>, ein Wirtschaftsbund-Kandidat<lb/>
 ist. Bei der Gelegenheit kam mir wieder der Zufall zu Hilfe, dass<lb/>
-ich Samstag einen Artikel in der Presse &#252;ber die Datenverarbeitung<lb/>
+ich Samstag einen Artikel in der Presse über die Datenverarbeitung<lb/>
 gelesen hatte. Als deshalb das Problem anschnitten, wie weit ihre<lb/>
-Kollegen, die heute noch h&#228;ndisch die Buchf&#252;hrung f&#252;r kleine Betriebe<lb/>
-f&#252;hren, gesch&#252;tzt werden k&#246;nnten, hatte ich, als mir der MR <rs type="person">Wohlgemuth</rs><lb/>
-erkl&#228;ren wollte, um was es sich handelt, sofort sagen k&#246;nnen&#8222; ich<lb/>
-kenne das Problem und mich in eine Fachdiskussion gest&#252;rzt. Sie erz&#228;hlt<lb/>
-ten mir, dass die unter allen Umst&#228;nden eine Regelung anstreben m&#246;chten,<lb/>
-Da sie aber in Salzburg bereits ein diesbez&#252;gliches Pr&#228;judiz geschaffen<lb/>
-hatten, konnte darauf aufbauend folgende Erkl&#228;rung abgeben:</p>
-            <p xml:space="preserve">Es ist richtig, dass sie in ihrem Gesetz sogenannte Vorbehaltsaufgaben<lb/>
-haben un-d dazu geh&#246;rt, insbesondere die Buchf&#252;hrung f&#252;r Betriebe. In<lb/>
+Kollegen, die heute noch händisch die Buchführung für kleine Betriebe<lb/>
+führen, geschützt werden könnten, hatte ich, als mir der MR <rs type="person">Wohlgemuth</rs><lb/>
+erklären wollte, um was es sich handelt, sofort sagen können„ ich<lb/>
+kenne das Problem und mich in eine Fachdiskussion gestürzt. Sie erzählt<lb/>
+ten mir, dass die unter allen Umständen eine Regelung anstreben möchten,<lb/>
+Da sie aber in Salzburg bereits ein diesbezügliches Präjudiz geschaffen<lb/>
+hatten, konnte darauf aufbauend folgende Erklärung abgeben:</p>
+            <p xml:space="preserve" xml:id="Band01_1970-05-11_02">Es ist richtig, dass sie in ihrem Gesetz sogenannte Vorbehaltsaufgaben<lb/>
+haben un-d dazu gehört, insbesondere die Buchführung für Betriebe. In<lb/>
 Salzburg hatte aber die Vereinigung bereits mit <rs type="person">Grabler</rs> und <rs type="person" ref="#per__97437">Fiedler</rs><lb/>
 an der Spitze mit der Handelskammer ein Arrangement beschlossen, dass<lb/>
-diese die Lohnverrechnungen f&#252;r ihre Mitglieder durchf&#252;hren durfte.<lb/>
-Ich erkl&#228;rte deshalb, hier handelt es sich um ein Zugest&#228;ndis, nat&#252;r<lb break="no"/>lich aber auch um ein gef&#228;hrliches Pr&#228;judiz und ich w&#252;rde erwarten,<lb/>
-dass unverz&#252;glich Verhandlungen zwischen der Bundeskammer un-d der<lb/>
-Wirtschaftstreuh&#228;nderkammer beginnen sollten, damit dieses Problem<lb/>
-einvernehmluch gel&#246;st wird. Sollte wider Erwarten eine solche ein<lb break="no"/>vernehmlich Regelung nicht zu erzielen sein, so w&#252;rde ich als der f&#252;r<lb/>
-beide Kammern jetzt zust&#228;ndige Minister versuchen, eine L&#246;sung herbei<lb break="no"/>zuf&#252;hren. Ich habe die Absicht und hab es auch ganz deutlich erkl&#228;rt,<lb/>
-dass ich einen Streit wie er z.B. zwischen der Zahn&#228;rztekammer und<lb/>
-der &#196;rztekammer ausgebrochen ist, nicht w&#252;nsche. Die Wirtschaftreu<lb break="no"/>h&#228;nder waren &#252;ber diese Erkl&#228;rung sehr erfreut und versprachen, unver<lb break="no"/>z&#252;glich mit der Bundeskammer Verhandlungen aufzunehmen. Was die<lb/>
+diese die Lohnverrechnungen für ihre Mitglieder durchführen durfte.<lb/>
+Ich erklärte deshalb, hier handelt es sich um ein Zugeständis, natür<lb break="no"/>lich aber auch um ein gefährliches Präjudiz und ich würde erwarten,<lb/>
+dass unverzüglich Verhandlungen zwischen der Bundeskammer un-d der<lb/>
+Wirtschaftstreuhänderkammer beginnen sollten, damit dieses Problem<lb/>
+einvernehmluch gelöst wird. Sollte wider Erwarten eine solche ein<lb break="no"/>vernehmlich Regelung nicht zu erzielen sein, so würde ich als der für<lb/>
+beide Kammern jetzt zuständige Minister versuchen, eine Lösung herbei<lb break="no"/>zuführen. Ich habe die Absicht und hab es auch ganz deutlich erklärt,<lb/>
+dass ich einen Streit wie er z.B. zwischen der Zahnärztekammer und<lb/>
+der Ärztekammer ausgebrochen ist, nicht wünsche. Die Wirtschaftreu<lb break="no"/>händer waren über diese Erklärung sehr erfreut und versprachen, unver<lb break="no"/>züglich mit der Bundeskammer Verhandlungen aufzunehmen. Was die<lb/>
 Frage des weiteren Eindringens der elektronischen Datenverarbeitung<lb/>
-in die Abrechnungen der Betriebe betraf, so erkl&#228;rte ich ihnen, dass<lb/>
+in die Abrechnungen der Betriebe betraf, so erklärte ich ihnen, dass<lb/>
 ich mich keinesfalls gegen eine solche Entwicklung verschliessen<lb/>
-w&#252;rde, sondern der Zug der Zeit ist, dass auch die kleineren und<lb/>
+würde, sondern der Zug der Zeit ist, dass auch die kleineren und<lb/>
 mittleren Betriebe mit Hilfe von IBM oder anderen Firmen letzten<lb/>
 Endes zur Datenverarbeitung schreiten werden.</p>
-            <pb n="01-0086" facs="01_1970-05-11_0086.jpg"/>
-            <p xml:space="preserve">00086<lb/>
-Die Ungerechtigkeit gegen&#252;ber diesenFirmen besteht bei den<lb/>
-Wirtschaftstreuh&#228;ndern nur darin, dass sie sich verpflichtet<lb/>
-haben, f&#252;r ihre T&#228;tigkeit keine Werbung zu betreiben, sodass<lb/>
-heute ausschliesslich die EDV-Betriebe die M&#246;glichkeit haben, f&#252;r<lb/>
-eine moderne und zweckm&#228;ssig Buchhaltung zu werben. Ich bin<lb/>
-sehr gespannt, ob es gelingen wird, diese Streitfragen einvernehm<lb break="no"/>lich zwischen Handelskammer und Wirtschaftsreuh&#228;nder zu l&#246;sen. F&#252;r<lb/>
-mich ist es selbstvest&#228;ndlich, dass ich hier auf der Seite der<lb/>
+            <pb n="01-0086" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band01/01_1970-05-11_0086.jp2/full/pct:100/0/default.jpg"/>
+            <p xml:space="preserve" xml:id="Band01_1970-05-11_03">00086<lb/>
+Die Ungerechtigkeit gegenüber diesenFirmen besteht bei den<lb/>
+Wirtschaftstreuhändern nur darin, dass sie sich verpflichtet<lb/>
+haben, für ihre Tätigkeit keine Werbung zu betreiben, sodass<lb/>
+heute ausschliesslich die EDV-Betriebe die Möglichkeit haben, für<lb/>
+eine moderne und zweckmässig Buchhaltung zu werben. Ich bin<lb/>
+sehr gespannt, ob es gelingen wird, diese Streitfragen einvernehm<lb break="no"/>lich zwischen Handelskammer und Wirtschaftsreuhänder zu lösen. Für<lb/>
+mich ist es selbstveständlich, dass ich hier auf der Seite der<lb/>
 Handelskammer stehen werde, denn es muss einWeg gefunden werden,<lb/>
-f&#252;r den kleinen und mittlerenBetrieb auch den Zugang zu einer<lb/>
-moderneren Buchhaltung und Betriebsabrechnung zu erm&#246;glichen, ohne<lb/>
-dass horrende S&#228;tze von Seiten der Wirtschaftstreuh&#228;nder von diesen<lb/>
-Firmen verlangt werden k&#246;nnen.</p>
-            <p xml:space="preserve">Der Freie Wirtschaftsverband hatte um ein offizielles Antritts<lb break="no"/>besuch ersucht und es kamen <rs type="person" ref="#per__97656">Kostroun</rs>, <rs type="person" ref="#per__97602">Jodlbauer</rs>, <rs type="person" ref="#per__97308">Abt</rs> und <rs type="person" ref="#per__97757">M&#252;hlbacher</rs><lb/>
-und Gen.Sekr. <rs type="person" ref="#per__98000">Swoboda</rs>. Sie erkl&#228;rten, dass sie mich nat&#252;rlich unter<lb break="no"/>st&#252;tzen w&#252;rden, wobei allerdings <rs type="person" ref="#per__97656">Kostroun</rs> im Laufe der Verhandlungen<lb/>
+für den kleinen und mittlerenBetrieb auch den Zugang zu einer<lb/>
+moderneren Buchhaltung und Betriebsabrechnung zu ermöglichen, ohne<lb/>
+dass horrende Sätze von Seiten der Wirtschaftstreuhänder von diesen<lb/>
+Firmen verlangt werden können.</p>
+            <p xml:space="preserve" xml:id="Band01_1970-05-11_04">Der Freie Wirtschaftsverband hatte um ein offizielles Antritts<lb break="no"/>besuch ersucht und es kamen <rs type="person" ref="#per__97656">Kostroun</rs>, <rs type="person" ref="#per__97602">Jodlbauer</rs>, <rs type="person" ref="#per__97308">Abt</rs> und <rs type="person" ref="#per__97757">Mühlbacher</rs><lb/>
+und Gen.Sekr. <rs type="person" ref="#per__98000">Swoboda</rs>. Sie erklärten, dass sie mich natürlich unter<lb break="no"/>stützen würden, wobei allerdings <rs type="person" ref="#per__97656">Kostroun</rs> im Laufe der Verhandlungen<lb/>
 mir mitteilte, dass bei der letzten Aussprache des Vorstandes, an der<lb/>
-ich leider nicht teilnehmen konnte, erkl&#228;rt wurde, es m&#252;sste doch<lb/>
+ich leider nicht teilnehmen konnte, erklärt wurde, es müsste doch<lb/>
 als ein trauriges Zeichen gewertet werden, dass niemand vom Freien<lb/>
-Wirtschaftsverband dieses Amt bekommen h&#228;tte. <rs type="person" ref="#per__97656">Kostroun</rs> sagte mir,<lb/>
-er h&#228;tte bereits <rs type="person" ref="#per__97904">Sch&#228;rf</rs> vor Jahren erkl&#228;rt,dass er niemals f&#252;r ein<lb/>
+Wirtschaftsverband dieses Amt bekommen hätte. <rs type="person" ref="#per__97656">Kostroun</rs> sagte mir,<lb/>
+er hätte bereits <rs type="person" ref="#per__97904">Schärf</rs> vor Jahren erklärt,dass er niemals für ein<lb/>
 Ministeramt in Frage komme, in der Zwischenzeit sei er 63 Jahre alt<lb/>
 geworden und lege daher darauf auch gar keinen Wert. Das wollte er<lb/>
-mir nur sagen, um zu beweisen, dass falls an ihn die Aufforderung ge<lb break="no"/>richtet werden w&#228;re, er an solches Amt nicht angenommen h&#228;tte.<lb/>
-<rs type="person" ref="#per__97602">Jodlbauer</rs> hat mir allerdings erz&#228;hlt von dieser Sitzung, dass einige<lb/>
-von dort geglaubt haben, sie w&#228;ren dazu berufen gewesen, nur h&#228;tte er<lb/>
-in seiner bekannten geradlinigen aber sehr harten Art erkl&#228;rt, sie soll<lb/>
-ten froh sein, dass ich dieses Amt bekommen h&#228;tte, denn von ihnen sei<lb/>
+mir nur sagen, um zu beweisen, dass falls an ihn die Aufforderung ge<lb break="no"/>richtet werden wäre, er an solches Amt nicht angenommen hätte.<lb/>
+<rs type="person" ref="#per__97602">Jodlbauer</rs> hat mir allerdings erzählt von dieser Sitzung, dass einige<lb/>
+von dort geglaubt haben, sie wären dazu berufen gewesen, nur hätte er<lb/>
+in seiner bekannten geradlinigen aber sehr harten Art erklärt, sie soll<lb/>
+ten froh sein, dass ich dieses Amt bekommen hätte, denn von ihnen sei<lb/>
 keiner ministrabel.<lb/>
-Wir vereinbarten, dass ich einen Artikel f&#252;r den Freien Wirtschaft<lb break="no"/>sverband schreiben w&#252;rde, d.h. ich sagte gleich ganz offen, da<lb/>
-k&#246;nnten sie sich darauf verlassen, das w&#252;rde <rs type="person" ref="#per__97646">Koppe</rs> ganz hervorragend<lb/>
-in meinem Sinne machen. Ich ersuchte &#252;berhaupt, dass zwischen <rs type="person" ref="#per__97646">Koppe</rs><lb/>
-und ihrem neuen Pressereferenten, der jetzt bei ihnen t&#228;tige Presse<lb break="no"/>referent wurde ja von <rs type="person" ref="#per__97311">Androsch</rs> ins Finanzministerium genommen,<lb/>
-<pb n="01-0087" facs="01_1970-05-11_0087.jpg"/>ein Kontakt herzustellen sei. Ich sicherte das unverz&#252;glich<lb/>
-zu, weil ich &#252;berzeugt war, dass die Koordinierung der Presse<lb break="no"/>referenten in all unseren Ministerien und Parteistellen eine<lb/>
+Wir vereinbarten, dass ich einen Artikel für den Freien Wirtschaft<lb break="no"/>sverband schreiben würde, d.h. ich sagte gleich ganz offen, da<lb/>
+könnten sie sich darauf verlassen, das würde <rs type="person" ref="#per__97646">Koppe</rs> ganz hervorragend<lb/>
+in meinem Sinne machen. Ich ersuchte überhaupt, dass zwischen <rs type="person" ref="#per__97646">Koppe</rs><lb/>
+und ihrem neuen Pressereferenten, der jetzt bei ihnen tätige Presse<lb break="no"/>referent wurde ja von <rs type="person" ref="#per__97311">Androsch</rs> ins Finanzministerium genommen,<lb/>
+<pb n="01-0087" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band01/01_1970-05-11_0087.jp2/full/pct:100/0/default.jpg"/>ein Kontakt herzustellen sei. Ich sicherte das unverzüglich<lb/>
+zu, weil ich überzeugt war, dass die Koordinierung der Presse<lb break="no"/>referenten in all unseren Ministerien und Parteistellen eine<lb/>
 dringende Angelegenheit ist. <rs type="person" ref="#per__97646">Koppe</rs> wird sich auch mit <rs type="person" ref="#per__98000">Swoboda</rs><lb/>
-ins Einvernehmen setzen m&#252;ssen, um eine Mitteilung &#252;ber ihre<lb/>
+ins Einvernehmen setzen müssen, um eine Mitteilung über ihre<lb/>
 Vorsprache innder Freien Wirtschaftsverband-Zeitung abzubesprechen.<lb/>
-Der Wunsch des Freien Wirtschaftsverbandes war nur, einen Ver<lb break="no"/>treter in die B&#252;rges zu kriegen, denn Genosse <rs type="person" ref="#per__97757">M&#252;hlbacher</rs> ist derzeit<lb/>
+Der Wunsch des Freien Wirtschaftsverbandes war nur, einen Ver<lb break="no"/>treter in die Bürges zu kriegen, denn Genosse <rs type="person" ref="#per__97757">Mühlbacher</rs> ist derzeit<lb/>
 nur im Beirat und hat aber mit <rs type="person" ref="#per__97678">Lacina</rs> von der Arbeiterkammer, der<lb/>
-ebenfalls im Beirat der B&#252;rges ist, einen sehr guten Kontakt. Ich<lb/>
-werde nach R&#252;ckkehr von <rs type="person" ref="#per__97893">Sallinger</rs> versuchen, dieses Problem anzu<lb break="no"/>schneiden und wom&#246;glich positiv zu erledigen. Die Schwierigkeit<lb/>
-besteht nur darin, dass die B&#252;rges als GesmbmH gegr&#252;ndet wurde,<lb/>
-der Gesch&#228;ftsf&#252;hrer dort der seinerzeitige Minister <rs type="person">Korinek</rs> ist<lb/>
-und ich noch nicht genau weiss, wei die Gesellschaftsanteile ver<lb break="no"/>teilt sind und ob wir dadurch eine M&#246;glichkeit haben, zumindestens<lb/>
+ebenfalls im Beirat der Bürges ist, einen sehr guten Kontakt. Ich<lb/>
+werde nach Rückkehr von <rs type="person" ref="#per__97893">Sallinger</rs> versuchen, dieses Problem anzu<lb break="no"/>schneiden und womöglich positiv zu erledigen. Die Schwierigkeit<lb/>
+besteht nur darin, dass die Bürges als GesmbmH gegründet wurde,<lb/>
+der Geschäftsführer dort der seinerzeitige Minister <rs type="person">Korinek</rs> ist<lb/>
+und ich noch nicht genau weiss, wei die Gesellschaftsanteile ver<lb break="no"/>teilt sind und ob wir dadurch eine Möglichkeit haben, zumindestens<lb/>
 im Aufsichtsrat einen Vertreter des Freien Wirtschaftsverbandes<lb/>
 zu etablieren. Abt wies auf die Forderung des Freien Wirtschaftsberbandes,<lb/>
-n&#228;mlich die Einf&#252;hrung des Amtlichen Stimmzettels f&#252;r die n&#228;chsten<lb/>
-Handelskammerwahlen hin. Expertenm&#228;ssig sagte er, h&#228;tte er eine<lb/>
+nämlich die Einführung des Amtlichen Stimmzettels für die nächsten<lb/>
+Handelskammerwahlen hin. Expertenmässig sagte er, hätte er eine<lb/>
 Besprechung bereits vor der derzeit stattfindenden Handelskammerwahl<lb/>
-stattgefunden und es w&#228;re dort von <rs type="person" ref="#per__98088">Witek</rs>, <rs type="person" ref="#per__97585">Jakob</rs>, <rs type="person" ref="#per__97559">Hofbauer</rs> und <rs type="person" ref="#per__97861">Reger</rs><lb/>
+stattgefunden und es wäre dort von <rs type="person" ref="#per__98088">Witek</rs>, <rs type="person" ref="#per__97585">Jakob</rs>, <rs type="person" ref="#per__97559">Hofbauer</rs> und <rs type="person" ref="#per__97861">Reger</rs><lb/>
 anerkannt wurden , dass man die Verhandlungsexperten der Handelskammer<lb/>
-und des Wirtschaftsbundes, dass eine technische M&#246;glichkeit best&#252;nde,<lb/>
-einen reformierten aber doch noch dem Gesch&#228;fts entsprechenden amt<lb break="no"/>lichenStimmzettel auch f&#252;r die Handelskammer einzuf&#252;hren. Da der<lb/>
-Wirtschaftsbund von Vorarlberg &#252;ber die jungen Unternehmer auh<lb/>
-hier eine &#196;nderung der Handelskammerwahlordnung anstrebt, m&#252;sste<lb/>
-es m&#246;glich sein, ein diesbez&#252;gliches Arrangement zustandezubringen.<lb/>
-Den Vorarlberger j&#252;ngeren Unternehmern schwebt vor, dass auch die<lb/>
-Witwenfortbetriebe aber vor allem auch die Mitarbeiter der S&#246;hne<lb/>
-und T&#246;chter in den Betrieben zur Wahl zur Handelskammer zugelassen<lb/>
+und des Wirtschaftsbundes, dass eine technische Möglichkeit bestünde,<lb/>
+einen reformierten aber doch noch dem Geschäfts entsprechenden amt<lb break="no"/>lichenStimmzettel auch für die Handelskammer einzuführen. Da der<lb/>
+Wirtschaftsbund von Vorarlberg über die jungen Unternehmer auh<lb/>
+hier eine Änderung der Handelskammerwahlordnung anstrebt, müsste<lb/>
+es möglich sein, ein diesbezügliches Arrangement zustandezubringen.<lb/>
+Den Vorarlberger jüngeren Unternehmern schwebt vor, dass auch die<lb/>
+Witwenfortbetriebe aber vor allem auch die Mitarbeiter der Söhne<lb/>
+und Töchter in den Betrieben zur Wahl zur Handelskammer zugelassen<lb/>
 werden sollen.</p>
-            <p xml:space="preserve">Mein Schwager <rs type="person" ref="#per__114117">Mayerhofer</rs> hatte mich am Sonntag abends noch aufgesucht,<lb/>
-um mir mitzuteilen, dass Dr. <rs type="person" ref="#per__146468">Hutter</rs> und Vizepr&#228;sident <rs type="person" ref="#per__97687">Laurent&gt;</rs> von<lb/>
+            <p xml:space="preserve" xml:id="Band01_1970-05-11_05">Mein Schwager <rs type="person" ref="#per__114117">Mayerhofer</rs> hatte mich am Sonntag abends noch aufgesucht,<lb/>
+um mir mitzuteilen, dass Dr. <rs type="person" ref="#per__146468">Hutter</rs> und Vizepräsident <rs type="person" ref="#per__97687">Laurent&gt;</rs> von<lb/>
 General Electric Olympia unbedingt mit mir reden wollten. Ich hatte<lb/>
-<pb n="01-0088" facs="01_1970-05-11_0088.jpg"/>ihm zugesichert, sie sollten am Montag vormittags in mein B&#252;ro<lb/>
-kommen. <rs type="person" ref="#per__146468">Hutter</rs> hatte mir vor l&#228;ngerer Zeit bereits ein Elaborat<lb/>
+<pb n="01-0088" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band01/01_1970-05-11_0088.jp2/full/pct:100/0/default.jpg"/>ihm zugesichert, sie sollten am Montag vormittags in mein Büro<lb/>
+kommen. <rs type="person" ref="#per__146468">Hutter</rs> hatte mir vor längerer Zeit bereits ein Elaborat<lb/>
 geschickt, worauf er jetzt Bezug nahm. In diesem Erlaborat hatte<lb/>
-er vorgeschlagen, ihn als Konsulenten zu arrangieren und er w&#252;rde<lb/>
-&#8211; wie er das unter <rs type="person" ref="#per__97749">Mitterer</rs> gemacht hat &#8211; mit General Electric<lb/>
-entsprechende Betriebsgr&#252;ndungen in &#214;sterreich versuchen. Ich<lb/>
-erkl&#228;rte, dass die Vorgangsweise nur pragmatisch sein k&#246;nnte, d.h.<lb/>
-dass wir an einer Studie, f&#252;r die budget&#228;r keine Mittel vorgesehen<lb/>
+er vorgeschlagen, ihn als Konsulenten zu arrangieren und er würde<lb/>
+– wie er das unter <rs type="person" ref="#per__97749">Mitterer</rs> gemacht hat – mit General Electric<lb/>
+entsprechende Betriebsgründungen in Österreich versuchen. Ich<lb/>
+erklärte, dass die Vorgangsweise nur pragmatisch sein könnte, d.h.<lb/>
+dass wir an einer Studie, für die budgetär keine Mittel vorgesehen<lb/>
 sind, derzeit nicht interessiert sind. aber sehr wohl mit Hilfe der<lb/>
-in den einzelnen L&#228;ndern bestehenden oder wahrscheinlich noch zu gr&#252;nde<lb/>
-denden Betriebsansiedlungsgesellschaften entsprechende Vertr&#228;ge zwi<lb break="no"/>schen General Electric, Tempo und diesen Gesellschaften geschlossen<lb/>
-werden k&#246;nnten, wenn einzelne konkrete Antr&#228;ge von General Electric<lb/>
-gebracht werden.. Pr&#228;sident <rs type="person">Laurent</rs> versuchte mir noch klar zu machen,<lb/>
-dass bevor eine solche Arbeit beginnen k&#246;nnte, sie den amerika<lb break="no"/>nischen und sonstigen interessierten Unternehmungen ein entsprechendes<lb/>
-Elaborat &#252;bermitteln m&#252;ssten, wo die Regierung darlegt, wie sie sich<lb/>
-die Industrieansiedlung vorstellt und welche Betriebe f&#252;r &#214;sterreich<lb/>
+in den einzelnen Ländern bestehenden oder wahrscheinlich noch zu gründe<lb/>
+denden Betriebsansiedlungsgesellschaften entsprechende Verträge zwi<lb break="no"/>schen General Electric, Tempo und diesen Gesellschaften geschlossen<lb/>
+werden könnten, wenn einzelne konkrete Anträge von General Electric<lb/>
+gebracht werden.. Präsident <rs type="person">Laurent</rs> versuchte mir noch klar zu machen,<lb/>
+dass bevor eine solche Arbeit beginnen könnte, sie den amerika<lb break="no"/>nischen und sonstigen interessierten Unternehmungen ein entsprechendes<lb/>
+Elaborat übermitteln müssten, wo die Regierung darlegt, wie sie sich<lb/>
+die Industrieansiedlung vorstellt und welche Betriebe für Österreich<lb/>
 in Frage kommen. Ich erwiderte, dass dies nicht meine Meinung ist,<lb/>
-denn es gibt nach wie vor die M&#246;glichkeit, wie das z.B. bei der<lb/>
+denn es gibt nach wie vor die Möglichkeit, wie das z.B. bei der<lb/>
 Firma Potter derzeit geschehen ist, die <rs type="person" ref="#per__146468">Hutter</rs> von Amerika veranlasst<lb/>
-hat, in &#214;sterreich einen Betrieb aufzumachen, dass auch ohne eine<lb/>
-solche Studie dise Firma gewonnen werden konnte. Ich bin &#252;berzeugt<lb/>
+hat, in Österreich einen Betrieb aufzumachen, dass auch ohne eine<lb/>
+solche Studie dise Firma gewonnen werden konnte. Ich bin überzeugt<lb/>
 davon, dass General Electric Tempo mehrere Top-Manager in Amerika<lb/>
-kennt, die gegebenenfalls f&#252;r &#214;sterreich zu gewinnen sind.<lb/>
-Electro Tempo w&#252;rde &#8211; wenn man das so verstehen will &#8211; eine Art<lb/>
-Erfolgspr&#228;mie kriegen, wenn einzelne Firmen sich in &#214;sterreich an<lb break="no"/>siedeln. Eine Auswahl kann &#214;sterreich, meiner Meinung nach, derzeit<lb/>
-&#252;berhaupt nicht treffen, da es gl&#252;cklich sein mu&#223; wenn &#252;berhaupt<lb/>
-Firmen nach &#214;sterreich kommen. Dies erkl&#228;rte ich allerdings nicht den<lb/>
-beiden Vertretern, es ist aber meine &#220;berzeugung. &#220;ber den Hinweis,<lb/>
-da&#223; in Wirklichkeit ja nur Wachstumsbranchen in &#214;sterreich ange<lb break="no"/>siedelt werden sollten, sagte ich zu den beiden, da&#223; ich das Problem<lb/>
+kennt, die gegebenenfalls für Österreich zu gewinnen sind.<lb/>
+Electro Tempo würde – wenn man das so verstehen will – eine Art<lb/>
+Erfolgsprämie kriegen, wenn einzelne Firmen sich in Österreich an<lb break="no"/>siedeln. Eine Auswahl kann Österreich, meiner Meinung nach, derzeit<lb/>
+überhaupt nicht treffen, da es glücklich sein muß wenn überhaupt<lb/>
+Firmen nach Österreich kommen. Dies erklärte ich allerdings nicht den<lb/>
+beiden Vertretern, es ist aber meine Überzeugung. Über den Hinweis,<lb/>
+daß in Wirklichkeit ja nur Wachstumsbranchen in Österreich ange<lb break="no"/>siedelt werden sollten, sagte ich zu den beiden, daß ich das Problem<lb/>
 der Wachstumsbranchen von einem ganz anderen Gesichtspunkt sehe.<lb/>
 In Wirklichkeit handelt es sich doch immer nur darum, ob einzelne<lb/>
-Betriebe durch ein t&#252;chtiges Management, durch entsprechende Techno<lb break="no"/>logiekenntnisse oder "know how" imstande sind gegebenenfalls auch<lb/>
-<pb n="01-0089" facs="01_1970-05-11_0089.jpg"/>in einer schrumpfenden Branche entsprechendes Wachstum zu erreichen,<lb/>
-das hei&#223;t sich entsprechend auszudehenen. Ich spreche deshalb lieber<lb/>
+Betriebe durch ein tüchtiges Management, durch entsprechende Techno<lb break="no"/>logiekenntnisse oder "know how" imstande sind gegebenenfalls auch<lb/>
+<pb n="01-0089" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band01/01_1970-05-11_0089.jp2/full/pct:100/0/default.jpg"/>in einer schrumpfenden Branche entsprechendes Wachstum zu erreichen,<lb/>
+das heißt sich entsprechend auszudehenen. Ich spreche deshalb lieber<lb/>
 von Wachstumsbetrieben und weniger von Wachstumsbranchen, die zu<lb/>
-definieren ja sowieso &#228;u&#223;erst schwierig ist. <rs type="person" ref="#per__98034">Veselsky</rs>, der noch<lb/>
-immer hier auf dieser Tour reitet &#8211; er hatte mir erst am Sonntag,<lb/>
-als ich ihm telefonisch von der Vorsprache <rs type="person" ref="#per__146468">Hutter</rs> und <rs type="person">Laurant</rs> Mit<lb break="no"/>teilung machte, erkl&#228;rt er glaube da&#223; die amerikanische Firma <choice><choice><sic>Booth<lb/>
-Allan</sic><corr>Booz Allen Hamilton</corr></choice></choice>, die sich auch bei uns interessiert hat, ein Arrangement &#8211; das<lb/>
-hei&#223;t einen Vertrag &#8211; zu bekommen, die w&#252;&#223;ten also wo entsprechende<lb/>
+definieren ja sowieso äußerst schwierig ist. <rs type="person" ref="#per__98034">Veselsky</rs>, der noch<lb/>
+immer hier auf dieser Tour reitet – er hatte mir erst am Sonntag,<lb/>
+als ich ihm telefonisch von der Vorsprache <rs type="person" ref="#per__146468">Hutter</rs> und <rs type="person">Laurant</rs> Mit<lb break="no"/>teilung machte, erklärt er glaube daß die amerikanische Firma <choice><choice><sic>Booth<lb/>
+Allan</sic><corr>Booz Allen Hamilton</corr></choice></choice>, die sich auch bei uns interessiert hat, ein Arrangement – das<lb/>
+heißt einen Vertrag – zu bekommen, die wüßten also wo entsprechende<lb/>
 Wachstumsbranchen sind und wie man diese Wachstumsbranchen gewinnen<lb/>
-k&#246;nnte. Ich erkl&#228;rte <rs type="person" ref="#per__98034">Veselsky</rs>, da&#223; meiner Meinung nach eine solche<lb/>
+könnte. Ich erklärte <rs type="person" ref="#per__98034">Veselsky</rs>, daß meiner Meinung nach eine solche<lb/>
 Diskussion ziemlich sinnlos ist, weil wir ganz kurzfristig eben<lb/>
-bestrebt sein m&#252;ssen so viel wie m&#246;glich Industriebetriebe anzu<lb break="no"/>siedeln und ich &#252;berzeugt bin, da&#223; wenn ein ausl&#228;ndischer Unternehmer<lb/>
-nach &#214;sterreich kommt, er sich also hier ein gewisses Wachstum<lb/>
-erwartet, denn sonst w&#252;rde er die Investition unter garkeinen Umst&#228;n<lb break="no"/>den durchf&#252;hren. Ich versicherte <rs type="person" ref="#per__146468">Hutter</rs> und <rs type="person">Laurant</rs>, da&#223; wir die<lb/>
-Firmen tatkr&#228;ftigst unterst&#252;tzen w&#252;rden und da&#223; wir insbesondere von<lb/>
-Regierungsseite bessere Voraussetzungen schaffen w&#252;rden, damit die<lb/>
-notwendigen Unterlagen den Firmen zur Verf&#252;gung gestellt werden und<lb/>
+bestrebt sein müssen so viel wie möglich Industriebetriebe anzu<lb break="no"/>siedeln und ich überzeugt bin, daß wenn ein ausländischer Unternehmer<lb/>
+nach Österreich kommt, er sich also hier ein gewisses Wachstum<lb/>
+erwartet, denn sonst würde er die Investition unter garkeinen Umstän<lb break="no"/>den durchführen. Ich versicherte <rs type="person" ref="#per__146468">Hutter</rs> und <rs type="person">Laurant</rs>, daß wir die<lb/>
+Firmen tatkräftigst unterstützen würden und daß wir insbesondere von<lb/>
+Regierungsseite bessere Voraussetzungen schaffen würden, damit die<lb/>
+notwendigen Unterlagen den Firmen zur Verfügung gestellt werden und<lb/>
 andererseits sie nicht immer mit 10 oder 15 Vertretern von<lb/>
-&#214;sterreich verhandeln m&#252;&#223;ten, weil jede kleine Gemeinde &#8211; auch wenn<lb/>
-die Voraussetzungen f&#252;r die Ansiedlung &#252;berhaupt nicht gegeben sind &#8211;<lb/>
-sich bem&#252;ht hier bei den Besprechungen vielleicht doch einen Happen<lb/>
-dieser Industriesiedlungen zu bekommen. Ich bemerkte, da&#223; sie mit<lb/>
-meinen Ausf&#252;hrungen zwar &#252;bereinstimmten, aber sehr ersch&#252;ttert<lb/>
-waren, da&#223; wir ihnen die M&#246;glichkeit des Verdienstes &#252;ber die Studie<lb/>
-nicht einr&#228;umen wollten. Wir verblieben zum Schlu&#223; so, da&#223; <rs type="person" ref="#per__146468">Hutter</rs><lb/>
-fragte ob er mit meinen Herren &#252;ber eine modifizierte Studie sprechen<lb/>
-k&#246;nnte, was ich zusagte, da uns daraus keine wie immer geartete<lb/>
-finanzielle Verpflichtung erwachsen w&#252;rde und ich gleichzeitig<lb/>
-allerdings durchblicken lie&#223;, da&#223; wir keinen finanziellen Ansatz<lb/>
-f&#252;r eine derartige Ausgabenpost derzeit im Budget besitzen.<lb/>
-Mit Musil hatte ich &#8211; da <rs type="person" ref="#per__97893">Sallinger</rs> nicht in Wien war &#8211; eine Aussprache<lb/>
-&#252;ber die Ministerratssitzung,wobei wir &#252;bereinkamen, da&#223; ich nach<lb/>
-wie vor daf&#252;r k&#228;mpfen sollte, da&#223; keine wie immer geartete Kompetenz<lb break="no"/>verschiebung von seiten des Handelsministeriums weder in das Forschungs<lb/>
+Österreich verhandeln müßten, weil jede kleine Gemeinde – auch wenn<lb/>
+die Voraussetzungen für die Ansiedlung überhaupt nicht gegeben sind –<lb/>
+sich bemüht hier bei den Besprechungen vielleicht doch einen Happen<lb/>
+dieser Industriesiedlungen zu bekommen. Ich bemerkte, daß sie mit<lb/>
+meinen Ausführungen zwar übereinstimmten, aber sehr erschüttert<lb/>
+waren, daß wir ihnen die Möglichkeit des Verdienstes über die Studie<lb/>
+nicht einräumen wollten. Wir verblieben zum Schluß so, daß <rs type="person" ref="#per__146468">Hutter</rs><lb/>
+fragte ob er mit meinen Herren über eine modifizierte Studie sprechen<lb/>
+könnte, was ich zusagte, da uns daraus keine wie immer geartete<lb/>
+finanzielle Verpflichtung erwachsen würde und ich gleichzeitig<lb/>
+allerdings durchblicken ließ, daß wir keinen finanziellen Ansatz<lb/>
+für eine derartige Ausgabenpost derzeit im Budget besitzen.<lb/>
+Mit Musil hatte ich – da <rs type="person" ref="#per__97893">Sallinger</rs> nicht in Wien war – eine Aussprache<lb/>
+über die Ministerratssitzung,wobei wir übereinkamen, daß ich nach<lb/>
+wie vor dafür kämpfen sollte, daß keine wie immer geartete Kompetenz<lb break="no"/>verschiebung von seiten des Handelsministeriums weder in das Forschungs<lb/>
 ministerium noch in das Verkehrsministerium erfolgen sollte. <rs type="person" ref="#per__97769">Musil</rs><lb/>
-erwartete au&#223;erdem, da&#223; ich die Richtlinien zum Gewerbestrukturver<lb break="no"/>besserungsgesetz dahingehend ab&#228;ndern sollte, da&#223; auch der Weinhandel<lb/>
-<pb n="01-0090" facs="01_1970-05-11_0090.jpg"/>nach wie vor entsprechende Unterst&#252;tzung kriegen sollte, da &#8211; wie er<lb/>
-mitteilte &#8211; die landwirtschaftlichen Genossenschaften &#252;ber die AiK<lb/>
-und den gr&#252;nen Plan ca. 40 Mio Schillinge j&#228;hrlich zum Ausbau ihrer<lb/>
-Lager bekommen. Ich erwiderte, da&#223; ich diese Vorgangsweise f&#252;r<lb/>
-falsch halte, da&#223; n&#228;mlich ununterbrochen &#8211; wenn die Landwirtschaft<lb/>
-irgendwelche Mittel bereitstellt, dann gleichzeitig auch die gewerb<lb break="no"/>liche Wirtschaft solche Mittel bekommen sollte,auch dann,wenn es sich &#8211;<lb/>
-wie z.B. f&#252;r die Silobauten &#8211; in Wirklichkeit langfristig gesehen um<lb/>
-eine Fehlinvestition handeln mu&#223;, denn wir k&#246;nnen uns nat&#252;rlich<lb/>
-solche Getreidelager nicht anlegen damit die &#220;bersch&#252;sse von Getreide<lb/>
-in &#214;sterreich in irgendeiner Weise vom Markt verschwinden. Hier wird<lb/>
-die Regierung Vorsorge treffen m&#252;ssen, da&#223; diese &#220;berschu&#223;produktion<lb/>
-in einem bescheidenen Rahmen gehalten wird. Sein Hinweis, da&#223; wir<lb/>
-ungef&#228;hr ein Drittel der Investitionen f&#252;r Betriebsmittel ausgeben<lb/>
-sollten, das hei&#223;t Zinsenzusch&#252;sse f&#252;r Betriebsmittel ebenfalls auf<lb break="no"/>nehmen sollten, wurde von mir dahingehend abgelehnt, da&#223; ich erkl&#228;rte<lb/>
-wenn ein Betrieb nicht imstande ist die Betriebsmittel &#252;ber seine<lb/>
-Bank zu kriegen und zu verdienen, dann mu&#223; es sich doch zweifelsohne<lb/>
+erwartete außerdem, daß ich die Richtlinien zum Gewerbestrukturver<lb break="no"/>besserungsgesetz dahingehend abändern sollte, daß auch der Weinhandel<lb/>
+<pb n="01-0090" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band01/01_1970-05-11_0090.jp2/full/pct:100/0/default.jpg"/>nach wie vor entsprechende Unterstützung kriegen sollte, da – wie er<lb/>
+mitteilte – die landwirtschaftlichen Genossenschaften über die AiK<lb/>
+und den grünen Plan ca. 40 Mio Schillinge jährlich zum Ausbau ihrer<lb/>
+Lager bekommen. Ich erwiderte, daß ich diese Vorgangsweise für<lb/>
+falsch halte, daß nämlich ununterbrochen – wenn die Landwirtschaft<lb/>
+irgendwelche Mittel bereitstellt, dann gleichzeitig auch die gewerb<lb break="no"/>liche Wirtschaft solche Mittel bekommen sollte,auch dann,wenn es sich –<lb/>
+wie z.B. für die Silobauten – in Wirklichkeit langfristig gesehen um<lb/>
+eine Fehlinvestition handeln muß, denn wir können uns natürlich<lb/>
+solche Getreidelager nicht anlegen damit die Überschüsse von Getreide<lb/>
+in Österreich in irgendeiner Weise vom Markt verschwinden. Hier wird<lb/>
+die Regierung Vorsorge treffen müssen, daß diese Überschußproduktion<lb/>
+in einem bescheidenen Rahmen gehalten wird. Sein Hinweis, daß wir<lb/>
+ungefähr ein Drittel der Investitionen für Betriebsmittel ausgeben<lb/>
+sollten, das heißt Zinsenzuschüsse für Betriebsmittel ebenfalls auf<lb break="no"/>nehmen sollten, wurde von mir dahingehend abgelehnt, daß ich erklärte<lb/>
+wenn ein Betrieb nicht imstande ist die Betriebsmittel über seine<lb/>
+Bank zu kriegen und zu verdienen, dann muß es sich doch zweifelsohne<lb/>
 um einen kranken Betrieb handeln den zu subventionieren ganz sinnlos<lb/>
 ist.<lb/>
-Der Bund der Gastlichkeit kam um eine entsprechende Subvention f&#252;r<lb/>
-eine neue Aktion, und zwar einen sogenannten j&#228;hrlichen Restaurant<lb break="no"/>f&#252;hrer. Der Besitzer des Sachsenganges, <rs type="person" ref="#per__136838">Winkler</rs>, der gleichzeitig<lb/>
+Der Bund der Gastlichkeit kam um eine entsprechende Subvention für<lb/>
+eine neue Aktion, und zwar einen sogenannten jährlichen Restaurant<lb break="no"/>führer. Der Besitzer des Sachsenganges, <rs type="person" ref="#per__136838">Winkler</rs>, der gleichzeitig<lb/>
 mit dem Obmann <rs type="person" ref="#per__97824">Ploil</rs> der Besitzer vom Tulbingerkogel ist, bei mir<lb/>
-vorsprach erkl&#228;rte mir ihr System.Von den ca. 51.000 Gastst&#228;tten<lb/>
-hoffen sie, da&#223; sich 2.000 bereiterkl&#228;ren w&#252;rden, ca. l.800,- Schilling<lb/>
-pro Jahr f&#252;r eine Werbeaktion zur Verf&#252;gung zu stellen. Damit sollte<lb/>
-ein j&#228;hrlicher Restaurantf&#252;hrer geschaffen werden. Zur Vorbereitung<lb/>
-dieser Aktion hatte der &#214;AMTC sich bereiterkl&#228;rt die Karten zur<lb/>
-Verf&#252;gung zu stellen, das Ausma&#223; w&#228;re 200.000 Schilling, 20.000 Schil<lb break="no"/>ling gibt der Bund f&#252;r Gastlichkeit, 20.000 Schilling gibt der neu<lb/>
-zu gr&#252;ndende Verein und 50.000 Schilling erwartet man vom Handels-<lb/>
-ministerium. Die Handelskammer hat ebenfalls 50.000 Schilling f&#252;r<lb/>
-die Inlandswerbung zur Verf&#252;gung gestellt. <rs type="person">Ploil</rs> erkl&#228;rte, da&#223;<lb/>
+vorsprach erklärte mir ihr System.Von den ca. 51.000 Gaststätten<lb/>
+hoffen sie, daß sich 2.000 bereiterklären würden, ca. l.800,- Schilling<lb/>
+pro Jahr für eine Werbeaktion zur Verfügung zu stellen. Damit sollte<lb/>
+ein jährlicher Restaurantführer geschaffen werden. Zur Vorbereitung<lb/>
+dieser Aktion hatte der ÖAMTC sich bereiterklärt die Karten zur<lb/>
+Verfügung zu stellen, das Ausmaß wäre 200.000 Schilling, 20.000 Schil<lb break="no"/>ling gibt der Bund für Gastlichkeit, 20.000 Schilling gibt der neu<lb/>
+zu gründende Verein und 50.000 Schilling erwartet man vom Handels-<lb/>
+ministerium. Die Handelskammer hat ebenfalls 50.000 Schilling für<lb/>
+die Inlandswerbung zur Verfügung gestellt. <rs type="person">Ploil</rs> erklärte, daß<lb/>
 <rs type="person" ref="#per__97749">Mitterer</rs> ihnen bereits 100.000 Schilling zugesichert hatte. Da mir<lb/>
-Sektionschef <rs type="person" ref="#per__97504">Habel</rs> aber vorher schon mitgeteilt hatte, da&#223; 50.000<lb/>
-effektiv ihnen bereits konkret zugesagt wurden, erkl&#228;rte ich, da&#223;<lb/>
-ich nach &#220;berpr&#252;fung der budget&#228;ren Situation bereit sein w&#252;rde<lb/>
-diese Aktion zu unterst&#252;tzen, weil gerade der Bund der Gastlichkeit<lb/>
-<pb n="01-0091" facs="01_1970-05-11_0091.jpg"/>mit seinen Veranstaltungen eine verh&#228;ltnism&#228;&#223;ig gro&#223;e Breiten<lb break="no"/>wirkung im Inland und im Ausland erreichen kann. Wie mir mitgeteilt<lb/>
-wurde h&#228;tte die letzte Auslandsveranstaltung, die in Bonn, D&#252;sseldorf<lb/>
+Sektionschef <rs type="person" ref="#per__97504">Habel</rs> aber vorher schon mitgeteilt hatte, daß 50.000<lb/>
+effektiv ihnen bereits konkret zugesagt wurden, erklärte ich, daß<lb/>
+ich nach Überprüfung der budgetären Situation bereit sein würde<lb/>
+diese Aktion zu unterstützen, weil gerade der Bund der Gastlichkeit<lb/>
+<pb n="01-0091" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band01/01_1970-05-11_0091.jp2/full/pct:100/0/default.jpg"/>mit seinen Veranstaltungen eine verhältnismäßig große Breiten<lb break="no"/>wirkung im Inland und im Ausland erreichen kann. Wie mir mitgeteilt<lb/>
+wurde hätte die letzte Auslandsveranstaltung, die in Bonn, Düsseldorf<lb/>
 und Frankfurt stattgefunden hat nur 6.000 Schilling gekostet obwohl<lb/>
-50.000 Schilling daf&#252;r bereitgestellt waren. Mit dem Rest hofft der<lb/>
-Bund der Gastlichkeit noch in London eine entsprechende Veranstal<lb break="no"/>tung starten zu k&#246;nnen.<lb/>
+50.000 Schilling dafür bereitgestellt waren. Mit dem Rest hofft der<lb/>
+Bund der Gastlichkeit noch in London eine entsprechende Veranstal<lb break="no"/>tung starten zu können.<lb/>
 In der Ministerratsvorbesprechung schnitt ich das Problem der<lb/>
-Kompetenzaufteilung neuerdings an und schlug vor, da&#223; unsere<lb/>
-Experten nicht jetzt ausschlie&#223;lich &#8211; wie das scheinbar l&#228;uft &#8211;<lb/>
+Kompetenzaufteilung neuerdings an und schlug vor, daß unsere<lb/>
+Experten nicht jetzt ausschließlich – wie das scheinbar läuft –<lb/>
 eine Verschiebung anpeilen sollen, sondern dass wir wirklich in der<lb/>
-grossen Kompetenzabgrenzung einen entsprechenden Vorschlag &#252;ber eine<lb/>
+grossen Kompetenzabgrenzung einen entsprechenden Vorschlag über eine<lb/>
 Neuverteilung der Kompetenzen aber auch gleichzeitig eine entsprechende<lb/>
 Neuorganisation in der Verwaltung anstreben sollten. Betreffend der<lb/>
 Kompetenzaufteilung hatte ich meine alte Taktik fortgesetzt, indem<lb/>
-ich erkl&#228;rte, ich sei nicht daran interessiert, eine Kompetenz unbedingt<lb/>
+ich erklärte, ich sei nicht daran interessiert, eine Kompetenz unbedingt<lb/>
 zu erhalten und wenn deshalb ein anderes Ministerium eine Kompetenz von mir<lb/>
-haben wolle, so werde das &#8211; wenn es sachlich begr&#252;ndet ist &#8211; nicht<lb/>
-auf einen Widerstand bei mir stossen. <rs type="person" ref="#per__97587">Jankowitsch</rs> erkl&#228;rte mir, dass<lb/>
-er leider nicht mitwirken k&#246;nnte bei einer Aussprache, die ich in<lb/>
-meinem B&#252;ro mit den jungen Leuten betreffend einer richtigen Kompe<lb break="no"/>tenzaufteilung und einer sachlichen Aufbau der Bundesverwaltung<lb/>
-weil er glaubte, dass <rs type="person" ref="#per__97668">Kreisky</rs> am Freitag bereits eine endg&#252;ltige<lb/>
-Fassung des jetzt vorliegenden Entwurfes von <rs type="person" ref="#per__97700">Loebenstein</rs> durchdisku<lb break="no"/>tieren wollte. Ich konnte aber die anderen Regierungsmitglieder &#252;ber<lb break="no"/>zeugen, dass wir doch unter allen Umst&#228;nden einen besseren Vorschlag<lb/>
-machen m&#252;ssten. Ich halte nichts davon, die Abteilungen f&#252;r Strassen<lb break="no"/>und Gewerbepolitik, der Fr&#228;chter usw. einmal von mir ins Verkehrs<lb break="no"/>ministerium kommen, dann beim n&#228;chsten Entwurf wieder vom Verkehrs<lb break="no"/>ministerium dann doch bei mir bleiben oder dass andere Ressorts un<lb break="no"/>unterbrochen ihre Abteilungen hin und her abtauschen. Wenn dies<lb/>
-in der &#214;ffentlichkeit bekannt wird, so werden wir genau denselben<lb/>
+haben wolle, so werde das – wenn es sachlich begründet ist – nicht<lb/>
+auf einen Widerstand bei mir stossen. <rs type="person" ref="#per__97587">Jankowitsch</rs> erklärte mir, dass<lb/>
+er leider nicht mitwirken könnte bei einer Aussprache, die ich in<lb/>
+meinem Büro mit den jungen Leuten betreffend einer richtigen Kompe<lb break="no"/>tenzaufteilung und einer sachlichen Aufbau der Bundesverwaltung<lb/>
+weil er glaubte, dass <rs type="person" ref="#per__97668">Kreisky</rs> am Freitag bereits eine endgültige<lb/>
+Fassung des jetzt vorliegenden Entwurfes von <rs type="person" ref="#per__97700">Loebenstein</rs> durchdisku<lb break="no"/>tieren wollte. Ich konnte aber die anderen Regierungsmitglieder über<lb break="no"/>zeugen, dass wir doch unter allen Umständen einen besseren Vorschlag<lb/>
+machen müssten. Ich halte nichts davon, die Abteilungen für Strassen<lb break="no"/>und Gewerbepolitik, der Frächter usw. einmal von mir ins Verkehrs<lb break="no"/>ministerium kommen, dann beim nächsten Entwurf wieder vom Verkehrs<lb break="no"/>ministerium dann doch bei mir bleiben oder dass andere Ressorts un<lb break="no"/>unterbrochen ihre Abteilungen hin und her abtauschen. Wenn dies<lb/>
+in der Öffentlichkeit bekannt wird, so werden wir genau denselben<lb/>
 schlechten Ruf kriegen wie den <rs type="person">Klaus</rs> betreffend dieser Materie dann<lb/>
 auch erhalten hat. Ich hoffe, dass es mir gelingen wird, auch Freitag<lb/>
-auch <rs type="person" ref="#per__97668">Kreisky</rs> von dieser Tatktik zu &#252;berzeugen.</p>
-            <p xml:space="preserve">Mit <rs type="person" ref="#per__97442">Firnberg</rs> hatte ich anschliessend noch eine Aussprache, da sie<lb/>
-von mir wissen wollte, ob ich heute beim Forschungsf&#246;rderungsfonds<lb/>
-der gewerblichen Wirtschaft irgendwelche Erkl&#228;rungen abgeben w&#252;rde.</p>
-            <pb n="01-0092" facs="01_1970-05-11_0092.jpg"/>
-            <p xml:space="preserve"><rs type="person">Timburg</rs> von der &#214;IG, der in diesem Forschungsbeirat neben dem<lb/>
-Koll. <rs type="person" ref="#per__97498">GR&#220;NWALD</rs> von der Arbeiterkammer delegiert ist, war bei<lb/>
-ihr und hatte diesbez&#252;glich grosse Bef&#252;rchtungen. Ich beruhigte<lb/>
-sie und erkl&#228;rte, dass ich eine solche Erkl&#228;rung keinesfalls ab<lb break="no"/>geben w&#252;rde und dass ich gar keine Gefahr darin sehe, beim For<lb break="no"/>schungsf&#246;rderungsfonds nur zu erkl&#228;ren, dass die sozialistische<lb/>
-Regierung nat&#252;rlich auch alle Vorkehrungen treffen w&#252;rde, damit<lb/>
+auch <rs type="person" ref="#per__97668">Kreisky</rs> von dieser Tatktik zu überzeugen.</p>
+            <p xml:space="preserve" xml:id="Band01_1970-05-11_06">Mit <rs type="person" ref="#per__97442">Firnberg</rs> hatte ich anschliessend noch eine Aussprache, da sie<lb/>
+von mir wissen wollte, ob ich heute beim Forschungsförderungsfonds<lb/>
+der gewerblichen Wirtschaft irgendwelche Erklärungen abgeben würde.</p>
+            <pb n="01-0092" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band01/01_1970-05-11_0092.jp2/full/pct:100/0/default.jpg"/>
+            <p xml:space="preserve" xml:id="Band01_1970-05-11_07"><rs type="person">Timburg</rs> von der ÖIG, der in diesem Forschungsbeirat neben dem<lb/>
+Koll. <rs type="person" ref="#per__97498">GRÜNWALD</rs> von der Arbeiterkammer delegiert ist, war bei<lb/>
+ihr und hatte diesbezüglich grosse Befürchtungen. Ich beruhigte<lb/>
+sie und erklärte, dass ich eine solche Erklärung keinesfalls ab<lb break="no"/>geben würde und dass ich gar keine Gefahr darin sehe, beim For<lb break="no"/>schungsförderungsfonds nur zu erklären, dass die sozialistische<lb/>
+Regierung natürlich auch alle Vorkehrungen treffen würde, damit<lb/>
 die gewerbliche Forschung sichergestellt ist. Da sie jetzt bemerkte,<lb/>
 dass der Widerstand der Bundeskammer gegen diesen Gesetzentwurf<lb/>
 sehr stark ist und sie Angst hat, dass eben doch der gewerblichen For<lb break="no"/>schungsfonds benachteiligt wird, ersuchte sie mich, ob ich nicht<lb/>
-versuchen k&#246;nnte, die Bundeskammer davon zu &#252;berzeugen, wenn sie<lb/>
-dem Gesetzentwurf zustimmt, dass ebenfalls dann ihr Anliegen, n&#228;m<lb break="no"/>lich das Anliegen der Bundeskammer, dass der gewerbliche Forschungs<lb break="no"/>f&#246;rderungsfonds in meiner Kompetenz bleibt, erf&#252;llt werden k&#246;nnte.<lb/>
+versuchen könnte, die Bundeskammer davon zu überzeugen, wenn sie<lb/>
+dem Gesetzentwurf zustimmt, dass ebenfalls dann ihr Anliegen, näm<lb break="no"/>lich das Anliegen der Bundeskammer, dass der gewerbliche Forschungs<lb break="no"/>förderungsfonds in meiner Kompetenz bleibt, erfüllt werden könnte.<lb/>
 Ich habe mir vorgenommen, eine solche Taktik einzuschlagen, wenn<lb/>
-die Bundeskammer eine diesbez&#252;gliche Erkl&#228;rung namens der &#214;ster<lb break="no"/>reichischen Volkspartei abgeben konnte. Ich habe deshalb bei einem<lb/>
-Empfang f&#252;r den rum&#228;nischen Fremdenverkehrsminister auch diesbe<lb break="no"/>z&#252;gliche Andeutungen dem Pr&#228;sidenten <rs type="person" ref="#per__114655">Harmer</rs>, der der Vorsitzende<lb/>
-des Forschungsbeirates ist, gemacht, indem ich ihm erkl&#228;rte, wenn<lb/>
-er sich so f&#252;r die Forschungsf&#246;rderung einsetzt, dass sie im Han<lb break="no"/>delsministerium bleibt, dann m&#252;sste er hat daf&#252;r sorgen, dass die<lb/>
-&#214;VP klar zu erkennen g&#228;be, ob sie einem Kompetenzgesetz die Zu<lb break="no"/>stimmung g&#228;be oder nicht. Solange eine diesbez&#252;gliche Entscheidung<lb/>
-nicht bei mir vorliegt, k&#246;nnte ich meine Stellungnahme nicht &#228;ndern.</p>
+die Bundeskammer eine diesbezügliche Erklärung namens der Öster<lb break="no"/>reichischen Volkspartei abgeben konnte. Ich habe deshalb bei einem<lb/>
+Empfang für den rumänischen Fremdenverkehrsminister auch diesbe<lb break="no"/>zügliche Andeutungen dem Präsidenten <rs type="person" ref="#per__114655">Harmer</rs>, der der Vorsitzende<lb/>
+des Forschungsbeirates ist, gemacht, indem ich ihm erklärte, wenn<lb/>
+er sich so für die Forschungsförderung einsetzt, dass sie im Han<lb break="no"/>delsministerium bleibt, dann müsste er hat dafür sorgen, dass die<lb/>
+ÖVP klar zu erkennen gäbe, ob sie einem Kompetenzgesetz die Zu<lb break="no"/>stimmung gäbe oder nicht. Solange eine diesbezügliche Entscheidung<lb/>
+nicht bei mir vorliegt, könnte ich meine Stellungnahme nicht ändern.</p>
          </div>
       </body>
     

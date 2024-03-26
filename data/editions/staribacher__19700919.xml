@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="staribacher__19700919">
   <teiHeader>
       <fileDesc>
@@ -45,82 +46,78 @@
    </teiHeader>
   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band02/">
       <body>
-         <pb n="02-0543" facs="02_1970-09-19_0543.jpg"/>
+         <pb n="02-0543" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band02/02_1970-09-19_0543.jp2/full/pct:100/0/default.jpg"/>
          <div type="entry">
-            <dateline>
-               <date when="1970-09-19">19.9.70<add/>
-               </date>
-            </dateline>
-            <p xml:space="preserve">Ko<add/></p>
-            <p xml:space="preserve">Wird's besser, wird's schlechter,<lb/>
+            <p xml:space="preserve" xml:id="Band02_1970-09-19_01">Ko<add/></p>
+            <p xml:space="preserve" xml:id="Band02_1970-09-19_02">Wird's besser, wird's schlechter,<lb/>
 seien wir ehrlich,<lb/>
-leben ist immer lebensgef&#228;hrlich.</p>
-            <p xml:space="preserve">Dieser Kalendervers von <rs type="person" ref="#per__97619">Erich K&#228;stner</rs> fiel mir ein, als wir<lb/>
+leben ist immer lebensgefährlich.</p>
+            <p xml:space="preserve" xml:id="Band02_1970-09-19_03">Dieser Kalendervers von <rs type="person" ref="#per__97619">Erich Kästner</rs> fiel mir ein, als wir<lb/>
 mit einer gewissen Spannung nach Tirol abreisten und am Bahnhof<lb/>
-den Samstag-Express mit riesengrossen Kitzb&#252;hel-&#220;berschrift in<lb/>
+den Samstag-Express mit riesengrossen Kitzbühel-Überschrift in<lb/>
 die Hand bekamen. Wir wussten noch nicht, wie wertvoll diese<lb/>
-Zeitung werden sollte. Messe-Er&#246;ffnung in Innsbruck.<lb/>
-Handelskammer-Pr&#228;sident <rs type="person" ref="#per__116957">Menardi</rs> empf&#228;ngt Dr. <rs type="person" ref="#per__97985">Staribacher</rs>.<lb/>
-Bei der Vorbesprechung im Hotel Tyrol erwies es sich als &#228;usserst<lb/>
-st&#246;rend, dass erst im Laufe der Gespr&#228;che erraten werden kann,<lb/>
-welches Gewerbe der Herr Kammerpr&#228;sident aus&#252;bt. <rs type="person" ref="#per__116957">Menardi</rs> ist<lb/>
-sichtlich &#252;berrascht, dass man mit einem sozialistischen Handels<lb break="no"/>minister so gut sprechen kann. Es wirkte anfangs, als h&#228;tte<lb/>
-er sich Dr. <rs type="person" ref="#per__97985">Staribacher</rs> mit H&#246;rndln am Kopf vorgestellt. Er<lb/>
+Zeitung werden sollte. Messe-Eröffnung in Innsbruck.<lb/>
+Handelskammer-Präsident <rs type="person" ref="#per__116957">Menardi</rs> empfängt Dr. <rs type="person" ref="#per__97985">Staribacher</rs>.<lb/>
+Bei der Vorbesprechung im Hotel Tyrol erwies es sich als äusserst<lb/>
+störend, dass erst im Laufe der Gespräche erraten werden kann,<lb/>
+welches Gewerbe der Herr Kammerpräsident ausübt. <rs type="person" ref="#per__116957">Menardi</rs> ist<lb/>
+sichtlich überrascht, dass man mit einem sozialistischen Handels<lb break="no"/>minister so gut sprechen kann. Es wirkte anfangs, als hätte<lb/>
+er sich Dr. <rs type="person" ref="#per__97985">Staribacher</rs> mit Hörndln am Kopf vorgestellt. Er<lb/>
 muss nicht nur seine "Teufel-"Vorstellungen begraben, sondern<lb/>
 taut sichtlich auf, als er erkennt, dass <rs type="person">Staribachers</rs> Konzepte<lb/>
-seinen Auffassungen viel eher entsprechen, als die reaktion&#228;re<lb/>
-Haltung der Greissler-P&#228;pste der &#214;VP-. Dynamische Gesch&#228;ftsleute,<lb/>
-die moderne Wirtschaftspolitik sch&#228;tzen, sind im Westen eben doch<lb/>
-h&#228;ufiger als im Osten. Vor allem &#252;ber die Gewerbeordnung w&#228;re<lb/>
+seinen Auffassungen viel eher entsprechen, als die reaktionäre<lb/>
+Haltung der Greissler-Päpste der ÖVP-. Dynamische Geschäftsleute,<lb/>
+die moderne Wirtschaftspolitik schätzen, sind im Westen eben doch<lb/>
+häufiger als im Osten. Vor allem über die Gewerbeordnung wäre<lb/>
 mit diesen Leuten wahrscheinlich besser zu sprechen, als mit <rs type="person" ref="#per__97769">Mussil</rs><lb/>
 oder <rs type="person" ref="#per__97893">Sallinger</rs>. Es ist nur schade, dass sich vermutlich kaum eine<lb/>
 Gelegenheit findet, diese Leute in irgendeiner Form direkt zu<lb/>
-offiziellen Gespr&#228;chspartnern zu machen.</p>
-            <p xml:space="preserve">Landeshauptmann <rs type="person" ref="#per__98048">Walln&#246;fer</rs> kommt zur Vorbesprechung, Seine Sorgen:<lb/>
-Bergbau Kitzb&#252;hel, Fremdenverkehr, &#214;lversorgung, Strassenbau (ob<lb break="no"/>wohl der <rs type="person" ref="#per__97985">Staribacher</rs> nicht betrifft). Sein vorbereitendes Gespr&#228;ch<lb/>
-hat offensichtlich nur den Zweck, seine bei der Messe-Er&#246;ffnung<lb/>
-&#246;ffentlich vorgebrachten Angriffe nicht unh&#246;flich erscheinen zu<lb/>
+offiziellen Gesprächspartnern zu machen.</p>
+            <p xml:space="preserve" xml:id="Band02_1970-09-19_04">Landeshauptmann <rs type="person" ref="#per__98048">Wallnöfer</rs> kommt zur Vorbesprechung, Seine Sorgen:<lb/>
+Bergbau Kitzbühel, Fremdenverkehr, Ölversorgung, Strassenbau (ob<lb break="no"/>wohl der <rs type="person" ref="#per__97985">Staribacher</rs> nicht betrifft). Sein vorbereitendes Gespräch<lb/>
+hat offensichtlich nur den Zweck, seine bei der Messe-Eröffnung<lb/>
+öffentlich vorgebrachten Angriffe nicht unhöflich erscheinen zu<lb/>
 lassen. <rs type="person" ref="#per__97985">Staribacher</rs> kontert sofort, indem auch er einige Passagen<lb/>
-seiner Rede mit <rs type="person" ref="#per__98048">Walln&#246;fer</rs> bespricht.</p>
-            <p xml:space="preserve">Die Messe-Er&#246;ffnung findet im Saal statt. Sie ist nicht nur feierlich<lb/>
+seiner Rede mit <rs type="person" ref="#per__98048">Wallnöfer</rs> bespricht.</p>
+            <p xml:space="preserve" xml:id="Band02_1970-09-19_05">Die Messe-Eröffnung findet im Saal statt. Sie ist nicht nur feierlich<lb/>
 sondern schliesst den roten Handelsminister auch hermetisch von<lb/>
-einer breiteren &#214;ffentlichkeit ab. Es gibt zwar einige bekannte<lb/>
-Gesichter, aber im grossen und ganzen h&#228;tte <rs type="person">Staribachers</rs> Messe-Rede<lb/>
-auch vor einem Landesparteitag der &#214;VP kaum ein anderes Publikum<lb/>
+einer breiteren Öffentlichkeit ab. Es gibt zwar einige bekannte<lb/>
+Gesichter, aber im grossen und ganzen hätte <rs type="person">Staribachers</rs> Messe-Rede<lb/>
+auch vor einem Landesparteitag der ÖVP kaum ein anderes Publikum<lb/>
 gehabt.</p>
-            <pb n="02-0544" facs="02_1970-09-19_0544.jpg"/>
-            <p xml:space="preserve"><rs type="person" ref="#per__116957">Menardi</rs>, vor allem aber <rs type="person" ref="#per__98048">Walln&#246;fer</rs>, brachten die nach der Vorbesprechung<lb/>
-zu erwartenden Angriffe h&#246;flich in der Form, aber &#228;usserst massiv vor.<lb/>
-?<add/> der zwischen den beiden spricht, h&#228;lt sich eher zur&#252;ck.</p>
-            <p xml:space="preserve"><rs type="person" ref="#per__97985">Staribacher</rs> h&#228;lt eine seiner besten Reden, die ich von ihm geh&#246;rt habe,<lb/>
+            <pb n="02-0544" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band02/02_1970-09-19_0544.jp2/full/pct:100/0/default.jpg"/>
+            <p xml:space="preserve" xml:id="Band02_1970-09-19_06"><rs type="person" ref="#per__116957">Menardi</rs>, vor allem aber <rs type="person" ref="#per__98048">Wallnöfer</rs>, brachten die nach der Vorbesprechung<lb/>
+zu erwartenden Angriffe höflich in der Form, aber äusserst massiv vor.<lb/>
+?<add/> der zwischen den beiden spricht, hält sich eher zurück.</p>
+            <p xml:space="preserve" xml:id="Band02_1970-09-19_07"><rs type="person" ref="#per__97985">Staribacher</rs> hält eine seiner besten Reden, die ich von ihm gehört habe,<lb/>
 Rein rethorischer ist er um Klassen besser als seine Vorredner. Die<lb/>
 Ansprache, in der er auf alle Angriffe mit Ausnahme des Strassenbau<lb break="no"/>themas, erwidert, wirkt nicht als spontane Antwort auf die Vorredner<lb/>
-sondern wie eine zwar vorgetragene, aber lange und sorgf&#228;ltige vor<lb break="no"/>bereitete Ansprache, die ganz zuf&#228;llig just jene Themen behandelt,<lb/>
-zu denen auch die Vorredner gesprochen haben. Die Ehreng&#228;ste der Messe<lb/>
-bringen widerwillig ihre Bewunderung f&#252;r <rs type="person" ref="#per__97985">Staribacher</rs> zum Ausdruck.<lb/>
+sondern wie eine zwar vorgetragene, aber lange und sorgfältige vor<lb break="no"/>bereitete Ansprache, die ganz zufällig just jene Themen behandelt,<lb/>
+zu denen auch die Vorredner gesprochen haben. Die Ehrengäste der Messe<lb/>
+bringen widerwillig ihre Bewunderung für <rs type="person" ref="#per__97985">Staribacher</rs> zum Ausdruck.<lb/>
 An einer einzigen Stelle gibt es sogar spontanen Applaus. Bei der<lb/>
-Erkl&#228;rung zum Thema Bergbau in Kitzb&#252;hel. Dieses Thema erregt offenbar<lb/>
+Erklärung zum Thema Bergbau in Kitzbühel. Dieses Thema erregt offenbar<lb/>
 auch in Innsbruck.</p>
-            <p xml:space="preserve">Beim Messerundgang leistet sich Dr. <rs type="person" ref="#per__97985">Staribacher</rs> einen Gag, der<lb/>
-sicherlich &#228;u&#223;erst wirksam ist, aber wenn schon nicht auf Kosten<lb/>
-der Gesundheit so zumindest der eigenen Leistungsf&#228;higkeit geht.<lb/>
+            <p xml:space="preserve" xml:id="Band02_1970-09-19_08">Beim Messerundgang leistet sich Dr. <rs type="person" ref="#per__97985">Staribacher</rs> einen Gag, der<lb/>
+sicherlich äußerst wirksam ist, aber wenn schon nicht auf Kosten<lb/>
+der Gesundheit so zumindest der eigenen Leistungsfähigkeit geht.<lb/>
 Da <rs type="person" ref="#per__114375">Lugger</rs> Blut gespendet hat, geht prompt auch <rs type="person" ref="#per__97985">Staribacher</rs> Blutspenden.<lb/>
-Statt der &#252;blichen Ruhepause st&#252;rzt er schon ein paar Minuten sp&#228;ter<lb/>
-wiederum ins Get&#252;mmel um den Messerundgang, der diesmal l&#228;nger<lb/>
+Statt der üblichen Ruhepause stürzt er schon ein paar Minuten später<lb/>
+wiederum ins Getümmel um den Messerundgang, der diesmal länger<lb/>
 dauert als je zuvor, wie alle Beteiligten versichern, weiterzumachen.</p>
-            <p xml:space="preserve">Besuch bei der Werksgenossenschaft Fulpmes. Ein wirklich eindrucks<lb break="no"/>voller Versuch Mittelalter und zukunftstr&#228;chtige Wirtschaftsformen<lb/>
+            <p xml:space="preserve" xml:id="Band02_1970-09-19_09">Besuch bei der Werksgenossenschaft Fulpmes. Ein wirklich eindrucks<lb break="no"/>voller Versuch Mittelalter und zukunftsträchtige Wirtschaftsformen<lb/>
 miteinander zu verbinden. <rs type="person" ref="#per__97985">Staribacher</rs> verspricht nichts, berichtet<lb/>
-aber &#252;ber seine Verhandlungen mit <rs type="person" ref="#per__97755">Moser</rs> und <rs type="person" ref="#per__98055">Weihs</rs>. Konkrete Bitten:<lb/>
-ein Antrag der Werksgenossenschaft an die B&#252;rges soll als Antrag<lb/>
+aber über seine Verhandlungen mit <rs type="person" ref="#per__97755">Moser</rs> und <rs type="person" ref="#per__98055">Weihs</rs>. Konkrete Bitten:<lb/>
+ein Antrag der Werksgenossenschaft an die Bürges soll als Antrag<lb/>
 wegen eines Strukturverbesserungskredites betrachtet werden. Der<lb/>
-Minister sagt wohlwollende Pr&#252;fung im Ministerium zu. Ferner strebt<lb/>
+Minister sagt wohlwollende Prüfung im Ministerium zu. Ferner strebt<lb/>
 die Genossenschaft einen gemeinsamen ERP-Kredit an. Sie hatte bereits<lb/>
-vor l&#228;ngerer Zeit einen &#228;hnlichen Kredit. Nun aber erhielt sie die<lb/>
-Auskunft, da&#223; jede einzelne Mitgliedsfirma gesondert ansuchen m&#252;&#223;te.</p>
-            <p xml:space="preserve">Die W&#228;hlerversammlung in Fulpmes ist ein Beispiel f&#252;r eine W&#228;hler<lb break="no"/>versammlung im alten Stil. Trotzdem sind die &#246;rtlichen Genossen<lb/>
-begeistert, weil sie mehr Leute auf die F&#252;&#223;e gebracht haben als in<lb/>
+vor längerer Zeit einen ähnlichen Kredit. Nun aber erhielt sie die<lb/>
+Auskunft, daß jede einzelne Mitgliedsfirma gesondert ansuchen müßte.</p>
+            <p xml:space="preserve" xml:id="Band02_1970-09-19_10">Die Wählerversammlung in Fulpmes ist ein Beispiel für eine Wähler<lb break="no"/>versammlung im alten Stil. Trotzdem sind die örtlichen Genossen<lb/>
+begeistert, weil sie mehr Leute auf die Füße gebracht haben als in<lb/>
 der Vergangenheit.<lb/>
-Die Fahrt nach Oberndorf bringt erst in Oberndorf selbst &#220;berraschungen.</p>
+Die Fahrt nach Oberndorf bringt erst in Oberndorf selbst Überraschungen.</p>
          </div>
       </body>
     

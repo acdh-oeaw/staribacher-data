@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="staribacher__19701213">
   <teiHeader>
       <fileDesc>
@@ -44,32 +45,29 @@
    </teiHeader>
   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band03/">
       <body>
-         <pb n="03-0912" facs="03_1970-12-13_0912.jpg"/>
+         <pb n="03-0912" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band03/03_1970-12-13_0912.jp2/full/pct:100/0/default.jpg"/>
          <div type="entry">
-            <dateline>
-               <date when="1970-12-13">Sonntag, 13. Dezember 1970</date>
-            </dateline>
-            <p xml:space="preserve">Die <rs type="person" ref="#per__97869">Renner</rs>-Feier der Sozialistischen Partei im Konzerthaus war<lb/>
-wieder nicht vollkommen. Erstens hatte der Saal noch immer ver<lb break="no"/>einzelt L&#252;cken, da nummerierte Pl&#228;tze ausgegeben wurden, nat&#252;rlich<lb/>
-einige Ausf&#228;lle zu verzeichnen waren. Zweitens wurde nach der Fest<lb break="no"/>rede von <rs type="person" ref="#per__98043">Waldbrunner</rs> eine zweite Festrede in Form eines Festspiels<lb/>
-vorgetragen. <rs type="person" ref="#per__97364"><sic>Karl Heiinz</sic> B&#246;hm</rs> hat den Text gelesen und drei andere<lb/>
+            <p xml:space="preserve" xml:id="Band03_1970-12-13_01">Die <rs type="person" ref="#per__97869">Renner</rs>-Feier der Sozialistischen Partei im Konzerthaus war<lb/>
+wieder nicht vollkommen. Erstens hatte der Saal noch immer ver<lb break="no"/>einzelt Lücken, da nummerierte Plätze ausgegeben wurden, natürlich<lb/>
+einige Ausfälle zu verzeichnen waren. Zweitens wurde nach der Fest<lb break="no"/>rede von <rs type="person" ref="#per__98043">Waldbrunner</rs> eine zweite Festrede in Form eines Festspiels<lb/>
+vorgetragen. <rs type="person" ref="#per__97364"><sic>Karl Heiinz</sic> Böhm</rs> hat den Text gelesen und drei andere<lb/>
 Schauspieler hatten ebenfalls Textstellen vorzutragen. Zwischendurch<lb/>
 wurden einzelne Szenen eingestreut, sehr primitiv und gar nicht dem<lb/>
-hohen Niveau <rs type="person" ref="#per__97869">Karl Renners</rs> angepasst. Dar&#252;ber hinaus wurden Filme<lb/>
+hohen Niveau <rs type="person" ref="#per__97869">Karl Renners</rs> angepasst. Darüber hinaus wurden Filme<lb/>
 eingeschaltet, die ganz eindrucksvoll teilweise waren, allerdings<lb/>
 nicht synchron mit der Zeit liefen. D.h. es wurde 1921, dann wieder<lb/>
 1938, 1945, dann aber wieder Zwischenkriegszeiten eingeblendet oder<lb/>
-&#252;berschnitten, mit einem Wort ein richtiges chronologisches Kudel<lb break="no"/>mudel. Der grossen Leistung <rs type="person" ref="#per__97869">Karl Renners</rs> wurde dieses Festspiel<lb/>
-wahrlich nicht gerecht. Nur rot-weiss-rote Fahnen und &#252;berhaupt<lb/>
-kein Parteiemblem oder rote Nelken gen&#252;gen halt auch nicht, um<lb/>
+überschnitten, mit einem Wort ein richtiges chronologisches Kudel<lb break="no"/>mudel. Der grossen Leistung <rs type="person" ref="#per__97869">Karl Renners</rs> wurde dieses Festspiel<lb/>
+wahrlich nicht gerecht. Nur rot-weiss-rote Fahnen und überhaupt<lb/>
+kein Parteiemblem oder rote Nelken genügen halt auch nicht, um<lb/>
 eine Partei als staatstragend zu bezeichnen, und darzustellen.<lb/>
 Ich muss allerdings zugegeben, dass ich auf der Heimfahrt einige<lb/>
-kleine Funktion&#228;re traf und die erz&#228;hlten mir alle, dass es sehr,<lb/>
-sehr sch&#246;n gewesen ist.</p>
+kleine Funktionäre traf und die erzählten mir alle, dass es sehr,<lb/>
+sehr schön gewesen ist.</p>
          </div>
       </body>
       <back>
-         <pb n="03_0911_01" facs="03_1970-12-13_0911-01.jpg"/>
+         <pb n="03_0911_01" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band03/03_1970-12-13_0911-01.jp2/full/pct:100/0/default.jpg"/>
          <div type="attachment" subtype="cabinetAgenda">
             <head>Tagesprogramm, 13.12.1970</head>
             <gap reason="sampling"/>
