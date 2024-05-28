@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="staribacher__19771009" prev="staribacher__19710810.xml" next="staribacher__19760713.xml">
    <teiHeader>
       <fileDesc>
@@ -46,12 +47,10 @@
    <text>
       <body>
          <div type="entry"/>
-      </body>
-      <back>
-         <pb n="38_1169_01" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band38/38_1977-10-09_1169-01.jp2/full/pct:100/0/default.jpg"/>
+      <div type="back"><pb n="38_1169_01" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band38/38_1977-10-09_1169-01.jp2/full/pct:100/0/default.jpg"/>
          <div type="attachment" subtype="cabinetAgenda">
             <head>Tagesprogramm, 9.10.1977</head>
          </div>
-      </back>
-   </text>
+      </div></body>
+      </text>
 </TEI>

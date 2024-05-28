@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="staribacher__19770211" prev="staribacher__19760306.xml" next="staribacher__19800620.xml">
    <teiHeader>
       <fileDesc>
@@ -11,7 +12,7 @@
             </respStmt>
             <respStmt>
                <resp>Digitisation, OCR correction and named entities tagging</resp>
-               <persName>Thomas Tretzm&#252;ller</persName>
+               <persName>Thomas Tretzmüller</persName>
             </respStmt>
          </titleStmt>
          <publicationStmt>
@@ -46,12 +47,10 @@
    <text>
       <body>
          <div type="entry"/>
-      </body>
-      <back>
-         <pb n="35_0165_01" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band35/35_1977-02-11_0165-01.jp2/full/pct:100/0/default.jpg"/>
+      <div type="back"><pb n="35_0165_01" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band35/35_1977-02-11_0165-01.jp2/full/pct:100/0/default.jpg"/>
          <div type="attachment" subtype="cabinetAgenda">
             <head>Tagesprogramm, 11.2.1977</head>
          </div>
-      </back>
-   </text>
+      </div></body>
+      </text>
 </TEI>

@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="staribacher__19771211" prev="staribacher__19790623.xml" next="staribacher__19780328.xml">
    <teiHeader>
       <fileDesc>
@@ -46,12 +47,10 @@
    <text>
       <body>
          <div type="entry"/>
-      </body>
-      <back>
-         <pb n="39_1430_02" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band39/39_1977-12-11_1430-02.jp2/full/pct:100/0/default.jpg"/>
+      <div type="back"><pb n="39_1430_02" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band39/39_1977-12-11_1430-02.jp2/full/pct:100/0/default.jpg"/>
          <div type="attachment" subtype="cabinetAgenda">
             <head>Tagesprogramm, 11.12.1977</head>
          </div>
-      </back>
-   </text>
+      </div></body>
+      </text>
 </TEI>
