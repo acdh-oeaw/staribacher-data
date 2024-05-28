@@ -1,8 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="staribacher__19770319" prev="staribacher__19830520.xml" next="staribacher__19770223.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Samstag, der 19. M&#228;rz 1977</title>
+            <title type="main">Samstag, der 19. März 1977</title>
             <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
             <author>Josef Staribacher</author>
             <respStmt>
@@ -11,7 +12,7 @@
             </respStmt>
             <respStmt>
                <resp>Digitisation, OCR correction and named entities tagging</resp>
-               <persName>Thomas Tretzm&#252;ller</persName>
+               <persName>Thomas Tretzmüller</persName>
             </respStmt>
          </titleStmt>
          <publicationStmt>
@@ -32,7 +33,7 @@
       </fileDesc>
       <profileDesc>
          <creation>
-            <date when="1977-03-19">Samstag, 19. M&#228;rz 1977</date>
+            <date when="1977-03-19">Samstag, 19. März 1977</date>
          </creation>
       </profileDesc>
       <revisionDesc>
@@ -46,16 +47,14 @@
    <text>
       <body>
          <div type="entry"/>
-      </body>
-      <back>
-         <pb n="35_0321_01" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band35/35_1977-03-19_0321-01.jp2/full/pct:100/0/default.jpg"/>
+      <div type="back"><pb n="35_0321_01" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band35/35_1977-03-19_0321-01.jp2/full/pct:100/0/default.jpg"/>
          <div type="attachment" subtype="cabinetAgenda">
             <head>Tagesprogramm, 19.3.1977</head>
          </div>
          <pb n="35_0321_02" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band35/35_1977-03-19_0321-02.jp2/full/pct:100/0/default.jpg"/>
          <div type="attachment" subtype="cabinetAgenda">
-            <head>hs. Notizen (Tagesprogramm R&#252;ckseite)</head>
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
          </div>
-      </back>
-   </text>
+      </div></body>
+      </text>
 </TEI>

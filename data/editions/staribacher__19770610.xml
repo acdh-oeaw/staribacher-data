@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="staribacher__19770610" prev="staribacher__19750908.xml" next="staribacher__19780131.xml">
    <teiHeader>
       <fileDesc>
@@ -46,12 +47,10 @@
    <text>
       <body>
          <div type="entry"/>
-      </body>
-      <back>
-         <pb n="36_0687_01" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band36/36_1977-06-10_0687-01.jp2/full/pct:100/0/default.jpg"/>
+      <div type="back"><pb n="36_0687_01" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band36/36_1977-06-10_0687-01.jp2/full/pct:100/0/default.jpg"/>
          <div type="attachment" subtype="cabinetAgenda">
             <head>Tagesprogramm, 20.6.1977</head>
          </div>
-      </back>
-   </text>
+      </div></body>
+      </text>
 </TEI>

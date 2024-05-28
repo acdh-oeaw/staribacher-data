@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="staribacher__19780507" prev="staribacher__19751202.xml" next="staribacher__19710518.xml">
    <teiHeader>
       <fileDesc>
@@ -46,12 +47,10 @@
    <text>
       <body>
          <div type="entry"/>
-      </body>
-      <back>
-         <pb n="43_0498_01" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band43/43_1978-05-07_0498-01.jp2/full/pct:100/0/default.jpg"/>
+      <div type="back"><pb n="43_0498_01" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band43/43_1978-05-07_0498-01.jp2/full/pct:100/0/default.jpg"/>
          <div type="attachment" subtype="cabinetAgenda">
             <head>Tagesprogramm, 7.5.1978</head>
          </div>
-      </back>
-   </text>
+      </div></body>
+      </text>
 </TEI>

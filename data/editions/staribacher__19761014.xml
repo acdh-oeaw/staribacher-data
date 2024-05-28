@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="staribacher__19761014" prev="staribacher__19700804.xml" next="staribacher__19730626.xml">
    <teiHeader>
       <fileDesc>
@@ -46,16 +47,14 @@
    <text>
       <body>
          <div type="entry"/>
-      </body>
-      <back>
-         <pb n="32_1142_09" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band32/32_1976-10-14_1142-09.jp2/full/pct:100/0/default.jpg"/>
+      <div type="back"><pb n="32_1142_09" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band32/32_1976-10-14_1142-09.jp2/full/pct:100/0/default.jpg"/>
          <div type="attachment" subtype="cabinetAgenda">
             <head>Tagesprogramm, 14.10.1976</head>
          </div>
          <pb n="32_1142_10" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band32/32_1976-10-14_1142-10.jp2/full/pct:100/0/default.jpg"/>
          <div type="attachment" subtype="cabinetAgenda">
-            <head>hs. Notizen (Tagesprogramm R&#252;ckseite)</head>
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
          </div>
-      </back>
-   </text>
+      </div></body>
+      </text>
 </TEI>

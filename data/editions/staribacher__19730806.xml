@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="staribacher__19730806" prev="staribacher__19731208.xml" next="staribacher__19720923.xml">
    <teiHeader>
       <fileDesc>
@@ -46,13 +47,11 @@
    <text xml:base="http://192.168.0.9/staribacher/src/scans/Band17/">
       <body>
          <div type="entry"/>
-      </body>
-      <back>
-         <pb n="17_0879_01" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band17/17_1973-08-06_0879-01.jp2/full/pct:100/0/default.jpg"/>
+      <div type="back"><pb n="17_0879_01" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band17/17_1973-08-06_0879-01.jp2/full/pct:100/0/default.jpg"/>
          <div type="attachment" subtype="cabinetAgenda">
             <head>Tagesprogramm, 6.8.1973</head>
             <gap reason="sampling"/>
          </div>
-      </back>
-   </text>
+      </div></body>
+      </text>
 </TEI>

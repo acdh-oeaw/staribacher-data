@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="staribacher__19740223" prev="staribacher__19730201.xml" next="staribacher__19741128.xml">
    <teiHeader>
       <fileDesc>
@@ -46,13 +47,11 @@
    <text xml:base="http://192.168.0.9/staribacher/src/scans/Band20/">
       <body>
          <div type="entry"/>
-      </body>
-      <back>
-         <pb n="20_0277_01" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band20/20_1974-02-23_0277-01.jp2/full/pct:100/0/default.jpg"/>
+      <div type="back"><pb n="20_0277_01" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band20/20_1974-02-23_0277-01.jp2/full/pct:100/0/default.jpg"/>
          <div type="attachment" subtype="cabinetAgenda">
             <head>Tagesprogramm, 23.2.1974</head>
             <gap reason="sampling"/>
          </div>
-      </back>
-   </text>
+      </div></body>
+      </text>
 </TEI>

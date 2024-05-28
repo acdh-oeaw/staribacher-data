@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="staribacher__19720501" prev="staribacher__19790804.xml" next="staribacher__19790730.xml">
    <teiHeader>
       <fileDesc>
@@ -46,12 +47,10 @@
    <text>
       <body>
          <div type="entry"/>
-      </body>
-      <back>
-         <pb n="10_0542_01" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band10/10_1972-05-01_0542-01.jp2/full/pct:100/0/default.jpg"/>
+      <div type="back"><pb n="10_0542_01" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band10/10_1972-05-01_0542-01.jp2/full/pct:100/0/default.jpg"/>
          <div type="attachment" subtype="cabinetAgenda">
             <head>Tagesprogramm, 1.5.1972</head>
          </div>
-      </back>
-   </text>
+      </div></body>
+      </text>
 </TEI>

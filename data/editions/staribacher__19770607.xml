@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="staribacher__19770607" prev="staribacher__19721023.xml" next="staribacher__19701204.xml">
    <teiHeader>
       <fileDesc>
@@ -46,15 +47,13 @@
    <text>
       <body>
          <div type="entry"/>
-      </body>
-      <back>
-         <pb n="36_0672_01" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band36/36_1977-06-07_0672-01.jp2/full/pct:100/0/default.jpg"/>
+      <div type="back"><pb n="36_0672_01" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band36/36_1977-06-07_0672-01.jp2/full/pct:100/0/default.jpg"/>
          <div type="attachment" subtype="cabinetAgenda">
             <head>Tagesprogramm, 7.6.1977</head>
          </div>
          <pb n="36_0672_02" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band36/36_1977-06-07_0672-02.jp2/full/pct:100/0/default.jpg"/>
          <div type="attachment" subtype="cabinetAgenda">
-            <head>hs. Notizen (Tagesprogramm R&#252;ckseite)</head>
+            <head>hs. Notizen (Tagesprogramm Rückseite)</head>
          </div>
          <pb n="36_0672_03" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band36/36_1977-06-07_0672-03.jp2/full/pct:100/0/default.jpg"/>
          <pb n="36_0672_04" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band36/36_1977-06-07_0672-04.jp2/full/pct:100/0/default.jpg"/>
@@ -65,6 +64,6 @@
             <gap reason="sampling"/>
             <pb n="36_0672_06" facs="https://iiif.acdh-dev.oeaw.ac.at/iiif/images/staribacher/Band36/36_1977-06-07_0672-06.jp2/full/pct:100/0/default.jpg"/>
          </div>
-      </back>
-   </text>
+      </div></body>
+      </text>
 </TEI>
