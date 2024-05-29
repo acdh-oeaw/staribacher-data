@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+              <title type="main">Kontakt</title>
+           </titleStmt>
+           <publicationStmt>
+              <p>Contact Information</p>
+           </publicationStmt>
+           <sourceDesc>
+              <p>Information about contacts</p>
+           </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div class="metatext">
+                <div class="archivecontact">
+                    <p>Für inhaltliche Fragen und Korrekturhinweise wenden Sie sich bitte an:</p>
+                    <p>Kreisky-Archiv<lb/>Rechte Wienzeile 97<lb/>A-1050 Wien</p>
+                    <p><a href="tel:+431545753532">Tel.: +43 1 545 75 35 / 32</a><lb/>
+                    <a href="tel:+431545753538">Fax: +43 1 545 75 35 / 38</a><lb/>
+                    <a href="mailto:archiv@kreisky.org">E-Mail: archiv@kreisky.org</a></p>
+                    <p>Team</p>
+                    <ul class="teammembers">
+                        <li>Remigio Gazzari</li>
+                        <li>Gustav Graf</li>
+                        <li>Maria Mesner</li>
+                        <li>Maria Steiner</li>
+                        <li>Thomas Tretzmüller</li>
+                        <li>Matthias Trinkaus</li>
+                    </ul>
+                </div>
+                <div class="acdhcontact">
+                    <p>Für technische Fragen wenden Sie sich bitte an:</p><p><a href="mailto:acdh-tech@oeaw.ac.at">acdh-tech@oeaw.ac.at</a></p>
+                    <p>Team</p>
+                    <ul class="teammembers">
+                        <li>Barbara Krautgartner</li>
+                        <li>Daniel Schopper</li>
+                        <li>Omar Siam</li>
+                    </ul>
+                </div>
+            </div>
+            <lb/><lb/>
+        </body>
+    </text>
+  </TEI>
