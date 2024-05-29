@@ -4,6 +4,7 @@
 import os
 from acdh_tei_pyutils.tei import TeiReader, ET
 
+BASENAME = "/"
 xml_path = "./data/editions"
 xml_files = [f for f in os.listdir(xml_path) if
              f.startswith("staribacher__") and f.endswith(".xml")]
@@ -16,6 +17,7 @@ for current_file in xml_files:
     tei_ns = xml_current.ns_tei
     xml_current_root = xml_current.tree.getroot()
     xml_current_root.attrib[f'{{{xml_current.ns_xml.get("xml")}}}id'] = os.path.splitext(current_file)[0]
+    xml_current_root.attrib[f'{{{xml_current.ns_xml.get("xml")}}}base'] = BASENAME
     if prev_file:
         xml_current_root.attrib['prev'] = prev_file
         prev_filepath = os.path.join(xml_path, prev_file)
