@@ -1,3 +1,3 @@
 # staribacher-data
 
-XML/TEI encoded diariy entries from Staribacher, taken from [Josef Staribacher – Tagebücher](https://staribacher.acdh.oeaw.ac.at/)
+XML/TEI encoded Josef Staribacher's diary entries, taken from [Josef Staribacher – Tagebücher](https://staribacher.acdh.oeaw.ac.at/)
